@@ -2,6 +2,9 @@
 name: general/prefer-direct-member-access-over-trivial-getters
 rubric: readability
 severity: nit
+type: guide
+title: Prefer direct member access over trivial getters
+summary: Rule advising member functions to access member variables directly rather than calling the class's own trivial accessors unless they add real logic.
 ---
 
 **Rule.** Within a class's member functions, access member variables directly

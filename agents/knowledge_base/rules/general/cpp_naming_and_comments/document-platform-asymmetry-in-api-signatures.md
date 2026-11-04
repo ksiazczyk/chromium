@@ -2,6 +2,9 @@
 name: general/document-platform-asymmetry-in-api-signatures
 rubric: readability
 severity: nit
+type: reference
+title: Document platform asymmetry in API signatures
+summary: Coding rule requiring concrete OS-level constraints and technical rationale in declaration comments for platform-restricted APIs or signatures asymmetric across platforms.
 ---
 
 **Rule.** When declaring platform-restricted APIs (e.g., conditionally defined

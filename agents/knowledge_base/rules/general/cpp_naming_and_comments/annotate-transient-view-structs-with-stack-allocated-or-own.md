@@ -2,6 +2,11 @@
 name: general/annotate-transient-view-structs-with-stack-allocated-or-own
 rubric: readability
 severity: should_fix
+type: reference
+title: Annotate transient view structs with stack-allocated or own
+summary: Rule requiring stack-only view structs and iterators to use STACK_ALLOCATED() and to store owning types when heap allocation or longer-lived storage is needed.
+relations:
+  - references /base/memory/stack_allocated.h
 ---
 
 **Rule.** To restrict a class, struct, iterator, or RAII scope to stack

@@ -2,6 +2,9 @@
 name: general/initialize-variant-in-member-initializer-list
 rubric: readability
 severity: should_fix
+type: reference
+title: Initialize Variants in the Member Initializer List
+summary: Coding rule requiring data members to be initialized in constructor member initializer lists, using std::exchange or an IIFE for moved-from or variant state.
 ---
 
 **Rule.** In constructor definitions (including copy and move constructors),

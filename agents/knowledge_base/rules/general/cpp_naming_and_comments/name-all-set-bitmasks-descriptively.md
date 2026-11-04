@@ -2,6 +2,9 @@
 name: general/name-all-set-bitmasks-descriptively
 rubric: readability
 severity: nit
+type: reference
+title: Name all-set bitmasks descriptively
+summary: Coding rule requiring all-bits-set bitmask constants to carry descriptive names instead of arithmetic names derived from two's complement representations.
 ---
 
 **Rule.** In bitmask, bitset, or flag contexts, name all-bits-set constants

@@ -2,6 +2,9 @@
 name: general/avoid-redundant-concept-return-type-constraints
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant Concept Return-Type Constraints
+summary: Coding rule preferring simple expression requirements in C++ concepts over compound requirements with return-type constraints for fixed library functions.
 ---
 
 **Rule.** When defining a C++ concept or requires expression to check support

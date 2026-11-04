@@ -2,6 +2,9 @@
 name: general/group-related-preprocessor-conditions-in-ladders
 rubric: readability
 severity: nit
+type: reference
+title: Group Related Preprocessor Conditions in Ladders
+summary: 'Coding style rule asking that related conditions in #if/#elif/#else ladders be grouped in adjacent branches so build-mode logic stays easy to scan.'
 ---
 
 **Rule.** In preprocessor conditional chains (`#if` / `#elif` / `#else`), group

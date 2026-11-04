@@ -2,6 +2,9 @@
 name: general/avoid-auto-with-checked-numeric-arithmetic
 rubric: readability
 severity: nit
+type: reference
+title: Avoid auto With Checked Numeric Arithmetic
+summary: Rule advising explicit CheckedNumeric types, compound assignment, or Cast instead of auto to prevent silent type widening in checked arithmetic.
 ---
 
 **Rule.** Do not use `auto` to deduce the type of a `base::CheckedNumeric` from

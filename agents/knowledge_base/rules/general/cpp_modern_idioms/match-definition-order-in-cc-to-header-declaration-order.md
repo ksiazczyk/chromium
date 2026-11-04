@@ -2,6 +2,12 @@
 name: general/match-definition-order-in-cc-to-header-declaration-order
 rubric: readability
 severity: should_fix
+type: reference
+title: Match .cc definition order to header declaration order
+summary: Coding rule with examples requiring function and method definitions in implementation files to follow the same relative order as their declarations in the corresponding header.
+relations:
+  - references /base/metrics/histogram_base.h
+  - references /base/metrics/histogram_base.cc
 ---
 
 **Rule.** In C++ implementation files (.cc, .cpp, .mm), keep function and method

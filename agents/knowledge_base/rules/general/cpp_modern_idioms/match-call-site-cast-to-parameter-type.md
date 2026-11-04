@@ -2,6 +2,9 @@
 name: general/match-call-site-cast-to-parameter-type
 rubric: readability
 severity: should_fix
+type: reference
+title: Match call-site casts to the parameter type
+summary: Coding rule with examples directing developers to cast call-site arguments directly to the callee parameter's declared type rather than to an intermediate alias or typedef.
 ---
 
 **Rule.** When an argument requires an explicit cast at a call site, cast

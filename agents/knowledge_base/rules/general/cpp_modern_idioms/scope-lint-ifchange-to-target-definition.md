@@ -2,6 +2,11 @@
 name: general/scope-lint-ifchange-to-target-definition
 rubric: readability
 severity: should_fix
+type: reference
+title: Scope LINT.IfChange to target definition
+summary: Coding rule requiring LINT.IfChange and LINT.ThenChange synchronization guards, scoped tightly to the synchronized fields or assertions, instead of informal keep-in-sync comments.
+relations:
+  - references /build/android/pylib/local/machine/local_machine_junit_test_run.py
 ---
 
 **Rule.** When values, constants, enums, configurations, or ABI layouts across

@@ -2,6 +2,9 @@
 name: general/assert-associative-container-insertion-success
 rubric: readability
 severity: should_fix
+type: reference
+title: Assert Associative Container Insertion Success
+summary: Rule requiring emplace or insert with an asserted success result instead of try_emplace when duplicate keys would violate invariants.
 ---
 
 **Rule.** When inserting an entry into an associative container (such as

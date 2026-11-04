@@ -2,6 +2,9 @@
 name: general/name-status-or-result-not-error-when-success-possible
 rubric: readability
 severity: optional
+type: reference
+title: Name Status or Result, Not Error, When Success Possible
+summary: Rule against naming identifiers error or error_code when they can carry success states, preferring result, status, or a domain-specific outcome name.
 ---
 
 **Rule.** Do not name a variable, parameter, or field `error` or `error_code` if

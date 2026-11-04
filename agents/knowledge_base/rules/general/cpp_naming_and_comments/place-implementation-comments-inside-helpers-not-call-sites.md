@@ -2,6 +2,9 @@
 name: general/place-implementation-comments-inside-helpers-not-call-sites
 rubric: readability
 severity: nit
+type: reference
+title: Place implementation comments inside helpers, not call sites
+summary: Coding rule that implementation and concurrency rationale belongs inside helper functions, self-contained and decoupled from specific callers, not at call sites.
 ---
 
 **Rule.** Place implementation comments explaining internal mechanics,

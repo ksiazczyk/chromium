@@ -2,6 +2,9 @@
 name: general/comment-out-obsolete-histogram-enumerators
 rubric: readability
 severity: nit
+type: guide
+title: Comment out obsolete histogram enumerators
+summary: Coding rule to comment out unused enumerators persisted to histograms while preserving their numeric assignments, since logs and dashboards depend on stable values.
 ---
 
 **Rule.** When removing obsolete or unused enumerators from enums persisted to

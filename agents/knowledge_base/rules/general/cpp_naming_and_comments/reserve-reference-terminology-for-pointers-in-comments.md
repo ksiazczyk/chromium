@@ -2,6 +2,9 @@
 name: general/reserve-reference-terminology-for-pointers-in-comments
 rubric: readability
 severity: should_fix
+type: reference
+title: Reserve reference terminology for pointers in comments
+summary: Comment rule reserving 'reference' and ownership terminology for pointers and handles, not scalar identifiers like thread or process IDs.
 ---
 
 **Rule.** Do not describe scalar values, primitive types, or numeric identifiers

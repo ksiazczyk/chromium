@@ -2,6 +2,11 @@
 name: general/document-internal-headers-with-usage-warnings
 rubric: readability
 severity: nit
+type: reference
+title: Document internal headers with usage warnings
+summary: Coding rule requiring internal shim and implementation headers to include a top-level warning comment telling callers not to use the header directly and pointing to the intended public API.
+relations:
+  - references /base/base64.h
 ---
 
 **Rule.** In internal shim or implementation headers not intended for general

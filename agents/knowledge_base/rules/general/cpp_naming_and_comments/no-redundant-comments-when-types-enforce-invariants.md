@@ -2,6 +2,9 @@
 name: general/no-redundant-comments-when-types-enforce-invariants
 rubric: readability
 severity: nit
+type: reference
+title: No Redundant Comments When Types Enforce Invariants
+summary: Rule against repeating format, safety, or OS convention comments at call sites when typed wrappers enforce them, directing such documentation to the type declaration.
 ---
 
 **Rule.** Do not add redundant inline comments at call sites explaining data

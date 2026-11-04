@@ -2,6 +2,9 @@
 name: general/bind-reference-via-ternary-to-avoid-branch-duplication
 rubric: readability
 severity: nit
+type: guide
+title: Bind reference via ternary to avoid branch duplication
+summary: Coding rule to bind a reference to the selected target with a ternary and perform the operation once instead of duplicating it across if/else branches.
 ---
 
 **Rule.** When performing an identical operation (such as container insertion,

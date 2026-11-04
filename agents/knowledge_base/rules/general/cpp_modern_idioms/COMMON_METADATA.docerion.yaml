@@ -1,0 +1,8 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA Agentic Review Rule Grouping
+summary: Configuration that groups the cpp_modern_idioms coding rules into capability groups, with path expressions, for agentic review.
+relations:
+  - references /agents/knowledge_base/rules/general/cpp_modern_idioms/delete-empty-files-from-repository.md
+  - references /agents/knowledge_base/rules/general/cpp_modern_idioms/no-finch-in-client-side-identifiers.md
+  - references /agents/knowledge_base/rules/general/cpp_modern_idioms/omit-scratch-and-generator-output-files.md

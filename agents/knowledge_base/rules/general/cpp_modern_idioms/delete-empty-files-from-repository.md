@@ -2,6 +2,9 @@
 name: general/delete-empty-files-from-repository
 rubric: readability
 severity: blocking
+type: reference
+title: Delete Empty Files From Repository
+summary: Blocking-severity rule requiring emptied files to be fully removed from version control along with their build references, with examples.
 ---
 
 **Rule.** When removing all declarations, definitions, or content from a file

@@ -2,6 +2,9 @@
 name: general/document-origin-of-custom-platform-definitions
 rubric: readability
 severity: optional
+type: reference
+title: Document origin of custom platform definitions
+summary: Coding rule requiring comments that cite the origin of custom or internal platform definitions and, where feasible, static_asserts verifying equivalence with public SDK definitions.
 ---
 
 **Rule.** When defining custom, undeclared, or internal platform structures,

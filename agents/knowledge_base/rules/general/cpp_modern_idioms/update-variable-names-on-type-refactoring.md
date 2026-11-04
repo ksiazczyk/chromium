@@ -2,6 +2,9 @@
 name: general/update-variable-names-on-type-refactoring
 rubric: readability
 severity: should_fix
+type: reference
+title: Update variable names on type refactoring
+summary: Coding rule requiring method, parameter, field, and variable names to be updated when a type refactoring changes the underlying abstraction, avoiding stale identifiers like _ptr or _start.
 ---
 
 **Rule.** When refactoring an API, data structure, or function to replace an

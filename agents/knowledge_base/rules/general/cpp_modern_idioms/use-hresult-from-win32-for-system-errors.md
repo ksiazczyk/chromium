@@ -2,6 +2,9 @@
 name: general/use-hresult-from-win32-for-system-errors
 rubric: readability
 severity: should_fix
+type: reference
+title: Use HRESULT_FROM_WIN32 for system errors
+summary: Rule on converting Win32 error codes to HRESULT with HRESULT_FROM_WIN32, while using a documented static_cast only for values already formatted as HRESULTs.
 ---
 
 **Rule.** Use the `HRESULT_FROM_WIN32()` macro rather than a direct cast

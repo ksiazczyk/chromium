@@ -2,6 +2,9 @@
 name: general/place-file-local-types-and-constants-at-top-of-tu
 rubric: readability
 severity: nit
+type: guide
+title: Place File-Local Types and Constants at Top of Translation Unit
+summary: Coding rule on grouping TU-scoped constants and types at the top of the anonymous namespace and colocating single-function helper types with their consuming functions.
 ---
 
 **Rule.** Place translation-unit-scoped constants, type aliases, and shared

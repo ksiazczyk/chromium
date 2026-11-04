@@ -2,6 +2,9 @@
 name: general/avoid-redundant-clamping
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant Clamping
+summary: Rule against repeated clamping or clamping before threshold checks, favoring single-expression bounds and direct relational comparisons.
 ---
 
 **Rule.** Do not perform redundant clamping operations or mutate variables to a

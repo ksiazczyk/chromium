@@ -2,6 +2,13 @@
 name: general/conditionally-include-headers-for-platform-guarded-code
 rubric: readability
 severity: should_fix
+type: guide
+title: Conditionally include headers for platform-guarded code
+summary: Coding rule to include headers under the same BUILDFLAG platform guard as the code that needs them, avoiding unconditional includes.
+relations:
+  - references /base/auto_reset.h
+  - references /base/base_export.h
+  - references /build/build_config.h
 ---
 
 **Rule.** When a header is only required to support platform-guarded

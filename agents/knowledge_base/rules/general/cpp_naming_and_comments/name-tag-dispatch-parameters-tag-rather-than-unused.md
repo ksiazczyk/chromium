@@ -2,6 +2,9 @@
 name: general/name-tag-dispatch-parameters-tag-rather-than-unused
 rubric: readability
 severity: nit
+type: reference
+title: Name Tag Dispatch Parameters Tag Rather Than Unused
+summary: Rule calling for empty tag-dispatch parameters to be named tag or left unnamed instead of unused, reflecting their intentional compile-time dispatch role.
 ---
 
 **Rule.** When defining or declaring functions or constructors that accept empty

@@ -2,6 +2,9 @@
 name: general/prefer-function-style-cast-for-class-types
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer function-style cast for class types
+summary: Coding rule recommending function-style casts or braced initialization over static_cast when converting values to class or view types.
 ---
 
 **Rule.** When explicitly converting an expression or value to a class or view

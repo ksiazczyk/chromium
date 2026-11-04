@@ -2,6 +2,9 @@
 name: general/prefer-span-split-at-over-first-and-subspan
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer span split_at over first and subspan
+summary: Coding rule recommending base::span::split_at with structured bindings over separate first() and subspan() calls when partitioning a span at an offset.
 ---
 
 **Rule.** When partitioning a base::span into two contiguous, non-overlapping

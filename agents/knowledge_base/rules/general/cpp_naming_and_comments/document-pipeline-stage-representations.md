@@ -2,6 +2,9 @@
 name: general/document-pipeline-stage-representations
 rubric: readability
 severity: optional
+type: reference
+title: Document pipeline stage representations
+summary: Coding rule requiring doc comments that explain semantic distinctions, relationships, and data sources of tables, protobuf messages, and structs across processing pipeline stages.
 ---
 
 **Rule.** When declaring schema tables, columns, views, protobuf messages/enums,

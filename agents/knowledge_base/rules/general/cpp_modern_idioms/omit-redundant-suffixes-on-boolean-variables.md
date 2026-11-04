@@ -2,6 +2,9 @@
 name: general/omit-redundant-suffixes-on-boolean-variables
 rubric: readability
 severity: nit
+type: reference
+title: Omit redundant suffixes on boolean variables
+summary: Rule against appending suffixes like _required or _needed to boolean names when the base action or condition name already clearly conveys the intent.
 ---
 
 **Rule.** Do not append redundant suffixes such as '\_required' or '\_needed' to

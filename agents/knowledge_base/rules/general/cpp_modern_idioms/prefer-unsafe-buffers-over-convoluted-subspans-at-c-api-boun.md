@@ -2,6 +2,9 @@
 name: general/prefer-unsafe-buffers-over-convoluted-subspans-at-c-api-boun
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer UNSAFE_BUFFERS over convoluted subspans at C API boundaries
+summary: Coding rule to wrap C-style or OS API buffers with UNSAFE_BUFFERS plus a SAFETY comment rather than computing convoluted subspan offsets and pointer assertions.
 ---
 
 **Rule.** When wrapping C-style or OS API buffers (such as POSIX CMSG_DATA) into

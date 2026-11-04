@@ -2,6 +2,9 @@
 name: general/avoid-magic-numbers-use-named-constants
 rubric: readability
 severity: should_fix
+type: reference
+title: Avoid Magic Numbers, Use Named Constants
+summary: Rule requiring named constexpr constants, documented sentinel slots, and static_assert bounds instead of raw numeric literals and magic offsets.
 ---
 
 **Rule.** Do not use raw numeric literals or compounded magic offsets for buffer

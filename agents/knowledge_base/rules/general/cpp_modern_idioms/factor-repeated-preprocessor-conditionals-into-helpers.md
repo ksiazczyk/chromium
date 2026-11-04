@@ -2,6 +2,9 @@
 name: general/factor-repeated-preprocessor-conditionals-into-helpers
 rubric: readability
 severity: should_fix
+type: reference
+title: Factor Repeated Preprocessor Conditionals into Helpers
+summary: Coding rule advising centralizing platform and buildflag preprocessor guards in accessors or no-op fallbacks instead of scattering them across call sites.
 ---
 
 **Rule.** Do not scatter `#if BUILDFLAG(...)` or `#if defined(ARCH_CPU_...)`

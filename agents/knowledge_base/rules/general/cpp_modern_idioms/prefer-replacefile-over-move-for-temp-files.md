@@ -2,6 +2,9 @@
 name: general/prefer-replacefile-over-move-for-temp-files
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer ReplaceFile over Move for temp files
+summary: Coding rule advising base::ReplaceFile instead of base::Move when replacing a destination file with a temporary file, preserving Windows attributes and permissions.
 ---
 
 **Rule.** When replacing or updating a destination file with a temporary or

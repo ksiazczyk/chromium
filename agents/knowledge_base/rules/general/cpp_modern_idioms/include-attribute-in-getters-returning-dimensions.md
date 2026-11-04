@@ -2,6 +2,9 @@
 name: general/include-attribute-in-getters-returning-dimensions
 rubric: readability
 severity: nit
+type: reference
+title: Include Attribute in Getters Returning Dimensions
+summary: Naming rule requiring getters that return scalar attributes or dimensions such as size, count, or offset to include the attribute in the function name.
 ---
 
 **Rule.** When a function or getter returns a scalar attribute or dimension of

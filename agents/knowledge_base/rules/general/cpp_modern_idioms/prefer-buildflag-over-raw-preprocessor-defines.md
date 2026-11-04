@@ -2,6 +2,9 @@
 name: general/prefer-buildflag-over-raw-preprocessor-defines
 rubric: readability
 severity: should_fix
+type: guide
+title: Prefer BUILDFLAG over raw preprocessor defines
+summary: Rule advising the BUILDFLAG macro and GN buildflag_header targets for conditional compilation so missing or misspelled flags fail at compile time.
 ---
 
 **Rule.** Use the BUILDFLAG(...) macro and GN buildflag_header targets for build

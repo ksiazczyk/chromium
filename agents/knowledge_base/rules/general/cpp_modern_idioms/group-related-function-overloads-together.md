@@ -2,6 +2,9 @@
 name: general/group-related-function-overloads-together
 rubric: readability
 severity: should_fix
+type: reference
+title: Group Related Function Overloads Together
+summary: Coding rule requiring related function overloads to be declared adjacently, with safe or checked variants listed before unchecked or legacy ones.
 ---
 
 **Rule.** When declaring overloaded functions or constructors—such as modern

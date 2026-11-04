@@ -2,6 +2,9 @@
 name: general/synchronize-preprocessor-endif-comments
 rubric: readability
 severity: nit
+type: reference
+title: 'Synchronize preprocessor #endif comments'
+summary: 'Preprocessor rule to annotate #else and #endif with comments matching the exact opening condition and macro prefix, omitting comments on short un-nested blocks.'
 ---
 
 **Rule.** When nesting preprocessor conditionals (`#if`, `#ifdef`, `#ifndef`) or

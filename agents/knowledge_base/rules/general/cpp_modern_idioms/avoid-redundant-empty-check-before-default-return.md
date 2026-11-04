@@ -2,6 +2,9 @@
 name: general/avoid-redundant-empty-check-before-default-return
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant Empty Check Before Default Return
+summary: Coding rule against adding emptiness checks to error guards when the error branch returns a default-constructed value identical to the success path's return.
 ---
 
 **Rule.** Do not add redundant emptiness or default-value checks (such as

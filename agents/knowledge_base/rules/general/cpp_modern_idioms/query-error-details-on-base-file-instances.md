@@ -2,6 +2,9 @@
 name: general/query-error-details-on-base-file-instances
 rubric: readability
 severity: should_fix
+type: reference
+title: Query error details on base::File instances
+summary: Coding rule to read failure reasons via file.error_details() instead of the static GetLastFileError(), whose thread-local OS error state can be clobbered.
 ---
 
 **Rule.** When retrieving or propagating failure reasons from a base::File

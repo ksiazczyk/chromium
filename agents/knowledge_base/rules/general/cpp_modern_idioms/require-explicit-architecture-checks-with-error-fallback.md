@@ -2,6 +2,9 @@
 name: general/require-explicit-architecture-checks-with-error-fallback
 rubric: readability
 severity: should_fix
+type: reference
+title: Require explicit architecture checks with error fallback
+summary: 'Coding rule requiring exhaustive architecture conditional ladders to check each supported CPU explicitly, end with #else #error, and document intentional divergence or stubs.'
 ---
 
 **Rule.** Do not use a bare '#else' fallback as an implicit assumption for a

@@ -2,6 +2,9 @@
 name: general/name-pack-matching-concepts-for-containment-not-multi-arg
 rubric: readability
 severity: should_fix
+type: reference
+title: Name pack matching concepts for containment, not multi-arg
+summary: Coding rule requiring C++ concepts over parameter packs to be named for element containment or matching rather than after standard multi-argument traits.
 ---
 
 **Rule.** When defining C++ concepts or type traits that evaluate a fold

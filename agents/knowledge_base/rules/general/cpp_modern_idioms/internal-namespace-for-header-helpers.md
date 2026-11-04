@@ -2,6 +2,12 @@
 name: general/internal-namespace-for-header-helpers
 rubric: readability
 severity: should_fix
+type: reference
+title: Internal Namespace for Header Helpers
+summary: Coding rule requiring internal header helpers to live in component-qualified internal namespaces to keep the public API clean and avoid symbol collisions.
+relations:
+  - references /base/files/file_util.h
+  - references /base/memory_coordinator/traits.h
 ---
 
 **Rule.** When declaring functions, constants, or helper utilities in header

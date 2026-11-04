@@ -2,6 +2,9 @@
 name: general/const-for-immutable-member-variables
 rubric: readability
 severity: nit
+type: reference
+title: Const for Immutable Member Variables
+summary: Coding rule advising const declaration for class members initialized at construction and never mutated, with examples.
 ---
 
 **Rule.** Declare class data members as const when their values are initialized

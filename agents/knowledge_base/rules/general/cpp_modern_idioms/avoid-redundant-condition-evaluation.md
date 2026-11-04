@@ -2,6 +2,9 @@
 name: general/avoid-redundant-condition-evaluation
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant Condition Evaluation
+summary: Coding rule against re-evaluating a predicate inside a branch where its result is already known, passing the known boolean literal or variable instead.
 ---
 
 **Rule.** Do not redundantly re-evaluate a function, predicate, or feature check

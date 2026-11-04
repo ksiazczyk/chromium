@@ -2,6 +2,9 @@
 name: general/do-not-define-or-undef-reserved-identifiers
 rubric: readability
 severity: should_fix
+type: reference
+title: Do Not Define or Undef Reserved Identifiers
+summary: 'Coding rule forbidding #define or #undef of identifiers reserved to the compiler or OS and recommending inline helpers for platform-specific struct member access.'
 ---
 
 **Rule.** Do not `#define` or `#undef` identifiers containing double underscores

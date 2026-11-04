@@ -2,6 +2,9 @@
 name: general/document-preconditions-for-unsafe-buffer-usage-functions
 rubric: readability
 severity: nit
+type: reference
+title: Document preconditions for UNSAFE_BUFFER_USAGE functions
+summary: Coding rule requiring declaration comments for UNSAFE_BUFFER_USAGE functions that state why the attribute is needed, the memory safety hazards, and caller-guaranteed preconditions.
 ---
 
 **Rule.** When declaring a function or method annotated with

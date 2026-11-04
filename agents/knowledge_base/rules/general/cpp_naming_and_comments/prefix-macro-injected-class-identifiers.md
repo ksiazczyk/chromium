@@ -2,6 +2,9 @@
 name: general/prefix-macro-injected-class-identifiers
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefix macro-injected class identifiers
+summary: Naming rule that identifiers injected into class scope by macros carry a subsystem or macro prefix to avoid collisions with user-defined members.
 ---
 
 **Rule.** When defining preprocessor macros intended to expand inside class or

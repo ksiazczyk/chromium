@@ -2,6 +2,9 @@
 name: general/consistently-suffix-posted-task-methods
 rubric: readability
 severity: nit
+type: reference
+title: Consistently Suffix Posted Task Methods
+summary: Coding rule requiring a consistent Task suffix on all asynchronous task member methods of a class, with examples.
 ---
 
 **Rule.** When a class adopts a naming convention (such as a \*Task suffix) for

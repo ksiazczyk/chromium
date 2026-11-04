@@ -2,6 +2,9 @@
 name: general/avoid-redundant-closure-cancellation
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant Cancellation of Cancelable Closures
+summary: Coding rule advising explicit cancellation of unscheduled cancelable closures during initialization and omitting redundant Cancel or Stop calls in completion callbacks.
 ---
 
 **Rule.** When managing cancelable closures (such as

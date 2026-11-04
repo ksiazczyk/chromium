@@ -2,6 +2,11 @@
 name: general/name-generic-utilities-after-operation-rather-than-caller-ty
 rubric: readability
 severity: nit
+type: reference
+title: Name generic utilities after operation rather than caller type
+summary: Coding rule requiring generic utility functions and headers to be named after the operation or concept they perform rather than a specific caller type.
+relations:
+  - references /base/allocator/partition_allocator/src/partition_alloc/bounds_checks.h
 ---
 
 **Rule.** Do not name general utility functions, types, or header files after a

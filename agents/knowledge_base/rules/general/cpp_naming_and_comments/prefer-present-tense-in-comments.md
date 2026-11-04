@@ -2,6 +2,9 @@
 name: general/prefer-present-tense-in-comments
 rubric: readability
 severity: nit
+type: reference
+title: Prefer present tense in comments
+summary: Style rule that comments and documentation describe contracts in the present tense, avoiding future-tense phrasing such as 'will return'.
 ---
 
 **Rule.** In code comments and documentation, describe behavior, conditions, and

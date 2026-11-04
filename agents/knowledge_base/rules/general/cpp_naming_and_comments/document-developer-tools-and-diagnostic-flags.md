@@ -2,6 +2,11 @@
 name: general/document-developer-tools-and-diagnostic-flags
 rubric: readability
 severity: optional
+type: reference
+title: Document developer tools and diagnostic flags
+summary: Coding rule requiring Markdown documentation for developer-facing tools and diagnostic build flags, covering required GN arguments, sample diagnostic output, and remediation guidance.
+relations:
+  - references /base/debug/debug.gni
 ---
 
 **Rule.** When introducing developer-facing tools, diagnostic build flags, or

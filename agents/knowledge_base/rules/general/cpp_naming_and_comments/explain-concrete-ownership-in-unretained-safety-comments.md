@@ -2,6 +2,9 @@
 name: general/explain-concrete-ownership-in-unretained-safety-comments
 rubric: readability
 severity: nit
+type: guide
+title: Explain concrete ownership in unretained safety comments
+summary: Rule requiring safety comments for base::Unretained or raw pointers to state the concrete ownership or cancellation mechanism rather than a bare assertion.
 ---
 
 **Rule.** When adding comments explaining why `base::Unretained(this)` or an

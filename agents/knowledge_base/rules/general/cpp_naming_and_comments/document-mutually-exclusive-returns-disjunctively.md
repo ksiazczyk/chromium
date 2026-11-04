@@ -2,6 +2,9 @@
 name: general/document-mutually-exclusive-returns-disjunctively
 rubric: readability
 severity: nit
+type: reference
+title: Document mutually exclusive returns disjunctively
+summary: Coding rule that multi-state return values be enumerated disjunctively with 'or' rather than conjunctively with 'and', illustrated with bad and good comment examples.
 ---
 
 **Rule.** When documenting functions or methods that return multi-state or

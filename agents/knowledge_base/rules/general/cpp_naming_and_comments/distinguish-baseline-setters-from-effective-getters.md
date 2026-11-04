@@ -2,6 +2,9 @@
 name: general/distinguish-baseline-setters-from-effective-getters
 rubric: readability
 severity: nit
+type: guide
+title: Distinguish baseline setters from effective getters
+summary: Naming rule against symmetric Get/Set pairs when the setter configures a baseline default while the getter returns an effective value with overrides applied.
 ---
 
 **Rule.** Do not use symmetric getter and setter names (e.g., GetFoo() and

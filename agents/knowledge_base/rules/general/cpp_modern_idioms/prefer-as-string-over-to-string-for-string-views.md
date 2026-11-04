@@ -2,6 +2,9 @@
 name: general/prefer-as-string-over-to-string-for-string-views
 rubric: readability
 severity: should_fix
+type: guide
+title: Prefer AsString Naming Over ToString for String Views
+summary: Coding rule reserving ToString for allocating conversions that return owned strings and using AsStringView for borrowed std::string_view results.
 ---
 
 **Rule.** Do not name methods or functions returning non-allocating

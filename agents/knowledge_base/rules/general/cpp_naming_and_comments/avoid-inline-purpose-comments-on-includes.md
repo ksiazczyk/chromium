@@ -2,6 +2,11 @@
 name: general/avoid-inline-purpose-comments-on-includes
 rubric: readability
 severity: nit
+type: reference
+title: Avoid inline purpose comments on includes
+summary: Rule against annotating include directives with the symbols or sub-headers they provide, keeping includes clean unless tool directives require annotations.
+relations:
+  - references /base/strings/string_util.h
 ---
 
 **Rule.** Do not add inline comments to #include directives explaining which

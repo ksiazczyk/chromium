@@ -2,6 +2,9 @@
 name: general/prefer-reset-over-nullopt-assignment-for-optional
 rubric: readability
 severity: nit
+type: reference
+title: Prefer reset over nullopt assignment for optional
+summary: Coding rule preferring .reset() over assigning std::nullopt or {} to clear or disengage an std::optional's value.
 ---
 
 **Rule.** Prefer calling `.reset()` on an `std::optional` instance to clear or

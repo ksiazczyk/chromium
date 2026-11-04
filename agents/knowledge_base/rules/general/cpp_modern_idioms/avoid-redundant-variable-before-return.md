@@ -2,6 +2,9 @@
 name: general/avoid-redundant-variable-before-return
 rubric: readability
 severity: nit
+type: guide
+title: Avoid redundant variable before return
+summary: Coding rule to inline single-use variables, expressions, and constants directly into returns, calls, and chains instead of declaring intermediates.
 ---
 
 **Rule.** Avoid introducing or retaining redundant single-use local variables,

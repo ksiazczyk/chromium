@@ -2,6 +2,11 @@
 name: general/use-assign-or-return-for-expected-and-optional
 rubric: readability
 severity: should_fix
+type: reference
+title: Use ASSIGN_OR_RETURN for expected and optional
+summary: Coding rule requiring ASSIGN_OR_RETURN and RETURN_IF_ERROR macros for propagating failures from base::expected or std::optional instead of manual has_value checks and error wrapping.
+relations:
+  - references /base/types/expected_macros.h
 ---
 
 **Rule.** Use `ASSIGN_OR_RETURN` and `RETURN_IF_ERROR` from

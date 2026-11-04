@@ -2,6 +2,9 @@
 name: general/declare-inline-methods-constexpr-on-value-classes
 rubric: readability
 severity: should_fix
+type: reference
+title: Declare Inline Methods Constexpr on Value Classes
+summary: Coding rule requiring constexpr on inline member methods and operators of constexpr-capable value and wrapper classes, with examples.
 ---
 
 **Rule.** When adding or updating inline member methods or arithmetic operators

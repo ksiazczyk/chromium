@@ -2,6 +2,9 @@
 name: general/document-positional-ordering-contracts-for-untyped-collectio
 rubric: readability
 severity: nit
+type: reference
+title: Document positional ordering contracts for untyped collections
+summary: Coding rule requiring an explanatory comment on the ordering contract when extracting positionally indexed values from untyped collections tied to a producer or serializer.
 ---
 
 **Rule.** When extracting values by positional index from untyped collections

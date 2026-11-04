@@ -2,6 +2,9 @@
 name: general/use-std-exchange-to-extract-and-reset-containers
 rubric: readability
 severity: nit
+type: guide
+title: Use std::exchange to extract and reset containers
+summary: Coding rule to transfer and reset containers or aggregates with std::exchange or assignment instead of manual element-by-element copy-and-clear loops.
 ---
 
 **Rule.** When transferring and resetting the contents of a container,

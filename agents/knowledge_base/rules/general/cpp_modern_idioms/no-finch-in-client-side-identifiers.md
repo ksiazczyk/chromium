@@ -2,6 +2,11 @@
 name: general/no-finch-in-client-side-identifiers
 rubric: readability
 severity: should_fix
+type: reference
+title: No Finch in client-side identifiers
+summary: Coding rule with examples banning the Google-internal codename Finch in open-source Chromium code and identifiers in favor of public terminology such as FeatureList and field trial.
+relations:
+  - references /testing/variations/fieldtrial_testing_config.json
 ---
 
 **Rule.** Do not use Google-internal codenames such as 'Finch' in open-source

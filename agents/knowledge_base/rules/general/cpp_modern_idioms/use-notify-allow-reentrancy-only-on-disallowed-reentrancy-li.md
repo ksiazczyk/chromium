@@ -2,6 +2,9 @@
 name: general/use-notify-allow-reentrancy-only-on-disallowed-reentrancy-li
 rubric: readability
 severity: should_fix
+type: reference
+title: Use NotifyAllowReentrancy only on disallowed-reentrancy lists
+summary: Rule restricting base::ObserverList::NotifyAllowReentrancy to observer lists configured to disallow reentrancy, with standard Notify() used on lists that already permit it.
 ---
 
 **Rule.** Use `base::ObserverList::NotifyAllowReentrancy` (or

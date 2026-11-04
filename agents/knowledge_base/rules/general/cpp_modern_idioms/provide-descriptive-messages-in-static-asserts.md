@@ -2,6 +2,9 @@
 name: general/provide-descriptive-messages-in-static-asserts
 rubric: readability
 severity: nit
+type: reference
+title: Provide descriptive messages in static asserts
+summary: Coding rule requiring informative error strings in static_assert checks and consistent messages across related macro variants and template overloads.
 ---
 
 **Rule.** When using `static_assert` to validate macro arguments, template

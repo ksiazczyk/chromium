@@ -2,6 +2,9 @@
 name: general/pass-target-com-interface-directly-to-cocreateinstance
 rubric: readability
 severity: nit
+type: guide
+title: Pass the Target COM Interface Directly to CoCreateInstance
+summary: Coding rule advising IID_PPV_ARGS with the target interface pointer instead of creating an intermediate IUnknown and querying the desired interface.
 ---
 
 **Rule.** Pass the target COM interface pointer directly to CoCreateInstance via

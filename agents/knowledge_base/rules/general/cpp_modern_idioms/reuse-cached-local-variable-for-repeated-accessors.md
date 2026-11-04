@@ -2,6 +2,9 @@
 name: general/reuse-cached-local-variable-for-repeated-accessors
 rubric: readability
 severity: should_fix
+type: reference
+title: Reuse cached local variable for repeated accessors
+summary: Coding rule requiring repeated static or singleton accessor calls within a function to be cached in a local variable declared before first use and reused thereafter.
 ---
 
 **Rule.** When accessing singleton, process-wide, or context static getters

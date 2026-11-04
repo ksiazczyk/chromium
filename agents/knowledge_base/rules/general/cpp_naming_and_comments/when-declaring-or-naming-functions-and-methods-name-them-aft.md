@@ -2,6 +2,9 @@
 name: general/when-declaring-or-naming-functions-and-methods-name-them-aft
 rubric: readability
 severity: optional
+type: reference
+title: Name Functions After the Action They Perform
+summary: Rule advising that function and method names describe the concrete operation performed, leaving caller motivation and context to comments or call sites.
 ---
 
 **Rule.** Do not encode a caller's rationale, intent, or desired downstream

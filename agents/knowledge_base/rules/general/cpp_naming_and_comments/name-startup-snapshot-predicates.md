@@ -2,6 +2,9 @@
 name: general/name-startup-snapshot-predicates
 rubric: readability
 severity: nit
+type: reference
+title: Name Startup Snapshot Predicates
+summary: Rule advising past-tense or launch-qualified names for accessors returning cached startup values so callers do not mistake them for live queries of current runtime state.
 ---
 
 **Rule.** Do not use present-tense predicates (such as `is_*()` or `Is*()`) for

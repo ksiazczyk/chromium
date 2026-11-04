@@ -2,6 +2,9 @@
 name: general/when-naming-apis-macros-or-annotations-with-severe-trade-off
 rubric: readability
 severity: should_fix
+type: reference
+title: Use Cautionary Names for APIs With Severe Trade-Offs
+summary: Rule requiring explicit cautionary identifiers such as LEAKED_* or UNSAFE_* for macros and APIs that carry severe risks or disable safety protections.
 ---
 
 **Rule.** When defining macros, APIs, type traits, annotations, or configuration

@@ -2,6 +2,9 @@
 name: general/group-and-order-usage-examples-in-class-comments
 rubric: readability
 severity: should_fix
+type: reference
+title: Group and order usage examples in class comments
+summary: Coding rule for organizing class header usage examples from simple to advanced and grouping related modes together instead of appending them after summary paragraphs.
 ---
 
 **Rule.** In class and interface header comments containing usage examples,

@@ -2,6 +2,9 @@
 name: general/document-transparent-comparator-usage-on-containers
 rubric: readability
 severity: optional
+type: guide
+title: Document transparent comparator usage on containers
+summary: Rule requiring comments that explain std::less<> enables heterogeneous lookup and which view types can be searched without temporary allocations.
 ---
 
 **Rule.** When specifying std::less\<> (or another transparent comparator) on

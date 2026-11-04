@@ -2,6 +2,9 @@
 name: general/document-command-line-switch-terminator-when-forwarding-args
 rubric: readability
 severity: nit
+type: reference
+title: Document command-line switch terminator when forwarding args
+summary: Coding rule requiring an explanatory comment when appending the '--' terminator before forwarding positional arguments, so maintainers keep it and untrusted arguments are not misparsed as switches.
 ---
 
 **Rule.** When inserting or appending the '--' switch terminator (via AppendArg,

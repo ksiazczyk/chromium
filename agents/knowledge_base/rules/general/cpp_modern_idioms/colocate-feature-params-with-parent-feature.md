@@ -2,6 +2,9 @@
 name: general/colocate-feature-params-with-parent-feature
 rubric: readability
 severity: should_fix
+type: guide
+title: Colocate feature params with parent feature
+summary: Coding rule placing BASE_FEATURE_PARAM definitions and declarations immediately beneath their associated BASE_FEATURE macro for discoverability.
 ---
 
 **Rule.** Place BASE_FEATURE_PARAM and BASE_FEATURE_ENUM_PARAM definitions (and

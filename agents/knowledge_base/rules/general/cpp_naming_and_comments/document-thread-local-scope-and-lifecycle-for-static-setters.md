@@ -2,6 +2,9 @@
 name: general/document-thread-local-scope-and-lifecycle-for-static-setters
 rubric: readability
 severity: should_fix
+type: guide
+title: Document thread-local scope and lifecycle for static setters
+summary: Rule requiring header comments that state per-thread scope and lifecycle semantics, such as one-shot or test teardown, for static setters of thread-local state.
 ---
 
 **Rule.** When declaring static methods, configuration setters,

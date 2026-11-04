@@ -2,6 +2,9 @@
 name: general/prefer-checked-cast-over-bytesizedelta-for-bytesize
 rubric: readability
 severity: should_fix
+type: guide
+title: Prefer checked_cast over ByteSizeDelta for ByteSize
+summary: Rule advising base::checked_cast or unsigned unit helpers to build base::ByteSize, and warning against ByteSizeDelta conversions and redundant non-negativity CHECKs.
 ---
 
 **Rule.** Do not use `base::ByteSizeDelta` or signed unit helpers (`KiBS`,

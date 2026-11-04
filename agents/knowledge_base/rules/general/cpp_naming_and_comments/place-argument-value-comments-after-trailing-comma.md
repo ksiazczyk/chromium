@@ -2,6 +2,9 @@
 name: general/place-argument-value-comments-after-trailing-comma
 rubric: readability
 severity: nit
+type: reference
+title: Place argument value comments after the trailing comma
+summary: Coding rule that explanatory comments for function arguments go as trailing line comments after the comma, keeping /*param_name=*/ annotations before the value.
 ---
 
 **Rule.** When annotating the meaning of a function argument (such as

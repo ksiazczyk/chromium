@@ -2,6 +2,9 @@
 name: general/order-macos-shortcut-modifiers
 rubric: readability
 severity: should_fix
+type: guide
+title: Order macOS Shortcut Modifiers per Apple Convention
+summary: Coding rule requiring macOS keyboard shortcut modifiers in UI copy and string resources to follow the Control, Option, Shift, Command ordering.
 ---
 
 **Rule.** When displaying macOS keyboard shortcuts in user-facing UI copy,

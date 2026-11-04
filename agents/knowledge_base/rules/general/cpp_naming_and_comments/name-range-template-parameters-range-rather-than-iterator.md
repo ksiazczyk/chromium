@@ -2,6 +2,9 @@
 name: general/name-range-template-parameters-range-rather-than-iterator
 rubric: readability
 severity: should_fix
+type: reference
+title: Name Range Template Parameters Range Rather Than Iterator
+summary: Rule directing that template parameters for iterable collections be named Range or Container, reserving Iterator for types denoting single-element positions.
 ---
 
 **Rule.** Name template type parameters representing iterable ranges or

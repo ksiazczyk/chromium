@@ -2,6 +2,9 @@
 name: general/distinguish-nul-character-from-null-pointer-in-comments
 rubric: readability
 severity: nit
+type: guide
+title: Distinguish NUL character from null pointer in comments
+summary: Commenting rule to call the C-string terminator NUL and reserve null for null pointers, preventing ambiguity in API and data structure documentation.
 ---
 
 **Rule.** In comments and documentation, refer to the '\\0' character that

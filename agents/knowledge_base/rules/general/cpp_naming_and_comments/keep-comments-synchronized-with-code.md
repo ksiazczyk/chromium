@@ -2,6 +2,9 @@
 name: general/keep-comments-synchronized-with-code
 rubric: readability
 severity: should_fix
+type: reference
+title: Keep comments synchronized with code
+summary: Coding rule requiring comments and documentation to reflect current behavior, avoid revision history and ephemeral milestone claims, and prune obsolete notes.
 ---
 
 **Rule.** Ensure all code, function, class, and test comments and technical

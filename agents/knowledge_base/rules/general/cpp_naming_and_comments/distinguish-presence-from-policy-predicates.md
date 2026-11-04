@@ -2,6 +2,9 @@
 name: general/distinguish-presence-from-policy-predicates
 rubric: readability
 severity: nit
+type: guide
+title: Distinguish presence from policy predicates
+summary: Naming rule to separate presence checks (has_*, is_*) from policy decisions (use_*, should_use_*, can_*) when a predicate combines availability with a flag.
 ---
 
 **Rule.** Name boolean query functions to distinguish resource presence or

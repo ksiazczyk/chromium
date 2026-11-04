@@ -2,6 +2,9 @@
 name: general/name-parameters-by-invariant-not-concrete-instance
 rubric: readability
 severity: should_fix
+type: reference
+title: Name Parameters by Invariant, Not Concrete Instance
+summary: Rule requiring function parameters and locals to be named for the semantic role or invariant enforced rather than after a specific caller's variable or executable instance.
 ---
 
 **Rule.** Do not name function parameters or local variables after a specific

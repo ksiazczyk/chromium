@@ -2,6 +2,13 @@
 name: general/when-separating-public-and-internal-interfaces-reserve-canon
 rubric: readability
 severity: should_fix
+type: guide
+title: Reserve canonical header names for public interfaces
+summary: Coding rule to reserve canonical header names for public APIs and keep internal or subtle helpers in _internal, _impl, or _subtle headers.
+relations:
+  - references /base/allocator/partition_allocator/src/partition_alloc/bounds_checks.h
+  - references /base/feature.h
+  - references /base/feature_internal.h
 ---
 
 **Rule.** When organizing header files, reserve canonical header names

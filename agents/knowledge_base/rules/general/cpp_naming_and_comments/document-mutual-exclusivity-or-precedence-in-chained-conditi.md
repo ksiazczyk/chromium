@@ -2,6 +2,9 @@
 name: general/document-mutual-exclusivity-or-precedence-in-chained-conditi
 rubric: readability
 severity: nit
+type: reference
+title: Document mutual exclusivity or precedence in chained conditions
+summary: Coding rule requiring inline comments on chained conditional branches to state whether runtime conditions are mutually exclusive or to explain the rationale for the branch precedence order.
 ---
 
 **Rule.** When chained conditional branches (such as `if ... else if ...` or

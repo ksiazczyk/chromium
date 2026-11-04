@@ -2,6 +2,9 @@
 name: general/document-deterministic-partitioning-as-clients-not-time
 rubric: readability
 severity: nit
+type: reference
+title: Document deterministic partitioning as clients, not time
+summary: Coding rule requiring comments on hash-based cohort assignment to describe the affected fraction across clients or machines rather than as a percentage of time or executions.
 ---
 
 **Rule.** When documenting deterministic population partitioning or cohort

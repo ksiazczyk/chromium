@@ -2,6 +2,9 @@
 name: general/document-inflated-histogram-bounds
 rubric: readability
 severity: should_fix
+type: reference
+title: Document inflated histogram bounds
+summary: Coding rule requiring histogram upper bounds sized to configuration limits and explanatory comments for intentionally inflated elapsed-time bounds such as headroom for thread descheduling.
 ---
 
 **Rule.** When defining custom timing or count histograms for configured target

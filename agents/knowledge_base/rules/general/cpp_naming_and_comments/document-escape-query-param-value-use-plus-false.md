@@ -2,6 +2,9 @@
 name: general/document-escape-query-param-value-use-plus-false
 rubric: readability
 severity: nit
+type: reference
+title: Document EscapeQueryParamValue use_plus=false
+summary: Coding rule requiring an explanatory comment when calling base::EscapeQueryParamValue with use_plus=false so percent-encoding for external protocols and OS URI schemes is not accidentally reverted.
 ---
 
 **Rule.** When calling base::EscapeQueryParamValue with use_plus set to false

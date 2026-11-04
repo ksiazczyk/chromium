@@ -2,6 +2,12 @@
 name: general/prefer-byte-span-from-ref-over-unsafe-reinterpret-cast
 rubric: readability
 severity: should_fix
+type: guide
+title: Prefer byte_span_from_ref over unsafe reinterpret_cast
+summary: Rule advising base byte-span and string-view helpers like as_byte_span and as_string_view instead of reinterpret_cast, manual size math, and UNSAFE_BUFFERS annotations.
+relations:
+  - references /base/strings/string_view_util.h
+  - references /base/containers/span.h
 ---
 
 **Rule.** When converting a single object or primitive to a byte span, use

@@ -2,6 +2,9 @@
 name: general/renumber-or-document-gaps-in-bitmasks-and-enums
 rubric: readability
 severity: nit
+type: reference
+title: Renumber or document gaps in bitmasks and enums
+summary: Coding rule to renumber remaining values or comment retired ones when removing bitmask or enum members, avoiding unexplained numeric gaps.
 ---
 
 **Rule.** When removing a member from an in-memory bitmask or enum, either

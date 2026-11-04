@@ -2,6 +2,9 @@
 name: general/document-callback-and-virtual-method-contracts
 rubric: readability
 severity: should_fix
+type: reference
+title: Document callback and virtual method contracts
+summary: Coding rule stating that comments for classes, virtual methods, and callbacks must describe the entity's own contract, parameter semantics, and threading constraints rather than coupling to callers or asserting caller actions.
 ---
 
 **Rule.** When documenting classes, interfaces, virtual methods, or callbacks,

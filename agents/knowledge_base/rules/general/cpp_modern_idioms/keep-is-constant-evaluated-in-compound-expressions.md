@@ -2,6 +2,9 @@
 name: general/keep-is-constant-evaluated-in-compound-expressions
 rubric: readability
 severity: nit
+type: reference
+title: Keep std::is_constant_evaluated in compound expressions
+summary: Coding rule with examples advising against replacing std::is_constant_evaluated() with if consteval when the check is combined with other conditions in a compound boolean expression.
 ---
 
 **Rule.** Do not replace std::is_constant_evaluated() with if consteval when the

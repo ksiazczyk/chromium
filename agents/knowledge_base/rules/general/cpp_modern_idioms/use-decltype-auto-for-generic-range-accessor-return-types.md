@@ -2,6 +2,9 @@
 name: general/use-decltype-auto-for-generic-range-accessor-return-types
 rubric: readability
 severity: nit
+type: reference
+title: Use decltype(auto) for generic range accessor return types
+summary: Rule recommending decltype(auto) as the return type in generic forwarding functions and range accessors to preserve value category, reference qualification, and constness without trait boilerplate.
 ---
 
 **Rule.** In generic forwarding functions, wrapper templates, or container and

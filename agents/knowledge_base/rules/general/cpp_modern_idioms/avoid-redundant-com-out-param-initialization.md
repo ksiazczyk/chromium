@@ -2,6 +2,9 @@
 name: general/avoid-redundant-com-out-param-initialization
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant COM Out-Parameter Initialization
+summary: Coding rule against zero-initializing local variables passed as COM or WinRT out parameters, since callees must initialize them and callers check success first.
 ---
 
 **Rule.** Do not redundantly zero-initialize (e.g. `= 0`, `= nullptr`,

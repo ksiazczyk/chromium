@@ -2,6 +2,9 @@
 name: general/document-probabilistic-counts-as-upper-bounds
 rubric: readability
 severity: optional
+type: reference
+title: Document probabilistic counts as upper bounds
+summary: Coding rule requiring counts in probabilistic or hash-based structures such as Bloom filters be documented as upper bounds, with a note that collisions may reduce populated items.
 ---
 
 **Rule.** When documenting parameters, template arguments, or operations in

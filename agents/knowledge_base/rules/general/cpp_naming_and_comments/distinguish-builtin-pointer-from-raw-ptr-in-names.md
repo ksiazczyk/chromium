@@ -2,6 +2,9 @@
 name: general/distinguish-builtin-pointer-from-raw-ptr-in-names
 rubric: readability
 severity: nit
+type: guide
+title: Distinguish builtin pointer from raw_ptr in names
+summary: Naming rule reserving RawPtr for Chromium's base::raw_ptr<T> smart pointer and using BuiltinPtr, CppPtr, or PlainPtr for built-in C++ pointers to avoid ambiguity.
 ---
 
 **Rule.** When naming identifiers, type aliases, template parameters, or test

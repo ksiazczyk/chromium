@@ -2,6 +2,9 @@
 name: general/document-external-api-ordering-and-structural-guarantees
 rubric: readability
 severity: nit
+type: reference
+title: Document external API ordering and structural guarantees
+summary: Coding rule requiring comments that document ordering, layout, and structural guarantees from external OS APIs and ABIs, naming source fields and linking directly to authoritative documentation.
 ---
 
 **Rule.** When code relies on subtle ordering, sequencing, or structural layout

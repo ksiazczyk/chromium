@@ -2,6 +2,9 @@
 name: general/prefix-windows-api-calls-with-global-namespace
 rubric: readability
 severity: nit
+type: reference
+title: Prefix Windows API calls with the global namespace
+summary: 'Style rule requiring Windows/Win32 API calls to be qualified with the global namespace :: so OS calls stand apart from project helpers and shadowed names.'
 ---
 
 **Rule.** When calling Windows/Win32 platform API functions (such as

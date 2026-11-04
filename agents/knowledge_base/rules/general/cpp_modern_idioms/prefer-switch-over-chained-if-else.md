@@ -2,6 +2,9 @@
 name: general/prefer-switch-over-chained-if-else
 rubric: readability
 severity: nit
+type: reference
+title: Prefer switch over chained if-else
+summary: Coding rule preferring switch statements over if/else-if chains when dispatching an integral, enum, or error-code expression against three or more constants.
 ---
 
 **Rule.** When evaluating a single integral, enum, or error-code expression

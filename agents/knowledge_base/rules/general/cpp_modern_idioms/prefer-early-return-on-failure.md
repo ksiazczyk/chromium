@@ -2,6 +2,9 @@
 name: general/prefer-early-return-on-failure
 rubric: readability
 severity: nit
+type: reference
+title: Prefer early return on failure
+summary: Coding rule recommending early returns for guard clauses and error paths, with examples showing flat happy paths and telemetry encapsulated in helper functions.
 ---
 
 **Rule.** Prefer early returns for failure guard clauses, error conditions, and

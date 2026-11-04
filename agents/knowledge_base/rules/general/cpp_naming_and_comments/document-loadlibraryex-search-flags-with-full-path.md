@@ -2,6 +2,9 @@
 name: general/document-loadlibraryex-search-flags-with-full-path
 rubric: readability
 severity: nit
+type: reference
+title: Document LoadLibraryEx search flags with full path
+summary: Coding rule requiring a comment when calling Windows LoadLibraryEx with a fully qualified path and search flags, clarifying that the flags control resolution of the library's dependencies.
 ---
 
 **Rule.** When invoking Windows LoadLibraryEx (or LoadLibraryExW) with an

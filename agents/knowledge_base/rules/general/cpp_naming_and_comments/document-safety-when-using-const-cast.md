@@ -2,6 +2,9 @@
 name: general/document-safety-when-using-const-cast
 rubric: readability
 severity: nit
+type: guide
+title: Document safety when using const_cast
+summary: Rule requiring explanatory or SAFETY comments that justify casting away const or volatile and distinguish pointee qualifiers from pointer qualifiers.
 ---
 
 **Rule.** When `const_cast` is unavoidable (such as when bridging to external C

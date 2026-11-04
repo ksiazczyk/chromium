@@ -2,6 +2,9 @@
 name: general/nest-class-specific-types-and-enums
 rubric: readability
 severity: should_fix
+type: reference
+title: Nest class-specific types and enums
+summary: Coding rule with examples on nesting helper types and enums inside non-templated classes while defining template-independent enums outside class templates.
 ---
 
 **Rule.** Nest helper types, configuration structs, and enums inside the

@@ -2,6 +2,9 @@
 name: general/prefer-empty-braces-over-zero-initializer
 rubric: readability
 severity: nit
+type: reference
+title: Prefer empty braces over zero initializer
+summary: Coding rule advising empty braces '{}' instead of '{0}' when zero-initializing aggregates, std::array, structs, and fixed-size C arrays.
 ---
 
 **Rule.** Prefer empty braces '{}' (e.g. '= {}') rather than '{0}' to

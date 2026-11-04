@@ -2,6 +2,9 @@
 name: general/document-sentinel-return-values-for-filtering-callbacks
 rubric: readability
 severity: nit
+type: guide
+title: Document sentinel return values for filtering callbacks
+summary: Rule requiring explicit documentation of the return value, such as empty string or nullopt, that signals dropping an item in filtering callbacks.
 ---
 
 **Rule.** When declaring or documenting a callback, transform function, or

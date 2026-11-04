@@ -2,6 +2,9 @@
 name: general/prefer-ternary-for-optional-callback-transformation
 rubric: readability
 severity: nit
+type: reference
+title: Prefer ternary for optional callback transformation
+summary: Coding rule advising direct ternary initialization when conditionally applying an optional callback, instead of declaring a fallback value and mutating it in an if block.
 ---
 
 **Rule.** When conditionally transforming or mapping a value using an optional

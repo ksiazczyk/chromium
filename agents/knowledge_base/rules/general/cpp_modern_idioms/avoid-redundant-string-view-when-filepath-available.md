@@ -2,6 +2,9 @@
 name: general/avoid-redundant-string-view-when-filepath-available
 rubric: readability
 severity: nit
+type: guide
+title: Avoid redundant string view when filepath available
+summary: Coding rule against creating intermediate view objects solely to query size, length, or emptiness that the source container or FilePath already provides.
 ---
 
 **Rule.** Do not declare intermediate view objects (such as std::string_view,

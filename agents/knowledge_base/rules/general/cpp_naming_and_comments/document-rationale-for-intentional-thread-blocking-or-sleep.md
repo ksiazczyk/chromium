@@ -2,6 +2,9 @@
 name: general/document-rationale-for-intentional-thread-blocking-or-sleep
 rubric: readability
 severity: should_fix
+type: reference
+title: Document rationale for intentional thread blocking or sleep
+summary: Coding rule requiring comments that explain why synchronous thread blocking or sleeping is necessary and acceptable in emergency or fallback contexts on UI threads or task sequences.
 ---
 
 **Rule.** When introducing synchronous thread sleeping

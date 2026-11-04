@@ -2,6 +2,9 @@
 name: general/name-timer-callbacks-on-timer
 rubric: readability
 severity: should_fix
+type: reference
+title: Name Timer Callbacks On Timer
+summary: Rule naming timer expiration callbacks with On...Timer event-handler conventions and reserving Schedule... prefixes for methods that arm timers or queue work.
 ---
 
 **Rule.** Do not name timer expiration callbacks or timer-triggered handlers

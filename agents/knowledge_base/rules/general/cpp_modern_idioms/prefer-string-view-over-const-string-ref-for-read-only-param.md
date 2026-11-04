@@ -2,6 +2,12 @@
 name: general/prefer-string-view-over-const-string-ref-for-read-only-param
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer string view over const string ref for read-only parameters
+summary: Coding rule advising lightweight non-owning views such as std::string_view or base::span for read-only string and sequence parameters instead of owning containers.
+relations:
+  - references /base/containers/span.h
+  - references /base/files/file_path.h
 ---
 
 **Rule.** Pass read-only string, path-component, and contiguous sequence

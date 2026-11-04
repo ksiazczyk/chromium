@@ -2,6 +2,9 @@
 name: general/omit-static-comments-on-member-function-definitions
 rubric: readability
 severity: optional
+type: reference
+title: Omit Static Comments on Member Function Definitions
+summary: Rule advising against '// static' comments above out-of-line static member definitions since the static specifier in the header already conveys this information.
 ---
 
 **Rule.** Do not add '// static' comments above out-of-line definitions of

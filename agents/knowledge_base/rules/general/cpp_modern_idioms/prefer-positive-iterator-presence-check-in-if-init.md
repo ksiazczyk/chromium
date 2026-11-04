@@ -2,6 +2,9 @@
 name: general/prefer-positive-iterator-presence-check-in-if-init
 rubric: readability
 severity: nit
+type: reference
+title: Prefer positive iterator presence check in if init
+summary: Coding rule advising testing it != container.end() in if init-statements so the branch consuming the iterator directly follows its declaration.
 ---
 
 **Rule.** When initializing an iterator or lookup result in an `if`

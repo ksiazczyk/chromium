@@ -2,6 +2,9 @@
 name: general/explain-why-not-what-in-inline-comments
 rubric: readability
 severity: nit
+type: reference
+title: Explain why, not what, in inline comments
+summary: Coding rule requiring inline comments to explain motivation and rationale rather than restate what the adjacent code does, with bad and good C++ examples.
 ---
 
 **Rule.** Do not write inline comments that merely restate or paraphrase what

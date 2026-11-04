@@ -2,6 +2,9 @@
 name: general/name-feature-flags-after-concrete-behavior
 rubric: readability
 severity: should_fix
+type: reference
+title: Name feature flags after concrete behavior
+summary: Coding rule requiring base::Feature flags and kill switches to be named after the concrete behavior they control rather than generic catch-all names like Fixes.
 ---
 
 **Rule.** Do not use overly generic or catch-all names (such as `...Fixes`,

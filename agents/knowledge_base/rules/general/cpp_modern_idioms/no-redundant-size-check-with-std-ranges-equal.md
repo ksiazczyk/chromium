@@ -2,6 +2,9 @@
 name: general/no-redundant-size-check-with-std-ranges-equal
 rubric: readability
 severity: nit
+type: reference
+title: No redundant size checks with std::ranges::equal
+summary: Rule against manual size or count checks before std::ranges::equal, which automatically verifies that the compared ranges have matching lengths.
 ---
 
 **Rule.** When comparing two ranges, spans, or containers using

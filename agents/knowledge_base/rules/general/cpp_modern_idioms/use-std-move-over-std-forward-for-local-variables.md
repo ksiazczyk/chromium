@@ -2,6 +2,9 @@
 name: general/use-std-move-over-std-forward-for-local-variables
 rubric: readability
 severity: should_fix
+type: guide
+title: Use std::move over std::forward for local variables
+summary: Coding rule to use std::move for local variables and expiring values, reserving std::forward for universal forwarding reference parameters.
 ---
 
 **Rule.** Do not use std::forward on local variables or expiring values when

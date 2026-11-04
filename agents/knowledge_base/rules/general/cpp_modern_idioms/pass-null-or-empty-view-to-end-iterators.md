@@ -2,6 +2,9 @@
 name: general/pass-null-or-empty-view-to-end-iterators
 rubric: readability
 severity: nit
+type: guide
+title: Pass Null or Empty Views to End Iterators
+summary: Coding rule advising that sentinel end iterators hold nullptr or a default-constructed empty view rather than a pointer into the container buffer.
 ---
 
 **Rule.** When constructing a past-the-end sentinel or custom end iterator (such

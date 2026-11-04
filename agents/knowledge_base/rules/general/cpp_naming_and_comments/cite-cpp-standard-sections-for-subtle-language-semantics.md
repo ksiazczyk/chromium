@@ -2,6 +2,9 @@
 name: general/cite-cpp-standard-sections-for-subtle-language-semantics
 rubric: readability
 severity: nit
+type: reference
+title: Cite C++ standard sections for subtle language semantics
+summary: Rule requiring citations of C++ draft sections for subtle semantics and accurate mention of Chromium's -fno-strict-aliasing when discussing strict aliasing.
 ---
 
 **Rule.** When writing comments explaining subtle C++ standard semantics, object

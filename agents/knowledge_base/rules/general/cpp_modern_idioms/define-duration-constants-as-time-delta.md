@@ -2,6 +2,9 @@
 name: general/define-duration-constants-as-time-delta
 rubric: readability
 severity: should_fix
+type: reference
+title: Define Duration Constants as TimeDelta
+summary: Coding rule defining time duration and timeout constants as constexpr base::TimeDelta instead of raw integer constants, with examples.
 ---
 
 **Rule.** Define time duration and timeout constants directly as

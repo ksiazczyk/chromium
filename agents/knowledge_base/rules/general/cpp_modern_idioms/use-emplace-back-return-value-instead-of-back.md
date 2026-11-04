@@ -2,6 +2,9 @@
 name: general/use-emplace-back-return-value-instead-of-back
 rubric: readability
 severity: nit
+type: reference
+title: Use emplace_back return value instead of back()
+summary: Rule advising direct use of the reference returned by emplace_back and similar container methods when configuring new elements, rather than calling back() or front() after insertion.
 ---
 
 **Rule.** Use the reference returned by std::vector::emplace_back() (or

@@ -2,6 +2,9 @@
 name: general/document-and-assert-parameter-preconditions
 rubric: readability
 severity: should_fix
+type: guide
+title: Document and assert parameter preconditions
+summary: Rule to document parameter and lifecycle preconditions in header comments and enforce them with CHECK or DCHECK, while omitting comments for type-enforced invariants.
 ---
 
 **Rule.** When a function, method, constructor, setter, or initialization

@@ -2,6 +2,9 @@
 name: general/avoid-redundant-in-loop-updates
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant In-Loop Updates
+summary: Coding rule advising accumulation of monotonic counters or extreme values once after a loop instead of checking or updating them on every iteration.
 ---
 
 **Rule.** Do not perform redundant per-iteration checks or variable updates

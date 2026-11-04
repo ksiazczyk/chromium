@@ -2,6 +2,9 @@
 name: general/avoid-unnecessary-single-use-member-variables
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid unnecessary single-use member variables
+summary: Coding rule against storing construction-only or single-method objects and parameters as class or test fixture members instead of locals.
 ---
 
 **Rule.** Do not store objects, task runners, helper instances, or configuration

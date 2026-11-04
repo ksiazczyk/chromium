@@ -2,6 +2,9 @@
 name: general/document-deleted-moves-as-strict-nesting-not-raii
 rubric: readability
 severity: nit
+type: reference
+title: Document deleted moves as strict nesting, not RAII
+summary: Coding rule requiring comments on deleted move operations of scoped guards to state that they prevent interleaved scopes and enforce clean LIFO nesting rather than claiming they enforce RAII.
 ---
 
 **Rule.** When documenting why move constructors and move assignment operators

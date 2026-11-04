@@ -2,6 +2,9 @@
 name: general/no-redundant-is-enabled-before-feature-param-get
 rubric: readability
 severity: nit
+type: reference
+title: No redundant IsEnabled check before FeatureParam::Get
+summary: Rule against checking base::FeatureList::IsEnabled before calling base::FeatureParam::Get, which already returns its default value when the feature is disabled.
 ---
 
 **Rule.** Do not redundantly check `base::FeatureList::IsEnabled(kFeature)`

@@ -2,6 +2,9 @@
 name: general/clarify-windows-admin-token-semantics-in-comments
 rubric: readability
 severity: nit
+type: guide
+title: Clarify Windows admin token semantics in comments
+summary: Coding rule requiring comments on Windows admin security checks to state exact token semantics, distinguishing split UAC tokens from non-split accounts like SYSTEM.
 ---
 
 **Rule.** When documenting Windows administrator security checks, token

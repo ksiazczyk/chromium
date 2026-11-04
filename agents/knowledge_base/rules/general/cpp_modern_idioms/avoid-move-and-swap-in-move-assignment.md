@@ -2,6 +2,9 @@
 name: general/avoid-move-and-swap-in-move-assignment
 rubric: readability
 severity: should_fix
+type: reference
+title: Avoid Move-and-Swap in Move Assignment
+summary: Rule advising move assignment operators to reset resources and transfer members directly instead of using temporary move-and-swap idioms.
 ---
 
 **Rule.** When implementing move assignment operators (`operator=(Type&&)`) for

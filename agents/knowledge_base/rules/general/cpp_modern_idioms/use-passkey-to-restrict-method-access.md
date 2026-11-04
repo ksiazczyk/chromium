@@ -2,6 +2,11 @@
 name: general/use-passkey-to-restrict-method-access
 rubric: readability
 severity: should_fix
+type: guide
+title: Use PassKey to restrict method access
+summary: Coding rule requiring a base::PassKey parameter to restrict sensitive methods to authorized callers instead of public access or broad friend declarations.
+relations:
+  - references /base/types/pass_key.h
 ---
 
 **Rule.** When restricting access to sensitive, internal, or test-only methods

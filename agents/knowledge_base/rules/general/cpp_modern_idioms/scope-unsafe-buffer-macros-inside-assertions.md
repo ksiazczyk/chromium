@@ -2,6 +2,9 @@
 name: general/scope-unsafe-buffer-macros-inside-assertions
 rubric: readability
 severity: should_fix
+type: reference
+title: Scope unsafe buffer macros inside assertions
+summary: Coding rule requiring UNSAFE_BUFFERS and UNSAFE_TODO macros to wrap only the minimal unsafe expression, with the address-of operator inside the macro and safe operations left unwrapped.
 ---
 
 **Rule.** Scope `UNSAFE_BUFFERS(...)` and `UNSAFE_TODO(...)` (including
