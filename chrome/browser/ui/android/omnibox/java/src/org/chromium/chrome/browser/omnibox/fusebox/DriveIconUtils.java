@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file type classification and icon utility
+// summary: Utility that classifies Drive files by MIME type or file name extension and maps them to the matching drawable icon resource.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import androidx.annotation.DrawableRes;

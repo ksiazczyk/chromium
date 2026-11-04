@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PdfToolbarCoordinatorUnitTest – tests for the PDF toolbar coordinator
+// summary: Robolectric tests for the PDF toolbar coordinator covering page number editing, toolbar actions, layout widths, and histogram metrics.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import static org.junit.Assert.assertEquals;

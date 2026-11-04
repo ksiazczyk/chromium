@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveConsentKitClientUnitTest
+// summary: Robolectric unit tests for DriveConsentKitClient covering granted and denied consent, invalid payloads, load failures, and single terminal outcome reporting.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox.consent;
 
 import static org.mockito.Mockito.doReturn;

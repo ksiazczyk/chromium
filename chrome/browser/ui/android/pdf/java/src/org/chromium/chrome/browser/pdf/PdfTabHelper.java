@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfTabHelper – tab-scoped PDF stream lifetime manager
+// summary: Binds PDF content stream lifetime to a Tab as UserData and removes streams when the tab is destroyed or navigates to a non-PDF page.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.text.TextUtils;

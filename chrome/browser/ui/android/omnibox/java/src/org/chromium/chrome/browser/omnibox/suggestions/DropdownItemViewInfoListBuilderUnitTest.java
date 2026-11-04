@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DropdownItemViewInfoListBuilderUnitTest
+// summary: Robolectric unit tests verifying how DropdownItemViewInfoListBuilder assembles suggestion lists across groups, headers, and feature flags.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import static org.junit.Assert.assertEquals;

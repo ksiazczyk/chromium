@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PdfTabHelperUnitTest – tests for the tab-scoped PDF stream helper
+// summary: Robolectric tests verifying PdfTabHelper's same-PDF URL matching, including encoded URLs, and cleanup on navigation or tab destruction.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import static org.junit.Assert.assertFalse;

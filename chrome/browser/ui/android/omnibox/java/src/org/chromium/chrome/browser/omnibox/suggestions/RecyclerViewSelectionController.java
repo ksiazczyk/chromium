@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecyclerViewSelectionController
+// summary: Selection manager for RecyclerViews that maps logical indices, including virtual views outside the adapter, to real layout positions.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TailSuggestionViewProperties
+// summary: Defines the writable property keys used to render the tail suggestion view, covering alignment manager, fill-into-edit text and displayed text.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.tail;
 
 import org.chromium.build.annotations.NullMarked;

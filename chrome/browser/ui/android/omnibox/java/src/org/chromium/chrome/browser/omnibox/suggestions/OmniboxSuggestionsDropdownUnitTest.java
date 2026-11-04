@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxSuggestionsDropdown unit tests
+// summary: Robolectric unit tests for the omnibox suggestions dropdown, covering scroll listeners, adapter wiring, and navigation behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import static org.junit.Assert.assertEquals;

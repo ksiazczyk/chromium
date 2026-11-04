@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFilePickerClient
+// summary: Singleton client for launching the Google Drive file picker and returning selected Drive file metadata, designed for downstream override in //clank.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import android.content.Context;

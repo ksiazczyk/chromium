@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Preloading Android UI build targets
+summary: GN build file defining JNI header generation, an Android Java library for AndroidPrenderManager, and a source_set for preloading C++ targets.

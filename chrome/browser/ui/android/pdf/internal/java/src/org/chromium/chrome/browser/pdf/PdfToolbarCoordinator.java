@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfToolbarCoordinator for the toolbar MVC stack
+// summary: Coordinates the PDF toolbar MVC stack, handling zoom levels, menu items, and width thresholds that control toolbar button visibility.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

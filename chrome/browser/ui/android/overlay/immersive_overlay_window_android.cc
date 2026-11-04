@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video overlay window for Android XR
+// summary: Implements a VideoOverlayWindow that displays video in an immersive Android XR activity created through the XrModuleBridge.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/jni_array.h"
 #include "base/android/unguessable_token_android.h"

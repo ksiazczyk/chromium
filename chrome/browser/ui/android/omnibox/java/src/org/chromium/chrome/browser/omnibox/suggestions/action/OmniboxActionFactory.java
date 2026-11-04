@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxActionFactory
+// summary: Factory invoked from native code that builds omnibox action instances such as cross-device tabs, Lens overlay, pedals, and site search.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.action;
 
 import org.jni_zero.CalledByNative;

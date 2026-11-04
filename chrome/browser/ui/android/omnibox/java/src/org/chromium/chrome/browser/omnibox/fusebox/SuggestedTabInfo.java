@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestedTabInfo
+// summary: JNI-backed data class holding the tab ID, title, URL, and last active time needed to render a suggested tab chip in the UI.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import org.jni_zero.CalledByNative;

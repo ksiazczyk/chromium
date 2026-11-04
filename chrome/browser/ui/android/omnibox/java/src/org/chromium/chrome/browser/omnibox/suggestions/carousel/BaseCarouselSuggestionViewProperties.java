@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseCarouselSuggestionViewProperties
+// summary: Defines the property keys for carousel omnibox suggestions, such as background, padding, content description, item decoration, and tile list.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.carousel;
 
 import org.chromium.build.annotations.NullMarked;

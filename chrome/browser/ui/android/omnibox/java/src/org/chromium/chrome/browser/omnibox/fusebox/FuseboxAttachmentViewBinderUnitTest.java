@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuseboxAttachmentViewBinderUnitTest
+// summary: Robolectric unit tests verifying that the Fusebox attachment view binder correctly updates thumbnails, titles and upload state in the view.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static org.junit.Assert.assertEquals;

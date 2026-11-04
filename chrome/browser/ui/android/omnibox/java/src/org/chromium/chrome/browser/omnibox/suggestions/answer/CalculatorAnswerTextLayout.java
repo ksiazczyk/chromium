@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalculatorAnswerTextLayout
+// summary: Builds omnibox-styled calculator answer suggestion text lines for the revamped answer layouts.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.answer;
 
 import android.content.Context;

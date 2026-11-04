@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionsListAnimation interface
+// summary: Interface for a suggestions list animation driver that reacts to omnibox session state changes and exposes its animator.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import org.chromium.build.annotations.NullMarked;

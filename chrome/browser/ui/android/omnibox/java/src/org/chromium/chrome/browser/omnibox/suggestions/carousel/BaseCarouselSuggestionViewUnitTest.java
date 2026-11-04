@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseCarouselSuggestionViewUnitTest
+// summary: Robolectric unit tests for the carousel suggestion view, covering keyboard-driven item selection and item decoration handling.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.carousel;
 
 import static org.junit.Assert.assertEquals;

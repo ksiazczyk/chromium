@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownItemViewInfoListBuilder
+// summary: Builds the DropdownItemViewInfo list from an AutocompleteResult by dispatching suggestions to priority-ordered suggestion processors.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.content.Context;

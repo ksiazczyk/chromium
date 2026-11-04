@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusMediator
+// summary: Mediator implementing omnibox status logic, resolving status icons, security and search engine state, cookie controls, and fusebox plus button behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox.status;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxSuggestionsContainerUnitTest
+// summary: Unit tests for OmniboxSuggestionsContainer covering measurement, alignment updates and embedder interactions.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import static org.junit.Assert.assertEquals;

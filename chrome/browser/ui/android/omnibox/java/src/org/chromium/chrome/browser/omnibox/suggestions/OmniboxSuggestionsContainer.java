@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxSuggestionsContainer
+// summary: FrameLayout that hosts the omnibox suggestions dropdown and handles its measuring, positioning and corner rounding.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.annotation.SuppressLint;

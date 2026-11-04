@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DynamicRectProvider unit tests
+// summary: Unit tests covering delegate switching, observation proxying, redundant call handling, and popup width lookups for DynamicRectProvider.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static org.junit.Assert.assertEquals;

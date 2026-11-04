@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StatusViewRenderTest
+// summary: Render tests that capture and verify the visual appearance of the omnibox StatusView across configurations.
+// ---
+
 package org.chromium.chrome.browser.omnibox.status;
 
 import static org.mockito.Mockito.doReturn;

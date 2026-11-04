@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveConsentJsBridge
+// summary: JavaScript interface bridge injected into the ConsentKit web page as window.ckUi, forwarding flow result events to its delegate on the UI thread.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox.consent;
 
 import android.webkit.JavascriptInterface;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for VoiceRecognitionHandler
+// summary: Robolectric unit tests covering the voice recognition handler's behavior, permissions, and result handling.
+// ---
+
 package org.chromium.chrome.browser.omnibox.voice;
 
 import static org.junit.Assert.assertEquals;

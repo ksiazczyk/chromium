@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PdfPage user flow tests
+// summary: Instrumented tests verifying PDF page loading flows, including incognito, with histogram expectations.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.os.Build.VERSION_CODES;

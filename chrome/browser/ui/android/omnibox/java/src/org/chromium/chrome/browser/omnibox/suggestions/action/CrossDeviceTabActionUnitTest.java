@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrossDeviceTabActionUnitTest
+// summary: Robolectric unit tests verifying CrossDeviceTabAction's constructor fields and that execute opens the recent tabs URL.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.action;
 
 import static org.junit.Assert.assertEquals;

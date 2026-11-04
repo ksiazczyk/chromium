@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SuggestionHorizontalDividerUnitTest
+// summary: Robolectric tests verifying that the horizontal divider decoration clips only suggestion views whose property model enables SHOW_DIVIDER.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import static org.junit.Assert.assertFalse;

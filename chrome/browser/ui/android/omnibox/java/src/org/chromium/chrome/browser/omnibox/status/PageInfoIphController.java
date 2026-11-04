@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageInfoIphController
+// summary: Controller that shows the PageInfo IPH bubble anchored to the omnibox status view after a permission dialog is shown.
+// ---
+
 package org.chromium.chrome.browser.omnibox.status;
 
 import android.graphics.Rect;

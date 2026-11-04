@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-Picture overlay window for Android
+// summary: Implements the standard Picture-in-Picture overlay window, computing video source bounds to select the animated PiP transition.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/jni_array.h"
 #include "base/android/unguessable_token_android.h"

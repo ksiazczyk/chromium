@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseSuggestionViewProcessor
+// summary: Abstract suggestion processor supplying base properties and model for most omnibox suggestions, including match highlighting, favicons, and remove buttons.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import android.content.Context;

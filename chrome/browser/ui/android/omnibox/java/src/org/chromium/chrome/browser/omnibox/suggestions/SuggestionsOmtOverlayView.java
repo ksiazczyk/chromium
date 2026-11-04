@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionsOmtOverlayView
+// summary: Transparent SurfaceView overlay above the suggestions dropdown that intercepts touches off-main-thread when the OMT prefetch feature is enabled on Android 16+.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.content.Context;

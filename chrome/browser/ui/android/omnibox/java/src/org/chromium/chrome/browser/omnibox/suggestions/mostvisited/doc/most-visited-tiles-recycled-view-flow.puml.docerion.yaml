@@ -1,0 +1,4 @@
+# Docerion header of most-visited-tiles-recycled-view-flow.puml.
+type: reference
+title: Most Visited Tiles Recycled View Flow Diagram
+summary: PlantUML sequence diagram showing how Most Visited Tiles views are created, pooled, reused and released through RecyclerView's RecycledViewPool in the omnibox suggestions.

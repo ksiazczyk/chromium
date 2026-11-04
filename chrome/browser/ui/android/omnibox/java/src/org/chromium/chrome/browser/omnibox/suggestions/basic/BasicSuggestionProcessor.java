@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BasicSuggestionProcessor
+// summary: Handles model and view creation for basic omnibox suggestions in Chrome for Android, including icon fallbacks, bookmark state, and URL display styling.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.basic;
 
 import android.text.SpannableStringBuilder;

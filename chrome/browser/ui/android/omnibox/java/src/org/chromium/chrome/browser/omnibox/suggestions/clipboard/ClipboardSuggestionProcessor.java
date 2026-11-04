@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardSuggestionProcessor
+// summary: Android omnibox suggestion processor that builds models and views for clipboard URL, text, and image suggestions in Chrome.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.clipboard;
 
 import android.graphics.Bitmap;

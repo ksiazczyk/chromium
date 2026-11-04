@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveIconUtils unit tests
+// summary: Unit tests verifying icon mapping for Drive files by MIME type, file name extension fallback, and unknown type handling.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static org.junit.Assert.assertEquals;

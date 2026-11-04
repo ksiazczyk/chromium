@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveConsentDialogUnitTest
+// summary: Robolectric unit tests for DriveConsentDialog covering consent completion callbacks, dialog dismissal, and synchronous failure when the hosting activity is finishing.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox.consent;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfSelectionProperties model keys
+// summary: Defines the property keys used to build the property model for the PDF selection menu.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import org.chromium.build.annotations.NullMarked;

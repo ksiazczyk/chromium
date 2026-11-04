@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C2paMetadataUtils
+// summary: Utility class that scans the first 256KB of an image stream for C2PA provenance markers, gated by the Lens bypass compression feature flag.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import android.content.ContentResolver;

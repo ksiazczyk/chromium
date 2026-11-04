@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseSuggestionViewProperties
+// summary: Property key definitions for the base omnibox suggestion view, including action button descriptors and icon or callback properties.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import androidx.annotation.VisibleForTesting;

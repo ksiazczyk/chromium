@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntitySuggestionProcessorUnitTest
+// summary: Robolectric unit tests verifying the behavior of the entity suggestion processor.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.entity;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

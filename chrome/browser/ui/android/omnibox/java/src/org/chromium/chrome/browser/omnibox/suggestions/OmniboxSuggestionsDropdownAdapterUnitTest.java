@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxSuggestionsDropdownAdapterUnitTest
+// summary: Unit tests for the dropdown adapter covering view recycling, deselection and common dropdown properties across suggestion UI types.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import static org.junit.Assert.assertFalse;

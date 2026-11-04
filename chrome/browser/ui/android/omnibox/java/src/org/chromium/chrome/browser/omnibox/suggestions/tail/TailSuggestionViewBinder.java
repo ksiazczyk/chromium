@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TailSuggestionViewBinder
+// summary: Binds tail suggestion property model changes such as text, full text, color scheme and alignment manager to the view.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.tail;
 
 import androidx.annotation.ColorInt;

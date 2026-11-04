@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxActionInSuggestUnitTest
+// summary: Unit tests for OmniboxActionInSuggest covering icon selection for known and unknown action types, construction validation, and execution.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.action;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxSuggestionsVisualState interface
+// summary: Observable interface that lets clients register an observer for changes to the visual state of omnibox suggestions.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import org.chromium.build.annotations.NullMarked;

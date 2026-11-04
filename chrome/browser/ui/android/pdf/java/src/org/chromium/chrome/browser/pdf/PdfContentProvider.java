@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfContentProvider
+// summary: Content provider that serves incognito PDF files by turning file paths into content URIs with a stream registry.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.content.ContentProvider;

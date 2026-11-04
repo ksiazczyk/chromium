@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveConsentDialog
+// summary: Modal dialog hosting the Google Drive ConsentKit flow, owning the WebContents, ThinWebView rendering, and modal dialog while delegating protocol decisions to DriveConsentKitClient.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox.consent;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

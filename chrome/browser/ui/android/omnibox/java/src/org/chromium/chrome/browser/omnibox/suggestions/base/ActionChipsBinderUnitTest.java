@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActionChipsBinder unit tests
+// summary: Robolectric tests verifying that chip lists bind to the view with a visible adapter, null lists hide the view, and form factor controls fading edges.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import static org.junit.Assert.assertEquals;

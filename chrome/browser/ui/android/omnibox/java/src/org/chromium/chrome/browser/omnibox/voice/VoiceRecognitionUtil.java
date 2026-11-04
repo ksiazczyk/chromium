@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice search eligibility utilities
+// summary: Checks whether voice search is enabled based on permissions, enterprise policies, and available speech services.
+// ---
+
 package org.chromium.chrome.browser.omnibox.voice;
 
 import android.Manifest;

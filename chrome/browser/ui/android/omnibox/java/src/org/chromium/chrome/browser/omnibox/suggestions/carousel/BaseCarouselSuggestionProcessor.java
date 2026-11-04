@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseCarouselSuggestionProcessor
+// summary: Abstract base processor for carousel omnibox suggestions that computes the minimum view height from the header decoration plus the carousel item height.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.carousel;
 
 import android.content.Context;

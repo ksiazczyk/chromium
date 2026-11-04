@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PdfUtilsUnitTest – tests for the inline PDF utilities
+// summary: Robolectric tests for PdfUtils covering PDF URL decoding, content and file URI handling, load results, and recorded user actions.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import static org.junit.Assert.assertTrue;

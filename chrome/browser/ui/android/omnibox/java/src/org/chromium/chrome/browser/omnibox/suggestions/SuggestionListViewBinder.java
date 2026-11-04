@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionListViewBinder
+// summary: View binder that applies suggestion list property updates to the omnibox suggestions container and dropdown, handling visibility, margins, colors, and elevation.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

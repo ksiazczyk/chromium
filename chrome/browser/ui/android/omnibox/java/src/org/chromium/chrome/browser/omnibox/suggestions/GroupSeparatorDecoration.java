@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupSeparatorDecoration
+// summary: RecyclerView item decoration that draws separator lines and gaps between groups of omnibox suggestions.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.content.Context;

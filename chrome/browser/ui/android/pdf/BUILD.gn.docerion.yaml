@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Android PDF UI
+summary: Defines GN build targets for the Android PDF browser UI, including Java libraries for the PDF provider, utils, info, page, and coordinator, JNI header generation, and Android resources.

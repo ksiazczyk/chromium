@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most Visited Tiles Processor
+// summary: Suggestion processor that builds the carousel model for most visited site tiles in the omnibox, handling matching, icons, spacing, and metrics.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.mostvisited;
 
 import android.graphics.drawable.Drawable;

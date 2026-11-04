@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuseboxAttachmentDetailsFetcher unit tests
+// summary: Unit tests for attachment detail fetching, covering metadata retrieval, image downscaling, size limits, and histogram reporting.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static com.google.common.truth.Truth.assertThat;

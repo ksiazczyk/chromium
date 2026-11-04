@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuseboxMediator unit tests
+// summary: Robolectric unit tests covering FuseboxMediator behavior, including attachments, popups, and state changes.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static com.google.common.truth.Truth.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionsOmtInputAnchor JNI bridge
+// summary: JNI anchor that binds the OMT suggestions overlay lifecycle to native input receiver registration and transfers touch gestures to the main window on Android 16+.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.os.Build;

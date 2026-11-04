@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfToolbar custom toolbar for the PDF viewer
+// summary: Custom Toolbar view for the PDF viewer that manages zoom, page navigation, edit, and download controls with responsive constraint layout.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action chips model processor
+// summary: Builds the property model list of action chips from omnibox suggestion actions and forwards chip clicks to the suggestion host.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import org.chromium.build.annotations.NullMarked;

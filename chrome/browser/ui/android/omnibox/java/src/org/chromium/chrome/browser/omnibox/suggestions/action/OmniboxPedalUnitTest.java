@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxPedal unit tests
+// summary: Robolectric unit tests verifying OmniboxPedal icon selection, hint validation, and safe casting behavior for omnibox pedal actions.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.action;
 
 import static org.junit.Assert.assertEquals;

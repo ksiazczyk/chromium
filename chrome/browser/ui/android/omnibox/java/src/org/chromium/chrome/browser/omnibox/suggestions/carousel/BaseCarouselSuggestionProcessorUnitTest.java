@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseCarouselSuggestionProcessorUnitTest
+// summary: Robolectric unit tests verifying that BaseCarouselSuggestionProcessor includes item view height and header decorations in the minimum view height.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.carousel;
 
 import static org.junit.Assert.assertEquals;

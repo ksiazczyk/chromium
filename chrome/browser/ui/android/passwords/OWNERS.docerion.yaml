@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Android passwords UI directory
+summary: Delegates review ownership of this directory to the password manager OWNERS file.

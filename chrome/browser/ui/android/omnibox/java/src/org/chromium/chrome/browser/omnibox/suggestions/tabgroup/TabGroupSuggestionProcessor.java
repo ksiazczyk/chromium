@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group omnibox suggestion processor
+// summary: Handles model and view creation for omnibox suggestions backed by saved tab groups in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.tabgroup;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

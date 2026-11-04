@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseSuggestionViewBinder
+// summary: Binds BaseSuggestionView properties to the view, managing shared suggestion visuals such as decorations, backgrounds, theming, and action chips.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

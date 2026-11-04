@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action chips carousel view
+// summary: Horizontal RecyclerView container for omnibox action chips with keyboard-based chip selection and spacing decoration support.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import android.content.Context;

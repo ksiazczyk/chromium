@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PdfContentProvider unit tests
+// summary: Robolectric unit tests for the PDF content provider covering content URI creation, removal and MIME type handling.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import static org.junit.Assert.assertEquals;

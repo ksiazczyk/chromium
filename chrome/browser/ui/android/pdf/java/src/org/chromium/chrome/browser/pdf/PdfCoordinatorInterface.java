@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfCoordinatorInterface
+// summary: Interface defining the PDF coordinator contract in the DFM, covering view access, reload, edits, zoom, print and download.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.net.Uri;

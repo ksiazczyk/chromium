@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteController native bridge
+// summary: Java bridge to the native AutocompleteControllerAndroid that runs autocomplete queries and delivers suggestion results for a profile.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import androidx.annotation.Px;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfEntryPointImpl factory for PDF coordinators
+// summary: Implementation of PdfEntryPoint that creates the PdfCoordinator and collects PdfViewerFragment views from an activity.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import static org.chromium.build.NullUtil.assertNonNull;

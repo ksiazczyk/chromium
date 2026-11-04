@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Most Visited Tiles Processor Unit Test
+// summary: Robolectric tests for the most visited tiles processor covering suggestion matching, favicon loading, and tile model creation.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.mostvisited;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

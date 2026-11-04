@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusIconView
+// summary: Custom linear layout view that displays and sizes the status icon in the location bar and manages its holding space visibility.
+// ---
+
 package org.chromium.chrome.browser.omnibox.status;
 
 import android.content.Context;

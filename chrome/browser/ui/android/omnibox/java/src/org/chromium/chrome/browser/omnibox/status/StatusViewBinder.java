@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusViewBinder
+// summary: Binds changes in the status property model to updates on the StatusView.
+// ---
+
 package org.chromium.chrome.browser.omnibox.status;
 
 import android.view.View;

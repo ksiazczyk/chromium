@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntitySuggestionViewProperties
+// summary: Defines the property keys used to render the entity suggestion view, reusing the basic suggestion keys.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.entity;
 
 import org.chromium.build.annotations.NullMarked;

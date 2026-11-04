@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreWarmingRecycledViewPool
+// summary: RecyclerView recycled view pool that pre-creates omnibox suggestion view holders and records pre-warming performance metrics.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.content.Context;

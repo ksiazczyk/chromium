@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeaderDecoration
+// summary: RecyclerView item decoration that draws ellipsized group headers above omnibox suggestion groups, with incognito styling support.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.content.Context;

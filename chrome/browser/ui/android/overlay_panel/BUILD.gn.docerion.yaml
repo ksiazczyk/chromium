@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Overlay panel BUILD.gn
+summary: GN build file defining an Android Java library target for the overlay panel's PanelState class with AndroidX annotation dependencies.

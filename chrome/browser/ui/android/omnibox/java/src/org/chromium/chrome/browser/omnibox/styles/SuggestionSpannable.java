@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionSpannable
+// summary: SpannableString subclass with a custom equals method that compares text and appearance spans for omnibox suggestion content comparison.
+// ---
+
 package org.chromium.chrome.browser.omnibox.styles;
 
 import android.text.SpannableString;

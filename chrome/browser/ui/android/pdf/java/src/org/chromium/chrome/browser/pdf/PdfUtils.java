@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfUtils – inline PDF support utilities
+// summary: Utilities for inline PDF support defining page type, load result, and toolbar action enums, plus URL decoding, metrics, and native callbacks.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.content.ComponentName;

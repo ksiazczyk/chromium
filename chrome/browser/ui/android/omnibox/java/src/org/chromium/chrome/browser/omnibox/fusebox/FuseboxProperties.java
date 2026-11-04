@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseboxProperties
+// summary: Defines the property model keys and IntDef enums describing the Fusebox bar UI state.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import android.graphics.Bitmap;

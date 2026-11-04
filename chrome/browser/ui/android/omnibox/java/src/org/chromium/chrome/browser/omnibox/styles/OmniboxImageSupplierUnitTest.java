@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxImageSupplierUnitTest
+// summary: Robolectric unit tests for OmniboxImageSupplier covering favicon fetching, fallback icon generation, and image caching behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox.styles;
 
 import static com.google.common.truth.Truth.assertThat;

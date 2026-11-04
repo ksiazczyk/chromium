@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attachment details fetcher from content URIs
+// summary: Async task that loads attachment thumbnail, title, MIME type, and data from a content URI, enforcing size limits and metered network rules.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import android.content.ContentResolver;

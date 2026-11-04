@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox suggestion action button view
+// summary: Custom image view for an omnibox suggestion action button that manages its visibility based on focus, hover and selection state.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import android.content.Context;

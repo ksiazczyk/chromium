@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfDocumentPropertiesFetcher background helper
+// summary: Helper that fetches PDF document properties such as file name, size, and timestamps on a background thread with fallback queries.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.content.ContentResolver;

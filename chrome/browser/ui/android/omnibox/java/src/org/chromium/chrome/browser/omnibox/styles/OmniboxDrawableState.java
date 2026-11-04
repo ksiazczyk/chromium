@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxDrawableState
+// summary: Holds graphical decoration state for omnibox suggestion components, with factories for colors, small and large icons, favicons, and dedicated images.
+// ---
+
 package org.chromium.chrome.browser.omnibox.styles;
 
 import android.content.res.Resources;

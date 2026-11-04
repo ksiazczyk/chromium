@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupButtonData
+// summary: Immutable model with a builder that encapsulates the state of a Fusebox popup button, such as text, icon, type, selection state, and tooltip.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import android.graphics.Bitmap;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnsyncedSuggestionsListAnimation
+// summary: SuggestionsListAnimation implementation that runs a fixed-duration fade and translate animation on the suggestions list when the omnibox is focused.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.animation.Animator;

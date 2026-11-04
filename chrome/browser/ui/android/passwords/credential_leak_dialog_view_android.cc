@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialLeakDialogViewAndroid implementation
+// summary: Implements the Android credential leak dialog view, creating the Java bridge, showing the dialog and forwarding accept, cancel and close events to the controller.
+// ---
+
 #include "chrome/browser/ui/android/passwords/credential_leak_dialog_view_android.h"
 
 #include <optional>

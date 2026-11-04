@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxResourceProviderUnitTest
+// summary: Robolectric unit tests for OmniboxResourceProvider covering branded color schemes, attribute resolution, and resource lookups.
+// ---
+
 package org.chromium.chrome.browser.omnibox.styles;
 
 import static org.junit.Assert.assertEquals;

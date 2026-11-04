@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpacingRecyclerViewItemDecoration
+// summary: RecyclerView ItemDecoration for the omnibox suggestion list that applies lead-in space before the first element and even spacing between elements, with RTL support.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

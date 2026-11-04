@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxSuggestionsDropdownEmbedder
+// summary: Interface providing capabilities to embed the omnibox suggestion list into the UI, including the OmniboxAlignment position and padding data class.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.annotation.SuppressLint;

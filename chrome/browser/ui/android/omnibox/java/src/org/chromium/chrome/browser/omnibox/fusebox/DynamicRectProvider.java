@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dynamic rect provider switching popup delegates
+// summary: RectProvider that switches between floating and bottom sheet delegate providers based on the fusebox popup state and reports rect changes.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import android.content.res.Resources;

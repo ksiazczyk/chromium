@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TailSuggestionView container for omnibox tail suggestions
+// summary: TextView subclass that renders a tail suggestion and applies alignment padding during layout.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.tail;
 
 import android.content.Context;

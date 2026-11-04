@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TailSuggestionProcessor for omnibox tail suggestions
+// summary: Creates and populates the property model for tail suggestions, including alignment manager setup and highlighted tail text.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.tail;
 
 import org.chromium.build.annotations.NullMarked;

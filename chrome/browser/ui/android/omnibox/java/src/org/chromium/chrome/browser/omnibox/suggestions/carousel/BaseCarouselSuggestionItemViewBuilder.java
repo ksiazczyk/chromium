@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseCarouselSuggestionItemViewBuilder
+// summary: Inflates views and builds the RecyclerView adapter for carousel omnibox suggestions, including the tile view type used for individual URL tiles.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.carousel;
 
 import android.content.Context;

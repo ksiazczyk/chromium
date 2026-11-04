@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page info Android build configuration
+summary: GN build file defining the Java Android library target for ChromePageInfoHighlight in the page info UI.

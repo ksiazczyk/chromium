@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxActionFactoryUnitTest
+// summary: Unit tests for OmniboxActionFactory verifying action downcasting and that call actions depend on dialer availability.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.action;
 
 import static org.junit.Assert.assertNotNull;

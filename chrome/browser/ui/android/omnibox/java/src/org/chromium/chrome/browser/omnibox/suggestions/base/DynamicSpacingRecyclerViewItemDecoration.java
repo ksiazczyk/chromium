@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DynamicSpacingRecyclerViewItemDecoration
+// summary: RecyclerView item decoration that dynamically computes carousel item spacing from container size so the last item is partially exposed.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import androidx.annotation.Px;

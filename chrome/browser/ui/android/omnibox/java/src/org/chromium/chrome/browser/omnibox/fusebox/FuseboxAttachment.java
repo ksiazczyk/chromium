@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fusebox attachment data model
+// summary: List item model holding a complete fusebox attachment, including thumbnail, title, MIME type, data, tab reference, and upload state.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static org.chromium.build.NullUtil.assertNonNull;
