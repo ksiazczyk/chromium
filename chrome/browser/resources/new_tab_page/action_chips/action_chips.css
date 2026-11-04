@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Action chips styles
+summary: Styles for the new tab page action chips, defining chip layout, slide and fade animations, icon masks, and small chip variants.
+*/
+
 :host {
   --chip-background-color: var(--color-new-tab-page-action-chip-background);
   --ntp-chips-container-width: 449px;

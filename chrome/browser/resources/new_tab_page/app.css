@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the new tab page app element
+summary: Provides CSS variables and layout rules for the new tab page, including searchbox, modules and One Google Bar styling.
+*/
+
 :host {
   --cr-composebox-input-placeholder-color: var(
     --color-new-tab-page-common-input-placeholder

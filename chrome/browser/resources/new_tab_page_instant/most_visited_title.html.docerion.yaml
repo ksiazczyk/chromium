@@ -1,0 +1,4 @@
+# Docerion header of most_visited_title.html.
+type: source
+title: HTML shell for the most visited titles iframe
+summary: Minimal HTML page that loads the stylesheet and module script for the most visited titles iframe.

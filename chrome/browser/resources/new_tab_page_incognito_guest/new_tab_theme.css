@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: New tab page theme stylesheet
+summary: Applies browser theme values to the new tab page, setting themed background image, colors, link and attribution styles through i18n placeholders.
+*/
+
 html {
   background-attachment: fixed;
   background-color: $i18n{colorBackground};

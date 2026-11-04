@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outlook Calendar proxy singleton
+// summary: Provides a singleton proxy wrapping the Outlook Calendar Mojo page handler for the New Tab Page calendar module.
+// ---
+
 import type {OutlookCalendarPageHandlerRemote} from '../../outlook_calendar.mojom-webui.js';
 import {OutlookCalendarPageHandler} from '../../outlook_calendar.mojom-webui.js';
 

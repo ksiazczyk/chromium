@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for notifications_internals
+summary: Declares the owning team email and the public Buganizer component for this directory.

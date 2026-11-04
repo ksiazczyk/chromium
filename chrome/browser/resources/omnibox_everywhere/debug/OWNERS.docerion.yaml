@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Omnibox Everywhere debug OWNERS
+summary: Delegates ownership of the debug folder to the omnibox_everywhere OWNERS file.

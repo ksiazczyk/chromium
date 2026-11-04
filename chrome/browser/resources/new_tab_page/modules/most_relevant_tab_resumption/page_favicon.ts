@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page favicon custom element
+// summary: Lit element that displays a page favicon for a URL, with host fallback and higher-quality favicons for synced visits.
+// ---
+
 import '//resources/cr_elements/cr_auto_img/cr_auto_img.js';
 
 import {getFaviconForPageURL} from '//resources/js/icon.js';

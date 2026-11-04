@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One Google Bar frame logic for the New Tab Page
+// summary: Implements the untrusted One Google Bar frame, posting loaded, click and overlay update messages to the New Tab Page and tracking overlay visibility, transitions and link targets.
+// ---
+
 import {createOneGoogleBarApi} from './one_google_bar_api.js';
 
 type MessageType = 'overlaysUpdated'|'click'|'loaded';

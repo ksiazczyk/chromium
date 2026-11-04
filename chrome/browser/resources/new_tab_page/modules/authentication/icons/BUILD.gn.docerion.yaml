@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for authentication icon resources
+summary: Generates a .grdp resource file bundling the Microsoft authentication light and dark SVG icons for the New Tab Page.

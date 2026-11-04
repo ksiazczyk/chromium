@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon container HTML template
+// summary: Lit template that renders favicon cells, empty placeholder cells, and an overflow count for the icon container element.
+// ---
+
 import {getFaviconForPageURL} from 'chrome://resources/js/icon.js';
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 

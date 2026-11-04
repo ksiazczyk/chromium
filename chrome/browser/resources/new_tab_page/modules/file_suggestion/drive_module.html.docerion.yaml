@@ -1,0 +1,4 @@
+# Docerion header of drive_module.html.
+type: source
+title: Drive module template
+summary: Lit HTML template for the Drive module, rendering the module header, file suggestion list, see-more link, and info dialog.

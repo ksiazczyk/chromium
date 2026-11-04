@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file listing directory owners
+summary: Lists mahmadi@chromium.org and tiborg@chromium.org as the owners of this directory.

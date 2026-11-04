@@ -1,0 +1,4 @@
+# Docerion header of action_chips.gni.
+type: config
+title: Action chips build file lists
+summary: GN import listing the TypeScript and CSS source files that make up the action chips component for the build.

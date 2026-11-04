@@ -1,0 +1,4 @@
+# Docerion header of debug.html.
+type: source
+title: Omnibox Everywhere Diagnostic page
+summary: HTML entry page that loads the debug app for the Omnibox Everywhere diagnostic WebUI.

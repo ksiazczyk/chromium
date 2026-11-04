@@ -1,0 +1,4 @@
+# Docerion header of most_relevant_tab_resumption.gni.
+type: config
+title: Build file lists for the tab resumption module
+summary: GN import declaring which web component, TypeScript and CSS files belong to the tab resumption module build.

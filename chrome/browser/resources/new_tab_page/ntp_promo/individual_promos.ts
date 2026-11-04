@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Individual promos Lit element
+// summary: Lit element that displays a single New Tab Page promo and reports shown, clicked and dismissed events through the Mojo handler.
+// ---
+
 /**
  * @fileoverview A component for displaying a single NTP Promo.
  */

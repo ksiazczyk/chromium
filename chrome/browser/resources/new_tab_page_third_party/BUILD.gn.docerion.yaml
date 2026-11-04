@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the third-party new tab page
+summary: Defines the WebUI build for the third-party new tab page, listing the HTML and TypeScript sources plus Mojo bindings and resource dependencies.

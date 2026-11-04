@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Microsoft auth module styles
+summary: Styles the Microsoft authentication module's layout, headings, and dark-mode icon on the New Tab Page.
+*/
+
 #contents {
   align-items: center;
   background-color: var(--color-new-tab-page-module-item-background);

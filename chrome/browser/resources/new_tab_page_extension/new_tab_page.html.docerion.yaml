@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page.html.
+type: source
+title: New Tab Page HTML shell
+summary: Minimal HTML page served as the extension's new tab page, with localized title and text direction placeholders and an empty body.

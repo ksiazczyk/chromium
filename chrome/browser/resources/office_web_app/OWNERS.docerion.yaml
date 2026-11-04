@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to file manager owners
+summary: Points review ownership for the office_web_app resources directory to the OWNERS file of ui/file_manager.

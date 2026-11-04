@@ -7,6 +7,12 @@
  * image in order to send that time to the main NTP frame for metrics logging.
  */
 
+// ---docerion
+// type: source
+// title: Background image load time reporting
+// summary: Tracks when the background image finishes loading and posts that time to the main New Tab Page frame for metrics logging.
+// ---
+
 let loadTime: number;
 
 function sendLoadTime(time: number) {

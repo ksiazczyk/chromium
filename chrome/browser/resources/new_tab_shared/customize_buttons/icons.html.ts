@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP icon set definitions
+// summary: Registers the ntp cr-iconset with the pencil-custom and sparkle-custom SVG icons used by the customize buttons.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_iconset.js';
 
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';

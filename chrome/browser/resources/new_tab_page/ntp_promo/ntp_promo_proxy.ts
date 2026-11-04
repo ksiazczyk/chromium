@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP promo Mojo proxy singleton
+// summary: Singleton that creates and exposes the NTP promo Mojo handler remote and client callback router for the WebUI.
+// ---
+
 import type {NtpPromoHandlerInterface} from '../ntp_promo.mojom-webui.js';
 import {NtpPromoClientCallbackRouter, NtpPromoHandlerFactory, NtpPromoHandlerRemote} from '../ntp_promo.mojom-webui.js';
 

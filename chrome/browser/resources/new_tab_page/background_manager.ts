@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manager for new tab page background images
+// summary: Brokers access to background DOM elements, setting background image and color and tracking image load times.
+// ---
+
 import {skColorToRgba} from 'chrome://resources/js/color_utils.js';
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';

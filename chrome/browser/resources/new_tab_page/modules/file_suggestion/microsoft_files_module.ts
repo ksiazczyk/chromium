@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft files module element
+// summary: Lit element implementing the SharePoint/OneDrive module with disable, sign-out, and info actions plus shown-file metrics.
+// ---
+
 import '../info_dialog.js';
 import '../module_header.js';
 import './file_suggestion.js';

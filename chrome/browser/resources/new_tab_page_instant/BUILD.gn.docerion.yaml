@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build rules that bundle the most visited title CSS, HTML and TypeScript into the new_tab_page_instant WebUI target.

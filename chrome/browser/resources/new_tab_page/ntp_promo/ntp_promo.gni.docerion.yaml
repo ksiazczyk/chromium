@@ -1,0 +1,4 @@
+# Docerion header of ntp_promo.gni.
+type: config
+title: GN source lists for the NTP promo module
+summary: GN import file listing the NTP promo TypeScript and CSS files so the build system can include them.

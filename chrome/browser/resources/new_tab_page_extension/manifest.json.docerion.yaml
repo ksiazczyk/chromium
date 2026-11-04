@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: New Tab Page extension manifest
+summary: Manifest for the experimental New Tab Page extension, declaring its version, permissions, host permissions, content security policy, and the HTML page that overrides the browser's new tab.

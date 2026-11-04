@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Left hand side element HTML template
+// summary: Lit HTML template for the left hand side element, rendering a threads rail or an expanded iframe depending on the hybrid feature flag.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {LeftHandSideElement} from './left_hand_side.js';

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to the notifications scheduler owners
+summary: Points to the notifications scheduler OWNERS file so its owners also review this directory.

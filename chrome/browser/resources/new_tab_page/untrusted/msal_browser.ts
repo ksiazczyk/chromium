@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSAL browser module re-exports
+// summary: Re-exports MSAL browser classes and types from the bundled msal-browser.min.js script for use by the authentication code.
+// ---
+
 import '/msal_browser/msal-browser.min.js';
 
 export const AccountInfo = msal.AccountInfo;

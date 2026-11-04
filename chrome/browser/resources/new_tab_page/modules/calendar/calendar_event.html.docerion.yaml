@@ -1,0 +1,4 @@
+# Docerion header of calendar_event.html.
+type: source
+title: Calendar event element template
+summary: Lit HTML template for a single calendar event showing start time, title, time status and expanded details like location, attachments and a join-meeting button.

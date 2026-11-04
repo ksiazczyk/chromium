@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page module registry
+// summary: Holds the NTP module descriptors and initializes enabled, non-disabled modules in their configured order with a per-module timeout.
+// ---
+
 import type {ModuleIdName} from '../new_tab_page.mojom-webui.js';
 import {NewTabPageProxy} from '../new_tab_page_proxy.js';
 

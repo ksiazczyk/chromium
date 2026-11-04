@@ -1,0 +1,4 @@
+# Docerion header of lens_upload_dialog.html.
+type: source
+title: Lens upload dialog HTML template
+summary: HTML template for the Lens upload dialog showing drag-and-drop, URL input, loading, error, and offline states with a close button.

@@ -10,6 +10,12 @@
  * #include=cr-icons-lit cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Calendar event element styles
+summary: Lit CSS for a single calendar event, covering the header, time status, location, attachment list and chips.
+*/
+
 :host([expanded]) #header {
   color: var(--color-new-tab-page-primary-foreground);
   font-weight: 500;

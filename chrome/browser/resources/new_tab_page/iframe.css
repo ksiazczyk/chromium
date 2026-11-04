@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Iframe element styles
+summary: Styles for the new tab page iframe wrapper element, sizing the embedded iframe to inherit its container's dimensions.
+*/
+
 :host(:not([hidden])) {
   display: block;
 }

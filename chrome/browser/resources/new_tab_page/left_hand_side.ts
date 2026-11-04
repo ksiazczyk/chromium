@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Left hand side element
+// summary: Lit element cr-left-hand-side that hosts the expanded left hand side iframe or threads rail and handles postMessage events from it.
+// ---
+
 import 'chrome://resources/cr_components/composebox/threads_rail.js';
 
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';

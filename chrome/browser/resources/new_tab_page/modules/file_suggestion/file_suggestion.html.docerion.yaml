@@ -1,0 +1,4 @@
+# Docerion header of file_suggestion.html.
+type: source
+title: File suggestion template
+summary: Lit HTML template rendering the list of suggested files with icons, titles, descriptions, and an optional see-more link.

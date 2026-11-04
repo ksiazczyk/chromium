@@ -1,0 +1,4 @@
+# Docerion header of info_dialog.html.
+type: source
+title: Info dialog template
+summary: HTML template for the module info dialog with a title, slotted body and close button.

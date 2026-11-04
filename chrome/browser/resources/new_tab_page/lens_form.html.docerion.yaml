@@ -1,0 +1,4 @@
+# Docerion header of lens_form.html.
+type: source
+title: Lens form HTML template
+summary: HTML template for the Lens form with file and URL upload forms plus a hidden iframe that prewarms the Lens server DNS lookup.

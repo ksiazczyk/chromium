@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo proxy for the Microsoft auth document
+// summary: Singleton proxy that wires Microsoft authentication Mojo callback routers and the page handler between the untrusted document and its parent.
+// ---
+
 import {MicrosoftAuthUntrustedDocumentCallbackRouter} from './ntp_microsoft_auth_shared_ui.mojom-webui.js';
 import {MicrosoftAuthUntrustedDocumentInterfacesFactory, MicrosoftAuthUntrustedPageHandlerRemote} from './ntp_microsoft_auth_untrusted_ui.mojom-webui.js';
 

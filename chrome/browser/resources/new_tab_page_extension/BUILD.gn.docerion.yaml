@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the New Tab Page extension
+summary: Builds and packages the New Tab Page component extension resources into grit-generated headers and a pak file.

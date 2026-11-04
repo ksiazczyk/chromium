@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Page favicon element styles
+summary: Lit CSS for the page-favicon element, sizing and centering the favicon with forced-colors adjustments.
+*/
+
 :host {
   align-items: center;
   background-position: center;

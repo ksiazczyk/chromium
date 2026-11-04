@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module wrapper element implementation
+// summary: Implements the ntp-module-wrapper Lit element that hosts module UIs and records impression, usage and info-button metrics.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';
 import {CrLitElement, render} from 'chrome://resources/lit/v3_0/lit.rollup.js';

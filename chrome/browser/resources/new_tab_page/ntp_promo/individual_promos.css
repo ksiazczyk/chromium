@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the individual NTP promos element
+summary: Defines CSS custom properties, layout, icon and hover styling for the individual New Tab Page promo cards.
+*/
+
 :host {
   /* Variable declarations. */
   --ntp-promo-action-icon-foreground: var(--color-sys-on-surface-subtle);

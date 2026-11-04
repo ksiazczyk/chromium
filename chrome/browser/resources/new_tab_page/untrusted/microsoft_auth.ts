@@ -7,6 +7,12 @@
  * Authentication Library for its parent New Tab page document.
  */
 
+// ---docerion
+// type: source
+// title: Microsoft authentication logic using MSAL
+// summary: Handles Microsoft sign-in, silent and popup token acquisition, and sign-out through the MSAL library for the New Tab Page.
+// ---
+
 import {MicrosoftAuthUntrustedDocumentProxy} from './microsoft_auth_proxy.js';
 import type {AuthenticationResult, AuthError, Configuration, PopupRequest} from './msal_browser.js';
 import {PublicClientApplication} from './msal_browser.js';

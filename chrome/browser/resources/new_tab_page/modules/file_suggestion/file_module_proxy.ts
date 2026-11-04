@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File module proxy
+// summary: Provides singleton access to the Drive suggestion Mojo handler used by new tab page file modules to fetch files.
+// ---
+
 import type {DriveSuggestionHandlerRemote} from '../../drive_suggestion.mojom-webui.js';
 import {DriveSuggestionHandler} from '../../drive_suggestion.mojom-webui.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of one_google_bar.html.
+type: source
+title: One Google Bar frame document
+summary: HTML document that renders the injected One Google Bar content and scripts inside an untrusted New Tab Page frame.

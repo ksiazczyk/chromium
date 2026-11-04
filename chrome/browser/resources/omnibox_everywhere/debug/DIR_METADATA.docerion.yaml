@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Omnibox Everywhere debug directory metadata
+summary: Points this debug directory to the shared omnibox COMMON_METADATA mixins.

@@ -11,6 +11,12 @@
  * #include=cr-icons-lit composebox composebox-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Composebox styles for the new tab page
+summary: Lit CSS styles for the new tab page composebox element, defining its layout, spacing, colors, and icon buttons.
+*/
+
 :host {
   --composebox-cancel-button-top: var(--cr-composebox-cancel-button-top, 10px);
   --contextual-entrypoint-and-carousel-context-menu-container-padding-inline-start: 0px;

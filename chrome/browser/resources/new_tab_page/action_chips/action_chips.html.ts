@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Action chips HTML template
+// summary: Lit HTML template rendering action chip buttons with icons, titles, subtitles, dismissal controls, and a disable-suggestion menu.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 import {IconType} from '//resources/mojo/components/omnibox/browser/suggest_template_info.mojom-webui.js';
 

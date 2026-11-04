@@ -1,0 +1,4 @@
+# Docerion header of outlook_calendar_module.html.
+type: source
+title: Outlook Calendar module template
+summary: Lit HTML template for the Outlook Calendar module, rendering the module header, calendar events and info dialog.

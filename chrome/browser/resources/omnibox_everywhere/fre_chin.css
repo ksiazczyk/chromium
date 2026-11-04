@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: First-run experience chin styles
+summary: Styles the fre-chin element that shows keyboard shortcut setup and reminder UI during the first-run experience.
+*/
+
 :host {
   /* Preserves 2px border width parity with omnibox-everywhere-omnibox and
    * composebox. */

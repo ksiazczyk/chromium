@@ -1,0 +1,4 @@
+# Docerion header of calendar.html.
+type: source
+title: Calendar element template
+summary: Lit HTML template for the calendar element that renders event rows, double-booked dividers and a see-more link.

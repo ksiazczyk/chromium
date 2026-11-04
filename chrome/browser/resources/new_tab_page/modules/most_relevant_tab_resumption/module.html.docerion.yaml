@@ -1,0 +1,4 @@
+# Docerion header of module.html.
+type: source
+title: Most relevant tab resumption module template
+summary: Lit HTML template rendering the module header, URL visit list with favicons and device names, and the info dialog.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the Omnibox Everywhere composebox element
+// summary: Lit template rendering the composebox input, file inputs and carousel, dropdown matches, animated glow and error scrim.
+// ---
+
 import {hasAllowedInputs} from '//resources/cr_components/composebox/common.js';
 import {ToolMode} from '//resources/cr_components/composebox/composebox_query.mojom-webui.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';

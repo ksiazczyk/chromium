@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image file processing utilities
+// summary: Downscales and transcodes image files to JPEG with white-filled transparency, and bypasses compression for images carrying C2PA metadata.
+// ---
+
 import {loadTimeData} from './i18n_setup.js';
 import {checkTransparency} from './transparency.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module descriptor
+// summary: Defines the ModuleDescriptor class that initializes NTP modules with a timeout and records load metrics.
+// ---
+
 import {recordDuration, recordLoadDuration} from '../metrics_utils.js';
 import {WindowProxy} from '../window_proxy.js';
 

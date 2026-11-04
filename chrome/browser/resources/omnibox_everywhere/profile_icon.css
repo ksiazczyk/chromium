@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Profile icon component styles
+summary: Lit CSS styles for the profile icon button, enterprise badge and profile card menu in Omnibox Everywhere.
+*/
+
 :host {
   display: inline-block;
   inset-inline-end: 16px;

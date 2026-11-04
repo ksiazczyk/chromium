@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft auth frame connector
+// summary: Provides the parent-side proxy that handles requests from the Microsoft auth iframe child document.
+// ---
+
 import type {MicrosoftAuthUntrustedDocumentRemote} from '../ntp_microsoft_auth_shared_ui.mojom-webui.js';
 
 /**

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab groups icons BUILD.gn
+summary: GN build rule that packages the light and dark tab group SVG icons into a generated resources.grdp for the New Tab Page tab groups module.

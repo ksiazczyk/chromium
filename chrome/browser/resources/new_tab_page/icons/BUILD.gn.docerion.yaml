@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: New tab page icons build file
+summary: GN build rule that packs the new tab page SVG icons into a generated resources.grdp resource bundle.

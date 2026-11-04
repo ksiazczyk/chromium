@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared searchbox styles
+summary: Shared Lit CSS for Omnibox Everywhere bottom controls, voice and Lens buttons, profile icon placement and the screenshot menu.
+*/
+
 #bottomControls {
   align-items: center;
   box-sizing: border-box;

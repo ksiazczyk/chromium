@@ -1,0 +1,4 @@
+# Docerion header of omnibox_everywhere.html.
+type: source
+title: Omnibox Popup WebUI page
+summary: HTML entry page hosting the omnibox-everywhere app, with sizing styles for the native Omnibox Popup widget.

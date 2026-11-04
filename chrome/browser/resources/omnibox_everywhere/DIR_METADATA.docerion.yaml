@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Metadata pointing to shared omnibox mixins
+summary: DIR_METADATA entry that inherits component metadata from the common omnibox metadata file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug app element
+// summary: Lit element implementing the Omnibox Everywhere debug UI, syncing settings and actions through the browser proxy.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {browserProxyFactory, InvocationSource} from '../omnibox_everywhere_debug.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module header element
+// summary: Defines the ntp-module-header element that shows a module title and dispatches action menu events.
+// ---
+
 import './icons.html.js';
 import 'chrome://resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

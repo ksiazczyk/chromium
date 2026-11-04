@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Doodle icon set definitions
+// summary: Defines inline SVG icons for the new tab page logo and doodle share dialog so they render regardless of the host document's base URL.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_iconset.js';
 
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize buttons HTML template
+// summary: Lit HTML template that renders the wallpaper search and customize buttons with icons, localized labels, and click handlers for the new tab page.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {CustomizeButtonsElement} from './customize_buttons.js';

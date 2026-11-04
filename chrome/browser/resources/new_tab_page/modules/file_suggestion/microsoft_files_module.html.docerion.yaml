@@ -1,0 +1,4 @@
+# Docerion header of microsoft_files_module.html.
+type: source
+title: Microsoft files module template
+summary: Lit HTML template for the Microsoft files module, rendering the module header, file suggestions, and info dialog.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug app HTML template
+// summary: Lit HTML template with feature toggles, invocation controls, IPH, shortcut setup and state reset actions.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {OmniboxEverywhereDebugAppElement} from './debug_app.js';

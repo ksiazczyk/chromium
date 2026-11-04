@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for untrusted New Tab Page resources
+summary: Defines the GN build targets that package the untrusted New Tab Page HTML, TypeScript, Mojo and bundled MSAL browser resources.
