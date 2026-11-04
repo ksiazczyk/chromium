@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alert dialog controller for PaymentRequest
+// summary: Implements the PaymentRequest dialog controller using AlertDialogs to show ready-to-pay debug info and incognito warnings for external payment apps.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import android.content.Context;

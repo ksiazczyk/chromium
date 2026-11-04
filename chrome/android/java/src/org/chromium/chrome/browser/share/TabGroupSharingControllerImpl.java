@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sharing controller implementation
+// summary: Implements tab group sharing availability checks and starts sharing a tab as a group through the data sharing tab manager.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import android.app.Activity;

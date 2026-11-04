@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Read later package OWNERS file
+summary: OWNERS file that delegates code ownership of the Android read later package to chrome/browser/reading_list/OWNERS.

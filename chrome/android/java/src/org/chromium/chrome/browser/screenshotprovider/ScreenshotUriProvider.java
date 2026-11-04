@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot URI provider
+// summary: Generates, reuses, and expires content URIs for screenshots of the current tab and grants read permission to target packages.
+// ---
+
 package org.chromium.chrome.browser.screenshotprovider;
 
 import android.content.Intent;

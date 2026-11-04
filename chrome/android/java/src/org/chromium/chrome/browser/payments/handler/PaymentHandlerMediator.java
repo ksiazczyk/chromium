@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler mediator
+// summary: Receives events from the payment handler view and notifies the coordinator, observing bottom sheet, toolbar, activity state and web contents changes.
+// ---
+
 package org.chromium.chrome.browser.payments.handler;
 
 import android.app.Activity;

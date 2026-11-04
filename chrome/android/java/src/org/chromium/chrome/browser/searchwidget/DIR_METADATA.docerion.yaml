@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the search widget folder
+summary: Points the search widget directory to the shared COMMON_METADATA mixin for issue tracker settings.

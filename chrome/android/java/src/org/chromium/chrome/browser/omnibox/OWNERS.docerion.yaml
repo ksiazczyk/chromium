@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Omnibox directory owners
+summary: Delegates code ownership for the omnibox directory to the shared OWNERS file in components/omnibox/browser/android.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowAndroid-based launcher for Android payment apps
+// summary: AndroidIntentLauncher implementation that sends the PAY intent through the window to invoke Android payment apps and reports errors on failure.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import android.content.Intent;

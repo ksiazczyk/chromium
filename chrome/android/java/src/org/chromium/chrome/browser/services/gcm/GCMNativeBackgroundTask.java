@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCMNativeBackgroundTask
+// summary: Scheduled native background task that delivers GCM messages to the GCM Driver, validating message bundles and recording message validity metrics.
+// ---
+
 package org.chromium.chrome.browser.services.gcm;
 
 import android.content.Context;

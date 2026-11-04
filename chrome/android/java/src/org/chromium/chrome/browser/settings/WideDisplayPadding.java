@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wide display padding for settings
+// summary: Applies and updates side padding on settings fragments so content is laid out correctly on wide displays.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

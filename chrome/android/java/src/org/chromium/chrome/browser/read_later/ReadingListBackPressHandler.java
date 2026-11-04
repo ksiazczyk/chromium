@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadingListBackPressHandler
+// summary: Back press handler that intercepts back navigation when the current tab was launched from the reading list and reopens the last used reading list state.
+// ---
+
 package org.chromium.chrome.browser.read_later;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

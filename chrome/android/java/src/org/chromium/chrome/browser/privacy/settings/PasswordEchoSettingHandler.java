@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password echo setting handler
+// summary: Keeps Chrome's password echo preferences in sync with the Android system setting that briefly shows the last typed password character, per profile.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import org.chromium.base.lifetime.Destroyable;

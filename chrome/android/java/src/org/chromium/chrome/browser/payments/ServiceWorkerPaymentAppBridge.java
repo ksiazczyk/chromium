@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker payment app native bridge
+// summary: JNI bridge for checking installed service worker payment apps in a profile and retrieving their information, gated by a feature flag.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import android.graphics.Bitmap;

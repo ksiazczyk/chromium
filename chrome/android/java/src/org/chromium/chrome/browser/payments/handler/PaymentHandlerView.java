@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler bottom sheet view
+// summary: Implements the payment handler UI as bottom sheet content, combining a toolbar area with a ThinWebView that displays the payment app's web contents.
+// ---
+
 package org.chromium.chrome.browser.payments.handler;
 
 import android.content.Context;

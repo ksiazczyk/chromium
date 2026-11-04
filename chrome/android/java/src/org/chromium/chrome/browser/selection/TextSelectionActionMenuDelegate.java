@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextSelectionActionMenuDelegate
+// summary: Selection action menu delegate adding Chrome-specific items such as Reading Mode and Ask Gemini, plus dynamic web search titles.
+// ---
+
 package org.chromium.chrome.browser.selection;
 
 import android.content.Context;

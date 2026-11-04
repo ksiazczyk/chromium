@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler selection action mode callback
+// summary: Handles the text selection action mode for the payment handler web contents, delegating to an ActionModeCallbackHelper with no allowed menu items by default.
+// ---
+
 package org.chromium.chrome.browser.payments.handler;
 
 import android.graphics.Rect;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal opt-out settings fragment
+// summary: Settings fragment that manages the Universal Opt Out preference switch, records toggle user actions, and links to a learn-more support page.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import android.content.Context;

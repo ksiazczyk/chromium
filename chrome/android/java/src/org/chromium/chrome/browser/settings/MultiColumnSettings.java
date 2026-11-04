@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-column settings container
+// summary: Preference container implementing the multi-column, two-pane settings layout for SettingsActivity with sliding pane state tracking.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.chromium.build.NullUtil.assertNonNull;

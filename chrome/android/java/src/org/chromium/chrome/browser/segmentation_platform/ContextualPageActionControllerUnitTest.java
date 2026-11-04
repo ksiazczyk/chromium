@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual page action controller unit tests
+// summary: Robolectric unit tests for ContextualPageActionController verifying action provider registration and toolbar button signal behavior.
+// ---
+
 package org.chromium.chrome.browser.segmentation_platform;
 
 import static org.junit.Assert.assertNotNull;

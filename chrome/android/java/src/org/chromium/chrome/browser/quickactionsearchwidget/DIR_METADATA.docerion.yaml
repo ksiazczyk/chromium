@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for quickactionsearchwidget
+summary: Points DIR_METADATA at the shared COMMON_METADATA mixin so the directory inherits its component, team, and OS settings.

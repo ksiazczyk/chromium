@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestCoordinatorBridge
+// summary: Java bridge to the C++ offline pages request coordinator for querying, adding, and removing queued save-page requests.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import androidx.annotation.VisibleForTesting;

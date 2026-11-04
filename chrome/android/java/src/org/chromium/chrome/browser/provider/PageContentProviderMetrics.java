@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageContentProviderMetrics
+// summary: Records histograms and UKM events for the Android page content provider, covering request outcomes, formats, request types, and consumer variants.
+// ---
+
 package org.chromium.chrome.browser.provider;
 
 import androidx.annotation.IntDef;

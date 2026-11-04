@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot content provider entry point
+// summary: Thin SplitCompatContentProvider subclass that delegates to ScreenshotContentProviderImpl in the Chrome split.
+// ---
+
 package org.chromium.chrome.browser.screenshotprovider;
 
 import org.chromium.build.annotations.IdentifierNameString;

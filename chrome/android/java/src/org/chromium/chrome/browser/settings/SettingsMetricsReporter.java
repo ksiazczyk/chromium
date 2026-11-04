@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings metrics reporter
+// summary: Fragment lifecycle callbacks that record sparse histograms when settings fragments attach and log class name hashes for metrics enums.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.content.Context;

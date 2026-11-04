@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickActionSearchWidgetProvider Android widget provider
+// summary: Implements the abstract AppWidgetProvider for Chrome's quick action search widget, building resizable remote views and handling actions such as starting Lens.
+// ---
+
 package org.chromium.chrome.browser.quickactionsearchwidget;
 
 import android.appwidget.AppWidgetManager;

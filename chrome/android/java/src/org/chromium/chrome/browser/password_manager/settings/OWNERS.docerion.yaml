@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the password manager settings directory
+summary: Lists friedrichh@chromium.org as the code owner responsible for reviews in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavePageRequest
+// summary: Data class representing a deferred request to save a page, carrying request state, URL, client ID, origin, and notification state.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import org.jni_zero.CalledByNative;

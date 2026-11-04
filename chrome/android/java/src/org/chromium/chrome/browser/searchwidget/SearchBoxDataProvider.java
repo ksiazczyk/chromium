@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBoxDataProvider for the search activity omnibox
+// summary: LocationBarDataProvider implementation supplying colors, incognito state and the search engine URL to the search activity omnibox.
+// ---
+
 package org.chromium.chrome.browser.searchwidget;
 
 import android.content.Context;

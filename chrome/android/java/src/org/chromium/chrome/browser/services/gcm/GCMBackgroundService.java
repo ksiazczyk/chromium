@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCMBackgroundService
+// summary: Split-compatible intent service stub that delegates to GCMBackgroundServiceImpl for background dispatch of GCM messages.
+// ---
+
 package org.chromium.chrome.browser.services.gcm;
 
 import org.chromium.build.annotations.IdentifierNameString;

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for password manager settings
+summary: Defines the shared bug tracking metadata for the directory, routing issues to the UI>Browser>Passwords monorail component and Buganizer component 1457410.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestrictionSupplier
+// summary: Java supplier that asynchronously checks Android app restrictions during fullscreen signin flows and notifies registered callbacks when complete.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import android.content.Context;

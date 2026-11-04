@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteSettingsHelper
+// summary: Static helpers that check when site settings are available and open single-category site settings pages.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import android.content.Context;

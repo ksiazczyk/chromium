@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskExtrasPacker
+// summary: Packs and unpacks offline page background task information, such as the scheduled time and trigger conditions, into and out of an Android PersistableBundle.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import android.os.PersistableBundle;

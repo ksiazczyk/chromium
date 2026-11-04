@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageTabData
+// summary: Per-tab user data that caches whether a tab is showing an offline page, avoiding native calls and sampling validity via histograms.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import org.chromium.base.UserData;

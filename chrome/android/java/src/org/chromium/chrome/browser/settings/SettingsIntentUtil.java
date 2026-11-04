@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility for settings launch intents
+// summary: Utility for creating and inspecting intents that launch the settings activity, carrying fragment name, arguments, back stack, and standalone extras.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.app.Activity;

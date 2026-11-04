@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Paint preview directory metadata
+summary: Points this directory to the shared paint preview common metadata through a mixin entry.

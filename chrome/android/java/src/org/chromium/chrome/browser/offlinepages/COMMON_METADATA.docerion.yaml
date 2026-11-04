@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA – shared offline pages directory metadata
+summary: Defines shared Chromium directory metadata with the monorail component, team email and public Buganizer component for the offline pages folder.

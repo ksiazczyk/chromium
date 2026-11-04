@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for privacy settings
+summary: Points the directory to the shared COMMON_METADATA mixin so it inherits the bug tracking component configuration.

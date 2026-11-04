@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Ownership file that redirects reviewers to the shared OWNERS list of components/page_info/android.

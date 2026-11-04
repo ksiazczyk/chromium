@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TriggerConditions
+// summary: Value class describing the power, battery, and network conditions required to trigger background processing of offline page requests.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import org.chromium.build.annotations.NullMarked;

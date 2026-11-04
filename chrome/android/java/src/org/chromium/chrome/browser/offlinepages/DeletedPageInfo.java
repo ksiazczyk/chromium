@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeletedPageInfo – details of a deleted offline page
+// summary: Simple value object holding the offline id, client id and request origin of a deleted offline page.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import org.chromium.build.annotations.NullMarked;

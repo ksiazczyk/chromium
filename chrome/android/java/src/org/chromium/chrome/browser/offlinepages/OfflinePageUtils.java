@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageUtils
+// summary: Static utility class for offline pages covering connectivity checks, sharing, publishing, snackbar display, and tab model tracking.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import android.app.Activity;

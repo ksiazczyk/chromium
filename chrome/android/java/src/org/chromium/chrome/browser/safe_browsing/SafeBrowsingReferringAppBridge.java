@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Safe Browsing referring app bridge
+// summary: Bridge between Java and native Safe Browsing code that provides referring app information for a window.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

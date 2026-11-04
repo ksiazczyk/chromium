@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler content frame layout
+// summary: FrameLayout for the payment handler content area that intercepts touch events based on an InputProtector to guard against unintended input.
+// ---
+
 package org.chromium.chrome.browser.payments.handler;
 
 import android.content.Context;

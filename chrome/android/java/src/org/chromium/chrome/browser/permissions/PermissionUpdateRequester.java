@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionUpdateRequester
+// summary: Triggers the Android runtime permission prompt for missing app-level permissions after the user asks to fix them from the permission update UI.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import android.app.Activity;

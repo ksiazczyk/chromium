@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status indicator scene layer
+// summary: Composited scene overlay layer that renders the status indicator below the status bar and communicates with its native counterpart via JNI.
+// ---
+
 package org.chromium.chrome.browser.status_indicator;
 
 import android.graphics.RectF;

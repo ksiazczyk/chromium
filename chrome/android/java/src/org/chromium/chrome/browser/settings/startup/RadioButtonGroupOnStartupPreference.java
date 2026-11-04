@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadioButtonGroupOnStartupPreference
+// summary: Custom radio button group preference for choosing the session startup behavior and managing the list of startup pages with edit and remove actions.
+// ---
+
 package org.chromium.chrome.browser.settings.startup;
 
 import android.content.Context;

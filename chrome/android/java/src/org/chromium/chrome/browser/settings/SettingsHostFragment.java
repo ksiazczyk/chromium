@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fragment hosting settings pages in a native page
+// summary: Fragment that hosts settings preference fragments inside a native page, handling theming, containment, search state, and fragment finishing actions.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

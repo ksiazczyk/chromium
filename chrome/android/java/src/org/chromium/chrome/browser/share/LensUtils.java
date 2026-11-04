@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Lens intent utilities
+// summary: Checks the AGSA app version and package validity to decide when Google Lens can be invoked from Chrome.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import android.content.Context;

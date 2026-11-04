@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeGcmListenerServiceImpl
+// summary: Implements the GCM listener for Chrome on Android, receiving downstream messages and upstream send status and dispatching them to the GCM Driver or background services.
+// ---
+
 package org.chromium.chrome.browser.services.gcm;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenSigninAndHistorySyncActivityBase
+// summary: Abstract base activity shared by the first run experience and fullscreen signin and history sync promos.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import android.graphics.Color;

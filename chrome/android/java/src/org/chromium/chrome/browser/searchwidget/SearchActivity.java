@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchActivity for widget-initiated searches
+// summary: Android activity that hosts the omnibox location bar for searches launched from the home screen search widget and other entry points.
+// ---
+
 package org.chromium.chrome.browser.searchwidget;
 
 import static org.chromium.build.NullUtil.assertNonNull;

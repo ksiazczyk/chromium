@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for payment editor controllers
+// summary: Abstract base class for editor controllers that show edit prompts for editable autofill options and manage the editor model and change processor.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import android.content.Context;

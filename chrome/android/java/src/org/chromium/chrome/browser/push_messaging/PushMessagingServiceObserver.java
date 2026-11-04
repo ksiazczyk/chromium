@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushMessagingServiceObserver
+// summary: Java class that observes events and changes in the PushMessagingService, notifying a listener on the UI thread when a push message is handled, primarily for test purposes.
+// ---
+
 package org.chromium.chrome.browser.push_messaging;
 
 import org.jni_zero.CalledByNative;

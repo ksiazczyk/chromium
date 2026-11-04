@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildAccountStatusSupplier
+// summary: Supplies the child account status for fullscreen signin flows by combining app restrictions with account manager parental control checks.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import android.os.SystemClock;

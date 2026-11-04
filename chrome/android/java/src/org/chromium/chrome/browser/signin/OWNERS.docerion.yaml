@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Chromium owners file delegating review ownership of this directory to the Android signin owners.

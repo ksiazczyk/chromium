@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the status indicator directory
+summary: Lists the primary and secondary owners responsible for reviewing changes to the status indicator code.

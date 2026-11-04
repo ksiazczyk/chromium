@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageContentProvider entry point delegating to its implementation
+// summary: Thin SplitCompatContentProvider subclass that loads PageContentProviderImpl by class name to serve page content requests.
+// ---
+
 package org.chromium.chrome.browser.provider;
 
 import org.chromium.build.annotations.IdentifierNameString;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize-aware EditText for Settings Search
+// summary: Custom EditText that keeps its horizontal scroll offset in sync with width changes to fix clipped RTL text during resize transitions.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import android.content.Context;

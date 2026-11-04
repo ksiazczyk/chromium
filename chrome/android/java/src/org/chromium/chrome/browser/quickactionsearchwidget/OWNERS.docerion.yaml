@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for quickactionsearchwidget
+summary: Delegates code ownership for the directory to the owners listed in the omnibox browser Android OWNERS file.

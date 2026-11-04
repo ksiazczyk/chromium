@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchActivityLocationBarLayout for widget search UI
+// summary: LocationBarLayout subclass that renders and manages the omnibox UI shown during widget-driven searches.
+// ---
+
 package org.chromium.chrome.browser.searchwidget;
 
 import android.content.Context;

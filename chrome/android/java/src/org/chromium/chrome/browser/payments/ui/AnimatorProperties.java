@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animator properties for the payment request UI
+// summary: Defines an IntProperty that animates a drawable's alpha so ObjectAnimators can fade drawables in the payment UI.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import android.graphics.drawable.Drawable;

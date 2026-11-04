@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageOrigin
+// summary: Encapsulates the originating application of an offline page request, tracking app name and signatures and encoding them as JSON.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

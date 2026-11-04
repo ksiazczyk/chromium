@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Omnibox directory metadata
+summary: Declares the bug tracking components (Monorail UI>Browser>Omnibox and Buganizer 1457180) for the omnibox directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineIndicatorControllerV2
+// summary: Java controller that manages the visibility and content of the status indicator to relay connectivity information, including cooldown timing and UMA logging.
+// ---
+
 package org.chromium.chrome.browser.offlinepages.indicator;
 
 import android.annotation.SuppressLint;

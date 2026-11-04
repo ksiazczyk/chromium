@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Safe Browsing suspicious site dialog bridge
+// summary: JNI bridge between native and Java code that shows the suspicious site warning dialog on Android.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import android.content.Context;

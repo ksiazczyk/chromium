@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoFetchNotifier – auto-fetch notifications for offline pages
+// summary: Implements Android notifications shown when pages are automatically fetched after a net-error page, including in-progress and completion notifications with UMA action logging.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import android.app.NotificationManager;

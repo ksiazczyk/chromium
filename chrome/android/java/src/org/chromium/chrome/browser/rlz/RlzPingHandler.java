@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RlzPingHandler
+// summary: Handler that starts revenue-related RLZ network pings with a custom brand code, event list, and a generated 50-character machine identifier.
+// ---
+
 package org.chromium.chrome.browser.rlz;
 
 import android.text.TextUtils;

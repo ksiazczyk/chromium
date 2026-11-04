@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share delegate implementation
+// summary: Implements the ShareDelegate interface, routing share requests to the share sheet, send tab to self and related coordinators.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import static org.chromium.build.NullUtil.assertNonNull;

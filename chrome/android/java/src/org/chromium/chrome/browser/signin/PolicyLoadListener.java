@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyLoadListener
+// summary: Supplies whether device policies might apply by watching policy service initialization and Android app restrictions.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

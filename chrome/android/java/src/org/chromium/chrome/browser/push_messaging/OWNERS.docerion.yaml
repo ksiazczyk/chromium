@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership for the Android push_messaging package to the OWNERS file of the content browser push_messaging directory.

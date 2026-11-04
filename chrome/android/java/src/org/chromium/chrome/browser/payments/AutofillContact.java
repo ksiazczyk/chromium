@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locally stored contact details for payments
+// summary: Wraps an autofill profile as editable payer contact details, exposing payer name, phone, and email and converting them to PayerDetail for the merchant.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePageInfoControllerDelegate
+// summary: Chrome's customization of the page info controller delegate, handling site settings, cookies, offline pages, PDFs and store info rows.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import static org.chromium.build.NullUtil.assertNonNull;

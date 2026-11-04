@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager dialog properties
+// summary: Defines the property keys for the password manager dialog model, covering title, details, illustration, its visibility and the help button callback.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 

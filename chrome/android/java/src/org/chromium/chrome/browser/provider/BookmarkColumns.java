@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkColumns class defining bookmark and history table columns
+// summary: Defines column name constants for bookmark and history items such as URL, visits, dates, title and favicon, copied from android.provider.Browser.BookmarkColumns.
+// ---
+
 package org.chromium.chrome.browser.provider;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the payments folder
+summary: Chromium DIR_METADATA file applying the common payments component metadata mixins to this directory.

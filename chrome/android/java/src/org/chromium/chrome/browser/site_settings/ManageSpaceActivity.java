@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManageSpaceActivity
+// summary: Android activity behind the Manage Storage button in Android settings, letting users view and clear Chrome site data and manage storage.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Line item model for the payment request bill
+// summary: Models one line on the payment request bill with a label, currency code, price string and pending flag.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import org.chromium.build.annotations.NullMarked;

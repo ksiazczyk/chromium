@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual page action controller
+// summary: Central controller bridging UI and backend for contextual page actions, registering with the segmentation platform and providing updated button data to the toolbar.
+// ---
+
 package org.chromium.chrome.browser.segmentation_platform;
 
 import static org.chromium.build.NullUtil.assertNonNull;

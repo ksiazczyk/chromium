@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninAndHistorySyncActivity
+// summary: Semi-transparent activity hosting post-UNO signin flows, including the signin bottom sheet and history sync opt-in dialog.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import static org.chromium.build.NullUtil.assertNonNull;

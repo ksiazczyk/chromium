@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom bar view of the payment request UI
+// summary: Custom view group that lays out the product logo and the primary and secondary buttons at the bottom of the payment request UI.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import android.content.Context;

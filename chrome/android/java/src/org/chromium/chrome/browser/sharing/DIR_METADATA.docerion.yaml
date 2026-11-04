@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the sharing directory
+summary: Points to the common sharing metadata mixin so the Android sharing directory inherits shared Chromium metadata settings.

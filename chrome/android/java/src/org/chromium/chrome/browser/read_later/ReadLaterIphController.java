@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadLaterIphController
+// summary: Controller that decides when and how read later in-product-help bubbles are shown, anchored to the toolbar menu button.
+// ---
+
 package org.chromium.chrome.browser.read_later;
 
 import android.app.Activity;

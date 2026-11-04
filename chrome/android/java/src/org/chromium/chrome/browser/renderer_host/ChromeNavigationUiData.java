@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeNavigationUiData
+// summary: Java class that attaches Chrome-specific navigation UI data, such as bookmark ID and TWA launch token, to LoadUrlParams and passes it to native code via JNI.
+// ---
+
 package org.chromium.chrome.browser.renderer_host;
 
 import org.jni_zero.JniType;

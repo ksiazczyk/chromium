@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager dialog mediator
+// summary: Implements the logic for showing the password manager modal dialog, handling button clicks, dismissal causes and layout changes for illustration visibility.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.chromium.chrome.browser.password_manager.PasswordManagerDialogProperties.ILLUSTRATION_VISIBLE;

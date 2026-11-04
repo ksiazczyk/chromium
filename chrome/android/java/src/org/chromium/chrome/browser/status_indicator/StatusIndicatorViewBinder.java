@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status indicator view binder
+// summary: Binds the status indicator's PropertyModel properties to the Android views, updating text, icon, colors, visibility, and layout offsets.
+// ---
+
 package org.chromium.chrome.browser.status_indicator;
 
 import android.content.res.ColorStateList;

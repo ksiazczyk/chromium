@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositeSelectionActionMenuDelegate
+// summary: Composite SelectionActionMenuDelegate that forwards menu ordering, filtering, items, and click handling to a list of underlying delegates.
+// ---
+
 package org.chromium.chrome.browser.selection;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchActivityClientImpl for launching widget searches
+// summary: Implements SearchActivityClient so clients can build intents that start searches through SearchActivity with a chosen origin and search type.
+// ---
+
 package org.chromium.chrome.browser.searchwidget;
 
 import android.app.Activity;

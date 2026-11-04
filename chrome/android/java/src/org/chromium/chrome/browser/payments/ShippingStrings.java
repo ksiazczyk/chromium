@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shipping strings for shipping, delivery and pickup
+// summary: Container that maps a payment shipping type to the string resources used for summary, address and option labels, prompts and unsupported messages.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import org.chromium.build.annotations.NullMarked;

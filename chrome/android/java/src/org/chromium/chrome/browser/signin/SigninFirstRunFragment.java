@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninFirstRunFragment
+// summary: Android fragment that handles sign-in without sync consent during Chrome's First Run Experience, coordinating fullscreen sign-in, device lock and enterprise signals dialogs.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import static org.chromium.build.NullUtil.assertNonNull;

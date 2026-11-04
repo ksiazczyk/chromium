@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundScheduler – offline page background task scheduler
+// summary: Schedules and cancels offline page related background tasks via the background task scheduler, packing trigger conditions and timing into the task extras.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import android.os.PersistableBundle;

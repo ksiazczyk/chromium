@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageContentProviderImpl exposing current page text to assistant apps
+// summary: Content provider that extracts and serves the inner text of the current web page to assistant apps such as the Google search app via a content URI.
+// ---
+
 package org.chromium.chrome.browser.provider;
 
 import android.content.ContentResolver;

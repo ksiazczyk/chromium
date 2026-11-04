@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings tab utilities
+// summary: Utility methods to detect, find, and activate open settings tabs in the regular tab model.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import org.chromium.build.annotations.NullMarked;

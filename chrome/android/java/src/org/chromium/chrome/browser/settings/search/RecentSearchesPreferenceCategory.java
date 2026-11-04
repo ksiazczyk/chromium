@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent searches preference category
+// summary: Preference category that renders recent search entries with a delete button and an action click listener.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import android.content.Context;

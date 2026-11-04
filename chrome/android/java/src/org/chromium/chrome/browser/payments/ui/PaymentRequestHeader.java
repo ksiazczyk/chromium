@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header view of the payment request UI
+// summary: Custom frame layout that shows the merchant icon, title and emphasized origin with an HTTPS lock icon at the top of the payment request UI.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import android.content.Context;

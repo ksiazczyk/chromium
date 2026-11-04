@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android SMS fetcher message handler
+// summary: Handles SMS Fetcher messages and notifications on Android, including sanitizing one-time codes for safe display and processing notification confirm and cancel actions.
+// ---
+
 package org.chromium.chrome.browser.sharing.sms_fetcher;
 
 import android.app.PendingIntent;

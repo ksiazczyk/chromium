@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material date picker provider implementation
+// summary: Chromium Android service implementation that shows a Material Design date picker with min/max constraints and reports selection or dismissal via callbacks.
+// ---
+
 package org.chromium.chrome.browser.picker;
 
 import android.content.Context;

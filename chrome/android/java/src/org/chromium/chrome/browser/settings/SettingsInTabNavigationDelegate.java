@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-tab settings navigation delegate
+// summary: Settings navigation delegate that loads settings URLs in the current browser tab via Tab.loadUrl instead of launching a separate settings activity.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.app.Activity;

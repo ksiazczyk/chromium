@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership for the photo picker directory to the OWNERS file in components/browser_ui/photo_picker/android.

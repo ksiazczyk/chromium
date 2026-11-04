@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingNotificationUtil
+// summary: Java utility that builds and shows notifications with configuration common to all sharing features in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.sharing;
 
 import android.app.Notification;

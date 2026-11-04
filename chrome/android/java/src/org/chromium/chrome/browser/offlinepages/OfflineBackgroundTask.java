@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineBackgroundTask – background task handler for offlining
+// summary: Services background offlining requests from the background task scheduler, checking device conditions and starting or stopping scheduled processing with a backup task.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for the credential leak dialog
+// summary: Glue between native credential leak dialog logic and Java, building and showing the dialog through the password manager dialog coordinator.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.app.Activity;

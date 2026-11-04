@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection decoration for the settings main menu
+// summary: RecyclerView item decoration that highlights the selected main menu item in Android settings with card backgrounds, margins, and preference key deduplication.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.graphics.Canvas;

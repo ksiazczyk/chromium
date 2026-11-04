@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninAndHistorySyncActivityLauncherImpl
+// summary: Launcher implementation that creates intents and starts the signin and history sync activity in different scenarios.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import android.app.Activity;

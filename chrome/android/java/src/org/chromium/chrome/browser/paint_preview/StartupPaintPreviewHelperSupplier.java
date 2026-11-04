@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupPaintPreviewHelperSupplier UnownedUserData manager
+// summary: Manages the UnownedUserData supplier that exposes the StartupPaintPreviewHelper associated with a given WindowAndroid.
+// ---
+
 package org.chromium.chrome.browser.paint_preview;
 
 import org.chromium.base.UnownedUserDataHost;

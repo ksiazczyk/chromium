@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the settings directory
+summary: Points the directory metadata to the shared COMMON_METADATA mixin so the settings folder inherits its tracking configuration.

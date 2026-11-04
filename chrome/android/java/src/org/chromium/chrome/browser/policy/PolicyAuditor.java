@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyAuditor base class with empty policy audit implementations
+// summary: Defines the PolicyAuditor base class for Chrome Android with audit event constants, a service-loader singleton accessor, and empty notification methods for policy administrators.
+// ---
+
 package org.chromium.chrome.browser.policy;
 
 import android.content.Context;

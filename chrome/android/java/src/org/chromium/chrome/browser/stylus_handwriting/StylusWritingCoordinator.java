@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StylusWritingCoordinator
+// summary: Coordinates tab and window focus events in Chrome for Android to drive stylus handwriting via StylusWritingController.
+// ---
+
 package org.chromium.chrome.browser.stylus_handwriting;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

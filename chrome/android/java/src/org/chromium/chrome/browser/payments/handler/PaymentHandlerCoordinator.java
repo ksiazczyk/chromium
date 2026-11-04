@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler coordinator
+// summary: Owns the payment handler component, creating and connecting its objects and serving as the point of contact for showing and hiding the payment handler UI.
+// ---
+
 package org.chromium.chrome.browser.payments.handler;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

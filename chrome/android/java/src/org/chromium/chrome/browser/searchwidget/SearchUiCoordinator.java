@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchUiCoordinator for embedded omnibox search UI
+// summary: Reusable coordinator that hosts the location bar coordinator and data provider to embed omnibox search UI in activities.
+// ---
+
 package org.chromium.chrome.browser.searchwidget;
 
 import static org.chromium.build.NullUtil.assertNonNull;

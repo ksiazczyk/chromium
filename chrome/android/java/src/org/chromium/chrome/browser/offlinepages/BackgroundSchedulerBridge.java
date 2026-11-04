@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundSchedulerBridge – JNI bridge for offline page scheduling
+// summary: Provides Java scheduling support from native offlining code and a JNI interface to start or stop processing of queued offline page background requests.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import android.text.format.DateUtils;

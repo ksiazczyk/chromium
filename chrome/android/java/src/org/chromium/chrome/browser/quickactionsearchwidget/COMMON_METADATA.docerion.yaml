@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the quick action search widget directory
+summary: Defines shared directory metadata, assigning the search widget UI component, the owning team email, Android OS, and a public Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot content provider implementation
+// summary: Implements the Android content provider that captures and serves a screenshot of the current tab, recording request outcomes and latency.
+// ---
+
 package org.chromium.chrome.browser.screenshotprovider;
 
 import static org.chromium.chrome.browser.screenshotprovider.ScreenshotContentProviderMetrics.ScreenshotContentProviderEvent.REQUEST_FAILED_CURRENT_TAB_CHANGED;

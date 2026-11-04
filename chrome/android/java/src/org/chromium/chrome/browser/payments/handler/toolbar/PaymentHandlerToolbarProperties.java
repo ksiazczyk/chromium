@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler toolbar properties
+// summary: Defines the writable property keys that fully describe the payment handler toolbar UI state, including origin, title, progress, and security icon.
+// ---
+
 package org.chromium.chrome.browser.payments.handler.toolbar;
 
 import org.chromium.build.annotations.NullMarked;

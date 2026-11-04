@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential data model for the account chooser
+// summary: Represents a single credential with username, display name, origin URL, federation and avatar for display in the account chooser UI.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 

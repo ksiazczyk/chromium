@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchWidgetProvider
+// summary: Android AppWidgetProvider that renders and updates Chrome's home screen search widget, launching the search activity with the user's default search engine while avoiding native library loads.
+// ---
+
 package org.chromium.chrome.browser.searchwidget;
 
 import android.annotation.SuppressLint;

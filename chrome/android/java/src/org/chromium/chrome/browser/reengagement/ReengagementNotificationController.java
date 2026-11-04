@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reengagement notification controller
+// summary: Android controller that decides when and how Chrome shows re-engagement notifications, gated by feature flags and default browser criteria.
+// ---
+
 package org.chromium.chrome.browser.reengagement;
 
 import android.app.Activity;

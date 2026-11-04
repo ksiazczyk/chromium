@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry of settings search index providers
+// summary: Registry mapping Chrome settings pages to their search index providers for in-app Settings Search.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import org.chromium.build.annotations.NullMarked;

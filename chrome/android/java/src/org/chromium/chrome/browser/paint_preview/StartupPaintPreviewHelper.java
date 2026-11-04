@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupPaintPreviewHelper glue code for show-on-startup
+// summary: Glue code for the Paint Preview show-on-startup feature, observing tab model restoration to display paint previews on cold Chrome startup and reporting metrics.
+// ---
+
 package org.chromium.chrome.browser.paint_preview;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

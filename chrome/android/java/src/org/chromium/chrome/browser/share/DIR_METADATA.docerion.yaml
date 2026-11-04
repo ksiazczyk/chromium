@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the share folder
+summary: Applies the common metadata mixin so the share directory inherits its issue tracking configuration.

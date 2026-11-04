@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the payments directory
+summary: OWNERS file inheriting owners from components/payments and routing type converter files to IPC security owners for review.
