@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_FORWARD.png.sha1.
+type: data
+title: SHA-1 checksum for forward image
+summary: Stores the SHA-1 hash of the forward PNG resource in the ChromeOS settings strings folder.

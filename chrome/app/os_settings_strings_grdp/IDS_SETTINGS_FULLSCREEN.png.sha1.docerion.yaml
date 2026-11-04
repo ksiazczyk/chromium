@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_FULLSCREEN.png.sha1.
+type: data
+title: SHA-1 checksum for fullscreen image
+summary: Stores the SHA-1 hash of the fullscreen PNG resource in the ChromeOS settings strings folder.
