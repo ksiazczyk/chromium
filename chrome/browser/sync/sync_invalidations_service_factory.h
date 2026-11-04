@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync invalidations service factory header
+// summary: Declares the profile-keyed factory that provides a SyncInvalidationsService instance for each browser profile.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_SYNC_INVALIDATIONS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SYNC_SYNC_INVALIDATIONS_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wi-Fi configuration sync service factory implementation
+// summary: Implements the WifiConfigurationSyncServiceFactory, creating the Ash Wi-Fi configuration sync service for eligible profiles and registering its profile prefs.
+// ---
+
 #include "chrome/browser/sync/wifi_configuration_sync_service_factory.h"
 
 #include "base/no_destructor.h"

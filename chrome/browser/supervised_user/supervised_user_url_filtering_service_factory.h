@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL filtering service factory declarations
+// summary: Declares SupervisedUserUrlFilteringServiceFactory, providing per-profile access to the supervised user URL filtering service.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_URL_FILTERING_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_URL_FILTERING_SERVICE_FACTORY_H_
 

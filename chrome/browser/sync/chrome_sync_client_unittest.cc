@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome sync client unit tests
+// summary: Verifies registration and deduplication of trusted vault auto-upgrade synthetic field trials in ChromeSyncClient.
+// ---
+
 #include "chrome/browser/sync/chrome_sync_client.h"
 
 #include "base/files/file_path.h"

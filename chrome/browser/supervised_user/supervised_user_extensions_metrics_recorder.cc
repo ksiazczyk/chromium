@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user extensions metrics recorder implementation
+// summary: Defines histogram and user action names for UMA metrics about supervised user extension approvals, install dialogs, and enablement.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_extensions_metrics_recorder.h"
 
 #include "base/metrics/histogram_functions.h"

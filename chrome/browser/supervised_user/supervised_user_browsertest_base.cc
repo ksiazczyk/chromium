@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user browser test base implementation
+// summary: Implements shared scaffolding for supervised user browser tests, building test doubles for services and URL filtering across desktop and Android.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_browsertest_base.h"
 
 #include <memory>

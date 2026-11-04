@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System logs data collector header
+// summary: Declares the SystemLogsDataCollector class, a DataCollector that collects requested system logs under /var/log and handles PII detection and redaction.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_ASH_SYSTEM_LOGS_DATA_COLLECTOR_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_ASH_SYSTEM_LOGS_DATA_COLLECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wi-Fi configuration sync service factory header
+// summary: Declares WifiConfigurationSyncServiceFactory, including ShouldRunInProfile checks and profile preference registration for Wi-Fi configuration sync.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_WIFI_CONFIGURATION_SYNC_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SYNC_WIFI_CONFIGURATION_SYNC_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network routes data collector header
+// summary: Declares NetworkRoutesDataCollector, a DataCollector that collects IPv4 and IPv6 routing tables and exports them with PII redaction.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_ASH_NETWORK_ROUTES_DATA_COLLECTOR_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_ASH_NETWORK_ROUTES_DATA_COLLECTOR_H_
 

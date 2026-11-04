@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user web content handler header
+// summary: Declares the ChromeOS web content handler for local approval of blocked websites, with friend test declarations.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_CHROMEOS_SUPERVISED_USER_WEB_CONTENT_HANDLER_IMPL_H_
 #define CHROME_BROWSER_SUPERVISED_USER_CHROMEOS_SUPERVISED_USER_WEB_CONTENT_HANDLER_IMPL_H_
 

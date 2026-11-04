@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater data collector header
+// summary: Declares UpdaterDataCollector, a DataCollector that gathers Chrome Updater logs, history and preferences from user and system install directories with PII handling.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_UPDATER_DATA_COLLECTOR_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_UPDATER_DATA_COLLECTOR_H_
 

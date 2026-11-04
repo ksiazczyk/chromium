@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscription eligibility service bridge header
+// summary: Declares the JNI bridge class that surfaces SubscriptionEligibilityService to Java and forwards its observer callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_SUBSCRIPTION_ELIGIBILITY_ANDROID_SUBSCRIPTION_ELIGIBILITY_SERVICE_BRIDGE_H_
 #define CHROME_BROWSER_SUBSCRIPTION_ELIGIBILITY_ANDROID_SUBSCRIPTION_ELIGIBILITY_SERVICE_BRIDGE_H_
 

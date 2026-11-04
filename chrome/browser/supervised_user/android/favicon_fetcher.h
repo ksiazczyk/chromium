@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon fetcher class declaration
+// summary: Header for FaviconFetcher, which retrieves favicons for supervised user approval pages and returns them to Java via callback before deleting itself.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_ANDROID_FAVICON_FETCHER_H_
 #define CHROME_BROWSER_SUPERVISED_USER_ANDROID_FAVICON_FETCHER_H_
 

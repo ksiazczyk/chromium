@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user web content handler unit tests
+// summary: Unit tests covering approved, declined, canceled and error local web approval outcomes and their histograms with mock services.
+// ---
+
 #include "chrome/browser/supervised_user/chromeos/supervised_user_web_content_handler_impl.h"
 
 #include <memory>

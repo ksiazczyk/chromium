@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user extensions delegate implementation
+// summary: Implements extension approval flows for supervised users, including parent permission dialogs, blocked-install dialogs, and metrics recording.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_extensions_delegate_impl.h"
 
 #include <utility>

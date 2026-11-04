@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatchUploadDialogCoordinator
+// summary: Android coordinator that shows a confirmation dialog for batch upload, letting users pick which local data types to sync to their account.
+// ---
+
 package org.chromium.chrome.browser.sync.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

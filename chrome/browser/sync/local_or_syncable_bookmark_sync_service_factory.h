@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local or syncable bookmark sync service factory header
+// summary: Declares the singleton factory that builds BookmarkSyncService instances for profiles that enable sync-the-feature.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_LOCAL_OR_SYNCABLE_BOOKMARK_SYNC_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SYNC_LOCAL_OR_SYNCABLE_BOOKMARK_SYNC_SERVICE_FACTORY_H_
 

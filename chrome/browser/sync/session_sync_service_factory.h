@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session sync service factory header
+// summary: Declares the session sync service factory and the ShouldSyncURL helper that filters which URLs may be synced.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_SESSION_SYNC_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SYNC_SESSION_SYNC_SERVICE_FACTORY_H_
 

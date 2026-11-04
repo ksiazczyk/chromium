@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension parent approval JNI implementation
+// summary: C++ side of the Android extension approval flow, forwarding parent approval requests to Java and returning the result through a stored callback.
+// ---
+
 #include "chrome/browser/supervised_user/android/extension_parent_approval.h"
 
 #include <jni.h>

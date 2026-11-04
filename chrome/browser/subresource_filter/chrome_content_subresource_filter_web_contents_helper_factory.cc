@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents helper factory implementation
+// summary: Creates the ContentSubresourceFilterWebContentsHelper for a WebContents, wiring in the profile context, Safe Browsing database manager, and ruleset dealer.
+// ---
+
 #include "chrome/browser/subresource_filter/chrome_content_subresource_filter_web_contents_helper_factory.h"
 
 #include "chrome/browser/browser_process.h"

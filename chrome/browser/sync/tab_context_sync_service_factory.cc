@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context sync service factory implementation
+// summary: Implements the per-profile TabContextSyncService factory, building the sync_tab_context service with a data type store factory and an HTTP RPC ephemeral key fetcher.
+// ---
+
 #include "chrome/browser/sync/tab_context_sync_service_factory.h"
 
 #include <memory>

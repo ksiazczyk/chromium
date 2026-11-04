@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportToolHandler header
+// summary: Declares SupportToolHandler, the orchestrator that collects debug data from added DataCollectors and exports it as an archived support packet.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_SUPPORT_TOOL_HANDLER_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_SUPPORT_TOOL_HANDLER_H_
 

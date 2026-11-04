@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user service test bridge
+// summary: JNI test bridge that enables browser and search content filters on Android parental controls for testing purposes.
+// ---
+
 #include <memory>
 #include <utility>
 

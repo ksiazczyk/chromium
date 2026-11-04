@@ -5,6 +5,12 @@
 // DISCLAIMER: Please keep messages and enums in this file in sync with
 // http://google3/chrome/cros/dpanel/data/devices/proto/requests.proto file.
 
+// ---docerion
+// type: source
+// title: Support Tool data collection module proto
+// summary: Defines the protobuf enums and messages for data collector types, PII types and the data collection module used in support packets.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

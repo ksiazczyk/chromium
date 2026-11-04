@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Support Tool directory metadata
+summary: Maps the directory to Buganizer components and lists the owning team email for ChromeOS commercial supportability.

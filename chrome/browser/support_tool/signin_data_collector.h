@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninDataCollector header
+// summary: Declares SigninDataCollector, which collects authentication, sign-in and token information from AboutSigninInternals and errors on incognito or isolated profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_SIGNIN_DATA_COLLECTOR_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_SIGNIN_DATA_COLLECTOR_H_
 

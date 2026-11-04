@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back-to-ad intervention browser tests
+// summary: Browser tests for the Back-To-Ad Intervention that skips ad-related entries silently inserted into session history during back/forward navigation.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/subresource_filter/subresource_filter_browser_test_harness.h"
 #include "chrome/browser/ui/browser_commands.h"

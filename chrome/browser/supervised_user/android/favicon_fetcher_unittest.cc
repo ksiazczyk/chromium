@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon fetcher unit tests
+// summary: Unit tests for FaviconFetcher that use a mocked LargeIconService to verify favicon fetching and callback behavior.
+// ---
+
 #include "chrome/browser/supervised_user/android/favicon_fetcher.h"
 #include <cstddef>
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Support Tool build targets and dependencies
+summary: Defines the GN build targets, sources and dependencies for the Support Tool framework, including proto, unit test and browser test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter profile context factory implementation
+// summary: Keyed service factory that builds the profile-scoped subresource filter context, wiring content settings, cookie settings, Safe Browsing, and a history observer.
+// ---
+
 #include "chrome/browser/subresource_filter/subresource_filter_profile_context_factory.h"
 
 #include "base/no_destructor.h"

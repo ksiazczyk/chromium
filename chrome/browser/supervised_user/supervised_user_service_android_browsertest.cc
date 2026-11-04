@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user service Android browser tests
+// summary: Browser tests covering Android bootstrap of the supervised user service, including startup content filter and incognito blocking behavior.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session sync service factory implementation
+// summary: Implements the per-profile session sync service factory, including the Chrome SyncSessionsClient that decides which URLs are synced and supplies favicons, store access, and device display names.
+// ---
+
 #include "chrome/browser/sync/session_sync_service_factory.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user service platform delegate base header
+// summary: Declares the base class for Chrome implementations of the SupervisedUserService platform delegate, which also observes profile changes.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_CHROME_SUPERVISED_USER_SERVICE_PLATFORM_DELEGATE_BASE_H_
 #define CHROME_BROWSER_SUPERVISED_USER_CHROME_SUPERVISED_USER_SERVICE_PLATFORM_DELEGATE_BASE_H_
 

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Family Link kite icon vector drawable
+summary: Android vector drawable holding the official Family Link 'kite' logo in Google brand colors for use in the supervised user UI.
+-->
+
 <!-- The official Family Link 'kite' icon, from go/icons: https://fonts.gstatic.com/s/i/productlogos/family_link/v5/192px.svg -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="32dp"

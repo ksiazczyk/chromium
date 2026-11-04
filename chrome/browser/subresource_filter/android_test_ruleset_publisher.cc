@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android test ruleset publisher JNI implementation
+// summary: JNI implementation that creates and publishes a test ruleset disallowing a URL suffix for Android subresource filter tests.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

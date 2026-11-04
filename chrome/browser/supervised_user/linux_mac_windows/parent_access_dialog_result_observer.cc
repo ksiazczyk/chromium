@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access dialog result observer implementation
+// summary: Implements a WebContentsObserver that extracts the parent approval result from PACP dialog navigations and reports it through a callback.
+// ---
+
 #include "chrome/browser/supervised_user/linux_mac_windows/parent_access_dialog_result_observer.h"
 
 #include "base/functional/callback.h"

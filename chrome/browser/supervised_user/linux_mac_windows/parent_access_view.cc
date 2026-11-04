@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access view implementation
+// summary: Implements the desktop dialog view hosting the Parent Access Widget web content, including zoom override, load timeout, and error views.
+// ---
+
 #include "chrome/browser/supervised_user/linux_mac_windows/parent_access_view.h"
 
 #include <memory>

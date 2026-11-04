@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user web content handler implementation
+// summary: Implements the desktop local web approval flow, showing the parent access dialog and completing or aborting approval on its results.
+// ---
+
 #include "chrome/browser/supervised_user/linux_mac_windows/supervised_user_web_content_handler_impl.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FamilyLinkSettingsServiceFactory header
+// summary: Declares FamilyLinkSettingsServiceFactory, a simple keyed service factory exposing GetForKey and GetInstance for FamilyLinkSettingsService.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_FAMILY_LINK_SETTINGS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SUPERVISED_USER_FAMILY_LINK_SETTINGS_SERVICE_FACTORY_H_
 

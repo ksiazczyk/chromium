@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninDataCollector browser tests
+// summary: Browser tests for SigninDataCollector covering signin status collection, expected PII types and exported file contents on ChromeOS Ash.
+// ---
+
 #include "chrome/browser/support_tool/signin_data_collector.h"
 
 #include <cstdio>

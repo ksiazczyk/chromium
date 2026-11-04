@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user incognito browser tests
+// summary: Browser tests verifying that signing in as a supervised user closes incognito windows while a regular sign-in leaves them open.
+// ---
+
 #include "base/run_loop.h"
 #include "base/scoped_observation.h"
 #include "chrome/browser/browser_process.h"

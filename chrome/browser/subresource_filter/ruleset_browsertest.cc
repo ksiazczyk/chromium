@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ruleset verification browser tests
+// summary: Browser tests verifying ruleset checksum verification status and that activation succeeds with a valid ruleset and fails without one.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/run_loop.h"
 #include "base/test/metrics/histogram_tester.h"

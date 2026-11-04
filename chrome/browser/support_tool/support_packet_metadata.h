@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportPacketMetadata header
+// summary: Declares SupportPacketMetadata, which stores and writes metadata for a support packet including case ID, GUID, Chrome details, serial number and errors.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_SUPPORT_PACKET_METADATA_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_SUPPORT_PACKET_METADATA_H_
 

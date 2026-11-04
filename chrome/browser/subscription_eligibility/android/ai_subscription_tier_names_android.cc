@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI subscription tier names JNI implementation
+// summary: JNI glue that exposes the short and full names of AI subscription tiers to Java callers.
+// ---
+
 #include "components/subscription_eligibility/ai_subscription_tier_names.h"
 
 #include <cstdint>

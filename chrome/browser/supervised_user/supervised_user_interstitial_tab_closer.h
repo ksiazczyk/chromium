@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user interstitial tab closer
+// summary: Declares a TabCloser helper that closes the tab attached to web contents when navigating back from a supervised user interstitial.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_INTERSTITIAL_TAB_CLOSER_H_
 #define CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_INTERSTITIAL_TAB_CLOSER_H_
 

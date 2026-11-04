@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension icon loader implementation
+// summary: Implements loading an extension icon from local resources, falling back to the default app or extension icon when no icon is available.
+// ---
+
 #include "chrome/browser/supervised_user/extension_icon_loader.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI hierarchy data collector implementation
+// summary: Implements the ChromeOS support tool collector that gathers window, view and layer hierarchy data and redacts window titles as PII before export.
+// ---
+
 #include "chrome/browser/support_tool/ash/ui_hierarchy_data_collector.h"
 
 #include <optional>

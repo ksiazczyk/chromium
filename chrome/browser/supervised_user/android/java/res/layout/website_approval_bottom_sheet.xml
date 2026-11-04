@@ -10,6 +10,12 @@ found in the LICENSE file.
      reasons as this screen is displayed after a GMSCore bottom sheet which
      doesn't support dynamic colors. -->
 
+<!--docerion
+type: source
+title: Website approval bottom sheet layout
+summary: Android layout XML for the supervised-user bottom sheet where a parent approves a website, showing the Google logo, title text, and a card with the site's favicon and URL details.
+-->
+
 <LinearLayout
     android:id="@+id/local_parent_approval_layout"
     xmlns:android="http://schemas.android.com/apk/res/android"

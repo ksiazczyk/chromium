@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user favicon request handler implementation
+// summary: Fetches favicons for blocked pages from cache or the Google favicon server, falling back to a monogram icon and logging availability metrics.
+// ---
+
 #include "chrome/browser/supervised_user/chromeos/supervised_user_favicon_request_handler.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device info sync client implementation
+// summary: Implements Chrome's device info sync client, supplying device details such as sharing info, FCM tokens, phone-as-a-security-key support and Glic triggering state.
+// ---
+
 #include "chrome/browser/sync/device_info_sync_client_impl.h"
 
 #include <memory>

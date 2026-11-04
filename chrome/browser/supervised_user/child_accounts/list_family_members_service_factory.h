@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List family members service factory header
+// summary: Declares the supervised_user ListFamilyMembersServiceFactory that supplies per-profile family member listing services.
+// ---
+
 // Do not move to components/ until profile dependency is removed.
 #ifndef CHROME_BROWSER_SUPERVISED_USER_CHILD_ACCOUNTS_LIST_FAMILY_MEMBERS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SUPERVISED_USER_CHILD_ACCOUNTS_LIST_FAMILY_MEMBERS_SERVICE_FACTORY_H_

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Website parent approval JNI interface declarations
+// summary: Declares the WebsiteParentApproval JNI glue and the AndroidLocalWebApprovalFlowOutcome enum used to report parent approval results.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_ANDROID_WEBSITE_PARENT_APPROVAL_H_
 #define CHROME_BROWSER_SUPERVISED_USER_ANDROID_WEBSITE_PARENT_APPROVAL_H_
 

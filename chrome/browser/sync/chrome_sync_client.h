@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome sync client header
+// summary: Declares ChromeSyncClient, the Chrome embedder implementation of syncer::SyncClient.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_CHROME_SYNC_CLIENT_H__
 #define CHROME_BROWSER_SYNC_CHROME_SYNC_CLIENT_H__
 

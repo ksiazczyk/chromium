@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock large icon service header
+// summary: Declares MockLargeIconService, a test double of LargeIconService with mocked icon-fetch methods and a stored favicon bitmap.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_CHROMEOS_MOCK_LARGE_ICON_SERVICE_H_
 #define CHROME_BROWSER_SUPERVISED_USER_CHROMEOS_MOCK_LARGE_ICON_SERVICE_H_
 

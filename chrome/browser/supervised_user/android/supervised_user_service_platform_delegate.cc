@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user service Android platform delegate
+// summary: Android implementation of the supervised user service platform delegate that closes incognito tabs through a JNI call.
+// ---
+
 #include <jni.h>
 
 #include "base/android/jni_android.h"

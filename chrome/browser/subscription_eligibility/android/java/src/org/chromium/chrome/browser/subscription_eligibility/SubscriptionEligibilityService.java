@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscription eligibility service Java bridge
+// summary: Java service that exposes the current AI subscription tier and notifies observers of tier and benefits changes through a native bridge.
+// ---
+
 package org.chromium.chrome.browser.subscription_eligibility;
 
 import org.jni_zero.CalledByNative;

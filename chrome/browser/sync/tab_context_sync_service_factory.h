@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context sync service factory header
+// summary: Declares TabContextSyncServiceFactory, a ProfileKeyedServiceFactory that provides the per-profile TabContextSyncService.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TAB_CONTEXT_SYNC_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SYNC_TAB_CONTEXT_SYNC_SERVICE_FACTORY_H_
 

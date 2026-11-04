@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user settings test utilities
+// summary: Test-only helper that sets preconditions for supervised user journeys, such as adding URLs to the blocklist and stubbing kids management API responses.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import org.chromium.chrome.browser.profiles.Profile;

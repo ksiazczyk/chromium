@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClassifyUrlNavigationThrottle class header
+// summary: Declares the navigation throttle that defers navigations until ClassifyUrl verification completes, deciding whether requests are allowed or blocked for supervised users.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_CLASSIFY_URL_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_SUPERVISED_USER_CLASSIFY_URL_NAVIGATION_THROTTLE_H_
 

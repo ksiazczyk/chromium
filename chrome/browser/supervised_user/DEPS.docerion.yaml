@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for supervised_user
+summary: Chromium DEPS file restricting includes in the supervised_user directory, allowing Android bottomsheet UI and, for one browser test, ash shell headers.

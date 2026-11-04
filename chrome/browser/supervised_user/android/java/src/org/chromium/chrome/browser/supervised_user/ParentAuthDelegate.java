@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParentAuthDelegate
+// summary: Interface for parent authentication delegates that request local approval for websites and extension installs, with the implementation chosen at runtime.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import org.chromium.base.Callback;

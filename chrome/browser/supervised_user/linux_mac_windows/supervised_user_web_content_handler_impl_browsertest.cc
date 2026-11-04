@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user web content handler browser tests
+// summary: Browser tests for the supervised user web content handler on Linux, Mac and Windows, covering local web approvals, parent access dialogs and related metrics.
+// ---
+
 #include "chrome/browser/supervised_user/linux_mac_windows/supervised_user_web_content_handler_impl.h"
 
 #include <memory>

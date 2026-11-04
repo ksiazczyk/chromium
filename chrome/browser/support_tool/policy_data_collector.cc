@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy data collector implementation
+// summary: Collects policy values and status metadata into a policies.json file while identifying PII fields such as emails and stable identifiers for redaction.
+// ---
+
 #include "chrome/browser/support_tool/policy_data_collector.h"
 
 #include <map>

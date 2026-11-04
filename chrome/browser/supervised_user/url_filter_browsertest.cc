@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the supervised user URL filter UI
+// summary: Interactive live browser tests covering the supervised user URL filter, including parent control list management and local and remote website approvals.
+// ---
+
 #include <string>
 #include <string_view>
 

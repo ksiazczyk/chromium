@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync UI utility implementation
+// summary: Implements helpers that map sync service state to status labels, error messages, and user-facing UI actions.
+// ---
+
 #include "chrome/browser/sync/sync_ui_util.h"
 
 #include <utility>

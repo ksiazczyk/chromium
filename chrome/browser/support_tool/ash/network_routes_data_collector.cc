@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network routes data collector implementation
+// summary: Implements fetching IPv4 and IPv6 routing tables via DebugDaemonClient and writing redacted route data to a network_routes file.
+// ---
+
 #include "chrome/browser/support_tool/ash/network_routes_data_collector.h"
 
 #include <cstddef>

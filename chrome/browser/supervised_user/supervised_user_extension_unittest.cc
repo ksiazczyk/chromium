@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user extension unit tests
+// summary: Unit tests covering extension installation, custodian approval, and permission increase flows under supervised user parental controls.
+// ---
+
 #include <string>
 #include <tuple>
 

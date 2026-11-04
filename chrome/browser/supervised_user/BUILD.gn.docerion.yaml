@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Supervised user build targets in BUILD.gn
+summary: GN build configuration defining the supervised_user source sets, public headers, and platform-specific dependencies for Chrome's supervised user browser code.

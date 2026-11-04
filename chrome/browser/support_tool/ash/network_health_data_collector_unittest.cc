@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network health data collector unit tests
+// summary: Unit tests checking PII detection and redaction of network names, GUIDs, and addresses in fake network health snapshot data.
+// ---
+
 #include "chrome/browser/support_tool/ash/network_health_data_collector.h"
 
 #include <memory>

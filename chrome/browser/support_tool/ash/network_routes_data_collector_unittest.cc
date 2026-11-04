@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network routes data collector unit tests
+// summary: Unit tests for NetworkRoutesDataCollector that verify collection of IPv4 and IPv6 routing data via a fake debug daemon client and the redaction of PII in route output.
+// ---
+
 #include "chrome/browser/support_tool/ash/network_routes_data_collector.h"
 
 #include <iterator>

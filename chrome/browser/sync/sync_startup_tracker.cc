@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync startup tracker implementation
+// summary: Implements a tracker that observes the sync service and reports startup completion, errors, or timeout via callback.
+// ---
+
 #include "chrome/browser/sync/sync_startup_tracker.h"
 
 #include <optional>

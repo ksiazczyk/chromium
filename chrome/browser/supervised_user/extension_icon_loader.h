@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension icon loader header
+// summary: Declares ExtensionIconLoader, which loads installed extension icons from local resources and invokes a callback with the resulting image.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_EXTENSION_ICON_LOADER_H_
 #define CHROME_BROWSER_SUPERVISED_USER_EXTENSION_ICON_LOADER_H_
 

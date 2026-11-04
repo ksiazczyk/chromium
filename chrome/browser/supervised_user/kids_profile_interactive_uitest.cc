@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kids profile YouTube interstitial UI tests
+// summary: Interactive family live tests checking that the supervised user YouTube interstitial is displayed in iframes for kids profiles.
+// ---
+
 #include <optional>
 #include <string>
 #include <string_view>

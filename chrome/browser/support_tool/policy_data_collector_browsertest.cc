@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyDataCollector browser tests
+// summary: Browser tests verifying that PolicyDataCollector collects policy values, detects PII in policy status and exports the policies.json file.
+// ---
+
 #include "chrome/browser/support_tool/policy_data_collector.h"
 
 #include <cstdio>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportPacketMetadata implementation
+// summary: Implements SupportPacketMetadata, writing support packet metadata such as case ID, timestamps and Chrome version to a metadata file with PII redaction.
+// ---
+
 #include "chrome/browser/support_tool/support_packet_metadata.h"
 
 #include <memory>

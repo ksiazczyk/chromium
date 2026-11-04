@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupervisedUserServicePlatformDelegate
+// summary: Platform delegate called from native code that closes all open incognito tabs during supervised user service initialization.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import org.jni_zero.CalledByNative;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Supervised user website approval dimension values
+summary: Android resource file defining dimension values such as margins, favicon size, and monogram styling for the supervised user website approval bottom sheet.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Website approval bottom sheet -->
     <dimen name="website_approval_horizontal_margin">24dp</dimen>

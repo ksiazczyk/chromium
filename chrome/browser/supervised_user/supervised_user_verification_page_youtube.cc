@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Re-authentication interstitial for YouTube implementation
+// summary: Implements the verification interstitial shown to unauthenticated supervised users who open YouTube, populating main frame and subframe strings.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_verification_page_youtube.h"
 
 #include <utility>

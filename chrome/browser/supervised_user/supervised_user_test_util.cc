@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user test utilities implementation
+// summary: Implements helpers for supervised user tests, including adding custodians, setting extension permission prefs and geolocation content settings.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_test_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscription eligibility service factory implementation
+// summary: Implements the profile-keyed service factory that creates a SubscriptionEligibilityService for regular and guest profiles.
+// ---
+
 #include "chrome/browser/subscription_eligibility/subscription_eligibility_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network health data collector implementation
+// summary: Implements collection of network health and diagnostics data via NetworkHealthSource, detecting and anonymising network names and GUIDs as stable identifiers.
+// ---
+
 #include "chrome/browser/support_tool/ash/network_health_data_collector.h"
 
 #include <memory>

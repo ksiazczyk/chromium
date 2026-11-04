@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionParentApproval
+// summary: Requests parent approval for installing a Chrome extension, shows the approval UI, and reports the result back to native code via JNI.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter disabled reason UMA browser tests
+// summary: Parameterized browser tests asserting the DisabledReason UMA histogram is recorded only when subresource filter activation is disabled.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/preloading/preloading_features.h"

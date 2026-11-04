@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteApprovalViewBinder
+// summary: Maps changes to WebsiteApprovalProperties in the property model to the corresponding update methods on the WebsiteApprovalSheetContent view.
+// ---
+
 package org.chromium.chrome.browser.supervised_user.website_approval;
 
 import org.chromium.build.annotations.NullMarked;

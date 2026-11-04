@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user web content handler implementation
+// summary: ChromeOS implementation of the supervised user web content handler that requests local web approvals via the parent access dialog.
+// ---
+
 #include "chrome/browser/supervised_user/chromeos/supervised_user_web_content_handler_impl.h"
 
 #include "base/functional/bind.h"

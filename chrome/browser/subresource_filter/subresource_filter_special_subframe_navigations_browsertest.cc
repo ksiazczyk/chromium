@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter special subframe navigation browser tests
+// summary: Browser tests verifying that special subframe navigations like about:blank and data URLs inherit the parent frame's subresource filter activation.
+// ---
+
 #include <vector>
 
 #include "base/functional/bind.h"

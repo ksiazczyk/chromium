@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user extensions metrics delegate header
+// summary: Declares the metrics service extension delegate that reports extension counts for supervised user profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_LINUX_MAC_WINDOWS_SUPERVISED_USER_EXTENSIONS_METRICS_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_SUPERVISED_USER_LINUX_MAC_WINDOWS_SUPERVISED_USER_EXTENSIONS_METRICS_DELEGATE_IMPL_H_
 

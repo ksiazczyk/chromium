@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Website parent approval flow tests with native methods
+// summary: Instrumentation tests exercising the local website approval flow through real native methods, verifying completion callbacks and the histograms recorded by natives.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import static org.mockito.ArgumentMatchers.any;

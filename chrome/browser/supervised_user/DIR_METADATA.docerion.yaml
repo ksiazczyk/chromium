@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for supervised_user
+summary: DIR_METADATA entry that mixes in the common supervised_user metadata from components, including the ChromeOS-specific metadata file.

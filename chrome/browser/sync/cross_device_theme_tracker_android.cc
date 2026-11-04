@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device theme tracker Android JNI implementation
+// summary: Implements the Android JNI bridge that connects the C++ cross-device theme tracking infrastructure with the Android Java UI layer, converting synced theme protos into Java theme objects.
+// ---
+
 #include "chrome/browser/sync/cross_device_theme_tracker_android.h"
 
 #include "base/android/jni_android.h"

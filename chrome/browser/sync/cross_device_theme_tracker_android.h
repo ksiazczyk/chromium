@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device theme tracker Android class declaration
+// summary: Declares the Android-specific CrossDeviceThemeTracker subclass that bridges C++ theme sync with the Java UI layer, documenting ownership, lifecycle and data flow.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_CROSS_DEVICE_THEME_TRACKER_ANDROID_H_
 #define CHROME_BROWSER_SYNC_CROSS_DEVICE_THEME_TRACKER_ANDROID_H_
 

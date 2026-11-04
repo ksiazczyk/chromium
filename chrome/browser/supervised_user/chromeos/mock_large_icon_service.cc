@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock large icon service implementation
+// summary: gMock implementation of favicon::LargeIconService that serves fake favicons and records cache stores for supervised user tests.
+// ---
+
 #include "chrome/browser/supervised_user/chromeos/mock_large_icon_service.h"
 
 #include <vector>

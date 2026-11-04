@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child account service Android JNI bridge
+// summary: Implements the Android JNI bridge that triggers reauthentication of a child account and forwards the failure callback from Java back to the browser.
+// ---
+
 #include "chrome/browser/supervised_user/child_accounts/child_account_service_android.h"
 
 #include <memory>

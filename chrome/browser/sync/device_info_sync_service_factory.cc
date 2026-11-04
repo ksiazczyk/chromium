@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device info sync service factory implementation
+// summary: Implements the per-profile factory that builds the device info sync service, wiring the local device info provider, prefs, and sync client, and collects device info trackers across all loaded profiles.
+// ---
+
 #include "chrome/browser/sync/device_info_sync_service_factory.h"
 
 #include <memory>

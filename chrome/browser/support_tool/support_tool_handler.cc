@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportToolHandler implementation
+// summary: Implements SupportToolHandler, which coordinates data collectors, exports collected data to a temp directory and zips it into a support packet archive.
+// ---
+
 #include "chrome/browser/support_tool/support_tool_handler.h"
 
 #include <algorithm>

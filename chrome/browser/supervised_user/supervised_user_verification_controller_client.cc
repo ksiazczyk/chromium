@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user verification controller client implementation
+// summary: Implements the controller client that handles commands from the supervised user verification interstitial and reports metrics under the supervised_user_verification prefix.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_verification_controller_client.h"
 
 #include <memory>

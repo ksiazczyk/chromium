@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android sync Java build targets
+summary: GN build file defining Android library, UI, JNI header, and Robolectric test targets for Chrome's sync browser code.

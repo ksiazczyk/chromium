@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Chrome browser sync target
+summary: Defines the sync source_set listing sync client, factory and glue sources together with their public and private build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension icon loader browser tests
+// summary: Browser tests verifying icon loading for extensions and apps, including fallback to default app and extension icons.
+// ---
+
 #include "chrome/browser/supervised_user/extension_icon_loader.h"
 
 #include <memory>

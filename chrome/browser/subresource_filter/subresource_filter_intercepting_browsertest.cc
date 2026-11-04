@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter intercepting browser test
+// summary: Browser test harness that intercepts Safe Browsing server requests to mock V4 and V5 threat responses for subresource filter tests.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

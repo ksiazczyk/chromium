@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Re-authentication interstitial for YouTube header
+// summary: Declares the verification interstitial variant for YouTube, shown so content restrictions can be applied after re-authentication.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_VERIFICATION_PAGE_YOUTUBE_H_
 #define CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_VERIFICATION_PAGE_YOUTUBE_H_
 

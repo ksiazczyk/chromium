@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter navigation download policy header
+// summary: Declares AugmentNavigationDownloadPolicy, which adjusts navigation download policies for frames tagged as ads based on user gesture status.
+// ---
+
 #ifndef CHROME_BROWSER_SUBRESOURCE_FILTER_SUBRESOURCE_FILTER_NAVIGATION_DOWNLOAD_POLICY_H_
 #define CHROME_BROWSER_SUBRESOURCE_FILTER_SUBRESOURCE_FILTER_NAVIGATION_DOWNLOAD_POLICY_H_
 

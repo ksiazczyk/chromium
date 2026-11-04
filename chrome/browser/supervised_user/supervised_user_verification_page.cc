@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user re-authentication interstitial page implementation
+// summary: Implements the shared re-authentication interstitial for supervised users, deciding when to show it, opening the re-auth URL, and closing sign-in tabs once authentication completes.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_verification_page.h"
 
 #include <utility>

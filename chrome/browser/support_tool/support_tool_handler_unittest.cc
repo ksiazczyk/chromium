@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SupportToolHandler unit tests
+// summary: Unit tests for SupportToolHandler using a fake data collector to verify data collection, PII handling, export and error reporting.
+// ---
+
 #include "chrome/browser/support_tool/support_tool_handler.h"
 
 #include <algorithm>

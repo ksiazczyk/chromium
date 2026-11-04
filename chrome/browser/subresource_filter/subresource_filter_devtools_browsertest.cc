@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter DevTools browser tests
+// summary: Browser tests checking that DevTools ad blocking toggles force subresource filter activation and that it stops when DevTools closes.
+// ---
+
 
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito interaction tests for supervised profiles
+// summary: Instrumentation tests verifying when incognito tabs are closed or allowed for supervised profiles, depending on policy and browser content filtering settings.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import static org.junit.Assert.assertNotNull;

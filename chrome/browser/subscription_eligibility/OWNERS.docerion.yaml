@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file referencing component owners
+summary: Points to the OWNERS file of components/subscription_eligibility so this folder inherits its code owners.

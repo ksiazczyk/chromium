@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Subresource filter GN build targets
+summary: Defines the GN source_set targets, dependencies, and Android Java test support for the Chrome subresource filter browser code.

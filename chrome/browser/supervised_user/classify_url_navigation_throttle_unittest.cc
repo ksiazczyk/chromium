@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClassifyUrlNavigationThrottle unit tests
+// summary: Unit tests covering the ClassifyUrl navigation throttle across manual filters, async classification, device parental controls, and latency metrics.
+// ---
+
 #include "chrome/browser/supervised_user/classify_url_navigation_throttle.h"
 
 #include <array>

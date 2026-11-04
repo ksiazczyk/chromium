@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device theme tracker factory implementation
+// summary: Creates the per-profile cross-device theme tracker and registers theme sync bridges that translate remote and local theme specifics for the tracker.
+// ---
+
 #include "chrome/browser/sync/cross_device_theme_tracker_factory.h"
 
 #include "base/feature_list.h"

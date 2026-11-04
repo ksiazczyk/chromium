@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child account service factory implementation
+// summary: Profile-keyed factory that builds the ChildAccountService, wiring identity manager, preferences, and FamilyLink settings, and asserts the child status of ChromeOS users.
+// ---
+
 #include "chrome/browser/supervised_user/child_accounts/child_account_service_factory.h"
 
 #include "base/check.h"

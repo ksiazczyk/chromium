@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteApprovalMediator
+// summary: Holds the logic for the website approval flow, reacting to approve and deny clicks, setting the child name from the signed-in account, and showing or hiding the bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.supervised_user.website_approval;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatchUploadCardProperties
+// summary: Defines the property keys for the batch upload card model, covering description text, button text, click listener and icon.
+// ---
+
 package org.chromium.chrome.browser.sync.ui.batch_upload_card;
 
 import android.graphics.drawable.Drawable;

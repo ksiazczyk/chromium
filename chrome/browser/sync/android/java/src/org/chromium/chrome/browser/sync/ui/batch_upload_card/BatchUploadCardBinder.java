@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatchUploadCardBinder
+// summary: Binds changes of the batch upload card's property model to its Android views, updating description text, button and icon.
+// ---
+
 package org.chromium.chrome.browser.sync.ui.batch_upload_card;
 
 import android.view.View;

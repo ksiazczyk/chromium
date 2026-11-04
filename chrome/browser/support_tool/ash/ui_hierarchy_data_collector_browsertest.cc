@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI hierarchy data collector browser test
+// summary: Browser test verifying that the collector detects window titles as PII and exports ui_hierarchy.txt with titles removed.
+// ---
+
 #include "chrome/browser/support_tool/ash/ui_hierarchy_data_collector.h"
 
 #include <memory>

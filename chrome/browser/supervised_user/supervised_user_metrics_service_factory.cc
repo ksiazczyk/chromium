@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user metrics service factory
+// summary: Implements the profile-keyed factory that builds supervised user metrics service instances, wiring in URL filtering and extension metrics delegates.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_metrics_service_factory.h"
 
 #include <memory>

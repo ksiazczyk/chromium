@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User event service factory implementation
+// summary: Implements the UserEventServiceFactory, building a UserEventSyncBridge-backed user event service that depends on the data type store and session sync services.
+// ---
+
 #include "chrome/browser/sync/user_event_service_factory.h"
 
 #include <memory>

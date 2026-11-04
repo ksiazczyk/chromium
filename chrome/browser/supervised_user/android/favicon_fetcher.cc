@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon fetcher for supervised user approvals
+// summary: Fetches favicons for URLs a supervised user asks to access, using the large icon service cache and a Google favicon server when needed.
+// ---
+
 #include "chrome/browser/supervised_user/android/favicon_fetcher.h"
 
 #include <cstddef>

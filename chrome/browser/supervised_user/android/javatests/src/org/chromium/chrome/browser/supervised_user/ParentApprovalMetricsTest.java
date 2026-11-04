@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent approval metrics recording tests
+// summary: Robolectric tests verifying that the local parent approval flow records outcome and parent authentication error histograms correctly for web and extension flows.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import org.junit.Test;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subscription eligibility service browser tests
+// summary: Browser tests covering AI subscription tier retrieval, observer notifications, and subscription tier metrics reporting across profiles.
+// ---
+
 #include "components/subscription_eligibility/subscription_eligibility_service.h"
 
 #include <optional>

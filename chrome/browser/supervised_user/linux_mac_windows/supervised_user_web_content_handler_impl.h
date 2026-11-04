@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user web content handler header
+// summary: Declares the Windows, Mac, and Linux supervised user web content handler that manages the local approval dialog flow.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_LINUX_MAC_WINDOWS_SUPERVISED_USER_WEB_CONTENT_HANDLER_IMPL_H_
 #define CHROME_BROWSER_SUPERVISED_USER_LINUX_MAC_WINDOWS_SUPERVISED_USER_WEB_CONTENT_HANDLER_IMPL_H_
 

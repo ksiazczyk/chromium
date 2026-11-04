@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Supervised user extensions metrics delegate unit tests
+// summary: Unit tests verifying daily recording of installed, enabled, and disabled extension count histograms for supervised users.
+// ---
+
 #include "chrome/browser/supervised_user/linux_mac_windows/supervised_user_extensions_metrics_delegate_impl.h"
 
 #include <memory>

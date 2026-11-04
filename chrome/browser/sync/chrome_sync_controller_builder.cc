@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome sync controller builder implementation
+// summary: Creates DataTypeController instances for Chrome-specific sync data types across desktop, ChromeOS and Android platforms.
+// ---
+
 // TODO(crbug.com/549792645): Remove VLOG level override once Synced Setup
 // launches.
 #undef ENABLED_VLOG_LEVEL
