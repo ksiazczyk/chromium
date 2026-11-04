@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bubble anchor utility unit tests
+// summary: Unit tests verifying IsHighlightable behavior for bubble anchors backed by views, tracked elements, and null anchors.
+// ---
+
 #include "chrome/browser/ui/views/bubble_anchor_util_views.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome layout provider implementation
+// summary: Implements Chrome's layout provider, supplying insets and distance metrics for browser UI elements such as dialogs, app menus, the omnibox and the bookmarks bar.
+// ---
+
 #include "chrome/browser/ui/views/chrome_layout_provider.h"
 
 #include <algorithm>

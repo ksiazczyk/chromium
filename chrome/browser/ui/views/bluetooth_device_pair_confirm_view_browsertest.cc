@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth device pair confirm dialog browser test
+// summary: Browser tests for the Bluetooth pairing confirmation dialog, including verification of the keyjacking protection safety window that ignores early Enter presses.
+// ---
+
 #include "chrome/browser/ui/views/bluetooth_device_pair_confirm_view.h"
 
 #include <string>

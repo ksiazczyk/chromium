@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sad tab view interactive UI test
+// summary: Interactive browser tests covering sad tab view behavior, including renderer crash scenarios and focus handling.
+// ---
+
 #include "chrome/browser/ui/views/sad_tab_view.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flying indicator implementation
+// summary: Implements an animated bubble icon that flies along a curved path from a start point to a target view, fading in and out.
+// ---
+
 #include "chrome/browser/ui/views/flying_indicator.h"
 
 #include "base/memory/ptr_util.h"

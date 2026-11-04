@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Title origin label header
+// summary: Declares the factory for dialog title labels that bold origin strings and handle elision across languages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TITLE_ORIGIN_LABEL_H_
 #define CHROME_BROWSER_UI_VIEWS_TITLE_ORIGIN_LABEL_H_
 

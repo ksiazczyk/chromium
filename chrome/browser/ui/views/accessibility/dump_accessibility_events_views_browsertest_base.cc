@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views accessibility events browser test base implementation
+// summary: Implements the shared base for Views accessibility event browser tests, with event recording sessions, filters and platform recorders.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/dump_accessibility_events_views_browsertest_base.h"
 
 #include <algorithm>

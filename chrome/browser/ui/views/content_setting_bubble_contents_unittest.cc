@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content setting bubble contents unit tests
+// summary: Unit tests covering bubble creation, a null dereference regression, and elision of bullet-formatted URL links in the bubble.
+// ---
+
 #include "chrome/browser/ui/views/content_setting_bubble_contents.h"
 
 #include "base/strings/utf_string_conversions.h"

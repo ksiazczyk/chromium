@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL Client Certificate Selector Views Header
+// summary: Declares the Views-based SSL client certificate selector, a test-only header whose class extends CertificateSelector for choosing client certificates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SSL_CLIENT_CERTIFICATE_SELECTOR_H_
 #define CHROME_BROWSER_UI_VIEWS_SSL_CLIENT_CERTIFICATE_SELECTOR_H_
 

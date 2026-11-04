@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm Bubble Views Implementation
+// summary: Implements the confirm bubble dialog with title, message, OK and Cancel buttons plus a help button, shown as a browser modal dialog.
+// ---
+
 #include "chrome/browser/ui/views/confirm_bubble_views.h"
 
 #include <utility>

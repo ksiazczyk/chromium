@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple web view dialog header
+// summary: Declares SimpleWebViewDialog, a read-only location bar and web contents view for captive portal sign-in.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SIMPLE_WEB_VIEW_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_SIMPLE_WEB_VIEW_DIALOG_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file delegating to ui/accessibility OWNERS
+summary: Points to ui/accessibility/OWNERS so the same reviewers approve changes in this directory.

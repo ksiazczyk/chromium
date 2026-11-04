@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Uninstall dialog browser test
+// summary: Browser test that invokes the uninstall confirmation dialog, currently disabled because bots cannot dismiss it.
+// ---
+
 #include "chrome/browser/ui/views/uninstall_view.h"
 
 #include <string>

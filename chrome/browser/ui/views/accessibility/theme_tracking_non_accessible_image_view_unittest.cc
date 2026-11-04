@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme tracking non-accessible image view unit test
+// summary: Unit test verifying that the theme tracking non-accessible image view reports itself as invisible in its accessible node data.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/theme_tracking_non_accessible_image_view.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default link capturing interactive UI tests
+// summary: Interactive UI tests covering the intent picker bubble and link capturing UX when navigations are captured by a default web app.
+// ---
+
 #include <string>
 
 #include "base/test/metrics/user_action_tester.h"

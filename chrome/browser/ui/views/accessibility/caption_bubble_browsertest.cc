@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for the live caption bubble
+// summary: UiBrowserTest that displays the live caption bubble with a views context and exercises its behavior against live caption settings and preferences.
+// ---
+
 #include "components/live_caption/views/caption_bubble.h"
 
 #include <memory>

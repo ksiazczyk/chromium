@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find bar host implementation
+// summary: Implements the container widget for find-in-page, managing showing, hiding, repositioning to avoid overlapping selections, and forwarding key events to the renderer.
+// ---
+
 #include "chrome/browser/ui/views/find_bar_host.h"
 
 #include <algorithm>

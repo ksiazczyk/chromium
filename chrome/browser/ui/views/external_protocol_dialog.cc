@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External protocol dialog implementation
+// summary: Implements the dialog confirming launches of external protocol URLs, including a remember-decision checkbox and Picture-in-Picture occlusion input protection.
+// ---
+
 #include "chrome/browser/ui/views/external_protocol_dialog.h"
 
 #include <utility>

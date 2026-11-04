@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome views delegate implementation
+// summary: Implements Chrome's views delegate, persisting window placement in profile or local state preferences and setting up ChromeOS touch selection menus.
+// ---
+
 #include "chrome/browser/ui/views/chrome_views_delegate.h"
 
 #include <memory>

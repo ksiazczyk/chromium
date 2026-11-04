@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme Profile Key Implementation
+// summary: Implements setting and retrieving the profile that determines theming for an aura window via an owned UI class property with safe profile tracking.
+// ---
+
 #include "chrome/browser/ui/views/theme_profile_key.h"
 
 #include "base/memory/raw_ptr.h"

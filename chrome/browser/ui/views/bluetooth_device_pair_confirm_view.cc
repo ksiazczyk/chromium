@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device pair confirm dialog implementation
+// summary: Implements a modal dialog for confirming Bluetooth device pairing with or without a displayed PIN.
+// ---
+
 #include "chrome/browser/ui/views/bluetooth_device_pair_confirm_view.h"
 
 #include "base/functional/bind.h"

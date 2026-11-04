@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent picker bubble view implementation
+// summary: Implements the intent picker bubble that shows a grid of apps able to handle a URL and lets the user choose one to open links with.
+// ---
+
 #include "chrome/browser/ui/views/intent_picker_bubble_view.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu accessibility events dump browser test
+// summary: Browser test that dumps accessibility events raised while opening and closing menus, filtering to menu events and normalizing output across ViewsAX enabled and disabled modes.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/ui/views/accessibility/dump_accessibility_events_views_browsertest_base.h"
 #include "content/public/test/browser_test.h"

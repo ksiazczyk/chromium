@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message box dialog implementation
+// summary: Implements the views-based message box dialog used for simple synchronous and asynchronous message boxes, with native fallbacks on Windows and macOS.
+// ---
+
 #include "chrome/browser/ui/views/message_box_dialog.h"
 
 #include <utility>

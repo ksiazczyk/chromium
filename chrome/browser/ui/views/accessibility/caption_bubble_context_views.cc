@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionBubbleContextViews implementation
+// summary: Implements the Views caption bubble context that supplies widget bounds, session ID, tab activation and caption settings access for live captions.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/caption_bubble_context_views.h"
 
 #include <memory>

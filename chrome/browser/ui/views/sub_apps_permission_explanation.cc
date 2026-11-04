@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sub Apps Permission Explanation Implementation
+// summary: Builds a localized explanation string when the current app is an isolated sub app or a parent isolated web app with sub apps sharing permissions.
+// ---
+
 #include "chrome/browser/ui/views/sub_apps_permission_explanation.h"
 
 #include "base/strings/utf_string_conversions.h"

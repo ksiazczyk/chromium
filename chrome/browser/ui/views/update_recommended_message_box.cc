@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update recommended message box
+// summary: Implements the modal dialog prompting the user to relaunch the browser so an update can be applied.
+// ---
+
 #include "chrome/browser/ui/views/update_recommended_message_box.h"
 
 #include "build/branding_buildflags.h"

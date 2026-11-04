@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Title origin label creation for dialog titles
+// summary: Implements a factory for dialog title labels that display origins multi-line and bold the origin ranges.
+// ---
+
 #include "chrome/browser/ui/views/title_origin_label.h"
 
 #include "ui/views/accessibility/view_accessibility.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EULA dialog for Linux header
+// summary: Declares the EulaDialog class, a views dialog that displays the End User License Agreement and reports the user's decision via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EULA_DIALOG_LINUX_H_
 #define CHROME_BROWSER_UI_VIEWS_EULA_DIALOG_LINUX_H_
 

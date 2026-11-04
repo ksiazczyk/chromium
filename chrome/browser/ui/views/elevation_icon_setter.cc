@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elevation icon setter implementation
+// summary: Sets a Windows UAC shield icon on a button to indicate that clicking triggers an elevation prompt; does nothing on other platforms.
+// ---
+
 #include "chrome/browser/ui/views/elevation_icon_setter.h"
 
 #include "base/functional/bind.h"

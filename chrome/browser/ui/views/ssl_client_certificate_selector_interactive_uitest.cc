@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL Client Certificate Selector Interactive UI Tests
+// summary: Interactive browser tests exercising the Views SSL client certificate selector with mocked auth requestors and fake client certificate identities.
+// ---
+
 #include "chrome/browser/ui/views/ssl_client_certificate_selector.h"
 
 #include "base/files/file_path.h"

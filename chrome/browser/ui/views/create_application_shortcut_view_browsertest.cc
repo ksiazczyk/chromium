@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Create Application Shortcut Dialog Browser Test
+// summary: Browser test that shows and verifies the create-application-shortcut dialog for both extension and web app cases.
+// ---
+
 #include "chrome/browser/ui/views/create_application_shortcut_view.h"
 
 #include "base/functional/callback_helpers.h"

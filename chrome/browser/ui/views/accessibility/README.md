@@ -1,3 +1,12 @@
+---
+type: readme
+title: Dump Accessibility Tests for Chromium Views
+summary: Explains the dump-based accessibility test framework for Views, covering compiling, running, updating expectations, ViewsAX skip macros, and writing new tests.
+relations:
+  - references /content/test/data/accessibility/readme.md
+  - references /content/browser/accessibility/dump_accessibility_events_browsertest.cc
+---
+
 # Dump Accessibility Tests for Chromium Views
 
 This directory contains dump-based accessibility tests for **Chromium Views**

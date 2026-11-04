@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session crashed bubble interactive UI tests
+// summary: Interactive browser tests verifying the session crashed bubble UI and its focusability via accessibility hotkeys.
+// ---
+
 #include "chrome/browser/ui/views/session_crashed_bubble_view.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome layout provider header
+// summary: Declares the Chrome layout provider and enumerates Chrome-specific inset and distance metrics used across browser views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CHROME_LAYOUT_PROVIDER_H_
 #define CHROME_BROWSER_UI_VIEWS_CHROME_LAYOUT_PROVIDER_H_
 

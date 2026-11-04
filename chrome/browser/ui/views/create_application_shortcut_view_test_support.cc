@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Create Application Shortcut Dialog Test Support
+// summary: Implements a waiter helper that waits for the shortcut dialog to appear, waits until the OK button is enabled, and then accepts the dialog.
+// ---
+
 #include "chrome/browser/ui/views/create_application_shortcut_view_test_support.h"
 
 #include "base/callback_list.h"

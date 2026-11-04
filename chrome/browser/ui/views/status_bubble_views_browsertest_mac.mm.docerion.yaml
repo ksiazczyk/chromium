@@ -1,0 +1,4 @@
+# Docerion header of status_bubble_views_browsertest_mac.mm.
+type: test
+title: Mac Implementation of Status Bubble Test Helper
+summary: Implements GetNativeWindowAlphaValue via Cocoa to read the NSWindow alpha value for status bubble browser tests on Mac.

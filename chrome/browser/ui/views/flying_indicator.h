@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flying indicator header
+// summary: Declares FlyingIndicator, a bubble-based animation that moves an icon to a target view to indicate actions such as links opening in the background.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FLYING_INDICATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_FLYING_INDICATOR_H_
 

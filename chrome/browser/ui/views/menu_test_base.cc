@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu test base implementation
+// summary: Implements the shared MenuTestBase providing menu setup, mouse click, key press, and accessibility event counting for menu tests.
+// ---
+
 #include "chrome/browser/ui/views/menu_test_base.h"
 
 #include <utility>

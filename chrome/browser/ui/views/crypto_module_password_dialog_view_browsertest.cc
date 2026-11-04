@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crypto Module Password Dialog Browser Test
+// summary: Browser test that shows and verifies the crypto module password dialog UI.
+// ---
+
 #include "chrome/browser/ui/views/crypto_module_password_dialog_view.h"
 
 #include "base/functional/callback_helpers.h"

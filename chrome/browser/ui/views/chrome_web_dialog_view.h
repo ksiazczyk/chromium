@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome web dialog view header
+// summary: Declares ShowWebDialogWithParams, the views-specific web dialog entry point that accepts extra widget init parameters.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CHROME_WEB_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_CHROME_WEB_DIALOG_VIEW_H_
 

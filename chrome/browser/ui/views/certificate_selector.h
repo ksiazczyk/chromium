@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate selector dialog base class
+// summary: Header for CertificateSelector, a base class for dialogs that let users pick a client certificate from a list and view certificate details.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CERTIFICATE_SELECTOR_H_
 #define CHROME_BROWSER_UI_VIEWS_CERTIFICATE_SELECTOR_H_
 

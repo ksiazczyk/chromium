@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tree view accessibility events dump browser test
+// summary: Browser tests that record accessibility events emitted when expanding and collapsing tree view nodes across platform accessibility APIs.
+// ---
+
 #include <string>
 
 #include "build/build_config.h"

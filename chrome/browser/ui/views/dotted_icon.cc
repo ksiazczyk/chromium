@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dotted ring icon painting
+// summary: Paints a half-solid, half-dotted ring used to indicate pending or inactive states around circular icons.
+// ---
+
 #include "chrome/browser/ui/views/dotted_icon.h"
 
 #include "cc/paint/paint_flags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Window Sizer Implementation
+// summary: Implements Linux-specific browser window bounds and show state sizing, adjusting the work area for client-side window decorations.
+// ---
+
 #include "chrome/browser/ui/views/window_sizer_linux.h"
 
 #include "chrome/browser/profiles/profile.h"

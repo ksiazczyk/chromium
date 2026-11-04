@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel animations provider header
+// summary: Declares the SidePanelAnimations class with open and close motions and panel width, shadow, scrim opacity, and content transition sequences.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_ANIMATIONS_SIDE_PANEL_ANIMATIONS_H_
 #define CHROME_BROWSER_UI_VIEWS_ANIMATIONS_SIDE_PANEL_ANIMATIONS_H_
 

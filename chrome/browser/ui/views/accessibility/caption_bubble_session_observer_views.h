@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionBubbleSessionObserverViews header
+// summary: Declares CaptionBubbleSessionObserverViews, a WebContents observer that ends caption sessions on navigation or destruction.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_ACCESSIBILITY_CAPTION_BUBBLE_SESSION_OBSERVER_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_ACCESSIBILITY_CAPTION_BUBBLE_SESSION_OBSERVER_VIEWS_H_
 

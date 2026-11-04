@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners and reviewers for browser UI views
+summary: Lists the review rotation alias and per-file owners for the browser UI views directory.

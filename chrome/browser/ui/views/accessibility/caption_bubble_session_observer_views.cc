@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionBubbleSessionObserverViews implementation
+// summary: Observes WebContents navigation and destruction to end live caption sessions through a registered callback.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/caption_bubble_session_observer_views.h"
 
 #include "components/live_caption/caption_bubble_session_observer.h"

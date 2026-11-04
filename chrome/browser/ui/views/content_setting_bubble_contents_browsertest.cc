@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content setting bubble browser tests
+// summary: Browser tests verifying that the content setting bubble appears for geolocation prompts and hides when the tab is closed.
+// ---
+
 #include "chrome/browser/ui/views/content_setting_bubble_contents.h"
 
 #include "base/run_loop.h"

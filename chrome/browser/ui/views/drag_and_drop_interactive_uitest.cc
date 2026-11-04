@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag and drop interactive UI tests
+// summary: Interactive browser tests that simulate drag-and-drop operations onto browser UI such as the tab strip, omnibox, and toolbar.
+// ---
+
 #include <algorithm>
 #include <initializer_list>
 #include <memory>

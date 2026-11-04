@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uninstall confirmation dialog implementation
+// summary: Implements the dialog that confirms Chrome uninstallation and offers deleting the browsing profile.
+// ---
+
 #include "chrome/browser/ui/views/uninstall_view.h"
 
 #include "base/run_loop.h"

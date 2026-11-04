@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color Provider Browser Helper Implementation
+// summary: Implements a helper that attaches the browser's color provider source to WebContents as they are inserted into the tab strip.
+// ---
+
 #include "chrome/browser/ui/views/color_provider_browser_helper.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

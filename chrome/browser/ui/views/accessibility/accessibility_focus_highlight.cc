@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility focus highlight implementation
+// summary: Implements an always-on-top compositor layer that draws a fading focus ring around the focused element, reacting to preferences, focus changes, and tab switches.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/accessibility_focus_highlight.h"
 
 #include <algorithm>

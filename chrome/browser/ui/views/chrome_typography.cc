@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome typography font style helpers
+// summary: Applies Chrome-specific font sizes and weights to text contexts such as toolbar buttons, omnibox fields, tab counters and IPH bubbles.
+// ---
+
 #include "chrome/browser/ui/views/chrome_typography.h"
 
 #include "chrome/browser/ui/views/location_bar/location_bar_view.h"

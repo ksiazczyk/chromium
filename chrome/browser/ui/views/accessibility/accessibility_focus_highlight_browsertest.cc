@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for the accessibility focus highlight
+// summary: Browser test that captures window snapshots and verifies the focus highlight draws the expected colors, fades, and reacts to focus changes.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/accessibility_focus_highlight.h"
 
 #include <math.h>

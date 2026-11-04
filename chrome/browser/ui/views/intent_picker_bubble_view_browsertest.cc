@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intent Picker Bubble View Browser Tests
+// summary: Browser tests covering the intent picker bubble and link capturing behavior, including icon updates and navigation across platforms.
+// ---
+
 #include "chrome/browser/ui/views/intent_picker_bubble_view.h"
 
 #include <string>

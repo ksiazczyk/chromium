@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome typography provider implementation
+// summary: Implements the Harmony-spec typography provider, mapping text contexts and styles to font details, colors and line heights.
+// ---
+
 #include "chrome/browser/ui/views/chrome_typography_provider.h"
 
 #include "build/build_config.h"

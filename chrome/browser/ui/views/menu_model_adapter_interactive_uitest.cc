@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu model adapter interactive UI tests
+// summary: Interactive UI tests for menus driven by ui::MenuModel through MenuModelAdapter, including submenu show and close tracking.
+// ---
+
 #include "ui/views/controls/menu/menu_model_adapter.h"
 
 #include "base/functional/callback.h"

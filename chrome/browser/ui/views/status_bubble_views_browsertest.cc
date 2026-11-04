@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Status Bubble Views Browser Tests
+// summary: Browser tests covering status bubble widget lifetime, visibility, show and hide animations, and task runner swapping in the Views implementation.
+// ---
+
 #include "chrome/browser/ui/views/status_bubble_views.h"
 
 #include <utility>

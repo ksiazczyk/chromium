@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript Tab Modal Dialog View Views Header
+// summary: Declares the Views implementation of tab-modal JavaScript dialogs that automatically dismiss when the user switches to another browser tab.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_JAVASCRIPT_TAB_MODAL_DIALOG_VIEW_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_JAVASCRIPT_TAB_MODAL_DIALOG_VIEW_VIEWS_H_
 

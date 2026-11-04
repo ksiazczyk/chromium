@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uninstall confirmation dialog header
+// summary: Declares the uninstall dialog class that confirms Chrome removal and reports the user's selection.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_UNINSTALL_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_UNINSTALL_VIEW_H_
 

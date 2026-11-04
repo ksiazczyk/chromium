@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabIconView class declaration
+// summary: Declares TabIconView, a menu button view that displays a tab favicon or throbber and updates from a TabIconViewModel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TAB_ICON_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TAB_ICON_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen sharing controls histogram logging
+// summary: Logs UMA histograms for user interactions with screen-sharing controls such as stop, hide, and share-this-tab buttons.
+// ---
+
 #include "chrome/browser/ui/views/screen_sharing_util.h"
 
 #include "base/metrics/histogram_functions.h"

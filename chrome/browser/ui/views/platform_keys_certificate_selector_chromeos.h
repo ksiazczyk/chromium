@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform keys certificate selector header
+// summary: Declares the ChromeOS PlatformKeysCertificateSelector dialog class that explains extension certificate access requests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PLATFORM_KEYS_CERTIFICATE_SELECTOR_CHROMEOS_H_
 #define CHROME_BROWSER_UI_VIEWS_PLATFORM_KEYS_CERTIFICATE_SELECTOR_CHROMEOS_H_
 

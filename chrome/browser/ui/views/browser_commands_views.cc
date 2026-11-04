@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views implementation of browser UI commands
+// summary: Implements Views-specific browser command handlers, including UI debug commands that print view, window, and layer hierarchies and keyboard-focused tab index lookup.
+// ---
+
 #include "base/notreached.h"
 #include "build/build_config.h"
 #include "chrome/app/chrome_command_ids.h"

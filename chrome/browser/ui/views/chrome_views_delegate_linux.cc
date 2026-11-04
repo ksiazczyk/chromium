@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeViewsDelegate Linux implementation
+// summary: Implements ChromeViewsDelegate for Linux, selecting native widget types, window icons and detecting window managers that draw title bars over maximized windows.
+// ---
+
 #include "chrome/browser/ui/views/chrome_views_delegate.h"
 
 #include "base/environment.h"

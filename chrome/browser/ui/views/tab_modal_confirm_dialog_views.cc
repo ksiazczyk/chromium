@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModalConfirmDialogViews implementation
+// summary: Implements tab-modal confirmation dialogs built on a MessageBoxView, wiring delegate buttons, links, and constrained window display.
+// ---
+
 #include "chrome/browser/ui/views/tab_modal_confirm_dialog_views.h"
 
 #include <memory>

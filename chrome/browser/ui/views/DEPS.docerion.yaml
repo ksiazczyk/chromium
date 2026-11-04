@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for browser UI views
+summary: Sets allowed include directories for files in the browser UI views directory, with per-file exceptions.

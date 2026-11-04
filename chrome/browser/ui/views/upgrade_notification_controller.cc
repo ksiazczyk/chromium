@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upgrade Notification Controller Implementation
+// summary: Implements the controller that shows outdated install and critical upgrade notification bubbles in response to UpgradeDetector events.
+// ---
+
 #include "chrome/browser/ui/views/upgrade_notification_controller.h"
 
 #include "base/check_deref.h"

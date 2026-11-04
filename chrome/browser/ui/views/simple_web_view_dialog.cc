@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple web view dialog implementation
+// summary: Implements a dialog with a light toolbar and web contents, designed for captive portal sign-in when the browser is not running.
+// ---
+
 #include "chrome/browser/ui/views/simple_web_view_dialog.h"
 
 #include <memory>

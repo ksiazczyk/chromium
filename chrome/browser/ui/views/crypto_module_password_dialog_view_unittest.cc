@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crypto Module Password Dialog Unit Test
+// summary: Unit tests verifying that accepting the dialog returns the entered password, cancelling does not, and pressing escape runs the callback.
+// ---
+
 #include "chrome/browser/ui/views/crypto_module_password_dialog_view.h"
 
 #include <string>

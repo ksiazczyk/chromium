@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find bar view implementation
+// summary: Implements the find bar's UI controls, including the find text field, previous, next, and close buttons, and the match count label.
+// ---
+
 #include "chrome/browser/ui/views/find_bar_view.h"
 
 #include <algorithm>

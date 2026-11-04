@@ -1,0 +1,4 @@
+# Docerion header of certificate_viewer_mac_views.mm.
+type: source
+title: macOS certificate viewer for client auth
+summary: Shows the macOS certificate viewer for client authentication by invoking the OS viewer through a Mojo window interface.

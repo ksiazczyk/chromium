@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript App Modal Event Blocker Mac Header
+// summary: Placeholder Mac implementation of the JavaScript app modal event blocker that currently performs no blocking behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_JAVASCRIPT_APP_MODAL_EVENT_BLOCKER_MAC_H_
 #define CHROME_BROWSER_UI_VIEWS_JAVASCRIPT_APP_MODAL_EVENT_BLOCKER_MAC_H_
 

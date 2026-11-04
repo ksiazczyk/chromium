@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device credentials dialog header
+// summary: Declares the dialog class that lets the user enter Bluetooth credentials such as a PIN.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BLUETOOTH_DEVICE_CREDENTIALS_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_BLUETOOTH_DEVICE_CREDENTIALS_VIEW_H_
 

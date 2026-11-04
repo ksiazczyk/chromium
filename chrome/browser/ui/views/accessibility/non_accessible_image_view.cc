@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-accessible image view implementation
+// summary: Implements NonAccessibleImageView, an image view marked invisible to accessibility so screen readers do not traverse it.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/non_accessible_image_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

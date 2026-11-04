@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color Provider Browser Helper
+// summary: Declares a TabStripModelObserver that ensures WebContents in the tab strip observe the correct color provider source.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_COLOR_PROVIDER_BROWSER_HELPER_H_
 #define CHROME_BROWSER_UI_VIEWS_COLOR_PROVIDER_BROWSER_HELPER_H_
 

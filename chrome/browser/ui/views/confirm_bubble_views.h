@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm Bubble Views
+// summary: Declares a dialog delegate view that renders a confirmation bubble built from a ConfirmBubbleModel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CONFIRM_BUBBLE_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_CONFIRM_BUBBLE_VIEWS_H_
 

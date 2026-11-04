@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Dialog View Interactive UI Tests
+// summary: Interactive browser tests for views::WebDialogView covering window resizing, escape key handling, and dialog focus behavior.
+// ---
+
 #include "ui/views/controls/webview/web_dialog_view.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device credentials dialog implementation
+// summary: Implements a modal dialog prompting the user to enter a Bluetooth PIN for a device.
+// ---
+
 #include "chrome/browser/ui/views/bluetooth_device_credentials_view.h"
 
 #include <algorithm>

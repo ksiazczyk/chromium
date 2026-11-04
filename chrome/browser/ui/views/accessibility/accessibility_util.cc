@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility for announcing text in the active browser window
+// summary: Implements AnnounceInActiveBrowser, which announces a message through the active browser window's view accessibility, deferring while initial WebUI loads.
+// ---
+
 #include "chrome/browser/ui/accessibility_util.h"
 
 #include "base/functional/bind.h"

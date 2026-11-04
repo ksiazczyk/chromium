@@ -1,0 +1,4 @@
+# Docerion header of dump_accessibility_events_views_browsertest_base_mac.mm.
+type: test
+title: Mac accessibility event recorder support for Views dump tests
+summary: Implements the Mac-specific accessibility event recorder factory for Views dump tests, providing a stub manager that fires the sentinel end-of-test event when ViewsAX is disabled.

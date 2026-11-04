@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device chooser content view implementation
+// summary: Implements the table-based content view used in device chooser bubbles and dialogs for WebUSB and WebBluetooth device selection.
+// ---
+
 #include "chrome/browser/ui/views/device_chooser_content_view.h"
 
 #include <array>

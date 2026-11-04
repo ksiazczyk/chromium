@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle bubble views implementation
+// summary: Implements the bubble shown from the app menu after idle, offering to close or clear browsing data based on the requested actions.
+// ---
+
 #include "chrome/browser/ui/idle_bubble.h"
 
 #include <string>

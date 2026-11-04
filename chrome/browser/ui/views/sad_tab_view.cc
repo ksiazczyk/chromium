@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sad tab view implementation
+// summary: Implements the view rendering the crashed sad tab page, including title, message, selectable error code, action button and help link.
+// ---
+
 #include "chrome/browser/ui/views/sad_tab_view.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native widget factory header
+// summary: Declares the NativeWidgetType enum and the CreateNativeWidget function used to build Aura native widgets.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_NATIVE_WIDGET_FACTORY_H_
 #define CHROME_BROWSER_UI_VIEWS_NATIVE_WIDGET_FACTORY_H_
 

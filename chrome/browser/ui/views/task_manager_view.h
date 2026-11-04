@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task Manager View Header
+// summary: Declares the TaskManagerView dialog class that shows or hides the task manager window and handles table, tab, menu, and dialog events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TASK_MANAGER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TASK_MANAGER_VIEW_H_
 

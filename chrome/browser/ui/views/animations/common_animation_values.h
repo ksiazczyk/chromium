@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common flyout animation constants
+// summary: Header defining shared durations and tween types in the browser_animations namespace for panels that fly out over the browser content area.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_ANIMATIONS_COMMON_ANIMATION_VALUES_H_
 #define CHROME_BROWSER_UI_VIEWS_ANIMATIONS_COMMON_ANIMATION_VALUES_H_
 

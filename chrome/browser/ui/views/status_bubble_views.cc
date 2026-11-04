@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status Bubble Views Implementation
+// summary: Implements the Views status bubble that fades in over the browser chrome to show hovered link URLs and status text, with animation and expansion logic.
+// ---
+
 #include "chrome/browser/ui/views/status_bubble_views.h"
 
 #include <algorithm>

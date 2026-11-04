@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caret browsing dialog header
+// summary: Declares CaretBrowsingDialogDelegate, the dialog that confirms the user wants to enable caret browsing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_ACCESSIBILITY_CARET_BROWSING_DIALOG_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_ACCESSIBILITY_CARET_BROWSING_DIALOG_DELEGATE_H_
 

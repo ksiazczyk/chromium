@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device pair confirm dialog header
+// summary: Declares the dialog class for confirming Bluetooth device pairing with or without a PIN.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BLUETOOTH_DEVICE_PAIR_CONFIRM_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_BLUETOOTH_DEVICE_PAIR_CONFIRM_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views accessibility events browser test base header
+// summary: Declares DumpAccessibilityEventsViewsTestBase and ViewsEventTestParams for platform accessibility event testing in Views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_ACCESSIBILITY_DUMP_ACCESSIBILITY_EVENTS_VIEWS_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_UI_VIEWS_ACCESSIBILITY_DUMP_ACCESSIBILITY_EVENTS_VIEWS_BROWSERTEST_BASE_H_
 
