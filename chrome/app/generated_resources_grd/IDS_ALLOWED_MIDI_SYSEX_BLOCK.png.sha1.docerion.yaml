@@ -1,0 +1,4 @@
+# Docerion header of IDS_ALLOWED_MIDI_SYSEX_BLOCK.png.sha1.
+type: data
+title: IDS_ALLOWED_MIDI_SYSEX_BLOCK.png.sha1
+summary: Stores the SHA-1 hash of the translated PNG for the allowed MIDI system exclusive block string, used for translation tracking.

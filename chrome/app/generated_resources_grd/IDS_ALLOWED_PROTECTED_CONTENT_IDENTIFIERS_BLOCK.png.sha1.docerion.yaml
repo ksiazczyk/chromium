@@ -1,0 +1,4 @@
+# Docerion header of IDS_ALLOWED_PROTECTED_CONTENT_IDENTIFIERS_BLOCK.png.sha1.
+type: data
+title: IDS_ALLOWED_PROTECTED_CONTENT_IDENTIFIERS_BLOCK.png.sha1
+summary: Stores the SHA-1 hash of the translated PNG for the allowed protected content identifiers block string, used for translation tracking.
