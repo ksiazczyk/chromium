@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: test
+title: Android manifest for WebView embedded test server support
+summary: Android manifest declaring the AwEmbeddedTestServerService and the permissions needed by the Android WebView test support package.
+-->
+
 <!-- package name must be unique. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

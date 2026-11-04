@@ -1,0 +1,4 @@
+# Docerion header of prerender-webmessage-index.html.
+type: test
+title: Prerender webmessage index page
+summary: HTML main page that uses speculation rules to prerender the webmessage prerendered page.

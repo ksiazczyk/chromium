@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPlatformTestsActivity
+// summary: Activity that hosts WebViews for Web Platform Tests, handling WPT requests with multi-window support and test callbacks for child layout changes.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.app.Activity;

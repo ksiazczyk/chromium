@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the draw_fn test shell
+summary: Defines include rules for the draw_fn test shell directory, permitting public browser, gfx test, and draw_fn implementation headers.

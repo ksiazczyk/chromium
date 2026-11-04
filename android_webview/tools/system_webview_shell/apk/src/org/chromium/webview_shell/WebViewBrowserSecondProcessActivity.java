@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewBrowserSecondProcessActivity
+// summary: Duplicate of WebViewBrowserActivity configured to run in a separate process with a data directory suffix, for testing multiple processes using WebView.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.os.Build;

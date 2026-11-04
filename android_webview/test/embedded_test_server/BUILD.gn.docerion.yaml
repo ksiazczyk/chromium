@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebView embedded test server build targets
+summary: GN build file defining Java and native test support targets, JNI header generation, and the ChromiumNetTestAwSupport APK for the Android WebView embedded test server.
+relations:
+  - depends_on /build/config/android/config.gni
+  - depends_on /build/config/android/rules.gni
+  - depends_on /third_party/jni_zero/jni_zero.gni

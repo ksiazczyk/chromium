@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lightweight activity for WebView tests
+// summary: Minimal activity that loads the WebView library and hosts views for tests needing only WebView functionality, with intent capture and edge-to-edge setup.
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.content.Intent;

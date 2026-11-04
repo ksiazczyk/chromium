@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test container view for AwContents
+// summary: FrameLayout that stands in for WebView in tests, hosting AwContents with hardware rendering, surface management, and quadrant color readback support.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/AwContents.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.content.Context;

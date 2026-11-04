@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebPlatformTestsActivityTest
+// summary: Instrumentation tests verifying that the system WebView shell's WebPlatformTestsActivity handles web platform tests correctly, including opening and closing test windows.
+// ---
+
 package org.chromium.webview_shell.test;
 
 import static org.chromium.base.test.util.ScalableTimeout.scaleTimeout;

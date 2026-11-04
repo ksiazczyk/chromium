@@ -1,0 +1,6 @@
+# Docerion header of run_cts_test.py.
+type: test
+title: Unit Tests for the CTS Test Runner
+summary: Unit tests for the run_cts module, covering architecture and CTS release detection, expected-failure skipping, and test filter handling.
+relations:
+  - references /android_webview/tools/cts_config/webview_cts_gcs_path.json

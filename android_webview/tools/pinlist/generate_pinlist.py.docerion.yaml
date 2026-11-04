@@ -1,0 +1,4 @@
+# Docerion header of generate_pinlist.py.
+type: script
+title: Pinlist generator for libwebviewchromium.so
+summary: Python tool that installs a WebView build, runs pintool on an Android device to measure memory residency of libwebviewchromium.so, and generates a pinlist.

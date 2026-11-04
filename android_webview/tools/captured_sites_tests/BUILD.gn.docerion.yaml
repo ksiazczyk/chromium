@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Captured sites tests build targets
+summary: Defines GN targets for the WebView captured sites test app, Robolectric JUnit tests, and instrumentation test APK used for captured sites testing.
+relations:
+  - depends_on /build/config/android/rules.gni
+  - depends_on /testing/test.gni
+  - references /android_webview/tools/captured_sites_tests/java/AndroidManifest.xml

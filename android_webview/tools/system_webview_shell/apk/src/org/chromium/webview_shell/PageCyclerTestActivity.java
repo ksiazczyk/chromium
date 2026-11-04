@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView activity for page cycler bot testing
+// summary: Activity that hosts a WebView for loading URLs on Appurify bots to verify the WebView does not crash.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.app.Activity;

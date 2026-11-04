@@ -1,3 +1,11 @@
+---
+type: readme
+title: Android WebView CTS Test Configuration
+summary: Documents the format of the WebView CTS configuration JSON and how to skip, re-enable, or retroactively change CTS tests per Android release.
+relations:
+  - documents /android_webview/tools/cts_config/webview_cts_gcs_path.json
+---
+
 # Android WebView CTS Test Configuration
 
 Test apk(s) and tests to run on Android are configurable on a per

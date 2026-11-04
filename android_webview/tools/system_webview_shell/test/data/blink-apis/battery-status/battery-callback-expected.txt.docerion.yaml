@@ -1,0 +1,4 @@
+# Docerion header of battery-callback-expected.txt.
+type: test
+title: Battery Status API callback test expected results
+summary: Expected output for the WebView Battery Status API callback test, listing the pass conditions checked for battery level, charging, and timing values.

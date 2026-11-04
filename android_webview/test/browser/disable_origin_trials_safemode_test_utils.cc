@@ -1,6 +1,16 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Origin trials safe mode test utility
+// summary: JNI test helper that inspects the origin trial policy for tests, reporting whether non-deprecation or deprecation trials are disabled and whether the safe mode flag is set.
+// relations:
+//   - depends_on /components/embedder_support/origin_trials/origin_trial_policy_impl.h
+//   - depends_on /content/public/common/content_client.h
+// ---
+
 #include "components/embedder_support/origin_trials/origin_trial_policy_impl.h"
 #include "content/public/common/content_client.h"
 

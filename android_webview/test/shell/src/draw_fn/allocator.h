@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Draw functor allocator header
+// summary: Declares the Allocator class and FunctorData struct used to allocate and track draw functors in the WebView test shell.
+// relations:
+//   - depends_on /android_webview/public/browser/draw_fn.h
+//   - depends_on /base/containers/flat_map.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_TEST_SHELL_SRC_DRAW_FN_ALLOCATOR_H_
 #define ANDROID_WEBVIEW_TEST_SHELL_SRC_DRAW_FN_ALLOCATOR_H_
 

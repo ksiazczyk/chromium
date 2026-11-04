@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge-to-edge rendering utility for WebView shell activities
+// summary: Utility class that enables edge-to-edge rendering and applies window insets padding or passes insets down the hierarchy for WebView shell activities.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.view.View;

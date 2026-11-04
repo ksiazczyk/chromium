@@ -4,6 +4,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Inspect user actions activity layout
+summary: Layout for the user action inspection activity with record, re-record, and close buttons above a WebView.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

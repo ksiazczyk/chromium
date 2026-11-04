@@ -1,0 +1,4 @@
+# Docerion header of verify_bfcache2.html.
+type: test
+title: Second back/forward cache verification page
+summary: Second test page for back/forward cache checks, tracking pageshow persistence and completing awFullyLoadedFuture.

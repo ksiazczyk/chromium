@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextManager
+// summary: Java-side draw_fn framework implementation for tests that manages surfaces, overlays, and rendering functors through JNI, with Vulkan support.
+// ---
+
 package org.chromium.android_webview.shell;
 
 import android.view.Surface;

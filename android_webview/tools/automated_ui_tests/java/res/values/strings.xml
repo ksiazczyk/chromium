@@ -4,6 +4,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebView Automated Test App string resources
+summary: Android string resource file defining the app name for the WebView automated UI test application.
+-->
+
 <resources>
     <string name="app_name">WebView Automated Test App</string>
 </resources>

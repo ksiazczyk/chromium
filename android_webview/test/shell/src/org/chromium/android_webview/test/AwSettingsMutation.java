@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwSettings mutation wrapper for test variants
+// summary: Wrapper holding an optional AwSettings mutation consumer and a variant name used for parameterized WebView test runs.
+// ---
+
 package org.chromium.android_webview.test;
 
 import org.chromium.android_webview.AwSettings;

@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: CapturedSitesInstructionsTest
+// summary: Robolectric unit tests for CapturedSitesInstructions, checking that test JSON files build correct action sequences and fail on missing or empty input.
+// ---
+
 package org.chromium.webview_ui_test.test.robolectric;
 
 import static org.junit.Assert.assertNull;

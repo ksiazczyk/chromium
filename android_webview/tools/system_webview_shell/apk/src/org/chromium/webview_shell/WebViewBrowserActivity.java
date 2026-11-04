@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewBrowserActivity
+// summary: Mini-browser activity for manual WebView testing that loads an optional URL, shows a URL bar toolbar, and supports tracing and delayed startup for profiling.
+// relations:
+//   - depends_on /android_webview/tools/system_webview_shell/apk/src/org/chromium/webview_shell/EdgeToEdgeUtil.java
+// ---
+
 package org.chromium.webview_shell;
 
 import android.app.Activity;

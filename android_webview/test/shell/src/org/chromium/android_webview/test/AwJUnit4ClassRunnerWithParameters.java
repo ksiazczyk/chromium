@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parameterized JUnit4 runner for WebView tests
+// summary: Parameterization-aware extension of AwJUnit4ClassRunner that instantiates tests with parameters and skips mutated-settings variants marked with SkipMutations.
+// relations:
+//   - depends_on /android_webview/test/shell/src/org/chromium/android_webview/test/AwJUnit4ClassRunner.java
+//   - references /android_webview/test/shell/src/org/chromium/android_webview/test/SkipMutations.java
+//   - references /android_webview/test/shell/src/org/chromium/android_webview/test/AwSettingsMutation.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import org.junit.runner.Runner;

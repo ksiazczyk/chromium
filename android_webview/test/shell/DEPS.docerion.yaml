@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the WebView test shell
+summary: Defines include rules for the test shell directory, allowing policy Android javatests and content_public Java headers while blocking other content Java code.

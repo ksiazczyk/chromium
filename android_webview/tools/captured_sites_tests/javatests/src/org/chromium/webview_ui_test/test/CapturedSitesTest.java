@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CapturedSitesTest
+// summary: JUnit test class that runs captured-site WebView tests by executing instruction actions, including an autofill smoke test on a static page.
+// relations:
+//   - references /android_webview/tools/captured_sites_tests/test/data/smoke.test
+// ---
+
 package org.chromium.webview_ui_test.test;
 
 import static androidx.test.espresso.web.sugar.Web.onWebView;

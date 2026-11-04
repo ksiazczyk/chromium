@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewBrowserFragment
+// summary: Fragment implementing the browser UI logic of the WebView shell, including navigation, permissions, downloads, geolocation, state saving and profile handling.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.Manifest;

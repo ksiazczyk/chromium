@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotation to restrict tests to a process mode
+// summary: Annotation limiting a test method or class to single-process, multi-process, either, or both modes, with method-level annotations taking precedence.
+// ---
+
 package org.chromium.android_webview.test;
 
 import java.lang.annotation.ElementType;

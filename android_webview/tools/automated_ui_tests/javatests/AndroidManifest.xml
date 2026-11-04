@@ -4,6 +4,12 @@
  * found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for the WebView UI test app
+summary: Declares the org.chromium.webview_ui_test package, its exported WebViewUiTestActivity, and the BaseChromiumAndroidJUnitRunner instrumentation used to run the automated WebView UI tests.
+-->
+
 <manifest
       xmlns:android="http://schemas.android.com/apk/res/android"
       package="org.chromium.webview_ui_test">

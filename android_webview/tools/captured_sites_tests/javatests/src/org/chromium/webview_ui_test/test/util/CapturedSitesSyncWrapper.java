@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synchronizing WebView wrapper for captured site tests
+// summary: Wraps a WebView to signal tests when page load and JavaScript execution finish and collects console error messages.
+// ---
+
 package org.chromium.webview_ui_test.test.util;
 
 import static androidx.test.InstrumentationRegistry.getInstrumentation;

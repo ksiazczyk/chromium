@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the page cycler
+summary: Defines include rules that block content javatests and allow content test android javatests for this directory.

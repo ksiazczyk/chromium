@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewAnimationTestActivity
+// summary: Activity that exercises transform animations on a WebView using an embedded grid HTML page with controls for translate, scale and other animation options.
+// relations:
+//   - depends_on /android_webview/tools/system_webview_shell/apk/src/org/chromium/webview_shell/EdgeToEdgeUtil.java
+// ---
+
 package org.chromium.webview_shell;
 
 import android.os.Bundle;

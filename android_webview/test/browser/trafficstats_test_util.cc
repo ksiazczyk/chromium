@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrafficStats tagged bytes test utility
+// summary: JNI test helper that exposes net tagged byte queries, reporting whether tagged bytes can be read and returning the byte count for an expected tag.
+// relations:
+//   - depends_on /net/socket/socket_test_util.h
+// ---
+
 #include "net/socket/socket_test_util.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

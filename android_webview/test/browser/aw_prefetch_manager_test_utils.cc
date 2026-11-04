@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefetch manager test utility
+// summary: JNI test helper that installs a testing pref service to set or clear the latest prefetch origin and JavaScript-enabled state for AwPrefetchManager tests.
+// relations:
+//   - depends_on /android_webview/browser/prefetch/aw_prefetch_manager.h
+//   - depends_on /android_webview/browser/prefetch/aw_prefetch_prefs.h
+//   - depends_on /base/android/jni_string.h
+// ---
+
 #include "android_webview/browser/prefetch/aw_prefetch_manager.h"
 #include "android_webview/browser/prefetch/aw_prefetch_prefs.h"
 #include "base/android/jni_string.h"

@@ -1,0 +1,6 @@
+# Docerion header of mediastream-permission-denied-callbacks.html.
+type: test
+title: MediaStream permission denied callbacks test page
+summary: HTML test page that verifies getUserMedia fails with a NotAllowedError callback in WebView when the audio and video capture permission request is denied.
+relations:
+  - references /android_webview/tools/system_webview_shell/test/data/resources/js-test.js

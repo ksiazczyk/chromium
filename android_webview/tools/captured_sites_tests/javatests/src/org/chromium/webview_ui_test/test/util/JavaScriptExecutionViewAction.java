@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Espresso ViewAction to execute JavaScript in a WebView
+// summary: Espresso ViewAction that evaluates a JavaScript script in a WebView and captures the return value through a callback.
+// ---
+
 package org.chromium.webview_ui_test.test.util;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isAssignableFrom;

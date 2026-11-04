@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript test helpers for Android WebView layout tests
+// summary: Shared JavaScript helper library providing debug logging, pass/fail reporting and comparison assertion functions used by Android WebView layout tests.
+// ---
+
 debug = function debug(msg)
 {
     console.log(msg);

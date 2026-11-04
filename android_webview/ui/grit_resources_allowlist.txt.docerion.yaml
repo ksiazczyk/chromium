@@ -1,0 +1,4 @@
+# Docerion header of grit_resources_allowlist.txt.
+type: config
+title: GRit resource allowlist for Android WebView
+summary: Lists IDR_* resource identifiers that WebView may use from shared GRD files, since non-allowlisted resources are trimmed by default.

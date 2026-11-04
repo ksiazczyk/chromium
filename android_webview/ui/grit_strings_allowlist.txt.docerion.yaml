@@ -1,0 +1,4 @@
+# Docerion header of grit_strings_allowlist.txt.
+type: config
+title: GRit string allowlist for Android WebView
+summary: Lists IDS_* string identifiers that WebView may use from shared GRD files, covering error pages, Safe Browsing interstitials, and autofill labels.

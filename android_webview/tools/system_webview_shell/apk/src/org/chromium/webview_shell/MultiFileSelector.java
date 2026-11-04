@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Activity result contract for multi-file selection
+// summary: ActivityResultContract that creates the file chooser intent and parses single or multiple selected file URIs for WebView file selection.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.app.Activity;

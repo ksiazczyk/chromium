@@ -1,0 +1,6 @@
+# Docerion header of requestmidiaccess.html.
+type: test
+title: Test page for requestMIDIAccess without options
+summary: Layout test page that requests MIDI access without options and expects success with sysexEnabled false in WebView.
+relations:
+  - depends_on /android_webview/tools/system_webview_shell/test/data/resources/js-test.js

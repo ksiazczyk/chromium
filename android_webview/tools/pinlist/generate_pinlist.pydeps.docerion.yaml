@@ -1,0 +1,7 @@
+# Docerion header of generate_pinlist.pydeps.
+type: config
+title: Python dependencies for generate_pinlist
+summary: Generated list of Python module paths that generate_pinlist.py depends on, consumed by the build's pydeps tooling.
+relations:
+  - references /build/print_python_deps.py
+  - references /android_webview/tools/pinlist/generate_pinlist.py

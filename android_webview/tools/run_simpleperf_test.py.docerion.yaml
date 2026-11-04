@@ -1,0 +1,6 @@
+# Docerion header of run_simpleperf_test.py.
+type: test
+title: Unit Tests for the Simpleperf Tool
+summary: Unit tests for run_simpleperf, covering stack address interpretation and postprocessing of simpleperf reports.
+relations:
+  - tests /android_webview/tools/run_simpleperf.py

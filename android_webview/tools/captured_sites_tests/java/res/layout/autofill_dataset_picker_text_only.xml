@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: source
+title: Autofill dataset picker text-only layout
+summary: Android layout resource for a text-only autofill dataset picker, containing a horizontal LinearLayout with a single TextView in the WebView captured sites tests.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InspectUserActionsActivity for recording WebView user actions
+// summary: Android activity in the WebView shell that records and displays WebView user actions locally, toggling JavaScript recording and staying alive in the background while the browser activity runs on top.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.content.Intent;

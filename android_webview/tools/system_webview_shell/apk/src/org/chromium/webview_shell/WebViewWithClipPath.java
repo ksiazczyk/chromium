@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView subclass applying a clip path during drawing
+// summary: A WebView subclass for the system WebView shell test APK that optionally clips its canvas to a rounded-rect path in onDraw to trigger external stencil behavior.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.content.Context;

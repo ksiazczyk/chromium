@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UseWideViewPortAction Espresso ViewAction for WebView
+// summary: Implements an Espresso ViewAction that sets the WebView useWideViewPort setting and waits for the main thread to idle.
+// relations:
+//   - references /android_webview/tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/util/WebViewUiTestRule.java
+// ---
+
 package org.chromium.webview_ui_test.test;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isAssignableFrom;

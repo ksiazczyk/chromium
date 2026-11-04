@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: AutofillProfileTest
+// summary: Robolectric unit tests for the AutofillProfile utility, verifying JSON profile parsing and failure cases such as missing, empty, or duplicate fields.
+// ---
+
 package org.chromium.webview_ui_test.test.robolectric;
 
 import static org.junit.Assert.assertEquals;

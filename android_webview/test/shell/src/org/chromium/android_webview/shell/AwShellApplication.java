@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwShellApplication
+// summary: Application subclass of the WebView test shell that initializes the application context, private data directory, command line file, and available pak locales.
+// ---
+
 package org.chromium.android_webview.shell;
 
 import android.app.Application;

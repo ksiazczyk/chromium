@@ -1,3 +1,9 @@
+---
+type: readme
+title: Captured Sites Testing for WebView
+summary: Describes the captured sites testing suite for Android WebView Autofill, which tests autofill against saved website copies without relying on the live sites.
+---
+
 Captured Sites Testing for Webview.
 
 This testing suite provides captured sites testing for Android Webview's Autofill functionality.

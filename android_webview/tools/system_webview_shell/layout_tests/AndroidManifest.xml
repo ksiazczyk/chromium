@@ -5,6 +5,12 @@
  * found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for WebView shell layout tests
+summary: Declares the org.chromium.webview_shell.test package with required permissions and an instrumentation runner targeting the WebView shell for layout tests.
+-->
+
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.chromium.webview_shell.test"

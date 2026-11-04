@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlays manager interface
+// summary: Declares the OverlaysManager and ScopedDraw helpers for managing overlay surfaces during GL and Vulkan functor draws.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /ui/gfx/android/android_surface_control_compat.h
+//   - depends_on /ui/gl/android/scoped_a_native_window.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_TEST_SHELL_SRC_DRAW_FN_OVERLAYS_MANAGER_H_
 #define ANDROID_WEBVIEW_TEST_SHELL_SRC_DRAW_FN_OVERLAYS_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView activity for memory pressure signal testing
+// summary: Activity that loads a blank page and handles debug intents to send memory pressure signals for WebView testing.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.app.Activity;

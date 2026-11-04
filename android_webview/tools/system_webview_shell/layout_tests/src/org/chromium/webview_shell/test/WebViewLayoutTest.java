@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebViewLayoutTest
+// summary: Runs end-to-end WebView layout tests against expected result files in the shell's test data directory, with an optional rebaseline mode for updating expectations.
+// relations:
+//   - references /android_webview/javatests/src/org/chromium/android_webview/test/WebExposedTest.java
+// ---
+
 package org.chromium.webview_shell.test;
 
 import android.content.pm.PackageManager;

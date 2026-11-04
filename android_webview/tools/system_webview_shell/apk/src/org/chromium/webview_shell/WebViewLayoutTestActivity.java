@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewLayoutTestActivity
+// summary: Activity for running WebView layout tests that loads a URL and captures JavaScript console messages, permission prompts and errors until the test finishes.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.app.Activity;

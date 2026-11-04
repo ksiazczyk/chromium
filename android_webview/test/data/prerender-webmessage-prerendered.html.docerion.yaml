@@ -1,0 +1,4 @@
+# Docerion header of prerender-webmessage-prerendered.html.
+type: test
+title: Prerender webmessage prerendered page
+summary: HTML page that posts messages through listeners while prerendered, for web message tests.

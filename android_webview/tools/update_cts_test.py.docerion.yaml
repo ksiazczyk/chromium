@@ -1,0 +1,8 @@
+# Docerion header of update_cts_test.py.
+type: test
+title: Unit Tests for the CTS Update Tool
+summary: Unit tests for update_cts, verifying that CTS git tags are parsed and the CTS configuration file is updated with the latest release versions.
+relations:
+  - tests /android_webview/tools/update_cts.py
+  - depends_on /android_webview/tools/cts_utils.py
+  - depends_on /android_webview/tools/cts_utils_test.py

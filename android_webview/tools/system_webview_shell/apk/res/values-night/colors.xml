@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: config
+title: Night mode color values for the System WebView shell
+summary: Defines dark-theme color resources (url_color and url_error_color) that the System WebView shell APK uses when the device is in night mode.
+-->
+
 <resources>
     <color name="url_color">#F2F2F2</color>
     <color name="url_error_color">#F20000</color>

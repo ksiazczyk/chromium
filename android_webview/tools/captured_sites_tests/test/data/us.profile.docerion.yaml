@@ -1,0 +1,4 @@
+# Docerion header of us.profile.
+type: test
+title: US autofill profile test fixture
+summary: Sample US autofill profile with credit card, name, address, email and phone values used as input data for the captured-sites autofill tests.

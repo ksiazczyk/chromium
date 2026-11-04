@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock AwContentsClientBridge for WebView unit tests
+// summary: Java mock of AwContentsClientBridge that records client certificate selection requests and supplies test certificate data for the native aw_contents_client_bridge_unittest.
+// relations:
+//   - dependency_of /android_webview/browser/aw_contents_client_bridge_unittest.cc
+// ---
+
 package org.chromium.android_webview.unittest;
 
 import org.jni_zero.CalledByNative;

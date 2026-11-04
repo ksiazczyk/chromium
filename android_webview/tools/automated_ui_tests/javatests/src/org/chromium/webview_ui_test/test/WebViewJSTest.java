@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView JavaScript interaction tests
+// summary: Espresso test suite that loads JavaScript into a WebView and verifies interactions such as the alert dialog button click flow.
+// ---
+
 package org.chromium.webview_ui_test.test;
 
 import static androidx.test.espresso.Espresso.onView;

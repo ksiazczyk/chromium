@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS of the pinlist tool
+summary: Lists the email addresses of the people responsible for reviewing changes in the pinlist tool directory.

@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: test
+title: WebView test build targets
+summary: Defines the GN build targets for WebView tests, including unit, JUnit, instrumentation, CTS, component smoke and Web Platform tests.
+relations:
+  - configured_by /android_webview/system_webview_apk_tmpl.gni
+  - configured_by /android_webview/test/shared.gni
+  - configured_by /android_webview/variables.gni

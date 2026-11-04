@@ -1,0 +1,6 @@
+# Docerion header of requestmidiaccess-permission-denied.html.
+type: test
+title: Test page for denied requestMIDIAccess with sysex
+summary: Layout test page that requests MIDI access with sysex and expects the permission request to be denied in WebView.
+relations:
+  - depends_on /android_webview/tools/system_webview_shell/test/data/resources/js-test.js

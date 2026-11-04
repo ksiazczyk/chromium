@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Espresso view actions for WebView tests
+// summary: Provides Espresso ViewActions such as setUseWideViewPort and scrollBy that help drive WebView UI tests.
+// ---
+
 package org.chromium.webview_ui_test.test.util;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isAssignableFrom;

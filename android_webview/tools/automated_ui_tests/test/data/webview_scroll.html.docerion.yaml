@@ -1,0 +1,4 @@
+# Docerion header of webview_scroll.html.
+type: test
+title: Scrollable WebView test page with centered select menu
+summary: Scrollable test fixture page with a select menu placed in the middle, used by WebView automated UI tests for scroll and dropdown scenarios.

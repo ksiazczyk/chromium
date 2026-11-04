@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView UI test activity
+// summary: Android Activity for WebView UI testing that sets its content view to a layout named by an intent extra and logs an error when no layout is specified.
+// ---
+
 package org.chromium.webview_ui_test;
 
 import android.app.Activity;

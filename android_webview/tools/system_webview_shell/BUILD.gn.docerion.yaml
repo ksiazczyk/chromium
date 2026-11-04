@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebView shell GN build targets (BUILD.gn)
+summary: Defines the GN build targets for the System WebView shell, including the browser, layout test, and page cycler APKs, with a configurable package name and lint settings.
+relations:
+  - depends_on /build/config/android/rules.gni
+  - depends_on /testing/test.gni
+  - references /android_webview/tools/system_webview_shell/lint-baseline.xml

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwShellResourceProvider
+// summary: Registers the shell's Android resources with the WebView library once, including the key system UUID mapping config.
+// ---
+
 package org.chromium.android_webview.shell;
 
 import android.content.Context;

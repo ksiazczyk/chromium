@@ -1,0 +1,6 @@
+# Docerion header of run_startup_time_test.sh.
+type: script
+title: WebView shell startup time test script
+summary: Pushes a test HTML page over adb, then launches the WebView shell StartupTimeActivity 100 times so startup times can be read from logcat.
+relations:
+  - tests /android_webview/tools/system_webview_shell/apk/src/org/chromium/webview_shell/StartupTimeActivity.java

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JNI helper to force memory metrics recording
+// summary: Native JNI helper that forces the WebView memory metrics logger to record histograms via a WaitableEvent for use in instrumentation tests.
+// relations:
+//   - depends_on /android_webview/browser/metrics/memory_metrics_logger.h
+//   - depends_on /base/synchronization/waitable_event.h
+//   - depends_on /base/task/sequenced_task_runner.h
+// ---
+
 #include "android_webview/browser/metrics/memory_metrics_logger.h"
 #include "base/synchronization/waitable_event.h"
 #include "base/task/sequenced_task_runner.h"

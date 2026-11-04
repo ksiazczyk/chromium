@@ -1,0 +1,6 @@
+# Docerion header of basic-logging.html.
+type: test
+title: Basic logging test page
+summary: HTML test page that uses js-test resources to log debug output and test runner state into WebView.
+relations:
+  - depends_on /android_webview/tools/system_webview_shell/test/data/resources/js-test.js

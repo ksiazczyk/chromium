@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: config
+title: WebView shell color resources
+summary: Defines color resources for the WebView shell APK, including the URL text color and the red URL error color used by the browser tester UI.
+-->
+
 <resources>
     <color name="url_color">#080808</color>
     <color name="url_error_color">#F20000</color>

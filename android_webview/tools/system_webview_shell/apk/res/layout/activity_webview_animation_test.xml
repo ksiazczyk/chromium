@@ -4,6 +4,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: WebView animation test activity layout
+summary: Layout for the animation test activity with translate, scale, and rotate buttons, layer and stencil checkboxes, an alpha slider, and a clipped WebView.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

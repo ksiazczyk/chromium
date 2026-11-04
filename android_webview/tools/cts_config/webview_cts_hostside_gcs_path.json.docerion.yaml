@@ -1,0 +1,4 @@
+# Docerion header of webview_cts_hostside_gcs_path.json.
+type: config
+title: WebView Host-Side CTS GCS Path Configuration
+summary: Per-Android-release JSON config listing host-side WebView CTS zip archives for arm64 and x86, with excluded host-side tests tied to bug IDs.

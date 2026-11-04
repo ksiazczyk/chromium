@@ -1,0 +1,6 @@
+# Docerion header of run_cts.pydeps.
+type: config
+title: Python Dependency List for run_cts
+summary: Generated list of Python module dependencies for run_cts.py, produced by build/print_python_deps.py and used for dependency checking.
+relations:
+  - references /build/print_python_deps.py

@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: config
+title: System WebView Shell v29 theme resources
+summary: Android resource file defining the ShellTheme style for API 29 and above, enabling force dark and marking the theme as light in the System WebView Shell APK.
+-->
+
 <resources>
   <style name="ShellTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
     <item name="android:forceDarkAllowed">true</item>

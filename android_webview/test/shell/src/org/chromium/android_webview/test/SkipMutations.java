@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotation to skip AwSettings mutations
+// summary: Method annotation that excludes a test from running with mutated AwSettings when the test asserts default setting values on entry.
+// ---
+
 package org.chromium.android_webview.test;
 
 import java.lang.annotation.ElementType;
