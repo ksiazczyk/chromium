@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformKeysService core implementation
+// summary: Implements the core PlatformKeysService and its delegate with shutdown handling and observer notification, leaving NSS-specific operations to a separate file.
+// ---
+
 #include "chrome/browser/ash/platform_keys/platform_keys_service.h"
 
 #include <map>

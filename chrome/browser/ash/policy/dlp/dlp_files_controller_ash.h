@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP files controller for Ash class
+// summary: Declares DlpFilesControllerAsh, which enforces data leak prevention rules on file transfers and defines file metadata and restriction detail structs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DLP_DLP_FILES_CONTROLLER_ASH_H_
 #define CHROME_BROWSER_ASH_POLICY_DLP_DLP_FILES_CONTROLLER_ASH_H_
 

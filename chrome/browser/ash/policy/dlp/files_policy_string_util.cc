@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files policy string utilities
+// summary: Provides localized title, message and button strings for DLP file block and warning notifications across file actions and block reasons.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/files_policy_string_util.h"
 
 #include <string>

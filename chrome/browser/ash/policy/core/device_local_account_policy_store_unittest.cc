@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device local account policy store unit tests
+// summary: Unit tests for the device-local account policy store, checking policy validation, storage and load behavior using a fake session manager.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_local_account_policy_store.h"
 
 #include <cstddef>

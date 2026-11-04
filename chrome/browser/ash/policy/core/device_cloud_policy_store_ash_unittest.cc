@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceCloudPolicyStoreAsh unit tests
+// summary: Unit tests for the Ash device cloud policy store, verifying policy storage, validation, install attributes locking, and error statuses.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_cloud_policy_store_ash.h"
 
 #include <stdint.h>

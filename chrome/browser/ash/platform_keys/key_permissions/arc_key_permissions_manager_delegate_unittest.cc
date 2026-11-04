@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC key permissions manager delegate unit tests
+// summary: Unit tests verifying ARC usage allowance behavior of the key permissions manager delegates with policies and ARC packages.
+// ---
+
 #include "chrome/browser/ash/platform_keys/key_permissions/arc_key_permissions_manager_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy file utility implementation
+// summary: Implements GetUniqueSubDirectoryForAccountID, which builds a stable subdirectory name from an account ID, hashing long IDs to fit path limits.
+// ---
+
 #include "chrome/browser/ash/policy/core/file_util.h"
 
 #include <string>

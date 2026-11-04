@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment status class declaration
+// summary: Declares EnrollmentStatus, which describes enrollment results with status codes and component-specific error details for logging and reporting.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_ENROLLMENT_ENROLLMENT_STATUS_H_
 #define CHROME_BROWSER_ASH_POLICY_ENROLLMENT_ENROLLMENT_STATUS_H_
 

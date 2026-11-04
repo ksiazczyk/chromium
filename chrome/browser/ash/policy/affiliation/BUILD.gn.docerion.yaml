@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for affiliation test support and browser tests
+summary: Defines the GN targets for the affiliation test support static library and the user affiliation browser test source set, with their sources and dependencies.

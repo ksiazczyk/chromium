@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for platform keys services
+summary: Defines static libraries for the platform keys and keystore services plus test support, unit test and browser test targets.

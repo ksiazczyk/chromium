@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-local account extension tracker implementation
+// summary: Implements tracking of extensions used by device-local accounts so their schemas are registered in the SchemaRegistry, enabling policy precaching for kiosk and public sessions.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_local_account_extension_tracker.h"
 
 #include "base/notreached.h"

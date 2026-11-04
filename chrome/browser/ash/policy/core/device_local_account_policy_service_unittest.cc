@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device local account policy service unit tests
+// summary: Unit tests for the device-local account policy service, covering policy fetching, extension caching and account change handling with mock providers.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_local_account_policy_service.h"
 
 #include <algorithm>

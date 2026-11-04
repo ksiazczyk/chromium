@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-local account policy provider header
+// summary: Declares a configuration policy provider for device-local accounts that keeps serving current policy even when the account disappears from the service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_LOCAL_ACCOUNT_POLICY_PROVIDER_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_LOCAL_ACCOUNT_POLICY_PROVIDER_H_
 

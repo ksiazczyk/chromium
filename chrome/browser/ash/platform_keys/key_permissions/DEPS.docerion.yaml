@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Key permissions include rules
+summary: DEPS file restricting and listing the include dependencies allowed for the key permissions directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unaffiliated ARC allowed browser test
+// summary: Parameterized browser test verifying that the unaffiliated ARC allowed device policy governs ARC availability for affiliated and unaffiliated users.
+// ---
+
 #include <set>
 
 #include "base/command_line.h"

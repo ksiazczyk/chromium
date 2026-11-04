@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment token provider unit tests
+// summary: Unit tests verifying GetEnrollmentToken behavior across branding, Flex device and OOBE configuration scenarios.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/enrollment_token_provider.h"
 
 #include <optional>

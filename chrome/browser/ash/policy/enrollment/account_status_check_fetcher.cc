@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account status check fetcher implementation
+// summary: Implements fetching the user account status from the device management server and parsing account type and enrollment nudge policy.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/account_status_check_fetcher.h"
 
 #include <string>

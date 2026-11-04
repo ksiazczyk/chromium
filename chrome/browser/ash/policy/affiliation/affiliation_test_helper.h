@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationTestHelper header
+// summary: Declares AffiliationTestHelper with methods for setting affiliation IDs, pre-registering and logging in users, and appending login manager command line switches.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_AFFILIATION_AFFILIATION_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_POLICY_AFFILIATION_AFFILIATION_TEST_HELPER_H_
 

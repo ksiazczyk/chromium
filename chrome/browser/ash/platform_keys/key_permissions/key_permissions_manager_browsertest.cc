@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key permissions manager browser tests
+// summary: In-process browser tests verifying key permission handling and one-time migration for system and user private tokens.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

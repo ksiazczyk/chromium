@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Enrollment directory owners
+summary: Lists the code owners for the enrollment directory, including a per-file owner for auto-enrollment files.

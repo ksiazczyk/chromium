@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to shared policy owners
+summary: Delegates directory ownership review to the OWNERS file in chromeos/ash/components/policy.

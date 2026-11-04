@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake user private token KPM service implementation
+// summary: Implements a fake user private token key permissions manager service that returns a provided KeyPermissionsManager for tests.
+// ---
+
 #include "chrome/browser/ash/platform_keys/key_permissions/fake_user_private_token_kpm_service.h"
 
 #include <memory>

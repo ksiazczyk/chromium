@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserPolicyConnectorAsh implementation
+// summary: Implements the Chrome OS browser policy connector that wires device and user cloud policy components and various policy handlers.
+// ---
+
 #include "chrome/browser/ash/policy/core/browser_policy_connector_ash.h"
 
 #include <stdint.h>

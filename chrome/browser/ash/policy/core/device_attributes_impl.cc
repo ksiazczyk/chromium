@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device attributes implementation
+// summary: Implements DeviceAttributes by forwarding calls to BrowserPolicyConnectorAsh to retrieve attributes of managed ChromeOS devices.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_attributes_impl.h"
 
 #include <string>

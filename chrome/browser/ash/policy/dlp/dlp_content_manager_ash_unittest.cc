@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DlpContentManagerAsh unit tests
+// summary: Unit tests for DlpContentManagerAsh using a mock rules manager and warn notifier to verify restrictions, warnings, and reporting behavior.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dlp_content_manager_ash.h"
 
 #include <memory>

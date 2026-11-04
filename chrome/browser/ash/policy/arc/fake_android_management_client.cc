@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Android management client implementation
+// summary: Implements FakeAndroidManagementClient, a test double that records calls and asynchronously returns a preset management check result.
+// ---
+
 #include "chrome/browser/ash/policy/arc/fake_android_management_client.h"
 
 #include <utility>

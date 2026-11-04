@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock DLP files controller for Ash
+// summary: Implements a gmock DlpFilesControllerAsh with permissive default actions such as allowing launches, downloads and uploads for tests.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/test/mock_dlp_files_controller_ash.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

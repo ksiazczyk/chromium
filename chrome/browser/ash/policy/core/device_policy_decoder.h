@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device policy decoder header
+// summary: Declares DecodeDevicePolicy, which converts ChromeDeviceSettingsProto into a PolicyMap, plus JSON decoding and normalization helpers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_POLICY_DECODER_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_POLICY_DECODER_H_
 

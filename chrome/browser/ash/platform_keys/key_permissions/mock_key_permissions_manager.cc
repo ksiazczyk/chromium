@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockKeyPermissionsManager implementation
+// summary: Defines the constructor and destructor of the MockKeyPermissionsManager test double.
+// ---
+
 #include "chrome/browser/ash/platform_keys/key_permissions/mock_key_permissions_manager.h"
 
 namespace ash::platform_keys {

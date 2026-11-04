@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationMixin test mixin implementation
+// summary: Implements the AffiliationMixin browser test mixin that sets up device and user affiliation IDs so the user is affiliated or unaffiliated as configured.
+// ---
+
 #include "chrome/browser/ash/policy/affiliation/affiliation_mixin.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting user tracker unit tests
+// summary: Unit tests verifying that ReportingUserTracker only reports affiliated regular users and persists the reporting decision across user manager restarts.
+// ---
+
 #include "chrome/browser/ash/policy/core/reporting_user_tracker.h"
 
 #include <memory>

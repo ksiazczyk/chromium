@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash policy core
+summary: Defines the allowed include dependencies for the directory, restricting ChromeOS code from depending on //chrome with per-file exceptions.

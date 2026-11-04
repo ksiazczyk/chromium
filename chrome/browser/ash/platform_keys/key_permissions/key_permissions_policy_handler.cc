@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key permissions policy handler
+// summary: Implements the schema-validating policy handler for the KeyPermissions enterprise policy.
+// ---
+
 #include "chrome/browser/ash/platform_keys/key_permissions/key_permissions_policy_handler.h"
 
 #include "components/policy/core/common/schema.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeystoreServiceFactory implementation
+// summary: Creates per-browser-context KeystoreService instances and declares dependencies on the platform keys and key permissions factories.
+// ---
+
 #include "chrome/browser/ash/platform_keys/keystore_service_factory.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper declarations for PSM RLWE tests
+// summary: Declares LoadTestCase and CreateClientFactory helpers that supply RLWE test cases and client factories for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_ENROLLMENT_PSM_RLWE_TEST_SUPPORT_H_
 #define CHROME_BROWSER_ASH_POLICY_ENROLLMENT_PSM_RLWE_TEST_SUPPORT_H_
 

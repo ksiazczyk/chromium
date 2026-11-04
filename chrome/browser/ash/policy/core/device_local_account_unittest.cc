@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device local account unit tests
+// summary: Tests parsing of device-local account settings, including ephemeral mode defaults and handling of invalid or missing values.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_local_account.h"
 
 #include <utility>

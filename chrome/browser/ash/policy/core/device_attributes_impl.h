@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device attributes implementation declaration
+// summary: Declares the DeviceAttributesImpl class that forwards device attribute queries to BrowserPolicyConnectorAsh.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_ATTRIBUTES_IMPL_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_ATTRIBUTES_IMPL_H_
 

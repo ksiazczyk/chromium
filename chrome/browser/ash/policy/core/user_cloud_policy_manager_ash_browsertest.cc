@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User cloud policy manager browser tests
+// summary: Browser tests covering first sign-in scenarios for managed and consumer users and how profile initialization waits for user cloud policy.
+// ---
+
 #include <array>
 #include <memory>
 #include <string>

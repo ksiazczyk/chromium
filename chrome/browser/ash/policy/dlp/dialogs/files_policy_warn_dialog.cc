@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files policy warn dialog implementation
+// summary: Implements the warning dialog that lets users proceed past data protection warnings, optionally requiring a bypass justification.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dialogs/files_policy_warn_dialog.h"
 
 #include <optional>

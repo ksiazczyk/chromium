@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeystoreServiceFactory header
+// summary: Declares the ProfileKeyedServiceFactory that provides KeystoreService instances for browser contexts.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PLATFORM_KEYS_KEYSTORE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_PLATFORM_KEYS_KEYSTORE_SERVICE_FACTORY_H_
 

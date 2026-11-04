@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-local account policy service implementation
+// summary: Implements the service that manages policy brokers and stores for all device-local accounts, including cleanup of orphaned extension cache directories.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_local_account_policy_service.h"
 
 #include <memory>

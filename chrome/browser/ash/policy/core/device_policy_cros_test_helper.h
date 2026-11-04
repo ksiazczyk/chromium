@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device policy ChromeOS test helper
+// summary: Declares DevicePolicyCrosTestHelper, which carries device policies for tests and provides owner key installation and policy refresh utilities.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_POLICY_CROS_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_POLICY_CROS_TEST_HELPER_H_
 

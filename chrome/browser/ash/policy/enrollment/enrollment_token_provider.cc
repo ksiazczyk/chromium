@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment token provider implementation
+// summary: Implements GetEnrollmentToken, which reads the enrollment token from the OOBE configuration for ChromeOS Flex devices.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/enrollment_token_provider.h"
 
 #include "ash/constants/ash_switches.h"

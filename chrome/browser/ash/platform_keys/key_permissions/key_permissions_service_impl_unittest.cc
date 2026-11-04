@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyPermissionsServiceImpl unit tests
+// summary: Unit tests for KeyPermissionsServiceImpl covering corporate key detection and permission granting using mocked platform keys services and key permissions managers.
+// ---
+
 #include "chrome/browser/ash/platform_keys/key_permissions/key_permissions_service_impl.h"
 
 #include <stdint.h>

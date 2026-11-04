@@ -1,3 +1,9 @@
+---
+type: readme
+title: Key Permissions
+summary: Explains platform key permissions, corporate key usages and the signing permissions granted to extensions.
+---
+
 # Key Permissions
 
 This directory contains code managing platform key permissions.

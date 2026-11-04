@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device attributes browser tests
+// summary: Browser tests verifying that DeviceAttributes returns enterprise domain, asset ID, serial number, hostname and other device attributes before and after device policy setup.
+// ---
+
 #include <memory>
 #include <optional>
 

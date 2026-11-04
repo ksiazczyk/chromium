@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for ChromeOS DLP policy code
+summary: GN build file defining the dlp static library and unit_tests target with sources and dependencies for the ChromeOS data leak prevention code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceCloudPolicyStoreAsh class declaration
+// summary: Declares DeviceCloudPolicyStoreAsh, the CloudPolicyStore implementation for device policy on Ash that persists policy via the session manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_CLOUD_POLICY_STORE_ASH_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_CLOUD_POLICY_STORE_ASH_H_
 

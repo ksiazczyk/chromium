@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the policy directory
+summary: Defines allowed include dependencies for chrome/browser/ash/policy, listing specific //chrome and third_party/remoting paths plus per-test-file exceptions.

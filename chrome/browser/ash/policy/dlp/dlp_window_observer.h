@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpWindowObserver class
+// summary: Declares DlpWindowObserver, an aura window observer helper that notifies a delegate about changes to windows with confidential content.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DLP_DLP_WINDOW_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POLICY_DLP_DLP_WINDOW_OBSERVER_H_
 

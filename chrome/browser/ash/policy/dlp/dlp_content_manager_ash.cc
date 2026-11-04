@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpContentManagerAsh implementation
+// summary: Implements the ChromeOS DLP content manager that enforces restrictions on visible confidential content, screenshots, video capture, screen share, and privacy screen.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dlp_content_manager_ash.h"
 
 #include <memory>

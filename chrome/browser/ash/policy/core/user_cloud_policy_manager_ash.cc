@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy manager for Ash implementation
+// summary: Implements user cloud policy initialization on Ash, including policy enforcement levels, reregistration, OAuth token fetching, and reporting schedulers.
+// ---
+
 #include "chrome/browser/ash/policy/core/user_cloud_policy_manager_ash.h"
 
 #include <memory>

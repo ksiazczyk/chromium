@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device policy decoder unit tests
+// summary: Unit tests verifying device policy decoding, including JSON validation, wallpaper, Bluetooth UUID, and scheduled suspend policies.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_policy_decoder.h"
 
 #include <memory>

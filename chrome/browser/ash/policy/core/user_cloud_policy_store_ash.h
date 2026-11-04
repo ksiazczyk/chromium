@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy store for Ash header
+// summary: Declares UserCloudPolicyStoreAsh, a policy store persisting user policy through the session_manager daemon with synchronous load support.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_USER_CLOUD_POLICY_STORE_ASH_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_USER_CLOUD_POLICY_STORE_ASH_H_
 

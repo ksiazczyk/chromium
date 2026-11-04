@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device cloud policy manager for Ash
+// summary: Implements the Ash device cloud policy manager, wiring the policy store and client with status collectors, reporting and remote command components.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_cloud_policy_manager_ash.h"
 
 #include <stddef.h>

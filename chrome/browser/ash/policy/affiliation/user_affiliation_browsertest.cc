@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User affiliation browser test
+// summary: Parameterized browser tests checking behavior tied to user affiliation, such as system token slot availability, for affiliated and unaffiliated users.
+// ---
+
 #include <memory>
 #include <ostream>
 

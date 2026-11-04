@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment state fetcher class declaration
+// summary: Declares EnrollmentStateFetcher, which asynchronously reports enrollment state or errors and stores retrieved device state details in local state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_ENROLLMENT_ENROLLMENT_STATE_FETCHER_H_
 #define CHROME_BROWSER_ASH_POLICY_ENROLLMENT_ENROLLMENT_STATE_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy OAuth2 token fetcher implementation
+// summary: Implements fetching OAuth2 tokens for the device management service via auth code or refresh token, with retries on temporary GAIA errors.
+// ---
+
 #include "chrome/browser/ash/policy/core/policy_oauth2_token_fetcher.h"
 
 #include <memory>

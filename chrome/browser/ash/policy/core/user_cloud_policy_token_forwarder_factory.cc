@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy token forwarder factory implementation
+// summary: Implements the profile-keyed service factory that creates UserCloudPolicyTokenForwarder instances when profiles are created.
+// ---
+
 #include "chrome/browser/ash/policy/core/user_cloud_policy_token_forwarder_factory.h"
 
 #include "chrome/browser/ash/policy/core/user_cloud_policy_manager_ash.h"

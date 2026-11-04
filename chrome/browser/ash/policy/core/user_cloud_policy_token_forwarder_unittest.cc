@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User cloud policy token forwarder unit tests
+// summary: Unit tests for UserCloudPolicyTokenForwarder verifying token fetch, refresh scheduling, backoff behavior and child user OAuth token error metrics.
+// ---
+
 #include "chrome/browser/ash/policy/core/user_cloud_policy_token_forwarder.h"
 
 #include <memory>

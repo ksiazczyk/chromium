@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device cloud policy initializer header
+// summary: Declares DeviceCloudPolicyInitializer, a helper that creates a CloudPolicyClient and starts the device policy manager connection when prerequisites are met.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_ENROLLMENT_DEVICE_CLOUD_POLICY_INITIALIZER_H_
 #define CHROME_BROWSER_ASH_POLICY_ENROLLMENT_DEVICE_CLOUD_POLICY_INITIALIZER_H_
 

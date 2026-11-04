@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto enrollment type checker unit tests
+// summary: Unit tests verifying that AutoEnrollmentTypeChecker reports the correct USDStatus for branded builds, Flex devices, command-line switches, and non-Chrome devices.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/auto_enrollment_type_checker.h"
 
 #include <string>

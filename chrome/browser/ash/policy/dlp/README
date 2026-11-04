@@ -1,3 +1,9 @@
+---
+type: readme
+title: Data leak prevention overview
+summary: Overview of data leak prevention concepts and key classes, covering files restriction plus clipboard and drag-and-drop restriction on ChromeOS.
+---
+
 # Relaunch Notifications Overview
 
 This document is an overview of Data leak prevention concepts, terms, and

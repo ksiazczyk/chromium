@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reference to shared platform keys owners
+summary: Points to the shared OWNERS file in chromeos/ash/components/platform_keys for reviewer selection.

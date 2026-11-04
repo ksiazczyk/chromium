@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files policy notification manager test utilities header
+// summary: Declares test helpers for creating files, file system URLs, IO tasks and verifying files warning UMA metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DLP_TEST_FILES_POLICY_NOTIFICATION_MANAGER_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_POLICY_DLP_TEST_FILES_POLICY_NOTIFICATION_MANAGER_TEST_UTILS_H_
 

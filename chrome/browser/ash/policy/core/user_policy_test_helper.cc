@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User policy test helper implementation
+// summary: Test helper that applies and refreshes user cloud policies for a profile in browser tests via the embedded policy test server mixin.
+// ---
+
 #include "chrome/browser/ash/policy/core/user_policy_test_helper.h"
 
 #include <utility>

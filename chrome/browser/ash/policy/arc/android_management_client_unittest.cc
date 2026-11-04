@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android management client unit tests
+// summary: Unit tests for AndroidManagementClientImpl using a fake device management service and identity test environment to verify management check behavior.
+// ---
+
 #include "chrome/browser/ash/policy/arc/android_management_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account status check fetcher header
+// summary: Declares the AccountStatusCheckFetcher class plus AccountStatus and enrollment nudge policy types for device management server checks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_ENROLLMENT_ACCOUNT_STATUS_CHECK_FETCHER_H_
 #define CHROME_BROWSER_ASH_POLICY_ENROLLMENT_ACCOUNT_STATUS_CHECK_FETCHER_H_
 

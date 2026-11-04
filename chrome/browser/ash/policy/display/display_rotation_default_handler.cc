@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the DisplayRotationDefault device policy handler
+// summary: Implements the handler that rotates newly connected displays according to the DisplayRotationDefault value in CrosSettings.
+// ---
+
 #include "chrome/browser/ash/policy/display/display_rotation_default_handler.h"
 
 #include <utility>

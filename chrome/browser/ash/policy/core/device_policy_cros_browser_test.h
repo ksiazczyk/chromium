@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device policy ChromeOS browser test header
+// summary: Declares the DevicePolicyCrosBrowserTest base class plus device-local account helpers and local state value waiters for ChromeOS policy tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_POLICY_CROS_BROWSER_TEST_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_POLICY_CROS_BROWSER_TEST_H_
 

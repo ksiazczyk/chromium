@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helpers for PSM RLWE client tests
+// summary: Loads regression test cases and creates RLWE client factories for simulating PSM membership checks in tests.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/psm/rlwe_test_support.h"
 
 #include <memory>

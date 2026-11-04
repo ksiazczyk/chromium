@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files policy dialog browser tests
+// summary: Browser tests verifying the files policy warning and error dialogs in the Files app, including justification input and mixed error dialog sections.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dialogs/files_policy_dialog.h"
 
 #include <string_view>

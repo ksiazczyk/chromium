@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device cloud policy client factory for Ash
+// summary: Creates a device-level CloudPolicyClient for Ash from machine statistics such as serial number, hardware class, brand code and MAC addresses.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_cloud_policy_client_factory_ash.h"
 
 #include <optional>

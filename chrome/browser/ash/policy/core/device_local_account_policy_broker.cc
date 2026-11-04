@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-local account policy broker implementation
+// summary: Implements the central component that downloads, caches, and refreshes cloud policy for a single device-local account, wiring up the client, store, and extension caches.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_local_account_policy_broker.h"
 
 #include <memory>

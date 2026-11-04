@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto enrollment type checker implementation
+// summary: Implements checks for official Google branding, Chrome firmware, and Flex FRE support to decide whether unified state determination and FRE state keys are enabled.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/auto_enrollment_type_checker.h"
 
 #include <memory>

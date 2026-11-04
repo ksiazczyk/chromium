@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the display policy directory
+summary: Sets include rules that restrict //chrome dependencies for this directory and grants extra includes needed only by the browser tests.

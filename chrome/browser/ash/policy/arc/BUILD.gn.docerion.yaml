@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ARC policy
+summary: Defines GN build targets for the ARC policy directory, including the arc static library, test support, unit tests and browser tests.

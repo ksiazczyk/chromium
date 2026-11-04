@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the DLP directory
+summary: Defines allowed include dependencies for the DLP directory, with extra rules for test files and specific unittest sources.

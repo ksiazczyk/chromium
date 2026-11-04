@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilesPolicyDialog class declaration
+// summary: Declares the FilesPolicyDialog class, dialog types, and block reasons for files restricted by DLP and Enterprise Connectors policies.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DLP_DIALOGS_FILES_POLICY_DIALOG_H_
 #define CHROME_BROWSER_ASH_POLICY_DLP_DIALOGS_FILES_POLICY_DIALOG_H_
 

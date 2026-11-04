@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM enrollment key signing service implementation
+// summary: Signs data with the TPM-bound enterprise enrollment key via the attestation D-Bus client and returns the signed data.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/tpm_enrollment_key_signing_service.h"
 
 #include <string>

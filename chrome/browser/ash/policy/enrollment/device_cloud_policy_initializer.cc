@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device cloud policy initializer implementation
+// summary: Implements the initializer that starts the device cloud policy connection once the policy store, state keys broker, and schema registry are ready.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/device_cloud_policy_initializer.h"
 
 #include <memory>

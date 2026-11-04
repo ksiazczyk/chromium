@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display settings handler implementation
+// summary: Implements DisplaySettingsHandler, which observes display configuration and CrosSettings changes and applies registered display policy handlers to connected displays.
+// ---
+
 #include "chrome/browser/ash/policy/display/display_settings_handler.h"
 
 #include <utility>

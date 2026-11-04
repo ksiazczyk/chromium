@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP files controller for Ash implementation
+// summary: Implements the ChromeOS Ash files controller that decides whether file transfers and uploads are allowed under admin data leak prevention rules.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dlp_files_controller_ash.h"
 
 #include <sys/types.h>

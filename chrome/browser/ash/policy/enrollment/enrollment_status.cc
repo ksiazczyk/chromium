@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment status implementation
+// summary: Implements EnrollmentStatus factory helpers for various error cases and string conversion of enrollment status codes.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/enrollment_status.h"
 
 #include <string_view>

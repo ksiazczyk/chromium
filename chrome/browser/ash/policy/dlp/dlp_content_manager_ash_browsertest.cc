@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DlpContentManagerAsh browser tests
+// summary: Browser tests covering screenshot, video capture, and screen share restrictions, notifications, and reporting enforced by DlpContentManagerAsh.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dlp_content_manager_ash.h"
 
 #include <functional>

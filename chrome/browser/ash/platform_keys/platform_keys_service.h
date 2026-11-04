@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformKeysService class declaration
+// summary: Declares the ChromeOS platform keys service and its callbacks for key generation, signing, encryption, decryption, and certificate and token management.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PLATFORM_KEYS_PLATFORM_KEYS_SERVICE_H_
 #define CHROME_BROWSER_ASH_PLATFORM_KEYS_PLATFORM_KEYS_SERVICE_H_
 

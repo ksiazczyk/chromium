@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP files controller utilities implementation
+// summary: Implements a helper that shows the desktop notification for files blocked by data leak prevention policy via the files policy notification manager.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dlp_files_controller_ash_utils.h"
 
 #include "base/files/file_path.h"

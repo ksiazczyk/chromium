@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM enrollment key signing service header
+// summary: Declares a SigningService implementation that signs data using the enrollment certificate's TPM-bound key.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_ENROLLMENT_TPM_ENROLLMENT_KEY_SIGNING_SERVICE_H_
 #define CHROME_BROWSER_ASH_POLICY_ENROLLMENT_TPM_ENROLLMENT_KEY_SIGNING_SERVICE_H_
 

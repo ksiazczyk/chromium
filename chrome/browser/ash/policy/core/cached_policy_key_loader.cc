@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedPolicyKeyLoader implementation
+// summary: Implements loading of the user policy verification key cached by the Chrome OS session manager via the cryptohome client.
+// ---
+
 #include "chrome/browser/ash/policy/core/cached_policy_key_loader.h"
 
 #include <stddef.h>
