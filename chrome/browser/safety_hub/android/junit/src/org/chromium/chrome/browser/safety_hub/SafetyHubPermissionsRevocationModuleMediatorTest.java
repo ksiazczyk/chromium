@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyHubPermissionsRevocationModuleMediatorTest
+// summary: Robolectric tests for SafetyHubPermissionsRevocationModuleMediator checking the unused site permissions module's preference display.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.junit.Assert.assertEquals;

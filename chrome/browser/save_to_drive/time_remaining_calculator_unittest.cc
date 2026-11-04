@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimeRemainingCalculator unit tests
+// summary: Unit tests verifying the Save to Drive time remaining calculator's upload speed estimates and time remaining text using mock time.
+// ---
+
 #include "chrome/browser/save_to_drive/time_remaining_calculator.h"
 
 #include <string_view>

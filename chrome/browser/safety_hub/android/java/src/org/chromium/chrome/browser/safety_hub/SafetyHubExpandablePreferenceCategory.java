@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub expandable preference category
+// summary: Expandable preference group that toggles child preference visibility and applies Safety Hub styling when expanded or collapsed.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.content.Context;

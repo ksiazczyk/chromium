@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstantService implementation for the new tab page
+// summary: Implements the per-profile InstantService that tracks NTP render processes, registers data sources, and keeps most visited tiles and theme info updated.
+// ---
+
 #include "chrome/browser/search/instant_service.h"
 
 #include <stddef.h>

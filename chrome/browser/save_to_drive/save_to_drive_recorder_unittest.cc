@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save to Drive metrics recorder unit tests
+// summary: Unit tests verifying that the recorder emits upload status, latency, file size, and error histograms correctly.
+// ---
+
 #include "chrome/browser/save_to_drive/save_to_drive_recorder.h"
 
 #include "base/test/metrics/histogram_tester.h"

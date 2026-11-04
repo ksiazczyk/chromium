@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Safety promo FRE carousel portrait view layout
+summary: Portrait carousel first-run layout with logo, text, illustration pager, page indicator and action buttons.
+-->
+
 <org.chromium.chrome.browser.safety_promo.SafetyPromoCarouselView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

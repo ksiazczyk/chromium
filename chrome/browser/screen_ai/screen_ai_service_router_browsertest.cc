@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen AI service router browser tests
+// summary: Parameterized browser tests verifying the Screen AI service router across library availability scenarios and OCR and main content extraction feature flags.
+// ---
+
 #include "chrome/browser/screen_ai/screen_ai_service_router.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF content reader implementation
+// summary: Implements ContentReader for PDFs by reading save data buffers through the PDF document helper and validating the PDF header.
+// ---
+
 #include "chrome/browser/save_to_drive/pdf_content_reader.h"
 
 #include <utility>

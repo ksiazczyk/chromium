@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-ChromeOS Screen AI downloader implementation
+// summary: Implements the Screen AI downloader for non-ChromeOS platforms using the component updater and reports download progress events.
+// ---
+
 #include "chrome/browser/screen_ai/screen_ai_downloader_non_chromeos.h"
 
 #include "base/no_destructor.h"

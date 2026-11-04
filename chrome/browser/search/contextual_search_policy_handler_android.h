@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android Contextual Search policy handler
+// summary: Declares the TypeCheckingPolicyHandler subclass that applies the ContextualSearchEnabled policy on Android.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_CONTEXTUAL_SEARCH_POLICY_HANDLER_ANDROID_H_
 #define CHROME_BROWSER_SEARCH_CONTEXTUAL_SEARCH_POLICY_HANDLER_ANDROID_H_
 

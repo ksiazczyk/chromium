@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive metrics recorder implementation
+// summary: Records UMA histograms for save-to-Drive upload status, latency, file size, error types, and primary account selection.
+// ---
+
 #include "chrome/browser/save_to_drive/save_to_drive_recorder.h"
 
 #include "base/metrics/histogram_functions.h"

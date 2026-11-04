@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Save to Drive build targets
+summary: GN build file defining the save_to_drive source set plus its browser test and unit test targets, with their sources and dependencies.

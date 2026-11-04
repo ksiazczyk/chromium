@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for search engine choice
+summary: Sets the Buganizer component ID used for issues in the search engine choice directory.

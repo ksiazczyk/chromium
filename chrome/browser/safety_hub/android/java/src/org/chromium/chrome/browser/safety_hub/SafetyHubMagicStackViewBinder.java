@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub Magic Stack view binder
+// summary: Binds each Safety Hub Magic Stack property model key to the corresponding setter on the module view.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.view.View;

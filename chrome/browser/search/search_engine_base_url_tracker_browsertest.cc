@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine base URL tracker browser test
+// summary: Browser test verifying that the tracker invokes its callback when the user-selected default search provider changes.
+// ---
+
 #include "chrome/browser/search/search_engine_base_url_tracker.h"
 
 #include "base/test/mock_callback.h"

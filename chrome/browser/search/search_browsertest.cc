@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search URL and Instant NTP browser tests
+// summary: Browser tests covering origin and path matching, Instant NTP detection, and New Tab Page URL behavior across profiles and search providers.
+// ---
+
 #include "chrome/browser/search/search.h"
 
 #include <stddef.h>

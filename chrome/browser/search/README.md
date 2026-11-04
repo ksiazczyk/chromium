@@ -1,3 +1,9 @@
+---
+type: readme
+title: Instant New Tab Page (Desktop)
+summary: Explains the desktop instant NTP variants, how the default search engine selects them, and how third-party NTPs embed most-visited tiles.
+---
+
 Instant New Tab Page (Desktop)
 ==============================
 

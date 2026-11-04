@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyHubNotificationsModuleMediatorTest
+// summary: Robolectric tests for SafetyHubNotificationsModuleMediator checking preference titles, summaries and icons for the notification permission review module.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.junit.Assert.assertEquals;

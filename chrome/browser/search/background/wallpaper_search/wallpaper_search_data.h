@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryEntry struct declaration
+// summary: Declares the HistoryEntry struct representing a wallpaper search history entry with id, subject, style, and mood fields.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_BACKGROUND_WALLPAPER_SEARCH_WALLPAPER_SEARCH_DATA_H_
 #define CHROME_BROWSER_SEARCH_BACKGROUND_WALLPAPER_SEARCH_WALLPAPER_SEARCH_DATA_H_
 

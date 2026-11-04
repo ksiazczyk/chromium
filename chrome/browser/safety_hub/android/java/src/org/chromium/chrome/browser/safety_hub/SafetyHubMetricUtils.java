@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub metric utilities
+// summary: Helper utilities that record UMA histograms for Safety Hub external interactions, dashboard module types and lifecycle states.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import androidx.annotation.IntDef;

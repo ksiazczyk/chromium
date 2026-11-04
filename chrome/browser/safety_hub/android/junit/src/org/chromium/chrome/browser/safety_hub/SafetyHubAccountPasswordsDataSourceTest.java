@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account passwords data source tests
+// summary: Robolectric tests for the Safety Hub account passwords data source, verifying password state changes, icons, and observer notifications.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.junit.Assert.assertEquals;

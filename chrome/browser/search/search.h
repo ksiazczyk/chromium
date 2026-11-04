@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page URL and Instant renderer logic header
+// summary: Declares helpers for detecting New Tab Page URLs, assigning URLs to the Instant renderer, and computing effective Instant URLs.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_SEARCH_H_
 #define CHROME_BROWSER_SEARCH_SEARCH_H_
 

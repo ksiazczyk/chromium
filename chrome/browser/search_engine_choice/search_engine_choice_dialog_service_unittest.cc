@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine choice dialog service unit tests
+// summary: Unit tests verifying search engine choice dialog service behavior, including eligibility conditions, choice screen histogram events, and default search provider handling across profiles.
+// ---
+
 #include "chrome/browser/search_engine_choice/search_engine_choice_dialog_service.h"
 
 #include "base/command_line.h"

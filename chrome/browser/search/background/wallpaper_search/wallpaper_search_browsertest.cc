@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper search browser tests
+// summary: Browser tests verifying that enabling Wallpaper Search via Optimization Guide prefs activates the feature, including ChromeOS-specific variants.
+// ---
+
 #include "base/feature_list.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/optimization_guide/browser_test_util.h"

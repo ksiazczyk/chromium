@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub browser state module mediator
+// summary: Mediator that populates the browser state card preference, showing a safe browser state message only when all other module mediators report safe or informational states.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Screen AI DLC installer
+// summary: Tests DLC install success, failure, and retry behavior using a fake DLC service client, mock time, and histogram assertions.
+// ---
+
 #include "chrome/browser/screen_ai/screen_ai_dlc_installer.h"
 
 #include <string_view>

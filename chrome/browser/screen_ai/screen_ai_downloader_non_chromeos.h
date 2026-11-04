@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-ChromeOS Screen AI downloader class declaration
+// summary: Declares ScreenAIDownloaderNonChromeOS, which downloads the Screen AI component through the component update service.
+// ---
+
 #ifndef CHROME_BROWSER_SCREEN_AI_SCREEN_AI_DOWNLOADER_NON_CHROMEOS_H_
 #define CHROME_BROWSER_SCREEN_AI_SCREEN_AI_DOWNLOADER_NON_CHROMEOS_H_
 

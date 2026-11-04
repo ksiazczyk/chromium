@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Hub fetch service tests
+// summary: Unit tests for the Safety Hub fetch service, verifying background job scheduling for account password and credential checks.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.junit.Assert.assertEquals;

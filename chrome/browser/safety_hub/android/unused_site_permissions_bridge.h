@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unused site permissions JNI bridge header
+// summary: Declares PermissionsData conversion helpers and revoked permission management functions for the Android bridge.
+// ---
+
 #ifndef CHROME_BROWSER_SAFETY_HUB_ANDROID_UNUSED_SITE_PERMISSIONS_BRIDGE_H_
 #define CHROME_BROWSER_SAFETY_HUB_ANDROID_UNUSED_SITE_PERMISSIONS_BRIDGE_H_
 

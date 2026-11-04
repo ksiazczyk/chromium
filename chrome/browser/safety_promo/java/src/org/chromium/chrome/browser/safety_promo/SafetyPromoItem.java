@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety promo item model with predefined FRE promos
+// summary: Holds card and carousel resource IDs for a safety promo item and defines the Password Manager, History Quick Delete, Enhanced Safe Browsing and Incognito promos.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import androidx.annotation.DrawableRes;

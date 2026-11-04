@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstantServiceObserver interface declaration
+// summary: Declares the observer interface through which InstantService notifies about NTP theme and most visited item changes.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_INSTANT_SERVICE_OBSERVER_H_
 #define CHROME_BROWSER_SEARCH_INSTANT_SERVICE_OBSERVER_H_
 

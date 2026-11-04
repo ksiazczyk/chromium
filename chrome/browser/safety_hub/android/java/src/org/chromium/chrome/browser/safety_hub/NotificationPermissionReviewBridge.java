@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification permission review JNI bridge
+// summary: Bridge to native notification permission review that lists origins to review and supports allowing, resetting, bulk resetting and ignoring notification permissions with change observers.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import org.jni_zero.JniType;

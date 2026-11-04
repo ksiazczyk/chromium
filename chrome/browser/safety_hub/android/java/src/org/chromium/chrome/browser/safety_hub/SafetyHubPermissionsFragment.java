@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub permissions subpage fragment
+// summary: Fragment for the Safety Hub subpage that lists revoked site permissions and handles bulk actions, undo snackbars and interaction metrics.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.chromium.chrome.browser.safety_hub.SafetyHubMetricUtils.maybeRecordAbusiveNotificationRevokedInteraction;

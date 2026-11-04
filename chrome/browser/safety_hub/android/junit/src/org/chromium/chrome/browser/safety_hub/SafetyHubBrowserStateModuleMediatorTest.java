@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser state module mediator tests
+// summary: Robolectric tests for the browser state module mediator, verifying card visibility based on combined safety module states.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.junit.Assert.assertFalse;

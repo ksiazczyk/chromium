@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java bridge to native unused site permissions handling
+// summary: Java-side bridge to unused_site_permissions_bridge.cc that fetches, regrants, undoes and clears revoked site permissions and notifies observers of changes.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import org.jni_zero.JniType;

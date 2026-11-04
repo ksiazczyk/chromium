@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page URL and Instant renderer logic
+// summary: Implements helpers that determine New Tab Page URLs, decide when URLs render in the Instant renderer, and track the New Tab URL state for the default search provider.
+// ---
+
 #include "chrome/browser/search/search.h"
 
 #include <stddef.h>

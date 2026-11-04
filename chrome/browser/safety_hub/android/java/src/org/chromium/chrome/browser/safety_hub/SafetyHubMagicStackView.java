@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub Magic Stack view
+// summary: Custom LinearLayout container view that displays the header, title, summary, icon and button of the Safety Hub Magic Stack module.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.content.Context;

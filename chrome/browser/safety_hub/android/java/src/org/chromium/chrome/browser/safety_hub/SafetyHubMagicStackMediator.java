@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub Magic Stack mediator
+// summary: Mediator that decides which Safety Hub Magic Stack module to show, binds its view state and observes preference and tab model changes to dismiss the module.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.chromium.chrome.browser.safety_hub.SafetyHubMetricUtils.recordExternalInteractions;

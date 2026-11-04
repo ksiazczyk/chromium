@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub module mediator interface
+// summary: Interface for Safety Hub module mediators, defining module states, module options and the loading indicator state machine with expand behaviour defaults.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.content.Context;

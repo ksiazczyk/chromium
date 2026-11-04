@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub Magic Stack view properties
+// summary: Defines the writable property keys, such as header, title, summary, icon and button fields, for the Safety Hub Magic Stack module view model.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.graphics.drawable.Drawable;

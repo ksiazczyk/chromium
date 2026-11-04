@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI service router implementation
+// summary: Implements the KeyedService router that dispatches OCR and main content extraction requests, records component availability metrics, and schedules library downloads.
+// ---
+
 #include "chrome/browser/screen_ai/screen_ai_service_router.h"
 
 #include <utility>

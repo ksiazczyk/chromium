@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice service client header
+// summary: Declares SearchEngineChoiceServiceClient, which exposes Chrome-layer profile state such as variations country and device restore detection to the search engine choice service.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_SERVICE_CLIENT_H_
 #define CHROME_BROWSER_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_SERVICE_CLIENT_H_
 

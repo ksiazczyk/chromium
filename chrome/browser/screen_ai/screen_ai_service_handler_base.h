@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI service handler base header
+// summary: Declares the base class for ScreenAI service management, including asynchronous service state requests, shutdown handling, and resource monitoring hooks.
+// ---
+
 #ifndef CHROME_BROWSER_SCREEN_AI_SCREEN_AI_SERVICE_HANDLER_BASE_H_
 #define CHROME_BROWSER_SCREEN_AI_SCREEN_AI_SERVICE_HANDLER_BASE_H_
 

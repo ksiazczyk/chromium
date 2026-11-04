@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Screen AI downloader class declaration
+// summary: Declares ScreenAIDownloaderChromeOS, the ScreenAIInstallState subclass that downloads the component via DLC on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_SCREEN_AI_SCREEN_AI_DOWNLOADER_CHROMEOS_H_
 #define CHROME_BROWSER_SCREEN_AI_SCREEN_AI_DOWNLOADER_CHROMEOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub module helper interface
+// summary: Interface exposing the title, summary, button actions and module state that a helper provides to a Safety Hub module mediator.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.view.View;

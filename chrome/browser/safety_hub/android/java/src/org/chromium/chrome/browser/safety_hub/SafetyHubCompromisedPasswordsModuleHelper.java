@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub compromised passwords module helper
+// summary: Helper that supplies title, summary and button actions for the Safety Hub passwords module when compromised passwords exist.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.chromium.chrome.browser.safety_hub.SafetyHubMetricUtils.recordDashboardInteractions;

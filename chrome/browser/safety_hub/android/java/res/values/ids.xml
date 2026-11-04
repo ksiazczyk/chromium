@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Safety Hub Android ID resources
+summary: Declares the safety_hub_subpage_menu_item ID resource used by the Safety Hub Android UI.
+-->
+
 <resources>
     <item type="id" name="safety_hub_subpage_menu_item" />
 </resources>

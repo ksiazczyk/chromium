@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub passwords fetch service
+// summary: Fetches breached, weak, and reused password counts from GMSCore with a one-hour cooldown and handles errors and rescheduling.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import androidx.annotation.VisibleForTesting;

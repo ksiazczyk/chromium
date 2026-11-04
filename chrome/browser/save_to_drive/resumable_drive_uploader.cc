@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resumable Drive uploader implementation
+// summary: Implements resumable uploads to Google Drive via the Drive API, uploading file content in 2 MiB chunks with resumable upload headers.
+// ---
+
 #include "chrome/browser/save_to_drive/resumable_drive_uploader.h"
 
 #include <cstdint>

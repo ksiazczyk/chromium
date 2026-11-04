@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MostVisitedIframeSource unit tests
+// summary: Unit tests verifying request handling, MIME types, resource serving, and origin checks of the most visited iframe source.
+// ---
+
 #include "chrome/browser/search/most_visited_iframe_source.h"
 
 #include <memory>

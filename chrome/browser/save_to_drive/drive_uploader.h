@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveUploader base class
+// summary: Declares the base class for Drive uploaders that fetches access tokens, uploads files to Drive, and reports upload progress to a callback.
+// ---
+
 #ifndef CHROME_BROWSER_SAVE_TO_DRIVE_DRIVE_UPLOADER_H_
 #define CHROME_BROWSER_SAVE_TO_DRIVE_DRIVE_UPLOADER_H_
 

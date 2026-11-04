@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI DLC installer implementation for ChromeOS
+// summary: Implements install and uninstall of the Screen AI DLC on ChromeOS with exponential retry delays, install metrics, and install state updates.
+// ---
+
 #include "chrome/browser/screen_ai/screen_ai_dlc_installer.h"
 
 #include <string_view>

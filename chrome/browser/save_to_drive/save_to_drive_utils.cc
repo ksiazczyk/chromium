@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive utilities implementation
+// summary: Implements helpers for stream container lookup, tab id retrieval, PDF magic byte validation, and ensuring the .pdf file extension.
+// ---
+
 #include "chrome/browser/save_to_drive/save_to_drive_utils.h"
 
 #include <string_view>

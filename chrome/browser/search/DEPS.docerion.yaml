@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the search directory
+summary: Restricts dependencies so instant and WebUI new tab page code stay independent from chrome/browser/new_tab_page.

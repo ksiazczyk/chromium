@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI DLC installer interface and result enum
+// summary: Declares the DLC install result enum and functions to manage, install, and uninstall the Screen AI DLC.
+// ---
+
 #ifndef CHROME_BROWSER_SCREEN_AI_SCREEN_AI_DLC_INSTALLER_H_
 #define CHROME_BROWSER_SCREEN_AI_SCREEN_AI_DLC_INSTALLER_H_
 

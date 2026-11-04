@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Screen AI directory metadata
+summary: Records the accessibility team email and Buganizer component IDs used for issues in this directory.

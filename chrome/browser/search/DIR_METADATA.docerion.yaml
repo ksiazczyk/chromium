@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the search directory
+summary: Points the directory metadata to the shared mixins in components/search/COMMON_METADATA.

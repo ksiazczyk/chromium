@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the Instant browser test base class
+// summary: Implements setup helpers for instant NTP browser tests, including configuring an instant-enabled default search provider.
+// ---
+
 #include "chrome/browser/search/instant_browsertest_base.h"
 
 #include <string>

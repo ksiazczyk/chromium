@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safety promo Android build targets
+summary: Defines the Android library, resource, and Robolectric unit test targets for the safety promo carousel and first-run experience UI.

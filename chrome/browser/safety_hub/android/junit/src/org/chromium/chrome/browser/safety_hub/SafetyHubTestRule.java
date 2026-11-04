@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyHubTestRule
+// summary: JUnit TestRule that sets up shared mocks and helpers, such as profile, prefs and password manager fakes, needed to run Safety Hub tests.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.mockito.Mockito.when;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OCR service handler header
+// summary: Declares the OCR service handler that binds ScreenAIAnnotator receivers to the OCR service connection.
+// ---
+
 #ifndef CHROME_BROWSER_SCREEN_AI_SCREEN_AI_SERVICE_HANDLER_OCR_H_
 #define CHROME_BROWSER_SCREEN_AI_SCREEN_AI_SERVICE_HANDLER_OCR_H_
 

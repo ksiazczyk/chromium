@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Hub Android UI tests
+// summary: Espresso instrumentation tests for the Android Safety Hub UI, covering permissions review, notifications, metrics histograms, and related interactions.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static androidx.test.espresso.Espresso.onView;

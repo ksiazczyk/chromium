@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mediator for the Safety FRE promo carousel
+// summary: Tracks the active carousel page based on the item picked on the overview page and user swipes, writing title, subtitle and index into the property model.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import static org.chromium.chrome.browser.safety_promo.SafetyPromoCarouselProperties.ACTIVE_PAGE_INDEX;

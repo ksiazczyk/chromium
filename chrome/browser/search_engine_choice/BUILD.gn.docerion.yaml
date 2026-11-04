@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search engine choice build configuration
+summary: Defines the source sets, dependencies, and test targets for the search engine choice services and their tests.

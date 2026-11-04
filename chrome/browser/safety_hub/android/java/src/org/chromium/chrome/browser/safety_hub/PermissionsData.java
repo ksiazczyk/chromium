@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Revoked permissions data container
+// summary: Container class passing revoked permission details such as origin, permission types, expiration, lifetime, revocation reason and serialized undo data between native and Java.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import androidx.annotation.VisibleForTesting;

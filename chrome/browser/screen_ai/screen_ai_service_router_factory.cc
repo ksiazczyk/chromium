@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI service router factory implementation
+// summary: Implements the profile-keyed service factory that creates and returns a ScreenAIServiceRouter instance for each browser context.
+// ---
+
 #include "chrome/browser/screen_ai/screen_ai_service_router_factory.h"
 
 #include "chrome/browser/screen_ai/screen_ai_service_router.h"

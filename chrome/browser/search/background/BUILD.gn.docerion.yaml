@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the NTP background source set
+summary: Defines the background source set with its public headers, sources, and build dependencies for the Chromium new tab page background code.

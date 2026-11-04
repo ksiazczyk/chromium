@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub fetch background task
+// summary: Native background task that fetches password check status from GMSCore via the Safety Hub fetch service.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.content.Context;

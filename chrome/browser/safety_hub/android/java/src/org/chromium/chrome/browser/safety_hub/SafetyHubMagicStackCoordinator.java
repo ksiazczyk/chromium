@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub Magic Stack coordinator
+// summary: Coordinator that wires the Safety Hub Magic Stack module into the Magic Stack as a ModuleProvider, delegating show, hide and context menu behaviour to its mediator.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.content.Context;

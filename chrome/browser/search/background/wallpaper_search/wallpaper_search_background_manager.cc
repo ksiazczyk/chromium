@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper search background manager implementation
+// summary: Implements WallpaperSearchBackgroundManager, storing wallpaper search history in profile prefs and managing NTP background image files and metrics.
+// ---
+
 #include "chrome/browser/search/background/wallpaper_search/wallpaper_search_background_manager.h"
 
 #include <optional>

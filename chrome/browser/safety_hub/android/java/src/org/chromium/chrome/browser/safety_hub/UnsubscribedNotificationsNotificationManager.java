@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub notification manager for revoked notification permissions
+// summary: Displays, updates or dismisses the Android notification informing users about notification permissions revoked by Safety Hub, called from native code via JNI.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.app.Notification;

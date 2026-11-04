@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI service handler base implementation
+// summary: Implements the base ScreenAI service handler and ComponentFiles loader that reads model files from the component folder and manages the sandboxed service process.
+// ---
+
 #include "chrome/browser/screen_ai/screen_ai_service_handler_base.h"
 
 #include <utility>

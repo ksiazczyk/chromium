@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Stack JNI bridge
+// summary: Java-side bridge to the native magic stack that provides the module to show and handles dismissal of active, Safe Browsing and compromised password modules with observer notifications.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import org.jni_zero.JniType;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dot page indicator view for the Safety FRE promo carousel
+// summary: Custom view drawing active and inactive dots for the carousel, handling RTL layout direction and sizing itself from the page count.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import android.content.Context;

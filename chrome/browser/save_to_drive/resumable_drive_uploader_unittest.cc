@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resumable Drive uploader unit tests
+// summary: Unit tests for ResumableDriveUploader covering upload initiation, chunked uploads, progress reporting, and error responses with mocked endpoints.
+// ---
+
 #include "chrome/browser/save_to_drive/resumable_drive_uploader.h"
 
 #include <optional>

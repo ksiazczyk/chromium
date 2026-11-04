@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic stack entry data container
+// summary: Container holding a magic stack module type and its description, created from native code via JNI and exposing typed module constants such as safe browsing and passwords.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import androidx.annotation.StringDef;

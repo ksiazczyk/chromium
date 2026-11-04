@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the Instant browser test base class
+// summary: Declares a browser test base class with utility methods for testing embedded search and instant implementation classes.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_INSTANT_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_SEARCH_INSTANT_BROWSERTEST_BASE_H_
 

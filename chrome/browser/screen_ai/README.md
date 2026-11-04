@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome Screen AI Library
+summary: Explains the ScreenAI service purpose and gives usage guidance for OCR and main content extraction, including cautions and best practices.
+relations:
+  - references /services/screen_ai/README.md
+  - references /components/pdf/renderer/pdf_view_web_plugin_client.cc
+  - references /chrome/renderer/accessibility/ax_tree_distiller.cc
+---
+
 # Chrome Screen AI Library
 
 ## Purpose

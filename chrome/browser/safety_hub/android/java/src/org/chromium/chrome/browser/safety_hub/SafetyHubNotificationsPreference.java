@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub notifications preference
+// summary: Preference row showing a site's notification permission count with favicon and a menu to allow or reset its notifications.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.content.Context;

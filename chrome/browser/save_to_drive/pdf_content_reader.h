@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFContentReader class declaration
+// summary: Declares PDFContentReader, a ContentReader implementation that reads PDF file content in chunks through the SaveDataBufferHandler mojo interface.
+// ---
+
 #ifndef CHROME_BROWSER_SAVE_TO_DRIVE_PDF_CONTENT_READER_H_
 #define CHROME_BROWSER_SAVE_TO_DRIVE_PDF_CONTENT_READER_H_
 

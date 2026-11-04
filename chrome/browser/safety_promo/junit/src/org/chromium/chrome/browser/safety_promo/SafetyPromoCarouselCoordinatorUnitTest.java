@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyPromoCarouselCoordinatorUnitTest
+// summary: Unit tests for the carousel coordinator covering initialization in portrait and landscape, mediator destruction, and scroll listener reporting of the snapped page.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import static org.junit.Assert.assertEquals;

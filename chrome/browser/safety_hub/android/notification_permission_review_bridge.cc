@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification permission review JNI bridge implementation
+// summary: Implements JNI bridge functions to list, ignore, allow and reset notification permissions per origin for the Android review UI.
+// ---
+
 #include "chrome/browser/safety_hub/android/notification_permission_review_bridge.h"
 
 #include <jni.h>

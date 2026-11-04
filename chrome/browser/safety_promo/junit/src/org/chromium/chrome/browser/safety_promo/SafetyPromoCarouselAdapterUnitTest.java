@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyPromoCarouselAdapterUnitTest
+// summary: Robolectric unit tests for the safety promo carousel adapter, checking item count and view holder creation and binding in portrait and landscape illustration layouts.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import static org.junit.Assert.assertEquals;

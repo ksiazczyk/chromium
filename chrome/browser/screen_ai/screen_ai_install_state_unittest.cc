@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen AI install state unit tests
+// summary: Unit tests for ScreenAIInstallState covering observer notifications, download state changes, and instance override, reset, and destruction behavior.
+// ---
+
 #include "chrome/browser/screen_ai/screen_ai_install_state.h"
 
 #include "base/files/file_path.h"

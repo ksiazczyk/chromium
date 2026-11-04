@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passwords checking module helper
+// summary: Helper that shows the loading state of the Safety Hub passwords module while the password checkup is being performed.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.content.Context;

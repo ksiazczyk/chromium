@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification permission review JNI bridge header
+// summary: Declares the NotificationPermissions struct and JNI conversion helpers used by the notification permission review bridge.
+// ---
+
 #ifndef CHROME_BROWSER_SAFETY_HUB_ANDROID_NOTIFICATION_PERMISSION_REVIEW_BRIDGE_H_
 #define CHROME_BROWSER_SAFETY_HUB_ANDROID_NOTIFICATION_PERMISSION_REVIEW_BRIDGE_H_
 

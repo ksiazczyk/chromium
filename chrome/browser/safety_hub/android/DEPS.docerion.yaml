@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Safety Hub Android include rules
+summary: DEPS file allowing the directory to include the bottom sheet and device lock Android component sources.

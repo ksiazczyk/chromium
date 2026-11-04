@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive utilities header
+// summary: Declares helpers for stream container access, tab id lookup, PDF magic validation, and appending the .pdf extension to titles.
+// ---
+
 #ifndef CHROME_BROWSER_SAVE_TO_DRIVE_SAVE_TO_DRIVE_UTILS_H_
 #define CHROME_BROWSER_SAVE_TO_DRIVE_SAVE_TO_DRIVE_UTILS_H_
 

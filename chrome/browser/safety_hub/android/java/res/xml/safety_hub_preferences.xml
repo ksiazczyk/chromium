@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Safety Hub main preferences screen
+summary: Android preference screen XML for Chrome's Safety Hub, defining the safety modules section (update check, passwords, Safe Browsing, permissions, notifications) and safety tips entries.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice dialog service interface
+// summary: Declares the keyed service handling search engine choice dialogs, its entry points, and choice notification APIs.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_DIALOG_SERVICE_H_
 #define CHROME_BROWSER_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_DIALOG_SERVICE_H_
 

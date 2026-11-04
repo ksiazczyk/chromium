@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unsubscribed notifications notification tests
+// summary: Instrumentation tests verifying the Safety Hub notification about unsubscribed notifications, including its Review action and settings navigation.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake NotificationPermissionReviewBridge for tests
+// summary: In-memory fake implementing the NotificationPermissionReviewBridge natives so Android tests can simulate notification permission review state.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import org.chromium.chrome.browser.profiles.Profile;

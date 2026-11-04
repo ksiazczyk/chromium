@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice dialog service implementation
+// summary: Implements the per-profile service that registers choice dialogs, notifies of user choices, and records related metrics.
+// ---
+
 #include "chrome/browser/search_engine_choice/search_engine_choice_dialog_service.h"
 
 #include "base/check_deref.h"

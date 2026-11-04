@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP custom background service unit tests
+// summary: Unit tests for the NtpCustomBackgroundService covering background updates, image URL verification, color extraction, and preference handling with mock dependencies.
+// ---
+
 #include "chrome/browser/search/background/ntp_custom_background_service.h"
 
 #include <optional>

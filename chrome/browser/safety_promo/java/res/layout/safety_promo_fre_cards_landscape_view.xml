@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Safety promo FRE cards landscape view layout
+summary: Landscape first-run layout pairing a scrollable safety cards list with a pane holding logo, title and continue button.
+-->
+
 <org.chromium.chrome.browser.safety_promo.SafetyPromoFirstRunView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

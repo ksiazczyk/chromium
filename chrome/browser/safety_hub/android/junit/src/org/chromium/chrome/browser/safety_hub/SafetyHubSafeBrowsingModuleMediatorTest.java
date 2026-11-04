@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyHubSafeBrowsingModuleMediatorTest
+// summary: Robolectric tests for SafetyHubSafeBrowsingModuleMediator verifying Safe Browsing state and managed-mode display in the Safety Hub UI.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.junit.Assert.assertEquals;

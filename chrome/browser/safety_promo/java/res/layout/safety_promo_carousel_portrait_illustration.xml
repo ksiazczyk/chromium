@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Safety promo carousel portrait illustration layout
+summary: Portrait layout showing the carousel illustration scaled to fit the available width.
+-->
+
 <ImageView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/carousel_illustration"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinator for the Safety FRE promo carousel
+// summary: Owns the carousel's model, mediator and lazily cached portrait and landscape views, wiring them together and updating the carousel on configuration changes.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

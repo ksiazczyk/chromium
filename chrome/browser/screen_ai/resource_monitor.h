@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI resource monitor for process memory usage
+// summary: Declares a ResourceMonitor class that observes Screen AI process resource usage via resource attribution queries and tracks peak resident memory.
+// ---
+
 #ifndef CHROME_BROWSER_SCREEN_AI_RESOURCE_MONITOR_H_
 #define CHROME_BROWSER_SCREEN_AI_RESOURCE_MONITOR_H_
 

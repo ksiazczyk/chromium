@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstantService browser tests
+// summary: Browser tests verifying NTP tile suggestions, theme initialization, and themed element updates handled by InstantService.
+// ---
+
 #include "chrome/browser/search/instant_service.h"
 
 #include <vector>

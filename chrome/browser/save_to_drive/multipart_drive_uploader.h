@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultipartDriveUploader class
+// summary: Declares a DriveUploader subclass that uploads files to Drive using the Drive API multipart upload protocol.
+// ---
+
 #ifndef CHROME_BROWSER_SAVE_TO_DRIVE_MULTIPART_DRIVE_UPLOADER_H_
 #define CHROME_BROWSER_SAVE_TO_DRIVE_MULTIPART_DRIVE_UPLOADER_H_
 

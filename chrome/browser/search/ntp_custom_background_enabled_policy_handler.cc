@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP custom background enabled policy handler implementation
+// summary: Implements the NTPCustomBackgroundEnabled policy handler that clears the NTP custom background dictionary pref when the policy is set to false.
+// ---
+
 #include "chrome/browser/search/ntp_custom_background_enabled_policy_handler.h"
 
 #include "base/values.h"

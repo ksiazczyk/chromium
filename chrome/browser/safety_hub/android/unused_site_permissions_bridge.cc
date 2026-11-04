@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unused site permissions JNI bridge implementation
+// summary: Implements JNI bridge functions to fetch, regrant, clear and restore revoked unused site permissions for Android.
+// ---
+
 #include "chrome/browser/safety_hub/android/unused_site_permissions_bridge.h"
 
 #include <jni.h>

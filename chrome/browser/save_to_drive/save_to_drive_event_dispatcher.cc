@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive event dispatcher implementation
+// summary: Implements dispatching Save to Drive progress events to the PDF viewer extension, including file metadata strings and metrics recording.
+// ---
+
 #include "chrome/browser/save_to_drive/save_to_drive_event_dispatcher.h"
 
 #include "base/check_op.h"

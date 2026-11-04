@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub base settings fragment
+// summary: Abstract base fragment for Safety Hub settings pages that provides snackbar display with undo actions and navigation to site settings categories.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.app.Activity;

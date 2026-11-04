@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI install state class declaration
+// summary: Declares ScreenAIInstallState with its state enum and observer interface for tracking Screen AI component download and availability.
+// ---
+
 #ifndef CHROME_BROWSER_SCREEN_AI_SCREEN_AI_INSTALL_STATE_H_
 #define CHROME_BROWSER_SCREEN_AI_SCREEN_AI_INSTALL_STATE_H_
 
