@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graceful shutdown foreground service
+// summary: Keeps the Chrome process alive during window shutdown so teardown can complete, and records shutdown status metrics.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.app.Activity;

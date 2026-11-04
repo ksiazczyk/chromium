@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long-click copy summary preference
+// summary: Preference that copies its title and summary text to the clipboard when the user long presses it.
+// ---
+
 package org.chromium.chrome.browser.about_settings;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file delegating review ownership to the owners of the autofill component and its Android subdirectory.

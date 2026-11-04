@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigationRecorderTest
+// summary: Instrumentation tests for NavigationRecorder that verify visit reporting using a mocked JNI backend and an embedded test server.
+// ---
+
 package org.chromium.chrome.browser.app.feed;
 
 import static org.mockito.ArgumentMatchers.any;

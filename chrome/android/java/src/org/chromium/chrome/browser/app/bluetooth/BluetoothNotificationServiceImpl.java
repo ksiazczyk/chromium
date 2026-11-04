@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothNotificationServiceImpl
+// summary: Service implementation that manages the Web Bluetooth notification shown while a website is connected to a Bluetooth device or scanning for nearby devices.
+// ---
+
 package org.chromium.chrome.browser.app.bluetooth;
 
 import android.content.Intent;

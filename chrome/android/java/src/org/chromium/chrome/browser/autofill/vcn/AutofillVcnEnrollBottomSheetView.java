@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill VCN enrollment bottom sheet view
+// summary: Inflates and holds the views of the virtual card enrollment bottom sheet, such as title, card icons, legal messages, and accept and cancel buttons.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomMenuItemViewBinder
+// summary: Binds page zoom property model keys such as title, icon, zoom callbacks and immersive mode state to the PageZoomMenuItemView.
+// ---
+
 package org.chromium.chrome.browser.accessibility;
 
 import static org.chromium.chrome.browser.ui.appmenu.AppMenuItemProperties.ICON;

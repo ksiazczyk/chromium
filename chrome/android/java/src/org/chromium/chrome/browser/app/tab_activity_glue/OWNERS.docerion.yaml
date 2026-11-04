@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for tab_activity_glue
+summary: Lists the code owner responsible for reviewing changes in the tab_activity_glue directory.

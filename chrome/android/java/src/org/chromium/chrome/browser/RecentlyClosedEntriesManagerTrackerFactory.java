@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for the recently closed entries manager tracker
+// summary: Factory providing the singleton RecentlyClosedEntriesManagerTracker instance, with a hook for test overrides.
+// ---
+
 package org.chromium.chrome.browser;
 
 import org.chromium.base.ResettersForTesting;

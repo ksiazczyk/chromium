@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuItemTheme
+// summary: Java class that supplies theming details for Chrome Android app menu items, such as policy-managed incognito state, sync error badges, content descriptions and icon tint colors.
+// ---
+
 package org.chromium.chrome.browser.app.appmenu;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

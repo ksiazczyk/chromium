@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainLayoutSwitcher layout resource selector
+// summary: Deprecated temporary helper that returns the main layout resource depending on the side panel and vertical tabs feature flags.
+// ---
+
 package org.chromium.chrome.browser.app;
 
 import android.content.Context;

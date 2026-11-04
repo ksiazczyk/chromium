@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelOrchestrator
+// summary: Glue-level class managing the lifetime of the tab persistent store and tab model selector, including initialization, migration, and startup info.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.base.TimeUtils.uptimeMillis;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar settings fragment for Chrome Android
+// summary: Settings fragment that manages the bookmarks bar visibility subpage, wiring a radio button preference to profile or device preferences and search indexing.
+// ---
+
 package org.chromium.chrome.browser.appearance.settings;
 
 import android.content.Context;

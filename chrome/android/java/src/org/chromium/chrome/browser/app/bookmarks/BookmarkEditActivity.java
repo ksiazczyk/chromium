@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkEditActivity
+// summary: Android activity that lets the user edit a bookmark's title, URL and parent folder, including delete actions, metrics recording and folder picker integration.
+// ---
+
 package org.chromium.chrome.browser.app.bookmarks;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

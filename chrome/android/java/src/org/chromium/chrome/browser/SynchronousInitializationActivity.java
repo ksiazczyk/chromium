@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base activity with synchronous native initialization
+// summary: Abstract activity base class that synchronously initializes the native library on creation for activities started outside the normal browser startup path.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

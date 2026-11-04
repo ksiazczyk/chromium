@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome backup agent implementation
+// summary: Implements Android key/value backup and restore for Chrome, covering Android preferences, native prefs, and sign-in state with restore status tracking.
+// ---
+
 package org.chromium.chrome.browser.backup;
 
 import static org.chromium.build.NullUtil.assertNonNull;

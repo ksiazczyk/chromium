@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome backup agent entry point
+// summary: Thin Android backup agent that delegates to ChromeBackupAgentImpl by class name for Chrome's key/value backup.
+// ---
+
 package org.chromium.chrome.browser.backup;
 
 import org.chromium.build.annotations.IdentifierNameString;

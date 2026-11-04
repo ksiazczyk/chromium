@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification bottom sheet view
+// summary: Inflates the email verification bottom sheet layout and exposes its icon, title, description, buttons, drag handle, scroll view, and loading view.
+// ---
+
 package org.chromium.chrome.browser.autofill.email_verification;
 
 import android.content.Context;

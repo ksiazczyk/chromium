@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI Travel settings fragment
+// summary: Android settings fragment managing the Autofill AI Travel opt-in toggle for flight reservations, known traveler numbers, redress numbers and vehicles.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

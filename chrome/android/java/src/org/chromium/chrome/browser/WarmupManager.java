@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Warmup manager for Chrome preloading and prerendering
+// summary: Singleton that warms up Chrome and prerenders URLs without creating an activity, including spare tab management and view preloading.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

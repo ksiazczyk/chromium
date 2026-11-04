@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save IBAN bottom sheet mediator
+// summary: Manages the save IBAN bottom sheet lifecycle by observing layout and tab changes and records offer and result histograms for the prompt.
+// ---
+
 package org.chromium.chrome.browser.autofill.iban;
 
 import androidx.annotation.VisibleForTesting;

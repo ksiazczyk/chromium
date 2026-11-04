@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save IBAN bottom sheet coordinator
+// summary: Coordinates the save IBAN bottom sheet UI, wiring model, view, and mediator and reporting accept, cancel, and ignore events to native code.
+// ---
+
 package org.chromium.chrome.browser.autofill.iban;
 
 import android.content.Context;

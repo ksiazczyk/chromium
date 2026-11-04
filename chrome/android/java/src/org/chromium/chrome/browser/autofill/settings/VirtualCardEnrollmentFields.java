@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualCardEnrollmentFields
+// summary: Java model class holding card name, number, icon, card art URL, and Google and issuer legal messages, built via JNI to populate the virtual card enrollment dialog.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import androidx.annotation.VisibleForTesting;

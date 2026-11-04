@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelTrackingOrchestrator
+// summary: Manages storage collection synchronizer lifecycles and visual data update tracking for both regular and incognito tab models.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

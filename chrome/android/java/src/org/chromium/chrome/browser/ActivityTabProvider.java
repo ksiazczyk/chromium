@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityTabProvider
+// summary: Supplies the currently active Tab for the browser activity across layout and tab model states, with an observer class for tracking activity tab changes.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedActivityLaunchCauseMetrics
+// summary: LaunchCauseMetrics subclass for ChromeTabbedActivity that classifies launch intents such as launcher icons, shortcuts, widgets, and notifications.
+// ---
+
 package org.chromium.chrome.browser.app.metrics;
 
 import android.app.Activity;

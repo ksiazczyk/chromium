@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualNotificationPermissionRequesterImpl
+// summary: Chromium Android implementation of ContextualNotificationPermissionRequester that requests notification permission through the last focused ChromeTabbedActivity, gated by a field trial parameter.
+// ---
+
 package org.chromium.chrome.browser.app.notifications;
 
 import static org.chromium.build.NullUtil.assertNonNull;

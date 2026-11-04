@@ -1,0 +1,4 @@
+# Docerion header of ChromeCommandIds.template.
+type: source
+title: ChromeCommandIds template
+summary: Template that generates a Java class of command ID constants mapped from chrome/app/chrome_command_ids.h.

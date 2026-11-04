@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuItemUtils
+// summary: Utility class for building property models and list items for Chrome Android app menu entries, including dividers, text items and favicon handling.
+// ---
+
 package org.chromium.chrome.browser.app.appmenu;
 
 import android.content.Context;

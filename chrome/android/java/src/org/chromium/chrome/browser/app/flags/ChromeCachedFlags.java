@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeCachedFlags
+// summary: Caches Chrome feature flags so they are available before native code is loaded in a later run.
+// ---
+
 package org.chromium.chrome.browser.app.flags;
 
 import android.text.TextUtils;

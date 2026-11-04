@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deferred startup task handler
+// summary: Queues application-level startup tasks and runs them sequentially through a message-queue idle handler when the UI thread is idle.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.os.Looper;

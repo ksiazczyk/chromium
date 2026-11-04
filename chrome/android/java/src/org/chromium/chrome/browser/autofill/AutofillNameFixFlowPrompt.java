@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillNameFixFlowPrompt
+// summary: Android prompt that asks users to confirm or enter the cardholder name before a card is saved to Google.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

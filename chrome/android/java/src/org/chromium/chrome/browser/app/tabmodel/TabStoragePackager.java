@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStoragePackager
+// summary: Packages Java-accessible tab model data such as window tags, model types and active tab suppliers for use by native C++ code through JNI.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.chrome.browser.app.tabmodel.CustomTabsTabModelOrchestrator.getCustomTabsWindowTag;

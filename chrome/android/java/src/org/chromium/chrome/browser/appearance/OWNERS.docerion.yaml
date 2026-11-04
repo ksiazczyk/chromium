@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the appearance directory
+summary: Lists the code owners responsible for reviewing changes in the appearance directory, with a per-file owner rule for TabPositionSettingsFragment.java.

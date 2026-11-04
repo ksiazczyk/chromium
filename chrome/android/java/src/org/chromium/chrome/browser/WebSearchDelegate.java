@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web search delegate
+// summary: Executes a web search from a query, opening a new tab with the search engine URL, geolocation header, and data protection checks.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

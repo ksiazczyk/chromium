@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GooglePlayServicesChecker
+// summary: Checks at browser startup whether Google Play Services is usable and disables Background Sync when it is out of date, recording a histogram of availability.
+// ---
+
 package org.chromium.chrome.browser.background_sync;
 
 import androidx.annotation.VisibleForTesting;

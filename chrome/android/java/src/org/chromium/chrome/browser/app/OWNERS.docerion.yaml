@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the app directory
+summary: Code owners file that inherits chrome/android owners and assigns per-file ownership of MainLayoutSwitcher.java to the side UI owners.

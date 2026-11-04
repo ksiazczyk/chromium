@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadActivityLauncher
+// summary: Singleton that launches the download activity and tracks its state so dialogs can be shown on top of it.
+// ---
+
 package org.chromium.chrome.browser.app.download.home;
 
 import android.app.Activity;

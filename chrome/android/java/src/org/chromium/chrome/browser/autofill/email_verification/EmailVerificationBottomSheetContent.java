@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification bottom sheet content
+// summary: Implements BottomSheetContent for the email verification sheet, providing the content view, scroll offset, priority, height mode, and accessibility strings.
+// ---
+
 package org.chromium.chrome.browser.autofill.email_verification;
 
 import android.content.res.Resources;

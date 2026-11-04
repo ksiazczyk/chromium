@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default tab model selector factory for Chrome
+// summary: Default TabModelSelectorFactory for Chrome that builds tabbed and headless tab model selectors.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import android.content.Context;

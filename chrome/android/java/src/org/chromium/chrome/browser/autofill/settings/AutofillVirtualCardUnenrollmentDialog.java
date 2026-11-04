@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card unenrollment confirmation dialog
+// summary: Modal dialog confirming whether the user wants to unenroll a card from Virtual Cards, recording the outcome and link clicks in histograms.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

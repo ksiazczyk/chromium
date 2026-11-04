@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill payment methods settings fragment
+// summary: Main settings fragment listing saved payment methods like cards and IBANs, handling virtual card enrollment, mandatory reauth, and related preferences.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static org.chromium.build.NullUtil.assertNonNull;

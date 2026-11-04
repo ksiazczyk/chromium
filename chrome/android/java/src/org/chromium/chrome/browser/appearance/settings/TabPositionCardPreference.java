@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card-based preference for choosing tab position
+// summary: Preference that presents horizontal versus vertical tab selection as visual cards, handling clicks, selection state, and radio-button accessibility semantics.
+// ---
+
 package org.chromium.chrome.browser.appearance.settings;
 
 import android.content.Context;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for xsurface_provider
+summary: Points to the shared OWNERS file in chrome/browser/xsurface_provider to define code ownership for this directory.

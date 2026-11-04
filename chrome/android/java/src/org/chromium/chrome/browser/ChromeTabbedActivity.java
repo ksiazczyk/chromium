@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeTabbedActivity
+// summary: Main tabbed browsing activity for Chrome on Android, coordinating tabs, intents, lifecycle and window state.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assertNonNull;

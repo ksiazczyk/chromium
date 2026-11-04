@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Radio button group preference for bookmark bar visibility
+// summary: Custom preference showing three bookmark bar options (always hide, always show, only show on New Tab Page) with support for managed policy state.
+// ---
+
 package org.chromium.chrome.browser.appearance.settings;
 
 import android.content.Context;

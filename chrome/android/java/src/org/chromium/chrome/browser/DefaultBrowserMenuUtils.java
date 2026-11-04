@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser menu title utility
+// summary: Supplies the title for the open-in-default-browser menu item based on the system default browser or a forced Chrome default.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.content.Context;

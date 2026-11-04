@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the actor directory
+summary: Redirects code ownership for this directory to the shared actor Android OWNERS file.

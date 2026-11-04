@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStoreMetricsService
+// summary: Profile and window tag-keyed service that collects and reports tab, group and pinned tab count metrics from the TabPersistentStore and TabStateStore.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import android.text.TextUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reparenting task for multiple tabs
+// summary: Reparents a list of tabs from one activity to another, detaching each tab and starting the new host activity with a prepared intent.
+// ---
+
 package org.chromium.chrome.browser.app.tab_activity_glue;
 
 import android.content.Context;

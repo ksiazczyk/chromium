@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote debugging DevTools server controller
+// summary: Manages the native DevTools server for remote web debugging, gated by the remote debugging allowed preference and debug permission checks.
+// ---
+
 package org.chromium.chrome.browser;
 
 

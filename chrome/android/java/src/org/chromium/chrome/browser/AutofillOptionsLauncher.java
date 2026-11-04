@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillOptionsLauncher
+// summary: Helper activity that handles ACTION_APPLICATION_PREFERENCES intents from other apps and launches Chrome's autofill options settings screen.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.app.Activity;

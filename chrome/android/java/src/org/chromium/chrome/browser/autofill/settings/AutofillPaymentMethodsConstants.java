@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill payment methods constants
+// summary: Holds constants shared across autofill payment method settings, notably the Google Wallet settings URL used in the reminder notice preference.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import org.chromium.build.annotations.NullMarked;

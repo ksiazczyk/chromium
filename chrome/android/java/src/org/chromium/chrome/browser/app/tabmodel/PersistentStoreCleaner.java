@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentStoreCleaner
+// summary: Cleans up persisted tab state belonging to other windows, coordinating tab state store and legacy persistent store cleanup.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.base.ThreadUtils.assertOnUiThread;

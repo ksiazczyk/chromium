@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab state based theme resource provider
+// summary: Supplies theme and resources based on the active tab, enabling the theme overlay for incognito-branded tabs while the browsing layout is shown.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.content.Context;

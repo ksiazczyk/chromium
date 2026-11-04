@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadHelpPageLauncherImpl
+// summary: Opens download help page URLs in a custom tab, using an incognito custom tab for off-the-record profiles.
+// ---
+
 package org.chromium.chrome.browser.app.download.home;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaretBrowsingDialog
+// summary: Android modal dialog that asks the user to confirm turning on caret browsing when the F7 shortcut is pressed, with a don't-ask-again option and histogram reporting.
+// ---
+
 package org.chromium.chrome.browser.accessibility.settings;
 
 import android.app.Activity;

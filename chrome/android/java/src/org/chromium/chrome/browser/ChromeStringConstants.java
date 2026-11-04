@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeStringConstants
+// summary: Defines non-translatable string constants such as autofill payment URLs to avoid bloating APK string resources.
+// ---
+
 package org.chromium.chrome.browser;
 
 

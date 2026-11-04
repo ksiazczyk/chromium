@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service tab launcher for background service tab opens
+// summary: Launches browser tabs from background Android services by sending intents, opening URLs in standalone web app frames when a matching web app exists.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

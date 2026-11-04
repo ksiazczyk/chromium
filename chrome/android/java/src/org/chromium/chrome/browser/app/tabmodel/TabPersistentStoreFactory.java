@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabPersistentStoreFactory
+// summary: Factory that builds authoritative and shadow TabPersistentStore variants, encapsulating store type selection and migration logic.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.chrome.browser.tab.TabStateStorageFlagHelper.isTabStorageEnabled;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently closed entries manager tracker implementation
+// summary: Singleton implementation of RecentlyClosedEntriesManagerTracker that manages per-activity managers and notifies them about closed or restored multi-instance windows.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.util.ArraySet;

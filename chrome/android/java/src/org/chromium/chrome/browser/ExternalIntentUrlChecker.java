@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External intent URL safety checker
+// summary: Determines whether a URL is safe to open from an external intent, blocking unsafe schemes and access to Chrome's own content providers.
+// ---
+
 package org.chromium.chrome.browser;
 
 import org.jni_zero.JNINamespace;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LaunchCauseMetrics
+// summary: Abstract Android class that computes and records the MobileStartup.LaunchCause histogram for what caused Chrome to be launched.
+// ---
+
 package org.chromium.chrome.browser.app.metrics;
 
 import android.annotation.SuppressLint;

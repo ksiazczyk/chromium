@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save IBAN bottom sheet JNI bridge
+// summary: JNI bridge that lets native C++ autofill code show and hide the Android bottom sheet prompting the user to save an IBAN.
+// ---
+
 package org.chromium.chrome.browser.autofill.iban;
 
 import android.content.Context;

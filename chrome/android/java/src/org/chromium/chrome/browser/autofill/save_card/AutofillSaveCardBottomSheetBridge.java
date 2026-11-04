@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save card bottom sheet bridge
+// summary: JNI bridge that lets the native autofill client show and hide the save card bottom sheet in Chrome on Android.
+// ---
+
 package org.chromium.chrome.browser.autofill.save_card;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

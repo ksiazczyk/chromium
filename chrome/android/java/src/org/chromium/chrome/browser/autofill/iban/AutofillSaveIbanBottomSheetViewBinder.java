@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save IBAN bottom sheet view binder
+// summary: Binds the save IBAN property model to the bottom sheet view, updating text, icons, click listeners, and the legal message.
+// ---
+
 package org.chromium.chrome.browser.autofill.iban;
 
 import android.text.SpannableStringBuilder;

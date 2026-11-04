@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm quit helper for Android Chrome
+// summary: Implements the Warn Before Quit flow, requiring a 1.5-second shortcut hold or a quick double-tap to quit Chrome, with UMA tracking of the quit result.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.content.Context;

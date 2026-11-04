@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Archived tab model orchestrator
+// summary: Glue-level class managing the lifetime of archived tab model objects, including the archived selector, tab creators, and persistent stores.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.build.NullUtil.assertNonNull;

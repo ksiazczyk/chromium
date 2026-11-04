@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local IBAN editor for autofill settings
+// summary: Fragment for adding, editing, and deleting local IBANs that are saved only on the user's device, with logging of IBAN actions.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWindowManagerNativeTestSupport
+// summary: Support class letting native test code access the TabWindowManager, including looking up a window ID for a TabModel and waiting for a selector to initialize.
+// ---
+
 package org.chromium.chrome.browser.app.tabwindow;
 
 import org.jni_zero.CalledByNative;

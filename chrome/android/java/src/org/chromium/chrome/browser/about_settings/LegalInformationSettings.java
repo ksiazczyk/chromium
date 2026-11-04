@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legal information settings fragment
+// summary: Settings fragment that displays Chrome's legal information page and provides search index data for settings search.
+// ---
+
 package org.chromium.chrome.browser.about_settings;
 
 import android.os.Bundle;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill VCN enrollment bottom sheet mediator
+// summary: Mediator that shows and hides the virtual card enrollment bottom sheet, handles user actions, and records enrollment result metrics.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import androidx.annotation.IntDef;

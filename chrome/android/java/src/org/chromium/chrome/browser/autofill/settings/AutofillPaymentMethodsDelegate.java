@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native payment methods delegate for autofill settings
+// summary: JNI delegate that owns a native counterpart and exposes payment operations such as virtual card enrollment and unenrollment to Java settings UI.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import org.jni_zero.JNINamespace;

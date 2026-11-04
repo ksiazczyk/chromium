@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graceful shutdown service implementation
+// summary: Runs a foreground service for about two seconds during window closure to allow tabs to shut down gracefully, with a notification and timeout handling.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.app.Service;

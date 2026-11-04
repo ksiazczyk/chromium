@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCacheDirScope
+// summary: Encapsulates the directory, shared preferences, sequenced task runner, and clear counter for an isolated tab cache storage partition scope.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import android.content.Context;

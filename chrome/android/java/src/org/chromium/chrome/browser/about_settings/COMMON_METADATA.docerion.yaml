@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for about settings
+summary: Shared Chromium metadata declaring the UI>Browser>Mobile>Settings component, the clank-app team email and a public Buganizer component.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Download package metadata
+summary: Declares the Monorail component, team email, and Buganizer component ID used for issues in this download directory.

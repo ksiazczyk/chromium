@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkActivity
+// summary: Android activity that shows the phone bookmark UI by hosting a BookmarkManagerCoordinator, with snackbar, edge-to-edge and back-press handling; on tablets the UI lives in a tab instead.
+// ---
+
 package org.chromium.chrome.browser.app.bookmarks;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

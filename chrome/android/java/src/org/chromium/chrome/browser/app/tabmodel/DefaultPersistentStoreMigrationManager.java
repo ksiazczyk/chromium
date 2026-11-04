@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default persistent store migration manager
+// summary: Migration manager that assumes no migration is required, deriving authoritative and shadow store types from tab storage feature flags.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.chrome.browser.tab.TabStateStorageFlagHelper.isStorageAuthoritative;

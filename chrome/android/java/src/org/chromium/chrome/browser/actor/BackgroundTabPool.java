@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile-scoped background tab pool
+// summary: Profile-scoped pool managing background actor tabs, encapsulating live in-memory tabs and persisted cold tabs via TabCache.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.chromium.base.ThreadUtils.assertOnUiThread;

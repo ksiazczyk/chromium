@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSheetUiControllerFactory
+// summary: Factory that creates an AutofillSheetUiController wrapping either a bottom sheet or an anchored dialog depending on form factor and feature flags.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import android.content.Context;

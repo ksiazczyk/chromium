@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilitySettingsBridge
+// summary: JNI bridge connecting the Java accessibility settings UI to the native caret browsing implementation, including enable/disable state, dialog preference, and usage histograms.
+// ---
+
 package org.chromium.chrome.browser.accessibility.settings;
 
 import androidx.annotation.IntDef;

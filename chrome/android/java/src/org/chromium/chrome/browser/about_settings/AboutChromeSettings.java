@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About Chrome settings fragment
+// summary: Settings fragment displaying Chrome's application and OS version and legal information, and enabling developer options after seven taps.
+// ---
+
 package org.chromium.chrome.browser.about_settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

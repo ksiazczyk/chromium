@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-card payment methods management fragment
+// summary: Settings fragment for managing non-card payment accounts such as e-Wallets and A2A payments, with toggles, account lists and usage histograms.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

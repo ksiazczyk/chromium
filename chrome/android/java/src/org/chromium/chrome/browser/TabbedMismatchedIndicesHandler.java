@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mismatched indices handler for ChromeTabbedActivity
+// summary: Implements MismatchedIndicesHandler to resolve tab index mismatches by saving state, destroying the conflicting activity's tab persistent store, and finishing it.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assertNonNull;

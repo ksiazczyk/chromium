@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Appearance settings fragment for Chrome Android
+// summary: Manages Chrome Android's appearance settings page, covering homepage, UI theme, toolbar shortcuts, address bar, bookmark bar, bottom bar, and tab position preferences.
+// ---
+
 package org.chromium.chrome.browser.appearance.settings;
 
 import android.content.Context;

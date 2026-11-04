@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityTabHelper
+// summary: Per-tab helper that attaches accessibility state to a Tab's WebContents, enabling page-load focus, image descriptions and auto-disable accessibility except in Custom Tabs.
+// ---
+
 package org.chromium.chrome.browser.accessibility;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo preference
+// summary: Preference that displays a sign-in promo card in the Autofill and Passwords settings via the sign-in promo coordinator.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

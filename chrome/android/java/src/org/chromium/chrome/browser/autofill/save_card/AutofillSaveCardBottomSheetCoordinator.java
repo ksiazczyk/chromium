@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save card bottom sheet coordinator
+// summary: Coordinates the save card bottom sheet, building the model, view and mediator and reporting user actions back to native code.
+// ---
+
 package org.chromium.chrome.browser.autofill.save_card;
 
 import android.content.Context;

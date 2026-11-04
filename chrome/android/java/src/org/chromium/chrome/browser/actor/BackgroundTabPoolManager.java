@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background tab pool manager
+// summary: Manages leased BackgroundTabPool instances per profile token, destroying pools only when no clients hold leases and the pool is empty.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.chromium.base.ThreadUtils.assertOnUiThread;

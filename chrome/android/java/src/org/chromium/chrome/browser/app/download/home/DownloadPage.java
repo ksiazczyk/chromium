@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadPage
+// summary: Native page that embeds the download manager UI inside Chrome, handling back press, URL updates, and snackbars.
+// ---
+
 package org.chromium.chrome.browser.app.download.home;
 
 import android.app.Activity;

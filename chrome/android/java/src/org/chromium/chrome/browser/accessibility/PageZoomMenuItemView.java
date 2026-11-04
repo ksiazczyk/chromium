@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomMenuItemView
+// summary: Custom app menu item view for page zoom with zoom in and out buttons, a zoom percentage label and an optional fullscreen control.
+// ---
+
 package org.chromium.chrome.browser.accessibility;
 
 import android.content.Context;

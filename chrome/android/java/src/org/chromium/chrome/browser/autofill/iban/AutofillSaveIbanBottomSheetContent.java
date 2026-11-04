@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save IBAN bottom sheet content
+// summary: Implements BottomSheetContent to render the save IBAN prompt, keeping the sheet open during navigation and providing accessibility strings.
+// ---
+
 package org.chromium.chrome.browser.autofill.iban;
 
 import android.view.View;

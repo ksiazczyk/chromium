@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background tab restoration helper
+// summary: Utility that intercepts and restores background actor tabs from the BackgroundTabPool during tab state initialization and restoration.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.chromium.base.ThreadUtils.assertOnUiThread;

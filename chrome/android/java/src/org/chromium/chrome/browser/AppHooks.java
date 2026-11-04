@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppHooks
+// summary: Base class defining overridable hooks for downstream Chromium targets, covering WebAPK install delegates, policy providers, partner bookmarks, and price insights views.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.content.Context;

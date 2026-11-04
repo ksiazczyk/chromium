@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill VCN enrollment bottom sheet view binder
+// summary: Binds property model changes to the virtual card enrollment bottom sheet view, updating texts, icons, visibility, and clickable links.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import android.content.Context;

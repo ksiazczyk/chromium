@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buy Now Pay Later settings fragment
+// summary: Settings fragment letting users toggle Buy Now Pay Later, view issuer terms, and manage related preferences with user action metrics.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

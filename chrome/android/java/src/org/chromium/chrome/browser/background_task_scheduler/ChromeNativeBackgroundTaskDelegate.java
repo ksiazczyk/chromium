@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeNativeBackgroundTaskDelegate
+// summary: Chrome implementation of NativeBackgroundTaskDelegate that initializes native libraries for background tasks and provides the UMA reporter.
+// ---
+
 package org.chromium.chrome.browser.background_task_scheduler;
 
 import org.chromium.base.Log;

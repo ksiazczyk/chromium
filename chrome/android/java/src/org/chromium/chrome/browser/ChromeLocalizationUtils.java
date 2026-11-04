@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeLocalizationUtils
+// summary: Locale helpers for Chrome that resolve the Java UI locale and log language availability, correctness and update metrics.
+// ---
+
 package org.chromium.chrome.browser;
 
 

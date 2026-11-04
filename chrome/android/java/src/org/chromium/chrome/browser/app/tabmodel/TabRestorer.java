@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabRestorer
+// summary: Manages the tab restoration process after loading tabs from storage, tracking restore state, batching, cancellation, and finish signals.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

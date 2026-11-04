@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the app package
+summary: Chromium dependency-checker rules allowing includes from chrome/browser/tabmodel within this directory.

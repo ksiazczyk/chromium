@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeKeyboardVisibilityDelegate
+// summary: Keyboard visibility delegate that accounts for the manual filling UI when showing, hiding or measuring the keyboard.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab position settings fragment for Chrome Android
+// summary: Settings fragment managing horizontal versus vertical tab layout, including the card selector and an expand-tabs-on-hover switch with search index support.
+// ---
+
 package org.chromium.chrome.browser.appearance.settings;
 
 import android.content.Context;

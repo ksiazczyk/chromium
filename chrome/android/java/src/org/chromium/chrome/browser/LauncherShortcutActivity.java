@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launcher shortcut routing activity
+// summary: Activity that routes launcher shortcut intents for opening new tabs, incognito tabs and windows, and manages dynamic shortcut updates.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

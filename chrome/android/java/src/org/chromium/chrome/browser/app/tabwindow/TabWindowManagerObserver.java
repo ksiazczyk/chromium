@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWindowManagerObserver
+// summary: Java observer that forwards TabWindowManager events, such as tab state initialization, to a native observer over JNI.
+// ---
+
 package org.chromium.chrome.browser.app.tabwindow;
 
 import org.jni_zero.CalledByNative;

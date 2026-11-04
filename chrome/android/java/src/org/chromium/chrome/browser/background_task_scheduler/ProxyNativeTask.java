@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyNativeTask
+// summary: Entry point for natively scheduled background tasks, acting as a proxy that loads native code and forwards task start and stop calls.
+// ---
+
 package org.chromium.chrome.browser.background_task_scheduler;
 
 import android.content.Context;

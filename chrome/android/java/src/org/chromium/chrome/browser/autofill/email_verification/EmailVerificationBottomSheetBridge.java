@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification bottom sheet native bridge
+// summary: JNI bridge that lets the native AutofillClient request, show, hide, and receive shown, accepted, and dismissed callbacks from the Android email verification bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.autofill.email_verification;
 
 import android.content.Context;

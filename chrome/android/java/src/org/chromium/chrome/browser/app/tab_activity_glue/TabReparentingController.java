@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller for tab reparenting on app restart
+// summary: Prepares all tabs for reparenting when the app restarts due to configuration changes such as theme switches or tablet/phone layout changes.
+// ---
+
 package org.chromium.chrome.browser.app.tab_activity_glue;
 
 import org.chromium.base.Log;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnchoredDialogCoordinatorProvider
+// summary: Static provider that attaches, detaches and retrieves a shared AnchoredDialogCoordinator instance for each WindowAndroid via unowned user data.
+// ---
+
 package org.chromium.chrome.browser.autofill.anchored_dialog;
 
 import org.chromium.base.UnownedUserDataKey;

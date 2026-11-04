@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCache
+// summary: FlatBuffer-based tab state cache handling asynchronous serialization, mmap deserialization, incognito encryption, and multi-key preloading.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.base.ThreadUtils.assertOnUiThread;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manager for recently closed tabs and windows
+// summary: Synchronizes and manages recently closed tabs, groups and windows from the tab restore service and multi-instance manager, keeping a capped entry list.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

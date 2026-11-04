@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android payment app preference with fixed icon size
+// summary: Custom Android preference that renders Android payment apps with a fixed-size icon in Chrome's payment settings.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

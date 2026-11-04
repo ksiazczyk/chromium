@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Responsive container for tab position option cards
+// summary: Linear layout that switches tab position cards between side-by-side and stacked arrangements based on available width, adjusting gaps and card backgrounds.
+// ---
+
 package org.chromium.chrome.browser.appearance.settings;
 
 import android.content.Context;

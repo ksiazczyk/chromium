@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swipe-to-refresh overscroll handler for tabs
+// summary: Implements the pull-to-refresh overscroll effect for tabs using a modified Android SwipeRefreshLayout, with animation timing and test hooks.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

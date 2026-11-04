@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save card bottom sheet mediator
+// summary: Manages the save card prompt flow, records loading and result histograms and forwards UI events to the native bridge.
+// ---
+
 package org.chromium.chrome.browser.autofill.save_card;
 
 import androidx.annotation.IntDef;

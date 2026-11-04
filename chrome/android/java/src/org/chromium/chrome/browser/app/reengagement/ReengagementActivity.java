@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReengagementActivity trampoline to open the NTP from a reengagement notification
+// summary: Android trampoline activity that, when launched with the reengagement notification's LAUNCH_NTP_ACTION, starts a trusted non-incognito new-tab intent and then finishes itself.
+// ---
+
 package org.chromium.chrome.browser.app.reengagement;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserExitReasonTracker
+// summary: Records the system exit reason of the browser process across sessions, storing the process ID and exit reason in shared preferences and reporting UMA histograms.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.content.SharedPreferences;

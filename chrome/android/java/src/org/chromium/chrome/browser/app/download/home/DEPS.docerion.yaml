@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the download home directory
+summary: Defines the allowed include dependencies for the Chrome Android download home package.
