@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: New Tab Footer WebUI build definition
+summary: GN build file defining the build_webui target with TypeScript, CSS and static files, dependencies, path mappings and Mojo bindings.

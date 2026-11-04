@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the IWA developer combobox
+// summary: Renders the accessible combobox input with a suggestion listbox, clear and dropdown buttons and an error message.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {IwaDevComboboxElement} from './combobox.js';

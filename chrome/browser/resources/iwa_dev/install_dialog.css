@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Install dialog styles
+summary: CSS styles for the IWA install dialog, sizing tab content and dimming tabs while installation runs.
+*/
+
 /* #css_wrapper_metadata_start
  * #type=style-lit
  * #import=//resources/cr_elements/cr_shared_vars.css.js

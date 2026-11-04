@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Word hit testing
+// summary: Implements hit testing for recognized words, finding the best matching word when the cursor is not directly over one.
+// ---
+
 import type {PointF, RectF} from '//resources/mojo/ui/gfx/geometry/mojom/geometry.mojom-webui.js';
 
 import type {Word} from './text.mojom-webui.js';

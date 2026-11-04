@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS lookup and host cache view
+// summary: Tab view for resolving hostnames, showing resolved addresses and alternative endpoints, and clearing the host resolver cache.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 
 import {BrowserBridge} from './browser_bridge.js';

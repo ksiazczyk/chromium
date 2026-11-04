@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Google Network Speech extension manifest
+summary: Manifest for the Google Network Speech component extension declaring its background script, permissions, and remote TTS voices for many languages.

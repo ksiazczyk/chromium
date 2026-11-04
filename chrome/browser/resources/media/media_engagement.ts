@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Engagement page controller
+// summary: Populates and sorts the media engagement and config tables using Mojo data from the MediaEngagementScoreDetailsProvider.
+// ---
+
 import 'chrome://resources/mojo/url/mojom/origin.mojom-webui.js';
 
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';

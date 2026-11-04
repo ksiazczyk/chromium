@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback toast element
+// summary: Lit element that shows a feedback toast in the Lens side panel and requests feedback through the browser proxy.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/cr_elements/cr_toast/cr_toast.js';

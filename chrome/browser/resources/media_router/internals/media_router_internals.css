@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Media Router Internals page styles
+summary: CSS for the media router internals WebUI, styling tabs, status tables, log severity rows, and the mirroring dashboard stat cards and sparklines.
+*/
+
 body {
   margin: 0;
   padding: 20px;

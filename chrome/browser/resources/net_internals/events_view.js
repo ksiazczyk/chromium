@@ -7,6 +7,12 @@
  * help users migrate to using net-export and the catapult netlog_viewer.
  */
 
+// ---docerion
+// type: source
+// title: Events view deprecation stub for net-internals
+// summary: Replaces the old net-internals events view with a deprecation message that directs users to net-export and the catapult netlog_viewer, redirecting dropped log files to the events tab.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 
 import {DivView} from './view.js';

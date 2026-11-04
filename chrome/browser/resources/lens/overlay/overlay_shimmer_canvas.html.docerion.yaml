@@ -1,0 +1,4 @@
+# Docerion header of overlay_shimmer_canvas.html.
+type: source
+title: Overlay shimmer canvas HTML template
+summary: HTML template for the Lens overlay shimmer canvas, containing the shader canvas and a hidden sparkles image source.

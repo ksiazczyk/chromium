@@ -1,0 +1,4 @@
+# Docerion header of management.html.
+type: source
+title: Management page HTML shell
+summary: HTML host page for Chrome's management WebUI that sets up styles and dark mode support, loads the management_ui module, and renders the management-ui element.

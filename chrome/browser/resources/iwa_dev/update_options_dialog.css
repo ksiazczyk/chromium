@@ -7,6 +7,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Update options dialog styles
+summary: Styles for the update options dialog, laying out the title, body, comboboxes, and toggle.
+*/
+
 [slot='title'] {
   align-items: center;
   display: flex;

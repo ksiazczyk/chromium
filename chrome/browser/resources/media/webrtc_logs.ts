@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC logs page controller
+// summary: Fetches the WebRTC log lists from the browser backend and renders text and event log entries with upload and bug-report links.
+// ---
+
 import '/strings.m.js';
 
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';

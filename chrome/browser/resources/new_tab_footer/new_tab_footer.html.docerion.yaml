@@ -1,0 +1,4 @@
+# Docerion header of new_tab_footer.html.
+type: source
+title: New Tab Footer WebUI entry page
+summary: HTML shell hosting the new-tab-footer-app element and loading the app module, text defaults and theme color styles.

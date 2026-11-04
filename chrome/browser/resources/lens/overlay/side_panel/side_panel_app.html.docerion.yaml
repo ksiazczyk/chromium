@@ -1,0 +1,4 @@
+# Docerion header of side_panel_app.html.
+type: source
+title: Side panel app template
+summary: HTML template for the Lens side panel app with searchbox, composebox and results styling for light and dark modes.

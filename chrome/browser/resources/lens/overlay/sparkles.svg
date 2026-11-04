@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Sparkles SVG graphic
+summary: SVG asset drawing a sparkles texture using turbulence and color matrix filters.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" fill="none" viewBox="0 0 400 400">
     <defs>
         <filter id="sparkles" color-interpolation-filters="auto">

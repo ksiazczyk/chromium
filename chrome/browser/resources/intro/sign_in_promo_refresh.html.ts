@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refreshed sign-in promo HTML template
+// summary: Lit HTML template for the refreshed sign-in promo with lottie animations, benefit cards, disclaimer, and platform-specific buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SignInPromoRefreshElement} from './sign_in_promo_refresh.js';

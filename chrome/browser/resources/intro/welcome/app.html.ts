@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the welcome app
+// summary: Renders the welcome page markup with product logo, default browser toggle, start button and the metrics opt-in dialog.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {WelcomeAppElement} from './app.js';

@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sign-in celebration app styles
+summary: Defines the Lit CSS styles for the sign-in celebration app, covering avatar animation sizing, title typography, and responsive breakpoints.
+*/
+
 :host {
   --avatar-size: 92px;
   --avatar-animation-size: 200px;

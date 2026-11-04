@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript config for media WebUI
+summary: Extends the shared Chromium TypeScript base config and disables noUncheckedIndexedAccess for this directory.

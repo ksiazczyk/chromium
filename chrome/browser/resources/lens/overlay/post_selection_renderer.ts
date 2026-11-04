@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post-selection renderer element
+// summary: Polymer element that renders the user's visual selection after it is made and lets them adjust the region to issue a new Lens request.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 
 import {I18nMixin} from '//resources/cr_elements/i18n_mixin.js';

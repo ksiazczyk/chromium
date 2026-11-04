@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay metrics utilities
+// summary: Defines enums and helper functions that record Lens overlay usage, context menu and performance metrics via chrome.metricsPrivate.
+// ---
+
 import {BrowserProxyImpl} from './browser_proxy.js';
 import {UserAction} from './lens.mojom-webui.js';
 import type {SemanticEvent} from './lens.mojom-webui.js';

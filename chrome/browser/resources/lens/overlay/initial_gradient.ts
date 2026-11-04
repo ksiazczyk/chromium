@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial gradient element
+// summary: Defines the initial-gradient custom element that shows and hides the opening gradient scrim.
+// ---
+
 import '/strings.m.js';
 
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

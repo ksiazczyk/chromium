@@ -1,0 +1,4 @@
+# Docerion header of multisteps_filter_internals.html.
+type: source
+title: Multistep Filter Internals WebUI entry page
+summary: HTML shell that hosts the app element and loads the app module script for the internals page.

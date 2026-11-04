@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser intro page template
+// summary: Lit HTML template rendering the default browser prompt with illustration, title, subtitle and skip/confirm buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AppElement} from './app.js';

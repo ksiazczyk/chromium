@@ -10,6 +10,12 @@
  * #include=searchbox-shared-style-lit cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Searchbox ghost loader styles
+summary: Styles for the Lens searchbox ghost loader, covering loading, hint, and error states plus animated loading bars.
+*/
+
 #content {
   background-color: var(--color-searchbox-results-background);
   border-radius: calc(0.5 * var(--cr-searchbox-height));

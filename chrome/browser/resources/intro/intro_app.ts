@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intro app element with splash and sign-in views
+// summary: Lit element that plays a splash animation before switching the view manager to the sign-in promo.
+// ---
+
 import 'chrome://resources/cr_elements/cr_view_manager/cr_view_manager.js';
 import 'chrome://resources/cr_elements/cr_shared_vars.css.js';
 import './sign_in_promo.js';

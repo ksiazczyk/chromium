@@ -1,0 +1,4 @@
+# Docerion header of selection_overlay.html.
+type: source
+title: Selection overlay template
+summary: HTML template and styles for the Lens selection overlay, laying out the background canvas, scrims, layers, close button, and context menus.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sockets view
+// summary: View showing socket pool state with buttons to close idle sockets and flush socket pools.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 
 import {BrowserBridge} from './browser_bridge.js';

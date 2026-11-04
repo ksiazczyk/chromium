@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media Router Internals build configuration
+summary: GN build file defining the WebUI build target for the media router internals page, listing its CSS, HTML, and TypeScript sources and their build dependencies.

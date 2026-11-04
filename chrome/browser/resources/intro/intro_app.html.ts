@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the intro app
+// summary: Renders the splash logo view and the sign-in promo inside the intro-app view manager.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {IntroAppElement} from './intro_app.js';

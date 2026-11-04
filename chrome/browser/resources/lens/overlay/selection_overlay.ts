@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection overlay element
+// summary: Polymer element that coordinates selections in the Lens overlay, wiring region, object, text, shimmer, and post-selection layers together.
+// ---
+
 import './object_layer.js';
 import './simplified_text_layer.js';
 import './text_layer.js';

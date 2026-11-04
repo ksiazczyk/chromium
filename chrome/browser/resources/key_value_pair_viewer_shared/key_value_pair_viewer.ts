@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key value pair viewer Lit element
+// summary: Lit element that displays parsed key value pair entries, imports dropped log files up to 10 MiB, and shows a parse error when parsing fails.
+// ---
+
 import './key_value_pair_entry.js';
 
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';

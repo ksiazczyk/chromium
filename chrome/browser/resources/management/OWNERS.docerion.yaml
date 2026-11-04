@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the management directory
+summary: Delegates ownership review approval to the OWNERS file of the policy components directory.

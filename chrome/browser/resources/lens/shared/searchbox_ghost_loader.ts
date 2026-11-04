@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox ghost loader element
+// summary: Lit element that displays a loading preview in the contextual searchbox while autocomplete results are pending.
+// ---
+
 import '/strings.m.js';
 import '//resources/cr_components/searchbox/searchbox_icon.js';
 

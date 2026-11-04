@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installed app list item template
+// summary: Lit template rendering each installed app with its icon, name, version, source, and update or uninstall actions.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {InstalledAppListItemElement} from './installed_app_list_item.js';

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the WebRTC logs page
+summary: Defines layout and styling for the WebRTC logs page, including log banners and log list sections.
+*/
+
 body {
   margin: 20px;
 }

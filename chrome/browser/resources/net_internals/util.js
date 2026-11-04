@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM utility helpers
+// summary: Shared DOM helpers for sizing, positioning, showing, and creating nodes, plus a touch screen detection function.
+// ---
+
 /**
  * Sets the width (in pixels) on a DOM node.
  * @param {!HtmlNode} node The node whose width is being set.

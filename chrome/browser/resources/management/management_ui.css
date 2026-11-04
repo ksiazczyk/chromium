@@ -13,6 +13,12 @@
  * #include=cr-icons-lit cr-hidden-style-lit cr-page-host-style-lit cr-shared-style-lit cr-scrollable-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the management UI
+summary: Lit CSS styles for the management-ui element covering cards, reporting tables and the ChromeOS end-of-life notice section.
+*/
+
 :host {
   color: var(--cr-secondary-text-color);
   display: flex;

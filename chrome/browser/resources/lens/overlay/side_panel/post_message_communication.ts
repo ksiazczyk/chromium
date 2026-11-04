@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post message communication with the remote UI
+// summary: Receiver class that exchanges post messages, including the AIM handshake and scroll-to messages, with the Lens results frame.
+// ---
+
 import '/strings.m.js';
 
 import {assert} from '//resources/js/assert.js';

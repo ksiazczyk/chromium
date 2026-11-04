@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay object layer element
+// summary: Polymer element that renders detected objects with bounding boxes and segmentation masks and handles cursor interactions in the Lens overlay.
+// ---
+
 import '/strings.m.js';
 
 import {assert, assertInstanceof} from '//resources/js/assert.js';

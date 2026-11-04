@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text highlight line computation
+// summary: Computes highlighted line rectangles by coalescing word bounding boxes for text highlights in the Lens overlay.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import type {CenterRotatedBox} from './geometry.mojom-webui.js';

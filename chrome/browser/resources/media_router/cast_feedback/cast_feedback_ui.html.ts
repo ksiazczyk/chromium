@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast feedback UI HTML template
+// summary: Lit HTML template that renders the cast feedback form, including feedback type radio buttons, a comment textarea and mirroring quality ratings.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CastFeedbackUiElement} from './cast_feedback_ui.js';

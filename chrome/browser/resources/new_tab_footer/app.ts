@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Footer app element
+// summary: Lit element implementing the footer UI with metrics enums, Mojo browser proxies and handlers for clicks, context menu and customization.
+// ---
+
 import '/strings.m.js';
 import 'chrome://newtab-footer/shared/customize_buttons/customize_buttons.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

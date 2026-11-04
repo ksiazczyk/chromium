@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the shared key value pair viewer
+summary: Defines the WebUI build for the shared key value pair viewer, listing its web component, TypeScript, and CSS files plus Lit and WebUI dependencies.

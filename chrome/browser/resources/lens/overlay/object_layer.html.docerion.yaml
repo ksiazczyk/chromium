@@ -1,0 +1,4 @@
+# Docerion header of object_layer.html.
+type: source
+title: Object layer element HTML template
+summary: HTML template for the Lens overlay object layer, providing the selection canvas and repeated object containers with pointer handlers.

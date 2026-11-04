@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot rendering utility
+// summary: Utility that renders a screenshot bitmap into a given HTML canvas using a bitmaprenderer context.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 // Renders the given bitmap containing the screenshot in the given HTML canvas.

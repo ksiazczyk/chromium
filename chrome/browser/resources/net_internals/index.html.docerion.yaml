@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Net internals main page markup
+summary: HTML page providing the tab contents for the events, proxy, DNS, sockets and domain security policy views.

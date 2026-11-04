@@ -7,6 +7,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Update manifest install tab styles
+summary: CSS styles for the update manifest tab, laying out the fetch row, dropdowns and success message.
+*/
+
 :host {
   display: block;
 }

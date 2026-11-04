@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window proxy for testable window access
+// summary: Singleton class wrapping window.location.href as a URL so builtin browser functions can be mocked in tests.
+// ---
+
 let instance: WindowProxy|null = null;
 
 /** Abstracts some builtin JS functions to mock them in tests. */

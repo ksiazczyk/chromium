@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: MEI Preload component build rules
+summary: GN build file that copies the MEI Preload manifest and preloaded data into the component output directory and bundles them on macOS.

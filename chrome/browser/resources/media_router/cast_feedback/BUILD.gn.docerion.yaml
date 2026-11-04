@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast feedback WebUI build definition
+summary: GN build rules that assemble the cast feedback WebUI from its HTML, CSS and TypeScript sources, with Lit and cr_elements TypeScript dependencies.

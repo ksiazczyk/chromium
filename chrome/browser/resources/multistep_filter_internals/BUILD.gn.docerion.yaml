@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Multistep Filter Internals WebUI
+summary: Defines the GN build for the WebUI, listing its TypeScript, CSS, static HTML and generated Mojo files plus build dependencies.

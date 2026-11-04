@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo HTML template
+// summary: Lit HTML template rendering the product logo, benefit cards, managed device disclaimer, and sign-in or decline buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SignInPromoElement} from './sign_in_promo.js';

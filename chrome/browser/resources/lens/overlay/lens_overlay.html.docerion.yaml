@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay.html.
+type: source
+title: Lens overlay page
+summary: HTML entry page that loads the Lens overlay WebUI and mounts the lens-overlay-app element.

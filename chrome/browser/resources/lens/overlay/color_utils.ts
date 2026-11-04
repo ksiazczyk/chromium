@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: source
+// title: Color utilities for the Lens overlay
+// summary: Utility functions and constants providing shader layer and Glif colors plus a helper to adjust rgba transparency.
+// ---
+
 // Returns an array of the Shader hex colors from the given theme.
 export function getShaderLayerColorHexes(): string[] {
   return [

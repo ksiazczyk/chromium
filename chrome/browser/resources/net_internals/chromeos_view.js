@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS tab view for net_internals
+// summary: Defines a simple tab view that displays information on ChromeOS specific features.
+// ---
+
 import {DivView} from './view.js';
 
 /** @type {?CrosView} */

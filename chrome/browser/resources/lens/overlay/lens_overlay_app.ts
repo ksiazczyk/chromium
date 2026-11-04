@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay app element
+// summary: Main Polymer element implementing the Lens overlay UI, wiring the searchbox, selection overlay, translate button, tooltips and metrics.
+// ---
+
 import './cursor_tooltip.js';
 import './initial_gradient.js';
 import './selection_overlay.js';

@@ -1,0 +1,4 @@
+# Docerion header of location_internals.html.
+type: source
+title: Location Internals page
+summary: HTML shell for the Location Internals page, providing buttons to start watching the position and download a dump, plus a diagnose info view element.

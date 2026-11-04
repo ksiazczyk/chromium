@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update options dialog element
+// summary: Lit element dialog for editing an installed app's update channel, pinned version, and downgrade policy, with validation and manifest fetching.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_dialog/cr_dialog.js';
 import '//resources/cr_elements/cr_toggle/cr_toggle.js';

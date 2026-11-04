@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay FPS performance tracker
+// summary: Class that tracks rendered animation frames and records the average FPS metric for Lens overlay sessions.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import {recordAverageFps} from './metrics_utils.js';

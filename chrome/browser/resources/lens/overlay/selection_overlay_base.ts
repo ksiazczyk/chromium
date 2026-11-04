@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection overlay base element
+// summary: Abstract Polymer base element coordinating region selections, gestures, and animations across the Lens overlay selection features.
+// ---
+
 import './region_selection.js';
 import './post_selection_renderer.js';
 import './overlay_border_glow.js';

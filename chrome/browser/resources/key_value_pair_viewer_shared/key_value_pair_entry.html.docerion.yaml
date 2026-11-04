@@ -1,0 +1,4 @@
+# Docerion header of key_value_pair_entry.html.
+type: source
+title: HTML template for the key value pair entry element
+summary: Lit HTML template rendering one entry row with a linked key, an expand or collapse button, and the entry value.

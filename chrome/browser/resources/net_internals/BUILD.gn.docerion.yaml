@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Net internals WebUI build configuration
+summary: GN build rules that package the net_internals WebUI static and TypeScript files, adding chromeos_view.js only on ChromeOS.

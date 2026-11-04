@@ -1,0 +1,4 @@
+# Docerion header of text_layer.html.
+type: source
+title: Text layer template
+summary: Polymer HTML template rendering word hit areas, translated lines, and highlighted lines for the Lens text layer element.

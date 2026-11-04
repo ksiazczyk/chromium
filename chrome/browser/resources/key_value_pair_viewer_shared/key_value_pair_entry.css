@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the key value pair entry element
+summary: Styles the key value pair entry element, laying out name, button, and value cells with a monospace font and hiding values when collapsed.
+*/
+
 :host {
   display: flex;
   font-family: 'Courier New', monospace;

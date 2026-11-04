@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parser for text logs into key value pairs
+// summary: Parses raw text logs into a list of key value pair entries, handling multiline values wrapped in START and END delimiter lines.
+// ---
+
 import type {KeyValuePairEntry} from './key_value_pair_entry.js';
 
 // Contents of lines that act as delimiters for multi-line values.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Media router directory owners
+summary: Delegates review ownership to the OWNERS file in chrome/browser/media/router.

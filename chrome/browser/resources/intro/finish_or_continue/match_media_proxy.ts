@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Match media proxy
+// summary: Singleton proxy around window.matchMedia that lets the intro app query media conditions and allows tests to substitute the implementation.
+// ---
+
 export interface MatchMediaProxy {
   matchMedia(query: string): MediaQueryList;
 }

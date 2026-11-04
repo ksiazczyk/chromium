@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain security policy (HSTS) view
+// summary: Tab view for querying, adding and deleting per-domain security policies such as HSTS entries.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 
 import {BrowserBridge} from './browser_bridge.js';

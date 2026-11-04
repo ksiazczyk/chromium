@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find words in region
+// summary: Searches for words intersecting a Lens overlay selection region using polygon clipping, rotation handling and intersection-over-union scoring.
+// ---
+
 import {assertNotReached} from '//resources/js/assert.js';
 
 import type {CenterRotatedBox} from './geometry.mojom-webui.js';

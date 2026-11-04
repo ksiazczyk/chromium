@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the management page
+// summary: Defines interfaces and the implementation for requesting extensions, applications, managed websites and reporting data from the browser handler.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface Application {

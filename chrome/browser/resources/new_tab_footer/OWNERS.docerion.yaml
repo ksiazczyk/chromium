@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegated to the search component
+summary: Owners file that delegates code review approval to the owners listed in components/search/OWNERS.

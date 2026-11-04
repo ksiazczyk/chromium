@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: MEI Preload component manifest
+summary: Manifest describing the MEI Preload component, including its name, version, update URL and purpose of holding preloaded Media Engagement data.

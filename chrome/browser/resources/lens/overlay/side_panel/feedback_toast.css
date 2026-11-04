@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Feedback toast styles
+summary: Lit CSS styles for the Lens side panel feedback toast, covering layout, dark mode and updated feedback variants.
+*/
+
 #closeFeedbackToastButton {
   margin-block: 8px;
   margin-inline: 6px;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wiggle motion simulation
+// summary: Implements a Wiggle class that simulates randomized wave-based wiggle motion for Lens overlay animations.
+// ---
+
 const INITIAL_ANGULAR_POSITION_MULTIPLIER = 1000;
 const BASE_WAVE_AMPLITUDE_FACTOR = 0.53;
 const BASE_WAVE_FREQUENCY_FACTOR = 1;

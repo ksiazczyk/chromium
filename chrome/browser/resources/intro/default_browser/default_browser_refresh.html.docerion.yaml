@@ -1,0 +1,4 @@
+# Docerion header of default_browser_refresh.html.
+type: source
+title: Refreshed default browser page host document
+summary: HTML entry page that hosts the default-browser-app-refresh element and loads its module script for the refreshed intro WebUI.

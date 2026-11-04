@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the management UI
+// summary: Supplies the Lit template for the management-ui element with toolbar, overview, threat protection and reporting sections.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ManagementUiElement} from './management_ui.js';

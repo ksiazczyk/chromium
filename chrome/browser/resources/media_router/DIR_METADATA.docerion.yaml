@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Media router bug tracking metadata
+summary: Sets the Monorail component Internals>Cast>UI and a Buganizer component ID for issues in this directory.

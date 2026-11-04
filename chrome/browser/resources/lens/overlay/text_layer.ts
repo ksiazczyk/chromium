@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay text layer element
+// summary: Implements the Lens overlay text layer, rendering detected words and lines with support for selection, translation, and RTL languages.
+// ---
+
 import '/strings.m.js';
 
 import {assert} from '//resources/js/assert.js';

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Promotion banner styles
+summary: CSS for the management promotion banner, defining layout, pill button, close icon, and dark and forced-colors variants with direct colors.
+*/
+
 .banner-section {
   background-color: #E8F0FE;
   padding: 24px;

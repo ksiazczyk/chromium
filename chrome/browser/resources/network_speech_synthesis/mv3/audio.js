@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio playback handler for the offscreen document
+// summary: Plays network speech audio in the offscreen document and sends heartbeat messages to keep the service worker alive during playback.
+// ---
+
 class AudioHandler {
   constructor() {
     // Initialize the audio element and event listeners on it.

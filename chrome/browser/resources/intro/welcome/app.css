@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the welcome app element
+summary: Lit CSS defining the layout, colors and metrics dialog styling of the Chrome welcome page, including dark mode and small-screen adjustments.
+*/
+
 :host {
   --product-logo-size: 72px;
   --title-font-size: 60px;

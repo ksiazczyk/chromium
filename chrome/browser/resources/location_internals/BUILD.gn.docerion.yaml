@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the location_internals WebUI
+summary: GN build configuration that defines the WebUI build for the location internals page, listing static files, TypeScript sources and Mojo dependencies.

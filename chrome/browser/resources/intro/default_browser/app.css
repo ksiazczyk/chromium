@@ -10,6 +10,12 @@
  * #include=tangible-sync-style-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Default browser intro page styles
+summary: Styles the default browser intro page with layout, illustrations, button row, and dark mode variants.
+*/
+
 :host {
   --cr-button-height: 36px;
   --btn-container-height:

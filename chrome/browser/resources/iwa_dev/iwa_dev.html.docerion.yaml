@@ -1,0 +1,4 @@
+# Docerion header of iwa_dev.html.
+type: source
+title: IWA Developer Tool page
+summary: HTML shell for the IWA Developer Tool WebUI that hosts the iwa-dev-app element and loads the app module.

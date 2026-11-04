@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser bridge for net_internals
+// summary: Singleton class that sends network debugging commands such as proxy reload, DNS resolution, HSTS changes and socket pool actions to the browser.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /** @type {?BrowserBridge} */

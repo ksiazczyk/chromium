@@ -1,0 +1,4 @@
+# Docerion header of side_panel.html.
+type: source
+title: Lens side panel entry page
+summary: HTML entry page that hosts the lens-side-panel-app element and loads its module script for the Lens side panel WebUI.

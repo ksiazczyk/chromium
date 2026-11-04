@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simplified text layer element
+// summary: Lit element that highlights, selects, and translates text detected in selected regions of the Lens overlay.
+// ---
+
 import '/strings.m.js';
 
 import {assert} from '//resources/js/assert.js';

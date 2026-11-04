@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens side panel error page element
+// summary: Lit element that renders the Lens side panel error page, choosing between network and protected page error text and supporting dark mode.
+// ---
+
 import '/strings.m.js';
 
 import {I18nMixinLit} from '//resources/cr_elements/i18n_mixin_lit.js';

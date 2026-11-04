@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in celebration app HTML template
+// summary: Provides the Lit HTML template that renders the avatar Lottie animation, account avatar image, and title for the sign-in celebration app.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SignInCelebrationAppElement} from './app.js';

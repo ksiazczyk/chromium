@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared text layer interface
+// summary: Defines the TextLayerBase interface and TextCopyCallback type shared by text selection layers on the Lens overlay.
+// ---
+
 import type {GestureEvent} from './selection_utils.js';
 
 export type TextCopyCallback =

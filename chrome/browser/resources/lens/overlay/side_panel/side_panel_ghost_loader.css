@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Ghost loader styles for the Lens side panel
+summary: CSS for the side panel ghost loader, defining animated placeholder squares and title with responsive widths and dark mode colors.
+*/
+
   .container {
     display: flex;
     /* Enable flexbox layout */

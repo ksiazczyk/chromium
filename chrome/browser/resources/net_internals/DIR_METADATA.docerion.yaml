@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracker routing
+summary: Maps the directory to the Internals>Network>Logging monorail component and a Buganizer component ID.

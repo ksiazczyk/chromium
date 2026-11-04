@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install from update manifest tab
+// summary: Lit element tab that fetches an IWA update manifest by URL and lets the user pick a version and channel before requesting installation.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_input/cr_input.js';
 import './combobox.js';

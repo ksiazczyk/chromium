@@ -1,0 +1,4 @@
+# Docerion header of intro_refresh.html.
+type: source
+title: Intro refresh page shell
+summary: HTML entry page that hosts the refreshed sign-in promo element and loads its script with dark mode background styling.

@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Finish-or-continue app styles
+summary: Lit CSS for the finish-or-continue intro page, defining layout, product logo, buttons, responsive breakpoints, side animation positioning, and RTL flipping.
+*/
+
 :host {
   --product-logo-size: 72px;
   --title-font-size: 60px;

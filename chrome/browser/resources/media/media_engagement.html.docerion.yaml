@@ -1,0 +1,4 @@
+# Docerion header of media_engagement.html.
+type: source
+title: Media Engagement internals page
+summary: WebUI page that shows per-origin media engagement scores and settings in sortable tables with a copy-to-clipboard button.
