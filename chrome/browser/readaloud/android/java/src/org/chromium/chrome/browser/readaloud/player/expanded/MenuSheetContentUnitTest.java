@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MenuSheetContent
+// summary: Robolectric unit tests verifying MenuSheetContent behavior such as sheet closing, reopening the parent sheet, and bottom sheet content properties.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import static org.junit.Assert.assertEquals;

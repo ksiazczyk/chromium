@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModelTabObserverUnitTest
+// summary: Unit tests verifying that TabModelTabObserver adds and removes tab observers correctly.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import static org.junit.Assert.assertEquals;

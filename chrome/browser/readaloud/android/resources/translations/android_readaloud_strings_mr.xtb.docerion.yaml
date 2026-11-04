@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_mr.xtb.
+type: data
+title: Marathi Read Aloud strings translation bundle
+summary: Marathi translation bundle for the Android Read Aloud feature, providing localized player UI strings such as playback controls, voice options and feedback messages.

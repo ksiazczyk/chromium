@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Options menu bottom sheet content
+// summary: Bottom sheet content for the Read Aloud expanded player options menu with voice, translate, and highlight items plus voice menu transition animations.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

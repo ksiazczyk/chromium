@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SpeedMenuSheetContent
+// summary: Robolectric unit tests for the speed menu covering speed label formatting, click handling, and scroll reset when the sheet closes.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import static org.junit.Assert.assertEquals;

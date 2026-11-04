@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mini player coordinator
+// summary: Coordinates the Read Aloud mini player lifecycle, inflating its layout and wiring mediator, scene layer, and in-product help.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.mini;
 
 import android.app.Activity;

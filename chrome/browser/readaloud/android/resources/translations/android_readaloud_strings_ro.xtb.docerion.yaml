@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_ro.xtb.
+type: data
+title: Romanian Read Aloud strings (android_readaloud_strings_ro)
+summary: Translation bundle with Romanian UI strings for the Android Read Aloud player, covering playback controls, voice options and feedback messages.

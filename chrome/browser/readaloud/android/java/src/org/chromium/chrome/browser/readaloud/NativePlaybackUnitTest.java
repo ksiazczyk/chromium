@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativePlayback unit tests
+// summary: Mockito and Robolectric unit tests for NativePlayback covering session lifecycle, listener notifications, playback state transitions, and feedback handling.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import static org.junit.Assert.assertEquals;

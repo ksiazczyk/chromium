@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_mn.xtb.
+type: data
+title: Mongolian Read Aloud strings translation bundle
+summary: Mongolian translation bundle for the Android Read Aloud feature, providing localized player UI strings such as playback controls, voice options and feedback messages.

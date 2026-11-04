@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native voice preview playback session adapter
+// summary: Bridges the Java Playback interface to the C++ ReadAloudService for voice preview sample playback, dispatching preview and stop commands and updating PlaybackListener observers.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import org.chromium.base.ObserverList;

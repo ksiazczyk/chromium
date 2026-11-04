@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechSynthesisBroker class declaration
+// summary: Declares the broker managing voice model and language settings for Read Aloud speech synthesis, with default voice IDs and synthesize request building.
+// ---
+
 #ifndef CHROME_BROWSER_READALOUD_AUDIO_GENERATION_SPEECH_SYNTHESIS_BROKER_H_
 #define CHROME_BROWSER_READALOUD_AUDIO_GENERATION_SPEECH_SYNTHESIS_BROKER_H_
 

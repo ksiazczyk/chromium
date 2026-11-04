@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Scrubber handle drawable for the seek bar
+summary: Layer-list providing the seek bar scrubber handle with pressed, hovered and focused state visuals.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Layer 0: Background Fill (Hovered/Pressed states) -->
     <item

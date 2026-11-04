@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Replay 10 seconds button background
+summary: Layer-list that layers the replay-10 icon over the secondary gray rounded background to form a player button.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/secondary_gray_rounded"/>
     <item

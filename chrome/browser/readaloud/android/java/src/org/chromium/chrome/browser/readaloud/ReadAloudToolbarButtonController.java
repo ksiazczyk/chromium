@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudToolbarButtonController
+// summary: Controller for the Read Aloud button in the top toolbar, handling clicks, user actions and IPH.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import android.content.Context;

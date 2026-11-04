@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Colors
+// summary: Utility class providing dynamic color helpers for the Read Aloud players, such as background colors for the mini player and bottom sheet content and progress bar tinting.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player;
 
 import android.content.Context;

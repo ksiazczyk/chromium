@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudUnsupportedException for unreadable content
+// summary: Extends ReadAloudException for readability issues, defining a RejectionReason IntDef of reasons such as paywall, unsupported language, or invalid URL kept in sync with enums.xml.
+// ---
+
 package org.chromium.chrome.browser.readaloud.exceptions;
 
 import androidx.annotation.IntDef;

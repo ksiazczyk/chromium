@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud feature controller
+// summary: Central controller for the Read Aloud feature on Android, coordinating playback sessions, playback lifecycle, UI and fullscreen handling, translation checks, metrics, and user education.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import static org.chromium.build.NullUtil.assertNonNull;

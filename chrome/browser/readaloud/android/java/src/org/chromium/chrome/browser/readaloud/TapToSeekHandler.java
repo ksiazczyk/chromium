@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TapToSeekHandler
+// summary: Finds selected page content in the playback's distilled text and seeks Read Aloud playback to the tapped word.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import org.chromium.build.annotations.NullMarked;

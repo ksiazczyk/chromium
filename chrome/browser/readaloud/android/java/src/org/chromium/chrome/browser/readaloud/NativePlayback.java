@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native Read Aloud article playback session adapter
+// summary: Bridges the Java Playback interface to the on-device C++ ReadAloudService for active tab article audio, notifying PlaybackListener observers of progress, word highlights, and state changes.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import org.chromium.base.ObserverList;

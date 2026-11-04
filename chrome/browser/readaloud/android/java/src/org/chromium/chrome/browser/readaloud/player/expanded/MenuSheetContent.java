@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuSheetContent base class for Read Aloud menu bottom sheets
+// summary: Abstract base class for Read Aloud menu bottom sheets that restores the parent sheet when closed and handles back press navigation.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import android.content.res.Resources;

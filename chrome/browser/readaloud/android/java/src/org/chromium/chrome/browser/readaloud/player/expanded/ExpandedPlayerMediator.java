@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpandedPlayerMediator
+// summary: Mediator that controls the Read Aloud expanded player by updating visibility and related state in the player property model.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import org.chromium.build.annotations.NullMarked;

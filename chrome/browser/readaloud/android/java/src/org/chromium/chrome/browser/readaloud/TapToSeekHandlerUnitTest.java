@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TapToSeekHandlerUnitTest
+// summary: Unit tests for the tap to seek handler covering successful matches, failures and empty input.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import static org.mockito.Mockito.anyInt;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadAloudMiniPlayerSceneLayerUnitTest
+// summary: Unit tests for the Read Aloud mini player scene layer, covering size, color, visibility and native calls.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import static org.junit.Assert.assertFalse;

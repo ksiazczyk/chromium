@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_bg.xtb.
+type: data
+title: Read Aloud Android strings (Bulgarian)
+summary: Bulgarian translation bundle with localized strings for the Android Read Aloud player, covering voice menus, playback controls, AI playback and feedback options.

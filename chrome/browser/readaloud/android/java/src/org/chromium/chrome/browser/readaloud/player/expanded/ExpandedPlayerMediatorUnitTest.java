@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExpandedPlayerMediatorUnitTest
+// summary: Robolectric unit tests for ExpandedPlayerMediator verifying show and dismiss visibility state transitions.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import static org.junit.Assert.assertEquals;

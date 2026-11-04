@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpandedPlayerSheetContent
+// summary: BottomSheetContent implementing the expanded Read Aloud player UI with playback controls, seek bar, menus, and loading, error, and normal layouts.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 import android.content.Context;
 import android.content.res.Configuration;

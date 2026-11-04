@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playback mode IPH controller
+// summary: Requests an in-product help tooltip for the playback mode button after a short delay when the anchor view is visible.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import android.view.View;

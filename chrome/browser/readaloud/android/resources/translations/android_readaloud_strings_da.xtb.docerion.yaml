@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_da.xtb.
+type: data
+title: Danish Read Aloud strings translation bundle
+summary: Danish translations of UI strings for the Android Read Aloud 'Listen to this page' player, covering playback controls, voice options and feedback prompts.

@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_ru.xtb.
+type: data
+title: Android Read Aloud UI strings in Russian
+summary: Russian translation bundle with UI strings for Chrome's Android Read Aloud player, covering playback controls, voice settings and user feedback.

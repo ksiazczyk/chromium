@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchDelegateUtil
+// summary: Helper that enlarges a view's touch target to at least 48x48dp by creating a centered TouchDelegate on an ancestor view.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player;
 
 import static org.chromium.ui.base.ViewUtils.dpToPx;

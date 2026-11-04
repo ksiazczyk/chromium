@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mini player UI property keys
+// summary: Defines the writable property keys used by the mini player's UI property model, such as visibility, height, and y-offset.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.mini;
 
 import org.chromium.build.annotations.NullMarked;

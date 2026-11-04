@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpandedPlayerViewBinder
+// summary: View binder that maps player property model changes to ExpandedPlayerSheetContent updates following Chromium's MVC pattern.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TapToSeekSelectionManager unit tests
+// summary: Robolectric unit tests verifying that the tap-to-seek selection manager forwards surrounding text results to the Read Aloud controller and updates selection hooks when the active playback tab changes.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import static org.mockito.Mockito.doReturn;

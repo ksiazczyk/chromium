@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Read Aloud radio button layout
+summary: Android XML layout defining a single non-focusable radio button used in Read Aloud menu items.
+-->
+
 <RadioButton
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/readaloud_radio_button"

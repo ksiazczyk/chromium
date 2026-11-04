@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu
+// summary: Linear layout menu view for Read Aloud player menus that manages items, title, content description, and back press handling.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud native-Java bridge header
+// summary: Declares the ReadAloudBridge class with ReadAloudService delegate callbacks and JNI dispatch targets for playback control commands.
+// ---
+
 #ifndef CHROME_BROWSER_READALOUD_ANDROID_READ_ALOUD_BRIDGE_H_
 #define CHROME_BROWSER_READALOUD_ANDROID_READ_ALOUD_BRIDGE_H_
 

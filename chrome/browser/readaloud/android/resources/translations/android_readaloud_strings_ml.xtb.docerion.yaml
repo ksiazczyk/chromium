@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_ml.xtb.
+type: data
+title: Malayalam Read Aloud strings translation bundle
+summary: Malayalam translation bundle for the Android Read Aloud feature, providing localized player UI strings such as playback controls, voice options and feedback messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mini player layout
+// summary: Custom LinearLayout for the mini player UI that handles playback states, animations, colors, and swipe gestures.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.mini;
 
 import static org.chromium.chrome.modules.readaloud.PlaybackListener.State.BUFFERING;

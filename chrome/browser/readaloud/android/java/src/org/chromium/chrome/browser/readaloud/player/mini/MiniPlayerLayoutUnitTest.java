@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Mini player layout unit tests
+// summary: Robolectric unit tests verifying mini player layout behavior across buffering, playing, and error states.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.mini;
 
 import static org.junit.Assert.assertEquals;
