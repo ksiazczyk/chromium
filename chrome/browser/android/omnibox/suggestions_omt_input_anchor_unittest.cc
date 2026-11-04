@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestions OMT input anchor unit tests
+// summary: Unit tests verifying that motion events are filtered correctly and that touch-down delay is recorded to the Android.Omnibox.OMTPrefetch UMA histogram.
+// ---
+
 #include "chrome/browser/android/omnibox/suggestions_omt_input_anchor.h"
 
 #include <android/input.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LocaleTemplateUrlLoader
+// summary: Tests adding and removing local prepopulated search engines and default search provider behavior using a mock loader and TemplateURLService test utilities.
+// ---
+
 #include "chrome/browser/android/locale/locale_template_url_loader.h"
 
 #include <stddef.h>

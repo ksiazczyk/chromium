@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Persisted tab data test support build definition
+summary: Defines the proto library and test-only source set that build the bar and foo persisted tab data test support code.

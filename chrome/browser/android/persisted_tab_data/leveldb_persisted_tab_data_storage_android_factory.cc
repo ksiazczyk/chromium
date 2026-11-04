@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB persisted tab data storage factory implementation
+// summary: Implements the profile-keyed factory that creates the LevelDB storage service and returns null for off-the-record profiles.
+// ---
+
 #include "chrome/browser/android/persisted_tab_data/leveldb_persisted_tab_data_storage_android_factory.h"
 
 #include "chrome/browser/android/persisted_tab_data/leveldb_persisted_tab_data_storage_android.h"

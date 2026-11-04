@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for arcore_device
+summary: Declares the Monorail component Blink>WebXR>AR and the public Buganizer component used for issues in this directory.

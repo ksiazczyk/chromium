@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA session stats JNI implementation
+// summary: Tracks foreground and background UMA sessions, reports session timing metrics, and registers external experiments and synthetic field trials from Java.
+// ---
+
 #include "chrome/browser/android/metrics/uma_session_stats.h"
 
 #include "base/android/application_status_listener.h"

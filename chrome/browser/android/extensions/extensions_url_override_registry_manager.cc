@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions URL override registry manager implementation
+// summary: Implements the JNI bridge that creates the native manager for a profile and notifies Java when URL overrides are enabled or disabled, gated by a feature flag.
+// ---
+
 #include "chrome/browser/android/extensions/extensions_url_override_registry_manager.h"
 
 #include <memory>

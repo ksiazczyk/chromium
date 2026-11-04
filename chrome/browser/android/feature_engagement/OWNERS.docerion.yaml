@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Shared OWNERS reference for the Android feature engagement folder
+summary: Delegates code ownership to the OWNERS file of the components/feature_engagement directory.

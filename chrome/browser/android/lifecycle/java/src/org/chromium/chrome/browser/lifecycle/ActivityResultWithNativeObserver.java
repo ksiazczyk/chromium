@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityResultWithNativeObserver interface
+// summary: Observer interface registered with the ActivityLifecycleDispatcher to receive activity result callbacks once native is initialized.
+// ---
+
 package org.chromium.chrome.browser.lifecycle;
 
 import android.content.Intent;

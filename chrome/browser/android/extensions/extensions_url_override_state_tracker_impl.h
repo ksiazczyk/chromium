@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension URL override state tracker implementation header
+// summary: Declares the keyed service implementation that observes the URL overrides registrar, counts regular and incognito overrides, and reports state changes to its listener.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_EXTENSIONS_EXTENSIONS_URL_OVERRIDE_STATE_TRACKER_IMPL_H_
 #define CHROME_BROWSER_ANDROID_EXTENSIONS_EXTENSIONS_URL_OVERRIDE_STATE_TRACKER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the HttpClient class
+// summary: Tests HttpClient request sending and response handling using a mock URL loader factory.
+// ---
+
 #include "chrome/browser/android/httpclient/http_client.h"
 
 #include <algorithm>

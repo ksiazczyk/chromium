@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpClientBridge JNI implementation
+// summary: Bridges Java SimpleHttpClient calls to the native HttpClient and returns HTTP responses to Java callbacks.
+// ---
+
 #include "chrome/browser/android/httpclient/http_client_bridge.h"
 
 #include "base/android/callback_android.h"

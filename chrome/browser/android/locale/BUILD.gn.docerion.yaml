@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for Android locale sources
+summary: Defines GN source sets for the locale template URL loader, its unit tests, and the locale manager, together with their Chromium dependencies.

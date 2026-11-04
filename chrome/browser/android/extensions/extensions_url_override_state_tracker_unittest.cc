@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension URL override state tracker unit tests
+// summary: Unit test suite verifying that the state tracker notifies its listener when extension URL overrides are enabled or disabled, including incognito-related cases.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

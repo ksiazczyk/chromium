@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile token protocol buffer definition
+// summary: Defines a proto3 message that serializes profile details so a profile can be looked up later.
+// ---
+
 syntax = "proto3";
 option optimize_for = LITE_RUNTIME;
 package profile_resolver;

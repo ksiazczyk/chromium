@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome ThinWebView initializer implementation
+// summary: Implements the Chrome-specific ThinWebView initializer that sets up theming, tab helpers, permissions, autofill and context menus for hosted WebContents.
+// ---
+
 #include "chrome/browser/android/thin_webview/chrome_thin_webview_initializer.h"
 
 #include <memory>

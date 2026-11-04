@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidPrerenderManager header
+// summary: Declares the AndroidPrerenderManager class, a Java-owned singleton shared across tabs, with methods to start and stop prerendering.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PRELOADING_ANDROID_PRERENDER_MANAGER_H_
 #define CHROME_BROWSER_ANDROID_PRELOADING_ANDROID_PRERENDER_MANAGER_H_
 

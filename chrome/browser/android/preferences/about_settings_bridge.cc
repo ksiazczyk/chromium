@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About settings bridge JNI implementation
+// summary: Implements the JNI bridge that supplies application and OS version strings for the Android about settings page.
+// ---
+
 #include <string>
 
 #include "base/android/apk_info.h"

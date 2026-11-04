@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FramebustBlockedMessageDelegate class declaration
+// summary: Declares the WebContentsUserData delegate that displays framebust blocked message bubbles and reports intervention outcomes via callback.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_FRAMEBUST_INTERVENTION_FRAMEBUST_BLOCKED_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_FRAMEBUST_INTERVENTION_FRAMEBUST_BLOCKED_DELEGATE_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZ ping handler implementation for revenue tracking pings
+// summary: Implements the Android RLZ ping handler that sends revenue-tracking pings with brand, language, events and device id to the RLZ financial server.
+// ---
+
 #include "chrome/browser/android/rlz/rlz_ping_handler.h"
 
 #include <optional>

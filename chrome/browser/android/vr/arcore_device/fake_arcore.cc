@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeArCore implementation
+// summary: Implements the minimal fake ArCore for testing, covering initialization, display geometry, UV transform calculations, hit testing, anchors, and plane detection stubs.
+// ---
+
 #include "chrome/browser/android/vr/arcore_device/fake_arcore.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOM intervention decider unit tests
+// summary: Tests single-host opt-out, permanent opt-out via the blocklist, unclean shutdown handling and session-only incognito behavior.
+// ---
+
 #include "chrome/browser/android/oom_intervention/oom_intervention_decider.h"
 
 #include "base/strings/string_number_conversions.h"

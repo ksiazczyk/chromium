@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android new tab page URL handler unit tests
+// summary: Unit tests for the Android native page URL handler, covering new tab URL rewriting under WebUI NTP feature flags, desktop form factor, and different default search engines.
+// ---
+
 #include "chrome/browser/android/ntp/new_tab_page_url_handler.h"
 
 #include <memory>

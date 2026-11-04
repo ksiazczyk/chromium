@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill payment methods delegate header
+// summary: Declares the native delegate that listens to payment method settings changes and is owned and cleaned up by the Java AutofillPaymentMethodsDelegate.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PREFERENCES_AUTOFILL_AUTOFILL_PAYMENT_METHODS_DELEGATE_H_
 #define CHROME_BROWSER_ANDROID_PREFERENCES_AUTOFILL_AUTOFILL_PAYMENT_METHODS_DELEGATE_H_
 

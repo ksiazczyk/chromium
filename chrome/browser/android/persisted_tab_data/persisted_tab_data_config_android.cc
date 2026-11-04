@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedTabDataConfigAndroid implementation
+// summary: Maps persisted tab data clients such as language and sensitivity to their storage implementation and unique data identifier, with support for test configurations.
+// ---
+
 #include "chrome/browser/android/persisted_tab_data/persisted_tab_data_config_android.h"
 
 #include "base/no_destructor.h"

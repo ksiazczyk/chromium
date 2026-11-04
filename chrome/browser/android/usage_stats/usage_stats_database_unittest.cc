@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UsageStatsDatabase unit tests
+// summary: Tests UsageStatsDatabase operations for events, suspensions and token mappings using fake proto databases.
+// ---
+
 #include "chrome/browser/android/usage_stats/usage_stats_database.h"
 
 #include <utility>

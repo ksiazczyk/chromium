@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android clipboard preferences header
+// summary: Declares clipboard preference registration and initialization of the Android clipboard from local state.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PREFERENCES_CLIPBOARD_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_PREFERENCES_CLIPBOARD_ANDROID_H_
 

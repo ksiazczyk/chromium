@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserIntentUtilsUnitTest
+// summary: Robolectric unit test verifying that launcher timestamps are added to intents and read back correctly in both realtime and uptime timebases.
+// ---
+
 package org.chromium.chrome.browser.intents;
 
 import android.content.Intent;

@@ -1,0 +1,4 @@
+# Docerion header of PRIVACY_OWNERS.
+type: config
+title: Privacy review owners
+summary: Lists the reviewers whose approval is required for histograms allowlisted to be sent to Westworld.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpClient implementation for sending HTTP requests
+// summary: Implements the HttpClient class, sending requests with SimpleURLLoader and delivering responses to a callback.
+// ---
+
 #include "chrome/browser/android/httpclient/http_client.h"
 
 #include <optional>

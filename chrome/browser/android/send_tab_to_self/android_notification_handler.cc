@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android notification handler implementation
+// summary: Implements Android notification display and auto-opening of received Send Tab to Self entries, including foreground detection and tab selection.
+// ---
+
 #include "chrome/browser/android/send_tab_to_self/android_notification_handler.h"
 
 #include <optional>

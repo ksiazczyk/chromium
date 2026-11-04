@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnotatedSimpleHttpClient
+// summary: HTTP client wrapper that presets a network traffic annotation for all requests, letting third-party code send requests via SimpleHttpClient and maps network error codes into the HTTP status code field.
+// ---
+
 package org.chromium.chrome.browser.android.httpclient;
 
 import org.chromium.base.task.PostTask;

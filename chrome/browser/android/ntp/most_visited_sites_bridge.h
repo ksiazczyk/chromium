@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most visited sites JNI bridge header
+// summary: Declares the MostVisitedSitesBridge class that provides the list of most visited sites and their thumbnails to Java.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_NTP_MOST_VISITED_SITES_BRIDGE_H_
 #define CHROME_BROWSER_ANDROID_NTP_MOST_VISITED_SITES_BRIDGE_H_
 

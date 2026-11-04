@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Westworld histogram allowlist
+// summary: Header defining an allowlist of UMA histograms mapped to Westworld atom IDs and their expected metric types for Westworld logging.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_METRICS_WESTWORLD_HISTOGRAM_ALLOWLIST_H_
 #define CHROME_BROWSER_ANDROID_METRICS_WESTWORLD_HISTOGRAM_ALLOWLIST_H_
 

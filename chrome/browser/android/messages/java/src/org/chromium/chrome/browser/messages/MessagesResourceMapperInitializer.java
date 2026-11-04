@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagesResourceMapperInitializer
+// summary: Java helper that initializes the ResourceIdMapper for MessageDispatcherBridge by calling a native method through JNI.
+// ---
+
 package org.chromium.chrome.browser.messages;
 
 import org.jni_zero.NativeMethods;

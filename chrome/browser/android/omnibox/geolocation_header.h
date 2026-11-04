@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation header accessor declaration
+// summary: Declares GetGeolocationHeaderIfAllowed, which returns the full geolocation header for a request URL without prompting for permission.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_OMNIBOX_GEOLOCATION_HEADER_H_
 #define CHROME_BROWSER_ANDROID_OMNIBOX_GEOLOCATION_HEADER_H_
 

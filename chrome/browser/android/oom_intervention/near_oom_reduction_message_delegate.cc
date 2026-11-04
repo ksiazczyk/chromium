@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Near-OOM reduction message delegate implementation
+// summary: Implements the delegate that shows and dismisses the near-OOM reduction message bubble when high memory usage stops web page execution.
+// ---
+
 #include "chrome/browser/android/oom_intervention/near_oom_reduction_message_delegate.h"
 
 #include "base/strings/utf_string_conversions.h"

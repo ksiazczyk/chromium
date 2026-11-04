@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome ThinWebView initializer header
+// summary: Declares ChromeThinWebViewInitializer, the Chrome subclass that configures theming, tab helpers and context menus for ThinWebView.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_THIN_WEBVIEW_CHROME_THIN_WEBVIEW_INITIALIZER_H_
 #define CHROME_BROWSER_ANDROID_THIN_WEBVIEW_CHROME_THIN_WEBVIEW_INITIALIZER_H_
 

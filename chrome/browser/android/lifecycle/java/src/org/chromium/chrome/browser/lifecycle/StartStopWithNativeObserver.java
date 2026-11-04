@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartStopWithNativeObserver interface
+// summary: Observer interface for activity start and stop callbacks that are delivered only once native is initialized.
+// ---
+
 package org.chromium.chrome.browser.lifecycle;
 
 import org.chromium.build.annotations.NullMarked;

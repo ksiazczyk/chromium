@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleHttpClient
+// summary: Simple profile-scoped HTTP client for small one-way Java requests that bridges to a native implementation over JNI and exposes an HttpResponse structure with response code, error code, body and headers.
+// ---
+
 package org.chromium.chrome.browser.android.httpclient;
 
 import org.jni_zero.CalledByNative;

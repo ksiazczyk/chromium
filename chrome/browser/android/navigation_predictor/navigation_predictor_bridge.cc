@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation predictor Android JNI bridge
+// summary: Implements the Android JNI bridge that starts or stops search engine preconnecting for all active profiles, including off-the-record, on cold start, resume, and pause events.
+// ---
+
 #include <jni.h>
 
 #include <vector>

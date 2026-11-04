@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing history bridge unit tests
+// summary: Unit tests verifying GetPageTitleForUrl returns stored history titles and empty results for unvisited URLs, null profiles or invalid URLs.
+// ---
+
 #include "chrome/browser/android/history/browsing_history_bridge.h"
 
 #include <string>

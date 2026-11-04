@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self Android JNI bridge implementation
+// summary: Implements the JNI bridge between the Java and native Send Tab to Self code, including device info observation and entry creation.
+// ---
+
 #include "chrome/browser/android/send_tab_to_self/send_tab_to_self_android_bridge.h"
 
 #include <string>

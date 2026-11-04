@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayPanelContent native implementation
+// summary: Implements the native side of the Android overlay panel, managing the panel's WebContents, navigation interception, and browser controls over JNI.
+// ---
+
 #include "chrome/browser/android/overlay_panel/overlay_panel_content.h"
 
 #include <memory>

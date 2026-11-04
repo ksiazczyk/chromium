@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent tabs page preferences implementation
+// summary: Implements JNI-backed access to profile preferences storing collapsed state for snapshot documents, recently closed tabs, the sync promo, and foreign sessions.
+// ---
+
 #include "chrome/browser/android/ntp/recent_tabs_page_prefs.h"
 
 #include <jni.h>

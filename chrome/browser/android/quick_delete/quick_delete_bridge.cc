@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete bridge implementation
+// summary: Implements the native JNI bridge for the Android Quick Delete UI, using a history counter to report the last visited domain and unique domain count for a selected time period.
+// ---
+
 #include "chrome/browser/android/quick_delete/quick_delete_bridge.h"
 
 #include "base/android/jni_string.h"

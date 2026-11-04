@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopResumedActivityChangedObserver interface
+// summary: Observer interface for onTopResumedActivityChanged callbacks when an activity gains or loses the top resumed position in the system.
+// ---
+
 package org.chromium.chrome.browser.lifecycle;
 
 import android.app.Activity;

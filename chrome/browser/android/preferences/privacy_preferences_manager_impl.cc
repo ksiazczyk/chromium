@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy preferences manager JNI implementation
+// summary: Implements the JNI bridge for reading and setting metrics reporting and checking universal opt-out eligibility.
+// ---
+
 #include <jni.h>
 
 #include "base/feature_list.h"

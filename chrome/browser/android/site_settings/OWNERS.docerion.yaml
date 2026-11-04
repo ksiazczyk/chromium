@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership for the Android site settings directory to the shared OWNERS file in components/browser_ui/site_settings.

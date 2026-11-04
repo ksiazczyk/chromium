@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android search engine service declaration
+// summary: Declares SearchEngineServiceAndroid, the native peer that observes AI mode button service and eligibility changes to update the Java search engine service.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_OMNIBOX_SEARCH_ENGINE_SERVICE_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_OMNIBOX_SEARCH_ENGINE_SERVICE_ANDROID_H_
 

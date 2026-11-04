@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleTemplateUrlLoader class declaration
+// summary: Declares LocaleTemplateUrlLoader, a ProfileObserver that manages locale-specific search engines and default search provider overrides for a given locale.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_LOCALE_LOCALE_TEMPLATE_URL_LOADER_H_
 #define CHROME_BROWSER_ANDROID_LOCALE_LOCALE_TEMPLATE_URL_LOADER_H_
 

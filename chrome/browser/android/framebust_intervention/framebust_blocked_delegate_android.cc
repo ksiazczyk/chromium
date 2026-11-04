@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Framebust blocked message delegate implementation
+// summary: Implements the Android delegate that shows a redirect-blocked message bubble, handling user accept, decline, open-link actions and content settings.
+// ---
+
 #include "chrome/browser/android/framebust_intervention/framebust_blocked_delegate_android.h"
 
 #include "chrome/grit/generated_resources.h"

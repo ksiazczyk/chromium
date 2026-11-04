@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content browser client guest view part header
+// summary: Declares the ChromeContentBrowserClientGuestViewPart class that exposes GuestView interfaces to the renderer on Android.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_GUEST_VIEW_CHROME_CONTENT_BROWSER_CLIENT_GUEST_VIEW_PART_H_
 #define CHROME_BROWSER_ANDROID_GUEST_VIEW_CHROME_CONTENT_BROWSER_CLIENT_GUEST_VIEW_PART_H_
 

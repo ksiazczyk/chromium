@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History deletion bridge unit tests
+// summary: Unit tests for SanitizeDeletionInfo covering URL filtering, all-history deletion and time range preservation.
+// ---
+
 #include "chrome/browser/android/history/history_deletion_bridge.h"
 
 #include <algorithm>

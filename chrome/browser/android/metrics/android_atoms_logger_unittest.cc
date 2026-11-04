@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android atoms logger unit tests
+// summary: Verifies that atom logging initializes only with the feature enabled on desktop and that logging is guarded by metrics reporting consent.
+// ---
+
 #include "chrome/browser/android/metrics/android_atoms_logger.h"
 
 #include "base/containers/fixed_flat_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleManager native JNI implementation
+// summary: Implements the native side of LocaleManager, fetching Yandex and Mail.ru referral IDs through JNI calls into Java.
+// ---
+
 #include "chrome/browser/android/locale/locale_manager.h"
 
 #include <jni.h>

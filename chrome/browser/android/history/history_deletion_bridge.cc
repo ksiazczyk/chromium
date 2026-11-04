@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History deletion bridge implementation
+// summary: Implements the native observer that receives history deletion events, sanitizes deletion info and forwards it to the Java HistoryDeletionBridge.
+// ---
+
 #include "chrome/browser/android/history/history_deletion_bridge.h"
 
 #include <string>

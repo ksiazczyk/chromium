@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test runner entry point
+// summary: Main entry point that runs the Android VR AR unit tests through ArTestSuite and Chromium's base unit test launcher.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "chrome/browser/android/vr/test/ar_test_suite.h"

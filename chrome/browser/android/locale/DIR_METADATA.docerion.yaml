@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the Android locale directory
+summary: Points the directory metadata at the shared search engines component metadata through a mixin entry.

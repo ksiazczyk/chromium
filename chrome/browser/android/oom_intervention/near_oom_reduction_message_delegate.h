@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Near-OOM reduction message delegate header
+// summary: Declares the NearOomReductionMessageDelegate class responsible for showing near-OOM reduction message bubbles on Android.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_OOM_INTERVENTION_NEAR_OOM_REDUCTION_MESSAGE_DELEGATE_H_
 #define CHROME_BROWSER_ANDROID_OOM_INTERVENTION_NEAR_OOM_REDUCTION_MESSAGE_DELEGATE_H_
 

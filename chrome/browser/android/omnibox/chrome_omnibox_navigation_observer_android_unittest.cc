@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeOmniboxNavigationObserverAndroid
+// summary: Tests shortcut recording and alternative navigation fetch states for omnibox-initiated navigations using simulated responses.
+// ---
+
 #include "chrome/browser/android/omnibox/chrome_omnibox_navigation_observer_android.h"
 
 #include <memory>

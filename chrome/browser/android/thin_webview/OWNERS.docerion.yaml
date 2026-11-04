@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for thin_webview
+summary: Points to the shared thin_webview owners and names the reviewers responsible for this directory.

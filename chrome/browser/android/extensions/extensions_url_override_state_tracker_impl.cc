@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension URL override state tracker implementation
+// summary: Tracks per-extension chrome URL override counts including incognito status by synchronizing with the extension URL overrides registrar and notifies the listener of changes.
+// ---
+
 #include "chrome/browser/android/extensions/extensions_url_override_state_tracker_impl.h"
 
 #include <memory>

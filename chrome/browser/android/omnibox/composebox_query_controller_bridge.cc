@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox query controller JNI bridge implementation
+// summary: Bridges Java composebox queries to native contextual search, Lens, and tab context services to assemble omnibox suggestions.
+// ---
+
 #include "chrome/browser/android/omnibox/composebox_query_controller_bridge.h"
 
 #include <memory>

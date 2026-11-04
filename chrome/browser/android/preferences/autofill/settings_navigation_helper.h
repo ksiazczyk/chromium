@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill settings navigation helper header
+// summary: Declares functions to open Android autofill settings pages and the AutofillOptionsReferrer enum kept in sync with enums.xml.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PREFERENCES_AUTOFILL_SETTINGS_NAVIGATION_HELPER_H_
 #define CHROME_BROWSER_ANDROID_PREFERENCES_AUTOFILL_SETTINGS_NAVIGATION_HELPER_H_
 

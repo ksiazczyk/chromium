@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions OMT input anchor declarations
+// summary: Declares the OMT input receiver state and motion event handlers that intercept overlay touches on a background thread for the suggestions surface.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_OMNIBOX_SUGGESTIONS_OMT_INPUT_ANCHOR_H_
 #define CHROME_BROWSER_ANDROID_OMNIBOX_SUGGESTIONS_OMT_INPUT_ANCHOR_H_
 

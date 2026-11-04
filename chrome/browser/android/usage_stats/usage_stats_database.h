@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageStatsDatabase class declaration
+// summary: Declares the database that stores website events, suspensions and token mappings in LevelDB with a seven-day event expiry.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_USAGE_STATS_USAGE_STATS_DATABASE_H_
 #define CHROME_BROWSER_ANDROID_USAGE_STATS_USAGE_STATS_DATABASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome guest view manager delegate header
+// summary: Declares an extensions-free GuestViewManagerDelegate for Chrome on Android covering task manager tagging, event dispatch and guest type registration.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_GUEST_VIEW_CHROME_GUEST_VIEW_MANAGER_DELEGATE_H_
 #define CHROME_BROWSER_ANDROID_GUEST_VIEW_CHROME_GUEST_VIEW_MANAGER_DELEGATE_H_
 

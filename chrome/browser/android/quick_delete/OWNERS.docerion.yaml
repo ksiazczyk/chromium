@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Android Quick Delete
+summary: Owners file that delegates review ownership to the shared chrome/browser/quick_delete OWNERS file.

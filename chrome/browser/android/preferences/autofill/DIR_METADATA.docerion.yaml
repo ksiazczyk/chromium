@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for Android autofill preferences
+summary: Points the directory to the shared autofill component metadata through a mixins entry.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainIntentBehaviorMetrics
+// summary: Records user action and daily launch behavior metrics when Chrome receives an ACTION_MAIN intent.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import android.text.format.DateUtils;

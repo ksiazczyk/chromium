@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SensitivityPersistedTabDataAndroid browser tests
+// summary: Browser tests covering sensitivity tab data user data handling, serialization, save and remove, and score updates from page content annotations.
+// ---
+
 #include "chrome/browser/android/persisted_tab_data/sensitivity_persisted_tab_data_android.h"
 
 #include "base/memory/ptr_util.h"

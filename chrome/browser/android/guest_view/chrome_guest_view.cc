@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome guest view
+// summary: Implements ChromeGuestView, binding a self-owned GuestViewHost receiver per render frame and creating the Chrome guest view manager delegate.
+// ---
+
 #include "chrome/browser/android/guest_view/chrome_guest_view.h"
 
 #include "chrome/browser/android/guest_view/chrome_guest_view_manager_delegate.h"

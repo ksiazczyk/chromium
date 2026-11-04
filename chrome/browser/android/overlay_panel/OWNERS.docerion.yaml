@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the overlay panel folder
+summary: OWNERS file that defers ownership to the OWNERS file of the compositor overlay panel Java directory.

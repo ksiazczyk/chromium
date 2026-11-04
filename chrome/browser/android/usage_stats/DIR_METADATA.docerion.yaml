@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Usage stats directory metadata
+summary: Maps the usage_stats directory to the UI>Browser>UsageStats monorail component and Buganizer component 1457079.

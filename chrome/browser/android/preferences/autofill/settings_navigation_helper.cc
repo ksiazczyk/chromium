@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill settings navigation helper implementation
+// summary: Bridges native code to Java helpers that open the various Android autofill settings pages, such as profiles, credit cards, travel, and shopping.
+// ---
+
 #include "chrome/browser/android/preferences/autofill/settings_navigation_helper.h"
 
 #include "base/android/jni_android.h"

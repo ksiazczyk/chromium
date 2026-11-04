@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenshotProtectionControllerPTTest
+// summary: Tabbed activity integration tests checking that screenshot protection is enabled on policy-restricted pages and disabled on the NTP and unrestricted pages.
+// ---
+
 package org.chromium.chrome.browser.screenshot_protection;
 
 import static org.junit.Assert.assertFalse;

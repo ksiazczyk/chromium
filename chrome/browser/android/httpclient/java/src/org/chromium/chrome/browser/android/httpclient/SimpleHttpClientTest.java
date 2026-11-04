@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleHttpClient integration test
+// summary: Instrumentation integration test that sends requests through SimpleHttpClient against an embedded test server from the UI and background threads and covers a destroyed client.
+// ---
+
 package org.chromium.chrome.browser.android.httpclient;
 
 import android.content.Context;

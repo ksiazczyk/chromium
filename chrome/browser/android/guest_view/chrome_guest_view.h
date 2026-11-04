@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome guest view header
+// summary: Declares a GuestViewMessageHandler subclass for Chrome on Android that creates a ChromeGuestViewManagerDelegate.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_GUEST_VIEW_CHROME_GUEST_VIEW_H_
 #define CHROME_BROWSER_ANDROID_GUEST_VIEW_CHROME_GUEST_VIEW_H_
 

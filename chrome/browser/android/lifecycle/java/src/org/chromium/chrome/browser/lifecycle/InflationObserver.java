@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InflationObserver interface for view inflation events
+// summary: Observer interface registered with the ActivityLifecycleDispatcher to receive pre- and post-inflation startup events and optional inflation completion callbacks.
+// ---
+
 package org.chromium.chrome.browser.lifecycle;
 
 import org.chromium.build.annotations.NullMarked;

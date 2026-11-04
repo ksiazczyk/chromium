@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android atoms logger class declaration
+// summary: Declares a singleton that listens to UMA histogram samples and forwards them to Westworld, with virtual hooks for test overrides.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_METRICS_ANDROID_ATOMS_LOGGER_H_
 #define CHROME_BROWSER_ANDROID_METRICS_ANDROID_ATOMS_LOGGER_H_
 

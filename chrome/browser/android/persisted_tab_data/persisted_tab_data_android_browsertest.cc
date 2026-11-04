@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistedTabDataAndroid browser tests
+// summary: Browser tests verifying persisted tab data acquisition, deferred startup handling, save, restore, and removal using test Foo and Bar data types.
+// ---
+
 #include "chrome/browser/android/persisted_tab_data/persisted_tab_data_android.h"
 
 #include <deque>

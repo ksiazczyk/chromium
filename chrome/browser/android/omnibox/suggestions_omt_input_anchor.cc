@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions OMT input anchor implementation
+// summary: Implements native NDK input handling for the OMT suggestions overlay, measuring touch-down latency and transferring touch focus back to the main Chrome window.
+// ---
+
 #include "chrome/browser/android/omnibox/suggestions_omt_input_anchor.h"
 
 #include <android/input.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android notification handler
+// summary: Unit tests for AndroidNotificationHandler using mocked JNI notification calls, fake sync models and histogram checks.
+// ---
+
 #include "chrome/browser/android/send_tab_to_self/android_notification_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome cached flags implementation
+// summary: Implements IsJavaDrivenFeatureEnabled, which queries the Java ChromeCachedFlags class via JNI to check whether a feature is enabled.
+// ---
+
 #include "chrome/browser/android/flags/chrome_cached_flags.h"
 
 #include "base/android/jni_string.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill payment methods delegate implementation
+// summary: Implements the native Android delegate for payment method settings, handling virtual card enrollment and unenrollment through the payments network interface.
+// ---
+
 #include "chrome/browser/android/preferences/autofill/autofill_payment_methods_delegate.h"
 
 #include <memory>

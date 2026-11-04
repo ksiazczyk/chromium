@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android session durations service unit tests
+// summary: Parameterized tests verifying incognito and isolated profile session duration histograms when the service shuts down or the app moves to background.
+// ---
+
 #include "chrome/browser/android/metrics/android_session_durations_service.h"
 
 #include "base/test/metrics/histogram_tester.h"

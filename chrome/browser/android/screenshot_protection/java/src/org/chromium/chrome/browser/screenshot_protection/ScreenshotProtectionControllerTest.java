@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenshotProtectionControllerTest
+// summary: Robolectric unit tests for ScreenshotProtectionController, using mocks to verify window security flags across incognito, policy, and layout state scenarios.
+// ---
+
 package org.chromium.chrome.browser.screenshot_protection;
 
 import static org.junit.Assert.assertFalse;

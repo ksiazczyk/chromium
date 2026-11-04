@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveInstanceStateObserver interface
+// summary: Observer interface registered with ActivityLifecycleDispatcher to receive onSaveInstanceState callbacks before the activity begins to stop.
+// ---
+
 package org.chromium.chrome.browser.lifecycle;
 
 import android.os.Bundle;

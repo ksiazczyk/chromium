@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM test utilities header
+// summary: Declares the native UkmUtilsForTest helpers used by Java tests to query and manipulate UKM internals.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_METRICS_UKM_UTILS_FOR_TEST_H_
 #define CHROME_BROWSER_ANDROID_METRICS_UKM_UTILS_FOR_TEST_H_
 

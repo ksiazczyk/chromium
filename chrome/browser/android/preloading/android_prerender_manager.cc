@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidPrerenderManager implementation
+// summary: Implements the JNI-backed AndroidPrerenderManager that starts and stops prerendering for a tab through the new tab page preload pipeline manager.
+// ---
+
 #include "chrome/browser/android/preloading/android_prerender_manager.h"
 
 #include "base/android/jni_string.h"

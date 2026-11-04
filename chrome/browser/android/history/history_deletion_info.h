@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History deletion info JNI helper declaration
+// summary: Declares CreateHistoryDeletionInfo, which wraps a native history::DeletionInfo pointer in a Java object for passing over JNI.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_HISTORY_HISTORY_DELETION_INFO_H_
 #define CHROME_BROWSER_ANDROID_HISTORY_HISTORY_DELETION_INFO_H_
 

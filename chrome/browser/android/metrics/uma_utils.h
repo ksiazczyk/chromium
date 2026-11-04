@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA utilities header
+// summary: Declares helpers that fetch the Android application and process start times for UMA metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_METRICS_UMA_UTILS_H_
 #define CHROME_BROWSER_ANDROID_METRICS_UMA_UTILS_H_
 

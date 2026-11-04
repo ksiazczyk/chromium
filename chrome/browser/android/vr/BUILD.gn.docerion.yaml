@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for Android VR browser code
+summary: GN build file defining the vr_android static library, ArCore and Cardboard JNI header generation, and the Android VR browser test and unittest targets.

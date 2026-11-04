@@ -4,6 +4,12 @@
 
 // Protocol buffer definition for a delta file.
 
+// ---docerion
+// type: source
+// title: Delta file protocol buffer definition
+// summary: Defines proto2 messages for delta file entries and usage reports used by Android history reporting.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

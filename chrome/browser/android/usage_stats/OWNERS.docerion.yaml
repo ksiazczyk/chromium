@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Usage stats directory owners
+summary: Lists pnoland@chromium.org as the owner of the usage_stats directory.

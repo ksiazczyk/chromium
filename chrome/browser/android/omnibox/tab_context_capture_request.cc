@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context capture request implementation
+// summary: Implements deferred capture of tab context for Lens contextual input, triggering on page load events or fallback timers with feature-flag-controlled timeouts.
+// ---
+
 #include "chrome/browser/android/omnibox/tab_context_capture_request.h"
 
 #include <utility>

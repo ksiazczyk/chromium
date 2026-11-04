@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Android browser preferences registration
+// summary: Declares functions that register local state and profile preferences used on Android.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PREFERENCES_BROWSER_PREFS_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_PREFERENCES_BROWSER_PREFS_ANDROID_H_
 

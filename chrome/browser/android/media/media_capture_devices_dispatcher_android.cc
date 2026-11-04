@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bridge for media capture device dispatching
+// summary: C++ implementation exposing capture state queries (audio, video, tab, window, screen) and stop-capture notifications to Java via JNI, backed by the MediaStreamCaptureIndicator observer.
+// ---
+
 #include "chrome/browser/media/webrtc/media_capture_devices_dispatcher.h"
 
 #include <functional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeStatsLogHelper
+// summary: Helper that lets native code log Westworld Android telemetry atoms as int or boolean histogram samples.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import android.os.Process;

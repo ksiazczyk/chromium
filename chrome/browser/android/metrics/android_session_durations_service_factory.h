@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android session durations service factory header
+// summary: Declares the profile-keyed factory that creates the Android session durations service and exposes foreground and background session callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_METRICS_ANDROID_SESSION_DURATIONS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ANDROID_METRICS_ANDROID_SESSION_DURATIONS_SERVICE_FACTORY_H_
 

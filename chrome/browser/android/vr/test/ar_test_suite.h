@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArTestSuite class declaration
+// summary: Declares the ArTestSuite class, a base::TestSuite subclass with custom Initialize and Shutdown hooks for AR unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_VR_TEST_AR_TEST_SUITE_H_
 #define CHROME_BROWSER_ANDROID_VR_TEST_AR_TEST_SUITE_H_
 

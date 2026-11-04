@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android guest view BUILD.gn
+summary: Defines the guest_view source set for Chrome on Android, listing its sources and dependencies and asserting Android and guest view build flags.

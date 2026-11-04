@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot task JNI implementation
+// summary: Grabs an asynchronous window snapshot as PNG via the UI snapshot API and passes the resulting bytes to a Java callback through JNI bindings.
+// ---
+
 #include <stddef.h>
 
 #include "base/android/scoped_java_ref.h"

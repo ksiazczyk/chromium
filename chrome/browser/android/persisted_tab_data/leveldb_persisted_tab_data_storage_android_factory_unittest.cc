@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LevelDB persisted tab data storage factory unit tests
+// summary: Unit tests verifying incognito handling and per-profile instance behavior of the LevelDB storage factory.
+// ---
+
 #include "chrome/browser/persisted_state_db/session_proto_db_factory.h"
 
 #include "base/files/scoped_temp_dir.h"

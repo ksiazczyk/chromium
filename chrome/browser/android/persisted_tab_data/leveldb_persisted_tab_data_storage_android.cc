@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB persisted tab data storage implementation
+// summary: Implements saving, restoring and removing persisted tab data entries in the per-profile PersistedStateDB LevelDB store.
+// ---
+
 #include "chrome/browser/android/persisted_tab_data/leveldb_persisted_tab_data_storage_android.h"
 
 #include "base/strings/stringprintf.h"

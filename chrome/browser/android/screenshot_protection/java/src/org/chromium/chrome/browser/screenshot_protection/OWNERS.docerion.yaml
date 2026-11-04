@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the code owners for the screenshot protection directory, with the enterprise components owners as a last-resort suggestion.

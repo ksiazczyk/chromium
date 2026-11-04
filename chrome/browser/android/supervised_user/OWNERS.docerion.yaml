@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Supervised User OWNERS
+summary: Lists the code owners responsible for reviewing changes in the Android supervised_user browser directory.

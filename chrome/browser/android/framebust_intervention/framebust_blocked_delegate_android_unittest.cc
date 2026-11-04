@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Framebust blocked message delegate unit tests
+// summary: Unit tests for the framebust blocked message delegate using a mock message dispatcher bridge and test content settings.
+// ---
+
 #include "chrome/browser/android/framebust_intervention/framebust_blocked_delegate_android.h"
 
 #include "base/android/jni_android.h"

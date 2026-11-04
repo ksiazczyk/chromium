@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the overlay panel folder
+summary: Directory metadata that inherits common metadata via a mixin pointing to the compositor overlay panel Java source directory.

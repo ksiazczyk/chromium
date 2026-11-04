@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Screenshot protection Android build targets
+summary: Defines GN build targets for the Android screenshot protection controller library along with its Robolectric unit tests and public transit instrumentation tests.

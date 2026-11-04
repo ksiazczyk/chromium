@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Android VR directory
+summary: OWNERS file naming mthiesse@chromium.org and inheriting owners from components/webxr as required reviewers for changes here.

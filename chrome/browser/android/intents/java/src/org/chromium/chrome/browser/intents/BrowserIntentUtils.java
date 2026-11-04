@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserIntentUtils
+// summary: Modularized Android Intent utility class defining Chrome intent extras and helpers to attach and read launcher startup timestamps.
+// ---
+
 package org.chromium.chrome.browser.intents;
 
 import android.content.Intent;

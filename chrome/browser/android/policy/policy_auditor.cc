@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy auditor JNI implementation for certificate failures
+// summary: Maps the SSL certificate status of the visible navigation entry to certificate failure codes for Android policy auditing via JNI.
+// ---
+
 #include "content/public/browser/navigation_controller.h"
 #include "content/public/browser/navigation_entry.h"
 #include "content/public/browser/render_process_host.h"

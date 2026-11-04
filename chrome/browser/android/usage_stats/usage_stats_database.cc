@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageStatsDatabase implementation
+// summary: Implements LevelDB-backed storage and expiry of website events, suspensions and token-to-FQDN mappings.
+// ---
+
 #include "chrome/browser/android/usage_stats/usage_stats_database.h"
 
 #include <string_view>

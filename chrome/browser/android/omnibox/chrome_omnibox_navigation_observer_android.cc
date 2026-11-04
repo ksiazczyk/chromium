@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android omnibox navigation observer implementation
+// summary: Creates the Android observer that tracks navigations started from omnibox suggestions until the navigation and any alternative fetch finish.
+// ---
+
 #include "chrome/browser/android/omnibox/chrome_omnibox_navigation_observer_android.h"
 
 #include "content/public/browser/navigation_handle.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedTabDataAndroid implementation
+// summary: Implements the base class for persisting per-tab data on Android, handling deferred startup requests, acquisition via user data, and storage-backed save and removal.
+// ---
+
 #include "chrome/browser/android/persisted_tab_data/persisted_tab_data_android.h"
 
 #include "base/check_deref.h"

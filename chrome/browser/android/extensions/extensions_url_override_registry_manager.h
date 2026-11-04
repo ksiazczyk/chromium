@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions URL override registry manager header
+// summary: Declares the class that listens to native extensions URL override registry changes and forwards updates to Android Java classes.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_EXTENSIONS_EXTENSIONS_URL_OVERRIDE_REGISTRY_MANAGER_H_
 #define CHROME_BROWSER_ANDROID_EXTENSIONS_EXTENSIONS_URL_OVERRIDE_REGISTRY_MANAGER_H_
 

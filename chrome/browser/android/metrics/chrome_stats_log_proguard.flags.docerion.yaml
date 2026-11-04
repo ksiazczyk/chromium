@@ -1,0 +1,4 @@
+# Docerion header of chrome_stats_log_proguard.flags.
+type: config
+title: ProGuard flags for Chrome stats logging
+summary: ProGuard rules that suppress warnings for Android System SDK stats classes that cannot be resolved against the standard SDK.

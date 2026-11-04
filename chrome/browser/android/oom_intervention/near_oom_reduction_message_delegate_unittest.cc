@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Near-OOM reduction message delegate unit tests
+// summary: Verifies message title, description, icon and button text, plus dismissal behavior, using a mock message dispatcher bridge.
+// ---
+
 #include "chrome/browser/android/oom_intervention/near_oom_reduction_message_delegate.h"
 
 #include "base/android/jni_android.h"

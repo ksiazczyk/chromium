@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android lifecycle Java library
+summary: Defines the android_library target that compiles the lifecycle observer interfaces and dispatcher sources for Chrome on Android.

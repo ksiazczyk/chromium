@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for the Android VR directory
+summary: DEPS file listing the header include paths permitted for code in chrome/browser/android/vr, such as cc, webxr, device/vr, and GVR SDK sources.

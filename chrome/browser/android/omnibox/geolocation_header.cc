@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation header JNI implementation
+// summary: Implements the native side of the geolocation header lookup, calling into Java to obtain the geolocation header for a URL when allowed.
+// ---
+
 #include "chrome/browser/android/omnibox/geolocation_header.h"
 
 #include "base/android/jni_android.h"

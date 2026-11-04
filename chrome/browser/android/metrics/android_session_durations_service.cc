@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android session durations service implementation
+// summary: Tracks browsing session durations for regular, incognito, and isolated profiles, recording foreground and background transitions as histograms.
+// ---
+
 #include "chrome/browser/android/metrics/android_session_durations_service.h"
 
 #include "base/metrics/histogram_functions.h"
