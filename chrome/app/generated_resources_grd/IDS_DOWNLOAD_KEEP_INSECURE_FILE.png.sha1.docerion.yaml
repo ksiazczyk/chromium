@@ -1,0 +1,4 @@
+# Docerion header of IDS_DOWNLOAD_KEEP_INSECURE_FILE.png.sha1.
+type: data
+title: SHA-1 hash for IDS_DOWNLOAD_KEEP_INSECURE_FILE
+summary: Stores the SHA-1 checksum of the PNG image referenced by the IDS_DOWNLOAD_KEEP_INSECURE_FILE message identifier.

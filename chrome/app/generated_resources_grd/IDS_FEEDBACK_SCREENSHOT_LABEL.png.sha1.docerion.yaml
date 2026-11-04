@@ -1,0 +1,4 @@
+# Docerion header of IDS_FEEDBACK_SCREENSHOT_LABEL.png.sha1.
+type: data
+title: SHA1 hash for IDS_FEEDBACK_SCREENSHOT_LABEL.png
+summary: Stores the SHA1 checksum of the PNG image for the IDS_FEEDBACK_SCREENSHOT_LABEL feedback message in Chromium's generated resources.

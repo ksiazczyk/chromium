@@ -1,0 +1,4 @@
+# Docerion header of IDS_EXTENSIONS_CONTEXT_MENU_PAGE_ACCESS_RUN_ON_SITE_V2.png.sha1.
+type: data
+title: SHA1 checksum for extensions context menu run on site image
+summary: Stores the SHA1 hash used to verify the PNG resource for the extensions context menu option that runs the extension on a specific site.
