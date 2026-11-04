@@ -1,0 +1,4 @@
+# Docerion header of IDS_CROSTINI_EXPORT_NOTIFICATION_MESSAGE_DONE.png.sha1.
+type: data
+title: SHA-1 checksum for Crostini export done notification message
+summary: Stores the SHA-1 hash of the screenshot PNG for the Crostini export notification done message string in the ash string resources.

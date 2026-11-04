@@ -1,0 +1,4 @@
+# Docerion header of IDS_CROSTINI_TERMINAL_STATUS_INSTALL_IMAGE_LOADER.png.sha1.
+type: data
+title: SHA1 of IDS_CROSTINI_TERMINAL_STATUS_INSTALL_IMAGE_LOADER screenshot
+summary: Holds the SHA1 hash of the PNG screenshot for the Crostini terminal image loader installation status string in the ash string resources.
