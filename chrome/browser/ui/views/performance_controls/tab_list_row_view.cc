@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab list row view implementation
+// summary: Implements TabListRowView, a row showing a tab's favicon, title and close button with ink drop and focus handling for performance intervention lists.
+// ---
+
 #include "chrome/browser/ui/views/performance_controls/tab_list_row_view.h"
 
 #include <memory>

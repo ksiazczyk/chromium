@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile list view controller browser tests
+// summary: Browser test verifying that a complete shipping profile is prioritized over a more frequently used partial address in the payment sheet's profile list.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_request_browsertest_base.h"
 #include "chrome/browser/ui/views/payments/payment_request_dialog_view_ids.h"
 #include "components/autofill/core/browser/data_manager/addresses/address_data_manager.h"

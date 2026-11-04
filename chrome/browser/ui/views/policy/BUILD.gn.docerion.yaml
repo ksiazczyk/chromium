@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for policy dialog views
+summary: GN build file defining source sets for the enterprise startup and idle dialog views plus their unit and browser test targets on non-ChromeOS platforms.

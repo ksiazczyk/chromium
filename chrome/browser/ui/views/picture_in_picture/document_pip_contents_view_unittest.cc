@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DocumentPipContentsView unit tests
+// summary: Verifies that the contents view takes ownership of the child WebContents on construction and destroys it when the view is destroyed.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/document_pip_contents_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: One-time permission interactive UI test
+// summary: Interactive browser tests for one-time permission grants, covering expiry on tab switching and navigation, capture indicators and content setting outcomes.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/bind.h"
 #include "base/test/run_until.h"

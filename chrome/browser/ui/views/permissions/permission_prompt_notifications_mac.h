@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac notifications permission prompt class declaration
+// summary: Declares PermissionPromptNotificationsMac, which forwards PWA notification permission requests to a Mac app shim and falls back to a regular Chrome prompt on failure.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERMISSIONS_PERMISSION_PROMPT_NOTIFICATIONS_MAC_H_
 #define CHROME_BROWSER_UI_VIEWS_PERMISSIONS_PERMISSION_PROMPT_NOTIFICATIONS_MAC_H_
 

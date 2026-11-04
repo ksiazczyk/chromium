@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise startup dialog view implementation
+// summary: Implements the views-based enterprise startup dialog that shows launching information with a throbber or error messages, including a headless variant.
+// ---
+
 #include "chrome/browser/ui/views/policy/enterprise_startup_dialog_view.h"
 
 #include <string>

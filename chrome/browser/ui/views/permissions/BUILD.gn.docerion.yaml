@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for permissions prompt views
+summary: Defines GN source sets and dependencies for the permission prompt views, including platform-specific targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture Window Controller Header
+// summary: Declares an extensions WindowController that presents the standalone Document PiP window without a Browser or tab strip.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_DOCUMENT_PIP_WINDOW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_DOCUMENT_PIP_WINDOW_CONTROLLER_H_
 

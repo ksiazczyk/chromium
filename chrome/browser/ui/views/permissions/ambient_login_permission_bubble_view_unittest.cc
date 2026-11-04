@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient login permission bubble view unit tests
+// summary: Unit tests covering the ambient sign-in bubble's credential rows, expansion, text elision, and accessibility.
+// ---
+
 #include "chrome/browser/ui/views/permissions/ambient_login_permission_bubble_view.h"
 
 #include <memory>

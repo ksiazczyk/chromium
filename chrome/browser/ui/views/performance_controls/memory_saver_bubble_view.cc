@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory saver bubble view implementation
+// summary: Implements the memory saver bubble dialog that reports memory savings and offers actions such as adding sites to the exclusion list.
+// ---
+
 #include "chrome/browser/ui/views/performance_controls/memory_saver_bubble_view.h"
 
 #include "base/byte_size.h"

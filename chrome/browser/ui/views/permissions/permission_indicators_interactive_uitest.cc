@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission indicators interactive UI test
+// summary: Interactive UI tests verifying the camera and microphone activity indicator chips and icons shown in the location bar after permissions are granted.
+// ---
+
 #include "base/test/bind.h"
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"
 #include "chrome/browser/profiles/profile.h"

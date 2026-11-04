@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionPromptBubbleBaseView implementation
+// summary: Implements the base bubble view for permission prompts, creating allow and block buttons, extra text labels, element identifiers, and permission action reporting.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_bubble_base_view.h"
 
 #include <memory>

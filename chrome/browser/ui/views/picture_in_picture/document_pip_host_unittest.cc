@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document PiP host unit tests
+// summary: Unit tests for DocumentPipHost covering window creation, URL opening, dialog hosting, and opener navigation behavior.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/document_pip_host.h"
 
 #include <vector>

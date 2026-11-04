@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document PiP host implementation
+// summary: Implements the standalone Document Picture-in-Picture host that owns the child WebContents, the floating widget, and dialog and media handling for the PiP window.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/document_pip_host.h"
 
 #include <algorithm>

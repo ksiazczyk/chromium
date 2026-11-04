@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-Picture Bounds Change Animation Implementation
+// summary: Animates a picture-in-picture window's bounds change with an eased linear animation over 200 milliseconds.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/picture_in_picture_bounds_change_animation.h"
 
 #include "ui/gfx/animation/tween.h"

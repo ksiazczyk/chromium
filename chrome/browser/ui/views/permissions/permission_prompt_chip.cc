@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission prompt chip implementation
+// summary: Implements the chip-based permission prompt that shows requests through the location bar chip controller and handles quiet UI dispositions.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_chip.h"
 
 #include <algorithm>

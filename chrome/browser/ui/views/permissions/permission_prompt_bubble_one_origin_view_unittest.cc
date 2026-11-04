@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionPromptBubbleOneOriginView unit tests
+// summary: Unit tests for the one-origin permission bubble view using mock permission requests and fake audio and video device services to verify request display behavior.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_bubble_one_origin_view.h"
 
 #include "base/containers/to_vector.h"

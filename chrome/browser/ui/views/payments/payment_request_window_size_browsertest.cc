@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment request window size browser tests
+// summary: Browser tests verifying that PaymentRequest.show is rejected or aborted when the browser window is too small, with histogram checks.
+// ---
+
 #include "base/numerics/safe_conversions.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "build/build_config.h"

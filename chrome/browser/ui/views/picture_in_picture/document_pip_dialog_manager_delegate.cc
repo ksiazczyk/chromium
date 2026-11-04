@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document PiP JavaScript dialog delegate implementation
+// summary: Implements a window-modal JavaScript dialog view parented to the PiP widget and the delegate that shows alert, confirm, and prompt dialogs for the PiP document.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/document_pip_dialog_manager_delegate.h"
 
 #include <algorithm>

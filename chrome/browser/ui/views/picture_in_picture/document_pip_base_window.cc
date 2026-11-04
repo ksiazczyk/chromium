@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocumentPipBaseWindow implementation
+// summary: Implements the ui::BaseWindow adapter that forwards window operations to the Document PiP widget and disables maximize and minimize.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/document_pip_base_window.h"
 
 #include "ui/base/mojom/window_show_state.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture Widget Delegate Header
+// summary: Declares the widget delegate for the standalone Document Picture-in-Picture window, which creates the contents view hosting the child WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_DOCUMENT_PIP_WIDGET_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_DOCUMENT_PIP_WIDGET_DELEGATE_H_
 

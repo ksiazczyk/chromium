@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise startup dialog view class declarations
+// summary: Declares EnterpriseStartupDialogView and EnterpriseStartupDialogImpl, which show policy-related startup dialogs and report user acceptance via callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_POLICY_ENTERPRISE_STARTUP_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_POLICY_ENTERPRISE_STARTUP_DIALOG_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PiP child dialog observer helper class declaration
+// summary: Declares PipChildDialogObserverHelper, which observes child dialogs of a PiP widget and drives window resizing through an owner-supplied Delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_PIP_CHILD_DIALOG_OBSERVER_HELPER_H_
 #define CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_PIP_CHILD_DIALOG_OBSERVER_HELPER_H_
 

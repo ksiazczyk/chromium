@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocumentPipDialogManagerDelegate class declaration
+// summary: Declares the TabModalDialogManagerDelegate that routes JavaScript dialogs from the PiP document as window-modal dialogs on the PiP widget.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_DOCUMENT_PIP_DIALOG_MANAGER_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_DOCUMENT_PIP_DIALOG_MANAGER_DELEGATE_H_
 

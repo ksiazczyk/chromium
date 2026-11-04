@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission prompt policy view implementation
+// summary: Implements the prompt view informing users that a permission is controlled by admin policy, with allowed or blocked title text and an OK button.
+// ---
+
 #include "chrome/browser/ui/views/permissions/embedded_permission_prompt_policy_view.h"
 
 #include "components/strings/grit/components_strings.h"

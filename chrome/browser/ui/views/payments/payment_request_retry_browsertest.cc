@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request retry browser test
+// summary: Browser test confirming that retry() with payer errors restricts the available payment apps and does not allow payment instrument changes.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_request_browsertest_base.h"
 #include "chrome/browser/ui/views/payments/payment_request_dialog_view_ids.h"
 #include "components/autofill/core/browser/test_utils/autofill_test_util.h"

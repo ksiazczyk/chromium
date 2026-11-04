@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document PiP dialog manager delegate unit tests
+// summary: Unit tests for the Document Picture-in-Picture dialog manager delegate, covering window-modal JavaScript dialog behavior in the headless test environment.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/document_pip_dialog_manager_delegate.h"
 
 #include <memory>

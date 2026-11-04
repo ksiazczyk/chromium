@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory saver bubble view browser tests
+// summary: Browser tests for the Memory Saver bubble view, covering bubble display, memory savings labels, and related metrics.
+// ---
+
 #include "chrome/browser/ui/views/performance_controls/memory_saver_bubble_view.h"
 
 #include <tuple>

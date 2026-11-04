@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment app loading view interactive UI tests
+// summary: Interactive UI tests for the payment app loading view dialog, covering its display within a tab dialog and related interactions.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_app_loading_view.h"
 
 #include <memory>

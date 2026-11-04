@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment method view controller implementation
+// summary: Implements the payment method screen of the Payment Request flow, listing available payment apps with icons, labels, sublabels, and missing-info hints.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_method_view_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI permission chip unit tests
+// summary: Unit tests for WebUIPermissionChip covering visibility, anchor fallback timing, and state updates using mock browser window, location bar, and element context fixtures.
+// ---
+
 #include "chrome/browser/ui/views/permissions/chip/webui_permission_chip.h"
 
 #include <memory>

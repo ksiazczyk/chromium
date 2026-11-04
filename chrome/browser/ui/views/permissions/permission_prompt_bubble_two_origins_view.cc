@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Two-origin permission prompt bubble view implementation
+// summary: Implements the bubble view that prompts users to grant or deny a permission request from a pair of origins, including storage access extra text and favicon fetching.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_bubble_two_origins_view.h"
 
 #include "base/metrics/histogram_functions.h"

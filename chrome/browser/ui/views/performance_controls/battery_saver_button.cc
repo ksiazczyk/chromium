@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver toolbar button implementation
+// summary: Implements the toolbar button that indicates battery saver mode, shows and closes its bubble, and triggers the feature promo.
+// ---
+
 #include "chrome/browser/ui/views/performance_controls/battery_saver_button.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation dialog view implementation
+// summary: Implements the dialog UI for the secure payment confirmation flow, showing merchant, instrument, and total rows plus header, footer, and opt-out views.
+// ---
+
 #include "chrome/browser/ui/views/payments/secure_payment_confirmation_dialog_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded permission prompt interactive UI tests
+// summary: Interactive browser tests covering the embedded permission prompt views, including ask, policy, previously denied and granted, and system settings variants.
+// ---
+
 #include <memory>
 #include <string>
 

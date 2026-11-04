@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the permission chip
+summary: GN build file defining chip, impl, unit test, browser test and interactive UI test source sets for the permission chip UI.

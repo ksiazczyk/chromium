@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Secure Payment Confirmation delegate implementation
+// summary: Test delegate that shows and closes the Secure Payment Confirmation dialog view for Payment Request tests.
+// ---
+
 #include "chrome/browser/ui/views/payments/test_secure_payment_confirmation_payment_request_delegate.h"
 
 #include "base/functional/callback_helpers.h"

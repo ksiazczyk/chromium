@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quiet permission prompt icon implementation
+// summary: Implements the quiet permission prompt as a static or animated icon on the right side of the location bar instead of an overlaying bubble.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_quiet_icon.h"
 
 #include "chrome/browser/content_settings/chrome_content_settings_utils.h"

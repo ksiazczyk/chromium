@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shipping address editor browser tests
+// summary: Browser tests for the Payment Request shipping address editor; the suite is disabled because it is flaky and covers UI that is soon to be deprecated.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "base/time/time.h"
 #include "build/build_config.h"

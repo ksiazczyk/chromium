@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Picture-in-Picture views
+summary: GN build definition for the picture_in_picture source set and its unit tests, with conditional sources for extension support and Mac.

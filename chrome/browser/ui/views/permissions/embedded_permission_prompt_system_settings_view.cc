@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission prompt system settings view implementation
+// summary: Implements the embedded prompt view that reports permissions are off for Chrome and opens OS system settings, rechecking denial state on widget activation.
+// ---
+
 #include "chrome/browser/ui/views/permissions/embedded_permission_prompt_system_settings_view.h"
 
 #include "base/barrier_callback.h"

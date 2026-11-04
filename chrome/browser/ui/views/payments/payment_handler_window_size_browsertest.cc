@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment handler window size browser tests
+// summary: Browser tests verifying the sizes of the payment request dialog and payment handler window, skipping on Wayland where programmatic resizing is unsupported.
+// ---
+
 #include <algorithm>
 #include <optional>
 #include <string>

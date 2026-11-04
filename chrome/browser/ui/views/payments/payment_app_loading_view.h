@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment app loading view header
+// summary: Declares PaymentAppLoadingView, the loading overlay for payment app invocation, with minimum display duration handling and test accessors.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAYMENTS_PAYMENT_APP_LOADING_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PAYMENTS_PAYMENT_APP_LOADING_VIEW_H_
 

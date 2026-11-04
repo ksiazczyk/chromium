@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocumentPipBaseWindow class declaration
+// summary: Declares a ui::BaseWindow adapter over the Document PiP views::Widget so extension window infrastructure can operate the floating window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_DOCUMENT_PIP_BASE_WINDOW_H_
 #define CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_DOCUMENT_PIP_BASE_WINDOW_H_
 

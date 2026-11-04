@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View stack implementation
+// summary: Implements ViewStack, a view container that pushes and pops child views with slide-in and slide-out animations for payment UI navigation.
+// ---
+
 #include "chrome/browser/ui/views/payments/view_stack.h"
 
 #include <memory>

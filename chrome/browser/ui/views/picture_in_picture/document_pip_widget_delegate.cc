@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document PiP widget delegate implementation
+// summary: Implements the widget delegate for the Document PiP window, setting resize behavior, formatting the window title, and creating the custom frame view.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/document_pip_widget_delegate.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request views utility implementation
+// summary: Implements helper functions that build payment dialog views such as app icons, address and contact labels, and the product logo footer.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_request_views_util.h"
 
 #include <memory>

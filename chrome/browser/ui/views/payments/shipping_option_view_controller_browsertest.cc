@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shipping option browser tests
+// summary: Browser tests verifying shipping option selection and display in the Payment Request UI for different addresses and shipping options.
+// ---
+
 #include <list>
 
 #include "chrome/browser/ui/views/payments/payment_request_browsertest_base.h"

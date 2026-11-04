@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shipping address editor view controller implementation
+// summary: Implements the shipping address editor screen of the Payment Request flow, including field definitions, country and region combobox models, and validation before saving an autofill profile.
+// ---
+
 #include "chrome/browser/ui/views/payments/shipping_address_editor_view_controller.h"
 
 #include <string_view>

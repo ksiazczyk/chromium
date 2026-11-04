@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory saver IPH interactive UI tests
+// summary: Interactive tests for the Memory Saver in-product help promo, checking it triggers on tab thresholds and enables Memory Saver mode.
+// ---
+
 #include "base/test/scoped_amount_of_physical_memory_override.h"
 #include "chrome/browser/performance_manager/public/user_tuning/user_performance_tuning_manager.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"

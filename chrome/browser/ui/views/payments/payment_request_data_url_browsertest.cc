@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request data URL browser test
+// summary: Browser test checking that PaymentRequest is unavailable in non-secure data URL contexts and that invoking it surfaces a security error.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_request_browsertest_base.h"
 #include "content/public/test/browser_test.h"
 #include "content/public/test/browser_test_utils.h"

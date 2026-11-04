@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission prompt content scrim view implementation
+// summary: Implements the scrim view covering web contents while an embedded permission prompt is shown, handling widget bounds, omnibox-everywhere padding, and click dismissal.
+// ---
+
 #include "chrome/browser/ui/views/permissions/embedded_permission_prompt_content_scrim_view.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

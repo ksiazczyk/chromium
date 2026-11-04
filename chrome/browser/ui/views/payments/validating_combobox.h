@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Validating combobox header
+// summary: Declares ValidatingCombobox, a combobox view for the payments UI that delegates validation of its current content.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAYMENTS_VALIDATING_COMBOBOX_H_
 #define CHROME_BROWSER_UI_VIEWS_PAYMENTS_VALIDATING_COMBOBOX_H_
 

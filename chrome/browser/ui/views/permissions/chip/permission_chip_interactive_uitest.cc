@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission chip interactive UI tests
+// summary: Interactive browser tests covering permission chip behavior, including quiet UI, notification permission flows, animations, and histogram metrics.
+// ---
+
 #include <memory>
 #include <variant>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PiP top bar animation controller class declaration
+// summary: Declares PipTopBarAnimationController, which owns and drives the Document Picture-in-Picture top bar hover animations via a Delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_PIP_TOP_BAR_ANIMATION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_PIP_TOP_BAR_ANIMATION_CONTROLLER_H_
 

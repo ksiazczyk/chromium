@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission prompt base view implementation
+// summary: Implements the shared base bubble view for permission prompts, handling anchoring, URL identity, customized button text and protection against accidental acceptance.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_base_view.h"
 
 #include <cstddef>

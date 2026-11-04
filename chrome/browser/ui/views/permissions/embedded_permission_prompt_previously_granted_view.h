@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission prompt previously granted view header
+// summary: Declares the embedded prompt view that informs users a site permission was previously granted and defines its title and button behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERMISSIONS_EMBEDDED_PERMISSION_PROMPT_PREVIOUSLY_GRANTED_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PERMISSIONS_EMBEDDED_PERMISSION_PROMPT_PREVIOUSLY_GRANTED_VIEW_H_
 

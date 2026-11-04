@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission RHS indicators interactive UI test
+// summary: Interactive UI tests for right-hand-side permission indicators, exercising the location bar chip, page info rows and prompt bubble against an HTTPS test server.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"
 #include "chrome/browser/file_system_access/file_system_access_features.h"

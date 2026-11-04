@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shipping option view controller implementation
+// summary: Implements the shipping option sheet of the Payment Request UI, listing selectable shipping options and reacting to spec updates.
+// ---
+
 #include "chrome/browser/ui/views/payments/shipping_option_view_controller.h"
 
 #include <memory>

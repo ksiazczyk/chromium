@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment Request item list implementation
+// summary: Implements selectable item rows for the Payment Request dialog, with checkmarks, optional edit buttons, and single-selection behavior.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_request_item_list.h"
 
 #include <utility>

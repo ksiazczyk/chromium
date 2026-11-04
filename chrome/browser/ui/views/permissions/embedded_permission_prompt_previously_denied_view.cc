@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission prompt previously denied view implementation
+// summary: Implements the prompt view shown when the user previously denied a permission, offering continue-not-allowing and allow-this-time buttons.
+// ---
+
 #include "chrome/browser/ui/views/permissions/embedded_permission_prompt_previously_denied_view.h"
 
 #include "base/memory/weak_ptr.h"

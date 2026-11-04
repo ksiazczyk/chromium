@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Validation delegate base implementation
+// summary: Implements the ValidationDelegate destructor and default formatting behavior used by payment input field validation.
+// ---
+
 #include "chrome/browser/ui/views/payments/validation_delegate.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission bubble interactive UI test
+// summary: Interactive UI tests for the permission prompt bubble and request chip, covering window activation, keyboard accelerators and tab switching behavior.
+// ---
+
 #include <memory>
 
 #include "base/run_loop.h"

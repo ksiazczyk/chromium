@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance intervention bubble implementation
+// summary: Implements the performance intervention bubble dialog that lists tabs with high CPU usage and offers to deactivate them.
+// ---
+
 #include "chrome/browser/ui/views/performance_controls/performance_intervention_bubble.h"
 
 #include <memory>

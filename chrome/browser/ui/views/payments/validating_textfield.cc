@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Validating textfield implementation
+// summary: Implements ValidatingTextfield, a views::Textfield subclass that validates and optionally formats its contents via a delegate on blur and keystrokes.
+// ---
+
 #include "chrome/browser/ui/views/payments/validating_textfield.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Chrome Payment Request delegate implementation
+// summary: Test double of the Chrome Payment Request delegate that lets tests override region data, preferences, SSL validity, incognito state, and authenticator behavior.
+// ---
+
 #include "chrome/browser/ui/views/payments/test_chrome_payment_request_delegate.h"
 
 #include <memory>

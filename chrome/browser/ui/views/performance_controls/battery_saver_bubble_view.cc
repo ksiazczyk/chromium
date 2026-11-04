@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver bubble view implementation
+// summary: Implements the bubble dialog shown when the battery saver toolbar button is clicked, including its dialog model and close handling.
+// ---
+
 #include "chrome/browser/ui/views/performance_controls/battery_saver_bubble_view.h"
 
 #include "base/functional/bind.h"

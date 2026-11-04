@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture Window Controller Implementation
+// summary: Implements the extensions WindowController that exposes the standalone Document PiP window to extension windows and tabs APIs as a popup with one tab.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/document_pip_window_controller.h"
 
 #include <utility>

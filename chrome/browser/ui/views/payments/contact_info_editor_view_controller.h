@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact info editor view controller header
+// summary: Declares the contact info editor controller and its validation delegate for the Payment Request flow.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAYMENTS_CONTACT_INFO_EDITOR_VIEW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_PAYMENTS_CONTACT_INFO_EDITOR_VIEW_CONTROLLER_H_
 

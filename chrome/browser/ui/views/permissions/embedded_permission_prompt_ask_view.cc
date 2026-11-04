@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission prompt ask view implementation
+// summary: Implements the ask variant of the embedded permission prompt, configuring request lines and allow buttons.
+// ---
+
 #include "chrome/browser/ui/views/permissions/embedded_permission_prompt_ask_view.h"
 
 #include "chrome/browser/ui/url_identity.h"

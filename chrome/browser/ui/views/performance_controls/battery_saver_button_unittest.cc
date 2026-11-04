@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Battery saver button unit tests
+// summary: Unit tests for the battery saver toolbar button covering visibility, accessibility, tooltips, metrics, and bubble interactions.
+// ---
+
 #include "chrome/browser/ui/views/performance_controls/battery_saver_button.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi image container implementation
+// summary: Implements a horizontal view container that adds, removes and updates multiple image views for a label button.
+// ---
+
 #include "chrome/browser/ui/views/permissions/chip/multi_image_container.h"
 
 #include "ui/views/controls/button/label_button.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Validating textfield unit tests
+// summary: Unit tests verifying that ValidatingTextfield marks invalid input on blur and revalidates on subsequent content changes.
+// ---
+
 #include "chrome/browser/ui/views/payments/validating_textfield.h"
 
 #include <memory>

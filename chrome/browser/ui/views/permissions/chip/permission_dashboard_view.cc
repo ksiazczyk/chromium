@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission dashboard view implementation
+// summary: Implements the omnibox permission dashboard view that hosts the activity indicator chip, the permission request chip, and the arc-shaped divider background between them.
+// ---
+
 #include "chrome/browser/ui/views/permissions/chip/permission_dashboard_view.h"
 
 #include <algorithm>

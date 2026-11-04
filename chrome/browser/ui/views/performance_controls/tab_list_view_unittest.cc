@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab list view unit tests
+// summary: Views unit tests for TabListView and TabListRowView covering row creation, removal, mouse events and accessibility behavior.
+// ---
+
 #include "chrome/browser/ui/views/performance_controls/tab_list_view.h"
 
 #include <memory>

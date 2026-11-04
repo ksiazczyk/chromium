@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quiet permission prompt icon declaration
+// summary: Declares PermissionPromptQuietIcon, a desktop prompt disposition that presents permission requests as a location bar icon.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERMISSIONS_PERMISSION_PROMPT_QUIET_ICON_H_
 #define CHROME_BROWSER_UI_VIEWS_PERMISSIONS_PERMISSION_PROMPT_QUIET_ICON_H_
 

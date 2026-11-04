@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionPromptBaseView browser tests
+// summary: In-process browser tests verifying the permission prompt base view's input protection, including that buttons are ignored while the prompt is occluded by a picture-in-picture window.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_base_view.h"
 
 #include <algorithm>

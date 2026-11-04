@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Empty update browser test
+// summary: Browser test verifying the Payment Request UI does not crash when it receives an empty payment details update.
+// ---
+
 #include <list>
 
 #include "chrome/browser/ui/views/payments/payment_request_browsertest_base.h"

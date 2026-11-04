@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request browser test base implementation
+// summary: Implements the shared base class for Payment Request browser tests, providing dialog event waiting, payment app installation, and UI interaction helpers.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_request_browsertest_base.h"
 
 #include <iostream>

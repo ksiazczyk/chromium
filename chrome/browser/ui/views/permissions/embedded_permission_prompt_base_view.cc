@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission prompt base view implementation
+// summary: Implements the shared base view for embedded permission prompts, including element identifiers, request line and button layout, and anchoring behavior.
+// ---
+
 #include "chrome/browser/ui/views/permissions/embedded_permission_prompt_base_view.h"
 
 #include "base/functional/callback_helpers.h"

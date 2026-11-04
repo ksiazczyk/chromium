@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request item list unit test
+// summary: Unit tests verifying that PaymentRequestItemList keeps at most one item selected and builds its list view with the expected children.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_request_item_list.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment sheet view controller browser tests
+// summary: Browser tests verifying that the payment sheet's pay button ignores accidental inputs during input protection windows, such as when the processing spinner shows or the dialog is re-shown.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_sheet_view_controller.h"
 
 #include "base/command_line.h"

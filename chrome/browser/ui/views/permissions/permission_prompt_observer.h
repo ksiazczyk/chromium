@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission prompt observer declaration
+// summary: Declares PermissionPromptObserver, a WebContentsUserData that lets clients observe permission prompt visibility and size changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERMISSIONS_PERMISSION_PROMPT_OBSERVER_H_
 #define CHROME_BROWSER_UI_VIEWS_PERMISSIONS_PERMISSION_PROMPT_OBSERVER_H_
 

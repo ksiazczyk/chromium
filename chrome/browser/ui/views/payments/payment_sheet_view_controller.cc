@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment sheet view controller implementation
+// summary: Implements the main payment sheet UI, including sections for shipping addresses, contact info, payment methods, and the order summary.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_sheet_view_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document PiP Mac native widget header
+// summary: Declares a NativeWidgetMac subclass that gives the standalone Document PiP window default macOS styling such as rounded corners and a drop shadow.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_DOCUMENT_PIP_NATIVE_WIDGET_MAC_H_
 #define CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_DOCUMENT_PIP_NATIVE_WIDGET_MAC_H_
 

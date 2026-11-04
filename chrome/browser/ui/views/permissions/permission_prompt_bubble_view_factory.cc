@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission prompt bubble view factory implementation
+// summary: Creates the appropriate prompt bubble view for a request, selecting the ambient login, two-origin, or one-origin bubble based on the request type.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_bubble_view_factory.h"
 
 #include "base/check.h"

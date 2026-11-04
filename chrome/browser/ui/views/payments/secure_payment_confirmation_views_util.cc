@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation views utilities
+// summary: Implements helpers that create sized icon views for the secure payment confirmation dialog and format the merchant label from merchant name and origin.
+// ---
+
 #include "chrome/browser/ui/views/payments/secure_payment_confirmation_views_util.h"
 
 #include "base/strings/strcat.h"

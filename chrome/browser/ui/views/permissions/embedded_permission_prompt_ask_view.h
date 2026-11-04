@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission prompt ask view header
+// summary: Declares EmbeddedPermissionPromptAskView, the embedded prompt shown when a site requests a permission the user has not previously decided on.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERMISSIONS_EMBEDDED_PERMISSION_PROMPT_ASK_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PERMISSIONS_EMBEDDED_PERMISSION_PROMPT_ASK_VIEW_H_
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment app loading view implementation
+// summary: Implements the loading view overlay shown while a service worker payment app is invoked, with header, progress bar, and a delayed loading message.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_app_loading_view.h"
 
 #include <memory>

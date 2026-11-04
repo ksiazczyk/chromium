@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exclusive access permission prompt interactive UI test
+// summary: Interactive UI test that triggers the keyboard lock permission prompt on an HTTPS test server and verifies prompt buttons produce the expected content settings.
+// ---
+
 #include "base/strings/to_string.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

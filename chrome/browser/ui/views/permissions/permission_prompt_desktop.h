@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop permission prompt header
+// summary: Declares the PermissionPromptDesktop base class that creates or triggers UI, usually a popup bubble or quiet prompt, for website permission requests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERMISSIONS_PERMISSION_PROMPT_DESKTOP_H_
 #define CHROME_BROWSER_UI_VIEWS_PERMISSIONS_PERMISSION_PROMPT_DESKTOP_H_
 

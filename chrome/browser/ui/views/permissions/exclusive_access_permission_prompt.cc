@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access permission prompt implementation
+// summary: Implements the modal prompt controller for exclusive access (keyboard/pointer lock) permission requests, showing a content scrim and permission chip.
+// ---
+
 #include "chrome/browser/ui/views/permissions/exclusive_access_permission_prompt.h"
 
 #include "base/memory/raw_ptr.h"

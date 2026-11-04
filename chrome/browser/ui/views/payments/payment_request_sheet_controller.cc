@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment Request sheet controller implementation
+// summary: Implements the sheet controller that manages focus-trappable sheet views pushed onto the Payment Request dialog view stack, including focus search and navigation.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_request_sheet_controller.h"
 
 #include <utility>

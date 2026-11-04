@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionPromptBubbleOneOriginView implementation
+// summary: Implements the single-origin permission bubble view that builds request rows, localized accessible titles, and optional camera and microphone live previews.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_bubble_one_origin_view.h"
 
 #include <algorithm>

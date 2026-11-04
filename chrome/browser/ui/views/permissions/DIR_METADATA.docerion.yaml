@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for permissions prompts
+summary: Maps this directory to the UI>Browser>Permissions>Prompts component and the permissions-dev team for issue tracking.

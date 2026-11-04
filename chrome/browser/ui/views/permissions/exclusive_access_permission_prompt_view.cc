@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access permission prompt view implementation
+// summary: Implements the bubble view for exclusive access (keyboard/pointer lock) permission requests, including request labels, allow and deny buttons and accessible titles.
+// ---
+
 #include "chrome/browser/ui/views/permissions/exclusive_access_permission_prompt_view.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab list row view header
+// summary: Declares TabListRowView, a views::View row for an actionable tab that observes focus changes and the tab list model and exposes a close button.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERFORMANCE_CONTROLS_TAB_LIST_ROW_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PERFORMANCE_CONTROLS_TAB_LIST_ROW_VIEW_H_
 

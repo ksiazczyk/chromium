@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler modal dialog manager delegate implementation
+// summary: Implements the delegate and host for modal dialogs triggered from a web-based payment handler, parenting them to the payment dialog or borrowing the browser tab's host.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_handler_modal_dialog_manager_delegate.h"
 
 #include <algorithm>
