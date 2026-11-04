@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitCompatApplication base class with Impl delegation
+// summary: Application base class that delegates lifecycle logic to an Impl from the chrome split, handling command line, crash handling and locale setup.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import android.app.Application;

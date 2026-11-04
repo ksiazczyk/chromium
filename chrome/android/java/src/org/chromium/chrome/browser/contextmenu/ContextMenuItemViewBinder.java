@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu item view binder
+// summary: Binds context menu list item models to their views, covering titles, icons, enabled state, and the quick share icon row.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.chromium.chrome.browser.contextmenu.ContextMenuItemWithIconButtonProperties.END_BUTTON_CLICK_LISTENER;

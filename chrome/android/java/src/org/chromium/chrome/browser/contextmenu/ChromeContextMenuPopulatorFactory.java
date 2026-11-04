@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeContextMenuPopulatorFactory
+// summary: Factory that creates ChromeContextMenuPopulator instances from an item delegate, share delegate supplier, context menu mode, and custom content actions.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import android.content.Context;

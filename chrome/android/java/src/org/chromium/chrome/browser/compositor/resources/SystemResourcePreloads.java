@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemResourcePreloads
+// summary: Java class that lists high priority system UI resources, such as the overscroll glow, to preload asynchronously at startup for compositor layers.
+// ---
+
 package org.chromium.chrome.browser.compositor.resources;
 
 import org.chromium.build.annotations.NullMarked;

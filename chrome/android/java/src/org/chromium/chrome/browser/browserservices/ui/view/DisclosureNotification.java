@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisclosureNotification
+// summary: Android Java class that posts a Trusted Web Activity disclosure notification when the user is on a verified domain, using urgent priority for the first notification and low priority for subsequent ones.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.view;
 
 import static org.chromium.chrome.browser.browserservices.ui.TrustedWebActivityModel.DISCLOSURE_EVENTS_CALLBACK;

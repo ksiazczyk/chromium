@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Search scene layer
+// summary: Java scene layer that renders the compositor layers for the Contextual Search overlay panel, covering the bar, promo, related searches, image and callout controls via JNI.
+// ---
+
 package org.chromium.chrome.browser.compositor.scene_layer;
 
 import androidx.annotation.ColorInt;

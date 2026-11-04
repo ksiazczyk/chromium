@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlackHoleEventFilter consuming all events
+// summary: Event filter that swallows all incoming touch and hover events without any side effects.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.eventfilter;
 
 import android.content.Context;

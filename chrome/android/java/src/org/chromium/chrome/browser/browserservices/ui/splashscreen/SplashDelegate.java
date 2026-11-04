@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplashDelegate interface
+// summary: Delegate interface for SplashController that builds the splash view, reports when the splash is hidden, and decides whether to wait for a page load.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.splashscreen;
 
 import android.view.View;

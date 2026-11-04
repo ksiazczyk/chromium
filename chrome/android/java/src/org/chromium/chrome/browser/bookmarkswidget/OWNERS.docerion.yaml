@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Points to the bookmarks directory OWNERS file so that the same set of code owners is responsible for the bookmarkswidget code.

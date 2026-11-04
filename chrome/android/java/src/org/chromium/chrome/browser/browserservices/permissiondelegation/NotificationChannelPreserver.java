@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationChannelPreserver
+// summary: Deletes an origin's Android site notification channel while an installed webapp delegates its notifications and restores the channel with its pre-install setting when delegation ends.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import org.chromium.build.annotations.NullMarked;

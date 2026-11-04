@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutRenderHost
+// summary: Minimal interface through which layouts interact with their host for rendering, covering render requests, frame swaps, surface resizing and resource access.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import org.chromium.build.annotations.NullMarked;

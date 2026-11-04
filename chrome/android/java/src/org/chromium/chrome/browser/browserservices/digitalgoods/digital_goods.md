@@ -1,3 +1,9 @@
+---
+type: reference
+title: Digital Goods
+summary: Explains the Digital Goods API implementation in Chromium, the roles of its classes, and the versioned interface between the TWA shell and Chromium.
+---
+
 # Digital Goods
 
 Websites viewed in a Trusted Web Activity can use the Digital Goods API to

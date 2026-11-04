@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AreaMotionEventHandler interface
+// summary: Interface for motion event callbacks tied to a trigger area, adding an area-aware hover exit notification to MotionEventHandler.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.eventfilter;
 
 import org.chromium.build.annotations.NullMarked;

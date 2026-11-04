@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the scene_layer directory
+summary: Lists code owners for the directory and assigns per-file owners for the Contextual Search and Tab Strip scene layers.

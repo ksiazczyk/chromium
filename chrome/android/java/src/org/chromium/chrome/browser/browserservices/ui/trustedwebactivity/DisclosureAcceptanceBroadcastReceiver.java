@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisclosureAcceptanceBroadcastReceiver
+// summary: Android broadcast receiver that records a user's acceptance of the trusted web activity disclosure and dismisses the corresponding disclosure notification.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.trustedwebactivity;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

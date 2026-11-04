@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackScroller
+// summary: Scroller largely copied from Android's OverScroller that decouples time from app time so scroll timing can be specified manually.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkWidgetService
+// summary: RemoteViews service entry point for the bookmarks widget that delegates to the BookmarkWidgetServiceImpl implementation class via SplitCompatRemoteViewsService.
+// ---
+
 package org.chromium.chrome.browser.bookmarkswidget;
 
 import org.chromium.build.annotations.IdentifierNameString;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingDataCounterBridge
+// summary: Bridges the native C++ BrowsingDataCounter backend and the ClearBrowsingDataFragment UI, delivering counter result summaries through a callback.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import org.jni_zero.CalledByNative;

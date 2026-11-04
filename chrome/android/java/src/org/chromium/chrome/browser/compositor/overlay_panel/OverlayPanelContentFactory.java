@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay panel content factory interface
+// summary: Interface that generalizes creation of OverlayPanelContent so tests can provide custom implementations.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import org.chromium.build.annotations.NullMarked;

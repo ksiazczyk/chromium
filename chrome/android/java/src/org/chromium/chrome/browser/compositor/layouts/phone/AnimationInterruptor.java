@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationInterruptor
+// summary: Interrupts and forces the new background tab animation to finish when the animated-over tab navigates, the current tab switches, or another layout such as the hub is shown.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import org.chromium.base.Callback;

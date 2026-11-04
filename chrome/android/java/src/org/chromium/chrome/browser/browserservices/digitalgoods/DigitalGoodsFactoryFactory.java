@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DigitalGoodsFactoryFactory
+// summary: Mojo interface factory that produces DigitalGoodsFactory instances bound to a given RenderFrameHost.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,3 +1,12 @@
+---
+type: readme
+title: Tab Strip README
+summary: Explains how the tab strip is rendered through the compositor and describes the code structure of strip layout helpers, views, and delegates.
+relations:
+  - documents /chrome/android/java/src/org/chromium/chrome/browser/compositor/overlays/strip/StripLayoutHelperManager.java
+  - documents /chrome/android/java/src/org/chromium/chrome/browser/compositor/overlays/strip/StripLayoutHelper.java
+---
+
 # Tab Strip
 This component refers to the list of tabs shown on top of the toolbar on larger screens.
 

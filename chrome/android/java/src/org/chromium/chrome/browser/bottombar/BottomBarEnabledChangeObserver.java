@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom bar enabled change observer
+// summary: Tracks the bottom bar Settings preference and triggers activity recreation when the enabled state diverges from the state the UI was created with.
+// ---
+
 package org.chromium.chrome.browser.bottombar;
 
 import android.app.Activity;

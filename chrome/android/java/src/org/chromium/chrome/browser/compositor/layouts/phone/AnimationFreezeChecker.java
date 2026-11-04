@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationFreezeChecker
+// summary: Helper class that tracks new tab animation progress and records histogram states for started, ended, cancelled, timed out, and looped animations.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import androidx.annotation.IntDef;

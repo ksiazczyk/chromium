@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NewTabAnimationLayoutUnitTest
+// summary: Robolectric unit tests for NewTabAnimationLayout, verifying animation behavior, browser controls visibility, viewport modes, and feature flag interactions using Mockito and Truth assertions.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import static com.google.common.truth.Truth.assertThat;

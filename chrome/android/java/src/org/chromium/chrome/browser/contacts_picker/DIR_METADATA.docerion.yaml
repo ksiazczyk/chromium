@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the contacts_picker directory
+summary: Directory metadata assigning the Blink>Contacts monorail component, the fugu-dev@chromium.org team email and a Buganizer component ID.

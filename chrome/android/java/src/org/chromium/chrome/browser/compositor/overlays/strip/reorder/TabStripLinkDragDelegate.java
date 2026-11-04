@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripLinkDragDelegate
+// summary: Handles links and other droppable text dragged onto the tab strip, forwarding drag events to the strip layout helper and recording drag-drop metrics.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import android.content.ClipData;

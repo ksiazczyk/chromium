@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip scene layer
+// summary: Java component of the compositor layer that draws the tab strip, keeping strip layout tabs, group titles and buttons in sync with its native counterpart.
+// ---
+
 package org.chromium.chrome.browser.compositor.scene_layer;
 
 import static org.chromium.chrome.browser.tasks.tab_management.TabUiThemeUtil.FOLIO_FOOT_LENGTH_DP;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserServicesStore
+// summary: Stores per-package records of users accepting and seeing the Trusted Web Activity "Running in Chrome" disclosure in Chrome shared preferences.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import org.chromium.build.annotations.NullMarked;

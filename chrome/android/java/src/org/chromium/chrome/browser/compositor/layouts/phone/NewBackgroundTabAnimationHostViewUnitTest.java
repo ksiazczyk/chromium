@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NewBackgroundTabAnimationHostViewUnitTest
+// summary: Robolectric unit tests for NewBackgroundTabAnimationHostView verifying animation type calculation and the animation behavior of the host view and fake tab switcher button.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import static org.junit.Assert.assertEquals;

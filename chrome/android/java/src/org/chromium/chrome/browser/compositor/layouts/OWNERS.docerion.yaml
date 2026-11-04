@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for compositor layouts
+summary: Defines per-file code owners for the layout classes in the compositor layouts directory, including tablet and overview mode ownership.

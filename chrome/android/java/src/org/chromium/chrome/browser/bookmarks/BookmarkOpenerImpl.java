@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkOpenerImpl
+// summary: Implements BookmarkOpener using intents to open bookmarks in the current tab, new tabs or other windows, including reading list and multi-instance handling.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

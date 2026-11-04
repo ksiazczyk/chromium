@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearDataDialogActivity
+// summary: Android activity that shows a dialog inviting the user to clear browsing data for origins linked to a Trusted Web Activity client app that was uninstalled or had its data cleared.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.content.Context;

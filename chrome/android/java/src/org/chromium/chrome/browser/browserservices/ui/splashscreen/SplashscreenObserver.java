@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplashscreenObserver interface
+// summary: Observer interface for the WebApp activity splash screen that notifies when translucency is removed and when the splash screen is hidden.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.splashscreen;
 
 import org.chromium.build.annotations.NullMarked;

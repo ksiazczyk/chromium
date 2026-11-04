@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'OverlayPanelRepaddingTextView: text view with peek/expand padding'
+// summary: Abstract text view inflater that switches end padding between peeked and expanded dimensions once the panel passes halfway through its expansion.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

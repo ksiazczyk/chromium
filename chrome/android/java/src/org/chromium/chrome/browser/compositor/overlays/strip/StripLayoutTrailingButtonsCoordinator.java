@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StripLayoutTrailingButtonsCoordinator
+// summary: Coordinates the trailing buttons at the end of the tab strip, including Glic, new tab, and side UI buttons, with their animations and behavior.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.chromium.chrome.browser.compositor.overlays.strip.StripLayoutUtils.getButtonTouchTargetSizeDp;

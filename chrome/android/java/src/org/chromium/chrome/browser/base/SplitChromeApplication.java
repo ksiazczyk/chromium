@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitChromeApplication for isolated split handling
+// summary: Application class for Chrome that initializes non-browser processes without loading the chrome split and loads browser logic via reflection.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import android.annotation.SuppressLint;

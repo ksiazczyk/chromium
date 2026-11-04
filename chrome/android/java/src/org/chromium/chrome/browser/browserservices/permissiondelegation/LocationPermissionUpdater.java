@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationPermissionUpdater
+// summary: Updates an origin's location permission to match the Android location permission of the linked TWA client app and restores the previous permission when the client app is uninstalled.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import static org.chromium.components.permissions.PermissionUtil.getGeolocationType;

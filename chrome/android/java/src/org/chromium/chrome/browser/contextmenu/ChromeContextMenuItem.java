@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeContextMenuItem
+// summary: Enumerates all predefined context menu items available in Chrome on Android, grouping item IDs with their menu and string resource IDs.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

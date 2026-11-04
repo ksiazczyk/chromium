@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strip drag shadow view
+// summary: FrameLayout that renders the drag shadow card shown while dragging tabs, displaying favicon, title, and thumbnail with an expand animation.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import android.animation.Animator;

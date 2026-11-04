@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextMenuChipController
+// summary: Controller that builds and shows the context menu chip in an anchored popup window and handles its click and dismissal behavior.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RelatedSearchesControl
+// summary: Controls the Contextual Search panel section that shows related searches as selectable chips, handling view visibility, sizing, and chip selection metrics.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel.contextualsearch;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

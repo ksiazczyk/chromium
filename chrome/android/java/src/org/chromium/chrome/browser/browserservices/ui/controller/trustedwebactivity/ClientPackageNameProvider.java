@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientPackageNameProvider
+// summary: Supplies the client package name for Trusted Web Activities, reading it from the Custom Tabs connection or restoring it from the Activity's saved instance state.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller.trustedwebactivity;
 
 import android.os.Bundle;

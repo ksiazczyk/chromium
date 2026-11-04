@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TintedCompositorTextButton
+// summary: Java class extending TintedCompositorButton that adds text display and a nested dismiss button with its own click and touch event handling.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.components;
 
 import android.content.Context;

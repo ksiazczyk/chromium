@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlFilterBridge delegating URL matching to native code
+// summary: UrlFilter implementation that delegates URL matching to the native C++ BrowsingDataRemover side via JNI.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import org.jni_zero.CalledByNative;

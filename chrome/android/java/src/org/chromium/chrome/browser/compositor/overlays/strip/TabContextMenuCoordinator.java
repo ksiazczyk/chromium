@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContextMenuCoordinator
+// summary: Builds and shows context menus for tabs in the strip, offering actions like grouping, sharing, bookmarking, moving to another window, and closing.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

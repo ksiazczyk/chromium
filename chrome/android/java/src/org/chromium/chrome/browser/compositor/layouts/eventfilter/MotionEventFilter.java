@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MotionEventFilter base class for gesture detection
+// summary: Base event filter that detects gestures such as scroll, fling, long press and hover and forwards them to a MotionEventHandler.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.eventfilter;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

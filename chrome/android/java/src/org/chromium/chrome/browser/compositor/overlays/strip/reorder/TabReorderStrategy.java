@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Tab reorder strategy
+// summary: Handles dragging a single tab past other tabs or into and out of tab groups within the tab strip, with selection and animation support.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

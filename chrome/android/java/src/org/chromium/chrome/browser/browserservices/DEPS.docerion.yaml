@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency rules for browserservices
+summary: Grants include access to the Android browserservices browser code and the content relationship verification component for this directory.

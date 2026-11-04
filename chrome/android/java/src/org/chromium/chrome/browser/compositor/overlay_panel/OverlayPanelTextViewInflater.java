@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'OverlayPanelTextViewInflater: text view with RTL/LTR adjustment'
+// summary: Abstract inflater extending the repadding text view to override RTL/LTR ordering when the initial text fragment is short relative to the view width.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

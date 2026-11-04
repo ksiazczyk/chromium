@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContentManagerHandler
+// summary: Helper class that attaches a tab's content layer to TabContentManager and removes tab thumbnails when a tab enters fullscreen while not user-interactable.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.content;
 
 import org.chromium.build.annotations.NullMarked;

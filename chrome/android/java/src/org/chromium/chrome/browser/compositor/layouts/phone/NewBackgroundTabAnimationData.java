@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewBackgroundTabAnimationData
+// summary: Captures and stores a snapshot of the tab switcher button state and layout colors for the duration of the new background tab animation to avoid redundant UI queries.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

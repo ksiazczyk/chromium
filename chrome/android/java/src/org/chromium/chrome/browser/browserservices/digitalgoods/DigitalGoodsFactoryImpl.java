@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DigitalGoodsFactoryImpl
+// summary: Implementation of the mojo DigitalGoodsFactory interface that creates DigitalGoodsImpl only for Trusted Web Activity contexts using Google Play Billing and triggers site isolation.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import android.app.Activity;

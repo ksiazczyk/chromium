@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab load state tracker
+// summary: Tracks whether a tab is loading and notifies a callback to update the visual loading state, with a short delay after load finishes.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import android.os.Handler;

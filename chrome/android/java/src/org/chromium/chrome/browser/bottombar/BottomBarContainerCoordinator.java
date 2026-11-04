@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom bar container coordinator
+// summary: Coordinates the container view that hosts the Chrome Android bottom bar within the browser controls, handling visibility and configuration changes.
+// ---
+
 package org.chromium.chrome.browser.bottombar;
 
 import android.content.ComponentCallbacks;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutProvider
+// summary: Interface giving the renderer access to the active layout, viewport and updated scene layer, isolating rendering from layout logic.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import android.graphics.RectF;

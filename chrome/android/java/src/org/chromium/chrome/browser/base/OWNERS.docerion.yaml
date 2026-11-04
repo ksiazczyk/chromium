@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegation for SplitCompatCustomTabsService
+summary: OWNERS rule delegating review ownership of SplitCompatCustomTabsService.java to the custom tabs OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfirmImportantSitesDialogFragment
+// summary: Dialog listing important domains that the user can uncheck to exclude them from being cleared by the clear browsing data function.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

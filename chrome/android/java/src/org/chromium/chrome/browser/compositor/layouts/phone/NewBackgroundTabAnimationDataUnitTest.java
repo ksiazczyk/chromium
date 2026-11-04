@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NewBackgroundTabAnimationDataUnitTest
+// summary: Robolectric unit tests for NewBackgroundTabAnimationData covering state capture of the tab switcher button, toolbar and bottom bar positions, and theme colors.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import static org.junit.Assert.assertEquals;

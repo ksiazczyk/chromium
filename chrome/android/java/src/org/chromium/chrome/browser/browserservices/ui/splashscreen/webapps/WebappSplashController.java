@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webapp splash screen controller
+// summary: Displays the splash screen for homescreen shortcuts and WebAPKs in Chrome on Android, building splash views from WebAPK info and handling network error observation during startup.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.splashscreen.webapps;
 
 import android.app.Activity;

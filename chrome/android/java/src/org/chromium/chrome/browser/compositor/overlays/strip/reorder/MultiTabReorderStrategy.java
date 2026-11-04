@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-tab reorder strategy
+// summary: Reorder strategy for dragging multiple selected tabs as a single contiguous block within the tab strip, managing pinned and unpinned tab states.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

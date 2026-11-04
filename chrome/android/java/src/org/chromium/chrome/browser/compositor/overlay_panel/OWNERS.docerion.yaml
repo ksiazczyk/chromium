@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the overlay panel directory
+summary: Lists the code owners for the directory, with mdjones@chromium.org as per-file owner for Overlay* files.

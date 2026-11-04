@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDetailsConverter
+// summary: Converter that builds parameters and parses item details results, including pricing and subscription fields, for GetDetails calls.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewForegroundTabAnimationHostView
+// summary: Non-clipping FrameLayout host view that runs the new foreground tab animation, expanding and fading a snapshot view and notifying a listener when the animation finishes.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

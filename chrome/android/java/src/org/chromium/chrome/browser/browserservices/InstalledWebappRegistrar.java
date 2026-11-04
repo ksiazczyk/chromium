@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledWebappRegistrar
+// summary: Registers verified installed webapps in the appropriate stores, associating client apps with origins and updating Chrome's permission delegation.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.content.pm.ApplicationInfo;

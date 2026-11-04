@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar swipe scene layer
+// summary: Java scene layer that displays one or two tab content layers to support the toolbar swipe functionality.
+// ---
+
 package org.chromium.chrome.browser.compositor.scene_layer;
 
 import android.content.Context;

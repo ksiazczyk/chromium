@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StripLayoutHelper
+// summary: Core helper that drives the tab strip compositor overlay, handling tab layout, touch interaction, animations, and rendering state for the strip.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu mediator
+// summary: Mediator that builds and updates the model list of context menu items and handles item clicks and menu dismissal.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.chromium.chrome.browser.contextmenu.ContextMenuItemWithIconButtonProperties.END_BUTTON_CLICK_LISTENER;

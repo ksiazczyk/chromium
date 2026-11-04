@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorSurfaceManager interface
+// summary: Java interface that manages Surface and SurfaceView lifecycle, format requests and visibility for the browser compositor.
+// ---
+
 package org.chromium.chrome.browser.compositor;
 
 import android.graphics.drawable.Drawable;

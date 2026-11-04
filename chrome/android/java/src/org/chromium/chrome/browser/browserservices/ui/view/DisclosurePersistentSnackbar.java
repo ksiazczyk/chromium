@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisclosurePersistentSnackbar
+// summary: Android Java class that shows the persistent Running in Chrome disclosure snackbar for Trusted Web Activities and records user acceptance, restoring it after Chrome returns to the foreground.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.view;
 
 import static org.chromium.chrome.browser.browserservices.ui.TrustedWebActivityModel.DISCLOSURE_EVENTS_CALLBACK;

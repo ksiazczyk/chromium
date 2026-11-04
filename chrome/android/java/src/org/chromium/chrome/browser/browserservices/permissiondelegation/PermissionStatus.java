@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionStatus
+// summary: IntDef annotation defining the permission state constants ALLOW, BLOCK and ASK used in service calls.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Search caption control
+// summary: Controls the caption view displayed at the bottom of the Contextual Search bar, handling its text and peek-to-expand transition animations.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel.contextualsearch;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

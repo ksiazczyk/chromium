@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextMenuHeaderProperties
+// summary: Defines the writable property keys of the context menu header model, covering titles, URLs, images, monogram sizes, and expansion state.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.chromium.ui.listmenu.ListMenuItemProperties.TITLE;

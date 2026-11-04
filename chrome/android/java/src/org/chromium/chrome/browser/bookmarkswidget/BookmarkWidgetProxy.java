@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkWidgetProxy
+// summary: Activity that responds to taps on the bookmarks widget, validating bookmark URLs against an allowlist of Chrome native hosts and launching Chrome with a rebuilt, trusted intent.
+// ---
+
 package org.chromium.chrome.browser.bookmarkswidget;
 
 import android.app.Activity;

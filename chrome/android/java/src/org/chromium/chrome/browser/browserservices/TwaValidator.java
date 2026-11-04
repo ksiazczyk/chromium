@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TwaValidator
+// summary: Validates whether an installed package or web origin is handled by a Trusted Web Activity using domain verification and service intent checks.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay panel animation base class
+// summary: Abstract base class that animates the overlay panel between states using compositor animators and configurable durations.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

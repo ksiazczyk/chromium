@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'OverlayPanelInflater: abstract helper for inflating overlay panel views'
+// summary: Abstract base for inflating Overlay Panel views, sizing them to the panel's maximum width and sanitizing text by replacing object replacement characters.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StripLayoutUtils
+// summary: Shared constants and helper methods for tab strip layout, covering tab widths, animation timings, reorder thresholds, and tab group checks.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

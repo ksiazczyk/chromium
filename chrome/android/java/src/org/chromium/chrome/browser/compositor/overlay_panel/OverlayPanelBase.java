@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay panel base class
+// summary: Abstract base class holding core overlay panel geometry, bar appearance, and page brightness values for peeked, expanded, and maximized states.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import android.content.Context;

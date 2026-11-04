@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecated SceneChangeObserver interface for layout changes
+// summary: Deprecated Java interface that notifies observers when the active layout changes, pointing users to LayoutStateObserver instead.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutManagerChromePhone
+// summary: Phone specialization of LayoutManagerChrome that wires phone-specific dependencies such as the new tab animation layout, scrim visibility and top insets.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import static org.chromium.build.NullUtil.assertNonNull;

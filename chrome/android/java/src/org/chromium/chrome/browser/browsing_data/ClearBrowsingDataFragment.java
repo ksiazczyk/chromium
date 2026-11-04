@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearBrowsingDataFragment
+// summary: Settings fragment implementing the Clear Browsing Data screen with data type options, time period selection and deletion actions.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab item picker coordinator
+// summary: Coordinator that drives the tab item picker, handling tab selection, on-demand tab loading, thumbnail capture, and integration with the tab list editor.
+// ---
+
 package org.chromium.chrome.browser.chrome_item_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

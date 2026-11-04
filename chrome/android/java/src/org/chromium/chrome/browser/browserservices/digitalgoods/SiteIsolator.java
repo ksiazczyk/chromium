@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteIsolator
+// summary: Java helper that calls into native code to start site isolation for a given URL's site using a user-triggered isolated origin source.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import org.jni_zero.JniType;

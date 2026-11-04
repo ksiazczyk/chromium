@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionTabContextMenuBridge
+// summary: JNI bridge that supplies extension context menu items for tabs on Android, becoming a no-op when extensions are not supported.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import org.jni_zero.JNINamespace;

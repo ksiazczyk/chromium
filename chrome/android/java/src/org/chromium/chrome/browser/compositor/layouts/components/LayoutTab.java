@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutTab
+// summary: Java class that tracks a tab's thumbnail, position, and visual properties as a PropertyModel for drawing tabs onto the GL canvas in Chrome Android.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.components;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedWebActivityCoordinator
+// summary: Coordinator for the trusted web activity component that handles splash screens, page verification updates, client registration, and TWA launch metrics.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.trustedwebactivity;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

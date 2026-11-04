@@ -1,3 +1,9 @@
+---
+type: readme
+title: Permission delegations
+summary: Explains the permission delegation feature in which web content in a TWA client app uses the client app's Android permissions, covering notification and location delegation behaviour.
+---
+
 # Permission delegations
 
 Permission delegation is a feature that allows the web content running in a Trusted Web Activities(TWA) client app making use of the client app’s Android  permission instead of checking Chrome’s permission setting for the website.

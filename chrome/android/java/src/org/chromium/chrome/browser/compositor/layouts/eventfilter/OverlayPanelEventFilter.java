@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayPanelEventFilter for overlay panels
+// summary: Motion event filter used while an overlay panel is shown, routing content view events to the panel or the WebContents as appropriate.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.eventfilter;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the browserservices directory
+summary: Lists the code owner for this directory with a per-file rule delegating AuthTabVerifier files to the customtabs owners.

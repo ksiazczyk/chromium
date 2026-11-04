@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the tab strip directory
+summary: Lists code owners for the tab strip directory, with per-file owners for context menu coordinators and the extension bridge.

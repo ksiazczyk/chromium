@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorSurfaceManagerImpl implementation
+// summary: Standard implementation that manages two SurfaceViews so transitions between opaque and translucent surfaces stay visually smooth.
+// ---
+
 package org.chromium.chrome.browser.compositor;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

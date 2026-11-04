@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeContextMenuPopulator
+// summary: Implements the context menu populator that builds the list of menu items for a target and handles the actions taken when items are selected.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.chromium.build.NullUtil.assertNonNull;

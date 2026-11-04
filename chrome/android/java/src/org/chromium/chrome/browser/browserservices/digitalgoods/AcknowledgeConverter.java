@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcknowledgeConverter
+// summary: Converts parameters and callbacks for the legacy Acknowledge command, which is kept so the Consume command can be implemented against older clients.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import static org.chromium.chrome.browser.browserservices.digitalgoods.DigitalGoodsConverter.convertResponseCode;

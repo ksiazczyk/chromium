@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TwaIntentHandlingStrategy
+// summary: TWA-specific implementation of the Custom Tab intent handling strategy that first tries delivering intents to a Web Share Target before falling back to the default strategy.
+// ---
+
 package org.chromium.chrome.browser.browserservices.trustedwebactivityui;
 
 import org.chromium.build.annotations.NullMarked;

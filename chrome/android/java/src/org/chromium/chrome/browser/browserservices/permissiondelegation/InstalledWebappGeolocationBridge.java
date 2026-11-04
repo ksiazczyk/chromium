@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledWebappGeolocationBridge
+// summary: Forwards native geolocation start and stop commands to the Trusted Web Activity client app and reports location results or errors back to native.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import android.os.Bundle;

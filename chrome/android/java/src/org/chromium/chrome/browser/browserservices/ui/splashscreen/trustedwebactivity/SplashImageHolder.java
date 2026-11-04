@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplashImageHolder
+// summary: Thread-safe singleton cache that stores splash screen bitmaps received from Trusted Web Activity clients until a TWA claims them via takeImage.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.splashscreen.trustedwebactivity;
 
 import android.graphics.Bitmap;

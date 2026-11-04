@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group context menu coordinator
+// summary: Coordinates the context menu for tab groups in the tab strip, including renaming, color changes, sharing, and moving groups between windows.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static android.view.View.GONE;

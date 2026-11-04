@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedWebActivityModel
+// summary: Property model describing the state of a Trusted Web Activity, including disclosure state, scope, first-time flag, event callbacks, and the running package name.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui;
 
 import org.chromium.build.annotations.NullMarked;

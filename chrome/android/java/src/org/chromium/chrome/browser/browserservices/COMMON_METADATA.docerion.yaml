@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the browserservices directory
+summary: Declares the monorail component and Buganizer component ID used for issue tracking across this directory.

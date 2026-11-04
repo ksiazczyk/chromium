@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkWidgetServiceImpl
+// summary: Implements the RemoteViewsFactory that supplies bookmark list entries and favicons to the widget, tracks the current folder, and refreshes the widget when the bookmark model changes.
+// ---
+
 package org.chromium.chrome.browser.bookmarkswidget;
 
 import static org.chromium.build.NullUtil.assertNonNull;

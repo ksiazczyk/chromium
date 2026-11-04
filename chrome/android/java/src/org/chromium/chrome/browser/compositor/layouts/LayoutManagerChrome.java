@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutManagerChrome
+// summary: Chrome-specific layout controller extending LayoutManagerImpl with toolbar swipe and hub layouts, tab content management and browser controls handling.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import static org.chromium.build.NullUtil.assertNonNull;

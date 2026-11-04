@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Search panel controller
+// summary: Main controller for the Contextual Search overlay panel, managing its bar, content area, side UI integration, scrim and user education prompts.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel.contextualsearch;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

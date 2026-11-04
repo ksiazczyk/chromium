@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DexFixerReason IntDef enum
+// summary: IntDef annotation enumerating reasons why DexFixer may need to recompile dex, such as stat failure or unreadable dex.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitCompatBackupAgent base class with Impl delegation
+// summary: BackupAgent base class that loads its implementation from the chrome split and forwards backup and restore calls to it.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import android.app.backup.BackupAgent;

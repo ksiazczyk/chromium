@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorViewHolder
+// summary: Large view holder class for the browser compositor that hosts layouts and handles input, window insets, accessibility and browser controls.
+// ---
+
 package org.chromium.chrome.browser.compositor;
 
 import static androidx.core.view.WindowInsetsControllerCompat.BEHAVIOR_SHOW_TRANSIENT_BARS_BY_SWIPE;

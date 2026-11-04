@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitCompatRemoteViewsService base class
+// summary: Base RemoteViewsService that loads its implementation from the chrome split and delegates remote views factory creation to it.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import android.content.Context;

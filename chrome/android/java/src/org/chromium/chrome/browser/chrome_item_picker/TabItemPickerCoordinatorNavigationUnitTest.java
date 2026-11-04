@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab item picker coordinator navigation unit tests
+// summary: Robolectric integration tests for TabItemPickerCoordinator covering navigation, tab loading, thumbnail capture, and offscreen rendering behavior.
+// ---
+
 package org.chromium.chrome.browser.chrome_item_picker;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay panel content delegate
+// summary: Base class offering empty callbacks for tracking navigation, loading, visibility, and SSL events on the panel's WebContents.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import org.chromium.build.annotations.NullMarked;

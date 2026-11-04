@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionUpdater
+// summary: Entry point that coordinates permission delegation for verified origins, adding delegate apps and dispatching to the notification and location permission updaters.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import android.content.Intent;

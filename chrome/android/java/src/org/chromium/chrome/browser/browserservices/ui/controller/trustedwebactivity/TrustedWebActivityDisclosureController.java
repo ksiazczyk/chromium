@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedWebActivityDisclosureController
+// summary: Controls when the Trusted Web Activity disclosure is shown and hidden, records user acceptance and UMA metrics, and adds tablet-specific disclosure behaviour.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller.trustedwebactivity;
 
 import static org.chromium.build.NullUtil.assertNonNull;

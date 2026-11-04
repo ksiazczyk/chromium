@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationHost interface for tab strip animations
+// summary: Interface that hosts tab strip animations, providing methods to start, queue, and finish compositor animations and push tab updates.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import android.animation.Animator;

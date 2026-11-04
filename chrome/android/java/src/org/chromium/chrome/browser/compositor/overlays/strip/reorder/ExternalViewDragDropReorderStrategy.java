@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: External view drag-and-drop reorder strategy
+// summary: Implements reorder logic when an external view is dragged onto or out of the tab strip, handling insertion margins, interacting-view animations, and drop handling.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import android.animation.Animator;

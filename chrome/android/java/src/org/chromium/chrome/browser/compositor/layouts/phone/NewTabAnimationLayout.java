@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewTabAnimationLayout
+// summary: Chromium Android compositor layout that animates new tab openings, coordinating tab scene layers, browser controls, edge-to-edge insets, and the tab switcher button during background and foreground tab launch animations.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

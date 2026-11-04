@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewBackgroundTabAnimationHostView
+// summary: FrameLayout host view that runs the new background tab animation, choosing between default, NTP partial scroll, and NTP full scroll animation types.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import android.animation.Animator;

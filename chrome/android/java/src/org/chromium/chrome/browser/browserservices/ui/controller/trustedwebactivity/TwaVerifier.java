@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TwaVerifier
+// summary: Provides Trusted Web Activity specific origin verification for CurrentPageVerifier using Digital Asset Links via ChromeOriginVerifier.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller.trustedwebactivity;
 
 import androidx.browser.customtabs.CustomTabsService;

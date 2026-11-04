@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reorder strategy base class
+// summary: Abstract base class for reorder strategy implementations, holding shared delegates, tab model dependencies, and common animation helpers.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.chromium.build.NullUtil.assertNonNull;

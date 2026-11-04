@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Static tab scene layer
+// summary: Java scene layer that renders a static tab, pushing tab id, position, background color and content offsets to the native layer via JNI.
+// ---
+
 package org.chromium.chrome.browser.compositor.scene_layer;
 
 import androidx.annotation.VisibleForTesting;

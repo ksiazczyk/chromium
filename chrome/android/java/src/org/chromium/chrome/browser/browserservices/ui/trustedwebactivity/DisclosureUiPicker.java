@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisclosureUiPicker
+// summary: Chooses which trusted web activity disclosure UI variant to show, such as the persistent snackbar, heads-up notification, or auto-dismissing snackbar.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.trustedwebactivity;
 
 import static android.app.NotificationManager.IMPORTANCE_NONE;

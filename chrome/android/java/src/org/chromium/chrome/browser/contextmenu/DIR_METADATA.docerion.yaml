@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the context menu package
+summary: Points to the COMMON_METADATA mixin that supplies shared metadata for the context menu directory.

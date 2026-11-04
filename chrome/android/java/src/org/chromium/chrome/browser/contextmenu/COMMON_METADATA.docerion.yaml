@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA for the context menu directory
+summary: Declares shared directory metadata for the context menu component, including the Monorail component, team email, and public Buganizer component ID.
