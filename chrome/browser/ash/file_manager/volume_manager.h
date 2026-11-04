@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Volume manager header
+// summary: Declares the VolumeManager keyed service that manages volumes and observes disk, ARC, Drive, file system provider and policy events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_VOLUME_MANAGER_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_VOLUME_MANAGER_H_
 

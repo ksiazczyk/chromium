@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open files with the browser implementation
+// summary: Implements opening files in the browser or an installed app, handling Drive hosted documents, Google Docs shortcuts, and viewable file types.
+// ---
+
 #include "chrome/browser/ash/file_manager/open_with_browser.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File manager string util unit tests
+// summary: Unit tests verifying that the locale-based week start day is computed correctly across locales and timezones.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_manager_string_util.h"
 
 #include "ash/system/time/date_helper.h"

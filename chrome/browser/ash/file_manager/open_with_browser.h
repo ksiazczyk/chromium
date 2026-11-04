@@ -4,6 +4,12 @@
 //
 // This file provides utilities for opening files with the browser.
 
+// ---docerion
+// type: source
+// title: Open files with the browser interface
+// summary: Declares helpers that open files with the browser or a matching installed app, including Drive hosted documents and downloads as needed.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_OPEN_WITH_BROWSER_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_OPEN_WITH_BROWSER_H_
 

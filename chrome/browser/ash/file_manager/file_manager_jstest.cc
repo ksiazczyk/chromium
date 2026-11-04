@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files app JavaScript unit test runner
+// summary: Browser test suite that runs the Files app JavaScript unit tests covering models, banners, metadata providers, and UI elements.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_manager_jstest_base.h"
 #include "chromeos/constants/chromeos_features.h"
 #include "content/public/test/browser_test.h"

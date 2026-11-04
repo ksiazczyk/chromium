@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete IO task header
+// summary: Declares DeleteIOTask, which deletes files given as FileSystemURLs and counts deleted files as transferred bytes for progress reporting.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_DELETE_IO_TASK_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_DELETE_IO_TASK_H_
 

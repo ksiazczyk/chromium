@@ -5,6 +5,12 @@
 // This file provides functions for opening an item (file or directory) using
 // the file manager.
 
+// ---docerion
+// type: source
+// title: Open item utilities interface
+// summary: Declares functions to open a file or folder with the file manager, show an item in its folder, and disable shell operations for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_OPEN_UTIL_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_OPEN_UTIL_H_
 

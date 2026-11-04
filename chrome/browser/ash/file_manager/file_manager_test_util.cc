@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File manager test utilities
+// summary: Implements test helpers for Files app browser tests, such as temporary folders in My Files, component extension loading, and file system provider setup.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_manager_test_util.h"
 
 #include <algorithm>

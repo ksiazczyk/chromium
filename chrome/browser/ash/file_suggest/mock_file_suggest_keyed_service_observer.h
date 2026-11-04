@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock file suggest keyed service observer header
+// summary: Declares a mock implementation of FileSuggestKeyedService::Observer that mocks update notifications for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SUGGEST_MOCK_FILE_SUGGEST_KEYED_SERVICE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_FILE_SUGGEST_MOCK_FILE_SUGGEST_KEYED_SERVICE_OBSERVER_H_
 

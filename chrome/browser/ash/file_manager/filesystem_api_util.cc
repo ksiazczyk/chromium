@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.fileSystem API utilities implementation
+// summary: Implements mime type lookup and path checks for non-native file systems such as Google Drive, ARC content files, and provided file systems.
+// ---
+
 #include "chrome/browser/ash/file_manager/filesystem_api_util.h"
 
 #include <memory>

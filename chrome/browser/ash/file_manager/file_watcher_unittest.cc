@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File watcher unit tests
+// summary: Unit tests for FileWatcher listener registration and removal, including multiple and duplicate extension origins.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_watcher.h"
 
 #include <memory>

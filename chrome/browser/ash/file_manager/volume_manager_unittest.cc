@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Volume manager unit tests
+// summary: Unit tests covering VolumeManager behavior for volume mounting, ARC media views, removable disks, MTP storage and observer notifications.
+// ---
+
 #include "chrome/browser/ash/file_manager/volume_manager.h"
 
 #include <stddef.h>

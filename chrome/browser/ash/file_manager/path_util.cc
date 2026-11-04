@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager path utilities implementation
+// summary: Implements Chrome OS path helpers for Downloads, MyFiles, Android files, Drive, Crostini, SMB, and FuseBox mount points.
+// ---
+
 #include "chrome/browser/ash/file_manager/path_util.h"
 
 #include <memory>

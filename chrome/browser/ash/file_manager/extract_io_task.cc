@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extract IO task implementation
+// summary: Implements the IO task that extracts ZIP archives into a destination folder, tracking progress, disk space, passwords, and UMA extraction status metrics.
+// ---
+
 #include "chrome/browser/ash/file_manager/extract_io_task.h"
 
 #include <grp.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trash auto cleanup unit tests
+// summary: Unit tests for TrashAutoCleanup that trash files from Downloads and verify old trash entries are cleaned up on schedule.
+// ---
+
 #include "chrome/browser/ash/file_manager/trash_auto_cleanup.h"
 
 #include <vector>

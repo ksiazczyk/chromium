@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delete IO task unit tests
+// summary: Unit tests for the delete IO task covering successful deletions, per-file errors, and progress and completion callbacks.
+// ---
+
 #include "chrome/browser/ash/file_manager/delete_io_task.h"
 
 #include <memory>

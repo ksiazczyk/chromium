@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trash unit test base fixture
+// summary: Test fixture base that sets up a testing profile, file system context, Drive integration, and an in-process TrashService for trash unit tests.
+// ---
+
 #include "chrome/browser/ash/file_manager/trash_unittest_base.h"
 
 #include "base/files/file_util.h"

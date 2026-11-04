@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File API utilities unit tests
+// summary: Unit tests for fileapi_util covering entry definition conversion and file system URL handling with a temporary file system fixture.
+// ---
+
 #include "chrome/browser/ash/file_manager/fileapi_util.h"
 
 #include <memory>

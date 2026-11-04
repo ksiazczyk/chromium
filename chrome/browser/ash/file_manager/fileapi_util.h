@@ -4,6 +4,12 @@
 //
 // This file provides File API related utilities.
 
+// ---docerion
+// type: source
+// title: File API utilities interface
+// summary: Declares FileDefinition and EntryDefinition types, callbacks, and File API utility functions used by the Files app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_FILEAPI_UTIL_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_FILEAPI_UTIL_H_
 

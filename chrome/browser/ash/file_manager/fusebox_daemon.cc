@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseBox daemon implementation
+// summary: Implements the FuseBoxDaemon singleton that mounts the fusebox helper via cros-disks and queues attach storage calls until mounted.
+// ---
+
 #include "chrome/browser/ash/file_manager/fusebox_daemon.h"
 
 #include "base/check.h"

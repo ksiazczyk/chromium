@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service file task handling implementation
+// summary: Implements finding and executing file open tasks via App Service, mapping app types to task types and launch results.
+// ---
+
 #include "chrome/browser/ash/file_manager/app_service_file_tasks.h"
 
 #include <algorithm>

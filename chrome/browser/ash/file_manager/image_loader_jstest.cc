@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image loader JavaScript browser tests
+// summary: Browser test harness that runs the image loader extension's JavaScript unit tests, including canvas pixel output tests.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_manager_jstest_base.h"
 #include "content/public/test/browser_test.h"
 

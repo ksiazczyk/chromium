@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File tasks notifier implementation
+// summary: Implements a per-profile service that queries file availability and notifies observers when files are opened via dialogs, launched, or downloaded.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_tasks_notifier.h"
 
 #include <memory>

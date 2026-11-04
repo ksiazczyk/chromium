@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager prefs migration UMA constants
+// summary: Defines the histogram enum and metric name used to report file manager preferences migration status.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_PREFS_MIGRATION_UMA_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_PREFS_MIGRATION_UMA_H_
 

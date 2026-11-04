@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File tasks notifier service factory
+// summary: Creates and provides per-profile instances of the FileTasksNotifier keyed service.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_tasks_notifier_factory.h"
 
 #include "base/no_destructor.h"

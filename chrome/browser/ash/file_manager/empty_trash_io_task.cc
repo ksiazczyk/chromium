@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty trash IO task implementation
+// summary: Implements the IO task that recursively deletes the files and info subdirectories of every enabled trash location, reporting progress and per-entry errors.
+// ---
+
 #include "chrome/browser/ash/file_manager/empty_trash_io_task.h"
 
 #include <algorithm>

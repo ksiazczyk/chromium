@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File manager test utilities header
+// summary: Declares test helpers for mounting fake volumes, installing test apps, and copying test files into My Files.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_FILE_MANAGER_TEST_UTIL_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_FILE_MANAGER_TEST_UTIL_H_
 

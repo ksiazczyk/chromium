@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Drive upload virtual task class declarations
+// summary: Declares DriveUploadBaseVirtualTask and the Docs, Sheets and Slides upload task subclasses that share one implementation with different ids, titles and file types.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_VIRTUAL_TASKS_DRIVE_UPLOAD_VIRTUAL_TASK_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_VIRTUAL_TASKS_DRIVE_UPLOAD_VIRTUAL_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: I/O task base implementation
+// summary: Implements I/O task state and operation type printing, pause and resume parameters, and progress status helpers for file manager tasks.
+// ---
+
 #include "chrome/browser/ash/file_manager/io_task.h"
 
 #include <type_traits>

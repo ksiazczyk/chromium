@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ms365 virtual task class declaration
+// summary: Declares the Ms365VirtualTask class, a virtual task that launches the upload-to-cloud workflow for Microsoft 365/OneDrive in the Chrome OS file manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_VIRTUAL_TASKS_MS365_VIRTUAL_TASK_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_VIRTUAL_TASKS_MS365_VIRTUAL_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager path utilities interface
+// summary: Declares well-known Chrome OS path constants and helpers for Downloads, MyFiles, Android files, share cache, and FuseBox mounts.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_PATH_UTIL_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_PATH_UTIL_H_
 

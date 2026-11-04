@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Copy or move IO task policy unit tests
+// summary: Unit tests for policy-enforced copy and move tasks covering blocking and report-only enterprise connector scanning across volume types.
+// ---
+
 #include <tuple>
 
 #include "ash/constants/ash_features.h"

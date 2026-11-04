@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File watcher class declaration
+// summary: Declares FileWatcher, which tracks listener origins for a virtual path and starts local or guest OS file watchers for change notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_FILE_WATCHER_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_FILE_WATCHER_H_
 

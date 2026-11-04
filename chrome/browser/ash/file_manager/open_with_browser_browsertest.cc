@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for opening files with the browser
+// summary: Parameterized browser tests verifying file opening behavior across regular, incognito, and guest profiles with and without a startup browser.
+// ---
+
 #include "chrome/browser/ash/file_manager/open_with_browser.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service file task handling API
+// summary: Declares helpers to find and execute App Service file tasks and to choose default handlers from policy prefs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_APP_SERVICE_FILE_TASKS_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_APP_SERVICE_FILE_TASKS_H_
 

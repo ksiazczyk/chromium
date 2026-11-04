@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App install virtual task implementation
+// summary: Implements the virtual task that matches .swbn files and launches the Isolated Web App installer for each selected file when the feature is enabled.
+// ---
+
 #include "chrome/browser/ash/file_manager/virtual_tasks/install_isolated_web_app_virtual_task.h"
 
 #include <string>

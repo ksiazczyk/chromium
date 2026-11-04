@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File suggestion provider base class implementation
+// summary: Implements the FileSuggestionProvider base class constructor and its suggestion update notification mechanism.
+// ---
+
 #include "chrome/browser/ash/file_suggest/file_suggestion_provider.h"
 
 namespace ash {

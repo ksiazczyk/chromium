@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: I/O task utility functions
+// summary: Implements helpers to fetch file metadata and start delete and local move operations on the IO thread, plus debug printing of ProgressStatus.
+// ---
+
 #include "chrome/browser/ash/file_manager/io_task_util.h"
 
 #include <memory>

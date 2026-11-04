@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files app browser tests
+// summary: Parameterized browser tests for the Files app, running test cases in clamshell or tablet mode with configurable options and device policies.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

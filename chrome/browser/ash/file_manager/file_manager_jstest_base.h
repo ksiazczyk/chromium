@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File Manager JS test base header
+// summary: Header for a browser test base class that runs the Files app JavaScript tests through a dedicated WebUI test page, with WebUI controller setup and code coverage collection.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_FILE_MANAGER_JSTEST_BASE_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_FILE_MANAGER_JSTEST_BASE_H_
 

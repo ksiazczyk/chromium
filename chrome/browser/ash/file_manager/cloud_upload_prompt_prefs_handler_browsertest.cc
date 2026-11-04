@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud upload prompt prefs handler browser tests
+// summary: Browser tests verifying registration of the cloud upload prompt prefs keyed service and the syncing of local and syncable prompt preferences for managed profiles.
+// ---
+
 #include <algorithm>
 #include <tuple>
 

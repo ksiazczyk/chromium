@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for file manager virtual tasks
+summary: Sets DEPS include rules for the directory, blocking //chrome by default while whitelisting needed dependencies and a test-only exception.

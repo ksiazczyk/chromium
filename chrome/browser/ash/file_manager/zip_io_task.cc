@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zip I/O task implementation
+// summary: Implements the ZipIOTask that zips selected files and folders into an archive in the destination folder, with progress, size computation and metrics.
+// ---
+
 #include "chrome/browser/ash/file_manager/zip_io_task.h"
 
 #include <memory>

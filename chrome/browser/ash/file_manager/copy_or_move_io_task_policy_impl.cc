@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy or move IO task policy implementation
+// summary: Implements copy and move operations that apply DLP restrictions and enterprise connector scans, blocking or report-only, before or after transferring files.
+// ---
+
 #include "chrome/browser/ash/file_manager/copy_or_move_io_task_policy_impl.h"
 
 #include <algorithm>

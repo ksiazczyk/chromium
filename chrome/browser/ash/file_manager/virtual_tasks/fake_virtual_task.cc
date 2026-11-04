@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake virtual task implementation for tests
+// summary: Implements a configurable FakeVirtualTask whose id, enabled, matching, DLP and execute behaviour are controlled by constructor arguments for use in tests.
+// ---
+
 #include "chrome/browser/ash/file_manager/virtual_tasks/fake_virtual_task.h"
 
 namespace file_manager::file_tasks {

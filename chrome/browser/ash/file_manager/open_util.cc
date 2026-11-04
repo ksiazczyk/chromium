@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open item utilities implementation
+// summary: Implements opening files and folders via the Files app or default file handlers, and showing an item selected in its containing folder.
+// ---
+
 #include "chrome/browser/ash/file_manager/open_util.h"
 
 #include <memory>

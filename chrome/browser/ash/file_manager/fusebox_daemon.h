@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseBox daemon interface
+// summary: Declares the FuseBoxDaemon class for attaching and detaching Chrome file system URLs served over FUSE to Linux.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_FUSEBOX_DAEMON_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_FUSEBOX_DAEMON_H_
 

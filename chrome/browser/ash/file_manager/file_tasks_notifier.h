@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File tasks notifier class declaration
+// summary: Declares the FileTasksNotifier keyed service, its FileAvailability enum, and observer registration for file open and download notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_FILE_TASKS_NOTIFIER_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_FILE_TASKS_NOTIFIER_H_
 

@@ -6,6 +6,12 @@
 // file paths that do not directly map to host machine's file system path, such
 // as Google Drive or virtual volumes provided by fileSystemProvider extensions.
 
+// ---docerion
+// type: source
+// title: chrome.fileSystem API utilities interface
+// summary: Declares helpers for handling file paths that do not map to the native local file system, such as Drive or virtual volumes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_FILESYSTEM_API_UTIL_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_FILESYSTEM_API_UTIL_H_
 

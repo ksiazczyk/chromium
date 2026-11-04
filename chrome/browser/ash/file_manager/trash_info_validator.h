@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trash info validator header
+// summary: Declares TrashInfoValidator, ParsedTrashInfoData, and validation error types for XDG-compliant .trashinfo validation and parsing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_TRASH_INFO_VALIDATOR_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_TRASH_INFO_VALIDATOR_H_
 

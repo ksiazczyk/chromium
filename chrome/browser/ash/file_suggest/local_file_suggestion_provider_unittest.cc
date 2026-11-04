@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local file suggestion provider unit tests
+// summary: Unit tests verifying that the local file suggestion provider initializes correctly and only suggests files that exist and have been opened.
+// ---
+
 #include "chrome/browser/ash/file_suggest/local_file_suggestion_provider.h"
 
 #include "ash/constants/ash_features.h"

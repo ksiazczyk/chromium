@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UMA ViewFileType mapping
+// summary: Unit tests verifying that GetViewFileType maps common extensions correctly and falls back to kOther for unknown or missing extensions.
+// ---
+
 #include "chrome/browser/ash/file_manager/uma_enums.gen.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

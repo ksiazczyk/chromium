@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: File manager BUILD.gn build definition
+summary: GN build file defining the sources and dependencies of the ChromeOS file_manager static library.

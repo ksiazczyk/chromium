@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ms365 virtual task implementation
+// summary: Implements the Microsoft 365 virtual task that opens Office files via the OneDrive upload-to-cloud workflow, including enablement checks, DLP blocking, and metrics.
+// ---
+
 #include "chrome/browser/ash/file_manager/virtual_tasks/ms365_virtual_task.h"
 
 #include <string>

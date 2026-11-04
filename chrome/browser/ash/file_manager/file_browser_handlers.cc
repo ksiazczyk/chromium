@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File browser handler execution
+// summary: Executes file browser handler tasks by granting file access permissions to handler extensions and dispatching onExecute events for the selected files.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_browser_handlers.h"
 
 #include <stddef.h>

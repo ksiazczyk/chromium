@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files app browser test base implementation
+// summary: Implements the shared base fixture for Files app browser tests, setting up volumes, Drive, Crostini, and dispatching mock extension API responses.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_manager_browsertest_base.h"
 
 #include <stddef.h>

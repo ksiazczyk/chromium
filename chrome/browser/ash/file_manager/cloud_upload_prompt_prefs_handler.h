@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload prompt prefs handler declarations
+// summary: Declares functions to register enterprise cloud upload prompt preferences and to create the keyed service that keeps local and syncable prompt prefs in sync.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_CLOUD_UPLOAD_PROMPT_PREFS_HANDLER_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_CLOUD_UPLOAD_PROMPT_PREFS_HANDLER_H_
 

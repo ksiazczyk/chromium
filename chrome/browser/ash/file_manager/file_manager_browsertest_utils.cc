@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files app browser test case builder implementation
+// summary: Implements the TestCase builder that configures browser test options such as guest mode, ARC, DLP, and feature flags.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_manager_browsertest_utils.h"
 
 #include "pdf/buildflags.h"

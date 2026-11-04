@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for file manager virtual tasks
+summary: Defines GN targets for the virtual_tasks static library, a test_support library with the fake virtual task, and the unit_tests source set.

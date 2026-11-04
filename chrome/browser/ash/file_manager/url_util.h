@@ -4,6 +4,12 @@
 //
 // This file provides URL-related utilities.
 
+// ---docerion
+// type: source
+// title: File manager URL utility declarations
+// summary: Declares URL helpers that return the Files app main page URL, optionally with select dialog parameters encoded in the query string.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_URL_UTIL_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_URL_UTIL_H_
 

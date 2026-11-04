@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Volume class for Chrome OS file manager volumes
+// summary: Implements the Volume class representing file manager mount points, including volume type mapping, volume ID generation and localized media view labels.
+// ---
+
 #include "chrome/browser/ash/file_manager/volume.h"
 
 #include <string_view>

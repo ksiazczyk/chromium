@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File manager policy browser tests
+// summary: Browser tests verifying Files app behavior under enterprise policies, including DLP blocking and warnings, content scanning, and realtime reporting.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "base/files/file_util.h"
 #include "base/memory/raw_ptr.h"

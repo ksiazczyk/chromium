@@ -5,6 +5,12 @@
 // This file provides utility functions for file browser handlers.
 // https://developer.chrome.com/extensions/fileBrowserHandler.html
 
+// ---docerion
+// type: source
+// title: File browser handlers declaration
+// summary: Declares ExecuteFileBrowserHandler, which runs a file browser handler action for the given file URLs on behalf of an extension.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_FILE_BROWSER_HANDLERS_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_FILE_BROWSER_HANDLERS_H_
 

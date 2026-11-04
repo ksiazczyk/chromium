@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreIOTask header
+// summary: Declares the I/O task that restores trashed files back to their original paths, recreating missing folders per the XDG trash spec.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_RESTORE_IO_TASK_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_RESTORE_IO_TASK_H_
 

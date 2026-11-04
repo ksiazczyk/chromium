@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: File suggest GN build targets
+summary: Defines the file_suggest static library plus test support, unit test, and browser test targets.

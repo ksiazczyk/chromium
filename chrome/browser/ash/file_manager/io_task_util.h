@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: I/O task utility declarations
+// summary: Declares helpers for file metadata retrieval, delete and local move operations via FileSystemOperationRunner and a debug stream operator for ProgressStatus.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_IO_TASK_UTIL_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_IO_TASK_UTIL_H_
 

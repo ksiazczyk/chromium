@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File suggest keyed service unit tests
+// summary: Unit tests for the file suggest keyed service, covering suggest data retrieval and policy-based disabling of file suggestions.
+// ---
+
 #include <memory>
 
 #include "ash/constants/ash_features.h"

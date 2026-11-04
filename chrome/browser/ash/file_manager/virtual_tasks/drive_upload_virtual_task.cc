@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Drive upload virtual tasks for Docs, Sheets and Slides
+// summary: Implements the base Drive upload task and Docs, Sheets and Slides variants that launch the upload-to-cloud workflow for Office files opened from the Files app.
+// ---
+
 #include "chrome/browser/ash/file_manager/virtual_tasks/drive_upload_virtual_task.h"
 
 #include <string>

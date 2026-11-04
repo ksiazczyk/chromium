@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Isolated Web App install virtual task
+// summary: Tests matching and execution of the install task using a testing profile, fake web app provider and a mocked web app UI manager.
+// ---
+
 #include "chrome/browser/ash/file_manager/virtual_tasks/install_isolated_web_app_virtual_task.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: I/O task controller unit tests
+// summary: Unit tests verifying task queueing, progress notifications, pausing, cancellation and wake lock behavior of the I/O task controller.
+// ---
+
 #include "chrome/browser/ash/file_manager/io_task_controller.h"
 
 #include <memory>
