@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time zone generated preference base declaration
+// summary: Declares the base class for generated time zone preferences and the helper that checks whether timezone changes are allowed.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_SETTINGS_PRIVATE_GENERATED_TIME_ZONE_PREF_BASE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_SETTINGS_PRIVATE_GENERATED_TIME_ZONE_PREF_BASE_H_
 

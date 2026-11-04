@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionsManager unit tests
+// summary: Unit tests verifying that favicon host permissions granted to an extension remain active even when host permission withholding is enabled.
+// ---
+
 #include "extensions/browser/permissions_manager.h"
 
 #include "chrome/browser/extensions/extension_service.h"

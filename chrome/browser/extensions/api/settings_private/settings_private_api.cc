@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings private extension API function implementations
+// summary: Implements the chrome.settingsPrivate extension functions for getting and setting preferences and default page zoom via the settings private delegate.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/settings_private_api.h"
 
 #include <utility>

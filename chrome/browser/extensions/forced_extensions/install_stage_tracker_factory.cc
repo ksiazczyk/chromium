@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install stage tracker factory implementation
+// summary: Implements the profile-keyed factory that creates and provides an InstallStageTracker instance for each browser context.
+// ---
+
 #include "chrome/browser/extensions/forced_extensions/install_stage_tracker_factory.h"
 
 #include "base/no_destructor.h"

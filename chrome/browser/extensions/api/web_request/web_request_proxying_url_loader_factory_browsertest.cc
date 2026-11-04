@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for webRequest URL loader proxy redirect handling
+// summary: Regression browser tests ensuring WebRequestProxyingURLLoaderFactory rejects unsolicited FollowRedirect calls that could bypass webRequest listeners.
+// ---
+
 #include <optional>
 #include <set>
 #include <string>

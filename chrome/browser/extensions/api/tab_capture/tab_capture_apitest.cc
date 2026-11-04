@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab Capture API browser tests
+// summary: Browser tests covering tabCapture API behavior, permissions, and capture state across extension scenarios.
+// ---
+
 #include <algorithm>
 #include <memory>
 

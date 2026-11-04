@@ -4,6 +4,12 @@
 
 // Implements the Chrome Extensions WebNavigation API.
 
+// ---docerion
+// type: source
+// title: WebNavigation API implementation
+// summary: Implements the webNavigation.getFrame and getAllFrames extension functions and the API's browser-context keyed service wiring.
+// ---
+
 #include "chrome/browser/extensions/api/web_navigation/web_navigation_api.h"
 
 #include <memory>

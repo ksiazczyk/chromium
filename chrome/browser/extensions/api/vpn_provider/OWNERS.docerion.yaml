@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: VPN provider OWNERS
+summary: Delegates ownership of this directory to the ChromeOS vpn_provider OWNERS file via a file reference.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks extensions API helpers declarations
+// summary: Declares helper functions for building bookmark tree nodes for the extensions API, computing API indices of visible siblings, removing nodes, and reading meta info.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_BOOKMARKS_BOOKMARKS_HELPERS_H_
 #define CHROME_BROWSER_EXTENSIONS_BOOKMARKS_BOOKMARKS_HELPERS_H_
 

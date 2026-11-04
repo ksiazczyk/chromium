@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the windows extension API
+// summary: Contains extension API browser tests for chrome.windows functions, covering window lookup, window types, and incognito behavior.
+// ---
+
 #include <limits.h>
 
 #include <array>

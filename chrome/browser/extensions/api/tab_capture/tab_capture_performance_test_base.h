@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab capture performance test base class
+// summary: Declares the common base class used by TabCapture and CastV2 streaming performance tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TAB_CAPTURE_TAB_CAPTURE_PERFORMANCE_TEST_BASE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TAB_CAPTURE_TAB_CAPTURE_PERFORMANCE_TEST_BASE_H_
 

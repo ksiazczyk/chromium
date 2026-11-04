@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppBaseWindow implementation
+// summary: Implements a ui::BaseWindow wrapper around an app window's native window, constraining operations such as SetBounds to app size limits.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/app_base_window.h"
 
 #include "extensions/browser/app_window/app_window.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedValueStoreCache implementation
+// summary: Implements a ValueStoreCache that maintains a PolicyValueStore for each extension using the storage.managed namespace, tracking extension schemas and policy updates.
+// ---
+
 #include "chrome/browser/extensions/api/storage/managed_value_store_cache.h"
 
 #include <memory>

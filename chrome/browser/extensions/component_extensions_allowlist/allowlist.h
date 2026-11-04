@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component extension allowlist header
+// summary: Declares the allowlist check functions and documents that adding new extensions requires Extensions Tech Lead approval.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_COMPONENT_EXTENSIONS_ALLOWLIST_ALLOWLIST_H_
 #define CHROME_BROWSER_EXTENSIONS_COMPONENT_EXTENSIONS_ALLOWLIST_ALLOWLIST_H_
 

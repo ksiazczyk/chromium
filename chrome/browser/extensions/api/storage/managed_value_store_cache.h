@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedValueStoreCache class declaration
+// summary: Declares ManagedValueStoreCache, which observes policy changes and updates per-extension PolicyValueStores for the storage.managed namespace on the backend sequence.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_STORAGE_MANAGED_VALUE_STORE_CACHE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_STORAGE_MANAGED_VALUE_STORE_CACHE_H_
 

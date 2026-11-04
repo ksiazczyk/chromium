@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows extension API implementation
+// summary: Implements chrome.windows extension functions for getting, creating, updating, and removing browser windows, including platform-specific behavior.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/windows_api.h"
 
 #include <stdint.h>

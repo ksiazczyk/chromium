@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup status printer interface
+// summary: Declares the StartupStatusPrinter and StartupStatus classes used to display terminal startup progress.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TERMINAL_STARTUP_STATUS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TERMINAL_STARTUP_STATUS_H_
 

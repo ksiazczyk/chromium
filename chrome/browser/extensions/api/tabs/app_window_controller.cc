@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWindowController implementation
+// summary: Implements a WindowController for extension app windows, reporting window id, app type, and the single web contents as one tab.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/app_window_controller.h"
 
 #include <memory>

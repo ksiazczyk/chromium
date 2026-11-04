@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for startup status sources
+summary: Allows startup_status.cc to include ash string resources in the directory's dependency checks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS video capture extension API browser tests
+// summary: Browser tests for the videoCapture extension permission on ChromeOS, covering camera pan-tilt-zoom behavior in normal and kiosk sessions using fake media devices.
+// ---
+
 #include <memory>
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs event router implementation
+// summary: Implements the router that observes tab state changes and dispatches tab events, with scrubbed data, to extension listeners.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/tabs_event_router.h"
 
 #include <algorithm>

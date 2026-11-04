@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install stage tracker factory header
+// summary: Declares InstallStageTrackerFactory, a profile-keyed service factory exposing InstallStageTracker instances per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_FORCED_EXTENSIONS_INSTALL_STAGE_TRACKER_FACTORY_H_
 #define CHROME_BROWSER_EXTENSIONS_FORCED_EXTENSIONS_INSTALL_STAGE_TRACKER_FACTORY_H_
 

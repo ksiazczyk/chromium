@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error console unit tests
+// summary: Unit tests covering error console enablement via developer mode, per-extension reporting preferences, and error reporting and removal.
+// ---
+
 #include "chrome/browser/extensions/error_console/error_console.h"
 
 #include <stddef.h>

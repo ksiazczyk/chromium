@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWindowHelper class declaration
+// summary: Declares a helper observing AppWindowRegistry to create controllers for new app windows and report window focus changes.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TABS_APP_WINDOW_HELPER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TABS_APP_WINDOW_HELPER_H_
 

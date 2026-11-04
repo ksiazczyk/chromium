@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCaptureRegistry header for the tabCapture extension API
+// summary: Declares TabCaptureRegistry, a BrowserContextKeyedAPI that records pending, active, and stopped tab capture requests, adds capture requests, and validates them for extensions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TAB_CAPTURE_TAB_CAPTURE_REGISTRY_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TAB_CAPTURE_TAB_CAPTURE_REGISTRY_H_
 

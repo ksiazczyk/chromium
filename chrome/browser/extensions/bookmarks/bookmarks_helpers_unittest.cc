@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks helpers unit tests
+// summary: Unit tests for the bookmarks extensions API helpers, covering tree node population, folder types, meta info, and API index calculation with a testing profile.
+// ---
+
 #include "chrome/browser/extensions/bookmarks/bookmarks_helpers.h"
 
 #include <stdint.h>

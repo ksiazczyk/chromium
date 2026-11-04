@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab capture performance tests
+// summary: Measures tab capture metrics such as capture time, latency, fail rate, and renderer frame draw duration.
+// ---
+
 #include <cmath>
 #include <string_view>
 

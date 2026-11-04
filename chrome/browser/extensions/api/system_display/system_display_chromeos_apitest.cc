@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS system display API tests
+// summary: ChromeOS browser test that verifies the system.display onDisplayChanged event fires when tablet mode is toggled in tests.
+// ---
+
 #include "ash/constants/ash_switches.h"
 #include "ash/public/cpp/tablet_mode.h"
 #include "chrome/browser/extensions/extension_apitest.h"

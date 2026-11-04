@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandService implementation
+// summary: Implements the per-profile service that stores extension command keybinding preferences, assigns suggested keys, and answers queries about active commands.
+// ---
+
 #include "chrome/browser/extensions/commands/command_service.h"
 
 #include <memory>

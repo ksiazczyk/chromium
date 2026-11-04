@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the webrtc_desktop_capture_private API
+summary: GN build file defining the webrtc_desktop_capture_private source set with its sources and dependencies.

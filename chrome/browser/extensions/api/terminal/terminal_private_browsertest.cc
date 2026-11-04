@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Terminal private API browser tests
+// summary: Browser tests verifying that the terminalPrivate extension API only opens vmshell and crosh processes when device policy allows virtual machines.
+// ---
+
 #include <memory>
 
 #include "chrome/browser/ash/crostini/crostini_browser_test_util.h"

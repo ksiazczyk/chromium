@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnsureChromeBrowserContextKeyedServiceFactoriesBuilt implementation
+// summary: Builds all BrowserContextKeyedServiceFactory instances provided by the Chrome extensions layer, including ChromeOS-specific factories behind build flags.
+// ---
+
 #include "chrome/browser/extensions/keyed_services/chrome_browser_context_keyed_service_factories.h"
 
 #include "base/trace_event/trace_event.h"

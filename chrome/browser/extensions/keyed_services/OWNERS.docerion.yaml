@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for keyed service factories
+summary: Sets rsult@google.com as the preferred per-file owner for the browser context keyed service factory sources in this directory.

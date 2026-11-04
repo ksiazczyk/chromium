@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWindowHelper implementation
+// summary: Implements a helper that creates AppWindowControllers for each registered app window and notifies on active window changes.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/app_window_helper.h"
 
 #include "chrome/browser/extensions/api/tabs/app_base_window.h"

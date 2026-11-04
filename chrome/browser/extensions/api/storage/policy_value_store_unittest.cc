@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyValueStore unit tests
+// summary: Unit tests for PolicyValueStore, running ValueStoreTestSuite parameterized tests through a mutable subclass over a LevelDB store with mocked settings observers.
+// ---
+
 #include "chrome/browser/extensions/api/storage/policy_value_store.h"
 
 #include <memory>

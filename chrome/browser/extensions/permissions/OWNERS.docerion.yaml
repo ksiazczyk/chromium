@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Extensions permissions OWNERS
+summary: Reviewer ownership file that defers to the extensions directory OWNERS rules for this folder.

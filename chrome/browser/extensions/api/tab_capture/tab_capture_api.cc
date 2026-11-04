@@ -4,6 +4,12 @@
 
 // Implements the Chrome Extensions Tab Capture API.
 
+// ---docerion
+// type: source
+// title: Tab Capture API implementation
+// summary: Implements the Chrome extension tabCapture API functions for capturing tab audio and video streams.
+// ---
+
 #include "chrome/browser/extensions/api/tab_capture/tab_capture_api.h"
 
 #include <algorithm>

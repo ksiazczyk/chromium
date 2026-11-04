@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: web_navigation_apitest.cc
+// summary: Browser tests for the webNavigation extension API, covering navigation events, tab replacement, incognito, prerendering, and related behaviors.
+// ---
+
 #include <list>
 #include <set>
 

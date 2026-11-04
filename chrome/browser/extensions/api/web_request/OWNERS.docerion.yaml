@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the web_request API folder
+summary: Delegates reviewer ownership of this folder to the shared OWNERS file in extensions/browser/api/web_request.

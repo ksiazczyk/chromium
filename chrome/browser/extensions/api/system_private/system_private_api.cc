@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: system_private_api implementation
+// summary: Implements the systemPrivate extension API functions for incognito mode availability, system update status and the Google API key, restricted to component extensions.
+// ---
+
 #include "chrome/browser/extensions/api/system_private/system_private_api.h"
 
 #include <array>

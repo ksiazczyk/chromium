@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tabs event router platform delegate
+// summary: Temporary Android delegate that connects the tabs event router to Android tab models while desktop Android support is bootstrapped.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/tabs_event_router_platform_delegate_android.h"
 
 #include "chrome/browser/extensions/api/tabs/tabs_event_router.h"

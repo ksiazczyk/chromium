@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for webNavigation
+summary: Defines the GN source_set and platform-conditional dependencies for the webNavigation extension API code.

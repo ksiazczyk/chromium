@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the web_request API folder
+summary: Points the directory metadata for the Chrome webRequest API folder at the shared common metadata in extensions/browser/api/web_request.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs extension API browser tests
+// summary: Runs browser tests for the extensions Tabs API, covering tab queries, zoom, back/forward cache, incognito and related tab behaviors.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/strings/to_string.h"
 #include "base/test/bind.h"

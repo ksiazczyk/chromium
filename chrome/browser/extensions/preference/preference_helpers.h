@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preference helpers header
+// summary: Declares the preference_helpers interface for computing an extension's level of control over a preference, dispatching preference events to permitted extensions, and obtaining a profile's preference service.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_PREFERENCE_PREFERENCE_HELPERS_H_
 #define CHROME_BROWSER_EXTENSIONS_PREFERENCE_PREFERENCE_HELPERS_H_
 

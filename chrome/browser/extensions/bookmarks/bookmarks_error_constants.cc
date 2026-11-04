@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks error constants implementation
+// summary: Defines error message strings for the bookmarks extensions API, such as invalid id, invalid URL, non-empty folder, and managed bookmark errors.
+// ---
+
 #include "chrome/browser/extensions/bookmarks/bookmarks_error_constants.h"
 
 #include "extensions/buildflags/buildflags.h"

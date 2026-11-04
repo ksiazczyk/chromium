@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome web view internal API implementation
+// summary: Implements chromeWebViewInternal extension functions for creating, updating, removing and showing context menus on web view guests.
+// ---
+
 #include "chrome/browser/extensions/api/web_view/chrome_web_view_internal_api.h"
 
 #include <optional>

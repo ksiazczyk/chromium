@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Side panel BUILD.gn build target
+summary: Defines the side_panel source set for the extensions side panel API, listing its sources and build dependencies.

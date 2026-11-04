@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permissions updater unit tests
+// summary: Unit tests covering PermissionsUpdater methods for initializing, granting and revoking extension permissions.
+// ---
+
 #include "extensions/browser/permissions/permissions_updater.h"
 
 #include <memory>

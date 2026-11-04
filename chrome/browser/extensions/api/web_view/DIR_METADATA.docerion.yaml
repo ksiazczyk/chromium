@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: web_view DIR_METADATA
+summary: Maps the web_view directory to the Platform>Apps>BrowserTag monorail component and a Buganizer component ID for issue tracking.

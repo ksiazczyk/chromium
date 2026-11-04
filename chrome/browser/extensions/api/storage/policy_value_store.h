@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyValueStore class declaration
+// summary: Declares PolicyValueStore, a read-only ValueStore backed by a persistent delegate store that holds administrator-configured policies for an extension.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_STORAGE_POLICY_VALUE_STORE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_STORAGE_POLICY_VALUE_STORE_H_
 

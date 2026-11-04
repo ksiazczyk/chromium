@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Tab capture directory metadata
+summary: Specifies the issue tracker component, team email, and Buganizer component for the tab_capture directory.

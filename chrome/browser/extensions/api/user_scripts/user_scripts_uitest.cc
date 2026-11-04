@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserScripts API interactive UI test
+// summary: Runs interactive browser tests that toggle the per-extension userScripts setting in the extensions UI and verify API availability.
+// ---
+
 #include "base/strings/strcat.h"
 #include "chrome/browser/extensions/api/user_scripts/user_scripts_apitest.h"
 #include "chrome/browser/profiles/profile.h"

@@ -5,6 +5,12 @@
 // Defines the Chrome Extensions Tab Capture API functions for accessing
 // tab media streams.
 
+// ---docerion
+// type: source
+// title: Tab Capture API function declarations
+// summary: Declares the tabCapture.capture, getCapturedTabs, and getMediaStreamId extension function classes.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TAB_CAPTURE_TAB_CAPTURE_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TAB_CAPTURE_TAB_CAPTURE_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private WebRTC desktop capture extension API declarations
+// summary: Declares the choose and cancel desktop media extension function classes that extend the shared desktop capture base classes.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_WEBRTC_DESKTOP_CAPTURE_PRIVATE_WEBRTC_DESKTOP_CAPTURE_PRIVATE_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_WEBRTC_DESKTOP_CAPTURE_PRIVATE_WEBRTC_DESKTOP_CAPTURE_PRIVATE_API_H_
 

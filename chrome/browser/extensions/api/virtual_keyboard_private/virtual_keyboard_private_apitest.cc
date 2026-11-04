@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual keyboard private API browser tests
+// summary: Browser tests for the virtualKeyboardPrivate extension API covering multipaste of text, image, HTML, and file clipboard items, including behavior on a locked screen.
+// ---
+
 #include "ash/public/cpp/clipboard_history_controller.h"
 #include "base/containers/flat_map.h"
 #include "base/path_service.h"

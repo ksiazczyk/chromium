@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon utility header
+// summary: Declares the extensions favicon_util interface, defining FaviconCallback and functions to fetch favicons asynchronously and parse favicon URLs.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_FAVICON_FAVICON_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_FAVICON_FAVICON_UTIL_H_
 

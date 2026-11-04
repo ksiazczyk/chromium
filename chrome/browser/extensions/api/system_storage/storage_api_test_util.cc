@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage API test utilities
+// summary: Implements shared test helpers and sample removable storage data for the system.storage extension API tests.
+// ---
+
 #include "chrome/browser/extensions/api/system_storage/storage_api_test_util.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Force-installed extension tracker header
+// summary: Declares ForceInstalledTracker, which tracks loading and installation status of force-installed extensions per profile and notifies observers of readiness and failures.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_FORCED_EXTENSIONS_FORCE_INSTALLED_TRACKER_H_
 #define CHROME_BROWSER_EXTENSIONS_FORCED_EXTENSIONS_FORCE_INSTALLED_TRACKER_H_
 

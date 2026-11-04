@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserScripts API test fixture header
+// summary: Declares the UserScriptsAPITest class with helpers to run chrome.userScripts extension tests and inspect injected elements.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_USER_SCRIPTS_USER_SCRIPTS_APITEST_H_
 #define CHROME_BROWSER_EXTENSIONS_API_USER_SCRIPTS_USER_SCRIPTS_APITEST_H_
 

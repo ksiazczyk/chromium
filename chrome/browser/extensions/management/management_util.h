@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions management utility header
+// summary: Declares functions returning the higher management authority trustworthiness of machine or profile, including a stricter variant for policy loading.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_MANAGEMENT_MANAGEMENT_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_MANAGEMENT_MANAGEMENT_UTIL_H_
 

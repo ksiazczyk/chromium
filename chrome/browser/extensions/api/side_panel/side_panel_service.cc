@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel service implementation
+// summary: Implements the per-profile SidePanelService that resolves side panel options from service storage and manifests and opens panels for tabs or windows.
+// ---
+
 #include "chrome/browser/extensions/api/side_panel/side_panel_service.h"
 
 #include <cstddef>

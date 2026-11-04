@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Socket API browser tests
+// summary: In-process browser tests that exercise the socket extension API against UDP echo and TCP test servers.
+// ---
+
 #include "base/memory/ref_counted.h"
 #include "base/strings/stringprintf.h"
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings private API browser tests
+// summary: Extension API browser tests for chrome.settingsPrivate, covering setPref and getPref behavior including policy-enforced preferences.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings private delegate implementation
+// summary: Implements the SettingsPrivateDelegate that reads, writes and lists allowlisted preferences and handles default zoom through PrefsUtil.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/settings_private_delegate.h"
 
 #include <memory>

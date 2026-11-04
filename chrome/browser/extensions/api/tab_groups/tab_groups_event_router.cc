@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the tab groups event router
+// summary: Implements the router that dispatches tab group created, removed, moved and updated events to extensions, with an Android platform delegate.
+// ---
+
 #include "chrome/browser/extensions/api/tab_groups/tab_groups_event_router.h"
 
 #include <utility>

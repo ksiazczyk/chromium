@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyValueStore implementation
+// summary: Implements the read-only ValueStore for the storage.managed namespace, applying mandatory policies to a delegate store and notifying observers of changes.
+// ---
+
 #include "chrome/browser/extensions/api/storage/policy_value_store.h"
 
 #include <algorithm>

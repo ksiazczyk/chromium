@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncValueStoreCache implementation
+// summary: Implements the ValueStoreCache for the SYNC namespace, initializing and exposing separate sync backends for apps and extensions.
+// ---
+
 #include "chrome/browser/extensions/api/storage/sync_value_store_cache.h"
 
 #include <stddef.h>

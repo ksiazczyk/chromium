@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assessment Assistant extension install tracking implementation
+// summary: Implements a keyed service that logs installation stages, download status and failures of the Assessment Assistant extension.
+// ---
+
 #include "chrome/browser/extensions/forced_extensions/assessment_assistant_tracker.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for webRequest permissions
+// summary: Unit tests verifying webRequest permission checks for extensions with and without host permissions, including policy-installed extensions and blocklist URLs.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_permissions.h"
 
 #include <stddef.h>

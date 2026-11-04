@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API browser tests
+// summary: Browser tests for the chrome.test extension API, verifying test result reporting such as failed assertions in promises and async/await flows.
+// ---
+
 #include <memory>
 
 #include "base/strings/stringprintf.h"

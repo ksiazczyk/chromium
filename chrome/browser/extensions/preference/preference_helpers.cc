@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preference helpers implementation
+// summary: Implements helpers that determine an extension's level of control over browser preferences, resolve profile preference services including incognito, and dispatch preference change events to permitted extensions.
+// ---
+
 #include "chrome/browser/extensions/preference/preference_helpers.h"
 
 #include <memory>

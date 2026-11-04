@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows utility helpers header
+// summary: Declares windows_util helpers for locating window controllers, checking window access, and deciding whether to open incognito windows.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TABS_WINDOWS_UTIL_H__
 #define CHROME_BROWSER_EXTENSIONS_API_TABS_WINDOWS_UTIL_H__
 

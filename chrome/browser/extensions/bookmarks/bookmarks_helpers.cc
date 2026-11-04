@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks extensions API helpers implementation
+// summary: Implements helpers that convert bookmark model nodes into extensions API bookmark tree nodes, including visibility-based indexing, node removal, and meta info collection.
+// ---
+
 #include "chrome/browser/extensions/bookmarks/bookmarks_helpers.h"
 
 #include <memory>

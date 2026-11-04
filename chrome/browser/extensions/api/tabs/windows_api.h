@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows extension API function declarations
+// summary: Declares the ExtensionFunction classes backing chrome.windows methods such as get, getCurrent, create, update, and remove.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TABS_WINDOWS_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TABS_WINDOWS_API_H_
 

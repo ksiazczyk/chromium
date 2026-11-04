@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ErrorConsole implementation
+// summary: Implements the ErrorConsole keyed service that collects extension errors and manages per-extension error reporting preferences in Chromium.
+// ---
+
 #include "chrome/browser/extensions/error_console/error_console.h"
 
 #include <optional>

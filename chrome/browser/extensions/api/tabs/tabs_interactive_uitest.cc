@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs API interactive UI tests
+// summary: Interactive browser tests verifying tabs.query results for the last focused window versus other open windows.
+// ---
+
 #include <stddef.h>
 
 #include "base/memory/scoped_refptr.h"

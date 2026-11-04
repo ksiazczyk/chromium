@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeneratedPref base class implementation
+// summary: Implements observer management and helpers that set controlled-by and user-selectable values on pref objects.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/generated_pref.h"
 
 #include "base/observer_list.h"

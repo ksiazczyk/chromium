@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the web_authentication_proxy API
+summary: Defines the web_authentication_proxy source_set with its sources and build dependencies, restricted to Windows, Mac and Linux.

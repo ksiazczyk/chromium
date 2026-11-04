@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension settings API browser tests
+// summary: Browser tests for the extension settings API covering managed storage policies, schema registration, and sync behavior of extension settings.
+// ---
+
 #include <utility>
 
 #include "base/files/file_enumerator.h"

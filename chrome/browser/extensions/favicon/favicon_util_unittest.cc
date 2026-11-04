@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon utility unit tests
+// summary: Unit tests verifying that ParseFaviconPath accepts and rejects various chrome-extension favicon URL formats.
+// ---
+
 #include "chrome/browser/extensions/favicon/favicon_util.h"
 
 #include <string_view>

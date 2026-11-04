@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the tab groups extensions API
+summary: GN build file defining the tab_groups source_set with its sources and platform-dependent dependencies.

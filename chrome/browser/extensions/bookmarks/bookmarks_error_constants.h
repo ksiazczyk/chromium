@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks error constants declarations
+// summary: Declares the shared error message constants used by the bookmarks extensions API implementation.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_BOOKMARKS_BOOKMARKS_ERROR_CONSTANTS_H_
 #define CHROME_BROWSER_EXTENSIONS_BOOKMARKS_BOOKMARKS_ERROR_CONSTANTS_H_
 

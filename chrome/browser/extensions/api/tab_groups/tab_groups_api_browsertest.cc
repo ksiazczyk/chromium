@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for tabGroups API and events
+// summary: Browser tests covering tabGroups query and get functions, group event dispatching, and saved tab group sync behavior.
+// ---
+
 #include "chrome/browser/extensions/api/tab_groups/tab_groups_api.h"
 
 #include <optional>

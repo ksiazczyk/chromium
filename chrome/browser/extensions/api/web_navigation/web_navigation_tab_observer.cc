@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: web_navigation_tab_observer.cc
+// summary: Implements the tab observer that watches WebContents navigations and forwards start, commit, load, and error events to the webNavigation API helpers.
+// ---
+
 #include "chrome/browser/extensions/api/web_navigation/web_navigation_tab_observer.h"
 
 #include <string>

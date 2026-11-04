@@ -5,6 +5,12 @@
 // This extension API contains system-wide preferences and functions that shall
 // be only available to component extensions.
 
+// ---docerion
+// type: source
+// title: system_private_api header
+// summary: Declares the systemPrivate extension function classes for incognito mode availability, update status and the Google API key, intended only for component extensions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_SYSTEM_PRIVATE_SYSTEM_PRIVATE_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_SYSTEM_PRIVATE_SYSTEM_PRIVATE_API_H_
 

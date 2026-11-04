@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome virtual keyboard delegate implementation
+// summary: Implements the Chrome-level virtual keyboard delegate, handling key events, keyboard modes and bounds, clipboard history, and feature restrictions for the virtualKeyboardPrivate extension API.
+// ---
+
 #include "chrome/browser/extensions/api/virtual_keyboard_private/chrome_virtual_keyboard_delegate.h"
 
 #include <memory>

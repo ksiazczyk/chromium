@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test base implementation for force-installed extension tests
+// summary: Sets up test profiles, policy providers and force-list preferences used by force-installed extension tests.
+// ---
+
 #include "chrome/browser/extensions/forced_extensions/force_installed_test_base.h"
 
 #include "base/memory/raw_ptr.h"

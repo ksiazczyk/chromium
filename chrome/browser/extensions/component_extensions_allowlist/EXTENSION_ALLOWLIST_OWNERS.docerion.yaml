@@ -1,0 +1,4 @@
+# Docerion header of EXTENSION_ALLOWLIST_OWNERS.
+type: config
+title: Extension allowlist owners
+summary: Lists the Extensions Tech Lead as the owner whose approval is required for component extension changes.

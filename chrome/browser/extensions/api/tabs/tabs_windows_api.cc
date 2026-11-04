@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabsWindowsAPI keyed service implementation
+// summary: Implements the BrowserContextKeyedAPI that registers tabs and windows event observers and lazily creates the tabs and windows event routers.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/tabs_windows_api.h"
 
 #include <memory>

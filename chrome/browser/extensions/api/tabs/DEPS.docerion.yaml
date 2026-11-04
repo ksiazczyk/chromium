@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tabs API directory
+summary: Defines include rules for the directory, allowing ash window pinning utilities and ash test headers for the tabs API unittest.

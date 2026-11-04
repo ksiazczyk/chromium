@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows event router implementation
+// summary: Routes window lifecycle and focus events to extension listeners, applying window-type filters and visibility rules.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/windows_event_router.h"
 
 #include <optional>

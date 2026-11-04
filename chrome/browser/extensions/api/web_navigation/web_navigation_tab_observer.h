@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: web_navigation_tab_observer.h
+// summary: Header declaring the WebContentsObserver subclass that forwards per-tab navigation events to the event router and caches delayed onBeforeNavigate events.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_WEB_NAVIGATION_WEB_NAVIGATION_TAB_OBSERVER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_WEB_NAVIGATION_WEB_NAVIGATION_TAB_OBSERVER_H_
 

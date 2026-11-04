@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the extension webRequest API
+// summary: Unit tests covering webRequest event delta calculation, response merging, cookie and header modifications, and related API helper behavior.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_api.h"
 
 #include <stddef.h>

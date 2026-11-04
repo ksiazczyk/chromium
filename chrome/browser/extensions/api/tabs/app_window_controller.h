@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWindowController class declaration
+// summary: Declares a WindowController subclass specific to AppWindow, used by the extension tabs and windows APIs.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TABS_APP_WINDOW_CONTROLLER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TABS_APP_WINDOW_CONTROLLER_H_
 

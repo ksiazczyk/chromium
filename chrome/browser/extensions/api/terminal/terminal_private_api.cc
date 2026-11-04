@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Terminal private extension API implementation
+// summary: Implements the terminalPrivate extension functions for opening, closing and writing to terminal and vmshell processes.
+// ---
+
 #include "chrome/browser/extensions/api/terminal/terminal_private_api.h"
 
 #include <algorithm>

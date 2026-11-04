@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-platform system display extension API tests
+// summary: Browser tests for display info retrieval, display changed events, non-ChromeOS set restrictions, and Android multi-display info using a mock display info provider.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

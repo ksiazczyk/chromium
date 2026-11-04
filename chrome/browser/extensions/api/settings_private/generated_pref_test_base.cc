@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated pref test helpers implementation
+// summary: Implements helpers that set test prefs from extension, policy, or recommended sources and a test observer for pref changes.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/generated_pref_test_base.h"
 
 namespace extensions {

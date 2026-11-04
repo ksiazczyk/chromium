@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: web_view BUILD.gn build definition
+summary: Defines the web_view source set with its sources and dependencies for building the Chrome web view internal extension API.

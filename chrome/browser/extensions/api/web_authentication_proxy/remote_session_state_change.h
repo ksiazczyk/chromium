@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote session state change notifier header
+// summary: Declares WebAuthenticationProxyRemoteSessionStateChangeNotifier, which watches per-extension files and raises remote session state change events.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_WEB_AUTHENTICATION_PROXY_REMOTE_SESSION_STATE_CHANGE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_WEB_AUTHENTICATION_PROXY_REMOTE_SESSION_STATE_CHANGE_H_
 

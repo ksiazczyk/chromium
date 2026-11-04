@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameNavigationState unit tests
+// summary: Unit tests verifying error state handling, web-safe scheme filtering and about:srcdoc frame support in FrameNavigationState.
+// ---
+
 #include "chrome/browser/extensions/api/web_navigation/frame_navigation_state.h"
 
 #include "base/values.h"

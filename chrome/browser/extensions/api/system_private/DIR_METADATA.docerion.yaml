@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: system_private DIR_METADATA
+summary: Routing metadata for the system_private API directory, listing the UI>Accessibility monorail component, the chromium-accessibility team email and a Buganizer component ID.

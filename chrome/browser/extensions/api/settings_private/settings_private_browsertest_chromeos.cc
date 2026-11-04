@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings private guest mode browser test for ChromeOS
+// summary: Regression browser test verifying that settingsPrivate uses the incognito guest profile and that zoom preferences are not modifiable in guest mode.
+// ---
+
 #include "base/values.h"
 #include "chrome/browser/ash/login/test/guest_session_mixin.h"
 #include "chrome/browser/extensions/api/settings_private/prefs_util_enums.h"

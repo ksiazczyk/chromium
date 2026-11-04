@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site permissions helper browser tests
+// summary: Browser tests for SitePermissionsHelper covering per-site extension access levels and blocked action handling.
+// ---
+
 #include "extensions/browser/permissions/site_permissions_helper.h"
 
 #include <string_view>
