@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the settings Google Chrome strings
+summary: Lists the reviewers responsible for this directory, referencing the settings and WebUI platform OWNERS files plus rainhard@chromium.org and sideyilmaz@chromium.org.

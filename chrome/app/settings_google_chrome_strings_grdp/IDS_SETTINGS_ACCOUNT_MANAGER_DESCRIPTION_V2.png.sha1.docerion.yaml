@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_ACCOUNT_MANAGER_DESCRIPTION_V2.png.sha1.
+type: data
+title: SHA-1 checksum for the account manager description image
+summary: Stores the SHA-1 checksum used to verify the PNG image asset referenced by the account manager description string resource.

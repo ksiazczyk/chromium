@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_SIGNED_OUT_USER_LABEL.png.sha1.
+type: asset
+title: SHA-1 checksum for signed-out user label screenshot
+summary: Holds the SHA-1 hash of the PNG screenshot for the signed-out user label in Chromium settings.
