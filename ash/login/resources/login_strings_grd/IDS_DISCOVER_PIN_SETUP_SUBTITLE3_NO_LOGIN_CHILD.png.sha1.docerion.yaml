@@ -1,0 +1,4 @@
+# Docerion header of IDS_DISCOVER_PIN_SETUP_SUBTITLE3_NO_LOGIN_CHILD.png.sha1.
+type: data
+title: SHA-1 checksum for PIN setup subtitle string PNG, no-login child variant
+summary: Stores the SHA-1 checksum of the PNG screenshot for the child-account PIN setup subtitle shown when no login is involved, used to verify translated string assets.

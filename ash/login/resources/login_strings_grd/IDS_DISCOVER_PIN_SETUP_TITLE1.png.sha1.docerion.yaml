@@ -1,0 +1,4 @@
+# Docerion header of IDS_DISCOVER_PIN_SETUP_TITLE1.png.sha1.
+type: data
+title: SHA-1 checksum for IDS_DISCOVER_PIN_SETUP_TITLE1 screenshot
+summary: Contains the SHA-1 hash of the PNG screenshot for the first PIN setup title string, letting builds detect unintended image changes.
