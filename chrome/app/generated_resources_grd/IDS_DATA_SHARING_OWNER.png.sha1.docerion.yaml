@@ -1,0 +1,4 @@
+# Docerion header of IDS_DATA_SHARING_OWNER.png.sha1.
+type: data
+title: SHA-1 hash for IDS_DATA_SHARING_OWNER.png
+summary: Stores the SHA-1 checksum of the PNG snapshot for the data sharing owner message string in Chrome's generated resources.
