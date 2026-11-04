@@ -1,0 +1,4 @@
+# Docerion header of app_shim_render_widget_host_view_mac_delegate.mm.
+type: source
+title: AppShimRenderWidgetHostViewMacDelegate implementation
+summary: Implements two-finger swipe history navigation for web contents in the app shim, forwarding back and forward commands to the browser.

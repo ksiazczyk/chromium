@@ -1,0 +1,4 @@
+# Docerion header of toolbar_old.icon.
+type: asset
+title: Toolbar icon (old variant)
+summary: Vector icon definition that draws the older toolbar glyph on a 16dp canvas.

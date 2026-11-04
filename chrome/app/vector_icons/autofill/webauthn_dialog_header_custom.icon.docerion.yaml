@@ -1,0 +1,4 @@
+# Docerion header of webauthn_dialog_header_custom.icon.
+type: asset
+title: WebAuthn dialog header icon (light theme)
+summary: Vector icon definition that draws the light-theme WebAuthn dialog header artwork using canvas dimensions, paths, strokes and color commands.

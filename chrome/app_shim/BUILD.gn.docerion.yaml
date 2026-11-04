@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App shim GN build targets
+summary: Defines GN targets for the Mac app shim source set, the app_mode_loader executable, Info.plist handling, and browser and unit tests.

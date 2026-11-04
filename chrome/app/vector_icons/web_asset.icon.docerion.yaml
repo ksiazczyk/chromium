@@ -1,0 +1,4 @@
+# Docerion header of web_asset.icon.
+type: asset
+title: Web asset vector icon
+summary: Vector icon path data drawing a small web asset glyph on a 16dp canvas for the Chromium UI.

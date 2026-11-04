@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppShimDelegate header
+// summary: Declares the NSApplicationDelegate that catches user interactions in the app shim and forwards them as IPC messages to Chrome.
+// ---
+
 #ifndef CHROME_APP_SHIM_APP_SHIM_DELEGATE_H_
 #define CHROME_APP_SHIM_APP_SHIM_DELEGATE_H_
 

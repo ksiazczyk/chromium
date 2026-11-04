@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebAuthn icon directory owners
+summary: Points to device/fido/OWNERS to define the code owners for the WebAuthn vector icon directory.

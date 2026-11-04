@@ -1,0 +1,4 @@
+# Docerion header of app_mode_loader_mac.mm.
+type: source
+title: App mode loader entry point
+summary: Minimal loader that locates the Chrome bundle and framework, loads the framework, and starts the app shim code from it.

@@ -1,0 +1,4 @@
+# Docerion header of app_shim_controller_browsertest.mm.
+type: test
+title: AppShimController browser test
+summary: Browser test that launches a secondary app shim process to verify app shim behavior against an installed test PWA.

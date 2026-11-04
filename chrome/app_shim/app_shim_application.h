@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppShimApplication interface
+// summary: Declares the app shim NSApplication subclass based on CrApplication to skip autorelease pools in nested event loops.
+// ---
+
 #ifndef CHROME_APP_SHIM_APP_SHIM_APPLICATION_H_
 #define CHROME_APP_SHIM_APP_SHIM_APPLICATION_H_
 

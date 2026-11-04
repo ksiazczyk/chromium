@@ -1,3 +1,13 @@
+---
+type: readme
+title: App shims on macOS
+summary: Explains what app shims are, their early startup, bootstrap, and running lifetime phases, and feature and field trial support.
+relations:
+  - references /docs/webapps/README.md
+  - documents /chrome/app_shim/app_mode_loader_mac.mm
+  - documents /chrome/app_shim/chrome_main_app_mode_mac.mm
+---
+
 ## App Shims
 
 ### What are App Shims?

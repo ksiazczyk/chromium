@@ -1,0 +1,4 @@
+# Docerion header of app_shim_main_delegate.mm.
+type: source
+title: AppShimMainDelegate implementation
+summary: Implements app shim process startup, including crash reporting, locale initialization, Mojo broker setup, and running the app shim controller.

@@ -1,0 +1,4 @@
+# Docerion header of submit_feedback_old.icon.
+type: source
+title: Submit feedback old vector icon
+summary: Defines vector path data for the legacy submit-feedback message glyph on a 20dp canvas used in Chromium's UI.

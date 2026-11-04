@@ -1,0 +1,4 @@
+# Docerion header of windows_hello_color_custom.icon.
+type: asset
+title: Windows Hello color icon
+summary: Vector icon definition drawing the colored Windows Hello illustration used in Chrome's WebAuthn UI.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Payments vector icons DIR_METADATA
+summary: Routes bugs and questions for the payments vector icons to the Blink>Payments monorail component, the payments-dev team email, and a Buganizer component.

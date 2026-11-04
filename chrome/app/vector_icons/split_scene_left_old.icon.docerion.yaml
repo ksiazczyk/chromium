@@ -1,0 +1,4 @@
+# Docerion header of split_scene_left_old.icon.
+type: source
+title: Split scene left old vector icon
+summary: Defines vector path data for the legacy split-scene left layout glyph on a 24dp canvas used in Chromium's UI.

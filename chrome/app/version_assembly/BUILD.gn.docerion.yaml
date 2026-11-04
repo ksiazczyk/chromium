@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Version assembly build rules
+summary: GN build rules that generate the Windows manifests for chrome.exe and the version assembly from templates and the Chrome VERSION file.

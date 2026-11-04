@@ -1,0 +1,4 @@
+# Docerion header of chrome_main_app_mode_mac.mm.
+type: source
+title: Mac app mode shim entry point into Chromium framework
+summary: Entry point for Mac app mode shim bundles that loads the Chromium framework, initializes the command line with the app shim process type, and starts content main.

@@ -1,0 +1,4 @@
+# Docerion header of star.icon.
+type: source
+title: Star vector icon
+summary: Defines vector path data for a star glyph on a 16dp canvas used in Chromium's UI.

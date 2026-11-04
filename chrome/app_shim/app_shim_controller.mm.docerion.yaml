@@ -1,0 +1,4 @@
+# Docerion header of app_shim_controller.mm.
+type: source
+title: AppShimController implementation
+summary: Implements the app shim controller, including the Mojo connection to Chrome, profile and dock menus, notifications, and feature state setup.

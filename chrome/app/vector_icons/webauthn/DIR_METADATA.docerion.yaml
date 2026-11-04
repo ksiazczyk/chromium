@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebAuthn icon directory metadata
+summary: Declares the identity-dev@chromium.org team email for the WebAuthn vector icon directory.

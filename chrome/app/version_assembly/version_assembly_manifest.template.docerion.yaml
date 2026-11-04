@@ -1,0 +1,4 @@
+# Docerion header of version_assembly_manifest.template.
+type: config
+title: Version assembly manifest template
+summary: XML manifest template defining the version assembly identity and listing chrome_elf.dll, with version placeholders filled in at build time.

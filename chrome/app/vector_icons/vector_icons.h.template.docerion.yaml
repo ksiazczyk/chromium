@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.h.template.
+type: source
+title: Template for generating vector_icons.h
+summary: Header template used to generate vector_icons.h, declaring an extern VectorIcon for each icon via a placeholder macro.

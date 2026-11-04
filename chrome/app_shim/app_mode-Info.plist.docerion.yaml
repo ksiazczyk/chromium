@@ -1,0 +1,4 @@
+# Docerion header of app_mode-Info.plist.
+type: config
+title: App mode loader Info.plist
+summary: macOS bundle property list template for app mode shims, with placeholders for shortcut ID, name, URL, and browser bundle ID.
