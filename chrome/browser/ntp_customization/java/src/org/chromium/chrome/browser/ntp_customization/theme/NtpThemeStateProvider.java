@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme state provider
+// summary: Singleton observer registry that notifies listeners when the NTP theme or custom background changes.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import org.chromium.base.ObserverList;

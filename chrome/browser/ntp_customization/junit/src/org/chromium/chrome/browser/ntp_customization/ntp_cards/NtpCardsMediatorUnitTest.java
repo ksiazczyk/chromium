@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpCardsMediator unit tests
+// summary: Robolectric unit tests for NtpCardsMediator covering card switch handling, preferences, module visibility, and histogram behavior.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.ntp_cards;
 
 import static org.junit.Assert.assertEquals;

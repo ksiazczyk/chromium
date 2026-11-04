@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for NTP customization
+summary: Names hanxi@chromium.org as the code owner for review approvals in this directory.

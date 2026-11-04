@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpThemeStateProviderUnitTest
+// summary: Unit tests for NtpThemeStateProvider verifying that observers are notified of theme changes after being added and no longer after removal.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import static org.mockito.Mockito.clearInvocations;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP customization view properties
+// summary: Defines the PropertyModel keys used to render and bind NTP customization bottom sheet views, including list containers, subtitles, and switches.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import android.view.View;

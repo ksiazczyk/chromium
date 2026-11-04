@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme collection bridge class declaration
+// summary: Declares the NtpThemeCollectionBridge class, a C++ counterpart to a Java bridge that observes NTP background services and manages theme collections and custom backgrounds for the New Tab Page.
+// ---
+
 #ifndef CHROME_BROWSER_NTP_CUSTOMIZATION_NTP_THEME_COLLECTION_BRIDGE_H_
 #define CHROME_BROWSER_NTP_CUSTOMIZATION_NTP_THEME_COLLECTION_BRIDGE_H_
 

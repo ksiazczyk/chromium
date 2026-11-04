@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP customization image utilities
+// summary: Decodes custom background images in a sandboxed utility process and downsamples oversized bitmaps to prevent Android Canvas and GPU texture rendering crashes.
+// ---
+
 #include "chrome/browser/ntp_customization/ntp_customization_utils.h"
 
 #include <cstdint>

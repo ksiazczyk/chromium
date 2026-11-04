@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetDelegate
+// summary: Interface for recording bottom sheet layout positions in the view flipper, handling back presses, showing sheets, and reporting color selections.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import android.view.View;

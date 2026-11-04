@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android NTP theme sync bridge implementation
+// summary: Implements the DataTypeSyncBridge for the THEMES_ANDROID sync data type, persisting Android NTP theme specifics to a data type store and notifying a theme-changed callback.
+// ---
+
 #include "chrome/browser/ntp_customization/ntp_android_theme_sync_bridge.h"
 
 #include "base/check.h"

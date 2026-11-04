@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP background image layout view
+// summary: Custom frame layout that displays the NTP background bitmap with a gradient overlay and re-applies the bitmap on density changes.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

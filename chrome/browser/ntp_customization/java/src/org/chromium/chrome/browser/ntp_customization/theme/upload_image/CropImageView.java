@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CropImageView pan-and-zoom crop view
+// summary: Custom ImageView that lets users pan and zoom a bitmap while keeping separate crop states for portrait and landscape orientations.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.upload_image;
 
 import static org.chromium.build.NullUtil.assertNonNull;

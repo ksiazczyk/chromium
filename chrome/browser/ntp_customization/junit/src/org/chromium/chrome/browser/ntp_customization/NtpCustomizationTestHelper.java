@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpCustomizationTestHelper test utility
+// summary: Shared helper for NTP customization unit tests that sets up an edge-to-edge environment for a given WindowAndroid.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.mockito.Mockito.mock;

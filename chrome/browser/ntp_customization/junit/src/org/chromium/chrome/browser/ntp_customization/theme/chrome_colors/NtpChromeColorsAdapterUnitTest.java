@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpChromeColorsAdapter unit tests
+// summary: Unit tests for the NTP chrome colors adapter, covering item counts, view holder creation and binding of selected and unselected color items.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.chrome_colors;
 
 import static org.junit.Assert.assertEquals;

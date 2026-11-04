@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UploadImagePreviewLayoutViewBinder unit tests
+// summary: Unit tests for UploadImagePreviewLayoutViewBinder verifying that property model changes bind correctly to the preview layout views.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.upload_image;
 
 import static org.junit.Assert.assertEquals;

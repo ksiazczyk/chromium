@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS obsolete system implementation
+// summary: Implements macOS obsolete-system detection, warning macOS 12 users during the last three milestones before support ends at milestone 150.
+// ---
+
 #include "chrome/browser/obsolete_system/obsolete_system.h"
 
 #include "base/mac/mac_util.h"

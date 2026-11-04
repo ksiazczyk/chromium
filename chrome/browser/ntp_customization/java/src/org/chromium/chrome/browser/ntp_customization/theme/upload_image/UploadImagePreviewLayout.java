@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadImagePreviewLayout preview layout
+// summary: Constraint layout that previews a custom NTP background image together with logo, search box, and save and cancel buttons.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.upload_image;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

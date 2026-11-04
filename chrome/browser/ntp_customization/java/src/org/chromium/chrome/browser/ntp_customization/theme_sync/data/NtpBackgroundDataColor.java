@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP background color data class
+// summary: Data class representing a Chrome color NTP background, holding theme color info and daily refresh state with JSON serialization and equality by color ID.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme_sync.data;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

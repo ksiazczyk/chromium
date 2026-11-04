@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP cards bottom sheet view binder
+// summary: Binds the NTP cards bottom sheet property model to its view, handling the master cards switch, switch enablement, and the list container delegate.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.ntp_cards;
 
 import static org.chromium.chrome.browser.ntp_customization.NtpCustomizationViewProperties.ALL_NTP_CARDS_SWITCH_ON_CHECKED_CHANGE_LISTENER;

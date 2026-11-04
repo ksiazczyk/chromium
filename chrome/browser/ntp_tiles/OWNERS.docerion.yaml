@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to ntp_tiles component
+summary: Delegates ownership review of this directory to the OWNERS file of components/ntp_tiles.

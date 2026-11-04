@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NtpBackgroundDataGroup
+// summary: Robolectric unit tests verifying that a group of mixed background data entries survives JSON serialization and deserialization.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme_sync.data;
 
 import static org.junit.Assert.assertEquals;

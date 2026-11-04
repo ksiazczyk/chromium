@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP customization side panel helper
+// summary: Helper that checks feature availability and opens the NTP customization side panel for a tab through native JNI calls.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import org.jni_zero.JNINamespace;

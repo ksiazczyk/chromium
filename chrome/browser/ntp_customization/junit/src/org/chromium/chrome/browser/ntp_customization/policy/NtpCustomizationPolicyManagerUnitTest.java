@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpCustomizationPolicyManager unit tests
+// summary: Robolectric unit tests verifying NtpCustomizationPolicyManager behavior for NTP custom background policy, covering default values, shared preference initialization, and managed preference change handling.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.policy;
 
 import static org.junit.Assert.assertEquals;

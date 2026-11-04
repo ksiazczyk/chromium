@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: NtpSyncedThemeBridge unit tests
+// summary: Robolectric unit tests for the synced theme native bridge, covering initialization, destruction and synced background info updates.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import static org.junit.Assert.assertEquals;

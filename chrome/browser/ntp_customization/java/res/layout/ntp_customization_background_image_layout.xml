@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: NTP background image layout
+summary: Layout displaying a full-size NTP background image with an optional gradient overlay at the top.
+-->
+
 <org.chromium.chrome.browser.ntp_customization.theme.NtpBackgroundImageLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/ntp_customization_background_image_layout"

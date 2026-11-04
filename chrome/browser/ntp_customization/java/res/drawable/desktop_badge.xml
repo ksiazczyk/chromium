@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Desktop badge drawable
+summary: Circular badge with a desktop monitor glyph, tinted with theme colors, used in NTP theme customization.
+-->
+
 <vector android:autoMirrored="true"
     android:height="24dp"
     android:viewportHeight="24"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux obsolete system implementation
+// summary: Implements obsolete-system detection for Linux by matching distro names such as Debian, Fedora, Ubuntu, and openSUSE releases and returning a Linux support URL.
+// ---
+
 #include "chrome/browser/obsolete_system/obsolete_system.h"
 
 #include "base/linux_util.h"

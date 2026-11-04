@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpThemeTipViewBinderUnitTest
+// summary: Robolectric unit tests for NtpThemeTipViewBinder, verifying that cancel and customize button click listeners from the property model are bound to the tip bottom sheet view.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.tip;
 
 import static org.mockito.Mockito.verify;

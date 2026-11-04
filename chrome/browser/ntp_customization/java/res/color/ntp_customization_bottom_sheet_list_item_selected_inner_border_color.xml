@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: NTP customization bottom sheet list item selected inner border color
+summary: Android color selector resource that resolves to the theme's colorSurface attribute for the selected inner border of NTP customization bottom sheet list items.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:color="?attr/colorSurface"/>
 </selector>

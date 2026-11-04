@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome popular sites factory implementation
+// summary: Implements the factory that builds PopularSites instances for a profile, returning null in tests when no template URL service is available.
+// ---
+
 #include "chrome/browser/ntp_tiles/chrome_popular_sites_factory.h"
 
 #include "base/check_is_test.h"

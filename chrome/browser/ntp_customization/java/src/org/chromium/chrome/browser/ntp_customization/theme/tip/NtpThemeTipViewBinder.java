@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpThemeTipViewBinder
+// summary: Binds the theme tip bottom sheet property model to its view by attaching the cancel and customize click listeners to the corresponding buttons.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.tip;
 
 import android.view.View;

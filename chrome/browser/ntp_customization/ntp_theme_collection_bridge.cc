@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme collection bridge implementation
+// summary: Implements the C++ side of the NtpThemeCollectionBridge JNI bridge, fetching background collections and images and applying theme collection backgrounds for the Android New Tab Page.
+// ---
+
 #include "chrome/browser/ntp_customization/ntp_theme_collection_bridge.h"
 
 #include "base/android/callback_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP Android custom background service unit tests
+// summary: Unit tests for the Android NTP custom background service, using mock bridges, observers, and a test URL loader factory to verify custom background handling.
+// ---
+
 #include "chrome/browser/ntp_customization/ntp_android_custom_background_service.h"
 
 #include <memory>

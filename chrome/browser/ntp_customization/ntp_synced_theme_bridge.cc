@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP synced theme bridge implementation
+// summary: Implements the C++ counterpart of the Java NtpSyncedThemeBridge, forwarding theme collection and custom background requests to NtpAndroidCustomBackgroundService.
+// ---
+
 #include "chrome/browser/ntp_customization/ntp_synced_theme_bridge.h"
 
 #include "base/android/callback_android.h"

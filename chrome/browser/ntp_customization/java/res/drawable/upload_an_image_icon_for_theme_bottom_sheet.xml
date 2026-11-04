@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Upload image icon for theme bottom sheet drawable
+summary: Vector drawable of an upload arrow icon shown in the NTP theme customization bottom sheet.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="48dp"
     android:height="48dp"

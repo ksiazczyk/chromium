@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpCustomizationBottomSheetContentUnitTest
+// summary: Robolectric unit tests for NtpCustomizationBottomSheetContent covering bottom sheet views, theme collection lists and sheet sizing behaviour.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.junit.Assert.assertEquals;

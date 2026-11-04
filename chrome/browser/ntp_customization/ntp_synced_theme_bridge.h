@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP synced theme bridge class declaration
+// summary: Declares NtpSyncedThemeBridge, a JNI bridge and custom background service observer that communicates NTP theme changes to the Java layer.
+// ---
+
 #ifndef CHROME_BROWSER_NTP_CUSTOMIZATION_NTP_SYNCED_THEME_BRIDGE_H_
 #define CHROME_BROWSER_NTP_CUSTOMIZATION_NTP_SYNCED_THEME_BRIDGE_H_
 

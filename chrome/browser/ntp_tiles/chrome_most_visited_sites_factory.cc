@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome most visited sites factory implementation
+// summary: Builds a per-profile MostVisitedSites instance, wiring favicon, top sites, supervised user, signin and popular sites services with platform conditionals.
+// ---
+
 #include "chrome/browser/ntp_tiles/chrome_most_visited_sites_factory.h"
 
 #include <utility>

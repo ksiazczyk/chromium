@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: NTP customization bottom sheet ViewFlipper layout
+summary: ViewFlipper container that hosts the main NTP customization bottom sheet layout.
+-->
+
 <ViewFlipper
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/ntp_customization_view_flipper"

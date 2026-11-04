@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UploadImagePreviewCoordinator unit tests
+// summary: Unit tests for UploadImagePreviewCoordinator covering the preview dialog, save and cancel callbacks, feature flags and histogram reporting.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.upload_image;
 
 import static org.junit.Assert.assertArrayEquals;

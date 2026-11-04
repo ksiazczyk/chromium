@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Chrome color icon selected background
+summary: Circular stroke outline drawable that highlights a selected Chrome color icon, tinted with the primary color.
+-->
+
 <vector android:autoMirrored="true" android:height="65dp"
     android:viewportHeight="65" android:viewportWidth="64"
     android:width="64dp" xmlns:android="http://schemas.android.com/apk/res/android"

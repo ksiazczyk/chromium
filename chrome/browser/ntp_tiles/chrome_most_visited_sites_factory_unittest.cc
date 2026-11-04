@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeMostVisitedSitesFactory unit tests
+// summary: Unit tests for the Chrome most visited sites factory, covering off-the-record profiles and Android WebUI NTP popular sites creation with different default search providers.
+// ---
+
 #include "chrome/browser/ntp_tiles/chrome_most_visited_sites_factory.h"
 
 #include <memory>

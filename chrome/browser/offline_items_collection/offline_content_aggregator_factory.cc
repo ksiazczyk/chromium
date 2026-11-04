@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline content aggregator service factory implementation
+// summary: Implements the keyed service factory that builds an OfflineContentAggregator per SimpleFactoryKey and maps profiles to their original key.
+// ---
+
 #include "chrome/browser/offline_items_collection/offline_content_aggregator_factory.h"
 
 #include "base/no_destructor.h"

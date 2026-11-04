@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpCardsBottomSheetViewBinder unit tests
+// summary: Robolectric unit tests verifying that the NTP cards bottom sheet view binder binds the all-cards switch listener and card switch enabled states from the property model.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.ntp_cards;
 
 import static org.junit.Assert.assertFalse;

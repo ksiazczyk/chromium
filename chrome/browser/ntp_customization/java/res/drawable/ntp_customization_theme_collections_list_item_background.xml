@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Theme collections list item background
+summary: Rounded rectangle shape drawable providing the background for theme collection list items.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
   <corners android:radius="@dimen/ntp_customization_theme_collections_list_item_background_radius" />

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpCustomizationCoordinatorUnitTest
+// summary: Robolectric unit tests for NtpCustomizationCoordinator covering bottom sheet types, feature flags and coordination of NTP cards, theme and theme sync components.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.junit.Assert.assertEquals;

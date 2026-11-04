@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpAndroidCustomBackgroundService implementation
+// summary: Implements the Android NTP custom background service, registering preferences and handling background selection, Chrome colors and theme sync updates.
+// ---
+
 #include "chrome/browser/ntp_customization/ntp_android_custom_background_service.h"
 
 #include <climits>

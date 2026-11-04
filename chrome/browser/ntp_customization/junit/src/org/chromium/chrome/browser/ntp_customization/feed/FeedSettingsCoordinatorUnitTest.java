@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FeedSettingsCoordinator
+// summary: Robolectric unit tests verifying FeedSettingsCoordinator construction, destruction, and binding of the feed settings bottom sheet view and properties.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.feed;
 
 import static org.junit.Assert.assertNotNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome custom links manager factory implementation
+// summary: Implements NewForProfile to build a CustomLinksManagerImpl, using desktop scope by default and mobile scope or a 10-link cap for Android NTP variants.
+// ---
+
 #include "chrome/browser/ntp_tiles/chrome_custom_links_manager_factory.h"
 
 #include "build/build_config.h"

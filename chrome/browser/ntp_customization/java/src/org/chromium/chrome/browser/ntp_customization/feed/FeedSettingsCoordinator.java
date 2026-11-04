@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed settings bottom sheet coordinator
+// summary: Coordinates the feed settings bottom sheet in the new tab page customization, inflating its layout and wiring property models, view binders, and the mediator for feed management sections.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.feed;
 
 import static org.chromium.chrome.browser.ntp_customization.NtpCustomizationCoordinator.BottomSheetType.FEED;

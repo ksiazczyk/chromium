@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CropImageUtils unit tests
+// summary: Unit tests for CropImageUtils verifying initial center-crop matrix calculation and matrix validation corrections for scale and panning.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.upload_image;
 
 import static org.junit.Assert.assertEquals;

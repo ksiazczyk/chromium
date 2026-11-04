@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP cards bottom sheet mediator
+// summary: Manages navigation and the card list for the NTP cards bottom sheet, mapping home module types to user preference keys and handling card toggles and metrics.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.ntp_cards;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpThemeSyncHistoryRecyclerViewAdaptor unit tests
+// summary: Unit tests for the RecyclerView adapter that renders synced theme history items and handles item clicks.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme_sync;
 
 import static org.junit.Assert.assertEquals;

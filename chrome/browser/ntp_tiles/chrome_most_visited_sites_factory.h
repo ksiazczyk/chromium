@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome most visited sites factory header
+// summary: Declares the ChromeMostVisitedSitesFactory class whose NewForProfile returns a per-profile MostVisitedSites.
+// ---
+
 #ifndef CHROME_BROWSER_NTP_TILES_CHROME_MOST_VISITED_SITES_FACTORY_H_
 #define CHROME_BROWSER_NTP_TILES_CHROME_MOST_VISITED_SITES_FACTORY_H_
 

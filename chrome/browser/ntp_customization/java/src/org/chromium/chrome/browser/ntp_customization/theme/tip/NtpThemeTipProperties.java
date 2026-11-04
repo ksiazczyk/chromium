@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpThemeTipProperties
+// summary: Defines the writable property keys for the NTP theme tip bottom sheet model, holding the cancel and customize button click listeners.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.tip;
 
 import android.view.View.OnClickListener;

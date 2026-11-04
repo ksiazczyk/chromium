@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed settings bottom sheet mediator
+// summary: Mediates the feed settings bottom sheet, managing the feed switch state, preference change listening, and click handlers linking to My Activity, following, hidden, and interests settings.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.feed;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

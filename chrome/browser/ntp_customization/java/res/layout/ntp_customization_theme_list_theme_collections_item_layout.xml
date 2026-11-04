@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Theme list theme collections item layout
+summary: Layout for the theme collections entry in the theme bottom sheet list, embedding the composite icon layout with a title and forward arrow.
+-->
+
 <org.chromium.chrome.browser.ntp_customization.theme.NtpThemeListItemView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

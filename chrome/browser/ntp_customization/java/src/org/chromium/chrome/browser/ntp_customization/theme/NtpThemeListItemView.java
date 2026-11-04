@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme list item view
+// summary: List item view for the New tab page appearance bottom sheet that updates its trailing selection icon and tint.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import android.content.Context;

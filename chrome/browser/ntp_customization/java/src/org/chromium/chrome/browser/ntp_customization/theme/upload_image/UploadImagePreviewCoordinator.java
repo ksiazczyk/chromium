@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadImagePreviewCoordinator dialog controller
+// summary: Coordinates the upload image preview dialog, managing the property model, layout, window insets, and user interaction callbacks.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.upload_image;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

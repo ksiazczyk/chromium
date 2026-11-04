@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpThemeViewBinderUnitTest
+// summary: Unit tests for NtpThemeViewBinder checking that theme bottom sheet model properties such as click listeners and section selection bind correctly to views.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import static org.junit.Assert.assertEquals;

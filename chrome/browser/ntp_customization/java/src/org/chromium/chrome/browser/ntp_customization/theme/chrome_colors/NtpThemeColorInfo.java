@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpThemeColorInfo
+// summary: Data class describing an NTP theme color, with predefined color IDs, resource references, icon drawables, and highlight colors.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.chrome_colors;
 
 import android.content.Context;

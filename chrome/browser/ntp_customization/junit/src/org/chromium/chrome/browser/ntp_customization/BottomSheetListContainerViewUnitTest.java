@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetListContainerViewUnitTest
+// summary: Robolectric unit tests checking that BottomSheetListContainerView renders list items with ids, titles, subtitles, trailing icons and listeners from its delegate.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.junit.Assert.assertEquals;

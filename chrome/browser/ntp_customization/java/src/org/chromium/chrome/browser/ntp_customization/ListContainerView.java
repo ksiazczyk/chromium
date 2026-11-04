@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListContainerView
+// summary: Interface for a UI view that acts as a list item container, defining rendering from a delegate and resource cleanup on destroy.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpThemeColorInfo unit tests
+// summary: Tests for NtpThemeColorInfo and NtpThemeColorFromHexInfo, checking color IDs, resources, names, icons and highlight colors in light and dark variants.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.chrome_colors;
 
 import static org.junit.Assert.assertEquals;

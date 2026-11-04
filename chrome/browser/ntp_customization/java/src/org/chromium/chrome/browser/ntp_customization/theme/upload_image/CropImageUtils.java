@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CropImageUtils matrix calculation helpers
+// summary: Utility class with static methods for crop matrix math, including preserving the visual center point across orientation changes.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.upload_image;
 
 import android.app.Activity;

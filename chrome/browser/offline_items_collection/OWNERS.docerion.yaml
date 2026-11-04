@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for offline_items_collection
+summary: Delegates code ownership for this directory to the components/offline_items_collection OWNERS file.

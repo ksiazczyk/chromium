@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP uploaded image background data class
+// summary: Data class for user-uploaded NTP background images stored on disk, with JSON deserialization and equality based on color, file hash and image info.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme_sync.data;
 
 import static org.chromium.chrome.browser.ntp_customization.NtpCustomizationUtils.NTP_UPLOAD_IMAGES_DIR;

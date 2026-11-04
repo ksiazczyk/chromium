@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome enterprise shortcuts manager factory implementation
+// summary: Implements NewForProfile to create an EnterpriseShortcutsManagerImpl backed by the profile's preferences.
+// ---
+
 #include "chrome/browser/ntp_tiles/chrome_enterprise_shortcuts_manager_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

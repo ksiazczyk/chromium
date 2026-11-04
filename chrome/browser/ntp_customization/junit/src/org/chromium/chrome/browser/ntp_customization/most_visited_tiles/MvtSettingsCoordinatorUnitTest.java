@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MvtSettingsCoordinatorUnitTest
+// summary: Robolectric unit tests for MvtSettingsCoordinator, verifying bottom sheet registration and binding of the MVT settings view with the property model.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.most_visited_tiles;
 
 import static org.junit.Assert.assertFalse;

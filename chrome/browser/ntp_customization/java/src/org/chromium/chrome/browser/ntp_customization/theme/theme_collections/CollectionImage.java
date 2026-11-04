@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectionImage
+// summary: Java model class mirroring the C++ CollectionImage struct, describing a collection image with image and preview URLs plus attribution details.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.theme_collections;
 
 import org.chromium.build.annotations.NullMarked;

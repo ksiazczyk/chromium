@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP customization side panel JNI entry point
+// summary: JNI handler that opens the Customize Chrome side panel for the current tab when triggered from Android.
+// ---
+
 #include <optional>
 
 #include "chrome/browser/android/tab_android.h"

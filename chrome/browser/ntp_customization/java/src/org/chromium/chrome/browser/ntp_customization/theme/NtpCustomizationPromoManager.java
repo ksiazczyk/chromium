@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP customization promo manager
+// summary: Manages the trigger logic for NTP customization promos, including the theme tip bottom sheet, snackbar state and cooldown handling.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import android.content.Context;

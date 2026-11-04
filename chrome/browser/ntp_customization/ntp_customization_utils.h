@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP customization utils declaration
+// summary: Declares DownsampleImageIfNeeded, which halves bitmap dimensions when width or height exceeds a maximum size.
+// ---
+
 #ifndef CHROME_BROWSER_NTP_CUSTOMIZATION_NTP_CUSTOMIZATION_UTILS_H_
 #define CHROME_BROWSER_NTP_CUSTOMIZATION_NTP_CUSTOMIZATION_UTILS_H_
 

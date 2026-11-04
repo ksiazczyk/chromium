@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme bottom sheet observer interface
+// summary: Interface for observers that update theme-related bottom sheet content when the NTP background type changes.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import org.chromium.build.annotations.NullMarked;

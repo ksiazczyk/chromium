@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundCollection
+// summary: Java model class mirroring the C++ CollectionInfo struct, holding a background collection's id, label, preview image URL and hash.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.theme_collections;
 
 import org.chromium.build.annotations.NullMarked;

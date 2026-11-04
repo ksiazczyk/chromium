@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpThemeSyncHistoryCoordinator
+// summary: Coordinator that builds and manages the NTP theme sync history list, item selection and bottom sheet presentation.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme_sync;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

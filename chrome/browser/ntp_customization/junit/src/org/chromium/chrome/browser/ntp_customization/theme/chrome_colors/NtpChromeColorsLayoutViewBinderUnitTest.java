@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpChromeColorsLayoutViewBinder unit tests
+// summary: Unit tests verifying that the chrome colors bottom sheet view binder wires back and save click listeners, color input watchers and switch state correctly.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.chrome_colors;
 
 import static org.junit.Assert.assertEquals;

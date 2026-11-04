@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: NTP customization color resources
+summary: Defines color resources for the NTP customization UI, including theme colors for various hues, edit icon colors, preview dialog colors, sync badge stroke, and search box shadow.
+-->
+
 <resources>
     <color name="ntp_customization_edit_icon_background_color">@color/color_primary_with_alpha_15</color>
     <color name="ntp_customization_edit_icon_color_in_grey_background">@color/baseline_neutral_10_alpha_60</color>

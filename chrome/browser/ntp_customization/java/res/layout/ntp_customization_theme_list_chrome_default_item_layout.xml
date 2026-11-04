@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Theme list default item layout
+summary: Layout for the default theme entry in the theme bottom sheet list, with a leading icon, title and a selection check icon.
+-->
+
 <org.chromium.chrome.browser.ntp_customization.theme.NtpThemeListItemView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

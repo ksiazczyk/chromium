@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpChromeColorsCoordinator unit tests
+// summary: Unit tests for the NTP chrome colors coordinator, covering bottom sheet setup, color selection, custom color input and theme sync data handling.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.chrome_colors;
 
 import static org.junit.Assert.assertEquals;

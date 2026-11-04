@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Edit icon circle background selector
+summary: Ripple selector layering hover and press feedback over the circular background of the edit icon.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- Hovered state -->

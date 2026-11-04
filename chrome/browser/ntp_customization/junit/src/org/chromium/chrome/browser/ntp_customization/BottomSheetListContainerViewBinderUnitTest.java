@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetListContainerViewBinderUnitTest
+// summary: Robolectric unit tests verifying that BottomSheetListContainerViewBinder binds delegates, subtitles and list items to the main bottom sheet list container view.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.junit.Assert.assertEquals;

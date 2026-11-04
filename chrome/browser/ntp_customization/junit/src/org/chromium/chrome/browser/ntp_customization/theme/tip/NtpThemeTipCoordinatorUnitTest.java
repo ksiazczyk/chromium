@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpThemeTipCoordinatorUnitTest
+// summary: Robolectric unit tests for NtpThemeTipCoordinator, checking bottom sheet registration, button click listeners, destroy cleanup, and theme tip click histogram logging.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.tip;
 
 import static org.junit.Assert.assertNotNull;
