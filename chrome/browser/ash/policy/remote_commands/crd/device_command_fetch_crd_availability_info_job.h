@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch CRD availability info job header
+// summary: Declares the remote command job that reports which Chrome Remote Desktop session types are available on the device.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_DEVICE_COMMAND_FETCH_CRD_AVAILABILITY_INFO_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_DEVICE_COMMAND_FETCH_CRD_AVAILABILITY_INFO_JOB_H_
 

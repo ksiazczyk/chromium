@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimum version policy test helpers
+// summary: Provides helper functions that build DeviceMinimumVersion policy values and requirement entries for use in ChromeOS policy tests.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/minimum_version_policy_test_helpers.h"
 
 #include "chrome/browser/ash/policy/handlers/minimum_version_policy_handler.h"

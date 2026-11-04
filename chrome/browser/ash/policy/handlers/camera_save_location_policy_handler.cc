@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera save location policy handler implementation
+// summary: Validates the CameraSaveLocation policy value and maps it to the camera save location pref when the camera cloud storage feature is enabled.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/camera_save_location_policy_handler.h"
 
 #include <string>

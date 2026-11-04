@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrdAdminSessionController unit tests
+// summary: Unit tests for CrdAdminSessionController covering session startup, reconnection, curtain behavior and error paths.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/crd_admin_session_controller.h"
 
 #include <memory>

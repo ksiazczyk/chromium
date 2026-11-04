@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash user remote commands factory header
+// summary: Declares UserCommandsFactoryAsh, which creates RemoteCommandJob instances for user remote command types.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_USER_COMMANDS_FACTORY_ASH_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_USER_COMMANDS_FACTORY_ASH_H_
 

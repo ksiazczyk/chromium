@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ChromeOS policy fuzzer
+summary: Defines the policy_fuzzer libFuzzer test target and the fuzzable proto library used to fuzz ChromeOS policy handling.

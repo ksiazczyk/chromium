@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake start CRD session job delegate implementation
+// summary: Test fake for the start CRD session job delegate that returns a fixed access code, can simulate errors, and records session control calls.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/fake_start_crd_session_job_delegate.h"
 
 #include "base/functional/callback.h"

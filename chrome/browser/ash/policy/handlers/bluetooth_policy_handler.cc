@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth policy handler implementation
+// summary: Applies Bluetooth device policies such as allow, allowed services, and just works pairing to the Bluetooth adapter.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/bluetooth_policy_handler.h"
 
 #include "base/functional/bind.h"

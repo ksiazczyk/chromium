@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device reboot remote command job test utilities implementation
+// summary: Implements test helpers for reboot command tests, including scoped login state fakes and a base class that creates and initializes reboot commands.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_reboot_job_test_util.h"
 
 #include <utility>

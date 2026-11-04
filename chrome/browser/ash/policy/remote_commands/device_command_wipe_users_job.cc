@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wipe users remote command job implementation
+// summary: Implements the wipe users remote command job that initiates user removal and logs out after the server acknowledges the command, with a 180-day expiration time.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_wipe_users_job.h"
 
 #include "base/check_deref.h"

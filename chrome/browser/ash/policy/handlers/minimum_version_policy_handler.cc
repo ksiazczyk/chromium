@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minimum version policy handler implementation
+// summary: Enforces the DeviceMinimumVersion policy by computing update deadlines, showing update-required notifications, and handling network and EOL constraints.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/minimum_version_policy_handler.h"
 
 #include <algorithm>

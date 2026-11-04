@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud external data policy observer unit tests
+// summary: Unit tests for CloudExternalDataPolicyObserver, covering external data references for regular users and device-local accounts on Chrome OS.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/cloud_external_data_policy_observer.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Maps each device and user remote command file to its owning team and issue tracker for reviews and bug reports.

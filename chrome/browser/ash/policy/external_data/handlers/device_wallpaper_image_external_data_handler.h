@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device wallpaper image external data policy handler header
+// summary: Declares the handler that observes the DeviceWallpaperImage device policy and stores the fetched wallpaper image path in a local state pref.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_DEVICE_WALLPAPER_IMAGE_EXTERNAL_DATA_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_DEVICE_WALLPAPER_IMAGE_EXTERNAL_DATA_HANDLER_H_
 

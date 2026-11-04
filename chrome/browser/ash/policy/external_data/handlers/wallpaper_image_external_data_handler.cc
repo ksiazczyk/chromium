@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper image external data handler implementation
+// summary: Implements the handler that sets or removes per-user policy wallpapers via the wallpaper controller client.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/handlers/wallpaper_image_external_data_handler.h"
 
 #include <utility>

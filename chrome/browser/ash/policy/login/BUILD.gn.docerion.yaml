@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for login policy targets
+summary: Defines the login policy static library, test support library and browser test targets with their sources and dependencies.

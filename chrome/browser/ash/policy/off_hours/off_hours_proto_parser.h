@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffHours proto parser header
+// summary: Declares helpers to extract weekly time intervals, ignored policy proto tags, and timezone from the DeviceOffHours proto and to convert it into a dictionary value used by the device policy decoder.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_OFF_HOURS_OFF_HOURS_PROTO_PARSER_H_
 #define CHROME_BROWSER_ASH_POLICY_OFF_HOURS_OFF_HOURS_PROTO_PARSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake start CRD session job delegate header
+// summary: Declares a fake StartCrdSessionJobDelegate used in tests to simulate CRD host startup, errors, and session termination.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_FAKE_START_CRD_SESSION_JOB_DELEGATE_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_FAKE_START_CRD_SESSION_JOB_DELEGATE_H_
 

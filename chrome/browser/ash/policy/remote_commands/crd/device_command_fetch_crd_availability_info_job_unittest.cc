@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fetch CRD availability info job unit tests
+// summary: Unit tests for the CRD availability info remote command, covering session types, policy, and network conditions.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/device_command_fetch_crd_availability_info_job.h"
 
 #include <cstdint>

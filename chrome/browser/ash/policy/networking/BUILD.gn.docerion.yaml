@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Ash policy networking
+summary: Defines the networking static library plus its unit test and browser test targets with their dependency lists.

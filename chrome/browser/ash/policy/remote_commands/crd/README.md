@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chrome Remote Desktop remote commands overview
+summary: Describes the directory controlling remotely triggered Chrome Remote Desktop sessions, its two remote commands and its public API classes.
+---
+
 Chrome Remote Desktop
 ---------------------
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-local account external data manager class
+// summary: Declares DeviceLocalAccountExternalDataManager, which downloads, verifies, caches and retrieves external data referenced by device-local account policies.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_DEVICE_LOCAL_ACCOUNT_EXTERNAL_DATA_MANAGER_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_DEVICE_LOCAL_ACCOUNT_EXTERNAL_DATA_MANAGER_H_
 

@@ -5,6 +5,12 @@
 // This file contains utilities to test all the possible user session types
 // that can be running on the local device when a remote command arrives.
 
+// ---docerion
+// type: test
+// title: User session type test utilities for remote commands
+// summary: Declares a TestSessionType enum and helper functions to start and map all user session types that can be active on the device when a remote command arrives.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_USER_SESSION_TYPE_TEST_UTIL_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_USER_SESSION_TYPE_TEST_UTIL_H_
 

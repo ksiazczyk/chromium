@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site isolation flag handling browser test
+// summary: Browser test verifying how login screen and user site isolation policies and flags set browser switches and isolated origins during user sign-in.
+// ---
+
 #include <ostream>
 #include <set>
 #include <string>

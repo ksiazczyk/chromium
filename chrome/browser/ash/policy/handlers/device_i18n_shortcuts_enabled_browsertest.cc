@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device i18n shortcuts enabled policy browser test
+// summary: Browser test checking that the DeviceI18nShortcutsEnabled device policy toggles the improved keyboard shortcuts feature on enterprise-managed devices.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "base/run_loop.h"
 #include "chrome/browser/ash/policy/core/device_policy_cros_browser_test.h"

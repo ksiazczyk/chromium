@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-local account external data manager
+// summary: Implements the external data manager for device-local accounts, proactively downloading and caching all referenced external data when the policy store loads.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/device_local_account_external_data_manager.h"
 
 #include <memory>

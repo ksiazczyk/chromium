@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake screenshot delegate header
+// summary: Declares FakeScreenshotDelegate, a test stand-in for the screenshot remote command delegate.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_FAKE_SCREENSHOT_DELEGATE_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_FAKE_SCREENSHOT_DELEGATE_H_
 

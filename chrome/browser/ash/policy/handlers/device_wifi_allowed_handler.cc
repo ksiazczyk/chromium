@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceWiFiAllowed policy handler implementation
+// summary: Applies the DeviceWiFiAllowed device policy by adding or removing Wi-Fi from shill's globally prohibited network technologies.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/device_wifi_allowed_handler.h"
 
 #include <vector>

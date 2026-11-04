@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printers external data handler header
+// summary: Declares the delegate handler that propagates user printers policy external data to the bulk printers calculator.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_PRINTERS_EXTERNAL_DATA_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_PRINTERS_EXTERNAL_DATA_HANDLER_H_
 

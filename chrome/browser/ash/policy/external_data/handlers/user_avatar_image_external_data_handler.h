@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User avatar image external data handler header
+// summary: Declares the delegate handler that observes user avatar image policy external data and delegates to the user image manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_USER_AVATAR_IMAGE_EXTERNAL_DATA_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_USER_AVATAR_IMAGE_EXTERNAL_DATA_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device command remote powerwash job unit tests
+// summary: Unit tests for the remote powerwash command job, covering command age limits and the powerwash start after the command ACK.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_remote_powerwash_job.h"
 
 #include <memory>

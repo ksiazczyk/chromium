@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device name policy handler implementation
+// summary: Implements the handler that observes hostname device settings and applies the device name policy by setting the hostname through NetworkStateHandler.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/device_name_policy_handler.h"
 
 #include <string_view>

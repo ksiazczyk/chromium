@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device printers external data handler unit tests
+// summary: Unit tests checking that fetched device printers policy data is applied to the calculator and cleared on policy removal.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/handlers/device_printers_external_data_handler.h"
 
 #include <memory>

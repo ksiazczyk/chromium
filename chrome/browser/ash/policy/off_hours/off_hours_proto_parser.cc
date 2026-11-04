@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffHours proto parser implementation
+// summary: Implements extraction of weekly time intervals, ignored policy proto tags, and timezone from the DeviceOffHours proto, plus conversion of the proto into a dictionary value for the policy map.
+// ---
+
 #include "chrome/browser/ash/policy/off_hours/off_hours_proto_parser.h"
 
 #include "base/time/default_clock.h"

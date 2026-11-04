@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud external data manager class declaration
+// summary: Declares UserCloudExternalDataManager, the ChromeOS implementation handling external data referenced by policies for regular users.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_USER_CLOUD_EXTERNAL_DATA_MANAGER_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_USER_CLOUD_EXTERNAL_DATA_MANAGER_H_
 

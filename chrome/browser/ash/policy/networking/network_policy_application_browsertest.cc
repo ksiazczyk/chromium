@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network policy application browser tests
+// summary: Browser tests verifying that enterprise network policies are applied on ChromeOS, including certificate enrollment and network configuration flows.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <map>

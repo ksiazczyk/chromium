@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for ChromeOS policy handlers
+summary: Defines the static library of ChromeOS device policy handler sources together with their public and private build dependencies.

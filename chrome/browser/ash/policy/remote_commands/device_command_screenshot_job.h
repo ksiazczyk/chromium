@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot remote command job header
+// summary: Declares the screenshot remote command job with its result codes and the delegate interface for checking permission, taking snapshots, and creating upload jobs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_SCREENSHOT_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_SCREENSHOT_JOB_H_
 

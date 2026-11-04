@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy certificate browser tests
+// summary: Browser tests verifying that policy-provided certificates are imported and trusted for managed users and device-local accounts on ChromeOS.
+// ---
+
 #include <memory>
 #include <string>
 

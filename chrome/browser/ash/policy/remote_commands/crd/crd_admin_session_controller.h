@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrdAdminSessionController class declaration
+// summary: Declares CrdAdminSessionController, which owns and keeps the active admin CRD session alive, including its RemotingServiceProxy interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_CRD_ADMIN_SESSION_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_CRD_ADMIN_SESSION_CONTROLLER_H_
 

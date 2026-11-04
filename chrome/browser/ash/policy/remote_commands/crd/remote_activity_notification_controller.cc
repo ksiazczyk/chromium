@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote activity notification controller implementation
+// summary: Implements the controller that shows a login-screen notification informing the local user that a remote admin was present after a curtained CRD session.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/remote_activity_notification_controller.h"
 
 #include <memory>

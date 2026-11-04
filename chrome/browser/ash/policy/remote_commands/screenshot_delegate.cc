@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot delegate implementation
+// summary: Implements the screenshot remote command delegate that captures a window snapshot and uploads it to the device management server.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/screenshot_delegate.h"
 
 #include <memory>

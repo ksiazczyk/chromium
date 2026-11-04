@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power policy browser tests
+// summary: Browser tests verifying ChromeOS power management policies, including login screen delays, idle actions, and screen lock delays applied via device policy.
+// ---
+
 #include <stdint.h>
 
 #include <string>

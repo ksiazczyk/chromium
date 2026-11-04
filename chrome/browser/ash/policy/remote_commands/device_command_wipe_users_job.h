@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device command wipe users job header
+// summary: Declares DeviceCommandWipeUsersJob, the remote command job that wipes user accounts on a ChromeOS device.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_WIPE_USERS_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_WIPE_USERS_JOB_H_
 

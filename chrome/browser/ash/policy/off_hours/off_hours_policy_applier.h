@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffHours policy applier declaration
+// summary: Declares ApplyOffHoursPolicyToProto, which returns device policies without the ignored policies so the system reverts to default behavior during OffHours.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_OFF_HOURS_OFF_HOURS_POLICY_APPLIER_H_
 #define CHROME_BROWSER_ASH_POLICY_OFF_HOURS_OFF_HOURS_POLICY_APPLIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DeviceOffHoursController
+// summary: Tests OffHours mode switching, session allowance checks, and interval handling using fake clocks, user managers, and device settings protos.
+// ---
+
 #include "chrome/browser/ash/policy/off_hours/device_off_hours_controller.h"
 
 #include <array>

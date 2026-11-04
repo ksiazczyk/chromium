@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRD session observer interface
+// summary: Observer interface that receives CRD session events such as host start, access code generation, client connection, and host stop.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_CRD_SESSION_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_CRD_SESSION_OBSERVER_H_
 

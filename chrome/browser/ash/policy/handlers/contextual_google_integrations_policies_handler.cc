@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Google integrations policies handler implementation
+// summary: Implements the handler that validates the ContextualGoogleIntegrations policies and maps known integrations to the corresponding ChromeOS preference.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/contextual_google_integrations_policies_handler.h"
 
 #include <memory>

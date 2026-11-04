@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preconfigured desk templates external data handler header
+// summary: Declares the delegate handler that passes preconfigured desk templates policy external data to DesksClient for per-user management.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_PRECONFIGURED_DESK_TEMPLATES_EXTERNAL_DATA_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_PRECONFIGURED_DESK_TEMPLATES_EXTERNAL_DATA_HANDLER_H_
 

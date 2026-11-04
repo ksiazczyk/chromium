@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device printers external data handler implementation
+// summary: Forwards DevicePrinters policy data to the bulk printers calculator on set, fetch, and clear events.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/handlers/device_printers_external_data_handler.h"
 
 #include <utility>

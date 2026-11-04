@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device cloud external data policy observer browser test
+// summary: Browser test verifying that the device external data observer fetches and clears external data for the DevicePrinters policy via an embedded test server.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/device_cloud_external_data_policy_observer.h"
 
 #include <memory>

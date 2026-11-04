@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash user remote commands factory
+// summary: Factory that builds remote command jobs for user-level command types such as ARC commands and browser extension update checks.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/user_commands_factory_ash.h"
 
 #include "base/notreached.h"

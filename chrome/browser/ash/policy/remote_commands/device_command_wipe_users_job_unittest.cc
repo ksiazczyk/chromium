@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device command wipe users job unit tests
+// summary: Unit tests for the wipe users remote command job, covering job creation, command lifetime and execution.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_wipe_users_job.h"
 
 #include <memory>

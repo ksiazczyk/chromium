@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device dock MAC address source handler implementation
+// summary: Implements the handler that maps the DeviceDockMacAddressSource policy setting to the USB Ethernet MAC address source applied via the network device handler.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/device_dock_mac_address_source_handler.h"
 
 #include "base/functional/bind.h"

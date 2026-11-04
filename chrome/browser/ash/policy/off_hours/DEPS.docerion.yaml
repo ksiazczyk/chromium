@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the off_hours directory
+summary: Restricts includes to the directory's own files and a small set of allowed //chrome dependencies, citing the ChromeOS rule against depending on //chrome.

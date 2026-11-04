@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrdAdminSessionController implementation
+// summary: Implements the long-lived controller that owns admin-initiated CRD sessions, handling curtain mode, session termination and reconnection.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/crd_admin_session_controller.h"
 
 #include <iomanip>

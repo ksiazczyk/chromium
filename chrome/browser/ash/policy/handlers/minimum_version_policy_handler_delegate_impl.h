@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minimum version policy handler delegate header
+// summary: Declares MinimumVersionPolicyHandlerDelegateImpl, the ChromeOS implementation of the MinimumVersionPolicyHandler delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_MINIMUM_VERSION_POLICY_HANDLER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_MINIMUM_VERSION_POLICY_HANDLER_DELEGATE_IMPL_H_
 

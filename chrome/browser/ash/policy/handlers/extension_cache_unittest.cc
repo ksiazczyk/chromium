@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension cache size policy unit test
+// summary: Unit test verifying that the ExtensionCacheSize policy limits the local extension cache and evicts the oldest extensions when full.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

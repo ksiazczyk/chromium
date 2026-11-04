@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device geolocation query remote command job implementation
+// summary: Implements the remote command job that queries the device geolocation, reports latitude, longitude and accuracy, and shows a notification when the location was saved.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_query_geolocation_job.h"
 
 #include "ash/constants/ash_pref_names.h"

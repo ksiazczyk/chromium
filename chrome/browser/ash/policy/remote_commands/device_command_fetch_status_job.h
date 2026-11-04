@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch status remote command job header
+// summary: Declares the DeviceCommandFetchStatusJob class that handles the DEVICE_FETCH_STATUS remote command.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_FETCH_STATUS_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_FETCH_STATUS_JOB_H_
 

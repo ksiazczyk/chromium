@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Force maximize on first run browser test
+// summary: Browser tests checking that the ForceMaximizeOnFirstRun policy maximizes the first browser window after login.
+// ---
+
 #include <string>
 
 #include "ash/public/cpp/login_screen_test_api.h"

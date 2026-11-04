@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRD UMA logger implementation
+// summary: Logs CRD session launch results to UMA histograms keyed by CRD session type and user session type.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/crd_uma_logger.h"
 
 #include "base/metrics/histogram_functions.h"

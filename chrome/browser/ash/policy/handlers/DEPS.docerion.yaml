@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for policy handlers
+summary: Specifies which //chrome includes are allowed in the policy handlers directory, with special include rules for test files.

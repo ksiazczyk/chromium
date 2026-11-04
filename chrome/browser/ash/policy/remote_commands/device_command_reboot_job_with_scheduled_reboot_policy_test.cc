@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reboot remote command with scheduled reboot policy tests
+// summary: Tests the interaction between the reboot remote command and the device scheduled reboot policy, including notification and dialog delays.
+// ---
+
 #include <memory>
 #include <utility>
 

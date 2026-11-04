@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device command start CRD session job unit tests
+// summary: Unit tests for the start CRD session remote command, covering session types, command payloads, result codes, and UMA logging.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/device_command_start_crd_session_job.h"
 
 #include <memory>

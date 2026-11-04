@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device command remote powerwash job implementation
+// summary: Implements the remote powerwash command job that starts a device wipe after the command is ACKed to the server, with a failsafe timer for network issues.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_remote_powerwash_job.h"
 
 #include <utility>

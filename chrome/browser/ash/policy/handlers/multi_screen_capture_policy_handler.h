@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-screen capture policy handler header
+// summary: Declares MultiScreenCapturePolicyHandler, a list policy handler validating isolated web app URLs for the multi-screen capture URL list policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_MULTI_SCREEN_CAPTURE_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_MULTI_SCREEN_CAPTURE_POLICY_HANDLER_H_
 

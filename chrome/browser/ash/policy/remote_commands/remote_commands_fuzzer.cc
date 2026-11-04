@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote commands payload parser fuzzer
+// summary: Fuzzer that exercises the command payload parsers of RemoteCommandJob subclasses such as screenshot, volume, CRD session, routine, and reboot jobs.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 #include <stddef.h>
 #include <stdint.h>

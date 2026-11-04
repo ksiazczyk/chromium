@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hostname template formatting header
+// summary: Declares FormatHostname, which builds a hostname from an administrator template by substituting device placeholders and returns an empty string if invalid.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_DEVICE_NAME_POLICY_HANDLER_NAME_GENERATOR_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_DEVICE_NAME_POLICY_HANDLER_NAME_GENERATOR_H_
 

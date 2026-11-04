@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device command remote powerwash job header
+// summary: Declares the RemoteCommandJob subclass that performs a remote powerwash by triggering a signed device wipe through the session manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_REMOTE_POWERWASH_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_REMOTE_POWERWASH_JOB_H_
 

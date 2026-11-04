@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB sideloading allowance mode policy handler implementation
+// summary: Applies the ADB sideloading device policy, registering prefs and showing notifications or planning a powerwash when sideloading is disallowed.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/adb_sideloading_allowance_mode_policy_handler.h"
 
 #include <optional>

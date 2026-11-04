@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printers external data handler implementation
+// summary: Implements the handler that forwards user printers policy external data to the per-user bulk printers calculator.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/handlers/printers_external_data_handler.h"
 
 #include <utility>

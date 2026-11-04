@@ -6,6 +6,12 @@
 // remote commands (`FETCH_CRD_AVAILABILITY_INFO` and
 // `DEVICE_START_CRD_SESSION`).
 
+// ---docerion
+// type: source
+// title: CRD remote command utilities
+// summary: Header declaring shared utilities for CRD remote commands, covering session types, device idle time, policy checks, and request origin conversion.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_CRD_REMOTE_COMMAND_UTILS_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_CRD_REMOTE_COMMAND_UTILS_H_
 

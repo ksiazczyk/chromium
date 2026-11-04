@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserCommandsFactoryAsh unit tests
+// summary: Unit tests verifying that the factory builds jobs for ARC commands and browser extension update checks.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/user_commands_factory_ash.h"
 
 #include <memory>

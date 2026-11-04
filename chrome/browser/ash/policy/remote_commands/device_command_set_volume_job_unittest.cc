@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Set volume job unit tests
+// summary: Unit tests for the set volume remote command job that verify volume changes and mute behavior using a fake audio client and an audio observer.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_set_volume_job.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Defines allowed include dependencies for this directory, restricting //chrome dependencies and granting exceptions, especially for tests.

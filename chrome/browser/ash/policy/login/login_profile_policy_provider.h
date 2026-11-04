@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login profile policy provider header
+// summary: Declares a policy provider that converts device policies into user policies for profiles without user policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_LOGIN_LOGIN_PROFILE_POLICY_PROVIDER_H_
 #define CHROME_BROWSER_ASH_POLICY_LOGIN_LOGIN_PROFILE_POLICY_PROVIDER_H_
 

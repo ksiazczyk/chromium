@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device command reset EUICC job header
+// summary: Declares the RemoteCommandJob subclass that clears the cellular EUICC memory, removing all eSIM profiles installed on the device.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_RESET_EUICC_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_RESET_EUICC_JOB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimum version policy test helpers header
+// summary: Declares helper functions for constructing DeviceMinimumVersion policy requirement and value dictionaries in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_MINIMUM_VERSION_POLICY_TEST_HELPERS_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_MINIMUM_VERSION_POLICY_TEST_HELPERS_H_
 

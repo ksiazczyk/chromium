@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-local account external data service
+// summary: Implements the service that provides external data managers for device-local accounts and purges cache entries belonging to removed accounts.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/device_local_account_external_data_service.h"
 
 #include <memory>

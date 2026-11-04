@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screenshot job unit tests
+// summary: Unit tests for the screenshot remote command job that use a mock upload job and generated PNG data to verify screenshot capture and upload behavior.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_screenshot_job.h"
 
 #include <map>

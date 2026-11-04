@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device command refresh machine certificate job implementation
+// summary: Implements the remote command job that refreshes and uploads the enterprise machine certificate on ChromeOS devices, with a 180-day command expiration time.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_refresh_machine_certificate_job.h"
 
 #include <algorithm>

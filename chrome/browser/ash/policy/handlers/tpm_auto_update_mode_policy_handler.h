@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM auto update mode policy handler header
+// summary: Declares the AutoUpdateMode enum and the TPMAutoUpdateModePolicyHandler class that drives the TPM firmware auto-update flow from device policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_TPM_AUTO_UPDATE_MODE_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_TPM_AUTO_UPDATE_MODE_POLICY_HANDLER_H_
 

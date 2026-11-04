@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in profile extensions policy test base implementation
+// summary: Implements the shared test base that sets up the login manager, embedded test server, and force-installed login screen extensions for policy tests.
+// ---
+
 #include "chrome/browser/ash/policy/login/signin_profile_extensions_policy_test_base.h"
 
 #include "ash/constants/ash_switches.h"

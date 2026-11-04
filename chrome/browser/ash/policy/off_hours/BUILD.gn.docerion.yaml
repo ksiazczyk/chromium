@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the off_hours static library and unit tests
+summary: Defines the off_hours static library sources and dependencies plus the testonly unit_tests source_set for the ChromeOS device OffHours policy code.

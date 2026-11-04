@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRD OAuth token fetcher implementation
+// summary: Implements real and fake OAuth token fetchers that request device OAuth access tokens with the scopes needed to start CRD sessions.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/crd_oauth_token_fetcher.h"
 
 #include <memory>

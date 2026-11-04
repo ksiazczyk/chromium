@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hostname template formatting implementation
+// summary: Implements FormatHostname, substituting template placeholders such as asset ID and serial number and validating the result against RFC 1035 hostname rules.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/device_name_policy_handler_name_generator.h"
 
 #include <string_view>

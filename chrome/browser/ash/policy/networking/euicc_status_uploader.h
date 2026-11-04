@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: eUICC status uploader class declaration
+// summary: Declares the EuiccStatusUploader class that observes Hermes, network, and policy changes to upload eSIM profile status to DMServer.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_NETWORKING_EUICC_STATUS_UPLOADER_H_
 #define CHROME_BROWSER_ASH_POLICY_NETWORKING_EUICC_STATUS_UPLOADER_H_
 

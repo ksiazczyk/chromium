@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth policy handler header
+// summary: Declares a handler that observes Bluetooth device settings and shuts down or configures the adapter accordingly.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_BLUETOOTH_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_BLUETOOTH_POLICY_HANDLER_H_
 

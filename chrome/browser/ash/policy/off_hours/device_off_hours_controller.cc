@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceOffHoursController implementation
+// summary: Implements the controller that turns OffHours mode on and off, tracks weekly intervals and end time, and checks whether current sessions are allowed only during OffHours.
+// ---
+
 #include "chrome/browser/ash/policy/off_hours/device_off_hours_controller.h"
 
 #include <optional>

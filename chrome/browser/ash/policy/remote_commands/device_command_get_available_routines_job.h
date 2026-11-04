@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get available diagnostic routines job class header
+// summary: Declares the RemoteCommandJob subclass that retrieves the diagnostic routines supported by the platform via cros_healthd.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_GET_AVAILABLE_ROUTINES_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_GET_AVAILABLE_ROUTINES_JOB_H_
 

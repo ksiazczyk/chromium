@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User avatar image external data handler implementation
+// summary: Implements the handler that forwards user avatar image policy data to the per-user image manager.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/handlers/user_avatar_image_external_data_handler.h"
 
 #include <utility>

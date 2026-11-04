@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM auto update mode policy handler
+// summary: Implements the handler for the TPMFirmwareUpdateSettings.AutoUpdateMode device policy that checks TPM firmware update availability and schedules notifications and updates.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/tpm_auto_update_mode_policy_handler.h"
 
 #include <utility>

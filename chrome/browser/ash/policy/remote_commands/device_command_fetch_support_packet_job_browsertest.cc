@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fetch support packet job browser tests
+// summary: Browser tests for the fetch support packet remote command job across kiosk, managed guest and affiliated user sessions, verifying support packet upload and reporting.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_fetch_support_packet_job.h"
 
 #include <cstdint>

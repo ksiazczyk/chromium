@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: eUICC status uploader implementation
+// summary: Implements the uploader that sends eSIM profile and eUICC status to the device management server, with exponential backoff retries.
+// ---
+
 #include "chrome/browser/ash/policy/networking/euicc_status_uploader.h"
 
 #include "ash/constants/ash_features.h"

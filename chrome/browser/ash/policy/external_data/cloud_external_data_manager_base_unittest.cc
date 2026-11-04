@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the base cloud external data manager
+// summary: Unit tests for CloudExternalDataManagerBase covering download, verification, caching and fetch behavior for policies referencing external data of various sizes.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/cloud_external_data_manager_base.h"
 
 #include <map>

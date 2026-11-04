@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wildcard login checker header
+// summary: Declares WildcardLoginChecker, an asynchronous check reporting whether a user is a hosted user permitted to log in under wildcard policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_LOGIN_WILDCARD_LOGIN_CHECKER_H_
 #define CHROME_BROWSER_ASH_POLICY_LOGIN_WILDCARD_LOGIN_CHECKER_H_
 

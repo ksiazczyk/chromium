@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceOffHoursController class declaration
+// summary: Declares the main OffHours controller with its observer interface, policy update and end-time accessors, noting it is owned by DeviceSettingsService and needs a synchronized clock.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_OFF_HOURS_DEVICE_OFF_HOURS_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_POLICY_OFF_HOURS_DEVICE_OFF_HOURS_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minimum version policy handler header
+// summary: Declares MinimumVersionPolicyHandler with requirement parsing, observers, and a delegate interface for enforcing minimum ChromeOS version policies.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_MINIMUM_VERSION_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_MINIMUM_VERSION_POLICY_HANDLER_H_
 

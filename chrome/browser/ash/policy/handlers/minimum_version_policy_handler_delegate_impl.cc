@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minimum version policy handler delegate implementation
+// summary: Implements the MinimumVersionPolicyHandler delegate, providing kiosk, management, session, and version checks plus update-required screen control on ChromeOS.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/minimum_version_policy_handler_delegate_impl.h"
 
 #include "base/check_deref.h"

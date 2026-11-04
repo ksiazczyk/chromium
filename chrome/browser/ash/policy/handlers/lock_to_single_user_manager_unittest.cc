@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock to single user manager unit test
+// summary: Unit test covering LockToSingleUserManager behavior using fake DBus clients, stub settings, and a test ARC session manager.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/lock_to_single_user_manager.h"
 
 #include <memory>

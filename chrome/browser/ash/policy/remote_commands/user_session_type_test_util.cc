@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User session type test utilities
+// summary: Test helpers that create users of session types such as kiosk, guest, and affiliated sessions and map them to proto session types.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/user_session_type_test_util.h"
 
 #include "base/check_deref.h"

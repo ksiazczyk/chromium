@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-screen capture policy handler
+// summary: Policy handler that validates MultiScreenCaptureAllowedForUrls entries as isolated web app URLs and applies them to the managed preference.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/multi_screen_capture_policy_handler.h"
 
 #include <string>

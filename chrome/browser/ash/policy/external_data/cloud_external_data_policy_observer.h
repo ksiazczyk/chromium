@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observer for external data policies across users
+// summary: Declares a helper that observes a given policy, fetches its external data for all users on the device, and emits notifications when references are set, cleared or fetched.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_CLOUD_EXTERNAL_DATA_POLICY_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_CLOUD_EXTERNAL_DATA_POLICY_OBSERVER_H_
 

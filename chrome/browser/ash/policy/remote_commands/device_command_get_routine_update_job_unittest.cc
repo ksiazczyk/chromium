@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Get diagnostic routine update job unit tests
+// summary: Unit tests for the get routine update remote command job, verifying payload parsing and interactive and noninteractive update results.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_get_routine_update_job.h"
 
 #include <limits>

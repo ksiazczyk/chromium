@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device reboot remote command job implementation
+// summary: Implements the device reboot remote command, handling kiosk, login screen and user session cases with a configurable user session reboot delay.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_reboot_job.h"
 
 #include <utility>

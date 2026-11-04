@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Curtain mode ChromeOS browser test
+// summary: Browser pixel tests verifying the remote maintenance security curtain rendering in dark and light color schemes.
+// ---
+
 #include "ash/curtain/remote_maintenance_curtain_view.h"
 #include "ash/curtain/security_curtain_widget_controller.h"
 #include "ash/public/cpp/ash_web_view.h"

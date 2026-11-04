@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device geolocation query remote command job header
+// summary: Declares the RemoteCommandJob subclass handling the QUERY_GEOLOCATION remote command, including preference registration and the location-reported notification.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_QUERY_GEOLOCATION_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_QUERY_GEOLOCATION_JOB_H_
 

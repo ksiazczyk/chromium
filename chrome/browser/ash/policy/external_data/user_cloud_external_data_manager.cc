@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud external data manager implementation
+// summary: Implements the manager that downloads, verifies, caches and retrieves external data referenced by user policies on ChromeOS, backed by a resource cache.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/user_cloud_external_data_manager.h"
 
 #include <memory>

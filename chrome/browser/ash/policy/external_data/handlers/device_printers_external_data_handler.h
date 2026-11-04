@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevicePrintersExternalDataHandler class header
+// summary: Declares the handler that observes the DevicePrinters policy and passes its external data to the printers calculator.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_DEVICE_PRINTERS_EXTERNAL_DATA_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_DEVICE_PRINTERS_EXTERNAL_DATA_HANDLER_H_
 

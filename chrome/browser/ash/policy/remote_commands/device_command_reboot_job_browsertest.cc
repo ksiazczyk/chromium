@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device reboot remote command job browser tests
+// summary: Browser tests verifying that the reboot remote command reboots devices instantly in kiosk and managed guest sessions.
+// ---
+
 #include <type_traits>
 
 #include "chrome/browser/ash/app_mode/test/kiosk_mixin.h"

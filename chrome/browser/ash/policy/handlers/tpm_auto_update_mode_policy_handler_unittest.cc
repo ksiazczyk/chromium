@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TPM auto update mode policy handler unit tests
+// summary: Unit tests verifying that TPM firmware updates are triggered or suppressed according to the TPMFirmwareUpdateSettings.AutoUpdateMode device policy.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/tpm_auto_update_mode_policy_handler.h"
 
 #include <utility>

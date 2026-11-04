@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get available diagnostic routines remote command job
+// summary: Implements the remote command job that queries cros_healthd for the list of available diagnostic routines and returns them as a JSON payload.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_get_available_routines_job.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helpers for external data policy references
+// summary: Provides test helpers that construct external data references and policies from embedded test server URLs and test data files, including SHA256 hash computation.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/cloud_external_data_manager_base_test_util.h"
 
 #include <utility>

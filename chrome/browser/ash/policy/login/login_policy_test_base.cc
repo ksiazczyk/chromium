@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login policy test base implementation
+// summary: Implements a test base class that sets user policy and fake Gaia configuration before login for policy browser tests.
+// ---
+
 #include "chrome/browser/ash/policy/login/login_policy_test_base.h"
 
 #include <memory>

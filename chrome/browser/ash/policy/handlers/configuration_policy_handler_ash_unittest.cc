@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash configuration policy handler unit tests
+// summary: Unit tests for the Ash configuration policy handlers, covering screen magnifier, external data, and login screen power management policy handling.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/configuration_policy_handler_ash.h"
 
 #include <memory>

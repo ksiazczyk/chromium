@@ -1,0 +1,4 @@
+# Docerion header of HEALTHD_OWNERS.
+type: config
+title: HEALTHD_OWNERS
+summary: Lists the owners responsible for reviewing diagnostic routine remote command files related to cros_healthd.

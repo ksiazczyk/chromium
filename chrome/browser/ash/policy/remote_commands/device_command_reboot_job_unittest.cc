@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device reboot remote command job unit tests
+// summary: Unit tests for the reboot remote command, covering command expiration and reboot behavior in kiosk, logged-out and regular user sessions.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_reboot_job.h"
 
 #include <memory>

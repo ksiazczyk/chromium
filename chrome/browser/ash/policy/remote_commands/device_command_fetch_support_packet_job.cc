@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch support packet remote command job implementation
+// summary: Implements the FETCH_SUPPORT_PACKET remote command that collects, redacts and uploads support packets for admin-requested issues.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_fetch_support_packet_job.h"
 
 #include <algorithm>

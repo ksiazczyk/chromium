@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print servers external data handler implementation
+// summary: Implements the handler that propagates ExternalPrintServers policy data to the per-user print servers provider.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/handlers/print_servers_external_data_handler.h"
 
 #include <utility>

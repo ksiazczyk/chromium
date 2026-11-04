@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fetch support packet job unit tests
+// summary: Unit tests for the fetch support packet remote command job, covering payload handling across kiosk, public account and regular user sessions.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_fetch_support_packet_job.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login screen accessibility policy browser test
+// summary: Browser tests verifying that login screen accessibility device policies update signin profile preferences correctly.
+// ---
+
 #include <string>
 
 #include "ash/accessibility/accessibility_controller.h"

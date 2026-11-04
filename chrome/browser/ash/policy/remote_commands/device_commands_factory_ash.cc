@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash device commands factory implementation
+// summary: Implements the factory that builds the job object for each supported ChromeOS device remote command type.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_commands_factory_ash.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot delegate header
+// summary: Declares ScreenshotDelegate, the DeviceCommandScreenshotJob delegate that grabs window snapshots and creates upload jobs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_SCREENSHOT_DELEGATE_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_SCREENSHOT_DELEGATE_H_
 
