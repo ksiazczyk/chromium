@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotation marking tests as disabled
+// summary: Marks test methods or classes as disabled so they are skipped on normal bots, with an optional message.
+// ---
+
 package org.chromium.base.test.util;
 
 import java.lang.annotation.ElementType;

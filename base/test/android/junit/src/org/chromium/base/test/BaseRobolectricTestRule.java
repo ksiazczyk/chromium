@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default JUnit rule for BaseRobolectricTestRunner test setup and teardown
+// summary: Test rule that sets up and tears down Chromium base globals, feature flags, executors and locale settings around each Robolectric test.
+// ---
+
 package org.chromium.base.test;
 
 import android.content.Context;

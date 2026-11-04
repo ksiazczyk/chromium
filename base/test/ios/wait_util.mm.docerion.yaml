@@ -1,0 +1,4 @@
+# Docerion header of wait_util.mm.
+type: test
+title: iOS test wait utility implementation
+summary: Implements run-loop spinning and condition waiting with timeouts used by iOS tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeTimeTestRule
+// summary: JUnit test rule that installs a fake clock into TimeUtils so tests can reset and advance uptime, elapsed realtime, thread time, and wall-clock time.
+// ---
+
 package org.chromium.base;
 
 import androidx.annotation.GuardedBy;

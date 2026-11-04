@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommandLineFlagsNoClassAnnotationCheckTest
+// summary: Tests CommandLineFlags.Add and Remove behavior on test methods when no class-level CommandLineFlags annotation is present.
+// ---
+
 package org.chromium.base.test.util;
 
 import org.junit.Assert;

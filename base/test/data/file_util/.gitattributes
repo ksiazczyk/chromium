@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Git attributes for CRLF test fixtures
+# summary: Marks the CRLF test fixtures in this directory so Git does not convert their line endings.
+# ---
+
 /blank_line_crlf.txt -text
 /crlf.txt -text

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Public Transit framework documentation
+summary: Explains the Public Transit framework for modeling app states and transitions in integration tests, covering features, concepts, classes, and guidance.
+relations:
+  - references /base/test/android/javatests/src/org/chromium/base/test/transit/autocomplete.webp
+  - references /base/test/android/javatests/src/org/chromium/base/test/transit/getting_started.md
+  - references /base/test/android/javatests/src/org/chromium/base/test/transit/public_transit.webp
+---
+
 # ![Logo](public_transit.webp) Public Transit
 
 Public Transit is a framework for integration tests that models application

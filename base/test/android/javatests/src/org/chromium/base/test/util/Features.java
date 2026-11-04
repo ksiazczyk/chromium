@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Features annotations to enable or disable features in tests
+// summary: Provides EnableFeatures and DisableFeatures annotations and resets cached feature flag values for testing.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.content.SharedPreferences;

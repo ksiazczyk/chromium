@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleConditions factory for lambda-based conditions
+// summary: Offers factory methods to build conditions from lambdas running on the UI or instrumentation thread, avoiding the need to subclass Condition.
+// ---
+
 package org.chromium.base.test.transit;
 
 import java.util.function.Function;

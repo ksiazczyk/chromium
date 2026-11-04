@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActivityFinisher helpers for finishing Android activities in tests
+// summary: Provides helpers to snapshot running activities and finish all of them with retries and timeouts, complementing AndroidX's test runner which lacks timeout support.
+// ---
+
 package org.chromium.base.test;
 
 import android.app.Activity;

@@ -1,0 +1,4 @@
+# Docerion header of serializer_test_nowhitespace.json.
+type: test
+title: Serializer test data without whitespace
+summary: Compact JSON test fixture with the same values as the serializer test data but formatted without whitespace, for comparing serializer output.

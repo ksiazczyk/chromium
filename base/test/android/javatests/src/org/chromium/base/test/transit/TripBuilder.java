@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Builder for Public Transit transitions
+// summary: Builder that composes triggers, options and the ConditionalStates to enter and exit into a Transition, with context from Stations or Facilities.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collection of elements defining a ConditionalState
+// summary: Holds the elements that define a ConditionalState and provides a builder to declare activities, views and other enter or exit conditions.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static org.chromium.base.test.transit.ViewSpec.viewSpec;

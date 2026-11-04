@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Callback helper that captures payloads for test assertions
+// summary: Wraps CallbackHelper to record callback payloads so tests can block until a payload arrives and assert on it, reducing the need for identical callback subclasses.
+// ---
+
 package org.chromium.base.test.util;
 
 import androidx.annotation.Nullable;

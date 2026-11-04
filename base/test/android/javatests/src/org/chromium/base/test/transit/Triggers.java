@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common triggers for starting transitions
+// summary: Factory methods for TripBuilder triggers such as no-op, running a function on the instrumentation or UI thread, and pressing back.
+// ---
+
 package org.chromium.base.test.transit;
 
 import androidx.test.espresso.Espresso;

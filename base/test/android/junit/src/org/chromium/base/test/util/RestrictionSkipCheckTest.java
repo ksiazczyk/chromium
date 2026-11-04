@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RestrictionSkipCheckTest
+// summary: Unit tests for RestrictionSkipCheck, covering restriction annotations on methods, classes, superclasses and unregistered restrictions.
+// ---
+
 package org.chromium.base.test.util;
 
 import org.junit.Assert;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FragmentElement for fragment presence in Stations and Facilities
+// summary: Represents a Fragment that must exist and be visible for a Station or Facility to be active, providing enter and exit conditions searched via the fragment manager.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.view.View;

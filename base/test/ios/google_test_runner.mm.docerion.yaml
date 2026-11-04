@@ -1,0 +1,4 @@
+# Docerion header of google_test_runner.mm.
+type: test
+title: XCTest runner for Google tests on iOS
+summary: XCTest case that verifies the app delegate supports and runs Google tests through the GoogleTestRunnerDelegate protocol.

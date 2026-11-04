@@ -1,0 +1,4 @@
+# Docerion header of native-library-Info.plist.
+type: config
+title: native-library-Info.plist
+summary: Info.plist describing the native framework library bundle built for iOS test support.

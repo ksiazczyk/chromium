@@ -1,0 +1,4 @@
+# Docerion header of first2.txt.
+type: test
+title: first2.txt
+summary: Test fixture with two lines where the first line matches a counterpart and the second differs, used by file utility tests.

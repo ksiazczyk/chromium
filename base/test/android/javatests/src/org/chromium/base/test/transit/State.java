@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: State, a standalone ConditionalState
+// summary: Implements a lightweight ConditionalState that is not tied to a Station and can declare its own elements and activity.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.app.Activity;

@@ -1,0 +1,4 @@
+# Docerion header of bom_feff.json.
+type: test
+title: JSON test fixture with U+FEFF byte order mark
+summary: Test fixture containing a small messages-style JSON object with app name and Arabic description strings, named for the U+FEFF byte order mark it exercises.

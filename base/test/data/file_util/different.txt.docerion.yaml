@@ -1,0 +1,4 @@
+# Docerion header of different.txt.
+type: test
+title: Different content fixture
+summary: Test fixture with content that differs from its matching counterpart in file comparison tests.

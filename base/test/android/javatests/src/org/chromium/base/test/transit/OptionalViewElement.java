@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionalViewElement for lazily checked views
+// summary: Defines a lazily-checked view element in the Public Transit framework whose enter and exit conditions are deferred until interaction or explicit presence checks.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.view.View;

@@ -1,0 +1,4 @@
+# Docerion header of original.txt.
+type: test
+title: original.txt
+summary: Test fixture containing the line 'This file is the same.' and serving as the original for file comparison tests.

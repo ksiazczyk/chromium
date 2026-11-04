@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'SkipCheckTest: unit tests for annotation lookup used by skip checks'
+// summary: Robolectric unit tests verifying that AnnotationProcessingUtils collects annotations from methods, classes and superclasses for SkipCheck handling.
+// ---
+
 package org.chromium.base.test.util;
 
 import org.junit.Assert;

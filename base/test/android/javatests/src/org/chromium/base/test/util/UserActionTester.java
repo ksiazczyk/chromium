@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserActionTester that records user actions
+// summary: Records user action metrics during tests and exposes the recorded actions and counts for assertions.
+// ---
+
 package org.chromium.base.test.util;
 
 import androidx.annotation.GuardedBy;

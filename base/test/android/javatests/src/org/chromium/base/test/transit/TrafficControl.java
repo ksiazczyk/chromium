@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Station and active-state tracker for Public Transit
+// summary: Tracks existing and active Stations, the current test case for batched tests, and hop-off listeners for the Public Transit framework.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.app.Activity;

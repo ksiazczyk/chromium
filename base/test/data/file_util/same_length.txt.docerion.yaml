@@ -1,0 +1,4 @@
+# Docerion header of same_length.txt.
+type: test
+title: same_length.txt
+summary: Test fixture with the same byte length as original.txt but different text, used for file comparison tests.

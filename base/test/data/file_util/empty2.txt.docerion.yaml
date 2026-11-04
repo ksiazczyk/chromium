@@ -1,0 +1,4 @@
+# Docerion header of empty2.txt.
+type: test
+title: Empty file fixture two
+summary: Second empty text file used as a test fixture for file utility and comparison tests.

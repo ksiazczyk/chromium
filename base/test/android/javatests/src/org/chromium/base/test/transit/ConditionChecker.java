@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionChecker for one-time Condition spot checks
+// summary: Spot checks a list of Conditions once to assert preconditions, throwing an AssertionError with a summary when any check fails or errors.
+// ---
+
 package org.chromium.base.test.transit;
 
 import org.chromium.base.ThreadUtils;

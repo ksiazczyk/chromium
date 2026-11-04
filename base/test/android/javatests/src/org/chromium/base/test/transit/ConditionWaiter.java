@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionWaiter polling Conditions until fulfilled
+// summary: Polls multiple Conditions in parallel until they are fulfilled or time out, tracking status histories and calculating transition timeout budgets.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

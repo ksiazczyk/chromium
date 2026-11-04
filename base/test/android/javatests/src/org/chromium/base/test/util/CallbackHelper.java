@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CallbackHelper
+// summary: Test helper that tracks callback invocations and lets tests block until a callback has been called an expected number of times.
+// ---
+
 package org.chromium.base.test.util;
 
 import androidx.annotation.Nullable;

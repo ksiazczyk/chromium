@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ApplicationContextWrapper
+// summary: Context wrapper for tests that keeps getApplicationContext() calls from escaping the wrapper when wrapping an Application.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.content.ComponentCallbacks;

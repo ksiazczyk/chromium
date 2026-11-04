@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputHintCheckerTestUtil
+// summary: Creates an Android View on request from native code for input hint checking tests.
+// ---
+
 package org.chromium.base;
 
 import android.view.View;

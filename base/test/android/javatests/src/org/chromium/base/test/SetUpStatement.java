@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SetUpStatement for test rule setup
+// summary: JUnit statement that runs a test rule's setUp logic before evaluating the wrapped statement when setup is enabled.
+// ---
+
 package org.chromium.base.test;
 
 import org.junit.rules.TestRule;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skip check for DisableIf annotations
+// summary: SkipCheck implementation that skips tests whose DisableIf.Build or DisableIf.Device annotations match the current device.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.os.Build;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParameterizedRunnerDelegateCommon
+// summary: Implements the common delegated behavior for parameterized runners, including test method computation and test instance creation from a parameter set.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.runners.model.FrameworkMethod;

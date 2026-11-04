@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conditions and status messages for Android Views
+// summary: Provides Conditions related to Android Views plus helpers that build status messages describing matching and displayed views.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static org.chromium.base.test.util.ViewPrinter.Options.PRINT_SHALLOW;

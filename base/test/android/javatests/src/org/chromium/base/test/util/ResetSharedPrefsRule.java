@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JUnit rule to reset SharedPreferences after each test
+// summary: JUnit TestRule that clears all application SharedPreferences after each test method, useful for on-device tests that otherwise only reset between classes.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.content.Context;

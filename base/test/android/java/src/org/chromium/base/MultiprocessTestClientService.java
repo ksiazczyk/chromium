@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiprocess test client service
+// summary: Android service that hosts all multiprocess test client code by delegating its lifecycle and binding to a ChildProcessService with a MultiprocessTestClientServiceDelegate.
+// ---
+
 package org.chromium.base;
 
 import android.app.Service;

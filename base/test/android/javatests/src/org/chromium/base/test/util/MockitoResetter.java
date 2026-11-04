@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mockito state resetter for Android tests
+// summary: Resets and clears internal Mockito state on the Instrumentation and main threads to prevent memory leaks from mocks and stubbing across Android tests.
+// ---
+
 package org.chromium.base.test.util;
 
 import androidx.test.InstrumentationRegistry;

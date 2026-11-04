@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MinAndroidSdkLevel annotation for skipping tests below an API level
+// summary: Defines a Java annotation that skips the annotated test when the device's Android API level is lower than the given value, with an optional reason.
+// ---
+
 package org.chromium.base.test.util;
 
 import java.lang.annotation.ElementType;

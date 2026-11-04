@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SetUpStatement with SetUpTestRule
+// summary: JUnit tests verifying that SetUpStatement runs or skips SetUpTestRule setup depending on the shouldSetUp flag.
+// ---
+
 package org.chromium.base.test;
 
 import org.junit.Assert;

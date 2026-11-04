@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotation for parameterized command-line flags
+// summary: Defines annotations to run tests multiple times with different command-line flag sets written to the command-line flags file.
+// ---
+
 package org.chromium.base.test.params;
 
 import java.lang.annotation.ElementType;

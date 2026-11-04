@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Global LeakCanary leak suppressions
+// summary: Supplies globally suppressed instance-field leaks, such as Android's InteractionJankMonitor, for LeakCanary checks across tests.
+// ---
+
 package org.chromium.base.test.util;
 
 import org.chromium.base.test.util.LeakCanaryChecker.LeakCanaryConfigProvider;

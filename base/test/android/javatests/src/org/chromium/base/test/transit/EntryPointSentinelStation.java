@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sentinel entry point station for Public Transit tests
+// summary: First station in all Public Transit tests, acting as a non-null origin sentinel for the first transition without entering via a transition.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.app.Activity;

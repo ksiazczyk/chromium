@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnnotationProcessingUtils
+// summary: Utility class for collecting and ordering JUnit annotations from test classes, methods, and descriptions, including meta-annotations.
+// ---
+
 package org.chromium.base.test.util;
 
 import androidx.annotation.Nullable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionalState base class for Public Transit test states
+// summary: Abstract base class for test states with a linear lifecycle of phases and enter/exit conditions, extended by Station and Facility.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static org.junit.Assert.fail;

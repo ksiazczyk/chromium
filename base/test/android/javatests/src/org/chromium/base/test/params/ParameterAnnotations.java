@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotations for parameterized tests
+// summary: Defines annotations such as UseMethodParameter, ClassParameter, RuleParameter, and UseRunnerDelegate for Chromium's parameterized test framework.
+// ---
+
 package org.chromium.base.test.params;
 
 import java.lang.annotation.ElementType;

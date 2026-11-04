@@ -1,0 +1,4 @@
+# Docerion header of crlf.txt.
+type: test
+title: CRLF line-ending fixture
+summary: Test fixture whose single line ends with CRLF, used for file comparison tests.

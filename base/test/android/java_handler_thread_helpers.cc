@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Java handler thread test helpers implementation
+// summary: Implements JNI-backed test helpers for creating JavaHandlerThread instances and throwing and checking test exceptions.
+// ---
+
 #include "base/test/android/java_handler_thread_helpers.h"
 
 #include "base/android/java_handler_thread.h"

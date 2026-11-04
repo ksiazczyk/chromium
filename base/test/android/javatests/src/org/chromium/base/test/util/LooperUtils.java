@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Looper test utilities
+// summary: Test helper that runs a single nested Looper task by reflecting into the message queue and dispatching the next message.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.os.Handler;

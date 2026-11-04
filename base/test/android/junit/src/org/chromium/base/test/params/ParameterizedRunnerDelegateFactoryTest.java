@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the ParameterizedRunnerDelegateFactory
+// summary: JUnit tests for ParameterizedRunnerDelegateFactory, checking that bad runner delegates raise exceptions and that parameterized framework method lists are generated correctly.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.Assert;

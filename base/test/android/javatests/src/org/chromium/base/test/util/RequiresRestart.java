@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotation to run a test method in a fresh process
+// summary: Annotation that overrides a Batch annotation so a single test method runs in a fresh process, with an optional message explaining why a restart is needed.
+// ---
+
 package org.chromium.base.test.util;
 
 import java.lang.annotation.ElementType;

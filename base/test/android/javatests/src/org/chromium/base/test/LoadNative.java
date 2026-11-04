@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadNative annotation for test methods
+// summary: Runtime annotation marking a test method as intended to load native libraries.
+// ---
+
 package org.chromium.base.test;
 
 import java.lang.annotation.ElementType;

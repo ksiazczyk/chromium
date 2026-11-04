@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallbackCondition for expected callback counts
+// summary: Condition that is fulfilled once a CallbackHelper receives the expected number of callback invocations, tracking the count since monitoring started.
+// ---
+
 package org.chromium.base.test.transit;
 
 import androidx.annotation.CallSuper;

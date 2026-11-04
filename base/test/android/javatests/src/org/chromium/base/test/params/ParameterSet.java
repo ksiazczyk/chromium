@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parameter set for a single parameterized test
+// summary: Represents one set of immutable argument values, with an optional name, used to invoke a parameterized test method or class constructor.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.Assert;

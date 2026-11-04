@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JUnit4 suite runner for class-parameterized tests
+// summary: Suite-based runner that validates test classes and creates a delegate runner for each ParameterSet annotated with ClassParameter.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.Test;

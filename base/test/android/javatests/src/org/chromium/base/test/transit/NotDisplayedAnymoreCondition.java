@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Condition for views not displayed anymore
+// summary: UI thread condition fulfilled when no views matching a matcher are displayed anymore, evaluating matches across the roots of a RootSpec.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Example test for the ParameterizedRunner JUnit runner
+// summary: Example JUnit test demonstrating ParameterizedRunner usage with class parameters, method parameters, and before, after, and runner delegate annotations.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.Assert;

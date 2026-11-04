@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract base rule for method parameter annotations
+// summary: Abstract MethodRule base class that reads the UseMethodParameter annotation and supplies parameter values to concrete rule implementations.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.rules.MethodRule;

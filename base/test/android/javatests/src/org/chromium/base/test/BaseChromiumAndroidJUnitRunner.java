@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseChromiumAndroidJUnitRunner instrumentation runner
+// summary: AndroidJUnitRunner subclass that installs in-memory SharedPreferences and applies flakiness reductions, timeout scaling, trace collection, and test-list mode for Chromium tests.
+// ---
+
 package org.chromium.base.test;
 
 import android.app.Activity;

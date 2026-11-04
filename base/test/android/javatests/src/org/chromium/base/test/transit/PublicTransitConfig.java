@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PublicTransitConfig debugging and exception options
+// summary: Provides static configuration for Public Transit tests, including transition pauses, exception callbacks, and freezing on TravelException for debugging.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.widget.Toast;

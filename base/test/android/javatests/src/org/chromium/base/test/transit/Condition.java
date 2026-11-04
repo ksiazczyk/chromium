@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Condition base class for state transition checks
+// summary: Abstract base class for Conditions that must be fulfilled for a state transition, supporting custom timeouts, thread selection and binding to states or transitions.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.util.ArrayMap;

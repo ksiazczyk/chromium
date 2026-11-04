@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for base/test/android
+summary: Assigns the base/test/android directory to the Test>Android component in monorail and buganizer tracking.

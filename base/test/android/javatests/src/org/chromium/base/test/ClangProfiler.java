@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClangProfiler JNI bridge for writing profiling profiles
+// summary: Exposes a JNI call that writes the Clang profiling profile to the configured LLVM_PROFILE_FILE path, as a no-op unless Clang coverage is enabled at build time.
+// ---
+
 package org.chromium.base.test;
 
 import org.jni_zero.JNINamespace;

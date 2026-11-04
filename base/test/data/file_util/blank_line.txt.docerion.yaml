@@ -1,0 +1,4 @@
+# Docerion header of blank_line.txt.
+type: test
+title: Blank line fixture with LF endings
+summary: Test fixture containing a blank line with LF line endings for file utility tests.

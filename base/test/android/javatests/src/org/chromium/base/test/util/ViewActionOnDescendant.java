@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Espresso ViewAction to perform actions on descendant views
+// summary: Provides an Espresso ViewAction that performs another ViewAction on a matching descendant view, with helpers for acting on RecyclerView items.
+// ---
+
 package org.chromium.base.test.util;
 
 import static androidx.test.espresso.Espresso.onView;

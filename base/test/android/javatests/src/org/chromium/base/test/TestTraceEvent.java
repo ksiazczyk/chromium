@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestTraceEvent tracing utility for test runs
+// summary: Records begin, end and instant trace events during test runs and dumps them as JSON trace data to an output file.
+// ---
+
 package org.chromium.base.test;
 
 import org.json.JSONArray;

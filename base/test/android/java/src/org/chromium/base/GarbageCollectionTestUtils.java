@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Garbage collection test utilities
+// summary: Runs repeated garbage collection cycles to check whether an object held by a weak reference can be garbage collected in tests.
+// ---
+
 package org.chromium.base;
 
 import java.lang.ref.WeakReference;

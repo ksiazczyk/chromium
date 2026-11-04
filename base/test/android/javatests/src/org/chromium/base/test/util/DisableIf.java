@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotations for conditional test disabling
+// summary: Defines DisableIf.Build and DisableIf.Device annotations to temporarily disable tests based on SDK level, ABI, hardware, or device type.
+// ---
+
 package org.chromium.base.test.util;
 
 import java.lang.annotation.ElementType;

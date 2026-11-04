@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PayloadCallbackCondition for callbacks with payload
+// summary: Defines a condition that waits for a single callback with a payload to be received and provides the payload as its result.
+// ---
+
 package org.chromium.base.test.transit;
 
 import androidx.annotation.CallSuper;

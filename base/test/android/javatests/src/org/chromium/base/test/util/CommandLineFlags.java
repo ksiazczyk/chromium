@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Command-line flag annotations for tests
+// summary: Provides Add and Remove annotations to set command-line flags and feature field trials for Robolectric and on-device tests.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.text.TextUtils;

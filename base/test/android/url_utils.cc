@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android test URL utilities implementation
+// summary: Implements a JNI bridge that returns the isolated test data directory root for Android tests.
+// ---
+
 #include "base/test/android/url_utils.h"
 
 #include "base/android/jni_string.h"

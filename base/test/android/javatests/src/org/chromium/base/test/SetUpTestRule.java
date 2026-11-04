@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SetUpTestRule interface for pre-test setup
+// summary: Interface for test rules that can automatically run setup logic before @Before methods, with a chainable shouldSetUp option.
+// ---
+
 package org.chromium.base.test;
 
 import org.junit.rules.TestRule;

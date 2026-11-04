@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImportantFormFactors annotation
+// summary: Annotation marking form factors where a test is important to run, ensuring commit-queue coverage for those platforms.
+// ---
+
 package org.chromium.base.test.util;
 
 import java.lang.annotation.ElementType;

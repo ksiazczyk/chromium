@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionStatus result of a Condition check
+// summary: Holds the outcome of a Condition check with a status such as fulfilled, not fulfilled, error or awaiting, an optional message and a timestamp.
+// ---
+
 package org.chromium.base.test.transit;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiprocessTestClientLauncher
+// summary: Launches and tracks test client child processes over the process launcher service for multiprocess unit tests.
+// ---
+
 package org.chromium.base;
 
 import android.os.Handler;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Espresso click action tolerating partial visibility
+// summary: Espresso ViewAction that clicks or long-clicks a View regardless of how much of it is displayed.
+// ---
+
 package org.chromium.base.test.util;
 
 import static org.hamcrest.CoreMatchers.instanceOf;

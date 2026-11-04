@@ -1,0 +1,4 @@
+# Docerion header of ITestCallback.aidl.
+type: test
+title: ITestCallback AIDL interface
+summary: AIDL interface through which a child test process reports its controller connection and main method return code to the parent.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS test wait utility header
+// summary: Declares timeout constants and run-loop helpers for waiting on conditions, UI elements, page loads, and other actions in iOS tests.
+// ---
+
 #ifndef BASE_TEST_IOS_WAIT_UTIL_H_
 #define BASE_TEST_IOS_WAIT_UTIL_H_
 

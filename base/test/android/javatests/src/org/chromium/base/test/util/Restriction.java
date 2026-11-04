@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotation listing restrictions for test methods
+// summary: Annotation for listing restrictions such as internet access, camera availability, or non-Chrome branding that limit the configurations where a test is valid.
+// ---
+
 package org.chromium.base.test.util;
 
 import java.lang.annotation.ElementType;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LeakCanary leak check integration
+// summary: Runs LeakCanary leak assertions after test classes, controlled by annotations, command-line flags, and pluggable custom leak patterns.
+// ---
+
 package org.chromium.base.test.util;
 
 import leakcanary.LeakAssertions;

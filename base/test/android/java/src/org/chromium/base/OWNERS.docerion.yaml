@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for AIDL files
+summary: Per-file OWNERS rules that route changes to AIDL files in this directory to the IPC security owners.

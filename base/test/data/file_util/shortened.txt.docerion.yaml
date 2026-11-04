@@ -1,0 +1,4 @@
+# Docerion header of shortened.txt.
+type: test
+title: shortened.txt
+summary: Test fixture holding a shortened prefix of the original text without a trailing newline, used by file utility tests.

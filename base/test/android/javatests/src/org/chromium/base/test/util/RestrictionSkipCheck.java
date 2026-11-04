@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skip check that evaluates test restrictions
+// summary: SkipCheck that evaluates Restriction annotations through registered handlers and skips tests whose restrictions are met, raising an error on unknown values.
+// ---
+
 package org.chromium.base.test.util;
 
 import org.junit.runners.model.FrameworkMethod;

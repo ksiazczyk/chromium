@@ -1,0 +1,4 @@
+# Docerion header of ITestController.aidl.
+type: test
+title: ITestController AIDL interface
+summary: AIDL interface for controlling test child processes, offering synchronous and asynchronous forced termination with an exit code.

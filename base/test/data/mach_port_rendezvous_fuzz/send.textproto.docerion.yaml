@@ -1,0 +1,4 @@
+# Docerion header of send.textproto.
+type: test
+title: Mach port rendezvous fuzz input with a send local port
+summary: Fuzzing corpus input for the Mach port rendezvous fuzzer that sets the local port to SEND with a fixed message id and no complex body.

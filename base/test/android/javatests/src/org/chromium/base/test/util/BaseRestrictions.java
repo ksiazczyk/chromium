@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseRestrictions
+// summary: Registers restriction handlers that check network availability, camera presence, and Chrome branding to skip restricted tests.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.content.Context;

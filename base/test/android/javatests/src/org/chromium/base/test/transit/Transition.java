@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract transition between conditional states
+// summary: Abstract base for transitions that exit and enter ConditionalStates, running a trigger and waiting for conditions with retries.
+// ---
+
 package org.chromium.base.test.transit;
 
 import org.chromium.base.Log;

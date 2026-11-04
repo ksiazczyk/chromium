@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content URI test utilities implementation
+// summary: Implements Android test helpers that build content URIs for cache directory paths, handling Android data path aliasing.
+// ---
+
 #include "base/test/android/content_uri_test_utils.h"
 
 #include <optional>

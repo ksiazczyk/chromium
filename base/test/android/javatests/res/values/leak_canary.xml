@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: LeakCanary test resource overrides
+summary: Android resource values file that overrides LeakCanary boolean settings for the Java test APK, allowing it in non-debuggable builds and disabling shortcuts and launcher icons.
+-->
+
 <resources>
   <bool name="leak_canary_allow_in_non_debuggable_build">true</bool>
   <bool name="leak_canary_add_dynamic_shortcut">false</bool>

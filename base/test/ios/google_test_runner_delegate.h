@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GoogleTestRunnerDelegate protocol
+// summary: Declares the protocol an app delegate implements to indicate support for and run Google tests on iOS.
+// ---
+
 #ifndef BASE_TEST_IOS_GOOGLE_TEST_RUNNER_DELEGATE_H_
 #define BASE_TEST_IOS_GOOGLE_TEST_RUNNER_DELEGATE_H_
 

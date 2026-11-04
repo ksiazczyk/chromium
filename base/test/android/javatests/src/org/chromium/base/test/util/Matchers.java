@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hamcrest matchers for tests
+// summary: Helper Hamcrest matchers, including greater-than-or-equal comparisons and matchers for pending, fulfilled, and rejected promises.
+// ---
+
 package org.chromium.base.test.util;
 
 import androidx.annotation.Nullable;

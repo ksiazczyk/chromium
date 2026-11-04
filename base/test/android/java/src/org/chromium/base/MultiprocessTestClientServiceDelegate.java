@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: MultiprocessTestClientServiceDelegate
+// summary: ChildProcessServiceDelegate implementation for multiprocess tests that loads the native library, runs the test main, and reports connection and return codes to the parent process.
+// ---
+
 package org.chromium.base;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facility conditional state scoped to a host Station
+// summary: Defines Facility, a ConditionalState scoped to a single host Station, for transient UI such as popup dialogs, menus and temporary messages in transit-based tests.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.app.Activity;

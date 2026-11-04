@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseFlagTestRule
+// summary: JUnit test rule that activates temporary feature flags and params so subclasses of Flag can be tested, with shared stub feature maps and override builders.
+// ---
+
 package org.chromium.base.test.util;
 
 import org.junit.rules.TestRule;

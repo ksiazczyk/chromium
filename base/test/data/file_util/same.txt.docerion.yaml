@@ -1,0 +1,4 @@
+# Docerion header of same.txt.
+type: test
+title: same.txt
+summary: Test fixture whose content is identical to original.txt, used for file utility comparison tests.

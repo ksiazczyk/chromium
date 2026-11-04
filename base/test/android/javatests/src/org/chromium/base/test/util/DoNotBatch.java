@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DoNotBatch annotation for non-batched test classes
+// summary: Annotation marking a test class whose methods must run in a fresh process instead of being batched.
+// ---
+
 package org.chromium.base.test.util;
 
 import java.lang.annotation.ElementType;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LeakCanaryCheckerTest
+// summary: Tests LeakCanaryChecker's detection of likely test leaks in leak traces and validation of leak-check enable and disable annotations.
+// ---
+
 package org.chromium.base.test.util;
 
 import org.junit.Assert;

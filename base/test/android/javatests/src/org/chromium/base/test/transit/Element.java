@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Element base class supplying a product within a state
+// summary: Abstract element added to a ConditionalState that supplies a product such as a View or Activity through enter and exit conditions.
+// ---
+
 package org.chromium.base.test.transit;
 
 import org.chromium.build.annotations.Initializer;

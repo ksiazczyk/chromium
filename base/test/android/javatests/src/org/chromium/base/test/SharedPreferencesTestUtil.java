@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedPreferences test utility with on-disk prefs checks
+// summary: Test utility that deletes on-disk SharedPreferences and asserts tests use in-memory implementations, with an allowlist for exceptions.
+// ---
+
 package org.chromium.base.test;
 
 import android.app.Application;

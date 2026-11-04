@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParameterizedRunnerDelegate interface
+// summary: Defines the interface of methods a runner delegate must override so ParameterizedRunner can generate individual runners for parameter sets.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.runners.model.FrameworkMethod;

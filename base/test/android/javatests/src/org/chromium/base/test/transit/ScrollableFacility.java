@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollableFacility for scrollable list items
+// summary: Abstract facility for lists whose items may be off-screen, declaring expected items and scrolling as needed to check or interact with them.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static androidx.test.espresso.Espresso.onData;
