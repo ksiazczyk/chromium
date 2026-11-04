@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab slider implementation
+// summary: Implements TabSlider, a slider control with tab buttons and an animated selector view that moves behind the currently selected button.
+// relations:
+//   - depends_on /ash/style/style_util.h
+//   - depends_on /ash/style/tab_slider_button.h
+// ---
+
 #include "ash/style/tab_slider.h"
 
 #include <algorithm>

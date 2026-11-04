@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaginationView header
+// summary: Declares PaginationView, a view that paginates UI content across pages with indicators, arrow overflow buttons and a selector dot, observing a PaginationModel.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/pagination/pagination_model_observer.h
+//   - depends_on /base/scoped_observation.h
+// ---
+
 #ifndef ASH_STYLE_PAGINATION_VIEW_H_
 #define ASH_STYLE_PAGINATION_VIEW_H_
 

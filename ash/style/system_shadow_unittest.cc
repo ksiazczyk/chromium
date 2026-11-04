@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System shadow unit tests
+// summary: Parameterized unit tests verifying that the different SystemShadow implementations resolve key and ambient shadow colors under theme changes.
+// relations:
+//   - tests /ash/style/system_shadow.h
+// ---
+
 #include <memory>
 
 #include "ash/public/cpp/style/dark_light_mode_controller.h"

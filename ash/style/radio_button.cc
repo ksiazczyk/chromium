@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Radio button implementation
+// summary: Implements the Ash RadioButton, a rectangular label button with circle or check icons on the leading or trailing side, used within radio button groups.
+// relations:
+//   - implements /ash/style/radio_button.h
+//   - references /ui/accessibility/ax_node_data.h
+//   - references /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/style/radio_button.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard brightness control delegate interface
+// summary: Declares the KeyboardBrightnessControlDelegate interface and source enums for handling keyboard brightness changes, backlight toggling, and ambient light sensor settings in the Ash shell.
+// relations:
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_SYSTEM_KEYBOARD_BRIGHTNESS_CONTROL_DELEGATE_H_
 #define ASH_SYSTEM_KEYBOARD_BRIGHTNESS_CONTROL_DELEGATE_H_
 

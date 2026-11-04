@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tracing notification controller unit tests
+// summary: Unit tests verifying that the tracing notification appears and disappears when performance tracing is toggled in the system tray model.
+// relations:
+//   - tests /ash/system/tracing_notification_controller.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/system/model/system_tray_model.h
+// ---
+
 #include "ash/system/tracing_notification_controller.h"
 
 #include "ash/shell.h"

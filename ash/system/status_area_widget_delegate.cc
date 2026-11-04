@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status area widget delegate implementation
+// summary: Implements the view delegate for the status area widget, managing layout, padding, focus, and the overflow gradient background for tray items.
+// relations:
+//   - implements /ash/system/status_area_widget_delegate.h
+// ---
+
 #include "ash/system/status_area_widget_delegate.h"
 
 #include <algorithm>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckboxGroup implementation
+// summary: Implements a vertical group container that adds checkbox buttons with configurable padding and spacing.
+// relations:
+//   - implemented_by /ash/style/checkbox_group.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/style/checkbox_group.h"
 
 #include <utility>

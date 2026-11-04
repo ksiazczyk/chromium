@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_mn.xtb.
+type: data
+title: Ash strings translation bundle (Mongolian)
+summary: Mongolian translation bundle providing localized ChromeOS Ash user-interface strings, covering features such as Quick Share, Bluetooth pairing, and system settings.

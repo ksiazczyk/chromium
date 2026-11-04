@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_sq.xtb.
+type: data
+title: Ash UI strings in Albanian
+summary: Albanian translations of ChromeOS Ash shell interface strings, stored as an XML translation bundle with placeholder tags.

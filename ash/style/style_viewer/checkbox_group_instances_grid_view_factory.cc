@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checkbox group instances grid view factory
+// summary: Factory that builds a style viewer grid view displaying CheckboxGroup instances in default, customized, and fully disabled configurations.
+// relations:
+//   - implements /ash/style/style_viewer/system_ui_components_grid_view_factories.h
+//   - depends_on /ash/style/checkbox.h
+//   - depends_on /ash/style/checkbox_group.h
+// ---
+
 #include "ash/style/style_viewer/system_ui_components_grid_view_factories.h"
 
 #include "ash/style/checkbox.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Status area widget unit tests
+// summary: Unit tests for the Ash status area widget, verifying tray construction, visibility, and behavior across session, tablet mode, and keyboard states.
+// relations:
+//   - depends_on /ash/system/status_area_widget.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_switches.h
+// ---
+
 #include "ash/system/status_area_widget.h"
 
 #include <memory>

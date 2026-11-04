@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System textfield controller implementation
+// summary: Implements SystemTextfieldController, handling Return, Escape, mouse, and gesture events to activate, commit, or discard textfield edits.
+// relations:
+//   - implements /ash/style/system_textfield_controller.h
+//   - references /ash/style/system_textfield.h
+// ---
+
 #include "ash/style/system_textfield_controller.h"
 
 #include "ui/events/types/event_type.h"

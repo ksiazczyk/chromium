@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorUtil class declaration
+// summary: Declares static color utility functions for finding a window's color provider source, adjusting k-means colors, and computing disabled and second-tone colors.
+// ---
+
 #ifndef ASH_STYLE_COLOR_UTIL_H_
 #define ASH_STYLE_COLOR_UTIL_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Counter expand button implementation
+// summary: Implements a button with a counter label and chevron icon used to expand and collapse grouped notification bubbles, including animations and tooltips.
+// relations:
+//   - implements /ash/style/counter_expand_button.h
+// ---
+
 #include "ash/style/counter_expand_button.h"
 
 #include <string>

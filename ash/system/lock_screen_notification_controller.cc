@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen notification controller implementation
+// summary: Implements the controller that adds and removes a lock screen notification whenever user notifications are hidden while the screen is locked.
+// relations:
+//   - implements /ash/system/lock_screen_notification_controller.h
+//   - depends_on /ash/constants/notifier_catalogs.h
+//   - depends_on /ash/public/cpp/notification_utils.h
+// ---
+
 #include "ash/system/lock_screen_notification_controller.h"
 
 #include <string>

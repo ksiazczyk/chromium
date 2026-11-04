@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_km.xtb.
+type: data
+title: Khmer translation bundle for Ash strings
+summary: Khmer translations of ChromeOS Ash UI strings, stored as an XML translation bundle with message IDs and placeholders.

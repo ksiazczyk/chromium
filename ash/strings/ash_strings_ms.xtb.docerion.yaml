@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_ms.xtb.
+type: data
+title: Ash UI strings in Malay
+summary: Malay translation bundle for the ChromeOS Ash shell, mapping numeric message IDs to localized interface strings with placeholders.

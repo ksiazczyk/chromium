@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brightness control delegate interface
+// summary: Declares the interface for handling screen brightness changes and ambient light sensor state.
+// relations:
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_SYSTEM_BRIGHTNESS_CONTROL_DELEGATE_H_
 #define ASH_SYSTEM_BRIGHTNESS_CONTROL_DELEGATE_H_
 

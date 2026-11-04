@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error message toast implementation
+// summary: Implements ErrorMessageToast, a rounded toast view that displays an error message with a dismiss, reload, or settings action button.
+// relations:
+//   - implements /ash/style/error_message_toast.h
+//   - depends_on /ash/style/typography.h
+// ---
+
 #include "ash/style/error_message_toast.h"
 
 #include <algorithm>

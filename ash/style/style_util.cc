@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StyleUtil implementation
+// summary: Implements StyleUtil helpers for ink drops, focus rings, rounded backgrounds, tooltips, and color provider access in the Ash shell.
+// relations:
+//   - implements /ash/style/style_util.h
+//   - references /ash/shell.h
+//   - references /ash/style/ash_color_id.h
+// ---
+
 #include "ash/style/style_util.h"
 
 #include "ash/shell.h"

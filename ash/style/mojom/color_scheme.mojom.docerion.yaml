@@ -1,0 +1,4 @@
+# Docerion header of color_scheme.mojom.
+type: source
+title: ColorScheme Mojom enum definition
+summary: Defines the ColorScheme enum of wallpaper-based color scheme options used to generate the system UI's color palette, with values persisted to logs.

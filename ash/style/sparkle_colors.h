@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sparkle colors header
+// summary: Declares AddSparkleColors, which adds sparkle reference colors to a color mixer based on the hue of the seed color.
+// relations:
+//   - references /ui/color/color_mixer.h
+//   - references /ui/color/color_provider_key.h
+// ---
+
 #ifndef ASH_STYLE_SPARKLE_COLORS_H_
 #define ASH_STYLE_SPARKLE_COLORS_H_
 

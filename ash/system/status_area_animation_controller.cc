@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status area animation controller implementation
+// summary: Implements show and hide animation sequences for the notification center tray, including disabling and re-enabling tray item visibility animations.
+// relations:
+//   - implemented_by /ash/system/status_area_animation_controller.h
+//   - references /ash/system/notification_center/notification_center_tray.h
+//   - references /ash/system/tray/tray_container.h
+// ---
+
 #include "ash/system/status_area_animation_controller.h"
 
 #include "ash/system/notification_center/notification_center_tray.h"

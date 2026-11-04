@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Combobox unit tests
+// summary: Unit tests checking accessibility checked states and default action verbs for the combobox and its drop-down menu options.
+// relations:
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ui/base/models/combobox_model.h
+// ---
+
 #include "ash/style/combobox.h"
 
 #include <array>

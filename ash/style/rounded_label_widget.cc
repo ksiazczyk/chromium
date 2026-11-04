@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded label widget implementation
+// summary: Implements a translucent popup widget hosting a single RoundedLabel, which can be centered or animated within given screen bounds.
+// relations:
+//   - implements /ash/style/rounded_label_widget.h
+//   - references /ash/style/rounded_label.h
+//   - references /ash/wm/overview/scoped_overview_animation_settings.h
+// ---
+
 #include "ash/style/rounded_label_widget.h"
 
 #include <memory>

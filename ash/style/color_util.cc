@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorUtil implementation
+// summary: Implements ash color helpers that adjust wallpaper k-means colors for dark and light modes and derive disabled and second-tone colors.
+// relations:
+//   - implements /ash/style/color_util.h
+// ---
+
 #include "ash/style/color_util.h"
 
 #include <algorithm>

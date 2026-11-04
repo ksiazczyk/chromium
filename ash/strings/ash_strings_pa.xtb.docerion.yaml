@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_pa.xtb.
+type: data
+title: Ash UI strings in Punjabi
+summary: Punjabi translation bundle for the ChromeOS Ash shell, mapping numeric message IDs to localized interface strings with placeholders.

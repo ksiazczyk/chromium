@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloseButton class declaration
+// summary: Declares a circular close button with size variants, default close icons, and default background and icon color ids.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/ash_color_id.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_STYLE_CLOSE_BUTTON_H_
 #define ASH_STYLE_CLOSE_BUTTON_H_
 

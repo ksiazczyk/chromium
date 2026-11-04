@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash combobox class declaration
+// summary: Declares the Combobox view driven by ui::ComboboxModel, exposing selection callbacks, menu access, and accessibility state updates.
+// relations:
+//   - implements /ui/base/models/combobox_model_observer.h
+// ---
+
 #ifndef ASH_STYLE_COMBOBOX_H_
 #define ASH_STYLE_COMBOBOX_H_
 

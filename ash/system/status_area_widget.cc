@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status area widget implementation
+// summary: Implements the StatusAreaWidget that hosts system, notification, and other tray views in the bottom-right of the screen, handling login and session changes.
+// relations:
+//   - implements /ash/system/status_area_widget.h
+// ---
+
 #include "ash/system/status_area_widget.h"
 
 #include <cstdint>

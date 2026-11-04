@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Ash color mixer
+// summary: Verifies harmonized and default Ash colors produced by the color mixers against expected values for a given seed color.
+// relations:
+//   - references /ash/style/ash_color_mixer.h
+//   - references /ui/color/color_provider.h
+//   - references /ui/color/color_provider_key.h
+// ---
+
 #include "ash/style/ash_color_mixer.h"
 
 #include <ostream>

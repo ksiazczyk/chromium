@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionButtonBase header
+// summary: Declares OptionButtonBase, a label button base class with selection state, click behavior variants and hooks for icon and layout customization.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/typography.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_STYLE_OPTION_BUTTON_BASE_H_
 #define ASH_STYLE_OPTION_BUTTON_BASE_H_
 

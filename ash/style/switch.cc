@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch control implementation
+// summary: Implements the Ash Switch toggle button, defining its preferred size, track and thumb bounds, and focus ring path.
+// relations:
+//   - implements /ash/style/switch.h
+//   - references /ui/base/metadata/metadata_impl_macros.h
+//   - references /ui/gfx/geometry/insets.h
+// ---
+
 #include "ash/style/switch.h"
 
 #include <utility>

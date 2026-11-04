@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dark light mode controller implementation
+// summary: Implements the ash dark mode controller with user preferences, sunset-to-sunrise scheduling, toggling, OOBE handling, and color mode observers.
+// relations:
+//   - implements /ash/style/dark_light_mode_controller_impl.h
+//   - references /ash/constants/ash_constants.h
+//   - references /ash/constants/ash_features.h
+// ---
+
 #include "ash/style/dark_light_mode_controller_impl.h"
 
 #include <algorithm>

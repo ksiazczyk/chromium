@@ -1,0 +1,6 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the color_scheme Mojom target
+summary: Defines the color_scheme Mojom build target that compiles color_scheme.mojom for ChromeOS Ash UI.
+relations:
+  - depends_on /mojo/public/tools/bindings/mojom.gni

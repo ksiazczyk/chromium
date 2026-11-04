@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Status area pixel tests
+// summary: Pixel tests capturing the Chrome OS status area appearance across shelf alignments, tablet mode, RTL, active state, and system blur settings.
+// ---
+
 #include <tuple>
 
 #include "ash/public/cpp/shelf_types.h"

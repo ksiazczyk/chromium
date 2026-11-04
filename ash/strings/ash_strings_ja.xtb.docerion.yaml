@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_ja.xtb.
+type: data
+title: Japanese translation bundle for Ash strings
+summary: Japanese translations of ChromeOS Ash UI strings, stored as an XML translation bundle with message IDs and placeholders.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the status area team
+summary: Declares the owning team email and Buganizer components for the ash/system directory.

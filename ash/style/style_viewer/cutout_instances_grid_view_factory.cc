@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cutout instances grid view factory
+// summary: Factory that builds a style viewer grid view of cutout samples created with RoundedRectCutoutPathBuilder across corners, sizes, and radii.
+// relations:
+//   - depends_on /ash/style/rounded_rect_cutout_path_builder.h
+//   - depends_on /ash/style/style_viewer/system_ui_components_grid_view.h
+//   - implements /ash/style/style_viewer/system_ui_components_grid_view_factories.h
+// ---
+
 #include <variant>
 
 #include "ash/style/rounded_rect_cutout_path_builder.h"

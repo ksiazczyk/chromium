@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the ash system directory
+summary: Lists code owners for ash/system, with per-file owners for caps lock and brightness files.

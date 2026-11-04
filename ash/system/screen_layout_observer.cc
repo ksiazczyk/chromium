@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen layout observer implementation
+// summary: Implements the display manager observer that shows message center notifications when display resolution, rotation, mirroring, or other layout changes occur.
+// relations:
+//   - implements /ash/system/screen_layout_observer.h
+// ---
+
 #include "ash/system/screen_layout_observer.h"
 
 #include <algorithm>

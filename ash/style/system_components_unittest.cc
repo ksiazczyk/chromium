@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System UI components tests
+// summary: Tests Ash system UI components such as pill buttons, dialogs, sliders, and checkbox groups for behavior and accessibility.
+// relations:
+//   - references /ash/style/checkbox_group.h
+//   - references /ash/style/icon_button.h
+//   - references /ash/style/radio_button_group.h
+// ---
+
 #include <array>
 #include <memory>
 #include <string>

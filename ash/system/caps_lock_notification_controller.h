@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caps lock notification controller header
+// summary: Declares the controller that observes IME caps lock changes to manage the caps lock notification.
+// relations:
+//   - depends_on /ash/ime/ime_controller_impl.h
+// ---
+
 #ifndef ASH_SYSTEM_CAPS_LOCK_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_CAPS_LOCK_NOTIFICATION_CONTROLLER_H_
 

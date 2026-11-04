@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded label class declaration
+// summary: Declares RoundedLabel, a views::Label subclass that renders text on a rounded background with configurable padding and preferred height.
+// relations:
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - implements /ui/views/controls/label.h
+// ---
+
 #ifndef ASH_STYLE_ROUNDED_LABEL_H_
 #define ASH_STYLE_ROUNDED_LABEL_H_
 

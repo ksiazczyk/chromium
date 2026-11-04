@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusAreaAnimationController class declaration
+// summary: Declares the StatusAreaAnimationController class that manages custom visibility animations for the notification center tray in the Ash status area.
+// relations:
+//   - references /ash/ash_export.h
+//   - implements /ash/system/notification_center/notification_center_tray.h
+//   - implements /ash/system/tray/tray_background_view.h
+// ---
+
 #ifndef ASH_SYSTEM_STATUS_AREA_ANIMATION_CONTROLLER_H_
 #define ASH_SYSTEM_STATUS_AREA_ANIMATION_CONTROLLER_H_
 

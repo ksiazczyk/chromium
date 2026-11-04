@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshColorProviderSource implementation
+// summary: Implements a color provider source that serves colors for objects outside the view hierarchy and reacts to native theme updates.
+// relations:
+//   - implements /ash/style/ash_color_provider_source.h
+//   - references /ui/color/color_provider.h
+//   - references /ui/color/color_provider_manager.h
+// ---
+
 #include "ash/style/ash_color_provider_source.h"
 
 #include "ui/color/color_provider.h"

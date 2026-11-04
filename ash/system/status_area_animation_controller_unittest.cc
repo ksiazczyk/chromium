@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Status area animation controller unit tests
+// summary: Unit tests verifying that notification center tray item animations are disabled during show animations and behave correctly across visibility changes.
+// relations:
+//   - tests /ash/system/status_area_animation_controller.h
+// ---
+
 #include "ash/system/status_area_animation_controller.h"
 
 #include <algorithm>

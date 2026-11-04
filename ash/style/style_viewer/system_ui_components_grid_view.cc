@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System UI components grid view implementation
+// summary: Implements SystemUIComponentsGridView and its grid layout, which arrange labeled instances of a system UI component in grouped rows and columns.
+// relations:
+//   - implements /ash/style/style_viewer/system_ui_components_grid_view.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/gfx/text_constants.h
+// ---
+
 #include "ash/style/style_viewer/system_ui_components_grid_view.h"
 
 #include <algorithm>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typography token to font mapping
+// summary: Maps legacy and cros.typography tokens to font family, style, size, weight, and line height used to style Ash labels.
+// relations:
+//   - implements /ash/style/typography.h
+//   - references /ui/gfx/font.h
+// ---
+
 #include "ash/style/typography.h"
 
 #include <array>

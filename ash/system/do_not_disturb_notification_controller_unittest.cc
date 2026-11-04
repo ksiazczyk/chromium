@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Do not disturb notification controller unit tests
+// summary: Tests adding and removing the Do not disturb notification and its turn-off button, including Focus Mode cases.
+// relations:
+//   - tests /ash/system/do_not_disturb_notification_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/do_not_disturb_notification_controller.h"
 
 #include <string>

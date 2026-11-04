@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pods overflow tray implementation
+// summary: Implements the pods overflow tray button that opens a bubble holding status area pods that did not fit on the shelf when the scalable shelf pods feature is enabled.
+// relations:
+//   - implements /ash/system/pods_overflow_tray.h
+// ---
+
 #include "ash/system/pods_overflow_tray.h"
 
 #include <memory>

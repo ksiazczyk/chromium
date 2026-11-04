@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System UI components style viewer view implementation
+// summary: Implements the style viewer window with a menu of component buttons and a scroll view showing instances of the selected component.
+// relations:
+//   - implements /ash/style/style_viewer/system_ui_components_style_viewer_view.h
+//   - depends_on /ash/style/style_viewer/system_ui_components_grid_view.h
+//   - depends_on /ash/style/style_viewer/system_ui_components_grid_view_factories.h
+// ---
+
 #include "ash/style/style_viewer/system_ui_components_style_viewer_view.h"
 
 #include <memory>

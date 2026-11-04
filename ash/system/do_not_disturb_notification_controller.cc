@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Do not disturb notification controller implementation
+// summary: Creates and updates the pinned Do not disturb notification, including Focus Mode wording and a turn-off button.
+// relations:
+//   - implements /ash/system/do_not_disturb_notification_controller.h
+//   - depends_on /ui/message_center/message_center.h
+// ---
+
 #include "ash/system/do_not_disturb_notification_controller.h"
 
 #include <memory>

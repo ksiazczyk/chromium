@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_az.xtb.
+type: data
+title: Ash strings translation bundle (Azerbaijani)
+summary: Azerbaijani translations of ChromeOS Ash UI strings in the XML translation bundle format consumed by grit.

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorPaletteController implementation
+// summary: Implements management of the current color scheme, deriving palettes from seed color, scheme type, wallpaper, and dark or light mode.
+// relations:
+//   - implements /ash/style/color_palette_controller.h
+// ---
+
 #include "ash/style/color_palette_controller.h"
 
 #include <memory>

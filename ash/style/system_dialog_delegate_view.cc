@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System dialog delegate view implementation
+// summary: Implements the Ash system dialog delegate view that lays out icon, title, description, custom content, and accept/cancel buttons with responsive sizing rules.
+// relations:
+//   - implements /ash/style/system_dialog_delegate_view.h
+//   - references /ash/style/typography.h
+// ---
+
 #include "ash/style/system_dialog_delegate_view.h"
 
 #include <memory>

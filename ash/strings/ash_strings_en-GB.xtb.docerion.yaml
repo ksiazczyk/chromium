@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_en-GB.xtb.
+type: data
+title: British English translation bundle for Ash strings
+summary: XML translation bundle providing British English localizations of ChromeOS Ash interface strings, covering features such as Quick Share, Bluetooth pairing, and Google Drive backup.

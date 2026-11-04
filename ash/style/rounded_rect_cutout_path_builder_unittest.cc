@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RoundedRectCutoutPathBuilder unit tests
+// summary: Unit tests verifying point counts, bounds, cutout handling, and failure cases for the rounded rect cutout path builder.
+// relations:
+//   - tests /ash/style/rounded_rect_cutout_path_builder.h
+//   - references /base/test/gtest_util.h
+//   - references /testing/gmock/include/gmock/gmock.h
+// ---
+
 #include "ash/style/rounded_rect_cutout_path_builder.h"
 
 #include <ostream>

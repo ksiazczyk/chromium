@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System tray global getter
+// summary: Implements the SystemTray::Get() accessor that returns the system tray model from the active Ash shell instance, or null when no shell exists.
+// relations:
+//   - implements /ash/public/cpp/system_tray.h
+//   - references /ash/shell.h
+//   - references /ash/system/model/system_tray_model.h
+// ---
+
 #include "ash/public/cpp/system_tray.h"
 
 #include "ash/shell.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedRectCutoutPathBuilder implementation
+// summary: Implements the builder that generates Skia clip paths for rounded rectangles with optional corner cutouts of configurable size and radius.
+// relations:
+//   - implements /ash/style/rounded_rect_cutout_path_builder.h
+//   - references /base/check_op.h
+//   - references /base/containers/fixed_flat_map.h
+// ---
+
 #include "ash/style/rounded_rect_cutout_path_builder.h"
 
 #include <array>

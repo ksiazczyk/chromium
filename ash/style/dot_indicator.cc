@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dot indicator view implementation
+// summary: Implements the DotIndicator view that paints a circular notification dot with a system UI shadow for app icons in Ash.
+// relations:
+//   - implements /ash/style/dot_indicator.h
+//   - references /ui/base/metadata/metadata_impl_macros.h
+//   - references /ui/compositor/layer.h
+// ---
+
 #include "ash/style/dot_indicator.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

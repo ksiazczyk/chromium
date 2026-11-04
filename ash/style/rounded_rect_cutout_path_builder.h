@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedRectCutoutPathBuilder class header
+// summary: Declares RoundedRectCutoutPathBuilder, which generates clip paths rendering rounded corners and up to one cutout per rectangle corner.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/containers/flat_map.h
+//   - references /ui/gfx/geometry/size_f.h
+// ---
+
 #ifndef ASH_STYLE_ROUNDED_RECT_CUTOUT_PATH_BUILDER_H_
 #define ASH_STYLE_ROUNDED_RECT_CUTOUT_PATH_BUILDER_H_
 

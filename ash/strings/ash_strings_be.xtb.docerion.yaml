@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_be.xtb.
+type: data
+title: Ash strings translation bundle (Belarusian)
+summary: Belarusian translations of ChromeOS Ash UI strings in the XML translation bundle format consumed by grit.

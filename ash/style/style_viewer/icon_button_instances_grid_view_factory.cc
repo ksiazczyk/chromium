@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon button instances grid view factory
+// summary: Factory that builds a style viewer grid view showing IconButton instances across types, sizes, toggled, prominent, image, symbol, and disabled variants.
+// relations:
+//   - implements /ash/style/style_viewer/system_ui_components_grid_view_factories.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ash/style/icon_button.h
+// ---
+
 #include "ash/style/style_viewer/system_ui_components_grid_view_factories.h"
 #include "base/memory/raw_ptr.h"
 

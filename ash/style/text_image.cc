@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text image canvas source implementation
+// summary: Implements TextImage, which draws a single unicode character as an image at a requested size and color for use as an image model.
+// relations:
+//   - implements /ash/style/text_image.h
+//   - references /base/strings/utf_string_conversion_utils.h
+//   - references /ui/base/models/image_model.h
+// ---
+
 #include "ash/style/text_image.h"
 
 #include "ash/style/typography.h"

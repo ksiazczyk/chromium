@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen layout observer class declaration
+// summary: Declares the ScreenLayoutObserver class, which tracks display info and modes to notify users about screen resolution and rotation changes.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/gtest_prod_util.h
+//   - implements /ui/display/manager/display_manager_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_SCREEN_LAYOUT_OBSERVER_H_
 #define ASH_SYSTEM_SCREEN_LAYOUT_OBSERVER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen notification controller class declaration
+// summary: Declares the LockScreenNotificationController class, which observes session state and the message center to manage the lock screen notification.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /base/gtest_prod_util.h
+// ---
+
 #ifndef ASH_SYSTEM_LOCK_SCREEN_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_LOCK_SCREEN_NOTIFICATION_CONTROLLER_H_
 

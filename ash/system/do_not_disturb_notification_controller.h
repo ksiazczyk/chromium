@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Do not disturb notification controller header
+// summary: Declares the controller that observes quiet mode changes to manage the Do not disturb notification.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/message_center/message_center_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_DO_NOT_DISTURB_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_DO_NOT_DISTURB_NOTIFICATION_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch instances grid view factory
+// summary: Factory that builds a style viewer grid view showing Switch instances including an interactive switch with a state label and disabled on and off switches.
+// relations:
+//   - depends_on /ash/style/style_viewer/system_ui_components_grid_view.h
+//   - implements /ash/style/style_viewer/system_ui_components_grid_view_factories.h
+//   - depends_on /ash/style/switch.h
+// ---
+
 #include "ash/style/style_viewer/system_ui_components_grid_view.h"
 #include "ash/style/style_viewer/system_ui_components_grid_view_factories.h"
 #include "ash/style/switch.h"

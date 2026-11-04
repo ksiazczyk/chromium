@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ash style directory
+summary: Grants the ash style directory access to the third_party material_color_utilities dependency.

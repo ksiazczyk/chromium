@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pill button instances grid view factory
+// summary: Factory that builds a style viewer grid view of PillButton instances across color variants, sizes, icon placements, and disabled states.
+// relations:
+//   - depends_on /ash/style/pill_button.h
+//   - depends_on /ash/style/style_viewer/system_ui_components_grid_view.h
+// ---
+
 #include "ash/style/style_viewer/system_ui_components_grid_view_factories.h"
 
 #include <string>

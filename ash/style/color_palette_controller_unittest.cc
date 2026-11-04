@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color palette controller unit tests
+// summary: Unit tests for the ash color palette controller, covering color scheme seeds, wallpaper-driven theming, time of day wallpapers, and observer notifications.
+// relations:
+//   - tests /ash/style/color_palette_controller.h
+// ---
+
 #include "ash/style/color_palette_controller.h"
 
 #include <ostream>

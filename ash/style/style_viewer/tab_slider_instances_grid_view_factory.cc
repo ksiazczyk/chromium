@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab slider instances grid view factory
+// summary: Factory that builds a grid view of tab slider instances in icon and label variants with different configurations for the style viewer.
+// relations:
+//   - depends_on /ash/style/style_viewer/system_ui_components_grid_view.h
+//   - depends_on /ash/style/tab_slider.h
+//   - depends_on /ash/style/tab_slider_button.h
+// ---
+
 #include "ash/style/style_viewer/system_ui_components_grid_view_factories.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

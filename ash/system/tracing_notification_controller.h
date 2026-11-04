@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing notification controller class declaration
+// summary: Declares the TracingNotificationController class, a TracingObserver that manages the system notification shown while performance tracing is active.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/model/tracing_model.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_TRACING_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_TRACING_NOTIFICATION_CONTROLLER_H_
 

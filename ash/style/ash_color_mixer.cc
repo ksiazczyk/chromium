@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash color mixer implementation
+// summary: Maps Ash color IDs to ChromeOS style tokens and Material 2 palette colors for light and dark color modes.
+// relations:
+//   - implements /ash/style/ash_color_mixer.h
+//   - references /ash/style/ash_color_id.h
+//   - references /ash/style/dark_light_mode_controller_impl.h
+// ---
+
 #include "ash/style/ash_color_mixer.h"
 
 #include "ash/style/ash_color_id.h"

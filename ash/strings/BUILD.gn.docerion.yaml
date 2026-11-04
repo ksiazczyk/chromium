@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for Ash string resources
+summary: GN build file that generates Ash string resources with grit and repacks locale-specific pak files, including an en-US pak for ash_unittests.
+relations:
+  - depends_on /build/config/chrome_build.gni
+  - depends_on /build/config/locales.gni
+  - depends_on /tools/grit/grit_rule.gni

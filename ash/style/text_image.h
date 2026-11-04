@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text image class declaration
+// summary: Declares TextImage, a canvas image source that renders a unicode character as a ui::ImageModel at a given size and color.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ui/base/models/image_model.h
+//   - references /ui/color/color_variant.h
+// ---
+
 #ifndef ASH_STYLE_TEXT_IMAGE_H_
 #define ASH_STYLE_TEXT_IMAGE_H_
 

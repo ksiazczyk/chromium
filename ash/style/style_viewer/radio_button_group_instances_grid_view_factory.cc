@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Radio button group instances grid view factory
+// summary: Factory that builds a style viewer grid view showing RadioButtonGroup instances with default, customized icon, and disabled configurations.
+// relations:
+//   - depends_on /ash/style/radio_button.h
+//   - depends_on /ash/style/radio_button_group.h
+//   - depends_on /ash/style/style_viewer/system_ui_components_grid_view.h
+// ---
+
 #include "ash/style/style_viewer/system_ui_components_grid_view_factories.h"
 
 #include "ash/style/radio_button.h"

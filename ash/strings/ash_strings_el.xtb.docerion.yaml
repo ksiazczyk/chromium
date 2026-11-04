@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_el.xtb.
+type: data
+title: Greek translation bundle for Ash strings
+summary: XML translation bundle providing Greek localizations of ChromeOS Ash interface strings, covering features such as Quick Share, Bluetooth pairing, and Google Drive backup.

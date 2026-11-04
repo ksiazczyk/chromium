@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Counter expand button class declaration
+// summary: Declares CounterExpandButton, which shows the number of grouped child views and supports expand state changes and expand/collapse animations.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/auto_reset.h
+//   - references /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_STYLE_COUNTER_EXPAND_BUTTON_H_
 #define ASH_STYLE_COUNTER_EXPAND_BUTTON_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Caps lock notification controller unit tests
+// summary: Verifies that accessibility alerts are sent when caps lock is toggled on and off.
+// relations:
+//   - tests /ash/system/caps_lock_notification_controller.h
+// ---
+
 #include "ash/system/caps_lock_notification_controller.h"
 
 #include "ash/accessibility/test_accessibility_controller_client.h"

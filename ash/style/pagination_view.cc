@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaginationView implementation
+// summary: Implements a pagination view with page indicators, overflow arrow buttons and an animated selector dot that moves between pages during transitions.
+// relations:
+//   - implements /ash/style/pagination_view.h
+//   - depends_on /ash/public/cpp/pagination/pagination_model.h
+//   - depends_on /ash/style/style_util.h
+// ---
+
 #include "ash/style/pagination_view.h"
 
 #include <optional>

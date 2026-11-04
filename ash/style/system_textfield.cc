@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System textfield implementation
+// summary: Implements SystemTextfield, a styled textfield for system UI with small, medium, and large types, dynamic colors, and click-outside commit handling.
+// relations:
+//   - implements /ash/style/system_textfield.h
+// ---
+
 #include "ash/style/system_textfield.h"
 
 #include <optional>

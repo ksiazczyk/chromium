@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusAreaWidgetDelegate class declaration
+// summary: Declares the StatusAreaWidgetDelegate view that lays out tray items, handles focus and gestures, and updates bounds for the status area widget.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/shelf_config.h
+//   - depends_on /ash/public/cpp/shelf_types.h
+// ---
+
 #ifndef ASH_SYSTEM_STATUS_AREA_WIDGET_DELEGATE_H_
 #define ASH_SYSTEM_STATUS_AREA_WIDGET_DELEGATE_H_
 

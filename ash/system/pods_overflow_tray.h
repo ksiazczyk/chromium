@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pods overflow tray class declaration
+// summary: Declares the PodsOverflowTray class, a status area tray button that displays a bubble with shelf pods overflowing due to limited space.
+// relations:
+//   - depends_on /ash/system/tray/imaged_tray_icon.h
+// ---
+
 #ifndef ASH_SYSTEM_PODS_OVERFLOW_TRAY_H_
 #define ASH_SYSTEM_PODS_OVERFLOW_TRAY_H_
 

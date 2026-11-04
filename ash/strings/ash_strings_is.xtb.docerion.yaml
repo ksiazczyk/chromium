@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_is.xtb.
+type: data
+title: Icelandic translation bundle for Ash strings
+summary: Icelandic translations of ChromeOS Ash UI strings, stored as an XML translation bundle with message IDs and placeholders.

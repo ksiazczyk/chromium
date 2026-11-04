@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_zh-TW.xtb.
+type: data
+title: Ash strings translation bundle for Traditional Chinese (zh-TW)
+summary: Traditional Chinese translations of ChromeOS Ash UI strings, stored as an XML translationbundle with message IDs and placeholders used for localization.
