@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsSdDeviceLister implementation
+// summary: Implements the MDNS/DNS-SD device lister that watches a service type via the local discovery client and forwards service changes, removals, cache flushes and permission rejections to its delegate.
+// ---
+
 #include "chrome/browser/media/router/discovery/mdns/dns_sd_device_lister.h"
 
 #include "chrome/browser/media/router/discovery/mdns/dns_sd_delegate.h"

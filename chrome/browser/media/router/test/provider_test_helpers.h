@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media route provider test helper declarations
+// summary: Declares mock media sink services, app discovery services, and fetcher test doubles that support media router provider tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_TEST_PROVIDER_TEST_HELPERS_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_TEST_PROVIDER_TEST_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access code cast sink service factory unit tests
+// summary: Unit tests checking that the factory returns a valid service when the access code cast pref is enabled and null when it is disabled.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_sink_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParsedDialAppInfo header
+// summary: Declares the DialAppState enum and the ParsedDialAppInfo struct holding parsed DIAL application info such as name, state, stop support, href and extra data.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_PARSED_DIAL_APP_INFO_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_PARSED_DIAL_APP_INFO_H_
 

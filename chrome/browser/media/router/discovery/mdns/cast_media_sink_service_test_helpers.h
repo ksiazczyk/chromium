@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast media sink service test helper declarations
+// summary: Declares mock and test subclasses of CastMediaSinkServiceImpl and CastMediaSinkService used by media router discovery unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_MDNS_CAST_MEDIA_SINK_SERVICE_TEST_HELPERS_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_MDNS_CAST_MEDIA_SINK_SERVICE_TEST_HELPERS_H_
 

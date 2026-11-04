@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RedirectionMediaRouteProvider implementation
+// summary: Implements the media route provider that exposes OS video redirection (MMR) as a single synthetic sink and manages its route lifecycle.
+// ---
+
 #include "chrome/browser/media/router/providers/redirection/redirection_media_route_provider.h"
 
 #include <utility>

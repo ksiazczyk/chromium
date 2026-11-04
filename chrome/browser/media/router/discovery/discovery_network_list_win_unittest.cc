@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows discovery network list unit tests
+// summary: Unit tests for the Windows network list implementation, using fake IP Helper and WinRT networking APIs to simulate network environments.
+// ---
+
 #include "chrome/browser/media/router/discovery/discovery_network_list_win.h"
 
 #include <wrl/client.h>

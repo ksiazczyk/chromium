@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIpHelper class declaration
+// summary: Declares FakeIpHelper and its error status enum for simulating Win32 network adapter enumeration APIs and injected failures in tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_IP_HELPER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_IP_HELPER_H_
 

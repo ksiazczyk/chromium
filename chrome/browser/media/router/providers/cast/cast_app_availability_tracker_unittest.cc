@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Cast app availability tracker
+// summary: Unit tests covering source registration, app availability updates, and sink result removal in CastAppAvailabilityTracker.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_app_availability_tracker.h"
 
 #include <algorithm>

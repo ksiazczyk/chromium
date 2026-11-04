@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoggerList unit tests
+// summary: Unit tests verifying adding and removing loggers in LoggerList and that logged messages reach every registered logger with the expected JSON fields.
+// ---
+
 #include "chrome/browser/media/router/logger_list.h"
 
 #include "base/json/json_reader.h"

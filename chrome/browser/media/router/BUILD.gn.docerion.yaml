@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media Router BUILD.gn build configuration
+summary: Defines GN build targets, sources and dependencies for the Chrome Media Router, including data decoder utilities, logger list, feature flags and the router static library.

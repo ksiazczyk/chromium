@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discovery network list unit tests
+// summary: Tests GetDiscoveryNetworkInfoList output and the stable sorting of DiscoveryNetworkInfo entries by network ID.
+// ---
+
 #include "chrome/browser/media/router/discovery/discovery_network_list.h"
 
 #include <algorithm>

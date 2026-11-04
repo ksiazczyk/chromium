@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialRegistry class declaration
+// summary: Declares DialRegistry, which keeps track of discovered DIAL devices, manages periodic discovery and network state, and reports device lists and errors to its client.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_DIAL_REGISTRY_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_DIAL_REGISTRY_H_
 

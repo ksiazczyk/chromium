@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIAL media route provider declarations
+// summary: Declares DialMediaRouteProvider, the MediaRouteProvider for DIAL sinks that supports custom DIAL app launches with Cast SDK web pages.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_DIAL_DIAL_MEDIA_ROUTE_PROVIDER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_DIAL_DIAL_MEDIA_ROUTE_PROVIDER_H_
 

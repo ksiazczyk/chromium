@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast session client implementation
+// summary: Implements CastSessionClient, managing presentation connections and message flow between the browser and Cast session clients.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_session_client_impl.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsSdDeviceLister class declaration
+// summary: Declares DnsSdDeviceLister, which manages a watcher for a specific MDNS/DNS-SD service type and notifies a delegate of changes to the watched services.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_MDNS_DNS_SD_DEVICE_LISTER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_MDNS_DNS_SD_DEVICE_LISTER_H_
 

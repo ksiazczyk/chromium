@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Access code cast build targets
+summary: Defines GN build targets, sources, and dependencies for the access code cast feature and sink service.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe DIAL device description parser implementation
+// summary: Parses DIAL device description XML in a utility process, extracting UDN, friendly name, model name, and device type fields.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/safe_dial_device_description_parser.h"
 
 #include <utility>

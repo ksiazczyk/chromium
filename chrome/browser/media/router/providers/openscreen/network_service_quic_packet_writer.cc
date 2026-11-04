@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service QUIC packet writer implementation
+// summary: Implements a Chrome-specific QUIC packet writer that sends packets through the network service's UDP socket with task-runner-based thread safety.
+// ---
+
 #include "chrome/browser/media/router/providers/openscreen/network_service_quic_packet_writer.h"
 
 #include <algorithm>

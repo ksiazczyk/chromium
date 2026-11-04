@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media router desktop unit tests
+// summary: Unit tests for MediaRouterDesktop covering route creation, joining, route messaging, issues, and related metrics behavior.
+// ---
+
 #include "chrome/browser/media/router/mojo/media_router_desktop.h"
 
 #include <stddef.h>

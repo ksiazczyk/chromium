@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the redirection provider
+summary: Grants this directory include access to the chrome/services/redirection/public/mojom headers.

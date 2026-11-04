@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async packet sender interface and network service implementation header
+// summary: Defines the AsyncPacketSender interface and the NetworkServiceAsyncPacketSender class that sends UDP packets via the network service.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_OPENSCREEN_NETWORK_SERVICE_ASYNC_PACKET_SENDER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_OPENSCREEN_NETWORK_SERVICE_ASYNC_PACKET_SENDER_H_
 

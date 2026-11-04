@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSinkServiceStatus class declaration
+// summary: Declares MediaSinkServiceStatus, a class that records sinks reported by media sink services and exposes debug status as JSON.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_MOJO_MEDIA_SINK_SERVICE_STATUS_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_MOJO_MEDIA_SINK_SERVICE_STATUS_H_
 

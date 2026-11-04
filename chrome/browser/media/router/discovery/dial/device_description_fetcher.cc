@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device description fetcher implementation
+// summary: Implements fetching a uPnP device description over HTTP from a DIAL device and validating the Application-URL header before invoking success or error callbacks.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/device_description_fetcher.h"
 
 #include <utility>

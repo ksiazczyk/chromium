@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeVectorView WinRT IVectorView fake
+// summary: Header-only fake of the WinRT IVectorView interface that exposes the fake environment's connection profiles and can simulate GetAt and get_Size errors.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_VECTOR_VIEW_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_VECTOR_VIEW_H_
 

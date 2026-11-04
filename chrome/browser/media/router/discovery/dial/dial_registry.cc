@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIAL registry implementation
+// summary: Implements DialRegistry, which tracks devices responding to DIAL discovery, runs periodic discovery, prunes expired devices, and notifies clients of changes.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/dial_registry.h"
 
 #include <memory>

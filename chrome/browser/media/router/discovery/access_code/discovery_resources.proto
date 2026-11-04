@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Discovery Resources Protobuf Definitions
+// summary: Defines protobuf messages for device capabilities, network info, and discovery device data returned by the access code cast discovery service.
+// ---
+
 syntax = "proto3";
 
 package chrome_browser_media.proto;

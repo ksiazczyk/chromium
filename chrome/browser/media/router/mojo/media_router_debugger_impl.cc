@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media router debugger implementation
+// summary: Implements the media router debugger Mojo service, tracking RTCP report settings and distributing mirroring stats to observers.
+// ---
+
 #include "chrome/browser/media/router/mojo/media_router_debugger_impl.h"
 
 #include <utility>

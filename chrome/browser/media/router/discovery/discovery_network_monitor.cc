@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discovery network monitor implementation
+// summary: Implements the singleton monitor that tracks active network interfaces, computes a hashed network ID, and notifies observers of network changes.
+// ---
+
 #include "chrome/browser/media/router/discovery/discovery_network_monitor.h"
 
 #include <algorithm>

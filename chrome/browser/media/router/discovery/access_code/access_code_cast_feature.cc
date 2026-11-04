@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access Code Cast feature preferences implementation
+// summary: Registers Access Code Cast profile preferences and provides helpers to check whether the feature is enabled and how long discovered devices remain listed.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_feature.h"
 
 #include "base/command_line.h"

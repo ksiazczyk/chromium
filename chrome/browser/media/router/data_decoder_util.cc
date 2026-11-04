@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared data decoder accessor implementation
+// summary: Provides a shared DataDecoder singleton instance used for Media Router decoding operations.
+// ---
+
 #include "chrome/browser/media/router/data_decoder_util.h"
 
 #include "base/no_destructor.h"

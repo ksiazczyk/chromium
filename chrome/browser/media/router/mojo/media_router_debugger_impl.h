@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media router debugger class declaration
+// summary: Declares MediaRouterDebuggerImpl, which handles debugger Mojo bindings, RTCP report toggles, and mirroring stats notifications.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_MOJO_MEDIA_ROUTER_DEBUGGER_IMPL_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_MOJO_MEDIA_ROUTER_DEBUGGER_IMPL_H_
 

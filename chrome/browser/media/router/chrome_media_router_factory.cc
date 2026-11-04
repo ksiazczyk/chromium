@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome media router factory implementation
+// summary: Implements the Chrome-specific MediaRouterFactory that builds desktop or Android media router instances per browser context and performs platform-specific initialization.
+// ---
+
 #include "chrome/browser/media/router/chrome_media_router_factory.h"
 
 #include "build/build_config.h"

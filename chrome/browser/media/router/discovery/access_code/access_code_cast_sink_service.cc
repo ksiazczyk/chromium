@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access Code Cast sink service
+// summary: Implements the service that adds access-code-discovered cast sinks, manages Cast channel connections, liveness checks, and discovery metrics.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_sink_service.h"
 
 #include <algorithm>

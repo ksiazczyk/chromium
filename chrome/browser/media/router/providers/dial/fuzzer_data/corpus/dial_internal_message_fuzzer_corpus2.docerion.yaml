@@ -1,0 +1,4 @@
+# Docerion header of dial_internal_message_fuzzer_corpus2.
+type: data
+title: DIAL internal message fuzzer corpus 2
+summary: Fuzzer seed input containing a JSON v2_message with a STOP request, session ID, sequence number, and client ID for the DIAL internal message fuzzer.

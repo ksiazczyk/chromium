@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsSdDelegate interface and DnsSdService struct
+// summary: Declares the DnsSdService struct and the DnsSdDelegate interface notified when watched DNS-SD services are added, updated, removed, flushed, or permission-rejected.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_MDNS_DNS_SD_DELEGATE_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_MDNS_DNS_SD_DELEGATE_H_
 

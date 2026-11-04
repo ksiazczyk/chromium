@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Cast message handler
+// summary: Provides the Chrome-embedder singleton instance of CastMessageHandler used for Cast channel messaging.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/chrome_cast_message_handler.h"
 
 #include <string>

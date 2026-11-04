@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast app availability tracker implementation
+// summary: Implements tracking of registered Cast media sources and per-sink app availability results, returning affected sources when availability changes.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_app_availability_tracker.h"
 
 #include "components/media_router/common/providers/cast/cast_media_source.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsSdRegistry class declaration
+// summary: Declares DnsSdRegistry, a registry for keeping track of discovered network services over DNS-SD, with observer registration, listener management and per-service-type data.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_MDNS_DNS_SD_REGISTRY_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_MDNS_DNS_SD_REGISTRY_H_
 

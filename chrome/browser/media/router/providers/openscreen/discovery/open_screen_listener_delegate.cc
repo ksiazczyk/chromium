@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenScreen listener delegate implementation
+// summary: Implements OpenScreenListenerDelegate, converting mDNS service descriptions into OpenScreen ServiceInfo entries and managing the lifecycle of the service discovery device lister.
+// ---
+
 #include "chrome/browser/media/router/providers/openscreen/discovery/open_screen_listener_delegate.h"
 
 #include <algorithm>

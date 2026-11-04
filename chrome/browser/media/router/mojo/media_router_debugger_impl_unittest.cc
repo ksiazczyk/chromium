@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media router debugger unit tests
+// summary: Unit tests for MediaRouterDebuggerImpl covering mirroring stats fetching, RTCP report toggles, and observer notifications.
+// ---
+
 #include "chrome/browser/media/router/mojo/media_router_debugger_impl.h"
 
 #include "base/test/scoped_feature_list.h"

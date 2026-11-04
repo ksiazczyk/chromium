@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock mirroring activity declaration
+// summary: Declares MockMirroringActivity, a GMock stub of MirroringActivity mocking session, playback and media control methods for testing.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_MOCK_MIRRORING_ACTIVITY_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_MOCK_MIRRORING_ACTIVITY_H_
 

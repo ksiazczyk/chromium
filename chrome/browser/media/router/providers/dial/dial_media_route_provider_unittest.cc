@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DIAL media route provider unit tests
+// summary: Unit tests for DialMediaRouteProvider using a mock media router, test sink service, and app discovery service to exercise route creation behavior.
+// ---
+
 #include "chrome/browser/media/router/providers/dial/dial_media_route_provider.h"
 
 #include <map>

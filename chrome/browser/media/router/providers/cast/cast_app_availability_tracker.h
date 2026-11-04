@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast app availability tracker header
+// summary: Declares CastAppAvailabilityTracker, which tracks sink queries and Cast app availability results on discovered sinks for the media router.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_CAST_APP_AVAILABILITY_TRACKER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_CAST_APP_AVAILABILITY_TRACKER_H_
 

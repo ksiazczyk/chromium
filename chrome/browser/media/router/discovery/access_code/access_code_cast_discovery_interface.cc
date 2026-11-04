@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access code cast discovery interface implementation
+// summary: Implements communication with the cast discovery server to validate access codes and build device data.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_discovery_interface.h"
 
 #include <cstddef>

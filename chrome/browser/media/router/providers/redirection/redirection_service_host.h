@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RedirectionServiceHost class declaration
+// summary: Declares the host that starts and stops MMR redirection sessions via the Redirection Service utility process.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_REDIRECTION_REDIRECTION_SERVICE_HOST_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_REDIRECTION_REDIRECTION_SERVICE_HOST_H_
 

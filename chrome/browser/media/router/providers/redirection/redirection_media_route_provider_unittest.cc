@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RedirectionMediaRouteProvider unit tests
+// summary: Tests route creation, joining, and termination using a fake service host and a test provider that never launch a utility process.
+// ---
+
 #include "chrome/browser/media/router/providers/redirection/redirection_media_route_provider.h"
 
 #include <memory>

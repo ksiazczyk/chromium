@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessCodeCastPrefUpdater base class implementation
+// summary: Implements shared AccessCodeCastPrefUpdater helpers for fetching sink values, added times, and finding sinks with matching IP endpoints.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_pref_updater.h"
 
 #include "base/json/values_util.h"

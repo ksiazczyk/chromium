@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DnsSdRegistry unit tests
+// summary: Unit tests for DnsSdRegistry covering listener registration and unregistration, forced discovery and service update notifications using mock device listers and observers.
+// ---
+
 #include "chrome/browser/media/router/discovery/mdns/dns_sd_registry.h"
 
 #include <memory>

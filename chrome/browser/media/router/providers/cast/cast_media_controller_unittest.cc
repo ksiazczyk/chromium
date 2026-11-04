@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast media controller unit tests
+// summary: Unit tests for CastMediaController verifying media command handling, session and media session IDs, and media status updates.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_media_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessCodeCastSinkServiceFactory implementation
+// summary: Implements the profile-keyed factory that returns an AccessCodeCastSinkService for a profile only when the access code cast preference is enabled.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_sink_service_factory.h"
 
 #include "base/no_destructor.h"

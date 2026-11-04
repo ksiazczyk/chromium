@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome media router factory unit tests
+// summary: Verifies that the media router service can be created for a regular profile using a testing profile and a mock media router.
+// ---
+
 #include "chrome/browser/media/router/chrome_media_router_factory.h"
 
 #include "base/functional/bind.h"

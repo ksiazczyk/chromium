@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoggerList implementation dispatching media router logs
+// summary: Implements the LoggerList singleton that fans out media router log messages to all registered LoggerImpl instances, posting work to the UI thread when needed.
+// ---
+
 #include "chrome/browser/media/router/logger_list.h"
 
 #include "base/task/sequenced_task_runner.h"

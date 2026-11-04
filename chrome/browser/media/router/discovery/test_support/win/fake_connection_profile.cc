@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeConnectionProfile implementation
+// summary: Implements a fake WinRT IConnectionProfile that returns configured connectivity levels, WLAN details, and simulated errors for discovery tests.
+// ---
+
 #include "chrome/browser/media/router/discovery/test_support/win/fake_connection_profile.h"
 
 #include "base/notimplemented.h"

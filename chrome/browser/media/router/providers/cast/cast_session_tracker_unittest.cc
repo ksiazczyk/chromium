@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast session tracker unit tests
+// summary: Unit tests for CastSessionTracker verifying session creation, updates, removal, and media status handling.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_session_tracker.h"
 
 #include "base/memory/raw_ptr.h"

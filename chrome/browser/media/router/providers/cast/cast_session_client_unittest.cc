@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast session client unit tests
+// summary: Unit tests for CastSessionClientImpl covering message handling, connection state changes, and error responses.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_session_client.h"
 
 #include <memory>

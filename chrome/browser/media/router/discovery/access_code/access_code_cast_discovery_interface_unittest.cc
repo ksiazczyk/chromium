@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access code cast discovery interface unit tests
+// summary: Tests access code validation, server response parsing, and error handling of the discovery interface.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_discovery_interface.h"
 
 #include "base/byte_size.h"

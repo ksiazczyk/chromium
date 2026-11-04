@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Cast message handler header
+// summary: Declares GetCastMessageHandler, which returns the Chrome singleton CastMessageHandler instance on the UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_CHROME_CAST_MESSAGE_HANDLER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_CHROME_CAST_MESSAGE_HANDLER_H_
 

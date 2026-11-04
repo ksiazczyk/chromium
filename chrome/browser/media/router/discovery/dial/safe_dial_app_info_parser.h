@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe DIAL app info parser
+// summary: Declares SafeDialAppInfoParser, which safely parses DIAL app info XML via a utility process and reports results through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_SAFE_DIAL_APP_INFO_PARSER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_SAFE_DIAL_APP_INFO_PARSER_H_
 

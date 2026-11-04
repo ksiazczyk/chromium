@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media router Mojo metrics implementation
+// summary: Records histograms and UKM events for route controller creation outcomes and tab mirroring audio states.
+// ---
+
 #include "chrome/browser/media/router/mojo/media_router_mojo_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

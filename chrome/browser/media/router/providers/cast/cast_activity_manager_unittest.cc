@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastActivityManager unit tests
+// summary: Unit tests for CastActivityManager covering session launch and join, route creation, and receiver message handling.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_activity_manager.h"
 
 #include <memory>

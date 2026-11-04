@@ -4,6 +4,12 @@
 
 // Fuzzer for dial_internal_message_util.cc.
 
+// ---docerion
+// type: test
+// title: DIAL internal message fuzzer
+// summary: LibFuzzer harness that feeds arbitrary JSON input into the DIAL internal message parsing and utility functions to find crashes and hangs.
+// ---
+
 #include "base/json/json_reader.h"
 #include "base/values.h"
 #include "chrome/browser/media/router/providers/dial/dial_internal_message_util.h"

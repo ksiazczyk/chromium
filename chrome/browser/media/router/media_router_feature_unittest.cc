@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Router feature unit tests
+// summary: Unit tests covering the CastAllowAllIPs pref, receiver ID hash token stability, playout delay command line parsing, and policy-controlled Media Router enabling.
+// ---
+
 #include "chrome/browser/media/router/media_router_feature.h"
 
 #include <memory>

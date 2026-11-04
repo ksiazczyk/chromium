@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device description service unit tests
+// summary: Unit tests for DeviceDescriptionService covering cache behavior, fetcher management, and parsing success and error paths using mock callbacks.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/device_description_service.h"
 
 #include <memory>

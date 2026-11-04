@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeMibTable class declaration
+// summary: Declares FakeMibTable, a byte-blob wrapper for the MIB_IF_TABLE2 structure returned by the fake GetIfTable2 in FakeIpHelper.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_MIB_TABLE_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_MIB_TABLE_H_
 

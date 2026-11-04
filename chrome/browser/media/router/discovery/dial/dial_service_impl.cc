@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialService implementation
+// summary: Implements DialService using UDP sockets, sending multicast SSDP M-SEARCH requests per network interface and parsing DIAL device responses, with ChromeOS-specific network handling.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/dial_service_impl.h"
 
 #include <stdint.h>

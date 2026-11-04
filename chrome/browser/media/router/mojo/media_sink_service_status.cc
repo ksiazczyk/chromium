@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media sink service status implementation
+// summary: Implements MediaSinkServiceStatus, which tracks discovered and available media sinks and serializes the status as JSON for debugging.
+// ---
+
 #include "chrome/browser/media/router/mojo/media_sink_service_status.h"
 
 #include "base/json/json_string_value_serializer.h"

@@ -1,0 +1,4 @@
+# Docerion header of dial_internal_message_fuzzer.dict.
+type: data
+title: DIAL internal message fuzzer dictionary
+summary: Dictionary of DIAL internal message tokens, keys and values used to guide input generation for the DIAL internal message fuzzer.

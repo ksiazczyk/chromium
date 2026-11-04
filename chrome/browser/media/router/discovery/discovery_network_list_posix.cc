@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX discovery network list implementation
+// summary: Enumerates running network interfaces via getifaddrs and derives network IDs from WiFi SSIDs or interface MAC addresses on POSIX systems.
+// ---
+
 #include "chrome/browser/media/router/discovery/discovery_network_list.h"
 
 #include <ifaddrs.h>

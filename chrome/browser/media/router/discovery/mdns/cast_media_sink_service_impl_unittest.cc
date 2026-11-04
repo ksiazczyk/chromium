@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastMediaSinkServiceImpl unit tests
+// summary: Unit tests for CastMediaSinkServiceImpl covering sink discovery, channel open parameters, retry backoff, metrics, and dual DIAL discovery behavior.
+// ---
+
 #include "chrome/browser/media/router/discovery/mdns/cast_media_sink_service_impl.h"
 
 #include <algorithm>

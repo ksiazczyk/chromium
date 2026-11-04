@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access code cast constants definitions
+// summary: Defines constants for the discovery endpoint, JSON field names, and the access code cast command-line switch.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_constants.h"
 
 #include "chrome/common/channel_info.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome local presentation manager factory implementation
+// summary: Implements the ChromeLocalPresentationManagerFactory singleton, redirecting browser contexts to incognito so profiles share a LocalPresentationManager.
+// ---
+
 #include "chrome/browser/media/router/presentation/chrome_local_presentation_manager_factory.h"
 
 #include "base/lazy_instance.h"

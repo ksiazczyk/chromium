@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessCodeCastPrefUpdaterImpl unit tests
+// summary: Unit tests covering device dictionary updates, overwrites, addition-time recording, and clearing of Access Code Cast preferences.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_pref_updater_impl.h"
 
 #include "base/json/json_reader.h"

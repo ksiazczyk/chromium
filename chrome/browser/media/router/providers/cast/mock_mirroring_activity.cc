@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock mirroring activity implementation
+// summary: Implements the MockMirroringActivity test double, a thin constructor wrapper around MirroringActivity for use in unit tests.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/mock_mirroring_activity.h"
 
 namespace media_router {

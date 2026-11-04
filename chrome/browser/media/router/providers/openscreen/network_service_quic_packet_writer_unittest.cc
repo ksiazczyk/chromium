@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network service QUIC packet writer unit tests
+// summary: Unit tests for NetworkServiceQuicPacketWriter covering batch mode, flush behavior, packet sending, and write error notification using mock senders and delegates.
+// ---
+
 #include "chrome/browser/media/router/providers/openscreen/network_service_quic_packet_writer.h"
 
 #include <utility>

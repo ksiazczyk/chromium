@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIAL internal message utility implementation
+// summary: Implements parsing and creation of internal DIAL launch messages exchanged between the media route provider and Cast SDK clients, including message type conversions.
+// ---
+
 #include "chrome/browser/media/router/providers/dial/dial_internal_message_util.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeWinrtNetworkEnvironment class and error status enum
+// summary: Declares the fake WinRT network environment and the FakeWinrtNetworkStatus enum used to simulate WinRT API failures in discovery network tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_WINRT_NETWORK_ENVIRONMENT_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_WINRT_NETWORK_ENVIRONMENT_H_
 

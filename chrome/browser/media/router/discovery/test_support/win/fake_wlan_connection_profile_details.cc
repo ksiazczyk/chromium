@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeWlanConnectionProfileDetails implementation
+// summary: Implements a fake IWlanConnectionProfileDetails whose GetConnectedSsid returns the configured SSID or a simulated error.
+// ---
+
 #include "chrome/browser/media/router/discovery/test_support/win/fake_wlan_connection_profile_details.h"
 
 #include "base/win/scoped_hstring.h"

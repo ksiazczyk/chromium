@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNetworkInformationStatics implementation
+// summary: Implements a fake WinRT INetworkInformationStatics that returns fake connection profiles and can simulate API errors for media router discovery tests.
+// ---
+
 #include "chrome/browser/media/router/discovery/test_support/win/fake_network_information_statics.h"
 
 #include "base/notimplemented.h"

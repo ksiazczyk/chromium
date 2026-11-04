@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast media sink service test helpers
+// summary: Provides MockCastMediaSinkServiceImpl and TestCastMediaSinkService so Cast sink discovery tests can run without real sockets or mDNS.
+// ---
+
 #include "chrome/browser/media/router/discovery/mdns/cast_media_sink_service_test_helpers.h"
 
 #include <string>

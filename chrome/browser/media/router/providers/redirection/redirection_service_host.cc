@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RedirectionServiceHost implementation
+// summary: Launches the redirection utility-process service and wires up redirection sessions through RedirectionConnector, handling start and disconnect events.
+// ---
+
 #include "chrome/browser/media/router/providers/redirection/redirection_service_host.h"
 
 #include <utility>

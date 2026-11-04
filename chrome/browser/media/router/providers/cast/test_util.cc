@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast test utilities implementation
+// summary: Implements ostream operators that print CastInternalMessage types and messages for readable test failure output.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/test_util.h"
 
 #include "components/media_router/common/providers/cast/channel/enum_table.h"

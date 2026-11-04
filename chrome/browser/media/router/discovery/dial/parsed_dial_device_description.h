@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parsed DIAL device description struct
+// summary: Defines the ParsedDialDeviceDescription struct holding a DIAL device's unique ID, friendly name, model name, device type, and app URL.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_PARSED_DIAL_DEVICE_DESCRIPTION_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_PARSED_DIAL_DEVICE_DESCRIPTION_H_
 

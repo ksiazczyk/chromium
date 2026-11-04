@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows firewall local port check implementation
+// summary: Implements CanFirewallUseLocalPorts, an asynchronous check of whether the Windows firewall allows using local ports for media routing.
+// ---
+
 #include "chrome/browser/media/router/mojo/media_route_provider_util_win.h"
 
 #include "base/files/file_path.h"

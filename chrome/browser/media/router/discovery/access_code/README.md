@@ -1,3 +1,9 @@
+---
+type: readme
+title: Access code casting overview
+summary: Explains the access code casting feature, its user flow, external uses, and the key classes involved.
+---
+
 # Overview
 Access Code Casting is an extension of the [Media Router](http://www.chromium.org/developers/design-documents/media-router) that allows for casting via an access code.
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialMediaSinkServiceImpl implementation
+// summary: Implements the core DIAL sink discovery logic, coordinating device description fetching, app discovery, and sink list updates on a sequenced task runner.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/dial_media_sink_service_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIAL media sink service implementation
+// summary: Implements the UI-thread DialMediaSinkService that creates the IO-thread implementation and forwards initialization and discovery requests to it.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/dial_media_sink_service.h"
 
 #include "base/functional/bind.h"

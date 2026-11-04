@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DIAL app discovery service unit tests
+// summary: Unit tests for DialAppDiscoveryService using a mock parser and fetcher to verify app info fetch, parse, and error callback behavior.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/dial_app_discovery_service.h"
 
 #include "base/functional/bind.h"

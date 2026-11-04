@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for media router discovery
+summary: Defines the discovery static library and test support sources, including platform-specific sources and dependencies for media sink discovery.

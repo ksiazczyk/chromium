@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wired display media route provider implementation
+// summary: Implements the media route provider that exposes non-mirrored wired displays as media sinks and manages creating, joining, and terminating presentations on them.
+// ---
+
 #include "chrome/browser/media/router/providers/wired_display/wired_display_media_route_provider.h"
 
 #include <algorithm>

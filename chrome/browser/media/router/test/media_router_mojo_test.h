@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaRouterMojoTest fixture and mock provider declarations
+// summary: Declares the MediaRouterMojoTest fixture and mock media route provider, media controller, and media status observer classes for media router tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_TEST_MEDIA_ROUTER_MOJO_TEST_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_TEST_MEDIA_ROUTER_MOJO_TEST_H_
 

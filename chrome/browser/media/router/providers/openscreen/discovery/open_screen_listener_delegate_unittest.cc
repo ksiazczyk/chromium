@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenScreen listener delegate unit tests
+// summary: Unit tests for OpenScreenListenerDelegate using a fake device lister and mock observer to verify receiver discovery, updates, and listener state transitions without real service discovery.
+// ---
+
 #include "chrome/browser/media/router/providers/openscreen/discovery/open_screen_listener_delegate.h"
 
 #include "base/memory/raw_ptr.h"
