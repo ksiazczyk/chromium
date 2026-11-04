@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content analysis dialog controller implementation
+// summary: Implements the Views content analysis dialog controller, including dialog timeouts, show delays, and creation for copy justification scans.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/content_analysis_dialog_controller.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise browser main extra parts implementation
+// summary: Implements browser startup hooks that prime local content analysis agent connections and create the enterprise reporting client during the browser life cycle.
+// ---
+
 #include "chrome/browser/enterprise/chrome_browser_main_extra_parts_enterprise.h"
 
 #include "chrome/browser/policy/messaging_layer/public/report_client.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content analysis info browser tests
+// summary: Browser tests verifying how the active Gaia user email is resolved from Workspace URLs and download items for content analysis requests.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/content_analysis_info.h"
 
 #include "base/command_line.h"

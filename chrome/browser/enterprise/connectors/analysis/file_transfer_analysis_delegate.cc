@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileTransferAnalysisDelegate implementation
+// summary: Implements the delegate that scans and reports ChromeOS file system transfers, recursively collecting file URLs and producing allowed, blocked, or unknown verdicts.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/file_transfer_analysis_delegate.h"
 
 #include <numeric>

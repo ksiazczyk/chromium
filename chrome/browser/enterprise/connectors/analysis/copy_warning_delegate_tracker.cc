@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy warning delegate tracker implementation
+// summary: Implements per-WebContents tracking of copy warning scan delegates, supporting set, bypass, cancel and clear operations.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/copy_warning_delegate_tracker.h"
 
 #include <optional>

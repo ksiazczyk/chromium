@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for ConnectorsService
+// summary: Browser tests verifying reporting and analysis settings, DM tokens, client metadata and profile affiliation behavior of ConnectorsService across platforms.
+// ---
+
 #include "chrome/browser/enterprise/connectors/connectors_service.h"
 
 #include <memory>

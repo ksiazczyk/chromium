@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network request content analysis info implementation
+// summary: Implements ContentAnalysisInfo for a single scanned network request, capturing tab URL, title, email and referrer chain at request time.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/network_request_content_analysis_info.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network request proxying URL loader factory
+// summary: Declares a self-deleting URL loader factory that proxies frame loaders to scan POST request bodies per the network request connector policy.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_NETWORK_REQUEST_PROXYING_URL_LOADER_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_NETWORK_REQUEST_PROXYING_URL_LOADER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalBinaryUploadService implementation
+// summary: Implements the service that sends content to local content analysis agents via the content analysis SDK, converting Chrome requests and responses to SDK equivalents.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/local_binary_upload_service.h"
 
 #include <algorithm>

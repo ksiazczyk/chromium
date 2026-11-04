@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page print request handler implementation
+// summary: Manages a print content analysis request and its reporting for a single print action, including large-page exemptions and test factory hooks.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/page_print_request_handler.h"
 
 #include "base/logging.h"

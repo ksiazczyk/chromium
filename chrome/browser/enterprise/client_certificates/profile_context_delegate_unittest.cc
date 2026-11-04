@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile context delegate unit tests
+// summary: Unit tests verifying that certificate deletion flushes cached client certs and that identity and policy pref accessors return expected values.
+// ---
+
 #include "chrome/browser/enterprise/client_certificates/profile_context_delegate.h"
 
 #include <memory>

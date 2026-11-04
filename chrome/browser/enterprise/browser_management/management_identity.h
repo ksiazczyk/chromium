@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management identity helper declarations
+// summary: Declares functions for retrieving the enterprise account domain and the device or account manager identity, plus a scoped testing helper.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_BROWSER_MANAGEMENT_MANAGEMENT_IDENTITY_H_
 #define CHROME_BROWSER_ENTERPRISE_BROWSER_MANAGEMENT_MANAGEMENT_IDENTITY_H_
 

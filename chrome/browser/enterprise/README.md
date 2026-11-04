@@ -1,3 +1,11 @@
+---
+type: readme
+title: Enterprise directory overview
+summary: Explains the purpose of the enterprise directory, rules for adding new feature sub-directories, what does not belong here, and the responsibilities of its OWNERS.
+relations:
+  - documents /chrome/browser/enterprise/OWNERS
+---
+
 ## About //chrome/browser/enterprise/
 
 This directory is used for enterprise or edu related features and util

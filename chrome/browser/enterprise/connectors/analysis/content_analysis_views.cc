@@ -2,6 +2,12 @@
 // // Use of this source code is governed by a BSD-style license that can be
 // // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content analysis dialog views implementation
+// summary: Implements image and spinner views for the content analysis dialog, with theme-aware updates and state-dependent side icons.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/content_analysis_views.h"
 
 #include "components/vector_icons/vector_icons.h"

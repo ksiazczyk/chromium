@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Copy warning delegate tracker unit tests
+// summary: Unit tests verifying delegate setting, replacement of old delegates and matching-clear behavior of the copy warning delegate tracker.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/copy_warning_delegate_tracker.h"
 
 #include <memory>

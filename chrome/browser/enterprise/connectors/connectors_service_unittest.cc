@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ConnectorsService
+// summary: Unit tests covering analysis and reporting connector settings, custom UI messages, affiliation IDs and ChromeOS managed guest session handling in ConnectorsService.
+// ---
+
 #include "chrome/browser/enterprise/connectors/connectors_service.h"
 
 #include <tuple>

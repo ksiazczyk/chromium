@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy warning delegate tracker header
+// summary: Declares a WebContentsUserData tracker associating copy warning delegates with tabs so toast bypass actions find the right delegate.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_COPY_WARNING_DELEGATE_TRACKER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_COPY_WARNING_DELEGATE_TRACKER_H_
 

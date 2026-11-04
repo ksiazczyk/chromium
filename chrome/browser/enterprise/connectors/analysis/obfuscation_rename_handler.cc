@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Obfuscation rename handler for ChromeOS downloads
+// summary: Moves obfuscated downloads staged in a temporary directory to their final target path on ChromeOS virtual or cloud filesystems.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/obfuscation_rename_handler.h"
 
 #include <utility>

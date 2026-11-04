@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate store factory
+// summary: Profile-keyed service factory that creates the platform-appropriate certificate store, using Kcer on ChromeOS and prefs or LevelDB stores elsewhere.
+// ---
+
 #include "chrome/browser/enterprise/client_certificates/certificate_store_factory.h"
 
 #include <memory>

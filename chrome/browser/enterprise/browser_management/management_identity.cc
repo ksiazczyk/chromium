@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management identity helpers implementation
+// summary: Implements helpers that resolve the enterprise account domain and the device or profile manager identity, including a testing override scope.
+// ---
+
 #include "chrome/browser/enterprise/browser_management/management_identity.h"
 
 #include <optional>

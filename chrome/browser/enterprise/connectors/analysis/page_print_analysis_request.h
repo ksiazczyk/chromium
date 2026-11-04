@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PagePrintAnalysisRequest class declaration
+// summary: Declares a binary upload request that carries a to-be-printed web page through a read-only shared memory region.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_PAGE_PRINT_ANALYSIS_REQUEST_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_PAGE_PRINT_ANALYSIS_REQUEST_H_
 

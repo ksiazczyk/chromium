@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SourceDestinationMatcherAsh for ChromeOS volume matching
+// summary: Declares a class that matches source and destination file system URLs on ChromeOS against enterprise connector policy filter settings.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_SOURCE_DESTINATION_MATCHER_ASH_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_SOURCE_DESTINATION_MATCHER_ASH_H_
 

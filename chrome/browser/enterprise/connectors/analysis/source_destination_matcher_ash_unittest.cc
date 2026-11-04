@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SourceDestinationMatcherAsh
+// summary: Unit tests verifying that source and destination volume matching works across ChromeOS file system and guest OS volume types.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/source_destination_matcher_ash.h"
 
 #include <map>

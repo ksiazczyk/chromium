@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn test targets for enterprise client certificates
+summary: Defines GN source sets for the client certificate unit tests and platform browser tests, including ChromeOS-specific test sources and dependencies.

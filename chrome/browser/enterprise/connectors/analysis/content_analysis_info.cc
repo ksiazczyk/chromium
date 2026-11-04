@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content analysis info implementation
+// summary: Implements ContentAnalysisInfo and ContentAreaUserProvider to initialize binary upload requests and resolve the active content area account email.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/content_analysis_info.h"
 
 #include "base/containers/fixed_flat_set.h"

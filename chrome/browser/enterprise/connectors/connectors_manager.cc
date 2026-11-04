@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectors manager implementation
+// summary: Implements the desktop and Android connectors manager, handling analysis settings, tab strip observation and local agent connections.
+// ---
+
 #include "chrome/browser/enterprise/connectors/connectors_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileTransferAnalysisDelegate class declaration
+// summary: Declares FileTransferAnalysisDelegate, which handles scanning and reporting of ChromeOS file system transfers and exposes verdicts and results per file system URL.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_FILE_TRANSFER_ANALYSIS_DELEGATE_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_FILE_TRANSFER_ANALYSIS_DELEGATE_H_
 

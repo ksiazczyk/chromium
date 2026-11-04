@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise connectors unit tests build file
+summary: Defines the unit_tests source set, sources and dependencies for enterprise connectors tests in the GN build.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileTransferAnalysisDelegate unit tests
+// summary: Unit tests covering file transfer scanning behavior, including DLP and malware scan policies, blocking settings, and reporting of unscanned files.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/file_transfer_analysis_delegate.h"
 
 #include <map>

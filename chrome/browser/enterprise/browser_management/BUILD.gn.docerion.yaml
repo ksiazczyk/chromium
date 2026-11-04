@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser management build definitions
+summary: Defines GN source sets for management identity and the management service browser test target, along with their dependencies.

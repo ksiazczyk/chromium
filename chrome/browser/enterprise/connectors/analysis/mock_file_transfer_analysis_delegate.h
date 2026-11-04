@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock file transfer analysis delegate
+// summary: Declares a GoogleMock-based mock of FileTransferAnalysisDelegate for testing file transfer scanning behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_MOCK_FILE_TRANSFER_ANALYSIS_DELEGATE_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_MOCK_FILE_TRANSFER_ANALYSIS_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalBinaryUploadServiceFactory implementation
+// summary: Implements the profile-keyed service factory that creates and provides a LocalBinaryUploadService instance per profile.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/local_binary_upload_service_factory.h"
 
 #include "chrome/browser/enterprise/connectors/analysis/local_binary_upload_service.h"

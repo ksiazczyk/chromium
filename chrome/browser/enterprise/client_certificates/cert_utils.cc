@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate utilities for key factories and provisioning
+// summary: Builds platform-specific private key factories for Mac, Windows, Android and software keys and creates the browser-scope certificate provisioning service.
+// ---
+
 #include "chrome/browser/enterprise/client_certificates/cert_utils.h"
 
 #include <utility>

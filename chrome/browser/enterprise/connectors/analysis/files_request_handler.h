@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilesRequestHandler class declaration
+// summary: Declares FilesRequestHandler, the FilesRequestHandlerBase delegate implementation for Clank and desktop platforms, with a factory hook for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_FILES_REQUEST_HANDLER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_FILES_REQUEST_HANDLER_H_
 

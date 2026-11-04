@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content analysis dialog delegate implementation
+// summary: Implements the dialog delegate view that shows pending, success, failure, and warning states with bypass justification input.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/content_analysis_dialog_delegate.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for the browser context delegate
+// summary: Tests that deleting a client certificate flushes matching cached certificates via the network context and checks identity names and the policy pref.
+// ---
+
 #include "chrome/browser/enterprise/client_certificates/browser_context_delegate.h"
 
 #include <memory>

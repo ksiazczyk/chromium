@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Enterprise connectors code owners
+summary: Lists owners and the cep-review alias for reviewing changes in the enterprise connectors directory.

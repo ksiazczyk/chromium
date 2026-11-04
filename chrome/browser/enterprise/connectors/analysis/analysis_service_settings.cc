@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Analysis service settings implementation
+// summary: Implements AnalysisServiceSettings, parsing connector policy settings and matching ChromeOS source/destination patterns to produce analysis settings.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/analysis_service_settings.h"
 
 #include "build/build_config.h"

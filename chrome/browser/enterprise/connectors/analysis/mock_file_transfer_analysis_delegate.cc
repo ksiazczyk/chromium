@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock file transfer analysis delegate implementation
+// summary: Implements the mock file transfer analysis delegate that forwards constructor arguments to the base class for use in tests.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/mock_file_transfer_analysis_delegate.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilesRequestHandler implementation
+// summary: Implements the files request handler for Clank and desktop platforms, opening files for scanning and reporting cancellations of unscanned file events.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/files_request_handler.h"
 
 #include <algorithm>

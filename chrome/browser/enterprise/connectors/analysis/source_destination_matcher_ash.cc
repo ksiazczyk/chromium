@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS source and destination volume matcher
+// summary: Maps ChromeOS file manager volumes and guest OS types to filesystem types used to match content analysis sources and destinations.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/source_destination_matcher_ash.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectorsService class and factory declarations
+// summary: Declares the ConnectorsService keyed service and its BrowserContextKeyedServiceFactory for accessing connector settings, DM tokens and client metadata.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_CONNECTORS_SERVICE_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_CONNECTORS_SERVICE_H_
 

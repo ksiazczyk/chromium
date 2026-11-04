@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObfuscationRenameHandler class declaration
+// summary: Declares a download rename handler that relocates obfuscated downloads from a local temp directory to virtual or cloud filesystem targets.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_OBFUSCATION_RENAME_HANDLER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_OBFUSCATION_RENAME_HANDLER_H_
 
