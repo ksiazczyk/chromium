@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the accessibility service private extension
+summary: Defines the static_library target for the accessibility service private extension and declares dependencies on the extensions browser and ChromeOS accessibility components.

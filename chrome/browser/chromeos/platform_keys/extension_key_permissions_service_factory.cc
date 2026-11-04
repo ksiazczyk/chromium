@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension key permissions service factory implementation
+// summary: Creates ExtensionKeyPermissionsService instances from the extension state store for a given browser context and extension.
+// ---
+
 #include "chrome/browser/chromeos/platform_keys/extension_key_permissions_service.h"
 
 #include <memory>

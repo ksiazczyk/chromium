@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Desk API extension manager
+summary: Defines the desk_api static library and its unit test source_set, listing their sources and build dependencies.

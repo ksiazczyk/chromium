@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionCleanupHandler browser tests
+// summary: Browser tests that verify extension uninstall and reinstall behavior for public session device local accounts using device policy test fixtures.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/extension_cleanup_handler.h"
 
 #include <algorithm>

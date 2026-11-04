@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the system_log directory
+summary: Sets include rules that block ChromeOS dependencies on //chrome while whitelisting required includes for this directory and its tests.

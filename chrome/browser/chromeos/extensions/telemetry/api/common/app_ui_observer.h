@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App UI observer interface
+// summary: Declares AppUiObserver, a WebContentsObserver that tracks an app UI's status and reports close and focus change events through callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_TELEMETRY_API_COMMON_APP_UI_OBSERVER_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_TELEMETRY_API_COMMON_APP_UI_OBSERVER_H_
 

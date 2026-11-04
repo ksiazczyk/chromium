@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base telemetry API guard function implementation
+// summary: Implements the extension function entry point that consults ApiGuardDelegate and either responds with an unauthorized access error or runs the API when allowed.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/common/base_telemetry_extension_api_guard_function.h"
 
 #include <memory>

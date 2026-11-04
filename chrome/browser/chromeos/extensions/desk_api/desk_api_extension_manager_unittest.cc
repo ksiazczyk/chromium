@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Desk API extension manager
+// summary: Unit tests verifying extension install and uninstall behavior for affiliated and unaffiliated profiles under different Desk API policy settings.
+// ---
+
 #include "chrome/browser/chromeos/extensions/desk_api/desk_api_extension_manager.h"
 
 #include <memory>

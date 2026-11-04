@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base telemetry extension browser test implementation
+// summary: Implements a base browser test class that loads telemetry test extensions, runs their service workers, and secures the app UI for testing.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/common/base_telemetry_extension_browser_test.h"
 
 #include <memory>

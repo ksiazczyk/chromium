@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the telemetry extension event manager
+// summary: Contains in-process browser tests verifying event manager behavior for telemetry extensions, including app UI focus and certificate scenarios.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/events/event_manager.h"
 
 #include <string>

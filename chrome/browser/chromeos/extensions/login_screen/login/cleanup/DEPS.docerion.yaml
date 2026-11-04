@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the cleanup directory
+summary: Restricts and allows Chromium include dependencies for the cleanup directory and its individual test files.

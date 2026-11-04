@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for login screen extensions
+summary: DEPS file barring ChromeOS code from depending on //chrome while allowing this directory's own headers and the ash policy login dependency.

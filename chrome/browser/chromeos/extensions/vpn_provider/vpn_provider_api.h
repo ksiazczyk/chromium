@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VPN provider extension function class declarations
+// summary: Declares extension function classes for creating, destroying and configuring VPNs, sending packets and reporting state.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_VPN_PROVIDER_VPN_PROVIDER_API_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_VPN_PROVIDER_VPN_PROVIDER_API_H_
 

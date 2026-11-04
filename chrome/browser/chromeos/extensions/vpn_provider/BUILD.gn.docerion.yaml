@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the vpn_provider source set
+summary: Defines the vpn_provider source set, listing its source files and build dependencies for ChromeOS.

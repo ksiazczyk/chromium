@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics recording for diagnostics routine usage
+// summary: Records histograms for routine creation and supported status queries by mapping Mojo routine argument tags to histogram values.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/diagnostics/diagnostics_api_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

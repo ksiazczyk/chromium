@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: os.events extension API function implementations
+// summary: Implements the os.events extension API functions, including event support checks that map event categories to feature names and open the keyboard diagnostics page.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/events/events_api.h"
 
 #include <optional>

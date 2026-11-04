@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event manager implementation for telemetry extension events
+// summary: Implements the EventManager that registers extensions for OS event categories, manages app UI observers, and wires subscriptions to cros_healthd.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/events/event_manager.h"
 
 #include <utility>

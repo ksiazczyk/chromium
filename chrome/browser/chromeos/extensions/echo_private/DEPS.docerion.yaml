@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the echo_private directory
+summary: Restricts ChromeOS dependencies on //chrome, allows the directory's own and legacy includes, and adds extra rules for the API test file.

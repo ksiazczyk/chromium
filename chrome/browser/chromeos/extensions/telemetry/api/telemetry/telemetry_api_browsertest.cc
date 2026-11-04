@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the telemetry extension API
+// summary: In-process browser tests exercising the os.telemetry extension API against fake cros_healthd and debug daemon responses.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

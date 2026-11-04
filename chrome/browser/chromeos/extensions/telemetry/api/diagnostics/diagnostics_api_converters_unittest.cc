@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the diagnostics API converters
+// summary: Verifies that the converter functions map Mojo routine types, statuses and arguments to the extension API values correctly.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/diagnostics/diagnostics_api_converters.h"
 
 #include "base/time/time.h"

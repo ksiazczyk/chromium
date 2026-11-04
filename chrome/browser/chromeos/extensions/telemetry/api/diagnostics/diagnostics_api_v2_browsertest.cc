@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diagnostics API v2 browser tests
+// summary: Browser tests for the chrome.os.diagnostics extension API v2, covering routine argument support checks and error handling against a fake cros_healthd service.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <utility>

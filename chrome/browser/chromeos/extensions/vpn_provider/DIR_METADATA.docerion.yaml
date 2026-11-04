@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with bug tracking components
+summary: Maps the directory to Buganizer component 156085 and Monorail component OS>Systems>Network.

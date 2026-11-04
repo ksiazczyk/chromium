@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wm_desks_private_feature interface
+// summary: Defines the WMDesksPrivateFeature interface, to be implemented by ash-chrome and lacros-chrome, for desk template, launch, switch, and saved desk operations.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_WM_WM_DESKS_PRIVATE_FEATURE_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_WM_WM_DESKS_PRIVATE_FEATURE_H_
 

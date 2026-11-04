@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session state changed event dispatcher implementation
+// summary: Implements the dispatcher that broadcasts loginState.onSessionStateChanged events to extensions whenever the session state changes.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login_state/session_state_changed_event_dispatcher.h"
 
 #include "base/no_destructor.h"

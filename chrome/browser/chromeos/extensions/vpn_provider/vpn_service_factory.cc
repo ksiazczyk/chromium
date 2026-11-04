@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VpnServiceFactory implementation
+// summary: Implements the keyed service factory that builds VpnService per browser context, restricted to the primary user.
+// ---
+
 #include "chrome/browser/chromeos/extensions/vpn_provider/vpn_service_factory.h"
 
 #include "base/no_destructor.h"

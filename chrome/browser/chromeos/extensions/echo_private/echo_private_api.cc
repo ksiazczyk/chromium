@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of echoPrivate extension API functions
+// summary: Implements extension functions for retrieving registration codes, getting and setting offer info, OOBE timestamps, and obtaining user consent via a dialog.
+// ---
+
 #include "chrome/browser/chromeos/extensions/echo_private/echo_private_api.h"
 
 #include <string>

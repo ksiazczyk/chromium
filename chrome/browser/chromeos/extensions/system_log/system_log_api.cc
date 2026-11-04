@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the chrome.systemLog.add extension function
+// summary: Implements the systemLog.add extension function, writing extension messages to syslog when policy allows and the session type is eligible.
+// ---
+
 #include "chrome/browser/chromeos/extensions/system_log/system_log_api.h"
 
 #include "base/strings/stringprintf.h"

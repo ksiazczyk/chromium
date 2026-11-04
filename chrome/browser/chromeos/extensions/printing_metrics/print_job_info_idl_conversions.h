@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for print job info proto to IDL conversion
+// summary: Declares PrintJobInfoProtoToIdl, which converts an ash print job protobuf record into the extension API IDL PrintJobInfo type.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_PRINTING_METRICS_PRINT_JOB_INFO_IDL_CONVERSIONS_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_PRINTING_METRICS_PRINT_JOB_INFO_IDL_CONVERSIONS_H_
 

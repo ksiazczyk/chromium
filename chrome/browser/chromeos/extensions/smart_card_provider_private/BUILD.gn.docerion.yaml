@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the smart card provider private extension API
+summary: GN build file defining the smart_card_provider_private source_set and the browser_tests target that compiles its API tests.

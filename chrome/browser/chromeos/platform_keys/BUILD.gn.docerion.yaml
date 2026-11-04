@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the platform_keys static library
+summary: Defines the platform_keys static library target with its source files and dependencies for ChromeOS.

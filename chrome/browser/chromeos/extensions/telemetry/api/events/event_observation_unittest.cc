@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the event observation class
+// summary: Unit tests verifying that EventObservation receives audio jack events from cros_healthd and forwards them to its delegate.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/events/event_observation.h"
 
 #include <memory>

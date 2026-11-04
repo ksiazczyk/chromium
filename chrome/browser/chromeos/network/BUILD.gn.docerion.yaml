@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build file for the network library
+summary: Defines the static library for the network portal signin window sources and a testonly browser_tests source set, listing their build dependencies.

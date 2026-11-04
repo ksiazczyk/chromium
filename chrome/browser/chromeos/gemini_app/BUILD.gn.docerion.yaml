@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Gemini app GN build targets
+summary: Defines the gemini_app static library and its unit test source set, listing sources and dependencies for the ChromeOS Gemini app component.

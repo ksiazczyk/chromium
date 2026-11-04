@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the routines directory
+summary: Restricts //chrome dependencies and lists allowed includes for the diagnostic routines directory and its browsertest.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper API browser test
+// summary: Browser test that verifies the wallpaper API works when loaded as a component extension using an embedded test server.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chromeos/ash/components/cryptohome/system_salt_getter.h"
 #include "content/public/test/browser_test.h"

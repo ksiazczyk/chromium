@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser cleanup handler class declaration
+// summary: Declares a cleanup handler that closes browser windows for the profile and clears its browsing data using BrowsingDataRemover.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_LOGIN_SCREEN_LOGIN_CLEANUP_BROWSER_CLEANUP_HANDLER_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_LOGIN_SCREEN_LOGIN_CLEANUP_BROWSER_CLEANUP_HANDLER_H_
 

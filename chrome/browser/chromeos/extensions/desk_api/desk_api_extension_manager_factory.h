@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk API extension manager factory declaration
+// summary: Declares the ProfileKeyedServiceFactory that provides per-profile access to the DeskApiExtensionManager service.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_DESK_API_DESK_API_EXTENSION_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_DESK_API_DESK_API_EXTENSION_MANAGER_FACTORY_H_
 

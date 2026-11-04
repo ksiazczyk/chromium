@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component extension content settings provider implementation
+// summary: Implements the content settings provider that exposes allowlist rules to HostContentSettingsMap and forwards change notifications.
+// ---
+
 #include "chrome/browser/chromeos/extensions/component_extension_content_settings/component_extension_content_settings_provider.h"
 
 #include "base/functional/bind.h"

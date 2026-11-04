@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Telemetry extension build targets
+summary: GN build file defining the telemetry source set with the browser API provider and a testonly unit_tests source set for permission message tests.

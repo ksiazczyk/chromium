@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the echoPrivate extension API
+// summary: Exercises echoPrivate API functions using a fake statistics provider and dialog interactions to verify registration codes and user consent behavior.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login screen i18n API browser tests
+// summary: Parameterized browser tests verifying that the login screen extension's i18n API returns locale-specific messages for configured login screen locales.
+// ---
+
 #include <string>
 #include <utility>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Telemetry extension utility functions
+// summary: Finds open and secure app UI web contents for a ChromeOS system extension, preferring focused UIs and handling shimless RMA and IWA.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/common/util.h"
 
 #include "ash/constants/ash_features.h"

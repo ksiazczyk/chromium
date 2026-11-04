@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners inherited from the Blink smart card module
+summary: OWNERS file that delegates ownership to the Blink renderer smart card module's OWNERS file.

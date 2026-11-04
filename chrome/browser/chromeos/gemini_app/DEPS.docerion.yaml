@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for gemini_app
+summary: Sets include rules blocking ChromeOS dependencies on //chrome while allowing this directory and listing existing test-only //chrome exceptions.

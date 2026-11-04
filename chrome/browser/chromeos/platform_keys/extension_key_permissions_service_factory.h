@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension key permissions service factory header
+// summary: Declares the factory used to retrieve ExtensionKeyPermissionsService instances for a specific profile and extension pair.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_PLATFORM_KEYS_EXTENSION_KEY_PERMISSIONS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_CHROMEOS_PLATFORM_KEYS_EXTENSION_KEY_PERMISSIONS_SERVICE_FACTORY_H_
 

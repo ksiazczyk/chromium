@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the diagnostics extension API
+summary: Defines the source sets and dependencies for the diagnostics extension API code, its browser tests and its unit tests.

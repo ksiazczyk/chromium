@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for diagnostic routines
+summary: Defines GN source sets for the diagnostic routines code, its manager, and the associated unit and browser tests.

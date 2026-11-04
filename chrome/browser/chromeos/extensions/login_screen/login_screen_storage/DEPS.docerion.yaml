@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for login_screen_storage
+summary: DEPS rules restricting //chrome includes for this ChromeOS directory and granting extra include exceptions to tests.

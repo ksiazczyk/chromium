@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the ChromeOS extensions directory
+summary: Lists code owners for the directory, including ChromeOS-specific reviewers and per-file owners for wallpaper and device local account files.

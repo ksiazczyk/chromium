@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard cleanup handler implementation
+// summary: Implements ClipboardCleanupHandler by clearing the ChromeOS copy-paste clipboard on the current thread during login screen cleanup.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/clipboard_cleanup_handler.h"
 
 #include <optional>

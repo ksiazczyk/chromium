@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app cleanup handler header
+// summary: Declares WebAppCleanupHandler, a cleanup handler that uninstalls user-installed web apps.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_LOGIN_SCREEN_LOGIN_CLEANUP_WEB_APP_CLEANUP_HANDLER_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_LOGIN_SCREEN_LOGIN_CLEANUP_WEB_APP_CLEANUP_HANDLER_H_
 

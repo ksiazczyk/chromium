@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension key permissions service header
+// summary: Declares the service managing signing permissions for a profile and extension pair, including one-off certificate request permissions.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_PLATFORM_KEYS_EXTENSION_KEY_PERMISSIONS_SERVICE_H_
 #define CHROME_BROWSER_CHROMEOS_PLATFORM_KEYS_EXTENSION_KEY_PERMISSIONS_SERVICE_H_
 

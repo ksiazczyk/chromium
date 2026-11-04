@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: printingMetrics.getPrintJobs extension function
+// summary: Implements the getPrintJobs extension function that fetches stored print job history from the print job history service and returns it as API results.
+// ---
+
 #include "chrome/browser/chromeos/extensions/printing_metrics/printing_metrics_api.h"
 
 #include "base/functional/bind.h"

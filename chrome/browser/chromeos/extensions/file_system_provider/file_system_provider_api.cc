@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'file_system_provider_api.cc: fileSystemProvider extension API implementation'
+// summary: Implements mount, unmount, get, getAll, notify and internal response extension functions for provided file systems on ChromeOS.
+// ---
+
 #include "chrome/browser/chromeos/extensions/file_system_provider/file_system_provider_api.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Printing metrics GN build definition
+summary: Defines the printing_metrics static library plus its unit test and browser test source sets with their sources and dependencies.

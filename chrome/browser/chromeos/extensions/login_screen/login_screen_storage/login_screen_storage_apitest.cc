@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the login screen storage API
+// summary: In-process browser tests that force-install a test extension and run the persistent data and credentials API tests in session.
+// ---
+
 #include "base/path_service.h"
 #include "chrome/browser/extensions/mixin_based_extension_apitest.h"
 #include "chrome/browser/policy/extension_force_install_mixin.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CleanupManager unit tests
+// summary: Unit tests for CleanupManager that run mock cleanup handlers and verify cleanup results, success and timing histograms, and in-progress handling.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/cleanup_manager.h"
 
 #include <utility>

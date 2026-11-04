@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared session handler implementation
+// summary: Implements the singleton that launches, enters, unlocks and ends shared managed guest sessions, including secret generation and password hashing for the Login API.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/shared_session_handler.h"
 
 #include <utility>

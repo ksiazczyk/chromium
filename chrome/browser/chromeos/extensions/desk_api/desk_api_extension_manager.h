@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk API extension manager class declaration
+// summary: Declares a keyed service that manages the Desk API component extension lifecycle based on the Desk API third-party access policy and pref changes.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_DESK_API_DESK_API_EXTENSION_MANAGER_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_DESK_API_DESK_API_EXTENSION_MANAGER_H_
 

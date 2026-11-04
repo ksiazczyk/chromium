@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for component extension content settings
+summary: Defines the static library target and unit test source set for the component extension content settings code.

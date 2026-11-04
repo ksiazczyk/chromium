@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the file system provider directory
+summary: Restricts //chrome includes, lists allowed dependencies, and grants a temporary test-only exception during Chrome Apps deprecation.

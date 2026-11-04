@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component extension content settings allowlist implementation
+// summary: Implements the keyed service that grants content settings to allowlisted component extensions when they load and unload.
+// ---
+
 #include "chrome/browser/chromeos/extensions/component_extension_content_settings/component_extension_content_settings_allowlist.h"
 
 #include "base/no_destructor.h"

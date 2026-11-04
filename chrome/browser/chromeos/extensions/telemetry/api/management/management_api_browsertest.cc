@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the management extension API
+// summary: Browser tests verifying setAudioGain and setAudioVolume behavior, including clamping of out-of-range gain and volume values.
+// ---
+
 #include <stdint.h>
 
 #include <string>

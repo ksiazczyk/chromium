@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock CleanupHandler for tests
+// summary: Defines a gmock-based MockCleanupHandler implementing the CleanupHandler interface for use in cleanup tests.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_LOGIN_SCREEN_LOGIN_CLEANUP_MOCK_CLEANUP_HANDLER_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_LOGIN_SCREEN_LOGIN_CLEANUP_MOCK_CLEANUP_HANDLER_H_
 

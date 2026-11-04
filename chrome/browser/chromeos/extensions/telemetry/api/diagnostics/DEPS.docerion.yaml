@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the diagnostics directory
+summary: Restricts which headers this directory may include, allowing only listed telemetry dependencies plus extra rules for the v2 browser test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser cleanup handler implementation
+// summary: Closes all browser windows of the active user profile and then removes the profile's browsing data via BrowsingDataRemover.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/browser_cleanup_handler.h"
 
 #include <thread>

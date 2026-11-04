@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware info delegate header
+// summary: Declares a singleton helper class that retrieves hardware info such as the device manufacturer with a testable cache.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_TELEMETRY_API_COMMON_HARDWARE_INFO_DELEGATE_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_TELEMETRY_API_COMMON_HARDWARE_INFO_DELEGATE_H_
 

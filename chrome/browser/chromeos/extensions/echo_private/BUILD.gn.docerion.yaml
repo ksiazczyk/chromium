@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the echo_private extension library and tests
+summary: Defines the echo_private static library, the echo_private_api_util source set, and browser test targets together with their build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the printingMetrics getPrintJobs function
+// summary: Declares PrintingMetricsGetPrintJobsFunction, the asynchronous extension function backing printingMetrics.getPrintJobs.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_PRINTING_METRICS_PRINTING_METRICS_API_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_PRINTING_METRICS_PRINTING_METRICS_API_H_
 

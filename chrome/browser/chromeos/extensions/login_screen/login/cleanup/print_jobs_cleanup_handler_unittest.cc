@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print jobs cleanup handler unit test
+// summary: Unit tests for PrintJobsCleanupHandler using a mock printing manager, test print job database and testing profile.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/print_jobs_cleanup_handler.h"
 
 #include <memory>

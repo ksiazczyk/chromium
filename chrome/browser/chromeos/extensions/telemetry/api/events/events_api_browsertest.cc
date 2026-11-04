@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: os.events API browser tests
+// summary: Browser tests exercising the os.events extension API end to end against a fake cros_healthd service, covering event support and capturing behavior.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/events/events_api.h"
 
 #include <cstddef>

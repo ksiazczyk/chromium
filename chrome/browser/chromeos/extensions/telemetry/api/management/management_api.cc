@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management extension API implementation
+// summary: Implements the os.management.setAudioGain and setAudioVolume extension functions, applying them to input and output devices via the ChromeOS audio handler.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/management/management_api.h"
 
 #include <inttypes.h>

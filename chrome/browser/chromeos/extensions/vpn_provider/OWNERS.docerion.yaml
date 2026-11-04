@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for vpn_provider
+summary: Lists the owner responsible for reviewing changes in this directory.

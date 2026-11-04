@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: os.events API type converters
+// summary: Converts cros_healthd and diagnostics mojom event structs such as audio jack, keyboard, USB and display events into os.events extension API types.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/events/events_api_converters.h"
 
 #include <cstdint>

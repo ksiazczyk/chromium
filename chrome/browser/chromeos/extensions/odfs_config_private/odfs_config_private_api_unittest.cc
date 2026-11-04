@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the odfsConfigPrivate extension API
+// summary: Verifies getMount and getAccountRestrictions responses against OneDrive policy preferences and feature flags.
+// ---
+
 #include "chrome/browser/chromeos/extensions/odfs_config_private/odfs_config_private_api.h"
 
 #include "ash/constants/ash_pref_names.h"

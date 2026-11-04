@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for odfsConfigPrivate extension function classes
+// summary: Declares ExtensionFunction subclasses for the odfsConfigPrivate API, including getMount, getAccountRestrictions, showAutomatedMountError, and openInOfficeApp.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_ODFS_CONFIG_PRIVATE_ODFS_CONFIG_PRIVATE_API_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_ODFS_CONFIG_PRIVATE_ODFS_CONFIG_PRIVATE_API_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for component extension content settings
+summary: Restricts includes so ChromeOS code avoids //chrome dependencies, with exceptions for this directory and tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the telemetry API guard function
+// summary: Runs in-browser service worker tests asserting unauthorized access errors for telemetry and diagnostics APIs under various guard conditions.
+// ---
+
 #include <memory>
 #include <string>
 

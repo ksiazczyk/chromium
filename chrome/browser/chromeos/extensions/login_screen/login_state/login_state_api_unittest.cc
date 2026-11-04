@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the login state extension API
+// summary: Verifies that loginState.getProfileType and loginState.getSessionState return correct profile and session states for signin, lock, and user profiles.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login_state/login_state_api.h"
 
 #include <memory>

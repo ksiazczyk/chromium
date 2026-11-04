@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLocalAccountExternalPolicyLoader class declaration
+// summary: Declares an ExternalLoader specialization that serves enterprise policy force-installed extensions from a cache for ChromeOS device-local accounts.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_EXTERNAL_LOADER_DEVICE_LOCAL_ACCOUNT_EXTERNAL_POLICY_LOADER_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_EXTERNAL_LOADER_DEVICE_LOCAL_ACCOUNT_EXTERNAL_POLICY_LOADER_H_
 

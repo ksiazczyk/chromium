@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app cleanup handler implementation
+// summary: Uninstalls all user-installed web apps of the active profile through the web app provider during cleanup.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/web_app_cleanup_handler.h"
 
 #include "chrome/browser/profiles/profile.h"

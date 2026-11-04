@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the os.diagnostics extension API
+// summary: Implements the os.diagnostics extension functions that forward routine requests and responses to the cros_healthd diagnostics service over Mojo.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/diagnostics/diagnostics_api.h"
 
 #include <cstddef>

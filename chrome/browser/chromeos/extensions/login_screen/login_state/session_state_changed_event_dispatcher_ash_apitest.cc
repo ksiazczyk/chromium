@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for session state changed event dispatching
+// summary: Browser test verifying that session state changes dispatch loginState.onSessionStateChanged events carrying the expected state values.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "components/session_manager/core/session_manager.h"
 #include "components/session_manager/session_manager_types.h"

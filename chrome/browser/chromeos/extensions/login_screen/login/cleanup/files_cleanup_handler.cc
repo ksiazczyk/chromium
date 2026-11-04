@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files cleanup handler implementation
+// summary: Implements FilesCleanupHandler, deleting all files and directories under the active user profile's MyFiles and Downloads folders on a task runner.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/files_cleanup_handler.h"
 
 #include <optional>

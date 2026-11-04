@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the printingMetrics API
+// summary: Tests printingMetrics.getPrintJobs against a mock print job history service returning zero, one, or two print jobs.
+// ---
+
 #include "chrome/browser/chromeos/extensions/printing_metrics/printing_metrics_api.h"
 
 #include "chrome/browser/ash/printing/history/mock_print_job_history_service.h"

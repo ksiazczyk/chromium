@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the login extension API
+// summary: Unit tests covering the login extension API functions, lock handling and shared session behavior using mocks and fakes.
+// ---
+
 #include <map>
 #include <memory>
 #include <string>

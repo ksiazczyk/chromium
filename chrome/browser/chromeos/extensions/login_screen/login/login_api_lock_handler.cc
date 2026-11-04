@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login API lock handler implementation
+// summary: Implements the singleton lock handler that requests the lock screen and authenticates unlock attempts for the login API.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/login_api_lock_handler.h"
 
 #include <utility>

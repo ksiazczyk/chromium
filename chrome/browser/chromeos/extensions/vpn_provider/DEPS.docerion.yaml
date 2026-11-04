@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include and dependency rules for vpn_provider
+summary: Restricts dependencies so ChromeOS code avoids //chrome while allowing this directory and needed profile includes.

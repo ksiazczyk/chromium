@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the network directory
+summary: Restricts ChromeOS dependencies on //chrome and lists the allowed includes for the network portal signin sources and their browser tests.

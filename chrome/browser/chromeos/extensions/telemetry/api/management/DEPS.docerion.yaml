@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the management directory
+summary: DEPS file blocking ChromeOS dependencies on //chrome while allowing includes within this directory and existing telemetry API dependencies.

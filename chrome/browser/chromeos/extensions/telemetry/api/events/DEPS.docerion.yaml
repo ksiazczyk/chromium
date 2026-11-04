@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the telemetry events directory
+summary: Sets include rules for the events directory, blocking //chrome dependencies while allowing directory-internal and specific test-only includes.

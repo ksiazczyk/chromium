@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diagnostic routine observation browser tests
+// summary: Browser tests verifying that DiagnosticRoutineObservation dispatches routine events to telemetry extensions, including legacy finished events.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/routines/diagnostic_routine_observation.h"
 
 #include <memory>

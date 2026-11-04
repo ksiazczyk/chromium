@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticRoutineManager implementation
+// summary: Implements creation, start, cancel, and inquiry reply handling for diagnostic routines tied to open extension PWA windows.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/routines/diagnostic_routine_manager.h"
 
 #include <algorithm>

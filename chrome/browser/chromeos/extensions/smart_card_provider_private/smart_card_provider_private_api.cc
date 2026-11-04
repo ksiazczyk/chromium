@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card provider private extension API implementation
+// summary: Implements SmartCardProviderPrivateAPI, forwarding PC/SC smart card requests from the device service to the chrome.smartCardProviderPrivate extension and reporting results back.
+// ---
+
 #include "chrome/browser/chromeos/extensions/smart_card_provider_private/smart_card_provider_private_api.h"
 
 #include "base/containers/circular_deque.h"

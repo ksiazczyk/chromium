@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VPN provider extension API function implementation
+// summary: Implements vpnProvider extension functions, validating IP and CIDR parameters and converting them to Shill values.
+// ---
+
 #include "chrome/browser/chromeos/extensions/vpn_provider/vpn_provider_api.h"
 
 #include <utility>

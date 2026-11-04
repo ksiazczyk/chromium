@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the telemetry directory
+summary: DEPS file restricting //chrome dependencies for ChromeOS code while allowing the directory's own headers and limited chrome/common and chrome/test includes for tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini app tab helper implementation
+// summary: Implements GeminiAppTabHelper, which matches navigated URLs against hashed Gemini app page names and records visits to the Ash.GeminiApp.Page.Visit histogram.
+// ---
+
 #include "chrome/browser/chromeos/gemini_app/gemini_app_tab_helper.h"
 
 #include "base/memory/ptr_util.h"

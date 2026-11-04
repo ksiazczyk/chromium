@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionCleanupHandler unit tests
+// summary: Unit tests for ExtensionCleanupHandler that use a mock extension service and testing profile to verify extension uninstall and reinstall logic.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/extension_cleanup_handler.h"
 
 #include <gmock/gmock.h>

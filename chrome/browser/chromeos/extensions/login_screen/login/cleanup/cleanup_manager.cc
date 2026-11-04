@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cleanup manager implementation
+// summary: Runs all registered cleanup handlers, aggregates their errors and records timing and success UMA metrics per handler.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/cleanup_manager.h"
 
 #include <utility>

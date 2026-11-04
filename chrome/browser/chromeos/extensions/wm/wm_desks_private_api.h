@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wm_desks_private_api extension function declarations
+// summary: Declares the ExtensionFunction classes for the wmDesksPrivate API, covering desk launch, removal, switching, window properties, and saved desk operations.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_WM_WM_DESKS_PRIVATE_API_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_WM_WM_DESKS_PRIVATE_API_H_
 
