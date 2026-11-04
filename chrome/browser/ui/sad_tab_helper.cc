@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sad tab helper implementation
+// summary: Implements the per-tab helper that installs sad tabs on renderer crashes and maps termination statuses to sad tab kinds.
+// ---
+
 #include "chrome/browser/ui/sad_tab_helper.h"
 
 #include "build/build_config.h"

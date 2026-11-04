@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome HTTP auth handler native implementation
+// summary: Native half of the HTTP authentication dialog bridge, forwarding login prompts, autofill data, and credential submission between LoginHandler and Java.
+// ---
+
 #include "chrome/browser/ui/android/chrome_http_auth_handler.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android profile browser collection service factory implementation
+// summary: Implements the per-profile KeyedService factory that creates AndroidProfileBrowserCollectionService instances only for profiles that allow browser windows.
+// ---
+
 #include "chrome/browser/ui/android/android_profile_browser_collection_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

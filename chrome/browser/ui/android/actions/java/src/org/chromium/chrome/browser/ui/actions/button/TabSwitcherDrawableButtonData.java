@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherDrawableButtonData with plural tab count description
+// summary: Extends DrawableButtonData to resolve a pluralized content description based on the tab switcher's tab count.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.button;
 
 import android.content.Context;

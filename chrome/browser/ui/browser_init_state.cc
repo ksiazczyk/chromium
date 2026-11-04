@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser init state implementation
+// summary: Implements BrowserInitState, storing browser window creation parameters as unowned user data on the browser.
+// ---
+
 #include "chrome/browser/ui/browser_init_state.h"
 
 #include "build/build_config.h"

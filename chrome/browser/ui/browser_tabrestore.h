@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tab restore API header
+// summary: Declares AddRestoredTab and ReplaceRestoredTab, which add or replace tabs with history restored from session and tab restore services.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_TABRESTORE_H_
 #define CHROME_BROWSER_UI_BROWSER_TABRESTORE_H_
 

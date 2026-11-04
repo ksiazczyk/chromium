@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android accelerator utilities implementation
+// summary: Implements Chrome accelerator checks and shortcut text lookup for Android, bridging to the KeyboardShortcuts Java class via JNI.
+// ---
+
 #include "chrome/browser/ui/accelerator_utils.h"
 
 #include <algorithm>

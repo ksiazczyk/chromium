@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ask Google for suggestions dialog browser test
+// summary: Browser test that shows and verifies the spelling suggestions confirm bubble dialog.
+// ---
+
 #include <memory>
 
 #include "chrome/browser/renderer_context_menu/spelling_bubble_model.h"

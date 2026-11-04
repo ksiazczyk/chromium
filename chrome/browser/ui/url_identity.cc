@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL identity implementation
+// summary: Implements creation of user-facing URL identities for sites, extensions, files, and isolated web apps with configurable formatting.
+// ---
+
 #include "chrome/browser/ui/url_identity.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with Buganizer component
+summary: Maps the ai_overlay_dialog directory to Buganizer component 1676913 for issue tracking.

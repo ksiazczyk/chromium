@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Breadcrumb manager browser agent browser tests
+// summary: In-process browser tests verifying that tab insert, close and batch close operations generate breadcrumb events.
+// ---
+
 #include "chrome/browser/ui/breadcrumb_manager_browser_agent.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS crypto module password dialog header
+// summary: Declares functions to asynchronously unlock NSS crypto module slots or a certificate's slot before running a callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CRYPTO_MODULE_PASSWORD_DIALOG_NSS_H_
 #define CHROME_BROWSER_UI_CRYPTO_MODULE_PASSWORD_DIALOG_NSS_H_
 

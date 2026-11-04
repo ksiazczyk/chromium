@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sad tab helper browser tests
+// summary: Browser tests verifying sad tab behavior on renderer termination, including the Windows-specific eviction-based tab discarding path.
+// ---
+
 #include "chrome/browser/ui/sad_tab_helper.h"
 
 #include "base/features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser view preference registration
+// summary: Registers profile-specific BrowserView preferences, including the custom Chrome frame setting on Linux platforms.
+// ---
+
 #include "chrome/browser/ui/browser_view_prefs.h"
 
 #include "build/build_config.h"

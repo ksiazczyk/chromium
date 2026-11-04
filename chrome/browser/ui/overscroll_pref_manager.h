@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscrollPrefManager class header
+// summary: Declares the OverscrollPrefManager class that determines whether a browser window's active tab can be overscrolled, based on the local state preference and devtools type.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OVERSCROLL_PREF_MANAGER_H_
 #define CHROME_BROWSER_UI_OVERSCROLL_PREF_MANAGER_H_
 

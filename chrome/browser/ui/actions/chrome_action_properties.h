@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property key declarations for Chrome actions
+// summary: Declares disposition and invocation source class properties plus the ActionInvocationSource enum.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ACTIONS_CHROME_ACTION_PROPERTIES_H_
 #define CHROME_BROWSER_UI_ACTIONS_CHROME_ACTION_PROPERTIES_H_
 

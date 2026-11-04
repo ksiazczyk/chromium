@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserManagerService class declaration
+// summary: Declares the keyed service that owns and destroys browser objects per profile and aggregates browser activation and close events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_MANAGER_SERVICE_H_
 #define CHROME_BROWSER_UI_BROWSER_MANAGER_SERVICE_H_
 

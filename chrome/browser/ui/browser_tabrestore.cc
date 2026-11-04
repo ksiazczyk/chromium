@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tab restore implementation
+// summary: Implements restoring tabs from the session and tab restore services, creating WebContents with restored navigation history and state.
+// ---
+
 #include "chrome/browser/ui/browser_tabrestore.h"
 
 #include <map>

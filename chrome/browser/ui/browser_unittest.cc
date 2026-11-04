@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser window creation unit tests
+// summary: Unit tests verifying browser window creation status for profiles where incognito mode is disabled, forced, or enabled.
+// ---
+
 #include <memory>
 
 #include "build/build_config.h"

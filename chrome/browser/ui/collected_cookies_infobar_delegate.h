@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collected cookies infobar delegate
+// summary: Declares the confirm infobar delegate shown when the collected cookies dialog closes and cookie settings changed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COLLECTED_COOKIES_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_UI_COLLECTED_COOKIES_INFOBAR_DELEGATE_H_
 

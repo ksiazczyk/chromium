@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS platform keys certificate selector
+// summary: Declares a function that opens a constrained client certificate selection dialog for an extension on ChromeOS and reports the chosen certificate via callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PLATFORM_KEYS_CERTIFICATE_SELECTOR_CHROMEOS_H_
 #define CHROME_BROWSER_UI_PLATFORM_KEYS_CERTIFICATE_SELECTOR_CHROMEOS_H_
 

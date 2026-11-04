@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegateButtonData with press callbacks and delegate visuals
+// summary: Implements ActionButtonData by holding press and long-press callbacks and delegating visual data to a DisplayButtonData, with a builder.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.button;
 
 import android.content.Context;

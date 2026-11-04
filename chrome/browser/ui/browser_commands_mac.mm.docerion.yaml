@@ -1,0 +1,4 @@
+# Docerion header of browser_commands_mac.mm.
+type: source
+title: Mac browser commands implementation
+summary: Implements Mac browser commands, toggling fullscreen toolbar preferences, guarding AppleEvents JavaScript toggles, and revealing the toolbar via Cocoa APIs.

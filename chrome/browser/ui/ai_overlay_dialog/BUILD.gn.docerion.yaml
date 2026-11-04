@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the AI overlay dialog source set
+summary: GN build file defining the ai_overlay_dialog source set with Views sources for desktop and Android sources for non-Views platforms.

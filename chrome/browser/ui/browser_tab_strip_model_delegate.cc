@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tab strip model delegate
+// summary: Implements TabStripModelDelegate behaviors such as duplicating, moving, grouping, splitting and closing tabs for browser windows.
+// ---
+
 #include "chrome/browser/ui/browser_tab_strip_model_delegate.h"
 
 #include <stddef.h>

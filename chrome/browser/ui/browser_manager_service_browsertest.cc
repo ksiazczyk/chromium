@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserManagerService browser tests
+// summary: Browser tests verifying browser creation, activation, close filtering and collection observer notifications for BrowserManagerService.
+// ---
+
 #include "chrome/browser/ui/browser_manager_service.h"
 
 #include "base/memory/raw_ptr.h"

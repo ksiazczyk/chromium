@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crypto module password dialog interface
+// summary: Declares the crypto module password reason enum and the function that shows a dialog prompting the user to authenticate to a crypto module.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CRYPTO_MODULE_PASSWORD_DIALOG_H_
 #define CHROME_BROWSER_UI_CRYPTO_MODULE_PASSWORD_DIALOG_H_
 

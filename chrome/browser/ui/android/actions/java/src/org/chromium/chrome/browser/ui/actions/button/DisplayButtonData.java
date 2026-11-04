@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayButtonData interface for button text, description and icon
+// summary: Defines an interface for resolving a button's text, content description, and icon at bind time.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.button;
 
 import android.content.Context;

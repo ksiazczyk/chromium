@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentlyAudibleHelper class header
+// summary: Declares the RecentlyAudibleHelper that observes tab audio state, exposes audibility queries and change callbacks, and keeps the audio icon visible for two seconds after audio stops.
+// ---
+
 #ifndef CHROME_BROWSER_UI_RECENTLY_AUDIBLE_HELPER_H_
 #define CHROME_BROWSER_UI_RECENTLY_AUDIBLE_HELPER_H_
 

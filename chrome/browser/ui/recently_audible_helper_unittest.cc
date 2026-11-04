@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecentlyAudibleHelper unit tests
+// summary: Unit tests exercising audibility state transitions of RecentlyAudibleHelper using mock time, test web contents, and callback expectations.
+// ---
+
 #include "chrome/browser/ui/recently_audible_helper.h"
 
 #include <list>

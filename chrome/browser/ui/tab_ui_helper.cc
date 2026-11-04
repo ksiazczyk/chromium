@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabUIHelper implementation
+// summary: Implements TabUIHelper, which supplies tab titles and favicons for WebContents, including default globe favicon colors, discard status, and session restore handling.
+// ---
+
 #include "chrome/browser/ui/tab_ui_helper.h"
 
 #include <optional>

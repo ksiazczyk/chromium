@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS crypto module password dialog implementation
+// summary: Implements asynchronous unlocking of NSS PK11 slots by prompting for a crypto module password on the UI thread.
+// ---
+
 #include "chrome/browser/ui/crypto_module_password_dialog_nss.h"
 
 #include <pk11pub.h>

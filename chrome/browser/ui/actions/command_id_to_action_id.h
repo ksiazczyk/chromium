@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command ID to action ID mapping header and migration guide
+// summary: Declares the command ID to Action ID map and lookup helper, with a migration guide for moving legacy browser commands to the Action framework.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ACTIONS_COMMAND_ID_TO_ACTION_ID_H_
 #define CHROME_BROWSER_UI_ACTIONS_COMMAND_ID_TO_ACTION_ID_H_
 

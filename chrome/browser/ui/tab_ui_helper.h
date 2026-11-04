@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabUIHelper class declaration
+// summary: Declares TabUIHelper, the interface UI code uses to obtain a tab's title, favicon, discard state, and loading indicators for a WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TAB_UI_HELPER_H_
 #define CHROME_BROWSER_UI_TAB_UI_HELPER_H_
 

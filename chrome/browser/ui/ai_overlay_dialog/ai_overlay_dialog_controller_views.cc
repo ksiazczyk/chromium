@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views AI overlay dialog controller implementation
+// summary: Implements the desktop overlay through a WebView with transparent background, WebUI embedding context, and toolbar action state updates.
+// ---
+
 #include "chrome/browser/ui/ai_overlay_dialog/ai_overlay_dialog_controller_views.h"
 
 #include "base/command_line.h"

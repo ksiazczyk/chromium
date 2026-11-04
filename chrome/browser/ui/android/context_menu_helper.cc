@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu helper implementation
+// summary: WebContentsUserData that shows and dismisses Android context menus via JNI, passing menu parameters and optional extension menu models to Java.
+// ---
+
 #include "chrome/browser/ui/android/context_menu_helper.h"
 
 #include <stdint.h>

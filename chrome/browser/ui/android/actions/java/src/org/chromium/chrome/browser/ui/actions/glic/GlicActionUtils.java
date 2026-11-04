@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic action utilities
+// summary: Provides utility methods for Glic actions, including the color state list for the disabled state in incognito mode.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.glic;
 
 import android.content.Context;

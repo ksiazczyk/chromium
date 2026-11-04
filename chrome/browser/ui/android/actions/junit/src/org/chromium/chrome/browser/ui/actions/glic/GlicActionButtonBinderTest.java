@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GlicActionButtonBinder
+// summary: Robolectric unit tests verifying that GlicActionButtonBinder sets drawables on an ImageView, starts layer animations and applies icon tinting.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.glic;
 
 import static org.junit.Assert.assertEquals;

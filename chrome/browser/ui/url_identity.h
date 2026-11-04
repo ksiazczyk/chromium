@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL identity
+// summary: Defines the UrlIdentity struct, its subject types, and formatting options for displaying human-readable URL names to users.
+// ---
+
 #ifndef CHROME_BROWSER_UI_URL_IDENTITY_H_
 #define CHROME_BROWSER_UI_URL_IDENTITY_H_
 

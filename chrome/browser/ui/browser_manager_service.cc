@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserManagerService implementation
+// summary: Implements the per-profile service that owns browser instances, tracks activation order and destroys browsers on close and shutdown.
+// ---
+
 #include "chrome/browser/ui/browser_manager_service.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS crypto module delegate
+// summary: Declares the ChromeNSSCryptoModuleDelegate that handles unlocking NSS slots and choosing a slot for key storage via a password dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CRYPTO_MODULE_DELEGATE_NSS_H_
 #define CHROME_BROWSER_UI_CRYPTO_MODULE_DELEGATE_NSS_H_
 

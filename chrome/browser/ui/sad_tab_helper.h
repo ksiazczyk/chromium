@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sad tab helper header
+// summary: Declares SadTabHelper, a per-tab WebContentsObserver that manages the sad tab view shown when a tab's main frame crashes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAD_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_SAD_TAB_HELPER_H_
 

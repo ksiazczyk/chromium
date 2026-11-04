@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Android UI directory
+summary: Defines allowed include rules for chrome/browser/ui/android, covering keyboard accessory JNI, Android resources, and jni_zero.

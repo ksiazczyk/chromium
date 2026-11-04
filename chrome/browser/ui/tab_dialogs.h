@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab dialogs interface
+// summary: Cross-platform interface for invoking tab modal dialogs such as collected cookies, hung renderer, deprecated apps, and the manage passwords bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TAB_DIALOGS_H_
 #define CHROME_BROWSER_UI_TAB_DIALOGS_H_
 

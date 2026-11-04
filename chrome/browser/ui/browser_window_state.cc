@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser window placement persistence
+// summary: Implements saving and restoring browser window bounds, show state, and workspace information through preference dictionaries.
+// ---
+
 #include "chrome/browser/ui/browser_window_state.h"
 
 #include <stddef.h>

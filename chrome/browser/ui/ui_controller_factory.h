@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIControllerFactory declaration
+// summary: Declares a per-browser factory, stored as unowned user data, that creates UI controllers such as the bookmark bar controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_UI_CONTROLLER_FACTORY_H_
 #define CHROME_BROWSER_UI_UI_CONTROLLER_FACTORY_H_
 

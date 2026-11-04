@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser class header
+// summary: Declares the Browser class, which represents a single desktop browser window and owns window-scoped features.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_H_
 #define CHROME_BROWSER_UI_BROWSER_H_
 

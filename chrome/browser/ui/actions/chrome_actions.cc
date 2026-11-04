@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome actions initialization and ID string mappings
+// summary: Implements browser startup action initialization and temporary action ID to string mappings for side panel and toolbar actions.
+// ---
+
 #include "chrome/browser/ui/actions/chrome_actions.h"
 
 #include <string>

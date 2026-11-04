@@ -5,6 +5,12 @@
 // This defines an enumeration of IDs that can uniquely identify a view within
 // the scope of a container view.
 
+// ---docerion
+// type: source
+// title: View IDs
+// summary: Defines the ViewID enumeration that uniquely identifies browser UI views such as tabs, toolbar buttons, and bookmarks for lookup and testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEW_IDS_H_
 #define CHROME_BROWSER_UI_VIEW_IDS_H_
 

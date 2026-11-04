@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tab strip tracker implementation
+// summary: Implements BrowserTabStripTracker, which attaches a TabStripModelObserver to existing and newly created browser windows.
+// ---
+
 #include "chrome/browser/ui/browser_tab_strip_tracker.h"
 
 #include "base/auto_reset.h"

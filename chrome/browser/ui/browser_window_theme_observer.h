@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser window theme observer header
+// summary: Declares BrowserWindowThemeObserver, a ThemeServiceObserver that dispatches theme change callbacks to registered listeners for a browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_WINDOW_THEME_OBSERVER_H_
 #define CHROME_BROWSER_UI_BROWSER_WINDOW_THEME_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle timeout dialog interface
+// summary: Declares the IdleDialog class shown to warn users that Chrome will be closed by the IdleService under the IdleProfileCloseTimeout policy.
+// ---
+
 #ifndef CHROME_BROWSER_UI_IDLE_DIALOG_H_
 #define CHROME_BROWSER_UI_IDLE_DIALOG_H_
 

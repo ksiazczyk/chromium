@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android AI overlay dialog controller implementation
+// summary: Shows and closes the AI overlay on Android by hosting the WebUI in a WebContents attached to the native Android window.
+// ---
+
 #include "chrome/browser/ui/ai_overlay_dialog/ai_overlay_dialog_controller_android.h"
 
 #include "chrome/browser/profiles/profile.h"

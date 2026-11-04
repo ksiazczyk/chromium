@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tab menu model delegate
+// summary: Supplies eligible other browser windows and the tab group sync service when building tab context menus.
+// ---
+
 #include "chrome/browser/ui/browser_tab_menu_model_delegate.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

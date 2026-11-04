@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab Switcher action provider
+// summary: Supplies the Tab Switcher action state to the ActionRegistry and manages its business logic, observers and IPH triggers.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.tabswitcher;
 
 import android.view.View;

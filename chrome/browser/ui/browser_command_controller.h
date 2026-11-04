@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserCommandController class header
+// summary: Declares the BrowserCommandController, a CommandUpdater for browser windows that tracks command state and reacts to tab, tab restore, fullscreen and profile attribute changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_COMMAND_CONTROLLER_H_
 #define CHROME_BROWSER_UI_BROWSER_COMMAND_CONTROLLER_H_
 

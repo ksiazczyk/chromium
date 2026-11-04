@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chooser bubble test API header
+// summary: Defines the ChooserBubbleUiWaiter test helper that lets tests wait for and track whether a device chooser bubble has been shown or closed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CHOOSER_BUBBLE_TESTAPI_H_
 #define CHROME_BROWSER_UI_CHOOSER_BUBBLE_TESTAPI_H_
 

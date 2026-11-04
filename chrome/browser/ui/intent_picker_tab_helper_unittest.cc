@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intent picker tab helper unit tests
+// summary: Unit tests covering intent picker icon visibility, expanded and collapsed chip states, and related behavior across link capturing feature versions.
+// ---
+
 #include "chrome/browser/ui/intent_picker_tab_helper.h"
 
 #include "base/test/metrics/histogram_tester.h"

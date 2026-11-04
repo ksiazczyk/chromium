@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Chrome actions and ID mappings
+// summary: Tests action ID string mappings and the ShouldUseActionsForBrowserCommands feature logic.
+// ---
+
 #include "chrome/browser/ui/actions/chrome_actions.h"
 
 #include "base/feature_list.h"

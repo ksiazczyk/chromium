@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tab strip model delegate header
+// summary: Declares BrowserTabStripModelDelegate, the TabStripModelDelegate implementation used by browser windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_TAB_STRIP_MODEL_DELEGATE_H_
 #define CHROME_BROWSER_UI_BROWSER_TAB_STRIP_MODEL_DELEGATE_H_
 

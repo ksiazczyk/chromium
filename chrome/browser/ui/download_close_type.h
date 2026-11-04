@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download close type enum
+// summary: Defines the DownloadCloseType enum describing why a browser close is blocked by in-progress downloads.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DOWNLOAD_CLOSE_TYPE_H_
 #define CHROME_BROWSER_UI_DOWNLOAD_CLOSE_TYPE_H_
 

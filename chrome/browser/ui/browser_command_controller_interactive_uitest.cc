@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for browser command shortcuts
+// summary: Interactive browser tests checking keyboard shortcuts in windowed and fullscreen modes, including shortcuts blocked by web pages and browser fullscreen behavior.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/ui/fullscreen_keyboard_browsertest_base.h"
 #include "chrome/test/base/in_process_browser_test.h"

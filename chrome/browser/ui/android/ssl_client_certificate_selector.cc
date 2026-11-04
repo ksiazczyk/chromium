@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client certificate selector for Android
+// summary: Implements the Android SSL client certificate selector entry point, delegating to browser_ui components and supporting a testing hook for overriding the selector.
+// ---
+
 #include "chrome/browser/ssl/ssl_client_certificate_selector.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser UI element identifier declarations
+// summary: Declares top-level browser UI element identifiers together with guidelines for naming and where to declare dialog or menu element IDs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_ELEMENT_IDENTIFIERS_H_
 #define CHROME_BROWSER_UI_BROWSER_ELEMENT_IDENTIFIERS_H_
 

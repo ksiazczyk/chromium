@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionRegistry
+// summary: Central registry that maps action IDs to observable property model suppliers so components like the toolbar and bottom bar can render action buttons.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import android.util.SparseArray;

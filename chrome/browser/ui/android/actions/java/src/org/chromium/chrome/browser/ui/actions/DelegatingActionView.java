@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatingActionView
+// summary: Interface for views that delegate action properties to a target view returned by getTargetView.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import android.view.View;

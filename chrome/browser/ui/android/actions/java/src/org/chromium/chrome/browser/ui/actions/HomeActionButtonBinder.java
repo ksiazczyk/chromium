@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomeActionButtonBinder
+// summary: Binder for the home button action that handles the long-press menu delegate and meta-state click callback, falling back to the generic action binder.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import android.view.View;

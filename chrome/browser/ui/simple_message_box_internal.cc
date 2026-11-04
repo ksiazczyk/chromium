@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple message box internal flag
+// summary: Defines the internal test flag that skips blocking message boxes during tests.
+// ---
+
 #include "chrome/browser/ui/simple_message_box_internal.h"
 
 namespace chrome::internal {

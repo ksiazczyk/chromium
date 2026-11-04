@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for BrowserCommandController
+// summary: In-process browser tests exercising command controller behavior across bookmarks, side panel, fullscreen, profile picker, translate and tab restore scenarios.
+// ---
+
 #include "chrome/browser/ui/browser_command_controller.h"
 
 #include <algorithm>

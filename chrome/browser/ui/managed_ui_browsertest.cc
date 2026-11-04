@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed UI browser tests
+// summary: Browser tests verifying when the managed UI is displayed and the labels, icons, and URLs it produces for enterprise-managed and supervised profiles.
+// ---
+
 #include "chrome/browser/ui/managed_ui.h"
 
 #include "base/strings/utf_string_conversions.h"

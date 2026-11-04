@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension tab context menu bridge
+// summary: JNI bridge that builds an extension menu model for a tab's WebContents and exposes it to Java as a menu model bridge for context menus.
+// ---
+
 #include "chrome/browser/ui/android/extension_tab_context_menu_bridge.h"
 
 #include <memory>

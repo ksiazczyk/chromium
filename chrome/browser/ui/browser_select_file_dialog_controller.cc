@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser select file dialog controller
+// summary: Controller that opens a native file selection dialog for the active tab and opens the chosen file or URL while blocking fullscreen.
+// ---
+
 #include "chrome/browser/ui/browser_select_file_dialog_controller.h"
 
 #include <memory>

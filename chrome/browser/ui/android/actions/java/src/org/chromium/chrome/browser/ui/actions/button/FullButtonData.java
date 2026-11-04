@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullButtonData interface combining display data and press handling
+// summary: Defines an interface combining display information with press and long-press event handling and display-based equality.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.button;
 
 import android.view.View;

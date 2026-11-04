@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab Switcher action properties
+// summary: Defines the property keys of the Tab Switcher action, including tab count, notification dot, incognito state and the show-tab-switcher trigger.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.tabswitcher;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of accelerator_table_unittest_mac.mm.
+type: test
+title: macOS accelerator table unit tests
+summary: macOS unit tests verifying accelerator tables have no duplicates and no modifier-based shortcuts.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm bubble display function
+// summary: Declares chrome::ShowConfirmBubble, which shows a confirmation bubble with its top center at a given point and owns the model.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CONFIRM_BUBBLE_H_
 #define CHROME_BROWSER_UI_CONFIRM_BUBBLE_H_
 

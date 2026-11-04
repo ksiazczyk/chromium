@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sad tab controller implementation
+// summary: Implements the controller that installs and reinstalls the sad tab view overlay for crashed tabs inside the browser's contents web view.
+// ---
+
 #include "chrome/browser/ui/sad_tab_controller.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

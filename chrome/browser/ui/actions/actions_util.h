@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for action item text cleaning helpers
+// summary: Declares the CleanTextOptions enum and GetCleanText for removing ellipses and accelerators from action text.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ACTIONS_ACTIONS_UTIL_H_
 #define CHROME_BROWSER_UI_ACTIONS_ACTIONS_UTIL_H_
 

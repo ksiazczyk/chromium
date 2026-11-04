@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AiOverlayDialogBridge JNI bridge
+// summary: JNI bridge that owns the window-scoped native AI overlay dialog controller, manages per-window audio energy listeners, and toggles the overlay for a browser window.
+// ---
+
 package org.chromium.chrome.browser.ai_overlay_dialog;
 
 import org.jni_zero.CalledByNative;

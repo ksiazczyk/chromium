@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension tab context menu bridge header
+// summary: Declares the C++ ExtensionTabContextMenuBridge class that manages the ExtensionMenuModel and MenuModelBridge for Android tab context menus, with lifetime tied to its Java peer via JNI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXTENSION_TAB_CONTEXT_MENU_BRIDGE_H_
 #define CHROME_BROWSER_UI_ANDROID_EXTENSION_TAB_CONTEXT_MENU_BRIDGE_H_
 

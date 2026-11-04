@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser commands implementation
+// summary: Implements browser commands such as opening new and incognito windows, tab management, bookmarking, zoom, session restore and other user-facing browser operations.
+// ---
+
 #include "chrome/browser/ui/browser_commands.h"
 
 #include <algorithm>

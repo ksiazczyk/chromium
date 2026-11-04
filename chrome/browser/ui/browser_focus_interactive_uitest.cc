@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser focus interactive UI test
+// summary: Interactive UI tests covering focus handling across the browser window, omnibox, find bar and web contents.
+// ---
+
 #include <stddef.h>
 
 #include <array>

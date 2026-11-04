@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser UI element identifier definitions
+// summary: Defines the top-level browser UI element identifier values used with ElementTracker and interactive browser tests to locate UI elements.
+// ---
+
 #include "chrome/browser/ui/browser_element_identifiers.h"
 
 #include "ui/base/interaction/element_identifier.h"

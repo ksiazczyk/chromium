@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native JNI bridge implementation for the AI overlay dialog
+// summary: Implements the JNI entry points that create and destroy the native bridge, toggle the AI overlay on Desktop Android, and forward audio energy to the Java side.
+// ---
+
 #include "chrome/browser/ui/android/ai_overlay_dialog/ai_overlay_dialog_bridge.h"
 
 #include "base/android/jni_android.h"

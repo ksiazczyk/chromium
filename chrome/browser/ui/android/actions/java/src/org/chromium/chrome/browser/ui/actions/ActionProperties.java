@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionProperties
+// summary: Defines writable property keys for action buttons, including icon, tint, button state, selection, text resolvers, callbacks and base key sets.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import android.content.res.ColorStateList;

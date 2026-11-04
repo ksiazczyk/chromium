@@ -1,3 +1,9 @@
+---
+type: note
+title: Nested message loop security notes
+summary: Security documentation of the nested message loop mechanism and re-entrancy risks in Chromium UI code.
+---
+
 # Nested Message Loop Mechanism
 
 ## Overview

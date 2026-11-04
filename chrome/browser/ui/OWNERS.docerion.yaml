@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reviewers for chrome/browser/ui
+summary: Lists code owners for the browser UI directory together with per-file ownership rules for reviews.

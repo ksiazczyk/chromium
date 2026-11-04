@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen keyboard browser test base implementation
+// summary: Provides shared browser test logic for verifying keyboard shortcut behavior in fullscreen and keyboard lock modes.
+// ---
+
 #include "chrome/browser/ui/fullscreen_keyboard_browsertest_base.h"
 
 #include <memory>

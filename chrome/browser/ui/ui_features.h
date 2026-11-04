@@ -5,6 +5,12 @@
 // This file defines the browser-specific base::FeatureList features that are
 // limited to top chrome UI.
 
+// ---docerion
+// type: source
+// title: Browser UI feature flag declarations
+// summary: Declares browser-specific feature flags and parameters limited to top chrome UI, with helper functions to query their enabled state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_UI_FEATURES_H_
 #define CHROME_BROWSER_UI_UI_FEATURES_H_
 

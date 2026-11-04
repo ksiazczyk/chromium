@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views AI overlay dialog controller declaration
+// summary: Declares the desktop Views subclass that drives the overlay WebView and handles auto-resize from the WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AI_OVERLAY_DIALOG_AI_OVERLAY_DIALOG_CONTROLLER_VIEWS_H_
 #define CHROME_BROWSER_UI_AI_OVERLAY_DIALOG_AI_OVERLAY_DIALOG_CONTROLLER_VIEWS_H_
 

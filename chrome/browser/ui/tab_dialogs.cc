@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab dialogs implementation
+// summary: Implements TabDialogs by attaching the instance to a tab's unowned user data and providing lookup from a tab or WebContents.
+// ---
+
 #include "chrome/browser/ui/tab_dialogs.h"
 
 #include "components/tabs/public/tab_interface.h"

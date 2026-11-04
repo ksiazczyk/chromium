@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResourceTextResolverUnitTest
+// summary: Robolectric unit tests verifying that ResourceTextResolver resolves string and plural resources and returns an empty string for a null resource ID.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import static org.junit.Assert.assertEquals;

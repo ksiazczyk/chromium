@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser instant controller header
+// summary: Declares BrowserInstantController, which reloads Instant tabs when the default search provider or its base URL changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_INSTANT_CONTROLLER_H_
 #define CHROME_BROWSER_UI_BROWSER_INSTANT_CONTROLLER_H_
 

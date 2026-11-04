@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android about app info class declaration
+// summary: Declares AndroidAboutAppInfo with static helpers returning Google Play services status and OS environment info.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_ANDROID_ABOUT_APP_INFO_H_
 #define CHROME_BROWSER_UI_ANDROID_ANDROID_ABOUT_APP_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HomeActionButtonBinderUnitTest
+// summary: Robolectric unit tests verifying the home button's long-press menu delegate, click-with-meta-state callback and fallback to the generic ActionButtonBinder.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import static org.junit.Assert.assertEquals;

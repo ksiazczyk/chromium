@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows mouse move UI test
+// summary: Manually run Windows UI test that verifies ui_controls::SendMouseMoveNotifyWhenDone by positioning the mouse across the fullscreen display.
+// ---
+
 #include <windows.h>
 
 #include "base/run_loop.h"

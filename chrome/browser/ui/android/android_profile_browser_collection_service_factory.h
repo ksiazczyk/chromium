@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android profile browser collection service factory header
+// summary: Declares the BrowserContextKeyedServiceFactory that provides AndroidProfileBrowserCollectionService instances per profile on Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_ANDROID_PROFILE_BROWSER_COLLECTION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UI_ANDROID_ANDROID_PROFILE_BROWSER_COLLECTION_SERVICE_FACTORY_H_
 

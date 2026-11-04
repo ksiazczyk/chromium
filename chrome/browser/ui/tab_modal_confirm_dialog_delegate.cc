@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab modal confirm dialog delegate implementation
+// summary: Implements delegate behavior for tab modal confirm dialogs, including accept, cancel, close, link clicks, button titles, and closing on navigation.
+// ---
+
 #include "chrome/browser/ui/tab_modal_confirm_dialog_delegate.h"
 
 #include "components/strings/grit/components_strings.h"

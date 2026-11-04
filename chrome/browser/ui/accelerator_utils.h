@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator utilities header
+// summary: Declares helpers to check whether an accelerator is registered by Chrome and to get a browser's accelerator provider.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ACCELERATOR_UTILS_H_
 #define CHROME_BROWSER_UI_ACCELERATOR_UTILS_H_
 

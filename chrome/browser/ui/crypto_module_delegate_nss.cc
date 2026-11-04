@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS crypto module delegate implementation
+// summary: Implements a blocking delegate that shows the crypto module password dialog on the UI thread and waits for the result for NSS operations.
+// ---
+
 #include "chrome/browser/ui/crypto_module_delegate_nss.h"
 
 #include <utility>

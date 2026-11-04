@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TintedActionView
+// summary: Java interface for Android views that manage and provide their own default icon tint via getIconTint().
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import android.content.res.ColorStateList;

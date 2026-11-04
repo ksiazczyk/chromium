@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped tabbed browser displayer header
+// summary: Declares ScopedTabbedBrowserDisplayer, which ensures a tabbed browser for a profile is visible and activated while in scope.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SCOPED_TABBED_BROWSER_DISPLAYER_H_
 #define CHROME_BROWSER_UI_SCOPED_TABBED_BROWSER_DISPLAYER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for Chrome actions initialization
+// summary: Declares InitializeChromeActions and InitializeActionIdStringMapping, which are called during browser startup.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ACTIONS_CHROME_ACTIONS_H_
 #define CHROME_BROWSER_UI_ACTIONS_CHROME_ACTIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed UI supervised user unit tests
+// summary: Unit tests checking managed UI strings and icons for supervised Family Link profiles, with platform-specific expectations that suppress browser-level UI on ChromeOS.
+// ---
+
 #include <memory>
 
 #include "build/build_config.h"

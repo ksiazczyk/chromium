@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen capture notification UI stub
+// summary: Stub implementation of the ScreenCaptureNotificationUI interface whose OnStarted method is not implemented.
+// ---
+
 #include "chrome/browser/ui/screen_capture_notification_ui.h"
 
 #include "base/notimplemented.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu helper header
+// summary: Declares the ContextMenuHelper WebContentsUserData for showing, dismissing, and closing Android context menus, with optional extension menu support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_CONTEXT_MENU_HELPER_H_
 #define CHROME_BROWSER_UI_ANDROID_CONTEXT_MENU_HELPER_H_
 

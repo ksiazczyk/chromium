@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS settings window manager browser test
+// summary: Browser tests for the ChromeOS settings window manager, covering settings window creation and behavior with system web apps.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

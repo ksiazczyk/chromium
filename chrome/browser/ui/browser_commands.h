@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser commands API header
+// summary: Declares the chrome namespace browser command functions for command execution and state, window opening, incognito sessions and tab-related operations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_COMMANDS_H_
 #define CHROME_BROWSER_UI_BROWSER_COMMANDS_H_
 

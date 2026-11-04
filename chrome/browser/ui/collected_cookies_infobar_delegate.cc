@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collected cookies infobar delegate implementation
+// summary: Implements the delegate for the infobar that offers a page reload after cookie settings were changed in the collected cookies dialog.
+// ---
+
 #include "chrome/browser/ui/collected_cookies_infobar_delegate.h"
 
 #include <memory>

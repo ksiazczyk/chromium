@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator table interface
+// summary: Declares the accelerator mapping struct and lookup functions for keyboard shortcuts of Chrome commands.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ACCELERATOR_TABLE_H_
 #define CHROME_BROWSER_UI_ACCELERATOR_TABLE_H_
 

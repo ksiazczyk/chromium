@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for BrowserActions
+// summary: In-process browser tests verifying window-scoped actions such as showing the addresses and payments bubbles or their settings pages through the action manager.
+// ---
+
 #include "chrome/browser/ui/browser_actions.h"
 
 #include "chrome/browser/prefs/incognito_mode_prefs.h"

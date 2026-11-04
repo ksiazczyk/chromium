@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen capture notification UI browser test
+// summary: Dialog browser test that shows and verifies the screen capture notification UI widget and its dismissal behavior.
+// ---
+
 #include "chrome/browser/ui/screen_capture_notification_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Singleton tab opening API
+// summary: Declares functions to show a URL in a singleton tab, optionally overwriting the new tab page, so the same URL appears in only one tab per browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SINGLETON_TABS_H_
 #define CHROME_BROWSER_UI_SINGLETON_TABS_H_
 

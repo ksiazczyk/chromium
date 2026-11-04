@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceButtonData resolving button data from Android resources
+// summary: Implements DisplayButtonData by resolving text, content description, and icon from Android resource IDs on demand.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.button;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus tab after navigation helper header
+// summary: Declares a WebContentsObserver helper that focuses tab contents after browser-initiated or NTP-leaving navigations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FOCUS_TAB_AFTER_NAVIGATION_HELPER_H_
 #define CHROME_BROWSER_UI_FOCUS_TAB_AFTER_NAVIGATION_HELPER_H_
 

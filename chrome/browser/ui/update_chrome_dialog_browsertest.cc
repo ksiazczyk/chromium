@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update recommended dialog browser test
+// summary: Dialog browser test that shows and verifies the update-recommended Chrome dialog.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/browser/ui/browser_window.h"
 #include "chrome/browser/ui/test/test_browser_dialog.h"

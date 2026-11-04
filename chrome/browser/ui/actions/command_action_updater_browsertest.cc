@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommandActionUpdater browser tests
+// summary: Browser tests verifying that command enablement syncs to actions and that command execution invokes the corresponding action with the expected context.
+// ---
+
 #include "chrome/browser/ui/actions/command_action_updater.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser UI preference registration
+// summary: Registers browser-level preferences such as relaunch notifications, default browser infobar counters, hover card settings, and installer downloader prefs.
+// ---
+
 #include "chrome/browser/ui/browser_ui_prefs.h"
 
 #include <memory>

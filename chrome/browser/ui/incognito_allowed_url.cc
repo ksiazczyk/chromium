@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito URL allowlist logic
+// summary: Implements the check that decides which WebUI hosts may be opened in incognito mode, blocking settings, history, extensions, help and password manager pages, with a Windows-only sign-in exception and handling of view-source wrappers.
+// ---
+
 #include "chrome/browser/ui/incognito_allowed_url.h"
 
 #include <string>

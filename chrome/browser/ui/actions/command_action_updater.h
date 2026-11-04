@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandActionUpdater class header
+// summary: Declares CommandActionUpdater, a CommandUpdater implementation that maps legacy browser commands to actions when the Actions-for-browser-commands feature is enabled.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ACTIONS_COMMAND_ACTION_UPDATER_H_
 #define CHROME_BROWSER_UI_ACTIONS_COMMAND_ACTION_UPDATER_H_
 

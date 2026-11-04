@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content setting bubble model delegate implementation
+// summary: Implements the browser's content setting bubble delegate, opening settings pages, media settings, cookie dialogs, and learn-more URLs.
+// ---
+
 #include "chrome/browser/ui/browser_content_setting_bubble_model_delegate.h"
 
 #include "base/check_deref.h"

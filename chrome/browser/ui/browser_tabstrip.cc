@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tabstrip helpers implementation
+// summary: Implements helpers for adding, selecting, and closing tabs in a browser tab strip, including new tab URL resolution and tab group handling.
+// ---
+
 #include "chrome/browser/ui/browser_tabstrip.h"
 
 #include <optional>

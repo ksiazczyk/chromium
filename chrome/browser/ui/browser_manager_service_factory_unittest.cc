@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserManagerServiceFactory unit tests
+// summary: Unit tests checking that the factory returns a valid BrowserManagerService for regular, incognito, guest and other profile types.
+// ---
+
 #include "chrome/browser/ui/browser_manager_service_factory.h"
 
 #include "chrome/browser/ui/browser_manager_service.h"

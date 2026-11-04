@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL identity unit tests
+// summary: Unit tests verifying UrlIdentity creation for default URLs, extensions, and isolated web apps against expected results.
+// ---
+
 #include "chrome/browser/ui/url_identity.h"
 
 #include <string_view>

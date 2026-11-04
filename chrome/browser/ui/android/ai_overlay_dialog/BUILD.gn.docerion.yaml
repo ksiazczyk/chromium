@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Android AI overlay dialog
+summary: Defines the Java android_library, generated JNI headers, and the native ai_overlay_dialog source_set that links the bridge on all Android builds with Desktop-Android-only dependencies.

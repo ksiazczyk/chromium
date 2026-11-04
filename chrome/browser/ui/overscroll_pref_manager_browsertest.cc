@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OverscrollPrefManager browser test
+// summary: In-process browser test verifying that toggling the overscroll history navigation preference immediately enables or disables content overscrolling.
+// ---
+
 #include "chrome/browser/ui/overscroll_pref_manager.h"
 
 #include "chrome/browser/browser_process.h"

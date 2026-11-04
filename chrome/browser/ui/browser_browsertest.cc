@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Browser class
+// summary: Large in-process browser test suite covering browser window behavior, tabs, bookmarks, profiles, sessions, themes and related UI functionality.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

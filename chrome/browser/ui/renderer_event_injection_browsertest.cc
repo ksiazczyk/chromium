@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer event injection browser test
+// summary: Browser test verifying that renderer-injected touch events are received by content when the full Chrome stack is running, including ChromeOS window manager setups.
+// ---
+
 #include "base/command_line.h"
 #include "base/run_loop.h"
 #include "base/test/scoped_feature_list.h"
