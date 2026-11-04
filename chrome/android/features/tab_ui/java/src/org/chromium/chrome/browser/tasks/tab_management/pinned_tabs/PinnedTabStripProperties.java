@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned tab strip properties
+// summary: Defines the writable property keys, including visibility, scroll position, background color and animation manager, for the pinned tabs strip model.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import org.chromium.base.supplier.SettableNonNullObservableSupplier;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PinnedTabGridMediatorUnitTest
+// summary: Robolectric unit tests for PinnedTabGridMediator covering mirroring of pinned tabs and visibility change callbacks.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import static org.junit.Assert.assertEquals;

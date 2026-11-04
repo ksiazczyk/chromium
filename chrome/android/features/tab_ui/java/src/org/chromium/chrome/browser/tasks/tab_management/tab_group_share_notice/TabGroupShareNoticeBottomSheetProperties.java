@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group share notice bottom sheet properties
+// summary: Defines the property keys for the shared tab group notice bottom sheet, including the completion handler key and the list of all keys.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.tab_group_share_notice;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticalExternalViewDragDropReorderStrategy
+// summary: Strategy that computes drop target position, geometry snapping and model indexing for drag-and-drop into the vertical tabstrip from external views.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import android.graphics.Rect;

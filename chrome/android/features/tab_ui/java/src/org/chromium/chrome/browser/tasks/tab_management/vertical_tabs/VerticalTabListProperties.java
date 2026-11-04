@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticalTabListProperties
+// summary: Property keys and rail collapse state definitions for the vertical tab list model, including search, new tab, incognito, and collapse click listeners.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import android.view.View;

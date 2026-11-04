@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group share notice bottom sheet view
+// summary: Bottom sheet view informing users that changes to a shared tab group are visible to everyone, implementing BottomSheetContent with a confirm button.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.tab_group_share_notice;
 
 import android.content.Context;

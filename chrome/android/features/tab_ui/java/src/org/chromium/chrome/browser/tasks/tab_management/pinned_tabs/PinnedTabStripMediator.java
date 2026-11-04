@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned tab strip mediator
+// summary: Business logic controller that observes the main tab grid and tab model to keep the pinned tabs strip model up to date.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

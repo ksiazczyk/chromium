@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pinned tab strip item touch helper callback unit tests
+// summary: Robolectric unit tests verifying drag and drop behavior of the item touch helper callback for pinned tab strip items.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pinned tab drop indicator decoration unit tests
+// summary: Robolectric unit tests verifying when and where the pinned tabs drop indicator is drawn, including RTL layout and main-list edge cases.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import static org.junit.Assert.assertEquals;

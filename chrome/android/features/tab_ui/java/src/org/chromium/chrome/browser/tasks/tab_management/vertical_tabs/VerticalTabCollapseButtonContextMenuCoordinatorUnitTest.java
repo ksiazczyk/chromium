@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VerticalTabCollapseButtonContextMenuCoordinator unit tests
+// summary: Robolectric unit tests for the context menu shown from the vertical tab collapse button, covering the expand-on-hover toggle item's checked state and menu behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import static org.junit.Assert.assertEquals;

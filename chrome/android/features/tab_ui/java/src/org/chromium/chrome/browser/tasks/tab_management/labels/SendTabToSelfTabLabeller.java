@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfTabLabeller
+// summary: Pushes Send Tab To Self label updates for tabs to the tab switcher UI via the tab list notification handler.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.labels;
 
 import org.chromium.base.Callback;

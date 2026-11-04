@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned tab strip item view
+// summary: Android view for a single pinned tab strip item, showing favicon, title and trailing icon with width and zoom animations.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import android.content.Context;

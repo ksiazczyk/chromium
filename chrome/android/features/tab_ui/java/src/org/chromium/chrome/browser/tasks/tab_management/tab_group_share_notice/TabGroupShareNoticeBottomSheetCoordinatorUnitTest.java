@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Tab group share notice bottom sheet coordinator unit tests
+// summary: Unit tests for the tab group share notice bottom sheet coordinator, covering content requests, hiding, and engagement tracker behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.tab_group_share_notice;
 
 import static org.mockito.ArgumentMatchers.any;

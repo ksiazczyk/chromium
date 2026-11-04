@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCardLabelType
+// summary: Annotation defining the types of tab card labels, currently price drop and activity update.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.labels;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabCardLabelViewTest
+// summary: Instrumented JUnit test that verifies TabCardLabelView applies label data, content descriptions, and accessibility settings correctly.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.labels;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCardHighlightHandler
+// summary: Handles UI updates and fade animations for the highlight state of a tab card wrapper view.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.labels;
 
 import static android.view.View.GONE;

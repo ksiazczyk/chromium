@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelNotificationDotManager
+// summary: Computes whether a notification dot should be shown for a tab model based on collaboration messages and tab group changes.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.labels;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

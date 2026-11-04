@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedTabStripItemContextMenuCoordinator
+// summary: Coordinator for the overflow menu shown on long-pressing a pinned tab, building menu items and displaying the context menu with user action tracking.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

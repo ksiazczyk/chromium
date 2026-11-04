@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticalTabListRecyclerView
+// summary: Custom TabListRecyclerView for the vertical tab layout that sets up the adapter, layout manager, and item types for tabs, pinned tabs, and group headers.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import android.content.Context;

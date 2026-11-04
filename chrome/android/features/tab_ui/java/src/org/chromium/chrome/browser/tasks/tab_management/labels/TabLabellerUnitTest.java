@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabLabellerUnitTest
+// summary: Robolectric unit tests for TabLabeller, covering label application for tab added and tab updated collaboration events.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.labels;
 
 import static org.junit.Assert.assertEquals;

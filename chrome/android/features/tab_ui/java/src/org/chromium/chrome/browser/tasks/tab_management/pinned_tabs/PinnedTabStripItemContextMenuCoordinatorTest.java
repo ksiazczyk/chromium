@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PinnedTabStripItemContextMenuCoordinatorTest
+// summary: Robolectric unit tests for the pinned tab context menu coordinator verifying menu items and actions such as closing, bookmarking and grouping tabs.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertical tab rail collapse controller unit tests
+// summary: Unit tests for the rail collapse controller, covering state restoration from shared preferences, toggling, hover, window width constraints, and histograms.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import static org.junit.Assert.assertEquals;

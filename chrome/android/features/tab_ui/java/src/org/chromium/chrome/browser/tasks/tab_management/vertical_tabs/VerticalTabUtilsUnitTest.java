@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VerticalTabUtilsUnitTest
+// summary: Robolectric unit tests for VerticalTabUtils, covering rail collapse and resized width shared preferences, manual resize feature params, and vertical tabs eligibility.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import static org.junit.Assert.assertEquals;

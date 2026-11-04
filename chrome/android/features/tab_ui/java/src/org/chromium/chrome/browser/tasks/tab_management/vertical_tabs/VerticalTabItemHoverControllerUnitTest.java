@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VerticalTabItemHoverControllerUnitTest
+// summary: Robolectric unit tests for the vertical tab item hover controller, covering hover card display, pinned tabs, and rail collapse states.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import static org.junit.Assert.assertEquals;

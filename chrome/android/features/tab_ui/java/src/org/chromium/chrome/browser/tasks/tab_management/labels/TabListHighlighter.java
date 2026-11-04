@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListHighlighter
+// summary: Highlights or unhighlights tabs in a tab list model by setting highlight state properties for matching tab IDs.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.labels;
 
 import static org.chromium.chrome.browser.tasks.tab_management.TabProperties.HIGHLIGHT_STATE;

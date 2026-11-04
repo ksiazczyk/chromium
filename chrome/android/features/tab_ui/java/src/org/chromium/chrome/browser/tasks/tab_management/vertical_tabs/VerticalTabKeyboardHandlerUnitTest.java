@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VerticalTabKeyboardHandlerUnitTest
+// summary: Robolectric unit tests for the vertical tab keyboard handler, verifying keyboard event handling and reordering of focused items in pinned and regular tab lists.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import static org.junit.Assert.assertFalse;

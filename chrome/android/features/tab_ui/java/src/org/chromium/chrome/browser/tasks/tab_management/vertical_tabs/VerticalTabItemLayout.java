@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticalTabItemLayout
+// summary: ConstraintLayout root view for a single vertical tab row, handling compact and expanded modes, icon display, touch targets, and spinner animations.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import android.animation.ObjectAnimator;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned tab drop indicator decoration
+// summary: RecyclerView item decoration that draws a vertical drop indicator bar between columns of the pinned tabs grid during cross-window or external drag-and-drop.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import android.content.Context;
