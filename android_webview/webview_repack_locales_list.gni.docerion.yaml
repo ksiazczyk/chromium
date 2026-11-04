@@ -1,0 +1,6 @@
+# Docerion header of webview_repack_locales_list.gni.
+type: config
+title: WebView locale repack pattern lists
+summary: Defines empty GN lists for WebView-specific locale repack source patterns and dependencies, intended to be extended when adding WebView pak files.
+relations:
+  - references /chrome/chrome_repack_locales.gni

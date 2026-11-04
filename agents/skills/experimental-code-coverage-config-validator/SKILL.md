@@ -3,6 +3,13 @@ name: experimental-code-coverage-config-validator
 description: >-
   Validates Chromium generated builder configurations (gn-args.json) for
   code coverage correctness based on language context.
+type: guide
+title: Code Coverage Config Validator
+summary: Agent skill instructions for validating that a Chromium builder's generated GN arguments and gclient configuration are correctly set up to produce code coverage data for a given language context.
+relations:
+  - references /agents/skills/experimental-code-coverage-cq-debugger/references/builder_star_map.json
+  - references /tools/code_coverage/language_coverage_map.json
+  - references /infra/config/generated/builders/gn_args_locations.json
 ---
 
 # Code Coverage Config Validator

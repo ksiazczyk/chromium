@@ -1,0 +1,6 @@
+# Docerion header of i18n.json.
+type: config
+title: I18n and accessibility expert persona
+summary: Persona definition for an i18n and accessibility expert that checks localization practices and screen reader compatibility.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

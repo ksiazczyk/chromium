@@ -1,3 +1,13 @@
+---
+type: reference
+title: TDD Implementation Module Routing Index
+summary: Routing catalog that maps the TDD orchestrator's execution agents, such as Scoper, Synthesis, and Test Expert, to their persona rule files.
+relations:
+  - references /agents/skills/multi-agent-tdd-implementation/personas/core/scoper.json
+  - references /agents/skills/multi-agent-tdd-implementation/personas/core/implementation.json
+  - references /agents/skills/multi-agent-tdd-implementation/personas/core/gtest.json
+---
+
 # TDD Implementation Module Routing Index
 
 This file acts as a routing catalog for the TDD Orchestrator. It identifies the

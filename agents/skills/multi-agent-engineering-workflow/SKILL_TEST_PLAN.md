@@ -1,3 +1,13 @@
+---
+type: test
+title: Workflow Skill Test Plan
+summary: Strategy for testing the workflow protocol via a mock harness for stage logic and real agent runs on files with intentional flaws, plus reporting criteria.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/tests/testdata/complex_uaf.cc.workflow.test
+  - references /agents/skills/multi-agent-engineering-workflow/tests/testdata/unsafe_threading.cc.workflow.test
+  - references /agents/skills/multi-agent-engineering-workflow/tests/testdata/unsafe_casting.cc.workflow.test
+---
+
 <!--
 Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be

@@ -1,3 +1,11 @@
+---
+type: reference
+title: Synthesis, Merging and Compile Gates
+summary: Defines how the Synthesis agent merges parallel implementation drafts using a 3-way merge strategy and enforces a compile gate with a limited fix loop.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/tests/testdata/project.workflow.json
+---
+
 # Synthesis, Merging and Compile Gates
 
 This document defines how the Synthesis agent resolves conflicts and ensures

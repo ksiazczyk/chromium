@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebView include rules for DEPS
+summary: Defines include rules for android_webview, banning chrome/ includes and whitelisting the component and platform dependencies that may be used.

@@ -1,3 +1,11 @@
+---
+type: reference
+title: Tooling Guidance and Production Hardening
+summary: Provides a production hardening checklist, guidance on infrastructure tooling personas, and rules for resolving Google3 paths in internal environments.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/tests/testdata/project.workflow.json
+---
+
 # Tooling Guidance & Production Hardening
 
 ## Production Hardening Checklist

@@ -1,6 +1,15 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Metrics collection helpers for evaluations
+# summary: Defines metric data structures and helpers to merge and iterate over nested metrics collected from test iterations.
+# relations:
+#   - depends_on /agents/testing/eval_config.py
+# ---
+
 """Module for metrics-related code, not including uploading."""
 
 from collections.abc import Iterable

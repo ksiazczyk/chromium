@@ -3,6 +3,11 @@ name: disable-test
 description: >-
   Guide for disabling Chromium tests (C++, Android Java, or WebUI).
   Use this skill when you need to disable a failing or flaky test case.
+type: guide
+title: Disabling Chromium Tests
+summary: Step-by-step guide for disabling failing or flaky Chromium tests in C++, WebUI, and Android Java, including bug tracking and validation requirements.
+relations:
+  - references /build/build_config.h
 ---
 
 # Disabling Chromium Tests

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gitignore for Python caches and generated data
+# summary: Ignores Python cache files and generated index and cache data that can be rebuilt locally.
+# ---
+
 # Python cache files
 __pycache__/
 *.pyc

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebView directory metadata
+summary: Maps the directory to the Mobile>WebView monorail component, the android-webview-dev team email and a Buganizer component on Android.

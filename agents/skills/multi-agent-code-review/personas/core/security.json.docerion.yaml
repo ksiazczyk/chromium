@@ -1,0 +1,6 @@
+# Docerion header of security.json.
+type: config
+title: Security Scanner persona
+summary: Defines the Security Scanner persona with a checklist for memory and lifetime safety, hostile input handling, and privilege boundary enforcement.
+relations:
+  - references /agents/skills/multi-agent-code-review/schema.json

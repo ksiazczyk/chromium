@@ -1,3 +1,11 @@
+---
+type: reference
+title: Workflow Example Configurations
+summary: Provides complete JSON examples of project.workflow.json and state_block.workflow.json used by the workflow protocol.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json
+---
+
 # Workflow Example Configurations
 
 This file contains full JSON examples for configurations used in the Multi-Agent

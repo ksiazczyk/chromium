@@ -1,3 +1,9 @@
+---
+type: reference
+title: 'Swarm Cognitive Principles: Bottleneck Detection & Flow Analysis'
+summary: Defines the core reasoning principles the SQL Trace Analyzer Agent uses to identify, evaluate, and prioritize performance bottlenecks in Chromium traces, covering flow analysis, self-time overrides, semantic mismatch, and redundancy tiers.
+---
+
 # Swarm Cognitive Principles: Bottleneck Detection & Flow Analysis
 
 This document defines the core reasoning principles used by the **SQL Trace

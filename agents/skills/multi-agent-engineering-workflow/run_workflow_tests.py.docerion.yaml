@@ -1,0 +1,4 @@
+# Docerion header of run_workflow_tests.py.
+type: test
+title: Automated Workflow Test Runner
+summary: Test runner that executes workflow stage test cases from JSON files by invoking agents in several harness modes and verifying expected outputs.

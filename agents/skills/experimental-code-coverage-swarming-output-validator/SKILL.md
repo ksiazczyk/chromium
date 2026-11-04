@@ -4,6 +4,12 @@ description: >-
   Validates code coverage Swarming execution logs, CAS input/output profile
   artifacts, and profile generation environments to isolate remote trybot code
   coverage failures.
+type: guide
+title: Code Coverage Swarming Output Validator
+summary: Skill for auditing remote Swarming bot executions of Chromium code coverage tryjobs, validating .profraw profile outputs and CAS isolate inputs, and replaying shards in hermetic LUCI containers.
+relations:
+  - references /testing/test_env.py
+  - references /tools/code_coverage/get_task_digest.py
 ---
 
 # Code Coverage Swarming Output Validator

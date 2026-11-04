@@ -1,0 +1,6 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Tests for WebView presubmit checks
+summary: Unit tests verifying the feature override comment checks in PRESUBMIT.py using mock input, output and file APIs.
+relations:
+  - tests /android_webview/PRESUBMIT.py

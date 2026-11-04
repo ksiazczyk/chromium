@@ -1,0 +1,4 @@
+# Docerion header of run_presubmit.py.
+type: script
+title: run_presubmit.py
+summary: Helper script that runs Chromium presubmit checks locally on skill files using mock input and output APIs and reports errors and warnings.

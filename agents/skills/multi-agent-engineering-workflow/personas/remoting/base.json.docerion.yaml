@@ -1,0 +1,6 @@
+# Docerion header of base.json.
+type: config
+title: Remoting Base Expert persona
+summary: Defines the Remoting Base Expert persona with a checklist covering AutoThread usage, HOST_LOG instead of LOG(INFO), COM initialization on Windows, and GCE-only service client use.
+relations:
+  - configured_by /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

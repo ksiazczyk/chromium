@@ -4,6 +4,12 @@ description: >-
   Triages Chrome code coverage bugs, initializes the environment, and
   delegates to the appropriate debugging sub-agent (CQ or CI) using a shared
   state file.
+type: guide
+title: Chrome Code Coverage Triage Orchestrator Skill
+summary: Defines an agent skill that triages Chrome code coverage bugs by ingesting bug details, initializing the environment, delegating to a CQ debugging sub-agent, and reporting outcomes via a shared state file.
+relations:
+  - depends_on /agents/skills/experimental-code-coverage-installer/SKILL.md
+  - references /agents/skills/experimental-code-coverage-orchestrator/templates/triage_state_template.json
 ---
 
 # Chrome Code Coverage Triage Orchestrator

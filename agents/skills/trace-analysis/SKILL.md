@@ -1,6 +1,9 @@
 ---
 name: trace-analysis
 description: Skill for analyzing trace files and finding hard causal links across threads and processes (using waker_utid).
+type: guide
+title: Trace Analysis Skill for Blocked Threads
+summary: Skill definition with guidance for analyzing trace files, using waker_utid metadata, syscalls, and cross-process flows to find hard causal links for blocked threads.
 ---
 
 ## Skill: Trace Analysis for Blocked Threads

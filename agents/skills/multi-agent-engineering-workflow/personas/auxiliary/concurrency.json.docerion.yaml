@@ -1,0 +1,6 @@
+# Docerion header of concurrency.json.
+type: config
+title: Concurrency expert persona
+summary: Persona definition for a concurrency expert that validates task posting patterns, sequence safety, and asynchronous lifetime handling.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

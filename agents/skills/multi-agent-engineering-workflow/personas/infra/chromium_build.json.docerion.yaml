@@ -1,0 +1,6 @@
+# Docerion header of chromium_build.json.
+type: config
+title: Chromium Build Expert persona
+summary: Persona definition for a Chromium build expert agent covering GN target discovery and autoninja usage rules with a terse, artifacts-only tone.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

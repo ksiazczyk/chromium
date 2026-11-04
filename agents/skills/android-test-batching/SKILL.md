@@ -4,6 +4,9 @@ description: >-
   Guide for auditing and applying batching annotations (@Batch) and AutoReset rules
   (AutoResetCtaTransitTestRule) to Android javatests in Chromium. Use this skill when
   optimizing Java instrumentation test runtimes, resolving test state leaks, or migrating tests to batched execution.
+type: guide
+title: Android Instrumentation Test Batching Guide
+summary: Step-by-step guide for applying @Batch annotations and AutoResetCtaTransitTestRule to Chromium Android javatests, including API adaptations, state bleed cleanup, and test verification.
 ---
 
 # Android Instrumentation Test Batching Guide

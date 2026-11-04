@@ -3,6 +3,12 @@ name: multi-agent-tdd-implementation
 description: >-
   Multi-agent Test-Driven Development workflow. Scaffolds APIs, writes failing
   tests, synthesizes implementation, and verifies compilation and test runs.
+type: guide
+title: Multi-Agent TDD Implementation Protocol
+summary: Defines the multi-agent TDD workflow with stages for environment grounding, API scaffolding, failing-test boundaries, parallel implementation, and verification.
+relations:
+  - references /agents/skills/multi-agent-tdd-implementation/references/synthesis_merge.md
+  - references /agents/skills/multi-agent-tdd-implementation/schema.json
 ---
 
 # Multi-Agent TDD Implementation Protocol

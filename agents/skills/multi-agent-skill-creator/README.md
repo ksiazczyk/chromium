@@ -1,3 +1,13 @@
+---
+type: readme
+title: Multi-Agent Skill Creator
+summary: Documents the skill creator's purpose, usage steps, validation objectives, and the files contained in the directory.
+relations:
+  - documents /agents/skills/multi-agent-skill-creator/.ruff.toml
+  - documents /agents/skills/multi-agent-skill-creator/.style.mdformat
+  - documents /agents/skills/multi-agent-skill-creator/PRESUBMIT.py
+---
+
 # Multi-Agent Skill Creator
 
 This directory contains the **Multi-Agent Skill Creator** skill.

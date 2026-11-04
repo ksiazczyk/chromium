@@ -1,6 +1,15 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Test configuration data structures
+# summary: Defines the TestConfig dataclass that loads, validates, and filters promptfoo test settings from YAML config files.
+# relations:
+#   - depends_on /agents/testing/constants.py
+# ---
+
 """Module for shared test data structures."""
 
 import dataclasses

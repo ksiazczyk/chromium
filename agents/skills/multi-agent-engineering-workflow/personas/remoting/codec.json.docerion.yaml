@@ -1,0 +1,6 @@
+# Docerion header of codec.json.
+type: config
+title: Codec and Performance Specialist persona
+summary: Defines the Codec and Performance Specialist persona with checklist rules on frame params, active maps, encoder callback safety, VP9 I444 profile, and benchmark memory caps.
+relations:
+  - configured_by /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

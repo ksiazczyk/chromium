@@ -1,0 +1,6 @@
+# Docerion header of upgrader.json.
+type: config
+title: Ruleset Upgrader persona definition
+summary: Defines the Ruleset Upgrader persona that appends new checklist items to persona JSON files, validates them against the PersonaDef schema, and splits oversized checklists into sub-personas.
+relations:
+  - references /agents/skills/multi-agent-skill-trainer/schema.json

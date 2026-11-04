@@ -1,0 +1,6 @@
+# Docerion header of gn.json.
+type: config
+title: GN Expert persona definition
+summary: Defines the GN Expert persona with a mandate and checklist for correct BUILD.gn dependencies, public_deps usage, and static_library versus source_set choices.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

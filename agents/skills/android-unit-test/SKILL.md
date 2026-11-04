@@ -2,6 +2,9 @@
 name: android-unit-test
 description: >-
   Guide for writing and converting Chromium Android unit tests across host Robolectric (chrome_junit_tests) and on-device (chrome_public_unit_test_apk) suites.
+type: guide
+title: Android Unit Testing Guide
+summary: Guide for choosing, writing, running, and converting Chromium Android unit tests across host Robolectric and on-device test suites.
 ---
 
 # Android Unit Testing Guide

@@ -1,0 +1,6 @@
+# Docerion header of run_codemod_script.sh.
+type: script
+title: Run codemod script for Polymer to Lit migration
+summary: Shell script that checks for npm, installs the webui codemod dependencies, runs the Lit migration Python tool on a given Polymer component, and deletes its old HTML file.
+relations:
+  - depends_on /ui/webui/resources/tools/codemods/lit_migration.py

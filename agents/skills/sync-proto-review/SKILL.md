@@ -4,6 +4,11 @@ description: >-
   Reviews changes to Sync protobufs (components/sync/protocol/*.proto) for style,
   backwards/forwards compatibility, and companion updates. Use when reviewing
   CLs or diffs that modify Sync protos.
+type: guide
+title: Sync Proto Review skill instructions
+summary: Defines an agent skill for reviewing changes to Sync protobufs, requiring evaluation against the components/sync/protocol README guidelines with linked citations.
+relations:
+  - references /components/sync/protocol/README.md
 ---
 
 # Sync Proto Review

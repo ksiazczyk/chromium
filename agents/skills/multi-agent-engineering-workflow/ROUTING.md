@@ -1,3 +1,13 @@
+---
+type: reference
+title: Multi-Agent Workflow Module Routing Index
+summary: Routing catalog mapping the Orchestrator to execution agents, scanners, and platform, domain, and meta-scanner personas with their persona file paths.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/personas/core/scoping.json
+  - references /agents/skills/multi-agent-engineering-workflow/personas/core/implementation.json
+  - references /agents/skills/multi-agent-engineering-workflow/personas/core/security.json
+---
+
 # Multi-Agent Workflow Module Routing Index
 
 This file acts as a routing catalog for the Orchestrator. It identifies the

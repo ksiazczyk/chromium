@@ -1,3 +1,11 @@
+---
+type: guide
+title: WebView security guidance for AI agents
+summary: Explains the WebView trust model, differences from full Chromium browsers and insecure API usage to avoid when working on WebView.
+relations:
+  - references /docs/security/security-for-agents.md
+---
+
 # Android WebView Security Guidance for AI Agents
 
 Android WebView (sometimes "Android System WebView" or just "WebView") is an

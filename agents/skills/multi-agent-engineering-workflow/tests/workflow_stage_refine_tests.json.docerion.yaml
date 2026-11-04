@@ -1,0 +1,8 @@
+# Docerion header of workflow_stage_refine_tests.json.
+type: test
+title: Refine stage test scenarios
+summary: Defines test cases for the Refine stage, covering review verdict consolidation and detection of PII leaks, use-after-free, and deadlocks.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/tests/workflow_test_schemas.json
+  - references /agents/skills/multi-agent-engineering-workflow/tests/testdata/project.workflow.json
+  - references /agents/skills/multi-agent-engineering-workflow/tests/testdata/state_block.workflow.json

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the apply-fix-from-crbug-with-diff skill
+summary: Lists adelm@google.com as the owner of the apply-fix-from-crbug-with-diff skill directory.

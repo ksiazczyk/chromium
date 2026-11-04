@@ -1,0 +1,4 @@
+# Docerion header of run_presubmit.py.
+type: script
+title: Local TDD presubmit check runner
+summary: Runs the skill's presubmit checks locally by mocking the presubmit input and output APIs over the skill's Python, Markdown, JSON, and template files.

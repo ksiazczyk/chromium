@@ -1,0 +1,6 @@
+# Docerion header of privacy.json.
+type: config
+title: Privacy and metrics expert persona
+summary: Persona definition for a privacy and metrics expert that guards against PII leaks and guides correct UMA/UKM instrumentation.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

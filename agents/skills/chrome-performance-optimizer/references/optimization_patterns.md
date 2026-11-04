@@ -1,3 +1,13 @@
+---
+type: reference
+title: Chromium & V8 Macro-Optimization Patterns
+summary: Catalog of proven Chromium and V8 optimization patterns with benchmark wins, profile signatures, and key code targets for Speedometer 3 and JetStream.
+relations:
+  - references /third_party/blink/renderer/core/css/resolver/match_request.h
+  - references /third_party/blink/renderer/core/css/element_rule_collector.cc
+  - references /third_party/blink/renderer/core/css/resolver/matched_properties_cache.cc
+---
+
 # Chromium & V8 Macro-Optimization Patterns
 
 Proven architectural and engine-level optimization patterns for Speedometer 3

@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for workflow documentation
+# summary: Presubmit script enforcing structural integrity, formatting, and JSON schema conformance of the workflow protocol markdown and persona files.
+# ---
+
 """Presubmit script for multi-agent-engineering-workflow.
 
 This script enforces structural integrity and formatting for the workflow

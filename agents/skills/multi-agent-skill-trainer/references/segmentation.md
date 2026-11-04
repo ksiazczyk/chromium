@@ -1,3 +1,9 @@
+---
+type: guide
+title: Ruleset Segmentation Guidance
+summary: Explains the 10-item limit for persona checklists and how to segment oversized rulesets into nested sub-persona files with updated routing.
+---
+
 # Ruleset Segmentation Guidance
 
 To maintain high reasoning quality and avoid context dilution, persona

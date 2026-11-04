@@ -1,0 +1,4 @@
+# Docerion header of triage_state_template.json.
+type: data
+title: Triage state template for code coverage debugging
+summary: JSON template that initializes the triage state used to track modified files, builders, test suites, control and fix builds, metrics, and root-cause analysis during code coverage debugging.

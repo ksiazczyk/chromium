@@ -4,6 +4,11 @@ description: >-
   Surgically injects trace macros (TRACE_EVENT) into Chromium C++ files to
   expose "black box" latency gaps, resolves headers, and compiles the browser
   using a self-healing loop. Strictly no performance optimizations or refactoring.
+type: guide
+title: Latency Instrumentation & Self-Healing Compile Loop
+summary: Agent skill guide for surgically injecting TRACE_EVENT macros into Chromium C++ methods to expose untraced latency gaps, then rebuilding via a self-healing compile loop with no optimizations allowed.
+relations:
+  - references /base/trace_event/trace_event.h
 ---
 
 # Latency Instrumentation & Self-Healing Compile Loop

@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for cipd artifacts
+# summary: Keeps the contents of the cipd directory out of version control in the prompt evaluation folder.
+# ---
+
 /cipd/*

@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file pointing to chrome-build group
+summary: Points to the chrome-build OWNERS group in infra config as the owners of this skill directory.
+relations:
+  - references /infra/config/groups/chrome-build/OWNERS

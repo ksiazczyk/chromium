@@ -1,6 +1,11 @@
 ---
 name: histograms
 description: Manage Chromium histograms and enums metadata. Use this skill when adding code that logs a histogram or when updating metadata in histograms.xml or enums.xml.
+type: guide
+title: Histograms
+summary: Skill guidance and workflow for logging Chromium histograms and managing their metadata in histograms.xml and enums.xml, including directory structure, ownership, and expiry rules.
+relations:
+  - references /tools/metrics/histograms/README.md
 ---
 
 # Histograms

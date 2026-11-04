@@ -1,0 +1,6 @@
+# Docerion header of readability.json.
+type: config
+title: Readability expert persona
+summary: Persona definition for a readability expert that enforces naming, documentation, and complexity standards in Chromium C++ style.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

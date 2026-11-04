@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file referencing components/prefs owners
+summary: Points to the components/prefs OWNERS file so this skill directory inherits the Chromium Prefs owners for review.
+relations:
+  - references /components/prefs/OWNERS

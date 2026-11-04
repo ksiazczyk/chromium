@@ -1,0 +1,6 @@
+# Docerion header of robot_account.json.
+type: config
+title: Robot account and lifetime specialist persona definition
+summary: Persona definition for a robot account specialist covering credential management, rotation, lifetime signaling, non-blocking oAuth token refresh, and handling of deleted or disabled robot accounts.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

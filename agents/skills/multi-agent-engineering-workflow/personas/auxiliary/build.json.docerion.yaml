@@ -1,0 +1,6 @@
+# Docerion header of build.json.
+type: config
+title: Build and dependency expert persona
+summary: Persona definition for a build and dependency expert that enforces DEPS compliance, include hygiene, and GN target boundaries.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

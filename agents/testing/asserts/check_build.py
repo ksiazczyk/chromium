@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Build check assertion for modified files
+# summary: Promptfoo assertion that resolves GN targets for modified files with gn refs and builds them with autoninja to verify they compile.
+# ---
+
 """Assertion for checking if modified files build properly."""
 
 import pathlib

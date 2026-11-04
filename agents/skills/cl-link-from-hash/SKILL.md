@@ -2,6 +2,9 @@
 name: cl-link-from-hash
 description: >-
   Use this skill to get a link to a Gerrit Changelist (CL) from a given commit hash in the Chromium repository. Use when you need to find the review discussion, comments, or related issues for a specific commit. Don't use for linking to files or code lines.
+type: guide
+title: Getting CL Link from Commit Hash
+summary: Skill instructions for obtaining a Gerrit Changelist link from a Chromium commit hash via git log, Gerrit commit search, or Change-Id search.
 ---
 
 # Getting CL Link from Commit Hash

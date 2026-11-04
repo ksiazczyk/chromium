@@ -1,0 +1,4 @@
+# Docerion header of workflow_test_schemas.json.
+type: reference
+title: Workflow test harness JSON schemas
+summary: JSON Schema definitions for the workflow test harness, describing scenario, test case, and mock review structures used by the stage test files.

@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Trace Processing Unit Tests
+# summary: Unit tests for the trace analyzer and comparator tools and the shared library, using mocked Perfetto TraceProcessor queries and pandas fixtures.
+# ---
+
 """Unit tests for trace analyzer and comparator tools and library."""
 
 import os

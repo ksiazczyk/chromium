@@ -1,0 +1,6 @@
+# Docerion header of auditor.json.
+type: config
+title: 'Core Scanner persona: auditor'
+summary: Defines the Core Scanner auditor persona with a mandate and checklist for modularity, Chromium C++ idioms, and architectural pattern consistency.
+relations:
+  - references /agents/skills/multi-agent-code-review/schema.json

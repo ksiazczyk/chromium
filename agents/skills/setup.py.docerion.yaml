@@ -1,0 +1,4 @@
+# Docerion header of setup.py.
+type: script
+title: Agent skills setup and management tool
+summary: Command-line tool that installs, links, lists, enables and disables Chromium agent skills, with some commands requiring the Gemini CLI.

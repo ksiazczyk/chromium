@@ -1,3 +1,12 @@
+---
+type: readme
+title: Android WebView
+summary: Overview of the android_webview directory with links to architecture docs, developer documentation and public mailing lists.
+relations:
+  - references /android_webview/docs/README.md
+  - references /android_webview/docs/architecture.md
+---
+
 # Android WebView
 
 Android WebView is an Android system component for displaying web content.

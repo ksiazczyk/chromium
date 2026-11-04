@@ -1,0 +1,4 @@
+# Docerion header of schema.json.
+type: reference
+title: Persona and project JSON schema
+summary: JSON Schema defining the persona, environment, and project specification structures used to validate trainer inputs and persona files.

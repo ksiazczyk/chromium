@@ -1,3 +1,9 @@
+---
+type: reference
+title: Review Consolidation & Oscillation Detection
+summary: Defines the exact logic for merging scanner checklists via strict logical AND and for detecting oscillation, including the escalation protocol when conflicts stall the refinement loop.
+---
+
 # Review Consolidation & Oscillation Detection
 
 This document defines the exact logic for merging scanner checklists and

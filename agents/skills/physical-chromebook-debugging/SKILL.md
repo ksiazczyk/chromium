@@ -5,6 +5,11 @@ description: >-
   Use when working with remote Chromebook testing hardware, deploying new builds
   of Chrome or ChromeOS, reading specific log files via SSH, or taking
   screenshots of a connected test endpoint.
+type: guide
+title: Physical Chromebook Debugging Skills
+summary: How-to for building and deploying Chrome to a physical ChromeOS device over SSH, reading device logs, and taking screenshots.
+relations:
+  - references /agents/skills/chromevox-debugging-on-chromebook/SKILL.md
 ---
 
 # Physical Chromebook Debugging Skills

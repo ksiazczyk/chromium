@@ -1,0 +1,6 @@
+# Docerion header of proto.json.
+type: config
+title: Proto and Schema Expert persona
+summary: Defines the Proto and Schema Expert persona with checklist rules on LITE_RUNTIME usage, lack of DebugString support, and backward-compatible field numbers.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

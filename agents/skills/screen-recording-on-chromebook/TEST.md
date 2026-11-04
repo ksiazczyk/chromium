@@ -1,3 +1,11 @@
+---
+type: test
+title: Screen Recording Skill E2E Test Plan
+summary: Manual end-to-end test plan with prompts and verification steps for starting, stopping and pulling, and checking the status of ChromeOS screen recordings.
+relations:
+  - tests /agents/skills/screen-recording-on-chromebook/SKILL.md
+---
+
 # Screen Recording on ChromeOS / Chromebook Skill - E2E Test Plan
 
 ## Prerequisites

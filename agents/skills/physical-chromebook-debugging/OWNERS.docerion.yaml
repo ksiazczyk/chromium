@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the skill directory
+summary: Points to the ash accessibility OWNERS file as the owner reference for this skill directory.
+relations:
+  - references /ash/accessibility/OWNERS

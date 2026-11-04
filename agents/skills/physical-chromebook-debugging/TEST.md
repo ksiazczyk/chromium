@@ -1,3 +1,12 @@
+---
+type: test
+title: Physical Chromebook Debugging Skill Agent E2E Test Plan
+summary: End-to-end test plan with prompts and verification steps for checking the skill's guidance on reading Chrome logs via SSH.
+relations:
+  - tests /agents/skills/physical-chromebook-debugging/SKILL.md
+  - references /agents/skills/physical-chromebook-debugging/SKILL.md
+---
+
 # Physical Chromebook Debugging Skill - Agent E2E Test Plan
 
 ## Prerequisites

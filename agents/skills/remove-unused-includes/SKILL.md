@@ -1,6 +1,12 @@
 ---
 name: remove-unused-includes
 description: Look through a given folder to find and safely remove unused includes specifically for Clang-compiled code (using clang-include-cleaner), verifying that referencing targets compile.
+type: guide
+title: Remove Unused Includes Skill
+summary: Describes a workflow and script that use clang-include-cleaner to find and safely remove unused includes, verifying that referencing GN targets still compile.
+relations:
+  - references /tools/clang/scripts/generate_compdb.py
+  - documents /agents/skills/remove-unused-includes/scripts/remove_unused_includes.py
 ---
 
 # 🧹 Remove Unused Includes Skill

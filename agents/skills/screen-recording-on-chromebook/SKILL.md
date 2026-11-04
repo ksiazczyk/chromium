@@ -2,6 +2,9 @@
 name: screen-recording-on-chromebook
 description: >-
   Records screen video on ChromeOS devices, Chromebooks, and CrOS DUTs over SSH using ffmpeg KMS grab, and transcodes the video to MP4 on the host workstation. Use when recording the screen of a Chromebook, ChromeOS device, cros DUT, or CrOS test hardware, capturing visual bug reproductions or feature demonstrations on ChromeOS/cros, starting/stopping background screen capture on a Chromebook or ChromeOS DUT, checking recording status on a cros device, or pulling and transcoding recorded video files from a DUT. Don't use for Android devices (use recording-device-screens or adb-uiautomator), desktop Linux/Mac screen capture, taking static screenshots (use physical-chromebook-debugging), uploading videos (use screencast skill), or browser-only DOM recordings.
+type: guide
+title: Screen Recording on ChromeOS (Chromebook / CrOS DUT)
+summary: Skill instructions for capturing ChromeOS screen video over SSH with ffmpeg kmsgrab, checking recording status, stopping cleanly, and transcoding the video to MP4 on the host.
 ---
 
 # Screen Recording on ChromeOS (Chromebook / CrOS DUT)

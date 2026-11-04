@@ -5,6 +5,9 @@ description: >-
   binary search, checking out midpoint commits, syncing dependencies with gclient sync,
   compiling the target with autoninja, and querying the user for test results until the
   culprit commit is isolated.
+type: guide
+title: Chromium Bisect Skill Instructions
+summary: Defines the agent workflow for bisecting Chromium regressions, covering parameter handling, workspace checks, midpoint calculation, the step-by-step bisection loop, and culprit commit reporting.
 ---
 
 # Chromium Bisect

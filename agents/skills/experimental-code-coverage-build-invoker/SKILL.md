@@ -3,6 +3,9 @@ name: experimental-code-coverage-build-invoker
 description: >-
   Triggers LUCI try jobs to generate code coverage data. Supports Mode 1
   (standard git cl try for source CLs) and Mode 2 (led for custom builds).
+type: guide
+title: Code Coverage Build Invoker Skill
+summary: Skill guide for triggering LUCI try jobs that generate code coverage data, covering standard git cl try verification and led-based low-level build dispatch with required state updates.
 ---
 
 # Code Coverage Build Invoker

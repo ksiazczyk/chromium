@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Tool call argument matching assertion
+# summary: Promptfoo assertion that checks a listed tool was called with arguments matching all configured regular expressions in the provider's tool call metrics.
+# ---
+
 """Asserts for checking tool calls."""
 
 import re

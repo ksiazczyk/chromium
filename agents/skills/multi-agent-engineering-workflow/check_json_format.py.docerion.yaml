@@ -1,0 +1,7 @@
+# Docerion header of check_json_format.py.
+type: script
+title: JSON Formatting Linter and Fixer for Workflow Files
+summary: Script that enforces indentation, trailing newlines, and the Joining Rule in workflow JSON files, and can fix formatting violations.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/tests/workflow_stage_refine_tests.json
+  - references /agents/skills/multi-agent-engineering-workflow/SKILL.md

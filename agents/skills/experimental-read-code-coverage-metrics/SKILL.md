@@ -3,6 +3,12 @@ name: experimental-read-code-coverage-metrics
 description: >-
   Retrieves and analyzes Chromium per-CL code coverage data from the Findit API.
   Records per-CL coverage metrics for all modified source files and extracts unexecuted code lines.
+type: guide
+title: Read Code Coverage Metrics
+summary: Skill definition for fetching and analyzing Chromium per-CL code coverage data from the Findit API, recording metrics and uncovered lines for modified source files.
+relations:
+  - depends_on /tools/code_coverage/parse_gerrit_url.py
+  - depends_on /tools/code_coverage/fetch_coverage_metrics.py
 ---
 
 # Read Code Coverage Metrics

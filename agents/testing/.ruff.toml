@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff lint and format settings
+# summary: Configures Ruff with a line length of 80, indent width of 4, and preserved quote style for formatting.
+# ---
+
 line-length = 80
 indent-width = 4
 

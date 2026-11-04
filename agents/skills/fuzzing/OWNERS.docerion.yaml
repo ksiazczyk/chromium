@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Fuzzing skill OWNERS
+summary: Points to the libFuzzer OWNERS file for ownership of the fuzzing skill directory.
+relations:
+  - references /testing/libfuzzer/OWNERS

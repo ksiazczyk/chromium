@@ -1,0 +1,6 @@
+# Docerion header of setup_unittest.py.
+type: test
+title: Unit tests for the skills setup script
+summary: Unit tests for setup.py covering installed and available skill discovery, path shortening and related helpers.
+relations:
+  - tests /agents/skills/setup.py

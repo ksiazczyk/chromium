@@ -1,3 +1,13 @@
+---
+type: reference
+title: Routing Configuration
+summary: Maps feedback context and research tasks to the core training personas and the parallel research personas of the breadth path.
+relations:
+  - references /agents/skills/multi-agent-skill-trainer/personas/core/analyzer.json
+  - references /agents/skills/multi-agent-skill-trainer/personas/core/upgrader.json
+  - references /agents/skills/multi-agent-skill-trainer/personas/core/architect.json
+---
+
 # Routing Configuration
 
 Maps feedback context and research tasks to the appropriate training personas.

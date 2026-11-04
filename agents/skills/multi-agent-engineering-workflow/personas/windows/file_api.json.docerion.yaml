@@ -1,0 +1,6 @@
+# Docerion header of file_api.json.
+type: config
+title: Windows File API Expert persona
+summary: Persona definition for a Windows file API expert, with a checklist covering ScopedHandle ownership, file sharing flags, path length handling, and ACL security.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

@@ -9,6 +9,12 @@ description: >-
   or execute arbitrary SQL queries on trace databases directly using SQLite/Perfetto
   SQL syntax, and generate a precise instrumentation breakdown plan or refactoring
   instructions for the Codebase Agent. Don't use for capture or compilation tasks.
+type: guide
+title: Analyzing SQL Traces Skill
+summary: Skill instructions for analyzing Perfetto traces with SQL to detect performance bottlenecks, run arbitrary follow-up queries, and produce dispatch reports with refactoring or instrumentation recommendations.
+relations:
+  - documents /agents/skills/analyzing-sql-traces/scripts/trace_analyzer.py
+  - documents /agents/skills/analyzing-sql-traces/scripts/trace_comparator.py
 ---
 
 # Analyzing SQL Traces

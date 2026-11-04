@@ -1,0 +1,6 @@
+# Docerion header of jj_git.json.
+type: config
+title: JJ on Git Expert persona
+summary: Persona definition for a Jujutsu-on-Git expert agent with checklists for preserving Change-Ids, handling detached HEAD states, and syncing Git HEAD before Gerrit uploads.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

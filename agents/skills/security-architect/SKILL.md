@@ -3,6 +3,9 @@ name: security-architect
 description: |-
   Skill for assessing security architecture and suggesting improvements.
   - This skill is only useful for C++ code.
+type: guide
+title: Security Architect Skill
+summary: Defines a skill for producing security architecture audit reports for C++ code, with guidance on interface ownership, Mojo privilege boundaries, and applying the Rule of Two.
 ---
 
 This skill is all about producing a security architecture audit report, with

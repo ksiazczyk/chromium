@@ -5,6 +5,11 @@ description: >-
   finding the first landed Chrome version of a commit, checking channel releases
   across platforms, inspecting milestone schedules and branch refs, or checking
   version containment.
+type: reference
+title: Chrome Releases & Commit Tracker
+summary: Defines an agent skill for querying Chrome commit, version, release, and milestone metadata via the Developer Graph API, documenting commands, response fields, and workflows.
+relations:
+  - documents /agents/skills/chrome-releases/scripts/chrome_releases.py
 ---
 
 # Chrome Releases & Commit Tracker

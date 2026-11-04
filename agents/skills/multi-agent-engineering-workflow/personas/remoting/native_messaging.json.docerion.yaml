@@ -1,0 +1,6 @@
+# Docerion header of native_messaging.json.
+type: config
+title: Native Messaging Expert persona
+summary: Defines the Native Messaging Expert persona with checklist rules on safe JSON parsing, extension authorization, Windows threaded file I/O, and WebAuthn forwarding risks.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

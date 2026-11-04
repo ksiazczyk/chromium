@@ -1,0 +1,4 @@
+# Docerion header of pinpoint_evaluator.py.
+type: script
+title: Trigger and evaluate Pinpoint benchmark try jobs
+summary: Launches Pinpoint A/B benchmark try jobs, polls for completion, parses base-versus-experiment result tables, and assesses statistical significance to propose or abandon changes.

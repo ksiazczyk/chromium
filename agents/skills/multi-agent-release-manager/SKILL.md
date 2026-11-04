@@ -3,6 +3,9 @@ name: multi-agent-release-manager
 description: >-
   Cleans up the workspace, formats code, runs presubmit checks, and uploads CLs
   to Gerrit.
+type: guide
+title: Multi-Agent Release Manager Protocol
+summary: Defines the release manager skill protocol for grounding, formatting, presubmit validation, uploading feature and workflow CLs to Gerrit, and workspace cleanup for JJ and Git.
 ---
 
 # Multi-Agent Release Manager Protocol

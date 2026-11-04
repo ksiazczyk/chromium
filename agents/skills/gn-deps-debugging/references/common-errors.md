@@ -1,3 +1,9 @@
+---
+type: reference
+title: Common GN Dependency Errors
+summary: Reference for classifying common Chromium GN dependency failures, including DEPS include blocks, missing direct dependencies, private header visibility, and circular dependencies, with safe responses for each.
+---
+
 # Common GN Dependency Errors
 
 Use this reference to classify Chromium GN dependency failures before editing.

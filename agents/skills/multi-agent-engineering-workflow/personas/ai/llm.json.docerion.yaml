@@ -1,0 +1,6 @@
+# Docerion header of llm.json.
+type: config
+title: LLM Behavior & Grounding Expert persona definition
+summary: Defines the LLM Behavior & Grounding Expert persona with a mandate and checklist covering hallucination prevention, instruction clarity, state machine safety, environment grounding, and prompt leakage mitigation.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

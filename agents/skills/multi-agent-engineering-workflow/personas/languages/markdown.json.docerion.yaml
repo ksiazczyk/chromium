@@ -1,0 +1,6 @@
+# Docerion header of markdown.json.
+type: config
+title: Markdown Expert persona definition
+summary: Defines the Markdown Expert persona with a mandate and checklist for valid links, 80-character line limits, and logical heading hierarchy.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

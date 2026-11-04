@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: ChromeVox skill owners
+summary: Delegates ownership of this skill directory to the ChromeOS accessibility OWNERS file.
+relations:
+  - references /ash/accessibility/OWNERS

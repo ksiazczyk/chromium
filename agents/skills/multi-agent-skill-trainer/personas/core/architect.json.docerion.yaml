@@ -1,0 +1,8 @@
+# Docerion header of architect.json.
+type: config
+title: Component Architect persona definition
+summary: Defines the Component Architect persona that scans component documentation and build rules like BUILD.gn and DEPS to extract architectural rules and dependency constraints.
+relations:
+  - references /agents/skills/multi-agent-skill-trainer/schema.json
+  - references /BUILD.gn
+  - references /README.md

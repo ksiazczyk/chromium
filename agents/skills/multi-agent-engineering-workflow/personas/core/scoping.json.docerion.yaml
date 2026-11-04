@@ -1,0 +1,6 @@
+# Docerion header of scoping.json.
+type: config
+title: Scoping persona definition
+summary: Defines the Scoping persona that researches bugs or feature requests, assesses codebase impact, and writes a project.workflow.json specification after human approval.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

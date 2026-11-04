@@ -1,0 +1,4 @@
+# Docerion header of schema.json.
+type: reference
+title: JSON schema for review workflow data
+summary: JSON Schema defining the persona, review feedback, state, and constraints structures used by the review workflow.

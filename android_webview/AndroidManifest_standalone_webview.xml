@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Standalone WebView Android manifest
+summary: Android manifest template for the standalone WebView APK, adding a uses-library entry needed on Android 14 and metadata controlling library pinning.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="standalone">

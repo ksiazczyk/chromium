@@ -9,6 +9,11 @@ description: >-
   CLs, triggers 150-iteration Pinpoint try jobs on Apple Silicon M1 hardware, pipelines
   subsequent hypotheses asynchronously, evaluates statistical significance, and
   manages CL lifecycles.
+type: guide
+title: Chrome & V8 Autonomous Performance Optimization Loop
+summary: Skill definition describing a multi-agent workflow that discovers, implements, reviews, and validates Chromium and V8 performance optimizations via profiles, worktrees, Gerrit CLs, and Pinpoint try jobs.
+relations:
+  - references /agents/skills/chrome-performance-optimizer/scripts/analyze_profile.py
 ---
 
 # Chrome & V8 Autonomous Performance Optimization Loop

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gitignore for Python caches and temp directory
+# summary: Ignores Python cache files and the runtime .temp directory from version control.
+# ---
+
 # Python cache files
 __pycache__/
 *.pyc

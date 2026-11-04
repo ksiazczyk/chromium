@@ -1,0 +1,4 @@
+# Docerion header of trace_comparator.py.
+type: script
+title: Perfetto Trace Comparator Tool
+summary: Command-line tool that compares control and experiment traces in descendant or window mode and exports comparative flamegraph reports as markdown or speedscope JSON.

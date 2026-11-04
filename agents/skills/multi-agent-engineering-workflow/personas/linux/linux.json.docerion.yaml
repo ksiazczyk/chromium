@@ -1,0 +1,6 @@
+# Docerion header of linux.json.
+type: config
+title: Linux host expert persona definition
+summary: Defines the Linux Host Expert agent persona with mandate and checklist items covering X11 support, PAM integration, and base::SequenceBound usage.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

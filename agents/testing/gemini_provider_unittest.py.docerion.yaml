@@ -1,0 +1,4 @@
+# Docerion header of gemini_provider_unittest.py.
+type: test
+title: Unit tests for gemini_provider
+summary: Tests container PATH lookup, sandbox flag handling, and other Gemini CLI provider behavior with mocked Docker and subprocess calls.

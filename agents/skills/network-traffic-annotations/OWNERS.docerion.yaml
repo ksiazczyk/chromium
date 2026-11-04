@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the network-traffic-annotations skill
+summary: Lists the Chromium code owner responsible for reviewing changes to the network-traffic-annotations skill directory.

@@ -6,6 +6,12 @@ description: >-
   check_includes_strict LSC. Use when adding directories to the allowlist,
   enabling strict header checks on targets, or resolving
   CHECK_INCLUDES_STRICT_UNTRIAGED targets.
+type: guide
+title: Enable check_includes_strict
+summary: Skill guide for enabling check_includes_strict on Chromium targets and directories, covering commit messages, preparing output directories, allowlisting directories, and fixing include violations.
+relations:
+  - references /tools/mb/mb.py
+  - references /build/strict_deps_failures.gni
 ---
 
 # Enable `check_includes_strict`

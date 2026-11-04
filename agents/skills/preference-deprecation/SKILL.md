@@ -5,6 +5,13 @@ description: >-
   preferences following Chromium Prefs owners' guidelines across Desktop,
   Android, and iOS. Use when removing, deprecating, or migrating an obsolete
   Chromium preference.
+type: guide
+title: Preference Deprecation and Cleanup Workflow
+summary: Step-by-step guide for safely deprecating, cleaning up, and migrating obsolete Chromium preferences across Desktop, Android, iOS, and ChromeOS.
+relations:
+  - references /components/sync_preferences/common_syncable_prefs_database.cc
+  - references /chrome/browser/sync/prefs/chrome_syncable_prefs_database.cc
+  - references /ios/chrome/browser/sync/model/prefs/ios_chrome_syncable_prefs_database.cc
 ---
 
 # Preference Deprecation and Cleanup Workflow

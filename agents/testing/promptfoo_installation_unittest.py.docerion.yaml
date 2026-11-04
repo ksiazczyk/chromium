@@ -1,0 +1,4 @@
+# Docerion header of promptfoo_installation_unittest.py.
+type: test
+title: Promptfoo installation unit tests
+summary: Unit tests for the promptfoo installation module, verifying CIPD setup, installed-state detection and command execution.

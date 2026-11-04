@@ -1,6 +1,9 @@
 ---
 name: java-memory-leaks
 description: How to identify and fix Java memory leaks in Android Chrome using LeakCanary traces.
+type: guide
+title: Fixing Java Memory Leaks in Android Chrome
+summary: Guides identifying, debugging, and fixing Java memory leaks in Android Chrome using LeakCanary traces, covering workflow, fix patterns, best practices, and verification steps.
 ---
 
 # Fixing Java Memory Leaks in Android Chrome

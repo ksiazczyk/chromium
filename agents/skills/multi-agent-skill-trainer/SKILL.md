@@ -1,6 +1,13 @@
 ---
 name: multi-agent-skill-trainer
 description: Updates checklists and personas for multi-agent skills.
+type: readme
+title: Multi-Agent Skill Trainer Protocol
+summary: Defines the skill trainer protocol, its three execution paths, and the stages for capturing knowledge gaps and updating personas and checklists of other multi-agent skills.
+relations:
+  - references /agents/skills/multi-agent-skill-trainer/schema.json
+  - references /agents/skills/multi-agent-skill-trainer/personas/core/architect.json
+  - references /agents/skills/multi-agent-skill-trainer/personas/core/history_miner.json
 ---
 
 # Multi-Agent Skill Trainer Protocol

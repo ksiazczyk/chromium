@@ -1,0 +1,4 @@
+# Docerion header of checkout_helpers_unittest.py.
+type: test
+title: Unit tests for checkout_helpers
+summary: Unit tests covering btrfs detection, gclient root lookup, depot_tools path resolution, and caching behavior in checkout_helpers.

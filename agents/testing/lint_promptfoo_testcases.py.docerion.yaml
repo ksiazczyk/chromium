@@ -1,0 +1,4 @@
+# Docerion header of lint_promptfoo_testcases.py.
+type: script
+title: Linter for promptfoo test case files
+summary: Validates promptfoo YAML test cases by checking that file references, templates, and extension references point to existing paths.

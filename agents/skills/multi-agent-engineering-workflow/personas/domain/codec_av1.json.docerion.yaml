@@ -1,0 +1,6 @@
+# Docerion header of codec_av1.json.
+type: config
+title: AV1 codec expert persona definition
+summary: Defines the AV1 codec expert agent persona, including its mandate and a checklist covering libaom API usage, bitrate adaptation, latency versus quality, pixel formats, and ROI encoding.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

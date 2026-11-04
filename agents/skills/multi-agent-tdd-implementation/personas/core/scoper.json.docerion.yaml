@@ -1,0 +1,6 @@
+# Docerion header of scoper.json.
+type: config
+title: API Scoper Persona
+summary: Persona definition for an API Scoper agent role that designs API interfaces, creates stubbed code scaffolds, adds GN build rules and verifies the scaffold compiles cleanly.
+relations:
+  - references /agents/skills/multi-agent-tdd-implementation/schema.json

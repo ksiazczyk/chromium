@@ -1,0 +1,7 @@
+# Docerion header of resultdb_unittest.py.
+type: test
+title: ResultDB reporting unit tests
+summary: Unit tests for the resultdb module, checking that test results, owners, failures and artifacts are posted correctly to ResultDB.
+relations:
+  - tests /agents/testing/resultdb.py
+  - depends_on /agents/testing/eval_config.py

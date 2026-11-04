@@ -4,6 +4,13 @@ description: >-
   Adds scaffolding for a new Sync data type in Chromium across protocol buffers,
   DataType definitions, feature flags, controller builders, unit tests, and
   metrics.
+type: guide
+title: Add New Sync Data Type
+summary: Step-by-step skill for scaffolding a new Chromium Sync data type, covering protocol buffers, DataType declarations, feature flags, controller builders, tests, metrics, and commit verification.
+relations:
+  - references /components/sync/protocol/proto_visitors.h
+  - references /components/sync/protocol/entity_specifics.proto
+  - references /components/sync/protocol/protocol_sources.gni
 ---
 
 # Add New Sync Data Type

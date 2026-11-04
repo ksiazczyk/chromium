@@ -1,0 +1,6 @@
+# Docerion header of webrtc_external.json.
+type: config
+title: WebRTC External Expert persona
+summary: Defines the WebRTC External Expert agent persona, with a mandate for correct use of the //third_party/webrtc API and a checklist covering safe SDP parsing and trickled ICE candidate handling.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

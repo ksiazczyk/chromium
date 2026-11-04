@@ -5,6 +5,12 @@ description: >-
   mimicking LUCI trybots. Activate when CQ tryjobs fail or underreport coverage,
   to test local GN/recipe repairs before uploading, or to debug hermetic
   crashes.
+type: guide
+title: Code Coverage Local Debugger
+summary: Agent skill describing how to run code coverage locally via Universal Test Runner or run_local_coverage.py to debug CQ trybot coverage failures and verify GN or Starlark repairs.
+relations:
+  - documents /tools/utr/run.py
+  - documents /tools/code_coverage/run_local_coverage.py
 ---
 
 # Code Coverage Local Debugger

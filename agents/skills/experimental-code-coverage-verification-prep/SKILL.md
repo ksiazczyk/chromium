@@ -4,6 +4,12 @@ description: >-
   Prepares a Gerrit CL for code coverage verification try jobs. Adds dummy
   comments to trigger builds, optimizes builder configs by isolating test
   suites, and commits all changes.
+type: guide
+title: Prep Verification Build
+summary: Agent skill instructions for preparing a WIP Gerrit CL for code coverage verification by adding dummy comments, isolating test suites in Starlark builder configs, and committing changes.
+relations:
+  - references /agents/skills/experimental-code-coverage-cq-debugger/references/builder_star_map.json
+  - references /infra/config/main.star
 ---
 
 # Prep Verification Build

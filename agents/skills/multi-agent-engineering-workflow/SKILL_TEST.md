@@ -1,3 +1,13 @@
+---
+type: test
+title: Multi-Agent Engineering Workflow Test Protocol
+summary: Protocol for validating the workflow sub-agents with per-stage unit tests, isolated flawed test data, and instructions for running tests and presubmit checks.
+relations:
+  - references /BUILD.gn
+  - references /agents/skills/multi-agent-engineering-workflow/tests/testdata/complex_uaf.cc.workflow.test
+  - references /agents/skills/multi-agent-engineering-workflow/tests/workflow_test_schemas.json
+---
+
 # Multi-Agent Engineering Workflow Test Protocol (SKILL_TEST.md)
 
 This document describes the protocol used to validate the Multi-Agent

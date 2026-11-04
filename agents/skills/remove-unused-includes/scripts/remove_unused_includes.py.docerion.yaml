@@ -1,0 +1,4 @@
+# Docerion header of remove_unused_includes.py.
+type: script
+title: Remove Unused C++ Includes with clang-include-cleaner
+summary: Python script that finds and removes unused includes from .cc files in a Chromium folder using clang-include-cleaner, with dry-run mode and GN target safety checks before editing.

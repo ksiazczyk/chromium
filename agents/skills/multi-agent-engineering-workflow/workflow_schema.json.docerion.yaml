@@ -1,0 +1,4 @@
+# Docerion header of workflow_schema.json.
+type: reference
+title: Workflow Protocol JSON Schema
+summary: JSON Schema defining personas, environment settings, state blocks, and workflow stages used by the multi-agent engineering workflow protocol.

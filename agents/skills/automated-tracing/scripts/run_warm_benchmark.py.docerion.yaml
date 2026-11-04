@@ -1,0 +1,7 @@
+# Docerion header of run_warm_benchmark.py.
+type: script
+title: Warm Telemetry benchmark wrapper script
+summary: Python wrapper that automates warm Telemetry benchmark runs, handling warmup, profile migration via migrate_profile.py, package data cleanup, and temporary directory cleanup for Android and Desktop.
+relations:
+  - depends_on /agents/skills/automated-tracing/scripts/migrate_profile.py
+  - depends_on /tools/perf/run_benchmark

@@ -3,6 +3,12 @@ name: multi-agent-engineering-workflow
 description: >-
   Enforce engineering rigor and verification loop for
   coding tasks using multi-agent debate and TDD.
+type: reference
+title: Multi-Agent Engineering Workflow skill definition
+summary: 'Defines the orchestrator protocol: two-path execution model, global mandates, staged workflow orchestration, and workspace management rules.'
+relations:
+  - references /agents/skills/multi-agent-code-review/SKILL.md
+  - references /agents/skills/multi-agent-tdd-implementation/SKILL.md
 ---
 
 # Multi-Agent Engineering Workflow

@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT.py.template.
+type: ci
+title: Presubmit script template for skill artifacts
+summary: Template for a presubmit script that enforces structural integrity of skill artifacts, mainly by validating relative markdown links against the repository.

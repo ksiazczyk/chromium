@@ -1,0 +1,6 @@
+# Docerion header of performance.json.
+type: config
+title: Core Performance Expert persona definition
+summary: Defines the Core Performance Expert persona with checklists for zero-copy data handling, minimized mutex contention, and keeping long tasks off UI and IO threads.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

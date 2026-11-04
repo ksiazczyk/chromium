@@ -4,6 +4,13 @@ description: |-
   Guide for authoring and debugging 3pp (third-party package) recipes under
   `//third_party/**/3pp/`. Covers `3pp.pb` schema, `install.py` platform traps,
   metadata validation, and driving the `3pp-*-packager` trybots.
+type: guide
+title: Authoring 3pp Packages
+summary: Guide for authoring and debugging 3pp third-party package recipes under //third_party/**/3pp/, covering the 3pp.pb schema, install.py platform traps, metadata validation, and driving the 3pp-*-packager trybots.
+relations:
+  - references /build/3pp_common/README.md
+  - documents /build/3pp_common/fetch_github_release.py
+  - documents /build/3pp_common/maven.py
 ---
 
 # Authoring 3pp Packages

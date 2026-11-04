@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for agents/skills
+# summary: Presubmit script that runs Python unit tests and skill validation checks for changes under agents/skills.
+# ---
+
 """Presubmit script for //agents/skills.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -3,6 +3,13 @@ name: policy-creation
 description: >
     Guide for adding new enterprise policies to Chromium. Complete guide for
     policy definitions, pref mapping, and writing tests.
+type: guide
+title: Chrome Enterprise Policy Development Skill
+summary: Skill guide for adding and testing new enterprise policies in Chromium, covering policy YAML definition, naming conventions, data types, atomic groups, pref mapping, and tests.
+relations:
+  - references /chrome/VERSION
+  - references /components/policy/OWNERS
+  - references /components/policy/resources/templates/policies.yaml
 ---
 
 # Chrome Enterprise Policy Development

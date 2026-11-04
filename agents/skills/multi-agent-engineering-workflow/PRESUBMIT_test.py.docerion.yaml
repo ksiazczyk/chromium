@@ -1,0 +1,6 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Unit tests for workflow presubmit checks
+summary: Unit tests covering the presubmit checks, using mocked presubmit APIs and simulated filesystem scenarios.
+relations:
+  - tests /agents/skills/multi-agent-engineering-workflow/PRESUBMIT.py
