@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_SITE_SETTINGS_PROTOCOL_HANDLERS_BLOCKED.png.sha1.
+type: asset
+title: Protocol handlers blocked image SHA-1
+summary: Stores the SHA-1 hash of the PNG image referenced by the protocol handlers blocked string in Chrome's site settings resources.

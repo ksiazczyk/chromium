@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Shared settings strings OWNERS
+summary: OWNERS file that delegates ownership of this directory to the Chrome settings resources OWNERS file.
