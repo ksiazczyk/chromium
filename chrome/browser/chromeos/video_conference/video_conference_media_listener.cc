@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference media listener implementation
+// summary: Implements capture indicator observation that creates VC web apps and reports camera, microphone and screen capture changes to the client.
+// ---
+
 #include "chrome/browser/chromeos/video_conference/video_conference_media_listener.h"
 
 #include <string>

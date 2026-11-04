@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the collaboration comments service
+summary: Defines GN source sets for the comments service interface, implementation, and unit tests together with their build dependencies.

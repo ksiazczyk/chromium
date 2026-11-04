@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data transfer DLP controller class declaration
+// summary: Declares DataTransferDlpController, the DataTransferPolicyController that prevents confidential data leaks via clipboard and drag-and-drop.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DATA_TRANSFER_DLP_CONTROLLER_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DATA_TRANSFER_DLP_CONTROLLER_H_
 

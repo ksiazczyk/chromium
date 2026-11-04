@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode ChromeContentBrowserClient part implementation
+// summary: Overrides web preferences in tablet mode to enable mobile-like behaviors and keeps default font sizes for system UI pages.
+// ---
+
 #include "chrome/browser/chromeos/tablet_mode/chrome_content_browser_client_tablet_mode_part.h"
 
 #include <string_view>

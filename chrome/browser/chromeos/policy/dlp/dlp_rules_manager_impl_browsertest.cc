@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DlpRulesManagerImpl browser tests
+// summary: Browser tests verifying DLP policy pref parsing and reporting enablement for the DLP rules manager.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_rules_manager_impl.h"
 
 #include "base/files/file_path.h"

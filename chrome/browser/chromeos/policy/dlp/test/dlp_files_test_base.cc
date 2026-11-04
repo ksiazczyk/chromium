@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DlpFilesTestBase implementation
+// summary: Implements the DlpFilesTestBase fixture that sets up a logged-in test user, a testing profile and a mock DlpRulesManager for DLP files tests.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/test/dlp_files_test_base.h"
 
 #include "chrome/browser/ash/login/test/chrome_user_session_test_environment_delegate.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollaborationServiceFactory
+// summary: JNI-backed factory that returns a CollaborationService for a given profile, falling back to an empty service and supporting a test override.
+// ---
+
 package org.chromium.chrome.browser.collaboration;
 
 import org.jni_zero.JNINamespace;

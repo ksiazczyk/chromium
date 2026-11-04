@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP clipboard notifier unit tests
+// summary: Unit tests for DlpClipboardNotifier covering block and warning bubbles, toasts for various destination types, and user approval and cancellation behavior.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_clipboard_notifier.h"
 
 #include <memory>

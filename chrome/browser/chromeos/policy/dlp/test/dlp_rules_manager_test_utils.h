@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP rules manager test utilities header
+// summary: Declares the DlpRule test utility class for building DLP policy rules with source URLs, destinations and restrictions.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_TEST_DLP_RULES_MANAGER_TEST_UTILS_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_TEST_DLP_RULES_MANAGER_TEST_UTILS_H_
 

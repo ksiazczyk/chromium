@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!--VectorRaster is ignored because: The image should be shown rarely enough to prioritize binary size over inflation time.-->
+
+<!--docerion
+type: asset
+title: Sign-in logo vector drawable
+summary: Vector drawable for the sign-in logo shown in the Android collaboration UI, drawn with material primary colors.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt"
     xmlns:tools="http://schemas.android.com/tools"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataSharingServiceStartupTest
+// summary: Tests that DataSharingService startup avoids loading heavy SDK components for users without any shared tab groups.
+// ---
+
 package org.chromium.chrome.browser.collaboration;
 
 import androidx.test.filters.SmallTest;

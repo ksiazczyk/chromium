@@ -1,3 +1,13 @@
+---
+type: reference
+title: CUPS Printer Management in ChromeOS
+summary: Explains how CUPS printers are discovered and categorized in ChromeOS, and describes the code structure including CupsPrintersManager, SyncedPrintersManager and printer detectors.
+relations:
+  - references /chrome/browser/chromeos/printing/doc/printer_flow_chart.png
+  - documents /printing/backend/print_backend_chromeos.cc
+  - documents /chrome/browser/ui/webui/print_preview/local_printer_handler_chromeos.cc
+---
+
 # CUPS Printer Management in ChromeOS
 
 One of the goals of CUPS printing in ChromeOS is to provide as smooth an

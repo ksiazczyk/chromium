@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP files utilities header
+// summary: Declares the FileAction enum used in warning dialogs and UMA histograms plus helper functions for component mapping, blocked transfer checks and opening the Learn more page.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_FILES_UTILS_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_FILES_UTILS_H_
 

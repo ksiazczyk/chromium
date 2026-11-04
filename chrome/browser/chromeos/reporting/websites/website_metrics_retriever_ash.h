@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash website metrics retriever class declaration
+// summary: Declares WebsiteMetricsRetrieverAsh, which retrieves the WebsiteMetrics component for a profile and observes its initialization if not yet complete.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_REPORTING_WEBSITES_WEBSITE_METRICS_RETRIEVER_ASH_H_
 #define CHROME_BROWSER_CHROMEOS_REPORTING_WEBSITES_WEBSITE_METRICS_RETRIEVER_ASH_H_
 

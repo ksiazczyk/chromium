@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric reporting manager delegate base implementation
+// summary: Implements factory methods that create metric report queues and periodic, one-shot, manual and event-driven collectors for the metric reporting manager.
+// ---
+
 #include "chrome/browser/chromeos/reporting/metric_reporting_manager_delegate_base.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for collaboration dependencies
+summary: Restricts includes to collaboration public code and the internal service headers needed for service construction.

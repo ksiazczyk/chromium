@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usage telemetry periodic collector base implementation
+// summary: Implements a collector that reports usage telemetry data on a policy-controlled rate and timestamps it before enqueueing.
+// ---
+
 #include "chrome/browser/chromeos/reporting/usage_telemetry_periodic_collector_base.h"
 
 #include <memory>

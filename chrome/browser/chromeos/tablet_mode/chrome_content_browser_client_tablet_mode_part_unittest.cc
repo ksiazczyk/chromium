@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for tablet mode content browser client font size behavior
+// summary: Unit tests verifying that the tablet mode browser client part applies default font sizes to system UI pages and apps such as the files manager and screensaver, but not to regular web pages or other extensions.
+// ---
+
 #include "chrome/browser/chromeos/tablet_mode/chrome_content_browser_client_tablet_mode_part.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the printing folder
+summary: Points the directory to the shared ChromeOS printing COMMON_METADATA mixins.

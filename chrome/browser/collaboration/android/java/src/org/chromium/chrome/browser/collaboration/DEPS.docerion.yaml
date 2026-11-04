@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for collaboration
+summary: Defines allowed dependencies for the collaboration package, mainly test support classes from data_sharing and the sync SyncTestRule.

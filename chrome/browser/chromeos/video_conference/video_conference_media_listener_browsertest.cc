@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video conference media listener browser tests
+// summary: Browser tests for VideoConferenceMediaListener using a fake listener to verify handling of video, audio, window and display capture changes.
+// ---
+
 #include "chrome/browser/chromeos/video_conference/video_conference_media_listener.h"
 
 #include <algorithm>

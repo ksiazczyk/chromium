@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard DLP bubble view declarations
+// summary: Declares ClipboardBubbleView and its block and warn variants displayed for restricted clipboard actions.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_CLIPBOARD_BUBBLE_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_CLIPBOARD_BUBBLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP files controller header
+// summary: Declares DlpFilesController with its FileDaemonInfo struct and FolderRecursionDelegate helper for enforcing file transfer restrictions in cooperation with the DLP daemon.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_FILES_CONTROLLER_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_FILES_CONTROLLER_H_
 

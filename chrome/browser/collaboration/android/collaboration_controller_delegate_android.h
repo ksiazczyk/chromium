@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration controller delegate Android class declaration
+// summary: Declares CollaborationControllerDelegateAndroid, the Android implementation of the collaboration controller delegate interface backed by a Java object.
+// ---
+
 #ifndef CHROME_BROWSER_COLLABORATION_ANDROID_COLLABORATION_CONTROLLER_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_COLLABORATION_ANDROID_COLLABORATION_CONTROLLER_DELEGATE_ANDROID_H_
 

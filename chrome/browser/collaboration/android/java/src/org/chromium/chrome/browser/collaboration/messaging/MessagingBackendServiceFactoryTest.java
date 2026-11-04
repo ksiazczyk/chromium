@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessagingBackendServiceFactoryTest
+// summary: Instrumentation tests verifying that the factory returns the injected test service and creates the real service when data sharing is enabled.
+// ---
+
 package org.chromium.chrome.browser.collaboration.messaging;
 
 import static org.chromium.base.test.util.Batch.PER_CLASS;

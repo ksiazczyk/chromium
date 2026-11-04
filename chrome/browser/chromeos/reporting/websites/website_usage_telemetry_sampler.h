@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteUsageTelemetrySampler class declaration
+// summary: Declares a sampler that batches website usage telemetry from the user pref store for reporting.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_REPORTING_WEBSITES_WEBSITE_USAGE_TELEMETRY_SAMPLER_H_
 #define CHROME_BROWSER_CHROMEOS_REPORTING_WEBSITES_WEBSITE_USAGE_TELEMETRY_SAMPLER_H_
 

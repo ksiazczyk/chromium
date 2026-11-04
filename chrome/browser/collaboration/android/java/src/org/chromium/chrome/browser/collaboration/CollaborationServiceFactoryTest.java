@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CollaborationServiceFactory tests
+// summary: Instrumented tests verifying CollaborationServiceFactory behavior, including injecting and using a test CollaborationService.
+// ---
+
 package org.chromium.chrome.browser.collaboration;
 
 import static org.chromium.base.test.util.Batch.PER_CLASS;

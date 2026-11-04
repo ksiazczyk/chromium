@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP rules manager source
+// summary: Implements the DlpRulesManager constructor by delegating to the Chrome data controls rules manager.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_rules_manager.h"
 
 #include "chrome/browser/enterprise/data_controls/chrome_dlp_rules_manager.h"

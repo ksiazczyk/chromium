@@ -1,3 +1,12 @@
+---
+type: readme
+title: ChromeOS Printing
+summary: Overview of the ChromeOS printing documentation directory, listing related source directories and linking to the CUPS printer management and settings page docs.
+relations:
+  - references /chrome/browser/chromeos/printing/doc/cups_printer_management.md
+  - references /chrome/browser/chromeos/printing/doc/cups_printers_settings_page.md
+---
+
 # ChromeOS Printing
 
 This directory contains browser-side code for printing infrastructure in

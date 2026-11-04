@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for collaboration messaging
+summary: Defines GN source sets for the messaging backend service factory interface, its Chrome implementation, and unit tests, along with their dependencies.

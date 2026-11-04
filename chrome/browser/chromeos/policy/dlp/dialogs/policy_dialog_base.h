@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyDialogBase class declaration
+// summary: Declares the base class for data protection dialogs with restriction types, view IDs for testing and warning callback definitions.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DIALOGS_POLICY_DIALOG_BASE_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DIALOGS_POLICY_DIALOG_BASE_H_
 

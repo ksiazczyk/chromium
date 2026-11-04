@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration controller delegate factory interface
+// summary: Functional interface that creates a CollaborationControllerDelegate for DataSharingTabManager flows, given a flow type and a switch-to-tab-switcher callback.
+// ---
+
 package org.chromium.chrome.browser.collaboration;
 
 import androidx.annotation.Nullable;

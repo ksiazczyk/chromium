@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference UKM helper header
+// summary: Declares VideoConferenceUkmHelper, a per-web-app class that registers media device capturing updates and records UKM metrics on destruction.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_VIDEO_CONFERENCE_VIDEO_CONFERENCE_UKM_HELPER_H_
 #define CHROME_BROWSER_CHROMEOS_VIDEO_CONFERENCE_VIDEO_CONFERENCE_UKM_HELPER_H_
 

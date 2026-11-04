@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP drag-and-drop notifier unit tests
+// summary: Unit tests covering blocked-action notifications and the proceed and cancel flows of the drop warning bubble.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_drag_drop_notifier.h"
 
 #include <optional>

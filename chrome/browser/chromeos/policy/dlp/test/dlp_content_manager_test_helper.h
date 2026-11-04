@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DlpContentManagerTestHelper header
+// summary: Declares DlpContentManagerTestHelper, an interface used in tests to access private DlpContentManager methods and state.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_TEST_DLP_CONTENT_MANAGER_TEST_HELPER_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_TEST_DLP_CONTENT_MANAGER_TEST_HELPER_H_
 

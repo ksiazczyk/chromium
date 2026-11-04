@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP download observer
+// summary: Declares a keyed service that observes download items and informs the DLP stack about downloaded files.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_DOWNLOAD_OBSERVER_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_DOWNLOAD_OBSERVER_H_
 

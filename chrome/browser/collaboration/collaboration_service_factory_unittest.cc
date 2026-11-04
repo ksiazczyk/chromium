@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CollaborationServiceFactory unit tests
+// summary: Verifies the factory returns the real service when data sharing is enabled and the empty service when disabled or in incognito.
+// ---
+
 #include "chrome/browser/collaboration/collaboration_service_factory.h"
 
 #include "base/test/scoped_feature_list.h"

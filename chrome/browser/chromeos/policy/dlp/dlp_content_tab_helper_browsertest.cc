@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DlpContentTabHelper browser tests
+// summary: Browser tests verifying DlpContentTabHelper confidentiality reporting for Platform Apps and back/forward cache scenarios using a mock DLP content observer.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_content_tab_helper.h"
 
 #include "base/no_destructor.h"

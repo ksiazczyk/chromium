@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteUsageObserver implementation
+// summary: Observes website usage from the WebsiteMetrics component and persists per-URL running time in the profile pref store for telemetry reporting.
+// ---
+
 #include "chrome/browser/chromeos/reporting/websites/website_usage_observer.h"
 
 #include <memory>

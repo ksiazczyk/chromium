@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the ChromeOS reporting library
+summary: GN build file defining the reporting static library sources and dependencies plus the testonly unit_tests source set for this directory.

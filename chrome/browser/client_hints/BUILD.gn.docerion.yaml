@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Client hints build targets
+summary: Defines the client_hints source set and a non-Android browser test target with their source files and dependencies.

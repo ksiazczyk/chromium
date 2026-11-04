@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebsiteUsageTelemetrySampler unit tests
+// summary: Unit tests verifying collection of website usage data from the pref store and its deletion after reporting.
+// ---
+
 #include "chrome/browser/chromeos/reporting/websites/website_usage_telemetry_sampler.h"
 
 #include <memory>

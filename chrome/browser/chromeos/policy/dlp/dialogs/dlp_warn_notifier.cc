@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpWarnNotifier implementation
+// summary: Implements creation and display of DLP warning dialogs for printing, capture and screen share, tracking and closing their widgets.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dialogs/dlp_warn_notifier.h"
 
 #include <cstddef>

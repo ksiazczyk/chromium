@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client hints service factory header
+// summary: Declares ClientHintsFactory, a ProfileKeyedServiceFactory returning the client hints controller delegate for a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_CLIENT_HINTS_CLIENT_HINTS_FACTORY_H_
 #define CHROME_BROWSER_CLIENT_HINTS_CLIENT_HINTS_FACTORY_H_
 

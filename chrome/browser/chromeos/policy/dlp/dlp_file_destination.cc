@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP file destination implementation
+// summary: Implements the DlpFileDestination class that models a file transfer destination as a URL or a data controls component, with comparison operators and helpers for filesystem and MyFiles destinations.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_file_destination.h"
 
 namespace policy {

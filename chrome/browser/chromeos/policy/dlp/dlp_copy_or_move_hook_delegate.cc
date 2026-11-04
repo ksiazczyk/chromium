@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpCopyOrMoveHookDelegate implementation
+// summary: Implements storage copy/move hooks that request DLP file access via DlpFilesController and grant or deny file copy operations based on policy.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_copy_or_move_hook_delegate.h"
 
 #include <memory>

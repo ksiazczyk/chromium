@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP content manager interactive UI tests
+// summary: Interactive browser tests covering DlpContentManager enforcement of screenshot, printing and screen share restrictions, including warn dialogs, notifications and reporting.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_content_manager.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteUsageTelemetryPeriodicCollectorAsh class declaration
+// summary: Declares a periodic collector for website usage telemetry in Ash that also collects on session termination to prevent data staleness.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_REPORTING_WEBSITES_WEBSITE_USAGE_TELEMETRY_PERIODIC_COLLECTOR_ASH_H_
 #define CHROME_BROWSER_CHROMEOS_REPORTING_WEBSITES_WEBSITE_USAGE_TELEMETRY_PERIODIC_COLLECTOR_ASH_H_
 

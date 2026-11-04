@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference web app implementation
+// summary: Implements VideoConferenceWebApp, which tracks capturing status, permissions and activation for video conferencing web apps attached to a WebContents.
+// ---
+
 #include "chrome/browser/chromeos/video_conference/video_conference_web_app.h"
 
 #include <memory>

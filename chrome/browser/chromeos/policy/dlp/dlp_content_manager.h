@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP content manager class declaration
+// summary: Declares DlpContentManager, the system-wide class tracking confidential WebContents and enforcing restrictions such as screenshot, printing and screen share blocking according to enterprise policy.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_CONTENT_MANAGER_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_CONTENT_MANAGER_H_
 

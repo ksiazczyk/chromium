@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Website events observer class declaration
+// summary: Declares WebsiteEventsObserver, a MetricEventObserver that watches WebsiteMetrics URL events and emits website telemetry through a reporting callback.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_REPORTING_WEBSITES_WEBSITE_EVENTS_OBSERVER_H_
 #define CHROME_BROWSER_CHROMEOS_REPORTING_WEBSITES_WEBSITE_EVENTS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP drag-and-drop notifier declaration
+// summary: Declares the drag-and-drop notifier that displays block and warning bubbles for restricted drop actions.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_DRAG_DROP_NOTIFIER_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_DRAG_DROP_NOTIFIER_H_
 

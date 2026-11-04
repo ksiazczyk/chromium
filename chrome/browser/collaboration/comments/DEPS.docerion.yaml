@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for collaboration comments
+summary: Restricts dependencies on internal collaboration code, allowing only the internal comments service headers needed for service construction.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDlpWarnNotifier implementation
+// summary: Implements the gmock notifier that either propagates calls to a real notifier or simulates a user proceeding or cancelling in tests.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dialogs/mock_dlp_warn_notifier.h"
 
 #include "chrome/browser/chromeos/policy/dlp/dialogs/dlp_warn_dialog.h"

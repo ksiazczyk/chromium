@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration service factory JNI bindings for Android
+// summary: Exposes the profile-keyed CollaborationService to Java through a JNI function that looks the service up for a given profile.
+// ---
+
 #include "chrome/browser/collaboration/collaboration_service_factory.h"
 
 #include "base/android/scoped_java_ref.h"

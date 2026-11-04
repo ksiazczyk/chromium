@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpCopyOrMoveHookDelegate header
+// summary: Declares a CopyOrMoveHookDelegate that redirects storage IO-thread hooks to the UI thread and keeps ScopedFileAccess for the whole copy operation.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_COPY_OR_MOVE_HOOK_DELEGATE_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_COPY_OR_MOVE_HOOK_DELEGATE_H_
 

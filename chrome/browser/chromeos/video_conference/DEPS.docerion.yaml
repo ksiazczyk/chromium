@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Video conference DEPS include rules
+summary: Specifies allowed include dependencies for the video_conference directory and per-file exceptions for the browser test files.

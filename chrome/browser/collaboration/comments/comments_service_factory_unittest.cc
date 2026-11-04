@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Comments service factory unit tests
+// summary: Verifies that the factory returns the real service when features are enabled, an empty service when disabled, and null for incognito profiles.
+// ---
+
 #include "chrome/browser/collaboration/comments/comments_service_factory.h"
 
 #include "base/test/scoped_feature_list.h"

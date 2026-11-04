@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP scoped file access delegate interactive UI tests
+// summary: Interactive UI tests that simulate file drag-and-drop and copy-paste to verify DLP file access restrictions in the browser.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_scoped_file_access_delegate.h"
 
 #include <initializer_list>

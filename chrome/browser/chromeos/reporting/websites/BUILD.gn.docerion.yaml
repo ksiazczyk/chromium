@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for website reporting
+summary: Defines the websites static library plus unit and browser test source sets for ChromeOS website activity reporting, listing their sources and dependencies.

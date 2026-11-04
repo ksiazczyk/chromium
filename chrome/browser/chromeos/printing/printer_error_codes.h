@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterErrorCode enum declaration
+// summary: Declares the PrinterErrorCode enum and the function that derives it from PrinterStatus reasons.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_PRINTING_PRINTER_ERROR_CODES_H_
 #define CHROME_BROWSER_CHROMEOS_PRINTING_PRINTER_ERROR_CODES_H_
 

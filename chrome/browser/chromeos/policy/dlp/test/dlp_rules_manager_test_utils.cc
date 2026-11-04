@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP rules manager test utilities implementation
+// summary: Provides helpers and a DlpRule builder that create dictionary values for setting up the DataLeakPreventionRulesList policy in tests.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/test/dlp_rules_manager_test_utils.h"
 
 #include <utility>

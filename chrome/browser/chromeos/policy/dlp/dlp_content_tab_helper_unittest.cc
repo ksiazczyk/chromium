@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DlpContentTabHelper unit tests
+// summary: Unit tests for DlpContentTabHelper covering creation rules, incognito exclusion, and confidentiality restriction reporting with mock observers.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_content_tab_helper.h"
 
 #include <memory>

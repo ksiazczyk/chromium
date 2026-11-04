@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP scoped file access delegate implementation
+// summary: Implements the delegate that proxies file access requests to the DLP daemon over D-Bus and reports default file access UMA metrics.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_scoped_file_access_delegate.h"
 
 #include "base/files/file_path.h"

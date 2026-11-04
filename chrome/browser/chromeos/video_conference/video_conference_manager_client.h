@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference manager client header
+// summary: Declares VideoConferenceManagerClientImpl, the client class that tracks VC apps and answers manager queries for ChromeOS videoconferencing.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_VIDEO_CONFERENCE_VIDEO_CONFERENCE_MANAGER_CLIENT_H_
 #define CHROME_BROWSER_CHROMEOS_VIDEO_CONFERENCE_VIDEO_CONFERENCE_MANAGER_CLIENT_H_
 

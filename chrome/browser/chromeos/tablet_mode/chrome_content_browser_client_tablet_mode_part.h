@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode ChromeContentBrowserClient part header
+// summary: Declares the ChromeContentBrowserClientTabletModePart class that hooks web preference overrides into the browser client.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_TABLET_MODE_CHROME_CONTENT_BROWSER_CLIENT_TABLET_MODE_PART_H_
 #define CHROME_BROWSER_CHROMEOS_TABLET_MODE_CHROME_CONTENT_BROWSER_CLIENT_TABLET_MODE_PART_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP confidential contents implementation
+// summary: Implements DlpConfidentialContent and DlpConfidentialContents, which cache icons, titles and URLs of confidential web contents and windows for user-facing DLP dialogs.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_confidential_contents.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteUsageTelemetrySampler implementation
+// summary: Collects website usage data from the user pref store into metric data and deletes the tracked entries after they are reported.
+// ---
+
 #include "chrome/browser/chromeos/reporting/websites/website_usage_telemetry_sampler.h"
 
 #include <optional>

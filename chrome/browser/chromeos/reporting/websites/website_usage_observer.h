@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteUsageObserver class declaration
+// summary: Declares an observer that collects website usage data from the WebsiteMetrics component and persists it in the user pref store.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_REPORTING_WEBSITES_WEBSITE_USAGE_OBSERVER_H_
 #define CHROME_BROWSER_CHROMEOS_REPORTING_WEBSITES_WEBSITE_USAGE_OBSERVER_H_
 

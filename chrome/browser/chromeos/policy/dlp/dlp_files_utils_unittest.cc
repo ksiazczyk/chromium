@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP files utilities unit tests
+// summary: Parameterized unit tests for the component-to-proto mapping and the IsFilesTransferBlocked behavior with report, warn and block rule levels.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_files_utils.h"
 
 #include "chrome/browser/chromeos/policy/dlp/test/dlp_files_test_base.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI glue for the comments service factory
+// summary: Implements a JNI entry point that returns the comments service bridge for a given profile via CommentsServiceFactory.
+// ---
+
 #include "chrome/browser/collaboration/comments/comments_service_factory.h"
 
 #include "base/android/scoped_java_ref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the network bandwidth sampler
+// summary: Unit tests covering download speed reporting by default, with the insights pref or feature flag set, and when throughput is unavailable.
+// ---
+
 #include "chrome/browser/chromeos/reporting/network/network_bandwidth_sampler.h"
 
 #include <optional>

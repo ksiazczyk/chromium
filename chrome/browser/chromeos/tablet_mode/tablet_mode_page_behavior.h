@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode page behavior header
+// summary: Declares TabletModePageBehavior, a display observer that refreshes Blink preferences on tablet mode state changes.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_TABLET_MODE_TABLET_MODE_PAGE_BEHAVIOR_H_
 #define CHROME_BROWSER_CHROMEOS_TABLET_MODE_TABLET_MODE_PAGE_BEHAVIOR_H_
 

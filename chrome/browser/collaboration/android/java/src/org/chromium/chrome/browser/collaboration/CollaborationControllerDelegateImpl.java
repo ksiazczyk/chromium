@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollaborationControllerDelegateImpl
+// summary: Implements the collaboration controller delegate that manages UI screens for creating, joining, sharing, and managing shared tab groups on Android.
+// ---
+
 package org.chromium.chrome.browser.collaboration;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

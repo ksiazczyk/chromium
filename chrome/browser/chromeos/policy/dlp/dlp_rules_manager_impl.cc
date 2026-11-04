@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpRulesManager implementation
+// summary: Parses DataLeakPreventionRulesList rules with URL matching and forwards the files policy to the DLP daemon with retry on failure.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_rules_manager_impl.h"
 
 #include <algorithm>

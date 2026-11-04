@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for upload_office_to_cloud
+summary: Defines the upload_office_to_cloud static library target with its source files and build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference manager client implementation
+// summary: Implements VideoConferenceManagerClientImpl, which detects VC app types, tracks capture and permission status, and reports to the VC manager.
+// ---
+
 #include "chrome/browser/chromeos/video_conference/video_conference_manager_client.h"
 
 #include <utility>

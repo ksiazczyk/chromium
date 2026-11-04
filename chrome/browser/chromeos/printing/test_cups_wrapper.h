@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestCupsWrapper header for faking printer status
+// summary: Declares TestCupsWrapper, a test double for CupsWrapper that lets tests substitute the reported status and reasons for queried printers.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_PRINTING_TEST_CUPS_WRAPPER_H_
 #define CHROME_BROWSER_CHROMEOS_PRINTING_TEST_CUPS_WRAPPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CollaborationControllerDelegateImpl unit tests
+// summary: Robolectric unit tests verifying the collaboration controller delegate's flow handling and UI behavior with mocked services and dependencies.
+// ---
+
 package org.chromium.chrome.browser.collaboration;
 
 import static org.mockito.ArgumentMatchers.any;

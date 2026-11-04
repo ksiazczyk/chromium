@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP content restriction set declaration
+// summary: Declares the DlpContentRestriction enum and the DlpContentRestrictionSet class representing restriction levels and URLs applied to on-screen content.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_CONTENT_RESTRICTION_SET_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_CONTENT_RESTRICTION_SET_H_
 

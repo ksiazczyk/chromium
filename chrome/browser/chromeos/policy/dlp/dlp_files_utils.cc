@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP files utilities implementation
+// summary: Implements helpers that map policy components to DLP proto components, check whether file transfers are blocked by DLP rules, and open the policy Learn more page.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_files_utils.h"
 
 #include "ash/public/cpp/new_window_delegate.h"

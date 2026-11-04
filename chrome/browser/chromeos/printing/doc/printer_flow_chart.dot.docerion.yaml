@@ -1,0 +1,4 @@
+# Docerion header of printer_flow_chart.dot.
+type: asset
+title: Printer Flow Chart
+summary: Graphviz source for the printer flow chart diagram, showing how printers move between saved, enterprise, automatic and discovered states; regenerate the PNG with dot.

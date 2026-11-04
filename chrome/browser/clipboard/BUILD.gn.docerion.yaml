@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Clipboard permission delegate build definition
+summary: Defines GN source sets for the Chrome clipboard permission context delegate, its header-only target, and its unit tests.

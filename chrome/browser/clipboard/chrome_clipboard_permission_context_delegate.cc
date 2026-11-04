@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome clipboard permission context delegate implementation
+// summary: Implements clipboard permission decisions for WebView frames and extension service workers, handling read-write and sanitized write types.
+// ---
+
 #include "chrome/browser/clipboard/chrome_clipboard_permission_context_delegate.h"
 
 #include <utility>

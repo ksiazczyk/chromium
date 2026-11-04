@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP file access copy or move delegate factory declaration
+// summary: Declares the factory that supplies DLP-enforcing hook delegates for file copy and move operations.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_FILE_ACCESS_COPY_OR_MOVE_DELEGATE_FACTORY_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_FILE_ACCESS_COPY_OR_MOVE_DELEGATE_FACTORY_H_
 

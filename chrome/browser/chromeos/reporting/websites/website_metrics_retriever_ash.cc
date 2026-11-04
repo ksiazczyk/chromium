@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash website metrics retriever implementation
+// summary: Implements the Ash retriever that fetches the initialized WebsiteMetrics component from AppPlatformMetricsService, observing initialization when needed.
+// ---
+
 #include "chrome/browser/chromeos/reporting/websites/website_metrics_retriever_ash.h"
 
 #include "base/memory/weak_ptr.h"

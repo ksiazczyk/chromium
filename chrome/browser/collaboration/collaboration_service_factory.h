@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollaborationServiceFactory header
+// summary: Declares the CollaborationServiceFactory singleton that provides per-profile CollaborationService instances.
+// ---
+
 #ifndef CHROME_BROWSER_COLLABORATION_COLLABORATION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_COLLABORATION_COLLABORATION_SERVICE_FACTORY_H_
 

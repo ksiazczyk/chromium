@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for data transfer DLP controller
+// summary: Unit tests the controller's paste and drop handling, including warn-mode notifications and reporting behavior, using a mock rules manager.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/data_transfer_dlp_controller.h"
 
 #include <memory>

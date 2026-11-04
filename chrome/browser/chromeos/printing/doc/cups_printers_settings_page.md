@@ -1,3 +1,11 @@
+---
+type: reference
+title: CUPS Printers Settings Page
+summary: Describes the CUPS printers settings page, its add and edit printer dialogs, the browser proxy messages, and the JavaScript listeners behind the UI.
+relations:
+  - documents /chrome/browser/ui/webui/ash/settings/pages/printing/cups_printers_handler.cc
+---
+
 # CUPS Printers Settings Page
 
 The CUPS Printers settings page (located at `chrome://settings/cupsPrinters`)

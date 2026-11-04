@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsWrapper interface for CUPS queries
+// summary: Declares the CUPS connection wrapper API for querying print jobs, cancelling jobs, and querying printer status, with a factory hook for testing.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_PRINTING_CUPS_WRAPPER_H_
 #define CHROME_BROWSER_CHROMEOS_PRINTING_CUPS_WRAPPER_H_
 

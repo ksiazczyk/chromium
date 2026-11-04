@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock DLP rules manager class
+// summary: Declares a gmock mock of DlpRulesManager that stubs restriction checks, aggregated destinations and components, reporting and files policy methods for tests.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_TEST_MOCK_DLP_RULES_MANAGER_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_TEST_MOCK_DLP_RULES_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP confidential file class declaration
+// summary: Declares DlpConfidentialFile, a struct holding a file's icon, title and path used to display confidential file information to the user.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_CONFIDENTIAL_FILE_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_CONFIDENTIAL_FILE_H_
 

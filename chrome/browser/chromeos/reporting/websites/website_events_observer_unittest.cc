@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Website events observer unit tests
+// summary: Unit tests for WebsiteEventsObserver using a mock metrics retriever and fake reporting settings to verify allowlisted URL event reporting.
+// ---
+
 #include "chrome/browser/chromeos/reporting/websites/website_events_observer.h"
 
 #include <memory>

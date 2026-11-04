@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP file access copy or move delegate factory unit tests
+// summary: Unit tests verifying initialization of the DLP copy-or-move delegate factory and creation of its hook delegates.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_file_access_copy_or_move_delegate_factory.h"
 
 #include "components/file_access/file_access_copy_or_move_delegate_factory.h"

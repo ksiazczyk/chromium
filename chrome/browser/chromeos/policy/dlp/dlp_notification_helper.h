@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP notification helper
+// summary: Declares helper functions that show notifications when DLP rules block printing, screen share, screen capture, or video capture.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_NOTIFICATION_HELPER_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_NOTIFICATION_HELPER_H_
 

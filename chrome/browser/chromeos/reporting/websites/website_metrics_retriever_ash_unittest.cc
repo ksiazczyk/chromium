@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash website metrics retriever unit tests
+// summary: Unit tests for WebsiteMetricsRetrieverAsh covering retrieval of initialized and uninitialized WebsiteMetrics components and callback chaining.
+// ---
+
 #include "chrome/browser/chromeos/reporting/websites/website_metrics_retriever_ash.h"
 
 #include <memory>

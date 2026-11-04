@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: DLP scoped file access delegate browser tests
+// summary: Browser tests verifying DLP file access enforcement for file chooser, file system access and navigation scenarios using a fake DLP client.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_scoped_file_access_delegate.h"
 
 #include <memory>

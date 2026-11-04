@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommentsServiceFactoryTest
+// summary: Instrumented tests verifying the factory returns the injected test service and creates a real service with data sharing enabled.
+// ---
+
 package org.chromium.chrome.browser.collaboration.comments;
 
 import static org.chromium.base.test.util.Batch.PER_CLASS;

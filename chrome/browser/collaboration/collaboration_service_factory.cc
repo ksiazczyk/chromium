@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollaborationServiceFactory implementation
+// summary: Implements the profile-keyed factory that builds the real collaboration service or an empty one depending on feature flags and incognito.
+// ---
+
 #include "chrome/browser/collaboration/collaboration_service_factory.h"
 
 #include <memory>

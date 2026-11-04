@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Messaging backend service factory header
+// summary: Declares MessagingBackendServiceFactory, which provides the per-profile collaboration messaging backend service and returns null for incognito and guest profiles.
+// ---
+
 #ifndef CHROME_BROWSER_COLLABORATION_MESSAGING_MESSAGING_BACKEND_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_COLLABORATION_MESSAGING_MESSAGING_BACKEND_SERVICE_FACTORY_H_
 

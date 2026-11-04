@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tablet mode
+summary: Restricts allowed includes for the tablet mode code, with extra rules for test files and the settings browsertest.

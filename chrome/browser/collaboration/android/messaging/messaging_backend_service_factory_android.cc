@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI glue for the messaging backend service factory
+// summary: Implements a JNI entry point that returns the messaging backend service bridge for a given profile on Android.
+// ---
+
 #include "chrome/browser/collaboration/messaging/messaging_backend_service_factory.h"
 
 #include "base/android/scoped_java_ref.h"

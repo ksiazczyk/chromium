@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client hints service factory implementation
+// summary: Implements the profile-keyed factory that builds the browser's ClientHints service with content settings and network quality dependencies.
+// ---
+
 #include "chrome/browser/client_hints/client_hints_factory.h"
 
 #include "chrome/browser/browser_process.h"

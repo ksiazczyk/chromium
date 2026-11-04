@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User reporting settings unit tests
+// summary: Unit tests verifying retrieval of boolean, integer and list reporting settings from a testing profile.
+// ---
+
 #include "chrome/browser/chromeos/reporting/user_reporting_settings.h"
 
 #include <memory>

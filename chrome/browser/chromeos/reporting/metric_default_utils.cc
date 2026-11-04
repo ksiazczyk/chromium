@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric default rate helpers
+// summary: Provides functions returning default telemetry collection and upload rates, switching to faster testing rates when the telemetry testing rates feature is enabled.
+// ---
+
 #include "chrome/browser/chromeos/reporting/metric_default_utils.h"
 
 #include "base/feature_list.h"
