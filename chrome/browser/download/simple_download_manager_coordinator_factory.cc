@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleDownloadManagerCoordinatorFactory implementation
+// summary: Implements the simple keyed service factory that builds a SimpleDownloadManagerCoordinator and routes download URL requests to the profile's download manager.
+// ---
+
 #include "chrome/browser/download/simple_download_manager_coordinator_factory.h"
 
 #include "base/no_destructor.h"

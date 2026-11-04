@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag download item helper header
+// summary: Declares DragDownloadItem, a helper for download views acting as a drag source for a completed download item.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DRAG_DOWNLOAD_ITEM_H_
 #define CHROME_BROWSER_DOWNLOAD_DRAG_DOWNLOAD_ITEM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadTargetDeterminer class declaration
+// summary: Declares DownloadTargetDeterminer, a self-owned observer that computes virtual, local, and intermediate paths for a download and its danger level.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_TARGET_DETERMINER_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_TARGET_DETERMINER_H_
 

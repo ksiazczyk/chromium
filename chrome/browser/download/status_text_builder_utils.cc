@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusTextBuilderUtils implementation
+// summary: Builds localized download bubble status messages combining byte sizes and detail text, with handling for right-to-left languages.
+// ---
+
 #include "chrome/browser/download/status_text_builder_utils.h"
 
 #include <string>

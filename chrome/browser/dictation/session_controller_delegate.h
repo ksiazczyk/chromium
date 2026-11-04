@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionControllerDelegate interface
+// summary: Defines the SessionControllerDelegate interface for creating stream providers and session UI and for ending the dictation session.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_SESSION_CONTROLLER_DELEGATE_H_
 #define CHROME_BROWSER_DICTATION_SESSION_CONTROLLER_DELEGATE_H_
 

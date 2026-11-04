@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadUiEnterpriseUtil implementation
+// summary: Implements DoesDownloadConnectorBlock, which reports whether enterprise cloud content analysis settings block downloads until a scanning verdict.
+// ---
+
 #include "chrome/browser/download/download_ui_enterprise_util.h"
 
 #include "components/enterprise/buildflags/buildflags.h"

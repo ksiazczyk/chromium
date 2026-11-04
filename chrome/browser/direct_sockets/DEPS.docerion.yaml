@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Direct Sockets include rules (DEPS)
+summary: Restricts includes for the direct_sockets directory, allowing only specific chrome/browser headers, test utilities, and chrome/test dependencies.

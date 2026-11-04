@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadCoreService static helpers
+// summary: Implements static methods that count downloads blocking shutdown and cancel all in-progress downloads across every loaded profile, including off-the-record profiles.
+// ---
+
 #include "chrome/browser/download/download_core_service.h"
 
 #include "chrome/browser/browser_process.h"

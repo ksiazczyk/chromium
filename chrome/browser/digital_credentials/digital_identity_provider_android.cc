@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android digital identity provider
+// summary: Implements the Android digital identity provider that bridges to Java via JNI to request and create digital credentials and show safety interstitials.
+// ---
+
 #include "chrome/browser/digital_credentials/digital_identity_provider_android.h"
 
 #include <jni.h>

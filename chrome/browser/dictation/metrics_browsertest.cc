@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation metrics browser tests
+// summary: Browser tests verifying that session and stream metrics are recorded correctly on session start and re-invocation across tabs and windows.
+// ---
+
 #include "chrome/browser/dictation/metrics.h"
 
 #include <vector>

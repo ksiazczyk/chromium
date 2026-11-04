@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for profile utilities registering the distiller viewer source
+// summary: Declares RegisterViewerSource, which sets up the URL data source for the distiller viewer for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_DOM_DISTILLER_PROFILE_UTILS_H_
 #define CHROME_BROWSER_DOM_DISTILLER_PROFILE_UTILS_H_
 

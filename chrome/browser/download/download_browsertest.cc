@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download browser tests
+// summary: Large suite of in-process browser tests exercising Chrome download behavior, including download initiation, danger handling, resumption, and download UI.
+// ---
+
 #include <stdint.h>
 
 #include <algorithm>

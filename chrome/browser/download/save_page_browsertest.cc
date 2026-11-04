@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save page browser tests
+// summary: Browser tests covering saving web pages in HTML, single-file, and complete formats, including download history and preference interactions.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

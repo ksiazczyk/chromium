@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionController header
+// summary: Declares SessionController, the coordinator between the stream provider and UI that manages profile-level dictation session state and transitions.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_SESSION_CONTROLLER_H_
 #define CHROME_BROWSER_DICTATION_SESSION_CONTROLLER_H_
 

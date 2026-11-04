@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemUtils implementation
+// summary: Implements conversions between download items and offline items, including MIME-type filters, namespace handling, and fail-state mapping.
+// ---
+
 #include "chrome/browser/download/offline_item_utils.h"
 
 #include "base/strings/string_util.h"

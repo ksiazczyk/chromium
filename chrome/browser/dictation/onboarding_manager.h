@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation onboarding manager header
+// summary: Declares OnboardingManager, which gates dictation sessions behind the first-run onboarding dialog and resumes them on completion.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_ONBOARDING_MANAGER_H_
 #define CHROME_BROWSER_DICTATION_ONBOARDING_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downgrade manager implementation
+// summary: Implements detection of version downgrades, User Data migration and cache moves, snapshot handling, and cleanup of moved-aside directories.
+// ---
+
 #include "chrome/browser/downgrade/downgrade_manager.h"
 
 #include <algorithm>

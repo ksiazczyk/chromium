@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotManager class header
+// summary: Declares the SnapshotManager class that saves snapshots of user data after upgrades and restores the appropriate one after a downgrade.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNGRADE_SNAPSHOT_MANAGER_H_
 #define CHROME_BROWSER_DOWNGRADE_SNAPSHOT_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadUiContextMenu unit tests
+// summary: Unit tests verifying the download context menu handles invalid downloads without crashing and records enabled command histograms correctly.
+// ---
+
 #include "chrome/browser/download/download_ui_context_menu.h"
 
 #include "base/test/metrics/histogram_tester.h"

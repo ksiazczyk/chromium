@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedSourcesManager implementation
+// summary: Implements TrustedSourcesManager by reading the trusted download sources command line switch and matching URLs against it.
+// ---
+
 #include "chrome/browser/download/trusted_sources_manager.h"
 
 #include "base/command_line.h"

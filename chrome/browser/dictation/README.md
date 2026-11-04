@@ -1,3 +1,13 @@
+---
+type: readme
+title: Dictation
+summary: Documents dictation concepts such as session, stream, target and commit, plus the implementation architecture and key files.
+relations:
+  - documents /chrome/browser/dictation/dictation_keyed_service.h
+  - documents /chrome/browser/dictation/session_controller.h
+  - documents /chrome/browser/dictation/session_ui_impl.h
+---
+
 # Dictation
 
 (Googlers only for now): https://docs.google.com/document/d/1Zri5oR3P3D5LOq9Gjs4AeHFrMMOX7bTtctxT6KrGeSQ/edit?usp=sharing

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User data downgrade logic
+// summary: Provides last-version detection, snapshot discovery and selection, and per-profile snapshot data removal for browser downgrades.
+// ---
+
 #include "chrome/browser/downgrade/user_data_downgrade.h"
 
 #include <string>

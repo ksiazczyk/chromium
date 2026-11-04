@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability service factory header
+// summary: Declares the service delegate interface, ShouldCreateService, and the Chrome upload reporter string used by the network context service.
+// ---
+
 #ifndef CHROME_BROWSER_DOMAIN_RELIABILITY_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_DOMAIN_RELIABILITY_SERVICE_FACTORY_H_
 

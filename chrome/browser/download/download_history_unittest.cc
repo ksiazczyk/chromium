@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download history unit tests
+// summary: Unit tests for DownloadHistory covering persistence of download items to the history database using a fake history adapter and mock download managers.
+// ---
+
 #include "chrome/browser/download/download_history.h"
 
 #include <stddef.h>

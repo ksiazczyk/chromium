@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download preferences unit tests
+// summary: Unit tests for DownloadPrefs verifying preference registration, auto-open restrictions, dangerous default paths, and ChromeOS-specific behavior.
+// ---
+
 #include "chrome/browser/download/download_prefs.h"
 
 #include "base/files/file_path.h"

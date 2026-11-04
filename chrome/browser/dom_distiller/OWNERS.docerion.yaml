@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for the dom_distiller directory
+summary: Delegates code ownership for this directory to the components/dom_distiller OWNERS file.

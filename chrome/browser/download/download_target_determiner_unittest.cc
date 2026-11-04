@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadTargetDeterminer unit tests
+// summary: Unit tests for DownloadTargetDeterminer covering target path determination, danger types, policy and supervised-user handling, and platform-specific behavior.
+// ---
+
 #include "chrome/browser/download/download_target_determiner.h"
 
 #include <stddef.h>

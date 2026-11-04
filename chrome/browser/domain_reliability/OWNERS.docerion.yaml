@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Domain Reliability directory owners
+summary: Delegates code review ownership to the OWNERS file of components/domain_reliability.

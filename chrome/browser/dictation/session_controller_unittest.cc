@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionController unit tests
+// summary: Unit tests for SessionController covering session state transitions, stream start and end triggers, focus changes, and auto session end timing.
+// ---
+
 #include "chrome/browser/dictation/session_controller.h"
 
 #include <vector>

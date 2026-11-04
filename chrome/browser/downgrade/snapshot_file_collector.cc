@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapshot item collection
+// summary: Builds lists of user data and profile items, such as preferences, history, bookmarks, and avatars, to include in version snapshots.
+// ---
+
 #include "chrome/browser/downgrade/snapshot_file_collector.h"
 
 #include <utility>

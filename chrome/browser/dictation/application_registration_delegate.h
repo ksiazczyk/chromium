@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application registration delegate declaration
+// summary: Declares the registration delegate that creates application-wide scoped hotkey registrations for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_APPLICATION_REGISTRATION_DELEGATE_H_
 #define CHROME_BROWSER_DICTATION_APPLICATION_REGISTRATION_DELEGATE_H_
 

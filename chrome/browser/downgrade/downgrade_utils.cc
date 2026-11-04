@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downgrade file move utilities
+// summary: Implements helpers to move files and directory contents aside for later deletion when handling browser version downgrades.
+// ---
+
 #include "chrome/browser/downgrade/downgrade_utils.h"
 
 #include "base/files/file_enumerator.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline item download UI model header
+// summary: Declares OfflineItemModel, a DownloadUIModel wrapper around an OfflineItem with status text builder support and download action overrides.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_OFFLINE_ITEM_MODEL_H_
 #define CHROME_BROWSER_DOWNLOAD_OFFLINE_ITEM_MODEL_H_
 

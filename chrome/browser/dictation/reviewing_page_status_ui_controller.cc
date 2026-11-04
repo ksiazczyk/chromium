@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reviewing page status UI controller implementation
+// summary: Implements per-page cooldown logic for showing the 'Reviewing page' disclaimer during dictation sessions.
+// ---
+
 #include "chrome/browser/dictation/reviewing_page_status_ui_controller.h"
 
 #include "components/tabs/public/tab_interface.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bindings for the DOM distiller service factory
+// summary: Exposes the DOM distiller service factory to Java through JNI so Android code can obtain the service for a profile.
+// ---
+
 #include "chrome/browser/dom_distiller/dom_distiller_service_factory_android.h"
 
 #include "base/android/jni_android.h"

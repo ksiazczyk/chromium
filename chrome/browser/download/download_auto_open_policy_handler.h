@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download auto-open policy handler header
+// summary: Declares the DownloadAutoOpenPolicyHandler class that validates the AutoOpenFileTypes policy and maps it to download preferences.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_AUTO_OPEN_POLICY_HANDLER_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_AUTO_OPEN_POLICY_HANDLER_H_
 

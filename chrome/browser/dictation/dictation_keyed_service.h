@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DictationKeyedService class
+// summary: Declares the per-profile keyed service responsible for dictation session lifetime and creation of concrete dictation objects.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_DICTATION_KEYED_SERVICE_H_
 #define CHROME_BROWSER_DICTATION_DICTATION_KEYED_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downgrade manager delegate implementation
+// summary: Implements the delegate using local state prefs, enterprise device checks, and the DM token to decide snapshot behavior and collect snapshot items.
+// ---
+
 #include "chrome/browser/downgrade/downgrade_manager_delegate_impl.h"
 
 #include "base/enterprise_util.h"

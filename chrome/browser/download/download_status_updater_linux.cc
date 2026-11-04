@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadStatusUpdater Linux implementation
+// summary: Implements the Linux platform hook that reports download count and progress to the Unity launcher API, loading libunity dynamically.
+// ---
+
 #include "chrome/browser/download/download_status_updater.h"
 
 #include <dlfcn.h>

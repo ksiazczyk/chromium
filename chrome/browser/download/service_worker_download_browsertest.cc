@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker download browser tests
+// summary: Browser tests verifying downloads served through service worker responses, including fallback, cancellation, resume, and parallel download scenarios.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

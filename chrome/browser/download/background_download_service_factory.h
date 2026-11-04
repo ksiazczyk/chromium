@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background download service factory header
+// summary: Declares the SimpleKeyedServiceFactory that provides the BackgroundDownloadService associated with a given SimpleFactoryKey.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_BACKGROUND_DOWNLOAD_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_DOWNLOAD_BACKGROUND_DOWNLOAD_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download UI model header
+// summary: Declares DownloadUIModel, an abstraction for common UI tasks and properties of a download, including tailored warning types and status text builders.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_UI_MODEL_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_UI_MODEL_H_
 

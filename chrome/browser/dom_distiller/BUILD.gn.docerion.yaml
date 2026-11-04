@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the dom_distiller browser code
+summary: Defines source sets, dependencies and browser test targets for the DOM distiller browser code, including Android-specific sources.

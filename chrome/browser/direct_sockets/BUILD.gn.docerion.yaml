@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Direct Sockets build targets (BUILD.gn)
+summary: Defines GN source sets for the Direct Sockets delegate interface, its Chrome implementation, and the browser test target with their dependencies.

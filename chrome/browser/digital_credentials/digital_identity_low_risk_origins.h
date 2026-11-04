@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low risk origin check declarations
+// summary: Declares helpers that report whether the last committed origin is low risk so the digital credential interstitial can be skipped.
+// ---
+
 #ifndef CHROME_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_LOW_RISK_ORIGINS_H_
 #define CHROME_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_LOW_RISK_ORIGINS_H_
 

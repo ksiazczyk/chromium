@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Domain Reliability include rules
+summary: Restricts includes in the domain_reliability directory and grants extra dependencies to browsertest.cc for testing.

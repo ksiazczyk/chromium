@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download danger prompt interface
+// summary: Declares the native UI prompt for keeping dangerous downloads from the extensions API, with accept, cancel, and dismiss actions and a warning event recorder.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_DANGER_PROMPT_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_DANGER_PROMPT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation context browser tests
+// summary: Browser tests verifying how dictation captures page context, including page eligibility mocking and APC capture.
+// ---
+
 #include "chrome/browser/dictation/dictation_context.h"
 
 #include <optional>

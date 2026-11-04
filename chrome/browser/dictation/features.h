@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation feature flag declarations
+// summary: Declares the dictation feature flag and its field trial parameters, documenting the effect of each option.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_FEATURES_H_
 #define CHROME_BROWSER_DICTATION_FEATURES_H_
 

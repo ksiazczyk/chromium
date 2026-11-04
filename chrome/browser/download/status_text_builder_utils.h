@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusTextBuilderUtils header
+// summary: Declares static helpers that format download bubble status strings such as progress sizes and completed total size.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_STATUS_TEXT_BUILDER_UTILS_H_
 #define CHROME_BROWSER_DOWNLOAD_STATUS_TEXT_BUILDER_UTILS_H_
 

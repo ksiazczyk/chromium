@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadItemWarningData implementation
+// summary: Implements per-download storage of warning surface and action events, logging outcomes to histograms for use in Safe Browsing reports.
+// ---
+
 #include "chrome/browser/download/download_item_warning_data.h"
 
 #include <functional>

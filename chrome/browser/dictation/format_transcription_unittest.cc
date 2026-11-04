@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transcription formatting unit tests
+// summary: Unit tests covering whitespace decisions and trailing-period trimming for dictation transcription formatting, including punctuation, prefix symbols, and CJK script cases.
+// ---
+
 #include "chrome/browser/dictation/format_transcription.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionState enum definition
+// summary: Defines the SessionState enum describing dictation session phases from inactive through initializing, transcribing, and finalizing.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_SESSION_STATE_H_
 #define CHROME_BROWSER_DICTATION_SESSION_STATE_H_
 

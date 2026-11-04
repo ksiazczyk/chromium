@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome download manager delegate implementation
+// summary: Implements Chrome's download manager delegate, covering target determination, danger and policy checks, file pickers and download completion.
+// ---
+
 #include "chrome/browser/download/chrome_download_manager_delegate.h"
 
 #include <algorithm>

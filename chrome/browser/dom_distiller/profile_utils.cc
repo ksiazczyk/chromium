@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile utilities registering the DOM distiller viewer source
+// summary: Implements RegisterViewerSource, which adds the DOM distiller viewer data source to a profile and sets the distiller JavaScript world ID when the feature is enabled.
+// ---
+
 #include "chrome/browser/dom_distiller/profile_utils.h"
 
 #include <memory>

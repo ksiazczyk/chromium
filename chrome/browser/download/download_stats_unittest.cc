@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download stats unit tests
+// summary: Unit tests for download stats recording functions, verifying histogram and user action logging for prompt status, warnings, cancels, and opens.
+// ---
+
 #include "chrome/browser/download/download_stats.h"
 
 #include "base/test/metrics/histogram_tester.h"

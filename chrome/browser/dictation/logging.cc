@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation logging implementation
+// summary: Implements a log buffer that periodically flushes browser dictation log entries to the dictation extension via the onBrowserLog event.
+// ---
+
 #include "chrome/browser/dictation/logging.h"
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download danger prompt implementation
+// summary: Records download warning actions from the danger prompt into DownloadItemWarningData so they are consumed by Safe Browsing reports.
+// ---
+
 #include "chrome/browser/download/download_danger_prompt.h"
 
 #include "chrome/browser/download/download_item_warning_data.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test distillation observers declaration
+// summary: Declares navigation observer helpers that block tests until a page or a distilled reader page has finished loading.
+// ---
+
 #ifndef CHROME_BROWSER_DOM_DISTILLER_TEST_DISTILLATION_OBSERVERS_H_
 #define CHROME_BROWSER_DOM_DISTILLER_TEST_DISTILLATION_OBSERVERS_H_
 

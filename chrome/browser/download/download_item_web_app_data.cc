@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadItemWebAppData implementation
+// summary: Implements per-download user data that attaches the initiating web app's ID to a DownloadItem.
+// ---
+
 #include "chrome/browser/download/download_item_web_app_data.h"
 
 #include "base/memory/ptr_util.h"

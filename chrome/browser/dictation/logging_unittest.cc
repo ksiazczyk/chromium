@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation logging unit tests
+// summary: Unit tests verifying that dictation log messages are buffered and flushed as batched events via the extension event router.
+// ---
+
 #include "chrome/browser/dictation/logging.h"
 
 #include <memory>

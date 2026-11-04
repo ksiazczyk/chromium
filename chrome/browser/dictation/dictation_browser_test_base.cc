@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation browser test base implementation
+// summary: Implements shared setup for dictation browser tests, including a fake global accelerator listener and test extension loading.
+// ---
+
 #include "chrome/browser/dictation/dictation_browser_test_base.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deferred client wrapper unit tests
+// summary: Unit test verifying that DeferredClientWrapper is reentrant and does not crash when download client calls are made while handling another client callback.
+// ---
+
 #include "chrome/browser/download/deferred_client_wrapper.h"
 
 #include <memory>

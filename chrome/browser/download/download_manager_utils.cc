@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadManagerUtils implementation
+// summary: Implements helpers that create and retrieve InProgressDownloadManager instances per profile and initialize the SimpleDownloadManager.
+// ---
+
 #include "chrome/browser/download/download_manager_utils.h"
 
 #include <utility>

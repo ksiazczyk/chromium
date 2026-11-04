@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target class declaration
+// summary: Declares Target and TargetDetails, representing the dictation target element and sequencing composition and commit operations.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_TARGET_H_
 #define CHROME_BROWSER_DICTATION_TARGET_H_
 

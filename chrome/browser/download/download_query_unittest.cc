@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadQuery unit tests
+// summary: Unit tests for DownloadQuery covering filters, sorters, limits, and query matching using mock download items.
+// ---
+
 #include "chrome/browser/download/download_query.h"
 
 #include <stddef.h>

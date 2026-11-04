@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download file icon extractor interface
+// summary: Declares DownloadFileIconExtractor, a helper interface for extracting icon URLs for download file paths, used by the downloads API.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_FILE_ICON_EXTRACTOR_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_FILE_ICON_EXTRACTOR_H_
 

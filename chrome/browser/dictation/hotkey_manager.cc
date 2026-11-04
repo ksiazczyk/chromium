@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation hotkey manager implementation
+// summary: Implements HotkeyManager, which reads the voice typing hotkey from preferences and registers it, adding an OS-wide registration while dictation is listening.
+// ---
+
 #include "chrome/browser/dictation/hotkey_manager.h"
 
 #include <string>

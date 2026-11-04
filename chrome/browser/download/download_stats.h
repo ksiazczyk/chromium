@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download stats enums and declarations
+// summary: Declares enums and recording functions for download UMA metrics such as sources, open methods, path generation events, and cancel reasons.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_STATS_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_STATS_H_
 

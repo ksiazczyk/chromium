@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadConfirmationReason enum
+// summary: Defines reasons the download target determiner requests extra user confirmation, such as save-as, preference, name length, target conflicts, disk space, and DLP blocking.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_CONFIRMATION_REASON_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_CONFIRMATION_REASON_H_
 

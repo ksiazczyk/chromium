@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download commands implementation
+// summary: Implements download UI commands such as show in folder, pause, resume, keep or discard, and copying a downloaded image to the clipboard.
+// ---
+
 #include "chrome/browser/download/download_commands.h"
 
 #include <stdint.h>

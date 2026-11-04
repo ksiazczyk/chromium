@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation onboarding browser tests
+// summary: Interactive browser tests verifying the onboarding dialog flow, the completed-onboarding pref, and first-run exit status metrics.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/dictation/dictation_interactive_browser_test_base.h"
 #include "chrome/browser/dictation/dictation_keyed_service.h"

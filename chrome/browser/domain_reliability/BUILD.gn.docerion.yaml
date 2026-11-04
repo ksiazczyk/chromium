@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Domain Reliability build targets
+summary: Defines GN source sets for the Domain Reliability service factory and a non-Android browser test target with its dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of drag_download_item_mac.mm.
+type: source
+title: Mac implementation of download item dragging
+summary: Implements DragDownloadItem on macOS, starting a native file drag for a completed download with its icon through the Cocoa native widget host.

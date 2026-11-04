@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation test utilities implementation
+// summary: Implements shared helpers for dictation tests, including enabling feature lists, loading a manual-mode test extension, and simulating extension transcript and stream API calls.
+// ---
+
 #include "chrome/browser/dictation/test_util.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connector component extension declaration
+// summary: Declares the class that manages installation of the Dictation Connector component extension and tracks pending state.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_CONNECTOR_COMPONENT_EXTENSION_H_
 #define CHROME_BROWSER_DICTATION_CONNECTOR_COMPONENT_EXTENSION_H_
 

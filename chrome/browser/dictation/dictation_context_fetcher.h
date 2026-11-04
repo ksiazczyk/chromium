@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DictationContextFetcher class
+// summary: Declares the fetcher that retrieves page context for a dictation target and returns it through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_DICTATION_CONTEXT_FETCHER_H_
 #define CHROME_BROWSER_DICTATION_DICTATION_CONTEXT_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamProvider interface and stream enums
+// summary: Defines the StreamProvider interface for dictation streams plus enums for stream end triggers, error reasons, and stream states.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_STREAM_PROVIDER_H_
 #define CHROME_BROWSER_DICTATION_STREAM_PROVIDER_H_
 

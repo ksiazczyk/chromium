@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DictationContext struct
+// summary: Defines a struct holding web page context such as annotated page content, inner text and editable content for the speech recognizer.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_DICTATION_CONTEXT_H_
 #define CHROME_BROWSER_DICTATION_DICTATION_CONTEXT_H_
 

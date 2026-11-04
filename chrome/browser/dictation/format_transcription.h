@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transcription formatting API
+// summary: Declares functions for deciding whitespace between transcription text, trimming trailing periods, and formatting transcriptions for insertion into a target element.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_FORMAT_TRANSCRIPTION_H_
 #define CHROME_BROWSER_DICTATION_FORMAT_TRANSCRIPTION_H_
 

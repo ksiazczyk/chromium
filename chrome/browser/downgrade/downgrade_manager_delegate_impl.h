@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downgrade manager delegate implementation header
+// summary: Declares DowngradeManagerDelegateImpl, the production delegate that answers snapshot configuration queries for the downgrade manager.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNGRADE_DOWNGRADE_MANAGER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_DOWNGRADE_DOWNGRADE_MANAGER_DELEGATE_IMPL_H_
 

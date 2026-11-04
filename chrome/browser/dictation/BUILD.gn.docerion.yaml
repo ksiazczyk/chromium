@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Dictation GN build targets
+summary: Defines GN source sets for the dictation feature, including features, metrics, core implementation, test support and unit tests.

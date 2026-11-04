@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Download target build configuration (BUILD.gn)
+summary: Defines GN build rules, public headers and dependencies for the Chrome download browser target, including Android-specific sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop digital identity provider implementation
+// summary: Implements the desktop DigitalIdentityProvider using the FIDO hybrid cross-device flow, including QR code dialogs, caBLE event handling, and Bluetooth prompts.
+// ---
+
 #include "chrome/browser/digital_credentials/digital_identity_provider_desktop.h"
 
 #include <memory>

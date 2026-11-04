@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session UI browser tests
+// summary: Browser tests for the dictation session UI, covering state observation, tab closing, and moving tabs between windows during a session.
+// ---
+
 #include "chrome/browser/dictation/session_ui_impl.h"
 
 #include "base/memory/weak_ptr.h"

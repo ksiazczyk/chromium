@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download core service implementation header
+// summary: Declares DownloadCoreServiceImpl, the per-profile DownloadCoreService that owns the download manager delegate, download history, UI controller, and extension downloads event router.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_CORE_SERVICE_IMPL_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_CORE_SERVICE_IMPL_H_
 

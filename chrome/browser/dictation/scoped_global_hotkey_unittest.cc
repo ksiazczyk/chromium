@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedGlobalHotkey unit tests
+// summary: Unit tests for ScopedGlobalHotkey covering registration, callback dispatch, destruction races, and failure cases such as null or taken accelerators.
+// ---
+
 #include "chrome/browser/dictation/scoped_global_hotkey.h"
 
 #include <memory>

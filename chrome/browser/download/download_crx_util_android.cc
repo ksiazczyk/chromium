@@ -4,6 +4,12 @@
 //
 // Download code which handles CRX files (extensions, themes, apps, ...).
 
+// ---docerion
+// type: source
+// title: Android CRX download utilities
+// summary: Android build of the CRX download utilities that returns the safe default for trusted extension downloads because extensions are unsupported on non-desktop Android.
+// ---
+
 #include "chrome/browser/download/download_crx_util.h"
 
 #include "extensions/buildflags/buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downgrade manager delegate interface
+// summary: Declares the delegate interface supplying snapshot limits, enablement, disk cache directory, and the items to snapshot for user data and profiles.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNGRADE_DOWNGRADE_MANAGER_DELEGATE_H_
 #define CHROME_BROWSER_DOWNGRADE_DOWNGRADE_MANAGER_DELEGATE_H_
 

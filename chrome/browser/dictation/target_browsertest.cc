@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Target browser tests
+// summary: Browser tests verifying that dictation transcriptions are inserted correctly into editable inputs, including mid-text insertion and selection replacement.
+// ---
+
 #include "chrome/browser/dictation/target.h"
 
 #include <string>

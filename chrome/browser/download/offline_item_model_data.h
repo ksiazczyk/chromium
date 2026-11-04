@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-item state for OfflineItemModel
+// summary: Defines the OfflineItemModelData struct that stores UI notification and actioned-on flags for each offline item.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_OFFLINE_ITEM_MODEL_DATA_H_
 #define CHROME_BROWSER_DOWNLOAD_OFFLINE_ITEM_MODEL_DATA_H_
 

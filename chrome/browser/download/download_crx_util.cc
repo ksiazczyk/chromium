@@ -4,6 +4,12 @@
 //
 // Download code which handles CRX files (extensions, themes, apps, ...).
 
+// ---docerion
+// type: source
+// title: CRX download utilities implementation
+// summary: Implements download handling for CRX files, creating extension install prompts and CrxInstaller instances and checking whether offstore extension installs are allowed by prefs.
+// ---
+
 #include "chrome/browser/download/download_crx_util.h"
 
 #include <memory>

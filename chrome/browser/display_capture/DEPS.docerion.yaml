@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for display_capture
+summary: Restricts includes in the directory to display_capture, permissions, content settings, content/public/browser, and network mojom headers.

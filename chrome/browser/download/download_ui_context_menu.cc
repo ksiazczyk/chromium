@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadUiContextMenu implementation
+// summary: Builds the download UI context menu model based on download state such as in progress, interrupted, malicious, deep scanning or insecure, and records enabled commands.
+// ---
+
 #include "chrome/browser/download/download_ui_context_menu.h"
 
 #include <memory>

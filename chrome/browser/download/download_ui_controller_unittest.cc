@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadUiController unit tests
+// summary: Unit tests for DownloadUIController using mock download managers, test delegates and a custom download core service to verify new download notifications.
+// ---
+
 #include "chrome/browser/download/download_ui_controller.h"
 
 #include <memory>

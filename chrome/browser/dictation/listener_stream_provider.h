@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Listener stream provider interface
+// summary: Declares ListenerStreamProvider, a StreamProvider that listens to dictation input via the dictation private extension API and manages stream state and targets.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_LISTENER_STREAM_PROVIDER_H_
 #define CHROME_BROWSER_DICTATION_LISTENER_STREAM_PROVIDER_H_
 

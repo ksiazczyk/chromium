@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download metrics recording implementation
+// summary: Implements UMA and user-action recording functions for download sources, warnings, opens, path generation, validation, and cancel reasons.
+// ---
+
 #include "chrome/browser/download/download_stats.h"
 
 #include "base/metrics/histogram_functions.h"

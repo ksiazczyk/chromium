@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download auto-open policy handler implementation
+// summary: Validates the AutoOpenFileTypes policy, reporting errors for malformed extensions and applying valid ones to the download auto-open preference.
+// ---
+
 #include "chrome/browser/download/download_auto_open_policy_handler.h"
 
 #include "build/build_config.h"

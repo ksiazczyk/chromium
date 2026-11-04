@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadTestFileActivityObserver header
+// summary: Declares DownloadTestFileActivityObserver, which overrides file chooser dialog and open activity for a profile by replacing its download manager delegate in tests.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_TEST_FILE_ACTIVITY_OBSERVER_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_TEST_FILE_ACTIVITY_OBSERVER_H_
 

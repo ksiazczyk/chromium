@@ -27,6 +27,12 @@
 // Shutdown(), which is called by DownloadManagerImpl::Shutdown() after all
 // DownloadItems are destroyed.
 
+// ---docerion
+// type: source
+// title: Download history
+// summary: Persists download items to the history service by observing the download manager and adding, updating, and removing download rows in the database.
+// ---
+
 #include "chrome/browser/download/download_history.h"
 
 #include <algorithm>

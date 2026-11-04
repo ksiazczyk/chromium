@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadRequestLimiter implementation
+// summary: Implements DownloadRequestLimiter, which decides whether downloads are allowed per tab and prompts users before multiple automatic downloads.
+// ---
+
 #include "chrome/browser/download/download_request_limiter.h"
 
 #include <iterator>

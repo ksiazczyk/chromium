@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab distillation utilities implementation
+// summary: Implements helpers that start distillation of a tab's contents, navigate to the viewer, and run readability heuristics on WebContents.
+// ---
+
 #include "chrome/browser/dom_distiller/tab_utils.h"
 
 #include <optional>

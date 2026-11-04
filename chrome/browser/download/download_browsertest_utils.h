@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download browser test utilities header
+// summary: Declares shared helpers and classes for download browser tests, such as DownloadTestObserverResumable, DownloadTestObserverNotInProgress, and DownloadTestBase.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_BROWSERTEST_UTILS_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_BROWSERTEST_UTILS_H_
 

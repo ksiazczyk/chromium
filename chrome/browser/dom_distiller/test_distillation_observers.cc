@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test distillation observers implementation
+// summary: Implements test navigation observers that wait for original and distilled pages to finish loading during browser tests.
+// ---
+
 #include "chrome/browser/dom_distiller/test_distillation_observers.h"
 
 #include "components/dom_distiller/core/url_constants.h"

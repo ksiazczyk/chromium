@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Target unit tests
+// summary: Unit tests for Target's composition, commit, and paste sequencing logic using a test double that records sent text and callbacks.
+// ---
+
 #include "chrome/browser/dictation/target.h"
 
 #include <string>

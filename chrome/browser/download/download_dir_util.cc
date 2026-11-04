@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download directory utilities
+// summary: Implements helpers for expanding download directory policy variables, including Google Drive and OneDrive path expansion on ChromeOS.
+// ---
+
 #include "chrome/browser/download/download_dir_util.h"
 
 #include "base/files/file_path.h"

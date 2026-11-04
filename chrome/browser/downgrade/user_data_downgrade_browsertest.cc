@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User data downgrade browser tests
+// summary: Browser tests verifying that user data is moved and deleted correctly when Chrome is downgraded and relaunched.
+// ---
+
 #include "chrome/browser/downgrade/user_data_downgrade.h"
 
 #include <memory>

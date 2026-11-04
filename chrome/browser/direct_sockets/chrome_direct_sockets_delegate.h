@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome direct sockets delegate header
+// summary: Declares ChromeDirectSocketsDelegate, the Chrome implementation of the content DirectSocketsDelegate interface for validating direct socket requests.
+// ---
+
 #ifndef CHROME_BROWSER_DIRECT_SOCKETS_CHROME_DIRECT_SOCKETS_DELEGATE_H_
 #define CHROME_BROWSER_DIRECT_SOCKETS_CHROME_DIRECT_SOCKETS_DELEGATE_H_
 

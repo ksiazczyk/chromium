@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deferred client wrapper header
+// summary: Declares the DeferredClientWrapper class, which buffers download::Client callbacks and inflates the wrapped client once a profile is available.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DEFERRED_CLIENT_WRAPPER_H_
 #define CHROME_BROWSER_DOWNLOAD_DEFERRED_CLIENT_WRAPPER_H_
 

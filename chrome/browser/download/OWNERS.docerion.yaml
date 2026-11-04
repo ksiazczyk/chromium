@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the download directory
+summary: Lists code owners for the download directory, including per-file owner rules for UI, enterprise and insecure download blocking files.

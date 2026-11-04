@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Direct Sockets API browser tests
+// summary: Browser tests covering the Direct Sockets API for TCP and UDP usage across regular pages, isolated web apps, and Chrome extensions.
+// ---
+
 #include <string>
 #include <string_view>
 #include <type_traits>

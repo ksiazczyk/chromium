@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default download directory policy handler header
+// summary: Declares the configuration policy handler that checks and applies the DefaultDownloadDirectory policy.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DEFAULT_DOWNLOAD_DIR_POLICY_HANDLER_H_
 #define CHROME_BROWSER_DOWNLOAD_DEFAULT_DOWNLOAD_DIR_POLICY_HANDLER_H_
 

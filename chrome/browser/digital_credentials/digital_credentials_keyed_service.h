@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital credentials keyed service declaration
+// summary: Declares DigitalCredentialsKeyedService and its profile factory, which handle Digital Credentials API initialization and low-friction URL checks.
+// ---
+
 #ifndef CHROME_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_CREDENTIALS_KEYED_SERVICE_H_
 #define CHROME_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_CREDENTIALS_KEYED_SERVICE_H_
 

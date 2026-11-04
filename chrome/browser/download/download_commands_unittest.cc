@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadCommands unit tests
+// summary: Unit tests for DownloadCommands that verify command enabled and checked states for in-progress, finished, paused, and resumable mock download items.
+// ---
+
 #include "chrome/browser/download/download_commands.h"
 
 #include <vector>

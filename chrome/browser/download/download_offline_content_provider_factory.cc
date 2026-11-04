@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download offline content provider factory implementation
+// summary: Implements the keyed service factory that creates DownloadOfflineContentProvider instances per profile key and registers them with the offline content aggregator.
+// ---
+
 #include "chrome/browser/download/download_offline_content_provider_factory.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadItemModel unit tests
+// summary: Unit tests for DownloadItemModel covering status text, interrupt reasons, danger levels, and warning behavior using mock download items.
+// ---
+
 #include "chrome/browser/download/download_item_model.h"
 
 #include <stddef.h>

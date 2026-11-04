@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Downgrade directory include rules
+summary: DEPS file restricting includes for the downgrade directory and granting per-file exceptions for the delegate, collector, and test sources.

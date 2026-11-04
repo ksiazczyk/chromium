@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital identity interstitial closed reason enum
+// summary: Defines the enum of reasons why the digital identity interstitial dialog was closed, with values recorded in metrics and mirrored to Java.
+// ---
+
 #ifndef CHROME_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_INTERSTITIAL_CLOSED_REASON_H_
 #define CHROME_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_INTERSTITIAL_CLOSED_REASON_H_
 

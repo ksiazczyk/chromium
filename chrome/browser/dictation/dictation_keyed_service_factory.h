@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation keyed service factory declaration
+// summary: Declares the profile-keyed service factory that provides access to the per-profile dictation service instance.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_DICTATION_KEYED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_DICTATION_DICTATION_KEYED_SERVICE_FACTORY_H_
 

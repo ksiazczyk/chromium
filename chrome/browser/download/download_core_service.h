@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadCoreService interface
+// summary: Abstract KeyedService exposing the download manager delegate, UI controller, download history, extension event router, and shutdown-blocking counts per profile.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_CORE_SERVICE_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_CORE_SERVICE_H_
 

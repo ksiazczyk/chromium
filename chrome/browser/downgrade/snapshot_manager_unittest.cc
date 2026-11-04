@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snapshot manager unit tests
+// summary: Unit tests covering snapshot creation, restoration, purging, and per-profile snapshot data deletion using temporary folder structures.
+// ---
+
 #include "chrome/browser/downgrade/snapshot_manager.h"
 
 #include <ranges>

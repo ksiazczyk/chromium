@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download UI Safe Browsing utilities header
+// summary: Declares utilities for displaying downloads in the desktop UI based on Safe Browsing state and verdicts, plus Android malicious APK download warning helpers.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_UI_SAFE_BROWSING_UTIL_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_UI_SAFE_BROWSING_UTIL_H_
 

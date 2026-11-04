@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionUi interface
+// summary: Declares the SessionUi interface for browser-level dictation UI, covering errors, stop events, audio level updates, and stream starts.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_SESSION_UI_H_
 #define CHROME_BROWSER_DICTATION_SESSION_UI_H_
 
