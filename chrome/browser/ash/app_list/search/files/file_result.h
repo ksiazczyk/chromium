@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File result header
+// summary: Declares FileResult, the launcher search result class for files and directories shared by the four file search providers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_FILES_FILE_RESULT_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_FILES_FILE_RESULT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Burn-in controller class declaration
+// summary: Declares BurnInController, which manages the burn-in period before publishing search results and records burn-in iteration numbers for sorting.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_BURN_IN_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_BURN_IN_CONTROLLER_H_
 

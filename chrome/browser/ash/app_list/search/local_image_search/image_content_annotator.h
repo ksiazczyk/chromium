@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image content annotator class declaration
+// summary: Declares the ImageContentAnnotator class that binds to the machine learning service and annotates encoded images via the ICA DLC.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_IMAGE_CONTENT_ANNOTATOR_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_IMAGE_CONTENT_ANNOTATOR_H_
 

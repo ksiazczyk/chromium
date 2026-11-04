@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app shortcuts search provider implementation
+// summary: Implements the search provider that queries the ARC app instance for global app shortcut items and converts them into launcher search results.
+// ---
+
 #include "chrome/browser/ash/app_list/search/arc/arc_app_shortcuts_search_provider.h"
 
 #include <memory>

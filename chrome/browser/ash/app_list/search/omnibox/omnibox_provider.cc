@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxProvider implementation
+// summary: Implements OmniboxProvider, which drives the AutocompleteController to produce omnibox results for the ChromeOS app list search.
+// ---
+
 #include "chrome/browser/ash/app_list/search/omnibox/omnibox_provider.h"
 
 #include <iterator>

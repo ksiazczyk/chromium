@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTRL ranker implementation
+// summary: Implements the FTRL ranker that combines expert ranker scores via the FTRL optimizer, plus the ResultScoringShim expert.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/ftrl_ranker.h"
 
 #include "chrome/browser/ash/app_list/search/chrome_search_result.h"

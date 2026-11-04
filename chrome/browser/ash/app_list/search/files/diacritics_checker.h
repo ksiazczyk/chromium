@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diacritics checker header
+// summary: Declares HasDiacritics, a helper that reports whether UTF-16 text contains accented letters.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_FILES_DIACRITICS_CHECKER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_FILES_DIACRITICS_CHECKER_H_
 

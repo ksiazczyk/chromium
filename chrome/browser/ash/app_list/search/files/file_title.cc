@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File title helper implementation
+// summary: Implements GetFileTitle, which strips Google hosted file extensions such as .GDOC and .GSHEET from a file name to produce a display title.
+// ---
+
 #include "chrome/browser/ash/app_list/search/files/file_title.h"
 
 #include <string>

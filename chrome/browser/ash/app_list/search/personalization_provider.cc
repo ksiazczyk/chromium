@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization search provider
+// summary: Implements the launcher search provider that returns results from the ChromeOS personalization app for typed queries.
+// ---
+
 #include "chrome/browser/ash/app_list/search/personalization_provider.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Essential search manager unit tests
+// summary: Unit tests that verify SOCS cookie insertion into and deletion from the user profile using testing profiles and identity test environments.
+// ---
+
 #include "chrome/browser/ash/app_list/search/essential_search/essential_search_manager.h"
 
 #include "ash/constants/ash_pref_names.h"

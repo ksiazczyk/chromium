@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Removed results ranker implementation
+// summary: Implements a launcher ranker that filters results previously marked for removal, persisting removed IDs to disk and delegating file suggestion removals to the file suggest service.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/removed_results_ranker.h"
 
 #include "base/metrics/histogram_functions.h"

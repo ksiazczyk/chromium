@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU answer result implementation
+// summary: Implements the CPU answer card result, refreshing CPU usage details every second via a repeating timer and provider callbacks.
+// ---
+
 #include "chrome/browser/ash/app_list/search/system_info/cpu_answer_result.h"
 
 #include "ash/public/cpp/app_list/app_list_types.h"

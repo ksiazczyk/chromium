@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake app list model updater implementation
+// summary: Implements a fake AppListModelUpdater that stores items in memory and supports folders, positions, icons, and search results for tests.
+// ---
+
 #include "chrome/browser/ash/app_list/test/fake_app_list_model_updater.h"
 
 #include <utility>

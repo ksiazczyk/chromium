@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for app list search
+summary: Defines the static library sources and dependencies for the ChromeOS launcher search backend.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for ARC app list search
+summary: GN build file defining the arc static library sources and the unit_tests target with their dependencies for the ChromeOS launcher ARC search code.

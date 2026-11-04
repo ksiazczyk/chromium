@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launcher search result sorting declarations
+// summary: Declares SortCategories and SortResults, which order launcher search categories and results by burn-in iteration, best match, category, and display score.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_SORTING_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_SORTING_H_
 

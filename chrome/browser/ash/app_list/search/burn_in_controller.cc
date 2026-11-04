@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Burn-in controller implementation
+// summary: Implements the burn-in controller that tracks burn-in iterations for results and categories and fires a callback once the burn-in period has elapsed.
+// ---
+
 #include "chrome/browser/ash/app_list/search/burn_in_controller.h"
 
 #include "base/containers/flat_set.h"

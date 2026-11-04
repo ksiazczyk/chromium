@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ranker test base implementation
+// summary: Implements RankerTestBase helpers for building scored results, launch data, and FTRL scores in ranker unit tests.
+// ---
+
 #include "chrome/browser/ash/app_list/search/test/ranking_test_util.h"
 
 #include "chrome/browser/ash/app_list/search/test/test_result.h"

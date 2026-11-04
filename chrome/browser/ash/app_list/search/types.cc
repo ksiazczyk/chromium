@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launcher search category helper implementations
+// summary: Implements CreateAllCategories and IsControlCategoryEnabled, which build the launcher search category list and check per-profile category control preferences.
+// ---
+
 #include "chrome/browser/ash/app_list/search/types.h"
 
 #include <stddef.h>

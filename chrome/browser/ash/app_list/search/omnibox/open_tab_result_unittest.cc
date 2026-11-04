@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenTabResult unit tests
+// summary: Unit tests for OpenTabResult covering titles, details text, accessibility names, and opening the tab URL.
+// ---
+
 #include "chrome/browser/ash/app_list/search/omnibox/open_tab_result.h"
 
 #include "ash/strings/grit/ash_strings.h"

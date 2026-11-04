@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox result types and data struct
+// summary: Declares enums for omnibox result, answer, and text types plus the OmniboxResultData struct holding relevance, URLs, icons, and display text.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_OMNIBOX_OMNIBOX_TYPES_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_OMNIBOX_OMNIBOX_TYPES_H_
 

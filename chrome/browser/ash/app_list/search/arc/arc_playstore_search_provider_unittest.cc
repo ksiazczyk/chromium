@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ARC Play Store search provider
+// summary: Unit tests checking Play Store search result counts, skipping of apps with equivalent extensions installed, and result metadata.
+// ---
+
 #include "chrome/browser/ash/app_list/search/arc/arc_playstore_search_provider.h"
 
 #include <memory>

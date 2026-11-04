@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search metrics manager class header
+// summary: Declares SearchMetricsManager, an AppListNotifier observer that records launcher search impression, abandonment, and launch metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_METRICS_MANAGER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_METRICS_MANAGER_H_
 

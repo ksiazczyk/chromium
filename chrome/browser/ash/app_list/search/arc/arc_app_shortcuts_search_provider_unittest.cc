@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ARC app shortcuts search provider
+// summary: Parameterized unit tests verifying that the app shortcuts provider returns results for launchable apps and none for non-launchable ones.
+// ---
+
 #include "chrome/browser/ash/app_list/search/arc/arc_app_shortcuts_search_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MRFU cache implementation
+// summary: Implements the most-recently-frequently-used cache, boosting item scores on use, decaying them over time, and numerically approximating the boost coefficient.
+// ---
+
 #include "chrome/browser/ash/app_list/search/util/mrfu_cache.h"
 
 #include <cmath>

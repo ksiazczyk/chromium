@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diacritics checker unit tests
+// summary: Unit tests verifying HasDiacritics returns true for accented words and false for plain, empty or whitespace-only text.
+// ---
+
 #include "chrome/browser/ash/app_list/search/files/diacritics_checker.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

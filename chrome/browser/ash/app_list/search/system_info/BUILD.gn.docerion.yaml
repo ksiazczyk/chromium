@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for system info answer cards
+summary: Defines the static library and unit test targets, sources and dependencies for the ChromeOS launcher system info answer card code.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App list test support build config
+summary: Defines the test_support static library for ChromeOS app list tests, listing its sources and build dependencies.

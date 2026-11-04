@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ranker utility functions implementation
+// summary: Implements helpers returning the ranker state directory within a profile and converting Category values to and from strings.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/util.h"
 
 #include "base/strings/string_number_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine implementation
+// summary: Implements SearchEngine, which starts and stops query and zero-state searches across providers grouped by search category.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_engine.h"
 
 #include <algorithm>

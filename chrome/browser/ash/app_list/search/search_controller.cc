@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search controller implementation
+// summary: Implements the launcher SearchController that collects queries, dispatches them to search providers, ranks results and publishes them to the app list model.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ranker base class implementation
+// summary: Implements default Ranker behavior with stub methods that subclasses override to rank results and categories.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/ranker.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help App zero-state provider unit tests
+// summary: Unit tests for the Help App zero-state provider, covering when the release notes chip is shown for empty queries.
+// ---
+
 #include "chrome/browser/ash/app_list/search/help_app_zero_state_provider.h"
 
 #include <memory>

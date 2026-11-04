@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRankerManager test implementation
+// summary: Implements a test ranker manager that skips normal ranking, applies hardcoded category ranks, and marks best match results by title.
+// ---
+
 #include "chrome/browser/ash/app_list/search/test/test_ranker_manager.h"
 
 #include <memory>

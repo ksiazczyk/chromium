@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image content annotator implementation
+// summary: Implements the image content annotator client that connects to the ChromeOS machine learning service and logs annotation status metrics.
+// ---
+
 #include "chrome/browser/ash/app_list/search/local_image_search/image_content_annotator.h"
 
 #include "base/logging.h"

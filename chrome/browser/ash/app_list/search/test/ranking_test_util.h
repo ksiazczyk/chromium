@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ranker test base header
+// summary: Declares RankerTestBase, a test base class with helpers for creating results, launch data, and reading protos in ranker tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_TEST_RANKING_TEST_UTIL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_TEST_RANKING_TEST_UTIL_H_
 

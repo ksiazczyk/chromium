@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search controller test result factory declarations
+// summary: Declares helper functions for creating ChromeSearchResult test results with display types, categories, best match ranks, and scores.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_TEST_SEARCH_CONTROLLER_TEST_UTIL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_TEST_SEARCH_CONTROLLER_TEST_UTIL_H_
 

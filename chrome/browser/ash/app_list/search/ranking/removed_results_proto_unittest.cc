@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Removed results proto unit tests
+// summary: Unit tests for the RemovedResultsProto persistent proto, verifying initialization and persistence of removed result IDs, including duplicates.
+// ---
+
 #include "ash/utility/persistent_proto.h"
 #include "base/files/scoped_temp_dir.h"
 #include "base/test/task_environment.h"

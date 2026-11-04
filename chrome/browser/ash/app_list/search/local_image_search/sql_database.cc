@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL database wrapper implementation
+// summary: Implements the SqlDatabase wrapper that opens, initializes, migrates and razes SQLite databases using schema callbacks and status histograms.
+// ---
+
 #include "chrome/browser/ash/app_list/search/local_image_search/sql_database.h"
 
 #include <memory>

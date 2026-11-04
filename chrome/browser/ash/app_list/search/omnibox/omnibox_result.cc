@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxResult implementation
+// summary: Implements OmniboxResult, building launcher list entries from omnibox matches with icons, favicons, dedup priorities and relevance scoring.
+// ---
+
 #include "chrome/browser/ash/app_list/search/omnibox/omnibox_result.h"
 
 #include <optional>

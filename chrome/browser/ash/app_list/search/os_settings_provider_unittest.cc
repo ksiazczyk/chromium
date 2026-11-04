@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS settings provider unit tests
+// summary: Unit tests for the OS settings provider using fake settings sections, hierarchies, and a test search controller.
+// ---
+
 #include "chrome/browser/ash/app_list/search/os_settings_provider.h"
 
 #include <memory>

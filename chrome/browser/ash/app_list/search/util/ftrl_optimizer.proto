@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTRL optimizer proto definition
+// summary: Defines the persisted proto storing the FTRL optimizer's version and per-expert weights for on-disk state.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list syncable service test base implementation
+// summary: Implements the shared test fixture for app list syncable service tests, with helpers to install extensions and inspect ordered sync items.
+// ---
+
 #include "chrome/browser/ash/app_list/test/app_list_syncable_service_test_base.h"
 
 #include "chrome/browser/ash/app_list/app_list_model_updater.h"

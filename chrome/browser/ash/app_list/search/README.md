@@ -1,3 +1,13 @@
+---
+type: readme
+title: ChromeOS launcher search backend overview
+summary: Documents the launcher search infrastructure, key classes, ranking, metrics, and the life of a search query and zero state.
+relations:
+  - references /ash/public/cpp/app_list/app_list_controller.h
+  - references /chrome/browser/ash/app_list/app_list_model_updater.h
+  - references /ash/public/cpp/app_list/app_list_client.h
+---
+
 # About
 
 This folder contains the backend implementation of Chrome OS launcher search.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app list controller delegate header
+// summary: Declares TestAppListControllerDelegate, a test double of AppListControllerDelegate that tracks dismissals and opened URLs and exposes a Reset method.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_TEST_TEST_APP_LIST_CONTROLLER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_TEST_TEST_APP_LIST_CONTROLLER_DELEGATE_H_
 

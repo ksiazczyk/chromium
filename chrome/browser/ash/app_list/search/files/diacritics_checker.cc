@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diacritics checker implementation
+// summary: Implements HasDiacritics, which uses a regex to detect accented Latin letters in UTF-16 text for file search matching.
+// ---
+
 #include "chrome/browser/ash/app_list/search/files/diacritics_checker.h"
 
 #include "base/strings/utf_string_conversions.h"

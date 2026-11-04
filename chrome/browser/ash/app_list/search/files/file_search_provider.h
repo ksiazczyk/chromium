@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSearchProvider class declaration
+// summary: Declares the FileSearchProvider that returns matching local files and directories, with test hooks for root path, file type and allowed extensions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_FILES_FILE_SEARCH_PROVIDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_FILES_FILE_SEARCH_PROVIDER_H_
 

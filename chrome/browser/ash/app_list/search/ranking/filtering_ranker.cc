@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filtering ranker implementation
+// summary: Implements deduplication and filtering of launcher search results, including restricting omnibox answer types on short queries.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/filtering_ranker.h"
 
 #include "ash/public/cpp/app_list/app_list_config.h"

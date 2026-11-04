@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help App search provider
+// summary: Declares HelpAppResult and HelpAppProvider, which supply launcher search results from the Help (Explore) app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_HELP_APP_PROVIDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_HELP_APP_PROVIDER_H_
 

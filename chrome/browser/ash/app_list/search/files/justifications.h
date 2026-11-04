@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Justification string helper declaration
+// summary: Declares GetJustificationString, which formats the action and timestamp that prompted a file suggestion into a display string.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_FILES_JUSTIFICATIONS_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_FILES_JUSTIFICATIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desks admin template provider implementation
+// summary: Implements the provider that surfaces administrator-managed desk templates as continue-section results in the launcher zero state.
+// ---
+
 #include "chrome/browser/ash/app_list/search/desks_admin_template_provider.h"
 
 #include <memory>

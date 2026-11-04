@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings search provider declarations
+// summary: Declares OsSettingsResult and OsSettingsProvider, which surface OS settings search results in the launcher with no zero-state results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_OS_SETTINGS_PROVIDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_OS_SETTINGS_PROVIDER_H_
 

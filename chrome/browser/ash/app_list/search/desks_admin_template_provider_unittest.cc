@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desks admin template provider unit tests
+// summary: Unit tests using a mocked SavedDeskController to verify admin template results appear in zero state and launch via LaunchAdminTemplate.
+// ---
+
 #include "chrome/browser/ash/app_list/search/desks_admin_template_provider.h"
 #include <vector>
 

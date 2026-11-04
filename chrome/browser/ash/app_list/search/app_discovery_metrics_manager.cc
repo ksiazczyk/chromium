@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App discovery metrics manager implementation
+// summary: Records structured metrics for app discovery events such as launcher opens and app-install related result launches.
+// ---
+
 #include "chrome/browser/ash/app_list/search/app_discovery_metrics_manager.h"
 
 #include <utility>

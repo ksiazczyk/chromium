@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App list test directory dependency rules
+summary: Sets include rules for the app list test directory, blocking //chrome dependencies except those needed by tests.

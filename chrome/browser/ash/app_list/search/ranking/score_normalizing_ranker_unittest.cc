@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Score normalizing ranker unit tests
+// summary: Unit tests checking that normalized scores are assigned to app results, ordered by relevance, and left unset for file search results.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/score_normalizing_ranker.h"
 
 #include "base/files/scoped_temp_dir.h"

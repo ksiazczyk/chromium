@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Best match ranker implementation
+// summary: Implements BestMatchRanker, which thresholds normalized result scores per provider to pick best matches and stabilizes top matches after the burn-in period.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/best_match_ranker.h"
 
 #include <cmath>

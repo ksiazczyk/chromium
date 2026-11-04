@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File search result declaration
+// summary: Declares FileSearchResult, a struct holding a file path, last modified time and a relevance score describing how well a query matches the file's annotation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_FILE_SEARCH_RESULT_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_FILE_SEARCH_RESULT_H_
 

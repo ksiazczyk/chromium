@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common types for app list search results and ranking
+// summary: Defines shared type aliases and structs for app list search, including result types, results maps, category metadata, and control category checks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_TYPES_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_TYPES_H_
 

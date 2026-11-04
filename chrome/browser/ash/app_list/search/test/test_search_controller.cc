@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSearchController test implementation
+// summary: Implements a simplified search controller for tests that runs a single provider, tracks last results, and fires a results-changed callback.
+// ---
+
 #include "chrome/browser/ash/app_list/search/test/test_search_controller.h"
 
 #include "ash/public/cpp/app_list/app_list_types.h"

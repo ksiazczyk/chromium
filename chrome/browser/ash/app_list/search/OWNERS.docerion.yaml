@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for app list search
+summary: Points to the parent app_list OWNERS file for directory ownership.

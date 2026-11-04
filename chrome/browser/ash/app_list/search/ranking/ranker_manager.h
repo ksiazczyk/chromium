@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ranker manager class declaration
+// summary: Declares RankerManager, which owns a list of rankers and delegates ranking calls to each in the order they were added.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_RANKER_MANAGER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_RANKER_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTRL optimizer class
+// summary: Declares the FtrlOptimizer ensemble model over experts, documenting its scoring and training algorithm and its alpha and gamma parameters.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_UTIL_FTRL_OPTIMIZER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_UTIL_FTRL_OPTIMIZER_H_
 

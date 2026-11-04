@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App search data source for launcher search
+// summary: Header declaring AppSearchDataSource, which aggregates installed app information from App Service and provides exact, fuzzy, and zero-state results to app search providers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_APP_SEARCH_DATA_SOURCE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_APP_SEARCH_DATA_SOURCE_H_
 

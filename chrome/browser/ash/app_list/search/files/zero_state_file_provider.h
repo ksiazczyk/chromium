@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero state file provider class declaration
+// summary: Declares the ZeroStateFileProvider class, a search provider that recommends local files from a cache populated whenever files are opened.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_FILES_ZERO_STATE_FILE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_FILES_ZERO_STATE_FILE_PROVIDER_H_
 

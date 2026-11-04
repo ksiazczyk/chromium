@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoring implementation
+// summary: Implements the Scoring class methods that compute final and best match scores and debug output for launcher search results.
+// ---
+
 #include "chrome/browser/ash/app_list/search/scoring.h"
 
 #include <algorithm>

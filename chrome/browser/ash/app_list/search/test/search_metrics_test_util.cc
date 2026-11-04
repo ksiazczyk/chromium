@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search metrics fake result helper
+// summary: Implements CreateFakeResult, which builds fake AppListNotifier results for search metrics tests.
+// ---
+
 #include "chrome/browser/ash/app_list/search/test/search_metrics_test_util.h"
 
 #include <optional>

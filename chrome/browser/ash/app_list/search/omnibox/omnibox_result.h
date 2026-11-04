@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxResult class declaration
+// summary: Declares OmniboxResult, a ChromeSearchResult representing a single omnibox match with favicon fetching and dedup priority support.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_OMNIBOX_OMNIBOX_RESULT_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_OMNIBOX_OMNIBOX_RESULT_H_
 

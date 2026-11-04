@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxProvider unit tests
+// summary: Unit tests for OmniboxProvider using a mock AutocompleteController and helper matches for omnibox, calculator and open-tab results.
+// ---
+
 #include "chrome/browser/ash/app_list/search/omnibox/omnibox_provider.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list search browser test helper implementation
+// summary: Implements AppListSearchBrowserTest and ResultsWaiter to start launcher searches and wait for published results in browser tests.
+// ---
+
 #include "chrome/browser/ash/app_list/search/test/app_list_search_test_helper.h"
 #include "base/memory/raw_ptr.h"
 

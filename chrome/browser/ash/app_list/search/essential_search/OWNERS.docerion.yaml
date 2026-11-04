@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for essential search
+summary: Lists the code owner email responsible for reviewing changes in the essential search directory.

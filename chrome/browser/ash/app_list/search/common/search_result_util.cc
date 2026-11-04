@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result text item helper implementation
+// summary: Implements factory functions for string, iconified text, and icon code text items and flattens text vectors.
+// ---
+
 #include "chrome/browser/ash/app_list/search/common/search_result_util.h"
 
 #include "base/strings/strcat.h"

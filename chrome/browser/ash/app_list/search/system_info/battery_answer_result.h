@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery answer result class declaration
+// summary: Declares BatteryAnswerResult, a system info answer card that observes PowerManagerClient to keep battery information current.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_SYSTEM_INFO_BATTERY_ANSWER_RESULT_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_SYSTEM_INFO_BATTERY_ANSWER_RESULT_H_
 

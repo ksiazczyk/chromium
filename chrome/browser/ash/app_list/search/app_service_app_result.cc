@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service app result implementation
+// summary: Implements AppServiceAppResult, a launcher search result that loads icons, sets accessibility names, and launches apps through App Service.
+// ---
+
 #include "chrome/browser/ash/app_list/search/app_service_app_result.h"
 
 #include "ash/public/cpp/app_list/app_list_types.h"

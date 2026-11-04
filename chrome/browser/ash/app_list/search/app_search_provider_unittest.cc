@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App search provider unit tests
+// summary: Unit tests covering app search matching and ranking across Chrome, ARC, web, and internal apps, including locale-dependent behavior.
+// ---
+
 #include "chrome/browser/ash/app_list/search/app_search_provider.h"
 
 #include <stddef.h>

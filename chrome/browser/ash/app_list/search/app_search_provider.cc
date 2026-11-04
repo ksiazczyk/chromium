@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App search provider implementation
+// summary: Implements AppSearchProvider, running app queries with locale-aware exact and fuzzy matching and recording app search latency metrics.
+// ---
+
 #include "chrome/browser/ash/app_list/search/app_search_provider.h"
 
 #include <algorithm>

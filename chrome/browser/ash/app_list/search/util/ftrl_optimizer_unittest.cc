@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FTRL optimizer unit tests
+// summary: Unit tests covering FTRL optimizer scoring, weight updates after training, repeated training behavior, and persistence of weights to disk.
+// ---
+
 #include "chrome/browser/ash/app_list/search/util/ftrl_optimizer.h"
 
 #include <memory>

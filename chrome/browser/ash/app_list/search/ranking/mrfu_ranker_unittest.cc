@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MRFU ranker unit tests
+// summary: Unit tests for the MRFU result and category rankers, verifying training, ranking order, and default category scores.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/mrfu_ranker.h"
 
 #include "chrome/browser/ash/app_list/search/chrome_search_result.h"

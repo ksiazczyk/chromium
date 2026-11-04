@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeRecommendAppsFetcherDelegate implementation
+// summary: Implements the fake delegate that records recommend apps fetcher results and lets tests wait for them.
+// ---
+
 #include "chrome/browser/ash/app_list/search/arc/fake_recommend_apps_fetcher_delegate.h"
 
 #include <utility>

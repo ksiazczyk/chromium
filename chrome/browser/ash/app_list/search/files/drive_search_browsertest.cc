@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive file search browser tests
+// summary: Browser tests that set up a fake DriveFS integration service and verify Drive files and folders can be searched from the launcher.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"
 #include "base/threading/thread_restrictions.h"

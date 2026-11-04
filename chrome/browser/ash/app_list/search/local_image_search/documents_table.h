@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Documents table wrapper declaration
+// summary: Declares DocumentsTable, a static wrapper around the SQLite documents table providing insert, lookup, removal, directory search and status updates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_DOCUMENTS_TABLE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_DOCUMENTS_TABLE_H_
 

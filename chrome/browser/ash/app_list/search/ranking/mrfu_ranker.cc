@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MRFU ranker implementation
+// summary: Implements result and category rankers that score items using a most-recently-frequently-used cache of launch history.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/mrfu_ranker.h"
 
 #include "chrome/browser/ash/app_list/search/chrome_search_result.h"

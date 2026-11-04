@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File search provider implementation
+// summary: Implements the launcher's file search provider, building accent- and case-insensitive fnmatch queries and enumerating matching local files and directories with a search timeout.
+// ---
+
 #include "chrome/browser/ash/app_list/search/files/file_search_provider.h"
 
 #include <algorithm>

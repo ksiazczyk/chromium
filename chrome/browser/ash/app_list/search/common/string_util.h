@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list string utility header
+// summary: Declares app_list helpers to normalize launcher app IDs, remove Arc app shortcut labels, and extract Drive IDs from Google Docs URLs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_COMMON_STRING_UTIL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_COMMON_STRING_UTIL_H_
 

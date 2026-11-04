@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSearchProvider test helper header
+// summary: Declares TestSearchProvider, a fake app list search provider that returns preset results after a configurable delay for use in search tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_TEST_TEST_SEARCH_PROVIDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_TEST_TEST_SEARCH_PROVIDER_H_
 

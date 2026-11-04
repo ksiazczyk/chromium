@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Query highlighter unit tests
+// summary: Unit tests for the query highlighter, checking that non-match tags are kept, match tags are replaced, and match tags are appended.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/query_highlighter.h"
 
 #include "chrome/browser/ash/app_list/search/chrome_search_result.h"

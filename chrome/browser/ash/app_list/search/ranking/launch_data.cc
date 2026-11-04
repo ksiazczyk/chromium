@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch data implementation
+// summary: Defines the default and move constructors and destructor for the LaunchData struct.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/launch_data.h"
 
 namespace app_list {

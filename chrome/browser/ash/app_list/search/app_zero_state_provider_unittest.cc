@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App zero state provider unit tests
+// summary: Unit tests verifying that zero-state app recommendations are ordered by last launch and install times and that apps not shown in the launcher are hidden.
+// ---
+
 #include <string>
 #include <vector>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search session metrics manager implementation
+// summary: Implements SearchSessionMetricsManager, logging histograms for search session conclusions, query length, and keyword counts when a launcher search session ends.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_session_metrics_manager.h"
 
 #include "ash/public/cpp/app_list/app_list_controller.h"

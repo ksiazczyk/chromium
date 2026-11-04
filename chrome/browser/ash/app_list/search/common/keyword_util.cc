@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword extraction implementation
+// summary: Extracts keywords from user queries using fuzzy string matching and maps them to associated search providers.
+// ---
+
 #include "chrome/browser/ash/app_list/search/common/keyword_util.h"
 
 #include "base/containers/flat_map.h"

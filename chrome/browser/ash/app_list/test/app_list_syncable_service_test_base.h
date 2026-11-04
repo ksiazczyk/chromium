@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list syncable service test base header
+// summary: Declares the AppListSyncableServiceTestBase fixture with helpers for restarting the service, managing extensions, and querying ordered items.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_TEST_APP_LIST_SYNCABLE_SERVICE_TEST_BASE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_TEST_APP_LIST_SYNCABLE_SERVICE_TEST_BASE_H_
 

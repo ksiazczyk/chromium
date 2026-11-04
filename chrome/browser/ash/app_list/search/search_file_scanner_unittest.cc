@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search file scanner unit tests
+// summary: Unit tests verifying that SearchFileScanner counts total files and image extensions, respects scan limits, and logs the expected histograms.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_file_scanner.h"
 
 #include <memory>

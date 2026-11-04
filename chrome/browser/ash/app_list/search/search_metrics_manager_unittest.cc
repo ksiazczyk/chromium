@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search metrics manager unit tests
+// summary: Unit tests verifying histogram logging of impressions, launches, abandonments, and continue-section result counts by SearchMetricsManager.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_metrics_manager.h"
 
 #include <memory>

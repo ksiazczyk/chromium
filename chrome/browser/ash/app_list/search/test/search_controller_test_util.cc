@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search controller test result factories
+// summary: Implements MakeResults, MakeFileResults, and MakeListResults helpers that build TestResult instances for search controller tests.
+// ---
+
 #include "chrome/browser/ash/app_list/search/test/search_controller_test_util.h"
 
 #include <memory>

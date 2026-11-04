@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for app list search ranking
+summary: GN build file defining the ranking static library, the removed results proto target, and the ranking unit test source set with their dependencies.

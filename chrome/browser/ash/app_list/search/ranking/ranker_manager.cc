@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ranker manager implementation
+// summary: Constructs and configures the pipeline of rankers for result preprocessing, score normalization, and result and category ranking.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/ranker_manager.h"
 
 #include "chrome/browser/ash/app_list/search/ranking/answer_ranker.h"

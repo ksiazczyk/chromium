@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search controller factory implementation
+// summary: Creates a SearchController for a profile and registers the launcher search providers such as apps, omnibox, files, settings and help.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_controller_factory.h"
 
 #include <stddef.h>

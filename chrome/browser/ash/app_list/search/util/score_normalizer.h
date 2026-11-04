@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Score normalizer class header
+// summary: Declares the ScoreNormalizer class, which learns named score distributions and maps their scores to a uniform distribution, with parameters and persistent proto state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_UTIL_SCORE_NORMALIZER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_UTIL_SCORE_NORMALIZER_H_
 

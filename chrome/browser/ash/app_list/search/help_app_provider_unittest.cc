@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help App provider unit tests
+// summary: Unit tests for the Help App search provider, using a mock search handler and stub icon loader to verify results.
+// ---
+
 #include "chrome/browser/ash/app_list/search/help_app_provider.h"
 
 #include <memory>

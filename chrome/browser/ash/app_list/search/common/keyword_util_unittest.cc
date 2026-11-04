@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for keyword extraction
+// summary: Tests exact and fuzzy keyword matching, multiple keyword handling, and provider mapping for keyword_util.
+// ---
+
 #include "chrome/browser/ash/app_list/search/common/keyword_util.h"
 #include "chrome/browser/ash/app_list/search/search_provider.h"
 #include "testing/gmock/include/gmock/gmock.h"

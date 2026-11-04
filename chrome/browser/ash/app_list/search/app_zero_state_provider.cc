@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App zero state provider implementation
+// summary: Implements AppZeroStateProvider, which supplies recommended app results for the launcher's zero state and records latency metrics.
+// ---
+
 #include "chrome/browser/ash/app_list/search/app_zero_state_provider.h"
 
 #include "base/metrics/histogram_macros.h"

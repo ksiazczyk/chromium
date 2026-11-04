@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Play Store search result implementation
+// summary: Implements the launcher search result for Play Store apps, including badge icon creation and launching install or launch intents via the ARC bridge.
+// ---
+
 #include "chrome/browser/ash/app_list/search/arc/arc_playstore_search_result.h"
 
 #include <utility>

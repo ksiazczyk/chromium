@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory answer result class declaration
+// summary: Declares MemoryAnswerResult, a system info answer card that observes memory usage updates from SystemInfoCardProvider.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_SYSTEM_INFO_MEMORY_ANSWER_RESULT_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_SYSTEM_INFO_MEMORY_ANSWER_RESULT_H_
 

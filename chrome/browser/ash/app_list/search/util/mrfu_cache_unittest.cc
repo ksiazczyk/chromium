@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MRFU cache unit tests
+// summary: Unit tests covering MRFU cache initialization, score boosting, decay by half-life, normalized scores, and persistence to disk.
+// ---
+
 #include "chrome/browser/ash/app_list/search/util/mrfu_cache.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Essential search manager implementation
+// summary: Implements the manager that fetches the SOCS cookie on session start or pref change, inserts it into the user's cookie jar, and controls search suggest.
+// ---
+
 #include "chrome/browser/ash/app_list/search/essential_search/essential_search_manager.h"
 
 #include "ash/constants/ash_pref_names.h"

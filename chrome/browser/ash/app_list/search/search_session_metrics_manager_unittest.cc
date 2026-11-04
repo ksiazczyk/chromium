@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the search session metrics manager
+// summary: Unit tests verifying that SearchSessionMetricsManager records session conclusion, query length, and error histograms for answer card impressions and launches.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_session_metrics_manager.h"
 
 #include <memory>

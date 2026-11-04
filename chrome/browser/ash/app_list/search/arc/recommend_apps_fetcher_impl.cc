@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecommendAppsFetcherImpl implementation
+// summary: Implements downloading and parsing of the Play Store fast-reinstall app list, including Android ID retries and timeouts.
+// ---
+
 #include "chrome/browser/ash/app_list/search/arc/recommend_apps_fetcher_impl.h"
 
 #include <cstdint>

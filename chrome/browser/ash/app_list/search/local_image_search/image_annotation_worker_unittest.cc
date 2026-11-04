@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image annotation worker unit tests
+// summary: Unit tests for the image annotation worker, covering image format handling, a mocked OCR recognizer, and annotation storage updates.
+// ---
+
 #include "chrome/browser/ash/app_list/search/local_image_search/image_annotation_worker.h"
 
 #include <memory>

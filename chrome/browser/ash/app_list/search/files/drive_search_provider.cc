@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive search provider implementation
+// summary: Implements DriveSearchProvider, which queries DriveFS for files matching the query, filters results and logs status metrics.
+// ---
+
 #include "chrome/browser/ash/app_list/search/files/drive_search_provider.h"
 
 #include <cmath>

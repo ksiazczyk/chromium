@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search file scanner class header
+// summary: Declares SearchFileScanner, which scans user local files to collect distribution metrics for estimating the power and performance of launcher search features.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_FILE_SCANNER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_FILE_SCANNER_H_
 

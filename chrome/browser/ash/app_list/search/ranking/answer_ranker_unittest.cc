@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Answer ranker unit tests
+// summary: Unit tests verifying answer card selection, filtering of unselected omnibox answers, and best match shortcut handling in AnswerRanker.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/answer_ranker.h"
 
 #include "base/strings/string_number_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search file scanner implementation
+// summary: Implements periodic scanning of user local files to count total files and image extensions, logging usage metrics for launcher search while excluding trash paths.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_file_scanner.h"
 
 #include <algorithm>

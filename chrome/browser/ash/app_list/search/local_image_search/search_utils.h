@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search utilities declaration
+// summary: Declares OCR and ICA indexing versions, the IndexingSource and IcaStatus enums, result intersection, stop word checks and UMA logging helpers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_SEARCH_UTILS_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_SEARCH_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for app list string utilities
+// summary: GTest suite verifying NormalizeId, RemoveAppShortcutLabel, and GetDriveId behavior for launcher app ID strings and Drive URLs.
+// ---
+
 #include "chrome/browser/ash/app_list/search/common/string_util.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

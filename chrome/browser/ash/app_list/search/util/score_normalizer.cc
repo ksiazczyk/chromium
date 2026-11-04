@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Score normalizer implementation
+// summary: Implements the score normalizer that maps raw scores into [0,1] using per-name histogram bins, returning a default score when data is insufficient.
+// ---
+
 #include "chrome/browser/ash/app_list/search/util/score_normalizer.h"
 
 #include <algorithm>

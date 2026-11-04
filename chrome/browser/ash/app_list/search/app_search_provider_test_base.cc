@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App search provider test base implementation
+// summary: Implements shared test fixtures for app search and zero state provider unit tests, including query running, result sorting, and test app installation helpers.
+// ---
+
 #include "chrome/browser/ash/app_list/search/app_search_provider_test_base.h"
 
 #include <algorithm>

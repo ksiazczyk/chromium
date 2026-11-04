@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list search browser test helper header
+// summary: Declares ResultsWaiter and the AppListSearchBrowserTest base class for end-to-end launcher search browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_TEST_APP_LIST_SEARCH_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_TEST_APP_LIST_SEARCH_TEST_HELPER_H_
 

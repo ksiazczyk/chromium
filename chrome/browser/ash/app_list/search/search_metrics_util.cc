@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search metrics utility functions
+// summary: Implements helpers that log metrics observer errors and map app list show sources to open-method strings for the Apps.AppListOpenTime metric.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_metrics_util.h"
 
 #include "base/metrics/histogram_functions.h"
