@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome popup navigation delegate implementation
+// summary: Implements the Chrome popup navigation delegate that opens popups with a user gesture and shows blocked popup messages on Android.
+// ---
+
 #include "chrome/browser/ui/blocked_content/chrome_popup_navigation_delegate.h"
 
 #include "build/build_config.h"

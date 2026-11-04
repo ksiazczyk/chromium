@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileBrowserCollection browser tests
+// summary: Browser tests covering ProfileBrowserCollection listing, ordering and lookups across multiple profiles and browsers.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/profile_browser_collection.h"
 
 #include "chrome/browser/profiles/profile_manager.h"

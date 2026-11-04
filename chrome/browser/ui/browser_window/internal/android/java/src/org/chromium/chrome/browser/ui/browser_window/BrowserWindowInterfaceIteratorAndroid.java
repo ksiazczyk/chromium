@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWindowInterfaceIteratorAndroid
+// summary: Implements native functions that return all browser window interface pointers and those ordered by activation.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import org.jni_zero.CalledByNative;

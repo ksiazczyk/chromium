@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tab scrubber include rules
+summary: Restricts which headers the tab scrubber directory may include, with extra allowances for the browser test file.

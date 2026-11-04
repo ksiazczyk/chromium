@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark UI utilities implementation
+// summary: Implements shared bookmark UI helpers such as drop location validation, bookmark bar visibility preferences, and URL display formatting.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_utils.h"
 
 #include <stddef.h>

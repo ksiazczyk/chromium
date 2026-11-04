@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for blocked content sources and tests
+summary: Defines source sets and dependencies for the blocked content implementation plus its browser, interactive UI and unit test targets.

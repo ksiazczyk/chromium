@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark bar UI controller unit tests
+// summary: Unit tests for BookmarkBarUIControllerImpl using mock client, prefs, action, model adapters, and injector.
+// ---
+
 #include "chrome/browser/ui/bookmarks/controllers/bookmark_bar_ui_controller_impl.h"
 
 #include <map>

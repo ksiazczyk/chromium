@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LockedStateController browser tests
+// summary: Browser tests verifying lock, unlock, and capability behavior of the unified locked state controller.
+// ---
+
 #include "chrome/browser/ui/chromeos/locked_state/locked_state_controller.h"
 
 #include <array>

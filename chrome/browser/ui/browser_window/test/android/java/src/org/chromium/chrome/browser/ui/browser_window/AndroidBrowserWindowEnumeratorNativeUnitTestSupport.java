@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidBrowserWindowEnumeratorNativeUnitTestSupport
+// summary: Java helpers for the browser window enumerator native unit test to create, activate and destroy browser windows through ChromeAndroidTaskTrackerImpl.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import org.jni_zero.CalledByNative;

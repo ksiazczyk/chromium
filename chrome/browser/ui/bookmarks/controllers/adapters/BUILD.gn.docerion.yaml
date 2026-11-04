@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for bookmark bar adapters
+summary: Defines GN source sets for the bookmark bar adapter interfaces and their desktop implementations.

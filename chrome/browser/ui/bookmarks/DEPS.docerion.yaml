@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Bookmarks UI include rules
+summary: DEPS rule allowing the bookmarks UI directory to include headers from components/bookmarks.

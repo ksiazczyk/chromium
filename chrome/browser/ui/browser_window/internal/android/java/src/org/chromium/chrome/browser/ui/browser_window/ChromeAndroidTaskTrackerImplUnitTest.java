@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeAndroidTaskTrackerImpl unit tests
+// summary: Robolectric unit tests for pending task creation, task obtaining, and observer behavior in ChromeAndroidTaskTrackerImpl.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import static org.junit.Assert.assertEquals;

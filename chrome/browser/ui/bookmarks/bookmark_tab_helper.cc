@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkTabHelper implementation
+// summary: Implements the per-tab bookmark helper that tracks the starred state of the current URL and notifies observers of changes.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_tab_helper.h"
 
 #include "base/observer_list.h"

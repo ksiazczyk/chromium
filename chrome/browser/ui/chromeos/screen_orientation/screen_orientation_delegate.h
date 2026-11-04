@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS screen orientation delegate header
+// summary: Declares ScreenOrientationDelegateChromeos, the Chrome OS implementation of the content ScreenOrientationDelegate interface for the screen orientation JS API.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CHROMEOS_SCREEN_ORIENTATION_SCREEN_ORIENTATION_DELEGATE_H_
 #define CHROME_BROWSER_UI_CHROMEOS_SCREEN_ORIENTATION_SCREEN_ORIENTATION_DELEGATE_H_
 

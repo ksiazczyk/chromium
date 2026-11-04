@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark metrics implementation
+// summary: Records UMA user actions and histograms for bookmark launches, edits, removals, additions, and drops across locations.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_stats.h"
 
 #include "base/metrics/histogram_macros.h"

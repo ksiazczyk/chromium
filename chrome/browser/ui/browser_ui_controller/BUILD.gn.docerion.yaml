@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for browser_ui_controller
+summary: Defines the browser_ui_controller and impl GN source sets with their public dependencies for the Chromium build.

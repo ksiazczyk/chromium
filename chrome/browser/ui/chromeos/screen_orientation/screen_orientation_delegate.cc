@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS screen orientation delegate implementation
+// summary: Implements the content screen orientation delegate, mapping Blink orientation lock types to Ash and locking or unlocking orientation for web contents in tablet mode.
+// ---
+
 #include "chrome/browser/ui/chromeos/screen_orientation/screen_orientation_delegate.h"
 
 #include "ash/display/screen_orientation_controller.h"

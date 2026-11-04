@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopunderPreventer implementation
+// summary: Implements detection of suspected pop-under windows sharing an opener chain with the activating contents and restores their activation when the preventer is destroyed.
+// ---
+
 #include "chrome/browser/ui/blocked_content/popunder_preventer.h"
 
 #include <set>

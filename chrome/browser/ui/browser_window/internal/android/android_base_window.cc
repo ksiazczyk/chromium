@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidBaseWindow implementation
+// summary: Implements the Android ui::BaseWindow by delegating window operations such as show, close and bounds to the Java AndroidBaseWindow via JNI.
+// ---
+
 #include "chrome/browser/ui/browser_window/internal/android/android_base_window.h"
 
 #include <jni.h>

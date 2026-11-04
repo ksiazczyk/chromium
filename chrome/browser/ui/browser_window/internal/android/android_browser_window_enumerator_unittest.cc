@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android browser window enumerator unit tests
+// summary: Unit tests for AndroidBrowserWindowEnumerator covering empty enumerators, activation-ordered iteration, and insertion of new browser windows during iteration.
+// ---
+
 #include "chrome/browser/ui/browser_window/internal/android/android_browser_window_enumerator.h"
 
 #include <vector>

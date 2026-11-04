@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark merged surface view implementation
+// summary: Implements a merged view over local and account bookmark hierarchies, delegating queries and mutations to the merged surface service.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_merged_surface_view.h"
 
 #include "base/check.h"

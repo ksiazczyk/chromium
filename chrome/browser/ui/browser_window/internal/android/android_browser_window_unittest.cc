@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android browser window unit tests
+// summary: Native unit tests for AndroidBrowserWindow that create and destroy windows through Java test support and verify behavior against a fake profile manager.
+// ---
+
 #include "chrome/browser/ui/browser_window/internal/android/android_browser_window.h"
 
 #include <jni.h>

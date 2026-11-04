@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop bookmark bar model adapter implementation
+// summary: Implements bookmark model lookups, folder node resolution, and clipboard paste checks via the merged surface service.
+// ---
+
 #include "chrome/browser/ui/bookmarks/controllers/adapters/desktop_bookmark_bar_model_adapter.h"
 
 #include "chrome/browser/bookmarks/bookmark_merged_surface_service.h"

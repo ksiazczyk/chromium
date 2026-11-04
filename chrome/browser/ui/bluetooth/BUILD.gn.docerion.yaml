@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bluetooth UI build targets
+summary: Defines GN source sets for the Chrome Bluetooth UI, including the dialogs header and the desktop-only chooser controller with its platform-specific dependencies.

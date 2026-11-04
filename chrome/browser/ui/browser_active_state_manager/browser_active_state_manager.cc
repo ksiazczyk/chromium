@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserActiveStateManager implementation
+// summary: Implements browser window active state tracking, including a macOS PWA workaround and active/inactive callback notifications.
+// ---
+
 #include "chrome/browser/ui/browser_active_state_manager/browser_active_state_manager.h"
 
 #include "base/metrics/user_metrics.h"

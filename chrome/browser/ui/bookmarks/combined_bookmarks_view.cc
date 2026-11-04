@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combined bookmarks view implementation
+// summary: Implements a BookmarksView over BookmarkModel and managed bookmarks, exposing a synthetic root with local and account permanent folders.
+// ---
+
 #include "chrome/browser/ui/bookmarks/combined_bookmarks_view.h"
 
 #include <inttypes.h>

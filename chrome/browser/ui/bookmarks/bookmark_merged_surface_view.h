@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark merged surface view interface
+// summary: Declares BookmarkMergedSurfaceView, a BookmarksView implementation enabling merged local and account bookmarks in WebUI services.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_MERGED_SURFACE_VIEW_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_MERGED_SURFACE_VIEW_H_
 

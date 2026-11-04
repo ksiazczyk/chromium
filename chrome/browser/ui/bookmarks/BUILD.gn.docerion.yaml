@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bookmarks UI GN build configuration
+summary: Defines GN source sets for the bookmarks UI, listing headers, implementation sources, dependencies and browser test targets.

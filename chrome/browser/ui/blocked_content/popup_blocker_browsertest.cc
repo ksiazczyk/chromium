@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup blocker browser tests
+// summary: Browser tests covering Chrome's popup blocker, including blocked-popup omnibox UI, content settings, history, and related popup behaviors.
+// ---
+
 #include <stdint.h>
 
 #include "base/command_line.h"

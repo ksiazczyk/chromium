@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser window interface iterator implementation
+// summary: Implements the Android browser window interface iteration functions by fetching window pointers from Java and iterating them in activation order.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/browser_window_interface_iterator.h"
 
 #include "base/android/jni_android.h"

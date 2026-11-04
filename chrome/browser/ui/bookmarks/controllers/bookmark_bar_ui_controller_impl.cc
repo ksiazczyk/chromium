@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar UI controller implementation
+// summary: Implements BookmarkBarUIControllerImpl, reacting to pref changes and performing bookmark bar actions through injected adapters.
+// ---
+
 #include "chrome/browser/ui/bookmarks/controllers/bookmark_bar_ui_controller_impl.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the browser window internal target
+summary: Defines the internal source_set of browser window implementation sources with Android and desktop platform conditionals and their build dependencies.

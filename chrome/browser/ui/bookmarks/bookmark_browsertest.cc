@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark bar browser tests
+// summary: In-process browser tests covering bookmark bar visibility, drag and drop, and bookmark tab helper behavior.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"

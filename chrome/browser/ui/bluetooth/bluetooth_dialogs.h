@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing dialog declarations
+// summary: Declares functions that show dialogs for entering Bluetooth device credentials and confirming device pairing during on-demand pairing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BLUETOOTH_BLUETOOTH_DIALOGS_H_
 #define CHROME_BROWSER_UI_BLUETOOTH_BLUETOOTH_DIALOGS_H_
 

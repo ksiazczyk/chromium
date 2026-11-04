@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAndroidTaskTrackerImpl
+// summary: Singleton implementation that tracks live and pending ChromeAndroidTask instances and notifies observers of task changes.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

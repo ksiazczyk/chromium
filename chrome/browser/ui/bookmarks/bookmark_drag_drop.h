@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark drag and drop interface
+// summary: Declares drag parameters, a drop target enum, and functions to start system drags of bookmark folders, including a test hook.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_DRAG_DROP_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_DRAG_DROP_H_
 

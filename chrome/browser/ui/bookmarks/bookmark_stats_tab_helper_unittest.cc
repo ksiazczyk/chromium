@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkStatsTabHelper unit tests
+// summary: Unit tests verifying launch action handling with pending navigations and emission of bookmark paint metrics.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_stats_tab_helper.h"
 
 #include <memory>

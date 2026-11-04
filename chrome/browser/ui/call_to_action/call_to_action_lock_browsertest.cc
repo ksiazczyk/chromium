@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CallToActionLock browser tests
+// summary: Browser tests verifying lock acquisition, release on destruction, and prevention of multiple simultaneous call to action locks.
+// ---
+
 #include "chrome/browser/ui/call_to_action/call_to_action_lock.h"
 
 #include <memory>

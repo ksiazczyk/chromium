@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ad script navigation throttle unit tests
+// summary: Unit tests covering detection of ad-initiated navigations without user gesture, including same-site and extension exemptions.
+// ---
+
 #include "chrome/browser/ui/blocked_content/ad_script_navigation_throttle.h"
 
 #include <memory>

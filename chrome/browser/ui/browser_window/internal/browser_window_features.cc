@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWindowFeatures implementation
+// summary: Implements the per-browser-window features aggregator that wires services and UI controllers such as glic, bookmarks, contextual tasks, and DevTools.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/browser_window_features.h"
 
 #include <memory>

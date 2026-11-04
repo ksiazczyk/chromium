@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing triggered popup blocker browser tests
+// summary: Browser tests for the Safe Browsing subresource-filter-triggered popup blocker, checking blocking behavior, console messages, and policy-driven settings.
+// ---
+
 #include "components/blocked_content/safe_browsing_triggered_popup_blocker.h"
 
 #include <memory>

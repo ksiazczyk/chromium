@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recently used folders combo model unit tests
+// summary: Unit tests verifying the folder chooser model contains no duplicate entries and notifies observers when bookmarks are removed.
+// ---
+
 #include "chrome/browser/ui/bookmarks/recently_used_folders_combo_model.h"
 
 #include <memory>

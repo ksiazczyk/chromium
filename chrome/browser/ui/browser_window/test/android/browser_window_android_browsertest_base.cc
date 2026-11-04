@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser window Android browser test base implementation
+// summary: Implements a browser test base class that enables incognito windows on Android and disables the first-run experience for tests.
+// ---
+
 #include "chrome/browser/ui/browser_window/test/android/browser_window_android_browsertest_base.h"
 
 #include "base/base_switches.h"

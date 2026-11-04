@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWebContentsDelegate class declaration
+// summary: Declares the BrowserWebContentsDelegate class, which handles the WebContentsDelegate responsibilities of its host browser, including keyboard, pointer lock, picture-in-picture, and drag-and-drop overrides.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_WEB_CONTENTS_DELEGATE_BROWSER_WEB_CONTENTS_DELEGATE_H_
 #define CHROME_BROWSER_UI_BROWSER_WEB_CONTENTS_DELEGATE_BROWSER_WEB_CONTENTS_DELEGATE_H_
 

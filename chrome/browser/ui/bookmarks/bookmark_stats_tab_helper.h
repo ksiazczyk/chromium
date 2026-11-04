@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkStatsTabHelper class header
+// summary: Declares a per-tab helper that records metrics for bookmark launch journeys, tracking launch action and tab disposition across navigations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_STATS_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_STATS_TAB_HELPER_H_
 

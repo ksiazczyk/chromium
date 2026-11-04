@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup opener tab helper unit tests
+// summary: Unit tests for PopupOpenerTabHelper covering tab-under detection and framebust blocking, with desktop and Android platform variants.
+// ---
+
 #include "components/blocked_content/popup_opener_tab_helper.h"
 
 #include <memory>

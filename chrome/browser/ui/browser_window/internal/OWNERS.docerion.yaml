@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for BUILD.gn
+summary: Delegates review ownership of BUILD.gn in this directory to the browser window BUILD_OWNERS file.

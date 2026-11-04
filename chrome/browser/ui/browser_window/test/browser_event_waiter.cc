@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser event waiter implementation
+// summary: Implements a test helper that observes the global browser collection and quits a RunLoop when the awaited browser event occurs.
+// ---
+
 #include "chrome/browser/ui/browser_window/test/browser_event_waiter.h"
 
 #include "chrome/browser/ui/browser_window/public/global_browser_collection.h"

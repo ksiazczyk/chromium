@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAndroidTaskBoundsConstraints
+// summary: Applies minimum size and display bounds constraints to ChromeAndroidTask window bounds on Android R and later.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import android.graphics.Rect;

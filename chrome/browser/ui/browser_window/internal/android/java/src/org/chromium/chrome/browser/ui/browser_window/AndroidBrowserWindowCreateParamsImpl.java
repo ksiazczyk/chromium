@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidBrowserWindowCreateParamsImpl
+// summary: Implements AndroidBrowserWindowCreateParams, holding window type, profile, initial bounds, show state, and WebContents for creating a browser window.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import android.graphics.Rect;

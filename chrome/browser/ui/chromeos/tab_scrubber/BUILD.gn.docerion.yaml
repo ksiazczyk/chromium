@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab scrubber build targets
+summary: Defines the tab_scrubber static library and the browser_tests source_set targets together with their source files and dependencies.

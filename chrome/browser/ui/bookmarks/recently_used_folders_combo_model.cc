@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently used folders combo model implementation
+// summary: Implements the combobox model listing recently used bookmark folders, including account and local sections, separators and a choose-another-folder entry.
+// ---
+
 #include "chrome/browser/ui/bookmarks/recently_used_folders_combo_model.h"
 
 #include <stddef.h>

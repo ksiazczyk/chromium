@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidBrowserWindow
+// summary: Java bridge to the native AndroidBrowserWindow, managing its task, profile, window type, and native pointer lifecycle.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import androidx.annotation.VisibleForTesting;

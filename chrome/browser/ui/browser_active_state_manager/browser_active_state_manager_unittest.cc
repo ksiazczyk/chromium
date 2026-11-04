@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserActiveStateManager unit tests
+// summary: Tests instance lookup via From, the initial inactive state, and active/inactive state transitions with callback notifications.
+// ---
+
 #include "chrome/browser/ui/browser_active_state_manager/browser_active_state_manager.h"
 
 #include "base/test/mock_callback.h"

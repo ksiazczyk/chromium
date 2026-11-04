@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallToActionLock implementation
+// summary: Implements CallToActionLock, which tracks whether window-level call to action UI is showing and issues scoped locks that release when destroyed.
+// ---
+
 #include "chrome/browser/ui/call_to_action/call_to_action_lock.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

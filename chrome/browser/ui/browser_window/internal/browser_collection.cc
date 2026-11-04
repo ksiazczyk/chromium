@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserCollection implementation
+// summary: Implements browser enumeration with ordering and lookup of browsers by native window, session ID, or tab, resilient to browsers closing mid-iteration.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/browser_collection.h"
 
 #include "base/scoped_observation.h"

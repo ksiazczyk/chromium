@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserUiController class declaration
+// summary: Declares the BrowserUiController interface for scheduling UI updates, updating toolbar state, and notifying tab UI changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_UI_CONTROLLER_BROWSER_UI_CONTROLLER_H_
 #define CHROME_BROWSER_UI_BROWSER_UI_CONTROLLER_BROWSER_UI_CONTROLLER_H_
 

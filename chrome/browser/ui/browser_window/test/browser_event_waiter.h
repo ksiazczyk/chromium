@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser event waiter header
+// summary: Declares a browser collection observer test helper that blocks until a browser is created, closed, activated or deactivated.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_WINDOW_TEST_BROWSER_EVENT_WAITER_H_
 #define CHROME_BROWSER_UI_BROWSER_WINDOW_TEST_BROWSER_EVENT_WAITER_H_
 

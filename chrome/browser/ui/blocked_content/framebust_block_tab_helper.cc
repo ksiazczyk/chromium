@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FramebustBlockTabHelper implementation
+// summary: Implements the desktop tab helper that records blocked framebust URLs per page and opens a blocked URL when its entry in the blocked-framebust UI is clicked.
+// ---
+
 #include "chrome/browser/ui/blocked_content/framebust_block_tab_helper.h"
 
 #include "base/check_op.h"

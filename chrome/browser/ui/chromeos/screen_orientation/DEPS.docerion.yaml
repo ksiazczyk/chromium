@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for screen orientation
+summary: Allows dependencies on the Ash screen orientation controller and shell headers for code in this directory.

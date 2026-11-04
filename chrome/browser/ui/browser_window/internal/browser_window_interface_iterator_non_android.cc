@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Android browser window interface iterators
+// summary: Implements helpers that iterate all browser window interfaces via the global collection ordered by activation and find the last active browser.
+// ---
+
 #include "base/functional/function_ref.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface_iterator.h"
 #include "chrome/browser/ui/browser_window/public/global_browser_collection.h"

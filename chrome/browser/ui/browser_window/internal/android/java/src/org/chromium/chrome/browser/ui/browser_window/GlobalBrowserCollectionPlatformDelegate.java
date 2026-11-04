@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalBrowserCollectionPlatformDelegate
+// summary: Java half of the native global browser collection delegate, forwarding browser create, close, activate, and deactivate events.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import androidx.annotation.VisibleForTesting;

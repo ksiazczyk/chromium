@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Android CreateBrowserWindow implementation
+// summary: Implements creation parameter factories for app, popup, picture-in-picture, and DevTools windows plus desktop browser window creation logic.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/functional/callback.h"
 #include "base/location.h"

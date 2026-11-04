@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop bookmark bar prefs adapter implementation
+// summary: Implements reading bookmark bar preferences, with special handling for apps shortcut and tab group visibility, and registers change observers.
+// ---
+
 #include "chrome/browser/ui/bookmarks/controllers/adapters/desktop_bookmark_bar_prefs_adapter.h"
 
 #include "chrome/browser/profiles/profile.h"

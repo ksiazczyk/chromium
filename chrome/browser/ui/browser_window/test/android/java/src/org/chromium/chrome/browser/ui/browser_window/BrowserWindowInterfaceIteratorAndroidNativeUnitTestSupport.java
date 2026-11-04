@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserWindowInterfaceIteratorAndroidNativeUnitTestSupport
+// summary: Java helpers for the browser window interface iterator native unit test to create, activate, toggle resume state and destroy browser windows.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import org.jni_zero.CalledByNative;

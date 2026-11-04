@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark drag drop parameters
+// summary: Implements BookmarkDragParams, which carries dragged bookmark nodes and drag metadata for drag operations.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_drag_drop.h"
 
 #include <stddef.h>

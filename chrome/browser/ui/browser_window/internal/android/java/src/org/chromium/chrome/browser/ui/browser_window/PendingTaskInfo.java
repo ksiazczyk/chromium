@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingTaskInfo
+// summary: Holds the pending task ID, creation parameters, and native callback used to create a pending ChromeAndroidTask.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import android.content.Intent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowStateManager
+// summary: Manages the window state enum and window bounds tracking for ChromeAndroidTaskImpl on Android.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import android.app.Activity;

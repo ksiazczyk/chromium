@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android browser window creation browser tests
+// summary: Browser tests for creating Android browser windows synchronously and asynchronously, checking window type, profile, and initialization of the resulting windows.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/create_browser_window.h"
 
 #include <utility>

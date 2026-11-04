@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PendingActionManager unit tests
+// summary: Unit tests verifying pending action precedence, overrides, and primary versus secondary action handling.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import static org.junit.Assert.assertEquals;

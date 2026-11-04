@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeAndroidTaskUnitTestSupport
+// summary: Shared fakes and helpers supporting Robolectric and native unit tests for ChromeAndroidTask, including fake activities, decor views and task setup utilities.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import static org.mockito.ArgumentMatchers.anyInt;

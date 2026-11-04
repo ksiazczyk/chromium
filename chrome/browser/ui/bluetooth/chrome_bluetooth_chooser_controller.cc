@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Bluetooth chooser controller implementation
+// summary: Implements Chrome's Bluetooth chooser controller, opening adapter-off help, permission preferences, and help center pages depending on the platform.
+// ---
+
 #include "chrome/browser/ui/bluetooth/chrome_bluetooth_chooser_controller.h"
 
 #include "base/memory/weak_ptr.h"

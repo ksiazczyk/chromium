@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser window enumerator header
+// summary: Declares AndroidBrowserWindowEnumerator, which enumerates Android browser windows in activation order while staying resilient to windows added or removed during iteration.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_WINDOW_INTERNAL_ANDROID_ANDROID_BROWSER_WINDOW_ENUMERATOR_H_
 #define CHROME_BROWSER_UI_BROWSER_WINDOW_INTERNAL_ANDROID_ANDROID_BROWSER_WINDOW_ENUMERATOR_H_
 

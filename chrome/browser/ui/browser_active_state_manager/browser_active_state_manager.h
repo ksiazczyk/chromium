@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserActiveStateManager class declaration
+// summary: Declares the feature controller that manages a browser window's active state and lets observers register for change callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_ACTIVE_STATE_MANAGER_BROWSER_ACTIVE_STATE_MANAGER_H_
 #define CHROME_BROWSER_UI_BROWSER_ACTIVE_STATE_MANAGER_BROWSER_ACTIVE_STATE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAndroidTaskImpl
+// summary: Core implementation of ChromeAndroidTask managing task states, activity lifecycle, visibility, and window operations for Android browser windows.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import static org.chromium.base.ApplicationStatus.getTaskId;

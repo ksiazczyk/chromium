@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark editor unit tests
+// summary: Unit tests verifying that bookmark editor edits apply correctly for folders, multiple URLs, and nested folder structures.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_editor.h"
 
 #include "base/strings/utf_string_conversions.h"

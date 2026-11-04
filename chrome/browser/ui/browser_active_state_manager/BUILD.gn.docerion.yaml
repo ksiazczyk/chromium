@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for browser_active_state_manager
+summary: Defines the browser_active_state_manager source set and its unit_tests target with their dependencies.

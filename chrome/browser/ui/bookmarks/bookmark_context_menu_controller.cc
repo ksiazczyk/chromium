@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark context menu controller implementation
+// summary: Implements the context menu commands for bookmark items such as open, edit, cut, copy and paste with metrics.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_context_menu_controller.h"
 
 #include <stddef.h>

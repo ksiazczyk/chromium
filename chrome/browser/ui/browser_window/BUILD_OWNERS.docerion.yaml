@@ -1,0 +1,4 @@
+# Docerion header of BUILD_OWNERS.
+type: config
+title: BUILD_OWNERS for BUILD.gn files
+summary: Delegates ownership of all BUILD.gn files under the browser_window directory to the public/android OWNERS and rdevlin.cronin@chromium.org.

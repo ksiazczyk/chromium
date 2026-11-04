@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser window BUILD.gn build definition
+summary: Defines GN source_set targets for the browser window public interface plus the browser and interactive UI test targets that cover it.

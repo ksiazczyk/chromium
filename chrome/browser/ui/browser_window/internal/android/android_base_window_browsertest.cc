@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidBaseWindow browser tests
+// summary: Browser test verifying that GetNativeWindow returns a valid WindowAndroid with readable screen bounds.
+// ---
+
 #include "chrome/browser/ui/browser_window/internal/android/android_base_window.h"
 
 #include <optional>

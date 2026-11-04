@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeAndroidTaskBoundsConstraintsUnitTest
+// summary: Robolectric tests verifying clamping of oversized and undersized task bounds and the maximum bounds calculation.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import static org.junit.Assert.assertEquals;

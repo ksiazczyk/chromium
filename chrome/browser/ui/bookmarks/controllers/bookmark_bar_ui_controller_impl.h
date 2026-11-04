@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar UI controller implementation header
+// summary: Declares BookmarkBarUIControllerImpl, which binds a client and handles bookmark bar actions via an injected adapter set.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_CONTROLLERS_BOOKMARK_BAR_UI_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_CONTROLLERS_BOOKMARK_BAR_UI_CONTROLLER_IMPL_H_
 

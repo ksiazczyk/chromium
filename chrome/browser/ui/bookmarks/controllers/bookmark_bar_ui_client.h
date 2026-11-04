@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar UI client interface
+// summary: Defines the BookmarkBarUIClient interface for updating visibility of apps shortcut, saved tab groups, managed bookmarks, and showing folder menus.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_CONTROLLERS_BOOKMARK_BAR_UI_CLIENT_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_CONTROLLERS_BOOKMARK_BAR_UI_CLIENT_H_
 

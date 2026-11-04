@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark merged surface view unit tests
+// summary: Unit tests covering basic tree queries and adding and removing bookmarks through the merged surface view.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_merged_surface_view.h"
 
 #include <memory>

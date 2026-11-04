@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock browser window interface implementation
+// summary: Implements the mock browser window interface, defaulting the unowned user data host accessor for tests.
+// ---
+
 #include "chrome/browser/ui/browser_window/test/mock_browser_window_interface.h"
 
 #include "ui/base/unowned_user_data/unowned_user_data_host.h"

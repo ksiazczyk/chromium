@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab-under navigation throttle header
+// summary: Declares TabUnderNavigationThrottle, a Chromium navigation throttle that blocks suspicious tab-under navigations and logs related user actions for histograms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BLOCKED_CONTENT_TAB_UNDER_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_UI_BLOCKED_CONTENT_TAB_UNDER_NAVIGATION_THROTTLE_H_
 

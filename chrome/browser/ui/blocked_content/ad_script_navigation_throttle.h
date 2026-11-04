@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ad script navigation throttle header
+// summary: Declares AdScriptNavigationThrottle, which records unwanted navigations triggered from ad scripts.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BLOCKED_CONTENT_AD_SCRIPT_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_UI_BLOCKED_CONTENT_AD_SCRIPT_NAVIGATION_THROTTLE_H_
 

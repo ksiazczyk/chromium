@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkUIOperationsHelper unit tests
+// summary: Tests bookmark drop, clipboard copy, cut and paste operations for both merged and non-merged bookmark surfaces.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_ui_operations_helper.h"
 
 #include <stddef.h>

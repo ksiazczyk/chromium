@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser window creation implementation
+// summary: Implements CreateBrowserWindow for Android by bridging creation parameters to Java, transferring WebContents ownership, and checking profile suitability for window creation.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/create_browser_window.h"
 
 #include "base/android/callback_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake global browser collection
+// summary: Test fake of GlobalBrowserCollection exposing public methods to simulate browser created, closed and activated events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_WINDOW_TEST_FAKE_GLOBAL_BROWSER_COLLECTION_H_
 #define CHROME_BROWSER_UI_BROWSER_WINDOW_TEST_FAKE_GLOBAL_BROWSER_COLLECTION_H_
 
