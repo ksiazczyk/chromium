@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeFocusWatcher implementation
+// summary: Implements NativeFocusWatcher, which tracks native focus changes across windows and widgets and notifies observers with the focused view's bounds.
+// relations:
+//   - depends_on /ash/accessibility/ui/native_focus_watcher.h
+//   - implements /ash/accessibility/ui/native_focus_watcher.h
+//   - depends_on /ash/wm/window_util.h
+// ---
+
 #include "ash/accessibility/ui/native_focus_watcher.h"
 
 #include "ash/wm/window_util.h"

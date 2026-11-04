@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock touch exploration controller delegate implementation
+// summary: Implements a mock delegate that records earcon plays, volume changes, gestures, and touch explore points for touch exploration tests.
+// relations:
+//   - depends_on /ash/accessibility/chromevox/mock_touch_exploration_controller_delegate.h
+// ---
+
 #include "ash/accessibility/chromevox/mock_touch_exploration_controller_delegate.h"
 
 namespace ash {

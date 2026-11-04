@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shake-to-locate controller class declaration
+// summary: Declares MouseShakeToLocateController, which observes mouse events and enlarges the cursor during rapid shaking to make it easier for users to find.
+// relations:
+//   - depends_on /ash/accessibility/mouse_locator/mouse_shake_detector.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/scoped_observation.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_MOUSE_LOCATOR_MOUSE_SHAKE_TO_LOCATE_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_MOUSE_LOCATOR_MOUSE_SHAKE_TO_LOCATE_CONTROLLER_H_
 

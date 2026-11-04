@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility focus ring controller unit tests
+// summary: Unit tests for the accessibility focus ring controller, covering hiding empty rings, parent container placement, and dynamic stacking-order reparenting including persist mode.
+// relations:
+//   - tests /ash/accessibility/ui/accessibility_focus_ring_controller_impl.h
+//   - depends_on /ash/accessibility/ui/accessibility_cursor_ring_layer.h
+//   - depends_on /ash/accessibility/ui/accessibility_highlight_layer.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_focus_ring_controller_impl.h"
 
 #include "ash/accessibility/ui/accessibility_cursor_ring_layer.h"

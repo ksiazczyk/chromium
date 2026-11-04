@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter keys event rewriter implementation
+// summary: Implements bounce keys by delaying or discarding rapid repeated key events based on a configurable delay.
+// relations:
+//   - implements /ash/accessibility/filter_keys_event_rewriter.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/filter_keys_event_rewriter.h"
 
 #include <optional>

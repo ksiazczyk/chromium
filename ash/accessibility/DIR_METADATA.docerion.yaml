@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Accessibility directory metadata mixin
+summary: Applies the common accessibility metadata file as a mixin for this directory.
+relations:
+  - references /ash/accessibility/COMMON_METADATA

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityCursorRingLayer class declaration
+// summary: Declares a FocusRingLayer subclass that highlights the mouse cursor while it is moving, with configurable ring color.
+// relations:
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring.h
+//   - depends_on /ash/accessibility/ui/focus_ring_layer.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_ACCESSIBILITY_CURSOR_RING_LAYER_H_
 #define ASH_ACCESSIBILITY_UI_ACCESSIBILITY_CURSOR_RING_LAYER_H_
 

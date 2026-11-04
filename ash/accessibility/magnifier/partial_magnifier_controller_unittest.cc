@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the partial magnifier controller
+// summary: Unit tests verifying that the partial magnifier activates on pointer press, deactivates on release or cancellation, and handles multiple displays.
+// relations:
+//   - tests /ash/accessibility/magnifier/partial_magnifier_controller.h
+//   - depends_on /ash/accessibility/magnifier/fullscreen_magnifier_controller.h
+//   - depends_on /ash/accessibility/magnifier/magnifier_glass.h
+// ---
+
 #include "ash/accessibility/magnifier/partial_magnifier_controller.h"
 
 #include "ash/accessibility/magnifier/fullscreen_magnifier_controller.h"

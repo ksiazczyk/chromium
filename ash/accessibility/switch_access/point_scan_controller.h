@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointScanController class declaration
+// summary: Declares the controller that draws and animates onscreen lines for point selection in Switch Access, with states for off, horizontal, and vertical scanning.
+// relations:
+//   - depends_on /ash/accessibility/switch_access/point_scan_layer_animation_info.h
+//   - depends_on /ash/accessibility/ui/accessibility_animation_one_shot.h
+//   - depends_on /ash/accessibility/ui/accessibility_layer.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_SWITCH_ACCESS_POINT_SCAN_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_SWITCH_ACCESS_POINT_SCAN_CONTROLLER_H_
 

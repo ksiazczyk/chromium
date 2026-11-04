@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility controller unit tests
+// summary: Contains unit tests covering the ash accessibility controller's feature toggles, preferences, notifications and dialogs.
+// relations:
+//   - tests /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/accessibility/a11y_feature_type.h
+// ---
+
 #include "ash/accessibility/accessibility_controller.h"
 
 #include <array>

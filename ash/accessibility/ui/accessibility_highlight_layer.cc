@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: accessibility_highlight_layer.cc
+// summary: Implements a layer that draws colored highlight rectangles over screen regions inside the accessibility panel container.
+// relations:
+//   - implements /ash/accessibility/ui/accessibility_highlight_layer.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_highlight_layer.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

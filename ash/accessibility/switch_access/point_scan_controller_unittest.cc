@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Point scan controller unit tests
+// summary: Ash-based unit tests that capture before and after screenshots and compare pixel differences to verify point scanning draws and clears scan lines.
+// relations:
+//   - tests /ash/accessibility/switch_access/point_scan_controller.cc
+//   - depends_on /ash/accessibility/switch_access/point_scan_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/switch_access/point_scan_controller.h"
 
 #include "ash/shell.h"

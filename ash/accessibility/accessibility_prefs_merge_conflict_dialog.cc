@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityPrefsMergeConflictDialog implementation
+// summary: Implements the dialog that lists conflicting accessibility preferences with icons and toggles so users can choose between local and synced values.
+// relations:
+//   - implements /ash/accessibility/accessibility_prefs_merge_conflict_dialog.h
+//   - depends_on /ash/accessibility/accessibility_prefs_merge_conflict_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/accessibility/accessibility_prefs_merge_conflict_dialog.h"
 
 #include "ash/accessibility/accessibility_controller.h"

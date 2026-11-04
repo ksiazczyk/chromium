@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility highlight controller class declaration
+// summary: Declares the controller for Chrome OS accessibility highlights of focus, cursor, and caret, with interfaces for events, input method, and cursor observation.
+// relations:
+//   - depends_on /ash/accessibility/ui/native_focus_watcher.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/aura/client/cursor_client_observer.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_ACCESSIBILITY_HIGHLIGHT_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_UI_ACCESSIBILITY_HIGHLIGHT_CONTROLLER_H_
 

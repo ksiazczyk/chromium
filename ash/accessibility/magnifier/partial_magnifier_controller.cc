@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial magnifier controller implementation
+// summary: Implements the partial screen magnifier controller, which shows a zoomed glass area following pen pointer events when the feature is enabled.
+// relations:
+//   - implements /ash/accessibility/magnifier/partial_magnifier_controller.h
+//   - depends_on /ash/accessibility/magnifier/partial_magnifier_controller.h
+//   - depends_on /ash/accessibility/magnifier/magnifier_glass.h
+// ---
+
 #include "ash/accessibility/magnifier/partial_magnifier_controller.h"
 
 #include "ash/accessibility/magnifier/magnifier_glass.h"

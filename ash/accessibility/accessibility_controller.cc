@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash accessibility controller implementation
+// summary: Implements the ash accessibility controller that enables and manages Chrome OS accessibility features, preferences, notifications and dialogs.
+// relations:
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/accessibility/a11y_feature_type.h
+// ---
+
 #include "ash/accessibility/accessibility_controller.h"
 
 #include <map>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the shake-to-locate controller
+// summary: Tests the production path covering cursor enlargement and restoration on shakes, user action metric recording, and continued shake behavior with the feature and preference enabled.
+// relations:
+//   - tests /ash/accessibility/mouse_locator/mouse_shake_to_locate_controller.h
+//   - depends_on /ash/accessibility/mouse_locator/mouse_shake_to_locate_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+// ---
+
 #include "ash/accessibility/mouse_locator/mouse_shake_to_locate_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

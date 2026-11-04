@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Switch Access directory metadata
+summary: Points the switch_access directory metadata at the shared Chrome OS accessibility common metadata via a mixin.
+relations:
+  - references /chrome/browser/resources/chromeos/accessibility/switch_access/COMMON_METADATA

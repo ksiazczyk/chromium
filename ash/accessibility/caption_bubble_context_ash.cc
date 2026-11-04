@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionBubbleContextAsh implementation
+// summary: Implements the Ash caption bubble context, supplying work area bounds, a session id, and the callback that opens caption settings for live captions.
+// relations:
+//   - implements /ash/accessibility/caption_bubble_context_ash.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/wm/work_area_insets.h
+// ---
+
 #include "ash/accessibility/caption_bubble_context_ash.h"
 
 #include "ash/shell.h"

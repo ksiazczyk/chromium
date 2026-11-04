@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch exploration controller implementation
+// summary: Implements the TouchExplorationController event rewriter that maps touch gestures to ChromeVox accessibility commands, screen exploration, edge slides, and passthrough behavior.
+// relations:
+//   - implements /ash/accessibility/chromevox/touch_exploration_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/chromevox/touch_accessibility_enabler.h
+// ---
+
 #include "ash/accessibility/chromevox/touch_exploration_controller.h"
 
 #include <algorithm>

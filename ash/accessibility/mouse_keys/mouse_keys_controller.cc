@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse Keys controller implementation
+// summary: Implements the Ash Mouse Keys accessibility feature, mapping keyboard keys from numpad and left- or right-handed layouts to mouse cursor movement, clicks, drags and button selection.
+// relations:
+//   - implements /ash/accessibility/mouse_keys/mouse_keys_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/drag_event_rewriter.h
+// ---
+
 #include "ash/accessibility/mouse_keys/mouse_keys_controller.h"
 
 #include <array>

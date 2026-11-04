@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility notification controller implementation
+// summary: Implements showing and cancelling accessibility toasts, such as dictation and touchpad-disabled notices, through the Ash toast manager.
+// relations:
+//   - implements /ash/accessibility/accessibility_notification_controller.h
+//   - depends_on /ash/public/cpp/accessibility_controller_enums.h
+//   - depends_on /ash/public/cpp/system/toast_data.h
+// ---
+
 #include "ash/accessibility/accessibility_notification_controller.h"
 
 #include "ash/public/cpp/accessibility_controller_enums.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default accessibility delegate header
+// summary: Declares the default AccessibilityDelegate providing magnifier state, accessibility menu visibility, and prefs associator creation.
+// relations:
+//   - implements /ash/accessibility/accessibility_delegate.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_DEFAULT_ACCESSIBILITY_DELEGATE_H_
 #define ASH_ACCESSIBILITY_DEFAULT_ACCESSIBILITY_DELEGATE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityConfirmationDialog class declaration
+// summary: Declares a dialog that requires user confirmation before performing an accessibility action, supporting an optional timeout before closing.
+// relations:
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_ACCESSIBILITY_CONFIRMATION_DIALOG_H_
 #define ASH_ACCESSIBILITY_UI_ACCESSIBILITY_CONFIRMATION_DIALOG_H_
 

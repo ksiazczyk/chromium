@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Sticky keys directory metadata
+summary: Defines the owning team email and Buganizer component IDs for the ash sticky keys directory.

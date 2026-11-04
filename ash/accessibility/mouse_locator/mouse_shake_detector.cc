@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse shake detector implementation
+// summary: Implements detection of rapid back-and-forth cursor shakes by counting confirmed reversals within a sliding time window and notifying observers when a shake starts and ends.
+// relations:
+//   - depends_on /ash/accessibility/mouse_locator/mouse_shake_detector.h
+//   - depends_on /base/check.h
+//   - depends_on /base/check_op.h
+// ---
+
 #include "ash/accessibility/mouse_locator/mouse_shake_detector.h"
 
 #include <cstddef>

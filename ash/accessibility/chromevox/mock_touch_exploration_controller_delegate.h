@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock touch exploration controller delegate declaration
+// summary: Declares a mock TouchExplorationControllerDelegate with counters and accessors used to verify delegate callbacks in tests.
+// relations:
+//   - depends_on /ash/accessibility/chromevox/touch_exploration_controller.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_CHROMEVOX_MOCK_TOUCH_EXPLORATION_CONTROLLER_DELEGATE_H_
 #define ASH_ACCESSIBILITY_CHROMEVOX_MOCK_TOUCH_EXPLORATION_CONTROLLER_DELEGATE_H_
 

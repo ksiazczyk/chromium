@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disable touchpad event rewriter header
+// summary: Declares the event rewriter that cancels events from the built-in touchpad for the disable-touchpad accessibility feature.
+// relations:
+//   - implements /ui/events/event_rewriter.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_DISABLE_TOUCHPAD_EVENT_REWRITER_H_
 #define ASH_ACCESSIBILITY_DISABLE_TOUCHPAD_EVENT_REWRITER_H_
 

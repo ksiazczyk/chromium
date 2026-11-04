@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Docked magnifier controller class declaration
+// summary: Declares DockedMagnifierController, which manages docked magnifier enablement, scale, viewport height, and mutual exclusion with the fullscreen magnifier.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_MAGNIFIER_DOCKED_MAGNIFIER_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_MAGNIFIER_DOCKED_MAGNIFIER_CONTROLLER_H_
 

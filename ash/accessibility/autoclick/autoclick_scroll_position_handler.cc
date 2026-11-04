@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick scroll position indicator implementation
+// summary: Implements a circular view that marks where the next autoclick scroll event will occur and fades it to partial opacity.
+// relations:
+//   - implements /ash/accessibility/autoclick/autoclick_scroll_position_handler.h
+//   - depends_on /ui/gfx/animation/tween.h
+//   - depends_on /ui/gfx/canvas.h
+// ---
+
 #include "ash/accessibility/autoclick/autoclick_scroll_position_handler.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

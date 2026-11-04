@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility notification controller
+// summary: Declares a class that manages showing and cancelling accessibility notifications, with a callback hook for testing.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/accessibility_controller_enums.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_ACCESSIBILITY_NOTIFICATION_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_ACCESSIBILITY_NOTIFICATION_CONTROLLER_H_
 

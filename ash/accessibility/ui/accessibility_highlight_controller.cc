@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility highlight controller implementation
+// summary: Implements the controller that draws accessibility highlights around the focused object, mouse cursor, and text caret by observing events, input method, and focus changes.
+// relations:
+//   - depends_on /ash/accessibility/ui/accessibility_highlight_controller.h
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring_controller_impl.h
+//   - depends_on /ash/display/window_tree_host_manager.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_highlight_controller.h"
 
 #include <vector>

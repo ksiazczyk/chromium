@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility focus ring layer class declaration
+// summary: Declares a FocusRingLayer subclass used by ChromeVox, Select to Speak, and Switch Access to draw nonrectangular focus rings with configurable appearance.
+// relations:
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring.h
+//   - depends_on /ash/accessibility/ui/focus_ring_layer.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_ACCESSIBILITY_FOCUS_RING_LAYER_H_
 #define ASH_ACCESSIBILITY_UI_ACCESSIBILITY_FOCUS_RING_LAYER_H_
 

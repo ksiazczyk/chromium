@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch accessibility enabler unit tests
+// summary: Unit tests for TouchAccessibilityEnabler, verifying two-finger touch detection, countdown sounds, and spoken feedback toggling using a simulated clock and event generator.
+// relations:
+//   - tests /ash/accessibility/chromevox/touch_accessibility_enabler.h
+//   - depends_on /ash/accessibility/chromevox/mock_touch_exploration_controller_delegate.h
+//   - depends_on /ash/accessibility/chromevox/touch_exploration_controller.h
+// ---
+
 #include "ash/accessibility/chromevox/touch_accessibility_enabler.h"
 
 #include <memory>

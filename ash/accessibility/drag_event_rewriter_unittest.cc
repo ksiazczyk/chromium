@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag event rewriter unit tests
+// summary: Unit tests verifying that mouse move events become drag events only when the drag rewriter is enabled.
+// relations:
+//   - tests /ash/accessibility/drag_event_rewriter.h
+//   - depends_on /ash/accessibility/test_event_recorder.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/accessibility/drag_event_rewriter.h"
 
 #include <memory>

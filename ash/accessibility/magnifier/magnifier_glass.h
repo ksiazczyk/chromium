@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MagnifierGlass class declaration
+// summary: Declares MagnifierGlass, a widget that renders a magnifying glass with configurable scale, radius, border colors and shadows at a given screen location.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/aura/window.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_MAGNIFIER_MAGNIFIER_GLASS_H_
 #define ASH_ACCESSIBILITY_MAGNIFIER_MAGNIFIER_GLASS_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch exploration manager unit tests
+// summary: Unit tests for TouchExplorationManager verifying volume adjustment and muting behavior and the forwarding of accessibility gestures to the accessibility controller client.
+// relations:
+//   - tests /ash/accessibility/chromevox/touch_exploration_manager.h
+//   - depends_on /ash/accessibility/test_accessibility_controller_client.h
+//   - depends_on /ash/root_window_controller.h
+// ---
+
 #include "ash/accessibility/chromevox/touch_exploration_manager.h"
 
 #include "ash/accessibility/test_accessibility_controller_client.h"

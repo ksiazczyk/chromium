@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch exploration controller header
+// summary: Declares TouchExplorationController and its delegate interface for rewriting touch events into accessibility gestures, volume adjustments, earcons, and passthrough modes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_CHROMEVOX_TOUCH_EXPLORATION_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_CHROMEVOX_TOUCH_EXPLORATION_CONTROLLER_H_
 

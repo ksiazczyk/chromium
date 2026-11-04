@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityFocusRing struct declaration
+// summary: Declares the focus ring shape used to outline focused objects or multi-line text ranges for users with visual impairments, with interpolation support.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/gfx/geometry/point.h
+//   - depends_on /ui/gfx/geometry/rect.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_ACCESSIBILITY_FOCUS_RING_H_
 #define ASH_ACCESSIBILITY_UI_ACCESSIBILITY_FOCUS_RING_H_
 

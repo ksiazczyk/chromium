@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityFocusRingControllerImpl implementation
+// summary: Implements drawing and fade animation of focus rings around the cursor and caret plus highlight layers, managing focus ring groups by ID.
+// relations:
+//   - implements /ash/accessibility/ui/accessibility_focus_ring_controller_impl.h
+//   - depends_on /ash/accessibility/ui/accessibility_cursor_ring_layer.h
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring_group.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_focus_ring_controller_impl.h"
 
 #include <stddef.h>

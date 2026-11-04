@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Accessibility directory common metadata
+summary: Defines the issue tracker component, team email and Buganizer IDs shared by files in the ash accessibility directory.

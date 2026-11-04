@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility sync prefs utilities implementation
+// summary: Implements functions that list syncable accessibility preferences per feature-gated batch, with defaults and conflict resolution policies for each pref.
+// relations:
+//   - implements /ash/accessibility/accessibility_sync_prefs_utils.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/accessibility/accessibility_sync_prefs_utils.h"
 
 #include <limits>

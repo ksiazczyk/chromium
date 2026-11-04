@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility focus ring group implementation
+// summary: Implements the focus ring group that converts screen rects into rings, manages layers, colors, fade and persist animation behavior, and margin constants.
+// relations:
+//   - implements /ash/accessibility/ui/accessibility_focus_ring_group.h
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring.h
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring_layer.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_focus_ring_group.h"
 
 #include <memory>

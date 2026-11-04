@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the mouse shake detector
+// summary: Unit tests verifying shake detection thresholds, polling rate invariance, reversal counting, and rejection of non-shaking movements such as diagonal sweeps.
+// relations:
+//   - tests /ash/accessibility/mouse_locator/mouse_shake_detector.h
+//   - depends_on /base/scoped_observation.h
+//   - depends_on /base/test/task_environment.h
+// ---
+
 #include "ash/accessibility/mouse_locator/mouse_shake_detector.h"
 
 #include <algorithm>

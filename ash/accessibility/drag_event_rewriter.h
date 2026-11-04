@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag event rewriter header
+// summary: Declares the event rewriter that turns move events into drag events for Autoclick and FaceGaze drag-and-drop.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/event_rewriter.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_DRAG_EVENT_REWRITER_H_
 #define ASH_ACCESSIBILITY_DRAG_EVENT_REWRITER_H_
 

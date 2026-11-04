@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sticky key state enum
+// summary: Defines the StickyKeyState enum with disabled, enabled, and locked states for individual modifier keys.
+// ---
+
 #ifndef ASH_ACCESSIBILITY_STICKY_KEYS_STICKY_KEYS_STATE_H_
 #define ASH_ACCESSIBILITY_STICKY_KEYS_STICKY_KEYS_STATE_H_
 

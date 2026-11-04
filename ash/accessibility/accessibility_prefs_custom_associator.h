@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility prefs custom associator
+// summary: Declares an associator, owned by AccessibilityController, that coordinates locking and custom merge outcomes for syncable accessibility preferences used at OOBE and login.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/values.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_ACCESSIBILITY_PREFS_CUSTOM_ASSOCIATOR_H_
 #define ASH_ACCESSIBILITY_ACCESSIBILITY_PREFS_CUSTOM_ASSOCIATOR_H_
 

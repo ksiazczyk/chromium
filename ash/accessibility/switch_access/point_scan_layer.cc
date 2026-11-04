@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point scan layer implementation
+// summary: Implements the onscreen accessibility layer that paints horizontal or vertical scan lines, dashed when paused, for Switch Access point scanning.
+// relations:
+//   - implements /ash/accessibility/switch_access/point_scan_layer.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ui/aura/window.h
+// ---
+
 #include "ash/accessibility/switch_access/point_scan_layer.h"
 
 #include "ash/shell.h"

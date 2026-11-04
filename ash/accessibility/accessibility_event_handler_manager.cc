@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility event handler manager implementation
+// summary: Implements adding, removing, and priority-ordered reinstallation of accessibility pre-target event handlers in the Ash shell.
+// relations:
+//   - implements /ash/accessibility/accessibility_event_handler_manager.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #include "ash/accessibility/accessibility_event_handler_manager.h"
 
 #include <algorithm>

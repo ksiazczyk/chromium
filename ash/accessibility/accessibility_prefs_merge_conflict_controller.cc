@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility prefs merge conflict controller implementation
+// summary: Implements detection and updating of conflicts between locally locked and pending synced accessibility preferences, creating the controller only when conflicts exist.
+// relations:
+//   - implements /ash/accessibility/accessibility_prefs_merge_conflict_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/accessibility_prefs_custom_associator.h
+// ---
+
 #include "ash/accessibility/accessibility_prefs_merge_conflict_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

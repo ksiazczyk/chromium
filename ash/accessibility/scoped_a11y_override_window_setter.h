@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped accessibility override window setter header
+// summary: Declares a scoped class that sets the accessibility focus window for its lifetime and clears it when destructed.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/aura/window_observer.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_SCOPED_A11Y_OVERRIDE_WINDOW_SETTER_H_
 #define ASH_ACCESSIBILITY_SCOPED_A11Y_OVERRIDE_WINDOW_SETTER_H_
 

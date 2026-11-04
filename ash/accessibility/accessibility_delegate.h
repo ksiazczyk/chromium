@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility delegate interface
+// summary: Interface for controlling and querying accessibility features such as the screen magnifier, its saved zoom scale, and creation of the prefs custom associator.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_ACCESSIBILITY_DELEGATE_H_
 #define ASH_ACCESSIBILITY_ACCESSIBILITY_DELEGATE_H_
 

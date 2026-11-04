@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag event rewriter implementation
+// summary: Rewrites mouse move events into drag events to support drag-and-drop actions from Autoclick and FaceGaze.
+// relations:
+//   - implements /ash/accessibility/drag_event_rewriter.h
+// ---
+
 #include "ash/accessibility/drag_event_rewriter.h"
 
 namespace ash {

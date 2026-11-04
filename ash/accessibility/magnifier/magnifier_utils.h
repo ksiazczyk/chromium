@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magnifier utility functions and constants
+// summary: Declares magnifier constants and functions for exponential scale adjustment, viewport widget bounds, and updating the active magnifier's focus.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+//   - tested_by /ash/accessibility/magnifier/magnifier_utils_unittest.cc
+// ---
+
 #ifndef ASH_ACCESSIBILITY_MAGNIFIER_MAGNIFIER_UTILS_H_
 #define ASH_ACCESSIBILITY_MAGNIFIER_MAGNIFIER_UTILS_H_
 

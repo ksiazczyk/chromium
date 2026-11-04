@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: accessibility_panel_layout_manager.cc
+// summary: Implements the layout manager that positions the ChromeVox spoken feedback panel and adjusts the display work area for its height.
+// relations:
+//   - implements /ash/accessibility/ui/accessibility_panel_layout_manager.h
+//   - depends_on /ash/root_window_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_panel_layout_manager.h"
 
 #include "ash/root_window_controller.h"

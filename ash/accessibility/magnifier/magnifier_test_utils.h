@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magnifier test helper declarations
+// summary: Declares MagnifierFocusTestHelper and MagnifierTextInputTestHelper, which support magnifier unit tests for focus and text input behavior.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/ime/input_method.h
+//   - depends_on /ui/gfx/geometry/size.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_MAGNIFIER_MAGNIFIER_TEST_UTILS_H_
 #define ASH_ACCESSIBILITY_MAGNIFIER_MAGNIFIER_TEST_UTILS_H_
 

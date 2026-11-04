@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusRingLayer implementation for accessibility focus rings
+// summary: Implements the FocusRingLayer that paints a focus ring with a quadratic fading shadow around a given rectangle, supporting an optional custom color.
+// relations:
+//   - depends_on /ash/accessibility/ui/focus_ring_layer.h
+//   - implements /ash/accessibility/ui/focus_ring_layer.h
+//   - depends_on /ash/accessibility/ui/accessibility_layer.h
+// ---
+
 #include "ash/accessibility/ui/focus_ring_layer.h"
 #include "ash/accessibility/ui/accessibility_layer.h"
 

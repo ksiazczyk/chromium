@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sticky keys controller unit tests
+// summary: Tests the sticky keys controller's rewriting of key, mouse, wheel, and scroll events using synthesized input events.
+// relations:
+//   - tests /ash/accessibility/sticky_keys/sticky_keys_controller.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include <array>
 
 #include "ash/accessibility/sticky_keys/sticky_keys_controller.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility sync prefs utilities unit tests
+// summary: Tests that only the accessibility preference batches whose sync feature flags are enabled are returned by the batch utility functions.
+// relations:
+//   - tests /ash/accessibility/accessibility_sync_prefs_utils.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /base/test/scoped_feature_list.h
+// ---
+
 #include "ash/accessibility/accessibility_sync_prefs_utils.h"
 
 #include "ash/constants/ash_features.h"

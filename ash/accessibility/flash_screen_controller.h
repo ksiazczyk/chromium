@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flash screen controller header
+// summary: Declares FlashScreenController, which flashes the screen for notifications and supports preview, enable and color settings.
+// relations:
+//   - depends_on /ash/constants/ash_constants.h
+//   - depends_on /base/scoped_observation.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_FLASH_SCREEN_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_FLASH_SCREEN_CONTROLLER_H_
 

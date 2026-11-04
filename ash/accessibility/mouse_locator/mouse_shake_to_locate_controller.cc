@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shake-to-locate controller implementation
+// summary: Implements the controller that enlarges the cursor when a mouse shake is detected and animates it back to its original size while managing the runtime cursor state.
+// relations:
+//   - depends_on /ash/accessibility/mouse_locator/mouse_shake_to_locate_controller.h
+//   - depends_on /ash/accessibility/accessibility_event_handler_manager.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/mouse_locator/mouse_shake_to_locate_controller.h"
 
 #include <memory>

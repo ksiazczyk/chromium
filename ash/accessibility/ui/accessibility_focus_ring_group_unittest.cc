@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility focus ring group unit tests
+// summary: Unit tests for focus ring group behavior, including clipping offscreen rects to bounds, simple bounds checks, tiny rects, and snapping rings to the screen.
+// relations:
+//   - tests /ash/accessibility/ui/accessibility_focus_ring_group.h
+//   - tests /ash/accessibility/ui/accessibility_focus_ring.h
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring_layer.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_focus_ring_group.h"
 
 #include <array>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spoken feedback enabler implementation
+// summary: Implements a repeating timer that plays countdown ticks and toggles spoken feedback after the hold duration elapses.
+// relations:
+//   - implements /ash/accessibility/chromevox/spoken_feedback_enabler.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/chromevox/spoken_feedback_enabler.h"
 
 #include "ash/accessibility/accessibility_controller.h"

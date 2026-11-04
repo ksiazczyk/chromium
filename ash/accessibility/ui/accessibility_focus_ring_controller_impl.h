@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityFocusRingControllerImpl class declaration
+// summary: Declares the controller that handles drawing custom rings around the focused object, cursor, and caret for accessibility, with test hooks.
+// relations:
+//   - depends_on /ash/accessibility/ui/accessibility_animation_one_shot.h
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring.h
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring_group.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_ACCESSIBILITY_FOCUS_RING_CONTROLLER_IMPL_H_
 #define ASH_ACCESSIBILITY_UI_ACCESSIBILITY_FOCUS_RING_CONTROLLER_IMPL_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch accessibility enabler implementation
+// summary: Implements touch event tracking that detects a stationary two-finger hold to toggle spoken feedback with countdown sounds.
+// relations:
+//   - implements /ash/accessibility/chromevox/touch_accessibility_enabler.h
+//   - depends_on /base/check.h
+//   - depends_on /base/metrics/user_metrics.h
+// ---
+
 #include "ash/accessibility/chromevox/touch_accessibility_enabler.h"
 
 #include <math.h>

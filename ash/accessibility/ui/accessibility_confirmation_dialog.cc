@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityConfirmationDialog implementation
+// summary: Implements a system-modal confirmation dialog for accessibility actions, with an optional countdown timeout that updates the message each second.
+// relations:
+//   - implements /ash/accessibility/ui/accessibility_confirmation_dialog.h
+//   - depends_on /ash/accessibility/ui/accessibility_confirmation_dialog.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_confirmation_dialog.h"
 
 #include <memory>

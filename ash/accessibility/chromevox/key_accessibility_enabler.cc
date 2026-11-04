@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key accessibility enabler implementation
+// summary: Implements detection of volume up and down key presses in tablet mode to start toggling spoken feedback after a hold delay.
+// relations:
+//   - depends_on /ash/accessibility/chromevox/key_accessibility_enabler.h
+//   - depends_on /ash/accessibility/chromevox/spoken_feedback_enabler.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/chromevox/key_accessibility_enabler.h"
 
 #include "ash/accessibility/chromevox/spoken_feedback_enabler.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityAnimationOneShot implementation
+// summary: Implements a one-shot compositor animation observer that runs a callback each animation step until the callback reports the animation is finished.
+// relations:
+//   - implements /ash/accessibility/ui/accessibility_animation_one_shot.h
+//   - depends_on /ash/accessibility/ui/accessibility_animation_one_shot.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_animation_one_shot.h"
 
 #include "ash/shell.h"

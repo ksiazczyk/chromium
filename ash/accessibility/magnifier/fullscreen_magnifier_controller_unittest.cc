@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen magnifier controller unit tests
+// summary: Unit tests covering fullscreen magnifier panning, touch gesture handling, viewport bounds, and point-of-interest tracking.
+// relations:
+//   - tests /ash/accessibility/magnifier/fullscreen_magnifier_controller.h
+//   - depends_on /ash/accessibility/magnifier/magnifier_test_utils.h
+//   - depends_on /ash/accessibility/magnifier/magnifier_utils.h
+// ---
+
 #include "ash/accessibility/magnifier/fullscreen_magnifier_controller.h"
 
 #include "ash/accessibility/magnifier/magnifier_test_utils.h"

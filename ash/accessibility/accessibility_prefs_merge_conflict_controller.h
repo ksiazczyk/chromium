@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityPrefsMergeConflictController header
+// summary: Declares the controller that owns the business logic for resolving accessibility preference conflicts between local OOBE/login values and account-stored synced values.
+// ---
+
 #ifndef ASH_ACCESSIBILITY_ACCESSIBILITY_PREFS_MERGE_CONFLICT_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_ACCESSIBILITY_PREFS_MERGE_CONFLICT_CONTROLLER_H_
 
