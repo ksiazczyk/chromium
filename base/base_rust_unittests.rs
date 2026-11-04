@@ -4,6 +4,12 @@
 
 //! Crate root for all base Rust unit tests.
 
+// ---docerion
+// type: test
+// title: Crate root for base Rust unit tests
+// summary: Declares the Rust unit test modules for base, covering sequenced task runners, file paths, command line, and histograms.
+// ---
+
 #[path = "task/sequenced_task_runner_unittest.rs"]
 mod sequenced_task_runner_unittest;
 

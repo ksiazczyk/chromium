@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedObservationTraits for custom observer sources
+// summary: Defines a traits template that lets ScopedObservation work with sources whose observer add/remove methods have custom names instead of AddObserver/RemoveObserver.
+// ---
+
 #ifndef BASE_SCOPED_OBSERVATION_TRAITS_H_
 #define BASE_SCOPED_OBSERVATION_TRAITS_H_
 

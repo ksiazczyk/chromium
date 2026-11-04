@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnguessableToken implementation
+// summary: Implementation of UnguessableToken covering creation from random data, deserialization, and constant-time comparison.
+// ---
+
 #include "base/unguessable_token.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback list container
+// summary: Defines CallbackListSubscription and the Once/RepeatingCallbackList containers that let callers register callbacks, notify them, and unregister automatically via subscription ownership.
+// ---
+
 #ifndef BASE_CALLBACK_LIST_H_
 #define BASE_CALLBACK_LIST_H_
 

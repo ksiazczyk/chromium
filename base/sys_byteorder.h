@@ -7,6 +7,12 @@
 // Use the functions defined here rather than using the platform-specific
 // functions directly.
 
+// ---docerion
+// type: source
+// title: Cross-platform byte order conversion helpers
+// summary: Defines inline NetToHost and HostToNet functions for converting 16, 32, and 64-bit values between network and host endianness.
+// ---
+
 #ifndef BASE_SYS_BYTEORDER_H_
 #define BASE_SYS_BYTEORDER_H_
 

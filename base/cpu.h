@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU class for querying processor information
+// summary: Declares the base::CPU class with accessors for vendor, signature, and instruction set features such as SSE, AVX, MTE, BTI, and PKU.
+// ---
+
 #ifndef BASE_CPU_H_
 #define BASE_CPU_H_
 

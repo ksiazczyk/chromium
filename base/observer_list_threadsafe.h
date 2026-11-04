@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-safe observer list
+// summary: Defines ObserverListThreadSafe, a container that notifies observers on their registration sequence via posted tasks from any thread.
+// ---
+
 #ifndef BASE_OBSERVER_LIST_THREADSAFE_H_
 #define BASE_OBSERVER_LIST_THREADSAFE_H_
 

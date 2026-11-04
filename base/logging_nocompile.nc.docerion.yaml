@@ -1,0 +1,4 @@
+# Docerion header of logging_nocompile.nc.
+type: test
+title: No-compile tests for logging macros
+summary: No-compile test suite asserting that LOG(FATAL) and LOG_ASSERT are treated as noreturn while DFATAL and DLOG(FATAL) variants are not, expecting specific compile errors.

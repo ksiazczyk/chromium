@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Barrier closure unit tests
+// summary: Unit tests covering BarrierClosure behavior for zero closures, counting down to the done closure, done-closure release, and resetting the barrier from within its own run.
+// ---
+
 #include "base/barrier_closure.h"
 
 #include "base/functional/bind.h"

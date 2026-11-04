@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Barrier closure implementation
+// summary: Implements base::BarrierClosure, which runs a done closure once a given number of callback invocations have occurred, tracking the remaining count with an atomic reference count.
+// ---
+
 #include "base/barrier_closure.h"
 
 #include <utility>

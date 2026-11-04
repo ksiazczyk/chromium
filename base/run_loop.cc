@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RunLoop implementation
+// summary: Implements the RunLoop class, including delegate registration, nested loop handling, timeouts, and quit behavior for running task queues.
+// ---
+
 #include "base/run_loop.h"
 
 #include "base/cancelable_callback.h"

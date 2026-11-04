@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedEnvironmentVariableOverride implementation
+// summary: Implements a RAII helper that temporarily sets, overrides, or unsets an environment variable and restores its previous value when the object is destroyed.
+// ---
+
 #include "base/scoped_environment_variable_override.h"
 
 #include "base/environment.h"

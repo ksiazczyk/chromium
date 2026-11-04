@@ -1,0 +1,4 @@
+# Docerion header of SECURITY_OWNERS.
+type: config
+title: Security owners for base
+summary: Lists the security reviewers required for changes to high-privilege code with memory corruption risk, usable beyond base.

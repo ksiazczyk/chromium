@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedGeneric
+// summary: Unit tests covering ScopedGeneric construction, release, reset, move semantics, comparison operators, Receiver, and swap behavior using integer test traits.
+// ---
+
 #include "base/scoped_generic.h"
 
 #include <memory>

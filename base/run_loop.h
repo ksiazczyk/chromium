@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RunLoop class header
+// summary: Declares the RunLoop helper for running a thread's delegate, with Run, RunUntilIdle, Quit, nesting types, and timeout support.
+// ---
+
 #ifndef BASE_RUN_LOOP_H_
 #define BASE_RUN_LOOP_H_
 

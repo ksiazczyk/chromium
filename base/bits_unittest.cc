@@ -4,6 +4,12 @@
 
 // This file contains the unit tests for the bit utilities.
 
+// ---docerion
+// type: test
+// title: Bit utilities unit tests
+// summary: Unit tests for the base::bits helpers covering log2 computations and integer and pointer alignment in both directions.
+// ---
+
 #include "base/bits.h"
 
 #include <stddef.h>

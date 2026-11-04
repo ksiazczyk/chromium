@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal simdutf base64 shim declarations
+// summary: Declares internal wrapper functions around simdutf base64 conversion so the base target avoids a direct dependency on simdutf; not for direct use.
+// ---
+
 #ifndef BASE_SIMDUTF_SHIM_H_
 #define BASE_SIMDUTF_SHIM_H_
 

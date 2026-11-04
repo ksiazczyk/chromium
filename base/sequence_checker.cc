@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequenceChecker validation scope implementation
+// summary: Implements ScopedValidateSequenceChecker, which asserts CalledOnValidSequence on scope entry and logs the stack where the checker was bound in DCHECK builds.
+// ---
+
 #include "base/sequence_checker.h"
 
 #if DCHECK_IS_ON()

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoReset scoped value restorer
+// summary: Defines base::AutoReset, a helper that temporarily sets a variable to a new value and restores the original value when the scope ends.
+// ---
+
 #ifndef BASE_AUTO_RESET_H_
 #define BASE_AUTO_RESET_H_
 

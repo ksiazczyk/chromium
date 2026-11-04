@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMultiSourceObservation header
+// summary: Declares ScopedMultiSourceObservation, which manages an observer registered with multiple sources and automatically removes all observations on destruction.
+// ---
+
 #ifndef BASE_SCOPED_MULTI_SOURCE_OBSERVATION_H_
 #define BASE_SCOPED_MULTI_SOURCE_OBSERVATION_H_
 

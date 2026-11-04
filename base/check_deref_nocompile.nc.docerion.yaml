@@ -1,0 +1,4 @@
+# Docerion header of check_deref_nocompile.nc.
+type: test
+title: CHECK_DEREF no-compile tests
+summary: No-compile test verifying that CHECK_DEREF does not extend the lifetime of temporaries, expecting a compiler error when binding one to a local reference.

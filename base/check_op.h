@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CHECK_EQ and comparison check macros
+// summary: Defines (DP)CHECK_EQ and related macros that log operand values on failure, along with stringification support; deliberately kept out of common headers due to size.
+// ---
+
 #ifndef BASE_CHECK_OP_H_
 #define BASE_CHECK_OP_H_
 

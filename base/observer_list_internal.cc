@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observer list internal adapter implementation
+// summary: Implements CheckedObserverAdapter, which tracks observers via weak pointers and optionally captures creation stack traces in debug builds.
+// ---
+
 #include "base/observer_list_internal.h"
 
 #include <memory>

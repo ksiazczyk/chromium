@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value class header
+// summary: Declares base::Value, ListValue and related types for representing JSON-like data with lists, dictionaries and typed accessors.
+// ---
+
 #ifndef BASE_VALUES_H_
 #define BASE_VALUES_H_
 

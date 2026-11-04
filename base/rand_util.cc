@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Random utility implementation
+// summary: Implements random helpers such as RandUint64, RandIntInclusive, RandDouble, RandTimeDelta, and RandBytesAsString built on cryptographically secure random bytes.
+// ---
+
 #include "base/rand_util.h"
 
 #include <limits.h>

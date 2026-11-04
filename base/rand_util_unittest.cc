@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Random utility unit tests
+// summary: Unit tests covering RandIntInclusive, RandDouble, RandFloat, RandBool, RandTimeDelta, RandomizeByPercentage and unit-interval conversion helpers.
+// ---
+
 #include "base/rand_util.h"
 
 #include <stddef.h>

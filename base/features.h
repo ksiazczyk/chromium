@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base library feature flag declarations
+// summary: Declares the exported base library feature flags and parameters, including platform-specific features for Android, Windows, and POSIX.
+// ---
+
 #ifndef BASE_FEATURES_H_
 #define BASE_FEATURES_H_
 

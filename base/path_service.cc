@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PathService implementation
+// summary: Implements the global path service that maps keys to file system paths using platform-specific providers and a cache.
+// ---
+
 #include "base/path_service.h"
 
 #include <utility>

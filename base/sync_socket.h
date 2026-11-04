@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncSocket API declaration
+// summary: Declares SyncSocket for low-latency blocking send and receive across processes, plus CancelableSyncSocket that can shut down blocking operations from another thread.
+// ---
+
 #ifndef BASE_SYNC_SOCKET_H_
 #define BASE_SYNC_SOCKET_H_
 

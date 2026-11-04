@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Check failure logging implementation
+// summary: Implements CHECK and DCHECK failure handling, including crash key registration, fatal milestone severity logic, and dump-without-crashing support.
+// ---
+
 #include "base/check.h"
 
 #include <optional>

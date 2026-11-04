@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for base
+summary: Lists the base owners and per-file ownership rules for platform, feature, logging and security-sensitive changes.

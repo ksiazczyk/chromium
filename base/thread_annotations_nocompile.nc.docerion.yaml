@@ -1,0 +1,4 @@
+# Docerion header of thread_annotations_nocompile.nc.
+type: test
+title: No-compile tests for thread annotations
+summary: No-compile test suite verifying that the thread safety annotations reject missing lock release, unguarded access, and invalid guard arguments.

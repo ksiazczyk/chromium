@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Environment class unit tests
+// summary: Tests the base::Environment methods GetVar, HasVar, SetVar and UnSetVar, including the reverse-case variable name fallback behavior.
+// ---
+
 #include "base/environment.h"
 
 #include <memory>

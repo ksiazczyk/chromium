@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File version information interface
+// summary: Declares the FileVersionInfo interface for reading version properties like product name and version on Windows and Apple platforms.
+// ---
+
 #ifndef BASE_FILE_VERSION_INFO_H_
 #define BASE_FILE_VERSION_INFO_H_
 

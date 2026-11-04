@@ -1,0 +1,4 @@
+# Docerion header of no_destructor_nocompile.nc.
+type: test
+title: NoDestructor no-compile tests
+summary: No-compile test suite verifying that NoDestructor fails to compile when used with trivially constructible or trivially destructible types.

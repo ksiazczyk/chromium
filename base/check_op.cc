@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Check operand stringification implementation
+// summary: Implements CheckOpValueStr overloads and helper functions that turn CHECK_EQ-style operand values into strings for check failure messages.
+// ---
+
 #include "base/check_op.h"
 
 #include <string.h>

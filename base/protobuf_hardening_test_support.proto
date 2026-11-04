@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf hardening test message definition
+// summary: Proto2 definition of a message with repeated fields used to generate support code for the protobuf hardening tests.
+// ---
+
 syntax = "proto2";
 
 package base.test;

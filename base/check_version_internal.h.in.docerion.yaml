@@ -1,0 +1,4 @@
+# Docerion header of check_version_internal.h.in.
+type: source
+title: Check version header template
+summary: Template used to generate check_version_internal.h, substituting the current and next milestone version numbers into the BASE_CHECK version macros.

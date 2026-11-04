@@ -34,6 +34,12 @@
 // you want to refer to is not in scope, you may use a member pointer
 // (e.g. &MyClass::mutex_) to refer to a mutex in some (unknown) object.
 
+// ---docerion
+// type: source
+// title: Thread safety annotation macros
+// summary: Defines Clang thread safety annotation macros such as GUARDED_BY and EXCLUSIVE_LOCKS_REQUIRED for documenting locking policies.
+// ---
+
 #ifndef BASE_THREAD_ANNOTATIONS_H_
 #define BASE_THREAD_ANNOTATIONS_H_
 

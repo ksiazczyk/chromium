@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedGeneric scoper template for non-pointer resources
+// summary: Defines the ScopedGeneric template, a unique_ptr-like scoper that owns non-pointer values such as file descriptors or OS handles via traits providing an invalid value and free function.
+// ---
+
 #ifndef BASE_SCOPED_GENERIC_H_
 #define BASE_SCOPED_GENERIC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical closure wrapper for iOS background execution
+// summary: Provides MakeCriticalClosure, which wraps closures so they keep running when an iOS app is backgrounded via ScopedCriticalAction.
+// ---
+
 #ifndef BASE_CRITICAL_CLOSURE_H_
 #define BASE_CRITICAL_CLOSURE_H_
 

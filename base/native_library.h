@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-platform native library loading API
+// summary: Declares the NativeLibrary type and functions to load, unload, and query native libraries across Windows, Apple, POSIX, and Fuchsia platforms.
+// ---
+
 #ifndef BASE_NATIVE_LIBRARY_H_
 #define BASE_NATIVE_LIBRARY_H_
 

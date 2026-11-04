@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedAddFeatureFlags unit tests
+// summary: Tests that ScopedAddFeatureFlags merges with existing feature flags without duplicates and supports features with parameters.
+// ---
+
 #include "base/scoped_add_feature_flags.h"
 
 #include <cstring>

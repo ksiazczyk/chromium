@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for atomicops
+// summary: GoogleTest suite verifying atomic increment, compare-and-swap and exchange behavior of the base::subtle atomic routines.
+// ---
+
 #include "base/atomicops.h"
 
 #include <stdint.h>

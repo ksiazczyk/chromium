@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android OS compatibility shims
+// summary: Implements futimes via the utimensat syscall for Android API levels below 26 as an OS compatibility shim.
+// ---
+
 #include "base/os_compat_android.h"
 
 #include <asm/unistd.h>

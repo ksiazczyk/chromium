@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust shim for feature field trial parameters
+// summary: Implements C++ shim functions that let Rust code read field trial parameters by feature for bool, int, double, string, and time delta values.
+// ---
+
 #include "base/feature_rust_shim.h"
 
 #include <string>

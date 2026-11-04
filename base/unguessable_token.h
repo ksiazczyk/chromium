@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnguessableToken header
+// summary: Header defining UnguessableToken, a cryptographically random 128-bit bearer token for protecting resources across processes.
+// ---
+
 #ifndef BASE_UNGUESSABLE_TOKEN_H_
 #define BASE_UNGUESSABLE_TOKEN_H_
 

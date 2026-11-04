@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequenceCheckerImpl implementation
+// summary: Implements the real SequenceChecker logic, binding to sequences or tracked locks, move semantics, and optional stack logging on validation failure.
+// ---
+
 #include "base/sequence_checker_impl.h"
 
 #include <algorithm>

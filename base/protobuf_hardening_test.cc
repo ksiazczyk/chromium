@@ -5,6 +5,12 @@
 // Tests that protobuf hardening options are enabled. Currently, the only option
 // available (and tested) is PROTOBUF_INTERNAL_BOUNDS_CHECK_MODE_ABORT.
 
+// ---docerion
+// type: test
+// title: Protobuf hardening tests
+// summary: Tests that protobuf bounds-check hardening is enabled by expecting death on out-of-bounds access to repeated fields of a test message.
+// ---
+
 #include "base/protobuf_hardening_test_support.pb.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

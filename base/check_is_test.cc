@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CHECK_IS_TEST implementation
+// summary: Implements the global test-mode flag behind CHECK_IS_TEST and the AllowCheckIsTestForTesting hook that test code uses to enable it.
+// ---
+
 #include "base/check_is_test.h"
 
 #include "base/base_export.h"

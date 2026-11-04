@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CHECK_IS_TEST unit test
+// summary: Verifies that CHECK_IS_TEST succeeds when test mode has been enabled by the unit test launcher before the test runs.
+// ---
+
 #include "base/check_is_test.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

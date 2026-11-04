@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LazyInstance unit tests
+// summary: Unit tests for base::LazyInstance covering lazy construction, thread-safe initialization, and destruction behavior at AtExitManager shutdown.
+// ---
+
 #include "base/lazy_instance.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequence and task token classes for sequenced work items
+// summary: Defines SequenceToken, TaskToken and TaskScope classes that identify sequenced work items and tasks, used by thread checking and task scoping in the base library.
+// ---
+
 #ifndef BASE_SEQUENCE_TOKEN_H_
 #define BASE_SEQUENCE_TOKEN_H_
 

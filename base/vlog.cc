@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vlog implementation
+// summary: Implements VlogInfo, parsing v and vmodule switches to determine per-module verbose logging levels for the logging system.
+// ---
+
 #include "base/vlog.h"
 
 #include <stddef.h>

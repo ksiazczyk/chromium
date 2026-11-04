@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for byte order conversion
+// summary: Tests the NetToHost and HostToNet functions against known swapped values on little- and big-endian platforms.
+// ---
+
 #include "base/sys_byteorder.h"
 
 #include <stdint.h>

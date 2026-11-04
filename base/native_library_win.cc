@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native library loading for Windows
+// summary: Implements native library loading on Windows with LoadLibraryExW and a LoadLibraryW fallback, system library resolution and LoaderLock-aware blocking calls.
+// ---
+
 #include "base/native_library.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust UnguessableToken binding
+// summary: Rust definition of UnguessableToken matching the C++ layout, with constant-time equality and a cxx bridge to the C++ type.
+// ---
+
 #![deny(unsafe_code)]
 
 use subtle::ConstantTimeEq;

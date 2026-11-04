@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows ETW log event provider implementation
+// summary: Implements the LogEventProvider that routes log messages to Event Tracing for Windows, mapping severities to ETW levels and optionally capturing stack traces.
+// ---
+
 #include "base/logging_win.h"
 
 #include <initguid.h>

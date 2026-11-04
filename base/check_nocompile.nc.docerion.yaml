@@ -1,0 +1,4 @@
+# Docerion header of check_nocompile.nc.
+type: test
+title: CHECK no-compile tests
+summary: No-compile test suite verifying that CHECK rejects invalid base::NotFatalUntil argument usage at compile time.

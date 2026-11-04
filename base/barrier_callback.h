@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BarrierCallback for aggregated callback results
+// summary: Defines BarrierCallback, a thread-safe callback that collects results from a fixed number of Run calls and then invokes a done callback with the collected vector.
+// ---
+
 #ifndef BASE_BARRIER_CALLBACK_H_
 #define BASE_BARRIER_CALLBACK_H_
 

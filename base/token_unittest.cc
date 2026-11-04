@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Token
+// summary: Tests Token construction, equality, ordering, string conversion and parsing rules, and pickle round-tripping.
+// ---
+
 #include "base/token.h"
 
 #include "base/pickle.h"

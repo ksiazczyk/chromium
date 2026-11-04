@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging implementation
+// summary: Implements the Chromium logging system with severity levels, VLOG handling, platform-specific sinks, crash integration, and trace event output.
+// ---
+
 #include "base/logging.h"
 
 #include <limits.h>

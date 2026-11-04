@@ -5,6 +5,12 @@
 //! This module defines the user-visible interface for using a base::RunLoop
 //! object from Rust.
 
+// ---docerion
+// type: source
+// title: Rust bindings for RunLoop
+// summary: Defines a cxx bridge exposing the C++ RunLoop to Rust with run, quit closure, and run-until-idle operations.
+// ---
+
 #[cxx::bridge(namespace = "base")]
 mod ffi {
     unsafe extern "C++" {

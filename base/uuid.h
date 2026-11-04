@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uuid class header
+// summary: Declares base::Uuid for generating, parsing, comparing and hashing RFC 4122 version 4 UUIDs, with integer conversion and stream output support.
+// ---
+
 #ifndef BASE_UUID_H_
 #define BASE_UUID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed and enterprise device detection API
+// summary: Declares functions to detect MDM-managed or enterprise-joined devices, including macOS enrollment state and domain join queries.
+// ---
+
 #ifndef BASE_ENTERPRISE_UTIL_H_
 #define BASE_ENTERPRISE_UTIL_H_
 

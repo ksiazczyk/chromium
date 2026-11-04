@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CHECK and DCHECK unit tests
+// summary: Extensive tests for CHECK, DCHECK, NotFatalUntil milestones, and dump-without-crashing behavior, including death-test expectations for check failures.
+// ---
+
 #include <array>
 #include <string>
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System event log logging interface
+// summary: Declares the SYSLOG macro and EventLogMessage class for logging important messages to the system event log.
+// ---
+
 #ifndef BASE_SYSLOG_LOGGING_H_
 #define BASE_SYSLOG_LOGGING_H_
 

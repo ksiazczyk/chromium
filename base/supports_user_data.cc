@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportsUserData implementation
+// summary: Implements key-based storage of user data for SupportsUserData, including get, take, set, remove, clone, sequence checks, and safe destruction semantics.
+// ---
+
 #include "base/supports_user_data.h"
 
 #include "base/auto_reset.h"

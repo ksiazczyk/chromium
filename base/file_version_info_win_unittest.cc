@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileVersionInfoWin unit tests
+// summary: Unit tests that verify version properties read from a test DLL, using factories that load it either as a file path or as an image-resource library module.
+// ---
+
 #include "base/file_version_info_win.h"
 
 #include <windows.h>

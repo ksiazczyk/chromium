@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File descriptor store implementation
+// summary: Implements the FileDescriptorStore singleton that maps unique keys to file descriptors and optional memory regions for retrieval.
+// ---
+
 #include "base/file_descriptor_store.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedObservation header
+// summary: Declares ScopedObservation, which registers an observer with a single source and automatically unregisters it on destruction or Reset, with customizable traits.
+// ---
+
 #ifndef BASE_SCOPED_OBSERVATION_H_
 #define BASE_SCOPED_OBSERVATION_H_
 

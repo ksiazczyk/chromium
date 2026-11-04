@@ -1,0 +1,4 @@
+# Docerion header of critical_closure_internal_ios.mm.
+type: source
+title: iOS implementation of critical closures
+summary: Implements ImmediateCriticalClosure and PendingCriticalClosure for iOS, starting ScopedCriticalAction to keep tasks running in the background.

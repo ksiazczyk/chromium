@@ -1,0 +1,4 @@
+# Docerion header of sequence_checker_nocompile.nc.
+type: test
+title: No-compile tests for SequenceChecker
+summary: A no-compile test suite verifying that code accessing sequence-guarded members without the required sequence assertion fails to compile in DCHECK builds.

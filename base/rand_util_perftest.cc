@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Random utility performance tests
+// summary: Measures the throughput of RandUint64 and InsecureRandomGenerator over millions of iterations and reports nanoseconds per iteration.
+// ---
+
 #include "base/rand_util.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BASE_EXPORT macro definition
+// summary: Defines the BASE_EXPORT macro for exporting or importing symbols in component builds on Windows and other platforms.
+// ---
+
 #ifndef BASE_BASE_EXPORT_H_
 #define BASE_BASE_EXPORT_H_
 

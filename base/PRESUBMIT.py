@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for base
+# summary: Presubmit script that enforces cpplint cleanliness and forbids Objective-C interfaces in base on upload and commit.
+# ---
+
 """Chromium presubmit script for src/base.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

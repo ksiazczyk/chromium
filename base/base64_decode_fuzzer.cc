@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base64 decode fuzzer
+// summary: LibFuzzer target that decodes arbitrary input bytes as base64 to detect crashes or undefined behavior in the decoder.
+// ---
+
 #include <string>
 #include <string_view>
 

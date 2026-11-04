@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tuple unit tests
+// summary: Unit tests for the tuple dispatch helpers covering basic argument unpacking and copy behavior of tuple elements.
+// ---
+
 #include "base/tuple.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

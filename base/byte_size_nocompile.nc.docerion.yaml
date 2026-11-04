@@ -1,0 +1,4 @@
+# Docerion header of byte_size_nocompile.nc.
+type: test
+title: Byte size no-compile tests
+summary: No-compile test suite asserting that invalid ByteSize and ByteSizeDelta constructions, such as negative or runtime values, fail to compile.

@@ -6,6 +6,12 @@
 // correctly.  It just instantiates a mock object and runs through a couple of
 // the basic mock features.
 
+// ---docerion
+// type: test
+// title: gmock build sanity test
+// summary: Sanity test that instantiates a mock object and exercises basic gmock matchers, actions and expectations to confirm gmock builds and links correctly.
+// ---
+
 #include "testing/gmock/include/gmock/gmock.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

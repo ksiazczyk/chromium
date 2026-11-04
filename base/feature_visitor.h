@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureVisitor interface
+// summary: Declares the FeatureVisitor interface for iterating over feature names, override states, parameters, and associated field trials in FeatureList.
+// ---
+
 #ifndef BASE_FEATURE_VISITOR_H_
 #define BASE_FEATURE_VISITOR_H_
 

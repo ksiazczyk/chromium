@@ -1,0 +1,4 @@
+# Docerion header of file_version_info_apple.mm.
+type: source
+title: Apple file version information implementation
+summary: Implements FileVersionInfo for Apple platforms, reading version values from bundle Info.plist keys with iOS-specific version handling.

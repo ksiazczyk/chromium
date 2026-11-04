@@ -1,0 +1,4 @@
+# Docerion header of native_library_apple.mm.
+type: source
+title: Apple native library loading implementation
+summary: Implements native library loading on Apple platforms using dlopen for dylibs and CFBundle for bundles, including symbol lookup and library naming.

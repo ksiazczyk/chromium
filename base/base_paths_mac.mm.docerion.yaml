@@ -1,0 +1,4 @@
+# Docerion header of base_paths_mac.mm.
+type: source
+title: Mac path provider for the base path service
+summary: Implements PathProviderMac, resolving executable, module, app data, test data root, desktop, assets, and cache paths on macOS.

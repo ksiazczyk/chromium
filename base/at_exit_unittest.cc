@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtExitManager unit tests
+// summary: Unit tests verifying callback registration, LIFO execution order, parameter passing and task processing of AtExitManager.
+// ---
+
 #include "base/at_exit.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObserverList container
+// summary: Defines base::ObserverList, an observer container that can be safely modified during iteration, with policies for reentrancy, emptiness checks and notification.
+// ---
+
 #ifndef BASE_OBSERVER_LIST_H_
 #define BASE_OBSERVER_LIST_H_
 

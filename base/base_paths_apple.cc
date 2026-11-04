@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple executable and module path helpers
+// summary: Implements internal helpers returning the absolute executable path and resolving the module path for a given address on Apple platforms.
+// ---
+
 #include "base/base_paths_apple.h"
 
 #include <dlfcn.h>

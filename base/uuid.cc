@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uuid implementation
+// summary: Implements the base::Uuid class, including random version 4 generation per RFC 4122 and case-insensitive or strict lowercase parsing of canonical UUID strings.
+// ---
+
 #include "base/uuid.h"
 
 #include <stddef.h>

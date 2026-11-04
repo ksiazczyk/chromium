@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tools sanity unit test
+// summary: Unit test that deliberately performs memory errors to verify sanitizer and memory checking tools detect them.
+// ---
+
 #include <array>
 
 // This file contains intentional memory errors, some of which may lead to

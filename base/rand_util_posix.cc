@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX implementation of random utilities
+// summary: Implements RandBytes on POSIX platforms via BoringSSL, getentropy or CommonCrypto, the getrandom syscall, and a cached /dev/urandom file descriptor as fallback.
+// ---
+
 #include "base/rand_util.h"
 
 #include <stddef.h>

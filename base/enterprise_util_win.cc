@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows enterprise device detection implementation
+// summary: Implements Windows checks for managed and enterprise devices using domain enrollment and Azure AD join, with an override hook for testing.
+// ---
+
 #include "base/enterprise_util.h"
 
 #include "base/win/win_util.h"

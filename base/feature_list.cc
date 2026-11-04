@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureList implementation
+// summary: Implements the FeatureList singleton that resolves feature enabled states from command-line overrides, field trials, and defaults, including runtime mutability support.
+// ---
+
 #include "base/feature_list.h"
 
 #include <stddef.h>

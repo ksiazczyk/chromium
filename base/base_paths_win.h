@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows-specific path keys for the base module
+// summary: Declares Windows-specific path keys for the PathService, covering system, program files, start menu, app data, fonts, temp, and OneDrive directories.
+// ---
+
 #ifndef BASE_BASE_PATHS_WIN_H_
 #define BASE_BASE_PATHS_WIN_H_
 

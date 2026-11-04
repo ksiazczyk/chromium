@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pickle fuzzer
+// summary: Fuzz harness that drives PickleIterator with randomly chosen read operations over fuzzed input to verify Pickle parsing stays safe on malformed data.
+// ---
+
 #include "base/pickle.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

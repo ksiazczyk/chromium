@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token class for 128-bit random identifiers
+// summary: Declares a 128-bit Token class similar in spirit to UUIDs, with random generation, comparison, hashing, and pickle support.
+// ---
+
 #ifndef BASE_TOKEN_H_
 #define BASE_TOKEN_H_
 

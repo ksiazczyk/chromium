@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust bindings for the command line
+// summary: Exposes the C++ CommandLine class to Rust via a cxx bridge, offering read-only access to the current process command line and owned instances for subprocess launches.
+// ---
+
 use std::ops::Deref;
 
 #[cxx::bridge(namespace = "base::rust")]

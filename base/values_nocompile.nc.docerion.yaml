@@ -1,0 +1,4 @@
+# Docerion header of values_nocompile.nc.
+type: test
+title: Value no-compile tests
+summary: No-compile test suite verifying that base::Value and ValueView reject construction from pointers and 64-bit integers at compile time.

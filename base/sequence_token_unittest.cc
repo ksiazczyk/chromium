@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SequenceToken and TaskToken
+// summary: Unit tests covering validity, equality, per-thread lookup, internal values and TaskScope behavior of SequenceToken and TaskToken.
+// ---
+
 #include "base/sequence_token.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base64url API header
+// summary: Declares base64url encode and decode functions with policies controlling whether padding is included, omitted, required, ignored, or disallowed.
+// ---
+
 #ifndef BASE_BASE64URL_H_
 #define BASE_BASE64URL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedNativeLibrary implementation
+// summary: Implements ScopedNativeLibrary, which wraps a native library handle and unloads it automatically, with function pointer lookup and load error access.
+// ---
+
 #include "base/scoped_native_library.h"
 
 namespace base {

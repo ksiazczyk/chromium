@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneShotEvent implementation
+// summary: Implements the base::OneShotEvent class, which queues tasks with their task runners and posts them once the event is signaled.
+// ---
+
 #include "base/one_shot_event.h"
 
 #include <stddef.h>

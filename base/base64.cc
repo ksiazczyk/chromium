@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base64 encoding and decoding implementation
+// summary: Implements base64 encode and decode with strict and forgiving policies, using modp_b64 and an optional simdutf fast path behind a feature flag.
+// ---
+
 #include "base/base64.h"
 
 #include <stddef.h>

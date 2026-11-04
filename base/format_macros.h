@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portable printf format macros
+// summary: Header defining portable format macros such as PRId64, PRIuS and WidePRId64 for printing 64-bit integers and size_t values across platforms.
+// ---
+
 #ifndef BASE_FORMAT_MACROS_H_
 #define BASE_FORMAT_MACROS_H_
 

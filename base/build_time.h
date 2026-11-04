@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Build time accessor
+// summary: Header providing GetBuildTime, which returns the binary's build time rounded down to 5am UTC from a generated timestamp.
+// ---
+
 #ifndef BASE_BUILD_TIME_H_
 #define BASE_BUILD_TIME_H_
 

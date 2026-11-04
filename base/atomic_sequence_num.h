@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtomicSequenceNumber generator
+// summary: Defines a thread-safe, static-initializer-free template that hands out increasing sequence numbers starting from zero.
+// ---
+
 #ifndef BASE_ATOMIC_SEQUENCE_NUM_H_
 #define BASE_ATOMIC_SEQUENCE_NUM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe numerics unit tests
+// summary: Extensive unit tests for base safe numerics covering checked, saturated, and wrapping arithmetic, conversions, and type promotion rules.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

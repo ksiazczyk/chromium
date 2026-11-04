@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of SyncSocket
+// summary: Implements SyncSocket on Windows with named pipes, secure random pipe names, anonymous security flags, and cancelable overlapped read and write operations.
+// ---
+
 #include "base/sync_socket.h"
 
 #include <limits.h>

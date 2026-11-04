@@ -22,6 +22,12 @@
 //   DispatchToMethod(&foo, &Foo::SomeMeth, std::make_tuple(1, 2, 3));
 //   // foo->SomeMeth(1, 2, 3);
 
+// ---docerion
+// type: source
+// title: Tuple dispatch helpers
+// summary: Header providing DispatchToMethod and DispatchToFunction helpers that unpack std::tuple contents into function or method calls.
+// ---
+
 #ifndef BASE_TUPLE_H_
 #define BASE_TUPLE_H_
 

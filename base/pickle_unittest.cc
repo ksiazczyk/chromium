@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pickle unit tests
+// summary: Unit tests verifying Pickle writes and PickleIterator reads primitives, strings, and byte data correctly, including that reads past the end fail.
+// ---
+
 #include "base/pickle.h"
 
 #include <limits.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread-safe observer list unit tests
+// summary: Tests ObserverListThreadSafe across threads, including add and remove races, removal policies, and callback sequencing.
+// ---
+
 #include "base/observer_list_threadsafe.h"
 
 #include <memory>

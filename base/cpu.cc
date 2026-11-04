@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU information query implementation
+// summary: Implements the base::CPU class, using CPUID, xgetbv, and platform-specific sources to detect vendor, model, and instruction set support.
+// ---
+
 #include "base/cpu.h"
 
 #include <stdint.h>

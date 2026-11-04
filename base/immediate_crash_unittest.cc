@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImmediateCrash unit tests
+// summary: Unit tests that verify ImmediateCrash is treated as noreturn and emits the expected trap instruction sequences on x86, ARM and ARM64 architectures.
+// ---
+
 #include "base/immediate_crash.h"
 
 #include <stdint.h>

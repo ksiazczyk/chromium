@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows file version information implementation
+// summary: Implements FileVersionInfo for Windows using the version resource API to read properties like product name and file version.
+// ---
+
 #include "base/file_version_info_win.h"
 
 #include <windows.h>

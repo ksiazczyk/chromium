@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version class implementation
+// summary: Implements the base::Version class, parsing dotted version strings into components and comparing versions including wildcard patterns.
+// ---
+
 #include "base/version.h"
 
 #include <stddef.h>

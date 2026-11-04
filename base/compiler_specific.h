@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compiler-specific attribute macros
+// summary: Defines macros for compiler-specific attributes such as inlining, noinline, and feature detection used across the Chromium codebase.
+// ---
+
 #ifndef BASE_COMPILER_SPECIFIC_H_
 #define BASE_COMPILER_SPECIFIC_H_
 

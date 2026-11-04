@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value class implementation
+// summary: Implements the base::Value variant type for null, boolean, number, string, binary, dictionary and list values, including cloning and dot-path helpers.
+// ---
+
 #include "base/values.h"
 
 #include <algorithm>

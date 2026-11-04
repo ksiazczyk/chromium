@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux stack canary reset for glibc
+// summary: Resets the glibc stack canary to a random value after fork on Linux, with a debug message for canary mismatches in debug builds.
+// ---
+
 #include "base/stack_canary_linux.h"
 
 #include <dlfcn.h>

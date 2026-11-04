@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version class header
+// summary: Declares base::Version, a dotted version number type supporting parsing, validity checks, comparison, and wildcard comparison.
+// ---
+
 #ifndef BASE_VERSION_H_
 #define BASE_VERSION_H_
 

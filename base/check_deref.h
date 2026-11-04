@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CHECK_DEREF helper
+// summary: Provides the CHECK_DEREF macro that dereferences a pointer-like value or crashes, intended for initializers and direct assignments where CHECK cannot be used.
+// ---
+
 #include <utility>
 
 #include "base/check.h"

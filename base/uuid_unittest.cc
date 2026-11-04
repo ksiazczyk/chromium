@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Uuid unit tests
+// summary: Tests for base::Uuid covering uniqueness of generated V4 UUIDs, parsing validity rules, equality, round-tripping and use in unordered and ordered sets.
+// ---
+
 #include "base/uuid.h"
 
 #include <stdint.h>

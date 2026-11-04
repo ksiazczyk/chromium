@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CHECK_IS_TEST macro definitions
+// summary: Defines the CHECK_IS_TEST and CHECK_IS_NOT_TEST macros that assert test-only code paths are not taken in production, with usage guidance and thread-safety notes.
+// ---
+
 #ifndef BASE_CHECK_IS_TEST_H_
 #define BASE_CHECK_IS_TEST_H_
 

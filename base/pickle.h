@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pickle serialization declarations
+// summary: Declares Pickle and PickleIterator for appending and reading primitive values, strings, and byte data in an aligned binary buffer.
+// ---
+
 #ifndef BASE_PICKLE_H_
 #define BASE_PICKLE_H_
 

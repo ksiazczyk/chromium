@@ -1,0 +1,4 @@
+# Docerion header of safe_numerics_nocompile.nc.
+type: test
+title: Safe numerics no-compile tests
+summary: No-compile test suite asserting that invalid uses of strict_cast, StrictNumeric, and CheckedNumeric predicates fail to compile.

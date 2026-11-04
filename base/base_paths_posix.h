@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX-specific path keys for the base module
+// summary: Declares POSIX-specific path keys for the PathService, including DIR_CACHE for the user cache directory.
+// ---
+
 #ifndef BASE_BASE_PATHS_POSIX_H_
 #define BASE_BASE_PATHS_POSIX_H_
 

@@ -40,6 +40,12 @@
 // to use these.
 //
 
+// ---docerion
+// type: source
+// title: Deprecated low-level atomic operations API
+// summary: Declares the deprecated base::subtle atomic primitives such as compare-and-swap and atomic exchange, recommending std::atomic instead.
+// ---
+
 #ifndef BASE_ATOMICOPS_H_
 #define BASE_ATOMICOPS_H_
 

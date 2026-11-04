@@ -4,6 +4,12 @@
 
 // Derived from google3/util/gtl/stl_util.h
 
+// ---docerion
+// type: source
+// title: STL container utility templates
+// summary: Header providing STL helpers in the base namespace, including GetUnderlyingContainer, STLClearObject, and sorted-container set operations for difference, union, and intersection.
+// ---
+
 #ifndef BASE_STL_UTIL_H_
 #define BASE_STL_UTIL_H_
 

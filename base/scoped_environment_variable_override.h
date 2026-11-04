@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedEnvironmentVariableOverride class header
+// summary: Declares base::ScopedEnvironmentVariableOverride, a scoped helper that overrides an environment variable for its lifetime and restores the old value on destruction.
+// ---
+
 #ifndef BASE_SCOPED_ENVIRONMENT_VARIABLE_OVERRIDE_H_
 #define BASE_SCOPED_ENVIRONMENT_VARIABLE_OVERRIDE_H_
 

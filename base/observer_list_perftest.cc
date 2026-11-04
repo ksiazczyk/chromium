@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observer list performance tests
+// summary: Measures notification and add/remove performance of ObserverList for checked and unchecked observers across varying observer counts.
+// ---
+
 #include "base/observer_list.h"
 
 #include <memory>

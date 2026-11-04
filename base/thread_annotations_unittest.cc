@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for thread annotations
+// summary: Tests guarded counter increments using explicit lock acquisition and scoped AutoLock to exercise the annotation macros.
+// ---
+
 #include "thread_annotations.h"
 
 #include "base/memory/raw_ref.h"

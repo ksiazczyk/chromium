@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy instance helper declarations
+// summary: Header declaring internal lazy-instance helpers and GetOrCreateLazyPointer, the shared thread-safe lazy construction primitive used by LazyInstance and other base APIs.
+// ---
+
 #ifndef BASE_LAZY_INSTANCE_HELPERS_H_
 #define BASE_LAZY_INSTANCE_HELPERS_H_
 

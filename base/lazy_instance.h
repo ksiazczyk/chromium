@@ -42,6 +42,12 @@
 //     ptr->DoDoDo();  // MyClass::DoDoDo
 //   }
 
+// ---docerion
+// type: source
+// title: LazyInstance template (deprecated)
+// summary: Deprecated header for LazyInstance, a thread-safe lazily created instance registered with AtExitManager; new code should use base::NoDestructor instead.
+// ---
+
 #ifndef BASE_LAZY_INSTANCE_H_
 #define BASE_LAZY_INSTANCE_H_
 

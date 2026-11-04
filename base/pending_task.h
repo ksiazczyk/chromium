@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending task declarations
+// summary: Declares TaskMetadata and PendingTask structures that task queues use to store posting location, timing, leeway, delay policy, backtrace, and IPC context data.
+// ---
+
 #ifndef BASE_PENDING_TASK_H_
 #define BASE_PENDING_TASK_H_
 

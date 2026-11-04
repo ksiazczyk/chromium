@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtExitManager class declaration
+// summary: Declares AtExitManager, a controlled alternative to CRT atexit used mainly by base::Singleton, plus a shadowing variant for tests.
+// ---
+
 #ifndef BASE_AT_EXIT_H_
 #define BASE_AT_EXIT_H_
 

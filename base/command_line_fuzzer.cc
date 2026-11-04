@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Command line fuzzer
+// summary: Fuzzes the CommandLine class by randomly constructing and mutating command lines, checking switch and argument invariants across platforms.
+// ---
+
 #include "base/command_line.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

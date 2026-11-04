@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS-specific path keys
+// summary: Declares the iOS-specific path key enum for the application data directory used with the PathService.
+// ---
+
 #ifndef BASE_BASE_PATHS_IOS_H_
 #define BASE_BASE_PATHS_IOS_H_
 
