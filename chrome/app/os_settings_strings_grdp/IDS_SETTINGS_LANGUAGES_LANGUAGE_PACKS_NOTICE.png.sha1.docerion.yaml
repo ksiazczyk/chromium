@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_LANGUAGES_LANGUAGE_PACKS_NOTICE.png.sha1.
+type: asset
+title: IDS_SETTINGS_LANGUAGES_LANGUAGE_PACKS_NOTICE image SHA-1
+summary: Stores the SHA-1 checksum of the PNG image associated with the language packs notice message in the OS settings string resources.

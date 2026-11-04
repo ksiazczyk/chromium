@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_INPUT_METHOD_OPTIONS_SUGGESTION.png.sha1.
+type: asset
+title: SHA-1 checksum for input method suggestion placeholder
+summary: Stores the SHA-1 hash of the placeholder PNG for the input method suggestion option string in the ChromeOS settings resources.
