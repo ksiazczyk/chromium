@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair handshake implementation header
+// summary: Declares FastPairHandshakeImpl with callbacks for GATT client initialization, encryptor creation and decrypted response handling.
+// relations:
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_handshake.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_HANDSHAKE_IMPL_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_HANDSHAKE_IMPL_H_
 

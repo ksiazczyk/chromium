@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair handshake implementation unit tests
+// summary: Unit tests for the Fast Pair handshake implementation, using fake encryptor and GATT service client factories and checking pairing outcomes and metrics.
+// relations:
+//   - tests /ash/quick_pair/fast_pair_handshake/fast_pair_handshake_impl.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_handshake_impl.h"
 
 #include <memory>

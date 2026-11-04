@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair presenter interface
+// summary: Defines the FastPairPresenter interface with methods for showing discovery, pairing, failure, account association, companion app, and passkey notifications.
+// relations:
+//   - depends_on /ash/quick_pair/ui/actions.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_UI_FAST_PAIR_FAST_PAIR_PRESENTER_H_
 #define ASH_QUICK_PAIR_UI_FAST_PAIR_FAST_PAIR_PRESENTER_H_
 

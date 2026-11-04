@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the repository directory
+summary: Grants the repository directory an include exception allowing use of crypto/sha2.h.

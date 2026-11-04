@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved Device Registry header
+// summary: Declares SavedDeviceRegistry, which saves, deletes and looks up Fast Pair account keys for paired peripherals in user prefs, keyed by Bluetooth MAC address.
+// relations:
+//   - depends_on /base/memory/scoped_refptr.h
+//   - depends_on /base/values.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_SAVED_DEVICE_REGISTRY_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_SAVED_DEVICE_REGISTRY_H_
 

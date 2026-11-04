@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol enum stream output implementation
+// summary: Implements the stream output operator that prints readable labels such as [Fast Pair Initial] for the Protocol enum values.
+// relations:
+//   - implements /ash/quick_pair/common/protocol.h
+// ---
+
 #include "ash/quick_pair/common/protocol.h"
 
 namespace ash::quick_pair {

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power connected provider unit tests
+// summary: Unit tests for the power connected provider, verifying it reports enabled for AC or USB power and disabled when power status is uninitialized or disconnected.
+// relations:
+//   - tests /ash/quick_pair/feature_status_tracker/power_connected_provider.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/power_connected_provider.h"
 
 #include "ash/display/refresh_rate_controller.h"

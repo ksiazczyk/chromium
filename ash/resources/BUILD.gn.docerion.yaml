@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash resources build file
+summary: Defines GN repack targets that bundle Ash test resource packs, including unscaled and 100/200 percent scaled resources for ChromeOS Ash.

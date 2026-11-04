@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair device protobuf messages
+// summary: Protobuf messages for Fast Pair devices, including timestamps, anti-spoofing key pairs, notification display strings, and registered device records.
+// relations:
+//   - depends_on /ash/quick_pair/proto/fastpair_data.proto
+//   - depends_on /ash/quick_pair/proto/enums.proto
+// ---
+
 syntax = "proto3";
 
 package nearby.fastpair;

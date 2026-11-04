@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastPairBluetoothConfigDelegate class header
+// summary: Declares FastPairBluetoothConfigDelegate, the FastPairDelegate that provides Fast Pair information to the CrosBluetoothConfig system.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /chromeos/ash/services/bluetooth_config/fast_pair_delegate.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_KEYED_SERVICE_FAST_PAIR_BLUETOOTH_CONFIG_DELEGATE_H_
 #define ASH_QUICK_PAIR_KEYED_SERVICE_FAST_PAIR_BLUETOOTH_CONFIG_DELEGATE_H_
 

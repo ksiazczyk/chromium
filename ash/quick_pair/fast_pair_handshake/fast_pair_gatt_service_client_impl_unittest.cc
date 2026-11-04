@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair GATT service client unit tests
+// summary: Unit tests for FastPairGattServiceClientImpl covering GATT connection, key-based pairing, passkey and account key writes, retries and related metrics.
+// relations:
+//   - tests /ash/quick_pair/fast_pair_handshake/fast_pair_gatt_service_client_impl.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_gatt_service_client_impl.h"
 
 #include <stddef.h>

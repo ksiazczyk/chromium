@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickPairBrowserDelegate instance management
+// summary: Implements global instance handling for QuickPairBrowserDelegate, including setting and resetting the instance and overriding it with a test instance.
+// relations:
+//   - implements /ash/quick_pair/common/quick_pair_browser_delegate.h
+//   - references /base/check.h
+//   - references /base/check_op.h
+// ---
+
 #include "ash/quick_pair/common/quick_pair_browser_delegate.h"
 
 #include "base/check.h"

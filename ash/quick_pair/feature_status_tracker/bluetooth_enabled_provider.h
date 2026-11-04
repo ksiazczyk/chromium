@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothEnabledProvider declaration
+// summary: Declares BluetoothEnabledProvider, which observes the Bluetooth adapter's powered state and notifies observers of changes via callback.
+// relations:
+//   - depends_on /ash/quick_pair/feature_status_tracker/base_enabled_provider.h
+//   - depends_on /device/bluetooth/bluetooth_adapter.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_BLUETOOTH_ENABLED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_BLUETOOTH_ENABLED_PROVIDER_H_
 

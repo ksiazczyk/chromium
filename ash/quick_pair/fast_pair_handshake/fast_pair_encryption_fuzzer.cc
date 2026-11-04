@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair encryption fuzzer
+// summary: LibFuzzer harness that exercises Fast Pair encryption functions such as EncryptBytes, GenerateHmacSha256, EncryptAdditionalData, and GenerateKeysWithEcdhKeyAgreement with fuzzed inputs.
+// relations:
+//   - tests /ash/quick_pair/fast_pair_handshake/fast_pair_encryption.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_encryption.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

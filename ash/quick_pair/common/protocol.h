@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol enum for Fast Pair variants
+// summary: Declares the Protocol enum with the Fast Pair initial, retroactive and subsequent variants plus its stream output operator.
+// relations:
+//   - references /base/component_export.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_PROTOCOL_H_
 #define ASH_QUICK_PAIR_COMMON_PROTOCOL_H_
 

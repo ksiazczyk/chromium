@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the keyed_service directory
+summary: Grants the keyed_service directory include access to the keyed_service core header.

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unauthenticated HTTP fetcher class declaration
+// summary: Declares the UnauthenticatedHttpFetcher class, an HttpFetcher that performs HTTP GET requests to a URL and returns the response string to a provided callback.
+// relations:
+//   - references /ash/quick_pair/repository/http_fetcher.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_UNAUTHENTICATED_HTTP_FETCHER_H_
 #define ASH_QUICK_PAIR_REPOSITORY_UNAUTHENTICATED_HTTP_FETCHER_H_
 

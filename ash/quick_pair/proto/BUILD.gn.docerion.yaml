@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fast Pair proto library build target
+summary: GN build rule that compiles the Quick Pair protobuf sources into a fastpair_proto library with lite code generation, restricted to ChromeOS ash builds.
+relations:
+  - depends_on /third_party/protobuf/proto_library.gni
+  - has_part /ash/quick_pair/proto/context_fence.proto
+  - has_part /ash/quick_pair/proto/enums.proto

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Quick Pair mediator factory implementation
+// summary: Builds a Mediator instance wired with a fake Fast Pair repository and component implementations for use in tests.
+// relations:
+//   - implements /ash/quick_pair/keyed_service/fake_quick_pair_mediator_factory.h
+//   - references /ash/quick_pair/companion_app/companion_app_broker_impl.h
+//   - references /ash/quick_pair/feature_status_tracker/quick_pair_feature_status_tracker_impl.h
+// ---
+
 #include "ash/quick_pair/keyed_service/fake_quick_pair_mediator_factory.h"
 
 #include "ash/quick_pair/companion_app/companion_app_broker_impl.h"

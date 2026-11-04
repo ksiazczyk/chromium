@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RetroactivePairingDetectorImpl unit tests
+// summary: Unit tests for RetroactivePairingDetectorImpl covering model ID and BLE address retrieval, pairing events, and account key writes using fake and mock components.
+// relations:
+//   - tests /ash/quick_pair/pairing/retroactive_pairing_detector_impl.h
+//   - references /ash/quick_pair/pairing/retroactive_pairing_detector.h
+// ---
+
 #include "ash/quick_pair/pairing/retroactive_pairing_detector.h"
 
 #include <memory>

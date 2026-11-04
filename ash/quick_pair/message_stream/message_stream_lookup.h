@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message stream lookup interface
+// summary: Defines the MessageStreamLookup interface that exposes MessageStream instances for devices and notifies observers when a stream connects.
+// relations:
+//   - references /ash/quick_pair/message_stream/message_stream.h
+//   - implemented_by /ash/quick_pair/message_stream/message_stream_lookup_impl.cc
+// ---
+
 #ifndef ASH_QUICK_PAIR_MESSAGE_STREAM_MESSAGE_STREAM_LOOKUP_H_
 #define ASH_QUICK_PAIR_MESSAGE_STREAM_MESSAGE_STREAM_LOOKUP_H_
 

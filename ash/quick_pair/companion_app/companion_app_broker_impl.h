@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompanionAppBrokerImpl class declaration
+// summary: Declares the CompanionAppBrokerImpl class that implements the broker interface using an observer list.
+// relations:
+//   - references /ash/quick_pair/companion_app/companion_app_broker.h
+//   - references /base/observer_list.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMPANION_APP_COMPANION_APP_BROKER_IMPL_H_
 #define ASH_QUICK_PAIR_COMPANION_APP_COMPANION_APP_BROKER_IMPL_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair mediator implementation
+// summary: Implements the Quick Pair Mediator keyed service that wires together status tracking, scanning, pairing, messaging, UI, and repository components.
+// relations:
+//   - implemented_by /ash/quick_pair/keyed_service/quick_pair_mediator.h
+// ---
+
 #include "ash/quick_pair/keyed_service/quick_pair_mediator.h"
 
 #include <cstdint>

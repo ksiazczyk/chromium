@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair handshake implementation
+// summary: Implements the Fast Pair handshake by creating or reusing a GATT service client, creating the data encryptor and validating the decrypted key-based pairing response.
+// relations:
+//   - implements /ash/quick_pair/fast_pair_handshake/fast_pair_handshake_impl.h
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_data_encryptor_impl.h
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_gatt_service_client_lookup_impl.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_handshake_impl.h"
 
 #include "ash/constants/ash_features.h"

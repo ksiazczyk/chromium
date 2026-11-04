@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair repository implementation header
+// summary: Declares FastPairRepositoryImpl, the production FastPairRepository that observes network state and coordinates fetchers, stores, and registries.
+// relations:
+//   - depends_on /ash/quick_pair/common/device.h
+//   - implements /ash/quick_pair/repository/fast_pair_repository.h
+//   - depends_on /base/memory/scoped_refptr.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_REPOSITORY_IMPL_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_REPOSITORY_IMPL_H_
 

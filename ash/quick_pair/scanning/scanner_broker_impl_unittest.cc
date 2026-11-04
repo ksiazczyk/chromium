@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScannerBrokerImpl unit tests
+// summary: Unit tests for ScannerBrokerImpl using fake scanners and factories to cover Fast Pair scanning start/stop behavior and device found and lost notifications.
+// relations:
+//   - tests /ash/quick_pair/scanning/scanner_broker_impl.h
+//   - implements /ash/quick_pair/scanning/fast_pair/fast_pair_discoverable_scanner.h
+//   - depends_on /ash/quick_pair/scanning/scanner_broker.h
+// ---
+
 #include "ash/quick_pair/scanning/scanner_broker_impl.h"
 
 #include <memory>

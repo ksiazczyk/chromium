@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock battery saver active provider header
+// summary: Declares MockBatterySaverActiveProvider, a GMock mock of BatterySaverActiveProvider exposing the is_enabled method for tests.
+// relations:
+//   - references /testing/gmock/include/gmock/gmock.h
+//   - references /ash/quick_pair/feature_status_tracker/battery_saver_active_provider.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_BATTERY_SAVER_ACTIVE_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_BATTERY_SAVER_ACTIVE_PROVIDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Quick Pair include dependency rules
+summary: Lists the include paths that code in the Quick Pair directory is allowed to depend on.

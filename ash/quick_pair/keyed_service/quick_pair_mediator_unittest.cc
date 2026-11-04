@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Pair mediator unit tests
+// summary: Unit tests for the Quick Pair Mediator covering device discovery, pairing flows, account key writes and discovery notification ban behavior.
+// relations:
+//   - tests /ash/quick_pair/keyed_service/quick_pair_mediator.h
+// ---
+
 #include "ash/quick_pair/keyed_service/quick_pair_mediator.h"
 
 #include <array>

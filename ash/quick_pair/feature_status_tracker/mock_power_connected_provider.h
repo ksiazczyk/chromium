@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock power connected provider header
+// summary: Declares MockPowerConnectedProvider, a GMock stub of PowerConnectedProvider that mocks the is_enabled method for tests.
+// relations:
+//   - depends_on /ash/quick_pair/feature_status_tracker/power_connected_provider.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_POWER_CONNECTED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_POWER_CONNECTED_PROVIDER_H_
 

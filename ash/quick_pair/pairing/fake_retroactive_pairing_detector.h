@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake retroactive pairing detector class declaration
+// summary: Declares FakeRetroactivePairingDetector, a test double of RetroactivePairingDetector that tracks observers and can notify retroactive pair found events.
+// relations:
+//   - implements /ash/quick_pair/pairing/retroactive_pairing_detector.h
+//   - references /base/observer_list.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_PAIRING_FAKE_RETROACTIVE_PAIRING_DETECTOR_H_
 #define ASH_QUICK_PAIR_PAIRING_FAKE_RETROACTIVE_PAIRING_DETECTOR_H_
 

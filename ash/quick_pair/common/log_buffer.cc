@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log buffer implementation for Quick Pair
+// summary: Implements the singleton LogBuffer that stores up to 1000 Quick Pair log messages in FIFO order and notifies registered observers on additions and clears.
+// relations:
+//   - implements /ash/quick_pair/common/log_buffer.h
+//   - depends_on /base/no_destructor.h
+// ---
+
 #include "ash/quick_pair/common/log_buffer.h"
 
 #include "base/no_destructor.h"

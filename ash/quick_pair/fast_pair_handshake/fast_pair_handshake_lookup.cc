@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair handshake lookup singleton
+// summary: Implements the FastPairHandshakeLookup singleton, returning the fake instance in unit tests or the real lookup implementation otherwise.
+// relations:
+//   - implements /ash/quick_pair/fast_pair_handshake/fast_pair_handshake_lookup.h
+//   - references /ash/quick_pair/fast_pair_handshake/fake_fast_pair_handshake_lookup.h
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_handshake_lookup_impl.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_handshake_lookup.h"
 #include "ash/constants/ash_features.h"
 #include "ash/quick_pair/fast_pair_handshake/fake_fast_pair_handshake_lookup.h"

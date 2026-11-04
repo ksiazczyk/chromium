@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair not discoverable scanner unit tests
+// summary: Unit tests for FastPairNotDiscoverableScannerImpl that build advertisement service data with account key filters, salts and battery fields to verify scanning behavior.
+// relations:
+//   - tests /ash/quick_pair/scanning/fast_pair/fast_pair_not_discoverable_scanner_impl.h
+// ---
+
 #include "ash/quick_pair/scanning/fast_pair/fast_pair_not_discoverable_scanner_impl.h"
 
 #include <cstdint>

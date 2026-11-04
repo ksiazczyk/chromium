@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair repository interface header
+// summary: Defines the FastPairRepository interface, the entry point of the Quick Pair repository for metadata, account keys, saved devices, and images.
+// relations:
+//   - depends_on /ash/quick_pair/common/device.h
+//   - depends_on /ash/quick_pair/repository/fast_pair/device_metadata.h
+//   - depends_on /ash/quick_pair/repository/fast_pair/pairing_metadata.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_REPOSITORY_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_REPOSITORY_H_
 

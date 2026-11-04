@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware offloading supported provider implementation
+// summary: Implements a provider that tracks whether the Bluetooth adapter supports BLE scan session hardware offloading, updating on adapter changes.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/hardware_offloading_supported_provider.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/hardware_offloading_supported_provider.h"
 
 #include "device/bluetooth/bluetooth_adapter_factory.h"

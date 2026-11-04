@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved device registry implementation
+// summary: Implements saving, looking up, and deleting MAC address to account key associations for Fast Pair devices in user prefs.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/saved_device_registry.h
+//   - depends_on /ash/quick_pair/common/quick_pair_browser_delegate.h
+//   - depends_on /base/base64.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/saved_device_registry.h"
 
 #include <string>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware offloading supported provider unit tests
+// summary: Unit tests verifying the provider reacts to adapter presence, power, and offloading status changes using a fake Bluetooth adapter.
+// relations:
+//   - tests /ash/quick_pair/feature_status_tracker/hardware_offloading_supported_provider.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/hardware_offloading_supported_provider.h"
 
 #include "ash/quick_pair/common/fake_bluetooth_adapter.h"

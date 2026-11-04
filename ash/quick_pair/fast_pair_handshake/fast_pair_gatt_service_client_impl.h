@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair GATT service client implementation header
+// summary: Declares FastPairGattServiceClientImpl, which connects to a device's Fast Pair GATT service and supports reading the model ID and writing pairing, passkey, account key and name requests.
+// relations:
+//   - references /ash/quick_pair/common/pair_failure.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_GATT_SERVICE_CLIENT_IMPL_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_GATT_SERVICE_CLIENT_IMPL_H_
 

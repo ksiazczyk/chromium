@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Footprints fetcher implementation
+// summary: Implements FootprintsFetcher with OAuth-authenticated HTTP requests to the nearbydevices API for a user's Fast Pair device data.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/footprints_fetcher_impl.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/footprints_fetcher_impl.h"
 
 #include "ash/quick_pair/common/fast_pair/fast_pair_http_result.h"

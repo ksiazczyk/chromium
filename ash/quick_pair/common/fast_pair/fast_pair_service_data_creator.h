@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair service data creator header
+// summary: Declares the FastPairServiceDataCreator class and its Builder for constructing byte arrays that represent Fast Pair Service Data.
+// relations:
+//   - depends_on /base/check_op.h
+//   - depends_on /base/component_export.h
+//   - depends_on /base/strings/string_number_conversions.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_FAST_PAIR_FAST_PAIR_SERVICE_DATA_CREATOR_H_
 #define ASH_QUICK_PAIR_COMMON_FAST_PAIR_FAST_PAIR_SERVICE_DATA_CREATOR_H_
 

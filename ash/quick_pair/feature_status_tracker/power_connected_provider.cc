@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power connected provider implementation
+// summary: Tracks whether line power is connected via PowerStatus and updates the base enabled provider whenever the power status changes.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/power_connected_provider.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/power_connected_provider.h"
 
 namespace ash {

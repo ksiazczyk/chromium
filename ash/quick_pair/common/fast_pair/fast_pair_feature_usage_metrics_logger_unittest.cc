@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair feature usage metrics logger unit tests
+// summary: Unit tests for the Fast Pair feature usage logger using a mock Bluetooth adapter and pref service to verify eligibility, accessibility, and enabled states.
+// relations:
+//   - tests /ash/quick_pair/common/fast_pair/fast_pair_feature_usage_metrics_logger.h
+//   - references /ash/constants/ash_pref_names.h
+//   - references /ash/quick_pair/common/mock_quick_pair_browser_delegate.h
+// ---
+
 #include <memory>
 
 #include "ash/quick_pair/common/fast_pair/fast_pair_feature_usage_metrics_logger.h"

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannerBrokerImpl implementation
+// summary: Implements ScannerBrokerImpl, starting and stopping Fast Pair discoverable and non-discoverable scanners per protocol and notifying observers of device found and lost events.
+// relations:
+//   - implements /ash/quick_pair/scanning/scanner_broker_impl.h
+// ---
+
 #include "ash/quick_pair/scanning/scanner_broker_impl.h"
 
 #include <memory>

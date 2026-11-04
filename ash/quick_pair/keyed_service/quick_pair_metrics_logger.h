@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair metrics logger class declaration
+// summary: Declares QuickPairMetricsLogger, which observes pairing, scanning, UI and retroactive pairing events to log corresponding Fast Pair metrics.
+// relations:
+//   - depends_on /ash/quick_pair/pairing/pairer_broker.h
+//   - depends_on /ash/quick_pair/pairing/retroactive_pairing_detector.h
+//   - depends_on /ash/quick_pair/scanning/scanner_broker.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_KEYED_SERVICE_QUICK_PAIR_METRICS_LOGGER_H_
 #define ASH_QUICK_PAIR_KEYED_SERVICE_QUICK_PAIR_METRICS_LOGGER_H_
 

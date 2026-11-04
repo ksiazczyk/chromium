@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceImageStore unit tests
+// summary: Unit tests for fetching, persisting and evicting device images in DeviceImageStore using a mock image decoder.
+// relations:
+//   - tests /ash/quick_pair/repository/fast_pair/device_image_store.h
+//   - tests /ash/quick_pair/repository/fast_pair/device_image_store.cc
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/device_image_store.h"
 
 #include <optional>

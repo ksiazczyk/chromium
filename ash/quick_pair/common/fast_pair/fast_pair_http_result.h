@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair HTTP result header
+// summary: Declares a class representing network and HTTP errors encountered by the Fast Pair repository component.
+// relations:
+//   - references /base/component_export.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_FAST_PAIR_FAST_PAIR_HTTP_RESULT_H_
 #define ASH_QUICK_PAIR_COMMON_FAST_PAIR_FAST_PAIR_HTTP_RESULT_H_
 

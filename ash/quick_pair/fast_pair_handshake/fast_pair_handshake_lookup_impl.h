@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair handshake lookup implementation header
+// summary: Declares FastPairHandshakeImpl-backed lookup singleton holding a map of devices to FastPairHandshake instances, with a testing create function hook.
+// relations:
+//   - implements /ash/quick_pair/fast_pair_handshake/fast_pair_handshake_lookup.h
+//   - references /base/no_destructor.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_HANDSHAKE_LOOKUP_IMPL_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_HANDSHAKE_LOOKUP_IMPL_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpFetcher base class implementation
+// summary: Provides the HttpFetcher constructor, destructor, and default POST and DELETE request implementations that are unsupported and hit NOTREACHED.
+// relations:
+//   - implements /ash/quick_pair/repository/http_fetcher.h
+// ---
+
 #include "ash/quick_pair/repository/http_fetcher.h"
 
 namespace ash {

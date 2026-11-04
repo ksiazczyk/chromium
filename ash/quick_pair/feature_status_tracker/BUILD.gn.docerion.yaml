@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feature status tracker build targets
+summary: Defines GN build targets for the Quick Pair feature status tracker static library, its test support mocks and fakes, and its unit tests on ChromeOS.
+relations:
+  - has_part /ash/quick_pair/feature_status_tracker/base_enabled_provider.cc
+  - has_part /ash/quick_pair/feature_status_tracker/base_enabled_provider.h
+  - has_part /ash/quick_pair/feature_status_tracker/battery_saver_active_provider.cc

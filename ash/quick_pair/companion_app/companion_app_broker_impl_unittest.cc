@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompanionAppBrokerImpl unit tests
+// summary: Tests companion app broker behavior across login states, device model IDs, and install or launch URI configurations using fake identity and browser delegates.
+// relations:
+//   - tests /ash/quick_pair/companion_app/companion_app_broker_impl.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/quick_pair/common/device.h
+// ---
+
 #include "ash/quick_pair/companion_app/companion_app_broker_impl.h"
 
 #include <map>

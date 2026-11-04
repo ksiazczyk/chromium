@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceMetadataFetcher class header
+// summary: Declares DeviceMetadataFetcher, which looks up Fast Pair device metadata by numeric or hex device ID over HTTP.
+// relations:
+//   - depends_on /ash/quick_pair/common/fast_pair/fast_pair_http_result.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_DEVICE_METADATA_FETCHER_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_DEVICE_METADATA_FETCHER_H_
 

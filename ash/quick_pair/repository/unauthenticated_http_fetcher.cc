@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unauthenticated HTTP fetcher implementation
+// summary: Implements unauthenticated HTTP GET requests for Fast Pair via SimpleURLLoader, retrying transient network failures and delivering responses or errors through a callback.
+// relations:
+//   - implements /ash/quick_pair/repository/unauthenticated_http_fetcher.h
+//   - references /ash/quick_pair/common/fast_pair/fast_pair_http_result.h
+//   - references /ash/quick_pair/common/quick_pair_browser_delegate.h
+// ---
+
 #include "ash/quick_pair/repository/unauthenticated_http_fetcher.h"
 
 #include "ash/quick_pair/common/fast_pair/fast_pair_http_result.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fast Pair handshake lookup class
+// summary: Declares FakeFastPairHandshakeLookup, a singleton managing fake handshake instances with testing hooks for callbacks.
+// relations:
+//   - relates_to /ash/quick_pair/fast_pair_handshake/fast_pair_handshake_lookup.h
+//   - references /base/functional/callback.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAKE_FAST_PAIR_HANDSHAKE_LOOKUP_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAKE_FAST_PAIR_HANDSHAKE_LOOKUP_H_
 

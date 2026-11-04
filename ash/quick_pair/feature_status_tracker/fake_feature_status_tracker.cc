@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeFeatureStatusTracker implementation
+// summary: Implements a fake feature status tracker that stores a Fast Pair enabled flag and notifies registered observers of changes, for use in tests.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/fake_feature_status_tracker.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/fake_feature_status_tracker.h"
 
 #include "base/observer_list.h"

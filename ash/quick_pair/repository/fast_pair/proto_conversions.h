@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair protobuf conversion declarations
+// summary: Declares functions that build FastPairInfo protobuf messages from device metadata and opt-in status.
+// ---
+
 #include <optional>
 
 #include "ash/quick_pair/proto/fastpair.pb.h"

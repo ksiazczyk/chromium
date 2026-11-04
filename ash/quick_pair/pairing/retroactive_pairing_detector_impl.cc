@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RetroactivePairingDetectorImpl implementation
+// summary: Implements retroactive pairing detection for ChromeOS Fast Pair, observing Bluetooth pairing, message streams, and login status with a 60-second timeout.
+// relations:
+//   - implements /ash/quick_pair/pairing/retroactive_pairing_detector_impl.h
+//   - references /ash/public/cpp/session/session_controller.h
+//   - references /ash/quick_pair/message_stream/message_stream.h
+// ---
+
 #include "ash/quick_pair/pairing/retroactive_pairing_detector_impl.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair repository SHA-256 hash unit test
+// summary: Unit test verifying that FastPairRepository::GenerateSha256OfAccountKeyAndMacAddress produces the expected base64-encoded SHA-256 hash.
+// relations:
+//   - tests /ash/quick_pair/repository/fast_pair_repository.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /base/base64.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair_repository.h"
 
 #include "ash/test/ash_test_base.h"

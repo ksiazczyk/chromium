@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair Bluetooth UUID constant
+// summary: Defines the 16-bit Fast Pair GATT service UUID constant that callers use to build Bluetooth UUIDs on demand.
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_CONSTANTS_H_
 #define ASH_QUICK_PAIR_COMMON_CONSTANTS_H_
 

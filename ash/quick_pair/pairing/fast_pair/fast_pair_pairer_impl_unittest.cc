@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FastPairPairerImpl unit tests
+// summary: Unit tests for FastPairPairerImpl that exercise pairing flows, passkey handling, failure cases, and Fast Pair metrics using fake and mock Bluetooth components.
+// ---
+
 #include "ash/quick_pair/pairing/fast_pair/fast_pair_pairer_impl.h"
 
 #include <memory>

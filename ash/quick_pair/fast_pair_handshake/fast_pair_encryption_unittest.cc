@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair encryption unit tests
+// summary: Unit tests for Fast Pair encryption functions verifying byte encryption, ECDH key generation with valid and invalid anti-spoofing keys, and HMAC-SHA256 values taken from the Fast Pair spec test cases.
+// relations:
+//   - tests /ash/quick_pair/fast_pair_handshake/fast_pair_encryption.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_encryption.h"
 
 #include <algorithm>

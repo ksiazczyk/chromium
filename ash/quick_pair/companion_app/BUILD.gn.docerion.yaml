@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Companion app GN build targets
+summary: Defines GN build targets for the Quick Pair companion app broker, including the main source set, a test support library, and unit tests.
+relations:
+  - configures /ash/quick_pair/companion_app/companion_app_broker.h
+  - configures /ash/quick_pair/companion_app/companion_app_broker_impl.cc
+  - configures /ash/quick_pair/companion_app/companion_app_broker_impl.h

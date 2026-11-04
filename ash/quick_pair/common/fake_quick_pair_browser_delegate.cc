@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Quick Pair browser delegate implementation for tests
+// summary: Implements a fake browser delegate for tests that stubs URL loading, image fetching, preferences, and companion app behavior.
+// relations:
+//   - implemented_by /ash/quick_pair/common/fake_quick_pair_browser_delegate.h
+// ---
+
 #include "ash/quick_pair/common/fake_quick_pair_browser_delegate.h"
 
 #include <cstddef>

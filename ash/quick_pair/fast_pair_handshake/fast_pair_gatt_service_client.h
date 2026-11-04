@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair GATT service client interface
+// summary: Declares the FastPairGattServiceClient interface for connecting to a device's Fast Pair GATT service and reading the model ID or writing key-based pairing, passkey, account key, and personalized name data.
+// relations:
+//   - references /ash/quick_pair/common/account_key_failure.h
+//   - references /ash/quick_pair/common/pair_failure.h
+//   - references /device/bluetooth/bluetooth_adapter.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_GATT_SERVICE_CLIENT_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_GATT_SERVICE_CLIENT_H_
 

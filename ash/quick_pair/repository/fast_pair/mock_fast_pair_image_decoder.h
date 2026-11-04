@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GoogleMock mock for the Fast Pair image decoder
+// summary: Declares a GoogleMock mock of the FastPairImageDecoder interface for use in unit tests.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/fast_pair_image_decoder.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_MOCK_FAST_PAIR_IMAGE_DECODER_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_MOCK_FAST_PAIR_IMAGE_DECODER_H_
 

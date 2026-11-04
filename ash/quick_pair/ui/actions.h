@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair UI action enums
+// summary: Declares the Quick Pair UI action enums for discovery, account association, companion app, and pairing failure, plus their stream operators.
+// ---
+
 #ifndef ASH_QUICK_PAIR_UI_ACTIONS_H_
 #define ASH_QUICK_PAIR_UI_ACTIONS_H_
 

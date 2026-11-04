@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair log buffer class
+// summary: Declares the LogBuffer singleton, its LogMessage struct and observer interface for buffering size-limited Quick Pair logs in chronological order.
+// relations:
+//   - depends_on /base/component_export.h
+//   - depends_on /base/logging.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_LOG_BUFFER_H_
 #define ASH_QUICK_PAIR_COMMON_LOG_BUFFER_H_
 

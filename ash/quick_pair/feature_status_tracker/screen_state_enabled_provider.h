@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenStateEnabledProvider class declaration
+// summary: Declares the ScreenStateEnabledProvider, a BaseEnabledProvider and DisplayConfigurator observer that tracks whether any display screen is on.
+// relations:
+//   - references /ash/quick_pair/feature_status_tracker/base_enabled_provider.h
+//   - references /base/scoped_observation.h
+//   - references /ui/display/manager/display_configurator.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_SCREEN_STATE_ENABLED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_SCREEN_STATE_ENABLED_PROVIDER_H_
 

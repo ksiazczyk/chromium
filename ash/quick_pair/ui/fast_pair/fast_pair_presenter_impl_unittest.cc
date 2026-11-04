@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair presenter implementation unit tests
+// summary: Unit tests for FastPairPresenterImpl covering discovery, pairing, account association, and companion app notification flows for user, guest, and subsequent discovery cases.
+// relations:
+//   - tests /ash/quick_pair/ui/fast_pair/fast_pair_presenter_impl.h
+// ---
+
 #include "ash/quick_pair/ui/fast_pair/fast_pair_presenter_impl.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Footprints fetcher implementation header
+// summary: Declares FootprintsFetcherImpl, which performs network requests to read, add and delete a user's Fast Pair devices.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/footprints_fetcher.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_FOOTPRINTS_FETCHER_IMPL_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_FOOTPRINTS_FETCHER_IMPL_H_
 

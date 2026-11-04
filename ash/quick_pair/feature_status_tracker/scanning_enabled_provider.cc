@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning enabled provider implementation
+// summary: Implements the scanning enabled provider, combining battery saver, Fast Pair pref, hardware offloading, power connection, and the software scanning pref to decide if scanning is enabled.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/scanning_enabled_provider.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/scanning_enabled_provider.h"
 
 #include "ash/constants/ash_pref_names.h"

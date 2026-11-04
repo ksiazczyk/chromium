@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair support utils unit tests
+// summary: Unit tests for HasHardwareSupport covering hardware offloading status, the cross-device feature suite flag, adapter presence and adapter power state.
+// relations:
+//   - tests /ash/quick_pair/feature_status_tracker/fast_pair_support_utils.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/quick_pair/common/fake_bluetooth_adapter.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/fast_pair_support_utils.h"
 
 #include "ash/constants/ash_features.h"

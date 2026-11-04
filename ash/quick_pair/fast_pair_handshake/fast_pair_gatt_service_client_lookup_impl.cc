@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair GATT service client lookup implementation
+// summary: Implements the lookup singleton that stores, creates and erases FastPairGattServiceClientImpl instances keyed by Bluetooth device.
+// relations:
+//   - implements /ash/quick_pair/fast_pair_handshake/fast_pair_gatt_service_client_lookup_impl.h
+//   - depends_on /ash/quick_pair/fast_pair_handshake/fast_pair_gatt_service_client_impl.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_gatt_service_client_lookup_impl.h"
 
 #include <memory>

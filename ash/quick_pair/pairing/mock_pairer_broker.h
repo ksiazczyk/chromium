@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock pairer broker class declaration
+// summary: Declares a gmock-based MockPairerBroker with mocked pairing methods and notify helpers for simulating pairing events in tests.
+// relations:
+//   - references /ash/quick_pair/common/pair_failure.h
+//   - references /ash/quick_pair/common/protocol.h
+//   - implements /ash/quick_pair/pairing/pairer_broker.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_PAIRING_MOCK_PAIRER_BROKER_H_
 #define ASH_QUICK_PAIR_PAIRING_MOCK_PAIRER_BROKER_H_
 

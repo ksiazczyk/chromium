@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fast Pair handshake class
+// summary: Declares FakeFastPairHandshake, a test double of FastPairHandshake with an invocable completion callback.
+// relations:
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_data_encryptor.h
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_gatt_service_client.h
+//   - relates_to /ash/quick_pair/fast_pair_handshake/fast_pair_handshake.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAKE_FAST_PAIR_HANDSHAKE_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAKE_FAST_PAIR_HANDSHAKE_H_
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for Ash resources
+# summary: Presubmit script that runs checks ensuring modified images have matching resources at the correct 100 and 200 percent scale factors.
+# ---
+
 """Presubmit script for Chromium Ash resources.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

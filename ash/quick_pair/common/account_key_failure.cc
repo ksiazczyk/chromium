@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account key failure stream output implementation
+// summary: Implements stream output for the AccountKeyFailure enum, translating account key failure cases into readable log labels.
+// relations:
+//   - implements /ash/quick_pair/common/account_key_failure.h
+// ---
+
 #include "ash/quick_pair/common/account_key_failure.h"
 
 namespace ash::quick_pair {

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock pairer broker implementation
+// summary: Implements MockPairerBroker notification helpers that forward pairing events such as device paired, failures, account key writes and passkey display to observers.
+// relations:
+//   - implements /ash/quick_pair/pairing/mock_pairer_broker.h
+//   - references /ash/quick_pair/common/device.h
+// ---
+
 #include "ash/quick_pair/pairing/mock_pairer_broker.h"
 
 #include "ash/quick_pair/common/device.h"

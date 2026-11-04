@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fast Pair data encryptor class
+// summary: Declares FakeFastPairDataEncryptor, a test double of FastPairDataEncryptor with settable encryption and decryption results.
+// relations:
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_data_encryptor.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAKE_FAST_PAIR_DATA_ENCRYPTOR_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAKE_FAST_PAIR_DATA_ENCRYPTOR_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Quick Pair logging
+// summary: Verifies that QP_LOG messages are saved to the LogBuffer with correct metadata, that full buffers discard the oldest entries, and that standard logs are also created.
+// relations:
+//   - tests /ash/quick_pair/common/logging.h
+//   - tests /ash/quick_pair/common/log_buffer.h
+// ---
+
 #include "ash/quick_pair/common/logging.h"
 
 #include <stddef.h>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothEnabledProvider implementation
+// summary: Implements a provider that reports whether the Bluetooth adapter is powered and has hardware support, updating on adapter power, presence and offloading changes.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/bluetooth_enabled_provider.h
+//   - depends_on /ash/quick_pair/feature_status_tracker/fast_pair_support_utils.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/bluetooth_enabled_provider.h"
 
 #include "ash/quick_pair/feature_status_tracker/fast_pair_support_utils.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PairerBrokerImpl class declaration
+// summary: Declares the concrete PairerBroker with per-model-id pairing state maps, handshake retry timers and Bluetooth adapter handling.
+// relations:
+//   - implements /ash/quick_pair/pairing/pairer_broker.h
+//   - references /ash/quick_pair/common/account_key_failure.h
+//   - references /ash/quick_pair/common/pair_failure.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_PAIRING_PAIRER_BROKER_IMPL_H_
 #define ASH_QUICK_PAIR_PAIRING_PAIRER_BROKER_IMPL_H_
 

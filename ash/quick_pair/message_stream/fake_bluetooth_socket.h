@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bluetooth socket declaration for tests
+// summary: Declares a fake Bluetooth socket, derived from MockBluetoothSocket, used to simulate socket receives in message stream tests.
+// relations:
+//   - depends_on /device/bluetooth/test/mock_bluetooth_socket.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_MESSAGE_STREAM_FAKE_BLUETOOTH_SOCKET_H_
 #define ASH_QUICK_PAIR_MESSAGE_STREAM_FAKE_BLUETOOTH_SOCKET_H_
 

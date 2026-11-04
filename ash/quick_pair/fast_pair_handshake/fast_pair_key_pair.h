@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair key pair structure
+// summary: Declares the KeyPair struct with a 16-byte private key and 64-byte public key used for Fast Pair encryption and decryption.
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_KEY_PAIR_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_KEY_PAIR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair image decoder interface
+// summary: Declares the FastPairImageDecoder interface for decoding device images from a URL or from encoded image bytes for notifications.
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_FAST_PAIR_IMAGE_DECODER_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_FAST_PAIR_IMAGE_DECODER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair message stream implementation
+// summary: Receives data from a device's Bluetooth socket, parses Fast Pair messages through the Quick Pair process, and notifies observers while handling retries and disconnects.
+// relations:
+//   - implements /ash/quick_pair/message_stream/message_stream.h
+//   - references /ash/quick_pair/common/fast_pair/fast_pair_metrics.h
+//   - references /chromeos/ash/services/quick_pair/quick_pair_process.h
+// ---
+
 #include "ash/quick_pair/message_stream/message_stream.h"
 
 #include "ash/quick_pair/common/fast_pair/fast_pair_metrics.h"

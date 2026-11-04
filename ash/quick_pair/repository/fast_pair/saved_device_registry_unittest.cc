@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved Device Registry unit tests
+// summary: Unit tests for SavedDeviceRegistry covering saving, lookup and deletion of account key associations using a mock Bluetooth adapter and testing pref service.
+// relations:
+//   - tests /ash/quick_pair/repository/fast_pair/saved_device_registry.h
+//   - tests /ash/quick_pair/repository/fast_pair/saved_device_registry.cc
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/saved_device_registry.h"
 
 #include <array>

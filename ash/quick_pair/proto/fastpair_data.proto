@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair stored data protobuf messages
+// summary: Protobuf messages for stored Fast Pair data such as account keys, discovery items, companion app details, true wireless images, and relevance targeting fences.
+// relations:
+//   - depends_on /ash/quick_pair/proto/context_fence.proto
+//   - depends_on /ash/quick_pair/proto/enums.proto
+//   - depends_on /ash/quick_pair/proto/message_set.proto
+// ---
+
 syntax = "proto2";
 
 package nearby.fastpair;

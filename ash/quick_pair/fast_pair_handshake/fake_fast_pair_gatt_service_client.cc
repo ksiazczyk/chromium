@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fast Pair GATT service client implementation
+// summary: Implements FakeFastPairGattServiceClient, a test double that captures GATT read and write callbacks for tests to invoke.
+// relations:
+//   - references /ash/quick_pair/common/logging.h
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_data_encryptor.h
+//   - references /base/functional/callback_helpers.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fake_fast_pair_gatt_service_client.h"
 
 #include "ash/quick_pair/common/logging.h"

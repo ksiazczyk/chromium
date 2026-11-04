@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google API key availability provider header
+// summary: Declares GoogleApiKeyAvailabilityProvider, a BaseEnabledProvider exposing whether Google API keys are available on the current build.
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_GOOGLE_API_KEY_AVAILABILITY_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_GOOGLE_API_KEY_AVAILABILITY_PROVIDER_H_
 

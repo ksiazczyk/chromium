@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair HTTP result implementation
+// summary: Implements classification of Fast Pair server responses into success, network failure, or HTTP failure with readable error details.
+// relations:
+//   - implements /ash/quick_pair/common/fast_pair/fast_pair_http_result.h
+//   - references /net/base/net_errors.h
+//   - references /net/http/http_response_headers.h
+// ---
+
 #include "ash/quick_pair/common/fast_pair/fast_pair_http_result.h"
 
 #include "net/base/net_errors.h"

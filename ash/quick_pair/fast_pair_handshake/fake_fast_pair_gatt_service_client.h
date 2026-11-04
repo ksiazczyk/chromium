@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fast Pair GATT service client class
+// summary: Declares FakeFastPairGattServiceClient, a test double letting tests control connection state and PairFailure callbacks.
+// relations:
+//   - references /ash/quick_pair/common/account_key_failure.h
+//   - references /ash/quick_pair/common/pair_failure.h
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_gatt_service_client.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAKE_FAST_PAIR_GATT_SERVICE_CLIENT_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAKE_FAST_PAIR_GATT_SERVICE_CLIENT_H_
 

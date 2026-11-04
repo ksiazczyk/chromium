@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair GATT service client implementation
+// summary: Implements the Fast Pair GATT service client, handling GATT connections, characteristic UUIDs across Fast Pair versions, timeouts, and writes for pairing, passkey, account key, and additional data operations.
+// relations:
+//   - implements /ash/quick_pair/fast_pair_handshake/fast_pair_gatt_service_client_impl.h
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_data_encryptor.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_gatt_service_client_impl.h"
 
 #include <algorithm>

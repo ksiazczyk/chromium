@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fast Pair repository header for tests
+// summary: Declares a fake FastPairRepository with setters for test metadata, account key results, network state, saved devices, and opt-in status.
+// relations:
+//   - references /ash/quick_pair/common/device.h
+//   - references /ash/quick_pair/repository/fast_pair/device_metadata.h
+//   - references /ash/quick_pair/repository/fast_pair_repository.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAKE_FAST_PAIR_REPOSITORY_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAKE_FAST_PAIR_REPOSITORY_H_
 

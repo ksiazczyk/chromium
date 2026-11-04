@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen state enabled provider unit tests
+// summary: Unit tests using fake display snapshots to verify enablement for combinations of internal and external displays being on or off.
+// relations:
+//   - tests /ash/quick_pair/feature_status_tracker/screen_state_enabled_provider.h
+//   - references /ash/test/ash_test_base.h
+//   - references /base/memory/raw_ptr.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/screen_state_enabled_provider.h"
 
 #include <memory>

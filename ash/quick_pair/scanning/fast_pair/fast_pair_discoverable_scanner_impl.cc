@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair discoverable scanner implementation
+// summary: Implements the discoverable advertisement scanner, validating model IDs, metadata publication status, device and notification types before invoking found and lost callbacks.
+// relations:
+//   - implements /ash/quick_pair/scanning/fast_pair/fast_pair_discoverable_scanner_impl.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/quick_pair/common/constants.h
+// ---
+
 #include "ash/quick_pair/scanning/fast_pair/fast_pair_discoverable_scanner_impl.h"
 
 #include <cstdint>

@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Quick Pair keyed service
+summary: Defines GN targets for the Quick Pair keyed service static library, its test support, and its unit tests, along with their dependencies.
+relations:
+  - configures /ash/quick_pair/keyed_service/battery_update_message_handler.cc
+  - configures /ash/quick_pair/keyed_service/battery_update_message_handler.h
+  - configures /ash/quick_pair/keyed_service/fast_pair_bluetooth_config_delegate.cc

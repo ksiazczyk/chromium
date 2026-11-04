@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair handshake base class
+// summary: Implements the FastPairHandshake base constructor and destructor, holding the adapter, device, completion callback and data encryptor.
+// relations:
+//   - implements /ash/quick_pair/fast_pair_handshake/fast_pair_handshake.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_handshake.h"
 
 #include <cstdint>

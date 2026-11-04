@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UIBrokerImpl
+// summary: Unit tests for UIBrokerImpl using a fake Fast Pair presenter to verify show-UI routing and observer notifications.
+// relations:
+//   - tests /ash/quick_pair/ui/ui_broker_impl.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/quick_pair/common/constants.h
+// ---
+
 #include "ash/quick_pair/ui/ui_broker_impl.h"
 
 #include "ash/constants/ash_features.h"

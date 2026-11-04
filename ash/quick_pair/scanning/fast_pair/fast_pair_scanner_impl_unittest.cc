@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair scanner implementation unit tests
+// summary: Unit tests for FastPairScannerImpl that use fake and mock Bluetooth adapters, devices, and scan sessions to verify device found and lost notifications.
+// relations:
+//   - tests /ash/quick_pair/scanning/fast_pair/fast_pair_scanner_impl.h
+//   - references /ash/quick_pair/common/fake_bluetooth_adapter.h
+//   - references /base/test/scoped_feature_list.h
+// ---
+
 #include "ash/quick_pair/scanning/fast_pair/fast_pair_scanner_impl.h"
 
 #include <algorithm>

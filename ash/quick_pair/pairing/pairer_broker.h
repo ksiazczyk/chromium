@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PairerBroker interface for the Quick Pair pairing component
+// summary: Defines the PairerBroker entry point interface and observer API that broker pair-to-device calls and expose pairing results to other Quick Pair components.
+// relations:
+//   - references /ash/quick_pair/common/device.h
+//   - references /ash/quick_pair/common/pair_failure.h
+//   - references /ash/quick_pair/common/protocol.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_PAIRING_PAIRER_BROKER_H_
 #define ASH_QUICK_PAIR_PAIRING_PAIRER_BROKER_H_
 

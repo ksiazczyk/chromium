@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair notification controller unit tests
+// summary: Unit tests for the Fast Pair notification controller, verifying notification creation, dismissal, timeouts, and button clicks using a fake message center.
+// relations:
+//   - tests /ash/quick_pair/ui/fast_pair/fast_pair_notification_controller.h
+// ---
+
 #include "ash/quick_pair/ui/fast_pair/fast_pair_notification_controller.h"
 
 #include "ash/test/ash_test_base.h"

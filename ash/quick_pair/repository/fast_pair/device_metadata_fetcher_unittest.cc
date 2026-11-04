@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device metadata fetcher unit tests
+// summary: Unit tests for the Fast Pair device metadata fetcher, covering valid, empty and invalid HTTP responses, device ID handling and related metrics.
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/device_metadata_fetcher.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock UI broker implementation for tests
+// summary: Implements MockUIBroker, which notifies registered observers of simulated Quick Pair UI actions during tests.
+// relations:
+//   - references /ash/quick_pair/ui/mock_ui_broker.h
+//   - references /ash/quick_pair/common/device.h
+//   - references /ash/quick_pair/ui/actions.h
+// ---
+
 #include "ash/quick_pair/ui/mock_ui_broker.h"
 
 #include "ash/quick_pair/common/device.h"

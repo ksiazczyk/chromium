@@ -1,0 +1,6 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Quick Pair pairing component
+summary: Defines the pairing source set, test support library and unit test targets with their sources and dependencies for the ash Quick Pair pairing code.
+relations:
+  - depends_on /testing/libfuzzer/fuzzer_test.gni

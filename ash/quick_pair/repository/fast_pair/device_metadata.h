@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceMetadata class header
+// summary: Declares DeviceMetadata, a thin wrapper around decoded Fast Pair device metadata and its associated image.
+// relations:
+//   - depends_on /ash/quick_pair/common/device.h
+//   - depends_on /ui/gfx/image/image.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_DEVICE_METADATA_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_DEVICE_METADATA_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power connected provider header
+// summary: Declares PowerConnectedProvider, a BaseEnabledProvider and PowerStatus observer that reports whether line power is connected.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/base_enabled_provider.h
+//   - references /ash/system/power/power_status.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_POWER_CONNECTED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_POWER_CONNECTED_PROVIDER_H_
 

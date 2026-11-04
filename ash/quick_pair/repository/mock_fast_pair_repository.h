@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockFastPairRepository for Quick Pair tests
+// summary: GMock mock of FastPairRepository stubbing metadata, footprints, saved devices, opt-in status, and image methods for use in tests.
+// relations:
+//   - depends_on /ash/quick_pair/repository/fast_pair_repository.h
+//   - references /base/memory/scoped_refptr.h
+//   - references /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_MOCK_FAST_PAIR_REPOSITORY_H_
 #define ASH_QUICK_PAIR_REPOSITORY_MOCK_FAST_PAIR_REPOSITORY_H_
 

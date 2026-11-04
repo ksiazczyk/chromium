@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Quick Pair log buffer
+// summary: Tests that LogBuffer observers are notified when log messages are added and when the buffer is cleared.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/time/time.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/quick_pair/common/log_buffer.h"
 
 #include <stddef.h>

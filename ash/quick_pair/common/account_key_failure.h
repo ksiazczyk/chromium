@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountKeyFailure enum definition
+// summary: Defines the AccountKeyFailure enum for Fast Pair account key failures, with values persisted to logs and kept in sync with histogram metadata.
+// relations:
+//   - references /base/component_export.h
+//   - references /tools/metrics/histograms/metadata/bluetooth/enums.xml
+//   - references /device/bluetooth/bluetooth_gatt_service.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_ACCOUNT_KEY_FAILURE_H_
 #define ASH_QUICK_PAIR_COMMON_ACCOUNT_KEY_FAILURE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair data encryptor implementation
+// summary: Implements FastPairDataEncryptorImpl, creating encryptors from key exchange or account key flows and performing encryption, decryption, and additional data packet operations for Fast Pair devices.
+// relations:
+//   - implements /ash/quick_pair/fast_pair_handshake/fast_pair_data_encryptor_impl.h
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_encryption.h
+//   - references /ash/quick_pair/repository/fast_pair/device_metadata.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_data_encryptor_impl.h"
 
 #include <array>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream output operators for Quick Pair UI actions
+// summary: Implements stream output operators that render Quick Pair UI action enums as readable labels for logging.
+// relations:
+//   - references /ash/quick_pair/ui/actions.h
+// ---
+
 #include "ash/quick_pair/ui/actions.h"
 
 namespace ash {

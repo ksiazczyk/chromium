@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair notification controller header
+// summary: Declares the FastPairNotificationController class and its dismiss reason enum for showing and managing Fast Pair system notifications in the message center.
+// relations:
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_UI_FAST_PAIR_FAST_PAIR_NOTIFICATION_CONTROLLER_H_
 #define ASH_QUICK_PAIR_UI_FAST_PAIR_FAST_PAIR_NOTIFICATION_CONTROLLER_H_
 

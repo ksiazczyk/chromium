@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Fast Pair handshake include rules
+summary: DEPS file granting this directory access to the OpenSSL utility header and BoringSSL includes.

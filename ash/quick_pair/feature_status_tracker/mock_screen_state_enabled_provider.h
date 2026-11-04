@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock screen state enabled provider header
+// summary: Declares MockScreenStateEnabledProvider, a GMock stub of ScreenStateEnabledProvider that mocks the is_enabled method for tests.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/screen_state_enabled_provider.h
+//   - references /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_SCREEN_STATE_ENABLED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_SCREEN_STATE_ENABLED_PROVIDER_H_
 

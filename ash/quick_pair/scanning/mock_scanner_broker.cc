@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock scanner broker implementation
+// summary: Implements MockScannerBroker, a gmock-based ScannerBroker test double that can notify observers of device found and lost events.
+// relations:
+//   - implements /ash/quick_pair/scanning/mock_scanner_broker.h
+// ---
+
 #include "ash/quick_pair/scanning/mock_scanner_broker.h"
 
 #include "ash/quick_pair/common/device.h"
