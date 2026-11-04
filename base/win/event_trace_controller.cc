@@ -4,6 +4,12 @@
 
 // Implementation of a Windows event trace controller class.
 
+// ---docerion
+// type: source
+// title: ETW event trace controller implementation
+// summary: Implements EtwTraceProperties and EtwTraceController for starting, configuring, enabling providers in, and stopping ETW sessions.
+// ---
+
 #include "base/win/event_trace_controller.h"
 
 #include "base/check.h"

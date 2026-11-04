@@ -1,0 +1,4 @@
+# Docerion header of .clang-tidy.
+type: config
+title: Clang-tidy configuration for base/win
+summary: Configures clang-tidy checks, such as bugprone, google, modernize and readability rules, scoped to the base/win headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WRL module wrapper with NTDDI_VERSION workaround
+// summary: Wraps the Windows wrl/module.h include with temporary macro redefinitions that work around its incorrect handling of __WRL_CLASSIC_COM_STRICT__ when registering COM and WinRT objects.
+// ---
+
 #ifndef BASE_WIN_WRL_MODULE_H_
 #define BASE_WIN_WRL_MODULE_H_
 

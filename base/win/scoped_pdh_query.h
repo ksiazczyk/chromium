@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedPdhQuery RAII wrapper for PDH query handles
+// summary: Declares a ScopedGeneric-based wrapper around PDH_HQUERY that closes Performance Data Helper query handles automatically when they go out of scope.
+// ---
+
 #ifndef BASE_WIN_SCOPED_PDH_QUERY_H_
 #define BASE_WIN_SCOPED_PDH_QUERY_H_
 

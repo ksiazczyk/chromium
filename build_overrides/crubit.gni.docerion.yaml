@@ -1,0 +1,4 @@
+# Docerion header of crubit.gni.
+type: config
+title: Crubit build overrides
+summary: Sets the Crubit source directory and adjusts GN compiler configs to allow the unstable features required by Crubit.

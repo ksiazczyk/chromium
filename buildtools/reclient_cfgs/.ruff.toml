@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for reclient_cfgs
+# summary: Extends the parent Ruff lint configuration and sets the indentation width to four spaces for files in this directory.
+# ---
+
 extend = "../.ruff.toml"
 indent-width = 4

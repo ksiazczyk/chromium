@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped handle test DLL for handle verifier checks
+// summary: Exports a RunTest function that stresses the handle verifier with many threads and checks which module hosts the verifier across module boundaries.
+// ---
+
 #include <windows.h>
 
 #include <vector>

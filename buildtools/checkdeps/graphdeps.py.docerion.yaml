@@ -1,0 +1,4 @@
+# Docerion header of graphdeps.py.
+type: source
+title: DEPS dependency graph dumper
+summary: Dumps DOT or PNG graphs of allowed and disallowed inter-module dependencies from DEPS files, with filtering and highlighting.

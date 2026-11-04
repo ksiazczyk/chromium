@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Current module helper macro
+// summary: Provides the CURRENT_MODULE macro that returns the HMODULE of the DLL where the macro is expanded via the __ImageBase symbol.
+// ---
+
 #ifndef BASE_WIN_CURRENT_MODULE_H_
 #define BASE_WIN_CURRENT_MODULE_H_
 

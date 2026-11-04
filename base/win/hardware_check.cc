@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows 11 hardware requirements check implementation
+// summary: Evaluates Windows 11 hardware requirements including supported CPU models, memory, disk space, Secure Boot firmware, and TPM 2.0 availability.
+// ---
+
 #include "base/win/hardware_check.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shim header for including wbemidl.h
+// summary: Header that Chromium code should include instead of wbemidl.h so the Windows base shim is pulled in first to keep include ordering correct.
+// ---
+
 #ifndef BASE_WIN_WBEMIDL_SHIM_H_
 #define BASE_WIN_WBEMIDL_SHIM_H_
 

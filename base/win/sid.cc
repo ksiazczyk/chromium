@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows SID implementation
+// summary: Implements the Sid class for constructing security identifiers from sub-authorities, well-known and named capabilities, and SDDL strings.
+// ---
+
 #include "base/win/sid.h"
 
 #include "base/compiler_specific.h"

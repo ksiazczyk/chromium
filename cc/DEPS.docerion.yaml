@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the cc directory
+summary: Specifies the include rules that control which headers and directories cc code may depend on.

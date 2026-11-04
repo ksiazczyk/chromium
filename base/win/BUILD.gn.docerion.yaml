@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for base/win
+summary: Defines build targets for the directory, including buildflag headers for handle verifier and control flow guard settings and a pe_image static library.

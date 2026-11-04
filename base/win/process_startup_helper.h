@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process startup helper declarations
+// summary: Declares functions to register CRT invalid-parameter and pure-call handlers and to set up CRT reporting for breakpad at process startup.
+// ---
+
 #ifndef BASE_WIN_PROCESS_STARTUP_HELPER_H_
 #define BASE_WIN_PROCESS_STARTUP_HELPER_H_
 

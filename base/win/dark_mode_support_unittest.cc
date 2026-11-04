@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dark mode support unit tests
+// summary: Unit tests verifying that dark mode helpers like AllowDarkModeForApp and AllowDarkModeForWindow load uxtheme.dll and run without crashing.
+// ---
+
 #include "base/win/dark_mode_support.h"
 
 #include <windows.h>

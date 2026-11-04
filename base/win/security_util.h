@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows path access control utility declarations
+// summary: Declares helpers for granting, denying, and checking SID access on file or directory paths, plus SID vector utilities and granted access queries.
+// ---
+
 #ifndef BASE_WIN_SECURITY_UTIL_H_
 #define BASE_WIN_SECURITY_UTIL_H_
 

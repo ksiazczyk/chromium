@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default apps settings launchers implementation
+// summary: Implements helpers that open the Windows Settings default apps dialogs, using an undocumented COM interface and recording outcome histograms.
+// ---
+
 #include "base/win/default_apps_util.h"
 
 #include <shobjidl.h>

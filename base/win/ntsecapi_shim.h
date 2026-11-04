@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ntsecapi.h include shim header
+// summary: Shim header that Chromium code should include instead of ntsecapi.h, preventing type redefinition conflicts with winternl.h by defining _NTDEF_.
+// ---
+
 #ifndef BASE_WIN_NTSECAPI_SHIM_H_
 #define BASE_WIN_NTSECAPI_SHIM_H_
 

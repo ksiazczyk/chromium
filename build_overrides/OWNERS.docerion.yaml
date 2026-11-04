@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for build overrides
+summary: Lists owners of the build_overrides directory and delegates per-file ownership for Crubit, PartitionAlloc, and PDFium override files.

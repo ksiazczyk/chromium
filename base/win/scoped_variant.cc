@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedVariant implementation
+// summary: Implements the ScopedVariant RAII wrapper that owns and frees Windows COM VARIANTs, with constructors for common types plus copy, swap, and comparison operations.
+// ---
+
 #include "base/win/scoped_variant.h"
 
 #include <wrl/client.h>

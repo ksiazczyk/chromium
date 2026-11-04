@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWinrtInitializer implementation
+// summary: Implements ScopedWinrtInitializer, which initializes the Windows Runtime and COM as MTA in the constructor and uninitializes them in the destructor.
+// ---
+
 #include "base/win/scoped_winrt_initializer.h"
 
 #include <roapi.h>

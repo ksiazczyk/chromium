@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shim header for winbase.h includes
+// summary: Shim header that Chromium headers include instead of winbase.h, undefining macros that map common function names to W-suffixed variants.
+// ---
+
 #ifndef BASE_WIN_WINBASE_SHIM_H_
 #define BASE_WIN_WINBASE_SHIM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWintrustData implementation
+// summary: Implements ScopedWintrustData, an RAII wrapper that runs WinVerifyTrust on a binary and releases the trust provider state data on destruction.
+// ---
+
 #include "base/win/scoped_wintrust_data.h"
 
 #include <windows.h>

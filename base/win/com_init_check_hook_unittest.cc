@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: COM initialization check hook unit tests
+// summary: Unit tests verifying that ComInitCheckHook asserts on uninitialized COM calls, removes hooks on destruction, and handles multiple or unexpected hooks.
+// ---
+
 #include "base/win/com_init_check_hook.h"
 
 #include <objbase.h>

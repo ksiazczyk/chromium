@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticode signature verification utilities
+// summary: Implements helpers that verify binary trust and publisher names via WinVerifyTrust state data and certificate chain subject extraction.
+// ---
+
 #include "base/win/trust_util.h"
 
 #include <windows.h>

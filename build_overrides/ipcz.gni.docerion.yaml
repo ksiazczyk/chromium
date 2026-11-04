@@ -1,0 +1,4 @@
+# Docerion header of ipcz.gni.
+type: config
+title: ipcz build overrides
+summary: Sets the source and include root paths for the ipcz library in Chromium builds.

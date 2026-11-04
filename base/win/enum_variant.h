@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnumVariant IEnumVARIANT class declaration
+// summary: Declares EnumVariant, a simple IEnumVARIANT implementation backed by ScopedVariant items that can be filled via ItemAt.
+// ---
+
 #ifndef BASE_WIN_ENUM_VARIANT_H_
 #define BASE_WIN_ENUM_VARIANT_H_
 

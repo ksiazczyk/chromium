@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariantVector class for typed OLE variant collections
+// summary: Header for an RAII vector that stores elements of a single OLE VARTYPE and can release them as a scalar VARIANT or a populated SAFEARRAY.
+// ---
+
 #ifndef BASE_WIN_VARIANT_VECTOR_H_
 #define BASE_WIN_VARIANT_VECTOR_H_
 

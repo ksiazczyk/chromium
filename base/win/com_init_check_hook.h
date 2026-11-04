@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COM initialization check hook
+// summary: Declares ComInitCheckHook, which installs hotpatched DCHECK hooks on COM APIs to catch calls made before COM is initialized on 32-bit x86 builds.
+// ---
+
 #ifndef BASE_WIN_COM_INIT_CHECK_HOOK_H_
 #define BASE_WIN_COM_INIT_CHECK_HOOK_H_
 

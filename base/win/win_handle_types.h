@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forward declarations for Windows handle types
+// summary: Header that forward declares Windows compatible handle types by expanding the win_handle_types_list.inc macro list.
+// ---
+
 #ifndef BASE_WIN_WIN_HANDLE_TYPES_H_
 #define BASE_WIN_WIN_HANDLE_TYPES_H_
 

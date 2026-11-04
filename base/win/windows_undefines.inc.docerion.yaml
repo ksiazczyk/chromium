@@ -1,0 +1,4 @@
+# Docerion header of windows_undefines.inc.
+type: source
+title: Undefine poisonous Windows header macros
+summary: Include file that undefines poisonous macros from Windows headers, such as StrCat, and should be kept in sync with windows_defines.inc.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IAT patch function implementation
+// summary: Implements interception of imported functions by locating and patching entries in a module's import address table.
+// ---
+
 #include "base/win/iat_patch_function.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows registry wrapper
+// summary: Tests RegKey value reading, writing, deletion and change watching against an overridden HKCU registry key.
+// ---
+
 #include "base/win/registry.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delay-load helper unit tests
+// summary: Tests the suppression state, eager import resolution for ESENT.dll, and the unchecked variant's handling of missing or non-delayloaded modules.
+// ---
+
 #include "base/win/delayload_helpers.h"
 
 #include <esent.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedHandleVerifier implementation
+// summary: Implements the ScopedHandleVerifier that tracks Windows HANDLE closures and reports double-close or wrong-module errors with stack traces.
+// ---
+
 #include "base/win/scoped_handle_verifier.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW trace provider declarations
+// summary: Declares EtwTraceProvider and the EtwMofEvent helper for using Windows Event Tracing as a logging transport and control mechanism.
+// ---
+
 // Declaration of a Windows event trace provider class, to allow using
 // Windows Event Tracing for logging transport and control.
 #ifndef BASE_WIN_EVENT_TRACE_PROVIDER_H_

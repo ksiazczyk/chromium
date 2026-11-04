@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry utility class declaration
+// summary: Declares the RegKey utility class for manipulating Windows registry keys and values, with read, write, delete and watch operations.
+// ---
+
 #ifndef BASE_WIN_REGISTRY_H_
 #define BASE_WIN_REGISTRY_H_
 

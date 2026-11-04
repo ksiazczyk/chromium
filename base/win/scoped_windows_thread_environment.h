@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Windows thread environment base class
+// summary: Declares an abstract base class that scoped Windows thread initializers such as COM and WinRT initializers derive from.
+// ---
+
 #ifndef BASE_WIN_SCOPED_WINDOWS_THREAD_ENVIRONMENT_H_
 #define BASE_WIN_SCOPED_WINDOWS_THREAD_ENVIRONMENT_H_
 

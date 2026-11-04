@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedDevInfo RAII wrapper for HDEVINFO
+// summary: Defines ScopedDevInfo, a ScopedGeneric wrapper that destroys device info lists via SetupDiDestroyDeviceInfoList on scope exit.
+// ---
+
 #ifndef BASE_WIN_SCOPED_DEVINFO_H_
 #define BASE_WIN_SCOPED_DEVINFO_H_
 

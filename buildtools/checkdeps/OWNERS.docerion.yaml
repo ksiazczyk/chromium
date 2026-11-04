@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for checkdeps
+summary: Delegates ownership of the checkdeps directory to the owners listed in build/OWNERS.

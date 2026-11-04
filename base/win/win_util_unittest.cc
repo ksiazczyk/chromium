@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows utility functions
+// summary: Unit tests covering Windows utility functions such as UAC detection, user SID retrieval, loaded module snapshots, handle conversion, and pseudo handles.
+// ---
+
 #include "base/win/win_util.h"
 
 #include <objbase.h>

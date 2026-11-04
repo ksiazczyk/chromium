@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for trust verification utilities
+// summary: Unit tests covering trust verification behavior for unsigned, nonexistent, and current-executable binaries across build configurations.
+// ---
+
 #include "base/win/trust_util.h"
 
 #include "base/files/file_path.h"

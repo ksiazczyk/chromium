@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedLocalAlloc unit tests
+// summary: Unit tests for the ScopedLocalAlloc RAII wrapper, covering simple allocation, reset, and ownership transfer via TakeLocalAlloc with CommandLineToArgvW.
+// ---
+
 #include "base/win/scoped_localalloc.h"
 
 #include <windows.h>

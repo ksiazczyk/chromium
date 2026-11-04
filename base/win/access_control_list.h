@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessControlList class declaration
+// summary: Declares the ExplicitAccessEntry and AccessControlList classes for holding and modifying Windows ACLs, including creation from PACL and mandatory labels.
+// ---
+
 #ifndef BASE_WIN_ACCESS_CONTROL_LIST_H_
 #define BASE_WIN_ACCESS_CONTROL_LIST_H_
 

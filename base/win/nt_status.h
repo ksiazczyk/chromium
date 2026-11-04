@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NT status helper header
+// summary: Declares GetLastNtStatus, which returns the most recent thread-local NTSTATUS value from the Thread Environment Block to disambiguate API call outcomes.
+// ---
+
 #ifndef BASE_WIN_NT_STATUS_H_
 #define BASE_WIN_NT_STATUS_H_
 

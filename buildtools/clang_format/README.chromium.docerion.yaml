@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: clang-format Chromium README
+summary: Records metadata for the vendored clang-format tool, including version, upstream URL, license, and update mechanism.

@@ -1,3 +1,12 @@
+---
+type: readme
+title: cc/ compositor overview and glossary
+summary: Explains the cc compositor architecture and provides a glossary of compositing terms like CompositorFrame, Layer, and raster.
+relations:
+  - references /components/viz/README.md
+  - references /docs/how_cc_works.md
+---
+
 # cc/
 
 This directory contains a compositor, used in both the renderer and the

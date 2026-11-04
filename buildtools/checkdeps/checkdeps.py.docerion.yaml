@@ -1,0 +1,4 @@
+# Docerion header of checkdeps.py.
+type: source
+title: Checkdeps include checker
+summary: Command-line tool that verifies include and import directives in C++, Java, and proto files against DEPS rules.

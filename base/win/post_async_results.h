@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows async operation result posting helpers
+// summary: Header providing helpers that fetch Windows Runtime IAsyncOperation results and post completion to a base callback on the invoking sequence.
+// ---
+
 #ifndef BASE_WIN_POST_ASYNC_RESULTS_H_
 #define BASE_WIN_POST_ASYNC_RESULTS_H_
 

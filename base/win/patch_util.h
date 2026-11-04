@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Code patching utility header
+// summary: Declares the internal ModifyCode helper that copies bytes to a destination after temporarily making the memory writable, returning a Windows error code.
+// ---
+
 #ifndef BASE_WIN_PATCH_UTIL_H_
 #define BASE_WIN_PATCH_UTIL_H_
 

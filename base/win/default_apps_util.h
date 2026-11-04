@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default apps settings launcher declarations
+// summary: Declares functions to launch Windows Settings default apps views, file extension prompts, and arbitrary settings URIs.
+// ---
+
 #ifndef BASE_WIN_DEFAULT_APPS_UTIL_H_
 #define BASE_WIN_DEFAULT_APPS_UTIL_H_
 

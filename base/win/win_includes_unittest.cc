@@ -5,6 +5,12 @@
 // This file ensures that these header files don't include Windows.h and can
 // compile without including Windows.h. This helps to improve compile times.
 
+// ---docerion
+// type: test
+// title: Check that base headers compile without Windows.h
+// summary: Unit test verifying that key base headers compile without including Windows.h and that Chrome type definitions match the corresponding Windows types in size.
+// ---
+
 #include "base/files/platform_file.h"
 #include "base/process/process_handle.h"
 #include "base/synchronization/condition_variable.h"

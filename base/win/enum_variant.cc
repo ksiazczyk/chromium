@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnumVariant IEnumVARIANT implementation
+// summary: Implements a simple COM IEnumVARIANT enumerator over a vector of scoped variants with Next, Skip, Reset and Clone support.
+// ---
+
 #include "base/win/enum_variant.h"
 
 #include <wrl/client.h>

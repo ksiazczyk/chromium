@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: C++ and Objective-C include checker
+# summary: Checks C++ and Objective-C files for illegal includes by applying DEPS rules to include and import statements.
+# ---
+
 """Checks C++ and Objective-C files for illegal includes."""
 
 import os

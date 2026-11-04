@@ -5,6 +5,12 @@
 // This file contains defines and typedefs that allow popular Windows types to
 // be used without the overhead of including windows.h.
 
+// ---docerion
+// type: source
+// title: Windows type definitions without windows.h
+// summary: Header supplying typedefs, macros, and forward declarations for common Windows types so code can use them without the overhead of including windows.h.
+// ---
+
 #ifndef BASE_WIN_WINDOWS_TYPES_H_
 #define BASE_WIN_WINDOWS_TYPES_H_
 

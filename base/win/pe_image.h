@@ -8,6 +8,12 @@
 // Win32 Portable Executable File Format" by Matt Pietrek:
 // http://msdn.microsoft.com/msdnmag/issues/02/02/PE/default.aspx
 
+// ---docerion
+// type: source
+// title: PEImage class header
+// summary: Declares PEImage, a wrapper for the Windows Portable Executable format that provides callbacks to work with imports, exports, sections, and relocations of loaded images.
+// ---
+
 #ifndef BASE_WIN_PE_IMAGE_H_
 #define BASE_WIN_PE_IMAGE_H_
 

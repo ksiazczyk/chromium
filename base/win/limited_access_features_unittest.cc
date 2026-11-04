@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Limited access features unit tests
+// summary: Unit test verifying that requesting an unregistered Windows Limited Access Feature fails gracefully, using the taskbar pinning token.
+// ---
+
 #include "base/win/limited_access_features.h"
 
 #include "base/win/scoped_com_initializer.h"

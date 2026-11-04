@@ -1,0 +1,4 @@
+# Docerion header of vulkan_loader.gni.
+type: config
+title: Vulkan loader build overrides
+summary: Sets the Vulkan loader to build as a shared library matching ANGLE's libvulkan configuration.

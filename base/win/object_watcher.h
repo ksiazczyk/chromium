@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectWatcher class header
+// summary: Declares ObjectWatcher, an abstraction around RegisterWaitForSingleObject that notifies a delegate on the origin sequence when a Windows object becomes signaled.
+// ---
+
 #ifndef BASE_WIN_OBJECT_WATCHER_H_
 #define BASE_WIN_OBJECT_WATCHER_H_
 

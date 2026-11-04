@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedSafearray RAII wrapper
+// summary: Declares a minimal RAII wrapper for Windows SAFEARRAY objects, including a LockScope template that manages array locks and acts as a random-access iterator.
+// ---
+
 #ifndef BASE_WIN_SCOPED_SAFEARRAY_H_
 #define BASE_WIN_SCOPED_SAFEARRAY_H_
 

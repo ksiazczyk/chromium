@@ -1,0 +1,4 @@
+# Docerion header of pdfium.gni.
+type: config
+title: PDFium build overrides
+summary: Sets PDFium feature overrides for Chromium builds, including Brotli, V8 JavaScript, XFA forms, FreeType, Skia, PartitionAlloc, and Rust-based codecs.

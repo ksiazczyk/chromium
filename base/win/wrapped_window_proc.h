@@ -7,6 +7,12 @@
 // dependent, but it is possible that the OS just ignores the exception and
 // continues execution, which leads to unpredictable behavior for Chrome.
 
+// ---docerion
+// type: source
+// title: Window procedure exception wrapper
+// summary: Declares a WindowProc wrapper with SEH exception handling plus helpers to set the filter and initialize window classes.
+// ---
+
 #ifndef BASE_WIN_WRAPPED_WINDOW_PROC_H_
 #define BASE_WIN_WRAPPED_WINDOW_PROC_H_
 

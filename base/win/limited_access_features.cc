@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Limited access features unlocking implementation
+// summary: Implements TryToUnlockLimitedAccessFeature, which unlocks Windows Limited Access Features through WinRT using feature IDs, tokens, and an attestation string.
+// ---
+
 #include "base/win/limited_access_features.h"
 
 #include <inspectable.h>

@@ -1,0 +1,4 @@
+# Docerion header of mesa.gni.
+type: config
+title: Mesa build overrides
+summary: Sets the Mesa source and Meson directories used from Dawn's third-party dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessToken class declaration
+// summary: Declares the AccessToken class with nested Group, Privilege and SecurityAttribute types for inspecting Windows access token information.
+// ---
+
 #ifndef BASE_WIN_ACCESS_TOKEN_H_
 #define BASE_WIN_ACCESS_TOKEN_H_
 

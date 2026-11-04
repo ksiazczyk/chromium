@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PeImageReader implementation
+// summary: Implements a safe parser for PE image headers, sections, export and debug data that works on untrusted data and on both 32-bit and 64-bit images.
+// ---
+
 #include "base/win/pe_image_reader.h"
 
 #include <windows.h>

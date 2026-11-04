@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedBstr
+// summary: Unit tests covering ScopedBstr behavior including empty state, allocation, byte length handling, swap, release and out-parameter usage.
+// ---
+
 #include "base/win/scoped_bstr.h"
 
 #include <stddef.h>

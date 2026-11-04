@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedSelectObject GDI helper
+// summary: Declares a helper that selects a GDI object into a device context and restores the previously selected object when the scope ends.
+// ---
+
 #ifndef BASE_WIN_SCOPED_SELECT_OBJECT_H_
 #define BASE_WIN_SCOPED_SELECT_OBJECT_H_
 

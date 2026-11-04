@@ -1,0 +1,4 @@
+# Docerion header of glslang.gni.
+type: config
+title: glslang build overrides
+summary: Points glslang at Chromium's SPIRV-Tools checkout and enables an ANGLE-tailored build that strips unused features to reduce binary size.

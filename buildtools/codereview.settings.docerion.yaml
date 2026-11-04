@@ -1,0 +1,4 @@
+# Docerion header of codereview.settings.
+type: config
+title: git-cl code review settings
+summary: Provides git-cl with repository-specific Gerrit host and code review server settings for the buildtools project.

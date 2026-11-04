@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PostAsyncResults unit tests
+// summary: Typed unit tests covering success and failure paths of async result fetching and completion handler posting using a fake IAsyncOperation.
+// ---
+
 #include "base/win/post_async_results.h"
 
 #include "base/test/async_results_test_values_win.h"

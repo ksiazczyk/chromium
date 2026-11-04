@@ -1,0 +1,4 @@
+# Docerion header of README.txt.
+type: readme
+title: README for the buildtools directory
+summary: Explains that the directory holds hashes of Chromium build tools fetched from Google Storage and how to upload new binaries manually with gsutil.

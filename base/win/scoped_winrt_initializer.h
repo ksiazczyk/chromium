@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWinrtInitializer class declaration
+// summary: Declares ScopedWinrtInitializer, a per-thread RAII class that initializes the Windows Runtime and uninitializes it on destruction.
+// ---
+
 #ifndef BASE_WIN_SCOPED_WINRT_INITIALIZER_H_
 #define BASE_WIN_SCOPED_WINRT_INITIALIZER_H_
 

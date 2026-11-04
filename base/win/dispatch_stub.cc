@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IDispatch stub implementation
+// summary: Implements an unimplemented IDispatch subclass whose methods all return E_NOTIMPL, provided as a stub for COM testing.
+// ---
+
 #include "base/win/dispatch_stub.h"
 
 namespace base {

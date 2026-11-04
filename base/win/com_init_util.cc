@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COM initialization utilities implementation
+// summary: Implements detection of the current thread's COM apartment type from OleTlsData plus debug assertions for COM initialization.
+// ---
+
 #include "base/win/com_init_util.h"
 
 #include <windows.h>

@@ -1,3 +1,11 @@
+---
+type: readme
+title: DEPS Files
+summary: Documents the DEPS file format, directory structure rules, and review requirements for include rules.
+relations:
+  - references /chromeos/ash/components/DEPS
+---
+
 # DEPS Files
 
 DEPS files specify which files the sources in a directory tree may include.

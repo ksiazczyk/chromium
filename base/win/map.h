@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT IMap wrapper around std::map
+// summary: Template implementing Windows::Foundation::IMap as an observable, iterable wrapper around std::map with change notifications and iterator state checks.
+// ---
+
 #ifndef BASE_WIN_MAP_H_
 #define BASE_WIN_MAP_H_
 

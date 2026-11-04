@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedGetDC and ScopedCreateDC wrappers for Windows device contexts
+// summary: Defines ScopedGetDC and ScopedCreateDC RAII wrappers that release Windows device contexts obtained from GetDC or created via CreateDC.
+// ---
+
 #ifndef BASE_WIN_SCOPED_HDC_H_
 #define BASE_WIN_SCOPED_HDC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows utility functions implementation
+// summary: Implements Windows helper functions in base::win for user SID retrieval, UAC checks, property store values, AutoRun commands, and other platform queries.
+// ---
+
 #include "base/win/win_util.h"
 
 #include <objbase.h>

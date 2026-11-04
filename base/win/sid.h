@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sid class for Windows security identifiers
+// summary: Declares the base::win::Sid class for creating, cloning, and converting Windows SIDs from capabilities, SDDL strings, well-known types, and integrity levels.
+// ---
+
 #ifndef BASE_WIN_SID_H_
 #define BASE_WIN_SID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows shortcut API header
+// summary: Declares ShortcutOperation and ShortcutProperties along with functions for creating, updating, and resolving Windows shortcut links.
+// ---
+
 #ifndef BASE_WIN_SHORTCUT_H_
 #define BASE_WIN_SHORTCUT_H_
 

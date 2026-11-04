@@ -1,0 +1,4 @@
+# Docerion header of swiftshader.gni.
+type: config
+title: SwiftShader build overrides
+summary: Marks SwiftShader as built within Chromium rather than standalone and points to its third-party directory.

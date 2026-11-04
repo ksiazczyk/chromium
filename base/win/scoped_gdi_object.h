@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedGDIObject RAII helper for GDI objects
+// summary: Declares ScopedGDIObject, an RAII helper for GDI objects like HBITMAP, HBRUSH, HFONT, HICON, HPEN and HRGN, with traits defined in the cc file.
+// ---
+
 #ifndef BASE_WIN_SCOPED_GDI_OBJECT_H_
 #define BASE_WIN_SCOPED_GDI_OBJECT_H_
 

@@ -4,6 +4,12 @@
 //
 // Unit tests for event trace consumer base class.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ETW event trace consumer
+// summary: Tests the ETW consumer base class with realtime and file sessions using a test consumer that queues received events.
+// ---
+
 #include "base/win/event_trace_consumer.h"
 
 #include <objbase.h>

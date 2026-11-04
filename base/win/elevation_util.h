@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows elevation utility declarations
+// summary: Declares base::win helpers that find explorer.exe, check process integrity level, and run commands de-elevated on Windows.
+// ---
+
 #ifndef BASE_WIN_ELEVATION_UTIL_H_
 #define BASE_WIN_ELEVATION_UTIL_H_
 

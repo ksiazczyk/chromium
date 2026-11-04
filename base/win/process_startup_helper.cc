@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process startup helper implementation
+// summary: Registers invalid-parameter and pure-call handlers that trigger breakpoints and configures CRT reporting so crashes can be captured by breakpad.
+// ---
+
 #include "base/win/process_startup_helper.h"
 
 #include <crtdbg.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedHString implementation
+// summary: Implements ScopedHString creation, content access, and UTF-8 conversion for Windows HSTRING values, terminating on out-of-memory.
+// ---
+
 #include "base/win/scoped_hstring.h"
 
 #include <winstring.h>

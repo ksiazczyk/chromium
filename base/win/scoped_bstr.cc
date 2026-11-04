@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedBstr COM string wrapper implementation
+// summary: Implements ScopedBstr, a RAII wrapper that allocates, releases and manages BSTR COM strings.
+// ---
+
 #include "base/win/scoped_bstr.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CET shadow stack test
+// summary: Verifies that hardware-enforced CET shadow stacks crash on a simulated ROP control-flow redirect, on Windows 10 20H1 and later.
+// ---
+
 #include <Windows.h>
 
 #include <intrin.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT IReference template class
+// summary: Implements the UWP IReference interface as a template class that wraps a value for use with WinRT collections.
+// ---
+
 #ifndef BASE_WIN_REFERENCE_H_
 #define BASE_WIN_REFERENCE_H_
 

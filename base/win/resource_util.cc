@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module resource loading implementation
+// summary: Implements GetResourceFromModule, which loads a data resource of a given type and ID from a module and returns its data and length.
+// ---
+
 #include "base/win/resource_util.h"
 
 #include "base/notreached.h"

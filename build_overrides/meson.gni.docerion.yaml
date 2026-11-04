@@ -1,0 +1,4 @@
+# Docerion header of meson.gni.
+type: config
+title: Meson build overrides
+summary: GN override file that points Meson, llvm-config, and zstd to Dawn's bundled third-party copies for Chromium builds.

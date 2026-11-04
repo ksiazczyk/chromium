@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window procedure exception handling implementation
+// summary: Implements the window procedure exception filter and initialization of WNDCLASSEX tied to the module of the window procedure.
+// ---
+
 #include "base/win/wrapped_window_proc.h"
 
 #include <atomic>

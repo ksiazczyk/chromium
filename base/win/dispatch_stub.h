@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IDispatch test stub declaration
+// summary: Declares DispatchStub, an unimplemented IDispatch runtime class in the base::win::test namespace for use in tests.
+// ---
+
 #ifndef BASE_WIN_DISPATCH_STUB_H_
 #define BASE_WIN_DISPATCH_STUB_H_
 

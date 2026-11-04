@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows path access control utilities implementation
+// summary: Implements helpers that grant or deny access to file paths via ACEs, check SID access to paths, and clone or append SID vectors.
+// ---
+
 #include "base/win/security_util.h"
 
 #include <windows.h>

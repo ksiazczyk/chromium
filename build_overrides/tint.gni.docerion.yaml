@@ -1,0 +1,4 @@
+# Docerion header of tint.gni.
+type: config
+title: Tint build overrides
+summary: Sets Tint source and dependency paths and enables the WGSL reader and writer plus the SPIR-V writer for Chromium builds.

@@ -4,6 +4,12 @@
 //
 // Unit tests for event trace controller.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ETW event trace controller
+// summary: Tests EtwTraceProperties initialization and string handling plus EtwTraceController session start, provider enable and stop.
+// ---
+
 #include "base/win/event_trace_controller.h"
 
 #include <objbase.h>

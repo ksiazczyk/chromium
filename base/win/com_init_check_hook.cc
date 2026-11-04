@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COM initialization check hook implementation
+// summary: Implements hotpatch-based hooks on COM initialization entry points to detect COM usage where it is disallowed, using x86 hotpatch placeholders.
+// ---
+
 #include "base/win/com_init_check_hook.h"
 
 #include <objbase.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedProcessInformation implementation
+// summary: Implements closing, setting, duplicating, and taking ownership of the process and thread handles held in a PROCESS_INFORMATION structure.
+// ---
+
 #include "base/win/scoped_process_information.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CC_EXPORT macro header
+// summary: Defines the CC_EXPORT macro controlling symbol visibility for component builds of the cc library.
+// ---
+
 #ifndef CC_CC_EXPORT_H_
 #define CC_CC_EXPORT_H_
 

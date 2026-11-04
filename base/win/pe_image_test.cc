@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test DLL source with system library exports
+// summary: Source for a test DLL exporting functions that call into user32, cfgmgr32, shell32 and kernel32, used as fixture data for PE image tests.
+// ---
+
 #include <windows.h>
 
 #include <cfgmgr32.h>

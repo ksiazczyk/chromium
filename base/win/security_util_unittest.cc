@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security utility unit tests
+// summary: Unit tests for GrantAccessToPath, DenyAccessToPath, and HasAccessToPath using SDDL-defined DACLs on temporary files and directories.
+// ---
+
 #include "base/win/security_util.h"
 
 // clang-format off

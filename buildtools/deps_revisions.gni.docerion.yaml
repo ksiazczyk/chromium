@@ -1,0 +1,4 @@
+# Docerion header of deps_revisions.gni.
+type: config
+title: GN build argument for the libc++ revision
+summary: Declares the libcxx_revision GN build argument, kept in sync with the root DEPS file, to trigger full rebuilds when libc++ is rolled.

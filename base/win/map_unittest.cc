@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT map wrapper unit tests
+// summary: Unit tests for base::win::Map, adding missing UWP template specializations for int-double and Uri key-value pairs.
+// ---
+
 #include "base/win/map.h"
 
 #include <windows.foundation.h>

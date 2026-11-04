@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Checkdeps Results and Output Formatters
+# summary: Defines dependency violation and dependee status objects plus formatters that output checkdeps results as human-readable text, JSON, or temporary-allow rule lines for DEPS files.
+# ---
+
 """Results object and results formatters for checkdeps tool."""
 
 import json

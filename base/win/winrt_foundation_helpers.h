@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT foundation type helpers
+// summary: Internal template helpers for WinRT types that map logical and ABI types and provide storage, copy and comparison utilities.
+// ---
+
 #ifndef BASE_WIN_WINRT_FOUNDATION_HELPERS_H_
 #define BASE_WIN_WINRT_FOUNDATION_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessControlList unit tests
+// summary: Tests ACL creation from PACL pointers and mandatory labels plus entry modification, verifying results through SDDL string round-trips.
+// ---
+
 #include "base/win/access_control_list.h"
 
 // clang-format off

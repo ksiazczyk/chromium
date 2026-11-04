@@ -1,0 +1,4 @@
+# Docerion header of wayland.gni.
+type: config
+title: Wayland build overrides
+summary: GN build override for Wayland that sets source directories and conditionally imports features.gni to determine whether the system libwayland is used.

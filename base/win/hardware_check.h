@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows 11 hardware requirements check declarations
+// summary: Declares HardwareEvaluationResult and EvaluateWin11HardwareRequirements for checking Windows 11 minimum hardware eligibility.
+// ---
+
 #ifndef BASE_WIN_HARDWARE_CHECK_H_
 #define BASE_WIN_HARDWARE_CHECK_H_
 

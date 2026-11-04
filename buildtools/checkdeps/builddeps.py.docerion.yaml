@@ -1,0 +1,4 @@
+# Docerion header of builddeps.py.
+type: source
+title: Dependency rule builder from DEPS files
+summary: Traverses the source tree, parses all DEPS files, and builds a dependency rule table used by the checkers.

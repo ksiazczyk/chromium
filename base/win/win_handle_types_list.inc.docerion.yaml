@@ -1,0 +1,4 @@
+# Docerion header of win_handle_types_list.inc.
+type: source
+title: Windows handle types list
+summary: Lists Windows handle types via the CHROME_WINDOWS_HANDLE_TYPE macro for inclusion inside a macro that generates enum values used by windows_types.h.

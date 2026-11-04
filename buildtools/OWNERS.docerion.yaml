@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS approvers for the buildtools directory
+summary: Lists the directory owners, the Chrome Build Team group, and per-file reviewers for libc++ rolls including the autoroller service account.

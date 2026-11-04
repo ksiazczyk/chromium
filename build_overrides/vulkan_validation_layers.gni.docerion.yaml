@@ -1,0 +1,4 @@
+# Docerion header of vulkan_validation_layers.gni.
+type: config
+title: Vulkan validation layers build overrides
+summary: GN build override for the Vulkan validation layers, defining source paths for SPIRV headers and tools, glslang, and the Vulkan utility libraries.

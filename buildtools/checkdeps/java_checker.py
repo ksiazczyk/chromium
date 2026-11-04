@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Java import checker
+# summary: Checks Java files for illegal imports by building a class-name-to-file mapping and applying DEPS rules.
+# ---
+
 """Checks Java files for illegal imports."""
 
 import concurrent.futures

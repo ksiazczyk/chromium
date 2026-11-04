@@ -1,0 +1,4 @@
+# Docerion header of vulkan_common.gni.
+type: config
+title: Vulkan common build overrides
+summary: Defines shared Vulkan paths for Chromium builds, locating Vulkan headers and reusing ANGLE data and generation directories.

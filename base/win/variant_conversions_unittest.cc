@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for VARIANT type conversion helpers
+// summary: Unit tests verifying VariantConverter raw get and set behavior plus convertibility rules for each supported OLE VARTYPE.
+// ---
+
 #include "base/win/variant_conversions.h"
 
 #include <stdint.h>

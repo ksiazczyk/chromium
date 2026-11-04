@@ -1,0 +1,4 @@
+# Docerion header of checkdeps_test.py.
+type: test
+title: Checkdeps unit tests
+summary: Unit tests that verify checkdeps behavior against intentional dependency violations in the testdata directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT IVector, IVectorView, and iterator wrappers
+// summary: Header providing base::win::Vector plus WinRT RuntimeClass implementations of IVector, IVectorView, IIterator, and vector change event args.
+// ---
+
 #ifndef BASE_WIN_VECTOR_H_
 #define BASE_WIN_VECTOR_H_
 

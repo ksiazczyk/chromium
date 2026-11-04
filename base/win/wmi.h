@@ -17,6 +17,12 @@
 // For more information about WMI programming:
 // https://docs.microsoft.com/en-us/windows/win32/wmisdk
 
+// ---docerion
+// type: source
+// title: WMI helper API
+// summary: Declares WMI helpers for connecting to servers, running WQL queries, creating class methods and launching processes.
+// ---
+
 #ifndef BASE_WIN_WMI_H_
 #define BASE_WIN_WMI_H_
 

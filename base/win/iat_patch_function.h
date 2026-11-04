@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IAT patch function class declaration
+// summary: Declares IATPatchFunction, a helper that patches Import Address Table entries to intercept DLL functions and restores the originals on destruction.
+// ---
+
 #ifndef BASE_WIN_IAT_PATCH_FUNCTION_H_
 #define BASE_WIN_IAT_PATCH_FUNCTION_H_
 

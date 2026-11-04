@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message-only window implementation
+// summary: Implements MessageWindow, registering a per-thread window class and managing message-only windows with thread-local handle tracking.
+// ---
+
 #include "base/win/message_window.h"
 
 #include <windows.h>

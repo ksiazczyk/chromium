@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for buildtools
+# summary: Lists generated and downloaded files such as clang-format binaries, version directories, and third_party checkouts that git should ignore in buildtools.
+# ---
+
 *.pyc
 /*/format
 /android/doclava.tar.gz

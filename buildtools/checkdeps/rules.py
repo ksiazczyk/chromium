@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Dependency Rule Classes for Checkdeps
+# summary: Defines the Rule, MessageRule, and Rules classes that represent, parse, and apply ALLOW, DISALLOW, and TEMP_ALLOW dependency rules used by checkdeps.py.
+# ---
+
 """Base classes to represent dependency rules, used by checkdeps.py"""
 
 import os
