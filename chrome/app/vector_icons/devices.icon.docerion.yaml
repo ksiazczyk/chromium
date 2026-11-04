@@ -1,0 +1,4 @@
+# Docerion header of devices.icon.
+type: asset
+title: Devices vector icon
+summary: Vector icon definition that draws the devices glyph from path commands on a 16 dp canvas for Chromium UI.

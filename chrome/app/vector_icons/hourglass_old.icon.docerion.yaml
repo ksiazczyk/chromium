@@ -1,0 +1,4 @@
+# Docerion header of hourglass_old.icon.
+type: asset
+title: Hourglass icon (old)
+summary: Vector icon definition drawing the legacy hourglass glyph as path commands for the Chromium UI.

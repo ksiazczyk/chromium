@@ -1,0 +1,4 @@
+# Docerion header of image.icon.
+type: asset
+title: Image icon definition
+summary: Defines the 16dp vector icon path data for an image glyph used in Chrome UI.

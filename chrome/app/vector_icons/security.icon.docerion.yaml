@@ -1,0 +1,4 @@
+# Docerion header of security.icon.
+type: asset
+title: Security vector icon
+summary: Defines the security shield vector icon, drawn with path commands on a 24dp canvas.

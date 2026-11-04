@@ -1,0 +1,4 @@
+# Docerion header of rocket_launch.icon.
+type: asset
+title: Rocket launch icon
+summary: Vector icon definition of a rocket launch graphic, expressed as canvas dimensions and path commands for use in Chromium UI.

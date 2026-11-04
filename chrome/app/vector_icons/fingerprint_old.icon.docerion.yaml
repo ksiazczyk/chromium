@@ -1,0 +1,4 @@
+# Docerion header of fingerprint_old.icon.
+type: asset
+title: Fingerprint old vector icon
+summary: Defines the vector path data for the legacy fingerprint icon drawn on a 24 dp canvas.

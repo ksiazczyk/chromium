@@ -1,0 +1,4 @@
+# Docerion header of contract.icon.
+type: asset
+title: Contract vector icon
+summary: Vector icon definition drawing the contract glyph on a 16 dp canvas using path commands.

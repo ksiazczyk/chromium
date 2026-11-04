@@ -1,0 +1,4 @@
+# Docerion header of open_in_new_old.icon.
+type: asset
+title: open_in_new_old.icon
+summary: Vector icon definition for the legacy open-in-new glyph, carrying a TODO to move it to /chrome/app.

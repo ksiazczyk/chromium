@@ -1,0 +1,4 @@
+# Docerion header of copy_old.icon.
+type: asset
+title: Copy vector icon (old)
+summary: Legacy vector icon definition drawing the copy glyph on a 24 dp canvas using path commands.

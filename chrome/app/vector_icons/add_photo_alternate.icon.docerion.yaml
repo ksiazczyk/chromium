@@ -1,0 +1,4 @@
+# Docerion header of add_photo_alternate.icon.
+type: asset
+title: Add photo alternate icon
+summary: Defines the vector path data for the add photo alternate icon drawn on a 16-unit canvas in Chromium's UI.

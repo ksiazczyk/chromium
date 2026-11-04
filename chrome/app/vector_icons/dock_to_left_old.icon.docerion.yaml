@@ -1,0 +1,4 @@
+# Docerion header of dock_to_left_old.icon.
+type: asset
+title: Dock to left old vector icon
+summary: Legacy dock-to-left icon drawn as path commands on a 16 dp canvas.

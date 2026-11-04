@@ -1,0 +1,4 @@
+# Docerion header of image_create.icon.
+type: asset
+title: Image create icon definition
+summary: Defines the 24dp vector icon path data for an image glyph combined with a create element.

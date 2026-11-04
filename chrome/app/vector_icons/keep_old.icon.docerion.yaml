@@ -1,0 +1,4 @@
+# Docerion header of keep_old.icon.
+type: source
+title: Keep icon (old style)
+summary: Defines the old-style Keep vector icon drawn on a 20 dp canvas.

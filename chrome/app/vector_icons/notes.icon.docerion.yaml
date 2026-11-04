@@ -1,0 +1,4 @@
+# Docerion header of notes.icon.
+type: asset
+title: Notes vector icon
+summary: Vector icon definition that draws the notes glyph as rounded list lines on a 24dp canvas for Chromium's UI.

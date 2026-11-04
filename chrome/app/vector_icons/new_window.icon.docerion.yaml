@@ -1,0 +1,4 @@
+# Docerion header of new_window.icon.
+type: asset
+title: New window vector icon
+summary: Defines vector path data for the new window icon drawn on a 16 dp canvas.

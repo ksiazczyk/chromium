@@ -1,0 +1,4 @@
+# Docerion header of check.icon.
+type: asset
+title: Checkmark icon
+summary: Defines the vector path data for a 16dp checkmark icon used in the Chromium UI.

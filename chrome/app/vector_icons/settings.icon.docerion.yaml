@@ -1,0 +1,4 @@
+# Docerion header of settings.icon.
+type: asset
+title: Settings vector icon
+summary: Defines the settings gear vector icon, drawn with path commands on a 16dp canvas.

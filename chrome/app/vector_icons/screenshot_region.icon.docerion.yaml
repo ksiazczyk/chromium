@@ -1,0 +1,4 @@
+# Docerion header of screenshot_region.icon.
+type: asset
+title: Screenshot region vector icon
+summary: Defines the vector icon for selecting a screenshot region, drawn with path commands on a 24dp canvas.

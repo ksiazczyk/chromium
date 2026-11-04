@@ -1,0 +1,4 @@
+# Docerion header of release_alert_old.icon.
+type: asset
+title: Release alert vector icon (old)
+summary: Defines the old 16dp release alert vector icon as path data for Chromium's UI.

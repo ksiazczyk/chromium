@@ -1,0 +1,4 @@
+# Docerion header of info_old.icon.
+type: asset
+title: Legacy info icon definition
+summary: Defines the legacy information icon path data on a 960-unit canvas.

@@ -1,0 +1,4 @@
+# Docerion header of remove_old.icon.
+type: asset
+title: Remove vector icon (old)
+summary: Defines the old stroke-based 16dp remove (minus) vector icon as path data.

@@ -1,0 +1,4 @@
+# Docerion header of paintbrush_old.icon.
+type: asset
+title: paintbrush_old.icon
+summary: Vector icon definition for the legacy paintbrush glyph drawn with path and cubic curve commands.

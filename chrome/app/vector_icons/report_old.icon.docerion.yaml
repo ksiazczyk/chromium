@@ -1,0 +1,4 @@
+# Docerion header of report_old.icon.
+type: asset
+title: Report vector icon (old)
+summary: Defines the old 16dp report vector icon as path data for Chromium's UI.

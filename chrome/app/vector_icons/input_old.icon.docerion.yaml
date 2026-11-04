@@ -1,0 +1,4 @@
+# Docerion header of input_old.icon.
+type: asset
+title: Legacy input icon definition
+summary: Defines the legacy input icon path data on a 960-unit canvas.

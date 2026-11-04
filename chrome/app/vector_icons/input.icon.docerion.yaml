@@ -1,0 +1,4 @@
+# Docerion header of input.icon.
+type: asset
+title: Input icon definition
+summary: Defines the 24dp vector icon path data for an input field glyph with an arrow.

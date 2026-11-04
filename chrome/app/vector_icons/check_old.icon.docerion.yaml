@@ -1,0 +1,4 @@
+# Docerion header of check_old.icon.
+type: asset
+title: Checkmark icon, legacy style
+summary: Defines the vector path data for the legacy 24dp checkmark icon variant.

@@ -1,0 +1,4 @@
+# Docerion header of fingerprint.icon.
+type: asset
+title: Fingerprint vector icon
+summary: Defines the vector path data for the fingerprint icon drawn on a 24 dp canvas.

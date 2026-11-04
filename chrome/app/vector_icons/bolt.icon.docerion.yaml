@@ -1,0 +1,4 @@
+# Docerion header of bolt.icon.
+type: asset
+title: Bolt vector icon
+summary: Defines a 16 dp lightning bolt vector icon through path drawing commands for Chrome's UI.

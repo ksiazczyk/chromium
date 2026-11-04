@@ -1,0 +1,4 @@
+# Docerion header of person_filled_padded_small_old.icon.
+type: asset
+title: Person filled padded small icon (old)
+summary: Legacy filled person icon with larger padding, provided for 24, 22 and 20dp canvas sizes.
