@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP custom background service factory implementation
+// summary: Implements the profile-keyed factory that creates the NtpCustomBackgroundService instance for each browser profile.
+// ---
+
 #include "chrome/browser/search/background/ntp_custom_background_service_factory.h"
 
 #include "chrome/browser/browser_process.h"

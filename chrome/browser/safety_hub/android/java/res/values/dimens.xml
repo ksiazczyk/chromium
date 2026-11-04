@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Safety Hub Android dimension resources
+summary: Defines dimension values such as margins, padding and icon sizes used by the Safety Hub Magic Stack and expandable preference UIs on Android.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="UnusedResources">
   <!-- Safety Hub Magic Stack dimens -->

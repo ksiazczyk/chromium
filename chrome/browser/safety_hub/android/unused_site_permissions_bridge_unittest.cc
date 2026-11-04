@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unused site permissions bridge unit tests
+// summary: Unit tests for the unused site permissions JNI bridge covering data conversion, regranting and review list handling.
+// ---
+
 #include "chrome/browser/safety_hub/android/unused_site_permissions_bridge.h"
 
 #include <jni.h>

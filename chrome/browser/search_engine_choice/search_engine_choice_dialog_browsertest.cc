@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine choice dialog browser tests
+// summary: Browser tests covering search engine choice dialog behavior across profiles, browser windows, and session scenarios.
+// ---
+
 #include <memory>
 
 #include "base/callback_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub module delegate interface
+// summary: Interface for a delegate that handles Safety Hub UI behaviour such as launching password check UIs, the Play Store page and the sign-in promo.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.content.Context;

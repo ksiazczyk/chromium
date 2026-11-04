@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyPromoCarouselViewBinderUnitTest
+// summary: Unit tests for the carousel view binder checking that model properties update the title, subtitle, page indicator, and continue button click handling.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import static org.junit.Assert.assertEquals;

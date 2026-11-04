@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI install state implementation
+// summary: Implements the Screen AI install state singleton with device compatibility checks, library version verification, and install decisions.
+// ---
+
 #include "chrome/browser/screen_ai/screen_ai_install_state.h"
 
 #include <optional>

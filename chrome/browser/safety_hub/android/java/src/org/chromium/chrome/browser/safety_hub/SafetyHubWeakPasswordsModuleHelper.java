@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub module helper for the weak passwords state
+// summary: Implements the SafetyHubModuleHelper for the weak passwords state, supplying title, summary and button actions for the Safety Hub passwords module.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.chromium.chrome.browser.safety_hub.SafetyHubMetricUtils.recordDashboardInteractions;

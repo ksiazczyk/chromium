@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyPromoPageIndicatorViewUnitTest
+// summary: Unit tests for the page indicator view verifying measured dimensions for zero, one, and multiple pages based on dot size and padding dimensions.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import static org.junit.Assert.assertEquals;

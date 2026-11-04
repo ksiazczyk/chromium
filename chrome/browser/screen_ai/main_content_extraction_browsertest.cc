@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main content extraction browser tests
+// summary: Browser tests that run main content extraction on a test page and verify the extracted accessibility tree text and related metrics.
+// ---
+
 #include <array>
 
 #include "base/test/metrics/histogram_tester.h"

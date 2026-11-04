@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Stack JNI bridge implementation
+// summary: Implements JNI bindings that expose Safety Hub menu notification entries and module dismissal actions to Android Java code.
+// ---
+
 #include "chrome/browser/safety_hub/android/magic_stack_bridge.h"
 
 #include <jni.h>

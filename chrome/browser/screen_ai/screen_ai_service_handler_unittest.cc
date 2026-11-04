@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI service shutdown handler unit tests
+// summary: Unit tests for the service shutdown handler covering crash suspension, resume timing, and crash count metrics using mock time.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/task_environment.h"
 #include "chrome/browser/screen_ai/screen_ai_service_handler_base.h"

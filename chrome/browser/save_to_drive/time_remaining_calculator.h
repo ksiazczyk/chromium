@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time remaining calculator header
+// summary: Declares TimeRemainingCalculator, which estimates and formats remaining upload time using a rate estimator.
+// ---
+
 #ifndef CHROME_BROWSER_SAVE_TO_DRIVE_TIME_REMAINING_CALCULATOR_H_
 #define CHROME_BROWSER_SAVE_TO_DRIVE_TIME_REMAINING_CALCULATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OCR service handler implementation
+// summary: Implements the OCR service handler that loads the OCR model file list and initializes the OCR service in the sandboxed process.
+// ---
+
 #include <utility>
 #include <vector>
 

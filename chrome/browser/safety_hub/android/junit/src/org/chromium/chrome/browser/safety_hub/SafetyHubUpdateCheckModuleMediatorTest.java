@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyHubUpdateCheckModuleMediatorTest
+// summary: Robolectric tests for SafetyHubUpdateCheckModuleMediator verifying the update check module's display for various browser update statuses.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.junit.Assert.assertEquals;

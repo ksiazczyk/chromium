@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveToDriveEventDispatcher class declaration
+// summary: Declares SaveToDriveEventDispatcher, which sends save progress events from the browser process to the PDF viewer extension.
+// ---
+
 #ifndef CHROME_BROWSER_SAVE_TO_DRIVE_SAVE_TO_DRIVE_EVENT_DISPATCHER_H_
 #define CHROME_BROWSER_SAVE_TO_DRIVE_SAVE_TO_DRIVE_EVENT_DISPATCHER_H_
 

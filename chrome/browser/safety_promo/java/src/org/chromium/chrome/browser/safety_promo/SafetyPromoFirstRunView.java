@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card view for the Safety First Run Experience promo
+// summary: Inflates and binds the safety promo cards with icons, titles and subtitles, and reports card clicks through a CardClickListener.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyPromoCarouselViewUnitTest
+// summary: Unit tests for the carousel view covering inflation, title and subtitle setters, continue button listener, page indicator count, and touch scrolling behavior.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import static org.junit.Assert.assertEquals;

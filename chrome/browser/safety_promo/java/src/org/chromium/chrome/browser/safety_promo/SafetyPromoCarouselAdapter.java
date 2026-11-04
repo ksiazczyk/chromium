@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecyclerView adapter for Safety FRE promo carousel illustrations
+// summary: Displays the carousel illustrations of the Safety First Run Experience promo by binding each SafetyPromoItem's drawable resource to a RecyclerView item view.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import android.view.LayoutInflater;

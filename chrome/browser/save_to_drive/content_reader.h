@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentReader interface
+// summary: Declares an interface for opening, reading in chunks, sizing, and closing file content, used by the Save to Drive flow to read files.
+// ---
+
 #ifndef CHROME_BROWSER_SAVE_TO_DRIVE_CONTENT_READER_H_
 #define CHROME_BROWSER_SAVE_TO_DRIVE_CONTENT_READER_H_
 

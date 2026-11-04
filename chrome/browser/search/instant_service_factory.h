@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstantServiceFactory class declaration
+// summary: Declares the singleton factory that owns all InstantServices and associates them with user profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_INSTANT_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SEARCH_INSTANT_SERVICE_FACTORY_H_
 

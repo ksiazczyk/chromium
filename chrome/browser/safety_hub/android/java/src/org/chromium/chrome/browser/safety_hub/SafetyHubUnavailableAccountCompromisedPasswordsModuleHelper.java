@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub unavailable account compromised passwords helper
+// summary: Helper that provides UI strings and actions for the account passwords module when compromised password counts are unavailable.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.chromium.chrome.browser.safety_hub.SafetyHubMetricUtils.recordDashboardInteractions;

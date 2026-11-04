@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub fetch service factory
+// summary: Profile-keyed factory that creates and provides the Safety Hub fetch service, with an override for testing.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import org.chromium.base.ResettersForTesting;

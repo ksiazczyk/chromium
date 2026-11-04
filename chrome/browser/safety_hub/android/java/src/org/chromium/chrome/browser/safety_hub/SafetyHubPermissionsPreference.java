@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub revoked permissions preference
+// summary: Preference that displays a revoked permission entry with its origin, favicon and an undo button for the Safety Hub permissions review.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.content.Context;

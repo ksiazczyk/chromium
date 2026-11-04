@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Safety Hub safety tips icon
+summary: Vector drawable of an 18dp list-style icon tinted with the default icon color, used as the safety tips icon for Safety Hub.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="18dp"
     android:height="18dp"

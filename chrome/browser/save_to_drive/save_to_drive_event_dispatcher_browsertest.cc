@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save to Drive event dispatcher browser tests
+// summary: Browser tests for SaveToDriveEventDispatcher verifying progress event dispatch to the PDF viewer extension with mocked recorder and calculator.
+// ---
+
 #include "chrome/browser/save_to_drive/save_to_drive_event_dispatcher.h"
 
 #include "base/memory/raw_ptr.h"

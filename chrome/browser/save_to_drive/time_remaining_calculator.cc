@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time remaining calculator implementation
+// summary: Estimates remaining upload time from upload speed and formats it as human-readable text for save-to-Drive progress.
+// ---
+
 #include "chrome/browser/save_to_drive/time_remaining_calculator.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine base URL tracker header
+// summary: Declares SearchEngineBaseURLTracker, which observes default search engine base URL changes and reports the change reason via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_SEARCH_ENGINE_BASE_URL_TRACKER_H_
 #define CHROME_BROWSER_SEARCH_SEARCH_ENGINE_BASE_URL_TRACKER_H_
 

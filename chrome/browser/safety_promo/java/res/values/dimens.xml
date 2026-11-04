@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Safety FRE promo dimension resources
+summary: Defines Android dimension values for the Safety FRE promo card, carousel portrait and landscape layouts in Chromium.
+-->
+
 <resources>
     <!-- Safety FRE Promo Card dimensions -->
     <dimen name="safety_fre_card_height">88dp</dimen>

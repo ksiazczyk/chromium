@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Search policy handler for Android
+// summary: Applies the ContextualSearchEnabled policy by mapping a false policy value to the disabled Contextual Search preference on Android.
+// ---
+
 #include "chrome/browser/search/contextual_search_policy_handler_android.h"
 
 #include "base/values.h"

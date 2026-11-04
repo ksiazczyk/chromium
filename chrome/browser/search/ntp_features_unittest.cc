@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP features unit tests
+// summary: Unit tests for NTP feature parameter parsing, covering modules load timeout, modules order, and wallpaper search button animation threshold.
+// ---
+
 #include "components/search/ntp_features.h"
 
 #include "base/strings/string_number_conversions.h"

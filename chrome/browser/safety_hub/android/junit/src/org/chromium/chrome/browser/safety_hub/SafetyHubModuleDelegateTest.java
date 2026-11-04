@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyHubModuleDelegateTest
+// summary: Robolectric unit tests for SafetyHubModuleDelegate, covering sign-in coordination and password check launch behavior in the Safety Hub module.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.junit.Assert.assertEquals;

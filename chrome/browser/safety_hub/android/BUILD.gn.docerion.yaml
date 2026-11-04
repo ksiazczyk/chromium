@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safety Hub Android build configuration
+summary: GN build file defining JNI header generation, Java enum conversion and the Android Safety Hub Java library targets.

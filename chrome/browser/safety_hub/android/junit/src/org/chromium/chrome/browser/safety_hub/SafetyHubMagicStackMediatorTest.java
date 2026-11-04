@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magic Stack mediator tests
+// summary: Robolectric tests for the Safety Hub Magic Stack mediator, covering module display, settings navigation, and dialog behavior.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.junit.Assert.assertEquals;

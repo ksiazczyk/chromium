@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice dialog service factory header
+// summary: Declares the profile-keyed factory that supplies SearchEngineChoiceDialogService instances, with test hooks to override branded-build checks and compute profile eligibility.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_DIALOG_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_DIALOG_SERVICE_FACTORY_H_
 

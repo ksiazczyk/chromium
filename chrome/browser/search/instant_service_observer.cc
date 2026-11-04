@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstantServiceObserver default implementations
+// summary: Provides empty default implementations of the InstantServiceObserver theme and most visited info change callbacks.
+// ---
+
 #include "chrome/browser/search/instant_service_observer.h"
 
 void InstantServiceObserver::NtpThemeChanged(NtpTheme) {}

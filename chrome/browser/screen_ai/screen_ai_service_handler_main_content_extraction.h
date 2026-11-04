@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main content extraction service handler header
+// summary: Declares the main content extraction service handler that binds Screen2xMainContentExtractor receivers to the underlying service connection.
+// ---
+
 #ifndef CHROME_BROWSER_SCREEN_AI_SCREEN_AI_SERVICE_HANDLER_MAIN_CONTENT_EXTRACTION_H_
 #define CHROME_BROWSER_SCREEN_AI_SCREEN_AI_SERVICE_HANDLER_MAIN_CONTENT_EXTRACTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive uploader implementation
+// summary: Implements the base Drive uploader, including OAuth token fetching, parent folder lookup through the Drive API, progress notifications, and error handling.
+// ---
+
 #include "chrome/browser/save_to_drive/drive_uploader.h"
 
 #include <memory>

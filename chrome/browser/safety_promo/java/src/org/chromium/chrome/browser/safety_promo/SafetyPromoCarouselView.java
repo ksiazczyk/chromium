@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Carousel view for the Safety First Run Experience promo
+// summary: RelativeLayout hosting the carousel RecyclerView, title, subtitle, continue button and page indicator, forwarding horizontal swipes that start outside the RecyclerView.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import android.annotation.SuppressLint;

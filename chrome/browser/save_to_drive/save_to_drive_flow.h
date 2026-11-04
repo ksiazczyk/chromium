@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive flow header
+// summary: Declares SaveToDriveFlow, which orchestrates the browser-side save-to-Drive flow from account selection and file size reading to starting the appropriate Drive uploader.
+// ---
+
 #ifndef CHROME_BROWSER_SAVE_TO_DRIVE_SAVE_TO_DRIVE_FLOW_H_
 #define CHROME_BROWSER_SAVE_TO_DRIVE_SAVE_TO_DRIVE_FLOW_H_
 

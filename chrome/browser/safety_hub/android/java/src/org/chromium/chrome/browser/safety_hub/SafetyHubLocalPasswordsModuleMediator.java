@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub local passwords module mediator
+// summary: Mediator that populates the local passwords preference from the data source, including loading indicator handling.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.content.Context;

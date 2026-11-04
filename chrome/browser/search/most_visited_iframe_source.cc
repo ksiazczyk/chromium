@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most visited iframe data source for the New Tab Page
+// summary: Implements the URL data source that serves the most-visited iframe's title HTML, CSS and JavaScript resources and validates incoming requests for the New Tab Page.
+// ---
+
 #include "chrome/browser/search/most_visited_iframe_source.h"
 
 #include <string_view>

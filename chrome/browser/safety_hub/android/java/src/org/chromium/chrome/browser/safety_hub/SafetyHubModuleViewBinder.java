@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub module view binder
+// summary: Binds Safety Hub module property model changes onto the expandable preference view and asserts on unhandled properties.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import org.chromium.build.annotations.NullMarked;

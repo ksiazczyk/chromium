@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property keys for the Safety FRE promo carousel
+// summary: Defines the PropertyModel keys for the carousel's title, subtitle, continue click handler, page count and active page index.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import android.view.View.OnClickListener;

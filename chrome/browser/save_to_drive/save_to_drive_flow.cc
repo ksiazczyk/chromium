@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive flow implementation
+// summary: Implements SaveToDriveFlow, the document-scoped orchestration of account choice, content reading, upload, and HaTS survey for saving PDFs to Drive.
+// ---
+
 #include "chrome/browser/save_to_drive/save_to_drive_flow.h"
 
 #include <memory>

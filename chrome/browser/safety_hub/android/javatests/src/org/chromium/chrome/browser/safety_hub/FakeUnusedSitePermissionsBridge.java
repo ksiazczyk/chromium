@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake UnusedSitePermissionsBridge for tests
+// summary: In-memory fake implementing the UnusedSitePermissionsBridge natives so Android tests can simulate revoked site permissions and regrant actions.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import org.chromium.build.annotations.NullMarked;

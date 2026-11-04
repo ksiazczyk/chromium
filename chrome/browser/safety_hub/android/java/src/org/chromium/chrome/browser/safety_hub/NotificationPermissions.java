@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification permissions data container
+// summary: Container class passing notification permission primary and secondary patterns plus notification counts between native and Java code.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import androidx.annotation.VisibleForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive metrics recorder header
+// summary: Declares SaveToDriveRecorder, which records UMA metrics for save-to-Drive progress events.
+// ---
+
 #ifndef CHROME_BROWSER_SAVE_TO_DRIVE_SAVE_TO_DRIVE_RECORDER_H_
 #define CHROME_BROWSER_SAVE_TO_DRIVE_SAVE_TO_DRIVE_RECORDER_H_
 

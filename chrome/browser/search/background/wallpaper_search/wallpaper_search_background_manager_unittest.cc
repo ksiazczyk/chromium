@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper search background manager unit tests
+// summary: Unit tests for WallpaperSearchBackgroundManager covering history handling, background selection, and metrics using mock services and a testing profile.
+// ---
+
 #include "chrome/browser/search/background/wallpaper_search/wallpaper_search_background_manager.h"
 
 #include <vector>

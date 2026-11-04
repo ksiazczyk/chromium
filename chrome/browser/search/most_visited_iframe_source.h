@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MostVisitedIframeSource class declaration
+// summary: Declares the URL data source that serves most visited suggestion content for iframes embedded in remote new tab pages.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_MOST_VISITED_IFRAME_SOURCE_H_
 #define CHROME_BROWSER_SEARCH_MOST_VISITED_IFRAME_SOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyPromoCarouselMediatorUnitTest
+// summary: Unit tests for the carousel mediator verifying page count, active page selection from the selected item supplier, page snapping, and cleanup on destroy.
+// ---
+
 package org.chromium.chrome.browser.safety_promo;
 
 import static org.junit.Assert.assertEquals;

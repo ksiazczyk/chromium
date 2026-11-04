@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub module property keys
+// summary: Defines the property keys such as visibility, title, summary, buttons, icon, and order used to populate Safety Hub module preference models.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.graphics.drawable.Drawable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice service client implementation
+// summary: Implements the Chrome-layer client for SearchEngineChoiceService, providing the variations country, guest session eligibility, and cloned-install device restore detection.
+// ---
+
 #include "chrome/browser/search_engine_choice/search_engine_choice_service_client.h"
 
 #include "base/check_is_test.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the search source set and unit tests
+summary: Defines the search source set with platform- and feature-conditional sources and dependencies, plus the unit_tests target for the directory.

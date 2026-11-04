@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multipart Drive uploader implementation
+// summary: Implements uploading a file to Drive with the multipart upload protocol, building the multipart request body from metadata and file content.
+// ---
+
 #include "chrome/browser/save_to_drive/multipart_drive_uploader.h"
 
 #include <string>

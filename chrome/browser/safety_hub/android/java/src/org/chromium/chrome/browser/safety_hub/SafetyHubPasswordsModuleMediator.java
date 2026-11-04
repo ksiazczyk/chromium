@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub passwords module mediator
+// summary: Mediator that populates the Safety Hub passwords module with local and account password states, including compromised, weak and reused passwords.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.content.Context;

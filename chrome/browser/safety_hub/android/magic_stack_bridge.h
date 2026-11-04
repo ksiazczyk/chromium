@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Stack JNI bridge header
+// summary: Declares the conversion helper that maps native menu notification entries to Java Magic Stack entry objects.
+// ---
+
 #ifndef CHROME_BROWSER_SAFETY_HUB_ANDROID_MAGIC_STACK_BRIDGE_H_
 #define CHROME_BROWSER_SAFETY_HUB_ANDROID_MAGIC_STACK_BRIDGE_H_
 

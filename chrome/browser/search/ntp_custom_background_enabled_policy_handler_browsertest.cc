@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP custom background policy handler browser tests
+// summary: Browser test verifying that the NTPCustomBackgroundEnabled policy clears and restores the NTP custom background dictionary pref.
+// ---
+
 #include "chrome/browser/search/ntp_custom_background_enabled_policy_handler.h"
 
 #include "base/run_loop.h"

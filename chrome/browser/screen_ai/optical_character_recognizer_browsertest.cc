@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optical character recognizer browser tests
+// summary: Browser tests for the OCR client covering service readiness, recognition results, resource measurement and idle behavior.
+// ---
+
 #include "chrome/browser/screen_ai/public/optical_character_recognizer.h"
 
 #include "base/command_line.h"

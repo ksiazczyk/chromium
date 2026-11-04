@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub local passwords data source
+// summary: Data source that tracks local password states such as compromised, weak and reused, and notifies observers of module type changes.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import androidx.annotation.IntDef;

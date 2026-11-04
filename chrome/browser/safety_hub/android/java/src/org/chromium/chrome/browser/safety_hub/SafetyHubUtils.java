@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub Android utility methods
+// summary: Utility class with shared helpers for Safety Hub, such as launching password check UIs and reading sign-in and Safe Browsing state.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.content.Context;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Screen AI browser build configuration
+summary: Defines GN source sets and dependencies for the Screen AI downloader, DLC installer, install state, service router, prefs and tests.

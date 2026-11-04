@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub fragment
+// summary: Settings fragment that assembles the Safety Hub dashboard, wiring module preferences, mediators and interaction metrics.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

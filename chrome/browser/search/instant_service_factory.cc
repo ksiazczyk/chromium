@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstantServiceFactory implementation
+// summary: Implements the profile-keyed service factory that creates InstantService instances and controls their availability per platform and profile.
+// ---
+
 #include "chrome/browser/search/instant_service_factory.h"
 
 #include "base/trace_event/trace_event.h"

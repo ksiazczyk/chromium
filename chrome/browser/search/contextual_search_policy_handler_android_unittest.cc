@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android Contextual Search policy handler
+// summary: Verifies that the handler only sets the managed Contextual Search preference when the policy explicitly disables the feature.
+// ---
+
 #include "base/values.h"
 #include "chrome/browser/search/contextual_search_policy_handler_android.h"
 #include "chrome/common/pref_names.h"

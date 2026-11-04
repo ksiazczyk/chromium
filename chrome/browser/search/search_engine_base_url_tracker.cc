@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine base URL tracker implementation
+// summary: Implements a tracker that watches TemplateURLService changes and notifies a callback when the default search provider or Google base URL changes.
+// ---
+
 #include "chrome/browser/search/search_engine_base_url_tracker.h"
 
 

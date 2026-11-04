@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveUploader unit tests
+// summary: Unit tests for the base Drive uploader covering access token handling, parent folder fetching, and progress notifications with mocked responses.
+// ---
+
 #include "chrome/browser/save_to_drive/drive_uploader.h"
 
 #include <memory>

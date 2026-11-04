@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub account passwords data source
+// summary: Data source for the Safety Hub password module that tracks password store contents, breach counts and sign-in state, then notifies observers of the resulting module type.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import androidx.annotation.IntDef;

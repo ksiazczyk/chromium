@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP custom background enabled policy handler header
+// summary: Declares the NtpCustomBackgroundEnabledPolicyHandler class that applies the NTPCustomBackgroundEnabled policy to the custom background pref.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_NTP_CUSTOM_BACKGROUND_ENABLED_POLICY_HANDLER_H_
 #define CHROME_BROWSER_SEARCH_NTP_CUSTOM_BACKGROUND_ENABLED_POLICY_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine choice service browser tests
+// summary: In-process browser tests checking static eligibility conditions and choice screen behavior for the search engine choice service, including feature states and choice completion timestamps.
+// ---
+
 #include "components/search_engines/search_engine_choice/search_engine_choice_service.h"
 
 #include "base/check_deref.h"

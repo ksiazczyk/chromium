@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP custom background service implementation
+// summary: Implements management of custom new tab page backgrounds, including image fetching, local image copies, wallpaper search cleanup, and background color extraction.
+// ---
+
 #include "chrome/browser/search/background/ntp_custom_background_service.h"
 
 #include <optional>

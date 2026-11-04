@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI service router factory header
+// summary: Declares ScreenAIServiceRouterFactory, a ProfileKeyedServiceFactory that provides per-browser-context Screen AI service router instances.
+// ---
+
 #ifndef CHROME_BROWSER_SCREEN_AI_SCREEN_AI_SERVICE_ROUTER_FACTORY_H_
 #define CHROME_BROWSER_SCREEN_AI_SCREEN_AI_SERVICE_ROUTER_FACTORY_H_
 

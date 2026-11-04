@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magic Stack view binder tests
+// summary: Robolectric tests for the Safety Hub Magic Stack view binder, verifying that model properties update header, title, summary, icon, and buttons.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.junit.Assert.assertEquals;

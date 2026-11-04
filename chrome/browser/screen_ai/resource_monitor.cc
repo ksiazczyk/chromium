@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI service resource monitor
+// summary: Samples memory usage of the Screen AI utility process at one-second intervals and tracks its peak resident set size.
+// ---
+
 #include "chrome/browser/screen_ai/resource_monitor.h"
 
 #include <algorithm>

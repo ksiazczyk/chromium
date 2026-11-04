@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub module mediator delegate interface
+// summary: Interface letting Safety Hub module mediators request UI updates, snackbars, and navigation to settings or site settings from the Safety Hub fragment.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import androidx.fragment.app.Fragment;

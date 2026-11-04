@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Incognito carousel illustration
+summary: Vector drawable illustration of an incognito browser window used in the safety promo carousel for incognito.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:width="200dp" android:height="173.6dp" android:viewportWidth="364" android:viewportHeight="316">
     <group>
         <clip-path android:pathData="M 0.0,0.0 H 364.0 V 316.0 H 0.0 Z" />

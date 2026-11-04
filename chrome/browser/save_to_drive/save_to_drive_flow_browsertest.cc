@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save to Drive flow browser tests
+// summary: Browser tests for the save-to-Drive flow using mocked account chooser, event dispatcher, and content reader across multipart and resumable uploaders.
+// ---
+
 #include "chrome/browser/save_to_drive/save_to_drive_flow.h"
 
 #include <memory>

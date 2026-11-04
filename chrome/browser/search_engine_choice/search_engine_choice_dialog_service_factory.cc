@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice dialog service factory implementation
+// summary: Creates the per-profile dialog service and computes profile eligibility conditions for the choice screen.
+// ---
+
 #include "chrome/browser/search_engine_choice/search_engine_choice_dialog_service_factory.h"
 
 #include "base/auto_reset.h"

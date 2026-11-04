@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryEntry implementation
+// summary: Implements constructors, assignment operators, and equality comparison for the wallpaper search HistoryEntry struct.
+// ---
+
 #include "chrome/browser/search/background/wallpaper_search/wallpaper_search_data.h"
 
 #include "base/token.h"

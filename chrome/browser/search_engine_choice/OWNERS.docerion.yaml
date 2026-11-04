@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for search engine choice
+summary: Delegates directory ownership to the compliance owners of the search engine choice component.

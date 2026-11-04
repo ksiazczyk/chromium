@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme delegate interface
+// summary: Declares the observer interface the NtpCustomBackgroundService uses to query theme state and receive background color and shutdown updates.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_BACKGROUND_THEME_DELEGATE_H_
 #define CHROME_BROWSER_SEARCH_BACKGROUND_THEME_DELEGATE_H_
 

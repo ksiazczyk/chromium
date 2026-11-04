@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save to Drive utilities unit tests
+// summary: Unit tests for PDF magic byte validation and .pdf extension handling across various title formats.
+// ---
+
 #include "chrome/browser/save_to_drive/save_to_drive_utils.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstantService class declaration
+// summary: Declares the InstantService keyed service that tracks Instant NTP render processes and manages most visited items and NTP theme information.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_INSTANT_SERVICE_H_
 #define CHROME_BROWSER_SEARCH_INSTANT_SERVICE_H_
 

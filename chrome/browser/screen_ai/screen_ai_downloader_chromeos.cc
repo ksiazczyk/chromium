@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Screen AI downloader implementation
+// summary: Implements the ChromeOS Screen AI install state downloader that triggers DLC installation and records the last usage time.
+// ---
+
 #include "chrome/browser/screen_ai/screen_ai_downloader_chromeos.h"
 
 #include "base/no_destructor.h"

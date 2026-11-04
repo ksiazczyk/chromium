@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyHubPasswordsModuleMediatorTest
+// summary: Robolectric tests for SafetyHubPasswordsModuleMediator verifying password module UI states using mocked account and local password data sources.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.junit.Assert.assertEquals;

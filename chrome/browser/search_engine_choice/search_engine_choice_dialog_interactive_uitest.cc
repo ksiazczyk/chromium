@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine choice dialog interactive UI tests
+// summary: Interactive UI tests that exercise choice screen elements such as the action button, radio buttons, and learn more link.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/metrics/user_action_tester.h"

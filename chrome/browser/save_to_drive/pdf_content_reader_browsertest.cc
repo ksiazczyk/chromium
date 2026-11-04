@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF content reader browser tests
+// summary: Browser tests verifying PDFContentReader reads a full PDF and reads it in chunks, checking file size and the %PDF magic string.
+// ---
+
 #include "chrome/browser/save_to_drive/pdf_content_reader.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub module delegate implementation
+// summary: Implements the Safety Hub module delegate, launching password check dialogs, sign-in and history sync flows and Play Store intents.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import static org.chromium.build.NullUtil.assertNonNull;

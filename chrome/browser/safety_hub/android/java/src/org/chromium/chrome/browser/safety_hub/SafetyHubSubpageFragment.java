@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub subpage fragment base class
+// summary: Abstract base fragment for Safety Hub subpages, providing the header, preference list, bottom bulk-action button and menu setup.
+// ---
+
 package org.chromium.chrome.browser.safety_hub;
 
 import android.os.Bundle;
