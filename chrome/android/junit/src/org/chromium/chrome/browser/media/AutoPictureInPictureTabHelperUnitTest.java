@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutoPictureInPictureTabHelperUnitTest
+// summary: Robolectric unit tests verifying the auto picture-in-picture tab helper returns cached window bounds via its bridge.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.junit.Assert.assertEquals;

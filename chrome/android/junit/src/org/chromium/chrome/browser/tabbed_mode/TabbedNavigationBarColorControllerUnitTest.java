@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabbedNavigationBarColorController
+// summary: Robolectric unit tests for the tabbed mode navigation bar color controller, covering edge-to-edge, fullscreen, layout and tab model interactions.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static org.junit.Assert.assertEquals;

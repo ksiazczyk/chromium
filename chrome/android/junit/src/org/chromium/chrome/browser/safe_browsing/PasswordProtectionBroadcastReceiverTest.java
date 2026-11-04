@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password protection broadcast receiver unit tests
+// summary: Robolectric unit tests verifying login broadcast extras are saved to preferences only when valid.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import static org.mockito.Mockito.spy;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Redirects code ownership of the PDF JUnit test directory to the OWNERS file of the main PDF source directory.

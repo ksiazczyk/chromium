@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentHandlerMediatorUnitTest
+// summary: Robolectric unit tests verifying that PaymentHandlerMediator sets the payment app web view height from the bottom sheet only after it settles into its full state.
+// ---
+
 package org.chromium.chrome.browser.payments.handler;
 
 import static org.junit.Assert.assertEquals;

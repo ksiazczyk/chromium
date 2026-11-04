@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpdateMenuItemHelperTest
+// summary: Robolectric tests for UpdateMenuItemHelper covering update status and in-app update flows with a fake Play AppUpdateManager.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import static org.junit.Assert.assertEquals;

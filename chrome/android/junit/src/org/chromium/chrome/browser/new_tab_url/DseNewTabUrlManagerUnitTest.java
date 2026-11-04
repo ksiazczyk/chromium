@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DseNewTabUrlManager unit tests
+// summary: Robolectric unit tests for DseNewTabUrlManager, covering when the Android new tab search engine URL is enabled, including EEA choice-country behavior.
+// ---
+
 package org.chromium.chrome.browser.new_tab_url;
 
 import static org.junit.Assert.assertEquals;

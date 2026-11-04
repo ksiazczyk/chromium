@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsPage unit tests
+// summary: Robolectric unit tests for the SettingsPage native page, checking getters, delegates, back press handling and edge-to-edge padding.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.junit.Assert.assertEquals;

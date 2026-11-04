@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsSearchCoordinatorUnitTest
+// summary: Robolectric and Mockito unit tests covering SettingsSearchCoordinator behavior, including toolbar setup, multi-column settings, and search interactions.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import static org.junit.Assert.assertEquals;

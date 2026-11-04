@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsPrinterUnitTest
+// summary: Unit tests for WebContentsPrinter that verify frame binding, print lifecycle teardown, and precedence of explicit coordinates over bound coordinates using mocked native calls.
+// ---
+
 package org.chromium.chrome.browser.printing;
 
 import static org.junit.Assert.assertFalse;

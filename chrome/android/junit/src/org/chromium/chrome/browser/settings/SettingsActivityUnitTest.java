@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SettingsActivity
+// summary: Robolectric unit tests covering SettingsActivity behavior such as resource overrides, lifecycle, and settings display.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static com.google.common.truth.Truth.assertWithMessage;

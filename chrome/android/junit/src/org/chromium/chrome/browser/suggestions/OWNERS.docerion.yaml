@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the suggestions JUnit tests
+summary: Points to the OWNERS file of the main suggestions source directory, delegating code ownership for these JUnit tests.

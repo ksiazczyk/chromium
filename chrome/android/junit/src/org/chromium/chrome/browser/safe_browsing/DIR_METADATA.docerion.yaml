@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Safe browsing Android JUnit tests directory metadata
+summary: DIR_METADATA that includes the shared chrome/browser/safe_browsing COMMON_METADATA via a mixin.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchEngineAdapterTest
+// summary: Robolectric unit tests verifying the sorting, filtering, and display behavior of the Android search engine settings adapter SearchEngineAdapter.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings;
 
 import static org.hamcrest.MatcherAssert.assertThat;

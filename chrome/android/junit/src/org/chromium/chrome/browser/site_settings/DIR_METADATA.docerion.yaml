@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Directory metadata that inherits the common metadata from components/browser_ui/site_settings via a mixin.

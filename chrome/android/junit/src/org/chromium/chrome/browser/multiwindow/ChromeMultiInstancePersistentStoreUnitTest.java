@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeMultiInstancePersistentStore
+// summary: Robolectric unit tests for the multi-instance persistent store, focusing on the Protobuf implementation of instance-specific fields such as task IDs, tab metadata, and deletion.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.junit.Assert.assertEquals;

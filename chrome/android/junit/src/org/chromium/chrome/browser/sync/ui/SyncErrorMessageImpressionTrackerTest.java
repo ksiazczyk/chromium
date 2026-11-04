@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncErrorMessageImpressionTrackerTest
+// summary: Unit tests verifying that the sync error message impression tracker only shows the UI after enough time has passed since the last sync or password manager error message.
+// ---
+
 package org.chromium.chrome.browser.sync.ui;
 
 import static org.junit.Assert.assertFalse;

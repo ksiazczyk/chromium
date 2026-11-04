@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InAppUpdateControllerTest
+// summary: Sociable module-level Robolectric tests covering interactions between InAppUpdateController, InAppUpdateSnackbarController, and InAppUpdatePolicy in Chrome's Android in-app update flow.
+// ---
+
 package org.chromium.chrome.browser.omaha.inline;
 
 import static org.junit.Assert.assertEquals;

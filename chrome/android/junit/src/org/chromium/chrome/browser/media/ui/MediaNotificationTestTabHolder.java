@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test tab holder utility for media notification tests
+// summary: Utility class that holds a mocked Tab with media session objects and simulation helpers for media notification tests.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import static org.mockito.Mockito.mock;

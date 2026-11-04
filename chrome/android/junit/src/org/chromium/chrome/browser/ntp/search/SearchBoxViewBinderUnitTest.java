@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchBoxViewBinderUnitTest
+// summary: Robolectric unit tests for SearchBoxViewBinder verifying that property model changes update search box padding, text style, edit state, and hint text.
+// ---
+
 package org.chromium.chrome.browser.ntp.search;
 
 import static org.junit.Assert.assertEquals;

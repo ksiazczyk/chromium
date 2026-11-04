@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StatusIndicatorViewBinderTest
+// summary: Robolectric unit tests for StatusIndicatorViewBinder verifying that status text and icon properties bind correctly to the view.
+// ---
+
 package org.chromium.chrome.browser.status_indicator;
 
 import static android.graphics.PorterDuff.Mode.SRC_IN;

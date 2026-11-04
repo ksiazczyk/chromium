@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionParamsListBuilder unit tests
+// summary: Unit tests for PermissionParamsListBuilder verifying permission entry list building and Android location, camera, and AR permission warnings.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import static org.junit.Assert.assertEquals;

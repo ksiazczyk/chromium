@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TextSelectionActionMenuDelegate
+// summary: Robolectric unit tests covering text selection action menu items, including Ask Gemini, copy-link-to-highlight, reader mode, and search engine entries.
+// ---
+
 package org.chromium.chrome.browser.selection;
 
 import static org.junit.Assert.assertEquals;

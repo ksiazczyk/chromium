@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlSimilarityScorerUnitTest
+// summary: Robolectric unit tests for UrlSimilarityScorer covering host canonicalization, slash sentinels, and URL similarity matching.
+// ---
+
 package org.chromium.chrome.browser.suggestions;
 
 import static org.junit.Assert.assertArrayEquals;

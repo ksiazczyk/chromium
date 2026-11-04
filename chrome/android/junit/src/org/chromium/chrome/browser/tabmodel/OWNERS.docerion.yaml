@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the tabmodel JUnit tests
+summary: Points to the core tabmodel OWNERS file to inherit reviewers and approvers for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DocumentPictureInPictureHeaderMediatorUnitTest
+// summary: Robolectric unit tests for DocumentPictureInPictureHeaderMediator covering URL display, security state, theme colors, and desktop windowing header behavior.
+// ---
+
 package org.chromium.chrome.browser.media.document_picture_in_picture_header;
 
 import static org.junit.Assert.assertEquals;

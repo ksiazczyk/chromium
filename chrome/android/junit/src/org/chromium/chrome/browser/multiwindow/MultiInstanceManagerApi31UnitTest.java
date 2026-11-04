@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MultiInstanceManager on Android API 31
+// summary: Extensive Robolectric unit tests for MultiInstanceManager behavior on Android API 31, covering window instance and activity task management.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.junit.Assert.assertEquals;

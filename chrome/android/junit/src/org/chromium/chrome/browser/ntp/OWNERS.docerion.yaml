@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the ntp unit test directory
+summary: Delegates ownership to the main ntp OWNERS file and adds hanxi@chromium.org as per-file owner for NewTabPageUtilUnitTest.

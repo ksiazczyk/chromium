@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeGcmListenerServiceImplTest
+// summary: Robolectric unit tests verifying that ChromeGcmListenerServiceImpl forwards GCM messages and deleted-message events to FcmBridge or the legacy GCMDriver depending on the sender.
+// ---
+
 package org.chromium.chrome.browser.services.gcm;
 
 import static org.mockito.ArgumentMatchers.any;

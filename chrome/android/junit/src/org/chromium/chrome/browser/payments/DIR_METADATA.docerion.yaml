@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for payments tests
+summary: Points to the shared payments component metadata mixins that define directory ownership and review rules for this test folder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MultiInstanceHeadlessTabModelObserver
+// summary: Robolectric unit tests verifying that the headless tab model observer updates persisted instance state and shuts down headless windows when no tabs remain.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.mockito.Mockito.never;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the tabbed mode test directory
+summary: Lists default owners inherited from the tabbed_mode source directory plus per-file reviewers for specific test files.

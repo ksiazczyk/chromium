@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTileEditCoordinator unit tests
+// summary: Unit tests for CustomTileEditCoordinator, verifying dialog show and close flows and delegation between the view, mediator, and duplicate URL checker.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile.tile_edit_dialog;
 
 import static org.mockito.ArgumentMatchers.any;

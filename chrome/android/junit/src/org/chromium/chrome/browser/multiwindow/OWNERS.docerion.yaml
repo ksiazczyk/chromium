@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the multiwindow unit tests directory
+summary: Specifies code owners for the directory and per-file owners for selected multiwindow unit tests, inheriting the main multiwindow OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChildAccountServiceTest
+// summary: Robolectric unit tests for ChildAccountService covering child account reauthentication success, failure, and missing-activity paths.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuickActionSearchWidgetProviderTest
+// summary: Robolectric unit tests for the QuickActionSearchWidgetProvider widget, using Mockito to mock AppWidgetManager and verify widget update behavior.
+// ---
+
 package org.chromium.chrome.browser.quickactionsearchwidget;
 
 import static org.junit.Assert.assertEquals;

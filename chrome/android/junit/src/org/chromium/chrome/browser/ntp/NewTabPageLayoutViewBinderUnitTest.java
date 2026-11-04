@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page layout view binder unit tests
+// summary: Tests binding of NewTabPageLayout properties such as delegate callbacks, top insets, search box translation and container width.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.junit.Assert.assertEquals;

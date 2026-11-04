@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTileEditMediator unit tests
+// summary: Unit tests for CustomTileEditMediator, covering add and edit dialog modes, URL text validation, save and cancel handling, and focus behavior.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile.tile_edit_dialog;
 
 import static org.mockito.ArgumentMatchers.any;

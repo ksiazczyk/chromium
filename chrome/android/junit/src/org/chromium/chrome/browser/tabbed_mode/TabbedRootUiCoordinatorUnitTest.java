@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabbedRootUiCoordinator
+// summary: Robolectric unit tests for TabbedRootUiCoordinator verifying lazy creation, caching and post-destroy behavior of the loading fullscreen coordinator.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static org.junit.Assert.assertEquals;

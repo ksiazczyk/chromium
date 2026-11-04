@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStateBrowserControlsVisibilityDelegateTest
+// summary: Robolectric tests for TabStateBrowserControlsVisibilityDelegate, verifying visibility constraints across navigation starts, finishes, and aborts.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.junit.Assert.assertEquals;

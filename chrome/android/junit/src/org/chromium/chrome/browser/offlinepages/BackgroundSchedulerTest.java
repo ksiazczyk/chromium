@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundScheduler unit tests
+// summary: Unit tests for BackgroundScheduler verifying that offline page background jobs are scheduled with correct task info and trigger conditions.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import static org.junit.Assert.assertEquals;

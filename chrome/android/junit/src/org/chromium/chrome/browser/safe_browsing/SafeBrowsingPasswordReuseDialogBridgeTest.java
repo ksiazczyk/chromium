@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Safe Browsing password reuse dialog bridge unit tests
+// summary: Robolectric unit tests checking dialog title, details and button text are stored in the dialog contents.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import static org.mockito.ArgumentMatchers.any;

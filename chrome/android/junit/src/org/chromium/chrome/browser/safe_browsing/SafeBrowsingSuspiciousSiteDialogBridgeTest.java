@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Safe Browsing suspicious site dialog bridge unit tests
+// summary: Robolectric unit tests verifying the suspicious site warning dialog model and button behavior.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import static org.mockito.Mockito.verify;

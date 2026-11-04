@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressEditorTest
+// summary: Robolectric unit tests for the address editor used in Chrome's autofill and payments flows, covering editor fields, dropdowns, notices, and validation behavior.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static org.hamcrest.MatcherAssert.assertThat;

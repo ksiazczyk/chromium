@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlobalNightModeStateControllerTest
+// summary: Robolectric unit tests for GlobalNightModeStateController, covering night mode state updates, observer handling, and system night mode monitoring using a shadowed AppCompatDelegate.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import static org.junit.Assert.assertFalse;

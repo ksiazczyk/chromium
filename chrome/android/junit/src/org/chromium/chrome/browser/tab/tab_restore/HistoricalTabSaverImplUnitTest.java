@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoricalTabSaverImpl unit tests
+// summary: Robolectric unit tests for HistoricalTabSaverImpl, covering creation of historical tabs, groups and bulk closures with mocked JNI natives and tab models.
+// ---
+
 package org.chromium.chrome.browser.tab.tab_restore;
 
 import static org.junit.Assert.assertEquals;

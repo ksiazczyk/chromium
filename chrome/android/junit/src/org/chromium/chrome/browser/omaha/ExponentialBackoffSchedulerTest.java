@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExponentialBackoffSchedulerTest
+// summary: Robolectric tests for ExponentialBackoffScheduler covering failed-attempt counting and backoff delay ranges.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import org.junit.Assert;

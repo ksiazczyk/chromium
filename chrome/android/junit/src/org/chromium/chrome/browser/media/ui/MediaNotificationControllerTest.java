@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media notification controller tests
+// summary: Robolectric tests for MediaNotificationController covering media button events, play and pause handling, and histogram recording.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import static org.mockito.ArgumentMatchers.anyInt;

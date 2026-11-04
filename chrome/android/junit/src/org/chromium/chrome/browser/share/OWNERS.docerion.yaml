@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Share JUnit tests OWNERS
+summary: Delegates code ownership for the share JUnit tests to the OWNERS file of the main share source directory.

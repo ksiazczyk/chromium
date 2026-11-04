@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageInfoCookiesSettings unit tests
+// summary: Unit tests checking the days-until-expiration calculation in PageInfoCookiesSettings used for cookie expiry display.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import static org.junit.Assert.assertEquals;

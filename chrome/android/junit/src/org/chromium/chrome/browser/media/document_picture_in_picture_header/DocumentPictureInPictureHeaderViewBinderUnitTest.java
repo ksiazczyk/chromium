@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DocumentPictureInPictureHeaderViewBinderUnitTest
+// summary: Robolectric unit tests for DocumentPictureInPictureHeaderViewBinder checking that model properties like visibility, background color, tint, and height bind to the view.
+// ---
+
 package org.chromium.chrome.browser.media.document_picture_in_picture_header;
 
 import static org.junit.Assert.assertEquals;

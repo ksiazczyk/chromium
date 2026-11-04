@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Per-file OWNERS rule delegating review ownership of RequestDesktopUtilsUnitTest.java to the desktop site directory owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskExtrasPacker unit tests
+// summary: Unit tests for TaskExtrasPacker covering packing and unpacking scheduled times and trigger conditions into task extras.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import static org.junit.Assert.assertEquals;

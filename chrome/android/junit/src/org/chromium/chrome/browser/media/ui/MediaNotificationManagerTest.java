@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media notification manager tests
+// summary: Robolectric tests for MediaNotificationManager verifying support for multiple simultaneous media notifications across tabs.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import static org.junit.Assert.assertEquals;

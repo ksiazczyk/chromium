@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationTriggerSchedulerTest
+// summary: Robolectric unit tests for NotificationTriggerScheduler, verifying that triggering notifications calls the native implementation and schedules background tasks.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.mockito.ArgumentMatchers.any;

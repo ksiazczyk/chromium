@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageInfoConnectionSecurityController unit tests
+// summary: Robolectric unit tests for PageInfoConnectionSecurityController covering the security page button for regular and PDF pages, null message fallback, and native JNI interactions.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import static org.junit.Assert.assertEquals;

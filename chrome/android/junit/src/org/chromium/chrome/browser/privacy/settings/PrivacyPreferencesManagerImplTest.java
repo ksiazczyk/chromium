@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrivacyPreferencesManagerImplTest
+// summary: JUnit Robolectric tests for PrivacyPreferencesManagerImpl's handling of usage and crash reporting preferences.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import static org.junit.Assert.assertEquals;

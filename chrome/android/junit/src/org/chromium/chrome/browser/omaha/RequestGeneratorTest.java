@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestGeneratorTest
+// summary: Unit tests for RequestGenerator covering install age calculation and Omaha request XML creation for handset and tablet.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import static org.mockito.ArgumentMatchers.any;

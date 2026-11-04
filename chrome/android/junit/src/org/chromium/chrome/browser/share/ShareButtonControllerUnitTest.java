@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShareButtonController unit tests
+// summary: Robolectric unit tests for ShareButtonController covering IPH display, UKM recording, and adaptive toolbar button behavior.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import static org.junit.Assert.assertEquals;

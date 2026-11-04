@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationTriggerBackgroundTaskTest
+// summary: Robolectric unit tests for NotificationTriggerBackgroundTask, covering task cancellation and start-before-native behavior for notification trigger jobs.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.junit.Assert.assertEquals;

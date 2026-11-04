@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Safe browsing Android JUnit tests owners
+summary: Lists the directory owners and per-file owners for the suspicious site dialog bridge test.

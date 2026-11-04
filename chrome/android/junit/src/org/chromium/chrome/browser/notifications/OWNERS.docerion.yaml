@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file that delegates code ownership to the OWNERS file of the main notifications source directory.

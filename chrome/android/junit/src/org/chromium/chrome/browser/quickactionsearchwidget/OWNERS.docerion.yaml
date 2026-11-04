@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for quick action search widget JUnit tests
+summary: OWNERS file that delegates code ownership to the OWNERS file of the quickactionsearchwidget source directory.

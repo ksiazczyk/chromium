@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageInfoPermissionsController parameterized unit tests
+// summary: Parameterized unit tests verifying permission summary strings built from allowed and blocked permission lists, including OS-level location warnings.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import static org.junit.Assert.assertEquals;

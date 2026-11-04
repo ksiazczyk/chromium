@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmahaBaseTest
+// summary: Robolectric tests for OmahaClient that use a mock delegate to simulate system state, scheduling, and request posting.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.content.SharedPreferences;

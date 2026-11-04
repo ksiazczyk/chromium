@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Chrome base app activity for Robolectric tests
+// summary: Lightweight concrete ChromeBaseAppCompatActivity that mocks the ModalDialogManager so Robolectric settings tests can instantiate the activity.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.mockito.Mockito.mock;

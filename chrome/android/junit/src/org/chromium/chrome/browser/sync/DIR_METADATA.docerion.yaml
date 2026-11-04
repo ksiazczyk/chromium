@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Sync JUnit test directory metadata
+summary: DIR_METADATA entry that mixes in the components/sync common metadata for this test directory.

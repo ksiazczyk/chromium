@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent tabs group view unit tests
+// summary: Tests the recent tabs group view, including expand, collapse and dismiss accessibility actions on grouped foreign session tabs.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static android.view.accessibility.AccessibilityNodeInfo.AccessibilityAction.ACTION_COLLAPSE;

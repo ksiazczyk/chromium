@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LensUtils unit tests
+// summary: Robolectric tests verifying that the Google Lens feature is enabled for standard browsing and disabled in incognito.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import android.content.pm.PackageInfo;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflineDetectorUnitTest
+// summary: Robolectric unit tests for OfflineDetector, verifying that offline and foreground callbacks fire with the expected timing when connectivity and application state change.
+// ---
+
 package org.chromium.chrome.browser.offlinepages.indicator;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModelSelectorProfileSupplierTest
+// summary: Unit tests for TabModelSelectorProfileSupplier verifying profile updates as the active tab model changes.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.mockito.Mockito.doReturn;

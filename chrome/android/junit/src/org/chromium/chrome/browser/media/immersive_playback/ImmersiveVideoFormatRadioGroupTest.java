@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImmersiveVideoFormatRadioGroup tests
+// summary: Robolectric tests for the immersive video format radio group, verifying option initialization, recommended option display, and selection behavior.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback;
 
 import static org.junit.Assert.assertEquals;

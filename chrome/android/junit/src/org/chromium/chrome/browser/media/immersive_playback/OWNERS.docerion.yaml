@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file that redirects code ownership to the OWNERS file of the corresponding immersive_playback source directory.

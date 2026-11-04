@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InAppUpdatePolicyTest
+// summary: Robolectric unit tests for InAppUpdatePolicy, verifying eligibility guards, feature flags, and backoff preferences for Chrome's Android in-app update prompts.
+// ---
+
 package org.chromium.chrome.browser.omaha.inline;
 
 import static org.junit.Assert.assertFalse;

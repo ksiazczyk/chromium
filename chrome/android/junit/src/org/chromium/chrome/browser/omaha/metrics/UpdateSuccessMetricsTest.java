@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpdateSuccessMetricsTest
+// summary: Robolectric unit tests verifying that UpdateSuccessMetrics persists the correct update tracking information and handles missing persisted state.
+// ---
+
 package org.chromium.chrome.browser.omaha.metrics;
 
 import static org.mockito.ArgumentMatchers.any;

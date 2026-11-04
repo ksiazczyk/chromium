@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StatusIndicatorMediatorTest
+// summary: Robolectric unit tests for StatusIndicatorMediator covering height changes, observer notifications, and browser controls offset handling.
+// ---
+
 package org.chromium.chrome.browser.status_indicator;
 
 import static org.junit.Assert.assertEquals;

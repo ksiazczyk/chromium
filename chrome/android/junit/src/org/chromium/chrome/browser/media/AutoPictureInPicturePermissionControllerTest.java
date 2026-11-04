@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutoPictureInPicturePermissionControllerTest
+// summary: Robolectric unit tests for the auto picture-in-picture permission controller and its tab helper wiring.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.mockito.ArgumentMatchers.any;

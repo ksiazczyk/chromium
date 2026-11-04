@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TipsPromoHandlerRegistrar
+// summary: Robolectric JUnit tests verifying that TipsPromoHandlerRegistrar.registerAll registers the Enhanced Safe Browsing, Quick Delete, Google Lens, and Bottom Omnibox promo handlers, is idempotent, and respects the tips self-service feature flag.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import static org.junit.Assert.assertNotNull;

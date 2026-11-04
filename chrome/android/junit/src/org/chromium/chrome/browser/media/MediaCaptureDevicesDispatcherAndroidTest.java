@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaCaptureDevicesDispatcherAndroidTest
+// summary: Robolectric unit tests for the media capture devices dispatcher, including suppression of transient stop events during source switching.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.junit.Assert.assertFalse;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tabmodel JUnit tests
+summary: Defines the allowed dependency include rules for this tabmodel JUnit test directory.

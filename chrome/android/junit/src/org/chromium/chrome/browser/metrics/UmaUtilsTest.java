@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UmaUtilsTest
+// summary: Robolectric unit tests for UmaUtils covering background restriction and standby bucket histogram recording plus minidump uploading time metrics.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import android.app.ActivityManager;

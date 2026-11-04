@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabWebContentsDelegateAndroidImplUnitTest
+// summary: Robolectric unit tests verifying TabWebContentsDelegateAndroidImpl forwards beforeunload events to tab observers.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.mockito.Mockito.verify;

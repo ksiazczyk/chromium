@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaCaptureUtilsTest
+// summary: Robolectric tests for MediaCaptureUtils bring-tab-to-front behavior across null, valid, and multi-window cases.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.mockito.Mockito.doReturn;

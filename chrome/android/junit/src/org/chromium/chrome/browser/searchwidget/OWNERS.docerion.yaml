@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Search widget OWNERS
+summary: Delegates ownership of the search widget unit test directory to the omnibox Android component owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadLaterIphControllerUnitTest
+// summary: Robolectric unit tests for ReadLaterIphController, verifying IPH requests and app menu highlight behavior on copy and cold start.
+// ---
+
 package org.chromium.chrome.browser.read_later;
 
 import static org.mockito.ArgumentMatchers.any;

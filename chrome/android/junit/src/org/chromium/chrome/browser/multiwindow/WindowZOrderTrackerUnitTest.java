@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowZOrderTrackerUnitTest
+// summary: Robolectric unit tests for WindowZOrderTracker, checking tracking and untracking of windows per display and callback behavior on top-resumed activity changes.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.junit.Assert.assertEquals;

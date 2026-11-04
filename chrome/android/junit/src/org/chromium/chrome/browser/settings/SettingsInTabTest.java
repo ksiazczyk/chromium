@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsInTab unit tests
+// summary: Robolectric unit tests for SettingsInTab.shouldOpenSettingsInTab across feature flags, device types, window sizes and activity states.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.junit.Assert.assertFalse;

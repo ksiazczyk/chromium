@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflineIndicatorMetricsDelegateUnitTest
+// summary: Robolectric unit tests for OfflineIndicatorMetricsDelegate, using a fake clock to verify that offline indicator shown-duration and related histograms are recorded correctly.
+// ---
+
 package org.chromium.chrome.browser.offlinepages.indicator;
 
 import static org.junit.Assert.assertEquals;

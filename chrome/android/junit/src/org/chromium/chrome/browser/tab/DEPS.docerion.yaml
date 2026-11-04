@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tab unit tests
+summary: Chromium DEPS file defining allowed include rules for the tab JUnit test directory, including a specific rule for PageContentProtoViewStructureBuilderUnitTest.

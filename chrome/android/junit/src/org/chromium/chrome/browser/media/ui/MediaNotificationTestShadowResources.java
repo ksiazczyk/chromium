@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric shadow resources for media notification tests
+// summary: Robolectric shadow that mocks Android Resources text, resource names, and drawables for the media notification tests.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import static org.mockito.ArgumentMatchers.anyInt;

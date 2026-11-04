@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager error message helper bridge tests
+// summary: Robolectric unit tests for the password manager error message helper bridge, covering error handling and trusted vault interactions.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.junit.Assert.assertFalse;

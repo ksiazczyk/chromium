@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sync JUnit test directory owners
+summary: OWNERS file that delegates review ownership to the components/sync OWNERS file.

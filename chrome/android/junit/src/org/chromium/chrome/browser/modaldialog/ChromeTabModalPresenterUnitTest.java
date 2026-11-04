@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeTabModalPresenter unit tests
+// summary: Robolectric unit tests for ChromeTabModalPresenter, using mocked tabs, toolbar, and browser controls to verify modal dialog presentation behavior.
+// ---
+
 package org.chromium.chrome.browser.modaldialog;
 
 import static org.junit.Assert.assertEquals;

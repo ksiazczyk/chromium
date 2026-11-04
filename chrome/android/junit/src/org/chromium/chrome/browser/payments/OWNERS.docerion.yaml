@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for payments tests
+summary: Delegates code review ownership to the OWNERS file of the main Chrome Android payments source directory.
