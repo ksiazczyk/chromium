@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile error browser tests
+// summary: Browser tests that corrupt or empty the profile preferences file and verify startup paint histogram behavior in response to profile corruption.
+// ---
+
 #include <string>
 
 #include "base/files/file_path.h"

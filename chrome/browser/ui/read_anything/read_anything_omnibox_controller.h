@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything omnibox controller header
+// summary: Declares the per-tab controller that decides when to show or hide the Reading Mode omnibox entry point.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_OMNIBOX_CONTROLLER_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_OMNIBOX_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential leak dialog controller unit tests
+// summary: Unit tests verifying credential leak dialog behavior and its UMA and UKM metrics for dismissal reasons.
+// ---
+
 #include "chrome/browser/ui/passwords/credential_leak_dialog_controller_impl.h"
 
 #include <memory>

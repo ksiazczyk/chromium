@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker implementation
+// summary: Implements ProfilePicker parameter construction for entry points such as first run, background manager and startup, plus picker availability and policy checks.
+// ---
+
 #include "chrome/browser/ui/profiles/profile_picker.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordsModelDelegate implementation
+// summary: Implements the helper that returns a weak pointer to the PasswordsModelDelegate for a WebContents via ManagePasswordsUIController.
+// ---
+
 #include "chrome/browser/ui/passwords/passwords_model_delegate.h"
 
 #include "chrome/browser/ui/passwords/manage_passwords_ui_controller.h"

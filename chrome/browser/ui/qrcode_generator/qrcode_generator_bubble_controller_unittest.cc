@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for QR code generator URL availability
+// summary: Unit tests checking that IsGeneratorAvailable allows http and https URLs and rejects browser UI and invalid URLs.
+// ---
+
 #include "chrome/browser/ui/qrcode_generator/qrcode_generator_bubble_controller.h"
 
 #include "base/test/scoped_feature_list.h"

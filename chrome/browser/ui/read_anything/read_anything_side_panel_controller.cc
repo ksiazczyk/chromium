@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything side panel controller implementation
+// summary: Implements the per-tab controller that registers the Read Anything side panel entry, manages its web view and records UKM metrics when shown or hidden.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_side_panel_controller.h"
 
 #include <memory>

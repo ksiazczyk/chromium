@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF infobar controller header
+// summary: Declares the PDF infobar controller, its histogram enums for settings results and user interactions, and APIs to show the infobar and set Chrome as the default PDF handler.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PDF_INFOBAR_PDF_INFOBAR_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PDF_INFOBAR_PDF_INFOBAR_CONTROLLER_H_
 

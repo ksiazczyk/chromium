@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar decoration specs
+// summary: Defines placeholder color IDs, gradient ring geometry, and badge wave path constants for profile avatar decorations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PROFILES_PROFILE_VIEW_AVATAR_DECORATION_SPECS_H_
 #define CHROME_BROWSER_UI_PROFILES_PROFILE_VIEW_AVATAR_DECORATION_SPECS_H_
 

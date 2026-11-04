@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for the PDF UI folder
+summary: Delegates code ownership review for this directory to the OWNERS file of the pdf directory.

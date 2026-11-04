@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change UI controller implementation
+// summary: Implements the controller that shows dialogs and toasts for the password change flow, opens the password change tab and logs related histogram metrics.
+// ---
+
 #include "chrome/browser/ui/passwords/password_change_ui_controller.h"
 
 #include "base/functional/callback.h"

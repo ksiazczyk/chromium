@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile customization utilities unit tests
+// summary: Unit tests for ProfileNameResolver covering name resolution when account info is available, updated later or unavailable with a timeout fallback.
+// ---
+
 #include "chrome/browser/ui/profiles/profile_customization_util.h"
 
 #include <string>

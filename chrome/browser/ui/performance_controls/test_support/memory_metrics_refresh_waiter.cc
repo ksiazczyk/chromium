@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory metrics refresh waiter implementation
+// summary: Implements waiters that force memory metrics to refresh and block on a run loop until the update completes.
+// ---
+
 #include "chrome/browser/ui/performance_controls/test_support/memory_metrics_refresh_waiter.h"
 
 #include "base/run_loop.h"

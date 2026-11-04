@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile customization utilities header
+// summary: Declares FinalizeNewProfileSetup and the ProfileNameResolver helper that resolves a profile name from the user's identity via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PROFILES_PROFILE_CUSTOMIZATION_UTIL_H_
 #define CHROME_BROWSER_UI_PROFILES_PROFILE_CUSTOMIZATION_UTIL_H_
 

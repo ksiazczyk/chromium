@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the password_change bubble controllers
+summary: Defines GN source sets for the successful password change bubble controller and its unit tests, with their Chrome and component dependencies.

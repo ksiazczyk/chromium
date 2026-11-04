@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything contents wrapper implementation
+// summary: Implements the move-only wrapper for the Read Anything WebUI contents wrapper, covering construction, move semantics, and destruction.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_contents_wrapper.h"
 
 #include "chrome/browser/ui/webui/side_panel/read_anything/read_anything_untrusted_ui.h"

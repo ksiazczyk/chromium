@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for browser UI prefs
+summary: Defines GN source sets for the prefs watcher and tab helper, their dependencies, and the browser test target for chrome/browser/ui/prefs.

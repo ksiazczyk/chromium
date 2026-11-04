@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagePasswordsUIController browser tests
+// summary: Browser tests for the password UI controller, including a regression test that a background tab updates its own page action icon rather than the active tab's.
+// ---
+
 #include "chrome/browser/ui/passwords/manage_passwords_ui_controller.h"
 
 #include "base/test/with_feature_override.h"

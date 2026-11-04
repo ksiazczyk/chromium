@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAnythingServiceFactory header
+// summary: Declares ReadAnythingServiceFactory, the profile-keyed factory that builds ReadAnythingService for regular and incognito profiles but not guest or irregular ones.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Biometric authentication confirmation bubble controller implementation
+// summary: Implements the bubble controller shown after enabling biometric authentication before filling, with platform-specific titles and settings navigation.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/biometric_authentication_confirmation_bubble_controller.h"
 
 #include "base/notimplemented.h"

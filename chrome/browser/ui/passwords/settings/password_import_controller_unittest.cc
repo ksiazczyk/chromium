@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password import controller unit tests
+// summary: Unit tests for PasswordImportController using a fake select file dialog and test password stores to verify the import flow and conflict handling.
+// ---
+
 #include "chrome/browser/ui/passwords/settings/password_import_controller.h"
 
 #include <memory>

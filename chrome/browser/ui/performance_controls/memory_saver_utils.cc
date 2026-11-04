@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory saver utility functions
+// summary: Implements helpers that check URL support for memory saver and retrieve a tab's discard reason and discarded memory savings.
+// ---
+
 #include "chrome/browser/ui/performance_controls/memory_saver_utils.h"
 
 #include "base/byte_size.h"

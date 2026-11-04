@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab resource usage collector implementation
+// summary: Implements periodic and on-demand memory usage queries for tabs, updating tab helpers and notifying observers when resource metrics refresh.
+// ---
+
 #include "chrome/browser/ui/performance_controls/tab_resource_usage_collector.h"
 
 #include "base/byte_size.h"

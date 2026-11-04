@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password generation popup view browser tests
+// summary: Browser tests for the password generation popup view, covering accessibility selection and regression cases such as mouse movement in the editing popup.
+// ---
+
 #include "chrome/browser/ui/passwords/password_generation_popup_view.h"
 
 #include <string>

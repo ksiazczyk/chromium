@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to send_tab_to_self
+summary: Delegates code review ownership to the OWNERS file of the send_tab_to_self component.

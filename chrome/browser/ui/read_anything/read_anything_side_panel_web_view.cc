@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything side panel web view implementation
+// summary: Implements the Read Anything side panel WebUI view, handling URL opening, context menus, keyboard events and reuse of the WebUI contents wrapper.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_side_panel_web_view.h"
 
 #include "chrome/browser/ui/read_anything/read_anything_controller.h"

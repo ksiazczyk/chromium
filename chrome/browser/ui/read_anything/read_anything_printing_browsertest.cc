@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything printing browser tests
+// summary: Browser tests covering printing of Reading Mode content, including print preview and PDF accessibility.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AvatarBadgePathOp enum for avatar badge paths
+// summary: Defines operation types used for SVG wave path rendering of the profile avatar badge.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PROFILES_AVATAR_BADGE_TYPES_H_
 #define CHROME_BROWSER_UI_PROFILES_AVATAR_BADGE_TYPES_H_
 

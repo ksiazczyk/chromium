@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefsTabHelper browser tests
+// summary: Browser tests verifying that web preferences are registered, loaded from a test profile, and reflected in Blink web preferences when changed.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/path_service.h"
 #include "build/build_config.h"

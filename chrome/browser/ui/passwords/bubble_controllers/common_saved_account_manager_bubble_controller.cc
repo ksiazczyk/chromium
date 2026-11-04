@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common saved account manager bubble controller implementation
+// summary: Implements shared logic for bubbles that add or update credentials, including credential editing, dismissal reasons, and primary account email lookup.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/common_saved_account_manager_bubble_controller.h"
 
 #include "base/strings/utf_string_conversions.h"

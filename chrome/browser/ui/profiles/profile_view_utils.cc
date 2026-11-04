@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile view utilities implementation
+// summary: Implements profile menu helpers including display names, sync status checks, Google Account navigation, and avatar gradient rings.
+// ---
+
 #include "chrome/browser/ui/profiles/profile_view_utils.h"
 
 #include "base/check.h"

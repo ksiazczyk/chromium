@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything omnibox controller browser tests
+// summary: Browser tests verifying omnibox entry point visibility, page action states, and related metrics.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_omnibox_controller.h"
 
 #include <memory>

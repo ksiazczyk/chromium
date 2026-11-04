@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote actor selection dialog controller unit tests
+// summary: Unit tests verifying title, subtitle, link range and button labels of the remote actor credential selection dialog.
+// ---
+
 #include "chrome/browser/ui/passwords/remote_actor_selection_dialog_controller.h"
 
 #include <memory>

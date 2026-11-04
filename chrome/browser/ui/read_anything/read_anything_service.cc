@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything service implementation
+// summary: Implements a profile-level service that installs and manages the Wasm TTS engine component for Read Aloud.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_service.h"
 
 #include "base/metrics/histogram_functions.h"

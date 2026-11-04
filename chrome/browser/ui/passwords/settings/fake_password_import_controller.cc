@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake password import controller implementation
+// summary: Fake implementation of the password import controller that posts a configurable import result status, for use in tests.
+// ---
+
 #include "chrome/browser/ui/passwords/settings/fake_password_import_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared passwords notification bubble controller implementation
+// summary: Implements the bubble notifying users about passwords received via the sharing feature, building notification text and marking shared credentials as notified.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/shared_passwords_notifications_bubble_controller.h"
 
 #include "chrome/browser/password_manager/factories/account_password_store_factory.h"

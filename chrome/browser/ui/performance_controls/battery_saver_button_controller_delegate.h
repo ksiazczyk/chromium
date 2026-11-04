@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver button controller delegate interface
+// summary: Declares the delegate interface with Show and Hide methods used to control the battery saver toolbar button.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_BATTERY_SAVER_BUTTON_CONTROLLER_DELEGATE_H_
 #define CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_BATTERY_SAVER_BUTTON_CONTROLLER_DELEGATE_H_
 

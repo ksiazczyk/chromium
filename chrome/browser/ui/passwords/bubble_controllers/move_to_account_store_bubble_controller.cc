@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move to account store bubble controller implementation
+// summary: Implements the controller for the bubble that asks the user to move a profile password credential to their account store, including favicon requests, accept and reject handling, and metrics reporting.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/move_to_account_store_bubble_controller.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagePasswordsTest fixture implementation
+// summary: Implements the ManagePasswordsTest browser test fixture, setting up password stores, sync, and helpers used by password bubble UI tests.
+// ---
+
 #include "chrome/browser/ui/passwords/manage_passwords_test.h"
 
 #include <string>

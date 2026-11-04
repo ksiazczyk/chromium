@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code generator bubble controller implementation
+// summary: Implements the controller that shows and hides the QR code generator bubble and closes it when the enabling policy pref changes.
+// ---
+
 #include "chrome/browser/ui/qrcode_generator/qrcode_generator_bubble_controller.h"
 
 #include "chrome/browser/browser_process.h"

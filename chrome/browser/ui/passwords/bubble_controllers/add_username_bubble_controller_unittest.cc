@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the add username bubble controller
+// summary: Unit tests verifying the add-username bubble controller's save action, dismissal metrics, and title.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/add_username_bubble_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

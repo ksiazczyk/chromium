@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager navigation throttle implementation
+// summary: Implements a navigation throttle that redirects matching navigations from Google-owned UI to the Passwords settings page and closes the originating tab.
+// ---
+
 #include "chrome/browser/ui/passwords/password_manager_navigation_throttle.h"
 
 #include "base/task/sequenced_task_runner.h"

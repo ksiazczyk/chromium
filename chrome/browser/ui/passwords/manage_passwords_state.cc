@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagePasswordsState implementation
+// summary: Implements ManagePasswordsState, which tracks the current password management UI state and its credential data, including copying and updating matching password forms.
+// ---
+
 #include "chrome/browser/ui/passwords/manage_passwords_state.h"
 
 #include <algorithm>

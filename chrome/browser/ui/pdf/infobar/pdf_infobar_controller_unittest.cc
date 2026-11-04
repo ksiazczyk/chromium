@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF infobar controller unit tests
+// summary: Unit tests for the PDF infobar controller that verify infobar display conditions using mock browser window interfaces, testing profiles, and feature list setup.
+// ---
+
 #include "chrome/browser/ui/pdf/infobar/pdf_infobar_controller.h"
 
 #include <memory>

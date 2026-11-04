@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto sign-in toast delegate implementation
+// summary: Implements the auto sign-in toast, showing it with the signed-in username and opening the password manager settings page from its context menu.
+// ---
+
 #include "chrome/browser/ui/passwords/manage_passwords_auto_signin_toast_delegate.h"
 
 #include <memory>

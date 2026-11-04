@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the PDF UI source set
+summary: Defines the pdf source set with its source files and dependencies for the Chrome PDF browser UI.

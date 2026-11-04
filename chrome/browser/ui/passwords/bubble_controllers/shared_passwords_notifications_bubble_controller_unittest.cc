@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared passwords notification bubble controller unit tests
+// summary: Unit tests for the shared passwords notification bubble controller using a test password store and mock delegate to verify notification behavior.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/shared_passwords_notifications_bubble_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefWatcher implementation
+// summary: Implements the profile-keyed PrefWatcher service that observes web preference changes and updates renderer preferences for tab helpers and registered watchers.
+// ---
+
 #include "chrome/browser/ui/prefs/pref_watcher.h"
 
 #include <memory>

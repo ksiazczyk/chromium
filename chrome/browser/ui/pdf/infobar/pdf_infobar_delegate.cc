@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF infobar delegate implementation
+// summary: Implements the delegate that creates the confirm infobar, supplies its message text and icon, and records shown, accepted, dismissed, and ignored interaction metrics.
+// ---
+
 #include "chrome/browser/ui/pdf/infobar/pdf_infobar_delegate.h"
 
 #include <memory>

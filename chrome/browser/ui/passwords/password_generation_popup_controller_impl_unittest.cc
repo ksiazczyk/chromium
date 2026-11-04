@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password generation popup controller unit tests
+// summary: Unit tests for the password generation popup controller using mock driver and view objects to verify popup behavior, password acceptance, and rejection flows.
+// ---
+
 #include "chrome/browser/ui/passwords/password_generation_popup_controller_impl.h"
 
 #include <memory>

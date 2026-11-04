@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential leak dialog controller implementation
+// summary: Implements credential leak dialog actions, logging dismissal metrics and navigating to password checkup.
+// ---
+
 #include "chrome/browser/ui/passwords/credential_leak_dialog_controller_impl.h"
 
 #include "chrome/browser/ui/passwords/password_dialog_prompts.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add username bubble controller class declaration
+// summary: Declares the controller that provides data and actions for the PasswordAddUsernameView, including the save-click handler.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_ADD_USERNAME_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_ADD_USERNAME_BUBBLE_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordsClientUIDelegate interface
+// summary: Declares the interface implemented by ManagePasswordsUIController that pushes password UI state for a tab, covering save, update, manual fallback, credential choice, and auto signin flows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_PASSWORDS_CLIENT_UI_DELEGATE_H_
 #define CHROME_BROWSER_UI_PASSWORDS_PASSWORDS_CLIENT_UI_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for password bubble controllers
+summary: Lists mamir@chromium.org as the code owner for the bubble controllers directory.

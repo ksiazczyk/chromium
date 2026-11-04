@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for permission bubble
+summary: Sets the monorail component and Buganizer component ID used for tracking permission prompt issues in this directory.

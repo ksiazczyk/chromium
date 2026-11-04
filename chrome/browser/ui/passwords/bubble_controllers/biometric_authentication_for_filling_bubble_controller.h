@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Biometric authentication for filling bubble controller header
+// summary: Declares the controller managing the bubble that suggests enabling biometric authentication before filling passwords, including accept and cancel handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_BIOMETRIC_AUTHENTICATION_FOR_FILLING_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_BIOMETRIC_AUTHENTICATION_FOR_FILLING_BUBBLE_CONTROLLER_H_
 

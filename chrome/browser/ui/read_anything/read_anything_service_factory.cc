@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAnythingServiceFactory implementation
+// summary: Implements the profile-keyed service factory that creates ReadAnythingService instances for regular, incognito and guest browser contexts.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_service_factory.h"
 
 #include "chrome/browser/extensions/chrome_extension_system_factory.h"

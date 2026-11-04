@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab resource usage collector browser tests
+// summary: Browser tests verifying that TabResourceUsageCollector refreshes memory usage metrics for all tabs and for a single web contents.
+// ---
+
 #include "chrome/browser/ui/performance_controls/tab_resource_usage_collector.h"
 
 #include "base/byte_size.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile customization synced theme waiter unit tests
+// summary: Unit tests for the synced theme waiter using fake theme and sync services to cover success, timeout, passphrase and precondition outcomes.
+// ---
+
 #include "chrome/browser/ui/profiles/profile_customization_synced_theme_waiter.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF infobar prefs header
+// summary: Declares constants and functions that control how often the PDF infobar is shown, whether the PDF viewer is disabled, and whether the default browser is policy-controlled.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PDF_INFOBAR_PDF_INFOBAR_PREFS_H_
 #define CHROME_BROWSER_UI_PDF_INFOBAR_PDF_INFOBAR_PREFS_H_
 

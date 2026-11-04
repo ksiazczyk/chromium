@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome PDF document helper client implementation
+// summary: Implements Chrome's PDF document helper client, handling load completion, content restrictions, save permissions, metrics and feature promos.
+// ---
+
 #include "chrome/browser/ui/pdf/chrome_pdf_document_helper_client.h"
 
 #include "base/feature_list.h"

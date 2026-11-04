@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add username bubble controller implementation
+// summary: Implements the controller for the add-username password bubble, handling save clicks, title, and dismissal metrics.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/add_username_bubble_controller.h"
 
 #include "chrome/grit/generated_resources.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Biometric authentication for filling bubble controller unit tests
+// summary: Unit tests for the biometric authentication for filling bubble controller, covering bubble content, cancel, accept, and authentication result metrics.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/biometric_authentication_for_filling_bubble_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

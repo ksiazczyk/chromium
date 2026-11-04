@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common saved account manager bubble controller unit tests
+// summary: Unit tests for the common saved account manager bubble controller using a stub client and mock delegate to exercise credential editing and dismissal behavior.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/common_saved_account_manager_bubble_controller.h"
 
 #include "base/test/task_environment.h"

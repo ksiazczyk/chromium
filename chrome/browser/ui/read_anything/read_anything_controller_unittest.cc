@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything controller unit tests
+// summary: Unit tests for the ReadAnythingController using mocked browser window, side panel UI, and tab interfaces.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_controller.h"
 
 #include <memory>

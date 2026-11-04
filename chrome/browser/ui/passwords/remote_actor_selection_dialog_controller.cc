@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor selection dialog controller
+// summary: Implements the controller that shows an account chooser for a remote actor such as Gemini to request credentials, with localized title, subtitle, and data handling help link.
+// ---
+
 #include "chrome/browser/ui/passwords/remote_actor_selection_dialog_controller.h"
 
 #include "base/strings/utf_string_conversions.h"

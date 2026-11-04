@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for PDF infobar sources and unit tests
+summary: Defines GN source sets for the PDF infobar code and its unit tests, listing sources and dependencies on browser, infobars, prefs, and related components.

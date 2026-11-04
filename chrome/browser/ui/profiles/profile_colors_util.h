@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile theme color utilities interface
+// summary: Declares ProfileThemeColors structures and helpers for obtaining, updating, and autoselecting profile colors across themes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PROFILES_PROFILE_COLORS_UTIL_H_
 #define CHROME_BROWSER_UI_PROFILES_PROFILE_COLORS_UTIL_H_
 

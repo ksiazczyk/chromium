@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for password bubble controllers
+summary: Defines the source sets, sources, and platform-conditional dependencies for the password bubble controllers and their unit tests.

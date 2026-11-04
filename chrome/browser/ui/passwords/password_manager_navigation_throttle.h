@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager navigation throttle header
+// summary: Declares a navigation throttle that redirects to the Passwords settings page when the navigation target and referrer match the defined requirements.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_PASSWORD_MANAGER_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_UI_PASSWORDS_PASSWORD_MANAGER_NAVIGATION_THROTTLE_H_
 

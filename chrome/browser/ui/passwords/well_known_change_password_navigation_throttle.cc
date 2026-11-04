@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Well-known change password navigation throttle
+// summary: Implements a navigation throttle that detects .well-known/change-password support and redirects users to the change password URL.
+// ---
+
 #include "chrome/browser/ui/passwords/well_known_change_password_navigation_throttle.h"
 
 #include "base/logging.h"

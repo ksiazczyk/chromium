@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything line focus interactive UI test
+// summary: Interactive test verifying the Reading Mode line focus in-product help promo appears via keyboard shortcut and hides on a non-distillable page.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_controller.h"
 
 #include <vector>

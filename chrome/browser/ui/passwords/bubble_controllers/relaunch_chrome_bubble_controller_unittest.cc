@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Relaunch Chrome bubble controller unit tests
+// summary: Unit tests for the relaunch Chrome bubble controller covering bubble content, dismissal counting, restart triggering and histogram metrics.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/relaunch_chrome_bubble_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

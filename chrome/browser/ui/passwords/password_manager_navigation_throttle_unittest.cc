@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Password manager navigation throttle unit tests
+// summary: Unit tests verifying when the navigation throttle is created based on URL, page transition, and initiator origin conditions.
+// ---
+
 #include "chrome/browser/ui/passwords/password_manager_navigation_throttle.h"
 
 #include <optional>

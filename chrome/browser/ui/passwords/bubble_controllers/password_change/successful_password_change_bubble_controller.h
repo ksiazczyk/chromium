@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Successful password change bubble controller header
+// summary: Declares the controller class for the successful password change view, including methods for user authentication, favicon requests, and dismissal reason tracking.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_PASSWORD_CHANGE_SUCCESSFUL_PASSWORD_CHANGE_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_PASSWORD_CHANGE_SUCCESSFUL_PASSWORD_CHANGE_BUBBLE_CONTROLLER_H_
 

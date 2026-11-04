@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA bug tracking component for the passwords UI
+summary: Maps the directory to the UI>Browser>Passwords monorail component and a Buganizer component ID.

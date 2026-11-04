@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Well-known change password navigation throttle unit tests
+// summary: Unit tests verifying when the change password navigation throttle is created for URLs initiated from Google-owned UI.
+// ---
+
 #include "chrome/browser/ui/passwords/well_known_change_password_navigation_throttle.h"
 
 #include <optional>

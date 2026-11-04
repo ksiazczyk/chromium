@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory saver bubble controller implementation
+// summary: Implements the controller that shows the Memory Saver bubble from its action item and updates the item's bubble state.
+// ---
+
 #include "chrome/browser/ui/performance_controls/memory_saver_bubble_controller.h"
 
 #include <memory>

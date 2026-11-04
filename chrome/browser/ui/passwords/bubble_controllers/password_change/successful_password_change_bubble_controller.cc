@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Successful password change bubble controller implementation
+// summary: Implements the controller for the bubble shown after a successful password change, covering titles, interaction metrics, authentication, favicon requests, and password manager navigation.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/password_change/successful_password_change_bubble_controller.h"
 
 #include "base/memory/weak_ptr.h"

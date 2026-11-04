@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefsTabHelper implementation
+// summary: Implements the per-tab PrefsTabHelper that registers font and web preferences and pushes preference changes into WebContents web and renderer preferences.
+// ---
+
 #include "chrome/browser/ui/prefs/prefs_tab_helper.h"
 
 #include <stddef.h>

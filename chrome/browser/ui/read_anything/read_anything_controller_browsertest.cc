@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything controller browser tests
+// summary: Browser tests for the Reading Mode controller covering side panel presentation, translation, PDFs, find-in-page, and keyboard interactions.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_controller.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password import controller implementation
+// summary: Implements the password import flow, showing a CSV file selection dialog, guarding against already active imports, and reporting import results asynchronously.
+// ---
+
 #include "chrome/browser/ui/passwords/settings/password_import_controller.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF infobar controller implementation
+// summary: Implements the controller that shows an infobar offering to set Chrome as the default PDF viewer, including eligibility checks, metrics, and Windows settings integration.
+// ---
+
 #include "chrome/browser/ui/pdf/infobar/pdf_infobar_controller.h"
 
 #include <optional>

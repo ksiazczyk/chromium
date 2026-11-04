@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password UI utilities implementation
+// summary: Implements shared password UI helpers such as avatar scaling, account chooser labels and dialog title formatting.
+// ---
+
 #include "chrome/browser/ui/passwords/ui_utils.h"
 
 #include <stddef.h>

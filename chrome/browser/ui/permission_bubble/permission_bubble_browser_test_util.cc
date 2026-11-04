@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test fixtures for permission bubbles
+// summary: Implements browser test base classes that set up mock permission requests, open extension app windows, and configure kiosk mode tests.
+// ---
+
 #include "chrome/browser/ui/permission_bubble/permission_bubble_browser_test_util.h"
 
 #include <memory>

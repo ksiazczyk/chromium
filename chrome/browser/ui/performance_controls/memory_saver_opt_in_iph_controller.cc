@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory saver opt-in IPH controller implementation
+// summary: Implements the controller that shows the memory saver opt-in in-product help promo when performance thresholds are reached on devices with at most 16 GB of memory.
+// ---
+
 #include "chrome/browser/ui/performance_controls/memory_saver_opt_in_iph_controller.h"
 
 #include "base/byte_size.h"

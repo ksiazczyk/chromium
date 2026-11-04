@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account avatar fetcher header
+// summary: Declares a self-deleting helper that downloads an account avatar bitmap and notifies its delegate.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_ACCOUNT_AVATAR_FETCHER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_ACCOUNT_AVATAR_FETCHER_H_
 

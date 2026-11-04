@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password bubble controller base implementation
+// summary: Implements the shared base class for password bubble controllers, recording bubble display metrics and handling bubble closing, mouse events, and profile and web contents access.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/password_bubble_controller_base.h"
 
 #include "chrome/browser/profiles/profile.h"

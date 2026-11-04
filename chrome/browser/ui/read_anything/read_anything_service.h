@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAnythingService profile service header
+// summary: Declares ReadAnythingService, a per-profile keyed service that holds profile-scoped state for the Read Anything feature and manages the desktop TTS engine.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_SERVICE_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_SERVICE_H_
 

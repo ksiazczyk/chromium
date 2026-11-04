@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything entry point controller browser tests
+// summary: Browser tests covering Reading Mode entry point behavior such as page action visibility, immersive UI state, and omnibox chip interactions.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_entry_point_controller.h"
 
 #include "base/command_line.h"

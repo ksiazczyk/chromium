@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password bubble controller base header
+// summary: Declares PasswordBubbleControllerBase, the base class for all password bubble controllers that supplies data and controls password management actions for the corresponding view.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_PASSWORD_BUBBLE_CONTROLLER_BASE_H_
 #define CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_PASSWORD_BUBBLE_CONTROLLER_BASE_H_
 

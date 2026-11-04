@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save/update password bubble controller implementation
+// summary: Implements the controller backing the save and update password bubble, including display disposition metrics, smart bubble stats cleanup and sync state handling.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/save_update_bubble_controller.h"
 
 #include <algorithm>

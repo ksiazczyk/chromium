@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAnythingSidePanelNavigationThrottle header
+// summary: Declares ReadAnythingSidePanelNavigationThrottle, which prevents opening reading mode in the main content area by redirecting requests to the side panel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_SIDE_PANEL_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_SIDE_PANEL_NAVIGATION_THROTTLE_H_
 

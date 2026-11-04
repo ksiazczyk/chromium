@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-domain password confirmation popup controller implementation
+// summary: Implements the controller that shows a confirmation popup when a stored password is about to be used on a different domain, handling confirm, cancel and hide flows.
+// ---
+
 #include "chrome/browser/ui/passwords/password_cross_domain_confirmation_popup_controller_impl.h"
 
 #include "base/functional/bind.h"

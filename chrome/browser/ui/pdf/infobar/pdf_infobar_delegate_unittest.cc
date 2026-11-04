@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF infobar delegate unit tests
+// summary: Unit tests for the PDF infobar delegate verifying that shown, dismissed, and ignored histogram metrics are recorded when the infobar is created and removed.
+// ---
+
 #include "chrome/browser/ui/pdf/infobar/pdf_infobar_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passwords client UI delegate implementation
+// summary: Implements the helper that retrieves the PasswordsClientUIDelegate for a WebContents through ManagePasswordsUIController.
+// ---
+
 #include "chrome/browser/ui/passwords/passwords_client_ui_delegate.h"
 
 #include "chrome/browser/ui/passwords/manage_passwords_ui_controller.h"

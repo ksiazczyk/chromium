@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory saver chip tab helper implementation
+// summary: Implements the per-tab helper that computes the memory saver chip state after navigations and visibility changes, highlighting memory savings from discarded tabs.
+// ---
+
 #include "chrome/browser/ui/performance_controls/memory_saver_chip_tab_helper.h"
 
 #include <cstdint>

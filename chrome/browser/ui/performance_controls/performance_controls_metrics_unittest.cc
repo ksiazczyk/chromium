@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance controls metrics unit tests
+// summary: Unit tests verifying daily metric resets and histogram counts for performance intervention reporting.
+// ---
+
 #include "chrome/browser/ui/performance_controls/performance_controls_metrics.h"
 
 #include <memory>

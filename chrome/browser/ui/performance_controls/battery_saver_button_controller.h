@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver button controller header
+// summary: Declares the controller for battery saver toolbar button visibility, observing battery saver mode manager events via a delegate.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_BATTERY_SAVER_BUTTON_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_BATTERY_SAVER_BUTTON_CONTROLLER_H_
 

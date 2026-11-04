@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the PDF UI folder
+summary: Points to the shared PDF common metadata mixins used for this directory's metadata.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor selection dialog controller
+// summary: Declares the controller that drives the account chooser dialog when a remote actor requests credential sharing for a site.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_REMOTE_ACTOR_SELECTION_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_REMOTE_ACTOR_SELECTION_DIALOG_CONTROLLER_H_
 

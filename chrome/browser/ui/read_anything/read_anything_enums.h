@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything enums and trigger conversions
+// summary: Defines Read Anything enums for close reasons and omnibox chip decisions, with helpers converting open triggers between Reading Mode and the side panel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_ENUMS_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_ENUMS_H_
 

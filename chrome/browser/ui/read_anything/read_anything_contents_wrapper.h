@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything contents wrapper header
+// summary: Declares a move-only wrapper around the Read Anything WebUI contents wrapper to avoid circular includes with the WebUI project.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_CONTENTS_WRAPPER_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_CONTENTS_WRAPPER_H_
 

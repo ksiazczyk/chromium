@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save Recording Bubble Controller Unit Tests
+// summary: Unit tests verifying that saving stores the recording with the entered name and shows a toast, while canceling performs no save.
+// ---
+
 #include "chrome/browser/ui/record_replay/save_recording_bubble_controller_impl.h"
 
 #include "base/test/mock_callback.h"

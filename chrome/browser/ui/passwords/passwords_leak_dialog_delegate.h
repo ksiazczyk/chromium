@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordsLeakDialogDelegate interface
+// summary: Declares the interface implemented by ManagePasswordsUIController for the leak detection dialog to report hidden dialogs, Password Checkup navigation, and completed password changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_PASSWORDS_LEAK_DIALOG_DELEGATE_H_
 #define CHROME_BROWSER_UI_PASSWORDS_PASSWORDS_LEAK_DIALOG_DELEGATE_H_
 

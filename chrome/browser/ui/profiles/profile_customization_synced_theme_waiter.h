@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile customization synced theme waiter header
+// summary: Declares ProfileCustomizationSyncedThemeWaiter, its outcome enum and observers used to notify a callback once a synced theme is applied or a timeout expires.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PROFILES_PROFILE_CUSTOMIZATION_SYNCED_THEME_WAITER_H_
 #define CHROME_BROWSER_UI_PROFILES_PROFILE_CUSTOMIZATION_SYNCED_THEME_WAITER_H_
 

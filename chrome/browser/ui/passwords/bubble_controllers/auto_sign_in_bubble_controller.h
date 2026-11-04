@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto sign-in bubble controller class declaration
+// summary: Declares the controller that provides data and actions for the AutoSignInView and tracks the toast dismissal reason.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_AUTO_SIGN_IN_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_AUTO_SIGN_IN_BUBBLE_CONTROLLER_H_
 

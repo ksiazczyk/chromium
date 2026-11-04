@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto sign-in toast delegate header
+// summary: Declares the delegate that handles menu actions, toast closed callbacks, and widget destruction for the auto sign-in toast.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_MANAGE_PASSWORDS_AUTO_SIGNIN_TOAST_DELEGATE_H_
 #define CHROME_BROWSER_UI_PASSWORDS_MANAGE_PASSWORDS_AUTO_SIGNIN_TOAST_DELEGATE_H_
 

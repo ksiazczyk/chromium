@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance controls metrics
+// summary: Implements histogram recording and daily event reporting for performance intervention and memory saver metrics.
+// ---
+
 #include "chrome/browser/ui/performance_controls/performance_controls_metrics.h"
 
 #include <memory>

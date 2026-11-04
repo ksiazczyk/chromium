@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post save compromised bubble controller implementation
+// summary: Implements the controller for the bubble shown after a compromised password is updated, with safe state and more-to-fix variants providing body text, images, and navigation actions.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/post_save_compromised_bubble_controller.h"
 
 #include "base/notreached.h"

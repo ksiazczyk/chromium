@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordBaseDialogController interface
+// summary: Defines the small base interface shared by the credential manager and credential leak dialog controllers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_PASSWORD_BASE_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_PASSWORD_BASE_DIALOG_CONTROLLER_H_
 

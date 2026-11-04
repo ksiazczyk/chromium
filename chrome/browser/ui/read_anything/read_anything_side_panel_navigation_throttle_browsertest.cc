@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything side panel navigation throttle browser tests
+// summary: Browser regression tests verifying that navigating to the Read Anything side panel URL in non-tab WebContents does not crash and internal reloads proceed.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_side_panel_navigation_throttle.h"
 
 #include "chrome/browser/profiles/profile.h"

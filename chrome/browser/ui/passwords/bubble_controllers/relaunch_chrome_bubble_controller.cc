@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch Chrome bubble controller implementation
+// summary: Implements the controller for the relaunch Chrome bubble shown while a password form is rendered without keychain access, with branded strings and a dismissal counter limiting repeats.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/relaunch_chrome_bubble_controller.h"
 
 #include "build/branding_buildflags.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the passwords UI
+summary: Defines the GN source sets, sources and dependencies for the Chrome passwords UI code.

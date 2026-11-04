@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything HaTS survey controller interface
+// summary: Declares a Reading Mode lifecycle observer that tracks recent usage in preferences and shows the HaTS survey when usage conditions are met.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_HATS_SURVEY_CONTROLLER_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_HATS_SURVEY_CONTROLLER_H_
 

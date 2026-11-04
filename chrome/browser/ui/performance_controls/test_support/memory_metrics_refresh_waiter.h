@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory metrics refresh waiter declarations
+// summary: Declares waiters that force memory and tab resource usage metrics to refresh so tests can observe memory savings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_TEST_SUPPORT_MEMORY_METRICS_REFRESH_WAITER_H_
 #define CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_TEST_SUPPORT_MEMORY_METRICS_REFRESH_WAITER_H_
 

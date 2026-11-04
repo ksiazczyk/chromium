@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload dialog delegate implementation
+// summary: Implements BatchUploadUIDelegate by validating the browser and forwarding batch upload dialog requests to the internal view creation.
+// ---
+
 #include "chrome/browser/ui/profiles/batch_upload_ui_delegate.h"
 
 #include "base/functional/callback.h"
