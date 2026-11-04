@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window presentation metrics recorder implementation
+// summary: Implements WindowPresentationMetricsRecorder, which measures the time from app window initialization to the first presented frame and reports it in per-app-type histograms.
+// relations:
+//   - implements /ash/metrics/window_presentation_metrics_recorder.h
+//   - depends_on /ash/metrics/window_presentation_metrics_recorder.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/metrics/window_presentation_metrics_recorder.h"
 
 #include <optional>

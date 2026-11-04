@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI metrics recorder implementation
+// summary: Implements UiMetricsRecorder, logging Ash event latency histograms for many input event types and frame rate buckets, plus dropped frame smoothness metrics around login.
+// relations:
+//   - depends_on /ash/metrics/ui_metrics_recorder.h
+//   - depends_on /base/check_op.h
+//   - depends_on /base/containers/span.h
+// ---
+
 #include "ash/metrics/ui_metrics_recorder.h"
 
 #include <array>

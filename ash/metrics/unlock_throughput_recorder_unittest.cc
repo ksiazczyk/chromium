@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unlock throughput recorder unit tests
+// summary: Unit tests verifying that unlock animation smoothness histograms are reported for tablet and clamshell modes via UnlockThroughputRecorder.
+// relations:
+//   - tests /ash/metrics/unlock_throughput_recorder.h
+//   - depends_on /ash/login/ui/login_test_base.h
+//   - depends_on /ash/session/test_session_controller_client.h
+// ---
+
 #include "ash/metrics/unlock_throughput_recorder.h"
 
 #include <memory>

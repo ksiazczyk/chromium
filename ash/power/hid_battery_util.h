@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID battery utility header
+// summary: Declares exported ash functions to check for HID battery sysfs paths, extract the identifier between prefix and suffix, and extract a Bluetooth address from the path.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_POWER_HID_BATTERY_UTIL_H_
 #define ASH_POWER_HID_BATTERY_UTIL_H_
 

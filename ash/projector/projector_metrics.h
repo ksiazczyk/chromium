@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector metrics declarations
+// summary: Declares UMA enums for toolbar buttons, creation flow steps, errors, and speech recognition fallback reasons, plus functions to record Projector metrics.
+// ---
+
 #ifndef ASH_PROJECTOR_PROJECTOR_METRICS_H_
 #define ASH_PROJECTOR_PROJECTOR_METRICS_H_
 

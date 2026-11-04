@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User metrics recorder test API declaration
+// summary: Declares a test API class that provides access to private UserMetricsRecorder methods for testing.
+// relations:
+//   - depends_on /ash/metrics/user_metrics_recorder.h
+// ---
+
 #ifndef ASH_METRICS_USER_METRICS_RECORDER_TEST_API_H_
 #define ASH_METRICS_USER_METRICS_RECORDER_TEST_API_H_
 

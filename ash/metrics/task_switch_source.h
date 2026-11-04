@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskSwitchSource enum definition
+// summary: Defines the TaskSwitchSource enum listing user interfaces that can cause task switches, such as desktop, overview, shelf, and Alt+Tab.
+// ---
+
 #ifndef ASH_METRICS_TASK_SWITCH_SOURCE_H_
 #define ASH_METRICS_TASK_SWITCH_SOURCE_H_
 

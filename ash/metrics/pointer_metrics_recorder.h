@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer metrics recorder declarations
+// summary: Declares the PointerMetricsRecorder class and the enums backing the pointer down event UMA histogram for input, form factor, and app destination combinations.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_METRICS_POINTER_METRICS_RECORDER_H_
 #define ASH_METRICS_POINTER_METRICS_RECORDER_H_
 

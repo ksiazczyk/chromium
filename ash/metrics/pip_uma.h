@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture UMA histogram definitions
+// summary: Defines histogram name constants and enums for picture-in-picture UMA events and window positions, kept in sync with enums.xml.
+// relations:
+//   - depends_on /ash/public/cpp/ash_public_export.h
+// ---
+
 #ifndef ASH_METRICS_PIP_UMA_H_
 #define ASH_METRICS_PIP_UMA_H_
 

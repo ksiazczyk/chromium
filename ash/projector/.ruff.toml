@@ -1,2 +1,10 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for ash/projector
+# summary: Extends the parent Ruff linter configuration and sets the indentation width to 4 for this directory.
+# relations:
+#   - depends_on /ash/.ruff.toml
+# ---
+
 extend = "../.ruff.toml"
 indent-width = 4

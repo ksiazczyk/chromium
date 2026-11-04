@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task switch time tracker implementation
+// summary: Implements TaskSwitchTimeTracker, recording time deltas between task switches into a UMA histogram with fixed bucket bounds.
+// relations:
+//   - depends_on /ash/metrics/task_switch_time_tracker.h
+//   - depends_on /base/metrics/histogram.h
+//   - depends_on /base/time/default_tick_clock.h
+// ---
+
 #include "ash/metrics/task_switch_time_tracker.h"
 
 #include "base/metrics/histogram.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for demo session metrics recorder
+// summary: Tests app usage attribution, idle sample dropping, and session behavior of DemoSessionMetricsRecorder using mock timers and histogram testers.
+// relations:
+//   - tests /ash/metrics/demo_session_metrics_recorder.h
+//   - depends_on /ash/metrics/user_metrics_recorder.h
+//   - depends_on /ash/public/cpp/shelf_types.h
+// ---
+
 #include "ash/metrics/demo_session_metrics_recorder.h"
 
 #include <memory>

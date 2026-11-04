@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WM feature metrics recorder unit tests
+// summary: Unit tests verifying that WMFeatureMetricsRecorder periodically logs window layout metrics such as window counts, states, app types and size ranges using AshTestBase and HistogramTester.
+// relations:
+//   - tests /ash/metrics/wm_feature_metrics_recorder.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ash/wm/window_state.h
+// ---
+
 #include "ash/metrics/wm_feature_metrics_recorder.h"
 
 #include "ash/test/ash_test_base.h"

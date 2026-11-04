@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch usage metrics recorder unit tests
+// summary: Unit tests for touchscreen usage recording, covering single and consecutive touches, session boundaries across timer durations, and resulting histogram counts in both device modes.
+// relations:
+//   - depends_on /ash/metrics/touch_usage_metrics_recorder.h
+//   - tests /ash/metrics/touch_usage_metrics_recorder.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/metrics/touch_usage_metrics_recorder.h"
 
 #include "ash/shell.h"

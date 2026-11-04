@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task switch time tracker test API
+// summary: Test API header exposing TaskSwitchTimeTracker internals and injecting a controllable tick clock so unit tests can advance time and inspect task switch tracking state.
+// relations:
+//   - depends_on /base/test/simple_test_tick_clock.h
+//   - depends_on /base/time/time.h
+//   - depends_on /ash/metrics/task_switch_time_tracker.h
+// ---
+
 #ifndef ASH_METRICS_TASK_SWITCH_TIME_TRACKER_TEST_API_H_
 #define ASH_METRICS_TASK_SWITCH_TIME_TRACKER_TEST_API_H_
 

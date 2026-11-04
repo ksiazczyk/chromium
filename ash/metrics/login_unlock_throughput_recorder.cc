@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login unlock throughput recorder implementation
+// summary: Measures login and unlock performance by tracking window restore, shelf animations, and compositor animation throughput for UMA reporting.
+// relations:
+//   - implements /ash/metrics/login_unlock_throughput_recorder.h
+//   - depends_on /ash/metrics/post_login_event_observer.h
+//   - depends_on /ash/metrics/post_login_metrics_recorder.h
+// ---
+
 #include "ash/metrics/login_unlock_throughput_recorder.h"
 
 #include <algorithm>

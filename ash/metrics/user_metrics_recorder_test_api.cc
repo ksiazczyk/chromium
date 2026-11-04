@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User metrics recorder test API implementation
+// summary: Implements a test API exposing UserMetricsRecorder internals such as RecordPeriodicMetrics and IsUserInActiveDesktopEnvironment for use in tests.
+// relations:
+//   - implements /ash/metrics/user_metrics_recorder_test_api.h
+//   - depends_on /ash/metrics/user_metrics_recorder_test_api.h
+// ---
+
 #include "ash/metrics/user_metrics_recorder_test_api.h"
 
 namespace ash {

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User metrics recorder class declaration
+// summary: Declares UserMetricsRecorder, a class that records UMA metrics on a repeating timer and aggregates recorders for task switches, input events, login, demo sessions, and window management.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/metrics/login_metrics_recorder.h
+//   - depends_on /ash/metrics/task_switch_metrics_recorder.h
+// ---
+
 #ifndef ASH_METRICS_USER_METRICS_RECORDER_H_
 #define ASH_METRICS_USER_METRICS_RECORDER_H_
 

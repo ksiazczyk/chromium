@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo session metrics recorder implementation
+// summary: Implements metrics recording for ChromeOS Demo Mode sessions, sampling active app usage time, dwell time, and account request results.
+// relations:
+//   - depends_on /ash/metrics/demo_session_metrics_recorder.h
+//   - depends_on /ash/constants/web_app_id_constants.h
+//   - depends_on /ash/public/cpp/app_types_util.h
+// ---
+
 #include "ash/metrics/demo_session_metrics_recorder.h"
 
 #include <iostream>

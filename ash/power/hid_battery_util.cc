@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID battery utility implementation
+// summary: Implements helpers that detect HID battery sysfs paths, extract their identifier, and pull out a lowercase Bluetooth address using regex validation.
+// relations:
+//   - depends_on /ash/power/hid_battery_util.h
+//   - depends_on /base/strings/string_split.h
+//   - depends_on /base/strings/string_util.h
+// ---
+
 #include "ash/power/hid_battery_util.h"
 
 #include "base/strings/string_split.h"

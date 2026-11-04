@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProjectorButton class declaration
+// summary: Declares the ProjectorButton base class, a toggleable views::ToggleImageButton that provides common styling such as rounded background, size, and ink drop, used by ProjectorColorButton and ProjectorImageButton.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/views/controls/button/image_button.h
+// ---
+
 #ifndef ASH_PROJECTOR_UI_PROJECTOR_BUTTON_H_
 #define ASH_PROJECTOR_UI_PROJECTOR_BUTTON_H_
 

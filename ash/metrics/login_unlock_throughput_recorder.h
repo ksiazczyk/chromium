@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login unlock throughput recorder declarations
+// summary: Declares WindowRestoreTracker, ShelfTracker, and LoginUnlockThroughputRecorder classes that track window restore, shelf icon loading, and login/unlock performance events in the Ash shell.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/metrics/post_login_event_observer.h
+//   - depends_on /ash/metrics/post_login_metrics_recorder.h
+// ---
+
 #ifndef ASH_METRICS_LOGIN_UNLOCK_THROUGHPUT_RECORDER_H_
 #define ASH_METRICS_LOGIN_UNLOCK_THROUGHPUT_RECORDER_H_
 

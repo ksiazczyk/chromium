@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-device notification presenter header
+// summary: Declares MultiDeviceNotificationPresenter, which observes the MultiDeviceSetup mojo service, session state, and message center to drive the multi-device setup notification flow.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /base/auto_reset.h
+// ---
+
 #ifndef ASH_MULTI_DEVICE_SETUP_MULTI_DEVICE_NOTIFICATION_PRESENTER_H_
 #define ASH_MULTI_DEVICE_SETUP_MULTI_DEVICE_NOTIFICATION_PRESENTER_H_
 

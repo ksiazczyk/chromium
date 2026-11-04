@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch usage metrics recorder declarations
+// summary: Declares TouchscreenUsageRecorder and TouchUsageMetricsRecorder classes plus temporary histogram name constants that measure consecutive touchscreen usage sessions by device mode.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_METRICS_TOUCH_USAGE_METRICS_RECORDER_H_
 #define ASH_METRICS_TOUCH_USAGE_METRICS_RECORDER_H_
 

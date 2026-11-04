@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI metrics recorder unit tests
+// summary: Unit tests for UiMetricsRecorder, verifying event latency histogram names, FPS bucket mapping, and login-related metric behavior using mock IME, widget, and event helpers.
+// relations:
+//   - tests /ash/metrics/ui_metrics_recorder.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /base/notreached.h
+// ---
+
 #include "ash/metrics/ui_metrics_recorder.h"
 
 #include <memory>

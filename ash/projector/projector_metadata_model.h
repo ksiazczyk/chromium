@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector metadata model header
+// summary: Declares the metadata classes for transcripts, key ideas, recognition status, and versioned screencast metadata used for storage.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+//   - depends_on /base/values.h
+// ---
+
 #ifndef ASH_PROJECTOR_PROJECTOR_METADATA_MODEL_H_
 #define ASH_PROJECTOR_PROJECTOR_METADATA_MODEL_H_
 

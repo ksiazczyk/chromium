@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiUserWindowManager class declaration
+// summary: Declares the MultiUserWindowManager class, which tracks window owners and shown accounts, exposes SetWindowOwner and ShowWindowForUser, and supports testing hooks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /base/auto_reset.h
+// ---
+
 #ifndef ASH_MULTI_USER_MULTI_USER_WINDOW_MANAGER_H_
 #define ASH_MULTI_USER_MULTI_USER_WINDOW_MANAGER_H_
 

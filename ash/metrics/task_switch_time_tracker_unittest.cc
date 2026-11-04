@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task switch time tracker unit tests
+// summary: Unit tests verifying TaskSwitchTimeTracker behavior, including last action time state after construction and task switches, and histogram bucket recording between switches.
+// relations:
+//   - tests /ash/metrics/task_switch_time_tracker.h
+//   - depends_on /ash/metrics/task_switch_time_tracker_test_api.h
+//   - depends_on /base/test/metrics/histogram_tester.h
+// ---
+
 #include "ash/metrics/task_switch_time_tracker.h"
 
 #include <memory>

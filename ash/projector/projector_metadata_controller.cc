@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector metadata controller implementation
+// summary: Implements recording of transcripts, key ideas, and recognition status during screencasts and saving the serialized metadata next to the video file.
+// relations:
+//   - implements /ash/projector/projector_metadata_controller.h
+//   - depends_on /ash/projector/projector_metadata_model.h
+//   - depends_on /ash/projector/projector_metrics.h
+// ---
+
 #include "ash/projector/projector_metadata_controller.h"
 
 #include "ash/projector/projector_metadata_model.h"

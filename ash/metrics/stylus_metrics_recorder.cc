@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus metrics recorder implementation
+// summary: Implements the stylus metrics recorder, tracking stylus detach sessions from garage or dock chargers and emitting feature usage histograms.
+// relations:
+//   - implements /ash/metrics/stylus_metrics_recorder.h
+//   - depends_on /ash/shell.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/metrics/stylus_metrics_recorder.h"
 
 #include "ash/shell.h"

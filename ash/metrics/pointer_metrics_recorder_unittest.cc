@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pointer metrics recorder unit tests
+// summary: Test fixture verifying that pointer down events record the expected histogram values across pointer types, form factors, and app destinations.
+// relations:
+//   - tests /ash/metrics/pointer_metrics_recorder.h
+//   - depends_on /ash/display/screen_orientation_controller_test_api.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+// ---
+
 #include "ash/metrics/pointer_metrics_recorder.h"
 
 #include <memory>

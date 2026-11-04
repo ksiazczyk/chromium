@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post login metrics recorder declarations
+// summary: Declares PostLoginMetricsRecorder, which observes post-login events and records UMA metrics and trace events, including post-login UI status handling.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/metrics/deferred_metrics_reporter.h
+//   - implements /ash/metrics/post_login_event_observer.h
+// ---
+
 #ifndef ASH_METRICS_POST_LOGIN_METRICS_RECORDER_H_
 #define ASH_METRICS_POST_LOGIN_METRICS_RECORDER_H_
 

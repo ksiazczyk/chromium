@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector controller implementation
+// summary: Implements the Projector controller that manages screencast sessions, speech recognition availability, screencast preconditions, and saving of screencast files.
+// relations:
+//   - implements /ash/projector/projector_controller_impl.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_metrics.h
+// ---
+
 #include "ash/projector/projector_controller_impl.h"
 
 #include <vector>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HID battery utilities
+// summary: GoogleTest cases verifying IsHIDBattery, ExtractHIDBatteryIdentifier, and ExtractBluetoothAddressFromHIDBatteryPath for valid, invalid, and malformed sysfs paths.
+// relations:
+//   - tests /ash/power/hid_battery_util.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/power/hid_battery_util.h"
 
 #include <string>

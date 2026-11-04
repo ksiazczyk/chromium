@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet-aware UMA histogram macros
+// summary: Defines macros that record UMA percentage histograms only in tablet, clamshell, split view, or non-split-view conditions instead of the plain percentage macro.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/metrics/histogram_macros.h
+// ---
+
 #ifndef ASH_METRICS_HISTOGRAM_MACROS_H_
 #define ASH_METRICS_HISTOGRAM_MACROS_H_
 

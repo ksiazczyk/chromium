@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post login event observer interface
+// summary: Defines the PostLoginEventObserver interface with callbacks for post-login events such as auth success, session restore, shelf loading, and animation completion.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/observer_list_types.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_METRICS_POST_LOGIN_EVENT_OBSERVER_H_
 #define ASH_METRICS_POST_LOGIN_EVENT_OBSERVER_H_
 

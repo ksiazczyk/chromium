@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User metrics recorder unit tests
+// summary: Unit tests for UserMetricsRecorder verifying shelf item count histograms and active desktop environment detection across login, lock, and kiosk session states.
+// relations:
+//   - tests /ash/metrics/user_metrics_recorder.h
+//   - depends_on /ash/login_status.h
+//   - depends_on /ash/metrics/user_metrics_recorder_test_api.h
+// ---
+
 #include "ash/metrics/user_metrics_recorder.h"
 
 #include <memory>

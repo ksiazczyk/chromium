@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task switch time tracker class declaration
+// summary: Declares TaskSwitchTimeTracker, which measures time between task switches and records the deltas in a named histogram.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_METRICS_TASK_SWITCH_TIME_TRACKER_H_
 #define ASH_METRICS_TASK_SWITCH_TIME_TRACKER_H_
 

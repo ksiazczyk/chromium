@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit check for projector metrics changes
+# summary: Defines a presubmit check that requires a metrics tracker update marker in the CL description whenever projector_metrics.cc is modified.
+# ---
+
 # Optional but recommended
 PRESUBMIT_VERSION = '2.0.0'
 

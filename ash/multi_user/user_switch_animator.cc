@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserSwitchAnimator implementation
+// summary: Implements the stepwise animation of windows, wallpaper, and shelf when switching between users, including layer teardown and activation handling.
+// relations:
+//   - implements /ash/multi_user/user_switch_animator.h
+//   - depends_on /ash/multi_user/multi_user_window_manager.h
+//   - depends_on /ash/multi_user/multi_user_window_manager_observer.h
+// ---
+
 #include "ash/multi_user/user_switch_animator.h"
 
 #include <algorithm>

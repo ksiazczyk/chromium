@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post login metrics recorder implementation
+// summary: Implements recording of UMA histograms and perfetto trace events for login performance, including time markers and session restore duration reporting.
+// relations:
+//   - implements /ash/metrics/post_login_metrics_recorder.h
+//   - depends_on /ash/metrics/deferred_metrics_reporter.h
+//   - depends_on /ash/metrics/login_unlock_throughput_recorder.h
+// ---
+
 #include "ash/metrics/post_login_metrics_recorder.h"
 
 #include <string>

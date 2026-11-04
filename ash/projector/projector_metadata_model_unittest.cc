@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Projector metadata model unit tests
+// summary: Unit tests for the Projector metadata model, covering serialization and deserialization of screencast metadata such as captions, transcripts, and hypothesis parts.
+// relations:
+//   - tests /ash/projector/projector_metadata_model.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /base/i18n/language_tag.h
+// ---
+
 #include "ash/projector/projector_metadata_model.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash/power
+summary: Defines include rules for the ash/power directory, permitting includes of components/device_event_log/device_event_log.h.

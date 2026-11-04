@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window presentation metrics recorder unit tests
+// summary: Unit tests verifying that window presentation histograms are recorded per app type, only on first show, and skipped for non-app or never-shown windows.
+// relations:
+//   - tests /ash/metrics/window_presentation_metrics_recorder.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/metrics/window_presentation_metrics_recorder.h"
 
 #include <memory>
