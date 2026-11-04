@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window preview view test API header
+// summary: Declares WindowPreviewViewTestApi, which gives tests access to a preview view's union rect and per-widget mirror views.
+// ---
+
 #ifndef ASH_WM_WINDOW_PREVIEW_VIEW_TEST_API_H_
 #define ASH_WM_WINDOW_PREVIEW_VIEW_TEST_API_H_
 

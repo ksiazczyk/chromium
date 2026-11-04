@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: window_state_delegate.h
+// summary: Declares the WindowStateDelegate interface for customizing fullscreen toggling, trusted-pinned mode, and drag start, finish, and window destruction handling.
+// ---
+
 #ifndef ASH_WM_WINDOW_STATE_DELEGATE_H_
 #define ASH_WM_WINDOW_STATE_DELEGATE_H_
 

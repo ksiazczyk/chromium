@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy indicator app Polymer element
+// summary: Polymer element that triggers privacy indicators for a test app based on its ID, name, and camera and microphone usage toggles.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';

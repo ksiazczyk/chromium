@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize shadow rendering
+// summary: Implements the visual resize edge effect drawn around windows when the cursor is over a sizing edge, including cached shadow image generation.
+// ---
+
 #include "ash/wm/resize_shadow.h"
 
 #include <map>

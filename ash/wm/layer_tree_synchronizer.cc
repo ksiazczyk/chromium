@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeSynchronizer implementation
+// summary: Implements synchronization of layer rounded corners against reference bounds, including circular arc intersection math for transient child layers.
+// ---
+
 #include "ash/wm/layer_tree_synchronizer.h"
 
 #include <array>

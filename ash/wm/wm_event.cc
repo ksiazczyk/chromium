@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WMEvent implementation
+// summary: Implements stream output for WMEventType values and WMEvent classification helpers for workspace, compound, bounds, transition, snap, and pin events.
+// ---
+
 #include "ash/wm/wm_event.h"
 
 #include "ash/wm/window_positioning_utils.h"

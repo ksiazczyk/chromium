@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switchable windows container helpers
+// summary: Provides helpers that collect switchable window containers for a root window, optionally limited to the active desk, and determine whether a window is a switchable container.
+// ---
+
 #include "ash/wm/switchable_windows.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake coral processor header
+// summary: Declares a fake CoralProcessor mojo implementation that generates fake groups for test use.
+// ---
+
 #ifndef ASH_WM_CORAL_FAKE_CORAL_PROCESSOR_H_
 #define ASH_WM_CORAL_FAKE_CORAL_PROCESSOR_H_
 

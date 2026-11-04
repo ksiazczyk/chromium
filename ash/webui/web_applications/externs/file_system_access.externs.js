@@ -8,6 +8,12 @@
  * //third_party/blink/renderer/modules/mojo/mojo_file_system_access.idl
  */
 
+// ---docerion
+// type: source
+// title: Externs for file system access Mojo interface
+// summary: Closure compiler externs declaring Mojo.getFileSystemAccessTransferToken for obtaining a MojoHandle from a FileSystemFileHandle.
+// ---
+
 /**
  * @param {FileSystemFileHandle} fileHandle
  * @return {!MojoHandle}

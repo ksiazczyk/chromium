@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock window state handling for lock screen windows
+// summary: Implements LockWindowState, which reduces lock screen window states to maximized, minimized, or fullscreen and handles window manager events for those containers.
+// ---
+
 #include "ash/wm/lock_window_state.h"
 
 #include <memory>

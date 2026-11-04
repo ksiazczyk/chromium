@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockWindowState class declaration
+// summary: Declares LockWindowState, a window state handler that restricts lock screen windows to maximized, minimized, or fullscreen states with optional shelf exclusion.
+// ---
+
 #ifndef ASH_WM_LOCK_WINDOW_STATE_H_
 #define ASH_WM_LOCK_WINDOW_STATE_H_
 

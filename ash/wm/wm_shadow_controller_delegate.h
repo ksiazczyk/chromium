@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmShadowControllerDelegate class declaration
+// summary: Declares the ash delegate for the shadow controller that determines which windows are observed, shadowed, rounded, and theme-colored.
+// ---
+
 #ifndef ASH_WM_WM_SHADOW_CONTROLLER_DELEGATE_H_
 #define ASH_WM_WM_SHADOW_CONTROLLER_DELEGATE_H_
 

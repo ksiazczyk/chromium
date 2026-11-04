@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmDefaultLayoutManager implementation
+// summary: Implements the default ash window layout manager, applying requested child bounds directly and leaving the other layout event handlers empty.
+// ---
+
 #include "ash/wm/wm_default_layout_manager.h"
 
 #include "ui/aura/window.h"

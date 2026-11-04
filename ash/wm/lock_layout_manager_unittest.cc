@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock layout manager unit tests
+// summary: Tests LockLayoutManager behavior for lock screen windows, including bounds preservation and effects of virtual keyboard visibility and overscroll settings.
+// ---
+
 #include "ash/keyboard/ui/keyboard_ui.h"
 #include "ash/keyboard/ui/keyboard_ui_controller.h"
 #include "ash/keyboard/ui/keyboard_util.h"

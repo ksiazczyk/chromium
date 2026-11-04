@@ -1,0 +1,4 @@
+# Docerion header of closure_conformance_checks.txt.
+type: config
+title: Closure JS conformance rules for ChromeOS Essential Apps
+summary: Defines JS conformance requirements, such as banning null or undefined dereferences, for Closure compiler checks.

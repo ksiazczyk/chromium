@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultWindowResizer class declaration
+// summary: Declares DefaultWindowResizer, a WindowResizer subclass that handles dragging, moving, and resizing windows with optional presentation time recording.
+// ---
+
 #ifndef ASH_WM_DEFAULT_WINDOW_RESIZER_H_
 #define ASH_WM_DEFAULT_WINDOW_RESIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System gesture event filter unit tests
+// summary: Unit tests covering two-finger drags, window controls and other system gesture behaviors handled by the system gesture event filter.
+// ---
+
 #include "ash/wm/system_gesture_event_filter.h"
 
 #include <array>

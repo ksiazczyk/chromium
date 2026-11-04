@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window mirror view class declaration
+// summary: Declares WindowMirrorView, a view that mirrors the client area of a source window using a lifted layer tree with configurable bounds and shadow handling.
+// ---
+
 #ifndef ASH_WM_WINDOW_MIRROR_VIEW_H_
 #define ASH_WM_WINDOW_MIRROR_VIEW_H_
 

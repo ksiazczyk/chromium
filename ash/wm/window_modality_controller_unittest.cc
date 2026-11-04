@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window modality controller unit tests
+// summary: Unit tests for modal transient windows covering activation, stacking order, focus transfer on close, and event routing behavior.
+// ---
+
 #include "ui/wm/core/window_modality_controller.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System modal container event filter implementation
+// summary: Filters events while a system modal window is open, stopping propagation to targets that cannot receive events while letting gesture-end events through.
+// ---
+
 #include "ash/wm/system_modal_container_event_filter.h"
 
 #include "ash/shell.h"

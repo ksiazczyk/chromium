@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window snap action metrics implementation
+// summary: Implements stream output for the WindowSnapActionSource enum that records the various ways a user can snap a window.
+// ---
+
 #include "ash/wm/wm_metrics.h"
 
 namespace ash {

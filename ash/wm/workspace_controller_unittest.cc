@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WorkspaceController unit tests
+// summary: Unit tests for WorkspaceController covering window state, work area behavior, and window and layer ordering in workspaces.
+// ---
+
 #include "ash/wm/workspace_controller.h"
 
 #include <array>

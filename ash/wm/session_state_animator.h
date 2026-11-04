@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session state animator interface
+// summary: Declares the SessionStateAnimator class with animation types, speeds and container masks used to show on-screen animations for session state changes such as lock, unlock, sign-out and shutdown.
+// ---
+
 #ifndef ASH_WM_SESSION_STATE_ANIMATOR_H_
 #define ASH_WM_SESSION_STATE_ANIMATOR_H_
 

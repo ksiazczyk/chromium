@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenDimmer header
+// summary: Declares ScreenDimmer, which briefly dims the screen with a semi-transparent layer above everything else, intended for short-term dimming rather than brightness control.
+// ---
+
 #ifndef ASH_WM_SCREEN_DIMMER_H_
 #define ASH_WM_SCREEN_DIMMER_H_
 

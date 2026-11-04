@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coral controller implementation
+// summary: Implements the controller that sends tab and app content to the coral service and applies the returned groups to desks.
+// ---
+
 #include "ash/wm/coral/coral_controller.h"
 
 #include <memory>

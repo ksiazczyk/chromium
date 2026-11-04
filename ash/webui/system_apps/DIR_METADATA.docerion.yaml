@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: System Apps bug tracking metadata
+summary: Maps the system apps directory to its Buganizer component for issue tracking.

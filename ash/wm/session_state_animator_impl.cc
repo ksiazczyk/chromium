@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session state animator implementation
+// summary: Implements session state animations, applying opacity, scale-transform and hide effects to shell containers for lock, unlock, sign-out and shutdown transitions.
+// ---
+
 #include "ash/wm/session_state_animator_impl.h"
 
 #include <memory>

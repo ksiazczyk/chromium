@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree synchronizer unit tests
+// summary: Unit tests verifying that LayerTreeSynchronizer propagates rounded corner radii from a root layer to child layers across various bounds configurations.
+// ---
+
 #include "ash/wm/layer_tree_synchronizer.h"
 
 #include <cmath>

@@ -8,6 +8,12 @@
  * navigate.
  */
 
+// ---docerion
+// type: source
+// title: VC background app element
+// summary: Polymer custom element serving as the VC Background web UI app shell, hosting the breadcrumb and SeaPen router and closing the window when managed SeaPen is disabled.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/polymer/v3_0/iron-location/iron-location.js';
 import 'chrome://resources/polymer/v3_0/iron-location/iron-query-params.js';

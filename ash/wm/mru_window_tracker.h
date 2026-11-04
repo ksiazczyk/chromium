@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MruWindowTracker class declaration
+// summary: Declares MruWindowTracker, which maintains a most recently used window list used for Alt+Tab window cycling and overview mode across desks.
+// ---
+
 #ifndef ASH_WM_MRU_WINDOW_TRACKER_H_
 #define ASH_WM_MRU_WINDOW_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video detector header
+// summary: Declares the Ash VideoDetector class, its playback state enum, and observer interface for reporting video activity changes.
+// ---
+
 #ifndef ASH_WM_VIDEO_DETECTOR_H_
 #define ASH_WM_VIDEO_DETECTOR_H_
 

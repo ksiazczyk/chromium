@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client-controlled window state declaration
+// summary: Declares a window state class that delegates state transitions and bounds changes to a client delegate, such as the Android framework for ARC++ windows.
+// ---
+
 #ifndef ASH_WM_CLIENT_CONTROLLED_STATE_H_
 #define ASH_WM_CLIENT_CONTROLLED_STATE_H_
 

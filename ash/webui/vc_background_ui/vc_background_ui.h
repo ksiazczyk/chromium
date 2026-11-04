@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VC background WebUI controller declarations
+// summary: Declares the VcBackgroundUI Mojo WebUI controller and its SystemWebApp UI config for the VC background system web app.
+// ---
+
 #ifndef ASH_WEBUI_VC_BACKGROUND_UI_VC_BACKGROUND_UI_H_
 #define ASH_WEBUI_VC_BACKGROUND_UI_VC_BACKGROUND_UI_H_
 

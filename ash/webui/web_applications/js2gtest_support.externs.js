@@ -20,6 +20,12 @@
  * See also https://crbug.com/1000989#c22 and b/160274783.
  */
 
+// ---docerion
+// type: source
+// title: Externs for browser test compilation support
+// summary: Provides Closure extern declarations for test functions and fixtures so browser test code in media_app_ui can compile.
+// ---
+
 function GEN(s) {}
 function TEST_F(fixture, testCase, Function) {}
 function GUEST_TEST(testCase, Function) {}

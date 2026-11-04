@@ -8,6 +8,12 @@
  * This file can be removed when upstreamed to the closure compiler.
  */
 
+// ---docerion
+// type: source
+// title: Externs for file handling and launch APIs
+// summary: Closure compiler externs for Blink file handling and launch interfaces such as FileSystemWriter, LaunchQueue and the file picker window methods, pending upstreaming.
+// ---
+
 /** @interface */
 class FileSystemWriter {
   /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System gesture event filter header
+// summary: Declares SystemGestureEventFilter, an event handler that processes system-level mouse and scroll events through the WmGestureHandler.
+// ---
+
 #ifndef ASH_WM_SYSTEM_GESTURE_EVENT_FILTER_H_
 #define ASH_WM_SYSTEM_GESTURE_EVENT_FILTER_H_
 

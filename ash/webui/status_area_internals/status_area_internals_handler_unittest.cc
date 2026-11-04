@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the status area internals handler
+// summary: Unit tests for the status area internals handler, covering tray toggles, privacy indicators, Magic Boost consent, and battery icon behavior.
+// ---
+
 #include "ash/webui/status_area_internals/status_area_internals_handler.h"
 
 #include <memory>

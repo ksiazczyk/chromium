@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window manager unit tests
+// summary: Unit tests for Ash window manager behavior such as focus, activation, cursor handling, and key and mouse event propagation.
+// ---
+
 #include "ash/public/cpp/shell_window_ids.h"
 #include "ash/shell.h"
 #include "ash/test/ash_test_base.h"

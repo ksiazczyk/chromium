@@ -1,0 +1,4 @@
+# Docerion header of privacy_indicator_app_manager.html.
+type: source
+title: Privacy indicator app manager template
+summary: HTML template for the app management section, listing privacy indicator test apps with a button to add new ones.

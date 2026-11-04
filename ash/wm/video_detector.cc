@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video detector implementation
+// summary: Implements the Ash VideoDetector, which receives video activity notifications from Viz and classifies playback as fullscreen or windowed.
+// ---
+
 #include "ash/wm/video_detector.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

@@ -1,3 +1,11 @@
+---
+type: readme
+title: System Apps
+summary: Describes shared libraries used by System Web Applications and System Web Extensions, including the message_pipe.js communication library.
+relations:
+  - documents /ash/webui/eche_app_ui/resources/message_pipe.js
+---
+
 # System Apps
 Contains shared libraries used by System Web Applications and System Web
 Extensions.

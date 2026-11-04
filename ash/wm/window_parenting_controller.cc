@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowParentingController implementation
+// summary: Implements default parent lookup that places new windows in the root window of their target display, falling back to the controller's root window.
+// ---
+
 #include "ash/wm/window_parenting_controller.h"
 
 #include "ash/shell.h"

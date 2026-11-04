@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System modal container event filter header
+// summary: Declares SystemModalContainerEventFilter, an event handler that forwards events to a delegate for filtering in the system modal container.
+// ---
+
 #ifndef ASH_WM_SYSTEM_MODAL_CONTAINER_EVENT_FILTER_H_
 #define ASH_WM_SYSTEM_MODAL_CONTAINER_EVENT_FILTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window mini view class declarations
+// summary: Declares WindowMiniViewBase and WindowMiniView, views that display a window icon, title, and optional preview with focus handling for overview and alt-tab.
+// ---
+
 #ifndef ASH_WM_WINDOW_MINI_VIEW_H_
 #define ASH_WM_WINDOW_MINI_VIEW_H_
 

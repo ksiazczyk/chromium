@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JsLibraryTest header for System App JS library tests
+// summary: Declares JsLibraryTest, a MojoWebUIBrowserTest base class that sets up the system-app-test URLs for testing JS libraries of System Apps.
+// ---
+
 #ifndef ASH_WEBUI_WEB_APPLICATIONS_TEST_JS_LIBRARY_TEST_H_
 #define ASH_WEBUI_WEB_APPLICATIONS_TEST_JS_LIBRARY_TEST_H_
 

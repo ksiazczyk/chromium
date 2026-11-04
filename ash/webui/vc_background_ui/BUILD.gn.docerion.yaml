@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for vc_background_ui
+summary: Defines the vc_background_ui static library target with its sources and dependencies for the ChromeOS-only VC background WebUI.

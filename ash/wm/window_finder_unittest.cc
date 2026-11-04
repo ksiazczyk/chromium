@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window finder unit tests
+// summary: Unit tests for GetTopmostWindowAtPoint covering multiple displays, window targeters with hit-test insets, and lookup during overview sessions.
+// ---
+
 #include "ash/public/cpp/window_finder.h"
 
 #include "ash/shell.h"

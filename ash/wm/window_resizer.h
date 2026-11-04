@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: window_resizer.h
+// summary: Declares the WindowResizer interface used by ToplevelWindowEventHandler to drag, pinch, complete, revert, or fling window moves and resizes, with drag completion tracking.
+// ---
+
 #ifndef ASH_WM_WINDOW_RESIZER_H_
 #define ASH_WM_WINDOW_RESIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MRU window tracker implementation
+// summary: Implements tracking of most recently used windows for Alt+Tab cycling and overview mode, filtering windows by activatability, modal state, and desk membership.
+// ---
+
 #include "ash/wm/mru_window_tracker.h"
 
 #include <algorithm>

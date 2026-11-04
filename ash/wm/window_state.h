@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: window_state.h
+// summary: Declares the WindowState class and its State interface that manage ash-specific window states such as maximized, minimized, and snapped, with observers and snap grouping support.
+// ---
+
 #ifndef ASH_WM_WINDOW_STATE_H_
 #define ASH_WM_WINDOW_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmShadowControllerDelegate implementation
+// summary: Implements the ash shadow controller delegate, deciding which windows get shadows and hiding or recoloring them in split view, overview, and theme changes.
+// ---
+
 #include "ash/wm/wm_shadow_controller_delegate.h"
 
 #include "ash/root_window_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window finder implementation
+// summary: Implements helpers that find the topmost window at a screen point, including windows shown in an active overview session, for the Ash shell.
+// ---
+
 #include "ash/public/cpp/window_finder.h"
 
 #include <ranges>

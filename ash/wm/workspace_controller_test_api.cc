@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WorkspaceController test API implementation
+// summary: Implements WorkspaceControllerTestApi, giving tests access to the workspace event handler and backdrop window.
+// ---
+
 #include "ash/wm/workspace_controller_test_api.h"
 
 #include "ash/wm/workspace/backdrop_controller.h"

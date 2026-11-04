@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize shadow class declaration
+// summary: Declares the ResizeShadow class and its init parameters for rendering and hit-testing the resize edge effect on windows.
+// ---
+
 #ifndef ASH_WM_RESIZE_SHADOW_H_
 #define ASH_WM_RESIZE_SHADOW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWindowsMover implementation
+// summary: Implements ScopedWindowsMover, which moves the collected windows to a destination display when the object is destroyed and then runs a completion callback.
+// ---
+
 #include "ash/wm/scoped_windows_mover.h"
 
 #include "ash/wm/window_util.h"

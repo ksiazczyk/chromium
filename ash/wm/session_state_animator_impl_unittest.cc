@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session state animator implementation unit tests
+// summary: Unit tests verifying container resolution from container masks and that animation callbacks fire exactly once, including on multi-display environments.
+// ---
+
 #include "ash/wm/session_state_animator_impl.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

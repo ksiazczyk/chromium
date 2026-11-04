@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window state unit tests
+// summary: Unit tests for ash WindowState covering snapping, maximization, fullscreen, PiP, split view and overview-related window state behavior.
+// ---
+
 #include "ash/wm/window_state.h"
 
 #include <utility>

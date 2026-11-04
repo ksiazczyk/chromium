@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Status Area Internals WebUI build target
+summary: GN build file that defines the build_webui target bundling the status area internals WebUI files, Mojo and TypeScript dependencies.

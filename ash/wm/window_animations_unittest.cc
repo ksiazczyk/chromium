@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window animations unit tests
+// summary: Unit tests for Ash window animations, checking minimize durations, cross fade behavior, and show or hide animation effects.
+// ---
+
 #include "ash/wm/window_animations.h"
 
 #include "ash/public/cpp/keyboard/keyboard_switches.h"

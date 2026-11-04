@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window mini view implementation
+// summary: Implements WindowMiniViewBase and WindowMiniView, views that show a window's header and optional mirrored preview for overview and alt-tab.
+// ---
+
 #include "ash/wm/window_mini_view.h"
 
 #include <memory>

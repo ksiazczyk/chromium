@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native cursor manager implementation for Ash
+// summary: Implements Ash-specific cursor handling, applying cursor, visibility, size, and color changes across all root windows and the cursor window controller.
+// ---
+
 #include "ash/wm/native_cursor_manager_ash.h"
 
 #include "ash/display/cursor_window_controller.h"

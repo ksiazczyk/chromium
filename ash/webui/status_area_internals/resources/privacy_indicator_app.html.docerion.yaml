@@ -1,0 +1,4 @@
+# Docerion header of privacy_indicator_app.html.
+type: source
+title: Privacy indicator app element template
+summary: HTML template for the privacy-indicator-app element with an app name input, camera and microphone toggles, and an add or update button.

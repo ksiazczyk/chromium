@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: window_properties.h
+// summary: Declares exported aura window property keys used by the ash window manager, including overview, locked-to-root, icon override, resize histogram, and WindowState properties.
+// ---
+
 #ifndef ASH_WM_WINDOW_PROPERTIES_H_
 #define ASH_WM_WINDOW_PROPERTIES_H_
 

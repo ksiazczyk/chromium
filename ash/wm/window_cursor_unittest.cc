@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window cursor unit tests
+// summary: Unit tests checking the cursor types shown when the mouse hovers over resizable and non-resizable windows and their edges.
+// ---
+
 #include <memory>
 
 #include "ash/shell.h"

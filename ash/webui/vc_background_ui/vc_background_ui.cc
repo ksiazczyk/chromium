@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VC background WebUI controller implementation
+// summary: Implements the WebUI controller and system web app configuration for the video conference background feature, wiring resources, localized strings, security policies and the SeaPen provider interface.
+// ---
+
 #include "ash/webui/vc_background_ui/vc_background_ui.h"
 
 #include <string>

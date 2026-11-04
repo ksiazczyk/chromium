@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status area internals WebUI controller declaration
+// summary: Declares the WebUI controller and its config class for the ChromeOS status area internals page.
+// ---
+
 #ifndef ASH_WEBUI_STATUS_AREA_INTERNALS_STATUS_AREA_INTERNALS_UI_H_
 #define ASH_WEBUI_STATUS_AREA_INTERNALS_STATUS_AREA_INTERNALS_UI_H_
 

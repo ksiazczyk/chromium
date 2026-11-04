@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window animations header
+// summary: Declares Ash-specific window animation helpers for cross fades, minimize target bounds, scale animations, and window bounce.
+// ---
+
 #ifndef ASH_WM_WINDOW_ANIMATIONS_H_
 #define ASH_WM_WINDOW_ANIMATIONS_H_
 

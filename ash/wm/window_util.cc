@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window utility functions
+// summary: Implements ash::window_util helpers for activation, focus, stacking order, capture, modal event blocking, pinning and shelf autohide behavior.
+// ---
+
 #include "ash/wm/window_util.h"
 
 #include <algorithm>

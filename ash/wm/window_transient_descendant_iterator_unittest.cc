@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transient descendant iterator unit tests
+// summary: Tests traversal of transient window trees arranged as linked lists and trees, including preorder ordering and predicate-based filtering.
+// ---
+
 #include "ash/wm/window_transient_descendant_iterator.h"
 
 #include "ash/test/ash_test_base.h"

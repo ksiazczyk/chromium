@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window pinning utility declarations
+// summary: Declares exported helpers for pinning windows, unpinning them, and querying their pinned or trusted-pinned state.
+// ---
+
 #ifndef ASH_WM_WINDOW_PIN_UTIL_H_
 #define ASH_WM_WINDOW_PIN_UTIL_H_
 

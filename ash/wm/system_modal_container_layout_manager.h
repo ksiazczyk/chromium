@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System modal container layout manager header
+// summary: Declares the layout manager for the modal window container, which keeps centered system modal windows centered and manages modal backgrounds and dimming.
+// ---
+
 #ifndef ASH_WM_SYSTEM_MODAL_CONTAINER_LAYOUT_MANAGER_H_
 #define ASH_WM_SYSTEM_MODAL_CONTAINER_LAYOUT_MANAGER_H_
 

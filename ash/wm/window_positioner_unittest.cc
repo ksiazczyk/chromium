@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window positioner unit tests
+// summary: Unit tests verifying automatic window placement across displays, inheritance of maximized state and restore bounds, and ignoring fullscreen windows during rearrangement.
+// ---
+
 #include "ash/wm/window_positioner.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Immersive fullscreen controller unit tests
+// summary: Unit tests for the ChromeOS immersive fullscreen controller covering reveal behavior through mouse, gesture tap, and gesture scroll modalities.
+// ---
+
 #include "chromeos/ui/frame/immersive/immersive_fullscreen_controller.h"
 
 #include "ash/public/cpp/shelf_config.h"

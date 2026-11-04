@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Ash WebUI application tests
+summary: Grants tests in this directory access to headers under chrome/test/base, chrome/browser/ui, and chrome/browser/profiles because they run in browser_tests.

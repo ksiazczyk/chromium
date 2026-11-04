@@ -1,0 +1,4 @@
+# Docerion header of vc_background_app.html.
+type: source
+title: VC background app HTML template
+summary: HTML template for the vc-background-app element, laying out the sticky breadcrumb area and wiring iron-location, query params, and the SeaPen router.

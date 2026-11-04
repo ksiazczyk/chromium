@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System panel view implementation
+// summary: Implements a draggable panel view whose DragController repositions the panel widget while keeping part of it visible within screen bounds.
+// ---
+
 #include "ash/wm/system_panel_view.h"
 
 #include "base/debug/dump_without_crashing.h"

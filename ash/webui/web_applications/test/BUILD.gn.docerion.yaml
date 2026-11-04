@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for Ash WebUI application test support
+summary: Defines the testonly test_support source set listing the browser test base sources and their dependencies for Ash WebUI web applications.

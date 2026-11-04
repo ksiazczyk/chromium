@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status area internals page handler implementation
+// summary: Implements the Mojo page handler for the status area internals WebUI, swapping in fake system tray and power status models and toggling trays such as IME, palette, logout, dictation, and video conference.
+// ---
+
 #include "ash/webui/status_area_internals/status_area_internals_handler.h"
 
 #include <memory>

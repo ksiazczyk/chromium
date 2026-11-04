@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenDimmer implementation
+// summary: Implements ScreenDimmer, which adds or removes a partially opaque dimming layer over each root window container to darken the displays.
+// ---
+
 #include "ash/wm/screen_dimmer.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

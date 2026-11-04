@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Coral test utilities header
+// summary: Declares test helpers for coral, including scoped GenAI availability, test group creation and coral chip accessors.
+// ---
+
 #ifndef ASH_WM_CORAL_CORAL_TEST_UTIL_H_
 #define ASH_WM_CORAL_CORAL_TEST_UTIL_H_
 

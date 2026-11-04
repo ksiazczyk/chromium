@@ -1,0 +1,4 @@
+# Docerion header of mwc_path_mappings.gni.
+type: config
+title: Material Web Components TypeScript path mappings
+summary: GN file defining a mapping from TypeScript imports such as lit and tslib to their .d.ts files in the node_modules directory for tsc.

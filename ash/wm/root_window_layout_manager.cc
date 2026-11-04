@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root window layout manager implementation
+// summary: Implements a layout manager that resizes registered container windows to fill the bounds of the root window.
+// ---
+
 #include "ash/wm/root_window_layout_manager.h"
 
 #include "ui/aura/window.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: window_resizer.cc
+// summary: Implements base WindowResizer logic that maps hit-test window components to bounds change and direction bitmasks for dragging, moving, and resizing top-level windows.
+// ---
+
 #include "ash/wm/window_resizer.h"
 
 #include <optional>

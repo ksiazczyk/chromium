@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WorkAreaInsets unit tests
+// summary: Unit tests checking user and stable work area bounds computed by WorkAreaInsets across two displays.
+// ---
+
 #include "ash/wm/work_area_insets.h"
 
 #include "ash/root_window_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DefaultWindowResizer unit tests
+// summary: Unit tests for DefaultWindowResizer covering window resizing with square and horizontal aspect ratios and related resize histogram metrics.
+// ---
+
 #include "ash/wm/default_window_resizer.h"
 
 #include "ash/root_window_controller.h"

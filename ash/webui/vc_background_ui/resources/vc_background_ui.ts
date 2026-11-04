@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VC background UI TypeScript entry point
+// summary: Initializes the SeaPen store and color change updater and imports the VC background app component for the WebUI.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/ash/common/sea_pen/sea_pen_router_element.js';
 import './js/vc_background_app.js';

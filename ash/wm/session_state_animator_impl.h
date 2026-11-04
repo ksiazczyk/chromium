@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session state animator implementation header
+// summary: Declares SessionStateAnimatorImpl, the concrete SessionStateAnimator that runs container animations and manages wallpaper visibility during session state changes.
+// ---
+
 #ifndef ASH_WM_SESSION_STATE_ANIMATOR_IMPL_H_
 #define ASH_WM_SESSION_STATE_ANIMATOR_IMPL_H_
 

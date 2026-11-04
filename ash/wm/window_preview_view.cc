@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window preview view implementation
+// summary: Implements a view that mirrors a window and its transient descendants for previews, scaling the union of their client areas to the available space.
+// ---
+
 #include "ash/wm/window_preview_view.h"
 
 #include "ash/wm/window_mirror_view_pip.h"

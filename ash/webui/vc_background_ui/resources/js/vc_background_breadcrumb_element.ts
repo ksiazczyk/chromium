@@ -8,6 +8,12 @@
  * navigate.
  */
 
+// ---docerion
+// type: source
+// title: VC background breadcrumb element
+// summary: Polymer custom element that computes and renders breadcrumb navigation for the VC Background UI, handling SeaPen template selection, keyboard navigation, and metrics logging.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';

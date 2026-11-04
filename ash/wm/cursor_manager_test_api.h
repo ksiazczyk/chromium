@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cursor manager test API declaration
+// summary: Declares a test helper class for inspecting cursor manager state such as the current cursor rotation.
+// ---
+
 #ifndef ASH_WM_CURSOR_MANAGER_TEST_API_H_
 #define ASH_WM_CURSOR_MANAGER_TEST_API_H_
 

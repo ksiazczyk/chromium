@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped window tucker implementation
+// summary: Implements the tuck handle view and animations that slide floated windows offscreen and untuck them again, with gesture and event handling.
+// ---
+
 #include "ash/wm/scoped_window_tucker.h"
 
 #include "ash/app_list/app_list_controller_impl.h"

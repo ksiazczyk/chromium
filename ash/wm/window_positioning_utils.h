@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window positioning utilities header
+// summary: Declares constants and functions for adjusting window bounds, guaranteeing minimum visibility, and computing snapped window bounds and snap display orientation.
+// ---
+
 #ifndef ASH_WM_WINDOW_POSITIONING_UTILS_H_
 #define ASH_WM_WINDOW_POSITIONING_UTILS_H_
 

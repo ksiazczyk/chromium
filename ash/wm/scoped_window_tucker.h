@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWindowTucker header
+// summary: Declares ScopedWindowTucker, a scoped class that tucks floated or PiP windows offscreen and owns a tuck handle widget that brings the hidden window back onscreen.
+// ---
+
 #ifndef ASH_WM_SCOPED_WINDOW_TUCKER_H_
 #define ASH_WM_SCOPED_WINDOW_TUCKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status area internals page handler declaration
+// summary: Declares the WebUI message handler for the status area internals page, exposing tray toggles, privacy indicators, and battery state controls.
+// ---
+
 #ifndef ASH_WEBUI_STATUS_AREA_INTERNALS_STATUS_AREA_INTERNALS_HANDLER_H_
 #define ASH_WEBUI_STATUS_AREA_INTERNALS_STATUS_AREA_INTERNALS_HANDLER_H_
 

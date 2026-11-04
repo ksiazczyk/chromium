@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root window layout manager declaration
+// summary: Declares a layout manager that keeps its registered child container windows sized to the associated root window.
+// ---
+
 #ifndef ASH_WM_ROOT_WINDOW_LAYOUT_MANAGER_H_
 #define ASH_WM_ROOT_WINDOW_LAYOUT_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window mini view header view implementation
+// summary: Implements the header view for window mini views, laying out the window icon, title label, and separator with rounded corners and theming.
+// ---
+
 #include "ash/wm/window_mini_view_header_view.h"
 
 #include "ash/style/ash_color_id.h"

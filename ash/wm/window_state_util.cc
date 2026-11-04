@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window state utility functions
+// summary: Implements helpers used by WindowState state handlers to toggle fullscreen and maximize or restore windows, with bounce animations when disallowed.
+// ---
+
 #include "ash/wm/window_state_util.h"
 
 #include "ash/public/cpp/window_animation_types.h"

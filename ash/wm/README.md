@@ -1,3 +1,12 @@
+---
+type: readme
+title: Window Manager
+summary: Overview of the ash window manager, describing notable classes like MruWindowTracker and WindowState and features such as desks, float, overview, splitview and tablet mode.
+relations:
+  - documents /ash/wm/mru_window_tracker.h
+  - documents /ash/wm/window_state.h
+---
+
 # Window Manager
 
 ## Overview

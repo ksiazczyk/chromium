@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Coral controller unit tests
+// summary: Unit tests covering coral controller grouping behavior together with birch coral chips and overview UI integration.
+// ---
+
 #include "ash/wm/coral/coral_controller.h"
 
 #include <algorithm>

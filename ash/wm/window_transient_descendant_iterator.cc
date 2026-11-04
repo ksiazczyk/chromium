@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transient descendant iterator implementation
+// summary: Implements preorder traversal iterators over a window and its transient descendants, optionally skipping windows matching a predicate.
+// ---
+
 #include "ash/wm/window_transient_descendant_iterator.h"
 
 #include <algorithm>

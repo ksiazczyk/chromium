@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window manager constants
+// summary: Defines exported constants for WindowMiniView corner radius, header height and focus ring insets used by snap group UI.
+// ---
+
 #ifndef ASH_WM_WM_CONSTANTS_H_
 #define ASH_WM_WM_CONSTANTS_H_
 

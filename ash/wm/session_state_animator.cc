@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionStateAnimator implementation
+// summary: Implements session state animation helpers, defining lock screen container masks and animation durations for shutdown, revert, and window move effects.
+// ---
+
 #include "ash/wm/session_state_animator.h"
 
 #include <utility>

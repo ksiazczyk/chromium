@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collision detection utils unit tests
+// summary: Unit tests verifying resting positions, movement areas, and obstacle avoidance behavior of CollisionDetectionUtils across displays and system UI elements.
+// ---
+
 #include "ash/wm/collision_detection/collision_detection_utils.h"
 
 #include <memory>

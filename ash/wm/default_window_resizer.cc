@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default window resizer implementation
+// summary: Implements the default window resizer used by the toplevel window event handler to drag, move, and resize windows, recording resize presentation-time metrics.
+// ---
+
 #include "ash/wm/default_window_resizer.h"
 
 #include "ash/shell.h"

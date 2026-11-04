@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: System Apps build targets
+summary: GN build configuration that groups closure compilation and browser test targets for the system apps directory.

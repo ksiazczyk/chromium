@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client-controlled window state unit tests
+// summary: Unit tests for client-controlled window state, covering state and bounds requests, snapping, split view, float, and overview behavior.
+// ---
+
 #include "ash/wm/client_controlled_state.h"
 
 #include <queue>

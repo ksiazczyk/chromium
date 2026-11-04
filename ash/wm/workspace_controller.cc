@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkspaceController implementation
+// summary: Implements WorkspaceController, which installs the workspace layout manager on a desk container and reports window state such as maximized or fullscreen.
+// ---
+
 #include "ash/wm/workspace_controller.h"
 
 #include <utility>

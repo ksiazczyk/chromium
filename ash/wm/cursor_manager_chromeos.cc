@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS cursor manager implementation
+// summary: Implements ChromeOS cursor visibility, including the force-show-cursor switch and rules for hiding the cursor on key events.
+// ---
+
 #include "ash/wm/cursor_manager_chromeos.h"
 
 #include <utility>

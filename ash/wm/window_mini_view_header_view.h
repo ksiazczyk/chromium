@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window mini view header view class declaration
+// summary: Declares WindowMiniViewHeaderView, a box layout view showing the icon and title of a mini view's source window with a bottom separator.
+// ---
+
 #ifndef ASH_WM_WINDOW_MINI_VIEW_HEADER_VIEW_H_
 #define ASH_WM_WINDOW_MINI_VIEW_HEADER_VIEW_H_
 

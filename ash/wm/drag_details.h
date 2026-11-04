@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDetails struct declaration
+// summary: Declares the DragDetails struct holding initial state type, bounds, restore bounds, window component, and drag source information for window drag operations.
+// ---
+
 #ifndef ASH_WM_DRAG_DETAILS_H_
 #define ASH_WM_DRAG_DETAILS_H_
 

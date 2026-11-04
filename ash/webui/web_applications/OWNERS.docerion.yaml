@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for web_applications
+summary: Delegates code ownership to the chrome browser web applications and ChromeOS system web apps OWNERS files.

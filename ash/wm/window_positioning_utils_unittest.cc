@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window positioning utilities unit tests
+// summary: Unit tests for snapped window bounds with odd screen widths, minimum sizes, and unresizable snap properties on landscape and portrait displays.
+// ---
+
 #include "ash/wm/window_positioning_utils.h"
 
 #include "ash/public/cpp/window_properties.h"

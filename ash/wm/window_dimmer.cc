@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window dimmer implementation
+// summary: Implements WindowDimmer, which creates an optionally animated translucent overlay window stacked above windows to be dimmed.
+// ---
+
 #include "ash/wm/window_dimmer.h"
 
 #include "ash/root_window_controller.h"

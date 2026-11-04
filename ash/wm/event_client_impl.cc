@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventClientImpl implementation
+// summary: Implements the aura event client that restricts event processing to lock-screen and virtual keyboard containers while the user session is blocked.
+// ---
+
 #include "ash/wm/event_client_impl.h"
 
 #include "ash/keyboard/ui/keyboard_util.h"

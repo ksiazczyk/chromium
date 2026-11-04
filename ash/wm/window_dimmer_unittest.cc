@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window dimmer unit tests
+// summary: Unit tests verifying that a window underneath the dimmer is not reported as occluded and that the dimming window cannot be activated.
+// ---
+
 #include "ash/wm/window_dimmer.h"
 
 #include "ash/test/ash_test_base.h"

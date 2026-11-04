@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragWindowResizer class header
+// summary: Declares DragWindowResizer, a WindowResizer decorator that adds the ability to drag windows across displays and manages the drag window controller.
+// ---
+
 #ifndef ASH_WM_DRAG_WINDOW_RESIZER_H_
 #define ASH_WM_DRAG_WINDOW_RESIZER_H_
 

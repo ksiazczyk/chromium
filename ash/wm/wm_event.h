@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WMEvent types and classes
+// summary: Defines the WMEventType enum of window state operations such as maximize, snap, pin, and float, together with the WMEvent classes that drive window state changes.
+// ---
+
 #ifndef ASH_WM_WM_EVENT_H_
 #define ASH_WM_WM_EVENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy indicator app manager element
+// summary: Polymer element that manages the list of privacy indicator test apps shown in the management section of the test page.
+// ---
+
 import './privacy_indicator_app.js';
 
 import type {PolymerElementProperties} from 'chrome://resources/polymer/v3_0/polymer/interfaces.js';

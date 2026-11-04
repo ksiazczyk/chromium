@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Window manager code owners
+summary: Lists the code owners for the window manager directory, including per-file owners for layer tree synchronizer and cursor files.
