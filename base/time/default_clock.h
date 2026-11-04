@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultClock class
+// summary: Declares DefaultClock, the default Clock implementation that simply returns Time::Now().
+// ---
+
 #ifndef BASE_TIME_DEFAULT_CLOCK_H_
 #define BASE_TIME_DEFAULT_CLOCK_H_
 

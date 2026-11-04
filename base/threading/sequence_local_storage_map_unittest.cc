@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sequence local storage map unit tests
+// summary: Unit tests verifying set/get, destructor invocation and lifetime behavior of external and inline values stored in SequenceLocalStorageMap slots.
+// ---
+
 #include "base/threading/sequence_local_storage_map.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows ETW interceptor header
+// summary: Declares the ETWInterceptor class that emits Perfetto trace packets as ETW events through a TlmProvider on Windows.
+// ---
+
 // This file contains the Windows-specific exporting to ETW.
 #ifndef BASE_TRACE_EVENT_ETW_INTERCEPTOR_WIN_H_
 #define BASE_TRACE_EVENT_ETW_INTERCEPTOR_WIN_H_

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android application state tracing header
+// summary: Declares the application state to trace enum conversion and a macro that emits application state trace events on Android.
+// ---
+
 #ifndef BASE_TRACE_EVENT_APPLICATION_STATE_PROTO_ANDROID_H_
 #define BASE_TRACE_EVENT_APPLICATION_STATE_PROTO_ANDROID_H_
 

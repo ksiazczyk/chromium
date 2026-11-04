@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread local storage unit tests
+// summary: Unit tests covering TLS slot set and get semantics, destructor repetition behavior, and use of TLS during pthread key destruction on POSIX.
+// ---
+
 
 #include "base/threading/thread_local_storage.h"
 

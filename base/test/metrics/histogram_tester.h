@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistogramTester class interface
+// summary: Declares the HistogramTester utility for verifying that histogram and UMA data is logged as intended, with expectation methods for samples and counts.
+// ---
+
 #ifndef BASE_TEST_METRICS_HISTOGRAM_TESTER_H_
 #define BASE_TEST_METRICS_HISTOGRAM_TESTER_H_
 

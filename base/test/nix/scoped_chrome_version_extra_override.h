@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedChromeVersionExtraOverride header
+// summary: Declares ScopedChromeVersionExtraOverride, a POSIX (non-Mac) test helper for temporarily overriding the browser channel via the CHROME_VERSION_EXTRA environment variable.
+// ---
+
 #ifndef BASE_TEST_NIX_SCOPED_CHROME_VERSION_EXTRA_OVERRIDE_H_
 #define BASE_TEST_NIX_SCOPED_CHROME_VERSION_EXTRA_OVERRIDE_H_
 

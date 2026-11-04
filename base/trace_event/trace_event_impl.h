@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceEvent class declaration
+// summary: Declares the TraceEvent class holding timestamp, phase, category, and arguments, plus filter predicate typedefs and Perfetto test initialization hooks.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TRACE_EVENT_IMPL_H_
 #define BASE_TRACE_EVENT_TRACE_EVENT_IMPL_H_
 

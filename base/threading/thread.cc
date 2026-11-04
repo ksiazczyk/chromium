@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread implementation with message loop
+// summary: Implements base::Thread, which runs a sequence manager and message pump on a dedicated thread and handles startup, stopping and cleanup.
+// ---
+
 #include "base/threading/thread.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultTickClock implementation
+// summary: Implements DefaultTickClock, whose NowTicks() returns TimeTicks::Now(), with a shared instance.
+// ---
+
 #include "base/time/default_tick_clock.h"
 
 #include "base/no_destructor.h"

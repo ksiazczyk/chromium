@@ -1,0 +1,4 @@
+# Docerion header of platform_thread_metrics_apple.mm.
+type: source
+title: Apple implementation of thread CPU usage metrics
+summary: Implements PlatformThreadMetrics on Apple platforms, reading a thread's cumulative CPU time through Mach thread_info.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TracingEnvironment implementation
+// summary: Implements the TracingEnvironment scoped class that initializes and resets the in-process Perfetto tracing backend for unit tests.
+// ---
+
 #include "base/test/tracing/trace_test_utils.h"
 
 #include "base/check.h"

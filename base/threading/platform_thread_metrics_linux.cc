@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux implementation of thread CPU usage metrics
+// summary: Implements PlatformThreadMetrics on Linux by parsing utime and stime jiffies from the thread's /proc stat file.
+// ---
+
 #include "base/threading/platform_thread_metrics.h"
 
 #include <optional>

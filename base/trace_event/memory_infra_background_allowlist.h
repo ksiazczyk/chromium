@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory infra background allowlist header
+// summary: Declares functions that check dump provider and allocator dump names against the background mode allowlists, plus test-only allowlist replacement helpers.
+// ---
+
 #ifndef BASE_TRACE_EVENT_MEMORY_INFRA_BACKGROUND_ALLOWLIST_H_
 #define BASE_TRACE_EVENT_MEMORY_INFRA_BACKGROUND_ALLOWLIST_H_
 

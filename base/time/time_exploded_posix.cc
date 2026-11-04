@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX Time::Exploded implementation
+// summary: Implements Time::Exploded on POSIX platforms, converting times to calendar structures with platform-specific SysTime handling for Android, AIX and other POSIX systems.
+// ---
+
 #include <stdint.h>
 #include <sys/time.h>
 #include <time.h>

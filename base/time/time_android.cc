@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android TimeTicks conversions
+// summary: Converts Android uptimeMillis and Java nanoTime values to and from base::TimeTicks, relying on the shared CLOCK_MONOTONIC clock source.
+// ---
+
 #include "base/time/time.h"
 
 namespace base {

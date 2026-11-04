@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit test launcher API header
+// summary: Declares LaunchUnitTests entry points and the UnitTestPlatformDelegate interface for running unit tests serially or in parallel.
+// ---
+
 #ifndef BASE_TEST_LAUNCHER_UNIT_TEST_LAUNCHER_H_
 #define BASE_TEST_LAUNCHER_UNIT_TEST_LAUNCHER_H_
 

@@ -59,6 +59,12 @@
 // modern and preferred approach to mock time is to use TaskEnvironment's
 // MOCK_TIME mode.
 
+// ---docerion
+// type: source
+// title: Timer class declarations and usage docs
+// summary: Declares the base timer classes such as OneShotTimer, RepeatingTimer, DeadlineTimer, and MetronomeTimer, with usage examples, leeway, and threading guidance.
+// ---
+
 #ifndef BASE_TIMER_TIMER_H_
 #define BASE_TIMER_TIMER_H_
 

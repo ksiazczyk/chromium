@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace serialization traits for base types
+// summary: Provides perfetto TraceFormatTraits specializations so widely used base types such as scoped_refptr, WeakPtr, optional and raw_ptr can be written into traces.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TRACED_VALUE_SUPPORT_H_
 #define BASE_TRACE_EVENT_TRACED_VALUE_SUPPORT_H_
 

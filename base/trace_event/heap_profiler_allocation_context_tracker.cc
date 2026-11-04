@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocation context tracker implementation
+// summary: Implements the thread-local AllocationContextTracker, covering TLS lifecycle, capture mode handling and the stack of nested task contexts.
+// ---
+
 #include "base/trace_event/heap_profiler_allocation_context_tracker.h"
 
 #include <ostream>

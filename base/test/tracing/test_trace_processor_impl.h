@@ -5,6 +5,12 @@
 // TestTraceProcessorImpl encapsulates Perfetto's TraceProcessor. This is needed
 // to prevent symbol conflicts between libtrace_processor and libperfetto.
 
+// ---docerion
+// type: source
+// title: Perfetto trace processor wrapper interface
+// summary: Declares TestTraceProcessorImpl and QueryResultOrError, isolating Perfetto's TraceProcessor to avoid symbol and allocator conflicts.
+// ---
+
 #ifndef BASE_TEST_TRACING_TEST_TRACE_PROCESSOR_IMPL_H_
 #define BASE_TEST_TRACING_TEST_TRACE_PROCESSOR_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of PlatformThread
+// summary: Implements PlatformThread on Windows, including thread creation, naming via exceptions, priorities, and handle management.
+// ---
+
 #include "base/threading/platform_thread_win.h"
 
 #include <windows.h>

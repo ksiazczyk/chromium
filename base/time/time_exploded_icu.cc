@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU-based Time::Exploded implementation
+// summary: Implements Time::Exploded by converting millisecond timestamps into calendar fields with an ICU Gregorian calendar for local or GMT time zones.
+// ---
+
 #include <memory>
 
 #include "base/check.h"

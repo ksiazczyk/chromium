@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceArguments implementation
+// summary: Implements TraceArguments and TraceValue helpers that store and serialize trace macro arguments, including JSON and string output of argument values.
+// ---
+
 #include "base/trace_event/trace_arguments.h"
 
 #include <inttypes.h>

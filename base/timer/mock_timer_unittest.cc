@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock timer unit tests
+// summary: Unit tests covering mock timer firing once and repeatedly, stopping, FireNow, and that timers do not retain closures through weak pointers.
+// ---
+
 #include "base/timer/mock_timer.h"
 
 #include "base/functional/bind.h"

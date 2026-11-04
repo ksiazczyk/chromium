@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThreadChecker unit tests
+// summary: Unit tests verifying ThreadCheckerImpl binding rules across threads, task scopes, and sequence tokens, covering both allowed and disallowed cases.
+// ---
+
 #include "base/threading/thread_checker.h"
 
 #include <memory>

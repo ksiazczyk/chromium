@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace event analyzer implementation
+// summary: Parses JSON trace data into TraceEvent objects and provides matching and analysis over collected trace events for tests.
+// ---
+
 #include "base/test/tracing/trace_event_analyzer.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestResultsTracker class header
+// summary: Declares the TestResultsTracker class that collects per-test results and saves JSON summaries of test iterations for the base test launcher.
+// ---
+
 #ifndef BASE_TEST_LAUNCHER_TEST_RESULTS_TRACKER_H_
 #define BASE_TEST_LAUNCHER_TEST_RESULTS_TRACKER_H_
 

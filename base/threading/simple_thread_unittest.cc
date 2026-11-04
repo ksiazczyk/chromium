@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleThread unit tests
+// summary: Unit tests covering creation, start, join, delegate execution and thread pool coordination for SimpleThread.
+// ---
+
 #include "base/threading/simple_thread.h"
 
 #include <memory>

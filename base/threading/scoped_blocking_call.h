@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedBlockingCall API and usage rules
+// summary: Defines the ScopedBlockingCall annotation class and BlockingType enum, documenting how to mark blocking scopes for the scheduler and thread pool.
+// ---
+
 #ifndef BASE_THREADING_SCOPED_BLOCKING_CALL_H_
 #define BASE_THREADING_SCOPED_BLOCKING_CALL_H_
 

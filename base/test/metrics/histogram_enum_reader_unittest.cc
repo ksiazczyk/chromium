@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram enum reader unit tests
+// summary: Sanity tests that read the Boolean enum from enums.xml and confirm that an unknown enum name yields no result.
+// ---
+
 #include "base/test/metrics/histogram_enum_reader.h"
 
 #include <optional>

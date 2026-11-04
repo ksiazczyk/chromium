@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User action trace event implementation
+// summary: Emits an instant Perfetto trace event for a user action, recording the action name unless debug annotations are filtered.
+// ---
+
 #include "base/trace_event/user_action.h"
 
 #include "base/metrics/metrics_hashes.h"

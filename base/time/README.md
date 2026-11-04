@@ -1,3 +1,12 @@
+---
+type: readme
+title: '//base: Time-Related Functionality'
+summary: Explains the Time, TimeTicks and TimeDelta classes and the clock interfaces in base/time, including when each is appropriate.
+relations:
+  - documents /base/time/time.h
+  - references /base/test/task_environment.h
+---
+
 # //base: Time-Related Functionality
 
 This directory contains the portions of //base that deal with time-related

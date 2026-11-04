@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address space dump provider header
+// summary: Declares the AddressSpaceDumpProvider class that collects PartitionAlloc address space metrics as a memory dump provider.
+// ---
+
 #ifndef BASE_TRACE_EVENT_ADDRESS_SPACE_DUMP_PROVIDER_H_
 #define BASE_TRACE_EVENT_ADDRESS_SPACE_DUMP_PROVIDER_H_
 

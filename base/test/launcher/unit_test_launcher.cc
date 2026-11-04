@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit test launcher implementation
+// summary: Implements launching gtest unit tests in batches within separate processes, including command-line flag handling and usage help output.
+// ---
+
 #include "base/test/launcher/unit_test_launcher.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryDumpProviderInfo implementation
+// summary: Implements MemoryDumpProviderInfo, a reference-counted record of a dump provider with its task runner, options, and ordering for dump scheduling.
+// ---
+
 #include "base/trace_event/memory_dump_provider_info.h"
 
 #include <tuple>

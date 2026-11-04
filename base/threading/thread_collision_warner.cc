@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadCollisionWarner implementation
+// summary: Implements ThreadCollisionWarner enter, leave, and self-enter logic that detects concurrent access by multiple threads and triggers the configured asserter.
+// ---
+
 #include "base/threading/thread_collision_warner.h"
 
 #include <atomic>

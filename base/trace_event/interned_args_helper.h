@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perfetto interned argument helper declarations
+// summary: Declares interned data index types for Perfetto tracing, including trace source locations, unsymbolized source locations, log messages and mappings.
+// ---
+
 #ifndef BASE_TRACE_EVENT_INTERNED_ARGS_HELPER_H_
 #define BASE_TRACE_EVENT_INTERNED_ARGS_HELPER_H_
 

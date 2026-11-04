@@ -37,6 +37,12 @@
 //   // The SimpleThread object is still valid, however you may not call Join
 //   // or Start again.
 
+// ---docerion
+// type: source
+// title: SimpleThread native thread interface
+// summary: Declares SimpleThread, DelegateSimpleThread and DelegateSimpleThreadPool for running delegates on native OS threads without a message loop.
+// ---
+
 #ifndef BASE_THREADING_SIMPLE_THREAD_H_
 #define BASE_THREADING_SIMPLE_THREAD_H_
 

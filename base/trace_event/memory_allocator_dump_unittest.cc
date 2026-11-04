@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MemoryAllocatorDump unit tests
+// summary: Unit tests for MemoryAllocatorDump covering GUID generation, scalar and string entries, and dumps produced through a fake memory dump provider.
+// ---
+
 #include "base/trace_event/memory_allocator_dump.h"
 
 #include <stdint.h>

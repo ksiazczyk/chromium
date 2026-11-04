@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX time clock implementations
+// summary: Implements Time::Now, TimeTicks and related clocks on POSIX platforms other than Fuchsia and Mac using gettimeofday and clock_gettime.
+// ---
+
 #include <stdint.h>
 #include <sys/time.h>
 #include <time.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test launcher test utilities header
+// summary: Declares helper functions for validating test launcher JSON output, test results and test locations in launcher unit tests.
+// ---
+
 #ifndef BASE_TEST_LAUNCHER_TEST_LAUNCHER_TEST_UTILS_H_
 #define BASE_TEST_LAUNCHER_TEST_LAUNCHER_TEST_UTILS_H_
 

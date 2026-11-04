@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace event implementation with Perfetto backend
+// summary: Implements the TraceEvent class, Perfetto static category storage, timestamp conversion, and in-process Perfetto backend initialization.
+// ---
+
 #include "base/trace_event/trace_event_impl.h"
 
 #include "base/process/process_handle.h"

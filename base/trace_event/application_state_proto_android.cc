@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android application state trace enum conversion
+// summary: Maps Android application states to their Perfetto ChromeApplicationStateInfo trace enum values.
+// ---
+
 #include "base/trace_event/application_state_proto_android.h"
 
 namespace base {

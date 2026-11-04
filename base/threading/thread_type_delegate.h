@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadTypeDelegate interface
+// summary: Interface for intercepting thread type changes so thread properties can be adjusted via another process when sandbox restrictions prevent direct changes.
+// ---
+
 #ifndef BASE_THREADING_THREAD_TYPE_DELEGATE_H_
 #define BASE_THREADING_THREAD_TYPE_DELEGATE_H_
 

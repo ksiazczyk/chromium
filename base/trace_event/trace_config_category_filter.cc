@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceConfigCategoryFilter implementation
+// summary: Implements TraceConfigCategoryFilter, which parses and evaluates included, excluded and disabled trace categories for a trace config.
+// ---
+
 #include "base/trace_event/trace_config_category_filter.h"
 
 #include <string_view>

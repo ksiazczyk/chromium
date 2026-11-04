@@ -15,6 +15,12 @@
 // a second thread, and their methods call (Arm() and Disarm()) return very
 // quickly.
 
+// ---docerion
+// type: source
+// title: Watchdog class
+// summary: Declares a watchdog thread that alarms after a configured duration unless disarmed, typically used under a debugger to inspect other threads.
+// ---
+
 #ifndef BASE_THREADING_WATCHDOG_H_
 #define BASE_THREADING_WATCHDOG_H_
 

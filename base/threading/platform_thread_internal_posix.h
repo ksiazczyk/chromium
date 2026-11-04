@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX internal platform thread helper declarations
+// summary: Declares internal POSIX platform thread helpers, including thread type to nice value mappings and the platform-specific SetThreadType selection for Linux and ChromeOS.
+// ---
+
 #ifndef BASE_THREADING_PLATFORM_THREAD_INTERNAL_POSIX_H_
 #define BASE_THREADING_PLATFORM_THREAD_INTERNAL_POSIX_H_
 

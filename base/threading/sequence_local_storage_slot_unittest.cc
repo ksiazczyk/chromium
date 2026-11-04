@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SequenceLocalStorageSlot unit tests
+// summary: Typed unit tests verifying emplace, retrieval, overwriting, move-only types and default construction for sequence-local storage slots.
+// ---
+
 #include "base/threading/sequence_local_storage_slot.h"
 
 #include <array>

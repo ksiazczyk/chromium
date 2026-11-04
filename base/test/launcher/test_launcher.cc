@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test launcher implementation
+// summary: Implements the base test launcher that runs GTest binaries as child processes, handling sharding, batching, timeouts, retries and result collection.
+// ---
+
 #include "base/test/launcher/test_launcher.h"
 
 #include <stdio.h>

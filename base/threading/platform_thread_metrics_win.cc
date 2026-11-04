@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of thread CPU usage metrics
+// summary: Implements PlatformThreadMetrics on Windows using GetThreadTimes or QueryThreadCycleTime with TSC-based fallbacks.
+// ---
+
 #include "base/threading/platform_thread_metrics.h"
 
 #include <windows.h>

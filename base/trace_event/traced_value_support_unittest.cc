@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Traced value support unit tests
+// summary: Unit tests verifying that scoped_refptr, optional, weak pointers, time types, tokens, and various string types serialize correctly into Perfetto traced values.
+// ---
+
 #include "base/trace_event/traced_value_support.h"
 
 #include <optional>

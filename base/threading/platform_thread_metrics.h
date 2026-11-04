@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform thread metrics class declarations
+// summary: Declares the PlatformThreadMetrics class for logging per-thread CPU usage metrics, with platform-specific creation from thread IDs or handles.
+// ---
+
 #ifndef BASE_THREADING_PLATFORM_THREAD_METRICS_H_
 #define BASE_THREADING_PLATFORM_THREAD_METRICS_H_
 

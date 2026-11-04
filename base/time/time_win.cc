@@ -31,6 +31,12 @@
 // will only increase the system-wide timer if we're not running on battery
 // power.
 
+// ---docerion
+// type: source
+// title: Windows time clock implementations
+// summary: Implements Time, TimeTicks and ThreadTicks on Windows using FILETIME, QueryPerformanceCounter and timeGetTime, including high-resolution timer power management.
+// ---
+
 #include "base/time/time.h"
 
 #include <windows.h>

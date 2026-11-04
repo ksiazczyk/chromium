@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log message trace format header
+// summary: Declares LogMessage, a ConvertableToTraceFormat wrapper that carries a file, line number, and message into trace events.
+// ---
+
 #ifndef BASE_TRACE_EVENT_LOG_MESSAGE_H_
 #define BASE_TRACE_EVENT_LOG_MESSAGE_H_
 

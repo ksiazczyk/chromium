@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Threading feature flags
+// summary: Declares base feature flags and parameters for HangWatcher enablement and logging, plus macOS realtime threading options.
+// ---
+
 #ifndef BASE_THREADING_THREADING_FEATURES_H_
 #define BASE_THREADING_THREADING_FEATURES_H_
 

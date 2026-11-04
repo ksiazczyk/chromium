@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clock interface
+// summary: Defines the abstract base::Clock interface that vends Times so classes can be tested with respect to time.
+// ---
+
 #ifndef BASE_TIME_CLOCK_H_
 #define BASE_TIME_CLOCK_H_
 

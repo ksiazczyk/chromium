@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for trace session observers
+// summary: Tests TraceSessionObserverList registration, compile-time override detection and notification of start-only, incremental-state and combined observers.
+// ---
+
 #include "base/trace_event/trace_session_observer.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia time clock implementations
+// summary: Implements Time, TimeTicks, RealTicks and ThreadTicks clocks for Fuchsia using Zircon clocks and provides conversions to and from Zircon time types.
+// ---
+
 #include "base/time/time.h"
 
 #include <threads.h>

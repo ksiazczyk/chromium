@@ -1,0 +1,4 @@
+# Docerion header of time_apple_unittest.mm.
+type: test
+title: Unit tests for Apple time conversions
+summary: Tests NSDate round trips and MachTimeToMicroseconds conversion for Intel, M1 and edge-case timebases, including overflow detection.

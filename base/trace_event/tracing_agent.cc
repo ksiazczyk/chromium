@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingAgent base implementation
+// summary: Implements default behavior of the TracingAgent interface, including clock sync support and marker recording.
+// ---
+
 #include "base/trace_event/tracing_agent.h"
 
 namespace base::trace_event {

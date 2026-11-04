@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for HighResolutionTimerManager
+// summary: Windows-only unit tests verifying that the high-resolution clock toggles with battery power events and can be disabled via a command-line switch.
+// ---
+
 #include "base/timer/hi_res_timer_manager.h"
 
 #include <memory>

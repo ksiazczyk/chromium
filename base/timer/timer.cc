@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timer base implementation
+// summary: Implements the shared TimerBase and DelayTimerBase logic for scheduling, cancelling, and running delayed callback tasks on a sequenced task runner.
+// ---
+
 #include "base/timer/timer.h"
 
 #include <stddef.h>

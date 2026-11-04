@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory infra background allowlist definitions
+// summary: Defines the fixed sets of dump provider and allocator dump names permitted in background tracing mode to limit overhead and keep sensitive information out of traces.
+// ---
+
 #include "base/trace_event/memory_infra_background_allowlist.h"
 
 #include <string.h>

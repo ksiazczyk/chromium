@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for base/timer
+summary: Lists per-file owners for the wall_clock_timer sources in the base/timer directory.

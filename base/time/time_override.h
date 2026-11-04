@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTimeClockOverrides API for overriding time clocks
+// summary: Declares ScopedTimeClockOverrides and the NowIgnoringOverride functions that let tests emulate time while still accessing the platform default clocks.
+// ---
+
 #ifndef BASE_TIME_TIME_OVERRIDE_H_
 #define BASE_TIME_TIME_OVERRIDE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TracingEnvironment test header
+// summary: Declares the TracingEnvironment scoped class that sets up and tears down in-process tracing support for unit tests.
+// ---
+
 #ifndef BASE_TEST_TRACING_TRACE_TEST_UTILS_H_
 #define BASE_TEST_TRACING_TRACE_TEST_UTILS_H_
 

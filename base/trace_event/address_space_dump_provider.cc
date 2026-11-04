@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address space dump provider implementation
+// summary: Implements a memory dump provider that reports PartitionAlloc address space pool usage and reservation stats into process memory dumps.
+// ---
+
 #include "base/trace_event/address_space_dump_provider.h"
 
 #include "base/no_destructor.h"

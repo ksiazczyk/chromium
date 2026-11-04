@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace ID helper implementation
+// summary: Implements GetNextGlobalTraceId, combining a per-process random value with an atomic counter to produce globally unique trace IDs.
+// ---
+
 #include "base/trace_event/trace_id_helper.h"
 
 #include "base/atomic_sequence_num.h"

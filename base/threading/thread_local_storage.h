@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread local storage API
+// summary: Declares the ThreadLocalStorage wrapper and the low-level PlatformThreadLocalStorage abstraction used to allocate OS TLS slots and run destructors on thread exit.
+// ---
+
 #ifndef BASE_THREADING_THREAD_LOCAL_STORAGE_H_
 #define BASE_THREADING_THREAD_LOCAL_STORAGE_H_
 

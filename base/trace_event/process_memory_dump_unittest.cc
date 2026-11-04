@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProcessMemoryDump unit tests
+// summary: Unit tests covering ProcessMemoryDump move semantics, allocator dumps, ownership edges, serialization and resident byte counting across platforms.
+// ---
+
 #include "base/trace_event/process_memory_dump.h"
 
 #include <stddef.h>

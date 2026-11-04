@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram variants reader header
+// summary: Declares ReadVariantsFromHistogramsXml, which returns a name-to-summary map of histogram variants for test verification.
+// ---
+
 #ifndef BASE_TEST_METRICS_HISTOGRAM_VARIANTS_READER_H_
 #define BASE_TEST_METRICS_HISTOGRAM_VARIANTS_READER_H_
 

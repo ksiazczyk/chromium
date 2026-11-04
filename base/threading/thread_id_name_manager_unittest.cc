@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThreadIdNameManager unit tests
+// summary: Unit tests verifying thread registration, name lookup, name interning, restart handling, and removal behavior of ThreadIdNameManager.
+// ---
+
 #include "base/threading/thread_id_name_manager.h"
 
 #include "base/threading/platform_thread.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typed macros embedder support
+// summary: Declares TrackEventHandle and TracePacketHandle with completion listeners plus function hooks that embedders use to intercept typed trace events.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TYPED_MACROS_EMBEDDER_SUPPORT_H_
 #define BASE_TRACE_EVENT_TYPED_MACROS_EMBEDDER_SUPPORT_H_
 

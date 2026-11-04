@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typed trace event macros header
+// summary: Convenience header that includes the dependencies needed by users of the typed TRACE_EVENT macros, such as Perfetto event context and protos.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TYPED_MACROS_H_
 #define BASE_TRACE_EVENT_TYPED_MACROS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of time_apple.mm.
+type: source
+title: Apple time implementation using Mach timebase
+summary: Implements Apple-platform clock routines that convert Mach absolute, continuous and thread times into microseconds for the base time classes.

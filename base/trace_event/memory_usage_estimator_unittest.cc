@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for memory usage estimator
+// summary: Unit tests verifying EstimateMemoryUsage results for strings, arrays, unique pointers, vectors, lists and other containers across 32- and 64-bit builds.
+// ---
+
 #include "base/trace_event/memory_usage_estimator.h"
 
 #include <stdlib.h>

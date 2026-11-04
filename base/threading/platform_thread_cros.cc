@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS platform thread scheduling implementation
+// summary: ChromeOS-specific platform thread code layered on the Linux implementation, applying scheduler attributes and utilization clamps via sched_setattr to control thread priority.
+// ---
+
 #include <sys/resource.h>
 
 #include <type_traits>

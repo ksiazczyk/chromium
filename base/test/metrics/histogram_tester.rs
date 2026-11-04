@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistogramTester Rust bindings
+// summary: CXX bridge that exposes the C++ HistogramTester test utility to Rust for asserting histogram samples in Rust unit tests.
+// ---
+
 #[cxx::bridge(namespace = "base::test::rust")]
 mod ffi {
     unsafe extern "C++" {

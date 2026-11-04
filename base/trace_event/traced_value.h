@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracedValue declaration
+// summary: Declares TracedValue, a ConvertableToTraceFormat builder for trace values with setters, appenders and scoped array and dictionary helpers.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TRACED_VALUE_H_
 #define BASE_TRACE_EVENT_TRACED_VALUE_H_
 

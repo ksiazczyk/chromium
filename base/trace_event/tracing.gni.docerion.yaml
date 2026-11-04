@@ -1,0 +1,4 @@
+# Docerion header of tracing.gni.
+type: config
+title: Tracing build configuration
+summary: GN build arguments that control extended tracing and the inclusion of optional trace event macros in the build.

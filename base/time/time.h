@@ -59,6 +59,12 @@
 // `TimeTicks` and `ThreadTicks` do not have a stable origin; serialization for
 // the purpose of persistence is not supported.
 
+// ---docerion
+// type: source
+// title: Time, TimeDelta, TimeTicks and ThreadTicks class declarations
+// summary: Declares Chromium's core time classes with detailed usage guidance for wall-clock, monotonic and per-thread tick measurements and serialization.
+// ---
+
 #ifndef BASE_TIME_TIME_H_
 #define BASE_TIME_TIME_H_
 

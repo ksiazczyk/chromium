@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watchdog implementation
+// summary: Implements the Watchdog timer thread that alarms when a set duration expires without being disarmed, adjusting for debugger break delays.
+// ---
+
 #include "base/threading/watchdog.h"
 
 #include "base/compiler_specific.h"

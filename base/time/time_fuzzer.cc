@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for Time string and Exploded conversions
+// summary: LibFuzzer entry point that exercises Time string parsing and Exploded conversions with fuzzed data under a fixed time zone to find conversion bugs.
+// ---
+
 #include "base/time/time.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TracedValue unit tests
+// summary: Unit tests checking that TracedValue produces correct JSON trace output for arrays, dictionaries, strings, pointers, and scoped container construction.
+// ---
+
 #include "base/trace_event/traced_value.h"
 
 #include <cstddef>

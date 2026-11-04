@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the TlmProvider ETW provider
+// summary: Tests TlmProvider construction, registration, enablement checks and event writing with MBCS, UTF-8, integer and unsigned field types.
+// ---
+
 #include "base/trace_event/trace_logging_minimal_win.h"
 
 #include <gtest/gtest.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadCheckerImpl header
+// summary: Declares ThreadCheckerImpl, the debug-mode implementation of ThreadChecker that checks calls occur on the bound thread, task token, or sequence token.
+// ---
+
 #ifndef BASE_THREADING_THREAD_CHECKER_IMPL_H_
 #define BASE_THREADING_THREAD_CHECKER_IMPL_H_
 

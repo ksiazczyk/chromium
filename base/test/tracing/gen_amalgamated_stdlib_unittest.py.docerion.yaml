@@ -1,0 +1,4 @@
+# Docerion header of gen_amalgamated_stdlib_unittest.py.
+type: test
+title: Unit tests for the amalgamated stdlib generator
+summary: Tests gen_amalgamated_stdlib's filename-to-variable conversion and C++ SQL stdlib output generation using pyfakefs.

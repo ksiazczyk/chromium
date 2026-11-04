@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base tracing forward declaration wrapper
+// summary: Wraps Perfetto's traced value forward declarations behind Chromium's ENABLE_BASE_TRACING buildflag.
+// ---
+
 #ifndef BASE_TRACE_EVENT_BASE_TRACING_FORWARD_H_
 #define BASE_TRACE_EVENT_BASE_TRACING_FORWARD_H_
 

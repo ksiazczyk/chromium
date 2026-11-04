@@ -1,0 +1,4 @@
+# Docerion header of test_trace_processor_impl.plist.
+type: config
+title: Bundle property list for test_trace_processor_impl
+summary: macOS framework bundle metadata for the test trace processor library, defining version, identifier, and executable keys.

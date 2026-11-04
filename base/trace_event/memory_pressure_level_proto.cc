@@ -7,6 +7,12 @@
 // The app will try to discard buffers that aren't deemed essential (individual
 // modules will implement their own policy).
 
+// ---docerion
+// type: source
+// title: Memory pressure level to trace proto conversion
+// summary: Converts base memory pressure levels into the corresponding perfetto trace proto enum values for Chrome track events.
+// ---
+
 #include "base/trace_event/memory_pressure_level_proto.h"
 
 #include "base/tracing/protos/chrome_track_event.pbzero.h"  // nogncheck

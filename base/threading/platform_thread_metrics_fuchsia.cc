@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia implementation of thread CPU usage metrics
+// summary: Implements PlatformThreadMetrics on Fuchsia, fetching a thread's cumulative CPU time via Zircon ZX_INFO_TASK_RUNTIME info.
+// ---
+
 #include "base/threading/platform_thread_metrics.h"
 
 #include <lib/zx/object.h>

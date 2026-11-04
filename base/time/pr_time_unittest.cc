@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PRTime time string parsing tests
+// summary: Unit tests for the PR_ParseTimeString helper, checking that various time string formats parse to known reference times.
+// ---
+
 #include <stdint.h>
 #include <time.h>
 

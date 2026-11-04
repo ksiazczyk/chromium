@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimeDeltaFromString unit tests
+// summary: Unit tests verifying parsing of time delta strings, covering units, fractions, overflow, infinity and invalid input forms for TimeDeltaFromString.
+// ---
+
 #include "base/time/time_delta_from_string.h"
 
 #include "base/time/time.h"

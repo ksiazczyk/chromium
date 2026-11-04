@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistogramTester Rust shim header
+// summary: Declares the HistogramTesterRs shim class and factory used to drive base::HistogramTester from Rust tests via CXX.
+// ---
+
 #ifndef BASE_TEST_METRICS_HISTOGRAM_TESTER_RUST_SHIM_H_
 #define BASE_TEST_METRICS_HISTOGRAM_TESTER_RUST_SHIM_H_
 

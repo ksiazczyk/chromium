@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace event macro implementation header
+// summary: Defines implementation details of the trace macros and legacy TRACE_EVENT_API entrypoints that add trace events to the platform tracing system.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TRACE_EVENT_H_
 #define BASE_TRACE_EVENT_TRACE_EVENT_H_
 

@@ -7,6 +7,12 @@
 // Instead, consider using a message-loop driven base::Thread, see
 // base/threading/thread.h.
 
+// ---docerion
+// type: source
+// title: PlatformThreadRef class declaration
+// summary: Declares PlatformThreadRef, a lightweight per-thread reference for thread checking and debugging with equality comparison.
+// ---
+
 #ifndef BASE_THREADING_PLATFORM_THREAD_REF_H_
 #define BASE_THREADING_PLATFORM_THREAD_REF_H_
 

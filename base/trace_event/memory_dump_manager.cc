@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryDumpManager implementation
+// summary: Implements the MemoryDumpManager singleton that coordinates registration of memory dump providers and creation of process memory dumps for tracing.
+// ---
+
 #include "base/trace_event/memory_dump_manager.h"
 
 #include <inttypes.h>

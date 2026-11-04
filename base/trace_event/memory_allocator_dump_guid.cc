@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryAllocatorDumpGuid implementation
+// summary: Implements MemoryAllocatorDumpGuid, hashing string identifiers with SHA-256 and converting the 64-bit GUID to a hex string.
+// ---
+
 #include "base/trace_event/memory_allocator_dump_guid.h"
 
 #include "base/containers/span.h"

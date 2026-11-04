@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HangWatcher implementation
+// summary: Implements the HangWatcher monitoring thread that inspects registered threads for hang deadline overruns and reports them through UMA histograms and crash logging.
+// ---
+
 #include "base/threading/hang_watcher.h"
 
 #include <algorithm>

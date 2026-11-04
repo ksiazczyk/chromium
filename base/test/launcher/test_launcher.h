@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test launcher class and delegate interface
+// summary: Declares the TestLauncher and TestLauncherDelegate interfaces for launching GTest child processes, including launch options and GTest command-line flags.
+// ---
+
 #ifndef BASE_TEST_LAUNCHER_TEST_LAUNCHER_H_
 #define BASE_TEST_LAUNCHER_TEST_LAUNCHER_H_
 

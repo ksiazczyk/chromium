@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: trace_event_common.h
+// summary: Chromium header defining common trace event macros, enabling legacy TRACE_EVENT macros via Perfetto and providing converters for base time types used as trace arguments.
+// ---
+
 #ifndef BASE_TRACE_EVENT_COMMON_TRACE_EVENT_COMMON_H_
 #define BASE_TRACE_EVENT_COMMON_TRACE_EVENT_COMMON_H_
 

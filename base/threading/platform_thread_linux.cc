@@ -4,6 +4,12 @@
 // Description: Linux specific functionality. Other Linux-derivatives layer on
 // top of this translation unit.
 
+// ---docerion
+// type: source
+// title: Linux platform thread implementation
+// summary: Implements Linux-specific platform thread functionality, including cgroup-based thread placement, nice value mappings, and real-time audio capability checks.
+// ---
+
 #include "base/threading/platform_thread.h"
 
 #include <errno.h>

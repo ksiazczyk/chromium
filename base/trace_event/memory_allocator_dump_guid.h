@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryAllocatorDumpGuid class declaration
+// summary: Declares the MemoryAllocatorDumpGuid class representing a 64-bit identifier for memory allocator dumps, with construction from strings and hex output.
+// ---
+
 #ifndef BASE_TRACE_EVENT_MEMORY_ALLOCATOR_DUMP_GUID_H_
 #define BASE_TRACE_EVENT_MEMORY_ALLOCATOR_DUMP_GUID_H_
 

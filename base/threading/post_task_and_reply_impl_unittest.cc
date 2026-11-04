@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PostTaskAndReply implementation unit tests
+// summary: Unit tests covering PostTaskAndReplyImpl callback deletion, weak pointer invalidation, and task runner failure and shutdown scenarios.
+// ---
+
 #include "base/threading/post_task_and_reply_impl.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of clean-up-not-fatal-until_unittest.py.
+type: test
+title: Unit tests for the clean-up-not-fatal-until script
+summary: Unittest suite verifying milestone removal, include cleanup and unreachable-code handling in the clean-up-not-fatal-until.py script.

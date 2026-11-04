@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WallClockTimer unit tests
+// summary: Unit tests for WallClockTimer using a fake power monitor and test clock to verify behavior across power suspension, resume, and repeated timer use.
+// ---
+
 #include "base/timer/wall_clock_timer.h"
 
 #include <memory>

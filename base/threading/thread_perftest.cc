@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread performance test base
+// summary: Base fixture for threading performance tests that measures wall-clock and CPU time per hop for tasks, waitable events and condition variables across thread counts.
+// ---
+
 #include "base/threading/thread.h"
 
 #include <stddef.h>

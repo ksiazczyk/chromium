@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Malloc dump provider implementation
+// summary: Implements the memory dump provider that reports process-wide malloc, PartitionAlloc, and platform heap statistics, including Windows heap walking.
+// ---
+
 #include "base/trace_event/malloc_dump_provider.h"
 
 #include <stddef.h>

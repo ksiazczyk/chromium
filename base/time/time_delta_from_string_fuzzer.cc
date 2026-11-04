@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for duration string parsing
+// summary: libFuzzer harness that feeds arbitrary byte input to TimeDeltaFromString to check the parser's robustness against malformed input.
+// ---
+
 #include "base/time/time_delta_from_string.h"
 
 #include <stdint.h>

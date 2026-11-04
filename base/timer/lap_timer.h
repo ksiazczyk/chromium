@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LapTimer class declaration
+// summary: Declares a performance-test helper that counts laps and computes per-lap averages and laps-per-second using thread ticks or wall time.
+// ---
+
 #ifndef BASE_TIMER_LAP_TIMER_H_
 #define BASE_TIMER_LAP_TIMER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome thread local storage implementation
+// summary: Implements Chrome's thread local storage system, which multiplexes many slots over a single OS TLS slot using per-thread arrays, per-process metadata, versioning and destructors.
+// ---
+
 #include "base/threading/thread_local_storage.h"
 
 #include <algorithm>

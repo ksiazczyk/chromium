@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX timespec and timeval conversions
+// summary: Converts between TimeDelta/Time and POSIX timespec/timeval structures with saturation and out-of-range handling.
+// ---
+
 #include <stdint.h>
 #include <sys/time.h>
 #include <time.h>

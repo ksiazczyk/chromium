@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceLog implementation
+// summary: Implements the TraceLog tracing core, bridging legacy trace events and debug annotations to Perfetto track events with optional JSON export.
+// ---
+
 #include "base/trace_event/trace_log.h"
 
 #include <cstddef>

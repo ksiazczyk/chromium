@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Example unit tests for TestTraceProcessor
+// summary: Demonstrates recording trace events and verifying SQL query results with TestTraceProcessor in unit tests.
+// ---
+
 #include "base/test/task_environment.h"
 #include "base/test/tracing/test_trace_processor.h"
 #include "base/test/tracing/trace_test_utils.h"

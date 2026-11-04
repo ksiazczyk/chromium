@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perfetto trace processor wrapper implementation
+// summary: Implements trace parsing, SQL query execution, and SQL package overrides on top of Perfetto's TraceProcessor.
+// ---
+
 #include "test_trace_processor_impl.h"
 
 #include <sstream>

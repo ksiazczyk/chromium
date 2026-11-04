@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram variants reader unit tests
+// summary: Unit test that checks the variants reader returns the expected entries from a test histograms.xml and fails for unknown names.
+// ---
+
 #include "base/test/metrics/histogram_variants_reader.h"
 
 #include <optional>

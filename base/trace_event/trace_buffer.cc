@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceResultBuffer implementation
+// summary: Implements TraceResultBuffer, which collects trace fragments from TraceLog and streams them as JSON output through a callback.
+// ---
+
 
 #include "base/trace_event/trace_buffer.h"
 

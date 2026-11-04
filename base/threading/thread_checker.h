@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadChecker thread-affinity macros
+// summary: Defines ThreadChecker and macros to verify methods run on a single thread, with active debug and no-op release implementations.
+// ---
+
 #ifndef BASE_THREADING_THREAD_CHECKER_H_
 #define BASE_THREADING_THREAD_CHECKER_H_
 

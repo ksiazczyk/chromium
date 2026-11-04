@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Tracing test directory owners
+summary: Points to the owners of base/trace_event as the approvers for this tracing test directory.

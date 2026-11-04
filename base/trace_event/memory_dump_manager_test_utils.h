@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory dump manager test utilities
+// summary: Provides helpers that initialize the MemoryDumpManager for in-process unit tests, short-circuiting global dump requests to CreateProcessDump.
+// ---
+
 #ifndef BASE_TRACE_EVENT_MEMORY_DUMP_MANAGER_TEST_UTILS_H_
 #define BASE_TRACE_EVENT_MEMORY_DUMP_MANAGER_TEST_UTILS_H_
 

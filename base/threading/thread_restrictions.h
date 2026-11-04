@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread restrictions for blocking calls and sync primitives
+// summary: Declares functions to disallow or allow blocking calls, base sync primitive waits, singleton access, and long CPU work on a per-thread basis.
+// ---
+
 #ifndef BASE_THREADING_THREAD_RESTRICTIONS_H_
 #define BASE_THREADING_THREAD_RESTRICTIONS_H_
 

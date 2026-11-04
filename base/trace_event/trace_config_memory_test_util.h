@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trace config memory test utilities
+// summary: Provides static helpers that build trace config JSON strings for memory dump trigger scenarios, used by tracing unit tests.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TRACE_CONFIG_MEMORY_TEST_UTIL_H_
 #define BASE_TRACE_EVENT_TRACE_CONFIG_MEMORY_TEST_UTIL_H_
 

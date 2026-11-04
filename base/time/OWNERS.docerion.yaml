@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for base/time
+summary: Lists the owners of the base/time directory in the Chromium repository.

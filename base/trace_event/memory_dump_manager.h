@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryDumpManager class declaration
+// summary: Declares the MemoryDumpManager interface for registering memory dump providers and requesting global and per-process memory dumps for memory-infra tracing.
+// ---
+
 #ifndef BASE_TRACE_EVENT_MEMORY_DUMP_MANAGER_H_
 #define BASE_TRACE_EVENT_MEMORY_DUMP_MANAGER_H_
 

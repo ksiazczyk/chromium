@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HangWatcher unit tests
+// summary: Tests HangWatcher behavior such as thread registration, hang detection inside WatchHangsInScope scopes, logging levels, and histogram output using test doubles.
+// ---
+
 #include "base/threading/hang_watcher.h"
 
 #include <memory>

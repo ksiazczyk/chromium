@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadChecker validation implementation
+// summary: Implements ScopedValidateThreadChecker, which asserts thread-affinity in debug builds and reports the stack trace where the checker was bound.
+// ---
+
 #include "base/threading/thread_checker.h"
 
 #if DCHECK_IS_ON()

@@ -1,3 +1,9 @@
+---
+type: readme
+title: HangWatcher
+summary: Documents the HangWatcher mechanism for detecting hangs in Chrome, covering the definition of a hang, the watcher thread design, and protections against non-actionable reports.
+---
+
 # HangWatcher
 
 HangWatcher is a mechanism for detecting hangs in Chrome, logging their

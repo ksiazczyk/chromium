@@ -1,0 +1,4 @@
+# Docerion header of platform_thread_apple.mm.
+type: source
+title: Platform thread implementation for Apple platforms
+summary: Implements PlatformThread for Apple platforms, including Foundation multithreading setup, thread naming and yielding, and feature flags for optimized real-time audio threading.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory allocator dump implementation
+// summary: Implements MemoryAllocatorDump, which stores scalar and string entries and serializes them to traced values and perfetto memory graph protos.
+// ---
+
 #include "base/trace_event/memory_allocator_dump.h"
 
 #include <string.h>

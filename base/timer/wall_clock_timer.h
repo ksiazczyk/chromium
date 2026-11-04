@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WallClockTimer class declaration
+// summary: Declares WallClockTimer, which schedules a one-shot task at a wall clock Time and handles suspend and resume so delays are not extended by system suspension.
+// ---
+
 #ifndef BASE_TIMER_WALL_CLOCK_TIMER_H_
 #define BASE_TIMER_WALL_CLOCK_TIMER_H_
 

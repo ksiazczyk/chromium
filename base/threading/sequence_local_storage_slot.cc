@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequence local storage slot number generator
+// summary: Implements generation of unique slot identifiers used by sequence-local storage slots in base::internal.
+// ---
+
 #include "base/threading/sequence_local_storage_slot.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX internal thread type and nice value helpers
+// summary: Implements POSIX helpers that map thread types to nice values and get or set thread priorities through getpriority and setpriority.
+// ---
+
 #include "base/threading/platform_thread_internal_posix.h"
 
 #include <errno.h>

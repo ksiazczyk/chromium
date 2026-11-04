@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadCheckerImpl implementation
+// summary: Implements ThreadCheckerImpl, verifying calls happen on the bound thread or task scope and optionally logging the stack where the checker was bound.
+// ---
+
 #include "base/threading/thread_checker_impl.h"
 
 #include "base/check.h"

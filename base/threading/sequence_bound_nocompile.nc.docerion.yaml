@@ -1,0 +1,4 @@
+# Docerion header of sequence_bound_nocompile.nc.
+type: test
+title: SequenceBound no-compile tests
+summary: No-compile test suite asserting that SequenceBound's AsyncCall API rejects invalid uses such as WithArgs on argument-less methods or Then before WithArgs.

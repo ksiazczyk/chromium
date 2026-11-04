@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LapTimer implementation
+// summary: Implements a lap timer for performance tests that supports warmup laps, a time limit and periodic time checks using thread ticks or wall time.
+// ---
+
 #include "base/timer/lap_timer.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log message trace format implementation
+// summary: Implements LogMessage serialization of a log's file, line number, and message into JSON trace event format.
+// ---
+
 #include "base/trace_event/log_message.h"
 
 #include <stdint.h>
