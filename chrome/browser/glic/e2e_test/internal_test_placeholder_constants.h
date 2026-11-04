@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Placeholder constants for disabled internal tests
+// summary: Supplies empty placeholder constants used in place of the internal test constants file when internal GLIC e2e tests are not enabled.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_E2E_TEST_INTERNAL_TEST_PLACEHOLDER_CONSTANTS_H_
 #define CHROME_BROWSER_GLIC_E2E_TEST_INTERNAL_TEST_PLACEHOLDER_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab underline view browser test
+// summary: Browser test verifying Glic tab underline animation behavior using a tester that controls timestamps and waits for animation events.
+// ---
+
 #include "chrome/browser/glic/browser_ui/tab_underline_view.h"
 
 #include "base/strings/strcat.h"

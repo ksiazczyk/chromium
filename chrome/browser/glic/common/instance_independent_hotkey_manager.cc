@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance-independent Glic hotkey manager implementation
+// summary: Implements app-wide Glic hotkey registration that updates with launcher, consent and feature state and dispatches commands to the instance coordinator.
+// ---
+
 #include "chrome/browser/glic/common/instance_independent_hotkey_manager.h"
 
 #include <array>

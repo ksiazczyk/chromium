@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Panel focus dependent hotkey manager header
+// summary: Declares PanelFocusDependentHotkeyManager, which registers hotkeys in the Glic panel view scope that trigger only when the panel has focus.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_COMMON_PANEL_FOCUS_DEPENDENT_HOTKEY_MANAGER_H_
 #define CHROME_BROWSER_GLIC_COMMON_PANEL_FOCUS_DEPENDENT_HOTKEY_MANAGER_H_
 

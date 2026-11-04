@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicKeyedServiceImpl unit tests
+// summary: Robolectric unit tests for GlicKeyedServiceImpl covering recently active instance unpacking, Glic shortcut state and feature-flag dependent behavior.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.junit.Assert.assertEquals;

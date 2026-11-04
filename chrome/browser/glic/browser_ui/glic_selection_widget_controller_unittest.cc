@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic selection widget controller unit tests
+// summary: Unit tests covering showing, dismissing, and blocking behavior of the Glic selection widget controller using mock delegates and services.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_selection_widget_controller.h"
 
 #include <memory>

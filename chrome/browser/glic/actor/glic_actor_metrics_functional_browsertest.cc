@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor metrics functional browser tests
+// summary: Browser tests verifying that Glic actor task creation and task ID mismatch outcomes are logged to the expected histograms.
+// ---
+
 #include "chrome/browser/actor/actor_metrics.h"
 #include "chrome/browser/enterprise/browser_management/management_service_factory.h"
 #include "chrome/browser/glic/actor/glic_actor_functional_browsertest.h"

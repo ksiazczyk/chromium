@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic warming checks implementation
+// summary: Implements eligibility checks for prewarming the Glic WebContents, covering profile readiness, admin policy, tabstrip pinning, device memory, and network connection type.
+// ---
+
 #include "chrome/browser/glic/glic_warming_checks.h"
 
 #include "base/byte_size.h"

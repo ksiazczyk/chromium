@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicTaskMenu render tests
+// summary: Render tests for the Glic task menu dropdown, parameterized for day and night modes.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;

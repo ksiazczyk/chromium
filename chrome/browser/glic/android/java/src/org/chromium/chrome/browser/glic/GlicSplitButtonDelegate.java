@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic split button delegate interface
+// summary: Java interface mirroring the C++ GlicSplitButtonDelegate for split button UI states, nudges, and actor task list bubbles.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import org.chromium.build.annotations.NullMarked;

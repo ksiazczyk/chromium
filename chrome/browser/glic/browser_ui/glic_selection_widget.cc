@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic selection widget view implementation
+// summary: Implements the bubble widget shown over selected text, including chips, buttons, icons, tooltips, and fade animations for the Ask Gemini affordance.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_selection_widget.h"
 
 #include <algorithm>

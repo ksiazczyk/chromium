@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic tab indicator helper interactive UI tests
+// summary: Interactive UI tests verifying tab alert indicators for Glic focus, sharing, and multitab underlines across browser instances.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_tab_indicator_helper.h"
 
 #include <optional>

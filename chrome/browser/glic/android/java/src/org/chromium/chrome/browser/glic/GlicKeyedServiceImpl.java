@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicKeyedServiceImpl JNI bridge
+// summary: Java implementation of GlicKeyedService that delegates UI toggling, invocation, tab sharing and other Glic operations to the native C++ class via JNI.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import androidx.annotation.VisibleForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor tab functional browser tests
+// summary: Parameterized browser tests verifying actor tab creation bound to a task and error handling when an invalid task ID is used.
+// ---
+
 #include "chrome/browser/glic/actor/glic_actor_functional_browsertest.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"
 #include "chrome/common/webui_url_constants.h"

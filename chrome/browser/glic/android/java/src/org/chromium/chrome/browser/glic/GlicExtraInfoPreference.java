@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicExtraInfoPreference
+// summary: Custom settings preference that displays the AI info box and applies a clickable span to its learn more link with accessibility adjustments.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.content.Context;

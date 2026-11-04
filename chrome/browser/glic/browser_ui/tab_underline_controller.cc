@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab underline controller implementation
+// summary: Implements the controller that shows Glic tab underlines based on signals like pinned tab sharing, focus changes, dictation and contextual tasks.
+// ---
+
 #include "chrome/browser/glic/browser_ui/tab_underline_controller.h"
 
 #include "base/debug/crash_logging.h"

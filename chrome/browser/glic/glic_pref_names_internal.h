@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal Glic preference names
+// summary: Defines internal Glic preference names for onboarding status, experimental triggering, and profile readiness.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_PREF_NAMES_INTERNAL_H_
 #define CHROME_BROWSER_GLIC_GLIC_PREF_NAMES_INTERNAL_H_
 

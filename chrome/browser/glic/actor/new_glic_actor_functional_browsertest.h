@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor functional browser test mixin
+// summary: Defines a browser test fixture mixin that enables Glic actor features and provides helpers for task state checks, completion subscriptions, and task ID extraction.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_ACTOR_NEW_GLIC_ACTOR_FUNCTIONAL_BROWSERTEST_H_
 #define CHROME_BROWSER_GLIC_ACTOR_NEW_GLIC_ACTOR_FUNCTIONAL_BROWSERTEST_H_
 

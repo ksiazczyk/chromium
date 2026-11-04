@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab restore data implementation
+// summary: Implements the GlicTabRestoreData WebContents user data holder and the move-only GlicRestoredState struct.
+// ---
+
 #include "chrome/browser/glic/glic_tab_restore_data.h"
 
 namespace glic {

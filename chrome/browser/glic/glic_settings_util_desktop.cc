@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop Glic settings utility implementation
+// summary: Desktop implementation that opens Glic settings pages, optionally showing feature promos and help bubbles for the OS toggle and keyboard shortcut settings.
+// ---
+
 #include <memory>
 #include <utility>
 

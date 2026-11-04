@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android Glic tab observer
+// summary: Unit tests verifying the Android tab observer fires creation, activation and mutation events through its callback for tab model changes.
+// ---
+
 #include "chrome/browser/glic/common/glic_tab_observer.h"
 
 #include <memory>

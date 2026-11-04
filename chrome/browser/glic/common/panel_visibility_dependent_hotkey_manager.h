@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Panel visibility dependent hotkey manager header
+// summary: Declares PanelVisibilityDependentHotkeyManager, which registers application-wide hotkeys handled by a specific Glic embedder panel.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_COMMON_PANEL_VISIBILITY_DEPENDENT_HOTKEY_MANAGER_H_
 #define CHROME_BROWSER_GLIC_COMMON_PANEL_VISIBILITY_DEPENDENT_HOTKEY_MANAGER_H_
 

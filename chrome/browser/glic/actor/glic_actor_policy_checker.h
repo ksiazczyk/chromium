@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic actor policy checker header
+// summary: Declares GlicActorPolicyChecker, the Glic implementation of the enterprise policy checker for act-on-web capability and renderer content validation.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_ACTOR_GLIC_ACTOR_POLICY_CHECKER_H_
 #define CHROME_BROWSER_GLIC_ACTOR_GLIC_ACTOR_POLICY_CHECKER_H_
 

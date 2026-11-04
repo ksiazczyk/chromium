@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic selection observer unit tests
+// summary: Unit tests for GlicSelectionObserver covering selection state updates, UI dismissal reasons, side panel state, and page context eligibility handling.
+// ---
+
 #include "chrome/browser/glic/glic_selection_observer.h"
 
 #include <string>

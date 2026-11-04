@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic split button delegate JNI bridge
+// summary: JNI bridge that dispatches native C++ Glic split button requests and UI events to the Java delegate.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import org.jni_zero.CalledByNative;

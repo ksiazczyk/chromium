@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic network log traffic annotation
+// summary: Defines the network traffic annotation for the Glic Web UI and provides a helper that logs a dummy network request carrying that annotation for verification.
+// ---
+
 #include "chrome/browser/glic/glic_net_log.h"
 
 #include "net/log/net_log_with_source.h"

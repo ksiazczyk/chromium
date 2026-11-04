@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic nudge controller factory
+// summary: Provides creation and lookup of the per-browser-window GlicNudgeController, with an Android fallback via GlicKeyedService.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_nudge_controller.h"
 
 #include "build/build_config.h"

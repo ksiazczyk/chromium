@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context sharing border view interactive UI tests
+// summary: Interactive UI tests covering the context-sharing border view across tab focus changes, window minimization, and split tab scenarios.
+// ---
+
 #include "chrome/browser/glic/browser_ui/context_sharing_border_view.h"
 
 #include <math.h>

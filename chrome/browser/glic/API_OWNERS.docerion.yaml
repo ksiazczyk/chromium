@@ -1,0 +1,4 @@
+# Docerion header of API_OWNERS.
+type: config
+title: Glic API owners for sensitive features
+summary: Lists the owners who must approve sensitive Glic API capabilities such as auto submit.

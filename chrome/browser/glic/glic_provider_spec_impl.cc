@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic provider spec implementations
+// summary: Implements Gemini and Gemini Enterprise provider specs and returns or creates the spec matching a profile's GEiC enablement state.
+// ---
+
 #include "chrome/browser/glic/glic_provider_spec_impl.h"
 
 #include <memory>

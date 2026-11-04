@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Glic tab observer
+// summary: Browser tests that collect Glic tab events with WeakPtr-based test structs and verify tab creation, activation and mutation reporting across platforms.
+// ---
+
 #include "chrome/browser/glic/common/glic_tab_observer.h"
 
 #include <ranges>

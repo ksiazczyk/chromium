@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic metrics unit tests
+// summary: Unit tests for GlicMetrics histogram, UKM, and user action recording using test profiles and mock status icons.
+// ---
+
 #include "chrome/browser/glic/glic_metrics.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicTaskMenuCoordinator
+// summary: Coordinates the shared task list drop-down menu for Glic buttons, presenting active background tasks in an anchored popup window.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.content.Context;

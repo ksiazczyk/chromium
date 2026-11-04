@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic user status interactive UI test
+// summary: Interactive UI test checking that the toolbar Glic button and the Glic settings page controls reflect the user's Glic status.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/enterprise/browser_management/management_service_factory.h"
 #include "chrome/browser/glic/glic_user_status_code.h"

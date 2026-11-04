@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the instance-independent hotkey manager
+// summary: Browser tests checking hotkey handling conditions such as locked fullscreen, incomplete FRE, and local-scope accelerators launching the Glic panel.
+// ---
+
 #include "chrome/browser/glic/common/instance_independent_hotkey_manager.h"
 
 #include <utility>

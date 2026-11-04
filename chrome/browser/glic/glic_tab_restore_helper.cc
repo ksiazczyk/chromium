@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab restore helper implementation
+// summary: Implements writing Glic bound instance, conversation, pinned instance and side panel state into tab extra data and restoring that state onto a restored WebContents.
+// ---
+
 #include "base/json/json_reader.h"
 #include "base/json/json_writer.h"
 #include "base/values.h"

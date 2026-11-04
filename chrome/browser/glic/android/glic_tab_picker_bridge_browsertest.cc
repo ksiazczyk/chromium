@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic tab picker bridge browser test
+// summary: Browser tests verifying that tab picker completion updates pinned tabs and that a null window or cancellation is handled gracefully.
+// ---
+
 #include "chrome/browser/glic/android/glic_tab_picker_bridge.h"
 
 #include <optional>

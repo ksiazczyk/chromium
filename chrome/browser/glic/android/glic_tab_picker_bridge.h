@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab picker bridge header
+// summary: Declares the static bridge for opening the Android tab picker and updating pinned tabs in the sharing manager.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_ANDROID_GLIC_TAB_PICKER_BRIDGE_H_
 #define CHROME_BROWSER_GLIC_ANDROID_GLIC_TAB_PICKER_BRIDGE_H_
 

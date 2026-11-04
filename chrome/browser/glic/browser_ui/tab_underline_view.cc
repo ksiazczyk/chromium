@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab underline view implementation
+// summary: Implements the animated view that draws the Glic tab underline effect, including sizing constants and active tab change handling.
+// ---
+
 #include "chrome/browser/glic/browser_ui/tab_underline_view.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicBottomSheetComponentProvider
+// summary: Concrete CoBrowseComponentProvider implementation for Glic that supplies bottom sheet components such as placeholder and content coordinators and handles agent task termination.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.content.Context;

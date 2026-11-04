@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Experimental opt-in dialog close button layout
+summary: Layout for a close button overlaid on the experimental opt-in dialog's web contents, avoiding a visible background strip above it.
+-->
+
 <!--
 Close button overlaid on top of the experimental opt-in dialog's web contents.
 It is deliberately not the shared ModalDialogProperties.TITLE_CLOSE_BUTTON: that

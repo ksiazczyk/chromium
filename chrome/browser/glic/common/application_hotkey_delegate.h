@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application-wide hotkey registration delegate interface
+// summary: Declares ApplicationScopedRegistrationDelegate, a LocalHotkeyManager registration delegate that keeps hotkeys active across every browser window for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_COMMON_APPLICATION_HOTKEY_DELEGATE_H_
 #define CHROME_BROWSER_GLIC_COMMON_APPLICATION_HOTKEY_DELEGATE_H_
 

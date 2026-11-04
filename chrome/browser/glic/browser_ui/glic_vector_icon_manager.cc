@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic vector icon manager implementation
+// summary: Implements loading Glic vector icons from resources, caching the parsed path data so vended gfx::VectorIcon references stay valid.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_vector_icon_manager.h"
 
 #include <vector>

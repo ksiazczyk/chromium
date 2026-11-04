@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorTaskListBubbleController unit tests
+// summary: Unit tests for ActorTaskListBubbleController covering task row prioritization, bubble display and state updates using mock dependencies.
+// ---
+
 #include "chrome/browser/glic/browser_ui/activity_list_bubble/glic_activity_list_bubble_controller.h"
 
 #include <memory>

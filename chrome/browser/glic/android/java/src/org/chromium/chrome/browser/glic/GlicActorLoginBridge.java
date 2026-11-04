@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic actor login JNI bridge
+// summary: Bridge between Java and native C++ for listing and revoking Glic actor login permissions for a profile.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab underline controller header
+// summary: Declares TabUnderlineController, which tracks underline sources such as Glic sharing, contextual tasks and dictation and drives the underline UI delegate.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_TAB_UNDERLINE_CONTROLLER_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_TAB_UNDERLINE_CONTROLLER_H_
 

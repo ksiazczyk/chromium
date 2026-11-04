@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab indicator helper implementation
+// summary: Implements a per-tab helper that tracks Glic focus, sharing, and context access state and notifies tab UI subscribers of changes.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_tab_indicator_helper.h"
 
 #include <utility>

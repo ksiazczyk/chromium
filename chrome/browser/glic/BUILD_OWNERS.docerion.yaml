@@ -1,0 +1,4 @@
+# Docerion header of BUILD_OWNERS.
+type: config
+title: BUILD.gn ownership for Glic subdirectories
+summary: Grants BUILD.gn review ownership to owners of Glic subdirectories that lack their own BUILD.gn.

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Glic microphone permission dialog illustration
+summary: Vector illustration of a phone outline with a microphone glyph and decorative accents, used as the header of the Glic mic permission dialog.
+-->
+
 <!-- Header illustration for the Glic microphone permission dialog: a phone
      outline containing a microphone glyph, with decorative accents. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"

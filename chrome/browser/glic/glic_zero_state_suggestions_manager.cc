@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic zero state suggestions manager implementation
+// summary: Implements delivery of zero state suggestions to the Glic WebUI, reacting to focused tab, pinned tab, and navigation changes with caching and feature toggles.
+// ---
+
 #include "chrome/browser/glic/glic_zero_state_suggestions_manager.h"
 
 #include <algorithm>

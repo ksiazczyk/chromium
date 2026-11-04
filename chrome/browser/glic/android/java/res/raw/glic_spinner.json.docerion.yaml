@@ -1,0 +1,4 @@
+# Docerion header of glic_spinner.json.
+type: asset
+title: Glic spinner Lottie animation
+summary: Lottie animation JSON defining a 48x48 gray spinner used as a raw Android resource for the Glic UI.

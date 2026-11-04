@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextSharingBorderViewControllerImpl header
+// summary: Declares the border controller implementation with update reasons, tracked state, and subscriptions used to decide when the border animation shows.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_CONTEXT_SHARING_BORDER_VIEW_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_CONTEXT_SHARING_BORDER_VIEW_CONTROLLER_IMPL_H_
 

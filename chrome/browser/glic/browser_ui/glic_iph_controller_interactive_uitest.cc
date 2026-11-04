@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic IPH controller interactive UI tests
+// summary: Interactive UI tests verifying when the Glic IPH promo shows, including auth-error blocking, call-to-action behavior and warming on promo display.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_iph_controller.h"
 
 #include <memory>

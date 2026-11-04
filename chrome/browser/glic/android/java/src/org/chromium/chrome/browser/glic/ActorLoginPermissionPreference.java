@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login permission settings preference
+// summary: Custom Chrome preference that displays an actor login permission with site favicon, name and username, plus a revoke button for the Glic settings UI.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.chromium.build.NullUtil.assertNonNull;

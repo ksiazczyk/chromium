@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic preference registration and helpers
+// summary: Registers Glic profile preferences and provides helpers for reading actuation and file upload policy states.
+// ---
+
 #include "chrome/browser/glic/glic_pref_names.h"
 
 #include <optional>

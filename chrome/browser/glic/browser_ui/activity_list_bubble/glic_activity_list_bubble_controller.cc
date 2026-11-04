@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTaskListBubbleController implementation
+// summary: Implements the controller that builds prioritized task rows and manages showing, closing and state updates of the actor task list bubble.
+// ---
+
 #include "chrome/browser/glic/browser_ui/activity_list_bubble/glic_activity_list_bubble_controller.h"
 
 #include <algorithm>

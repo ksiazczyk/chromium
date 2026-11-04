@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic selection observer interactive UI tests
+// summary: Interactive UI tests verifying that text selections in a tab update the Glic context and that selection content is not sent across cross-origin navigations.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/glic/public/features.h"
 #include "chrome/browser/glic/test_support/glic_browser_interactive_test.h"

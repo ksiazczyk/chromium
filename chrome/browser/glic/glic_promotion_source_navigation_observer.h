@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic promotion source navigation observer header
+// summary: Declares the tab observer that attributes Glic promotion page visits to referral sources and defines the synthetic trial and group name constants.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_PROMOTION_SOURCE_NAVIGATION_OBSERVER_H_
 #define CHROME_BROWSER_GLIC_GLIC_PROMOTION_SOURCE_NAVIGATION_OBSERVER_H_
 

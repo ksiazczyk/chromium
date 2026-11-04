@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic Android UI integration tests
+// summary: Espresso UI integration tests for Glic Android native components, exercising actor task UI, adaptive toolbar button variants and bottom sheet behavior on phones.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static androidx.test.espresso.Espresso.onView;

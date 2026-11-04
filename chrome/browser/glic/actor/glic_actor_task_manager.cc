@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic actor task manager implementation
+// summary: Implements GlicActorTaskManager, handling actor task creation, cancellation, pausing, client session binding, and related metrics.
+// ---
+
 #include "chrome/browser/glic/actor/glic_actor_task_manager.h"
 
 #include "base/base64.h"

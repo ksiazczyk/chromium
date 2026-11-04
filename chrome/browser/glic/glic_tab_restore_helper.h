@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab restore helper header
+// summary: Declares functions that populate a tab's extra data map with Glic state and restore that state onto a WebContents after tab restore.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_TAB_RESTORE_HELPER_H_
 #define CHROME_BROWSER_GLIC_GLIC_TAB_RESTORE_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic metrics browser tests
+// summary: Browser tests verifying Glic metrics histograms and user actions, including FRE shown behavior with message-first FRE variants.
+// ---
+
 #include "chrome/browser/glic/glic_metrics.h"
 
 #include "base/command_line.h"

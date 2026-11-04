@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic selection widget controller implementation
+// summary: Implements the controller that shows the selection widget, records selection metrics, invokes Glic from the selection, and handles blocked sites and toasts.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_selection_widget_controller.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor task row data model
+// summary: Immutable data class populated from native code representing an actor task row with task ID, title, subtitle, enabled and review flags and an associated tab ID.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import org.jni_zero.CalledByNative;

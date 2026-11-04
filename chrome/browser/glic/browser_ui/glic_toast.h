@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicToast class header
+// summary: Declares a helper class that shows a Glic-branded toast message with spark icon and OK button on Android, with a planned desktop variant.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_TOAST_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_TOAST_H_
 

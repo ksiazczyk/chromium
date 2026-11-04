@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Symbol reference for internal test availability
+// summary: References element identifiers, getters, features, prefs, and test utilities so symbols needed by internal e2e tests stay available through glic_e2e_test.h.
+// ---
+
 #include "chrome/browser/glic/e2e_test/glic_e2e_test.h"
 
 namespace glic::test {

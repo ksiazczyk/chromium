@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Glic Android build targets
+summary: GN build file defining JNI header generation, Java libraries, enums, and Android resources for the Glic feature on Android.

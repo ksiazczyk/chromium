@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login permission JNI bridge implementation
+// summary: Implements the native side of the JNI bridge that lists and revokes actor login permissions for Glic via the password manager.
+// ---
+
 #include "chrome/browser/glic/android/glic_actor_login_bridge.h"
 
 #include <memory>

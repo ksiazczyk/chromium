@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observable value unit tests
+// summary: Unit tests for ObservableValue covering accessors, change notifications, forced notifications, observer lifecycle, and non-comparable types.
+// ---
+
 #include "chrome/browser/glic/common/observable_value.h"
 
 #include <string>

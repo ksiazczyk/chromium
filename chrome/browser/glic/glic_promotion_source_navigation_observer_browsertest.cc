@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic promotion source navigation observer browser tests
+// summary: Browser tests verifying that Glic promotion page visits are attributed to the NonZss, zss, and Multiple source cohorts and synthetic trial groups.
+// ---
+
 #include "chrome/browser/glic/glic_promotion_source_navigation_observer.h"
 
 #include "chrome/browser/glic/glic_pref_names.h"

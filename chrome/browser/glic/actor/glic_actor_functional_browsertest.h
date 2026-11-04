@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deprecated Glic actor functional test fixture header
+// summary: Header declaring the deprecated Glic actor functional browser test fixture, its action helpers, and the AsyncActionWaiter class.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_ACTOR_GLIC_ACTOR_FUNCTIONAL_BROWSERTEST_H_
 #define CHROME_BROWSER_GLIC_ACTOR_GLIC_ACTOR_FUNCTIONAL_BROWSERTEST_H_
 

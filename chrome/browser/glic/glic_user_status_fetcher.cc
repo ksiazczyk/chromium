@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic user status fetcher implementation
+// summary: Implements fetching the Glic user status from a Google API for the signed-in primary account, with scheduling, caching and Gemini settings observation.
+// ---
+
 #include "chrome/browser/glic/glic_user_status_fetcher.h"
 
 #include <optional>

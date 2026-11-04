@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic vector icon manager header
+// summary: Declares GlicVectorIconManager, which loads vector icon data from resources and vends gfx::VectorIcon references for use in the UI.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_VECTOR_ICON_MANAGER_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_VECTOR_ICON_MANAGER_H_
 

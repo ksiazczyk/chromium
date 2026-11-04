@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorTaskListBubble interactive UI tests
+// summary: Interactive browser tests verifying that the actor task list bubble shows with tasks and that clicking a task row actuates the tab.
+// ---
+
 #include "chrome/browser/glic/browser_ui/activity_list_bubble/glic_activity_list_bubble.h"
 
 #include <memory>

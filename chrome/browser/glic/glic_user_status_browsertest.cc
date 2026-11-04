@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic user status browser test
+// summary: Browser tests for the Glic user status check across non-enterprise, enterprise and google.com accounts, using a test URL loader and managed account overrides.
+// ---
+
 #include <utility>
 
 #include "base/command_line.h"

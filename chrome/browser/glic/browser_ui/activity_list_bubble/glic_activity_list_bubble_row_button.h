@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTaskListBubbleRowButton class declaration
+// summary: Declares ActorTaskListBubbleRowButton, the button representing a single task entry in the ActorTaskListBubble.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_ACTIVITY_LIST_BUBBLE_GLIC_ACTIVITY_LIST_BUBBLE_ROW_BUTTON_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_ACTIVITY_LIST_BUBBLE_GLIC_ACTIVITY_LIST_BUBBLE_ROW_BUTTON_H_
 

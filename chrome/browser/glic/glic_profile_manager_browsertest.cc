@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicProfileManager browser tests
+// summary: Browser tests covering GlicProfileManager multi-profile behavior such as profile selection for launch, including ChromeOS-specific scenarios.
+// ---
+
 #include "chrome/browser/glic/glic_profile_manager.h"
 
 #include <memory>

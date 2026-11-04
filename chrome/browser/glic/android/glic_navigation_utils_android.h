@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic navigation utils header
+// summary: Declares the GlicSettingsPage enum and helpers to open Glic settings and sign-in on Android.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_ANDROID_GLIC_NAVIGATION_UTILS_ANDROID_H_
 #define CHROME_BROWSER_GLIC_ANDROID_GLIC_NAVIGATION_UTILS_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic marketing page tab helper browser tests
+// summary: Browser tests verifying the marketing page tab helper auto-opens Glic for allowlisted URLs and enforces max impression limits.
+// ---
+
 #include "chrome/browser/glic/glic_marketing_page_tab_helper.h"
 
 #include "base/test/scoped_feature_list.h"

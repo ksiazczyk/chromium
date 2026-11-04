@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicTabPickerBridge unit tests
+// summary: Robolectric unit tests verifying GlicTabPickerBridge tab picker intent launching, error paths and selected tab callbacks.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.junit.Assert.assertArrayEquals;

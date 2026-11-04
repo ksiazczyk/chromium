@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for the Glic presubmit script
+# summary: Unit tests covering header ordering detection and other checks implemented in the Glic PRESUBMIT.py script.
+# ---
+
 import importlib.util
 import os
 import sys

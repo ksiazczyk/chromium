@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic selection observer implementation
+// summary: Implements per-tab observation of text selections and input events to show the Glic selection widget, send selection context, and dismiss the UI.
+// ---
+
 #include "chrome/browser/glic/glic_selection_observer.h"
 
 #include "base/containers/flat_set.h"

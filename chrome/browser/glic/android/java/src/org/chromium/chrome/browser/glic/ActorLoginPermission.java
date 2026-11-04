@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login permission data model
+// summary: Java counterpart to password_manager::ActorLoginPermission holding the site or app name, credential URL, signon realm, username and favicon URL for Glic actor login.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import androidx.annotation.VisibleForTesting;

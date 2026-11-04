@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeminiActOnWebSettings policy handler
+// summary: Maps the GeminiActOnWebSettings policy to the Glic actuation preference and validates it against Gemini settings.
+// ---
+
 #include "chrome/browser/glic/gemini_act_on_web_settings_policy_handler.h"
 
 #include "base/logging.h"

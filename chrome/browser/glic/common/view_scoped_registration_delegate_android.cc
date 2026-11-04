@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android view-scoped registration delegate for Glic panel hotkeys
+// summary: Android implementation of ViewScopedRegistrationDelegate that creates scoped hotkey registrations through ui::AcceleratorManagerAndroid for the Glic panel's browser window.
+// ---
+
 #include "chrome/browser/glic/common/view_scoped_registration_delegate.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

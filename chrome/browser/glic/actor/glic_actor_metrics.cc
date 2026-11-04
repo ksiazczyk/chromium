@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic actor metrics implementation
+// summary: Implements histogram recording for Glic actor task ID validation, including string conversions for mismatch methods and reasons.
+// ---
+
 #include "chrome/browser/glic/actor/glic_actor_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

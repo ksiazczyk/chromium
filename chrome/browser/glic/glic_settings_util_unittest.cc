@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic settings utility unit tests
+// summary: Parameterized unit tests for GetHelpCenterUrl covering suffix appending, already-suffixed URLs, and URLs without a p parameter.
+// ---
+
 #include "chrome/browser/glic/glic_settings_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicUiUtils
+// summary: Utility class for Glic UI components that configures the inactive placeholder view and opens Chrome's Android app details settings screen.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab picker bridge implementation
+// summary: Opens the Android native tab picker and applies pin and unpin changes to the Glic sharing manager when the picker completes.
+// ---
+
 #include "chrome/browser/glic/android/glic_tab_picker_bridge.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic hotkey string formatting implementation
+// summary: Formats the OS toggle hotkey into a string for the Glic WebUI, including Mac long-form modifier names.
+// ---
+
 #include "chrome/browser/glic/glic_hotkey.h"
 
 #include "base/functional/bind.h"

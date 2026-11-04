@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance-independent Glic hotkey manager declaration
+// summary: Declares a manager for Glic hotkeys active across all browser windows, handled by the GlicInstanceCoordinator regardless of panel focus.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_COMMON_INSTANCE_INDEPENDENT_HOTKEY_MANAGER_H_
 #define CHROME_BROWSER_GLIC_COMMON_INSTANCE_INDEPENDENT_HOTKEY_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic split button delegate bridge unit tests
+// summary: Robolectric unit tests for the split button delegate bridge covering lifecycle and Java-to-native event forwarding.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.mockito.ArgumentMatchers.anyLong;

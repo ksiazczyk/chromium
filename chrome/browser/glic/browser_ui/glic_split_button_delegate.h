@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic split button delegate interface
+// summary: Defines the NudgeParams struct and the delegate interface for the UI container hosting the Glic button and actor task icon.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_SPLIT_BUTTON_DELEGATE_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_SPLIT_BUTTON_DELEGATE_H_
 

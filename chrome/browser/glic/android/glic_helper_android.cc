@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic microphone permission UI implementation
+// summary: Implements MicPermissionUi on Android by invoking Java helpers to show dialogs, request RECORD_AUDIO permission, and show snackbars.
+// ---
+
 #include "chrome/browser/glic/android/glic_helper_android.h"
 
 #include "base/android/callback_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicMicPermissionDialogCoordinator unit tests
+// summary: Robolectric unit tests checking the mic permission dialog contents, allow and dismiss callbacks and settings navigation behavior.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.junit.Assert.assertEquals;

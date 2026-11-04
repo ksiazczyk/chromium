@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic enums stream output implementation
+// summary: Implements stream output for the Glic ClientLoadState enum to support logging and debugging.
+// ---
+
 #include "chrome/browser/glic/glic_enums.h"
 
 #include <ostream>

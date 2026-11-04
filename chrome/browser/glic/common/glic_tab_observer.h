@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab observer interface and tab event types
+// summary: Defines the GlicTabObserver interface and the tab creation, mutation, activation, and grouping event variants it reports for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_COMMON_GLIC_TAB_OBSERVER_H_
 #define CHROME_BROWSER_GLIC_COMMON_GLIC_TAB_OBSERVER_H_
 

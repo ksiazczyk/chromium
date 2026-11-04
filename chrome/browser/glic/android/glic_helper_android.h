@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic microphone permission UI interface
+// summary: Declares the MicPermissionUi interface for Android microphone permission dialogs, checks, and disabled-permission snackbars.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_ANDROID_GLIC_HELPER_ANDROID_H_
 #define CHROME_BROWSER_GLIC_ANDROID_GLIC_HELPER_ANDROID_H_
 

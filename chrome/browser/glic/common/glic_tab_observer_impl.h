@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Android Glic tab observer declaration
+// summary: Declares GlicTabObserverImpl, the desktop implementation that observes browser collections and tab strip models to emit Glic tab events.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_COMMON_GLIC_TAB_OBSERVER_IMPL_H_
 #define CHROME_BROWSER_GLIC_COMMON_GLIC_TAB_OBSERVER_IMPL_H_
 

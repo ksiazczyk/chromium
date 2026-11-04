@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Panel visibility dependent hotkey manager browser tests
+// summary: Browser test verifying the focus toggle hotkey moves focus between the Glic panel and the browser.
+// ---
+
 #include "base/test/run_until.h"
 #include "chrome/browser/glic/common/local_hotkey_manager.h"
 #include "chrome/browser/glic/service/glic_instance_impl.h"

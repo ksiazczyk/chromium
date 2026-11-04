@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextSharingBorderView implementation
+// summary: Implements the animated border drawn around web contents when Glic shares context, including emphasis timing and rounded corner handling.
+// ---
+
 #include "chrome/browser/glic/browser_ui/context_sharing_border_view.h"
 
 #include <math.h>

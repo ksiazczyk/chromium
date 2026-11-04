@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic user status code definitions
+// summary: Defines the persisted UserStatusCode enum, the CachedUserStatus struct and the JSON keys used by the Glic user status RPC and prefs.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_USER_STATUS_CODE_H_
 #define CHROME_BROWSER_GLIC_GLIC_USER_STATUS_CODE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic promo coordinator unit tests
+// summary: Robolectric unit tests for the Glic promo coordinator covering sheet show and hide, button clicks, and histogram recording.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.mockito.Mockito.any;

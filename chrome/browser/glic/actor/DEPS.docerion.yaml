@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Glic actor directory
+summary: DEPS rules allowing dependencies on components/actor and one-time-token headers for Glic actor browser tests.

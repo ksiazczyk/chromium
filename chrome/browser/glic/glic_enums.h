@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic shared enums header
+// summary: Defines Glic enums for external use, covering zoom sources, hotkey states, context errors, filtering results, and actuation reasons.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_ENUMS_H_
 #define CHROME_BROWSER_GLIC_GLIC_ENUMS_H_
 

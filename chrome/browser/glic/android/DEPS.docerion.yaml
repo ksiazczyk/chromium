@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory dependency rules for Glic Android
+summary: DEPS rule allowing this directory to include headers from components/browser_ui/bottomsheet/android.

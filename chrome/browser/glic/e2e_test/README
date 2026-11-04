@@ -1,3 +1,9 @@
+---
+type: readme
+title: GLIC end-to-end test utilities
+summary: Explains that this directory provides end-to-end test utilities for GLIC, with test code and internal utilities kept in an internal repository.
+---
+
 End to End test utilities for GLIC
 
 Test code and internal test utilities are in internal repo (Googlers only): http://shortn/_ec8KxkHMBV

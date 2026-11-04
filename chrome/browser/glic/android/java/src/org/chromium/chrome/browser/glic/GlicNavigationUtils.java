@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicNavigationUtils settings bridge
+// summary: Bridge between Java and native Glic code that opens Glic settings pages with highlighted fields and launches sign-in and history sync flows.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic promo bottom sheet render tests
+// summary: Render tests for the Glic first-run promo bottom sheet, including night mode variants.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.graphics.Color;

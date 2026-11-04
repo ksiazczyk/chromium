@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic promo bottom sheet coordinator
+// summary: Coordinator that shows the Glic promo bottom sheet and records accept, reject, and dismiss reasons as metrics.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.app.Activity;

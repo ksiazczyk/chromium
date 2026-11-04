@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observable value template with change notifications
+// summary: Defines ObservableValue and ObservableValueView templates that wrap a value and notify registered observers whenever the value changes.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_COMMON_OBSERVABLE_VALUE_H_
 #define CHROME_BROWSER_GLIC_COMMON_OBSERVABLE_VALUE_H_
 

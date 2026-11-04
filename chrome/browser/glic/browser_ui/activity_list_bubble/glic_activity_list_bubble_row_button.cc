@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTaskListBubbleRowButton implementation
+// summary: Implements the row button for task entries in the actor task list bubble, including state icons, labels and a redirect icon.
+// ---
+
 #include "chrome/browser/glic/browser_ui/activity_list_bubble/glic_activity_list_bubble_row_button.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Glic menu dot drawable
+summary: Layer-list drawable that draws a small centered status dot at the end of the Glic menu icon, sized to the menu end icon width.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Transparent base to fix size to 40dp width -->
     <item>

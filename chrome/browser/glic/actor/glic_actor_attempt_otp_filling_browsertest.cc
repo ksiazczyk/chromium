@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for Glic actor OTP filling
+// summary: Browser tests covering Glic actor attempts to fill one-time passwords using a fake Gmail OTP backend and affiliation service.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

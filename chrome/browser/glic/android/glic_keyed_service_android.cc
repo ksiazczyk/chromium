@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic keyed service Android JNI bridge
+// summary: Implements the Android JNI bridge for GlicKeyedService, handling UI toggling and notifications of enabling and pref changes.
+// ---
+
 #include "chrome/browser/glic/android/glic_keyed_service_android.h"
 
 #include <vector>

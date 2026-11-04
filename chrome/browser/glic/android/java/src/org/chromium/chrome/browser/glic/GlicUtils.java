@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicUtils
+// summary: Utility class for Glic functions such as side panel form factor detection, tab strip button support and pinned-state preference handling.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.content.Context;

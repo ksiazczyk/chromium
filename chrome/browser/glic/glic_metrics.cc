@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic metrics implementation
+// summary: Implements Glic metrics, recording profile preferences, enablement, and usage as histograms and UKM events.
+// ---
+
 #include "chrome/browser/glic/glic_metrics.h"
 
 #include <string>
