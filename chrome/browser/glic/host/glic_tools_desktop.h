@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic desktop tools holder interface
+// summary: Declares the GlicToolsHolder interface and a factory that creates the desktop AI overlay tools controller for Glic when enabled.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_TOOLS_DESKTOP_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_TOOLS_DESKTOP_H_
 

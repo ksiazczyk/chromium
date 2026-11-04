@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal Glic guest utilities header
+// summary: Declares internal helpers for retrieving the GlicUI and Host associated with a guest WebContents, restricted to chrome/browser/glic use.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GUEST_UTIL_INTERNAL_H_
 #define CHROME_BROWSER_GLIC_HOST_GUEST_UTIL_INTERNAL_H_
 

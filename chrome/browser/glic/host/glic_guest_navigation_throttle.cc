@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic guest navigation throttle
+// summary: Implements a navigation throttle that cancels guest navigations to admin-blocked URLs or origins outside the allowlist.
+// ---
+
 #include "chrome/browser/glic/host/glic_guest_navigation_throttle.h"
 
 #include "base/feature_list.h"

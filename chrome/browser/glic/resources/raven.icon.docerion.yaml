@@ -1,0 +1,4 @@
+# Docerion header of raven.icon.
+type: asset
+title: Raven vector icon path data
+summary: Chromium .icon file with vector path commands defining a 20dp Glic icon matching the camera-off shape used elsewhere in the folder.

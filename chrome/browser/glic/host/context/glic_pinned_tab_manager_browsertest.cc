@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic pinned tab manager browser tests
+// summary: Browser tests exercising the Glic pinned tab manager implementation, covering pinning, unpinning, pin candidates and tab data changes.
+// ---
+
 #include "base/containers/fixed_flat_map.h"
 #include "base/test/test_future.h"
 #include "base/test/test_mock_time_task_runner.h"

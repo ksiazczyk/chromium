@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic WebContents warming pool unit tests
+// summary: Unit tests for the warming pool using a fake WebContents manager, mock time, and histogram checks for warming, take, and reload outcomes.
+// ---
+
 #include "chrome/browser/glic/host/glic_web_contents_warming_pool.h"
 
 #include "base/memory_coordinator/utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic web client responsiveness monitor unit tests
+// summary: Unit tests for the responsiveness monitor covering disabled feature, responsive clients, unresponsive transitions, and debugger-attached bypass using mock time.
+// ---
+
 #include "chrome/browser/glic/host/glic_web_client_responsiveness_monitor.h"
 
 #include <memory>

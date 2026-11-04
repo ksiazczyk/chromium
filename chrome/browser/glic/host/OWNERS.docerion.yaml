@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Glic host OWNERS
+summary: Lists code owners for the glic host directory with per-file owner rules for actor, page context, annotation, internals and mojom files.

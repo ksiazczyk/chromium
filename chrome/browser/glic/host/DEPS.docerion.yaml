@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Glic host DEPS include rules
+summary: Configures include rules for the glic host directory, restricting guest_util files to the GEiC enabling helper and asking GEiC owners be consulted.

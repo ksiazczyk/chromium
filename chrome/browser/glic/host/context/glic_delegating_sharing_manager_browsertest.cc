@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Glic delegating sharing manager
+// summary: Browser tests covering empty-delegate behavior and delegation of pinning, focus, and tab context operations.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_delegating_sharing_manager.h"
 
 #include "base/test/bind.h"

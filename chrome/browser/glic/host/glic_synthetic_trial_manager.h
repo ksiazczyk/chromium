@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicSyntheticTrialManager class header
+// summary: Declares the manager that enrolls Chrome in synthetic trial groups on behalf of the Glic web client and handles conflicting groups from multiple profiles.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_SYNTHETIC_TRIAL_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_SYNTHETIC_TRIAL_MANAGER_H_
 

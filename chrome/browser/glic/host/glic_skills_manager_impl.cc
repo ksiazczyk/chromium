@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicSkillsManagerImpl implementation
+// summary: Implements the Glic skills manager, binding client sessions, tracking the active tab, updating contextual skill previews and launching skills dialogs and UI pages.
+// ---
+
 #include "chrome/browser/glic/host/glic_skills_manager_impl.h"
 
 #include <algorithm>

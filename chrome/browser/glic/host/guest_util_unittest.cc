@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic guest utilities unit tests
+// summary: Unit tests for Glic guest utilities, covering guest URL configuration, origin permissions, and multi-instance behavior.
+// ---
+
 #include "chrome/browser/glic/host/guest_util.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic Mojo traits for screenshot collection options
+// summary: Implements Mojo StructTraits that read screenshot collection options from the Glic mojom type into the page content annotations type.
+// ---
+
 #include "chrome/browser/glic/host/glic_mojom_traits.h"
 
 namespace mojo {

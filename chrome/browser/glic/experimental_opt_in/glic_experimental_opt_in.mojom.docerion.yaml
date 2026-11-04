@@ -1,0 +1,4 @@
+# Docerion header of glic_experimental_opt_in.mojom.
+type: source
+title: Glic experimental opt-in Mojom interface
+summary: Defines the ExperimentalOptInPageHandler Mojo interface for the opt-in dialog, covering accept, reject, webview load, cookie sync and opening validated links.

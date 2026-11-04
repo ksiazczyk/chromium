@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Glic profile branding stylesheet
+summary: Defines an empty .glic-brand-style class kept in place for possible future Glic title branding color changes referenced by the profile picker string resource.
+*/
+
 /* This style will be applied on parts of the Glic version of the title. */
 /* Check IDS_PROFILE_PICKER_MAIN_VIEW_TITLE_GLIC string resource. */
 .glic-brand-style {

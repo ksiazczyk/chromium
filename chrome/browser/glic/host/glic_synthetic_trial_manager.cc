@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic synthetic trial manager implementation
+// summary: Registers synthetic field trials requested by the Glic web client, redirecting conflicting multi-profile groups into a MultiProfileDetected group to avoid mixing logs.
+// ---
+
 #include "chrome/browser/glic/host/glic_synthetic_trial_manager.h"
 
 #include <algorithm>

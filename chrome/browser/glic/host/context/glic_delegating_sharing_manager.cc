@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic delegating sharing manager implementation
+// summary: Implements a sharing manager base that forwards pinning, focus, and context operations to a swappable delegate with safe empty behavior.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_delegating_sharing_manager.h"
 
 #include <cstdint>

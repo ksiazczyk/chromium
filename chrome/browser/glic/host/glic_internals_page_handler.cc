@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic internals page handler implementation
+// summary: Implements the Mojo backend for the Glic Internals WebUI, supplying enablement and config data, guest URL presets, open tabs, and consent controls.
+// ---
+
 #include "chrome/browser/glic/host/glic_internals_page_handler.h"
 
 #include <algorithm>

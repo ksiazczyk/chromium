@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor TOCTOU interactive UI tests
+// summary: Interactive browser tests verifying TOCTOU checks fail clicks when target frames change after observation.
+// ---
+
 #include "base/strings/strcat.h"
 #include "chrome/browser/actor/actor_test_util.h"
 #include "chrome/browser/glic/host/glic_actor_interactive_uitest_common.h"

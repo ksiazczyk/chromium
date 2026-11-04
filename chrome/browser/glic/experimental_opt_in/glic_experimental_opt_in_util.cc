@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental opt-in URL decoration utility
+// summary: Decorates Glic experimental opt-in URLs with device name, hotkey, theme and localization query parameters.
+// ---
+
 #include "chrome/browser/glic/experimental_opt_in/glic_experimental_opt_in_util.h"
 
 #include <string>

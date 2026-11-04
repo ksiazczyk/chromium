@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental opt-in metrics implementation
+// summary: Records user actions and histograms when the opt-in dialog is shown, accepted or rejected, distinguished by required opt-in version.
+// ---
+
 #include "chrome/browser/glic/experimental_opt_in/glic_experimental_opt_in_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

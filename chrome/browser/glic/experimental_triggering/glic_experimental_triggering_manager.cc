@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental triggering manager implementation
+// summary: Implements the manager that binds the Glic web client, forwards triggering updates and confirmation responses, and captures and uploads RFC 8291 encrypted screenshots.
+// ---
+
 #include "chrome/browser/glic/experimental_triggering/glic_experimental_triggering_manager.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of glic_overlay.mojom.
+type: source
+title: Glic overlay Mojo interface definitions
+summary: Defines Mojo enums and interfaces for communication between the Glic overlay WebUI and its C++ handler, including loading styles, error panels and button actions.

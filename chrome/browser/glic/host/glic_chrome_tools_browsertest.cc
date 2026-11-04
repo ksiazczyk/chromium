@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic Chrome tools browser test
+// summary: Browser tests checking that Glic Chrome tools are listed and executed correctly, both with the dynamic Chrome tools feature disabled and enabled.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "chrome/browser/glic/public/features.h"

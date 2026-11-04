@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic UI WebUI controller implementation
+// summary: Implements the Glic WebUI controller, including the preload handler that tracks profile readiness and manages the embedded Glic web client.
+// ---
+
 #include "chrome/browser/glic/host/glic_ui.h"
 
 #include <string>

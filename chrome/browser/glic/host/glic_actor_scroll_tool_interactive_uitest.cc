@@ -4,6 +4,12 @@
 
 // TODO(crbug.com/537847546): Migrate this test suite to GlicBrowserTest.
 
+// ---docerion
+// type: test
+// title: Glic actor scroll tool interactive UI tests
+// summary: Interactive browser tests for the Glic actor scroll tool, covering viewport and element scrolling actions.
+// ---
+
 #include "base/feature_list.h"
 #include "chrome/browser/actor/actor_test_util.h"
 #include "chrome/browser/glic/host/glic_actor_interactive_uitest_common.h"

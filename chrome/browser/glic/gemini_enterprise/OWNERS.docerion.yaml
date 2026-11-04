@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Gemini Enterprise Glic directory
+summary: Delegates ownership to chrome/browser/geic/OWNERS and routes Mojom file changes to security owners for review.

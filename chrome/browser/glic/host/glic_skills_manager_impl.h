@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicSkillsManagerImpl class header
+// summary: Declares GlicSkillsManagerImpl and its GlicSkillsClientSession, which handle skills Mojo communication, active tab tracking and skills web client events for the Glic host.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_SKILLS_MANAGER_IMPL_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_SKILLS_MANAGER_IMPL_H_
 

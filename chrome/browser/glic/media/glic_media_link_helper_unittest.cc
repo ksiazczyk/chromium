@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicMediaLinkHelper unit tests
+// summary: Unit tests for GlicMediaLinkHelper covering navigation replacement per origin helper, including YouTube embed behavior, using a mocked MediaSession.
+// ---
+
 #include "chrome/browser/glic/media/glic_media_link_helper.h"
 
 #include "base/test/scoped_feature_list.h"

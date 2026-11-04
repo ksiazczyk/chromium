@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic WebUI contents manager implementation
+// summary: Implements the manager that creates and owns the WebContents for the Glic WebUI, loads its page, attaches it to the Glic host, and handles printing, dialogs, and shutdown.
+// ---
+
 #include "chrome/browser/glic/host/glic_webui_contents_manager.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for Gemini Enterprise in Glic
+summary: GN build file defining source sets for GEiC enabling, the URL allowlist, the manager code, and the unit and browser test targets.

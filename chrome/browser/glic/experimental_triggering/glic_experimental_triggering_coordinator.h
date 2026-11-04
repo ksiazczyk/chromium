@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the experimental triggering coordinator
+// summary: Declares GlicExperimentalTriggeringCoordinator, which coordinates triggering requests, Glic auto-submit invocation, and lifecycle updates per profile.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_EXPERIMENTAL_TRIGGERING_GLIC_EXPERIMENTAL_TRIGGERING_COORDINATOR_H_
 #define CHROME_BROWSER_GLIC_EXPERIMENTAL_TRIGGERING_GLIC_EXPERIMENTAL_TRIGGERING_COORDINATOR_H_
 

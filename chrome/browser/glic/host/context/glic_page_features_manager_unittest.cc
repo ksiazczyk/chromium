@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic page features manager unit tests
+// summary: Unit tests covering feature caching, retry timing, and content discard handling in GlicPageFeaturesManager.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_page_features_manager.h"
 
 #include <memory>

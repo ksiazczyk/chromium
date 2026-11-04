@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop AI overlay tools factory for Glic
+// summary: Creates the AI overlay tools holder for Glic on desktop when the dynamic Chrome tools feature is enabled, wiring it to the profile's active normal browser window.
+// ---
+
 #include "chrome/browser/glic/host/glic_tools_desktop.h"
 
 #include <memory>

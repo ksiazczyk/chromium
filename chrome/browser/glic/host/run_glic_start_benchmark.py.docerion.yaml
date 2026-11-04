@@ -1,0 +1,4 @@
+# Docerion header of run_glic_start_benchmark.py.
+type: script
+title: Glic start benchmark runner script
+summary: Python runner that measures Glic client initialization and presentation latency across Webview and warmed or cold configurations and prints a comparison table.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic API zero state suggestions browser test
+// summary: Browser tests for the Glic API zero state suggestions endpoints, using a fake contextual cueing service to check focused-tab suggestions and warming behavior.
+// ---
+
 #include <memory>
 
 #include "base/memory/raw_ptr.h"

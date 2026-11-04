@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic client data storage header
+// summary: Declares GlicClientDataStorage, which holds the authoritative client storage map, notifies observers of changes, and persists updates to prefs.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_CLIENT_DATA_STORAGE_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_CLIENT_DATA_STORAGE_H_
 

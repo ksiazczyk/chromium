@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab data implementation
+// summary: Implements tab data construction and change tracking, including rate-limited updates, favicon and title observation, and debug output for TabData.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_tab_data.h"
 
 #include <cstdint>

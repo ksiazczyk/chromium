@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic web client manager implementation
+// summary: Implements management of the Glic web client guest contents, including guest page type classification, security interstitials, exit reasons, and lifecycle metrics.
+// ---
+
 #include "chrome/browser/glic/host/glic_web_client_manager.h"
 
 #include <optional>

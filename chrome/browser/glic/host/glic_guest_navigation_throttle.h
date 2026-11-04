@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic guest navigation throttle header
+// summary: Declares a navigation throttle that validates Glic guest main frame navigations against admin and origin allowlist policies.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_GUEST_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_GUEST_NAVIGATION_THROTTLE_H_
 

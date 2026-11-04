@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic warming scheduler implementation
+// summary: Implements scheduling of Glic warming tasks via Performance Manager idle scenarios or a fixed-delay timer, with scheduling metrics.
+// ---
+
 #include "chrome/browser/glic/host/glic_warming_scheduler.h"
 
 #include <optional>

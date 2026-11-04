@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic warming scheduler unit tests
+// summary: Unit tests for GlicWarmingScheduler covering fixed-delay scheduling, cancellation, and Performance Manager-based idle and observed triggering with histogram verification.
+// ---
+
 #include "chrome/browser/glic/host/glic_warming_scheduler.h"
 
 #include <memory>

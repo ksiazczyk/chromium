@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic Gemini Enterprise manager implementation
+// summary: Implements the Gemini Enterprise handler that opens and closes validated auth tabs and records usage metrics.
+// ---
+
 #include "chrome/browser/glic/gemini_enterprise/glic_gemini_enterprise_manager.h"
 
 #include <string>

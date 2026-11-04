@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab favicon adapter class declarations
+// summary: Declares FaviconData, FaviconNotifier and the abstract FaviconAdapter used to track tab favicon changes and serve them to Glic clients.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_FAVICON_IMPL_GLIC_TAB_FAVICON_ADAPTER_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_FAVICON_IMPL_GLIC_TAB_FAVICON_ADAPTER_H_
 

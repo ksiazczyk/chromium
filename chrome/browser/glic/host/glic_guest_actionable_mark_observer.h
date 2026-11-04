@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic guest actionable mark observer header
+// summary: Declares the callback type and the helper for attaching a page load metrics observer that watches the guest's actionable mark.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_GUEST_ACTIONABLE_MARK_OBSERVER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_GUEST_ACTIONABLE_MARK_OBSERVER_H_
 

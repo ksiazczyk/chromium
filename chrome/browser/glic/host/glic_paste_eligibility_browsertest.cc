@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic paste eligibility browser test
+// summary: Browser tests verifying clipboard paste eligibility for the Glic guest, including pastes from eligible tabs and related metrics logging.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/run_until.h"

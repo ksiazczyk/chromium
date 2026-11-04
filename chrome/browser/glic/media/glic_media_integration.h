@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicMediaIntegration interface declaration
+// summary: Declares the GlicMediaIntegration interface for appending media transcript context per WebContents or frame and managing excluded transcription origins.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_MEDIA_GLIC_MEDIA_INTEGRATION_H_
 #define CHROME_BROWSER_GLIC_MEDIA_GLIC_MEDIA_INTEGRATION_H_
 

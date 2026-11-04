@@ -4,6 +4,12 @@
 
 // TODO(crbug.com/537847109): Migrate this test suite to GlicBrowserTest.
 
+// ---docerion
+// type: test
+// title: Glic actor scroll-to tool interactive UI tests
+// summary: Interactive browser tests verifying the actor scroll-to tool, including cases with TOCTOU validation enabled and disabled and invalid node IDs.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/actor/actor_test_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared implementation of the Glic actor UI test fixture
+// summary: Implements the GlicActorUiTest fixture and helpers shared by the Glic actor interactive UI tests, including action proto encoding and test sequences.
+// ---
+
 #include "chrome/browser/glic/host/glic_actor_interactive_uitest_common.h"
 
 #include <memory>

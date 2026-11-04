@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic web client handler factory header
+// summary: Declares MakeGlicWebClient, a factory that creates the GlicWebClientAccess implementation bound to a WebClientHandler mojo receiver with state callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_WEB_CLIENT_HANDLER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_WEB_CLIENT_HANDLER_H_
 

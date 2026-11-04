@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor task management interactive UI tests
+// summary: Interactive browser tests for stopping actor tasks and task behavior when acted-on tabs are closed.
+// ---
+
 #include "base/test/metrics/user_action_tester.h"
 #include "build/build_config.h"
 #include "chrome/browser/actor/ui/actor_task_unload_handler.h"

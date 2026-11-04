@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic PWC policy delegate unit tests
+// summary: Unit tests verifying that the Glic privileged component policy delegate permits insecure dev origins only when the --glic-dev switch is set and still rejects other insecure schemes.
+// ---
+
 #include "chrome/browser/glic/host/glic_pwc_policy_delegate.h"
 
 #include <memory>

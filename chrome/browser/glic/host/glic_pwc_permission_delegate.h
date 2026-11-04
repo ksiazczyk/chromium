@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicPwcPermissionDelegate header
+// summary: Declares the PwcPermissionDelegate implementation that resolves Glic guest permissions from user preferences and enterprise policies.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_PWC_PERMISSION_DELEGATE_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_PWC_PERMISSION_DELEGATE_H_
 

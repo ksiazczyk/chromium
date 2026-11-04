@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GEiC enabling
+// summary: Tests the default disabled state, Finch parameters, command-line overrides, and acceptance or rejection of guest URL hosts.
+// ---
+
 #include "chrome/browser/glic/gemini_enterprise/geic_enabling.h"
 
 #include <memory>

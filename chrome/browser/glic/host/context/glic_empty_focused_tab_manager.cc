@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicEmptyFocusedTabManager implementation
+// summary: Implements the empty focused tab manager, returning no-op subscriptions and reporting that no tab is focusable.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_empty_focused_tab_manager.h"
 
 namespace glic {

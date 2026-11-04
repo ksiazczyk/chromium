@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor form filling UI tests
+// summary: Interactive browser tests for Glic actor attempt-form-filling actions using a mocked actor form filling service and execution engine.
+// ---
+
 #include "base/containers/flat_map.h"
 #include "base/containers/to_vector.h"
 #include "base/strings/string_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Glic active instance sharing manager
+// summary: Browser tests verifying that pinning state is delegated to the active Glic instance and follows window activation across browsers.
+// ---
+
 #include "base/test/run_until.h"
 #include "chrome/browser/glic/glic_pref_names.h"
 #include "chrome/browser/glic/host/context/glic_sharing_manager_impl.h"

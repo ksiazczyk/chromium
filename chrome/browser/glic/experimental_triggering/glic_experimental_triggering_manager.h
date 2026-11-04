@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental triggering manager class declaration
+// summary: Declares GlicExperimentalTriggeringManager, which connects the Glic web client to triggering updates, confirmation responses and encrypted screenshot capture.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_EXPERIMENTAL_TRIGGERING_GLIC_EXPERIMENTAL_TRIGGERING_MANAGER_H_
 #define CHROME_BROWSER_GLIC_EXPERIMENTAL_TRIGGERING_GLIC_EXPERIMENTAL_TRIGGERING_MANAGER_H_
 

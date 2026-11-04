@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic internals WebUI controller header
+// summary: Declares the WebUI controller class for the Glic internals page and its Mojo page handler factory bindings.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_INTERNALS_UI_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_INTERNALS_UI_H_
 

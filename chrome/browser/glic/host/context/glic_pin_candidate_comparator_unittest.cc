@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic pin candidate comparator unit tests
+// summary: Parameterized unit tests verifying GlicPinCandidateComparator ordering across query and recency cases.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_pin_candidate_comparator.h"
 
 #include "base/strings/utf_string_conversions.h"

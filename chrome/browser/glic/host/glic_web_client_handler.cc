@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic web client handler implementation
+// summary: Implements the browser-side handler for the Glic web client, wiring mojo communication with actor tasks, metrics, profiles, auth, and tab context.
+// ---
+
 #include "chrome/browser/glic/host/glic_web_client_handler.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic web client manager browser tests
+// summary: Browser tests for the Glic web client manager, exercising guest navigation, security interstitials, and lifecycle behavior with test servers and histogram checks.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

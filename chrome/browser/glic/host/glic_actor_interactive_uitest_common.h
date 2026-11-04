@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the shared Glic actor UI test fixture
+// summary: Declares the deprecated GlicActorUiTest fixture and helper types used by the Glic actor interactive UI tests, pointing new code to GlicBrowserTest.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_ACTOR_INTERACTIVE_UITEST_COMMON_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_ACTOR_INTERACTIVE_UITEST_COMMON_H_
 

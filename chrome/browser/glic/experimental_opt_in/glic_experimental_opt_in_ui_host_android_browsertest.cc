@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic experimental opt-in UI host Android browser tests
+// summary: Browser tests verifying the Android opt-in UI host shows, accepts and rejects the dialog and notifies its delegate correctly.
+// ---
+
 #include "chrome/browser/glic/experimental_opt_in/glic_experimental_opt_in_ui_host.h"
 
 #include <vector>

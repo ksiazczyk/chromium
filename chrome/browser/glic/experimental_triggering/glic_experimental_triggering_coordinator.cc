@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the experimental triggering coordinator
+// summary: Implements processing of experimental triggering requests, Glic actuation invocation, and task state update handling for a profile.
+// ---
+
 #include "chrome/browser/glic/experimental_triggering/glic_experimental_triggering_coordinator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic cookie synchronizer unit tests
+// summary: Unit tests for GlicCookieSynchronizer covering cookie sync success, transient and persistent auth errors, timeouts, and cookie clearing with test doubles.
+// ---
+
 #include "chrome/browser/glic/host/glic_cookie_synchronizer.h"
 
 #include <string>

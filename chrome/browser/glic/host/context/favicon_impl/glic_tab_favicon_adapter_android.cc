@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Glic tab favicon adapter implementation
+// summary: Android FaviconAdapter implementation that observes TabFavicon updates and reports initial and updated favicons to the notifier.
+// ---
+
 #include "chrome/browser/glic/host/context/favicon_impl/glic_tab_favicon_adapter_android.h"
 
 #include "base/functional/bind.h"

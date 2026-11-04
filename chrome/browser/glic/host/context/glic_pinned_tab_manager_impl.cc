@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic pinned tab manager implementation
+// summary: Implements pinned tab management for Glic, tracking pinned tabs, observing tab changes, enforcing pin limits and notifying observers.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_pinned_tab_manager_impl.h"
 
 #include <algorithm>

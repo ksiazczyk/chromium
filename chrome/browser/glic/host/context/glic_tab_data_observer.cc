@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicTabDataObserver implementation
+// summary: Implements per-tab observers that subscribe Mojo remotes to tab data updates and handle tab and window activation changes.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_tab_data_observer.h"
 
 #include <memory>

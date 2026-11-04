@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicTabDataObserver header
+// summary: Declares GlicTabDataObserver, a collection of per-tab observers that stream TabData updates to subscribed Mojo remotes for the getTabById API.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_TAB_DATA_OBSERVER_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_TAB_DATA_OBSERVER_H_
 

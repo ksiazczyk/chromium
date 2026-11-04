@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic active pinned focused tab manager header
+// summary: Declares GlicActivePinnedFocusedTabManager, which combines active tab and pinning status to determine and notify the focused tab.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_ACTIVE_PINNED_FOCUSED_TAB_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_ACTIVE_PINNED_FOCUSED_TAB_MANAGER_H_
 

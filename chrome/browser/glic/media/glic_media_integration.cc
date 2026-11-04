@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicMediaIntegration implementation
+// summary: Implements GlicMediaIntegration, observing peer connections and wiring live caption and transcript providers to supply media context to Glic.
+// ---
+
 #include "chrome/browser/glic/media/glic_media_integration.h"
 
 #include "base/memory/weak_ptr.h"

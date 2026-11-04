@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic sharing manager coordinator implementation
+// summary: Implements the coordinator that builds and switches between attached, detached and live mode sharing managers based on Glic panel state.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_sharing_manager_coordinator.h"
 
 #include "base/memory/ptr_util.h"

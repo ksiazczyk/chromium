@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthController implementation
+// summary: Implements AuthController, which syncs sign-in cookies to the Glic webview partition and checks auth before loading the web client.
+// ---
+
 #include "chrome/browser/glic/host/auth_controller.h"
 
 #include "base/command_line.h"

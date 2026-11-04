@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicMediaLinkHelper implementation
+// summary: Implements GlicMediaLinkHelper, which intercepts YouTube link navigations and replaces them with media session actions such as seeking to a timestamp.
+// ---
+
 #include "chrome/browser/glic/media/glic_media_link_helper.h"
 
 #include "base/strings/string_number_conversions.h"

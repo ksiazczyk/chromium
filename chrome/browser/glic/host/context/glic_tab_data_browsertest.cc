@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic tab data browser tests
+// summary: Browser tests checking that TabDataObserver sends updates on navigation, same-page navigation and other tab data changes.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_tab_data.h"
 
 #include <memory>

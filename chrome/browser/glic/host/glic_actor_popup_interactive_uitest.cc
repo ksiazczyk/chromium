@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor popup interaction interactive UI tests
+// summary: Interactive browser tests verifying that the actor can act on popup widgets such as select popups, including device scale factor variations.
+// ---
+
 #include "chrome/browser/actor/actor_test_util.h"
 #include "chrome/browser/glic/host/glic_actor_interactive_uitest_common.h"
 #include "content/public/test/browser_test.h"

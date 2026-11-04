@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental triggering metrics implementation
+// summary: Implements scoped histogram logging for incoming message results and records initial sharing message delivery latency for experimental triggering.
+// ---
+
 #include "chrome/browser/glic/experimental_triggering/glic_experimental_triggering_metrics.h"
 
 #include <string>

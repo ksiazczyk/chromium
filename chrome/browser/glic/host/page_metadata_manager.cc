@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic page metadata manager implementation
+// summary: Implements per-tab page metadata subscriptions for the Glic web client, observing metadata changes and handling tab detach and contents discard.
+// ---
+
 #include "chrome/browser/glic/host/page_metadata_manager.h"
 
 #include "base/functional/bind.h"

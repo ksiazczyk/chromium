@@ -1,0 +1,4 @@
+# Docerion header of gemini_enterprise.mojom.
+type: source
+title: Gemini Enterprise Mojo API definitions
+summary: Defines the Mojo enums, structs and handler interface for opening and closing Gemini Enterprise sign-in and auth tabs.

@@ -4,6 +4,12 @@
 
 // TODO(crbug.com/537846713): Migrate this test suite to GlicBrowserTest.
 
+// ---docerion
+// type: test
+// title: Glic actor navigation tool interactive UI tests
+// summary: Interactive browser tests verifying the actor navigation tool, covering history back and forward actions and reuse of the actor tab.
+// ---
+
 #include "chrome/browser/actor/actor_test_util.h"
 #include "chrome/browser/glic/host/glic_actor_interactive_uitest_common.h"
 #include "content/public/test/browser_test.h"

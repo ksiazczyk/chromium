@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic guest utilities browser tests
+// summary: Browser tests exercising Glic guest utility behavior, including hosting a webview-based guest and related window handling.
+// ---
+
 #include "chrome/browser/glic/host/guest_util.h"
 
 #include "base/check_deref.h"

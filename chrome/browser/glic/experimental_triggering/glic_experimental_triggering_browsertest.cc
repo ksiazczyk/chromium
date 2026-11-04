@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for triggering with a focused PWA window
+// summary: Browser test verifying that an experimental triggering request while a PWA window is focused does not create a new normal browser window.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/glic/experimental_triggering/glic_experimental_triggering_coordinator.h"
 #include "chrome/browser/glic/glic_pref_names.h"

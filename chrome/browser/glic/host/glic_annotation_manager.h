@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic annotation manager header
+// summary: Declares GlicAnnotationManager, which manages scroll-to and highlight annotation requests for Glic.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_ANNOTATION_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_ANNOTATION_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental opt-in dialog view header
+// summary: Declares the tab-modal opt-in dialog view class that hosts the webview and observes widget and load events.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_EXPERIMENTAL_OPT_IN_GLIC_EXPERIMENTAL_OPT_IN_DIALOG_VIEW_H_
 #define CHROME_BROWSER_GLIC_EXPERIMENTAL_OPT_IN_GLIC_EXPERIMENTAL_OPT_IN_DIALOG_VIEW_H_
 

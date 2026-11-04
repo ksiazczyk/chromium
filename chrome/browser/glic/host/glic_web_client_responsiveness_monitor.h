@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic web client responsiveness monitor header
+// summary: Declares GlicWebClientResponsivenessMonitor, which tracks web client health state transitions and notifies the browser when the client UI freezes.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_WEB_CLIENT_RESPONSIVENESS_MONITOR_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_WEB_CLIENT_RESPONSIVENESS_MONITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic active instance sharing manager header
+// summary: Declares GlicActiveInstanceSharingManager, which tracks the active instance's sharing manager while respecting profile consent state.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_ACTIVE_INSTANCE_SHARING_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_ACTIVE_INSTANCE_SHARING_MANAGER_H_
 

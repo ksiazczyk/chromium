@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop Glic tab favicon adapter declarations
+// summary: Declares FaviconAdapterDesktop, which extends FaviconAdapter with FaviconDriverObserver support for desktop tabs.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_FAVICON_IMPL_GLIC_TAB_FAVICON_ADAPTER_DESKTOP_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_FAVICON_IMPL_GLIC_TAB_FAVICON_ADAPTER_DESKTOP_H_
 

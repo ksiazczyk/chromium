@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicEmptyPinnedTabManager implementation
+// summary: Implements the empty pinned tab manager, stubbing all pinning operations so no tabs can be pinned.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_empty_pinned_tab_manager.h"
 
 #include "chrome/browser/glic/host/glic.mojom.h"

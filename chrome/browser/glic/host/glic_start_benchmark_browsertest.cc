@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic startup benchmark browser test
+// summary: Browser test that benchmarks Glic web client startup over configurable iterations, measuring histogram deltas and supporting production or custom URL modes via command-line switches.
+// ---
+
 #include <algorithm>
 #include <cmath>
 #include <memory>

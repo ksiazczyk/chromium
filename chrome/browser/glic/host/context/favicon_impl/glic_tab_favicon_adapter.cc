@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab favicon adapter core implementation
+// summary: Implements FaviconData, FaviconNotifier and the base FaviconAdapter that fetch tab favicons and notify subscribed Mojo TabFaviconHandler receivers of changes.
+// ---
+
 #include "chrome/browser/glic/host/context/favicon_impl/glic_tab_favicon_adapter.h"
 
 #include "chrome/browser/glic/host/context/glic_tab_data.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicMediaPageCache unit tests
+// summary: Unit tests verifying GlicMediaPageCache ordering, cache clearing on destruction, and automatic removal of entries when they are destroyed.
+// ---
+
 #include "chrome/browser/glic/media/glic_media_page_cache.h"
 
 #include "base/test/mock_callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic share image handler unit tests
+// summary: Unit tests for the Glic share image handler covering image sharing flows, clipboard policy checks and metrics logging.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_share_image_handler.h"
 
 #include <utility>

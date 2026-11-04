@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicMediaContext implementation
+// summary: Implements GlicMediaContext, a per-frame document user data class that stores media transcripts from speech recognition results and records UKM and UMA metrics.
+// ---
+
 #include "chrome/browser/glic/media/glic_media_context.h"
 
 #include <algorithm>

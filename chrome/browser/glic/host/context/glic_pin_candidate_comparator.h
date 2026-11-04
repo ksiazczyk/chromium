@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic pin candidate comparator
+// summary: Declares a comparator that orders pin candidate tabs by query match quality and recency for sorting.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_PIN_CANDIDATE_COMPARATOR_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_PIN_CANDIDATE_COMPARATOR_H_
 

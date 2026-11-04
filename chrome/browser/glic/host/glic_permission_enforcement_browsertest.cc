@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic permission enforcement browser test
+// summary: Parameterized browser tests checking that Glic enforces microphone and geolocation permission settings in both webview and NoWebview modes.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "chrome/browser/glic/glic_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the experimental triggering coordinator
+// summary: Unit tests for the coordinator covering request handling, updates handlers, metrics, and policy behavior with mock services.
+// ---
+
 #include "chrome/browser/glic/experimental_triggering/glic_experimental_triggering_coordinator.h"
 
 #include <memory>

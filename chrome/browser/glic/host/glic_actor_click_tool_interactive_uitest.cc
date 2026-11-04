@@ -4,6 +4,12 @@
 
 // TODO(crbug.com/537846895): Migrate this test suite to GlicBrowserTest.
 
+// ---docerion
+// type: test
+// title: Glic actor click action UI tests
+// summary: Interactive browser tests for Glic actor click actions, including coordinate clicks, double clicks and clicks in web components.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/actor/actor_test_util.h"
 #include "chrome/browser/glic/host/glic_actor_interactive_uitest_common.h"

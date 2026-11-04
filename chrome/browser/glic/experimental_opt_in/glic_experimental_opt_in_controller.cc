@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental opt-in controller implementation
+// summary: Implements the controller that shows the experimental opt-in dialog, queues caller callbacks and reports whether the opt-in was accepted.
+// ---
+
 #include "chrome/browser/glic/experimental_opt_in/glic_experimental_opt_in_controller.h"
 
 #include <memory>

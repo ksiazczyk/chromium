@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic annotation manager interactive UI tests
+// summary: Interactive browser tests for Glic annotation manager scroll-to and highlight behavior, including PDFs.
+// ---
+
 #include "chrome/browser/glic/host/glic_annotation_manager.h"
 
 #include <memory>

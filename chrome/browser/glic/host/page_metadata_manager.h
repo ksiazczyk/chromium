@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic page metadata manager header
+// summary: Declares the manager that subscribes tabs to page metadata updates on behalf of the Glic web client and caches metadata when the Glic panel is inactive.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_PAGE_METADATA_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_PAGE_METADATA_MANAGER_H_
 
