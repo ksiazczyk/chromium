@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private memory footprint utilities implementation
+// summary: Implements PmfUtils, computing the current process's private memory footprint by reading /proc/self/statm and /proc/self/status, including swap usage.
+// ---
+
 #include "base/android/pmf_utils.h"
 
 #include <fcntl.h>

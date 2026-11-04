@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Java array conversion helpers
+// summary: Declares functions to convert native spans and vectors into Java arrays and to append Java array contents into native vectors.
+// ---
+
 #ifndef BASE_ANDROID_JNI_ARRAY_H_
 #define BASE_ANDROID_JNI_ARRAY_H_
 

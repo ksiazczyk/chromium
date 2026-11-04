@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScudoPurgeCoordinator implementation
+// summary: Implements periodic and background Scudo memory purging via mallopt, with foreground and background timers and UMA duration histograms.
+// ---
+
 #include "base/android/scudo_purge_coordinator.h"
 
 #include <malloc.h>

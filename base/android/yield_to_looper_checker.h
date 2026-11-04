@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YieldToLooperChecker header
+// summary: Declares YieldToLooperChecker, a UI-thread singleton tracking whether startup is running so the message pump can yield to the looper.
+// ---
+
 #ifndef BASE_ANDROID_YIELD_TO_LOOPER_CHECKER_H_
 #define BASE_ANDROID_YIELD_TO_LOOPER_CHECKER_H_
 

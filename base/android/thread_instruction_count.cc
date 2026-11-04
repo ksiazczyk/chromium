@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread instruction counter via perf events
+// summary: Reads retired hardware instruction counts for the current thread using perf_event_open and thread-local storage.
+// ---
+
 #include "base/android/thread_instruction_count.h"
 
 #include <linux/perf_event.h>

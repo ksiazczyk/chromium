@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android path utilities header
+// summary: Declares functions for retrieving Android data, cache, downloads, and storage directories.
+// ---
+
 #ifndef BASE_ANDROID_PATH_UTILS_H_
 #define BASE_ANDROID_PATH_UTILS_H_
 

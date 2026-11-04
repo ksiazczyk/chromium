@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenStateReceiver implementation
+// summary: Implements a thread-safe observer registry that notifies registered observers when the Android screen turns on or off via JNI callbacks.
+// ---
+
 #include "base/android/screen_state_receiver.h"
 
 #include "base/android/jni_android.h"

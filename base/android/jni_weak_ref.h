@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Weak Java object reference alias
+// summary: Header aliasing JavaObjectWeakGlobalRef to jni_zero's ScopedJavaGlobalWeakRef for holding weak global references to Java objects.
+// ---
+
 #ifndef BASE_ANDROID_JNI_WEAK_REF_H_
 #define BASE_ANDROID_JNI_WEAK_REF_H_
 

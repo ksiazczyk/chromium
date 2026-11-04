@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application status listener unit tests
+// summary: Unit tests verifying that application state change notifications work on a single thread and across two threads.
+// ---
+
 #include "base/android/application_status_listener.h"
 
 #include <memory>

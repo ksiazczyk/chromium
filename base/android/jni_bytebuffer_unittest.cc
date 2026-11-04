@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for JNI ByteBuffer conversion
+// summary: Unit tests checking that ByteBuffer-to-span conversion does not copy data, succeeds for zero-length buffers, and handles non-buffer objects.
+// ---
+
 #include "base/android/jni_bytebuffer.h"
 
 #include <stddef.h>

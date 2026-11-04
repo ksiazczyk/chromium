@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace event JNI binding for Perfetto tracing
+// summary: Implements JNI bindings that enable Java-side trace events and support Android view hierarchy dumps through Perfetto tracing sessions.
+// ---
+
 #include "base/android/trace_event_binding.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java and C++ string conversion implementation
+// summary: Implements conversions between Java strings and UTF-8 or UTF-16 C++ strings, using stack buffers, ASCII fast paths, and UTF16 construction to avoid modified UTF-8 issues.
+// ---
+
 #include "base/android/jni_string.h"
 
 #include <array>

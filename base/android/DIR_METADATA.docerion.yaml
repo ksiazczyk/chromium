@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for //base/android
+summary: Applies the common metadata settings to the //base/android directory by referencing the COMMON_METADATA file as a mixin.

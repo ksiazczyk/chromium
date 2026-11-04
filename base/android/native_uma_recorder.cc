@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native UMA recorder JNI implementation
+// summary: Records UMA histograms from Java by creating and updating native histogram objects.
+// ---
+
 #include <map>
 
 #include "base/android/callback_android.h"

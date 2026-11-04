@@ -1,0 +1,4 @@
+# Docerion header of resource_exclusions.gni.
+type: config
+title: Android resource exclusion patterns for GN builds
+summary: Defines GN variables with regex patterns that exclude xxxhdpi, ldpi, WearOS and mediarouter drawable resources from Android builds to reduce APK size.

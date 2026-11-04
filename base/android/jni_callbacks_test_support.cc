@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test support for JNI callback tests
+// summary: Native JNI test support that creates and passes base Once and Repeating callbacks to Java JUnit tests and tracks their invocation results.
+// ---
+
 #include "base/android/callback_android.h"
 #include "base/android/jni_string.h"
 #include "base/functional/bind.h"

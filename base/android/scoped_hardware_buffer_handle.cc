@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedHardwareBufferHandle implementation
+// summary: Implements ownership, cloning, description and Unix-socket serialization of AHardwareBuffer references for IPC transfer.
+// ---
+
 #include "base/android/scoped_hardware_buffer_handle.h"
 
 #include <android/hardware_buffer.h>

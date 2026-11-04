@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input hint checker implementation
+// summary: Implements InputHintChecker, which polls the Android framework input hint on a throttled schedule to support yielding when input is pending.
+// ---
+
 #include "base/android/input_hint_checker.h"
 
 #include <jni.h>

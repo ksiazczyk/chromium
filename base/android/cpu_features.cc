@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU features JNI bindings
+// summary: Exposes the CPU core count and feature bitmask from the NDK cpu-features library to Java through JNI.
+// ---
+
 #include <cpu-features.h>
 
 #include "base/android/jni_android.h"

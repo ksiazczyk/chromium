@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI native method registration implementation
+// summary: Implements RegisterNativeMethods, which registers a table of JNI native method bindings and logs an error if any registration fails.
+// ---
+
 #include "base/android/jni_registrar.h"
 
 #include "base/android/jni_android.h"

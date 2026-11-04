@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android command line initialization header
+// summary: Declares CommandLineInit and WasFlagsLoadedFromFile for setting up the native command line on Android.
+// ---
+
 #ifndef BASE_ANDROID_COMMAND_LINE_ANDROID_H_
 #define BASE_ANDROID_COMMAND_LINE_ANDROID_H_
 

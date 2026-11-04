@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Robolectric JNI_OnLoad implementation
+// summary: Implements JNI_OnLoad for Robolectric by initializing the base Android VM and returning JNI version 1.4.
+// ---
+
 #include <jni.h>
 
 #include "base/android/base_jni_init.h"

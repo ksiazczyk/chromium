@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatisticsRecorder JNI bridge exposing metrics as JSON
+// summary: Exposes base::StatisticsRecorder::ToJSON to Java via JNI so histogram data can be retrieved as JSON.
+// ---
+
 #include "base/metrics/statistics_recorder.h"
 
 #include <string>

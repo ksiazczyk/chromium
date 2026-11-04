@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child process unit tests
+// summary: Tests child process spawning, termination, and clean exit behavior using multiprocess test helpers.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/run_loop.h"
 #include "base/test/multiprocess_test.h"

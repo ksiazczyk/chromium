@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnguessableToken JNI conversion implementation
+// summary: Converts base::UnguessableToken values between native C++ and Java objects over JNI.
+// ---
+
 #include "base/android/unguessable_token_android.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

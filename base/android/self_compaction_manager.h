@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelfCompactionManager header for self compaction and metrics
+// summary: Declares the SelfCompactionManager class that triggers, cancels and records metrics for self compaction of the process.
+// ---
+
 #ifndef BASE_ANDROID_SELF_COMPACTION_MANAGER_H_
 #define BASE_ANDROID_SELF_COMPACTION_MANAGER_H_
 

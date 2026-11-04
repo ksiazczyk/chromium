@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APK asset access implementation
+// summary: Opens APK asset files through JNI and registers their file descriptors with the file descriptor store.
+// ---
+
 #include "base/android/apk_assets.h"
 
 #include <jni.h>

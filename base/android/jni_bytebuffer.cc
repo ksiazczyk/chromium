@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java ByteBuffer to span conversion
+// summary: Converts a Java direct ByteBuffer into a base::span over its memory, with checked variants and Maybe variants that return nullopt for invalid buffers.
+// ---
+
 #include "base/android/jni_bytebuffer.h"
 
 #include "base/containers/span.h"

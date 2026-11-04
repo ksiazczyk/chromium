@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for //base/android
+summary: Lists the reviewers responsible for //base/android and sets special review rules for AIDL files.

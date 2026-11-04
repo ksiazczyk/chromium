@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI helpers for VM init, thread attachment and exceptions
+// summary: Header declaring base::android JNI utilities for initializing the JVM, attaching and detaching threads, class lookup, and Java exception checking and reporting.
+// ---
+
 #ifndef BASE_ANDROID_JNI_ANDROID_H_
 #define BASE_ANDROID_JNI_ANDROID_H_
 

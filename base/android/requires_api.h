@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android API availability annotation macros
+// summary: Defines REQUIRES_ANDROID_API macros that annotate C++ symbols with a minimum Android API version, mirroring Java's @RequiresApi.
+// ---
+
 #ifndef BASE_ANDROID_REQUIRES_API_H_
 #define BASE_ANDROID_REQUIRES_API_H_
 

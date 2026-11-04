@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android input receiver compatibility implementation
+// summary: Dynamically loads NDK input receiver functions from libandroid.so for use on Android V and later.
+// ---
+
 #include "base/android/android_input_receiver_compat.h"
 
 #include <dlfcn.h>

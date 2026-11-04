@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI callback helpers implementation
+// summary: Implements helpers that run C++ base callbacks as Java callbacks and wrap them into JNI callback objects.
+// ---
+
 #include "base/android/callback_android.h"
 
 #include "base/android/jni_android.h"

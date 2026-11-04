@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure listener Android header
+// summary: Declares the C++ counterpart of MemoryPressureListener.java with JNI initialization.
+// ---
+
 #ifndef BASE_ANDROID_MEMORY_PRESSURE_LISTENER_ANDROID_H_
 #define BASE_ANDROID_MEMORY_PRESSURE_LISTENER_ANDROID_H_
 

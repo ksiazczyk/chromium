@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedInputEvent implementation
+// summary: Implements lifecycle management of Android AInputEvent objects, including release on Android S+ and writing motion event details into perfetto traces.
+// ---
+
 #include "base/android/scoped_input_event.h"
 
 #include "base/android/android_info.h"

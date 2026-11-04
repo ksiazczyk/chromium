@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaHandlerThread implementation
+// summary: Implements JavaHandlerThread, a Java thread with a native message loop, sequence manager, and start, stop, and initialization logic.
+// ---
+
 #include "base/android/java_handler_thread.h"
 
 #include "base/android/jni_android.h"

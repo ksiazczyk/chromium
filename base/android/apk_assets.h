@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APK asset opening API for Android
+// summary: Declares functions to open uncompressed assets from an APK, register them in the file descriptor store, and dump diagnostics on failure.
+// ---
+
 #ifndef BASE_ANDROID_APK_ASSETS_H_
 #define BASE_ANDROID_APK_ASSETS_H_
 

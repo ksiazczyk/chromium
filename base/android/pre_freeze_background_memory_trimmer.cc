@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pre-freeze background memory trimmer implementation
+// summary: Implements posting of background tasks that run before Android freezes the app and records pre-freeze memory metrics per process type.
+// ---
+
 #include "base/android/pre_freeze_background_memory_trimmer.h"
 
 #include <sys/mman.h>

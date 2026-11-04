@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure listener Android JNI bridge
+// summary: Forwards Java memory pressure and pre-freeze notifications to native MemoryPressureListeners.
+// ---
+
 #include "base/android/memory_pressure_listener_android.h"
 
 #include "base/android/pre_freeze_background_memory_trimmer.h"

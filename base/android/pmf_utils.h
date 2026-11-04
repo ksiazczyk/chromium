@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PmfUtils class declaration
+// summary: Declares the PmfUtils class that exposes the current process's private memory footprint plus a testing hook for the calculation.
+// ---
+
 #ifndef BASE_ANDROID_PMF_UTILS_H_
 #define BASE_ANDROID_PMF_UTILS_H_
 

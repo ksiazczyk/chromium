@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for SysUtils physical memory reporting
+// summary: Verifies that SysInfo::AmountOfTotalPhysicalMemory matches the RAM size reported by sysconf().
+// ---
+
 #include <stddef.h>
 #include <unistd.h>
 

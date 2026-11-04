@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnguessableToken Android unit tests
+// summary: Unit tests verifying creation, conversion, and parceling of UnguessableToken values between native and Java.
+// ---
+
 #include "base/android/unguessable_token_android.h"
 
 #include "base/android/jni_android.h"

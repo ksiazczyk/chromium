@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScudoPurgeCoordinator unit tests
+// summary: Unit tests verifying initial purge delay, periodic foreground ticks, background transitions, and mallopt call behavior of the purge coordinator.
+// ---
+
 #include "base/android/scudo_purge_coordinator.h"
 
 #include <utility>

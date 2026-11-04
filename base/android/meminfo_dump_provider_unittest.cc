@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Meminfo dump provider unit tests
+// summary: Unit tests verifying MeminfoDumpProvider reports PrivateDirty and PSS metrics and handles stale values.
+// ---
+
 #include "base/android/meminfo_dump_provider.h"
 
 #include <cstdint>

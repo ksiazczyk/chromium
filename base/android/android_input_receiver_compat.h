@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android input receiver compatibility header
+// summary: Declares function pointer types and the singleton class providing runtime access to NDK input receiver APIs.
+// ---
+
 #ifndef BASE_ANDROID_ANDROID_INPUT_RECEIVER_COMPAT_H_
 #define BASE_ANDROID_ANDROID_INPUT_RECEIVER_COMPAT_H_
 

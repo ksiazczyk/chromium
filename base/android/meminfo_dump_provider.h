@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android meminfo memory dump provider class
+// summary: Declares MeminfoDumpProvider, a memory dump provider exposing Android meminfo metrics like other_pss and other_private_dirty to the memory dump manager.
+// ---
+
 #ifndef BASE_ANDROID_MEMINFO_DUMP_PROVIDER_H_
 #define BASE_ANDROID_MEMINFO_DUMP_PROVIDER_H_
 

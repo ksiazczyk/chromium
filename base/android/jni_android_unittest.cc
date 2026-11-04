@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for JNI Android helpers
+// summary: Unit tests covering JNI method ID lookup performance and Java exception handling behavior, including exception and log-fatal callback capture.
+// ---
+
 #include "base/android/jni_android.h"
 
 #include <optional>

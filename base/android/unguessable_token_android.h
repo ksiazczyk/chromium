@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnguessableToken JNI conversion header
+// summary: Declares helpers to create Java UnguessableToken objects from native tokens and back, plus JNI type conversion specializations.
+// ---
+
 #ifndef BASE_ANDROID_UNGUESSABLE_TOKEN_ANDROID_H_
 #define BASE_ANDROID_UNGUESSABLE_TOKEN_ANDROID_H_
 

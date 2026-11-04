@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaHandlerThread header
+// summary: Declares JavaHandlerThread, a Java thread with a native message loop so tasks run alongside Java tasks on a prepared Looper.
+// ---
+
 #ifndef BASE_ANDROID_JAVA_HANDLER_THREAD_H_
 #define BASE_ANDROID_JAVA_HANDLER_THREAD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bindings for base FeatureList
+// summary: Implements a JNI method that reports whether the native base FeatureList instance is initialized.
+// ---
+
 #include "base/feature_list.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

@@ -1,3 +1,12 @@
+---
+type: readme
+title: //base/android directory guide
+summary: Describes what belongs in //base/android and gives a checklist, usage context, and reviewer guidance for adding new APIs.
+relations:
+  - references /base/README.md
+  - references /base/android/OWNERS
+---
+
 # //base/android
 
 This directory contains:

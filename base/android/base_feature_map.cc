@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base feature map exposing features to Java
+// summary: Registers the base features exposed to Java through the BaseFeatureMap JNI API and provides the native map handle.
+// ---
+
 #include <string>
 
 #include "base/android/feature_map.h"
