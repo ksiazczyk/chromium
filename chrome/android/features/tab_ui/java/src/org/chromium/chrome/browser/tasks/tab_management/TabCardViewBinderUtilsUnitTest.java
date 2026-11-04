@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabCardViewBinderUtils unit tests
+// summary: Robolectric unit tests for tab card binder utilities, focusing on attaching and detaching the tab group color view.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

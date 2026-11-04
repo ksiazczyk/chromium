@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group color picker mediator unit tests
+// summary: Robolectric tests verifying that selecting a color updates item selection flags and the selected color supplier.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.color_picker;
 
 import static org.junit.Assert.assertEquals;

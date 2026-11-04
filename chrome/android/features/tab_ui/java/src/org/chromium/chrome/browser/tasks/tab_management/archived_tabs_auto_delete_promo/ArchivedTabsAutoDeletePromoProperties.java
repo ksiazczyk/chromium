@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Archived tabs auto-delete promo properties
+// summary: Defines the property keys and default PropertyModel for the promo bottom sheet, including the description text and yes and no button click listeners.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.archived_tabs_auto_delete_promo;
 
 import android.view.View.OnClickListener;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherPane
+// summary: Implements the hub pane representing the regular tab switcher, including tab selection, group filtering, and IPH handling.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.chrome.browser.data_sharing.ui.versioning.VersionUpdateIphHandler.maybeShowVersioningIph;

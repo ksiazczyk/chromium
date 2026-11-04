@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'TabsSettings: tab-related Chrome settings fragment'
+// summary: Android settings fragment exposing tab-related Chrome preferences such as auto-opening synced tab groups, tab archiving, and sharing titles and URLs with the OS.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assertNonNull;

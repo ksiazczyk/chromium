@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListOnScrollListener
+// summary: RecyclerView scroll listener that publishes whether the tab list's vertical scroll offset is non-zero through an observable supplier, updating only on state changes.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import androidx.recyclerview.widget.RecyclerView;

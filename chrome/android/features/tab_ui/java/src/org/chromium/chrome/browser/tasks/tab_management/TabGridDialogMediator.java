@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mediator for the tab grid dialog
+// summary: Implements the business logic for the tab grid dialog, reacting to tab model changes and updating properties such as title, sharing, colors, and visibility.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

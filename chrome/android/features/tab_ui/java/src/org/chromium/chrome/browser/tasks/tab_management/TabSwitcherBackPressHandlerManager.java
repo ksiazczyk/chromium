@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherBackPressHandlerManager
+// summary: Aggregates tab switcher drag handlers into a single back press handler that intercepts escape presses while a drag is in progress.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import org.chromium.base.Callback;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSearchOverlayCoordinator
+// summary: Coordinates the tab search overlay, wiring omnibox search, visibility, back press, and incognito behavior for searching open tabs.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

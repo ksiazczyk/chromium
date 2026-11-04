@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherResetHandler
+// summary: Interface for delegating a reset of the tab grid with a given, possibly null, list of tabs.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import org.chromium.build.annotations.NullMarked;

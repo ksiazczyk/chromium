@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripReorderingHelper
+// summary: Abstract overflow menu helper that adds accessibility-driven move left and right reordering of tabs or groups in the tab strip.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.app.Activity;

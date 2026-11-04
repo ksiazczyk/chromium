@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupItem
+// summary: Immutable item representing a tab group card or header, carrying the group token plus selection and collapse states with value equality.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.data_provider;
 
 import org.chromium.base.Token;

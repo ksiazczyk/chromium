@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGridDialogView
+// summary: Android FrameLayout that hosts the tab grid dialog in Chrome's tab management UI, handling show/hide animations, scrim, toolbar and ungroup bar states.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

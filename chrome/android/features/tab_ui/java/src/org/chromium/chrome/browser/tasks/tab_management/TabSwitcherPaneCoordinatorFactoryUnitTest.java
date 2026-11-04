@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherPaneCoordinatorFactoryUnitTest
+// summary: Robolectric unit tests verifying construction and dependency wiring of TabSwitcherPaneCoordinatorFactory.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

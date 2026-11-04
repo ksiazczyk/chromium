@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabUiFeatureUtilities
+// summary: Utility class handling feature flag state for the tab management module, including the OEM allowlist for tab tearing and the Android Tab UI refactor flag.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.os.Build;

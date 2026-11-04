@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupListViewBinder
+// summary: Statelessly forwards changed tab group list property model values, such as empty state visibility and sync enabled, to the TabGroupListView.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.chrome.browser.tasks.tab_management.TabGroupListProperties.EMPTY_STATE_VISIBLE;

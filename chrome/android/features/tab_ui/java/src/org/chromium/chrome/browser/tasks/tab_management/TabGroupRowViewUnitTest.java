@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group row view unit tests
+// summary: Unit tests for the tab group row view, verifying title data, menu runnables, shared image tiles, and row click behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static android.view.View.GONE;

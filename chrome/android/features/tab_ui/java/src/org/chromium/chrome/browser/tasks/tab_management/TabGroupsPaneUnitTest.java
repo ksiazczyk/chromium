@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupsPaneUnitTest
+// summary: Robolectric unit tests for TabGroupsPane, using mocks to verify pane behavior with data sharing and tab group sync features enabled.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

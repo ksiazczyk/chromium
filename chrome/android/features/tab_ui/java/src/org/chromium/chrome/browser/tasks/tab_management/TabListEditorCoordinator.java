@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListEditorCoordinator
+// summary: Coordinator for the TabListEditor component that manages communication with TabListCoordinator and the lifecycle of the shared selection editor across creation modes.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

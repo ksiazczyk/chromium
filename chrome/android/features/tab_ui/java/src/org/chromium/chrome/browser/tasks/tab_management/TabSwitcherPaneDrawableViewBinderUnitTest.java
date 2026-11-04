@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab switcher pane drawable view binder unit tests
+// summary: Unit tests verifying that all drawable properties are bound to the TabSwitcherDrawable with the expected values.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.mockito.ArgumentMatchers.eq;

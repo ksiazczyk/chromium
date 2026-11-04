@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupListBottomSheetMediator
+// summary: Mediator holding the interaction logic for the tab group list bottom sheet, including sheet state observation and row model management.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.chrome.browser.tabmodel.TabGroupUtils.createNewGroupForTabs;

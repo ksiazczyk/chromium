@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListEditorMediator
+// summary: Mediator containing the business logic for the tab list editor, including selection handling, visibility-based resets, and desktop windowing and edge-to-edge adjustments.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

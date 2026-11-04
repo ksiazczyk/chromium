@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListGroupMenuCoordinator
+// summary: Coordinator for the overflow menu on tab group cards in the grid tab switcher, building and displaying the group menu items.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.ui.widget.AnchoredPopupWindow.HorizontalOrientation.MAX_AVAILABLE_SPACE;

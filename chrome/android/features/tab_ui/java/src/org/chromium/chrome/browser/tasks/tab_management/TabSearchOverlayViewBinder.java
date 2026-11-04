@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSearchOverlayViewBinder
+// summary: Binds tab search overlay properties to views, handling show and hide animations, close and scrim clicks, and accessibility announcements.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.animation.Animator;

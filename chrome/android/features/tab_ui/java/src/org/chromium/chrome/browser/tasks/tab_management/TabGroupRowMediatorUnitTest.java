@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupRowMediator unit tests
+// summary: Unit tests for the tab group row mediator, covering shared group display, deletion, leaving, and open actions using Mockito and Robolectric.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

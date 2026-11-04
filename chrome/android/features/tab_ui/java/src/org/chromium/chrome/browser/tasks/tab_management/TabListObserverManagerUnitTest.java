@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabListObserverManagerUnitTest
+// summary: Unit tests verifying that TabListObserverManager registers and removes tab and tab group observers on the tab model and resets the layout delegate.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.mockito.Mockito.verify;

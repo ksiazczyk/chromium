@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabArchiveSettingsFragmentUnitTest
+// summary: Robolectric unit tests for the tab archive settings fragment, verifying preference state, radio button selection behavior, and recorded histograms.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.archived_tabs;
 
 import static org.junit.Assert.assertEquals;

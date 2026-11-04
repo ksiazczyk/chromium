@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupCreationDialogManager
+// summary: Manages the modal dialog shown when a new tab group is created, handling title and color changes, dismissal causes, and related metrics recording.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.Context;

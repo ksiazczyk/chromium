@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloseAllTabsDialog
+// summary: Shows a modal dialog to confirm or cancel the close all tabs action, including an option to also close pinned tabs, with metrics recording.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.Context;

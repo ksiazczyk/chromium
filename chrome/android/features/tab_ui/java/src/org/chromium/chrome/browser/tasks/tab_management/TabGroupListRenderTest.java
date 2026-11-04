@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group list render tests
+// summary: Instrumented render tests that capture screenshots of the tab group pane list while one to three tab groups are created.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withText;

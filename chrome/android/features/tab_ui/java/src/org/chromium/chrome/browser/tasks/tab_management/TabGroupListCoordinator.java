@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group list coordinator
+// summary: Coordinator that orchestrates displaying an interactive list of tab groups, wiring the view, mediator, adapter, favicon provider, and edge-to-edge handling.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

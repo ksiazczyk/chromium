@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabListItemAnimatorUnitTest
+// summary: Robolectric unit tests for TabListItemAnimator, verifying alpha, translation and scale animations for tab and message cards in the tab list.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

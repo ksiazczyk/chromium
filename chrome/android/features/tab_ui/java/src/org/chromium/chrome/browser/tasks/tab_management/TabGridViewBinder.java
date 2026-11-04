@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGridViewBinder
+// summary: View binder that applies full and partial property updates to tab grid card views, including thumbnails, favicons, labels and action states.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static android.view.View.GONE;

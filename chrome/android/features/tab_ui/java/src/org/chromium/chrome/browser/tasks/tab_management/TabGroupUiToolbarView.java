@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupUiToolbarView
+// summary: Custom FrameLayout implementing the toolbar for the bottom tab strip, exposing buttons, tinting, visibility and background controls for the tab group UI.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.Context;

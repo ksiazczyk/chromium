@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab switcher pane drawable coordinator unit tests
+// summary: Unit tests for the drawable coordinator, mainly for coverage of drawable creation and destruction, with logic covered in the mediator test.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertNotNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListContainerProperties
+// summary: Defines property keys for the tab list container's property model, covering scrolling, padding, accessibility, and browser controls.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.view.View;

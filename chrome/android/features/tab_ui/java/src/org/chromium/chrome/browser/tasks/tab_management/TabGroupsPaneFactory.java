@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupsPaneFactory
+// summary: Factory that constructs TabGroupsPane instances for the Hub from tab model, pane manager, dialog and edge-to-edge suppliers.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

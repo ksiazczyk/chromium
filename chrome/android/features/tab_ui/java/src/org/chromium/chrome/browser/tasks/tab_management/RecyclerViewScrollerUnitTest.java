@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecyclerViewScroller unit tests
+// summary: Robolectric unit tests for RecyclerViewScroller helpers, covering smooth scrolling to fully visible, partially visible, and distant positions.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

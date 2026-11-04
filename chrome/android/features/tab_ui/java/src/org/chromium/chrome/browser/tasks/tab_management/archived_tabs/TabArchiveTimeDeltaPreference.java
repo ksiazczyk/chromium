@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabArchiveTimeDeltaPreference
+// summary: Custom Android preference that renders radio buttons for choosing the tab archive time delta, such as never, 7, 14, or 21 days inactive.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.archived_tabs;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group list bottom sheet view
+// summary: Android view implementing BottomSheetContent for a bottom sheet that lists tab groups and warns that changes to a shared group are visible to all members.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static android.view.View.LAYOUT_DIRECTION_LTR;

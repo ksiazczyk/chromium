@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListMediator
+// summary: Central mediator for the tab switcher's tab list, coordinating card updates, animations, accessibility, metrics, thumbnails and message cards.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assertNonNull;

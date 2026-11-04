@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab component identifiers
+// summary: IntDef annotation listing parent components that host a tab list, such as grid tab switcher, tab strip, list editor, and vertical tabs.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import androidx.annotation.IntDef;

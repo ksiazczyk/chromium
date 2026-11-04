@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito tab switcher pane
+// summary: Hub pane implementation for the incognito tab switcher, handling re-auth callbacks, incognito tab model changes, tab closing methods, and pane lifecycle.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

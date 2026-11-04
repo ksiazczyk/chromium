@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecyclerView scroller
+// summary: Utility that smooth-scrolls a RecyclerView to a target index and detects when the scroll finishes or is interrupted by the user.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.graphics.Rect;

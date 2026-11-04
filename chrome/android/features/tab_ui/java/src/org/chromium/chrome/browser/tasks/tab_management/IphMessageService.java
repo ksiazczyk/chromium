@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPH message service
+// summary: Message service that serves in-product help (IPH) messages for the tab groups drag-and-drop feature, using the feature engagement tracker to trigger or dismiss the UI.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.annotation.SuppressLint;

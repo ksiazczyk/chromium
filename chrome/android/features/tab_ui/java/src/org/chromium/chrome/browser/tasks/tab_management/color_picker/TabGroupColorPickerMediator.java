@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group color picker mediator
+// summary: Holds the logic that updates selection state across color item models and exposes the selected color supplier.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.color_picker;
 
 import org.chromium.base.supplier.MonotonicObservableSupplier;

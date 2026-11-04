@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListCoordinator
+// summary: Coordinates construction and lifecycle of the tab list UI, wiring recycler views, mediators, message cards, and favicon or thumbnail providers.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

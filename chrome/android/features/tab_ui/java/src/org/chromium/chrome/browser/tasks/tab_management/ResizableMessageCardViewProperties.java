@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resizable message card view properties
+// summary: Defines the property keys for the resizable tab grid message item, including its width and the combined list of all keys.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import org.chromium.build.annotations.NullMarked;

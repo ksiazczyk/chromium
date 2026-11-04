@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupUiFactory
+// summary: Factory that creates TabGroupUi instances, wiring together the many dependencies needed for the tab group surface.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.app.Activity;

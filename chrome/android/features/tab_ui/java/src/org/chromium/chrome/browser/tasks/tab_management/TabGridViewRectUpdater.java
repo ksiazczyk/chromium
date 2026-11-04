@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGridViewRectUpdater
+// summary: ViewRectUpdateStrategy for TabGridView that tracks the view's scaled bounds in window coordinates and runs a callback whenever the rect changes.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.graphics.Rect;

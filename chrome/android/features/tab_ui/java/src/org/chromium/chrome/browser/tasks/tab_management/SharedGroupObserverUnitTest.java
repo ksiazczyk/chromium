@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedGroupObserver unit tests
+// summary: Robolectric unit tests verifying SharedGroupObserver behavior for null groups, missing collaboration IDs, and observer lifecycle.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

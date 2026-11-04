@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Styling utilities for message card views
+// summary: Utility helpers that set text appearance and colors for message card titles, descriptions, and action buttons in regular, incognito, and large card variants.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.res.ColorStateList;

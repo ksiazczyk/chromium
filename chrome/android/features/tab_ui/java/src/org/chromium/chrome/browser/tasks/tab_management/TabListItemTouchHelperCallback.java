@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListItemTouchHelperCallback
+// summary: Abstract ItemTouchHelper callback providing shared touch handling, long-press orchestration and drag or swipe checks for tab list layouts.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.Context;

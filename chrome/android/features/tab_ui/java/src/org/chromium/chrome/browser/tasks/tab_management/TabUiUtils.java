@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabUiUtils
+// summary: Static utilities for Tab UI, including closing tab groups with confirmation dialogs and handling collaboration and data sharing entry points.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.Context;

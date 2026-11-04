@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabArchiveSettingsFragment
+// summary: Android settings fragment that presents tab archive options for Chrome, including the auto-delete switch and inactive time delta preferences.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.archived_tabs;
 
 import static org.chromium.build.NullUtil.assertNonNull;

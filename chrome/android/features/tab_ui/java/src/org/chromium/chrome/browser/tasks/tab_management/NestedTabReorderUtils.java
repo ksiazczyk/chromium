@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for reordering nested tabs and groups
+// summary: Helper utilities for reordering tabs and tab groups in the nested tab list layout, including ungrouping child tabs and merging standalone tabs into groups.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import org.chromium.base.Token;

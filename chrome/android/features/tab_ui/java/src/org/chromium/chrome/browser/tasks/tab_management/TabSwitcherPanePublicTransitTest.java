@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherPanePublicTransitTest
+// summary: Public transit instrumented tests for the Hub's tab switcher panes, covering tab model switching with scroll position and tab list editor entry and exit.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.Espresso.onView;

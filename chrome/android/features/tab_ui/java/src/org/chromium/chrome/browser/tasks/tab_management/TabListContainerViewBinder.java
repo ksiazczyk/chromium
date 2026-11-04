@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListContainerViewBinder
+// summary: Binds tab list container property changes to view updates, including animations, scrolling, and accessibility events.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static android.view.accessibility.AccessibilityEvent.TYPE_VIEW_FOCUSED;

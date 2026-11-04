@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupWindowState int-def enum for tab group locations
+// summary: Defines an IntDef enum tracking whether a tab group is in the current window, closing, in another window, or hidden, for use in UMA histograms.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import androidx.annotation.IntDef;

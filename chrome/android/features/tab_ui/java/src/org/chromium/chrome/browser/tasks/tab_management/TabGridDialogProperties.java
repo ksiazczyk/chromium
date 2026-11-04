@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property keys for the tab grid dialog
+// summary: Defines the property keys used by the tab grid dialog's model, covering visibility, colors, click listeners, and ungroup bar state.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.res.ColorStateList;

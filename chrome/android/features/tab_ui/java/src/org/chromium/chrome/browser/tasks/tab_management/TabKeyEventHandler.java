@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabKeyEventHandler
+// summary: Handles page-up and page-down key events by reordering a tab or its tab group within the tab model.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static android.view.KeyEvent.KEYCODE_PAGE_DOWN;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CollaborationActivityMessageCardViewModelUnitTest
+// summary: Robolectric unit tests for the collaboration activity message card view model, checking action and dismiss handlers and description text for tab updates.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;
