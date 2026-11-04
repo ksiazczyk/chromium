@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwNavigationState
+// summary: Wraps a NavigationState for embedders, exposing navigation details such as URL, status code, commit state, errors, and response headers.
+// ---
+
 package org.chromium.android_webview;
 
 import androidx.annotation.AnyThread;

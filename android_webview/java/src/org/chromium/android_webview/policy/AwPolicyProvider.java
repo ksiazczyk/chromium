@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwPolicyProvider: Android WebView policy provider'
+// summary: 'Java provider that plumbs Android app restriction policies into the native policy system, passing on only keys prefixed with com.android.browser: that target WebView.'
+// ---
+
 package org.chromium.android_webview.policy;
 
 import android.content.Context;

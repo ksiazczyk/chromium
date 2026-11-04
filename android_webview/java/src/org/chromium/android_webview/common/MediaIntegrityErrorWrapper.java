@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type-safe wrapper for Media Integrity errors
+// summary: Wraps an int annotated with MediaIntegrityErrorCode so it can be passed as an error value through ValueOrErrorCallback without losing type information.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/common/MediaIntegrityErrorCode.java
+// ---
+
 package org.chromium.android_webview.common;
 
 import org.chromium.build.annotations.NullMarked;

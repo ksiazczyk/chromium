@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinator for the WebView context menu header
+// summary: Builds the context menu header model and sets its favicon, falling back to a tinted globe icon when the favicon is missing or stale.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/contextmenu/AwContextMenuHeaderProperties.java
+// ---
+
 package org.chromium.android_webview.contextmenu;
 
 import android.content.Context;

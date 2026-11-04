@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwMinidumpUploader
+// summary: Handles copying, deletion, and uploading of minidump crash files to the crash receiver service, including metrics consent handling.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.ComponentName;

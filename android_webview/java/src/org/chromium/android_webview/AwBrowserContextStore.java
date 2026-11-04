@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView browser context store
+// summary: Java side of the browser context store that looks up, lists, checks, creates and deletes named WebView profiles by delegating to native code.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.JNINamespace;

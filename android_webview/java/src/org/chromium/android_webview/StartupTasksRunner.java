@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupTasksRunner
+// summary: Runs Chromium startup tasks synchronously or asynchronously depending on the triggering thread, and records startup timings and modes.
+// relations:
+//   - references /base/tracing/protos/chrome_track_event.proto
+//   - references /tools/metrics/histograms/metadata/android/enums.xml
+// ---
+
 package org.chromium.android_webview;
 
 import android.os.SystemClock;

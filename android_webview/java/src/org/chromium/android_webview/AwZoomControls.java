@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwZoomControls
+// summary: Manages the on-screen zoom buttons for an AwContents, showing, dismissing, and updating the ZoomButtonsController based on zoom capability.
+// ---
+
 package org.chromium.android_webview;
 
 import android.annotation.SuppressLint;

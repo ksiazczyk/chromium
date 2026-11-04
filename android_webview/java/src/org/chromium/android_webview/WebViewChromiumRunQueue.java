@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewChromiumRunQueue
+// summary: Queue that defers WebView API tasks on the UI thread until Chromium has started, with blocking execution and deadlock detection support.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.android_webview.common.Lifetime;

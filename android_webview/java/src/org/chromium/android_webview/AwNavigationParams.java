@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwNavigationParams
+// summary: Holds parameters for AwContents.navigate, including the URL, whether to replace the current entry, and optional extra HTTP headers.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.build.annotations.Nullable;

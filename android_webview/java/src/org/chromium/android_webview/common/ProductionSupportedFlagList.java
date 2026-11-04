@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Production-supported flag list for WebView
+// summary: Lists command-line flags and features considered safe to enable on production Android devices, shared between the developer UI and the WebView implementation.
+// relations:
+//   - references /android_webview/docs/developer-ui.md
+//   - references /tools/metrics/histograms/enums.xml
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/common/Flag.java
+// ---
+
 package org.chromium.android_webview.common;
 
 import org.chromium.base.BaseFeatures;

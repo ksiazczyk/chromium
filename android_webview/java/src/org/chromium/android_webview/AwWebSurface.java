@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebSurface
+// summary: Presentation surface helper that renders and handles input for AwContents without intermediate Android View hierarchies, binding a native peer to the WebContents.
+// ---
+
 package org.chromium.android_webview;
 
 import android.graphics.Canvas;

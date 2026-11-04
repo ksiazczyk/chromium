@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value-or-error callback interface
+// summary: Generic callback interface that delivers either a result of type T or an error of type E.
+// ---
+
 package org.chromium.android_webview.common;
 
 import org.chromium.build.annotations.NullMarked;

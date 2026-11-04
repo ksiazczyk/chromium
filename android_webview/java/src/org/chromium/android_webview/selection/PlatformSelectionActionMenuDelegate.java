@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformSelectionActionMenuDelegate
+// summary: WebView selection action menu delegate that lets the embedding platform customize menu item order, additional items, text processing filters and click handling.
+// ---
+
 package org.chromium.android_webview.selection;
 
 import android.content.Context;

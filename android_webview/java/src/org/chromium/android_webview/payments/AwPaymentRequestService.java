@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwPaymentRequestService: WebView PaymentRequest service'
+// summary: Implements the WebView part of the PaymentRequest service in the host app process, launching Android payment apps via intents and answering canMakePayment and hasEnrolledInstrument queries without browser UI.
+// ---
+
 package org.chromium.android_webview.payments;
 
 import android.content.Intent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView threading utilities
+// summary: Utility class that posts tasks to the current or UI thread looper so uncaught Java exceptions are handled by Android's crash reporting.
+// ---
+
 package org.chromium.android_webview;
 
 import android.os.Handler;

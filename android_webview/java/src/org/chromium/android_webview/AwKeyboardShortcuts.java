@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwKeyboardShortcuts
+// summary: Handles WebView keyboard shortcut events, notably zoom in, zoom out, and reset shortcuts, that were not already handled by the WebContents delegate.
+// ---
+
 package org.chromium.android_webview;
 
 import android.view.KeyEvent;

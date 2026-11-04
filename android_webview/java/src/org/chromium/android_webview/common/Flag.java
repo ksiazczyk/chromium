@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'Flag: commandline flag and base feature representation'
+// summary: Represents a commandline switch or base::Feature, used by the developer UI to pass flags to the WebView implementation.
+// ---
+
 package org.chromium.android_webview.common;
 
 import org.chromium.build.annotations.NullMarked;

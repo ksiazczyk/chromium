@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwDataDirLock: WebView data directory locking'
+// summary: Java class that locks the WebView data directory with a file lock so only one process can use it, retrying and recording lock outcomes for metrics.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.Context;

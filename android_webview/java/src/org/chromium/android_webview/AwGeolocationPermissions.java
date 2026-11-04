@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwGeolocationPermissions: geolocation permission management'
+// summary: Java class managing per-origin geolocation permissions for the WebView JavaScript API, storing allow and deny decisions in SharedPreferences.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.SharedPreferences;

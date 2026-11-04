@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DualTraceEvent
+// summary: Scoped wrapper that emits both Chromium TraceEvent and system trace events at once, keeping atrace tracing alive during WebView startup alongside Perfetto.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.base.TraceEvent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAddressParser
+// summary: Regex-based parser for user-typed web addresses, adapted from the Android framework WebAddress class with fixes for specific bugs.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.build.annotations.NullMarked;

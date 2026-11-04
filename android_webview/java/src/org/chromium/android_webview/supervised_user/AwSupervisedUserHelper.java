@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwSupervisedUserHelper
+// summary: Java helper called from native code that opens the supervised user help center in the default browser from the restricted content interstitial, ignoring missing browser activity.
+// ---
+
 package org.chromium.android_webview.supervised_user;
 
 import android.content.ActivityNotFoundException;

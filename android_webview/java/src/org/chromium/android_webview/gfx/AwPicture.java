@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPicture
+// summary: Java wrapper around a native SkPicture that extends android.graphics.Picture so final rendering of WebView content can be performed using Chromium's skia library.
+// ---
+
 package org.chromium.android_webview.gfx;
 
 import android.graphics.Canvas;

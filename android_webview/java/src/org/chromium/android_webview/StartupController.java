@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupController
+// summary: Singleton controller managing the WebView startup lifecycle, coordinating delegate callbacks, run queues, thread setup and startup completion.
+// ---
+
 package org.chromium.android_webview;
 
 import android.os.Looper;

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript dialog result handler
+// summary: Implements the JS result receiver interfaces to forward confirm or cancel decisions from dialogs back to the contents client bridge on the UI thread.
+// relations:
+//   - implements /android_webview/java/src/org/chromium/android_webview/JsPromptResultReceiver.java
+//   - implements /android_webview/java/src/org/chromium/android_webview/JsResultReceiver.java
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.base.task.PostTask;

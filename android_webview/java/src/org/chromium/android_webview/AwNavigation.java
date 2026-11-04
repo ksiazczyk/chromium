@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwNavigation
+// summary: Represents a WebView navigation exposed to embedders, wrapping a NavigationHandle with page, status, and error information.
+// ---
+
 package org.chromium.android_webview;
 
 import androidx.annotation.AnyThread;

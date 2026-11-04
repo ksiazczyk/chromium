@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for WebView variations directory
+summary: Forwards code ownership to the android_webview browser variations OWNERS file.
+relations:
+  - references /android_webview/browser/variations/OWNERS

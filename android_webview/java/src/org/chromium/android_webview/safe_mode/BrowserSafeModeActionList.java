@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser Safe Mode action list
+// summary: Defines the ordered list of SafeModeActions supported by the WebView browser process, which the SafeModeService selects from for execution during safe mode.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/safe_mode/DisableCrashyClassSafeModeAction.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/safe_mode/NoopSafeModeAction.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/autofill/AndroidAutofillSafeModeAction.java
+// ---
+
 package org.chromium.android_webview.safe_mode;
 
 import org.chromium.android_webview.autofill.AndroidAutofillSafeModeAction;

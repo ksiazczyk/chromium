@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsServiceMetricsHelper
+// summary: Stores variations service metrics values that can be initialized from and serialized to a variations SharedPreferences or a Bundle for AIDL IPC calls.
+// ---
+
 package org.chromium.android_webview.common.variations;
 
 import android.content.Context;

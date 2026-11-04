@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op default PlatformServiceBridge implementation
+// summary: Default do-nothing implementation of PlatformServiceBridge, used when no platform-specific service implementation is provided.
+// ---
+
 package org.chromium.android_webview.common;
 
 /**

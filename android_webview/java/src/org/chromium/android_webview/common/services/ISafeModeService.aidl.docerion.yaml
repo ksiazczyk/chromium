@@ -1,0 +1,4 @@
+# Docerion header of ISafeModeService.aidl.
+type: source
+title: ISafeModeService AIDL interface
+summary: Defines the IPC interface for trusted services to set the WebView SafeMode configuration and for apps to read the SafeMode activation timestamp.

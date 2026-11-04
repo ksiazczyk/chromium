@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMessageListenerHolder
+// summary: Holds a WebMessageListener instance so native C++ code can dispatch postMessage events to the Java listener.
+// ---
+
 package org.chromium.android_webview;
 
 import android.net.Uri;

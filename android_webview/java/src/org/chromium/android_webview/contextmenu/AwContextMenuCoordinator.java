@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView context menu coordinator
+// summary: Coordinates creation and display of the WebView context menu as a dialog or anchored popup, managing the item list, header, and dismissal.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/contextmenu/AwContextMenuHeaderCoordinator.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/contextmenu/AwContextMenuPopulator.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/contextmenu/AwContextMenuItemProperties.java
+// ---
+
 package org.chromium.android_webview.contextmenu;
 
 import static org.chromium.android_webview.contextmenu.AwContextMenuItemProperties.MENU_ID;

@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: AwNonembeddedUmaReplayer
+// summary: Replays histogram and user action calls recorded by AwProcessUmaRecorder into the UMA recorder in processes with initialized UMA.
+// ---
+
 package org.chromium.android_webview.metrics;
 
 import android.os.Bundle;

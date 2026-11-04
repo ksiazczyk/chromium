@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView browser process initialization
+// summary: Wrapper for the steps needed to initialize the Java and native sides of WebView Chromium, including native library loading and data directory configuration.
+// ---
+
 package org.chromium.android_webview;
 
 import android.os.StrictMode;

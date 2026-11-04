@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceNames
+// summary: Constants class defining the fully-qualified class names of WebView services so callers can reference them without depending on the service classes.
+// ---
+
 package org.chromium.android_webview.common.services;
 
 import org.chromium.build.annotations.NullMarked;

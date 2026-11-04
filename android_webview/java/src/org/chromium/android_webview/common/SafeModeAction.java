@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeMode action base class
+// summary: Abstract base class defining a WebView SafeMode precaution, tracking enabled state and providing an identifier and a Java-only startup execution hook.
+// ---
+
 package org.chromium.android_webview.common;
 
 import org.chromium.build.annotations.NullMarked;

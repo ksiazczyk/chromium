@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View binder for the context menu header
+// summary: Binds the header title and icon properties to the header text and image views of the context menu.
+// ---
+
 package org.chromium.android_webview.contextmenu;
 
 import static org.chromium.android_webview.contextmenu.AwContextMenuHeaderProperties.TITLE;

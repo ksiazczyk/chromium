@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text selection dropdown menu delegate for WebView
+// summary: WebView implementation of the text selection dropdown menu delegate that shows a hierarchical popup menu, supported only on Android U and later.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.Context;

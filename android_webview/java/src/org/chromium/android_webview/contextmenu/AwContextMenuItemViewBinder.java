@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View binder for context menu items
+// summary: Binds context menu item text and icon properties to the menu row text and image views.
+// ---
+
 package org.chromium.android_webview.contextmenu;
 
 import static org.chromium.android_webview.contextmenu.AwContextMenuItemProperties.ICON_DRAWABLE;

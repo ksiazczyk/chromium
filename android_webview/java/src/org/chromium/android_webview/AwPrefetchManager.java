@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPrefetchManager
+// summary: Manages app-initiated WebView prefetch requests, queueing them and recording API result histograms.
+// relations:
+//   - references /tools/metrics/histograms/metadata/android/enums.xml
+// ---
+
 package org.chromium.android_webview;
 
 import android.os.Bundle;

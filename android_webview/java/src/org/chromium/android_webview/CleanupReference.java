@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CleanupReference
+// summary: Runs cleanup tasks on the UI thread when a tracked object becomes eligible for garbage collection, using a weak reference queue and reaper thread.
+// ---
+
 package org.chromium.android_webview;
 
 import android.annotation.SuppressLint;

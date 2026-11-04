@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Mode action to disable Safe Browsing in WebView
+// summary: Safe Mode action that reports whether Safe Browsing is disabled so WebView can skip checks and GMS Core communication.
+// ---
+
 package org.chromium.android_webview.safe_browsing;
 
 import org.jni_zero.CalledByNative;

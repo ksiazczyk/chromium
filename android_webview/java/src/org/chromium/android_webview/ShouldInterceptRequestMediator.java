@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShouldInterceptRequestMediator
+// summary: Manages the shouldInterceptRequest callback for WebView and service worker clients, tracking overrides in a thread-safe way and recording usage histograms.
+// ---
+
 package org.chromium.android_webview;
 
 import android.webkit.WebResourceRequest;

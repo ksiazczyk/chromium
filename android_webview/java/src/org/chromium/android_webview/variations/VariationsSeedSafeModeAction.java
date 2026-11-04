@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsSeedSafeModeAction
+// summary: SafeMode action that deletes the variations seed, new seed, and stamp files to reset variations state in WebView.
+// ---
+
 package org.chromium.android_webview.variations;
 
 import org.chromium.android_webview.common.Lifetime;

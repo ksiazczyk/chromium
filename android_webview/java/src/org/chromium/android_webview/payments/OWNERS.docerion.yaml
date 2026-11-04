@@ -1,0 +1,7 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the WebView payments directory
+summary: Delegates code ownership to the components/payments OWNERS file and asks reviewers to loop in the WebView OWNERS for changes that materially affect WebView behavior.
+relations:
+  - references /android_webview/OWNERS
+  - references /components/payments/OWNERS

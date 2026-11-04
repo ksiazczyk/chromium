@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Computed feature flags from system capabilities
+// summary: Computes feature flags from system capabilities, such as enabling pageStartedOnCommit for browser navigations based on the Google Play services package version.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.base.ContextUtils;

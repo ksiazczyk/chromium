@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistogramsAllowlist
+// summary: Holds the hashed names of histograms uploaded at 100% sampling when metrics filtering is applied, to limit network and storage use.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/metrics/AwMetricsUtils.java
+// ---
+
 package org.chromium.android_webview.metrics;
 
 import org.chromium.build.annotations.NullMarked;

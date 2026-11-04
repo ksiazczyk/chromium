@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView browser context (profile)
+// summary: Java side of the browser context that hosts one WebView browsing session, managing geolocation permissions, service worker controller, quota bridge and cached media integrity providers.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.Context;

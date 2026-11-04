@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advanced protection status bridge for Android WebView
+// summary: Java bridge that observes the Android OS advanced protection state and notifies native WebView code when it changes.
+// ---
+
 package org.chromium.android_webview.safe_browsing;
 
 import android.Manifest;

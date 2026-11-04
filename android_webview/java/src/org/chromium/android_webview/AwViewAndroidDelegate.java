@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwViewAndroidDelegate
+// summary: WebView implementation of ViewAndroidDelegate that manages anchor views, their positions, and container view transfers for the Android WebView.
+// ---
+
 package org.chromium.android_webview;
 
 import android.view.View;

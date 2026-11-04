@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwLoadUrlMetricsObserver
+// summary: Java peer of the AwLoadUrlMetricsObserver C++ class that records pending load URL timestamps for metrics purposes.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.JNINamespace;

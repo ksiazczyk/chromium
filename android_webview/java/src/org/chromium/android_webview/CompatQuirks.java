@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompatQuirks
+// summary: Centralizes WebView backward-compatibility quirks keyed by target SDK level, delegating to an embedder-provided check with test override support.
+// ---
+
 package org.chromium.android_webview;
 
 import androidx.annotation.IntDef;

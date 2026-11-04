@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeMode action ID constants
+// summary: Defines string identifiers for SafeMode actions, shared between embedded and non-embedded WebView for Variations Fast Fetch Mode.
+// relations:
+//   - references /android_webview/java/src/org/chromium/android_webview/common/SafeModeController.java
+// ---
+
 package org.chromium.android_webview.common;
 
 import org.chromium.build.annotations.NullMarked;

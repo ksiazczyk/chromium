@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupCallSite
+// summary: Enumeration of call sites that can trigger WebView Chromium startup, persisted in logs and kept in sync with proto and enums.xml definitions.
+// relations:
+//   - references /base/tracing/protos/chrome_track_event.proto
+// ---
+
 package org.chromium.android_webview;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwAccessibilityStateVisibilityManager
+// summary: Manages WebView accessibility state visibility by registering observers for Android accessibility settings and forwarding app foreground and background state changes to its observer.
+// ---
+
 package org.chromium.android_webview.accessibility;
 
 import org.chromium.android_webview.AppState;

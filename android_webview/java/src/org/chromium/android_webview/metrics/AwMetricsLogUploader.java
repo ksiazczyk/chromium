@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwMetricsLogUploader
+// summary: Sends WebView metrics logs to the nonembedded MetricsUploadService or the platform bridge, optionally wrapped with metrics filtering.
+// relations:
+//   - implements /android_webview/java/src/org/chromium/android_webview/metrics/AndroidMetricsLogConsumer.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/metrics/AndroidMetricsLogUploader.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/metrics/MetricsFilteringDecorator.java
+// ---
+
 package org.chromium.android_webview.metrics;
 
 import android.content.ComponentName;

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView class preloader
+// summary: Preloads a set of expensive WebView classes on a background thread to speed up initialization when the class preloader feature flag is enabled.
+// relations:
+//   - references /android_webview/java/src/org/chromium/android_webview/AwContents.java
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.android_webview.common.AwFeatures;

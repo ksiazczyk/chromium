@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceConnectionDelayRecorder class
+// summary: Abstract ServiceConnection that binds a service and records a histogram measuring the delay until the connection is established.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/common/services/ServiceHelper.java
+// ---
+
 package org.chromium.android_webview.common.services;
 
 import android.content.ComponentName;

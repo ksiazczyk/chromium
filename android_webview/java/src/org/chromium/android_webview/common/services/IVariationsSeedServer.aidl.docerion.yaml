@@ -1,0 +1,4 @@
+# Docerion header of IVariationsSeedServer.aidl.
+type: source
+title: IVariationsSeedServer AIDL interface
+summary: Defines the oneway IPC interface that embedding apps use to request newer variations seeds from WebView's seed service.

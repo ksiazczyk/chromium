@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Integrity token provider interface
+// summary: Interface for asynchronously requesting media integrity tokens with an optional content binding, returning results via a ValueOrErrorCallback.
+// ---
+
 package org.chromium.android_webview.common;
 
 import org.chromium.build.annotations.NullMarked;

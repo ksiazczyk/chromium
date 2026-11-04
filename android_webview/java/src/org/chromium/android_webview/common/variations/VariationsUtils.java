@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsUtils
+// summary: Utilities for manipulating variations seed and stamp files, used by both WebView and WebView's services.
+// ---
+
 package org.chromium.android_webview.common.variations;
 
 import androidx.annotation.VisibleForTesting;

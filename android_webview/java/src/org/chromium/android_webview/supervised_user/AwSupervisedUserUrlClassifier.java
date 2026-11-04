@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwSupervisedUserUrlClassifier
+// summary: Singleton that links native WebView code to GMS Core to determine whether the Android user requires supervised URL checks and whether a given URL should be blocked.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/supervised_user/AwSupervisedUserSafeModeAction.java
+// ---
+
 package org.chromium.android_webview.supervised_user;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwSiteVisitLogger
+// summary: Stores visited site hashes in shared preferences and logs the weekly count of distinct sites to a histogram.
+// relations:
+//   - references /android_webview/java/src/org/chromium/android_webview/metrics/AwOriginVisitLogger.java
+// ---
+
 package org.chromium.android_webview.metrics;
 
 import android.content.Context;

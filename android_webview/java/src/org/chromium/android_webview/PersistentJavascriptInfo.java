@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentJavascriptInfo
+// summary: Java data class passed from native code that describes a persistent JavaScript injection, including the script, allowed origin rules, world ID and injection time.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.CalledByNative;

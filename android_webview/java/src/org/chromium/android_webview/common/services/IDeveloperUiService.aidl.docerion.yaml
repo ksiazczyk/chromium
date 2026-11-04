@@ -1,0 +1,4 @@
+# Docerion header of IDeveloperUiService.aidl.
+type: source
+title: IDeveloperUiService AIDL interface
+summary: Defines the IPC interface through which the developer UI app sets WebView flag overrides, restricted to the developer UI app itself.

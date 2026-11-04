@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileModeConversionHelper
+// summary: Maps native file chooser mode flags to their WebChromeClient equivalents, handling folder selection behind the file system access feature flag.
+// ---
+
 package org.chromium.android_webview;
 
 import android.webkit.WebChromeClient;

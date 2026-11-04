@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwDarkMode: WebView dark mode handling'
+// summary: Java class that handles dark mode for Android WebView, bridging to native code and supporting legacy dark mode toggling and testing resets.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.CalledByNative;

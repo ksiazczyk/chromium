@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsClient abstract callback base class
+// summary: Abstract base class that WebView embedders derive from to receive browser callbacks such as navigation events, SSL errors, and intent handling.
+// relations:
+//   - references /tools/metrics/histograms/metadata/android/enums.xml
+// ---
+
 package org.chromium.android_webview;
 
 import android.app.Activity;

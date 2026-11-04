@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsClientCallbackHelper UI-thread dispatcher
+// summary: Helper that queues and posts WebView client callbacks such as downloads, login requests, errors, and safe browsing hits onto the UI thread.
+// ---
+
 package org.chromium.android_webview;
 
 import android.graphics.Color;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebviewErrorCode annotation defining WebView error codes
+// summary: Java annotation interface that defines integer constants for WebView load error codes, mirroring the values of android.webkit.WebViewClient.
+// ---
+
 package org.chromium.android_webview;
 
 import android.webkit.WebViewClient;

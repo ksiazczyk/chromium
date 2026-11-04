@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebResourceError
+// summary: Carries error parameters for onReceivedError and navigation reporting, mapping Chromium net error codes to WebView error codes with descriptions.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.JNINamespace;

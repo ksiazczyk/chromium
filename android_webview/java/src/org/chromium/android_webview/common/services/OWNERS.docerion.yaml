@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for AIDL files
+summary: Grants IPC security owners review authority over all AIDL files in this services directory.
+relations:
+  - references /ipc/SECURITY_OWNERS

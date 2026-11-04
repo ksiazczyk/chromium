@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupTasks
+// summary: Utility class of stateless startup tasks executed during Chromium initialization in WebView, coordinated by StartupController and StartupTasksRunner.
+// ---
+
 package org.chromium.android_webview;
 
 import android.Manifest;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwNoVarySearchData
+// summary: Carries No-Vary-Search parameters used for WebView-initiated prefetching across JNI, including ignored and considered query parameters.
+// ---
+
 package org.chromium.android_webview;
 
 import androidx.annotation.NonNull;

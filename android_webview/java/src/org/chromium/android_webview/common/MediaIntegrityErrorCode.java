@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Integrity API error codes
+// summary: IntDef annotation defining error codes such as internal, non-recoverable, disabled-by-application and invalid-argument for the Media Integrity renderer extension.
+// ---
+
 package org.chromium.android_webview.common;
 
 import androidx.annotation.IntDef;

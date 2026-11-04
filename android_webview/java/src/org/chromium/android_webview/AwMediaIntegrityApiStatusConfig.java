@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwMediaIntegrityApiStatusConfig
+// summary: Stores Media Integrity API availability configuration, matching origin URIs against override rules to determine per-origin permission levels.
+// ---
+
 package org.chromium.android_webview;
 
 import android.net.Uri;

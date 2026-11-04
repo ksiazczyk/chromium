@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwHistogramRecorder: WebView callback usage metrics'
+// summary: Java class that records UMA histograms for WebView callback usage, defining a stable enumeration of callback types for logging from multiple call sites.
+// ---
+
 package org.chromium.android_webview;
 
 import androidx.annotation.IntDef;

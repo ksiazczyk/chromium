@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwGrContextOptionsProvider: TV smoothing detection for native code'
+// summary: Java counterpart to a native class that reports whether the device supports leanback so TV smoothing can be enabled.
+// ---
+
 package org.chromium.android_webview.common;
 
 import android.content.pm.PackageManager;

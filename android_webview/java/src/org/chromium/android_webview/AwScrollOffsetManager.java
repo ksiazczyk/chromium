@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll offset manager for WebView
+// summary: Syncs scroll offsets between the Android View system and the in-process renderer, handling scroll ranges, flings and animated scrolling.
+// ---
+
 package org.chromium.android_webview;
 
 import android.graphics.Rect;

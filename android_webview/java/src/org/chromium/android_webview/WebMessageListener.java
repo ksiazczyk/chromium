@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMessageListener
+// summary: Interface for receiving postMessage events from JavaScript via AwContents, including payload, origins and message ports.
+// ---
+
 package org.chromium.android_webview;
 
 import android.net.Uri;
