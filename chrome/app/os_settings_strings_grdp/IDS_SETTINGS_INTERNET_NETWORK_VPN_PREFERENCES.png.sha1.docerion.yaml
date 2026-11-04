@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_INTERNET_NETWORK_VPN_PREFERENCES.png.sha1.
+type: asset
+title: SHA-1 checksum for VPN preferences image
+summary: Holds the SHA-1 hash of the PNG image referenced by the IDS_SETTINGS_INTERNET_NETWORK_VPN_PREFERENCES string in ChromeOS settings resources.

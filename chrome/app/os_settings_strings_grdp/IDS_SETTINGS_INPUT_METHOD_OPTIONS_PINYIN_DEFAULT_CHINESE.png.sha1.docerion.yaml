@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_INPUT_METHOD_OPTIONS_PINYIN_DEFAULT_CHINESE.png.sha1.
+type: asset
+title: SHA-1 checksum for Pinyin default Chinese placeholder
+summary: Stores the SHA-1 hash of the placeholder PNG for the Pinyin default Chinese setting string in the ChromeOS settings resources.
