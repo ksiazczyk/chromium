@@ -1,0 +1,4 @@
+# Docerion header of VR_JAVA_OWNERS.
+type: config
+title: VR_JAVA_OWNERS
+summary: Lists owners for VR Java code by referencing the webxr OWNERS file and mthiesse@chromium.org.

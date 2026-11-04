@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusBarColorController
+// summary: Centralized Android component that maintains the status bar color for a window, keeping it in sync with the toolbar, custom tabs, offline indicator, and other UI elements.
+// ---
+
 package org.chromium.chrome.browser.ui.system;
 
 import android.app.Activity;

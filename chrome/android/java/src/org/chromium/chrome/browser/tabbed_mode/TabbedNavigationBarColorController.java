@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedNavigationBarColorController for bottom system bar color
+// summary: Controls the bottom system navigation bar color for the tabbed activity window, handling edge-to-edge, fullscreen, and overview transitions.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

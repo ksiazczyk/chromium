@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog for choosing the sync encryption passphrase type
+// summary: Android dialog fragment that lets the user choose between keystore and custom passphrase encryption for sync, with a reset sync link.
+// ---
+
 package org.chromium.chrome.browser.sync.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

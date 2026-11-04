@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser controls constraints helper for tabs
+// summary: Manages per-tab browser controls visibility constraints and offset tag state, exposing constraint suppliers and pushing state to the renderer via native calls.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tiles linear layout
+// summary: LinearLayout subclass that tracks tile views alongside dividers and UI views, with helpers for interval and edge margins.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MostVisitedSitesBridge JNI implementation
+// summary: Java class implementing MostVisitedSites by bridging into native history code via JNI to fetch most visited sites and manage custom links for a user profile.
+// ---
+
 package org.chromium.chrome.browser.suggestions.mostvisited;
 
 import org.jni_zero.CalledByNative;

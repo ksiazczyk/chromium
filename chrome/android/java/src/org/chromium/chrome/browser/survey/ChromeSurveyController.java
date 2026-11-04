@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSurveyController for Android surveys
+// summary: Java class that decides if and when to show in-product surveys on Chrome for Android, creating a SurveyClient for a startup survey trigger and gating it behind feature flags and testing settings.
+// ---
+
 package org.chromium.chrome.browser.survey;
 
 import android.app.Activity;

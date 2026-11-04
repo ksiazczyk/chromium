@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for tab context menu populators
+// summary: Wraps a ContextMenuPopulatorFactory to create TabContextMenuPopulator instances that handle observer notifications for a given tab's context menus.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.content.Context;

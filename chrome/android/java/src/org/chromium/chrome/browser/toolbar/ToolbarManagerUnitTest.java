@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolbarManagerUnitTest
+// summary: Robolectric unit test covering ToolbarManager behavior, theming and browser controls interactions using Mockito mocks.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UndoBarContentFactory
+// summary: Builds the UndoBarContent for an undo snackbar from a closure snapshot, choosing the message text and UMA type based on the closed tabs and tab groups.
+// ---
+
 package org.chromium.chrome.browser.undo_tab_close_snackbar;
 
 import android.content.Context;

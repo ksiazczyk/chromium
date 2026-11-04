@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile renderer
+// summary: Renders tiles into a TilesLinearLayout, creating and updating views and fetching icons for site suggestions.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.content.Context;

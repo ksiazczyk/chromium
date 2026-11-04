@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProviderBridgeImpl theme color resolution
+// summary: Concrete implementation of ColorProviderBridge that resolves Material theme colors by mapping AndroidColorRole values to R.attr theme attributes, avoiding reflection.
+// ---
+
 package org.chromium.chrome.browser.ui.color;
 
 import android.content.Context;

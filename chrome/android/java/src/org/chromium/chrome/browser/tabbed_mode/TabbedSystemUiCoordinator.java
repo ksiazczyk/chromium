@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedSystemUiCoordinator for system bars
+// summary: Manages the system status bar and bottom navigation bar for ChromeTabbedActivity, delegating navbar color to TabbedNavigationBarColorController.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import android.view.Window;

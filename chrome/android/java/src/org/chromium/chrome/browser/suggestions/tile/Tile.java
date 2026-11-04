@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile data model for site suggestions
+// summary: Holds the details used to populate a site suggestion tile, including title, URL, icon, visual type, offline page state, and visual screen index.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.content.res.ColorStateList;

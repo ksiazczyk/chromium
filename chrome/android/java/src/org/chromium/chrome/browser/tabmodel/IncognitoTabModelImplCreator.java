@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoTabModelImplCreator
+// summary: Stores the parameters needed to lazily create the real incognito TabModelImpl when it is actually used.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.chrome.browser.tab.TabStateStorageServiceFactory.createBatch;

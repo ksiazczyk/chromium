@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteEvent
+// summary: Model of a single browsing activity event, holding a timestamp, fully-qualified domain name, and start or stop event type.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import androidx.annotation.IntDef;

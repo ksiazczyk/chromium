@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon fetching for tabs
+// summary: Fetches and caches favicons for a tab's active WebContents, including fallbacks from the local favicon database and sizes for navigation transitions.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.graphics.Bitmap;

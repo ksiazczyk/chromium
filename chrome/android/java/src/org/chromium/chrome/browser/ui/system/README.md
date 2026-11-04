@@ -1,3 +1,13 @@
+---
+type: readme
+title: Status Bar Color Controller Overview
+summary: Documents how Chrome for Android controls the status bar color, covering color control rules, input signals like toolbar and offline indicator changes, and corner cases.
+relations:
+  - references /chrome/android/java/src/org/chromium/chrome/browser/ui/system/doc/offline_indicator.gif
+  - references /chrome/android/java/src/org/chromium/chrome/browser/ui/system/doc/status_bar.png
+  - documents /chrome/android/java/src/org/chromium/chrome/browser/ui/system/StatusBarColorController.java
+---
+
 # Overview
 ## Status Bar Color Controller
 

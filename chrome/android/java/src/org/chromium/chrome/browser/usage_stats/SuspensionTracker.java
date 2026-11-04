@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspension tracker
+// summary: Tracks which sites are currently suspended, persisting suspension state and suspending or unsuspending matching notifications.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import org.chromium.base.CallbackUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedAdaptiveToolbarBehavior for tabbed mode toolbar button
+// summary: Implements tabbed browser specific behavior of the adaptive toolbar button, covering bookmarks, voice search, group suggestions, and Glic.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import android.app.Activity;

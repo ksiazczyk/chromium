@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabPersistenceFileInfo
+// summary: Holds identifiers for stored tab state files and metadata files so persisted tab data can be located, compared, merged or deleted.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import androidx.annotation.VisibleForTesting;

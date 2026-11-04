@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelObserverJniBridge
+// summary: TabModelObserver and TabGroupObserver implementation that forwards tab events over JNI to a native observer owned by TabModelJniBridge.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.util.ArrayMap;

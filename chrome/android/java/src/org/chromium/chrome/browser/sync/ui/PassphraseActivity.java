@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android activity for requesting the sync passphrase
+// summary: Android activity that prompts the user for a sync passphrase, typically launched as the target of an Android notification.
+// ---
+
 package org.chromium.chrome.browser.sync.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Android developer preferences
+summary: Explains the developer preferences pages for debugging and tracing and how to enable them by repeatedly tapping the application version under About Chrome.
+---
+
 # Android developer preferences
 
 Pages aimed at developers for debugging/tracing.

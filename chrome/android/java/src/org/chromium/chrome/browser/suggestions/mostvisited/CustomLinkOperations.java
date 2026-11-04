@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomLinkOperations interface for custom NTP tiles
+// summary: Java interface defining operations to add, assign, delete, check and reorder custom links that may exist alongside Most Visited links on the new tab page.
+// ---
+
 package org.chromium.chrome.browser.suggestions.mostvisited;
 
 import org.chromium.build.annotations.NullMarked;

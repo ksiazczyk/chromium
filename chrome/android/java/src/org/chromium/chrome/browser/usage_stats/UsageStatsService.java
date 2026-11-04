@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageStatsService
+// summary: Profile-scoped service that is the public entry point for all usage stats functionality, coordinating event, suspension, and token tracking.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import android.app.Activity;

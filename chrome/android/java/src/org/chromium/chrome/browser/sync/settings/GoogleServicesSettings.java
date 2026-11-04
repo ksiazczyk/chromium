@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google services settings fragment
+// summary: Settings fragment controlling features that communicate with Google services, such as search suggestions, usage and crash reporting, and contextual search.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import static org.chromium.build.NullUtil.assertNonNull;

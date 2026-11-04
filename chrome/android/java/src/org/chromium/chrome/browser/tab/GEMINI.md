@@ -1,3 +1,11 @@
+---
+type: note
+title: Android tab implementation documentation pointer
+summary: Directory note pointing to the central tab documentation hub and requiring doc updates for architectural changes.
+relations:
+  - references /chrome/browser/tab/GEMINI.md
+---
+
 # Android Tab Implementation (`chrome/android/java/src/org/chromium/chrome/browser/tab/`)
 
 **Central Documentation Hub:** [`//chrome/browser/tab/GEMINI.md`](/chrome/browser/tab/GEMINI.md)

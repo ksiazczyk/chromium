@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabPersistentStoreImpl
+// summary: Implements saving and loading of tab state from persistent storage, including metadata file handling, tab restoration, store migrations and cleanup of unused tab data.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

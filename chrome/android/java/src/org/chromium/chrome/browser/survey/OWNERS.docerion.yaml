@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the survey package
+summary: Lists the primary and backup code owners responsible for reviewing changes in the Chrome browser survey package.

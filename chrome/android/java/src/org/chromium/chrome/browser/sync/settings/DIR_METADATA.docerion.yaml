@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for sync settings
+summary: Chromium DIR_METADATA entry applying the common signin metadata mixin and marking the directory as Android.

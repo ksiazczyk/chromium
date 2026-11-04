@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View draw blocker
+// summary: Utility that blocks a view from drawing until a supplied readiness condition becomes true.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most visited tiles mediator
+// summary: Mediator implementing TileGroup.Observer that handles most visited tiles logic, including visibility, paddings, homepage state changes, and IPH for tile customization.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

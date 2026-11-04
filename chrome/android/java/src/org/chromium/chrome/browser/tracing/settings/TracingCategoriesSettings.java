@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingCategoriesSettings
+// summary: Settings fragment that lets users pick which tracing categories of a given type are enabled, with a select-all option and a sorted checkbox list.
+// ---
+
 package org.chromium.chrome.browser.tracing.settings;
 
 import android.content.Context;

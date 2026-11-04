@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link hover status bar coordinator
+// summary: Coordinates the link hover status bar that shows target URLs on mouse hover, with expand, fade, and hide animations.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import android.animation.Animator;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate interface from TabModel to TabModelSelector
+// summary: Interface for tab model callbacks to its selector, covering showing tabs, restore state, and moving tabs or groups to new windows.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.app.Activity;

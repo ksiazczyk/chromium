@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityRecreationUiState
+// summary: Parcelable data class that stores flags describing the activity UI state, including URL bar focus, keyboard, tab switcher, pointer and keyboard locks and side panel focus, so it can be preserved and restored.
+// ---
+
 package org.chromium.chrome.browser.ui.activity_recreation;
 
 import android.os.Parcel;

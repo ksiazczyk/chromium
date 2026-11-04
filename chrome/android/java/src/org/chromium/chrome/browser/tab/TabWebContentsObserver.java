@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWebContentsObserver
+// summary: WebContentsObserver attached to a tab that tracks WebContents lifecycle and load events, including navigation results, errors, and initialization callbacks.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

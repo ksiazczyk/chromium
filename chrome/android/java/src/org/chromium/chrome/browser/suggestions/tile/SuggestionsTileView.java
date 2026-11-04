@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions tile view
+// summary: View for a site suggestion tile that shows the site title beneath an icon, with draggability, offline badges, and pinned shortcut badge support.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.content.Context;

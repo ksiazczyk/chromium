@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageStatsConsentActivity
+// summary: Android activity that prompts the user for consent to share browsing activity with Digital Wellbeing and only accepts calls from that app.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import android.app.Activity;

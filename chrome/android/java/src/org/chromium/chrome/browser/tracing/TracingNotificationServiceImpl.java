@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingNotificationServiceImpl
+// summary: Handles actions from tracing notifications, such as stopping recording, discarding a trace and opening the tracing settings.
+// ---
+
 package org.chromium.chrome.browser.tracing;
 
 import android.app.PendingIntent;

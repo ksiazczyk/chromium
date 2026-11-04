@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UndoBarExplicitTrigger
+// summary: Interface for explicitly triggering undo snackbars for a closed tab or saved tab group instead of reacting to passive observer events.
+// ---
+
 package org.chromium.chrome.browser.undo_tab_close_snackbar;
 
 import org.chromium.build.annotations.NullMarked;

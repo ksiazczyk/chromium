@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access back press handler
+// summary: Back press handler that exits exclusive access mode, such as fullscreen, when the user presses back, while leaving Escape key handling to native code.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import org.chromium.base.supplier.NonNullObservableSupplier;

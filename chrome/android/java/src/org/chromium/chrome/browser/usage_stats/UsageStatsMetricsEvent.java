@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageStatsMetricsEvent
+// summary: IntDef enumeration of usage stats metrics event types such as opt-in, opt-out, token tracking, suspension, and history clearing.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most visited tiles layout
+// summary: Custom horizontal layout for most visited tiles that manages tile spacing, dividers, drag targets, and in-product help triggers on the New Tab Page.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.content.Context;

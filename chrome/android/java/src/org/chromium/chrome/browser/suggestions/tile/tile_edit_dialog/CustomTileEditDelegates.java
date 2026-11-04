@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTileEditDelegates
+// summary: Defines the interfaces and IntDef enums that decouple the coordinator, mediator, and view of the custom tile edit dialog.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile.tile_edit_dialog;
 
 import androidx.annotation.IntDef;

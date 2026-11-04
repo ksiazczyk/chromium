@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device setting importer for synced set-up
+// summary: Implements importing cross-device preferences such as NTP theme and toolbar position from a remote device during synced set-up, with metrics, snackbars and feature-flag logging.
+// ---
+
 package org.chromium.chrome.browser.sync.synced_set_up;
 
 import static org.chromium.chrome.browser.flags.ChromeFeatureList.CROSS_DEVICE_PREF_TRACKER_EXTRA_LOGS;

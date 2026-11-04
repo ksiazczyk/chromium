@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Owners file that delegates code review ownership to the supervised_user OWNERS file under chrome/browser/android.

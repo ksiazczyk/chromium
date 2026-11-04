@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page view observer
+// summary: Observes tab and URL changes to track when browsing starts and stops for each visited fully-qualified domain name.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import static org.chromium.build.NullUtil.assertNonNull;

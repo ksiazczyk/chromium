@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabPinnerActionListener
+// summary: TabModelActionListener that defers the pin operation until any ungroup confirmation or collaboration dialog is resolved, running the pin runnable exactly once.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

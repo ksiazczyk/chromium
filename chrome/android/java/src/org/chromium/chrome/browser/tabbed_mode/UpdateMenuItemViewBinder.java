@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateMenuItemViewBinder for the update menu item
+// summary: Binds the update menu item's model properties such as summary, title color, and icon to its view in the app menu.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import android.content.Context;

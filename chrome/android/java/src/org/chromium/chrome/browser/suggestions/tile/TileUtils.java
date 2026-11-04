@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile utilities
+// summary: Utility helpers for tile queries such as search tile detection, custom tile validation, name formatting and keyboard swap combos.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.text.TextUtils;

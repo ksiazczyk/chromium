@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token tracker
+// summary: Tracks and persists the mapping between tokens and fully-qualified domain names, issuing new tokens for newly tracked sites.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

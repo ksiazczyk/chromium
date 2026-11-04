@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tab package
+summary: Chromium dependency rule file listing the specific chrome sources that this tab package is allowed to include.

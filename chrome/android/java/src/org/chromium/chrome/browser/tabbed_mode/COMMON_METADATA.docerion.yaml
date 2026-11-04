@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata
+summary: Defines shared directory metadata for the tabbed_mode package by setting the owning team email address.

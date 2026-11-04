@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access snackbar bubble
+// summary: Java counterpart of ExclusiveAccessBubbleAndroid that shows, updates and hides the high-priority security snackbar for fullscreen, keyboard lock and pointer lock modes.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import android.app.Activity;

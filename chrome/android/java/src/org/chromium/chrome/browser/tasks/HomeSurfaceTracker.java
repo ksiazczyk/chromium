@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomeSurfaceTracker
+// summary: Java class that tracks the home surface NTP tab and the last active tab it monitors, and decides whether the home surface can be shown.
+// ---
+
 package org.chromium.chrome.browser.tasks;
 
 import org.chromium.build.annotations.NullMarked;

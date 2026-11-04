@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile drag delegate interface
+// summary: Interface for reordering most visited tiles via drag or swap flows, covering drag sessions, divider visibility, and session reset or cancellation.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.view.MotionEvent;

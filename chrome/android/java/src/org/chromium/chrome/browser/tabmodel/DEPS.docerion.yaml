@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Chromium dependency rules listing additional include paths allowed for this tabmodel directory and for specific files within it.

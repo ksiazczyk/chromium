@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the undo tab close snackbar package
+summary: Lists the email addresses of the owners responsible for reviewing changes in the undo_tab_close_snackbar directory.

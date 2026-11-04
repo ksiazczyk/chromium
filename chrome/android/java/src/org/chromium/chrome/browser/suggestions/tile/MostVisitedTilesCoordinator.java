@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most visited tiles coordinator
+// summary: Coordinates display of most visited site suggestion tiles, wiring the mediator, renderer, context menu, offline page support, and configuration-change handling for the New Tab Page.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import static android.view.View.GONE;

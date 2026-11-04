@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root UI coordinator
+// summary: Central coordinator that wires up the root UI of Chrome activities, including toolbars, browser controls, dialogs, and top-level components.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.chromium.build.NullUtil.assertNonNull;

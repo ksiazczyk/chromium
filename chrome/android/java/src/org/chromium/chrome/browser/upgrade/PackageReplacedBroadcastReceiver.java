@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Package replaced broadcast receiver
+// summary: Android broadcast receiver that reacts to Chrome's package being replaced or upgraded, updating notification channels and fixing the dex file in the background.
+// ---
+
 package org.chromium.chrome.browser.upgrade;
 
 import android.content.BroadcastReceiver;

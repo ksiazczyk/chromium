@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarIphController
+// summary: Controller that decides when toolbar in-product help bubbles, such as the bottom toolbar and Glic promos, are shown.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.content.Context;

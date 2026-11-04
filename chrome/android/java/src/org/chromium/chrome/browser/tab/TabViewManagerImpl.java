@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabViewManagerImpl
+// summary: Implements TabViewManager to display prioritized custom views, such as sad tab or paint preview, on top of a tab's content view in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity error card preference
+// summary: Preference that shows a sync identity error card, records histograms for shown errors, and notifies a listener on button clicks and visibility changes.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import android.content.Context;

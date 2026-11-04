@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabHelpers
+// summary: Initializes the set of tab UserData helpers when a tab is created and when new WebContents is attached to it.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.app.Activity;

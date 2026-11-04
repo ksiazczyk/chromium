@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoricalTabSaverImpl
+// summary: Implementation of HistoricalTabSaver that validates and saves closed tabs, groups and bulk closures to TabRestoreService via native code and records close-type metrics.
+// ---
+
 package org.chromium.chrome.browser.tab.tab_restore;
 
 import androidx.annotation.IntDef;

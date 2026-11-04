@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu item delegate for tabs
+// summary: Default ContextMenuItemDelegate implementing tab context menu actions such as copying links, opening links, bookmarks, printing, downloads, and search with image URLs.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.chromium.build.NullUtil.assertNonNull;

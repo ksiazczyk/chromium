@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabViewAndroidDelegate
+// summary: Chrome implementation of ViewAndroidDelegate that manages visual viewport insets and drag-and-drop behavior for tab contents.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

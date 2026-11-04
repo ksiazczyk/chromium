@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsPromoHandlerRegistrar
+// summary: Registers the self-service tips promo handlers from feature modules such as Enhanced Safe Browsing, Quick Delete, Google Lens and Bottom Omnibox with the TipsPromoHandlerFactory.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import org.chromium.build.annotations.NullMarked;

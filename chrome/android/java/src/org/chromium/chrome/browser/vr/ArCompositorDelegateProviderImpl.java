@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCompositorDelegateProviderImpl
+// summary: Chrome-specific implementation of ArCompositorDelegateProvider that creates ArCompositorDelegateImpl instances when called from native code via JNI.
+// ---
+
 package org.chromium.chrome.browser.vr;
 
 import org.jni_zero.CalledByNative;

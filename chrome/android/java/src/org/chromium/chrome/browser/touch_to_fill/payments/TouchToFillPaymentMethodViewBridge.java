@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillPaymentMethodViewBridge
+// summary: JNI bridge that receives calls from the native C++ view implementation and shows the touch-to-fill bottom sheet with payment methods, IBANs, and loyalty card suggestions.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.payments;
 
 import android.content.Context;

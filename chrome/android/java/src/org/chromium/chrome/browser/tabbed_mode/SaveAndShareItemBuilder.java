@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save and share app menu item builder
+// summary: Builds the app menu items for saving and sharing, such as copy link, send to devices, QR code, and download page.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import android.content.Context;

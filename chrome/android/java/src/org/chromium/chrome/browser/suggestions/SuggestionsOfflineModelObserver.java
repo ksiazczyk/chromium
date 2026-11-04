@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionsOfflineModelObserver
+// summary: Abstract observer that tracks offline page model changes and updates the offline availability of offlinable suggestions.
+// ---
+
 package org.chromium.chrome.browser.suggestions;
 
 import android.text.TextUtils;

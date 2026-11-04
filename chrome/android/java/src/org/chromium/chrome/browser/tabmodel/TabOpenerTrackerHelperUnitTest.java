@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabOpenerTrackerHelperUnitTest
+// summary: Robolectric unit tests verifying that TabOpenerTrackerHelper tracks related tab IDs and selects the next tab hierarchically when the feature flag is enabled or disabled.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

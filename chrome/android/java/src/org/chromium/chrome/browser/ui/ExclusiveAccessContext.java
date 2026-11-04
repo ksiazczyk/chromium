@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access context
+// summary: Java counterpart of ExclusiveAccessContextAndroid that forwards WebContents calls and throttled touch notifications to native code to keep the security notice snoozed during active use.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTileEditMediator
+// summary: Mediator for the tile edit dialog that validates URL input, handles save and cancel, and populates the dialog for adding or editing a shortcut tile.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile.tile_edit_dialog;
 
 import org.chromium.build.annotations.Initializer;

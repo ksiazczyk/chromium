@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile drag delegate implementation
+// summary: Implements drag-and-drop reordering of most-visited tiles via a drag phase state machine and a swap flow, reusable across sessions.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.content.res.Resources;

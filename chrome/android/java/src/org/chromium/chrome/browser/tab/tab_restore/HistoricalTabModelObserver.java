@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoricalTabModelObserver
+// summary: Tab model observer that detects tab and group closures on Android and records them as historical entries for the recent tabs feature.
+// ---
+
 package org.chromium.chrome.browser.tab.tab_restore;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

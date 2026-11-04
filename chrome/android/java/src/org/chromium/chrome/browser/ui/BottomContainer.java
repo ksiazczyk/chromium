@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom container for infobars and snackbars
+// summary: Custom FrameLayout that holds infobars and snackbars and translates vertically in response to browser controls offsets, viewport insets and edge-to-edge changes.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

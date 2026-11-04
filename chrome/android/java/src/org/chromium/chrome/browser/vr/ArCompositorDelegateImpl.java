@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCompositorDelegateImpl
+// summary: Chrome-specific implementation of the ArCompositorDelegate interface that routes WebXR AR overlay mode, touch events, and the AR surface view to Chrome's compositor.
+// ---
+
 package org.chromium.chrome.browser.vr;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

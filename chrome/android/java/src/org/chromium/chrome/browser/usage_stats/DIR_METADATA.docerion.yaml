@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Usage stats directory metadata
+summary: Directory metadata that pulls in the shared usage stats metadata through a mixin reference.

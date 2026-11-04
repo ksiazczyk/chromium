@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountManagementFragment – account settings screen
+// summary: Android settings screen showing the user's signed-in accounts, sign-out, links to sync settings, add-account and incognito links, and parental settings for child accounts.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu populator wrapper for tabs
+// summary: Wraps a ContextMenuPopulator to record the triggering touch position and notify tab observers when a context menu is shown or closed for a tab.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.build.annotations.NullMarked;

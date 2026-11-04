@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MostVisitedSitesMetadataUtils disk cache utility
+// summary: Singleton utility class that saves and restores most visited site suggestion tiles to and from a top_sites cache file on the device, handling serialization and task queuing.
+// ---
+
 package org.chromium.chrome.browser.suggestions.mostvisited;
 
 import android.content.Context;

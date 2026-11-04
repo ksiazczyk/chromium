@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in preference
+// summary: Preference that shows a sign-in prompt when signed out and the user's name, email, profile image and sync error icon when signed in.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

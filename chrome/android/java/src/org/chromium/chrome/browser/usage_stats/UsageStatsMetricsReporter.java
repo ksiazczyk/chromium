@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageStatsMetricsReporter
+// summary: Records usage stats metrics events as values of the UsageStats.Events enumerated histogram.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import org.chromium.base.metrics.RecordHistogram;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingNotificationManager
+// summary: Manages Android notifications shown during and after trace recording, including buffer usage updates, stop actions and completion prompts.
+// ---
+
 package org.chromium.chrome.browser.tracing;
 
 import android.app.Notification;

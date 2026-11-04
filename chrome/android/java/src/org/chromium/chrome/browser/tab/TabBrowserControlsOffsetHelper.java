@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser controls offset helper for tabs
+// summary: Coordinates top and bottom browser controls offsets, content offset, and min-height offsets for a tab, notifying tab observers whenever offsets change.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.annotation.VisibleForTesting;
