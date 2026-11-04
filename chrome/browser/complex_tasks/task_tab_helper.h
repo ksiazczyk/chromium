@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskTabHelper class declaration
+// summary: Declares a tab helper that collects navigation state information of a complex task and exposes task ID lookups for navigations.
+// ---
+
 #ifndef CHROME_BROWSER_COMPLEX_TASKS_TASK_TAB_HELPER_H_
 #define CHROME_BROWSER_COMPLEX_TASKS_TASK_TAB_HELPER_H_
 

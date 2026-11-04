@@ -1,0 +1,4 @@
+# Docerion header of java_sources.gni.
+type: config
+title: Price tracking Java source list
+summary: GN import file defining shared variables that enumerate the price tracking Java source files and their build dependency target.

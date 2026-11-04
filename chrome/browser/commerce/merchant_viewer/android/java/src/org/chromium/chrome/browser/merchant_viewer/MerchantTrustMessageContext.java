@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantTrustMessageContext
+// summary: Holds the navigation handle and web contents needed to publish and validate a merchant trust signals message for a given host and URL.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextFinderManager test harness and mock agent container
+// summary: Declares MockAnnotationAgentContainer and the TextFinderManagerBaseTest harness used by the text finder manager unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_COMPANION_TEXT_FINDER_TEXT_FINDER_MANAGER_BASE_TEST_H_
 #define CHROME_BROWSER_COMPANION_TEXT_FINDER_TEXT_FINDER_MANAGER_BASE_TEST_H_
 

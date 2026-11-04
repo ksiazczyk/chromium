@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust signals event storage
+// summary: Java bridge to the native merchant trust signals database for saving, loading, and deleting events on a non-incognito profile.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import androidx.annotation.MainThread;

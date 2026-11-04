@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceDropNotifier
+// summary: Builds and displays price drop notifications, fetching product images and wiring notification click actions.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import android.app.PendingIntent;

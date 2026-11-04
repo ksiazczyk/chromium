@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Merchant viewer Android build configuration
+summary: GN build file defining the Android Java library, its source files, JNI header generation and dependencies for Chrome's merchant trust and merchant viewer feature.

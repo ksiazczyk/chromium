@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merchant trust signals storage factory tests
+// summary: Robolectric tests for MerchantTrustSignalsStorageFactory covering per-profile storage creation, profile switching and destruction.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static org.mockito.ArgumentMatchers.any;

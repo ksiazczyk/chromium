@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price insights bottom sheet view binder
+// summary: Binds the price insights bottom sheet property model to its view, updating titles, buttons, colors, and the price history chart.
+// ---
+
 package org.chromium.chrome.browser.price_insights;
 
 import static org.chromium.chrome.browser.price_insights.PriceInsightsBottomSheetProperties.OPEN_URL_BUTTON_ON_CLICK_LISTENER;

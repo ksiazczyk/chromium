@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShoppingServiceFactory header
+// summary: Declares the ShoppingServiceFactory class with accessors to get the per-profile ShoppingService for a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_COMMERCE_SHOPPING_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_COMMERCE_SHOPPING_SERVICE_FACTORY_H_
 

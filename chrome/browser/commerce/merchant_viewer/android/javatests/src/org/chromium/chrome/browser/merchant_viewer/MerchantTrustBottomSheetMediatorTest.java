@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MerchantTrustBottomSheetMediator tests
+// summary: Robolectric tests for the merchant trust bottom sheet mediator, covering WebContents navigation, favicon loading, security state and sheet content updates.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static org.junit.Assert.assertEquals;

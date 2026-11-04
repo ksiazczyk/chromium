@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceHistoryBottomSheetContentRenderTest
+// summary: Render tests that capture the visual output of the price history bottom sheet content using the Chromium render test corpus and a blank UI test activity.
+// ---
+
 package org.chromium.chrome.browser.price_history;
 
 import static org.mockito.ArgumentMatchers.any;

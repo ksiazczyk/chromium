@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceDropNotifierUnitTest
+// summary: Robolectric unit tests for PriceDropNotifier, checking notification building, image fetching callbacks, and action handling for price drop alerts.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import static org.mockito.ArgumentMatchers.any;

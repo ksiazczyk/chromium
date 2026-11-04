@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiscountsBottomSheetContentMediatorTest
+// summary: Robolectric unit tests for the discounts bottom sheet content mediator, covering discount eligibility, empty discount lists, content display and clipboard copy behaviour.
+// ---
+
 package org.chromium.chrome.browser.commerce.coupons;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommerceSubscriptionsServiceFactoryUnitTest
+// summary: Robolectric unit tests verifying that CommerceSubscriptionsServiceFactory returns one service instance per regular profile and reuses the original profile's service for incognito profiles.
+// ---
+
 package org.chromium.chrome.browser.subscriptions;
 
 import static org.mockito.Mockito.doReturn;

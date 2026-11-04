@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Price insights sheet background drawable
+summary: Android shape drawable that fills the price insights sheet with the default background color and rounded corners.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="@macro/default_bg_color"/>
     <corners android:radius="@dimen/price_insights_background_radius" />

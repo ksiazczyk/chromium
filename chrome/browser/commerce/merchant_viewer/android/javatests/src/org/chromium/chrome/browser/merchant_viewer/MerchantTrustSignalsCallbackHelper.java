@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merchant trust signals test callback helper
+// summary: Test utility extending CallbackHelper with convenience methods to capture merchant trust message context and merchant info callback results in tests.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import org.chromium.base.test.util.CallbackHelper;

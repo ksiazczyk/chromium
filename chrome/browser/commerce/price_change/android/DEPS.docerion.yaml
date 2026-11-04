@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Price change module Android include rules
+summary: DEPS file granting this directory access to the components/image_fetcher dependency.

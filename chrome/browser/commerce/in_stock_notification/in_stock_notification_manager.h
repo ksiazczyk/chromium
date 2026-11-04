@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In stock notification manager header
+// summary: Declares the InStockNotificationManager class that stores per-tab unowned user data for in stock notifications.
+// ---
+
 #ifndef CHROME_BROWSER_COMMERCE_IN_STOCK_NOTIFICATION_IN_STOCK_NOTIFICATION_MANAGER_H_
 #define CHROME_BROWSER_COMMERCE_IN_STOCK_NOTIFICATION_IN_STOCK_NOTIFICATION_MANAGER_H_
 

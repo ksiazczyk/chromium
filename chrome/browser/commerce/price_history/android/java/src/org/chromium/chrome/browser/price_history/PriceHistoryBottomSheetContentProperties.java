@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceHistoryBottomSheetContentProperties
+// summary: Defines the writable property keys (title, description, chart, open URL button) used by the price history bottom sheet content model.
+// ---
+
 package org.chromium.chrome.browser.price_history;
 
 import android.view.View;

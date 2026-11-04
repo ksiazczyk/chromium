@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the text finder component
+summary: Defines the text_finder source set and the testonly unit_tests target, listing their sources and build dependencies.

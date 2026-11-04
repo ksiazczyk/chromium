@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommerceBottomSheetContentRenderTest
+// summary: Render tests verifying the view built by the CommerceBottomSheetContent component using RenderTestRule with mock bottom sheet providers.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import static org.mockito.ArgumentMatchers.any;

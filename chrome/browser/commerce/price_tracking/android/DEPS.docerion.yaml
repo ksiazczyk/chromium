@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Price tracking Android include rules
+summary: DEPS file listing the Java classes and component directories that code in the price tracking Android folder is allowed to include.

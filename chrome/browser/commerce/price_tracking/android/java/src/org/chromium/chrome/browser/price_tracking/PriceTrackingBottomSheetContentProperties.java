@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceTrackingBottomSheetContentProperties
+// summary: Defines the property keys for the price tracking bottom sheet, including title, subtitle and button text, icon and colors.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import android.view.View.OnClickListener;

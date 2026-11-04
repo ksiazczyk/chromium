@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceDropNotificationManager
+// summary: Interface for managing price drop notifications, covering posting checks, click and action handling, click intents and UMA metrics.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import android.app.Notification;

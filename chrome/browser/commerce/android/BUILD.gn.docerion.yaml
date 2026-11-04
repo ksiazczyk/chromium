@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Chrome commerce on Android
+summary: Defines Android Java library, resources, and test targets for Chrome's commerce features such as price tracking and the commerce bottom sheet.

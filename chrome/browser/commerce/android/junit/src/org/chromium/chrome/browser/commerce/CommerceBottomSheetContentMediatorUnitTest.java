@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CommerceBottomSheetContentMediator
+// summary: Robolectric unit tests verifying that CommerceBottomSheetContentMediator adds commerce bottom sheet content models to the list in order and requests showing the sheet via the BottomSheetController.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import static org.junit.Assert.assertEquals;

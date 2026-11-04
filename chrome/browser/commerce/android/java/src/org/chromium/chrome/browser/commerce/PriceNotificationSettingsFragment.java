@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceNotificationSettingsFragment
+// summary: Settings fragment for price tracking notification preferences, managing mobile and email notification switches and reacting to preference changes.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

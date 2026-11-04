@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextHighlighter implementation
+// summary: Implements TextHighlighter, which creates an annotation agent to highlight a text directive and scrolls to it on successful attachment.
+// ---
+
 #include "chrome/browser/companion/text_finder/text_highlighter.h"
 
 #include <string>

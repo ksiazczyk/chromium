@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceBottomSheetContentMediator
+// summary: Tracks readiness of commerce bottom sheet content, orders items by type in the model list, and shows or hides the sheet when content is complete or timed out.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import android.content.Context;

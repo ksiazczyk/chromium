@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceTrackingButtonControllerUnitTest
+// summary: Robolectric unit tests for PriceTrackingButtonController, covering toolbar button visibility, bookmarking, and bottom sheet show behavior.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Price tracking button disabled icon drawable
+summary: Layer-list drawable that sizes the disabled price tracking icon for the price insights sheet button.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
 
   <item

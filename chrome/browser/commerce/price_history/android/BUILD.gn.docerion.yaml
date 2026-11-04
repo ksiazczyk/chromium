@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Price history Android build configuration
+summary: Defines GN targets for the Android price history bottom sheet, including Java resources, the main Java library, Robolectric unit tests, and render tests with their dependencies.

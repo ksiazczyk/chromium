@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price insights bottom sheet coordinator tests
+// summary: JUnit tests for PriceInsightsBottomSheetCoordinator, verifying bottom sheet content, observers, and price insights info handling with mocked services.
+// ---
+
 package org.chromium.chrome.browser.price_insights;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextFinder implementation
+// summary: Implements TextFinder, which searches for a text directive via the renderer's annotation agent and reports whether the text was found.
+// ---
+
 #include "chrome/browser/companion/text_finder/text_finder.h"
 
 #include <string>

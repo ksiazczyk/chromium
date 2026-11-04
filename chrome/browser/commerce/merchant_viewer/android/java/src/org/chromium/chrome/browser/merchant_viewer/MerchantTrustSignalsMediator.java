@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust signals mediator
+// summary: Observes tab navigations to detect eligible events for fetching merchant trust signals and publishing the merchant trust message.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import android.text.TextUtils;

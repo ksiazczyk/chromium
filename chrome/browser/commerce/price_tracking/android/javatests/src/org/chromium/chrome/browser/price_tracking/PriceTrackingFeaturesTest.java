@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceTrackingFeaturesTest
+// summary: Instrumented tests for PriceTrackingFeatures, checking price annotations eligibility based on sign-in, sync, MBB status, and feature flags.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import static org.mockito.ArgumentMatchers.any;

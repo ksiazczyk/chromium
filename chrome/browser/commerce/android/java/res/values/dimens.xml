@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Commerce bottom sheet dimension resources
+summary: Defines Android dimension values such as paddings, offsets and corner radius used by the Commerce bottom sheet UI in Chromium for Android.
+-->
+
 <resources>
 <!-- Commerce bottom sheet dimensions. -->
   <dimen name="content_item_container_background_radius">24dp</dimen>

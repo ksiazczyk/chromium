@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price change module mediator
+// summary: Mediator that drives the price change module, observing tab model changes, price drops, and price tracking preference updates.
+// ---
+
 package org.chromium.chrome.browser.price_change;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

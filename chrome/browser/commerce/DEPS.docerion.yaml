@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the commerce directory
+summary: Grants the directory additional include access to the Android bottom sheet browser UI and session proto DB components.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf definitions for Chrome price drop notifications
+// summary: Defines protobuf messages for Chrome price drop notifications, covering notification payloads, display messages, expanded view actions, and price metadata.
+// ---
+
 syntax = "proto2";
 
 package commerce.proto;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantViewerDataManager class declaration
+// summary: Declares the MerchantViewerDataManager keyed service that abstracts local merchant viewer data management and database access.
+// ---
+
 #ifndef CHROME_BROWSER_COMMERCE_MERCHANT_VIEWER_MERCHANT_VIEWER_DATA_MANAGER_H_
 #define CHROME_BROWSER_COMMERCE_MERCHANT_VIEWER_MERCHANT_VIEWER_DATA_MANAGER_H_
 

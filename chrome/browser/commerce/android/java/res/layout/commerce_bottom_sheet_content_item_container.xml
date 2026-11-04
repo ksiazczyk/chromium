@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Commerce bottom sheet content item container layout
+summary: Android layout for a single commerce bottom sheet content item, combining an accessible title TextView with a frame for custom content views.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/item_container"
     android:layout_width="match_parent"

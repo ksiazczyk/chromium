@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MerchantTrustMessageScheduler tests
+// summary: Robolectric tests for the merchant trust message scheduler, verifying message scheduling, delayed display via a handler and enqueueing with the message dispatcher.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static org.mockito.ArgumentMatchers.any;

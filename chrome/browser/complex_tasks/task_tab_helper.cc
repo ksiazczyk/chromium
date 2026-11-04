@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskTabHelper implementation
+// summary: Implements the tab helper that assigns and chains navigation task IDs for complex tasks, including Android-specific JNI handling.
+// ---
+
 #include "chrome/browser/complex_tasks/task_tab_helper.h"
 
 #include <string>

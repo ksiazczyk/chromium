@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextFinderManager implementation
+// summary: Implements TextFinderManager, a per-page user data holder that creates and tracks text finders keyed by unique ids.
+// ---
+
 #include "chrome/browser/companion/text_finder/text_finder_manager.h"
 
 #include <memory>

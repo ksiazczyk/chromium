@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust signals event model
+// summary: Java model of a single merchant trust signal event entry, created from native code via JNI and holding a key and timestamp.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import org.jni_zero.CalledByNative;

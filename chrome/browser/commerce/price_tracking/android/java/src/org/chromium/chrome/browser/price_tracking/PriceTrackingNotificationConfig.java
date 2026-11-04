@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceTrackingNotificationConfig
+// summary: Flag configuration class providing field trial parameters for price drop notifications, such as timeout, timestamp store window, and notification count limits.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import org.chromium.base.FeatureList;

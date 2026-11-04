@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceChangeModuleBinderTest
+// summary: Robolectric test verifying that the price change module binder updates the module title, product title, favicon, and current and previous price views from the property model.
+// ---
+
 package org.chromium.chrome.browser.price_change;
 
 import static org.junit.Assert.assertEquals;

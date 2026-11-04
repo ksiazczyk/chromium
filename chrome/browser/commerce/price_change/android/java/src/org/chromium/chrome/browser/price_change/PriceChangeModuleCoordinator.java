@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price change module coordinator
+// summary: Coordinator implementing ModuleProvider that embeds the price change module on surfaces like the NTP or start surface.
+// ---
+
 package org.chromium.chrome.browser.price_change;
 
 import android.content.Context;

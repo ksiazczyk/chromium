@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Commerce subscriptions Android DEPS include rules
+summary: Declares allowed include rules for the commerce subscriptions Android directory used by dependency checks.

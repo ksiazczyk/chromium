@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantSignalDB class declaration
+// summary: Declares the MerchantSignalDB service interface for saving, loading, prefix-loading, and deleting merchant trust signal entries.
+// ---
+
 #ifndef CHROME_BROWSER_COMMERCE_MERCHANT_VIEWER_MERCHANT_SIGNAL_DB_H_
 #define CHROME_BROWSER_COMMERCE_MERCHANT_VIEWER_MERCHANT_SIGNAL_DB_H_
 

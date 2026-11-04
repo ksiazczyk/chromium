@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscountsButtonController
+// summary: Toolbar button data provider that supplies the Discounts action chip UI resources and requests the commerce bottom sheet content when clicked.
+// ---
+
 package org.chromium.chrome.browser.commerce.coupons;
 
 import android.content.Context;

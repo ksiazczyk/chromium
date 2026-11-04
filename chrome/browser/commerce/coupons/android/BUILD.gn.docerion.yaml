@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android commerce coupons discounts UI
+summary: GN build configuration defining the Android Java library, resources, and unit and Robolectric test targets for Chrome's discounts bottom sheet coupons feature.

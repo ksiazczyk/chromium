@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantViewerDataManager implementation
+// summary: Implements deletion of merchant viewer data for cleared origins or time ranges, with local histogram logging of removed entries.
+// ---
+
 #include "chrome/browser/commerce/merchant_viewer/merchant_viewer_data_manager.h"
 
 #include "base/feature_list.h"

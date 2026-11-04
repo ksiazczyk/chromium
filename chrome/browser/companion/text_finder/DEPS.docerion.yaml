@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the text finder directory
+summary: Specifies the allowed dependency includes, such as blink annotation mojom, gfx geometry, service manager, and content public interfaces.

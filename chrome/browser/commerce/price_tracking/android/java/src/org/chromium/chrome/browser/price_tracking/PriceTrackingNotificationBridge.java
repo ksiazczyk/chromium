@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceTrackingNotificationBridge
+// summary: JNI-owned bridge class that receives price drop notification payloads from native code, validates them, and shows notifications via PriceDropNotifier.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import android.content.Context;

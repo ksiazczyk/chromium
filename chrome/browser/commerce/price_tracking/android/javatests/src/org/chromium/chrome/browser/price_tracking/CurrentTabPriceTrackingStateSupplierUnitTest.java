@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CurrentTabPriceTrackingStateSupplierUnitTest
+// summary: Robolectric unit tests for CurrentTabPriceTrackingStateSupplier, covering profile and tab supplier observation, product info lookups, and destroy behavior.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import static org.junit.Assert.assertEquals;

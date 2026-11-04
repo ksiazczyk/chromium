@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price insights bottom sheet content
+// summary: Implements BottomSheetContent for the price insights bottom sheet, defining the content view, sheet type, priority, and accessibility strings.
+// ---
+
 package org.chromium.chrome.browser.price_insights;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust signals coordinator
+// summary: Coordinates the merchant trust signals experience on Chrome Android, wiring the mediator, message scheduler, bottom sheet, metrics, and omnibox store icon.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import android.content.Context;

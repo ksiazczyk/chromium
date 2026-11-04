@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceTrackingUtilities
+// summary: Utility class managing shared preferences for price tracking, including the track-prices-on-tabs setting and the price welcome message card state and show count.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import androidx.annotation.VisibleForTesting;

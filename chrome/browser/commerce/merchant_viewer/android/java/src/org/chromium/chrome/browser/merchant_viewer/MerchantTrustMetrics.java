@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantTrustMetrics
+// summary: Records histograms, user actions and UKM data for merchant trust messages and bottom sheet interactions, defining clear reason and open source enums.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import android.text.format.DateUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextFinderManager unit tests
+// summary: Contains unit tests covering single and multiple text finder creation, removal, and search result handling in TextFinderManager.
+// ---
+
 #include "chrome/browser/companion/text_finder/text_finder_manager.h"
 
 #include "chrome/browser/companion/text_finder/text_finder.h"

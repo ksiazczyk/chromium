@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Commerce bottom sheet content container layout
+summary: Android layout that hosts the commerce bottom sheet content, wrapping a vertical RecyclerView for scrollable content.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/commerce_bottom_sheet_content_container"

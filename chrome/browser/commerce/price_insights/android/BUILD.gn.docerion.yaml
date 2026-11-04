@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Price Insights Android build configuration
+summary: Defines GN build targets for the Android Price Insights feature, listing Java sources, Android resources, and Robolectric unit tests together with their dependencies.

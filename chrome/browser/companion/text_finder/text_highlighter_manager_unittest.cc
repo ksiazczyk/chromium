@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextHighlighterManager unit tests
+// summary: Unit tests for TextHighlighterManager covering creation and automatic replacement of text highlighters using a mock annotation agent container.
+// ---
+
 #include "chrome/browser/companion/text_finder/text_highlighter_manager.h"
 
 #include "base/strings/string_number_conversions.h"

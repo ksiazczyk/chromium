@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantViewerDataManagerFactory implementation
+// summary: Implements the profile-keyed service factory that creates and returns MerchantViewerDataManager instances for profiles.
+// ---
+
 #include "chrome/browser/commerce/merchant_viewer/merchant_viewer_data_manager_factory.h"
 
 #include "base/containers/fixed_flat_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price change module properties
+// summary: Defines the property keys, such as title, prices, images, and click listener, for the price change module's property model.
+// ---
+
 package org.chromium.chrome.browser.price_change;
 
 import android.graphics.Bitmap;

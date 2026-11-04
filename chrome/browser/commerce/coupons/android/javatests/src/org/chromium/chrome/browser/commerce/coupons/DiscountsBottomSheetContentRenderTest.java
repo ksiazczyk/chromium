@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discounts bottom sheet content render tests
+// summary: Render tests that verify the visual output of the discounts bottom sheet content in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.commerce.coupons;
 
 import static org.chromium.chrome.browser.commerce.coupons.DiscountsBottomSheetContentProperties.ALL_KEYS;

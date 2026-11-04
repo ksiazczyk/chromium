@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextFinder unit tests
+// summary: Unit tests verifying that TextFinder reports found or not-found state based on the annotation attachment result.
+// ---
+
 #include "chrome/browser/companion/text_finder/text_finder.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

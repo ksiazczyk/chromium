@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking JNI bridge for Android
+// summary: Implements JNI entry points that let Java enable and query price tracking state for bookmarks through the shopping service.
+// ---
+
 #include "base/android/callback_android.h"
 #include "base/android/jni_android.h"
 #include "base/android/scoped_java_ref.h"

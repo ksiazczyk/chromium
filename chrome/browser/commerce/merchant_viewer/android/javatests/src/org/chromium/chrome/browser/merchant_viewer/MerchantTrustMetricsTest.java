@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MerchantTrustMetrics tests
+// summary: Robolectric tests verifying that MerchantTrustMetrics records message impact browsing time and navigation count histograms correctly for different rating buckets.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

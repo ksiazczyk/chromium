@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextHighlighter header
+// summary: Declares TextHighlighter, an AnnotationAgentHost that highlights and scrolls to text on the current page via the renderer's annotation agent.
+// ---
+
 #ifndef CHROME_BROWSER_COMPANION_TEXT_FINDER_TEXT_HIGHLIGHTER_H_
 #define CHROME_BROWSER_COMPANION_TEXT_FINDER_TEXT_HIGHLIGHTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceHistoryBottomSheetContentMediatorTest
+// summary: Robolectric unit tests for the price history bottom sheet content mediator, covering property model updates, URL opening behavior, and histogram logging with mocked services.
+// ---
+
 package org.chromium.chrome.browser.price_history;
 
 import static org.junit.Assert.assertEquals;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Merchant viewer BUILD.gn build definition
+summary: Defines GN source sets for the merchant signal database, data manager, and unit tests together with their sources and dependencies.

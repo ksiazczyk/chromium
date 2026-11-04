@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantViewerDataManagerFactory class declaration
+// summary: Declares the ProfileKeyedServiceFactory that owns MerchantViewerDataManager instances and associates them with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_COMMERCE_MERCHANT_VIEWER_MERCHANT_VIEWER_DATA_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_COMMERCE_MERCHANT_VIEWER_MERCHANT_VIEWER_DATA_MANAGER_FACTORY_H_
 

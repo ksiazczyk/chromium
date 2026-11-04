@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceTrackingBottomSheetContentMediator
+// summary: Mediator that updates the price tracking bottom sheet property model based on tab product info and tracking state.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

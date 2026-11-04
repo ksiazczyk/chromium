@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceSubscriptionsServiceFactory
+// summary: Singleton factory that creates and caches a CommerceSubscriptionsService per profile, wiring in the shopping service and price-drop notification manager, with test override support.
+// ---
+
 package org.chromium.chrome.browser.subscriptions;
 
 import org.chromium.base.ResettersForTesting;
