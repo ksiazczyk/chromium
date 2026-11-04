@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch operation callback boundary interface
+// summary: Boundary interface for prefetch operation callbacks, defining result and exception type constants plus onResult and onFailure methods.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentRendererClient class declaration
+// summary: Declares WebView's ContentRendererClient subclass with hooks for frame and WebView creation, visited links, error pages, navigation, and URL loader throttle providers.
+// relations:
+//   - depends_on /android_webview/renderer/aw_render_thread_observer.h
+//   - depends_on /base/compiler_specific.h
+//   - implements /content/public/renderer/content_renderer_client.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_RENDERER_AW_CONTENT_RENDERER_CLIENT_H_
 #define ANDROID_WEBVIEW_RENDERER_AW_CONTENT_RENDERER_CLIENT_H_
 

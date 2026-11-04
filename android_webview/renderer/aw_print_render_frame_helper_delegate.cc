@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPrintRenderFrameHelperDelegate implementation
+// summary: Implements the print helper delegate for WebView, disabling print preview, scripted print, and print overrides.
+// relations:
+//   - implements /android_webview/renderer/aw_print_render_frame_helper_delegate.h
+//   - depends_on /third_party/blink/public/web/web_element.h
+// ---
+
 #include "android_webview/renderer/aw_print_render_frame_helper_delegate.h"
 
 #include "third_party/blink/public/web/web_element.h"

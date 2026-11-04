@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeMode state content provider
+// summary: Content provider that serves the current set of SafeMode actions to any caller, including the embedded WebView implementation, without special permissions.
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.content.ContentProvider;

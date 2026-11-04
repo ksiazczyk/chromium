@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library WebStorage adapter
+// summary: Adapter implementing WebStorageBoundaryInterface over AwQuotaManagerBridge to delete browsing data globally or per site with executor-based completion callbacks.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

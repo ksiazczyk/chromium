@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing controller boundary interface
+// summary: Boundary interface for TracingController that reports tracing state and starts or stops tracing with categories, mode, and an output stream.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import org.jspecify.annotations.NullMarked;

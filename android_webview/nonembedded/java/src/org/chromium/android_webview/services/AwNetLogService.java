@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwNetLogService
+// summary: Service that prepares ParcelFileDescriptors for uploading network logs, writing per-app log files into a managed directory with a total capacity limit.
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.app.Service;

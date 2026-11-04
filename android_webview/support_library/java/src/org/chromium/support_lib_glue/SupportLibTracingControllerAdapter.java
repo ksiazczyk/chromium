@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library adapter for the tracing controller
+// summary: Adapter between TracingControllerBoundaryInterface and the shared tracing controller that starts, stops, and queries WebView tracing with API call logging.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

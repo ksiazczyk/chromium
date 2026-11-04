@@ -1,3 +1,11 @@
+---
+type: readme
+title: //android_webview/renderer/
+summary: Explains WebView's renderer code, folder dependencies, in-process versus out-of-process renderer modes across Android versions, crash recovery, and automated testing.
+relations:
+  - references /android_webview/docs/architecture.md
+---
+
 # //android\_webview/renderer/
 
 This folder holds WebView's renderer-specific code.

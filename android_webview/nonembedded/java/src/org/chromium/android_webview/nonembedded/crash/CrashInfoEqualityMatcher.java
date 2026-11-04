@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashInfoEqualityMatcher
+// summary: Hamcrest matcher that asserts equality of two CrashInfo objects in tests and builds a message describing mismatched fields.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/nonembedded/crash/CrashInfo.java
+// ---
+
 package org.chromium.android_webview.nonembedded.crash;
 
 import org.hamcrest.BaseMatcher;

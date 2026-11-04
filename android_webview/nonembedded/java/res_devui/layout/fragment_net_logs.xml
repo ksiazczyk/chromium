@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Net logs fragment layout
+summary: Layout for the net logs fragment, with a delete-all button, a total capacity label, and the net log list view.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/fragment_net_logs"

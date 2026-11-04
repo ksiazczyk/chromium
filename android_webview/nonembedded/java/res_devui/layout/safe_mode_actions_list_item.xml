@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: source
+title: Safe mode actions list item layout
+summary: Android layout for a safe mode actions list item rendered as a single styled text view for the action label.
+-->
+
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/action_id_textview"
     style="@style/SubHeaderTextView"/>

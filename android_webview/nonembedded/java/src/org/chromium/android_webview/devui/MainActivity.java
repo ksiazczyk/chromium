@@ -1,6 +1,16 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: MainActivity
+// summary: Main activity of the WebView DevTools UI that shows persistent errors and routes navigation between the home, crashes, flags, SafeMode, and net logs fragments.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/PersistentErrorView.java
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/WebViewPackageError.java
+// ---
+
 package org.chromium.android_webview.devui;
 
 import android.Manifest.permission;

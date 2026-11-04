@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Net log menu resource
+summary: Android menu resource providing Share and Delete actions for net log entries in the WebView DevTools.
+-->
+
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 <!--suppress HardcodedText -->
   <item

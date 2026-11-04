@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewNavigationListener boundary interface
+// summary: Boundary interface for navigation and page event callbacks, including threadsafe variants and paint and performance timing notifications.
+// relations:
+//   - depends_on /android_webview/support_library/boundary_interfaces/src/org/chromium/support_lib_boundary/FeatureFlagHolderBoundaryInterface.java
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import org.jspecify.annotations.NullMarked;

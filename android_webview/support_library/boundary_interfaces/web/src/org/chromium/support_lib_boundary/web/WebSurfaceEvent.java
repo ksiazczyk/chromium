@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSurface event identifiers
+// summary: Annotation defining event identifiers for WebSurface callbacks, covering invalidate and overscroll events whose scroll payloads are packed and unpacked via WebSurfaceEventPacker.
+// ---
+
 package org.chromium.support_lib_boundary.web;
 
 import androidx.annotation.IntDef;

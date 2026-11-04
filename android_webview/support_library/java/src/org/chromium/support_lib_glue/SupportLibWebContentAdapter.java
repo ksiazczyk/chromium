@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library adapter for WebView web content
+// summary: Adapter for WebContentBoundaryInterface wrapping AwWebContent, running a WebView factory with a scoped context wrapper and destroying the web content.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import android.content.Context;

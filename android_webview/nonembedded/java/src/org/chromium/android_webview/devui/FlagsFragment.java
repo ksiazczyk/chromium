@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlagsFragment
+// summary: Fragment of the WebView DevTools UI that lets users search, enable, disable, and reset experimental WebView flags and command-line features.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/DevUiBaseFragment.java
+// ---
+
 package org.chromium.android_webview.devui;
 
 import android.annotation.SuppressLint;

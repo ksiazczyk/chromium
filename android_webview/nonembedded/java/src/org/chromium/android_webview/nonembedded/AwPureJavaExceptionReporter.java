@@ -1,6 +1,15 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: WebView pure Java exception reporter
+// summary: Reports uncaught Java exceptions in non-embedded WebView by writing crash log files and scheduling minidump upload jobs.
+// relations:
+//   - implements /components/crash/android/java/src/org/chromium/components/crash/PureJavaExceptionReporter.java
+// ---
+
 package org.chromium.android_webview.nonembedded;
 
 import org.chromium.android_webview.nonembedded.crash.CrashUploadUtil;

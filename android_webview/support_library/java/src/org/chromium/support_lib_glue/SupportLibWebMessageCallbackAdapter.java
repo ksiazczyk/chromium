@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library WebMessageCallback adapter
+// summary: Adapter over WebMessageCallbackBoundaryInterface that forwards onMessage events to the support library callback only when the WEB_MESSAGE_CALLBACK_ON_MESSAGE feature is supported.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import org.chromium.support_lib_boundary.WebMessageBoundaryInterface;

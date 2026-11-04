@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for //android_webview/renderer
+summary: Defines allowed include paths for the renderer folder, permitting android_webview common, renderer, and grit plus selected content, components, blink, and media directories.

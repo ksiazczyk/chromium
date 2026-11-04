@@ -12,6 +12,14 @@ Blocks denoted with { % block some_name % }foo{ % endblock % } can be overridden
 by a child template that "extends" this file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest template for the nonembedded WebView APK
+summary: Jinja2 template rendered at build time into the WebView APK manifest, declaring permissions, application attributes, the startup feature metadata service, and Developer UI activities.
+relations:
+  - references /android_webview/test/shell/AndroidManifest.xml
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="{{manifest_package|default('com.android.webview')}}"

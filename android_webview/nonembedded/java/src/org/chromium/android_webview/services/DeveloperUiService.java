@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: DeveloperUiService
+// summary: Service that supports the WebView Developer UI by managing flag overrides, applying them to the command line, and showing notifications for experimental features.
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.app.Notification;

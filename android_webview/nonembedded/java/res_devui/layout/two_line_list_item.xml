@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Two-line list item layout
+summary: Android layout for a selectable two-line list item with a bold primary text and a smaller secondary text.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/TvSelectableBackground"
     android:layout_width="match_parent"

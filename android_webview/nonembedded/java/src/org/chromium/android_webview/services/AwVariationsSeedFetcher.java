@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwVariationsSeedFetcher
+// summary: JobService that periodically downloads the WebView variations seed, scheduling fetches when apps request the seed and at least the minimum period has elapsed.
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.app.job.JobInfo;

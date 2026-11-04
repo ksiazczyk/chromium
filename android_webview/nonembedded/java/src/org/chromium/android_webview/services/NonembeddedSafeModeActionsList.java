@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-embedded SafeMode actions list
+// summary: Static list of SafeModeActions supported by nonembedded WebView services, executed in the listed order when specified by the SafeModeService.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/services/NonEmbeddedFastVariationsSeedSafeModeAction.java
+// ---
+
 package org.chromium.android_webview.services;
 
 import org.chromium.android_webview.common.SafeModeAction;

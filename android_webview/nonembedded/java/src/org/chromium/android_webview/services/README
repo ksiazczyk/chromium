@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for the WebView services directory
+summary: Explains that this directory holds WebView services running in the single webview_service process, in which the native library is not loaded.
+---
+
 This directory contains WebView services running in the WebView provider's
 webview_service process. There is only one such process on a device. The native
 library is not loaded in this process.

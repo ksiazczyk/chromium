@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewApkProcess implementation
+// summary: Implements the WebViewApkProcess singleton, setting up the thread pool, main task executor, path provider, and a JSON pref service for the nonembedded WebView APK process.
+// relations:
+//   - implements /android_webview/nonembedded/webview_apk_process.h
+//   - depends_on /android_webview/common/aw_paths.h
+//   - depends_on /base/android/library_loader/library_loader_hooks.h
+// ---
+
 #include "android_webview/nonembedded/webview_apk_process.h"
 
 #include "android_webview/common/aw_paths.h"

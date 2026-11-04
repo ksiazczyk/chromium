@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashLoggingUtils
+// summary: Utility class that writes crash information as JSON entries into per-crash log files for both embedded and non-embedded WebView crashes.
+// ---
+
 package org.chromium.android_webview.services;
 
 import org.chromium.android_webview.nonembedded.crash.CrashInfo;

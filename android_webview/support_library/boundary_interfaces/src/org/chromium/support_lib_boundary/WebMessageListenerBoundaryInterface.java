@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMessageListener boundary interface
+// summary: Boundary interface for WebMessageListener delivering posted messages with source origin, main-frame flag, and a JavaScript reply proxy.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import android.net.Uri;

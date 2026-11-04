@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibSafeBrowsingResponse adapter
+// summary: Implements SafeBrowsingResponseBoundaryInterface, forwarding safe browsing actions (show interstitial, proceed, back to safety) to a callback that accepts an AwSafeBrowsingResponse.
+// ---
+
 package org.chromium.support_lib_callback_glue;
 
 import org.chromium.android_webview.SafeBrowsingAction;

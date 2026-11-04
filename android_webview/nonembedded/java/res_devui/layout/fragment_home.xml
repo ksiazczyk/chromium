@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Home fragment layout
+summary: Layout for the home fragment, containing a list view that shows the main developer information entries.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/fragment_home"

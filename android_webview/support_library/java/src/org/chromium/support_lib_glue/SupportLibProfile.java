@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibProfile
+// summary: Support library glue implementation of ProfileBoundaryInterface that delegates profile operations such as prefetching and sub-controller access to Profile.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

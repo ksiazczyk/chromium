@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebkitToCompatConverter boundary interface
+// summary: Boundary interface for converting android.webkit objects into support library compat objects and back, covering settings, requests, errors, responses, message ports, cookie manager and web storage.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import android.webkit.WebResourceRequest;

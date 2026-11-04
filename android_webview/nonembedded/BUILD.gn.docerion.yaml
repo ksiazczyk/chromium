@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for nonembedded WebView Java targets
+summary: Defines GN build targets for the WebView APK's nonembedded code, including JNI headers, the nonembedded Java library, and the developer UI library with their dependencies.
+relations:
+  - depends_on /build/config/android/rules.gni
+  - depends_on /third_party/jni_zero/jni_zero.gni
+  - depends_on /third_party/protobuf/proto_library.gni

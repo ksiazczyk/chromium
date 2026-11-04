@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeMode variations seed content provider
+// summary: Content provider that shares the variations seed file with WebViews during SafeMode, briefly waiting for a pending seed fetch before returning a file descriptor.
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.content.ContentProvider;

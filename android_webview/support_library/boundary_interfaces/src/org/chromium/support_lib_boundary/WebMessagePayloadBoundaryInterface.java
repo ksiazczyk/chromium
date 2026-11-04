@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMessagePayload boundary interface
+// summary: Boundary interface exposing a WebMessage payload's type and contents as string, array buffer, or shared array buffer.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import androidx.annotation.IntDef;

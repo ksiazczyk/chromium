@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashUploadUtil
+// summary: Utility class that schedules MinidumpUploadJobService jobs to upload WebView crash minidumps, optionally restricted to unmetered networks, with a delegate for testing.
+// ---
+
 package org.chromium.android_webview.nonembedded.crash;
 
 import android.app.job.JobInfo;

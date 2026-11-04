@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Navigation listener callback glue adapter
+// summary: AwNavigationListener adapter dispatching navigation events to WebViewNavigationListenerBoundaryInterface on a client executor with feature gating.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import org.chromium.android_webview.AwNavigation;

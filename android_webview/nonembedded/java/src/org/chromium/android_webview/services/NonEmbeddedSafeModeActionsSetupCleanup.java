@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-embedded SafeMode actions setup and cleanup
+// summary: Utility that activates or deactivates registered non-embedded SafeMode actions when the SafeMode configuration changes, running their setup and cleanup work.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/services/NonEmbeddedSafeModeAction.java
+// ---
+
 package org.chromium.android_webview.services;
 
 import org.chromium.android_webview.common.SafeModeAction;

@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Net log entry layout
+summary: Android layout for a clickable net log entry row that shows the log file name together with its timestamp and capacity.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/net_log_entry"

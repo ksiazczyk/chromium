@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parser of WebView crash JSON log files
+// summary: CrashInfoLoader that reads JSON crash log files from the crash log directory, deleting logs older than 30 days and returning parsed crash info.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/util/CrashInfoLoader.java
+// ---
+
 package org.chromium.android_webview.devui.util;
 
 import androidx.annotation.VisibleForTesting;

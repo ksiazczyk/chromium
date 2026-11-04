@@ -1,3 +1,11 @@
+---
+type: readme
+title: WebView support library README
+summary: Explains that the folder provides a shim layer between the AndroidX WebView APIs and WebView's implementation, plus folder dependencies.
+relations:
+  - references /android_webview/glue/README.md
+---
+
 # //android\_webview/support_library/
 
 This folder contains a shim layer between the public AndroidX APIs

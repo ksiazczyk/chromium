@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: DevUI night mode color definitions
+summary: Defines dark-theme color values such as error red, navigation, text, and delete button colors for the WebView DevUI in night mode.
+-->
+
 <resources>
     <color name="error_red">#F28482</color>
     <color name="navigation_selected">#FFFFFF</color>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library WebSurface adapter
+// summary: Adapter for WebSurfaceBoundaryInterface that wraps WebSurface, forwarding content assignment, drawing, sizing, touch input, and surface events to the support library.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import android.graphics.Canvas;

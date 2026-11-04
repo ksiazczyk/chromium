@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Navigation client callback glue adapter
+// summary: Transient AwNavigationListener adapter that forwards navigation events to the WebViewNavigationClient boundary interface when its feature is supported.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import org.chromium.android_webview.AwNavigationListener;

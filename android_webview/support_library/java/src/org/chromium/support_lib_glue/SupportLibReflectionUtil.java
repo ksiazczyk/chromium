@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibReflectionUtil
+// summary: Reflection entry point used by the WebView Support Library to obtain the WebView provider factory through createWebViewProviderFactory.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import org.chromium.build.annotations.UsedByReflection;

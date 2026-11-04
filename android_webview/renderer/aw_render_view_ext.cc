@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRenderViewExt implementation
+// summary: Implements a WebViewObserver that tracks main frame contents size changes and reports them to the browser via the FrameHost mojo interface.
+// relations:
+//   - implements /android_webview/renderer/aw_render_view_ext.h
+//   - depends_on /base/no_destructor.h
+//   - depends_on /content/public/renderer/render_frame.h
+// ---
+
 #include "android_webview/renderer/aw_render_view_ext.h"
 
 #include <map>

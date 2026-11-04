@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Presubmit checks for the support library
+# summary: Runs upload-time style checks that enforce annotated InvocationHandler references and forbid DEV_SUFFIX in boundary_interfaces.
+# ---
+
 """Presubmit tests for android_webview/support_library/
 
 Runs various style checks before upload.

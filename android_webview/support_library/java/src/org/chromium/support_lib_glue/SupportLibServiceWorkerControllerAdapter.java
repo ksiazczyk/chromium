@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library adapter for the service worker controller
+// summary: Adapter between AwServiceWorkerController and ServiceWorkerControllerBoundaryInterface that exposes service worker settings and sets the service worker client.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

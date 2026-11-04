@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op support library WebSettings adapter
+// summary: Mock WebSettings adapter that records API calls but performs no actions, used when the passed WebSettings object is not a Chromium implementation.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

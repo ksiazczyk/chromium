@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewBuilder boundary interface
+// summary: Boundary interface for configuring and building a WebView via a builder, including JavaScript interfaces and profile name.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import android.content.Context;

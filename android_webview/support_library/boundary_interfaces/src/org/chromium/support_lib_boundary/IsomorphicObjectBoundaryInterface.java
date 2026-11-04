@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsomorphicObject boundary interface
+// summary: Boundary interface for maintaining a lazy one-to-one mapping between support library objects and their corresponding internal WebView peer objects.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import org.jspecify.annotations.NullMarked;

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of nonembedded WebView processes
+summary: Explains WebView code running under its own UID outside embedding apps, describing the UI and service processes, their constraints, and precautions for Android components.
+---
+
 # //android\_webview/nonembedded/
 
 This folder holds WebView code that is run under WebView's own UID and _not_

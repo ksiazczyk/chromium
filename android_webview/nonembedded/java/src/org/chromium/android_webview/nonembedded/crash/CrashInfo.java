@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashInfo
+// summary: Model class bundling crash report details such as local ID, upload state, capture and upload times, and crash keys, with JSON serialization and merging support.
+// relations:
+//   - references /android_webview/common/crash_reporter/crash_keys.cc
+// ---
+
 package org.chromium.android_webview.nonembedded.crash;
 
 import androidx.annotation.NonNull;

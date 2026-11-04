@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for safely starting activities from external intents
+// summary: Utility class that attempts to start an activity from an intent and shows an error dialog when no browser or handler is available.
+// ---
+
 package org.chromium.android_webview.devui.util;
 
 import android.app.AlertDialog;

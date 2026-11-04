@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibWebkitToCompatConverterAdapter
+// summary: Adapter that converts framework webkit objects such as WebSettings, WebResourceRequest and service worker settings into their support library boundary interface counterparts.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import android.os.Build;

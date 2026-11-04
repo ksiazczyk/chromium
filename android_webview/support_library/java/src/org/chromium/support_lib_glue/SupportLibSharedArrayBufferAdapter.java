@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library adapter for shared array buffers
+// summary: Adapter between SharedArrayBufferBoundaryInterface and content's SharedArrayBuffer that maps shared memory to a ByteBuffer and converts objects across the boundary.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import android.system.ErrnoException;

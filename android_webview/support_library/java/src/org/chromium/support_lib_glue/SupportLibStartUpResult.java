@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library WebView startup result holder
+// summary: Implements WebViewStartUpResultBoundaryInterface, storing UI-thread startup timings and stack traces of blocking and asynchronous startup work.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import org.chromium.support_lib_boundary.WebViewStartUpResultBoundaryInterface;

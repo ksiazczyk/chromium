@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginMatchedHeader boundary interface
+// summary: Boundary interface for origin-matched headers, exposing the header name, value and matching rules.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import java.util.Set;

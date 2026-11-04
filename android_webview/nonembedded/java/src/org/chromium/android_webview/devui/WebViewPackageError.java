@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewPackageError
+// summary: Helper that shows a persistent error and dialog when the DevTools UI is launched from a WebView package other than the system-selected provider.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/PersistentErrorView.java
+// ---
+
 package org.chromium.android_webview.devui;
 
 import android.app.Activity;

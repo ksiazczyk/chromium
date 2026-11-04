@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file intentionally without owners
+summary: States that the folder intentionally has no listed owners and points contributors to README.md for guidance.
+relations:
+  - references /android_webview/support_library/boundary_interfaces/README.md

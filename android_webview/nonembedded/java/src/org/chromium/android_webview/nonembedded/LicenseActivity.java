@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView OSS licenses activity
+// summary: Activity that launches the system HTML viewer to display WebView OSS licenses served through the license content provider.
+// relations:
+//   - references /android_webview/aapt2.config
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/nonembedded/LicenseContentProvider.java
+// ---
+
 package org.chromium.android_webview.nonembedded;
 
 import android.app.Activity;

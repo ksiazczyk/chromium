@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRenderViewExt class declaration
+// summary: Declares a WebViewObserver that maps WebViews to extensions and updates contents size for WebView renderer views.
+// relations:
+//   - depends_on /base/timer/timer.h
+//   - depends_on /third_party/blink/public/web/web_view_observer.h
+//   - depends_on /ui/gfx/geometry/size.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_RENDERER_AW_RENDER_VIEW_EXT_H_
 #define ANDROID_WEBVIEW_RENDERER_AW_RENDER_VIEW_EXT_H_
 

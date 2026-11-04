@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContent configuration key annotation
+// summary: Annotation listing the configuration keys that can be passed to a WebContent builder or configurer across the support library boundary as key-value pairs.
+// ---
+
 package org.chromium.support_lib_boundary.web;
 
 import androidx.annotation.IntDef;

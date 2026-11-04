@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Crash list item body layout
+summary: Layout for the expandable body of a crash list entry, showing upload status plus buttons to hide the entry, file a bug report, or upload the crash report.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/TvNonFocusable"
     android:layout_width="match_parent"

@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Reflection utilities for the WebView support library boundary
+// summary: Utility methods for calling across the WebView support library boundary, including classloader-aware instanceof checks, method duplication, and dynamic proxy creation.
+// ---
+
 package org.chromium.support_lib_boundary.util;
 
 import android.os.Build;

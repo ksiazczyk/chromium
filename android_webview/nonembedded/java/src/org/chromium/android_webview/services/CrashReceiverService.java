@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashReceiverService
+// summary: Service that receives crash minidumps from applications, serially copies them into WebView's crash directory, and schedules upload jobs.
+// ---
+
 package org.chromium.android_webview.services;
 
 import static org.chromium.components.minidump_uploader.CrashFileManager.recordMinidumpLoss;

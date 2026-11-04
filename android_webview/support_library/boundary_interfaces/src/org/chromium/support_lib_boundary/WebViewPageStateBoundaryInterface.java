@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewPageState boundary interface
+// summary: Thread-safe boundary interface exposing a snapshot of WebView page state, including the page URL and a handle back to the page.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import androidx.annotation.AnyThread;

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView SafeMode state service
+// summary: Service that lets trusted, certificate-verified callers enable or disable WebView SafeMode and propagates that state to embedded WebView implementations at startup.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/common/SafeModeController.java
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.annotation.SuppressLint;

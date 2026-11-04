@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Flag states text view layout
+summary: Layout for a bold, non-clickable text view that displays a flag's state and passes touch events to a spinner behind it.
+-->
+
 <!-- Make this non-clickable, so it passes touch events to the <Spinner>
     sitting behind it. -->
 <TextView

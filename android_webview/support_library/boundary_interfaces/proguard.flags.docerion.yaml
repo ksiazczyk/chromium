@@ -1,0 +1,4 @@
+# Docerion header of proguard.flags.
+type: config
+title: ProGuard keep rules for support library boundary interfaces
+summary: Keeps the support library boundary interface packages unobfuscated because they are used across projects via reflection in AndroidX builds.

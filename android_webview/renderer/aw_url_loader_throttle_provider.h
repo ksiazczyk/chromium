@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwURLLoaderThrottleProvider class declaration
+// summary: Declares a blink URLLoaderThrottleProvider that supplies Safe Browsing throttles for WebView resource requests.
+// relations:
+//   - depends_on /base/sequence_checker.h
+//   - depends_on /mojo/public/cpp/bindings/pending_remote.h
+//   - depends_on /mojo/public/cpp/bindings/remote.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_RENDERER_AW_URL_LOADER_THROTTLE_PROVIDER_H_
 #define ANDROID_WEBVIEW_RENDERER_AW_URL_LOADER_THROTTLE_PROVIDER_H_
 

@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Persistent error message layout
+summary: Android layout for a yellow warning banner with an error text and an optional action button, hidden by default.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/crashes_list_activity_layout"

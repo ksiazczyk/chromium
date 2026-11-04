@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'WebFeatures: shared AndroidX Web feature constants and checks'
+// summary: Defines constants naming the features the AndroidX Web library can support and helpers to check a feature set, including a :dev suffix visible only on debuggable builds.
+// ---
+
 package org.chromium.support_lib_boundary.web.util;
 
 import android.os.Build;

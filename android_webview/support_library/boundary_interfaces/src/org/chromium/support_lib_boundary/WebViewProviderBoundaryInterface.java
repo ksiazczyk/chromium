@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewProvider boundary interface
+// summary: Core boundary interface for WebView implementation operations such as web messages, script injection, renderer clients, profiles, prerendering, navigation, and state saving.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import android.net.Uri;

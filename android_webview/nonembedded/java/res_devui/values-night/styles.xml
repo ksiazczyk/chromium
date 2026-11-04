@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: DevUI night mode theme styles
+summary: Defines the DevUi DayNight theme based on the Android Material dark theme for night mode in the WebView DevUI.
+-->
+
 <resources>
     <style name="Theme.DevUi.DayNight" parent="@android:style/Theme.Material" />
 </resources>

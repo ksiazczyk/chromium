@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web provider factory boundary interface
+// summary: Boundary interface for Web globals and singletons, providing methods to build WebContent, create WebSurface instances with event listeners, and report supported features.
+// ---
+
 package org.chromium.support_lib_boundary.web;
 
 import org.jspecify.annotations.NullMarked;

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregator of WebView crash info from multiple sources
+// summary: Aggregates crash info from uploaded, unuploaded, and log-based loaders into a single deduplicated list sorted by most recent, for display in the crash UI.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/util/CrashInfoLoader.java
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/util/UploadedCrashesInfoLoader.java
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/util/UnuploadedFilesStateLoader.java
+// ---
+
 package org.chromium.android_webview.devui.util;
 
 import androidx.annotation.VisibleForTesting;

@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Flags fragment layout with search and reset
+summary: Layout for the flags fragment, providing a flag search bar, a reset flags button, and the list of flags.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/fragment_flags"

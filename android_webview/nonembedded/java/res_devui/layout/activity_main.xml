@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Main activity layout with bottom navigation
+summary: Android layout for the WebView devtools main activity, with a content fragment area, an error banner, and a bottom navigation bar for Home, Crashes, Flags, and Net Logs.
+-->
+
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

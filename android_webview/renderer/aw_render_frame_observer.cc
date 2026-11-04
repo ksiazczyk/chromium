@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRenderFrameObserver implementation
+// summary: Implements frame navigation observers that trigger orderfile instrumentation and temporarily boost renderer thread priority during navigations.
+// relations:
+//   - implements /android_webview/renderer/aw_render_frame_observer.h
+//   - depends_on /android_webview/common/aw_features.h
+//   - depends_on /base/feature_list.h
+// ---
+
 #include "android_webview/renderer/aw_render_frame_observer.h"
 
 #include "android_webview/common/aw_features.h"

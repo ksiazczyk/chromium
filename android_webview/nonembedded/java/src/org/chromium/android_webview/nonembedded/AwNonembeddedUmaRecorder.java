@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Nonembedded WebView UMA recorder
+// summary: Implements UmaRecorder for non-embedded WebView processes, buffering histogram records and forwarding them to the metrics bridge service.
+// ---
+
 package org.chromium.android_webview.nonembedded;
 
 import android.content.ComponentName;

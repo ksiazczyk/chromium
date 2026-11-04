@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for nonembedded WebView
+summary: Lists the code owners responsible for reviewing changes in the nonembedded WebView directory.
