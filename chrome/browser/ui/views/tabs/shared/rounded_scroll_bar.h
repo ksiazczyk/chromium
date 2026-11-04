@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedScrollBar class declaration
+// summary: Declares the overlay vertical scrollbar and its rounded thumb class used to fade the scrollbar in and out within tab strip UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_SHARED_ROUNDED_SCROLL_BAR_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_SHARED_ROUNDED_SCROLL_BAR_H_
 

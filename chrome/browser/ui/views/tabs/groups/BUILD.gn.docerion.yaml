@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for tab group views
+summary: GN build file defining the groups source sets, public headers, and dependencies for the shared tab group UI views and their browser tests.

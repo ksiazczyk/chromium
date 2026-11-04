@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar container view header
+// summary: Declares ManageSharingAvatarContainer, a view showing up to three member avatars of a shared tab group fetched from the data sharing service.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_GROUPS_AVATAR_CONTAINER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_GROUPS_AVATAR_CONTAINER_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag target interface
+// summary: Declares TabDragTarget, an interface for custom drop-target behavior when tabs are dragged beyond the tab strip.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_DRAGGING_TAB_DRAG_TARGET_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_DRAGGING_TAB_DRAG_TARGET_H_
 

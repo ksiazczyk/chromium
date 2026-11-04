@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupUnfocusButton implementation
+// summary: Implements the labeled button shown on a focused tab group that exits focus mode, with theme- and orientation-aware colors and rounded backgrounds.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_group_unfocus_button.h"
 
 #include <utility>

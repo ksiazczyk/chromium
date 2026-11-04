@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabView implementation
+// summary: Implements the TabView class that paints tab backgrounds and displays favicons, titles, alert indicators and close buttons while reacting to data and hierarchy changes.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_view.h"
 
 #include <optional>

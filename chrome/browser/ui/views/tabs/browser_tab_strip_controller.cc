@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tab strip controller implementation
+// summary: Implements TabStripController by sourcing tab data from the WebContentses in a TabStripModel and wiring browser UI behavior.
+// ---
+
 #include "chrome/browser/ui/views/tabs/browser_tab_strip_controller.h"
 
 #include <memory>

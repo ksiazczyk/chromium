@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip Glic actor task icon implementation
+// summary: Implements the tab strip actor task icon button with split button styling, nudge state, and color handling.
+// ---
+
 #include "chrome/browser/ui/views/tabs/glic/tab_strip_glic_actor_task_icon.h"
 
 #include <string>

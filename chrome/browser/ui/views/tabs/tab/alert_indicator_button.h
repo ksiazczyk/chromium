@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alert indicator button header
+// summary: Declares the AlertIndicatorButton view class and its delegate interface for showing tab alert icons and toggling audio muting.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_ALERT_INDICATOR_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_ALERT_INDICATOR_BUTTON_H_
 

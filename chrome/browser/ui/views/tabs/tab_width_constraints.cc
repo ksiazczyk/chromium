@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab width constraints implementation
+// summary: Implements width calculations for tab layout, adjusting minimum, crossover, and preferred widths for pinned and closed tabs.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_width_constraints.h"
 
 #include "chrome/browser/ui/tabs/tab_style.h"

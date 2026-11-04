@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top container button class header
+// summary: Declares TopContainerButton, a custom-styled label button used in the top container of the vertical tab strip and projects panel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_VERTICAL_TOP_CONTAINER_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_VERTICAL_TOP_CONTAINER_BUTTON_H_
 

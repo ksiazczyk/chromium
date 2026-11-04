@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag handler implementation
+// summary: Implements drag initialization, continuation, and insertion of dragged tabs into positions and nodes within the tab strip.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_drag_handler.h"
 
 #include <algorithm>

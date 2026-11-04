@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: 'BUILD.gn: horizontal tab strip build targets'
+summary: Defines source_set targets for the horizontal tab strip views, their implementation, and unit tests, with dependency and cycle-avoidance notes.

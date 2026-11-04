@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripActionContainer browser tests
+// summary: In-process browser tests for the tab strip action container covering Glic and actor nudge buttons, animations, and related UI behavior.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip_action_container.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripFlatEdgeButton implementation
+// summary: Implements the tab strip label button that renders a flat edge, ink drop, icon, and expansion behavior when paired with a sibling button.
+// ---
+
 #include "chrome/browser/ui/views/tabs/shared/tab_strip_flat_edge_button.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

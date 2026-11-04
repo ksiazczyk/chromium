@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group editor bubble view browser test
+// summary: Browser tests for the tab group editor bubble, verifying dialog display, metrics, context menu actions and tablet mode behavior.
+// ---
+
 #include "chrome/browser/ui/views/tabs/groups/tab_group_editor_bubble_view.h"
 
 #include <memory>

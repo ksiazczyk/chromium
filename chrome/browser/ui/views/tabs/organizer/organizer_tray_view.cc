@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer tray view implementation
+// summary: Implements the tray UI that slides out from the browser side to host the organizer panel, with outside-click closing, shadows, clipping and focus handling.
+// ---
+
 #include "chrome/browser/ui/views/tabs/organizer/organizer_tray_view.h"
 
 #include <memory>

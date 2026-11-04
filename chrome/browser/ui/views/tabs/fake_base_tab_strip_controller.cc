@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake base tab strip controller implementation
+// summary: Provides a stub TabStripController that simulates tabs, selection and groups for exercising the tab strip views.
+// ---
+
 #include "chrome/browser/ui/views/tabs/fake_base_tab_strip_controller.h"
 
 #include <algorithm>

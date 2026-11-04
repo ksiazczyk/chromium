@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTabSlotController class declaration
+// summary: Declares FakeTabSlotController, a configurable fake TabSlotController with setters for tab count, active tab and paint options, used to exercise tab slot views in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_FAKE_TAB_SLOT_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_FAKE_TAB_SLOT_CONTROLLER_H_
 

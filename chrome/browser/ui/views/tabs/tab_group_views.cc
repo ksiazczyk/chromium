@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group views implementation
+// summary: Implements TabGroupViews, which creates and manages the header, underline, drag underline and highlight views for a tab group and updates their bounds.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_group_views.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabHoverCardThumbnailObserver class header
+// summary: Declares a class that observes a tab thumbnail image and invokes registered callbacks whenever new thumbnail data becomes available.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_TAB_HOVER_CARD_THUMBNAIL_OBSERVER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_TAB_HOVER_CARD_THUMBNAIL_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripNudgeButton class header
+// summary: Declares the TabStripNudgeButton class, a tab strip control button that shows a dismissible nudge with animated width and opacity.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_STRIP_NUDGE_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_STRIP_NUDGE_BUTTON_H_
 

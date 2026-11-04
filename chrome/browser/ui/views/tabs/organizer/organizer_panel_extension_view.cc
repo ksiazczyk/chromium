@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel extension view implementation
+// summary: Implements an organizer panel variant that hosts an extension side panel instead of the default organizer UI.
+// ---
+
 #include "chrome/browser/ui/views/tabs/organizer/organizer_panel_extension_view.h"
 
 #include <utility>

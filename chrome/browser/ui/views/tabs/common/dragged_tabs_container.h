@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DraggedTabsContainer class declaration
+// summary: Declares an abstract container for handling dragged tabs in the tab strip, implementing the TabDragTarget interface with support for nested targets.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_DRAGGED_TABS_CONTAINER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_DRAGGED_TABS_CONTAINER_H_
 

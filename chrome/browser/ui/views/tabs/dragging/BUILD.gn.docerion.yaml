@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for tab dragging sources and tests
+summary: Defines GN source sets and dependencies for the tab drag target, dragging interfaces, implementations, and test support in the tab strip dragging directory.

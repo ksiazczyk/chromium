@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootTabCollectionNode implementation
+// summary: Implements the root view model that observes tab collection hierarchy and selection changes to build and update the tab strip view hierarchy.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/root_tab_collection_node.h"
 
 #include "base/stl_util.h"

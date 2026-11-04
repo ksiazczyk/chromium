@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fade footer view implementation
+// summary: Implements footer rows that display tab alert icons, memory usage and collaboration messaging in the tab hover card.
+// ---
+
 #include "chrome/browser/ui/views/tabs/hovercard/fade_footer_view.h"
 
 #include "base/byte_size.h"

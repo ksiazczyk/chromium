@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedTabContainerView implementation
+// summary: Implements the pinned tab region view, managing horizontal and vertical layout of pinned tabs and serving as their drag target.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/pinned_tab_container_view.h"
 
 #include "base/i18n/rtl.h"

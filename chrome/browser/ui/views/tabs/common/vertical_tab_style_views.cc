@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab style view implementation
+// summary: Implements vertical tab rendering, including tab paths, background painting with theme images, insets, and colors for the vertical tab strip.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/vertical_tab_style_views.h"
 
 #include <optional>

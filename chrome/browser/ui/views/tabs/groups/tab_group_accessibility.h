@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group accessibility header
+// summary: Declares functions that produce accessibility text for tab group contents and hover cards.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_GROUPS_TAB_GROUP_ACCESSIBILITY_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_GROUPS_TAB_GROUP_ACCESSIBILITY_H_
 

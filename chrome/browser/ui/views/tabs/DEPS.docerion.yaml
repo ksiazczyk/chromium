@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ChromeOS tab scrubber
+summary: Grants tab_scrubber_chromeos files include access to ash headers for display and event transformation handling.

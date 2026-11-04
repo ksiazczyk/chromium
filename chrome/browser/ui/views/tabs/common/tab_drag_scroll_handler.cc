@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag scroll handler implementation
+// summary: Implements auto-scrolling of scroll views when dragged tabs approach their edges, using timer-driven increments and gradient masks.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_drag_scroll_handler.h"
 
 #include "base/functional/bind.h"

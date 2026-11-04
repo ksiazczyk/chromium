@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab hover card bubble view implementation
+// summary: Implements the bubble dialog that displays a hovered tab's title, domain, alert state, and preview image, including sizing and fade behavior.
+// ---
+
 #include "chrome/browser/ui/views/tabs/hovercard/tab_hover_card_bubble_view.h"
 
 #include <algorithm>

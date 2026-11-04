@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel extension view header
+// summary: Declares OrganizerPanelExtensionView, which embeds an extension side panel in the organizer panel behind a feature flag.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_ORGANIZER_ORGANIZER_PANEL_EXTENSION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_ORGANIZER_ORGANIZER_PANEL_EXTENSION_VIEW_H_
 

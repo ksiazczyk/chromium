@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip view layout header
+// summary: Declares TabStripViewLayout, the layout manager for arranging pinned and unpinned tab strip regions in both orientations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_STRIP_VIEW_LAYOUT_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_STRIP_VIEW_LAYOUT_H_
 

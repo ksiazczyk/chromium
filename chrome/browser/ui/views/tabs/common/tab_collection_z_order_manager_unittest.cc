@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab collection z-order manager unit tests
+// summary: Unit tests covering default ordering, sorting by z-order level, stable sort behavior, and dynamic z-order changes in containers.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_collection_z_order_manager.h"
 
 #include <memory>

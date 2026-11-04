@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel view implementation
+// summary: Implements the organizer panel view that hosts the panel WebUI in a WebView, forwarding keyboard events and tracking draggable window caption regions.
+// ---
+
 #include "chrome/browser/ui/views/tabs/organizer/organizer_panel_view.h"
 
 #include <algorithm>

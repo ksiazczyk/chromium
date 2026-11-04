@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glow hover controller header
+// summary: Declares GlowHoverController, which animates and draws the hover glow effect for views in the tab strip.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_GLOW_HOVER_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_GLOW_HOVER_CONTROLLER_H_
 

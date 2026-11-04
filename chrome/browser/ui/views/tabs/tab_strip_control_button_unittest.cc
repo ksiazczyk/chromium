@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripControlButton unit tests
+// summary: Unit tests verifying the hit-test mask of the tab strip control button in condensed and uncondensed frame states.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip_control_button.h"
 
 #include "base/test/bind.h"

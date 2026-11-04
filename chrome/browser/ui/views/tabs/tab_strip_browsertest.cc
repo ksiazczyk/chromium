@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStrip browser tests
+// summary: Integration tests for interactions between TabStripModel and TabStrip, covering tab grouping, metrics, and tab strip behavior.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip.h"
 
 #include <memory>

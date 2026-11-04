@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripLayoutHelper implementation
+// summary: Implements the layout helper that tracks tab slots, group headers and model changes to calculate and assign tab strip layouts.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip_layout_helper.h"
 
 #include <algorithm>

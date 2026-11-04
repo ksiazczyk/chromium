@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupHeaderView unit tests
+// summary: Unit tests for the tab group header view, using a mock delegate to verify tooltip, mouse, keyboard and focus behaviour.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_group_header_view.h"
 
 #include <memory>

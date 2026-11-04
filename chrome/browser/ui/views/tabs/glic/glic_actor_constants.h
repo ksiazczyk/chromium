@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic actor split button corner radius constants
+// summary: Defines corner radii constants used to style the Glic button and actor task icon as a split button.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_GLIC_GLIC_ACTOR_CONSTANTS_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_GLIC_GLIC_ACTOR_CONSTANTS_H_
 

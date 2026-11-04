@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag handler interface
+// summary: Declares the interface views use to start, continue, and end tab drags and to query drag state such as pinned tabs and groups.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_DRAG_HANDLER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_DRAG_HANDLER_H_
 

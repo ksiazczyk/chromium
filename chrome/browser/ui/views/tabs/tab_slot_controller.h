@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab slot controller interface header
+// summary: Declares TabSlotController, the interface for controlling tabs and group headers, covering selection, closing, muting, moving, group collapse and context menus.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_SLOT_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_SLOT_CONTROLLER_H_
 

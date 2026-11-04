@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab accessibility implementation
+// summary: Builds localized accessible tab labels, including split tab positions, and decides when the accessible name needs updating.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab/tab_accessibility.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

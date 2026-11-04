@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip expand on hover lock implementation
+// summary: Implements VerticalTabStripExpandOnHoverLock, registering and unregistering an expand-on-hover lock with the vertical tab strip region view.
+// ---
+
 #include "chrome/browser/ui/views/tabs/vertical/vertical_tab_strip_expand_on_hover_lock.h"
 
 #include "chrome/browser/ui/views/frame/vertical_tab_strip_region_view.h"

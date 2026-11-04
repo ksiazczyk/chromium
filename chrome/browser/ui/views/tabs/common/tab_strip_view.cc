@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip view implementation
+// summary: Implements TabStripView, which hosts pinned and unpinned tab regions with their scroll views and scrolls to keep the active tab visible.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_strip_view.h"
 
 #include "base/callback_list.h"

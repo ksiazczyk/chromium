@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context menu controller implementation
+// summary: Implements the controller that loads and runs the tab context menu for horizontal and vertical tab strips, delegating command state to a delegate and handling extension menu items.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab/tab_context_menu_controller.h"
 
 #include "chrome/browser/ui/tabs/tab_menu_model.h"

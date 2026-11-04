@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab view unit tests
+// summary: Unit tests for the Tab view covering icon, title, close button, alert indicator, tab paths, and collaboration messaging.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab.h"
 
 #include <stddef.h>

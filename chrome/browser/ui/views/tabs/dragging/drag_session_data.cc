@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of tab drag session data
+// summary: Implements TabDragData construction, capturing a dragged tab's index, pinned state, and tab group information at drag start.
+// ---
+
 #include "chrome/browser/ui/views/tabs/dragging/drag_session_data.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the dragging tabs session
+// summary: Contains in-process browser tests that set up DragSessionData and verify DraggingTabsSession drag and reorder behavior.
+// ---
+
 #include "chrome/browser/ui/views/tabs/dragging/dragging_tabs_session.h"
 
 #include "chrome/browser/ui/browser_tabstrip.h"

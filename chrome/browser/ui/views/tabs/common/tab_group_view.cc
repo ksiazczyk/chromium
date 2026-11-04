@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupView implementation
+// summary: Implements the tab group container view that hosts the group header, line and tabs, and handles dragging, collapsing and focus mode.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_group_view.h"
 
 #include "chrome/browser/ui/browser_commands.h"

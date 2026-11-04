@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip link drag browser tests
+// summary: Browser tests verifying link drag-and-drop index resolution in tab strips, parameterized over horizontal and vertical orientations.
+// ---
+
 #include <memory>
 #include <vector>
 

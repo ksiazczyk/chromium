@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabView vertical layout declaration
+// summary: Declares the vertical layout manager for TabView with child configuration and visibility rules for collapsed tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_VIEW_VERTICAL_LAYOUT_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_VIEW_VERTICAL_LAYOUT_H_
 

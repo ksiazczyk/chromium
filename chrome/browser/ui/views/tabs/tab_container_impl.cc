@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContainerImpl implementation
+// summary: Implements TabContainerImpl, the concrete tab container managing tab layout, insertion, removal animations, drag-and-drop targets and tab group views.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_container_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip view browser tests
+// summary: Browser tests checking pinned container sizing constraints and layout behavior of the unified tab strip view across orientations.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_strip_view.h"
 
 #include "base/auto_reset.h"

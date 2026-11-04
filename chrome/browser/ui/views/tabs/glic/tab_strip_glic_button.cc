@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip Glic button implementation
+// summary: Implements the tab strip Glic button with width states, label margins, context menu, and theming.
+// ---
+
 #include "chrome/browser/ui/views/tabs/glic/tab_strip_glic_button.h"
 
 #include <utility>

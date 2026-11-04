@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWidthConstraints class header
+// summary: Declares TabWidthConstraints, which provides minimum, crossover, and preferred width information for a single tab during layout.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_WIDTH_CONSTRAINTS_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_WIDTH_CONSTRAINTS_H_
 

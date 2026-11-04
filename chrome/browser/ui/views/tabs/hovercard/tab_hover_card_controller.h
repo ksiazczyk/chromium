@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab hover card controller header
+// summary: Declares the controller that manages when tab hover cards appear and disappear, with hide locks, animation controls, and test hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_TAB_HOVER_CARD_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_TAB_HOVER_CARD_CONTROLLER_H_
 

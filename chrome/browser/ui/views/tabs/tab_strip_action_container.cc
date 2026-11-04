@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripActionContainer implementation
+// summary: Implements the tab strip action container with Glic and actor buttons, nudge animation sessions, and separators shown at the end of the tab strip.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip_action_container.h"
 
 #include <memory>

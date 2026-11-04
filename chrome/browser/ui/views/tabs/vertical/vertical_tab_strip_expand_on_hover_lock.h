@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip expand on hover lock class header
+// summary: Declares VerticalTabStripExpandOnHoverLock, a lock that keeps the vertical tab strip's expand-on-hover state while it is held.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_VERTICAL_VERTICAL_TAB_STRIP_EXPAND_ON_HOVER_LOCK_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_VERTICAL_VERTICAL_TAB_STRIP_EXPAND_ON_HOVER_LOCK_H_
 

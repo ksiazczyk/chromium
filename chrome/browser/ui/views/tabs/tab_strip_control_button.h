@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripControlButton class header
+// summary: Declares the TabStripControlButton view, a label button for tab strip controls with configurable icons, colors, corner radii and flat edges.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_STRIP_CONTROL_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_STRIP_CONTROL_BUTTON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group editor bubble view header
+// summary: Declares TabGroupEditorBubbleView, the bubble dialog for changing tab group visual parameters, including context menu command identifiers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_GROUPS_TAB_GROUP_EDITOR_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_GROUPS_TAB_GROUP_EDITOR_BUBBLE_VIEW_H_
 

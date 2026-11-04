@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tabs views GN build targets
+summary: Defines source sets and dependencies for the Chrome tab strip views code, including base, tab group and tab container targets.

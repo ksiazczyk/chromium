@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Horizontal tab strip overflow indicator implementation
+// summary: Implements painting of the left/right overflow shadow gradient shown when tab strip content overflows the viewport.
+// ---
+
 #include "chrome/browser/ui/views/tabs/horizontal/horizontal_tab_strip_overflow_indicator_view.h"
 
 #include "base/check.h"

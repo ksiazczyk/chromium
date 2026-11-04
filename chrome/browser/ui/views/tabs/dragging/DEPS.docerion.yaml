@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for tab drag interactive tests
+summary: Grants the interactive tab drag uitest extra include permissions for Ash window management headers.

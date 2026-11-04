@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab hover card bubble view unit tests
+// summary: Unit tests for the hover card bubble view and filename eliding, including parameterized cases for eliding text with emoji and bidirectional content.
+// ---
+
 #include "chrome/browser/ui/views/tabs/hovercard/tab_hover_card_bubble_view.h"
 
 #include <ostream>

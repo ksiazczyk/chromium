@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag scroll handler header
+// summary: Declares a helper that manages scrolling of a scroll view while tabs are dragged near its edges.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_DRAG_SCROLL_HANDLER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_DRAG_SCROLL_HANDLER_H_
 

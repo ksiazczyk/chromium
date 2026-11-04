@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootTabCollectionNode class declaration
+// summary: Declares the view model for the tab strip that observes collection and selection changes and creates the corresponding view hierarchy.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_ROOT_TAB_COLLECTION_NODE_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_ROOT_TAB_COLLECTION_NODE_H_
 

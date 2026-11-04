@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group underline view header
+// summary: Declares TabGroupUnderline, the view that draws tab group underlines in the tab strip, positioned across grouped tabs and the group header.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_GROUP_UNDERLINE_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_GROUP_UNDERLINE_H_
 

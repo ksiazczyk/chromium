@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab collection node browser tests
+// summary: Browser tests for the tab collection node view model, exercising tab insertion, pinning, and node tree updates in horizontal and vertical orientations.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_collection_node.h"
 
 #include "base/functional/bind.h"

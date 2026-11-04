@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewTabButton class declaration
+// summary: Declares the shared new tab button view with context menu callbacks, action view controller integration, and click handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_SHARED_NEW_TAB_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_SHARED_NEW_TAB_BUTTON_H_
 

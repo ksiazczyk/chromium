@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Tab scroll button container header
+// summary: Declares the container holding scroll buttons for the unpinned tab container, responsible for pagination-style scrolling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_HORIZONTAL_TAB_SCROLL_BUTTON_CONTAINER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_HORIZONTAL_TAB_SCROLL_BUTTON_CONTAINER_H_
 

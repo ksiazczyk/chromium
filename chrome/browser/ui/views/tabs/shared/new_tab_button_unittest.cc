@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewTabButton unit tests
+// summary: Unit tests for the new tab button covering triggerable event flags, click-triggered new tab actions, ink drop updates, and context menu behavior.
+// ---
+
 #include "chrome/browser/ui/views/tabs/shared/new_tab_button.h"
 
 #include <memory>

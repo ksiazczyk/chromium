@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Alert indicator button browser test
+// summary: Browser test verifying that the alert indicator button becomes visible when a page starts video or audio capture.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab/alert_indicator_button.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

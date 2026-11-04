@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data structures for tabs and group headers being dragged
+// summary: Declares GroupHeaderDragData, TabDragData, and DragSessionData structs that hold the state of tabs and group headers during a drag session.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_DRAGGING_DRAG_SESSION_DATA_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_DRAGGING_DRAG_SESSION_DATA_H_
 

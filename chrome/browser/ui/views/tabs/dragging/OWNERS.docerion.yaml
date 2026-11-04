@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the tab dragging directory
+summary: Lists the owners responsible for tab dragging changes, including a dedicated owner for fallback system drag-and-drop dragging.

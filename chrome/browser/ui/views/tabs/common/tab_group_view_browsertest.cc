@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group view browser tests
+// summary: Browser tests covering tab group view behavior, including group creation, activation, and ungrouping in vertical and horizontal tab strips.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_group_view.h"
 
 #include "base/test/run_until.h"

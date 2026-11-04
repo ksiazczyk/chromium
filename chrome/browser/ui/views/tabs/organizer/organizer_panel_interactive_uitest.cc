@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer panel interactive UI tests
+// summary: Interactive browser tests covering organizer panel show, hide, collapse and expand-on-hover animations, keyboard handling and element tracking.
+// ---
+
 #include <string_view>
 
 #include "base/callback_list.h"

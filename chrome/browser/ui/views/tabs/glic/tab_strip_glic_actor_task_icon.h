@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip Glic actor task icon
+// summary: Declares the tab strip actor task icon button shown next to the Glic button, with nudge and anchor bounds support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_GLIC_TAB_STRIP_GLIC_ACTOR_TASK_ICON_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_GLIC_TAB_STRIP_GLIC_ACTOR_TASK_ICON_H_
 

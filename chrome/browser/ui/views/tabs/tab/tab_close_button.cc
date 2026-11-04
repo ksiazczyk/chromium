@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab close button implementation
+// summary: Implements the tab close button with ink drop styling, hit-test masking and forwarding of middle clicks to the parent view.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab/tab_close_button.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripObserver interface
+// summary: Defines the observer interface for objects that want notifications when tabs are added, moved, or removed in the tab strip.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_SHARED_TAB_STRIP_OBSERVER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_SHARED_TAB_STRIP_OBSERVER_H_
 

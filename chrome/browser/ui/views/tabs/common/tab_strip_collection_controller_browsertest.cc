@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip collection controller browser tests
+// summary: Parameterized browser tests verifying tab strip collection controller behavior, such as context menus and group actions, across orientations.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_strip_collection_controller.h"
 
 #include "build/build_config.h"

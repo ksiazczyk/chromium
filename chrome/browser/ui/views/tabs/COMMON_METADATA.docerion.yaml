@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Shared directory metadata for tabs views
+summary: Declares the bug tracker component, team email and Buganizer component ID shared by the tabs views directory.

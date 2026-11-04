@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab button implementation
+// summary: Implements the shared new tab button view, wiring the new tab action, context menu handling, and Linux middle-click paste-and-navigate behavior.
+// ---
+
 #include "chrome/browser/ui/views/tabs/shared/new_tab_button.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabDragContext metadata registration
+// summary: Registers TabDragContext with the views metadata system.
+// ---
+
 #include "chrome/browser/ui/views/tabs/dragging/tab_drag_context.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

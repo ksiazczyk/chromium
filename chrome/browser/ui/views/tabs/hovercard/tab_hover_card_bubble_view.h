@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab hover card bubble view header
+// summary: Declares the TabHoverCardBubbleView dialog class that shows page information for hovered tabs, with animation, image preview, and test accessors.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_TAB_HOVER_CARD_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_TAB_HOVER_CARD_BUBBLE_VIEW_H_
 

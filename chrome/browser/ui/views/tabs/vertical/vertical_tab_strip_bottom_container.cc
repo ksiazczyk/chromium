@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip bottom container implementation
+// summary: Implements the bottom container of the vertical tab strip, hosting the new tab button and adapting its layout to collapse state changes.
+// ---
+
 #include "chrome/browser/ui/views/tabs/vertical/vertical_tab_strip_bottom_container.h"
 
 #include "base/functional/bind.h"

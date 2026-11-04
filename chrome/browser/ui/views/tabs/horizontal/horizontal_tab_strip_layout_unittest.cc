@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Horizontal tab strip layout unit tests
+// summary: Unit tests for proportional tab width calculation, covering preferred and minimum widths, remainder rounding, and fixed-size group headers.
+// ---
+
 #include <numeric>
 #include <vector>
 

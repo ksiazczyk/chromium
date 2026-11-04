@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContainer insertion params and metadata
+// summary: Implements TabContainer's TabInsertionParams move helpers and registers the TabContainer view metadata.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_container.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

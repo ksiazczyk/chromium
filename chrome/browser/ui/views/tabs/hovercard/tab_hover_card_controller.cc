@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab hover card controller implementation
+// summary: Implements showing and hiding hover cards for tabs, computing show and preview image capture delays from field trial parameters.
+// ---
+
 #include "chrome/browser/ui/views/tabs/hovercard/tab_hover_card_controller.h"
 
 #include <algorithm>

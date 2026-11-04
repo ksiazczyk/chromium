@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage sharing row header
+// summary: Declares ManageSharingRow, a button row in the tab group editor bubble for managing sharing of a shared tab group.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_GROUPS_MANAGE_SHARING_ROW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_GROUPS_MANAGE_SHARING_ROW_H_
 

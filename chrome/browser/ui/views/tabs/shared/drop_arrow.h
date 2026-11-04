@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropArrow class declaration
+// summary: Declares the DropArrow widget that tracks the drop index and shows a directional arrow indicating where a URL drop occurs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_SHARED_DROP_ARROW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_SHARED_DROP_ARROW_H_
 

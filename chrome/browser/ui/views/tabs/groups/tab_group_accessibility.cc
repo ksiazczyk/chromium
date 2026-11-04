@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group accessibility helpers
+// summary: Builds localized accessibility strings for tab groups, such as group content descriptions and hover card text formatted with ICU list formatting.
+// ---
+
 #include "chrome/browser/ui/views/tabs/groups/tab_group_accessibility.h"
 
 #include <memory>

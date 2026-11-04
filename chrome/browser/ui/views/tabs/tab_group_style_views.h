@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group views styling declaration
+// summary: Declares TabGroupStyleViews, the interface for view-dependent tab group styling including underline visibility, chip backgrounds and overlap values.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_GROUP_STYLE_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_GROUP_STYLE_VIEWS_H_
 

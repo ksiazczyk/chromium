@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic and actor buttons container view
+// summary: Declares a flex layout container for the Glic button and actor task icon with background and highlight support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_GLIC_GLIC_AND_ACTOR_BUTTONS_CONTAINER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_GLIC_GLIC_AND_ACTOR_BUTTONS_CONTAINER_H_
 

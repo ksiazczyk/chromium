@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fade label view declarations
+// summary: Declares FadeLabel and FadeLabelView for cross-fading title and domain labels on the tab hover card.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_FADE_LABEL_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_FADE_LABEL_VIEW_H_
 

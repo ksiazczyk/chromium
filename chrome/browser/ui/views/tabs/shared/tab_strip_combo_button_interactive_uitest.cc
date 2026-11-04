@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripComboButton interactive UI tests
+// summary: Interactive browser tests verifying flat-edge states, button pinning, menu commands, and user actions for the tab strip combo button.
+// ---
+
 #include "chrome/browser/ui/views/tabs/shared/tab_strip_combo_button.h"
 
 #include "base/test/metrics/user_action_tester.h"

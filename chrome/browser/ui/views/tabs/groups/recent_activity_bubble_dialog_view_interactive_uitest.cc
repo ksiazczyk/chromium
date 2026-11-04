@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent activity bubble dialog interactive UI test
+// summary: Interactive UI tests exercising the recent activity bubble dialog inside the tab strip, including collaboration messaging scenarios and pixel test setup.
+// ---
+
 #include "chrome/browser/ui/views/tabs/groups/recent_activity_bubble_dialog_view.h"
 
 #include "base/strings/string_view_util.h"

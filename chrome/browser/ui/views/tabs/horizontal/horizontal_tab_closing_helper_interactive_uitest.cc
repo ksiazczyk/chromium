@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Horizontal tab closing helper interactive UI tests
+// summary: Interactive browser tests exercising tab closing mode in the horizontal tab strip, including behavior with tab groups, splits, and window resizing.
+// ---
+
 #include "chrome/browser/ui/views/tabs/horizontal/horizontal_tab_closing_helper.h"
 
 #include "base/test/scoped_feature_list.h"

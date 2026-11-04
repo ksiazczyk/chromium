@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupUnfocusButton header
+// summary: Declares the label button that lets users unfocus a focused tab group, with group color data and orientation-dependent styling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_GROUP_UNFOCUS_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_GROUP_UNFOCUS_BUTTON_H_
 

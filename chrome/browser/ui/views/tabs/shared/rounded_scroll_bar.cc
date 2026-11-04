@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedScrollBar implementation
+// summary: Implements a transparent overlay vertical scrollbar with a rounded thumb that fades in on hover and hides after a countdown or during size animations.
+// ---
+
 #include "chrome/browser/ui/views/tabs/shared/rounded_scroll_bar.h"
 
 #include <memory>

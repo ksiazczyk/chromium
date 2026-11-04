@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab hover card controller interactive UI tests
+// summary: Interactive browser tests covering hover card display, memory usage footer, previews, and related tab strip interactions.
+// ---
+
 #include "chrome/browser/ui/views/tabs/hovercard/tab_hover_card_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage sharing row implementation
+// summary: Implements the hover button row for managing a shared tab group, combining an icon, label, and member avatar face pile with ink drop effects.
+// ---
+
 #include "chrome/browser/ui/views/tabs/groups/manage_sharing_row.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

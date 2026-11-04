@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnpinnedTabContainerView layout implementation
+// summary: Implements layout calculations for the unpinned tab container view in both horizontal and vertical orientations, including minimum and unconstrained sizes.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/unpinned_tab_container_view_layout.h"
 
 #include <algorithm>

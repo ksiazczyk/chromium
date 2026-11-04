@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab link drop handler header
+// summary: Declares the handler that maps visual link drop locations over tab collection nodes to logical insertion indexes in the TabStripModel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_LINK_DROP_HANDLER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_LINK_DROP_HANDLER_H_
 

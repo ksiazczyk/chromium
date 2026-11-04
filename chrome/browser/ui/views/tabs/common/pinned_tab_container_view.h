@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedTabContainerView class declaration
+// summary: Declares the view class representing the pinned tab region, which manages pinned tab layout and acts as the drag target for pinned tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_PINNED_TAB_CONTAINER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_PINNED_TAB_CONTAINER_VIEW_H_
 

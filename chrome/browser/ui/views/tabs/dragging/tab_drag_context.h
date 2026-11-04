@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag context and positioning delegate interfaces
+// summary: Declares TabDragContext and delegate interfaces that supply positioning information for dragged tabs in a tab strip.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_DRAGGING_TAB_DRAG_CONTEXT_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_DRAGGING_TAB_DRAG_CONTEXT_H_
 

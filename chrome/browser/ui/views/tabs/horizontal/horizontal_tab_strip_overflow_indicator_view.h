@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Horizontal tab strip overflow indicator view header
+// summary: Declares a view that draws an overflow indicator gradient over the edge of the horizontal tab strip when content overflows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_HORIZONTAL_HORIZONTAL_TAB_STRIP_OVERFLOW_INDICATOR_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_HORIZONTAL_HORIZONTAL_TAB_STRIP_OVERFLOW_INDICATOR_VIEW_H_
 

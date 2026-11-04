@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab hover card test utilities header
+// summary: Declares the TabHoverCardTestUtil class providing convenience methods used across tab hover card test fixtures.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_TAB_HOVER_CARD_TEST_UTIL_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_TAB_HOVER_CARD_TEST_UTIL_H_
 

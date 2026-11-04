@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab title label view implementation
+// summary: Implements the TabTitle label view with fade-tail elision, default title text, and rendering settings shared by horizontal and vertical tab strips.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab/tab_title.h"
 
 #include "chrome/browser/ui/tab_contents/core_tab_helper.h"

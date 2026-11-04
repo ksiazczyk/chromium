@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripNudgeButton unit tests
+// summary: Unit tests for TabStripNudgeButton verifying width factor application and preferred size calculations.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip_nudge_button.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab context menu controller unit tests
+// summary: Unit tests that verify the tab context menu controller forwards command checked, enabled, alerted, and execution requests to its mock delegate.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab/tab_context_menu_controller.h"
 
 #include <memory>

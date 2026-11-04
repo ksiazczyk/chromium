@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unpinned tab container view layout manager header
+// summary: Declares a layout manager that computes proposed layouts and minimum sizes for the unpinned tab container in both horizontal and vertical orientations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_UNPINNED_TAB_CONTAINER_VIEW_LAYOUT_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_UNPINNED_TAB_CONTAINER_VIEW_LAYOUT_H_
 

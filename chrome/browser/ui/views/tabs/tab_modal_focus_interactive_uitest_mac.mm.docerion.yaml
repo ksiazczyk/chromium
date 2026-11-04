@@ -1,0 +1,4 @@
+# Docerion header of tab_modal_focus_interactive_uitest_mac.mm.
+type: test
+title: Mac tab modal dialog focus interactive UI test
+summary: Interactive UI test for macOS verifying that clicking the scrim does not steal key window focus from a tab-modal dialog.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab button context menu model implementation
+// summary: Builds the new tab button context menu with new tab, new tab in group, new tab group, and split tab items, executing commands and recording user metrics.
+// ---
+
 #include "chrome/browser/ui/views/tabs/shared/new_tab_button_menu_model.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group editor bubble tracker
+// summary: Tracks the open tab group editor bubble widget, closing it on scroll or vertical tab strip mode changes and notifying open and close callbacks.
+// ---
+
 #include "chrome/browser/ui/views/tabs/groups/tab_group_editor_bubble_tracker.h"
 
 #include "base/task/single_thread_task_runner.h"

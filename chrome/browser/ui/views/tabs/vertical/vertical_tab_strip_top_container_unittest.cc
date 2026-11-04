@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertical tab strip top container unit tests
+// summary: Unit tests for the top container covering layout, button visibility, collapse state handling, and state overrides with a mock browser window interface.
+// ---
+
 #include "chrome/browser/ui/views/tabs/vertical/vertical_tab_strip_top_container.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabView vertical layout implementation
+// summary: Implements the vertical layout manager for TabView, arranging tab children for vertical, pinned and collapsed tab strip states.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_view_vertical_layout.h"
 
 #include "chrome/browser/glic/browser_ui/tab_underline_view.h"

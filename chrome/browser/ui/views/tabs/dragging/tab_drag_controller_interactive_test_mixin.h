@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab drag test mixin for mouse and touch input
+// summary: Template mixin for tab dragging browser tests that sends synchronized mouse or touch press, drag and release input.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_DRAGGING_TAB_DRAG_CONTROLLER_INTERACTIVE_TEST_MIXIN_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_DRAGGING_TAB_DRAG_CONTROLLER_INTERACTIVE_TEST_MIXIN_H_
 

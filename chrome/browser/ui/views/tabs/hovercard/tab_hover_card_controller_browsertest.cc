@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab hover card controller browser tests
+// summary: In-process browser regression tests verifying hover card controller behavior, such as preview updates and safeguards against crashes.
+// ---
+
 #include "chrome/browser/ui/views/tabs/hovercard/tab_hover_card_controller.h"
 
 #include "base/byte_size.h"
