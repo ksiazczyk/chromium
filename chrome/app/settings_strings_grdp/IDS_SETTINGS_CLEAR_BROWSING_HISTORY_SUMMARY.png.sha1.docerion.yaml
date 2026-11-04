@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_CLEAR_BROWSING_HISTORY_SUMMARY.png.sha1.
+type: data
+title: 'Screenshot hash: IDS_SETTINGS_CLEAR_BROWSING_HISTORY_SUMMARY'
+summary: Stores the SHA-1 checksum of the screenshot PNG for the browsing history summary string; its hash matches the WITH_SYNC_PAUSED entry.

@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_LANGUAGES_TRANSLATE_TARGET.png.sha1.
+type: asset
+title: Translate target image SHA-1 checksum
+summary: Stores the SHA-1 hash of the PNG image referenced by the IDS_SETTINGS_LANGUAGES_TRANSLATE_TARGET resource in Chrome settings.
