@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the bound session cookie refresh service factory
+// summary: Parameterized unit tests verifying when the factory creates the service under various feature flag and policy combinations.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_cookie_refresh_service_factory.h"
 
 #include <memory>

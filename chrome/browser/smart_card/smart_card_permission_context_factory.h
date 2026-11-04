@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card permission context factory declaration
+// summary: Declares the profile-keyed service factory exposing GetForProfile and GetInstance accessors for SmartCardPermissionContext.
+// ---
+
 #ifndef CHROME_BROWSER_SMART_CARD_SMART_CARD_PERMISSION_CONTEXT_FACTORY_H_
 #define CHROME_BROWSER_SMART_CARD_SMART_CARD_PERMISSION_CONTEXT_FACTORY_H_
 

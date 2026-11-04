@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoundSessionCookieControllerImpl implementation
+// summary: Implements cookie refresh scheduling, exponential backoff, blocked request resumption, and debug info updates for bound sessions.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_cookie_controller_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card reader tracker base implementation
+// summary: Implements the ReaderInfo value type and the ObserverList helper that dispatches reader change, removal, and error notifications.
+// ---
+
 #include "chrome/browser/smart_card/smart_card_reader_tracker.h"
 
 SmartCardReaderTracker::ReaderInfo::ReaderInfo() = default;

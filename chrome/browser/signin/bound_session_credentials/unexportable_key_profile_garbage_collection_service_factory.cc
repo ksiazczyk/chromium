@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key profile garbage collection service factory implementation
+// summary: Implements a keyed service factory that schedules garbage collection of unexportable keys left by obsolete off-the-record profiles.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/unexportable_key_profile_garbage_collection_service_factory.h"
 
 #include <cstddef>

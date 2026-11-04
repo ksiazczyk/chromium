@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site isolation preferences observer header
+// summary: Declares SiteIsolationPrefsObserver, a helper that translates site isolation prefs and mapped enterprise policies into runtime settings.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_ISOLATION_PREFS_OBSERVER_H_
 #define CHROME_BROWSER_SITE_ISOLATION_PREFS_OBSERVER_H_
 

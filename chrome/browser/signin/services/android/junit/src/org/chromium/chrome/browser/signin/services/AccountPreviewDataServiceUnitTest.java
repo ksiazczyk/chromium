@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountPreviewDataServiceUnitTest
+// summary: Unit tests for AccountPreviewDataService and AccountPreviewPreference, covering preference getters, array immutability, and equality behavior under the account preview feature flag.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import static org.junit.Assert.assertEquals;

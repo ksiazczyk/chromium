@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnexportableKeyServiceFactory unit tests
+// summary: Unit tests verifying that the factory returns distinct, idempotent unexportable key services per profile and purpose using a fake service.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/unexportable_key_service_factory.h"
 
 #include <cstddef>

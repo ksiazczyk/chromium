@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SingleTabSwitcherOnNtpMediatorUnitTest
+// summary: Robolectric unit tests for SingleTabSwitcherOnNtpMediator, covering how the single tab module on the new tab page reacts to tabs, favicons, thumbnails and display style changes.
+// ---
+
 package org.chromium.chrome.browser.single_tab;
 
 import static org.junit.Assert.assertEquals;

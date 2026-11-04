@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Smart card BUILD.gn build targets and tests
+summary: Defines the smart_card source set plus unit, browser and interactive UI test targets, including fake device service sources for non-device ChromeOS builds.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountPreviewDataService JNI bridge
+// summary: Java access point to the native AccountPreviewDataService API for retrieving the preferred account when offering sign-in to signed-out users.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import androidx.annotation.MainThread;

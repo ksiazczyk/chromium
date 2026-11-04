@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake bound session cookie refresh service header
+// summary: Declares the fake BoundSessionCookieRefreshService used by tests to simulate bound session behaviour without real refresh or network activity.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_FAKE_BOUND_SESSION_COOKIE_REFRESH_SERVICE_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_FAKE_BOUND_SESSION_COOKIE_REFRESH_SERVICE_H_
 

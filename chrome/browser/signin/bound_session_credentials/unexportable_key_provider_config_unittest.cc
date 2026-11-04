@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unexportable key provider config unit tests
+// summary: Tests construction of application tag configs and filtering of unexportable keys by active application tags.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/unexportable_key_provider_config.h"
 
 #include <string>

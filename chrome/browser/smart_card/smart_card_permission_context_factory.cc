@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card permission context factory implementation
+// summary: Implements the profile-keyed service factory that builds SmartCardPermissionContext instances with dependencies on content settings, one-time permission tracking, and reader tracking.
+// ---
+
 #include "chrome/browser/smart_card/smart_card_permission_context_factory.h"
 
 #include "base/check_deref.h"

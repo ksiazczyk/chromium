@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key service factory implementation
+// summary: Implements the keyed service factory that creates and shares UnexportableKeyService instances for different key purposes across profiles.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/unexportable_key_service_factory.h"
 
 #include <memory>

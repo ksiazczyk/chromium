@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: site_token_provider owners
+summary: Delegates ownership approvals to the OWNERS file of components/site_token_provider.

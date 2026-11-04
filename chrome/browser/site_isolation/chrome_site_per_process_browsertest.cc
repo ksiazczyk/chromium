@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for site-per-process behavior
+// summary: Large suite of browser tests exercising cross-site navigation, iframes, guest views, and related site-per-process behaviors in Chrome.
+// ---
+
 #include <cstddef>
 #include <utility>
 #include <vector>

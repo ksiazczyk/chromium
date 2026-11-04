@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card reader tracker state machine implementation
+// summary: Implements the SmartCardReaderTrackerImpl state machine that lists and monitors smart card readers over the PC/SC Mojo context.
+// ---
+
 #include "chrome/browser/smart_card/smart_card_reader_tracker_impl.h"
 
 #include "base/time/time.h"

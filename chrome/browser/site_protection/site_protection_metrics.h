@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site protection metrics enums
+// summary: Defines the IframeV8OptimizerState enum for logging the V8 optimizer state of a frame and its topmost frame, with values persisted to logs.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_PROTECTION_SITE_PROTECTION_METRICS_H_
 #define CHROME_BROWSER_SITE_PROTECTION_SITE_PROTECTION_METRICS_H_
 

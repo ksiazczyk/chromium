@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills functional browser test base implementation
+// summary: Implements the shared base class for skills functional browser tests, enabling features and providing helpers to create, update and fetch skills via the Glic web UI.
+// ---
+
 #include "chrome/browser/skills/skills_functional_browsertest.h"
 
 #include "chrome/browser/profiles/profile.h"

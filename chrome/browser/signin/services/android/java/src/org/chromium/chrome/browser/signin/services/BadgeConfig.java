@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BadgeConfig for avatar badges
+// summary: Encapsulates the drawable, size, border and position needed to overlay a circular badge such as a child account icon on a user avatar.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import android.content.Context;

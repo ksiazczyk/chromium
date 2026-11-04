@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills update observer class declaration
+// summary: Declares SkillsUpdateObserver, a tab-scoped WebContents observer exposing contextual skills parsed from Optimization Guide metadata.
+// ---
+
 #ifndef CHROME_BROWSER_SKILLS_SKILLS_UPDATE_OBSERVER_H_
 #define CHROME_BROWSER_SKILLS_SKILLS_UPDATE_OBSERVER_H_
 

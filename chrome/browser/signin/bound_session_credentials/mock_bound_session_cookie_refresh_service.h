@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock bound session cookie refresh service declaration
+// summary: GMock implementation of BoundSessionCookieRefreshService that mocks session registration, rotation, throttling, and observer methods for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_MOCK_BOUND_SESSION_COOKIE_REFRESH_SERVICE_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_MOCK_BOUND_SESSION_COOKIE_REFRESH_SERVICE_H_
 

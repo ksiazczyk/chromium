@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site protection metrics observer implementation
+// summary: Implements the metrics observer that logs UKM and histogram data for site familiarity heuristics using history, site engagement, and Safe Browsing lookups.
+// ---
+
 #include "chrome/browser/site_protection/site_protection_metrics_observer.h"
 
 #include <math.h>

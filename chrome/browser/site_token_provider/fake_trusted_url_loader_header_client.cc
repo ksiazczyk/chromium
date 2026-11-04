@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake trusted URL loader header client
+// summary: Implements a fake TrustedURLLoaderHeaderClient that counts observed requests and tags them with a marker header for browser tests.
+// ---
+
 #include "chrome/browser/site_token_provider/fake_trusted_url_loader_header_client.h"
 
 #include <memory>

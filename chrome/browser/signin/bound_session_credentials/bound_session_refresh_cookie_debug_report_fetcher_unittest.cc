@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BoundSessionRefreshCookieDebugReportFetcher
+// summary: Unit tests verifying the debug report fetcher requests the refresh URL with challenge response and debug headers and reports results.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_refresh_cookie_debug_report_fetcher.h"
 
 #include "base/base64.h"

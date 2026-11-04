@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site details collection implementation
+// summary: Collects per-page SiteInstance and BrowsingInstance information and estimates the process overhead introduced by Origin Agent Cluster isolation.
+// ---
+
 #include "chrome/browser/site_isolation/site_details.h"
 
 #include "base/metrics/histogram_functions.h"

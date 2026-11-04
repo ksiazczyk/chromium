@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountPreviewPreference data holder
+// summary: Java counterpart to the C++ AccountPreviewPreference struct holding the preferred account, preferred data types and other device form factor.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import org.jni_zero.CalledByNative;

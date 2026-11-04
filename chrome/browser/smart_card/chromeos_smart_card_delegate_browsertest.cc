@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the ChromeOS smart card delegate
+// summary: Exercises delegate permission granting, usage tracking and reconnection behavior using an isolated web app in in-process browser tests.
+// ---
+
 #include "chrome/browser/smart_card/chromeos_smart_card_delegate.h"
 
 #include <optional>

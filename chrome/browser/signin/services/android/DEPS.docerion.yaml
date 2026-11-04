@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android sign-in services
+summary: DEPS file allowing this directory to include the Android external authentication component sources.

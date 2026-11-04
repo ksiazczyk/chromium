@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills interactive UI test base class
+// summary: Declares the shared base class and interaction steps used by Skills interactive UI tests, including skill seeding and invocation helpers.
+// ---
+
 #ifndef CHROME_BROWSER_SKILLS_SKILLS_INTERACTIVE_UITEST_BASE_H_
 #define CHROME_BROWSER_SKILLS_SKILLS_INTERACTIVE_UITEST_BASE_H_
 

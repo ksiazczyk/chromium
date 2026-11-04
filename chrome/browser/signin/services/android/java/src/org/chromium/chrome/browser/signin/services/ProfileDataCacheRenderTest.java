@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileDataCache render tests
+// summary: Parameterized render tests checking ProfileDataCache avatar image scaling across image sizes and account data sources.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import static org.junit.Assert.assertEquals;

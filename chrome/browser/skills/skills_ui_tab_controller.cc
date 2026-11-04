@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills UI tab controller implementation
+// summary: Implements the per-tab skills dialog controller, handling dialog open and close, skill invocation, prompts, and dialog action metrics.
+// ---
+
 #include "chrome/browser/skills/skills_ui_tab_controller.h"
 
 #include "chrome/browser/glic/host/glic.mojom.h"

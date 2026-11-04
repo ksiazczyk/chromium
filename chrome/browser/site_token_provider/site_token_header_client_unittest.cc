@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site token header client unit tests
+// summary: Unit tests covering token injection, allowlist and localhost eligibility, and header client chaining using a mock TrustedHeaderClient.
+// ---
+
 #include "chrome/browser/site_token_provider/site_token_header_client.h"
 
 #include <optional>

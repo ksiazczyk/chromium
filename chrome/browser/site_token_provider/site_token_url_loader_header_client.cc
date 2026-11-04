@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token URL loader header client implementation
+// summary: Implements a TrustedURLLoaderHeaderClient wrapper that binds SiteTokenHeaderClient when loaders are created for site token requests.
+// ---
+
 #include "chrome/browser/site_token_provider/site_token_url_loader_header_client.h"
 
 #include "base/check.h"

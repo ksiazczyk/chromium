@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session registration fetcher implementation
+// summary: Declares BoundSessionRegistrationFetcherImpl, which fetches bound session registration responses, parses session params, and reports registration errors and metrics.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_REGISTRATION_FETCHER_IMPL_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_REGISTRATION_FETCHER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills functional browser test base
+// summary: Declares a base class for Chrome Skills functional tests with helpers to create, update, and fetch skills via the Glic API.
+// ---
+
 #ifndef CHROME_BROWSER_SKILLS_SKILLS_FUNCTIONAL_BROWSERTEST_H_
 #define CHROME_BROWSER_SKILLS_SKILLS_FUNCTIONAL_BROWSERTEST_H_
 

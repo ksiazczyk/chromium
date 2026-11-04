@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileDataUtilsUnitTest
+// summary: Unit tests for ProfileDataUtils helpers that extract profile data lists or preferred entries from fulfilled and unfulfilled promises.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import static org.junit.Assert.assertEquals;

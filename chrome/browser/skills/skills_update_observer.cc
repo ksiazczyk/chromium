@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills update observer implementation
+// summary: Implements a per-tab WebContents observer that consults the Optimization Guide on navigation and pushes contextual first-party skill previews to the matching Glic instance.
+// ---
+
 #include "chrome/browser/skills/skills_update_observer.h"
 
 #include "chrome/browser/glic/host/glic.mojom.h"

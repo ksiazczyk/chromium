@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session refresh cookie debug report fetcher header
+// summary: Declares BoundSessionRefreshCookieDebugReportFetcher, a refresh cookie fetcher variant that attaches rotation debug info to requests.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_REFRESH_COOKIE_DEBUG_REPORT_FETCHER_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_REFRESH_COOKIE_DEBUG_REPORT_FETCHER_H_
 

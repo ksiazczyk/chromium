@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SmartCardReaderTrackerImpl unit tests
+// summary: Unit tests for the SmartCardReaderTrackerImpl class, verifying reader state tracking and status change reporting using mock smart card contexts and Google Test matchers.
+// ---
+
 #include "chrome/browser/smart_card/smart_card_reader_tracker_impl.h"
 
 #include "base/test/task_environment.h"

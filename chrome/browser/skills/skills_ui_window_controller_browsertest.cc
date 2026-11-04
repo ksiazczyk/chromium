@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills UI window controller browser tests
+// summary: In-process browser tests covering window-level skills UI behavior such as toasts, skill save and delete flows, and dialog reloads.
+// ---
+
 #include "chrome/browser/skills/skills_ui_window_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

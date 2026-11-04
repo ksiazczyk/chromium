@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card reader tracker interface
+// summary: Declares the SmartCardReaderTracker KeyedService that tracks smart card readers and their states, notifying observers of changes.
+// ---
+
 #ifndef CHROME_BROWSER_SMART_CARD_SMART_CARD_READER_TRACKER_H_
 #define CHROME_BROWSER_SMART_CARD_SMART_CARD_READER_TRACKER_H_
 

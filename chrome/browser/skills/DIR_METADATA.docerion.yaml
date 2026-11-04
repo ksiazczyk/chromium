@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Skills directory metadata
+summary: Points the skills directory metadata at the shared mixins defined in components/skills/COMMON_METADATA.

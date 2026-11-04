@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice bound session cookie service
+// summary: Implements cookie binding for Dice profiles by deleting bound Gaia cookies on session termination and triggering /ListAccounts to keep account state consistent.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/dice_bound_session_cookie_service.h"
 
 #include "base/barrier_closure.h"

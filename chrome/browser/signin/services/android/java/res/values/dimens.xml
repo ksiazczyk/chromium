@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Sign-in UI dimension values
+summary: Defines Android dimension resources for sign-in user pictures, badges, toolbar identity disc badges, and AI tier ring sizing in Chromium.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- User Picture Dimensions -->
     <dimen name="user_picture_size">40dp</dimen>

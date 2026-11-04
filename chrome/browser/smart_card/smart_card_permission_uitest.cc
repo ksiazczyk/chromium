@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart card permission UI tests
+// summary: Interactive browser tests covering smart card reader permission prompts, allow/block policies, and smart card content settings.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "chrome/browser/chrome_content_browser_client.h"
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

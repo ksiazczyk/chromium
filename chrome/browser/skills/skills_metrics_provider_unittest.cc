@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills metrics provider unit tests
+// summary: Unit tests verifying per-profile skill count recording using mock skills services and testing profiles.
+// ---
+
 #include "chrome/browser/skills/skills_metrics_provider.h"
 
 #include <memory>

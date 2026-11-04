@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake smart card device service implementation
+// summary: Emulates smart card readers, status changes and connections with dummy readers so manual testing works on Linux development builds.
+// ---
+
 #include "chrome/browser/smart_card/fake_smart_card_device_service.h"
 #include "base/containers/map_util.h"
 

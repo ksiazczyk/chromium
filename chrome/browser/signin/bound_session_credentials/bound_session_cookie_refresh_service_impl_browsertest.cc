@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the bound session cookie refresh service
+// summary: In-process browser tests covering session registration, cookie rotation, termination and request throttling behavior end to end.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_cookie_refresh_service_impl.h"
 
 #include <memory>

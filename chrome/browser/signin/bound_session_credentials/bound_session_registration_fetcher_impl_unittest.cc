@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bound session registration fetcher implementation tests
+// summary: Unit tests for BoundSessionRegistrationFetcherImpl covering registration token creation, JSON response parsing, session params validation, and error metrics.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_registration_fetcher_impl.h"
 
 #include <string_view>

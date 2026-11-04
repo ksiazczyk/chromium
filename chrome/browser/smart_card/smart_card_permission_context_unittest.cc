@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card permission context unit tests
+// summary: Unit tests for SmartCardPermissionContext covering ephemeral permission expiry, reader and card events, revocation, and metrics using fake trackers and observers.
+// ---
+
 #include "chrome/browser/smart_card/smart_card_permission_context.h"
 
 #include "base/check_deref.h"

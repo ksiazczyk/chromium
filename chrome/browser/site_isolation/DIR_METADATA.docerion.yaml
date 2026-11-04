@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for site isolation
+summary: Maps the directory to the Internals>Sandbox>SiteIsolation Monorail component and a Buganizer component for issue routing.

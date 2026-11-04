@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: site_token_provider build targets
+summary: GN build definitions for the site_token_provider source set plus test support, unit test, and browser test targets.

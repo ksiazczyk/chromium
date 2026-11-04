@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: site_token_provider include rules
+summary: Grants this directory access to headers from components/site_token_provider via include_rules.

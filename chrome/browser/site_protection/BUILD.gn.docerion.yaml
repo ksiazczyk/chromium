@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Site protection build targets
+summary: Defines static library and unit test build targets for the site familiarity and site protection code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session binding helper implementation
+// summary: Implements SessionBindingHelper, which loads a wrapped unexportable binding key and asynchronously signs challenge assertions for bound session cookie rotation.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/session_binding_helper.h"
 
 #include <string>

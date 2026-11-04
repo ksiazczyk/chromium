@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the site_isolation source set and tests
+summary: Defines the site_isolation source set plus unit, browser, and interactive UI test targets for Chrome's site isolation code.

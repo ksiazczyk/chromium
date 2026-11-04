@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key profile garbage collection service factory declaration
+// summary: Declares the ProfileKeyedServiceFactory that builds services cleaning up unexportable keys of obsolete off-the-record profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_UNEXPORTABLE_KEY_PROFILE_GARBAGE_COLLECTION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_UNEXPORTABLE_KEY_PROFILE_GARBAGE_COLLECTION_SERVICE_FACTORY_H_
 

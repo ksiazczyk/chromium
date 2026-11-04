@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single tab module builder for the magic stack
+// summary: Builds the single tab module provider for the magic stack, wiring callbacks for tab clicks, the see more link, and thumbnail snapshot updates.
+// ---
+
 package org.chromium.chrome.browser.single_tab;
 
 import static org.chromium.build.NullUtil.assertNonNull;

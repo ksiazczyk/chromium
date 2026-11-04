@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SingleTabModuleViewBinderUnitTest
+// summary: Robolectric unit tests verifying that SingleTabViewBinder correctly binds SingleTabViewProperties such as visibility, title, URL, favicon and thumbnail to the single tab module layout.
+// ---
+
 package org.chromium.chrome.browser.single_tab;
 
 import static org.junit.Assert.assertEquals;

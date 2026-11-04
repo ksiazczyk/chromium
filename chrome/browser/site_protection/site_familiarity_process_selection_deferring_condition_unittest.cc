@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site familiarity deferring condition unit tests
+// summary: Unit tests for the deferring condition, including a mock safe browsing database manager with manual callback mode.
+// ---
+
 #include "chrome/browser/site_protection/site_familiarity_process_selection_deferring_condition.h"
 
 #include <memory>

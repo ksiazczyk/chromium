@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single tab view properties
+// summary: Defines the property keys for the single tab view's property model, including click listeners, favicon, thumbnail, visibility, title, URL, and margin.
+// ---
+
 package org.chromium.chrome.browser.single_tab;
 
 import android.graphics.drawable.Drawable;

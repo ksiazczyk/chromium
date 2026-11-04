@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart card permission request unit tests
+// summary: Unit tests verifying that SmartCardPermissionRequest treats requests as duplicates only for the same origin and reader name.
+// ---
+
 #include "chrome/browser/smart_card/smart_card_permission_request.h"
 
 #include "base/functional/callback_helpers.h"

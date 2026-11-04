@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Single Tab module dimension resources
+summary: Defines Android dimension values such as margins, paddings, thumbnail size and radii used by the Single Tab module UI on phones.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Single Tab module on phones -->

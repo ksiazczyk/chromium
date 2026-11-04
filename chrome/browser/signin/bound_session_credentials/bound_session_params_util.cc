@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session parameters utilities implementation
+// summary: Implements validation, key and scope computation, timestamp conversion and registration payload handling for bound session parameters.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_params_util.h"
 
 #include <string>

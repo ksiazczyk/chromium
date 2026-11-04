@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side throttled request handler header
+// summary: Declares BoundSessionRequestThrottledHandlerBrowserImpl, the browser-side implementation for resuming or cancelling requests blocked on session cookies.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_REQUEST_THROTTLED_HANDLER_BROWSER_IMPL_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_REQUEST_THROTTLED_HANDLER_BROWSER_IMPL_H_
 

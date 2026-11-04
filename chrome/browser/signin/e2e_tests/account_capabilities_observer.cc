@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account capabilities observer implementation
+// summary: Implements an IdentityManager observer that waits until all capabilities of a given account are known during sign-in tests.
+// ---
+
 #include "account_capabilities_observer.h"
 
 namespace signin::test {

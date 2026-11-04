@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileDataCache
+// summary: Fetches and caches Google Account profile images and full names for accounts on the device and notifies observers about data changes.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

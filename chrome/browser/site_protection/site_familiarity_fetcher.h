@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site familiarity fetcher header
+// summary: Declares SiteFamiliarityFetcher, which returns a familiar or unfamiliar verdict for a URL.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_PROTECTION_SITE_FAMILIARITY_FETCHER_H_
 #define CHROME_BROWSER_SITE_PROTECTION_SITE_FAMILIARITY_FETCHER_H_
 

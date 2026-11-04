@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session debug info struct declaration
+// summary: Declares the BoundSessionDebugInfo struct holding session ID, domain, path, cookie names and refresh URL for debugging UI.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_DEBUG_INFO_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_DEBUG_INFO_H_
 

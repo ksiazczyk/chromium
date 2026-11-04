@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key provider config helpers implementation
+// summary: Builds unexportable key provider configs whose macOS Keychain application tags scope keys to user data dirs, profiles and storage partitions.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/unexportable_key_provider_config.h"
 
 #include <algorithm>

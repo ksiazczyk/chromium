@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card context factory accessor declaration
+// summary: Declares the GetSmartCardContextFactory function that yields a SmartCardContextFactory mojo remote for a given browser context.
+// ---
+
 #ifndef CHROME_BROWSER_SMART_CARD_GET_SMART_CARD_CONTEXT_FACTORY_H_
 #define CHROME_BROWSER_SMART_CARD_GET_SMART_CARD_CONTEXT_FACTORY_H_
 

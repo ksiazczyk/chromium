@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake smart card device service factory implementation
+// summary: Provides a profile-keyed service factory that creates FakeSmartCardDeviceService instances for development builds.
+// ---
+
 #include "chrome/browser/smart_card/fake_smart_card_device_service_factory.h"
 #include "base/check_deref.h"
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session OAuth multilogin delegate class declaration
+// summary: Declares the delegate class that coordinates bound session registration with the cookie refresh service during OAuth multilogin.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_OAUTH_MULTILOGIN_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_OAUTH_MULTILOGIN_DELEGATE_IMPL_H_
 

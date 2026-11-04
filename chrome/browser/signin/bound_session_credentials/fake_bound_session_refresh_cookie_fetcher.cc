@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake bound session refresh cookie fetcher
+// summary: Test fake of the cookie refresh fetcher that simulates refresh results, inserts fake cookies and can auto-unblock after a delay for bound session tests.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/fake_bound_session_refresh_cookie_fetcher.h"
 
 #include <optional>

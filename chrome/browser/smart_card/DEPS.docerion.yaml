@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for smart card tests
+summary: Allows UI tests to include Chrome views headers and the reader tracker unit test to include the mock smart card context factory.

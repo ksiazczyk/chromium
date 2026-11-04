@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake trusted URL loader header client interface
+// summary: Declares the behavioral fake header client used by browser tests, exposing an observed request count and marker header constants.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_TOKEN_PROVIDER_FAKE_TRUSTED_URL_LOADER_HEADER_CLIENT_H_
 #define CHROME_BROWSER_SITE_TOKEN_PROVIDER_FAKE_TRUSTED_URL_LOADER_HEADER_CLIENT_H_
 

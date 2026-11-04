@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BoundSessionCookieControllerImpl
+// summary: Unit tests covering cookie refresh, throttling, backoff, and rotation debug info for the controller implementation.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_cookie_controller_impl.h"
 
 #include <memory>

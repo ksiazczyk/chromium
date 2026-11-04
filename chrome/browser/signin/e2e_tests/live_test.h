@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live test base class declaration
+// summary: Declares the LiveTest browser test base class that provides access to the test accounts configuration for live sign-in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_E2E_TESTS_LIVE_TEST_H_
 #define CHROME_BROWSER_SIGNIN_E2E_TESTS_LIVE_TEST_H_
 

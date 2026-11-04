@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills Glic Mojom conversion utility declarations
+// summary: Declares helpers that convert skill sources between sync protobuf and Glic Mojom and build skill previews.
+// ---
+
 #ifndef CHROME_BROWSER_SKILLS_SKILLS_GLIC_MOJOM_UTIL_H_
 #define CHROME_BROWSER_SKILLS_SKILLS_GLIC_MOJOM_UTIL_H_
 

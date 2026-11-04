@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock bound session cookie refresh service implementation
+// summary: Provides the Build() factory and constructor definitions for the MockBoundSessionCookieRefreshService test double.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/mock_bound_session_cookie_refresh_service.h"
 
 std::unique_ptr<KeyedService> MockBoundSessionCookieRefreshService::Build() {

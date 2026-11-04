@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site token URL loader factory unit tests
+// summary: Tests token serving, request validation, and error handling for the site token URL loader factory using mock provider services.
+// ---
+
 #include "chrome/browser/site_token_provider/site_token_url_loader_factory.h"
 
 #include <memory>

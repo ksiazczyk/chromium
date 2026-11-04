@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills UI window controller header
+// summary: Declares SkillsUiWindowController, which manages skills toasts, saved and deleted skill state, and dialog reloads per browser window.
+// ---
+
 #ifndef CHROME_BROWSER_SKILLS_SKILLS_UI_WINDOW_CONTROLLER_H_
 #define CHROME_BROWSER_SKILLS_SKILLS_UI_WINDOW_CONTROLLER_H_
 

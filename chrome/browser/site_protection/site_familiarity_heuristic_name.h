@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site familiarity heuristic name enums
+// summary: Defines enums naming the site familiarity heuristics used for logging.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_PROTECTION_SITE_FAMILIARITY_HEURISTIC_NAME_H_
 #define CHROME_BROWSER_SITE_PROTECTION_SITE_FAMILIARITY_HEURISTIC_NAME_H_
 

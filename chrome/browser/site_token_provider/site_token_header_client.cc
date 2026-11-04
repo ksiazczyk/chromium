@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token header client
+// summary: Injects site tokens into outgoing request headers for eligible allowlisted URLs and chains with other TrustedHeaderClient implementations.
+// ---
+
 #include "chrome/browser/site_token_provider/site_token_header_client.h"
 
 #include <optional>

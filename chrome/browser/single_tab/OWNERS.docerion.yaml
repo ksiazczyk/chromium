@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for single_tab
+summary: Lists the code owners for the single_tab directory, inheriting owners from the tasks OWNERS file and adding hanxi@chromium.org.

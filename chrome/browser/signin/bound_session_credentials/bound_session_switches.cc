@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session command-line switches
+// summary: Defines command-line switches that simulate cookie rotation delay and rotation result values for manual testing of device bound session credentials.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_switches.h"
 
 #include <optional>

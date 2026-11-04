@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site familiarity utils header
+// summary: Declares site familiarity helpers for computing JavaScript optimizer settings, familiarity thresholds, and enabling V8 optimizations for a WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_PROTECTION_SITE_FAMILIARITY_UTILS_H_
 #define CHROME_BROWSER_SITE_PROTECTION_SITE_FAMILIARITY_UTILS_H_
 

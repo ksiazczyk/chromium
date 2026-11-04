@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site familiarity process selection user data implementation
+// summary: Implements user data that stores the site familiarity verdict on navigation handles.
+// ---
+
 #include "chrome/browser/site_protection/site_familiarity_process_selection_user_data.h"
 
 namespace site_protection {

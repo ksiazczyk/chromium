@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSigninTrackerBridge
+// summary: Android JNI bridge that tracks the web sign-in flow and notifies a callback when sign-in to the primary account completes successfully or fails, releasing native resources on destroy.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import androidx.annotation.MainThread;

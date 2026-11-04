@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single tab switcher coordinator
+// summary: Coordinates the single tab tab switcher, creating the property model, view, favicon provider, and the NTP mediator that drives it.
+// ---
+
 package org.chromium.chrome.browser.single_tab;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

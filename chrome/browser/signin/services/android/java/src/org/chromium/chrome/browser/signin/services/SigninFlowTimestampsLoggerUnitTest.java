@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: 'SigninFlowTimestampsLoggerUnitTest: unit tests for timestamp logging'
+// summary: Parameterized Robolectric unit tests verifying histogram recording of sign-in flow timestamps across fullscreen, web, and other flow variants.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import org.junit.Rule;

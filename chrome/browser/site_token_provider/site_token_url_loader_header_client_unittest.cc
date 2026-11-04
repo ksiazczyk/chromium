@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site token URL loader header client unit tests
+// summary: Unit tests for SiteTokenURLLoaderHeaderClient, verifying that MaybeWrap only wraps the trusted header client when the site token provider feature is enabled and the profile service is available.
+// ---
+
 #include "chrome/browser/site_token_provider/site_token_url_loader_header_client.h"
 
 #include <utility>

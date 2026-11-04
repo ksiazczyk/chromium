@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayableProfileDataUnitTest
+// summary: Unit tests for DisplayableProfileData, checking fallback behavior of full name, email, and given name getters when those fields are null or empty.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import static org.junit.Assert.assertEquals;

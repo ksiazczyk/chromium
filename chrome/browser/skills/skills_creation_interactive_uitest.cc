@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills creation interactive UI tests
+// summary: Interactive UI tests covering skill preview updates, creating user skills via the dialog, canceling creation and remixing first-party skills.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/uuid.h"
 #include "chrome/browser/skills/skills_interactive_uitest_base.h"

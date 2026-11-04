@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site familiarity utils unit tests
+// summary: Unit tests for site familiarity utils, verifying default JavaScript optimizer settings across Safe Browsing states, feature flags, and manual overrides.
+// ---
+
 #include "chrome/browser/site_protection/site_familiarity_utils.h"
 
 #include <memory>

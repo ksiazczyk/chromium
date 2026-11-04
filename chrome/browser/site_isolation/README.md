@@ -1,3 +1,9 @@
+---
+type: readme
+title: Site Isolation support in chrome/browser/
+summary: Explains that this directory holds chrome/browser-level site isolation code and tests for metrics, enterprise policies, and preferences not handled in content/.
+---
+
 # Site Isolation support in chrome/browser/
 
 Most [Site

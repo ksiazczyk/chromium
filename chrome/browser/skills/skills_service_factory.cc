@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills service factory implementation
+// summary: Creates the per-profile SkillsService with sync, identity, and optimization guide dependencies, adding enterprise providers when enabled.
+// ---
+
 #include "chrome/browser/skills/skills_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake bound session refresh cookie fetcher
+// summary: Test fake for BoundSessionRefreshCookieFetcher that simulates cookie refresh requests, inserts fake cookies into the cookie jar, and records challenge responses for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_FAKE_BOUND_SESSION_REFRESH_COOKIE_FETCHER_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_FAKE_BOUND_SESSION_REFRESH_COOKIE_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileDataCacheUnitTest
+// summary: Parameterized unit tests for ProfileDataCache that verify profile data updates and observer notifications across both identity manager source-of-accounts flag settings.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import static org.mockito.Mockito.any;
