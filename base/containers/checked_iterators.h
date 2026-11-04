@@ -7,6 +7,12 @@
 // optimize reasonably, even in non-official release builds. Please do not
 // change the `CHECK()` calls back to `CHECK_op()` calls.
 
+// ---docerion
+// type: source
+// title: Checked contiguous iterators
+// summary: Implements CheckedContiguousIterator, a contiguous iterator that CHECKs bounds and rejects comparisons between iterators from different containers.
+// ---
+
 #ifndef BASE_CONTAINERS_CHECKED_ITERATORS_H_
 #define BASE_CONTAINERS_CHECKED_ITERATORS_H_
 

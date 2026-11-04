@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Orderfile instrumentation API header
+// summary: Declares the interface for disabling recording, switching phases, dumping offsets, and test-only helpers for the orderfile instrumentation.
+// ---
+
 #ifndef BASE_ANDROID_ORDERFILE_ORDERFILE_INSTRUMENTATION_H_
 #define BASE_ANDROID_ORDERFILE_ORDERFILE_INSTRUMENTATION_H_
 

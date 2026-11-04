@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VectorBuffer internal storage buffer for vector-like containers
+// summary: Internal header providing VectorBuffer, a malloc-backed capacity buffer for vector-like containers with helpers for efficient destruction, moving and copying of element ranges.
+// ---
+
 #ifndef BASE_CONTAINERS_VECTOR_BUFFER_H_
 #define BASE_CONTAINERS_VECTOR_BUFFER_H_
 

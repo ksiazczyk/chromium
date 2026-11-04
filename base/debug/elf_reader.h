@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ELF binary metadata reader interface
+// summary: Declares functions for querying the build ID, library name, program headers, and relocation offset of fully memory-mapped ELF binaries.
+// ---
+
 #ifndef BASE_DEBUG_ELF_READER_H_
 #define BASE_DEBUG_ELF_READER_H_
 

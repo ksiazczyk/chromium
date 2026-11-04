@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stack trace unit tests
+// summary: Unit tests verifying stack trace output, symbol demangling, truncated traces, and platform-specific behavior such as Android build IDs.
+// ---
+
 #include "base/debug/stack_trace.h"
 
 #include <ptrauth.h>

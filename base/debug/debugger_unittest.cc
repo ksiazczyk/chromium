@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger death tests
+// summary: Unit tests verifying that BreakDebugger crashes and execution does not continue past the breakpoint, with a Windows-specific exit code check.
+// ---
+
 #include "base/debug/debugger.h"
 
 #include "build/build_config.h"

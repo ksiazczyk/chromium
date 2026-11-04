@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows GDI handle debugging utilities interface
+// summary: Declares GdiHandleCounts and functions to collect GDI usage counts and crash the process with debugging information on bitmap allocation failures.
+// ---
+
 #ifndef BASE_DEBUG_GDI_DEBUG_UTIL_WIN_H_
 #define BASE_DEBUG_GDI_DEBUG_UTIL_WIN_H_
 

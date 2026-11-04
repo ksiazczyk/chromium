@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native library prefetcher implementation
+// summary: Prefetches native library code pages, in a forked process or via madvise, and records prefetch status metrics.
+// ---
+
 #include "base/android/library_loader/library_prefetcher.h"
 
 #include <sys/mman.h>

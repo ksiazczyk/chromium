@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedObjCClassSwizzler class declaration
+// summary: Declares ScopedObjCClassSwizzler, which swaps Objective-C method implementations within a scope and exposes the original implementation for invocation.
+// ---
+
 #ifndef BASE_APPLE_SCOPED_OBJC_CLASS_SWIZZLER_H_
 #define BASE_APPLE_SCOPED_OBJC_CLASS_SWIZZLER_H_
 

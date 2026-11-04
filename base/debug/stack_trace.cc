@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack trace implementation
+// summary: Implements stack trace capture including frame pointer unwinding, stack scanning limits and stripping Arm pointer authentication bits.
+// ---
+
 #include "base/debug/stack_trace.h"
 
 #include <string.h>

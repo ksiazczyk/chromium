@@ -1,0 +1,4 @@
+# Docerion header of to_vector_nocompile.nc.
+type: test
+title: No-compile tests for ToVector
+summary: No-compile test suite ensuring ToVector rejects projections on rvalue ranges of move-only elements that expect lvalue references.

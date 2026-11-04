@@ -1,0 +1,4 @@
+# Docerion header of heap_array_nocompile.nc.
+type: test
+title: HeapArray no-compile tests
+summary: No-compile test suite verifying that invalid HeapArray usages, such as const or reference element types and dangling returns, fail to compile.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskTraits enum for Java task scheduler
+// summary: Defines the TaskTraits enum exposed to Java, listing thread pool and UI task priorities such as best effort, user visible, and user blocking.
+// ---
+
 #ifndef BASE_ANDROID_TASK_SCHEDULER_TASK_TRAITS_ANDROID_H_
 #define BASE_ANDROID_TASK_SCHEDULER_TASK_TRAITS_ANDROID_H_
 

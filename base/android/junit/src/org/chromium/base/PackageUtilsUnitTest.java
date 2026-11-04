@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PackageUtilsUnitTest
+// summary: Robolectric unit tests for PackageUtils, checking extraction of the default assistant package name from Android settings.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertEquals;

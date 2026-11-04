@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minimal new and delete operators for the linker
+// summary: Provides custom operator new and delete implementations so the linker binary avoids linking the full libc++ runtime and stays small.
+// ---
+
 #include <android/log.h>
 #include <unistd.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OneShotCallback unit tests
+// summary: Unit tests verifying OneShotCallback fires exactly once when the supplier already has a value or later receives one.
+// ---
+
 package org.chromium.base.supplier;
 
 import static org.mockito.ArgumentMatchers.any;

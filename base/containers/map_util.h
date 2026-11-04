@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Map lookup and insert helpers
+// summary: Provides FindOrNull, FindPtrOrNull and a heterogeneous InsertOrAssign helper for working with map-like containers.
+// ---
+
 #ifndef BASE_CONTAINERS_MAP_UTIL_H_
 #define BASE_CONTAINERS_MAP_UTIL_H_
 

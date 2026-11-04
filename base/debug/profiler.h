@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profiler interface
+// summary: Declares functions to start, stop and flush sampling-based profiling and typedefs for return address resolution and dynamic symbol hooks.
+// ---
+
 #ifndef BASE_DEBUG_PROFILER_H_
 #define BASE_DEBUG_PROFILER_H_
 

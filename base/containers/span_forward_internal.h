@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forward declarations for base::span
+// summary: Declares the dynamic_extent constant and a forward declaration of the base::span class template so other headers can reference span without the full definition.
+// ---
+
 #ifndef BASE_CONTAINERS_SPAN_FORWARD_INTERNAL_H_
 #define BASE_CONTAINERS_SPAN_FORWARD_INTERNAL_H_
 

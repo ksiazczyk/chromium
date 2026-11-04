@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DispatchSource implementation
+// summary: Implements the DispatchSource wrapper managing GCD dispatch sources for Mach ports and file descriptors, with cancellation and suspend/resume support.
+// ---
+
 #include "base/apple/dispatch_source.h"
 
 #include "base/apple/scoped_dispatch_object.h"

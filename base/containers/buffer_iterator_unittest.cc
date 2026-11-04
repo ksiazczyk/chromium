@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BufferIterator unit tests
+// summary: Unit tests covering object and span reads and writes through BufferIterator over char buffers, including bounds and overflow cases.
+// ---
+
 #include "base/containers/buffer_iterator.h"
 
 #include <string.h>

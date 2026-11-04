@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MemoryPressureMonitorTest
+// summary: Robolectric unit tests for MemoryPressureMonitor covering trim level to memory pressure level translation and throttled callback dispatch on the UiThread.
+// ---
+
 package org.chromium.base.memory;
 
 import android.content.ComponentCallbacks2;

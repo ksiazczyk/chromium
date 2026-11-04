@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack trace interface
+// summary: Declares the StackTrace class, in-process stack dumping on signals and exceptions, and first-chance callback support for stack dump handlers.
+// ---
+
 #ifndef BASE_DEBUG_STACK_TRACE_H_
 #define BASE_DEBUG_STACK_TRACE_H_
 

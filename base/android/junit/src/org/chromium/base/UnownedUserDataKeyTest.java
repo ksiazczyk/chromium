@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnownedUserDataKeyTest
+// summary: Robolectric unit tests for UnownedUserDataKey, covering key equality, attachment, retrieval, and detachment behavior across UnownedUserDataHost instances.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertArrayEquals;

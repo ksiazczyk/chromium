@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CollectionUtilTest
+// summary: Unit tests for CollectionUtil.strengthen, checking that lists of weak references are converted to strong references and nulls dropped.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertEquals;

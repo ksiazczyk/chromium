@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSStatus logging macros for macOS and iOS
+// summary: Declares the OSSTATUS_LOG macro family and supporting classes for logging errors reported through macOS and iOS OSStatus or OSErr status values.
+// ---
+
 #ifndef BASE_APPLE_OSSTATUS_LOGGING_H_
 #define BASE_APPLE_OSSTATUS_LOGGING_H_
 

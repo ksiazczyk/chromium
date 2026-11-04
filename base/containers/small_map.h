@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::small_map container header
+// summary: Implements base::small_map, a map-like container backed by an unsorted array that switches to a normal map type once it grows beyond a fixed array size.
+// ---
+
 #ifndef BASE_CONTAINERS_SMALL_MAP_H_
 #define BASE_CONTAINERS_SMALL_MAP_H_
 

@@ -7,6 +7,12 @@
 // together with the linker internals are smashed into (=linked with) the test
 // library.
 
+// ---docerion
+// type: source
+// title: JNI_OnLoad entry point for the linker library
+// summary: Defines JNI_OnLoad for the linker library, saving the Java VM handle and initializing LibInfo accessors, kept separate to avoid conflicts with test libraries.
+// ---
+
 #include <jni.h>
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

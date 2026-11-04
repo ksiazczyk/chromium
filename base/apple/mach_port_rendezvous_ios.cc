@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Mach port rendezvous implementation
+// summary: Implements the iOS single-client rendezvous server and client that exchange Mach port rights over an XPC-provided send right.
+// ---
+
 #include "base/apple/mach_port_rendezvous_ios.h"
 
 #include <mach/mig.h>

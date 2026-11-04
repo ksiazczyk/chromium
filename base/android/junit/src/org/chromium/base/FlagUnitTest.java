@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlagUnitTest
+// summary: Robolectric unit tests for the Flag class, verifying that duplicate feature flags throw an AssertionError.
+// ---
+
 package org.chromium.base;
 
 import static org.chromium.base.test.util.BaseFlagTestRule.FEATURE_A;

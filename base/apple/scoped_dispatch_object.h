@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped wrapper for Grand Central Dispatch objects
+// summary: Defines ScopedDispatchObject, a scoped wrapper that retains and releases Grand Central Dispatch objects and forbids inclusion in Objective-C code.
+// ---
+
 #ifndef BASE_APPLE_SCOPED_DISPATCH_OBJECT_H_
 #define BASE_APPLE_SCOPED_DISPATCH_OBJECT_H_
 

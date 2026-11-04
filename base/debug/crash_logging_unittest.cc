@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crash logging unit tests
+// summary: Unit tests for the crash key API covering allocation, scoped keys, helper macros, and stream output using a test implementation.
+// ---
+
 #include "base/debug/crash_logging.h"
 
 #include <map>

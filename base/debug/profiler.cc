@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profiler support implementation
+// summary: Implements profiling control functions that are mostly noops and locates profiler return address and symbol functions in module imports on Windows.
+// ---
+
 #include "base/debug/profiler.h"
 
 #include "base/allocator/buildflags.h"

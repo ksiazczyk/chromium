@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'LifetimeAssertUnitTest: JUnit tests for LifetimeAssert'
+// summary: JUnit tests using Robolectric that verify LifetimeAssert garbage collection behavior, including safe/unsafe GC, instance destruction assertions, and safe pointer tracker registration.
+// ---
+
 package org.chromium.base.lifetime;
 
 import org.jni_zero.JniRawPtr;

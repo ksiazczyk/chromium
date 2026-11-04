@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedNSAutoreleasePool class declaration
+// summary: Declares ScopedNSAutoreleasePool, a stack-allocated C++ class that pushes an autorelease pool on construction and pops it on destruction.
+// ---
+
 #ifndef BASE_APPLE_SCOPED_NSAUTORELEASE_POOL_H_
 #define BASE_APPLE_SCOPED_NSAUTORELEASE_POOL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows invalid access termination header
+// summary: Declares Windows functions that terminate the process immediately with a heap corruption fast fail exception or a control flow guard violation.
+// ---
+
 #ifndef BASE_DEBUG_INVALID_ACCESS_WIN_H_
 #define BASE_DEBUG_INVALID_ACCESS_WIN_H_
 

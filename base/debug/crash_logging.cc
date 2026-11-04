@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash logging implementation
+// summary: Implements the crash key API that allocates, sets, clears, and outputs crash report annotations through a pluggable implementation.
+// ---
+
 #include "base/debug/crash_logging.h"
 
 #include <ostream>

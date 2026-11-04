@@ -16,6 +16,12 @@
 
 // This file is partially taken from AOSP and keeps its license.
 
+// ---docerion
+// type: source
+// title: Ashmem shared memory support implementation
+// summary: Implements low-level wrappers for creating, protecting, pinning and unpinning shared memory regions across Android releases, partially taken from AOSP.
+// ---
+
 #include "base/android/linker/ashmem.h"
 
 #include <android/log.h>

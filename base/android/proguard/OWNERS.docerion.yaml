@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for base Android ProGuard flags
+summary: Lists the owner responsible for changes to the Android ProGuard flag files in this directory.

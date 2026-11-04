@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ELF image builder header
+// summary: Declares TestElfImageBuilder, which builds in-memory ELF images with configurable mapping types for testing ELF parsing code.
+// ---
+
 #ifndef BASE_DEBUG_TEST_ELF_IMAGE_BUILDER_H_
 #define BASE_DEBUG_TEST_ELF_IMAGE_BUILDER_H_
 

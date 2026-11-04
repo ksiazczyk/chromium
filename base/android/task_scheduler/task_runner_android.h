@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRunnerAndroid class header
+// summary: Declares TaskRunnerAndroid, the native implementation backing TaskRunnerImpl.java that posts Java tasks onto C++ task runners.
+// ---
+
 #ifndef BASE_ANDROID_TASK_SCHEDULER_TASK_RUNNER_ANDROID_H_
 #define BASE_ANDROID_TASK_SCHEDULER_TASK_RUNNER_ANDROID_H_
 

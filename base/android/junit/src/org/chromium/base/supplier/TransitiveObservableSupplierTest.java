@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TransitiveObservableSupplier unit tests
+// summary: Unit tests for TransitiveObservableSupplier covering value propagation from parent to target suppliers and observer notifications.
+// ---
+
 package org.chromium.base.supplier;
 
 import static org.junit.Assert.assertEquals;

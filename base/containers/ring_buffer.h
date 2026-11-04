@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::RingBuffer fixed-size ring buffer
+// summary: Implements base::RingBuffer, a fixed-size array-backed ring buffer that keeps only the last kSize elements and supports front insertion, random reads, and iteration from oldest to newest.
+// ---
+
 #ifndef BASE_CONTAINERS_RING_BUFFER_H_
 #define BASE_CONTAINERS_RING_BUFFER_H_
 

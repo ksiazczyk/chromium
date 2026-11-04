@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DumpWithoutCrashing unit tests
+// summary: Tests dump throttling per call location and the Stability.DumpWithoutCrashingStatus histogram buckets using a mock clock.
+// ---
+
 #include "base/debug/dump_without_crashing.h"
 
 #include "base/hash/hash.h"

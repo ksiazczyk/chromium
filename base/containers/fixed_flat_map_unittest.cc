@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for fixed_flat_map
+// summary: Unit tests for MakeFixedFlatMap covering sorted and unsorted input, mutable values in a non-const map, and sorting with unsortable value types.
+// ---
+
 #include "base/containers/fixed_flat_map.h"
 
 #include <algorithm>

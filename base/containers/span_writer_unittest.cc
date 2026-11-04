@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SpanWriter
+// summary: Unit tests for SpanWriter covering span and value writes, skipping, and endian integer and enum writes, including compile-time checks.
+// ---
+
 #include "base/containers/span_writer.h"
 
 #include <array>

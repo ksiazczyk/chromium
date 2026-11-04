@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: flat_set container header
+// summary: Declares base::flat_set, a std::set-like container storing elements in a sorted vector via flat_tree, with trade-offs, usage notes, and a quick API reference.
+// ---
+
 #ifndef BASE_CONTAINERS_FLAT_SET_H_
 #define BASE_CONTAINERS_FLAT_SET_H_
 

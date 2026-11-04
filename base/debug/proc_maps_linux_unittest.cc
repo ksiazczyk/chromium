@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proc maps parsing unit tests
+// summary: Unit tests verifying parsing of /proc/self/maps entries including paths with spaces, heap and stack regions, missing newlines and SmapsRollup support.
+// ---
+
 #include "base/debug/proc_maps_linux.h"
 
 #include <stddef.h>

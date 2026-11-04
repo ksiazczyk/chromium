@@ -1,0 +1,4 @@
+# Docerion header of checked_iterators_nocompile.nc.
+type: test
+title: Checked iterators no-compile tests
+summary: No-compile test suite asserting that invalid CheckedContiguousIterator construction, cross-container comparison, and out-of-bounds arithmetic fail to compile.

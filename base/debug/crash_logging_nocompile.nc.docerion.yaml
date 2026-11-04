@@ -1,0 +1,4 @@
+# Docerion header of crash_logging_nocompile.nc.
+type: test
+title: Crash logging no-compile test
+summary: No-compile test asserting that SCOPED_CRASH_KEY_BOOL rejects non-boolean arguments at compile time.

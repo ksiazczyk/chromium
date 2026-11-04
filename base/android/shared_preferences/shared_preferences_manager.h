@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedPreferencesManager class declaration
+// summary: C++ header declaring the SharedPreferencesManager class, a JNI wrapper providing access to Android SharedPreferences with uniqueness key checking.
+// ---
+
 #ifndef BASE_ANDROID_SHARED_PREFERENCES_SHARED_PREFERENCES_MANAGER_H_
 #define BASE_ANDROID_SHARED_PREFERENCES_SHARED_PREFERENCES_MANAGER_H_
 

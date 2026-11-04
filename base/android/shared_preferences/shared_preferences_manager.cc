@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedPreferencesManager implementation
+// summary: C++ implementation of the SharedPreferencesManager JNI bridge, delegating key removal, containment checks, and boolean, int, and string reads and writes to Java.
+// ---
+
 #include "base/android/shared_preferences/shared_preferences_manager.h"
 
 #include "base/android/jni_android.h"

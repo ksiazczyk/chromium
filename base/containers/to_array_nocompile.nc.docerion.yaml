@@ -1,0 +1,4 @@
+# Docerion header of to_array_nocompile.nc.
+type: test
+title: No-compile tests for ToArray
+summary: No-compile test suite asserting that invalid ToArray calls, such as dynamic spans without an explicit size, fail to compile.

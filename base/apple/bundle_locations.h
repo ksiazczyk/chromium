@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bundle location access declarations
+// summary: Declares functions for retrieving and overriding the main, outer, and framework bundles of Chrome on Apple platforms.
+// ---
+
 #ifndef BASE_APPLE_BUNDLE_LOCATIONS_H_
 #define BASE_APPLE_BUNDLE_LOCATIONS_H_
 

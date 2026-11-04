@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TraceEventTest
+// summary: Robolectric tests for TraceEvent covering event name filtering and scoped trace events with mocked native calls.
+// ---
+
 package org.chromium.base;
 
 import static org.mockito.Mockito.verify;

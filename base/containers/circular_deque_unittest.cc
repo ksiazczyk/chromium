@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: circular_deque unit tests
+// summary: Unit tests exercising constructors, iterators, mutation, destructor counting and buffer wraparound behavior of base::circular_deque.
+// ---
+
 #include "base/containers/circular_deque.h"
 
 #include <ranges>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffered DWARF reader implementation
+// summary: Implements buffered reading of DWARF debug structures, including LEB128 values, initial lengths, offsets, addresses, and common headers.
+// ---
+
 #include "base/debug/buffered_dwarf_reader.h"
 
 #include "base/compiler_specific.h"

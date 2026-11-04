@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: small_map unit tests
+// summary: Unit tests for base::small_map covering general usage, iterators, copy construction, assignment, and the transition from the array backing to the full map.
+// ---
+
 #include "base/containers/small_map.h"
 
 #include <stddef.h>

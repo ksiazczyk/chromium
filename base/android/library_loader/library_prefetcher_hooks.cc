@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Library prefetcher JNI hooks
+// summary: Provides the JNI entry point that triggers native library prefetching for WebView when code ordering is supported.
+// ---
+
 #include <string>
 
 #include "base/android/jni_android.h"

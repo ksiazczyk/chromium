@@ -9,6 +9,12 @@
 // no-include-guard-because-multiply-included
 // NOLINT(build/header_guard)
 
+// ---docerion
+// type: source
+// title: Objective-C type list for owned object wrappers
+// summary: Lists the platform-specific Objective-C types and protocols for which owned and weak wrapper classes are generated, split by Mac and iOS builds.
+// ---
+
 #if !defined(BASE_APPLE_OWNED_OBJC_H_)
 #error Please #include "base/apple/owned_objc.h" instead of this file
 #endif

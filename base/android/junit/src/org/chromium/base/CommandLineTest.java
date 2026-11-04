@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommandLineTest
+// summary: Robolectric tests for CommandLine covering parsing of init switches, quoting, appending, updating, querying, and removing switches.
+// ---
+
 package org.chromium.base;
 
 import org.junit.Assert;

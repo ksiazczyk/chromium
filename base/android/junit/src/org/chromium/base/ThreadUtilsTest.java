@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThreadUtilsTest
+// summary: Robolectric tests for ThreadUtils and ThreadChecker asserting errors when operations run on the wrong UI or background thread.
+// ---
+
 package org.chromium.base;
 
 import static org.hamcrest.core.StringStartsWith.startsWith;

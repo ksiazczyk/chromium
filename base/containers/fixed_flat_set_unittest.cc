@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for fixed_flat_set
+// summary: Unit tests for MakeFixedFlatSet covering sorted and unsorted input plus compile-time checks of contains, find, lower_bound, upper_bound, and equal_range.
+// ---
+
 #include "base/containers/fixed_flat_set.h"
 
 #include <algorithm>

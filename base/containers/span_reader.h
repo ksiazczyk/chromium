@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpanReader for consuming elements from a span
+// summary: Defines SpanReader, a bounds-checked reader that consumes elements from the front of a span, with endian-aware integer reads for byte spans.
+// ---
+
 #ifndef BASE_CONTAINERS_SPAN_READER_H_
 #define BASE_CONTAINERS_SPAN_READER_H_
 

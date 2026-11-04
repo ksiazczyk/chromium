@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::queue container adapter header
+// summary: Defines base::queue as an alias of std::queue that defaults to base::circular_deque as the underlying container instead of std::deque.
+// ---
+
 #ifndef BASE_CONTAINERS_QUEUE_H_
 #define BASE_CONTAINERS_QUEUE_H_
 

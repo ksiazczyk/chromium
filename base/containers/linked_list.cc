@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linked list node base implementation
+// summary: Implements LinkNodeBase move, removal, insertion and self-referencing behavior used by the base linked list container.
+// ---
+
 #include "base/containers/linked_list.h"
 
 #include "base/check_op.h"

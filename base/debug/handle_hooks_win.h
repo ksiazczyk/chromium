@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows handle hooks interface
+// summary: Declares the HandleHooks class with static methods to patch IATs and the kernel32 EAT for intercepting functions that can close handles.
+// ---
+
 #ifndef BASE_DEBUG_HANDLE_HOOKS_WIN_H_
 #define BASE_DEBUG_HANDLE_HOOKS_WIN_H_
 

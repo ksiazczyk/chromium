@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Mach port rendezvous server class
+// summary: Declares MachPortRendezvousServerMac, a singleton server that registers ports per child PID and supports process requirement validation.
+// ---
+
 #ifndef BASE_APPLE_MACH_PORT_RENDEZVOUS_MAC_H_
 #define BASE_APPLE_MACH_PORT_RENDEZVOUS_MAC_H_
 

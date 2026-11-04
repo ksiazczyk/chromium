@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMachVM reset implementation
+// summary: Implements ScopedMachVM::reset and reset_unaligned, deallocating non-overlapping parts of previously owned Mach VM regions.
+// ---
+
 #include "base/apple/scoped_mach_vm.h"
 
 #include "base/apple/mach_logging.h"

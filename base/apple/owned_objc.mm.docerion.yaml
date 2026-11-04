@@ -1,0 +1,4 @@
+# Docerion header of owned_objc.mm.
+type: source
+title: Implementation of owned Objective-C wrappers
+summary: Implements the Owned and Weak Objective-C wrapper classes declared in owned_objc.h using macros that manage strong or weak object storage.

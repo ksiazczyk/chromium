@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows invalid access termination helpers
+// summary: Provides functions that deliberately terminate the process via heap corruption or control flow guard violations to exercise crash handling.
+// ---
+
 #include "base/debug/invalid_access_win.h"
 
 #include <windows.h>

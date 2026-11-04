@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocation trace recorder implementation
+// summary: Implements the AllocationTraceRecorder, which records allocation and free operations with stack traces into a fixed-size buffer with statistics.
+// ---
+
 #include "base/debug/allocation_trace.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenStateReceiverTest
+// summary: Robolectric tests for ScreenStateReceiver verifying screen on and off broadcasts notify observers and other broadcasts are ignored.
+// ---
+
 package org.chromium.base;
 
 import static org.mockito.ArgumentMatchers.any;

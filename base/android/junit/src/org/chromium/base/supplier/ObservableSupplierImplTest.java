@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ObservableSupplierImpl unit tests
+// summary: Unit tests for ObservableSupplierImpl covering observer registration variants, notification on set, and null handling.
+// ---
+
 package org.chromium.base.supplier;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ELF reader unit tests
+// summary: Parameterized unit tests verifying build ID and library name reading across relocatable, biased, and non-relocatable test ELF images.
+// ---
+
 #include "base/debug/elf_reader.h"
 
 #include <dlfcn.h>

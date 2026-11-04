@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia stack trace implementation
+// summary: Captures stack traces on Fuchsia by unwinding frames and building a symbol map from Zircon process debug info and ELF module metadata.
+// ---
+
 #include "base/debug/stack_trace.h"
 
 #include <elf.h>

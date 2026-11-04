@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for base::Extend
+// summary: Unit tests covering the move, copy, and span-based Extend overloads, including behavior with non-copyable and copy-tracking element types.
+// ---
+
 #include "base/containers/extend.h"
 
 #include <initializer_list>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backup exclusion utilities header
+// summary: Declares functions to get, set, and clear OS-managed backup exclusions for files and directories.
+// ---
+
 #ifndef BASE_APPLE_BACKUP_UTIL_H_
 #define BASE_APPLE_BACKUP_UTIL_H_
 

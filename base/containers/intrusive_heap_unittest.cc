@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IntrusiveHeap unit tests
+// summary: Unit tests validating heap invariants, canonical heap layouts and randomized stress combinations of insert, erase and update operations for IntrusiveHeap.
+// ---
+
 #include "base/containers/intrusive_heap.h"
 
 #include <array>

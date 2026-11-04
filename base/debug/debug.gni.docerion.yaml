@@ -1,0 +1,4 @@
+# Docerion header of debug.gni.
+type: config
+title: Debug build configuration for GN
+summary: GN build arguments controlling allocation stack trace recording, full reporting, and check-elision warnings for debug support.

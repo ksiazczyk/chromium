@@ -1,0 +1,4 @@
+# Docerion header of scoped_nsautorelease_pool_unittest.mm.
+type: test
+title: Unit test for ScopedNSAutoreleasePool out-of-order destruction
+summary: Unit test asserting that destroying ScopedNSAutoreleasePool objects out of order results in a crash under debug checks.

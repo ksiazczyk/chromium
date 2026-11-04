@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android linker
+// summary: GoogleTest unit tests covering library and RELRO range finding for the Chromium Android linker.
+// ---
+
 #include <link.h>
 #include <sys/mman.h>
 #include <sys/prctl.h>

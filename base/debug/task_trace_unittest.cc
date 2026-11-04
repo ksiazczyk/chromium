@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task trace unit tests
+// summary: Unit tests verifying TaskTrace behavior when no task is active and when tasks are chained through PostTask.
+// ---
+
 #include "base/debug/task_trace.h"
 
 #include <ostream>

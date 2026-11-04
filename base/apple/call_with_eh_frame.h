@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallWithEHFrame header
+// summary: Declares base::apple::CallWithEHFrame, which runs a block in a stack frame with a custom exception handler to preserve useful stack traces.
+// ---
+
 #ifndef BASE_APPLE_CALL_WITH_EH_FRAME_H_
 #define BASE_APPLE_CALL_WITH_EH_FRAME_H_
 

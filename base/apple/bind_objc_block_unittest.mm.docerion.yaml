@@ -1,0 +1,4 @@
+# Docerion header of bind_objc_block_unittest.mm.
+type: test
+title: Unit tests for binding Objective-C blocks to base callbacks
+summary: Tests binding Objective-C blocks to base callbacks, covering argument counts, return values, moveability, and ScopedClosureRunner behavior.

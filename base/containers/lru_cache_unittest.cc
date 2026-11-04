@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LRU cache unit tests
+// summary: Typed unit tests for LRUCache, LRUCacheSet and their hashing variants, checking put, get, peek, eviction ordering and memory accounting.
+// ---
+
 #include "base/containers/lru_cache.h"
 
 #include <algorithm>

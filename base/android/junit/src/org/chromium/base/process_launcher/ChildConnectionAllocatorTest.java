@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChildConnectionAllocator unit tests
+// summary: JUnit and Robolectric unit tests for ChildConnectionAllocator, using a test connection factory and mocks to verify connection creation, limits, and freeing behavior.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import static org.junit.Assert.assertEquals;

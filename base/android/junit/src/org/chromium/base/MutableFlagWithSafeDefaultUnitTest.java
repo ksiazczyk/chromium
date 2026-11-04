@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MutableFlagWithSafeDefaultUnitTest
+// summary: Unit tests for MutableFlagWithSafeDefault covering duplicate feature detection and value resolution from the FeatureMap.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertFalse;

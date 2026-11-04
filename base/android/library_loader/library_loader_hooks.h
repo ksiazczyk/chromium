@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Library loader hooks declarations
+// summary: Declares the library process type enum and the hook functions invoked when the native library finishes loading.
+// ---
+
 #ifndef BASE_ANDROID_LIBRARY_LOADER_LIBRARY_LOADER_HOOKS_H_
 #define BASE_ANDROID_LIBRARY_LOADER_LIBRARY_LOADER_HOOKS_H_
 

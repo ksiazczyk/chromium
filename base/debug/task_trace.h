@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskTrace class declaration
+// summary: Declares the TaskTrace class, a snapshot of the PostTask call chain behind the current task, analogous to StackTrace for posted tasks.
+// ---
+
 #ifndef BASE_DEBUG_TASK_TRACE_H_
 #define BASE_DEBUG_TASK_TRACE_H_
 

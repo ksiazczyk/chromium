@@ -1,0 +1,4 @@
+# Docerion header of scoped_nsautorelease_pool.mm.
+type: source
+title: ScopedNSAutoreleasePool implementation
+summary: Implements ScopedNSAutoreleasePool using the Objective-C runtime autorelease pool push and pop functions, with debug checks and stack trace logging.

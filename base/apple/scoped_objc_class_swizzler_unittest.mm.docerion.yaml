@@ -1,0 +1,4 @@
+# Docerion header of scoped_objc_class_swizzler_unittest.mm.
+type: test
+title: ScopedObjCClassSwizzler unit tests
+summary: Unit tests verifying that ScopedObjCClassSwizzler swaps instance and class methods, including swizzling via categories and inheritance.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HeapArray unit tests
+// summary: Unit tests for HeapArray covering construction, move semantics, custom deleters, indexing, iterators, and span conversion.
+// ---
+
 #include "base/containers/heap_array.h"
 
 #include <stdint.h>

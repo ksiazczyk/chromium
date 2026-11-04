@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash key API declaration
+// summary: Declares the crash key API for attaching named string annotations to crash reports, with scoped helpers and usage guidance.
+// ---
+
 #ifndef BASE_DEBUG_CRASH_LOGGING_H_
 #define BASE_DEBUG_CRASH_LOGGING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromiumExecutorServiceFactoryTest
+// summary: Robolectric tests verifying that executors from ChromiumExecutorServiceFactory execute, submit, and schedule runnables and callables correctly on the UI thread.
+// ---
+
 package org.chromium.base.task;
 
 import static org.junit.Assert.assertEquals;

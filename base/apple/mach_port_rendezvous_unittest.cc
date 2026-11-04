@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mach port rendezvous unit tests
+// summary: Multiprocess tests covering port registration, acquisition, and peer validation policies of the Mach port rendezvous server.
+// ---
+
 #include "base/apple/mach_port_rendezvous.h"
 
 #include <mach/mach.h>

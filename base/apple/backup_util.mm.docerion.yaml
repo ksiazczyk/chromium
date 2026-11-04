@@ -1,0 +1,4 @@
+# Docerion header of backup_util.mm.
+type: source
+title: Backup exclusion utilities implementation
+summary: Implements backup exclusion helpers using NSURL resource values with the NSURLIsExcludedFromBackupKey.

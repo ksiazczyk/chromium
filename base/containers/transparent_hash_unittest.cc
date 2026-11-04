@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for transparent hash functors
+// summary: Unit tests for TransparentHashAs and TransparentEqualAs covering vector versus span, smart and raw pointers, pairs and flat_hash_set lookups.
+// ---
+
 #include "base/containers/transparent_hash.h"
 
 #include <memory>

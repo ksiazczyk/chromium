@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::SpanOrSize helper header
+// summary: Defines base::SpanOrSize<T>, a variant holding either a span<T> or just a size, for cases where the data is not always retained but its size must remain available.
+// ---
+
 #ifndef BASE_CONTAINERS_SPAN_OR_SIZE_H_
 #define BASE_CONTAINERS_SPAN_OR_SIZE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Mach port rendezvous implementation
+// summary: Implements the macOS rendezvous server that registers ports in the bootstrap namespace and validates peer processes before handing out ports.
+// ---
+
 #include "base/apple/mach_port_rendezvous_mac.h"
 
 #include <bsm/libbsm.h>

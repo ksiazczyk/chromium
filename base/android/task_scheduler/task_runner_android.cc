@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRunnerAndroid JNI implementation
+// summary: Implements the native side of TaskRunnerImpl.java, posting Java tasks onto C++ task runners with tracing of Java stack frame locations.
+// ---
+
 #include "base/android/task_scheduler/task_runner_android.h"
 
 #include <array>

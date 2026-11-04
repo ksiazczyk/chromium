@@ -6,6 +6,12 @@
 // debuggers.  You should use this to test if you're running under a debugger,
 // and if you would like to yield (breakpoint) into the debugger.
 
+// ---docerion
+// type: source
+// title: Cross-platform debugger helper interface
+// summary: Declares base::debug APIs to detect, wait for, and break into a debugger, including async-safe breaking and debug UI suppression controls.
+// ---
+
 #ifndef BASE_DEBUG_DEBUGGER_H_
 #define BASE_DEBUG_DEBUGGER_H_
 

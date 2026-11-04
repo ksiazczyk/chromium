@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Chromium Android linker
+summary: GN build file defining the ashmem source set and the chromium_android_linker shared library with size, hash-style and symbol visibility settings.

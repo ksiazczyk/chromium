@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LazyOneshotSupplierImpl unit tests
+// summary: Unit tests for LazyOneshotSupplierImpl verifying that set before doSet works and that doSet is invoked only once when the value is first needed.
+// ---
+
 package org.chromium.base.supplier;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach port rendezvous core implementation
+// summary: Implements the platform-independent core of Mach port rendezvous, including port right handling and the base server that answers client port requests.
+// ---
+
 #include "base/apple/mach_port_rendezvous.h"
 
 #include <mach/mig.h>

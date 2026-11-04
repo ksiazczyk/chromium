@@ -7,6 +7,12 @@
 // optimize reasonably, even in non-official release builds. Please do not
 // change the `CHECK()` calls back to `CHECK_op()` calls.
 
+// ---docerion
+// type: source
+// title: base::span contiguous view header
+// summary: Implements base::span, a lightweight non-owning view of contiguous elements with bounds-checked access, intended for function parameters and local variables instead of raw pointer-plus-size pairs.
+// ---
+
 #ifndef BASE_CONTAINERS_SPAN_H_
 #define BASE_CONTAINERS_SPAN_H_
 

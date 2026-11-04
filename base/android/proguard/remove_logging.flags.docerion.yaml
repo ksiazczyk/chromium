@@ -1,0 +1,4 @@
+# Docerion header of remove_logging.flags.
+type: config
+title: ProGuard flags to remove logging calls
+summary: Configures R8 to strip debug, verbose, and JDK logger logging calls plus related unused accesses in order to reduce APK size.

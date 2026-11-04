@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EnumSet unit tests
+// summary: Unit tests covering EnumSet size, constexpr operations, constructors, set operations, iteration and out-of-range death tests.
+// ---
+
 #include "base/containers/enum_set.h"
 
 #include <stddef.h>

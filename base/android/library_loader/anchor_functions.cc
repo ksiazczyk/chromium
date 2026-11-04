@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchor functions for code ordering
+// summary: Defines unique anchor functions and symbols marking the start and end of the text and ordered text sections, with sanity checks against linker aliasing.
+// ---
+
 #include "base/android/library_loader/anchor_functions.h"
 
 #include "build/build_config.h"

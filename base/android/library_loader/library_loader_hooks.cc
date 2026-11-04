@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Library loader hooks implementation
+// summary: Implements native library load hooks, process type tracking, JNI entry points, and AtExitManager handling for library loading.
+// ---
+
 #include "base/android/library_loader/library_loader_hooks.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Points to the OWNERS file of the main shared_preferences source directory so the same reviewers cover these tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stack trace performance test
+// summary: Benchmarks stack trace generation across multiple tracer objects and reports per-run duration and throughput metrics.
+// ---
+
 #include "base/debug/stack_trace.h"
 
 #include <vector>

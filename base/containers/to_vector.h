@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::ToVector header
+// summary: Header defining base::ToVector overloads that convert ranges to std::vector, apply projections, and build vectors from rvalue arrays of move-only types.
+// ---
+
 #ifndef BASE_CONTAINERS_TO_VECTOR_H_
 #define BASE_CONTAINERS_TO_VECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffered DWARF reader declaration
+// summary: Declares BufferedDwarfReader, a buffered reader with helpers for parsing DWARF debug information from a file descriptor.
+// ---
+
 #ifndef BASE_DEBUG_BUFFERED_DWARF_READER_H_
 #define BASE_DEBUG_BUFFERED_DWARF_READER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SpanReader
+// summary: Unit tests for SpanReader covering read, skip, and endian integer reads, including constexpr compile-time checks.
+// ---
+
 #include "base/containers/span_reader.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

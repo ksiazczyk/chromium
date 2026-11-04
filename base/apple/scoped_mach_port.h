@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Mach port ownership helpers
+// summary: Declares ScopedGeneric-based scopers for Mach send rights, receive rights and port sets, plus functions to create Mach ports and retain send rights.
+// ---
+
 #ifndef BASE_APPLE_SCOPED_MACH_PORT_H_
 #define BASE_APPLE_SCOPED_MACH_PORT_H_
 

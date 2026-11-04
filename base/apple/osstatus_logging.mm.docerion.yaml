@@ -1,0 +1,4 @@
+# Docerion header of osstatus_logging.mm.
+type: source
+title: Implementation of OSStatus logging
+summary: Implements OSStatus error description lookup via NSError and the OSStatusLogMessage classes that append status details to log output.

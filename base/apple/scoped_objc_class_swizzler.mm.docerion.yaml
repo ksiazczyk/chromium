@@ -1,0 +1,4 @@
+# Docerion header of scoped_objc_class_swizzler.mm.
+type: source
+title: ScopedObjCClassSwizzler implementation
+summary: Implements ScopedObjCClassSwizzler, which temporarily exchanges Objective-C method implementations between classes or selectors and restores them on destruction.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OneshotSupplierImpl unit tests
+// summary: Unit tests for OneshotSupplierImpl covering set, onAvailable ordering before and after set, and get behavior.
+// ---
+
 package org.chromium.base.supplier;
 
 import static org.junit.Assert.assertEquals;

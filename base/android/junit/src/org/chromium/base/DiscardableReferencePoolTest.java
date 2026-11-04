@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiscardableReferencePoolTest
+// summary: Unit tests for DiscardableReferencePool verifying drain and remove behavior and that pooled objects become eligible for garbage collection.
+// ---
+
 package org.chromium.base;
 
 import org.junit.Assert;

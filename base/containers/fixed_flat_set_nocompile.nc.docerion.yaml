@@ -1,0 +1,4 @@
+# Docerion header of fixed_flat_set_nocompile.nc.
+type: test
+title: No-compile tests for fixed_flat_set
+summary: No-compile test suite asserting that duplicate or unsorted keys cause compile-time failures when constructing a fixed_flat_set with MakeFixedFlatSet.

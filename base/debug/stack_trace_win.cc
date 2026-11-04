@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows stack trace implementation
+// summary: Implements stack trace capture and fatal exception call stack dumping on Windows using dbghelp, including a unit test exception filter.
+// ---
+
 #include "base/debug/stack_trace.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedServiceBindingBatchImpl unit tests
+// summary: Robolectric tests for ScopedBatchUpdate and ScopedServiceBindingBatchImpl, verifying batched rebind and unbind requests using a fake binding request queue and shadow looper.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import static org.junit.Assert.assertEquals;

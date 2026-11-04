@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MathUtilsTest
+// summary: Unit tests for MathUtils covering rounding to two decimals, clamping, positive modulo and smooth step behavior.
+// ---
+
 package org.chromium.base;
 
 import static org.chromium.base.MathUtils.EPSILON;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PromiseTest
+// summary: JUnit tests for the Promise class covering callbacks, chaining of synchronous and asynchronous functions, fulfillment and rejection handling.
+// ---
+
 package org.chromium.base;
 
 import static org.hamcrest.CoreMatchers.is;

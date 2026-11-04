@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchor functions declarations
+// summary: Declares exported text and ordered text boundary symbols plus the anchor and ordering sanity check functions.
+// ---
+
 #ifndef BASE_ANDROID_LIBRARY_LOADER_ANCHOR_FUNCTIONS_H_
 #define BASE_ANDROID_LIBRARY_LOADER_ANCHOR_FUNCTIONS_H_
 

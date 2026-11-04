@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncOneshotSupplierImpl unit tests
+// summary: Unit tests for SyncOneshotSupplierImpl covering get, set, and onAvailable ordering with synchronous callback delivery.
+// ---
+
 package org.chromium.base.supplier;
 
 import static org.junit.Assert.assertEquals;

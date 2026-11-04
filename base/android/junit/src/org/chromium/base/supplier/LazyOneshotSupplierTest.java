@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LazyOneshotSupplier unit tests
+// summary: Unit tests for LazyOneshotSupplier.fromValue and fromSupplier, covering object and null values plus onAvailable callback notification.
+// ---
+
 package org.chromium.base.supplier;
 
 import static org.junit.Assert.assertEquals;

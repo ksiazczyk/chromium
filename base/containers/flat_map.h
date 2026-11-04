@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::flat_map sorted vector-backed map
+// summary: Defines flat_map, a std::map-like container storing contents in a sorted vector, with pros and cons notes, iterator invalidation warnings, and a quick API reference.
+// ---
+
 #ifndef BASE_CONTAINERS_FLAT_MAP_H_
 #define BASE_CONTAINERS_FLAT_MAP_H_
 

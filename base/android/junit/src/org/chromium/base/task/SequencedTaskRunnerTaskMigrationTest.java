@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SequencedTaskRunnerTaskMigrationTest
+// summary: Unit tests for SequencedTaskRunnerImpl focusing on how pending tasks migrate from the pre-native Java thread pool to the native task runner during initialization.
+// ---
+
 package org.chromium.base.task;
 
 import org.junit.After;

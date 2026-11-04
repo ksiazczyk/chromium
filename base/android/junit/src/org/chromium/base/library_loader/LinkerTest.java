@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LinkerTest
+// summary: Robolectric unit tests for the Chromium Linker class, covering RELRO producer and consumer initialization, address reservation preferences, and LibInfo handling with mocked native methods.
+// ---
+
 package org.chromium.base.library_loader;
 
 import android.os.ParcelFileDescriptor;

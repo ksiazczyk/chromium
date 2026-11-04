@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Checked iterators unit tests
+// summary: Unit tests verifying bounds checks, comparison operators, constexpr behavior and death tests for checked contiguous iterators.
+// ---
+
 #include "base/containers/checked_iterators.h"
 
 #include <algorithm>

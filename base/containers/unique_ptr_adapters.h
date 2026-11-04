@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniquePtrComparator and UniquePtrMatcher
+// summary: Header providing a transparent comparator and matcher helpers for looking up or erasing elements by raw pointer in containers of std::unique_ptr.
+// ---
+
 #ifndef BASE_CONTAINERS_UNIQUE_PTR_ADAPTERS_H_
 #define BASE_CONTAINERS_UNIQUE_PTR_ADAPTERS_H_
 

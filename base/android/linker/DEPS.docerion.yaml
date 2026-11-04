@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the linker directory
+summary: Restricts includes so the linker code cannot depend on //base, with an exception allowing //base in unit test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SupplierUtils unit tests
+// summary: Unit tests for SupplierUtils.waitForAll with no, some, or all suppliers already holding values.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.junit.Test;
