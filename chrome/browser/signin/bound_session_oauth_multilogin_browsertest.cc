@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bound session OAuth multilogin browser tests
+// summary: Browser tests verifying bound session credentials and OAuth multilogin cookie binding, covering cookie refresh, session binding algorithms, and related metrics.
+// ---
+
 #include <memory>
 
 #include "base/check_deref.h"

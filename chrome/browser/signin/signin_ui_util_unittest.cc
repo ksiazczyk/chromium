@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin UI utilities unit tests
+// summary: Unit tests for signin_ui_util helpers, covering the animated identity shown on window opening and its cross-window replay override delays.
+// ---
+
 #include "chrome/browser/signin/signin_ui_util.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice response handler header
+// summary: Declares DiceResponseHandler and the ProcessDiceHeaderDelegate interface used to process Dice headers and report token exchange results.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_DICE_RESPONSE_HANDLER_H_
 #define CHROME_BROWSER_SIGNIN_DICE_RESPONSE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountPreviewDataService Android JNI bindings
+// summary: Provides JNI glue exposing signin::AccountPreviewDataService and its account preview preference to the Android Java layer.
+// ---
+
 #include "chrome/browser/signin/account_preview_data_service_android.h"
 
 #include <algorithm>

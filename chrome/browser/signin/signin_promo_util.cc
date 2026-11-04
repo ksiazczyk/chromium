@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo utility implementation
+// summary: Implements logic that decides when sign-in promos should be shown for various access points and records promo shown and accepted metrics.
+// ---
+
 #include "chrome/browser/signin/signin_promo_util.h"
 
 #include <optional>

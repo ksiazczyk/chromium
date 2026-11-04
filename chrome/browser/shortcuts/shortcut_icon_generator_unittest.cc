@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut icon generator unit tests
+// summary: Unit tests checking that icon letters are derived correctly from ASCII, Cyrillic, Arabic, surrogate and emoji URLs and names.
+// ---
+
 #include "chrome/browser/shortcuts/shortcut_icon_generator.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

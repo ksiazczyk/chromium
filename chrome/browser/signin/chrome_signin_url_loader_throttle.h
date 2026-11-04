@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome signin URL loader throttle header
+// summary: Declares the signin URLLoaderThrottle class, a blink URL loader throttle used to modify main frame requests made when loading the GAIA signin realm.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_CHROME_SIGNIN_URL_LOADER_THROTTLE_H_
 #define CHROME_BROWSER_SIGNIN_CHROME_SIGNIN_URL_LOADER_THROTTLE_H_
 

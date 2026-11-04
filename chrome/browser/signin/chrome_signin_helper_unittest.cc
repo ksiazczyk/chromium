@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeSigninHelper unit tests
+// summary: Unit tests for signin header handling, covering Mirror and Dice header actions on desktop and Android.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Force sign-in verifier unit tests
+// summary: Unit tests for the force sign-in verifier, covering token fetch results, backoff behavior, and network connection changes.
+// ---
+
 #include "chrome/browser/signin/force_signin_verifier.h"
 
 #include "base/functional/bind.h"

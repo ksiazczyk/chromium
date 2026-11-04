@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Shortcuts directory bug tracking metadata
+summary: Maps the shortcuts directory to the UI>Browser>Desktop Shortcuts monorail component and a Buganizer component ID.

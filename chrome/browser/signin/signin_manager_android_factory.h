@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninManagerAndroidFactory header
+// summary: Declares the SigninManagerAndroid factory singleton that provides per-profile Android sign-in manager instances.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_SIGNIN_MANAGER_ANDROID_FACTORY_H_
 #define CHROME_BROWSER_SIGNIN_SIGNIN_MANAGER_ANDROID_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chrome_webloc_file_unittest.mm.
+type: test
+title: ChromeWeblocFile unit tests
+summary: Tests loading and saving .crwebloc files, covering valid files, missing URLs or profiles, invalid URLs, and non-plist content.

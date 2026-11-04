@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google accounts private API host declaration
+// summary: Declares the Mojo bridge host that reacts to additional functionality on Google accounts pages via the private API extension.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_GOOGLE_ACCOUNTS_PRIVATE_API_HOST_H_
 #define CHROME_BROWSER_SIGNIN_GOOGLE_ACCOUNTS_PRIVATE_API_HOST_H_
 

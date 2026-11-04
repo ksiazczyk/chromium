@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice sign-in browser tests
+// summary: Large in-process browser test suite covering Dice web sign-in interception, account reconciliation, cookie handling, and related sign-in UI flows in Chrome.
+// ---
+
 #include <map>
 #include <memory>
 #include <optional>

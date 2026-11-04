@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin profile attributes updater implementation
+// summary: Implements the service that updates signin-related profile attributes, such as GAIA ID and email, on primary account changes.
+// ---
+
 #include "chrome/browser/signin/signin_profile_attributes_updater.h"
 
 #include <string>

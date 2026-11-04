@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin policy service header
+// summary: Declares the SigninPolicyService keyed service that manages sign-in related policies and observes profile attribute changes.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_SIGNIN_POLICY_SERVICE_H_
 #define CHROME_BROWSER_SIGNIN_SIGNIN_POLICY_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin utility unit tests
+// summary: Unit tests for signin_util covering force sign-in policy and profile separation enforcement across legacy ManagedAccountsSigninRestriction policy values.
+// ---
+
 #include "chrome/browser/signin/signin_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiceWebSigninInterceptorFactory implementation
+// summary: Implements DiceWebSigninInterceptorFactory, a profile-keyed service factory that builds DiceWebSigninInterceptor instances and registers its profile prefs.
+// ---
+
 #include "chrome/browser/signin/dice_web_signin_interceptor_factory.h"
 
 #include "chrome/browser/metrics/profile_metrics_service_factory.h"

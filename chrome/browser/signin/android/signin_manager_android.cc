@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninManagerAndroid implementation
+// summary: Implements the Android sign-in manager, handling cloud policy application and wiping of profile data or Google service worker caches.
+// ---
+
 #include "chrome/browser/signin/android/signin_manager_android.h"
 
 #include <utility>

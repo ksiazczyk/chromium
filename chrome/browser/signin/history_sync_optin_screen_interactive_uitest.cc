@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History sync opt-in screen interactive UI tests
+// summary: Interactive browser tests verifying history sync opt-in screen entry points, metrics, and accept or reject actions.
+// ---
+
 #include "base/feature_list.h"
 #include "base/no_destructor.h"
 #include "base/test/metrics/histogram_tester.h"

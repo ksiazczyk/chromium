@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin UI utilities for extensions implementation
+// summary: Implements ShowExtensionSigninPrompt, which opens sign-in or re-auth UI for extensions, including profile eligibility checks and a test hook for swapping the sign-in delegate.
+// ---
+
 #include "chrome/browser/signin/signin_ui_util_extensions.h"
 
 #include "base/notimplemented.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux desktop shortcut creation implementation
+// summary: Implements CreateShortcutOnLinuxDesktop, writing shortcut icons and .desktop files to the user desktop and installing them through the LinuxXdgWrapper.
+// ---
+
 #include "chrome/browser/shortcuts/shortcut_creator_linux.h"
 
 #include <stdlib.h>

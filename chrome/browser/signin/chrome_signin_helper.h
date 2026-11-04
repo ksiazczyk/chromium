@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSigninHelper
+// summary: Declares utilities for processing Chrome and Gaia signin headers so Chrome identity stays in sync with Gaia identity.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_CHROME_SIGNIN_HELPER_H_
 #define CHROME_BROWSER_SIGNIN_CHROME_SIGNIN_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of shortcut_creation_test_support_mac.mm.
+type: source
+title: Mac shortcut creation test support
+summary: macOS implementation of ShortcutCreationTestSupport that launches created shortcuts and provides matchers checking .crwebloc files for URL, profile, and title.

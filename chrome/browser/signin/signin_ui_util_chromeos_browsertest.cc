@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS sign-in UI utility browser tests
+// summary: Browser test verifying that ShowReauthForAccount opens the ChromeOS account manager reauthentication dialog and records metrics.
+// ---
+
 #include "chrome/browser/signin/signin_ui_util.h"
 
 #include "base/test/metrics/histogram_tester.h"

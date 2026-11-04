@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon badging header
+// summary: Declares ApplyProductLogoBadgeToIcons, which badges the product logo onto site icons and returns an image family of shortcut sizes.
+// ---
+
 #ifndef CHROME_BROWSER_SHORTCUTS_ICON_BADGING_H_
 #define CHROME_BROWSER_SHORTCUTS_ICON_BADGING_H_
 

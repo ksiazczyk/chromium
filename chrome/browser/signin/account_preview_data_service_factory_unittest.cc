@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountPreviewDataServiceFactory unit tests
+// summary: Parameterized unit tests verifying that the factory returns the service only when the account preview data feature is enabled and that it is null while testing by default.
+// ---
+
 #include "chrome/browser/signin/account_preview_data_service_factory.h"
 
 #include "base/functional/bind.h"

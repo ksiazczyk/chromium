@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-device sign-in flow navigation throttle unit tests
+// summary: Unit tests verifying deep link interception, metrics recording, and empty tab closing behavior of the throttle.
+// ---
+
 #include "chrome/browser/signin/android/cross_device_signin_flow_navigation_throttle.h"
 
 #include <memory>

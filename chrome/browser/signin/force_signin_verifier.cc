@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Force sign-in verifier implementation
+// summary: Implements verification of a profile's auth token with the Gaia server, retrying transient errors with exponential backoff and network awareness.
+// ---
+
 #include "chrome/browser/signin/force_signin_verifier.h"
 
 #include <string>

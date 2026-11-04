@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninProfileAttributesUpdater unit tests
+// summary: Unit tests verifying that sign-in and sign-out update profile attributes and related profile preferences correctly.
+// ---
+
 #include "chrome/browser/signin/signin_profile_attributes_updater.h"
 
 #include "base/files/file_path.h"

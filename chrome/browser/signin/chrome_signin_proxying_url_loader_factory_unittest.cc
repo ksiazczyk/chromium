@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome signin proxying URL loader factory unit tests
+// summary: Unit tests for the Chrome signin proxying URL loader factory, exercising request interception and header modification through a mock header modification delegate and a test URL loader factory.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_proxying_url_loader_factory.h"
 
 #include <algorithm>

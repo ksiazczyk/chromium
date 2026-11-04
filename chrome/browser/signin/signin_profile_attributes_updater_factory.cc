@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin profile attributes updater factory implementation
+// summary: Implements the per-profile factory that creates SigninProfileAttributesUpdater instances tied to the identity manager and profile attributes storage.
+// ---
+
 #include "chrome/browser/signin/signin_profile_attributes_updater_factory.h"
 
 #include "chrome/browser/browser_process.h"

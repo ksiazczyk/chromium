@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome device ID helper implementation
+// summary: Implements retrieval of the signin-scoped device ID for a profile and its migration from prefs to UserManager on ChromeOS.
+// ---
+
 #include "chrome/browser/signin/chrome_device_id_helper.h"
 
 #include <string>

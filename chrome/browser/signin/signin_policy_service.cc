@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin policy service implementation
+// summary: Implements the keyed service that applies sign-in policies by blocking or unblocking extensions when a profile's sign-in requirement changes.
+// ---
+
 #include "chrome/browser/signin/signin_policy_service.h"
 
 #include "base/check_deref.h"

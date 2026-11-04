@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice SigninUiDelegate header
+// summary: Declares the Dice-platform SigninUiDelegate implementation for sign-in, reauth and QR bubble UIs.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_SIGNIN_UI_DELEGATE_IMPL_DICE_H_
 #define CHROME_BROWSER_SIGNIN_SIGNIN_UI_DELEGATE_IMPL_DICE_H_
 

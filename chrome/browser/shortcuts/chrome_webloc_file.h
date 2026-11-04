@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWeblocFile class declaration
+// summary: Declares a class for saving and loading macOS .crwebloc shortcut files that store a target URL and profile name.
+// ---
+
 #ifndef CHROME_BROWSER_SHORTCUTS_CHROME_WEBLOC_FILE_H_
 #define CHROME_BROWSER_SHORTCUTS_CHROME_WEBLOC_FILE_H_
 

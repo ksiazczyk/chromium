@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon badging implementation
+// summary: Implements applying the Chrome or Chromium product logo badge to site icons at the sizes needed for shortcut creation on each platform.
+// ---
+
 #include "chrome/browser/shortcuts/icon_badging.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountsPolicyManager implementation
+// summary: Implements the manager that enforces signin policies by clearing or removing disallowed primary accounts and presenting the profile deletion dialog on browser windows.
+// ---
+
 #include "chrome/browser/signin/accounts_policy_manager.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of platform_util_mac.mm.
+type: source
+title: macOS platform utilities implementation
+summary: Implements NSWorkspace-based file icon setting on a sequenced task runner and sanitizes titles into macOS-safe file names.

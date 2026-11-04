@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeSigninClient unit tests
+// summary: Unit tests for ChromeSigninClient sign-out behavior, forced signin, and profile data counts using a mocked client.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome device ID helper header
+// summary: Declares functions to get the signin-scoped device ID used to annotate refresh tokens and to migrate it on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_CHROME_DEVICE_ID_HELPER_H_
 #define CHROME_BROWSER_SIGNIN_CHROME_DEVICE_ID_HELPER_H_
 

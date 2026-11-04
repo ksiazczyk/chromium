@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut creation browser tests
+// summary: Browser tests for the create-shortcut flow, covering task stacking prevention, navigation away, and result histograms.
+// ---
+
 #include <string>
 
 #include "base/base_paths.h"

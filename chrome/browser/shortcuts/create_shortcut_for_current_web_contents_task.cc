@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create shortcut for current web contents task implementation
+// summary: Implements the UI-thread task that fetches page icons, badges them, shows the shortcut dialog, and reports creation results.
+// ---
+
 #include "chrome/browser/shortcuts/create_shortcut_for_current_web_contents_task.h"
 
 #include <optional>

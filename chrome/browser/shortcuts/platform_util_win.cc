@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows platform utilities for shortcuts
+// summary: Provides GetChromeProxyPath, returning the path of chrome_proxy.exe used for PWA and URL shortcuts on Windows.
+// ---
+
 #include "chrome/browser/shortcuts/platform_util_win.h"
 
 #include "base/check.h"

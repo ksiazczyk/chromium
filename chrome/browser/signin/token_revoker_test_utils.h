@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refresh token revoker test utilities header
+// summary: Declares the RefreshTokenRevoker helper class that asynchronously revokes refresh tokens and waits for completion in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_TOKEN_REVOKER_TEST_UTILS_H_
 #define CHROME_BROWSER_SIGNIN_TOKEN_REVOKER_TEST_UTILS_H_
 

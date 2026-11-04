@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows platform utilities header
+// summary: Declares GetChromeProxyPath, the path of chrome_proxy.exe whose shortcuts launch PWAs and open non-app URLs.
+// ---
+
 #ifndef CHROME_BROWSER_SHORTCUTS_PLATFORM_UTIL_WIN_H_
 #define CHROME_BROWSER_SHORTCUTS_PLATFORM_UTIL_WIN_H_
 

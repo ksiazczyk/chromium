@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash wait-for-network callback helper header
+// summary: Declares WaitForNetworkCallbackHelperAsh, the ChromeOS Ash implementation of the WaitForNetworkCallbackHelper interface.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_WAIT_FOR_NETWORK_CALLBACK_HELPER_ASH_H_
 #define CHROME_BROWSER_SIGNIN_WAIT_FOR_NETWORK_CALLBACK_HELPER_ASH_H_
 

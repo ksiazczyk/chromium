@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice response handler implementation
+// summary: 'Implements Dice response handling: processing Dice signin, signout and EnableSync headers, exchanging authorization codes for tokens, and logging UMA metrics.'
+// ---
+
 #include "chrome/browser/signin/dice_response_handler.h"
 
 #include <algorithm>

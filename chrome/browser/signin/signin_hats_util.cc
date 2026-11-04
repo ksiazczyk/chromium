@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in HaTS survey utility implementation
+// summary: Implements helpers that launch HaTS surveys for sign-in triggers, attaching data such as channel, Chrome version, profile and account counts.
+// ---
+
 #include "chrome/browser/signin/signin_hats_util.h"
 
 #include <optional>

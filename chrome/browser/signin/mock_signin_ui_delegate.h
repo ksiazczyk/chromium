@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock signin UI delegate header
+// summary: Declares a gmock mock of SigninUiDelegate for testing signin UI flows such as sign-in, reauth, sync opt-in, and cross-device prompts.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_MOCK_SIGNIN_UI_DELEGATE_H_
 #define CHROME_BROWSER_SIGNIN_MOCK_SIGNIN_UI_DELEGATE_H_
 

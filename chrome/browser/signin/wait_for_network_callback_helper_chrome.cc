@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome wait-for-network callback helper implementation
+// summary: Implements WaitForNetworkCallbackHelperChrome, which queues signin network calls until connectivity returns and logs queue-size metrics.
+// ---
+
 #include "chrome/browser/signin/wait_for_network_callback_helper_chrome.h"
 
 #include "base/metrics/histogram_functions.h"

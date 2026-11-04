@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityServicesProvider Android JNI bridge
+// summary: Exposes IdentityManager, SigninManagerAndroid, and AccountPreviewDataService to Java through JNI on Android.
+// ---
+
 #include "base/android/jni_android.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/signin/account_preview_data_service_android.h"

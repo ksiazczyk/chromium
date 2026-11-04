@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of SigninUiDelegate
+// summary: Implements Android sign-in and reauth UI flows for extensions via SigninBridge, account picker bottom sheets and add-account flows.
+// ---
+
 #include "chrome/browser/signin/signin_ui_delegate_impl_android.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux shortcut creator unit tests
+// summary: Unit tests for CreateShortcutOnLinuxDesktop using a fake XDG wrapper, checking created .desktop files, icon contents, and result reporting.
+// ---
+
 #include "chrome/browser/shortcuts/shortcut_creator_linux.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome wait-for-network callback helper header
+// summary: Declares WaitForNetworkCallbackHelperChrome, a network connection observer that runs delayed signin callbacks once a connection exists.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_WAIT_FOR_NETWORK_CALLBACK_HELPER_CHROME_H_
 #define CHROME_BROWSER_SIGNIN_WAIT_FOR_NETWORK_CALLBACK_HELPER_CHROME_H_
 

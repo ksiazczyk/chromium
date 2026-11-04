@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut metadata and icon storage metric
+// summary: Implements ShortcutMetadata validation and EmitIconStorageCountMetric, which records the number of stored shortcut icon files under Shortcuts.Icons.StorageCount.
+// ---
+
 #include "chrome/browser/shortcuts/shortcut_creator.h"
 
 #include <string>

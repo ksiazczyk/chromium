@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice intercepted session startup helper header
+// summary: Declares DiceInterceptedSessionStartupHelper, which starts up a session in a new profile after Dice signin interception and moves the intercepted tab to a new browser.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_DICE_INTERCEPTED_SESSION_STARTUP_HELPER_H_
 #define CHROME_BROWSER_SIGNIN_DICE_INTERCEPTED_SESSION_STARTUP_HELPER_H_
 

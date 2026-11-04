@@ -1,0 +1,4 @@
+# Docerion header of shortcut_creator_mac.mm.
+type: source
+title: Mac desktop shortcut creation implementation
+summary: Implements CreateShortcutOnUserDesktop on macOS, saving .crwebloc shortcut files and setting the default application and file icon with non-fatal failure handling.

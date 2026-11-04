@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension sign-in prompt browser tests
+// summary: Browser tests verifying that extension-triggered sign-in and re-auth prompts route through the sign-in UI delegate on DICE-enabled platforms.
+// ---
+
 #include "chrome/browser/signin/signin_ui_util_extensions.h"
 
 #include "base/auto_reset.h"

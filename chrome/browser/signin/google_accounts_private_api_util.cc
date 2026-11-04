@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google accounts private API origin checks
+// summary: Implements checks that a committed navigation comes from the allowed Gaia origin with a dedicated process before exposing the private API.
+// ---
+
 #include "chrome/browser/signin/google_accounts_private_api_util.h"
 
 #include "content/public/browser/navigation_handle.h"

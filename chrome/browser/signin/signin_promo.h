@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo utilities header
+// summary: Declares helpers for sign-in promo URLs, promo types, Dice sync URL arguments, and hybrid transport support checks.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_SIGNIN_PROMO_H_
 #define CHROME_BROWSER_SIGNIN_SIGNIN_PROMO_H_
 

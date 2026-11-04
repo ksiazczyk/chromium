@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web sign-in tracker JNI bridge implementation
+// summary: Implements the native side of the JNI bridge that creates WebSigninTracker instances by account ID or email and forwards sign-in results to a Java listener.
+// ---
+
 #include "chrome/browser/signin/android/web_signin_tracker_bridge.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refresh token revoker test utilities implementation
+// summary: Implements RefreshTokenRevoker, which revokes an OAuth2 refresh token via Gaia servers and blocks until revocation completes.
+// ---
+
 #include "chrome/browser/signin/token_revoker_test_utils.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/net/system_network_context_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account metrics ID allocator browser tests
+// summary: Browser tests covering persistence, the 100-account cap, and cross-profile independence of account metrics ID allocation via SigninPrefs.
+// ---
+
 #include "components/signin/core/browser/account_metrics_id_allocator.h"
 
 #include "base/strings/string_number_conversions.h"

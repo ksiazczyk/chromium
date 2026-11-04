@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice web sign-in interceptor unit tests
+// summary: Unit tests for the Dice web sign-in interceptor, covering interception bubbles, profile separation policies, and sign-in interception behavior.
+// ---
+
 #include "chrome/browser/signin/dice_web_signin_interceptor.h"
 
 #include <memory>

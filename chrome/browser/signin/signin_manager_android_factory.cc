@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninManagerAndroidFactory implementation
+// summary: Implements the profile-keyed factory that creates the Android sign-in manager service, depending on IdentityManagerFactory.
+// ---
+
 #include "chrome/browser/signin/signin_manager_android_factory.h"
 
 #include "base/no_destructor.h"

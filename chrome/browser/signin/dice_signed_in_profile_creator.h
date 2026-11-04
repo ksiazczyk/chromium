@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiceSignedInProfileCreator class declaration
+// summary: Declares DiceSignedInProfileCreator, which creates a new Chrome profile and atomically moves the initiator and secondary accounts from an existing profile into it.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_DICE_SIGNED_IN_PROFILE_CREATOR_H_
 #define CHROME_BROWSER_SIGNIN_DICE_SIGNED_IN_PROFILE_CREATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Force sign-in verifier class declaration
+// summary: Declares ForceSigninVerifier, which verifies the profile auth token when a profile is loaded and retries on transient errors.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_FORCE_SIGNIN_VERIFIER_H_
 #define CHROME_BROWSER_SIGNIN_FORCE_SIGNIN_VERIFIER_H_
 

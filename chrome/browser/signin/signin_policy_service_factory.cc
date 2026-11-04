@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin policy service factory implementation
+// summary: Implements the per-profile factory that builds SigninPolicyService instances with profile attributes storage and extension registrar dependencies.
+// ---
+
 #include "chrome/browser/signin/signin_policy_service_factory.h"
 
 #include "base/check_is_test.h"

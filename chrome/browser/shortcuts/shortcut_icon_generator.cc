@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut fallback icon generation
+// summary: Generates square fallback shortcut icons that draw the first grapheme of a URL or app name on a rounded colored background.
+// ---
+
 #include "chrome/browser/shortcuts/shortcut_icon_generator.h"
 
 #include <string>

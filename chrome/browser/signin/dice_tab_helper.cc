@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiceTabHelper implementation
+// summary: Implements DiceTabHelper, which tags and tracks DICE sign-in tabs and wires up sync enablement, history sync opt-in, and sign-in error callbacks with UMA metrics.
+// ---
+
 #include "chrome/browser/signin/dice_tab_helper.h"
 
 #include <memory>

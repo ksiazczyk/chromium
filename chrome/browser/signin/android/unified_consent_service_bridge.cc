@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified consent service JNI bridge
+// summary: JNI bindings that read, check management state for, and toggle the URL-keyed anonymized data collection setting via the unified consent service.
+// ---
+
 #include "base/android/jni_android.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/sync/sync_service_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiceTabHelper unit tests
+// summary: Unit tests for DiceTabHelper verifying sign-in tab handling, sync header metrics, and navigation behavior with the identity test environment.
+// ---
+
 #include "chrome/browser/signin/dice_tab_helper.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocumentIconFetcherTask header
+// summary: Declares the task that fetches all icons from a document for shortcut creation and defines the result and error types for icon fetching.
+// ---
+
 #ifndef CHROME_BROWSER_SHORTCUTS_DOCUMENT_ICON_FETCHER_TASK_H_
 #define CHROME_BROWSER_SHORTCUTS_DOCUMENT_ICON_FETCHER_TASK_H_
 

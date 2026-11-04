@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiceSignedInProfileCreator unit tests
+// summary: Unit tests for DiceSignedInProfileCreator covering profile creation and account moves using a fake profile manager and the identity test environment.
+// ---
+
 #include "chrome/browser/signin/dice_signed_in_profile_creator.h"
 
 #include <memory>

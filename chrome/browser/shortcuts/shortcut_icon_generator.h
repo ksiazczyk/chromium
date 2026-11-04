@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut icon generator declarations
+// summary: Declares functions that generate fallback shortcut icon bitmaps and derive the icon letter from a URL or app name.
+// ---
+
 #ifndef CHROME_BROWSER_SHORTCUTS_SHORTCUT_ICON_GENERATOR_H_
 #define CHROME_BROWSER_SHORTCUTS_SHORTCUT_ICON_GENERATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo implementation
+// summary: Builds embedded sign-in promo and reauth URLs plus Dice Chrome sync URLs, with query parameters and metrics for access points.
+// ---
+
 #include "chrome/browser/signin/signin_promo.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeSigninClient test utilities implementation
+// summary: Builds a ChromeSigninClient wired to a test URL loader factory and registers it for browser context services during tests.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_client_test_util.h"
 
 #include "chrome/browser/profiles/profile.h"

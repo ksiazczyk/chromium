@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web sign-in tracker bridge header
+// summary: Declares the glue class that wraps WebSigninTracker to expose web sign-in tracking to Java.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_ANDROID_WEB_SIGNIN_TRACKER_BRIDGE_H_
 #define CHROME_BROWSER_SIGNIN_ANDROID_WEB_SIGNIN_TRACKER_BRIDGE_H_
 

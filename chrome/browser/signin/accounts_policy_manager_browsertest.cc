@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountsPolicyManager browser tests
+// summary: Browser tests verifying that disabling the signin-allowed preference takes effect on next startup for both non-managed and managed accounts.
+// ---
+
 #include "base/auto_reset.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

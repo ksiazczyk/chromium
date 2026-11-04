@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninErrorControllerFactory implementation
+// summary: Implements the profile-keyed factory that builds SigninErrorController instances, choosing the account mode based on platform and mirror availability.
+// ---
+
 #include "chrome/browser/signin/signin_error_controller_factory.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logout tab helper implementation
+// summary: Implements a tab helper that removes all accounts locally when the logout page fails to load, then deletes itself.
+// ---
+
 #include "chrome/browser/signin/logout_tab_helper.h"
 
 #include "chrome/browser/profiles/profile.h"

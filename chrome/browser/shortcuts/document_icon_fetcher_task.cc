@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocumentIconFetcherTask implementation
+// summary: Implements the task that fetches all available icons from a document's web contents for shortcut creation, falling back to a letter icon when none are found.
+// ---
+
 #include "chrome/browser/shortcuts/document_icon_fetcher_task.h"
 
 #include <iterator>

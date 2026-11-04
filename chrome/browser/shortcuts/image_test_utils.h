@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image test utilities header
+// summary: Declares LoadImageFromTestFile, a helper that loads a PNG bitmap from the chrome test data directory and reports errors to callers.
+// ---
+
 #ifndef CHROME_BROWSER_SHORTCUTS_IMAGE_TEST_UTILS_H_
 #define CHROME_BROWSER_SHORTCUTS_IMAGE_TEST_UTILS_H_
 

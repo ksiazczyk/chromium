@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninUiDelegate cross-platform sign-in UI interface
+// summary: Declares the SigninUiDelegate interface for showing sign-in, reauth, sync confirmation, history sync opt-in and cross-device QR bubble UIs.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_SIGNIN_UI_DELEGATE_H_
 #define CHROME_BROWSER_SIGNIN_SIGNIN_UI_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Linux desktop Exec parsing
+// summary: Unit tests verifying that ParseDesktopExecForCommandLine splits .desktop Exec values into command line arguments, covering quoted and escaped cases.
+// ---
+
 #include "chrome/browser/shortcuts/shortcut_creation_test_support_linux.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux shortcut creator header
+// summary: Declares CreateShortcutOnLinuxDesktop, the ShortcutCreatorOutput struct, and a testing hook for overriding the default LinuxXdgWrapper.
+// ---
+
 #ifndef CHROME_BROWSER_SHORTCUTS_SHORTCUT_CREATOR_LINUX_H_
 #define CHROME_BROWSER_SHORTCUTS_SHORTCUT_CREATOR_LINUX_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of shortcut_creator_mac_unittest.mm.
+type: test
+title: Mac unit tests for web shortcut creation
+summary: Unit tests verifying that macOS web shortcuts are created on the desktop as .crwebloc files with the expected URL, profile and icon images.

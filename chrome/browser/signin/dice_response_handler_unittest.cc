@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice response handler unit tests
+// summary: Large unit test suite for DiceResponseHandler covering token exchange success and failure, signout, EnableSync headers and token binding outcomes.
+// ---
+
 #include "chrome/browser/signin/dice_response_handler.h"
 
 #include <memory>

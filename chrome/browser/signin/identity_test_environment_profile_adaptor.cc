@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Identity test environment profile adaptor
+// summary: Test helper that configures testing profiles with identity test environment factories for signin tests.
+// ---
+
 #include "chrome/browser/signin/identity_test_environment_profile_adaptor.h"
 
 #include <variant>

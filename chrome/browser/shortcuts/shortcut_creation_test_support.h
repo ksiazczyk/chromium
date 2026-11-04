@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut creation test support
+// summary: Test helper that overrides the desktop directory and provides matchers verifying shortcuts for URL, profile, and title.
+// ---
+
 #ifndef CHROME_BROWSER_SHORTCUTS_SHORTCUT_CREATION_TEST_SUPPORT_H_
 #define CHROME_BROWSER_SHORTCUTS_SHORTCUT_CREATION_TEST_SUPPORT_H_
 

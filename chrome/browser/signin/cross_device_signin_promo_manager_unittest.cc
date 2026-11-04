@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-device sign-in promo manager unit tests
+// summary: Unit tests covering promo eligibility, frequency caps, and QR code bubble behavior using fake identity, sync, and device info services with a testing profile.
+// ---
+
 #include "chrome/browser/signin/cross_device_signin_promo_manager.h"
 
 #include <memory>

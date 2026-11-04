@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiceWebSigninInterceptorFactory class declaration
+// summary: Declares DiceWebSigninInterceptorFactory, providing per-profile access to the DiceWebSigninInterceptor keyed service.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_DICE_WEB_SIGNIN_INTERCEPTOR_FACTORY_H_
 #define CHROME_BROWSER_SIGNIN_DICE_WEB_SIGNIN_INTERCEPTOR_FACTORY_H_
 
