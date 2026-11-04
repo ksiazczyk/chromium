@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User actions
+// summary: Defines the Redux-style action names, interfaces, and creators for updating user state such as user image, profile image, user info, and camera presence.
+// ---
+
 import type {Action} from 'chrome://resources/js/store.js';
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 

@@ -7,6 +7,12 @@
  * behaviors similar to a radio button group, e.g. single selection.
  */
 
+// ---docerion
+// type: source
+// title: Topic source list element
+// summary: Polymer component that displays a list of topic (image) sources with single selection behavior similar to a radio button group.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';
 import './topic_source_item_element.js';

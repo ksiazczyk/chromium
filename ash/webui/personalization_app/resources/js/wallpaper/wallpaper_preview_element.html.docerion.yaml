@@ -1,0 +1,4 @@
+# Docerion header of wallpaper_preview_element.html.
+type: source
+title: Wallpaper preview element HTML template
+summary: HTML template and styles for the wallpaper preview card showing the current wallpaper thumbnail, including a disabled variant for policy-controlled wallpapers.

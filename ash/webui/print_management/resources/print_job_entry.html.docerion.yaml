@@ -1,0 +1,4 @@
+# Docerion header of print_job_entry.html.
+type: source
+title: Print job entry template
+summary: Template and styles for a print job list row showing the file icon, job title, printer name, creation time, completion status and printing progress.

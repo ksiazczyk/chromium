@@ -8,6 +8,12 @@
  * implementation for testing.
  */
 
+// ---docerion
+// type: source
+// title: User interface provider
+// summary: Singleton getter for the UserProvider mojom interface used by the personalization app, with a function to inject a mock provider for testing.
+// ---
+
 import 'chrome://resources/mojo/mojo/public/js/bindings.js';
 
 import type {UserProviderInterface} from '../../personalization_app.mojom-webui.js';

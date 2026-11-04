@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User image URL selectors
+// summary: Selector functions that derive displayable user image URLs from personalization state, caching expensive blob URL conversions.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {BigBuffer} from 'chrome://resources/mojo/mojo/public/mojom/base/big_buffer.mojom-webui.js';
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';

@@ -6,6 +6,12 @@
  * @fileoverview This component displays a topic (image) source.
  */
 
+// ---docerion
+// type: source
+// title: Topic source item element
+// summary: Polymer component that displays a single topic (image) source item and updates the selected topic source when the user chooses it.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_radio_button_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

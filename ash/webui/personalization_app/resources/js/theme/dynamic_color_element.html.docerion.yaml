@@ -1,0 +1,4 @@
+# Docerion header of dynamic_color_element.html.
+type: source
+title: Dynamic color element template
+summary: HTML template with styles and markup for the dynamic color options, including the automatic seed color toggle and color scheme and static color pickers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingScreencastContainer implementation
+// summary: Implements PendingScreencastContainer, tracking pending screencast upload progress and using a size-diff threshold to suppress redundant updates.
+// ---
+
 #include "ash/webui/projector_app/pending_screencast.h"
 
 #include <string>

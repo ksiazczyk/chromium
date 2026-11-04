@@ -1,0 +1,4 @@
+# Docerion header of printer_setup_info.html.
+type: source
+title: Printer setup info template
+summary: HTML template for the printer-setup-info element showing the empty state message and a button to manage printers.

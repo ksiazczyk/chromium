@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User image observer
+// summary: Singleton Mojo observer that listens for user image, profile image, camera presence, and enterprise-managed changes and dispatches them into the PersonalizationStore.
+// ---
+
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 
 import type {UserImage, UserImageObserverInterface, UserProviderInterface} from '../../personalization_app.mojom-webui.js';

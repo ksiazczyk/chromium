@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper state actions
+// summary: Defines the actions and action types used to change wallpaper state in the personalization app store.
+// ---
+
 import type {FullscreenPreviewState} from 'chrome://resources/ash/common/personalization/wallpaper_state.js';
 import {assert} from 'chrome://resources/js/assert.js';
 import type {Action} from 'chrome://resources/js/store.js';

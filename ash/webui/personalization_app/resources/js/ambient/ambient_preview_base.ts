@@ -8,6 +8,12 @@
  * polymer element.
  */
 
+// ---docerion
+// type: source
+// title: Ambient preview base element
+// summary: Base Polymer element class that previews the currently selected screensaver and is extended by the large and small ambient preview elements.
+// ---
+
 import {isNonEmptyArray} from 'chrome://resources/ash/common/sea_pen/sea_pen_utils.js';
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 import type {PolymerElementProperties} from 'chrome://resources/polymer/v3_0/polymer/interfaces.js';

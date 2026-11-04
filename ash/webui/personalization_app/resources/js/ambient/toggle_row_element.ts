@@ -6,6 +6,12 @@
  * @fileoverview This component displays a description text and a toggle button.
  */
 
+// ---docerion
+// type: source
+// title: Ambient mode toggle row element
+// summary: Polymer component that displays a description text and a toggle button for enabling or disabling ambient mode in the personalization app.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 

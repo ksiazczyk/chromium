@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme actions
+// summary: Defines action names, interfaces and factory functions for dispatching theme state changes such as dark mode, color scheme, static color and sunrise and sunset times.
+// ---
+
 import type {Action} from 'chrome://resources/js/store.js';
 import type {SkColor} from 'chrome://resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 

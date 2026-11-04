@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: asset
+title: Ambient mode disabled illustration (light theme)
+summary: SVG illustration of a screen with a clock, representing the ambient mode disabled state in the personalization app.
+-->
+
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 240 188" style="enable-background:new 0 0 240 188;" xml:space="preserve">
 <style type="text/css">

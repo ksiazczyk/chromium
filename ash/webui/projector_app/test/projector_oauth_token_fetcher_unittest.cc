@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ProjectorOAuthTokenFetcher
+// summary: Unit tests for ProjectorOAuthTokenFetcher covering first and repeated access token requests, token caching, near-expiry tokens, and error handling across accounts.
+// ---
+
 #include "ash/webui/projector_app/projector_oauth_token_fetcher.h"
 
 #include "ash/webui/projector_app/test/mock_app_client.h"

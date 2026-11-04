@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CIPD package definition for time-of-day resources
+# summary: CIPD package definition that packages the time_of_day directory as the chromeos_internal/assistant/time_of_day package.
+# ---
+
 package: chromeos_internal/assistant/time_of_day
 description: Resources for time-of-day wallpaper and screensaver.
 data:

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper constants and displayable image types
+// summary: Defines shared constants and types for the wallpaper UI, including the default image symbol, DisplayableImage union and ImageTile interface for grouped wallpaper images.
+// ---
+
 import type {FilePath} from 'chrome://resources/mojo/mojo/public/mojom/base/file_path.mojom-webui.js';
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 

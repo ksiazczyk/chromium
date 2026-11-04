@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the personalization app proto library
+summary: Defines a proto_library GN target that compiles backdrop_wallpaper.proto and asserts the build is for ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Projector app include rules
+summary: Specifies allowed include rules for the projector_app directory, granting access to media app resources, signin, and Google API headers.

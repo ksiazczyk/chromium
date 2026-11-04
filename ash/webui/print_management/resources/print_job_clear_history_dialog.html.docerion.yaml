@@ -1,0 +1,4 @@
+# Docerion header of print_job_clear_history_dialog.html.
+type: source
+title: Clear print history dialog template
+summary: Polymer template and styles for the confirmation dialog shown when the user chooses to clear the entire print job history.

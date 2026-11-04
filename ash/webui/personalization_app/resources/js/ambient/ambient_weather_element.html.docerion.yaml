@@ -1,0 +1,4 @@
+# Docerion header of ambient_weather_element.html.
+type: source
+title: Ambient weather element template
+summary: HTML template for the ambient weather settings, offering temperature unit radio buttons, geolocation warning text, and a geolocation dialog.

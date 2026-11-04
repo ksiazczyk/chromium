@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the search directory
+summary: Assigns IPC security owners for review of all mojom files in this directory.

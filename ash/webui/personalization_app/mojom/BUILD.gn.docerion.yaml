@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the personalization app mojom target
+summary: Defines the mojom build target for the personalization app, listing its sources, dependencies, and C++ typemaps for wallpaper and ambient types.

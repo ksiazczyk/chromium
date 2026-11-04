@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojom-banned Mocha test base implementation
+// summary: Implements mock mojom providers and a WebUI provider that installs them, backing the mojom-banned Mocha browser test base.
+// ---
+
 #include "ash/webui/personalization_app/test/personalization_app_mojom_banned_mocha_test_base.h"
 
 #include "ash/public/cpp/style/dark_light_mode_controller.h"

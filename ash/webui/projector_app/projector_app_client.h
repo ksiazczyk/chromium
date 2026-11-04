@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProjectorAppClient interface
+// summary: Defines the interface giving the Projector web UI access to browser-side features such as screencast state, SODA installation, feedback, and video retrieval.
+// ---
+
 #ifndef ASH_WEBUI_PROJECTOR_APP_PROJECTOR_APP_CLIENT_H_
 #define ASH_WEBUI_PROJECTOR_APP_PROJECTOR_APP_CLIENT_H_
 

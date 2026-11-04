@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webcam utilities proxy
+// summary: Wraps webcam utilities and getUserMedia behind replaceable instances so tests can mock camera access.
+// ---
+
 import * as webcamUtils from 'chrome://resources/ash/common/cr_picture/webcam_utils.js';
 
 /**

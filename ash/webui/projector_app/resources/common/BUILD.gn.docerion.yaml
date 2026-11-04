@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Projector app common resources build file
+summary: GN build file defining js_library targets for message types and externs and generating the ash_projector_common resource grd for the Projector app.

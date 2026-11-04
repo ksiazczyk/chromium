@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Projector app resources GN build file
+summary: Defines Closure JavaScript compilation targets and dependencies for the ChromeOS-only Projector app WebUI resources, including the mock app.

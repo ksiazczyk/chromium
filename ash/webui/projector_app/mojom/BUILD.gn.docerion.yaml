@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Projector Mojo bindings build file
+summary: Defines the GN build target that generates Mojo bindings for the Projector app's untrusted interface, ChromeOS only.

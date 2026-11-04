@@ -6,6 +6,12 @@
  * @fileoverview Utility functions to be used for ambient mode.
  */
 
+// ---docerion
+// type: source
+// title: Ambient mode utility functions
+// summary: Utility functions for ambient mode, providing photo count strings, topic source names, and topic source and theme validation.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 

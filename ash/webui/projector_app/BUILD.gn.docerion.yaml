@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Projector app GN build rules
+summary: Defines the projector_app static library, test support, unit tests, and buildflags targets for the ChromeOS Projector app.

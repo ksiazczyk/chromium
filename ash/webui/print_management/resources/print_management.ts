@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print management main app element
+// summary: Main Polymer app element for the ChromeOS print management WebUI that lists ongoing and historical print jobs and handles clearing the job history.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_indicator.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app WebUI controller declaration
+// summary: Declares the PersonalizationAppUI MojoWebUIController and its SystemWebApp UI config, with interface binders for the app's ambient, keyboard backlight, SeaPen, theme, user, and wallpaper providers.
+// ---
+
 #ifndef ASH_WEBUI_PERSONALIZATION_APP_PERSONALIZATION_APP_UI_H_
 #define ASH_WEBUI_PERSONALIZATION_APP_PERSONALIZATION_APP_UI_H_
 

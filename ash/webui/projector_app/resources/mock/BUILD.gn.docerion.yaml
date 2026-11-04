@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Projector mock app build definition
+summary: GN build file defining the mock_app JS library target for the Projector app mock, with a Polymer dependency and Projector externs.

@@ -1,0 +1,4 @@
+# Docerion header of user_preview_element.html.
+type: source
+title: User preview element HTML template
+summary: HTML template for the user-preview component showing the round avatar image, user name, enterprise-managed indicator, and link to the user subpage.

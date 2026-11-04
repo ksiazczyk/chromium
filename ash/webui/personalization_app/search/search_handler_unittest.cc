@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for the personalization search handler
+// summary: Tests search results for concepts such as wallpaper, ambient mode, and dark mode, including observer notifications and enterprise policy behavior.
+// ---
+
 #include "ash/webui/personalization_app/search/search_handler.h"
 
 #include <algorithm>

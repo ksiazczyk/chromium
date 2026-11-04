@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of mojom traits for personalization app types
+// summary: Implements conversions between native C++ types such as wallpaper and ambient settings and their mojom counterparts for Mojo serialization.
+// ---
+
 #include "ash/webui/personalization_app/mojom/personalization_app_mojom_traits.h"
 
 #include <optional>

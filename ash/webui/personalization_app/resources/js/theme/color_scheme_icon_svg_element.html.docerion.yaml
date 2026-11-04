@@ -1,0 +1,4 @@
+# Docerion header of color_scheme_icon_svg_element.html.
+type: source
+title: Color scheme icon SVG element template
+summary: HTML template that renders an SVG icon showing a color scheme's primary, secondary and tertiary colors for the personalization app.

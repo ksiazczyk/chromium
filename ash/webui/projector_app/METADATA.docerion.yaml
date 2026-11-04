@@ -1,0 +1,4 @@
+# Docerion header of METADATA.
+type: config
+title: Projector app directory metadata
+summary: Records the buganizer and monorail components and the target OS for the projector_app directory.

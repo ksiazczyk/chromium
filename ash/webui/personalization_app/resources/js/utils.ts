@@ -6,6 +6,12 @@
  * @fileoverview Utility functions to be used throughout personalization app.
  */
 
+// ---docerion
+// type: source
+// title: Personalization app utility functions
+// summary: Shared utility functions and constants for the personalization app, including selection event checks, count text, grid layout, color mappings, and album helpers.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 
 import type {AmbientModeAlbum, GooglePhotosAlbum} from './../personalization_app.mojom-webui.js';

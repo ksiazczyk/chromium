@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript compiler configuration for the untrusted app
+summary: TypeScript configuration extending the Chromium base tsconfig with bundler module resolution for the untrusted Projector app sources.

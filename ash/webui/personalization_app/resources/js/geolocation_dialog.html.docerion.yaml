@@ -1,0 +1,4 @@
+# Docerion header of geolocation_dialog.html.
+type: source
+title: Geolocation dialog template
+summary: HTML template for the dialog that explains and asks users to enable system geolocation permission, with cancel and confirm buttons.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for print management WebUI
+summary: Defines the print_management static library and the url_constants source set with their sources and dependencies.

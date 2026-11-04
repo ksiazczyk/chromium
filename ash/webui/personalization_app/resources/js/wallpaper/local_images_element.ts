@@ -9,6 +9,12 @@
  * wallpaper collection id to avoid refetching data unnecessarily.
  */
 
+// ---docerion
+// type: source
+// title: Local images element
+// summary: Polymer element that fetches, caches, and displays the list of local wallpaper images and handles selecting one as the wallpaper.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners and reviewer queue for the Personalization app
+summary: Lists the preferred reviewer queue and last-resort owner contacts for code reviews in this directory.

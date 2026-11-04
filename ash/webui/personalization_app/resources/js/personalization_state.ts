@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app state definition
+// summary: Defines the PersonalizationState interface, including the error shape, and an emptyState factory combining ambient, keyboard backlight, theme, user and wallpaper sub-states.
+// ---
+
 import type {AmbientState} from './ambient/ambient_state.js';
 import {emptyState as emptyAmbientState} from './ambient/ambient_state.js';
 import type {KeyboardBacklightState} from './keyboard_backlight/keyboard_backlight_state.js';

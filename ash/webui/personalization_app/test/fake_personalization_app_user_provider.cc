@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake user provider implementation for personalization app tests
+// summary: Implements a fake UserProvider that binds the mojom receiver and returns fake user display info for tests.
+// ---
+
 #include "ash/webui/personalization_app/test/fake_personalization_app_user_provider.h"
 
 #include "ash/public/cpp/personalization_app/user_display_info.h"

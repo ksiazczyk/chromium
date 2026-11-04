@@ -8,6 +8,12 @@
  * objects.
  */
 
+// ---docerion
+// type: source
+// title: Wallpaper collections element
+// summary: Polymer element that fetches and displays wallpaper collections as tiles for Google Photos, local images, SeaPen, and online wallpapers.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';

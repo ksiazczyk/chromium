@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme utility functions and defaults
+// summary: Provides theme helpers such as isAutomaticSeedColorEnabled plus default static color and default color scheme constants used by theme components.
+// ---
+
 /**
  * @fileoverview Utility functions to be used for theme related components.
  */

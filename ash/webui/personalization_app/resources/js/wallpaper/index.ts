@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper module entry point
+// summary: Entry point that imports all wallpaper UI elements and reloads the page when the device comes back online to retry loading images.
+// ---
+
 import 'chrome://resources/ash/common/personalization/wallpaper_grid_item_element.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';
 import 'chrome://resources/ash/common/sea_pen/sea_pen_error_element.js';

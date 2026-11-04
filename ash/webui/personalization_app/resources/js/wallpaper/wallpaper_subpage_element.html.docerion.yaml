@@ -1,0 +1,4 @@
+# Docerion header of wallpaper_subpage_element.html.
+type: source
+title: Wallpaper subpage element HTML template
+summary: HTML template for the wallpaper subpage that lays out the selected wallpaper view and conditionally shows collections, collection images, Google Photos, and local images grids.

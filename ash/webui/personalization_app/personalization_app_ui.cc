@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app WebUI controller implementation
+// summary: Implements the WebUI controller for the ChromeOS personalization hub, registering resources, localized strings, and Mojo providers for wallpaper, ambient mode, and keyboard backlight features.
+// ---
+
 #include "ash/webui/personalization_app/personalization_app_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock XHR sender for verifying Projector update requests
+// summary: Declares MockXhrSender, a ProjectorXhrSender test double that captures sent requests via a callback to verify the update indexable text request is sent correctly.
+// ---
+
 #ifndef ASH_WEBUI_PROJECTOR_APP_TEST_MOCK_XHR_SENDER_H_
 #define ASH_WEBUI_PROJECTOR_APP_TEST_MOCK_XHR_SENDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User controller
+// summary: Provides functions to initialize user data, fetch default user images, and save camera images via a Mojo shared memory buffer to the user provider.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {BigBuffer, BigBufferSharedMemoryRegion} from 'chrome://resources/mojo/mojo/public/mojom/base/big_buffer.mojom-webui.js';
 

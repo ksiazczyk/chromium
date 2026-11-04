@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme state interface
+// summary: Declares the ThemeState interface and an emptyState factory that store theme-related values including dark mode, color scheme, sample color schemes, and geolocation settings.
+// ---
+
 import type {SkColor} from 'chrome://resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 
 import type {ColorScheme} from '../../color_scheme.mojom-webui.js';

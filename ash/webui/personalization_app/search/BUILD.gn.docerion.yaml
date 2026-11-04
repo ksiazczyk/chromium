@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for personalization search Mojo bindings
+summary: Defines the mojom build target that compiles search.mojom with a dependency on base mojom and a WebUI module path.

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Base styles for the Personalization app
+summary: CSS stylesheet that sets base html and body sizing, background color, and transition styles for fullscreen preview states in the personalization WebUI.
+*/
+
 html,
 body {
   height: 100%;

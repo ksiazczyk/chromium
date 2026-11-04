@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard backlight observer
+// summary: Singleton observer that receives backlight state and wallpaper color updates over mojom and dispatches them to the PersonalizationStore.
+// ---
+
 import type {SkColor} from 'chrome://resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 
 import type {CurrentBacklightState, KeyboardBacklightObserverInterface, KeyboardBacklightProviderInterface} from '../../personalization_app.mojom-webui.js';

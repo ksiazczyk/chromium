@@ -7,6 +7,12 @@
  * that the user can select from.
  */
 
+// ---docerion
+// type: source
+// title: Avatar list element
+// summary: Polymer component that builds and displays the list of avatar options, including default images, profile image, last external image, camera, video, and folder selection.
+// ---
+
 import 'chrome://resources/ash/common/personalization/personalization_shared_icons.html.js';
 
 import {isNonEmptyArray} from 'chrome://resources/ash/common/sea_pen/sea_pen_utils.js';

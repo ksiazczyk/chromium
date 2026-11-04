@@ -11,6 +11,12 @@
  * permission to allow precise timezone resolution.
  */
 
+// ---docerion
+// type: source
+// title: Geolocation dialog element
+// summary: Polymer element implementing the geolocation dialog that requests system location permission for precise timezone resolution and logs the permission change.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';

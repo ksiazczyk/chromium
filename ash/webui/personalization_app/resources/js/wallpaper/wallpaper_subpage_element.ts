@@ -7,6 +7,12 @@
  * personalization SWA.
  */
 
+// ---docerion
+// type: source
+// title: Wallpaper subpage element
+// summary: TypeScript component defining the wallpaper subpage of the personalization SWA, routing between collections, Google Photos, and local wallpaper views based on path and feature flags.
+// ---
+
 import {isSeaPenEnabled} from 'chrome://resources/ash/common/sea_pen/load_time_booleans.js';
 
 import type {CurrentWallpaper} from '../../personalization_app.mojom-webui.js';

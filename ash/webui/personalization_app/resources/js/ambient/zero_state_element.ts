@@ -6,6 +6,12 @@
  * @fileoverview Polymer element that displays the Ambient zero state.
  */
 
+// ---docerion
+// type: source
+// title: Ambient zero state element
+// summary: Polymer element that displays the ambient zero state, choosing a light or dark mode image based on the color scheme preference.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/polymer/v3_0/iron-media-query/iron-media-query.js';
 

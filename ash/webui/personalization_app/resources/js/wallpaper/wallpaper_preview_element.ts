@@ -7,6 +7,12 @@
  * wallpaper.
  */
 
+// ---docerion
+// type: source
+// title: Wallpaper preview element
+// summary: Polymer component that previews the currently selected wallpaper and navigates to the wallpaper collections page when clicked.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';

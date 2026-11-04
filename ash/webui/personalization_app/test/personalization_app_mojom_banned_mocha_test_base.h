@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojom-banned Mocha test base for personalization app
+// summary: Declares a Mocha browser test base that registers fake WebUI providers which crash on any mojom request to test UI components in isolation.
+// ---
+
 #ifndef ASH_WEBUI_PERSONALIZATION_APP_TEST_PERSONALIZATION_APP_MOJOM_BANNED_MOCHA_TEST_BASE_H_
 #define ASH_WEBUI_PERSONALIZATION_APP_TEST_PERSONALIZATION_APP_MOJOM_BANNED_MOCHA_TEST_BASE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of wallpaper_error_element.html.
+type: source
+title: Wallpaper error element template
+summary: HTML template that shows a network error illustration and message when wallpaper collections fail to load.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchTagRegistry class declaration
+// summary: Declares the SearchTagRegistry that maps search concepts to index entries, tracks preference and policy changes, and notifies observers of registry updates.
+// ---
+
 #ifndef ASH_WEBUI_PERSONALIZATION_APP_SEARCH_SEARCH_TAG_REGISTRY_H_
 #define ASH_WEBUI_PERSONALIZATION_APP_SEARCH_SEARCH_TAG_REGISTRY_H_
 

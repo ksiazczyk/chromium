@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the untrusted Projector app resources
+summary: Defines the webui build target for the untrusted Projector app, listing static assets, TypeScript sources, Mojo bindings, and TypeScript dependencies.

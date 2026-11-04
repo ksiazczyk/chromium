@@ -6,6 +6,12 @@
  * @fileoverview The element for displaying information for art albums.
  */
 
+// ---docerion
+// type: source
+// title: Art album dialog element
+// summary: Polymer custom element that shows a dialog with information about art albums and closes it via its button.
+// ---
+
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 
 import type {CrDialogElement} from 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

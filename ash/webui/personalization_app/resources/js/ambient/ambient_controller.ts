@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient mode controller
+// summary: Contains functions that call the ambient mode C++ backend via mojom and update the PersonalizationStore state accordingly.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {AmbientModeAlbum, AmbientProviderInterface, AmbientTheme, TemperatureUnit, TopicSource} from '../../personalization_app.mojom-webui.js';

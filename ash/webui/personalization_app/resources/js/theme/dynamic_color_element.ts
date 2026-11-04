@@ -6,6 +6,12 @@
  * @fileoverview This component displays the dynamic color options.
  */
 
+// ---docerion
+// type: source
+// title: Dynamic color element
+// summary: Polymer component that displays dynamic color options, letting users toggle automatic seed color from wallpaper and choose color schemes or static colors.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/personalization/personalization_shared_icons.html.js';

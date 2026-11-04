@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted Projector page handler interface
+// summary: Declares UntrustedProjectorPageHandlerImpl, which handles messages from the Projector WebUI and relays ProjectorAppClient observer events such as SODA progress and screencast status.
+// ---
+
 #ifndef ASH_WEBUI_PROJECTOR_APP_UNTRUSTED_PROJECTOR_PAGE_HANDLER_IMPL_H_
 #define ASH_WEBUI_PROJECTOR_APP_UNTRUSTED_PROJECTOR_PAGE_HANDLER_IMPL_H_
 

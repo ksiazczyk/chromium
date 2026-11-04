@@ -1,0 +1,4 @@
+# Docerion header of ambient_subpage_element.html.
+type: source
+title: Ambient subpage element template
+summary: HTML template laying out the ambient mode settings subpage with preview, toggle, duration, theme, topic source, and weather sections.

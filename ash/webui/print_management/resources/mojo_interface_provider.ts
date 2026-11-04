@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo interface provider for print management
+// summary: Exports singleton accessors for the printing metadata provider and print management handler mojo remotes, with overridable hooks for testing.
+// ---
+
 import type {PrintingMetadataProviderInterface, PrintManagementHandlerInterface} from './printing_manager.mojom-webui.js';
 import {PrintingMetadataProvider, PrintManagementHandler} from './printing_manager.mojom-webui.js';
 

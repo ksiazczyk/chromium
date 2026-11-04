@@ -1,0 +1,4 @@
+# Docerion header of avatar_list_element.html.
+type: source
+title: Avatar list element HTML template
+summary: HTML template for the avatar-list component that renders the grid of selectable avatar images with ripple effects, checkmark selection, and the embedded camera dialog.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme controller
+// summary: Contains functions that call the C++ ThemeProvider mojom interface and dispatch the resulting theme state updates to the personalization store.
+// ---
+
 import type {SkColor} from 'chrome://resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 
 import {ColorScheme} from '../../color_scheme.mojom-webui.js';

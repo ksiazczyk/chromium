@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Presubmit checks for the personalization app
+# summary: Presubmit script that runs the semantic CSS checker to enforce approved colors and dark-mode-capable CSS variables on upload and commit.
+# ---
+
 """Presubmit script for Personalization app.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

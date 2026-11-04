@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector XHR sender interface
+// summary: Declares ProjectorXhrSender, used by the Projector app to send XHR requests authorized via API key, account OAuth token, or user credentials, and reports responses through a callback.
+// ---
+
 #ifndef ASH_WEBUI_PROJECTOR_APP_PROJECTOR_XHR_SENDER_H_
 #define ASH_WEBUI_PROJECTOR_APP_PROJECTOR_XHR_SENDER_H_
 

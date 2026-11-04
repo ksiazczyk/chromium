@@ -1,3 +1,13 @@
+---
+type: readme
+title: ChromeOS Personalization
+summary: Explains user types and profiles, the layered testing approach, how to run and debug browser and pixel tests, and environment setup for the Personalization app.
+relations:
+  - references /components/user_manager/user_type.h
+  - references /ash/webui/personalization_app/test/personalization_app_mojom_banned_mocha_test_base.h
+  - references /chrome/test/data/webui/chromeos/personalization_app/personalization_app_test.ts
+---
+
 # ChromeOS Personalization
 
 ## User Types and Profiles

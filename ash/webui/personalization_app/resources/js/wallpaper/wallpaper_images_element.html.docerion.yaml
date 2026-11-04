@@ -1,0 +1,4 @@
+# Docerion header of wallpaper_images_element.html.
+type: source
+title: Wallpaper images element HTML template
+summary: HTML template and styles for the wallpaper images grid, including time-of-day wallpaper tile styling and the embedded time-of-day wallpaper dialog.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User reducers for personalization user state
+// summary: Reducer functions that update user image, info, profile image, and camera presence state in response to user actions.
+// ---
+
 import type {Actions} from '../personalization_actions.js';
 import type {ReducerFunction} from '../personalization_reducers.js';
 import type {PersonalizationState} from '../personalization_state.js';

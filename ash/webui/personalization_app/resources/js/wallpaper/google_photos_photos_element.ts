@@ -6,6 +6,12 @@
  * @fileoverview Polymer element that displays Google Photos photos.
  */
 
+// ---docerion
+// type: source
+// title: Google Photos photos element
+// summary: Polymer element that displays Google Photos photos grouped into dated sections and rows, with keyboard navigation, placeholders and wallpaper selection.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';

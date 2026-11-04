@@ -1,0 +1,4 @@
+# Docerion header of user_subpage_element.html.
+type: source
+title: User subpage element template
+summary: HTML template with a grid layout that places the user preview and avatar list, hidden when the image is enterprise managed.

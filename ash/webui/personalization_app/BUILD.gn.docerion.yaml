@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Personalization app
+summary: Defines the GN build targets for the Personalization app static library, test support sources, and unit tests with their dependencies.

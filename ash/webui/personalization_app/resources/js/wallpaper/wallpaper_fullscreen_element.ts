@@ -7,6 +7,12 @@
  * viewing mode of the currently selected wallpaper.
  */
 
+// ---docerion
+// type: source
+// title: Wallpaper fullscreen element
+// summary: Polymer component that shows a transparent fullscreen preview of the selected wallpaper with layout options and confirm and exit controls.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../common/icons.html.js';

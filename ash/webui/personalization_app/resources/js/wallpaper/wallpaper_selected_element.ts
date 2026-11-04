@@ -7,6 +7,12 @@
  * wallpaper.
  */
 
+// ---docerion
+// type: source
+// title: Wallpaper selected element
+// summary: Polymer component that displays the currently selected wallpaper with attribution, layout controls, daily refresh options, and an image description dialog.
+// ---
+
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/personalization/personalization_shared_icons.html.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';

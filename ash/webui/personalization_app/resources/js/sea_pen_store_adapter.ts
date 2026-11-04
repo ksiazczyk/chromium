@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen store adapter
+// summary: Adapter implementing the SeaPen store interface on top of the personalization store, delegating state, observers and dispatched actions between the two.
+// ---
+
 import type {SeaPenActions} from 'chrome://resources/ash/common/sea_pen/sea_pen_actions.js';
 import {SeaPenActionName} from 'chrome://resources/ash/common/sea_pen/sea_pen_actions.js';
 import type {SeaPenState} from 'chrome://resources/ash/common/sea_pen/sea_pen_state.js';

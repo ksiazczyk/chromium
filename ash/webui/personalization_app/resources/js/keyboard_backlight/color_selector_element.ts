@@ -8,6 +8,12 @@
  * keyboard backlight and zone customization section.
  */
 
+// ---docerion
+// type: source
+// title: Color selector element
+// summary: Defines the ColorSelectorElement custom element that lets users pick wallpaper, preset, or rainbow keyboard backlight colors and fires selection events.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_lazy_render/cr_lazy_render.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchHandler class declaration
+// summary: Declares the SearchHandler class implementing the mojom SearchHandler interface and SearchTagRegistry observer, with bindings for receivers and observers.
+// ---
+
 #ifndef ASH_WEBUI_PERSONALIZATION_APP_SEARCH_SEARCH_HANDLER_H_
 #define ASH_WEBUI_PERSONALIZATION_APP_SEARCH_SEARCH_HANDLER_H_
 

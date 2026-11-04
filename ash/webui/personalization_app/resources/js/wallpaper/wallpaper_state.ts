@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper state
+// summary: TypeScript interfaces describing the wallpaper state, including backdrop collections and images, Google Photos data, loading state, and local images for the store.
+// ---
+
 import {FullscreenPreviewState} from 'chrome://resources/ash/common/personalization/wallpaper_state.js';
 import type {SeaPenState} from 'chrome://resources/ash/common/sea_pen/sea_pen_state.js';
 import {emptyState as emptySeaPenState} from 'chrome://resources/ash/common/sea_pen/sea_pen_state.js';

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Gitignore for Time of Day resources
+# summary: Keeps Time of Day resource files out of version control until they are ready to be made public.
+# ---
+
 # Do not check in until they are ready to be made public.
 resources/time_of_day/*

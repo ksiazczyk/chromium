@@ -8,6 +8,12 @@
  * pipe.
  */
 
+// ---docerion
+// type: source
+// title: Projector app message type definitions
+// summary: Exports enums for annotator tool types, projector errors, and new screencast precondition states and reasons passed over the Projector app privileged pipe.
+// ---
+
 /**
  * Enum for tool types supported in the Ink engine.
  *

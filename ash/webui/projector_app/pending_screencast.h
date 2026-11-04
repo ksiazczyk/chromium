@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingScreencastContainer class declaration
+// summary: Declares PendingScreencastContainer and the ordered set type used to track pending screencast uploads in the Projector app.
+// ---
+
 #ifndef ASH_WEBUI_PROJECTOR_APP_PENDING_SCREENCAST_H_
 #define ASH_WEBUI_PROJECTOR_APP_PENDING_SCREENCAST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard backlight actions
+// summary: Defines the store actions for setting the current backlight state, nudge visibility, and wallpaper color in the personalization store.
+// ---
+
 import type {Action} from 'chrome://resources/js/store.js';
 import type {SkColor} from 'chrome://resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 

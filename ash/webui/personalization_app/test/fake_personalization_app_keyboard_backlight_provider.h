@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake keyboard backlight provider for personalization app tests
+// summary: Declares a fake KeyboardBacklightProvider subclass with stubbed mojom methods for personalization app tests.
+// ---
+
 #ifndef ASH_WEBUI_PERSONALIZATION_APP_TEST_FAKE_PERSONALIZATION_APP_KEYBOARD_BACKLIGHT_PROVIDER_H_
 #define ASH_WEBUI_PERSONALIZATION_APP_TEST_FAKE_PERSONALIZATION_APP_KEYBOARD_BACKLIGHT_PROVIDER_H_
 

@@ -8,6 +8,12 @@
  * mojom data and mocking out the implementation for testing.
  */
 
+// ---docerion
+// type: source
+// title: Ambient interface provider
+// summary: Singleton getter for the ambient mojom interface, including utilities for fetching data and mocking for tests.
+// ---
+
 import 'chrome://resources/mojo/mojo/public/js/bindings.js';
 import 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app URL constants
+// summary: Defines string constants for the personalization app host, its subpage relative paths, and an external learn-more link used by the privacy hub.
+// ---
+
 #include "ash/webui/personalization_app/personalization_app_url_constants.h"
 
 namespace ash::personalization_app {

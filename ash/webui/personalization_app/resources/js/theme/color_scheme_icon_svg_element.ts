@@ -6,6 +6,12 @@
  * @fileoverview This component is for the color scheme icon svg.
  */
 
+// ---docerion
+// type: source
+// title: Color scheme icon SVG element
+// summary: Polymer custom element that displays the color scheme icon SVG using sample color scheme data from the personalization store.
+// ---
+
 import type {SkColor} from 'chrome://resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 
 import type {SampleColorScheme} from '../../personalization_app.mojom-webui.js';

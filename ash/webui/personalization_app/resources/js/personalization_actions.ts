@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization state actions
+// summary: Defines error set and dismiss actions and the union type aggregating all state-changing actions for the personalization app store.
+// ---
+
 import type {SeaPenActions} from 'chrome://resources/ash/common/sea_pen/sea_pen_actions.js';
 import type {Action} from 'chrome://resources/js/store.js';
 

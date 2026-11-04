@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard backlight controller
+// summary: Functions that issue mojom calls to the C++ side and dispatch store actions for backlight color, zone colors, and nudge handling.
+// ---
+
 import type {KeyboardBacklightProviderInterface} from '../../personalization_app.mojom-webui.js';
 import {BacklightColor} from '../../personalization_app.mojom-webui.js';
 import type {PersonalizationStore} from '../personalization_store.js';

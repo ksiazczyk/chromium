@@ -7,6 +7,12 @@
  * current user.
  */
 
+// ---docerion
+// type: source
+// title: User preview element
+// summary: Polymer component that displays current user information and avatar, announces avatar changes for accessibility, and routes to the user subpage.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';
 import 'chrome://resources/polymer/v3_0/paper-ripple/paper-ripple.js';
 

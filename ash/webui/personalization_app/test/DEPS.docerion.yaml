@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Personalization app test directory DEPS rules
+summary: Defines include rules letting personalization app browser tests access chrome/test/base and content/public/test headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchConcept struct definition
+// summary: Declares the SearchConcept struct holding a concept id for metrics, display message ids with alternates, and the relative URL to open in the personalization app.
+// ---
+
 #ifndef ASH_WEBUI_PERSONALIZATION_APP_SEARCH_SEARCH_CONCEPT_H_
 #define ASH_WEBUI_PERSONALIZATION_APP_SEARCH_SEARCH_CONCEPT_H_
 

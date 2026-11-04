@@ -8,6 +8,12 @@
  * navigate.
  */
 
+// ---docerion
+// type: source
+// title: Personalization breadcrumb element
+// summary: Polymer element rendering the breadcrumb navigation that displays the current view stack, supports keyboard navigation, and offers SeaPen template selection.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector OAuth token fetcher implementation
+// summary: Implements OAuth access token fetching and caching for Projector accounts, including token invalidation and pending request handling.
+// ---
+
 #include "ash/webui/projector_app/projector_oauth_token_fetcher.h"
 
 #include "ash/constants/ash_features.h"

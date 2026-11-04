@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Print management backend build targets
+summary: GN build file defining the backend static library and the unit test source set for the ChromeOS print management WebUI.

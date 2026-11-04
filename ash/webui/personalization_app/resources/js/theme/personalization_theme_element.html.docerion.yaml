@@ -1,0 +1,4 @@
+# Docerion header of personalization_theme_element.html.
+type: source
+title: Personalization theme element template
+summary: HTML template with styles and markup for the theme settings UI, including light, dark and auto color mode buttons and a geolocation warning.

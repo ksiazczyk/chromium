@@ -1,0 +1,4 @@
+# Docerion header of personalization_router_element.html.
+type: source
+title: Personalization router element template
+summary: HTML template for the personalization router element, laying out the sticky breadcrumb area, subpages, toast, and fullscreen wallpaper views based on the URL path.

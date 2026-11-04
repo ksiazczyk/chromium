@@ -7,6 +7,12 @@
  * parameters to display sections of the personalization SWA.
  */
 
+// ---docerion
+// type: source
+// title: Personalization router element
+// summary: Polymer router element that reads the URL path and query parameters to show the matching section of the personalization SWA, with helpers for valid ambient and SeaPen paths.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-location/iron-location.js';
 import 'chrome://resources/polymer/v3_0/iron-location/iron-query-params.js';
 

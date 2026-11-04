@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper controller
+// summary: Contains functions that interact with the C++ backend through mojom calls and dispatch wallpaper data into the personalization store.
+// ---
+
 import {FullscreenPreviewState} from 'chrome://resources/ash/common/personalization/wallpaper_state.js';
 import {isNonEmptyArray, isNonEmptyFilePath} from 'chrome://resources/ash/common/sea_pen/sea_pen_utils.js';
 import {assert} from 'chrome://resources/js/assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Projector app client used in Projector app unit tests
+// summary: Declares MockAppClient, a gmock-based test double for ProjectorAppClient that wraps an identity test environment and test URL loader factory for Projector app unit tests.
+// ---
+
 #ifndef ASH_WEBUI_PROJECTOR_APP_TEST_MOCK_APP_CLIENT_H_
 #define ASH_WEBUI_PROJECTOR_APP_TEST_MOCK_APP_CLIENT_H_
 

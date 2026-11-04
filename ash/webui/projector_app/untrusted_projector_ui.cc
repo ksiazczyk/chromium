@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted Projector WebUI controller implementation
+// summary: Implements the untrusted Projector WebUI controller, creating its data source with resource paths, localized strings, and content security policies.
+// ---
+
 
 #include "ash/webui/projector_app/untrusted_projector_ui.h"
 

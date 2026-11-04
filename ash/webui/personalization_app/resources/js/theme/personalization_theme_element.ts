@@ -6,6 +6,12 @@
  * @fileoverview This component displays color mode settings.
  */
 
+// ---docerion
+// type: source
+// title: Personalization theme element
+// summary: Polymer component that displays color mode settings, handling light, dark and auto-scheduled modes and geolocation permission for system services.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
