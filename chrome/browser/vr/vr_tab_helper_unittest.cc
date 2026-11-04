@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR tab helper unit test
+// summary: Unit test verifying that VrTabHelper::IsInVr returns false when given a null WebContents.
+// ---
+
 #include "chrome/browser/vr/vr_tab_helper.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

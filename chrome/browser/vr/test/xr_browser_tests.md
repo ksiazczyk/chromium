@@ -1,3 +1,13 @@
+---
+type: guide
+title: XR browser tests documentation
+summary: Guide to compiling, running, and writing XR browser tests on Windows and Android, covering mock device architecture and input simulation.
+relations:
+  - documents /chrome/browser/vr/test/xr_browser_test.h
+  - documents /chrome/browser/vr/test/xr_browser_test.cc
+  - references /docs/android_emulator.md
+---
+
 # XR Browser Tests
 
 [TOC]

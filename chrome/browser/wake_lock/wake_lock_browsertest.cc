@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wake Lock browser tests
+// summary: Browser tests for the Screen Wake Lock API, using an embedded test server to verify behavior such as rejecting screen lock requests from workers.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR VR secondary views browser test
+// summary: Browser test verifying that secondary views are exposed when the secondary-views feature is requested, supported only by the OpenXR backend.
+// ---
+
 #include "chrome/browser/vr/test/mock_xr_device_hook_base.h"
 #include "chrome/browser/vr/test/multi_class_browser_test.h"
 #include "chrome/browser/vr/test/ui_utils.h"

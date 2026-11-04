@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boarding pass detector class declaration
+// summary: Declares the self-deleting BoardingPassDetector class that runs boarding pass extraction on a web page and reports results via callback.
+// ---
+
 #ifndef CHROME_BROWSER_WALLET_ANDROID_BOARDING_PASS_DETECTOR_H_
 #define CHROME_BROWSER_WALLET_ANDROID_BOARDING_PASS_DETECTOR_H_
 

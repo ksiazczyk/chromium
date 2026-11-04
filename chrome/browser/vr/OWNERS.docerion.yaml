@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for chrome/browser/vr
+summary: Lists the code owners responsible for reviewing changes to the VR browser directory.

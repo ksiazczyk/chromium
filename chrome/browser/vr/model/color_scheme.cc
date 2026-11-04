@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color scheme implementation with default VR colors
+// summary: Implements ColorScheme::GetColorScheme, returning a singleton scheme with default colors for WebVR backgrounds, floor grid, modal prompts and permission UI.
+// ---
+
 #include "chrome/browser/vr/model/color_scheme.h"
 
 #include <type_traits>

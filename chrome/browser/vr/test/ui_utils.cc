@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR UI test utilities implementation
+// summary: Implements UiUtils helpers that wait for native VR UI element visibility states and access the browser renderer during browser tests.
+// ---
+
 #include "chrome/browser/vr/test/ui_utils.h"
 
 #include "base/functional/bind.h"

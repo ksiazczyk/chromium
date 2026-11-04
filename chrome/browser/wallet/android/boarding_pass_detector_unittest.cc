@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boarding pass detector unit tests
+// summary: Unit tests covering URL allowlist matching plus extraction success and disconnect handling using a fake BoardingPassExtractor.
+// ---
+
 #include "chrome/browser/wallet/android/boarding_pass_detector.h"
 #include "chrome/common/wallet/boarding_pass_extractor.mojom.h"
 

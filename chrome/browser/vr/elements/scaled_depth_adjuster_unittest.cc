@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScaledDepthAdjuster unit tests
+// summary: Unit tests checking depth positioning and inherited scale for a single ScaledDepthAdjuster and for nested adjuster hierarchies.
+// ---
+
 #include "chrome/browser/vr/elements/scaled_depth_adjuster.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boarding pass detector implementation
+// summary: Implements boarding pass detection by checking a feature-parameter URL allowlist and extracting passes through the BoardingPassExtractor Mojo service.
+// ---
+
 #include "chrome/browser/wallet/android/boarding_pass_detector.h"
 
 #include "base/feature_list.h"

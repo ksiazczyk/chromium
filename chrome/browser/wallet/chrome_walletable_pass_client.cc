@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome walletable pass client implementation
+// summary: Implements ChromeWalletablePassClient, bridging the core wallet component with browser services such as the Optimization Guide, strike database, and pass save and consent bubbles.
+// ---
+
 #include "chrome/browser/wallet/chrome_walletable_pass_client.h"
 
 #include "base/check_deref.h"

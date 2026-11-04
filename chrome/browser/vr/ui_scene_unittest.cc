@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI scene unit tests
+// summary: Unit tests for UiScene covering element add and remove, visibility in hidden subtrees, and parent-child transforms.
+// ---
+
 #include "chrome/browser/vr/ui_scene.h"
 
 #include <numbers>

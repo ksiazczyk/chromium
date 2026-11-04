@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text element for VR overlay rendering
+// summary: Declares the Text class, a textured element that renders left-aligned, multiline, fixed-width text in the VR overlay UI.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_TEXT_H_
 #define CHROME_BROWSER_VR_ELEMENTS_TEXT_H_
 

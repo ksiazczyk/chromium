@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-class browser test macros
+// summary: Provides macros that run a single browser test implementation across several test fixtures sharing a common base class, including incognito variants.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_MULTI_CLASS_BROWSER_TEST_H_
 #define CHROME_BROWSER_VR_TEST_MULTI_CLASS_BROWSER_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR GL pixel tests entry point
+// summary: Entry point that launches VR GL pixel tests through the VrGlTestSuite test suite.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "chrome/browser/vr/test/vr_gl_test_suite.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScaledDepthAdjuster header
+// summary: Declares ScaledDepthAdjuster, a UI element that repositions descendants in depth via a scale transform relative to ancestor adjusters.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_SCALED_DEPTH_ADJUSTER_H_
 #define CHROME_BROWSER_VR_ELEMENTS_SCALED_DEPTH_ADJUSTER_H_
 

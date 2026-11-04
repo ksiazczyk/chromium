@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-way binding template class for VR databinding
+// summary: Defines a templated one-way binding that propagates model property changes to views through getter and setter callbacks, including debug binding text and VR_BIND convenience macros.
+// ---
+
 #ifndef CHROME_BROWSER_VR_DATABINDING_BINDING_H_
 #define CHROME_BROWSER_VR_DATABINDING_BINDING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Macros for conditionally skipping XR tests
+// summary: Declares functions and GTEST_SKIP macros for conditionally skipping XR browser tests based on available hardware and software requirements.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_CONDITIONAL_SKIPPING_H_
 #define CHROME_BROWSER_VR_TEST_CONDITIONAL_SKIPPING_H_
 

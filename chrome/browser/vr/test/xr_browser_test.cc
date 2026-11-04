@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XR browser test base implementation
+// summary: Implements the XR browser test base with JavaScript polling, test file loading, feature setup, and platform-specific helpers.
+// ---
+
 #include "chrome/browser/vr/test/xr_browser_test.h"
 
 #include <array>

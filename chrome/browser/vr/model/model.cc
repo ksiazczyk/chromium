@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model implementation providing the color scheme
+// summary: Implements Model construction and destruction and returns the shared ColorScheme from Model::color_scheme().
+// ---
+
 #include "chrome/browser/vr/model/model.h"
 
 #include "base/notreached.h"

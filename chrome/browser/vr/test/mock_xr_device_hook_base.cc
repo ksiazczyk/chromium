@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockXRDeviceHookBase implementation
+// summary: Implements the mock XR device test hook that serves simulated frame, pose, and input data over Mojo and lets tests wait for frames and inject runtime events.
+// ---
+
 #include "chrome/browser/vr/test/mock_xr_device_hook_base.h"
 
 #include <algorithm>

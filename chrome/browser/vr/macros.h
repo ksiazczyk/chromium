@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR macros header
+// summary: Defines the VIRTUAL_FOR_MOCKS macro, a documentation marker signaling that annotated virtual functions should only be overridden for tests.
+// ---
+
 #ifndef CHROME_BROWSER_VR_MACROS_H_
 #define CHROME_BROWSER_VR_MACROS_H_
 

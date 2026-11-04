@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FOV rectangle struct
+// summary: Defines the FovRectangle struct holding left, right, bottom and top field-of-view angles, plus a pair alias for both eyes.
+// ---
+
 #ifndef CHROME_BROWSER_VR_FOV_RECTANGLE_H_
 #define CHROME_BROWSER_VR_FOV_RECTANGLE_H_
 

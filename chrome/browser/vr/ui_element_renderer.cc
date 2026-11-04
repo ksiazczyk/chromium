@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI element renderer implementation
+// summary: Implements GL draw commands for textured, radial gradient, and gradient grid quads with renderer batching and flushing.
+// ---
+
 #include "chrome/browser/vr/ui_element_renderer.h"
 
 #include <math.h>

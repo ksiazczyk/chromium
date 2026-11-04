@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR tab interaction browser tests
+// summary: End-to-end browser tests checking that non-focused tabs cannot obtain WebXR pose data while another tab is focused.
+// ---
+
 #include "chrome/browser/vr/test/multi_class_browser_test.h"
 #include "chrome/browser/vr/test/webxr_vr_browser_test.h"
 #include "url/url_constants.h"

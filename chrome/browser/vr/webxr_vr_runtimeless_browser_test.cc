@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR VR runtimeless browser test
+// summary: Browser test verifying that WebXR returns no devices when all runtime support is disabled.
+// ---
+
 #include "chrome/browser/vr/test/webxr_vr_browser_test.h"
 #include "content/public/test/browser_test.h"
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Wake lock directory metadata
+summary: Points the wake lock browser directory to the shared Blink wake lock module metadata via a mixin.

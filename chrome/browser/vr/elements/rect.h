@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rect UI element header
+// summary: Declares the Rect VR UI element, a shader-rendered rectangle with optional corner radius and a radial gradient between center and edge colors.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_RECT_H_
 #define CHROME_BROWSER_VR_ELEMENTS_RECT_H_
 

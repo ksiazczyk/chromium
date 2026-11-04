@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR GL test suite header
+// summary: Declares the VrGlTestSuite class that extends VrTestSuite with GL display initialization and shutdown for VR tests.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_VR_GL_TEST_SUITE_H_
 #define CHROME_BROWSER_VR_TEST_VR_GL_TEST_SUITE_H_
 

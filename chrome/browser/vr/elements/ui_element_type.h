@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiElementType enum header
+// summary: Defines the UiElementType enum of non-unique, CSS-class-like identifiers for VR UI elements plus a to-string helper.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_UI_ELEMENT_TYPE_H_
 #define CHROME_BROWSER_VR_ELEMENTS_UI_ELEMENT_TYPE_H_
 

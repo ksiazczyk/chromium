@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoardingPassController
+// summary: Controller that observes tab page loads and triggers boarding pass detection via the bridge when the URL qualifies.
+// ---
+
 package org.chromium.chrome.browser.wallet;
 
 import org.chromium.base.Log;

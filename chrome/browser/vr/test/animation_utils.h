@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR animation test utility declarations
+// summary: Declares a helper that reports whether a VR UI element is animating the given target properties, for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_ANIMATION_UTILS_H_
 #define CHROME_BROWSER_VR_TEST_ANIMATION_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text UI element implementation
+// summary: Implements the Text VR UI element, laying out and drawing text lines into a texture with configurable font height, field width, and color.
+// ---
+
 #include "chrome/browser/vr/elements/text.h"
 
 #include "base/memory/raw_ptr.h"

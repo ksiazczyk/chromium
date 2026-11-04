@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR capture indicator specifications
+// summary: Builds the list of indicator specs mapping site capture states such as location, microphone, camera, Bluetooth, screen, USB, and MIDI to icons and resource strings.
+// ---
+
 #include "chrome/browser/vr/elements/indicator_spec.h"
 
 #include "build/build_config.h"

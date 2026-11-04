@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Wake lock directory owners
+summary: Delegates code ownership of the wake lock browser directory to the Blink wake lock module owners.

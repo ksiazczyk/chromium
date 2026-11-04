@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR UI test base implementation
+// summary: Implements the UiTest base class with helpers that check element visibility after pending animations and verify which UI elements are visible.
+// ---
+
 #include "chrome/browser/vr/test/ui_test.h"
 
 #include "chrome/browser/vr/elements/rect.h"

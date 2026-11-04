@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR session transition browser tests
+// summary: End-to-end browser tests covering transitions between immersive and non-immersive WebXR sessions, including requestSession entry, rAF behavior, and repeated session entry and exit.
+// ---
+
 #include "base/functional/function_ref.h"
 #include "chrome/browser/vr/test/mock_xr_device_hook_base.h"
 #include "chrome/browser/vr/test/multi_class_browser_test.h"

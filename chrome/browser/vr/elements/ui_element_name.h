@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiElementName enum for VR UI elements
+// summary: Defines stable semantic identifiers for VR UI elements and a helper that converts a name to its string form.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_UI_ELEMENT_NAME_H_
 #define CHROME_BROWSER_VR_ELEMENTS_UI_ELEMENT_NAME_H_
 

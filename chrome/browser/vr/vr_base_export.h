@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR base export macro
+// summary: Defines the VR_BASE_EXPORT macro controlling symbol export for component builds of the VR base code.
+// ---
+
 #ifndef CHROME_BROWSER_VR_VR_BASE_EXPORT_H_
 #define CHROME_BROWSER_VR_VR_BASE_EXPORT_H_
 

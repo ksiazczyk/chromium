@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR VR browser test classes
+// summary: Declares VR-specific WebXR test base classes, including runtimeless, sensorless, and OpenXR test variants.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_WEBXR_VR_BROWSER_TEST_H_
 #define CHROME_BROWSER_VR_TEST_WEBXR_VR_BROWSER_TEST_H_
 

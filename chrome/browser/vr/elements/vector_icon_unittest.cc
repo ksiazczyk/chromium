@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VectorIcon unit tests
+// summary: Unit tests verifying VectorIcon color get and set, nil-icon early-out drawing, and expected canvas draw calls.
+// ---
+
 #include "chrome/browser/vr/elements/vector_icon.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiElement implementation
+// summary: Implements the core VR UI element base class, covering animation ticking, bindings, visibility, transforms, and per-frame updates.
+// ---
+
 #include "chrome/browser/vr/elements/ui_element.h"
 
 #include <algorithm>

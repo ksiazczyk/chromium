@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewportAwareRoot implementation
+// summary: Rotates and recenters a VR UI element subtree to follow the user's head pose and movement.
+// ---
+
 #include "chrome/browser/vr/elements/viewport_aware_root.h"
 
 #include <cmath>

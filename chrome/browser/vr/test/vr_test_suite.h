@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR test suite header
+// summary: Declares the VrTestSuite base class for VR tests, built on base::TestSuite with task environment handling.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_VR_TEST_SUITE_H_
 #define CHROME_BROWSER_VR_TEST_VR_TEST_SUITE_H_
 

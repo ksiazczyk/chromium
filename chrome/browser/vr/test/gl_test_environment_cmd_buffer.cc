@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL test environment using GPU command buffer
+// summary: Implements the GL test environment on top of the GPU command buffer, creating textures and a framebuffer for VR tests.
+// ---
+
 #include "chrome/browser/vr/test/gl_test_environment.h"
 
 #include "base/run_loop.h"

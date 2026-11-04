@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GridRenderer class header for VR grid drawing
+// summary: Declares the GridRenderer class extending BaseQuadRenderer with a Draw method for grid color, gridline count, and opacity.
+// ---
+
 #ifndef CHROME_BROWSER_VR_RENDERERS_GRID_RENDERER_H_
 #define CHROME_BROWSER_VR_RENDERERS_GRID_RENDERER_H_
 

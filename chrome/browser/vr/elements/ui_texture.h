@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiTexture base class header
+// summary: Declares the abstract UiTexture base class with drawing, measurement, hit-testing, and color APIs for VR UI textures.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_UI_TEXTURE_H_
 #define CHROME_BROWSER_VR_ELEMENTS_UI_TEXTURE_H_
 

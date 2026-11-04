@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockBrowserUiInterface header
+// summary: Declares a gmock-based mock of BrowserUiInterface with mocked capturing-state and external prompt notification methods for VR tests.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_MOCK_BROWSER_UI_INTERFACE_H_
 #define CHROME_BROWSER_VR_TEST_MOCK_BROWSER_UI_INTERFACE_H_
 

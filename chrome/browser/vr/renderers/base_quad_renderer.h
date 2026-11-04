@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseQuadRenderer class header for VR quad rendering
+// summary: Declares the BaseQuadRenderer class extending BaseRenderer with shared quad buffers and draw preparation for VR UI quads.
+// ---
+
 #ifndef CHROME_BROWSER_VR_RENDERERS_BASE_QUAD_RENDERER_H_
 #define CHROME_BROWSER_VR_RENDERERS_BASE_QUAD_RENDERER_H_
 

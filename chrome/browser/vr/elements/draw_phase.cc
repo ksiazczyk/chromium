@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Draw phase name mapping implementation
+// summary: Implements DrawPhaseToString, mapping VR UI draw phase enum values to their string names.
+// ---
+
 #include "chrome/browser/vr/elements/draw_phase.h"
 
 #include <array>

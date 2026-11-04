@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransientElement class declarations
+// summary: Declares TransientElement and SimpleTransientElement, VR UI elements that hide after a set timeout, plus the hide reason enum.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_TRANSIENT_ELEMENT_H_
 #define CHROME_BROWSER_VR_ELEMENTS_TRANSIENT_ELEMENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR UI interface
+// summary: Defines the UiInterface with drawing, frame update, and testing methods used to separate the VR UI feature module.
+// ---
+
 #ifndef CHROME_BROWSER_VR_UI_INTERFACE_H_
 #define CHROME_BROWSER_VR_UI_INTERFACE_H_
 

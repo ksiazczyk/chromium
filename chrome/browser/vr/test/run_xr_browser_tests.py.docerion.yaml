@@ -1,0 +1,4 @@
+# Docerion header of run_xr_browser_tests.py.
+type: test
+title: XR browser tests runner wrapper
+summary: Python wrapper that runs XR browser tests with required setup such as Windows ACLs for sandboxed processes and optional tracing configuration.

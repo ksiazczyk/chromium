@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spinner unit tests
+// summary: Unit tests that verify the spinner's drawn arc start and sweep angles across its animation timeline using a mock canvas.
+// ---
+
 #include "chrome/browser/vr/elements/spinner.h"
 
 #include <vector>

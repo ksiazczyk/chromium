@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full screen rect element declaration
+// summary: Declares a Rect subclass that ignores its inherited transform and fills the whole viewport.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_FULL_SCREEN_RECT_H_
 #define CHROME_BROWSER_VR_ELEMENTS_FULL_SCREEN_RECT_H_
 

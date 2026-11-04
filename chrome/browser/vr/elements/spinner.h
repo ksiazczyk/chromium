@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spinner UI element header
+// summary: Declares the Spinner VR UI element, a textured element that renders an animated loading spinner with a settable color.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_SPINNER_H_
 #define CHROME_BROWSER_VR_ELEMENTS_SPINNER_H_
 

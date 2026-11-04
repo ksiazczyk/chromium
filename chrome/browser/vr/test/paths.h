@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR test data path helper header
+// summary: Declares GetTestDataPath, the helper used by VR tests to locate the test data directory.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_PATHS_H_
 #define CHROME_BROWSER_VR_TEST_PATHS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pose utility implementation
+// summary: Implements GetForwardVector, which extracts the direction the head is looking from a head pose transform as a 3x1 unit vector.
+// ---
+
 #include "chrome/browser/vr/pose_util.h"
 
 #include "ui/gfx/geometry/transform.h"

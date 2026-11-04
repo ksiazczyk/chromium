@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR WebContents observer implementation
+// summary: Implements VrWebContentsObserver, which invokes a stored callback when the observed WebContents is destroyed.
+// ---
+
 #include "chrome/browser/vr/vr_web_contents_observer.h"
 
 namespace vr {

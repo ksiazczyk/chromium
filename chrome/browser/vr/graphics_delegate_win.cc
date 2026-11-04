@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows graphics delegate implementation
+// summary: Implements the Windows GraphicsDelegate using GPU command buffer shared images and framebuffers to render and share the VR overlay texture.
+// ---
+
 #include "chrome/browser/vr/graphics_delegate_win.h"
 
 #include "components/viz/common/resources/shared_image_format_utils.h"

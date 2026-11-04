@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color scheme declaration for VR UI colors
+// summary: Declares the ColorScheme struct of SkColor fields used for WebVR backgrounds, floor grid, modal prompts, timeout messages and permission UI.
+// ---
+
 #ifndef CHROME_BROWSER_VR_MODEL_COLOR_SCHEME_H_
 #define CHROME_BROWSER_VR_MODEL_COLOR_SCHEME_H_
 

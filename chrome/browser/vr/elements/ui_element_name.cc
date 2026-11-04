@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiElementName to string mapping
+// summary: Maps UiElementName enum values to their string names for debugging and logging in the VR UI.
+// ---
+
 #include "chrome/browser/vr/elements/ui_element_name.h"
 
 #include <array>

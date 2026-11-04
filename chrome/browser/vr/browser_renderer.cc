@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserRenderer implementation
+// summary: Implements frame drawing for browser UI and WebXR frames, updating the VR UI and rendering WebXR overlay elements.
+// ---
+
 #include "chrome/browser/vr/browser_renderer.h"
 
 #include <utility>

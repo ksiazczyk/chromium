@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR UI test utilities header
+// summary: Declares UiUtils, a port of NativeUiUtils.java offering utility functions for interacting with the native VR UI in instrumentation tests.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_UI_UTILS_H_
 #define CHROME_BROWSER_VR_TEST_UI_UTILS_H_
 

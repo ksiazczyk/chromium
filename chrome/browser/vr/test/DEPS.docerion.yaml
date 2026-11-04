@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: VR test directory include rules
+summary: Defines allowed include rules for the Chrome VR test directory, permitting Windows D3D11 device helpers and Mojo core embedder headers.

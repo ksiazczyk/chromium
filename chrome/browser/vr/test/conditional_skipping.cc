@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XR test requirement checks implementation
+// summary: Implements runtime requirement checks such as DirectX 11.1 availability used to conditionally skip XR tests on unsupported machines.
+// ---
+
 #include "chrome/browser/vr/test/conditional_skipping.h"
 
 #include <cstdint>

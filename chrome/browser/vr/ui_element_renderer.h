@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI element renderer header
+// summary: Declares UiElementRenderer, the central owner of quad renderers that issues GL commands for drawing UI elements.
+// ---
+
 #ifndef CHROME_BROWSER_VR_UI_ELEMENT_RENDERER_H_
 #define CHROME_BROWSER_VR_UI_ELEMENT_RENDERER_H_
 

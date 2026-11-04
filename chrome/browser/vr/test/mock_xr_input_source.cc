@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockXRInputSource implementation
+// summary: Implements a simulated XR controller or hand input source with gamepad, trigger, button, axis, and hand-tracking controls for WebXR browser tests.
+// ---
+
 #include "chrome/browser/vr/test/mock_xr_input_source.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI test input definitions
+// summary: Defines UserFriendlyElementName and UiVisibilityState for observing VR UI element visibility in tests.
+// ---
+
 #ifndef CHROME_BROWSER_VR_UI_TEST_INPUT_H_
 #define CHROME_BROWSER_VR_UI_TEST_INPUT_H_
 

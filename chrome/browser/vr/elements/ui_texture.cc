@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiTexture base class implementation
+// summary: Implements texture drawing, dirty-state tracking, and foreground and background color handling for VR UI textures.
+// ---
+
 #include "chrome/browser/vr/elements/ui_texture.h"
 
 #include "base/trace_event/trace_event.h"

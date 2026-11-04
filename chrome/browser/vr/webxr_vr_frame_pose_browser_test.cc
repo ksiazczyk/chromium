@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR VR frame pose browser test
+// summary: Browser test using a mock XR device to verify that submitted WebXR frames carry the expected poses and frame IDs in immersive sessions.
+// ---
+
 #include <atomic>
 #include <cmath>
 #include <memory>

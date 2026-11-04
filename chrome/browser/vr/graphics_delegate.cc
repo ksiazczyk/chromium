@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graphics delegate implementation
+// summary: Implements GraphicsDelegate helpers that compute camera view-projection matrices and normalized per-eye overlay UV bounds from XR views and field-of-view data.
+// ---
+
 #include "chrome/browser/vr/graphics_delegate.h"
 
 #include <algorithm>

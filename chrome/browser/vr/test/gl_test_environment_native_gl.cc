@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL test environment using native GL
+// summary: Implements the GL test environment with a native offscreen GL context and framebuffer setup for VR tests.
+// ---
+
 #include "chrome/browser/vr/test/gl_test_environment.h"
 
 #include "ui/gl/gl_context.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseQuadRenderer implementation for VR quad drawing
+// summary: Implements BaseQuadRenderer, creating shared quad vertex and index buffers and preparing GL state to draw quads in the VR UI.
+// ---
+
 #include "chrome/browser/vr/renderers/base_quad_renderer.h"
 
 #include "device/vr/vr_gl_util.h"

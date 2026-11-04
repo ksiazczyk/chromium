@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VectorIcon textured element header
+// summary: Declares the VectorIcon textured element used to draw vector icons in the VR UI.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_VECTOR_ICON_H_
 #define CHROME_BROWSER_VR_ELEMENTS_VECTOR_ICON_H_
 

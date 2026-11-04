@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome walletable pass client header
+// summary: Declares ChromeWalletablePassClient, the Chrome implementation of WalletablePassClient scoped to a single tab and managed by TabFeatures.
+// ---
+
 #ifndef CHROME_BROWSER_WALLET_CHROME_WALLETABLE_PASS_CLIENT_H_
 #define CHROME_BROWSER_WALLET_CHROME_WALLETABLE_PASS_CLIENT_H_
 

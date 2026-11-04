@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler UI interface
+// summary: Declares an interface for notifying the VR UI about WebXR frame availability, timeouts, and imminent timeouts.
+// ---
+
 #ifndef CHROME_BROWSER_VR_SCHEDULER_UI_INTERFACE_H_
 #define CHROME_BROWSER_VR_SCHEDULER_UI_INTERFACE_H_
 

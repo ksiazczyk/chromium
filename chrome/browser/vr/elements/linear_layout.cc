@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linear layout implementation for VR UI
+// summary: Implements positioning of visible children along a direction with margins and anchoring for VR UI linear layouts.
+// ---
+
 #include "chrome/browser/vr/elements/linear_layout.h"
 
 namespace vr {

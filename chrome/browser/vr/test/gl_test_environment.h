@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL test environment class declaration
+// summary: Declares a test environment class that sets up an offscreen GL context, framebuffer, and textures for VR tests.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_GL_TEST_ENVIRONMENT_H_
 #define CHROME_BROWSER_VR_TEST_GL_TEST_ENVIRONMENT_H_
 

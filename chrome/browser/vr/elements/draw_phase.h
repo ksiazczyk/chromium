@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Draw phase enum for VR UI rendering
+// summary: Declares the DrawPhase enum ordering background, foreground, and overlay foreground rendering phases for VR UI elements.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_DRAW_PHASE_H_
 #define CHROME_BROWSER_VR_ELEMENTS_DRAW_PHASE_H_
 

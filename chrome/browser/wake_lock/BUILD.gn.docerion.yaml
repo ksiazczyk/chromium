@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Wake lock browser tests build file
+summary: Defines the browser_tests source set that builds the wake lock browser test together with its Chromium test dependencies.

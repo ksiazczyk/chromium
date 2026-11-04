@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR shell UI class header
+// summary: Declares the Ui class that manages GL-thread objects and rendering for VrShell via the scene, model, and renderer interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_VR_UI_H_
 #define CHROME_BROWSER_VR_UI_H_
 

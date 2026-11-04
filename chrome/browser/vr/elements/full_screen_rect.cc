@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full screen rect rendering implementation
+// summary: Implements FullScreenRect rendering as a radial gradient quad that covers the entire viewport.
+// ---
+
 #include "chrome/browser/vr/elements/full_screen_rect.h"
 
 #include "chrome/browser/vr/ui_element_renderer.h"

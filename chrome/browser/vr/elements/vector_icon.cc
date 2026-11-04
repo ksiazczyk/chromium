@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VectorIcon textured element implementation
+// summary: Implements a textured element that draws a gfx vector icon onto a texture with a configurable color.
+// ---
+
 #include "chrome/browser/vr/elements/vector_icon.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR target property enum
+// summary: Defines the zero-based enum of animatable VR UI properties such as transform, opacity, bounds, colors, and spinner angles.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TARGET_PROPERTY_H_
 #define CHROME_BROWSER_VR_TARGET_PROPERTY_H_
 

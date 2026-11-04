@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlTestEnvironment unit test
+// summary: Unit test verifying that GlTestEnvironment initializes a frame buffer without GL errors and cleans up without crashing, with the Linux case disabled.
+// ---
+
 #include "chrome/browser/vr/test/gl_test_environment.h"
 #include "build/build_config.h"
 #include "testing/gtest/include/gtest/gtest.h"

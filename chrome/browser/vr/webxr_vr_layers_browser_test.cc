@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR VR layers browser tests
+// summary: Browser tests for the WebXR layers feature, verifying submitted views and layer face colors with a tolerance for GPU and color-space variations.
+// ---
+
 #include "base/command_line.h"
 #include "base/no_destructor.h"
 #include "chrome/browser/vr/test/mock_xr_device_hook_base.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capturing state model for VR permission flags
+// summary: Defines CapturingStateModel, a struct of boolean flags tracking audio, video, screen, location, Bluetooth, USB and MIDI capture permissions in VR.
+// ---
+
 #ifndef CHROME_BROWSER_VR_MODEL_CAPTURING_STATE_MODEL_H_
 #define CHROME_BROWSER_VR_MODEL_CAPTURING_STATE_MODEL_H_
 
