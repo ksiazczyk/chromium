@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Console TTS engine
+// summary: Implements a TTS engine that logs speech output to the console when speech logging is enabled.
+// ---
+
 /**
  * @fileoverview A TTS engine that writes to globalThis.console.
  */

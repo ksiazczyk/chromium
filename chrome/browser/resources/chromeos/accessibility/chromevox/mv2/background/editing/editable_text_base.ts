@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVoxEditableTextBase
+// summary: Provides generalized logic for spoken feedback when editing single and multiline text fields, including a TextChangeEvent class and an abstracted editable text control.
+// ---
+
 /**
  * @fileoverview Generalized logic for providing spoken feedback when editing
  * text fields, both single and multiline fields.

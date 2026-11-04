@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille table information and lookup
+// summary: Loads the liblouis braille tables file and provides lookup by id, uncontracted table matching and localized display names.
+// ---
+
 /**
  * @fileoverview Holds information about a braille table.
  */

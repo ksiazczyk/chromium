@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS speech types and personalities
+// summary: Defines speech generation types including queue modes, utterance categories, TtsSpeechProperties and predefined TTS personalities for ChromeVox speech output.
+// ---
+
 /**
  * @fileoverview Contains types related to speech generation.
  */

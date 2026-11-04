@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox command enum
+// summary: Lists all ChromeVox user commands as an enum whose values and indices are persisted to logs and must not be reordered or reused.
+// ---
+
 /**
  * List of commands. A new command needs to be added to the end of this list.
  * These values and indices are persisted to logs. Entries should not be

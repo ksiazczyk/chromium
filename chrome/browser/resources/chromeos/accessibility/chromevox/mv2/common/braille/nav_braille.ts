@@ -8,6 +8,12 @@
  *
  */
 
+// ---docerion
+// type: source
+// title: NavBraille navigation output container
+// summary: Class capturing braille output for navigation between objects, holding annotated text, a selection range and JSON serialization support.
+// ---
+
 /**
  * A class capturing the braille for navigation from one object to
  * another.

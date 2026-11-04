@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox global state interface
+// summary: Provides an abstract interface for querying and modifying global ChromeVox state, decoupled from the Background object to ease mocking in tests.
+// ---
+
 /**
  * @fileoverview An interface for querying and modifying the global
  *     ChromeVox state, to avoid direct dependencies on the Background

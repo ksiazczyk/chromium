@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background TTS tests
+// summary: End-to-end tests for PrimaryTts covering text preprocessing, punctuation and currency verbalization, and voice updates.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../testing/chromevox_e2e_test_base.js']);
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop automation handler tests
+// summary: Browser test fixture for DesktopAutomationHandler covering behaviors such as slider value change announcements and autofill availability speech via mock feedback.
+// ---
+
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 GEN_INCLUDE(['../../../../common/testing/documents.js']);
 GEN_INCLUDE(['../../testing/fake_objects.js']);

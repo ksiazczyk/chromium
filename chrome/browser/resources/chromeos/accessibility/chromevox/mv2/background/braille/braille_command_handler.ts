@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille command handler
+// summary: Maps braille key commands such as panning, line navigation, and routing to ChromeVox commands.
+// ---
+
 /**
  * @fileoverview ChromeVox braille commands.
  */

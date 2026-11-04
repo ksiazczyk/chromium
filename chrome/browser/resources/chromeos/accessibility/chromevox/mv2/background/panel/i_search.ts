@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incremental search logic for ChromeVox
+// summary: Implements the ISearch class that performs incremental text search over automation nodes and reports matches or boundary hits to a handler.
+// ---
+
 /**
  * @fileoverview The logic behind incremental search.
  */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox preferences manager
+// summary: Reads and writes ChromeVox preferences from the background context, merging LocalStorage defaults with system settings.
+// ---
+
 /**
  * @fileoverview Common page for reading and writing preferences from
  * the background context (background page or options page).

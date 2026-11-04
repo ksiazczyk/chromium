@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille spannable annotation spans
+// summary: Defines annotation span classes such as ValueSpan, ValueSelectionSpan, ExtraCellsSpan and BrailleTextStyleSpan used to mark values, selections, extra cells and text forms in braille translation.
+// ---
+
 /**
  * @fileoverview Objects used in spannables as annotations for ARIA values
  * and selections.

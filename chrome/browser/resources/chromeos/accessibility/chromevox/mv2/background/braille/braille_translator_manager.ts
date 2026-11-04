@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille translator manager
+// summary: Tracks the current braille translators, refreshing them from braille table settings and locale and notifying change listeners.
+// ---
+
 /**
  * @fileoverview Keeps track of the current braille translators.
  */

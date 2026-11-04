@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ISearch end-to-end tests
+// summary: E2E test fixture with a fake handler that verifies forward, backward, mixed-case, and boundary behavior of incremental search.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox panel menu item
+// summary: Implements a single item in a ChromeVox panel drop-down menu, with title, shortcut, braille and gesture display and enabled state.
+// ---
+
 /**
  * @fileoverview An item in a drop-down menu in the ChromeVox panel.
  */

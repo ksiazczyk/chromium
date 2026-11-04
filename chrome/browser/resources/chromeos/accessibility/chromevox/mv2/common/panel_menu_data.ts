@@ -7,6 +7,12 @@
  * the background context to the panel context.
  */
 
+// ---docerion
+// type: source
+// title: Panel menu data types
+// summary: Defines data types and menu definitions for transferring panel menu information, such as headings, landmarks and links, from the background context to the ChromeVox panel.
+// ---
+
 import {AutomationPredicate} from '/common/automation_predicate.js';
 import type {BridgeCallbackId} from '/common/bridge_callback_manager.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';

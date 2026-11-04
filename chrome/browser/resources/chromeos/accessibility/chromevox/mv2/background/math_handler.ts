@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Math content navigation and speech handler
+// summary: Handles navigation, announcement, and keyboard exploration of MathML content in ChromeVox using the Speech Rule Engine.
+// ---
+
 /**
  * @fileoverview Handles math output and exploration.
  */

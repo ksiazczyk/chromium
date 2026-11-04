@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop automation interface
+// summary: Abstract interface extending BaseAutomationHandler to prevent circular dependencies, declaring text edit handling, selection ignoring, and native character and word navigation commands.
+// ---
+
 /**
  * @fileoverview Interface to prevent circular dependencies.
  */

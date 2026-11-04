@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentHandler
+// summary: Stateless handler that converts automation intents, such as moving selection by character, word, or line, into speech feedback; braille output is not handled here.
+// ---
+
 /**
  * @fileoverview Handles automation intents for speech feedback.
  * Braille is *not* handled in this module.

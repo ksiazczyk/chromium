@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor dots constant
+// summary: Defines the braille dot pattern used to render a cursor on a braille display.
+// ---
+
 /**
  * Dots representing a cursor.
  */

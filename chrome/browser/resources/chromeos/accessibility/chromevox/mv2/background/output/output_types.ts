@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox output type definitions
+// summary: Defines enums, classes and property mappings such as speech properties, earcon actions and node spans used by ChromeVox output.
+// ---
+
 /**
  * @fileoverview Definitions of all types related to output.
  */

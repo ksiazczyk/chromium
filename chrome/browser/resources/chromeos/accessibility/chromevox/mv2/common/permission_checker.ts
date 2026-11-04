@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission checker for command validation
+// summary: Singleton that checks incognito and kiosk session state to decide whether a ChromeVox command is allowed to run.
+// ---
+
 /**
  * @fileoverview Handles validation of current permissions before performing an
  * action.

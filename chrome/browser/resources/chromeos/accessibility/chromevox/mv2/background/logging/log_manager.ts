@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogManager
+// summary: Manages ChromeVox logging state, including toggling logging preferences, writing accessibility tree dumps, and opening the log page window.
+// ---
+
 /**
  * @fileoverview Manages logging state, enable/disable, etc.
  */

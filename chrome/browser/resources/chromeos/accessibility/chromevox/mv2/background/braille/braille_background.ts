@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille background
+// summary: Sends braille commands to the Braille API and routes braille key events to the rewriter, input handler, or ChromeVox background.
+// ---
+
 /**
  * @fileoverview Sends Braille commands to the Braille API.
  */

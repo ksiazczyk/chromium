@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Primary background text-to-speech engine
+// summary: Default background TTS implementation managing the utterance queue, punctuation echo, voice selection, and speech properties.
+// ---
+
 /**
  * @fileoverview Default implementation for TTS in the background context.
  */

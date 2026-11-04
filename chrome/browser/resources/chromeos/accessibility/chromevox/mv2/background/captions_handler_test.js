@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captions handler tests
+// summary: Tests for CaptionsHandler covering live caption opening, range observation, attribute change handling, and braille line merging.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../testing/chromevox_e2e_test_base.js']);
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logger for output format rules
+// summary: Collects formatted rule and token logs and writes them to the log store when the corresponding local storage flag is enabled.
+// ---
+
 /**
  * @fileoverview Provides output logger.
  */

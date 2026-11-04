@@ -1,3 +1,11 @@
+---
+type: readme
+title: Output in ChromeVox
+summary: Explains how ChromeVox produces speech output via the Output class, cursor ranges and the rule markup defined in output_rules.
+relations:
+  - documents /chrome/browser/resources/chromeos/accessibility/chromevox/mv2/background/output/output.ts
+---
+
 # Output in ChromeVox
 
 ChromeVox has a few different ways of producing output. Sometimes, speech

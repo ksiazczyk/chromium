@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditingRangeObserver
+// summary: Observer that reacts to ChromeVox range changes and refreshes the braille translator with the 8-dot table when focus is over email or URL text fields.
+// ---
+
 /**
  * @fileoverview Processes events related to editing text and emits the
  * appropriate spoken and braille feedback.

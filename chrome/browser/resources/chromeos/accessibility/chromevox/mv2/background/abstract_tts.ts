@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract text-to-speech engine base class
+// summary: Base class for text-to-speech engines, providing speech property defaults, ranges, and shared TTS behavior for ChromeVox.
+// ---
+
 import {Msgs} from '../common/msgs.js';
 import {SettingsManager} from '../common/settings_manager.js';
 import {CharacterDictionary, Personality, QueueMode, SubstitutionDictionary, TtsAudioProperty, TtsSettings, TtsSpeechProperties} from '../common/tts_types.js';

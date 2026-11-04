@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox panel background logic
+// summary: Handles panel logic that requires background context state, registering bridge handlers for incremental search, node menus, actions, and the tutorial.
+// ---
+
 /**
  * @fileoverview Handles logic for the ChromeVox panel that requires state from
  * the background context.

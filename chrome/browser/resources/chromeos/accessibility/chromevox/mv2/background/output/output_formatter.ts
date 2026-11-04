@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Formatter for parsed output tokens
+// summary: Observer that turns parsed format tokens such as name, description and checked state into annotated speech or braille output.
+// ---
+
 /**
  * @fileoverview Class that formats the parsed output tree.
  */

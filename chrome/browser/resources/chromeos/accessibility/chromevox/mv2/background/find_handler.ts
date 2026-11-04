@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find-in-page output handler
+// summary: Handles speech and braille output for Chrome's built-in find, announcing text match results while dropping rapid duplicate markers.
+// ---
+
 /**
  * @fileoverview Handles output for Chrome's built-in find.
  */

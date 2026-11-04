@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom automation event class
+// summary: Defines a constructible stand-in for chrome.automation.AutomationEvent that ChromeVox can create itself.
+// ---
+
 /**
  * @fileoverview Custom Automation Event.
  *

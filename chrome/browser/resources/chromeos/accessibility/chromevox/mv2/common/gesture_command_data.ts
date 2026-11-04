@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture to command mapping data
+// summary: Maps ChromeVox touch gesture names to commands, accelerator actions, or global keys, and defines the possible gesture granularities.
+// ---
+
 import {KeyCode} from '/common/key_code.js';
 
 import {Command} from './command.js';

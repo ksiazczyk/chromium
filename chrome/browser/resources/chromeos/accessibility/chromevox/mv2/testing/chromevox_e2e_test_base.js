@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeVox end-to-end test base fixture
+// summary: Base test fixture for ChromeVox end-to-end tests that run against production ChromeVox in the extension background context, with mock feedback, key event and gesture helpers.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../../../common/testing/e2e_test_base.js']);
 GEN_INCLUDE(['../../../common/testing/assert_additions.js']);

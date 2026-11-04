@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ISearchHandler interface for incremental search events
+// summary: Defines the abstract handler interface through which ISearch reports search result changes and boundary conditions to the UI.
+// ---
+
 /**
  * @fileoverview Interface for communication from ISearch to ISearchUI.
  */

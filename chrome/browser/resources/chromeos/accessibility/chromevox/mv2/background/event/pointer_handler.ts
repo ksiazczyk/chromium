@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer handler for ChromeVox
+// summary: Handles touch and mouse pointer input by performing hit tests on mouse or touch moves and providing speech and earcon feedback for explored or hovered nodes.
+// ---
+
 /**
  * @fileoverview ChromeVox pointer handler. A pointer, in this context, is
  * either user touch or mouse input.

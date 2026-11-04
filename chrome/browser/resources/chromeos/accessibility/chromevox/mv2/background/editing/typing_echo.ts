@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typing echo modes for ChromeVox speech output
+// summary: Defines typing echo states (character, word, both, none) and manages cycling, storing, and announcing the current echo setting for typed text.
+// ---
+
 import {LocalStorage} from '/common/local_storage.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 

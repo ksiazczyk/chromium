@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract interface for output classes
+// summary: Defines the abstract interface for speech and braille output, covering appending, earcons, node formatting and rendering of ranges.
+// ---
+
 /**
  * @fileoverview Interface for the central output class for ChromeVox.
  */

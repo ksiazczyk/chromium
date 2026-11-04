@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogStore
+// summary: Stores ChromeVox logs in a fixed-size ring buffer and provides writing, retrieving, and clearing of braille, text, and tree logs.
+// ---
+
 /**
  * @fileoverview Store ChromeVox log.
  */

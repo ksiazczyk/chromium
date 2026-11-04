@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expanding braille translator
+// summary: Translates text to braille, using uncontracted translation around selection endpoints or value spans when two translators are available.
+// ---
+
 /**
  * @fileoverview Translates text to braille, optionally with some parts
  * uncontracted.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox log page controller
+// summary: Implements the LogPage class that renders log entries with type and time tags, manages filter checkboxes and handles clearing and saving the log.
+// ---
+
 /**
  * @fileoverview ChromeVox log page.
  */

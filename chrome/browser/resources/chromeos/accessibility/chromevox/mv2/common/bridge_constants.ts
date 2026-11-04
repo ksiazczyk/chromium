@@ -6,6 +6,12 @@
  * @fileoverview Enums for BridgeHelper functions.
  */
 
+// ---docerion
+// type: source
+// title: Bridge constants and renderer context enums
+// summary: Defines the BridgeContext enum and constants naming bridge targets and actions used by BridgeHelper message passing between ChromeVox contexts.
+// ---
+
 /**
  * Specifies one of the renderer contexts for the ChromeVox extension. Code
  * specific to each of these contexts is contained in the corresponding

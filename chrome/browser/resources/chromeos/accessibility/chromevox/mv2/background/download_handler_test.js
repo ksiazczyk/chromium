@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadHandler tests
+// summary: Tests download announcements using a faked Chrome downloads API and mock speech and braille feedback.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../testing/chromevox_e2e_test_base.js']);
 

@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: source
+// title: ChromeVox key map manager
+// summary: Provides a stable interface for initializing, querying, and modifying bidirectional mappings between key sequences and ChromeVox commands.
+// ---
+
 /**
  * @fileoverview This class provides a stable interface for initializing,
  * querying, and modifying a ChromeVox key map.

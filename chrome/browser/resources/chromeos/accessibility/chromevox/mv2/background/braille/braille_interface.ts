@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille interface
+// summary: Defines the abstract BrailleInterface that all ChromeVox braille engines implement for display output and control.
+// ---
+
 /**
  * @fileoverview Defines a Braille interface.
  * All Braille engines in ChromeVox conform to this interface.

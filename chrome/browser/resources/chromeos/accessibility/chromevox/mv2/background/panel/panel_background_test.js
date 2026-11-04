@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PanelBackground tests
+// summary: E2E tests verifying the tutorial-ready callback and that waitForMenusLoaded resolves only after all node menu backgrounds finish.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 GEN_INCLUDE(['../../../../common/testing/documents.js']);

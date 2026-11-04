@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base fixture for ChromeVox panel tests
+// summary: Shared test base that locates the panel window, enables test hooks, and provides helpers such as waitForMenu for panel tests.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../testing/chromevox_e2e_test_base.js']);
 

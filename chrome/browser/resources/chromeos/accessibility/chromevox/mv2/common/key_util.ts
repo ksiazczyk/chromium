@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyUtil keyboard event utilities
+// summary: Utilities for converting key events into KeySequence representations, handling sequencing, double taps, and translating between key codes and strings.
+// ---
+
 /**
  * @fileoverview A collection of JavaScript utilities used to simplify working
  * with keyboard events.

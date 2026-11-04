@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox panel controller
+// summary: Main Panel class managing the ChromeVox panel, including modes, session state, event listeners, braille and search containers and menus.
+// ---
+
 /**
  * @fileoverview The ChromeVox panel and menus.
  */

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for ChromeVox mv2
+summary: Defines build targets, TypeScript module lists, and bundling or minification steps that produce the ChromeVox mv2 accessibility scripts.

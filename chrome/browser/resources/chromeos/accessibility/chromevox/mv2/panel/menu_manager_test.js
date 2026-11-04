@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MenuManager tests
+// summary: Test fixture covering the ChromeVox panel menu manager, such as menu activation, adding menus and node menus, and advancing the active menu.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['panel_test_base.js']);
 

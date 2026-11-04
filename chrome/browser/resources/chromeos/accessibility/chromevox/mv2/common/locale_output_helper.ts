@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale output helper for TTS voice switching
+// summary: Uses language information from automation nodes to switch the TTS voice for spoken text and announce locale changes or missing voices.
+// ---
+
 /**
  * @fileoverview Provides locale output services for ChromeVox, which
  * uses language information to automatically change the TTS voice.

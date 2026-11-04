@@ -7,6 +7,12 @@
  * auditory cues.
  */
 
+// ---docerion
+// type: source
+// title: ChromeVox earcons playback manager
+// summary: High-level class that decides when ChromeVox earcons play, adjusts stereo panning based on active audio devices, and supports toggling earcons on and off.
+// ---
+
 import {EarconId} from '../common/earcon_id.js';
 import {LogType} from '../common/log_types.js';
 import {Msgs} from '../common/msgs.js';

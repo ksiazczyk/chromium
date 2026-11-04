@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LogStore tests
+// summary: E2E tests verifying that LogStore correctly handles short log sequences and wraps around when exceeding the ring buffer limit.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 
