@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password selection screen implementation
+// summary: Implements the screen where users choose between local and Gaia password setup, including enterprise policy checks and fallbacks.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/password_selection_screen.h"
 
 #include <string>

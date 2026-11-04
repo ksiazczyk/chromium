@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture navigation screen header
+// summary: Declares the GestureNavigationScreen class that teaches gesture navigation during OOBE and records per page shown time metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_GESTURE_NAVIGATION_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_GESTURE_NAVIGATION_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TPM error screen browser tests
+// summary: Browser tests for the TPM error screen, verifying the pending screen pref is cleared and that restart works for TPM owner and DBus errors.
+// ---
+
 #include "ash/constants/ash_login_pref_names.h"
 #include "base/test/test_future.h"
 #include "chrome/browser/ash/login/test/oobe_base_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote activity notification screen header
+// summary: Declares the RemoteActivityNotificationScreen class that controls the remote activity notification shown during sign-in.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_REMOTE_ACTIVITY_NOTIFICATION_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_REMOTE_ACTIVITY_NOTIFICATION_SCREEN_H_
 

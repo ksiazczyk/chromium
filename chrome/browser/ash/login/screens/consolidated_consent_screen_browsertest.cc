@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Consolidated consent screen browser tests
+// summary: Browser tests for the consolidated consent OOBE screen covering EULA and privacy links, usage opt-in toggles, demo mode and consent auditing.
+// ---
+
 #include "chrome/browser/ash/login/screens/consolidated_consent_screen.h"
 
 #include "ash/constants/ash_features.h"

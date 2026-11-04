@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fjord image selection screen browser test
+// summary: Browser test verifying image selection choices exit the screen with the expected Cuttlefish or Squid result.
+// ---
+
 #include "chrome/browser/ash/login/screens/fjord_image_selection_screen.h"
 
 #include "ash/constants/ash_features.h"

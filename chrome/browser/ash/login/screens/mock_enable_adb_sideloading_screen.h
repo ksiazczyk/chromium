@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock enable ADB sideloading screen
+// summary: Declares gmock mock classes for the enable ADB sideloading screen and its view, used in place of the real screen in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_MOCK_ENABLE_ADB_SIDELOADING_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_MOCK_ENABLE_ADB_SIDELOADING_SCREEN_H_
 

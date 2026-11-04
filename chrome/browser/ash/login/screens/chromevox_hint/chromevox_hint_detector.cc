@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVoxHintDetector implementation
+// summary: Implements idle detection that notifies its observer to give the ChromeVox hint after 20 seconds of user inactivity, with testing and dev-mode switches.
+// ---
+
 #include "chrome/browser/ash/login/screens/chromevox_hint/chromevox_hint_detector.h"
 
 #include "ash/constants/ash_switches.h"

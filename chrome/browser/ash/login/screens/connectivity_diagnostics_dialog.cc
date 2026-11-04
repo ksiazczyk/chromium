@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectivity diagnostics dialog implementation
+// summary: Implements the connectivity diagnostics system dialog shown during login, scaled to 80 percent of the display size.
+// ---
+
 #include "chrome/browser/ash/login/screens/connectivity_diagnostics_dialog.h"
 
 #include <string>

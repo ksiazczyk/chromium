@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia info screen class declaration
+// summary: Declares the GaiaInfoScreen class with its result enum, exit callbacks, and Quick Start entry point visibility handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_GAIA_INFO_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_GAIA_INFO_SCREEN_H_
 

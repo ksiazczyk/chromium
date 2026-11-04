@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN setup screen header
+// summary: Declares the PinSetupScreen controller with result codes, skip reasons, hardware support states, and the UMA user action enum.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_PIN_SETUP_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_PIN_SETUP_SCREEN_H_
 

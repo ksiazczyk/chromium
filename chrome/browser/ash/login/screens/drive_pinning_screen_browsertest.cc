@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive pinning screen browser tests
+// summary: Browser tests covering the Drive pinning OOBE screen, including toggle behavior, space information, progress updates, and metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/drive_pinning_screen.h"
 
 #include "ash/constants/ash_features.h"

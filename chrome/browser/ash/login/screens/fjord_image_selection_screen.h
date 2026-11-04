@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord image selection OOBE screen header
+// summary: Declares the FjordImageSelectionScreen class with its result enum, Mojo page handler, and error message handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_FJORD_IMAGE_SELECTION_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_FJORD_IMAGE_SELECTION_SCREEN_H_
 

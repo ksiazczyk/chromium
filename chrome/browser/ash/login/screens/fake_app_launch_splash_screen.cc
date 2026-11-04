@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake app launch splash screen implementation
+// summary: Implements a fake AppLaunchSplashScreen for tests that records launch state, errors, and throbber visibility without showing real UI.
+// ---
+
 #include "chrome/browser/ash/login/screens/fake_app_launch_splash_screen.h"
 
 #include <string>

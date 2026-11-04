@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the login screens directory
+summary: Defines allowed include dependencies for the screens directory, with special rules for browser tests and specific screens.

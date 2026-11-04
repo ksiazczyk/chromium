@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Online authentication screen implementation
+// summary: Implements the OOBE online authentication screen, showing its view and forwarding user actions such as back to the wizard flow.
+// ---
+
 #include "chrome/browser/ash/login/screens/online_authentication_screen.h"
 
 #include "base/memory/weak_ptr.h"

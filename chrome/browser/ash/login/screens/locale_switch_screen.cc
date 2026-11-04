@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleSwitchScreen implementation
+// summary: Implements the OOBE locale switch screen that fetches the user's preferred locale from the Google People API and switches the device locale during post-login flow.
+// ---
+
 #include "chrome/browser/ash/login/screens/locale_switch_screen.h"
 
 #include <algorithm>

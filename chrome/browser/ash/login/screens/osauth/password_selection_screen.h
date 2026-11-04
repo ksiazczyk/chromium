@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password selection screen class declaration
+// summary: Declares the PasswordSelectionScreen controller that lets users pick between local password and Gaia password setup.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_PASSWORD_SELECTION_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_PASSWORD_SELECTION_SCREEN_H_
 

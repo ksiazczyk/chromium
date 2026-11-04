@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network error enums
+// summary: Defines enums for network error UI states, error states and reasons used by OOBE network error handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_NETWORK_ERROR_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_NETWORK_ERROR_H_
 

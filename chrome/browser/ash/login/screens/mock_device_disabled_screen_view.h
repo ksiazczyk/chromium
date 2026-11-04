@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock device disabled screen view
+// summary: Declares a gmock mock of the device disabled screen view with mocked show, message and location tracking update methods.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_MOCK_DEVICE_DISABLED_SCREEN_VIEW_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_MOCK_DEVICE_DISABLED_SCREEN_VIEW_H_
 

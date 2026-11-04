@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagementTransitionScreen implementation
+// summary: Implements the management transition OOBE screen that waits for ARC management transition, disables tray and shutdown controls, and handles timeouts and errors.
+// ---
+
 #include "chrome/browser/ash/login/screens/management_transition_screen.h"
 
 #include "ash/public/cpp/login_screen.h"

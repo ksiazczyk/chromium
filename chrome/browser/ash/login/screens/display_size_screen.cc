@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display size screen
+// summary: Implements the OOBE display size screen that lets users choose a display zoom factor and persists the deferred pref for later application.
+// ---
+
 #include "chrome/browser/ash/login/screens/display_size_screen.h"
 
 #include "ash/constants/ash_features.h"

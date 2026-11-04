@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeVoxHintDetector unit tests
+// summary: Tests that the ChromeVox hint fires after the idle timeout, is reset by user activity, and is suppressed by the disabling switch.
+// ---
+
 #include "chrome/browser/ash/login/screens/chromevox_hint/chromevox_hint_detector.h"
 
 #include "ash/constants/ash_switches.h"

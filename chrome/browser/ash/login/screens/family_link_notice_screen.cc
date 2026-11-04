@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link notice screen implementation
+// summary: Implements the FamilyLinkNoticeScreen controller that shows the Family Link notice during OOBE, decides skip conditions, and handles the continue user action.
+// ---
+
 #include "chrome/browser/ash/login/screens/family_link_notice_screen.h"
 
 #include "base/memory/weak_ptr.h"

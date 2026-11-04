@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parental handoff screen implementation
+// summary: Implements the OOBE parental handoff screen shown for child users, skipping for non-child profiles and completing when the next action is triggered.
+// ---
+
 #include "chrome/browser/ash/login/screens/parental_handoff_screen.h"
 
 #include <string>

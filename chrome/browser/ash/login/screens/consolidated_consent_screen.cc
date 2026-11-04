@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consolidated consent screen implementation
+// summary: Implements the consolidated consent screen handling EULA, ARC terms and privacy consents, metrics reporting and consent auditing during OOBE.
+// ---
+
 #include "chrome/browser/ash/login/screens/consolidated_consent_screen.h"
 
 #include <string_view>

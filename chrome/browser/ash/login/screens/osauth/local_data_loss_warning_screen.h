@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local data loss warning screen header
+// summary: Declares the LocalDataLossWarningScreen class, which implements the Mojom page handler for the local data loss warning UI and its result enum.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_LOCAL_DATA_LOSS_WARNING_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_LOCAL_DATA_LOSS_WARNING_SCREEN_H_
 

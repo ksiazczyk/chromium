@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS install screen implementation
+// summary: Implements the OS install OOBE screen, starting installation, reporting status and logs, and shutting down after a success countdown.
+// ---
+
 #include "chrome/browser/ash/login/screens/os_install_screen.h"
 
 #include "ash/public/cpp/login_accelerators.h"

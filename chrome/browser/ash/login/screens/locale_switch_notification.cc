@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale switch notification implementation
+// summary: Implements a message center notification shown during OOBE that informs users of a pending locale change and offers a button to switch languages.
+// ---
+
 #include "chrome/browser/ash/login/screens/locale_switch_notification.h"
 
 #include <memory>

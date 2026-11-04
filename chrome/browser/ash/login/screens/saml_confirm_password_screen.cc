@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAML confirm password screen implementation
+// summary: Implements the SAML confirm password screen, storing scraped SAML passwords and integrating with local auth factor setup.
+// ---
+
 #include "chrome/browser/ash/login/screens/saml_confirm_password_screen.h"
 
 #include <algorithm>

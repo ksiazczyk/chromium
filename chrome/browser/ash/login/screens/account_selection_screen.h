@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account selection screen class declaration
+// summary: Declares the AccountSelectionScreen class shown after successful manual enrollment to choose between reusing the account and signing in again.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_ACCOUNT_SELECTION_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_ACCOUNT_SELECTION_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleSwitchScreen header
+// summary: Declares LocaleSwitchScreen, which waits for account locale and capabilities to be fetched and handles OOBE locale switching for post-login screens.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_LOCALE_SWITCH_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_LOCALE_SWITCH_SCREEN_H_
 

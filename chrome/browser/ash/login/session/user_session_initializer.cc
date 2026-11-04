@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User session initializer implementation
+// summary: Implements initialization of per-user services such as RLZ, certificates, and the CRL set fetcher when a user session starts.
+// ---
+
 #include "chrome/browser/ash/login/session/user_session_initializer.h"
 
 #include "ash/constants/ash_features.h"

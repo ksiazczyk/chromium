@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock enable debugging screen implementation
+// summary: Implements the mock enable debugging screen and view, providing constructors and an exit screen helper for tests.
+// ---
+
 #include "chrome/browser/ash/login/screens/mock_enable_debugging_screen.h"
 
 namespace ash {

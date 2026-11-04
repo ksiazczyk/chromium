@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cryptohome recovery setup screen browser tests
+// summary: Browser tests for the cryptohome recovery setup screen, simulating recovery factor opt-in during OOBE and verifying screen exit and completion-time metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/cryptohome_recovery_setup_screen.h"
 
 #include <memory>

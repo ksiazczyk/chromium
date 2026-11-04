@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Categories selection screen controller declaration
+// summary: Declares the CategoriesSelectionScreen controller for the OOBE categories selection step, covering results, timeouts, overview step delays and use-case selection.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_CATEGORIES_SELECTION_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_CATEGORIES_SELECTION_SCREEN_H_
 

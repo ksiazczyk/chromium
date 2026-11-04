@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme selection screen implementation
+// summary: Implements the OOBE theme selection screen that lets users pick light, dark or auto theme and reports the choice to UMA and the Choobe flow.
+// ---
+
 #include "chrome/browser/ash/login/screens/theme_selection_screen.h"
 
 #include "ash/constants/ash_features.h"

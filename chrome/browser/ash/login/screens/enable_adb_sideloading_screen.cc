@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enable ADB sideloading screen implementation
+// summary: Implements the OOBE screen that prompts users to enable ADB sideloading, handling user actions, preferences and usage metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/enable_adb_sideloading_screen.h"
 
 #include "base/check_deref.h"

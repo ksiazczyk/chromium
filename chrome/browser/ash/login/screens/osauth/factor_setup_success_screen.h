@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factor setup success screen header
+// summary: Declares the FactorSetupSuccessScreen class, its result enum and timer-based expiration for the auth factor setup success UI.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_FACTOR_SETUP_SUCCESS_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_FACTOR_SETUP_SUCCESS_SCREEN_H_
 

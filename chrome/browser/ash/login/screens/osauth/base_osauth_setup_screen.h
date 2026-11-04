@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base OS auth setup screen class declaration
+// summary: Declares the BaseOSAuthSetupScreen base class for screens that configure user authentication with cryptohomed.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_BASE_OSAUTH_SETUP_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_BASE_OSAUTH_SETUP_SCREEN_H_
 

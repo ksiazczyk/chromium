@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI intro screen browser tests
+// summary: Browser tests for the OOBE AI intro screen, covering the forward flow to the Gemini intro screen and skipping the screen for child users.
+// ---
+
 #include "chrome/browser/ash/login/screens/ai_intro_screen.h"
 
 #include "ash/constants/ash_features.h"

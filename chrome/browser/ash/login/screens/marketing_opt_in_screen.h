@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MarketingOptInScreen header
+// summary: Declares MarketingOptInScreen, shown during first sign-in to offer Chromebook email opt-in, with result and event enums for metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_MARKETING_OPT_IN_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_MARKETING_OPT_IN_SCREEN_H_
 

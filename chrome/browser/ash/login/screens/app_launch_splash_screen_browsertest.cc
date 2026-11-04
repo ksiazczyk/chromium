@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App launch splash screen browser tests
+// summary: Browser tests verifying the app launch splash screen displays app data, shows the network configuration UI, and dismisses it while notifying the delegate.
+// ---
+
 #include "chrome/browser/ash/login/screens/app_launch_splash_screen.h"
 
 #include "ash/public/cpp/login_screen_test_api.h"

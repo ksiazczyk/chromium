@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session start time tracker header
+// summary: Declares SessionStartTimeTracker, which records the session start time, optionally waits for initial user activity, and notifies observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SESSION_SESSION_START_TIME_TRACKER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SESSION_SESSION_START_TIME_TRACKER_H_
 

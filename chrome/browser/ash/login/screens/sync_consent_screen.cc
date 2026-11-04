@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync consent screen implementation
+// summary: Implements the OOBE sync consent screen that records user consent and configures Chrome sync settings during first sign-in on ChromeOS.
+// ---
+
 #include "chrome/browser/ash/login/screens/sync_consent_screen.h"
 
 #include <string>

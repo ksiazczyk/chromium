@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia screen class declaration
+// summary: Declares the GaiaScreen class, the GAIA-based sign-in screen that also observes screen backlight state to turn the camera off when the display is off.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_GAIA_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_GAIA_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local password setup screen browser tests
+// summary: Browser tests exercising the local password setup screen, covering password entry, confirmation, and screen exit results.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/local_password_setup_screen.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord firmware update screen implementation
+// summary: Implements the FjordFwUpdateScreen controller that shows the firmware update screen during OOBE and exits via its callback when not hidden.
+// ---
+
 #include "chrome/browser/ash/login/screens/fjord_fw_update_screen.h"
 
 #include "chrome/browser/ash/login/oobe_screen.h"

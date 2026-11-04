@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local password setup screen class declaration
+// summary: Declares the LocalPasswordSetupScreen class that configures a local password as an auth factor during ChromeOS OOBE.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_LOCAL_PASSWORD_SETUP_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_LOCAL_PASSWORD_SETUP_SCREEN_H_
 

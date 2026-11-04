@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome recovery screen implementation
+// summary: Implements the login screen that authenticates users via cryptohome recovery, with fallbacks to online or local password reauth.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/cryptohome_recovery_screen.h"
 
 #include <memory>

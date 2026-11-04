@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session start time tracker implementation
+// summary: Implements tracking of the session start time, including waiting for initial user activity and restoring state after a browser crash.
+// ---
+
 #include "chrome/browser/ash/login/session/session_start_time_tracker.h"
 
 #include "ash/constants/ash_pref_names.h"

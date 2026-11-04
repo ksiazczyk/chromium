@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fjord image download screen browser test
+// summary: Browser test verifying the Fjord image download OOBE screen is shown under the Fjord OOBE feature flags.
+// ---
+
 #include "chrome/browser/ash/login/screens/fjord_image_download_screen.h"
 
 #include "ash/constants/ash_features.h"

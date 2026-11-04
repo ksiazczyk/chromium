@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PIN setup screen browser tests
+// summary: Browser tests for the PIN setup OOBE screen, verifying setup flows, skip behavior, policy handling, and completion metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/pin_setup_screen.h"
 
 #include <optional>

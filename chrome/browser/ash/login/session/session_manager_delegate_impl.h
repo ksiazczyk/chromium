@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session manager delegate class declaration
+// summary: Declares the concrete Ash implementation of the session manager delegate interface handling sign-out and restart requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SESSION_SESSION_MANAGER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_LOGIN_SESSION_SESSION_MANAGER_DELEGATE_IMPL_H_
 

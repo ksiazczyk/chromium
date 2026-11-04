@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touchpad scroll screen implementation
+// summary: Implements the OOBE touchpad scroll screen that toggles reverse scrolling and skips when no touchpad exists or policy disallows it.
+// ---
+
 #include "chrome/browser/ash/login/screens/touchpad_scroll_screen.h"
 
 #include "ash/constants/ash_features.h"

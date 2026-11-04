@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base OS auth setup screen implementation
+// summary: Implements shared helpers for auth setup screens to inspect the user context and keep the auth session alive while configuring factors.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/base_osauth_setup_screen.h"
 
 #include <memory>

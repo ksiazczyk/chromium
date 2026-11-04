@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS trial screen class declaration
+// summary: Declares the OsTrialScreen class with results for trying the OS, installing it, or going back.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OS_TRIAL_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OS_TRIAL_SCREEN_H_
 

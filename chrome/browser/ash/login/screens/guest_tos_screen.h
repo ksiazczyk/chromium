@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest terms of service screen header
+// summary: Declares the GuestTosScreen controller class for the guest terms of service OOBE screen with accept, back, and cancel results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_GUEST_TOS_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_GUEST_TOS_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fjord firmware update screen browser test
+// summary: Browser test verifying the Fjord firmware update OOBE screen is shown and can exit via its exit callback.
+// ---
+
 #include "chrome/browser/ash/login/screens/fjord_fw_update_screen.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gemini intro screen browser tests
+// summary: Browser tests for the Gemini intro OOBE screen covering forward and backward navigation flows and the Gamgee perk display.
+// ---
+
 #include "chrome/browser/ash/login/screens/gemini_intro_screen.h"
 
 #include "ash/constants/ash_features.h"

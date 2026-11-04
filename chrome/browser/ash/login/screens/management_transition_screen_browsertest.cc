@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagementTransitionScreen browser tests
+// summary: Parameterized browser tests covering the management transition dialog, accept flow, and error dialog for different user types.
+// ---
+
 #include "chrome/browser/ash/login/screens/management_transition_screen.h"
 
 #include <memory>

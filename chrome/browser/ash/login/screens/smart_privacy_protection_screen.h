@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart privacy protection screen header
+// summary: Declares the SmartPrivacyProtectionScreen that promotes smart privacy features during OOBE with on, off, and not-applicable results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_SMART_PRIVACY_PROTECTION_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_SMART_PRIVACY_PROTECTION_SCREEN_H_
 

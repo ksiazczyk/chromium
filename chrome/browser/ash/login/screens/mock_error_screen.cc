@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock error screen implementation
+// summary: Implements the mock error screen and view, forwarding calls to the real error screen while exposing mock hooks for network error tests.
+// ---
+
 #include "chrome/browser/ash/login/screens/mock_error_screen.h"
 
 namespace ash {

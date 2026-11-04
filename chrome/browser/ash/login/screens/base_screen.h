@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base screen header
+// summary: Declares BaseScreen, the base class for all OOBE, login, and before-session screens, defining screen IDs, priorities, skip logic, and user action handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_BASE_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_BASE_SCREEN_H_
 

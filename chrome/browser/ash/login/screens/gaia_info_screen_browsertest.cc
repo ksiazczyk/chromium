@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaia info screen browser test
+// summary: Browser tests covering forward and back flows on the Gaia info screen plus Quick Start entry point visibility and histogram metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/gaia_info_screen.h"
 
 #include "ash/constants/ash_switches.h"

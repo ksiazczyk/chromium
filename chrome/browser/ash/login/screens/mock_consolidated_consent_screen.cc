@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockConsolidatedConsentScreen implementation
+// summary: Mock implementation of the consolidated consent screen and its view that lets tests trigger screen exits directly.
+// ---
+
 #include "chrome/browser/ash/login/screens/mock_consolidated_consent_screen.h"
 
 #include "base/check.h"

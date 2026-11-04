@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enter old password screen implementation
+// summary: Implements the OOBE screen where users enter their old password during auth factor changes, handling forgot-password, AutoWipe skipping and cryptohome errors.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/enter_old_password_screen.h"
 
 #include <memory>

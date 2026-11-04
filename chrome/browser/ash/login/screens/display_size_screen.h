@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display size screen header
+// summary: Declares the DisplaySizeScreen controller for the OOBE display size screen, including zoom factor update logic and exit callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_DISPLAY_SIZE_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_DISPLAY_SIZE_SCREEN_H_
 

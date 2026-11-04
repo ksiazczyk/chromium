@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch splash screen header
+// summary: Declares AppLaunchSplashScreen, the controller for the splash screen shown while a kiosk app loads, including its Data struct and Delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_APP_LAUNCH_SPLASH_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_APP_LAUNCH_SPLASH_SCREEN_H_
 

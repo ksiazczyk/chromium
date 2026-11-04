@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consumer update screen implementation
+// summary: Implements the OOBE consumer update screen, managing update checks, reboot timing, battery warnings and update-time UMA histograms.
+// ---
+
 #include "chrome/browser/ash/login/screens/consumer_update_screen.h"
 
 #include <algorithm>

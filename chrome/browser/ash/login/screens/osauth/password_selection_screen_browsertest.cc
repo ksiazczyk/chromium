@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password selection screen browser tests
+// summary: Browser tests for the password selection screen, covering local and Gaia password choices including managed-user scenarios.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/password_selection_screen.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord station setup OOBE screen header
+// summary: Declares the FjordStationSetupScreen class for the OOBE screen explaining device calibration steps.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_FJORD_STATION_SETUP_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_FJORD_STATION_SETUP_SCREEN_H_
 

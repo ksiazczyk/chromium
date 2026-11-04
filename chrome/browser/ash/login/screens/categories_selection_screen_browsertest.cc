@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Categories selection screen browser tests
+// summary: Browser tests for the OOBE categories selection screen, using a fake apps discovery service to exercise loading, category selection, skip and error flows.
+// ---
+
 #include "chrome/browser/ash/login/screens/categories_selection_screen.h"
 
 #include "ash/constants/ash_features.h"

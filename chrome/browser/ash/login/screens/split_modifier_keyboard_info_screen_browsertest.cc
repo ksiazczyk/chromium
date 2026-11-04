@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split modifier keyboard info screen browser tests
+// summary: Browser tests covering the split modifier keyboard info screen flow for regular and child users in OOBE.
+// ---
+
 #include "chrome/browser/ash/login/screens/split_modifier_keyboard_info_screen.h"
 
 #include "ash/constants/ash_features.h"

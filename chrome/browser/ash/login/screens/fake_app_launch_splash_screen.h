@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake app launch splash screen header
+// summary: Declares FakeAppLaunchSplashScreen, a test double for the kiosk app launch splash screen exposing recorded launch state, errors, and app data.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_FAKE_APP_LAUNCH_SPLASH_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_FAKE_APP_LAUNCH_SPLASH_SCREEN_H_
 

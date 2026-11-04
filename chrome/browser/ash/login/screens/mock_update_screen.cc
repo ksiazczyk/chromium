@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock update screen implementation
+// summary: Implements the mock OS update screen and view, running the real exit path while recording calls for update screen tests.
+// ---
+
 #include "chrome/browser/ash/login/screens/mock_update_screen.h"
 
 namespace ash {

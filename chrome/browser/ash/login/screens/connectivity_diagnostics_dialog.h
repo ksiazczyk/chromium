@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectivity diagnostics dialog declaration
+// summary: Declares the ConnectivityDiagnosticsDialog system web dialog used to open the connectivity diagnostics app during login.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_CONNECTIVITY_DIAGNOSTICS_DIALOG_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_CONNECTIVITY_DIAGNOSTICS_DIALOG_H_
 

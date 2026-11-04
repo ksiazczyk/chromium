@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture navigation screen implementation
+// summary: Implements the gesture navigation education OOBE screen, including skip conditions for accessibility settings and tablet mode plus page shown time metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/gesture_navigation_screen.h"
 
 #include "ash/constants/ash_features.h"

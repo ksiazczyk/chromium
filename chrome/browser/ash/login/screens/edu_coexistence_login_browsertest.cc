@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edu coexistence login browser tests
+// summary: Browser tests for the Edu coexistence login screen, verifying regular user login skips it and child user flows show the inline login dialog.
+// ---
+
 #include "base/functional/callback.h"
 #include "base/metrics/histogram_base.h"
 #include "base/run_loop.h"

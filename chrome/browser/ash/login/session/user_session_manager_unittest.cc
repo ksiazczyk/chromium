@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User session manager unit tests
+// summary: Unit tests for UserSessionManager covering session start, device ID initialization, and password-consuming service behavior.
+// ---
+
 #include "chrome/browser/ash/login/session/user_session_manager.h"
 
 #include <string>

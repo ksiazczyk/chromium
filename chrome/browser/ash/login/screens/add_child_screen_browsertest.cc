@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Add child screen browser tests
+// summary: Browser tests covering child sign-in, child account creation, and back navigation flows of the add child OOBE screen.
+// ---
+
 #include "chrome/browser/ash/login/screens/add_child_screen.h"
 
 #include "ash/constants/ash_features.h"

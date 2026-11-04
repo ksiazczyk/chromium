@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error screen implementation
+// summary: Implements the login error screen handling offline login, captive portal, network diagnostics and kiosk app mode error states.
+// ---
+
 #include "chrome/browser/ash/login/screens/error_screen.h"
 
 #include <memory>

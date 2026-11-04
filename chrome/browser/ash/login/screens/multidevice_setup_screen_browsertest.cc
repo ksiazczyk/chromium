@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-device setup screen browser tests
+// summary: Browser tests covering the multi-device setup OOBE screen flow, user choice histograms and skip behavior.
+// ---
+
 #include "chrome/browser/ash/login/screens/multidevice_setup_screen.h"
 
 #include "base/functional/bind.h"

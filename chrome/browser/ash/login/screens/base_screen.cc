@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base screen implementation
+// summary: Implements BaseScreen's show, hide, skip, user action, and accelerator handling shared by all OOBE, login, and before-session screens.
+// ---
+
 #include "chrome/browser/ash/login/screens/base_screen.h"
 
 #include "ash/constants/ash_switches.h"

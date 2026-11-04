@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync consent screen browser tests
+// summary: Browser tests for the sync consent OOBE screen, checking consent recording, sync settings, and UI interactions.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_pref_names.h"
 #include "ash/constants/ash_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error screen controller header
+// summary: Declares the ErrorScreen class that controls the network error screen during OOBE, including captive portal handling, offline and guest sign-in toggles, and error state management.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_ERROR_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_ERROR_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CHOOBE screen controller implementation
+// summary: Implements the CHOOBE screen controller that lets users choose optional OOBE screens, handling skip, selection and dark mode defaults before theme selection.
+// ---
+
 #include "chrome/browser/ash/login/screens/choobe_screen.h"
 #include "chrome/browser/profiles/profile_manager.h"
 

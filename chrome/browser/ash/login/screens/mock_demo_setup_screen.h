@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock demo setup screen
+// summary: Declares gmock mock classes for the demo setup screen and its view, letting tests observe setup success, failure and step changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_MOCK_DEMO_SETUP_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_MOCK_DEMO_SETUP_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link notice screen header
+// summary: Declares the FamilyLinkNoticeScreen controller for the OOBE Family Link notice screen with its result enum and exit callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_FAMILY_LINK_NOTICE_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_FAMILY_LINK_NOTICE_SCREEN_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Ash login session library
+summary: Defines the session static library for ChromeOS login session management, listing its sources and its dependencies on Chrome, Ash and ChromeOS components.

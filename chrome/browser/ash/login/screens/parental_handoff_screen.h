@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parental handoff screen header
+// summary: Declares the ParentalHandoffScreen class with its done and skipped results, exit callback, and test hooks for the parental handoff OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_PARENTAL_HANDOFF_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_PARENTAL_HANDOFF_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint setup screen implementation
+// summary: Implements the FingerprintSetupScreen controller for enrolling fingerprints during OOBE, handling user actions, enrollment sessions, and UMA metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/fingerprint_setup_screen.h"
 
 #include "ash/constants/ash_pref_names.h"

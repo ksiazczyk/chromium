@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update required screen implementation
+// summary: Implements the update required OOBE screen, handling update checks, network state, end-of-life admin messages and deletion of user data.
+// ---
+
 #include "chrome/browser/ash/login/screens/update_required_screen.h"
 
 #include <algorithm>

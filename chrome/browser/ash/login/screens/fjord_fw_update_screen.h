@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord firmware update OOBE screen header
+// summary: Declares the FjordFwUpdateScreen class for the OOBE screen shown while peripherals are updated on the station in the Fjord variant.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_FJORD_FW_UPDATE_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_FJORD_FW_UPDATE_SCREEN_H_
 

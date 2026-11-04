@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: User creation screen browser test
+// summary: Browser tests for the user creation screen covering self, child, and school account flows, enrollment triage dialogs, learn-more content, and back navigation.
+// ---
+
 #include "chrome/browser/ash/login/screens/user_creation_screen.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recommend Apps screen browser test
+// summary: Browser tests for the Recommend Apps screen, simulating app fetch responses and verifying install and skip user actions.
+// ---
+
 #include "chrome/browser/ash/login/screens/recommend_apps_screen.h"
 
 #include <memory>

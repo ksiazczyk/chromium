@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Placeholder screen header
+// summary: Declares the PlaceholderScreen controller, a simple OOBE screen with next, back, and not-applicable results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_PLACEHOLDER_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_PLACEHOLDER_SCREEN_H_
 

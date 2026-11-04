@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for osauth screens
+summary: Points the directory metadata to the shared ChromeOS login lock mixins configuration.

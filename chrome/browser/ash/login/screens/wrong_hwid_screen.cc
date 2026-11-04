@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wrong HWID screen implementation
+// summary: Implements the OOBE screen shown when the device HWID is malformed, handling the skip-screen user action and exit callback.
+// ---
+
 #include "chrome/browser/ash/login/screens/wrong_hwid_screen.h"
 #include "base/memory/weak_ptr.h"
 #include "chrome/browser/ash/login/wizard_controller.h"

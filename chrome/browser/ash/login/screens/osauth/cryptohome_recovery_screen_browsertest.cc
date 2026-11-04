@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cryptohome recovery screen browser tests
+// summary: Browser tests covering the cryptohome recovery screen flow, including Gaia sign-in, password change UI, and fallback behavior.
+// ---
+
 #include <optional>
 #include <string>
 #include <utility>

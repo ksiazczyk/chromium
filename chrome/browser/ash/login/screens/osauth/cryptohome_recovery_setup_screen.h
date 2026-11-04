@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome recovery setup screen header
+// summary: Declares the CryptohomeRecoverySetupScreen controller class, its result enum, exit callback and recovery setup methods for the cryptohome recovery screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_CRYPTOHOME_RECOVERY_SETUP_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_CRYPTOHOME_RECOVERY_SETUP_SCREEN_H_
 

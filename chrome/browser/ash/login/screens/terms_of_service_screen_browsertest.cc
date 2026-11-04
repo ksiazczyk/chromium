@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Terms of Service screen browser tests
+// summary: Browser tests covering the Terms of Service screen, including policy setup, terms download, acceptance flow and UMA metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/terms_of_service_screen.h"
 
 #include "ash/public/cpp/login_screen_test_api.h"

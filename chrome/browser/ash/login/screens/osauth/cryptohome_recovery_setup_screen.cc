@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome recovery setup screen implementation
+// summary: Implements the OOBE screen that configures the cryptohome recovery auth factor, handling skip and retry user actions, opt-in checks and result metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/cryptohome_recovery_setup_screen.h"
 
 #include <optional>

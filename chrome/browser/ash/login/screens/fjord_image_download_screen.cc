@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord image download OOBE screen implementation
+// summary: Implements the Fjord OOBE screen that shows progress during the image download step.
+// ---
+
 #include "chrome/browser/ash/login/screens/fjord_image_download_screen.h"
 
 #include "chrome/browser/ash/login/oobe_screen.h"

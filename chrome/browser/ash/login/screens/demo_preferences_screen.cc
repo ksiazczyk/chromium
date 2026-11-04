@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo preferences screen implementation
+// summary: Implements the retail demo mode preferences OOBE screen, handling country selection plus retailer and store input for demo setup.
+// ---
+
 #include "chrome/browser/ash/login/screens/demo_preferences_screen.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock welcome screen implementation
+// summary: Implements the mock welcome screen and view used in place of the OOBE welcome screen during login tests.
+// ---
+
 #include "chrome/browser/ash/login/screens/mock_welcome_screen.h"
 #include "base/memory/weak_ptr.h"
 

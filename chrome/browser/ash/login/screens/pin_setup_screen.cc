@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN setup screen implementation
+// summary: Implements the OOBE PIN setup screen, handling skip reasons, policy restrictions, hardware support detection, and UMA user action metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/pin_setup_screen.h"
 
 #include <memory>

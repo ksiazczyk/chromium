@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia info screen implementation
+// summary: Implements the Gaia info OOBE screen that lets users choose manual sign-in or Quick Start, with skip logic for enterprise devices and ongoing Quick Start setups.
+// ---
+
 #include "chrome/browser/ash/login/screens/gaia_info_screen.h"
 
 #include "chrome/browser/ash/login/wizard_controller.h"

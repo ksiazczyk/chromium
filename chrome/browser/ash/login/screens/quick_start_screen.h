@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start screen header
+// summary: Declares the QuickStartScreen controller and its UI delegate role in the Quick Start OOBE flow.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_QUICK_START_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_QUICK_START_SCREEN_H_
 

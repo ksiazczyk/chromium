@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MarketingOptInScreen browser tests
+// summary: Browser tests for the marketing opt-in screen across default, extended, and double opt-in regions, checking toggles, legal footer, and accessibility UI.
+// ---
+
 #include "chrome/browser/ash/login/screens/marketing_opt_in_screen.h"
 
 #include <initializer_list>

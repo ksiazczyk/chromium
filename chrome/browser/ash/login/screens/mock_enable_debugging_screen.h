@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock enable debugging screen
+// summary: GoogleMock test double for the enable debugging OOBE screen and its view, letting login tests stub show, hide and UI state behaviour.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_MOCK_ENABLE_DEBUGGING_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_MOCK_ENABLE_DEBUGGING_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perks discovery screen header
+// summary: Declares the PerksDiscoveryScreen controller, perk payload structs, and result and error-reason enums for the perks discovery OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_PERKS_DISCOVERY_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_PERKS_DISCOVERY_SCREEN_H_
 

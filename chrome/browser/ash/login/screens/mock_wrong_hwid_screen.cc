@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock wrong HWID screen implementation
+// summary: Implements the mock wrong HWID screen and view, delegating exit handling to the real screen while recording calls for tests.
+// ---
+
 #include "chrome/browser/ash/login/screens/mock_wrong_hwid_screen.h"
 
 namespace ash {

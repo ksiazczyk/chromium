@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreOobe implementation
+// summary: Implements CoreOobe, the browser-side logic hosting the OOBE UI structure, deferring screen calls until the frontend is fully initialized.
+// ---
+
 #include "chrome/browser/ash/login/screens/core_oobe.h"
 
 #include "ash/constants/ash_features.h"

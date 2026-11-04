@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Terms of Service screen implementation
+// summary: Implements the OOBE Terms of Service screen that downloads policy-configured terms and handles accept, decline and retry during login.
+// ---
+
 #include "chrome/browser/ash/login/screens/terms_of_service_screen.h"
 
 #include <string>

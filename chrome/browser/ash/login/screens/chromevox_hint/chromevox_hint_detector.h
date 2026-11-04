@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVoxHintDetector class header
+// summary: Declares the ChromeVoxHintDetector helper class and its Observer interface for idle-based ChromeVox hint triggering.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_CHROMEVOX_HINT_CHROMEVOX_HINT_DETECTOR_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_CHROMEVOX_HINT_CHROMEVOX_HINT_DETECTOR_H_
 

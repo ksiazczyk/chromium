@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock demo preferences screen implementation
+// summary: Implements the mock demo preferences screen and view, providing constructors and an exit callback helper for tests.
+// ---
+
 #include "chrome/browser/ash/login/screens/mock_demo_preferences_screen.h"
 #include "base/memory/weak_ptr.h"
 

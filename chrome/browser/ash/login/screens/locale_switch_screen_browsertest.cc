@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocaleSwitchScreen browser tests
+// summary: Browser tests for the locale switch screen that fake People API responses and verify locale switching results and timeouts.
+// ---
+
 #include "chrome/browser/ash/login/screens/locale_switch_screen.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo setup screen header
+// summary: Declares the DemoSetupScreen class that controls retail demo mode setup during OOBE, including setup steps and error handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_DEMO_SETUP_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_DEMO_SETUP_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network screen browser tests
+// summary: Browser tests for the OOBE network selection screen covering Wi-Fi setup, dialogs and Quick Start entry point metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/network_screen.h"
 
 #include <memory>

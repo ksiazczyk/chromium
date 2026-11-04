@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Chrome session manager
+// summary: Browser tests exercising session manager startup flows, multi-user session adding, and RLZ-related session initialization on ChromeOS.
+// ---
+
 #include "chrome/browser/ash/login/session/chrome_session_manager.h"
 
 #include <memory>

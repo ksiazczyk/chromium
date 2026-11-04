@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session length limiter implementation
+// summary: Enforces a policy-set session length limit by tracking the session start time and signing the user out when the limit, clamped between 30 seconds and 24 hours, is reached.
+// ---
+
 #include "chrome/browser/ash/login/session/session_length_limiter.h"
 
 #include <algorithm>
