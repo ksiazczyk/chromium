@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native contextual search context header
+// summary: Declares NativeContextualSearchContext, a JNI-modifiable ContextualSearchContext subclass whose lifetime is managed by the associated Java object.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_CONTEXTUALSEARCH_NATIVE_CONTEXTUAL_SEARCH_CONTEXT_H_
 #define CHROME_BROWSER_ANDROID_CONTEXTUALSEARCH_NATIVE_CONTEXTUAL_SEARCH_CONTEXT_H_
 

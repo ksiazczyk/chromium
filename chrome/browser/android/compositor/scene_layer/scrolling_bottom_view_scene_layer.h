@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrolling bottom view scene layer declaration
+// summary: Declares the scene layer class that renders a scrolling bottom view with shadow and offset tag support.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_SCROLLING_BOTTOM_VIEW_SCENE_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_SCROLLING_BOTTOM_VIEW_SCENE_LAYER_H_
 

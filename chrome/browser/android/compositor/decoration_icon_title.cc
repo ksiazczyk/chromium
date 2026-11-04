@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoration icon title layer implementation
+// summary: Implements a title decoration layer that renders text together with an icon for the Android tab strip.
+// ---
+
 #include "chrome/browser/android/compositor/decoration_icon_title.h"
 
 #include <android/bitmap.h>

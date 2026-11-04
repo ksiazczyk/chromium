@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Detached resource request unit tests
+// summary: Unit tests for detached resource requests using an embedded test server, covering cookies, redirects, caching, large responses and histogram reporting.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

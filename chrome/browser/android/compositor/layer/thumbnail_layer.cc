@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail layer implementation
+// summary: Implements a UI resource layer that renders tab thumbnails, supporting clipping, size updates and insertion into a parent layer.
+// ---
+
 #include "chrome/browser/android/compositor/layer/thumbnail_layer.h"
 
 #include "cc/slim/ui_resource_layer.h"

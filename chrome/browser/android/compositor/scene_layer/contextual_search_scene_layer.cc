@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search scene layer implementation
+// summary: Implements the native scene layer for the Contextual Search panel, managing the search bar, promo, progress bar, and related searches via ContextualSearchLayer.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/contextual_search_scene_layer.h"
 
 #include "base/android/jni_android.h"

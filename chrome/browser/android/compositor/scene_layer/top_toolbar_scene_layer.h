@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top toolbar scene layer header
+// summary: Declares the TopToolbarSceneLayer class and its JNI methods for updating the toolbar layer, progress bar, content tree and background appearance on Android.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_TOP_TOOLBAR_SCENE_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_TOP_TOOLBAR_SCENE_LAYER_H_
 

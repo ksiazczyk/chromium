@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer base class
+// summary: Declares the base Layer interface, a simple ref-counted wrapper around cc::slim::Layer that compositor sub-layers override.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_LAYER_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_LAYER_LAYER_H_
 

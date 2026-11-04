@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Compositor layer OWNERS
+summary: Delegates ownership of tab handle and group indicator layer files to the tab strip OWNERS via per-file rules.

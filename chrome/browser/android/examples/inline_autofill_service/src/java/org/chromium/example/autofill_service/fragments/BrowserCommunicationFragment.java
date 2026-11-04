@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserCommunicationFragment
+// summary: Secondary fragment of the inline autofill example's landing page that explains how an app can communicate with Chromium and navigates back to the instructions fragment.
+// ---
+
 package org.chromium.example.autofill_service.fragments;
 
 import android.os.Bundle;

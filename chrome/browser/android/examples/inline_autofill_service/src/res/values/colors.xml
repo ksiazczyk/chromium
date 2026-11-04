@@ -4,6 +4,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: config
+title: Inline autofill example color resources
+summary: Defines the ic_launcher_background color (#fafcfe) used for the example app's launcher icon.
+-->
+
 <resources>
     <color name="ic_launcher_background">#fafcfe</color>
 </resources>

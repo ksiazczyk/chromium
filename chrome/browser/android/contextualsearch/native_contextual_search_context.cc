@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native contextual search context implementation
+// summary: Implements the JNI-backed NativeContextualSearchContext with resolve properties, selection adjustment and language detection for Contextual Search.
+// ---
+
 #include "chrome/browser/android/contextualsearch/native_contextual_search_context.h"
 
 #include <string>

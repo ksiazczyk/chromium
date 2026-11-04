@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartnerBrowserCustomizationsProviderExample
+// summary: Sample Android ContentProvider demonstrating partner customizations for Chrome on Android, such as supplying a homepage and disabling incognito mode or bookmark editing.
+// ---
+
 // Package path can be changed, but should match <manifest package="..."> in AndroidManifest.xml.
 package org.chromium.example.partnercustomizations;
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab interaction recorder implementation
+// summary: Implements TabInteractionRecorderAndroid and its autofill observer, recording form interactions and navigation state for Custom Tabs sessions.
+// ---
+
 #include "chrome/browser/android/customtabs/tab_interaction_recorder_android.h"
 
 #include <memory>

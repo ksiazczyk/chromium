@@ -4,6 +4,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: source
+title: Settings activity layout
+summary: Defines a simple vertical settings screen that shows a settings message and excludes the view and its descendants from autofill.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"

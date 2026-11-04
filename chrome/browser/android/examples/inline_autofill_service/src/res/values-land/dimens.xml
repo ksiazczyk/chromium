@@ -3,6 +3,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: config
+title: Landscape dimension resources for inline autofill example
+summary: Defines the fab_margin dimension (48dp) used by the inline autofill example in landscape orientation.
+-->
+
 <resources>
   <dimen name="fab_margin">48dp</dimen>
 </resources>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top toolbar scene layer implementation
+// summary: Implements TopToolbarSceneLayer, updating the compositor toolbar layer, progress bar and content tree for the Android top toolbar, including anonymization and offset tag support.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/top_toolbar_scene_layer.h"
 
 #include "base/android/jni_android.h"

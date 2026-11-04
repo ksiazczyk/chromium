@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarResource implementation
+// summary: Implements the ToolbarResource class, including safe downcasting from a generic ui::Resource and copy creation with toolbar and location bar rects and shadow height.
+// ---
+
 #include "chrome/browser/android/compositor/resources/toolbar_resource.h"
 
 #include <memory>

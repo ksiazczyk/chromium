@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabUnderlineManager implementation
+// summary: Implements the JNI bridge that tracks tabs and drives underline state through the glic TabUnderlineController and the Java TabUnderlineManager.
+// ---
+
 #include "chrome/browser/android/compositor/tab_underline_manager.h"
 
 #include "chrome/android/chrome_jni_headers/TabUnderlineManager_jni.h"

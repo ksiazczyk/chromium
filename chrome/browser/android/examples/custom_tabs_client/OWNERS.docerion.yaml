@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Custom Tabs client owners
+summary: Lists the owners responsible for reviewing changes to the custom tabs client example, inheriting from the custom tabs OWNERS file.

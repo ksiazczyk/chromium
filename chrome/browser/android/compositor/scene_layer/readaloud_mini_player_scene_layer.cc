@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud mini player scene layer implementation
+// summary: Implements the JNI-backed compositor layer that draws the Read Aloud mini player background and attaches the content tree.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/readaloud_mini_player_scene_layer.h"
 
 #include "cc/slim/layer.h"

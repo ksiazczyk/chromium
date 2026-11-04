@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentLayer class declaration
+// summary: Declares ContentLayer, a sub-layer tree for tab contents that can temporarily show a static thumbnail when live content is unavailable.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_LAYER_CONTENT_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_LAYER_CONTENT_LAYER_H_
 

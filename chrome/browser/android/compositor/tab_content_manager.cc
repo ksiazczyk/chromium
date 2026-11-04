@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContentManager implementation
+// summary: Implements the native TabContentManager that captures, caches, and manages tab thumbnail layers for the Android tab switcher, including readback retries.
+// ---
+
 #include "chrome/browser/android/compositor/tab_content_manager.h"
 
 #include <android/bitmap.h>

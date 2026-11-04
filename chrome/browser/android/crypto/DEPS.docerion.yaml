@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for crypto
+summary: Sets include rules that block chrome/browser and content/public/android imports while allowing content_public Java sources for the crypto directory.

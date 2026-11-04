@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DistillerUIHandleAndroid implementation
+// summary: Implements OpenSettings as NOTIMPLEMENTED, with a TODO noting the UI handle system is no longer used and should be cleaned up.
+// ---
+
 #include "chrome/browser/android/dom_distiller/distiller_ui_handle_android.h"
 
 #include "base/notimplemented.h"

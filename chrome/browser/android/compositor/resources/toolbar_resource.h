@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarResource class declaration
+// summary: Declares the ToolbarResource ui::Resource subclass holding toolbar and location bar rectangles and shadow height for the Android compositor.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_RESOURCES_TOOLBAR_RESOURCE_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_RESOURCES_TOOLBAR_RESOURCE_H_
 

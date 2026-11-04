@@ -1,3 +1,11 @@
+---
+type: guide
+title: Testing Chrome Custom Tabs with Chromium
+summary: Explains how to build, install and run the Chrome Custom Tabs example app against a Chromium build on Android.
+relations:
+  - references /docs/android_build_instructions.md
+---
+
 # Testing Chrome Custom Tabs with Chromium
 
 [TOC]

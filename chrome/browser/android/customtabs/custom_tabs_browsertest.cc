@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tabs client data header browser test
+// summary: Browser test verifying that the X-CCT-Client-Data header is sent with Custom Tabs requests, including subframes and images, and that the header value can be updated between requests.
+// ---
+
 #include <tuple>
 
 #include "base/run_loop.h"

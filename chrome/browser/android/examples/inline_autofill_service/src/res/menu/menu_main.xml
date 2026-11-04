@@ -3,6 +3,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: asset
+title: Main menu resource for the inline autofill service example
+summary: Android menu XML that defines the options menu for the example's MainActivity, including a settings action item shown in the overflow menu.
+-->
+
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"

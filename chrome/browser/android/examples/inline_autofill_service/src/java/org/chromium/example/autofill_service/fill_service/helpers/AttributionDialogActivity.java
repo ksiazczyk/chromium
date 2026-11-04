@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttributionDialogActivity for inline suggestion attribution
+// summary: Activity that shows a dialog explaining the source of an inline autofill suggestion when long-pressed, with buttons to open settings or dismiss.
+// ---
+
 package org.chromium.example.autofill_service.fill_service.helpers;
 
 import android.app.Activity;

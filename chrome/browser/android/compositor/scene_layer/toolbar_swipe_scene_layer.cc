@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar swipe scene layer implementation
+// summary: Implements ToolbarSwipeSceneLayer, which shows left and right tab content layers from the tab content manager while the user swipes the toolbar on Android.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/toolbar_swipe_scene_layer.h"
 
 #include "chrome/browser/android/compositor/layer/content_layer.h"

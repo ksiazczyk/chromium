@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InlineFillService
+// summary: Example Android AutofillService that responds to fill requests with dynamically generated datasets supporting inline suggestions and handles save requests via ResponseHelper.
+// ---
+
 package org.chromium.example.autofill_service.fill_service;
 
 import android.os.CancellationSignal;

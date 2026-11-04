@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Static tab scene layer implementation
+// summary: Implements the compositor layer that renders a static tab's content using the tab content manager and content layer.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/static_tab_scene_layer.h"
 
 #include <vector>

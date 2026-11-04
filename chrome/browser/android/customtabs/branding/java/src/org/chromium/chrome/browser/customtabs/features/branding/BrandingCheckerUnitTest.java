@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BrandingChecker
+// summary: Robolectric unit tests verifying BrandingChecker decisions and stored branding times for known, new, and invalid packages.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import static com.google.common.truth.Truth.assertThat;

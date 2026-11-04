@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge-to-edge bottom chin scene layer implementation
+// summary: Implements the compositor scene layer for the edge-to-edge bottom chin, drawing its color, divider, and optional debug layers and propagating the content background.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/edge_to_edge_bottom_chin_scene_layer.h"
 
 #include "base/android/jni_android.h"

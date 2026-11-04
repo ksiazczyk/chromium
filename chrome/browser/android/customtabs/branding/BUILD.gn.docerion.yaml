@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Custom Tabs branding
+summary: Defines GN targets for the Custom Tabs branding Java library, its resources, protobuf, and Robolectric unit tests.

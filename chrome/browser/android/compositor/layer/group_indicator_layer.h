@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupIndicatorLayer class declaration
+// summary: Declares GroupIndicatorLayer, which renders tab group indicator visuals such as titles, bubbles, outlines, and keyboard focus rings.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_LAYER_GROUP_INDICATOR_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_LAYER_GROUP_INDICATOR_LAYER_H_
 

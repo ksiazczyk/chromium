@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar branding delegate interface
+// summary: Interface for the toolbar branding strategy to switch the location bar between branding, empty, and regular states with transitions.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import org.chromium.build.annotations.NullMarked;

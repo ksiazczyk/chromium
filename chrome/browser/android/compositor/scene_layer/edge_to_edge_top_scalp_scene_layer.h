@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge-to-edge top scalp scene layer header
+// summary: Declares EdgeToEdgeTopScalpSceneLayer, which updates the compositor view of the edge-to-edge top scalp area with size, color, and y-offset parameters.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_EDGE_TO_EDGE_TOP_SCALP_SCENE_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_EDGE_TO_EDGE_TOP_SCALP_SCENE_LAYER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android content Java library and JNI headers
+summary: GN build file defining the Android Java library and JNI header generation for ContentUtils and WebContentsFactory.

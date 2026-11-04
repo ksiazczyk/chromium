@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar scene layer header
+// summary: Declares the BookmarkBarSceneLayer class that composes container, snapshot, and hairline layers to render the bookmark bar in the Android browser compositor.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_BOOKMARK_BAR_SCENE_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_BOOKMARK_BAR_SCENE_LAYER_H_
 

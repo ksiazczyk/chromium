@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: MyApplication
+// summary: Application class that creates the notification channel used by the example app's background service notifications.
+// ---
+
 package org.chromium.customtabsclient;
 
 import android.app.Application;

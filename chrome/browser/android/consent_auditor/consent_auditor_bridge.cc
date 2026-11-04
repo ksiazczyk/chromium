@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consent auditor JNI bridge
+// summary: C++ JNI bridge that receives sync consent details from Android Java code and records them via the profile's ConsentAuditor.
+// ---
+
 #include <jni.h>
 
 #include <string>

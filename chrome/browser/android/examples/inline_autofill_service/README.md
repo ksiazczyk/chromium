@@ -1,3 +1,11 @@
+---
+type: readme
+title: Testing Chromium with AutofillServices
+summary: Describes what the example AutofillService does and how to build, install and use it to test Chromium autofill on Android.
+relations:
+  - references /docs/android_build_instructions.md
+---
+
 # Testing Chromium with AutofillServices
 
 [TOC]

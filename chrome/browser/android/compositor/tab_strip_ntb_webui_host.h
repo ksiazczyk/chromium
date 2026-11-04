@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripNtbWebUiHost class declaration
+// summary: Declares the native counterpart of the Java NtbWebUiCoordinator that hosts the tab strip new-tab-button WebUI and exposes its compositor layer.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_TAB_STRIP_NTB_WEBUI_HOST_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_TAB_STRIP_NTB_WEBUI_HOST_H_
 

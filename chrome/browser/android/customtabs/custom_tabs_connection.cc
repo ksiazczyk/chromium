@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabsConnection JNI implementation
+// summary: JNI bridge for CustomTabsConnection that creates and starts detached resource requests from Java and sets the client data header on a web contents.
+// ---
+
 #include <memory>
 
 #include "base/android/jni_android.h"

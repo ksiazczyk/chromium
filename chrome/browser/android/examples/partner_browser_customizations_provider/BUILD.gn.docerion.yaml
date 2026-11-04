@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the partner customizations example APK
+summary: GN build definition for the partner_browser_customizations_example_apk, including its Java sources and Android resources.

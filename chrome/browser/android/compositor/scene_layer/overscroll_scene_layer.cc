@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscroll scene layer implementation
+// summary: Implements the native scene layer that drives Android overscroll glow effects, handling animation, edge effects, and content tree attachment.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/overscroll_scene_layer.h"
 
 #include "ui/android/resources/resource_manager_impl.h"

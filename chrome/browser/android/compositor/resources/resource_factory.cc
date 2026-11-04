@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceFactory JNI implementation for toolbar container resources
+// summary: Implements the JNI ResourceFactory entry point that constructs a ToolbarResource from toolbar and location bar rectangle coordinates plus shadow height.
+// ---
+
 #include "chrome/browser/android/compositor/resources/toolbar_resource.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

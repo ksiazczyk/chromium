@@ -3,6 +3,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: config
+title: Inline autofill example dimension resources
+summary: Defines the fab_margin dimension (16dp) used by the example app's layouts.
+-->
+
 <resources>
   <dimen name="fab_margin">16dp</dimen>
 </resources>

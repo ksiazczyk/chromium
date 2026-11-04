@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoration icon title class declaration
+// summary: Declares DecorationIconTitle, a DecorationTitle subclass adding an icon layer with padding and visibility control.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_DECORATION_ICON_TITLE_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_DECORATION_ICON_TITLE_H_
 

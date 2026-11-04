@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstructionsFragment
+// summary: Primary landing page fragment describing setup of the bundled AutofillService, with a clickable link that opens the Android autofill provider settings and lists Chrome channel package names.
+// ---
+
 package org.chromium.example.autofill_service.fragments;
 
 import android.content.ActivityNotFoundException;

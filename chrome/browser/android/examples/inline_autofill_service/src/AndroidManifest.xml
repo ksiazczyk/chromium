@@ -4,6 +4,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: config
+title: Android manifest for the inline autofill service example app
+summary: Declares the example app's activities, the InlineFillService autofill service with its permission and config, and queries for Chrome browser packages.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.chromium.example.autofill_service"
     android:versionCode="1"

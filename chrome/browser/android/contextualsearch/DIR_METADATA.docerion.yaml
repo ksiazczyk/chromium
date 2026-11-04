@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Contextual Search directory metadata
+summary: Declares the monorail component, team email and Buganizer component used for tracking issues in the Contextual Search directory.

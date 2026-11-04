@@ -3,6 +3,13 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Chrome Custom Tabs example app string resources
+summary: Android string resources providing the UI labels, messages, button texts and default values used by the Chrome Custom Tabs example client.
+-->
+
 <resources>
     <!-- go/keep-sorted start group_start_regex=<string -->
     <string name="add_extra_image_custom_menu_item_text"> Add an additional Image Contextual Menu Item </string>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the scene_layer directory
+summary: Defines per-file code owners and reviewers for the Android compositor scene layer directory, delegating tab strip and bookmark files to other owning teams.

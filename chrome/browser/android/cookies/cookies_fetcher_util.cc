@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI glue for fetching and restoring incognito cookies
+// summary: Implements the JNI bindings that persist cookies on pause and restore them on resume for the Android incognito session.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/jni_string.h"
 #include "base/android/scoped_java_ref.h"

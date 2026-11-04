@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscroll scene layer for gesture navigation glow
+// summary: Declares the native scene layer that drives the overscroll glow animation effect for gesture navigation on Android.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_OVERSCROLL_SCENE_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_OVERSCROLL_SCENE_LAYER_H_
 

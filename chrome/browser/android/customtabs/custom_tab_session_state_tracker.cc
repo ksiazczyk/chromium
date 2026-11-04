@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab session state tracker
+// summary: Implements the singleton tracker recording custom tab session metrics and the CustomTabsOpenTimeRecorder JNI hook.
+// ---
+
 #include "chrome/browser/android/customtabs/custom_tab_session_state_tracker.h"
 
 #include "base/android/jni_string.h"

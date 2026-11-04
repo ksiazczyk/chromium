@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentUtils native user agent handling
+// summary: Native JNI implementation that returns the browser user agent and applies desktop user agent overrides, including Chrome OS spoofing, for Android WebContents.
+// ---
+
 #include "base/android/device_info.h"
 #include "base/android/jni_string.h"
 #include "components/embedder_support/user_agent_utils.h"

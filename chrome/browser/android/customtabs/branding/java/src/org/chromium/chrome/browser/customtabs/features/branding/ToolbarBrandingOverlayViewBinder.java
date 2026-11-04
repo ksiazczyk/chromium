@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar branding overlay view binder
+// summary: Binds overlay property changes to views by applying background and text colors, icon tint, and alpha and drawable level driven by the hiding progress.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import static org.chromium.chrome.browser.customtabs.features.branding.ToolbarBrandingOverlayProperties.COLOR_DATA;

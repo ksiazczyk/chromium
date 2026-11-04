@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Chrome Custom Tabs example app theme
+summary: Android theme resource defining the example app's DayNight theme based on Material 3 Expressive with a light status bar setting.
+-->
+
 <resources>
     <style name="Theme.App.DayNight" parent="Theme.Material3Expressive.DayNight">
         <item name="android:windowLightStatusBar">?attr/isLightTheme</item>

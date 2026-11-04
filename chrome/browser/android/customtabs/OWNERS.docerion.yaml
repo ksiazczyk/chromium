@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Custom tabs code owners reference
+summary: Points to the OWNERS file in the Chrome Java custom tabs source directory for review ownership.

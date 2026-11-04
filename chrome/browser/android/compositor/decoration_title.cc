@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecorationTitle implementation
+// summary: Implements the DecorationTitle class that renders tab title layers with opaque and fade components, handling RTL layout and bounds for the Android compositor.
+// ---
+
 #include "chrome/browser/android/compositor/decoration_title.h"
 
 #include <android/bitmap.h>

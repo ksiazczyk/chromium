@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Android compositor directory
+summary: Restricts includes in this directory to cc/slim, cc/layers and cc/resources.

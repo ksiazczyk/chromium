@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayPanelLayer class declaration
+// summary: Declares OverlayPanelLayer, the base class for overlay panel compositor layers, managing bar, icon, shadow, and progress bar sub-layers.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_LAYER_OVERLAY_PANEL_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_LAYER_OVERLAY_PANEL_LAYER_H_
 

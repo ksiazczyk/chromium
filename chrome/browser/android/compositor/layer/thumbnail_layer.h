@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail layer header
+// summary: Declares the ThumbnailLayer class for displaying tab thumbnails with clipping and parent attachment helpers.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_LAYER_THUMBNAIL_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_LAYER_THUMBNAIL_LAYER_H_
 

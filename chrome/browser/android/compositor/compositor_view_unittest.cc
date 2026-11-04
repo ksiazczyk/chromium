@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CompositorView
+// summary: Tests CompositorView behavior using a mock compositor and a fake tab content manager.
+// ---
+
 #include "chrome/browser/android/compositor/compositor_view.h"
 
 #include <memory>

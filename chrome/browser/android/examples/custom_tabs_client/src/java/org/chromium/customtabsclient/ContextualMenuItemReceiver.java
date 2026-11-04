@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualMenuItemReceiver
+// summary: Broadcast receiver that handles triggered contextual menu item callbacks for images and links and shows a notification with the selected content details.
+// ---
+
 package org.chromium.customtabsclient;
 
 import static androidx.browser.customtabs.CustomTabsIntent.CONTENT_TARGET_TYPE_IMAGE;

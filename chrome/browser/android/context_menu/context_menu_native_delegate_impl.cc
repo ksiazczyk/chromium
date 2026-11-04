@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextMenuNativeDelegateImpl implementation
+// summary: Implements the native delegate behind Android context menus, handling image retrieval and decoding, downloads, image search, inspect element, picture-in-picture, and video frame actions.
+// ---
+
 #include "chrome/browser/android/context_menu/context_menu_native_delegate_impl.h"
 
 #include <utility>

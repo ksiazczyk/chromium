@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for the inline AutofillService example APK
+summary: Defines the GN targets that build the example AutofillService APK, listing its Java sources, Android resources and dependencies.

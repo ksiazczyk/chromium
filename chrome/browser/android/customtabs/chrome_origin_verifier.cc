@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome origin verifier JNI bridge
+// summary: Implements the native JNI bridge for ChromeOriginVerifier, delegating origin verification and counting clear browsing data calls for tests.
+// ---
+
 #include "chrome/browser/android/customtabs/chrome_origin_verifier.h"
 
 #include "base/android/jni_android.h"

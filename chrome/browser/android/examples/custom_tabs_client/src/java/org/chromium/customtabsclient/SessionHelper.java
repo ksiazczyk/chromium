@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionHelper
+// summary: Helper class that tracks the current CustomTabsSession or AuthTabSession and gives other app components access to it.
+// ---
+
 package org.chromium.customtabsclient;
 
 import androidx.browser.auth.AuthTabSession;

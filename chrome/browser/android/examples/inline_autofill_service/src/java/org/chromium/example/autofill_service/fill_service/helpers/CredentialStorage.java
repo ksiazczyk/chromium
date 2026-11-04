@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialStorage helper for SharedPreferences credentials
+// summary: Stores and retrieves username/password credentials as JSON entries in SharedPreferences, returning example credentials when storage is empty.
+// ---
+
 package org.chromium.example.autofill_service.fill_service.helpers;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab title decoration implementation
+// summary: Implements tab title decorations with loading spinner rotation and tab bubble circle layers.
+// ---
+
 #include "chrome/browser/android/compositor/decoration_tab_title.h"
 
 #include <android/bitmap.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip NTB WebUI host implementation
+// summary: Implements the Android host that creates a transparent WebContents for the tab strip new-tab-button WebUI, binds it to a tab strip service backed by the tab model, and tears it down when the tab model is removed.
+// ---
+
 #include "chrome/browser/android/compositor/tab_strip_ntb_webui_host.h"
 
 #include "base/check.h"

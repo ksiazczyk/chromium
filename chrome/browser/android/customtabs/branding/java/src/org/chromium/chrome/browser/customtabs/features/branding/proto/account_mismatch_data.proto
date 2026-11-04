@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account mismatch data protobuf definitions
+// summary: Proto2 definitions for Custom Tabs branding that store per-account and per-app sign-in prompt UI data such as show counts, close types, and user actions.
+// ---
+
 syntax = "proto2";
 
 package customtabs.branding;

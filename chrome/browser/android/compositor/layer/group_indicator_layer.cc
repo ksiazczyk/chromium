@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupIndicatorLayer implementation
+// summary: Implements the compositor layer for tab group indicators, covering tinted backgrounds, group titles, notification bubbles, and keyboard focus rings.
+// ---
+
 #include "chrome/browser/android/compositor/layer/group_indicator_layer.h"
 
 #include "cc/slim/nine_patch_layer.h"

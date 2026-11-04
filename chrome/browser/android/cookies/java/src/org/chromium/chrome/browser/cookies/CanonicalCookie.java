@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CanonicalCookie
+// summary: Java representation of the native CanonicalCookie class that models cookie attributes and provides static methods to serialize and restore cookie lists to and from streams.
+// ---
+
 package org.chromium.chrome.browser.cookies;
 
 import org.chromium.build.annotations.NullMarked;

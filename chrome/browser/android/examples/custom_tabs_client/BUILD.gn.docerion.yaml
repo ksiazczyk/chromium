@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Custom Tabs client example build configuration
+summary: Defines the Android resources and the custom_tabs_client_example_apk build target for the Chrome Custom Tabs client example.

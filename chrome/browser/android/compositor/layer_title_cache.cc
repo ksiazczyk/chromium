@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTitleCache implementation
+// summary: Implements the native part of the Java LayerTitleCache, building and updating title layers for individual tabs and tab groups.
+// ---
+
 #include "chrome/browser/android/compositor/layer_title_cache.h"
 
 #include <android/bitmap.h>

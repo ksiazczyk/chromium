@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrandingChecker async task for custom tab branding checks
+// summary: Async task that fetches per-app branding launch times from storage and computes the branding decision for an embedded app.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

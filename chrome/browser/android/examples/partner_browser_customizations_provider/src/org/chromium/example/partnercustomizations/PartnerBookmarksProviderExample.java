@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartnerBookmarksProviderExample
+// summary: Sample Android ContentProvider implementing the PartnerBookmarksContract API that serves partner bookmarks and the root bookmarks folder name from app resources for Chrome on Android.
+// ---
+
 package org.chromium.example.partnercustomizations;
 
 import android.content.ContentProvider;

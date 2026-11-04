@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Custom tabs directory metadata
+summary: Routes custom tabs bugs to the UI>Browser>Mobile>CustomTabs component and the mobile web install team.
