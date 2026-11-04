@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Adaptive toolbar preference radio button group layout
+summary: Settings layout with radio buttons for choosing the adaptive toolbar button behavior, such as usage-based, new tab, share, voice search and translate.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

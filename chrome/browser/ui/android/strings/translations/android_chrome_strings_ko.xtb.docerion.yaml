@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_ko.xtb.
+type: data
+title: Korean Android Chrome strings translation bundle
+summary: Korean translations of Chrome for Android UI strings, covering incognito mode, passwords, tab groups and other features, in XTB XML format.

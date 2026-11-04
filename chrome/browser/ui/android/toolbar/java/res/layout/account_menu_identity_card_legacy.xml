@@ -6,6 +6,13 @@ found in the LICENSE file.
 -->
 <!-- TODO(crbug.com/565733817): Remove this file when
      SigninButtonProfileMenuRefinements is launched. -->
+
+<!--docerion
+type: source
+title: Legacy account menu identity card layout
+summary: Legacy material card layout for the account menu identity, kept until the SigninButtonProfileMenuRefinements launch.
+-->
+
 <org.chromium.components.browser_ui.widget.MaterialCardViewNoShadow
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

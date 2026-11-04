@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_uz.xtb.
+type: data
+title: Android Chrome strings translations in Uzbek
+summary: Uzbek XTB translation bundle mapping Chrome for Android message IDs to localized UI strings such as incognito, passwords, and tab groups.

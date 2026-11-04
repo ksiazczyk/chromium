@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModel Android tab model base class
+// summary: Declares the abstract TabModel interface that lets Chrome interact with Android tabs, including tab model types and tab launch types.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_TAB_MODEL_TAB_MODEL_H_
 #define CHROME_BROWSER_UI_ANDROID_TAB_MODEL_TAB_MODEL_H_
 

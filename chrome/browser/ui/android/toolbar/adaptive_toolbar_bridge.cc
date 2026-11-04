@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive toolbar JNI bridge implementation
+// summary: Implements the native bridge that maps segmentation platform results to adaptive toolbar button variants.
+// ---
+
 #include "chrome/browser/ui/android/toolbar/adaptive_toolbar_bridge.h"
 
 #include "base/android/callback_android.h"

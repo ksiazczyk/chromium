@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_mn.xtb.
+type: data
+title: Mongolian Android Chrome strings translation bundle
+summary: Mongolian translations of Chrome for Android UI strings including incognito mode, passwords and sync messages, stored in XTB XML format.

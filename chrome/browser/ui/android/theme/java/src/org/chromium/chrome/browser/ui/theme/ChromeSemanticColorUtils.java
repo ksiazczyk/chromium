@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSemanticColorUtils for Chrome-specific semantic colors
+// summary: Provides Chrome-specific semantic color getters that map named UI colors, such as promo backgrounds and home surface background, to shared SemanticColorUtils values.
+// ---
+
 package org.chromium.chrome.browser.ui.theme;
 
 import android.content.Context;

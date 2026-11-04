@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_th.xtb.
+type: data
+title: Android Chrome strings translations in Thai
+summary: Thai XTB translation bundle mapping Chrome for Android message IDs to localized UI strings such as incognito, passwords, and search prompts.

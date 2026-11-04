@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: asset
+title: Close all tabs vector icon
+summary: Vector icon of a window with an X mark, tinted with the default icon color, for the close all tabs toolbar action.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
     android:height="24dp"

@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!-- The toolbar containing the URL bar, back button, and NTP button. -->
+
+<!--docerion
+type: source
+title: Phone toolbar layout
+summary: Layout of the phone top toolbar containing the URL bar, home and back buttons, optional and sign-in button stubs, tab switcher and menu.
+-->
+
 <org.chromium.chrome.browser.toolbar.top.ToolbarPhone
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Adaptive toolbar preference screen XML
+summary: Android preference screen XML defining the adaptive toolbar settings, including a header, a toolbar shortcut switch, and a radio button group for choosing toolbar buttons.
+-->
+
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">

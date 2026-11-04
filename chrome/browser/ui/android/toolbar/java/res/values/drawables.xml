@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Toolbar drawable aliases
+summary: Maps toolbar drawable names to themed variants, aliasing the update badge and filled error icon to their dark and grey versions.
+-->
+
 <resources>
     <drawable name="badge_update">@drawable/badge_update_dark</drawable>
     <drawable name="ic_error_24dp_filled">@drawable/ic_error_grey800_24dp_filled</drawable>

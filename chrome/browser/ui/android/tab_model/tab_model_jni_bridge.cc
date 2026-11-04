@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModel JNI bridge implementation
+// summary: Implements the C++ side of the JNI bridge that forwards tab model operations such as tab creation, grouping, and muting to the Java TabModel.
+// ---
+
 #include "chrome/browser/ui/android/tab_model/tab_model_jni_bridge.h"
 
 #include <jni.h>

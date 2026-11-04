@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Toolbar action and menu IDs
+summary: Declares resource IDs for tab actions and toolbar menu items, including bookmarking, tab grouping, sharing, pinning, and incognito window entries.
+-->
+
 <resources>
     <!-- Tab Actions -->
     <!-- go/keep-sorted start -->

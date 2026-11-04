@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Toolbar position state animation
+summary: Animated selector that switches between the toolbar-on-top and toolbar-on-bottom drawables with transition animations.
+-->
+
 <animated-selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/top" android:state_selected="true"
         android:drawable="@drawable/toolbar_on_top" />

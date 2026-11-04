@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_lt.xtb.
+type: data
+title: Lithuanian Android Chrome strings translation bundle
+summary: Lithuanian translations of Chrome for Android UI strings covering incognito mode, passwords, tab groups and related features, in XTB XML format.

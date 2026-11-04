@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Toolbar directory include rules
+summary: Lists include rules that restrict which other directories this toolbar code may depend on.

@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_is.xtb.
+type: data
+title: Icelandic Android Chrome strings translation bundle
+summary: Icelandic translation bundle holding localized Chrome for Android UI strings, including prompts for Incognito mode, passwords, sync, and downloads.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelObserverJniBridge implementation
+// summary: Implements the JNI bridge that translates Java TabModelObserver notifications such as tab selection, addition, closing and group changes into native observer callbacks.
+// ---
+
 #include "chrome/browser/ui/android/tab_model/tab_model_observer_jni_bridge.h"
 
 #include <vector>

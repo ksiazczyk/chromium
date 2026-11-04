@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomUiThemeColorProviderTest
+// summary: Robolectric tests covering BottomUiThemeColorProvider behavior for top- and bottom-anchored toolbars and the Android bottom bar feature.
+// ---
+
 package org.chromium.chrome.browser.theme;
 
 import static org.junit.Assert.assertEquals;

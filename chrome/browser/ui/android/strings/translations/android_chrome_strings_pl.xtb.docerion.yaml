@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_pl.xtb.
+type: data
+title: Polish Android Chrome strings translation bundle
+summary: Polish translations of Chrome for Android UI strings, stored as an XML translation bundle keyed by numeric message IDs.

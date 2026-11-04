@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestTabModel implementation
+// summary: Implements TestTabModel and related test fakes for Android tab behavior, including defensive unregistration from TabModelList to avoid dangling pointers across tests.
+// ---
+
 #include "chrome/browser/ui/android/tab_model/tab_model_test_helper.h"
 
 #include <jni.h>

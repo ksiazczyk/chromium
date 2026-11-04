@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Account menu item row layout
+summary: Defines a single account menu row using a text view with sized compound drawable icons.
+-->
+
 <org.chromium.components.browser_ui.widget.text.TextViewWithCompoundDrawables
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

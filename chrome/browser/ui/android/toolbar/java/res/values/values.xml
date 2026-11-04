@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Toolbar integer level values
+summary: Defines integer level values for the reload button's reload and stop states and the window controls overlay toggle's enable and disable states.
+-->
+
 <resources>
     <!-- Toolbar/AppMenu - Drawable level on reload image button -->
     <integer name="reload_button_level_reload">0</integer>

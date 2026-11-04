@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Toolbar issue tracking metadata
+summary: Declares the Monorail component, Android OS setting and Buganizer component ID for toolbar issues.

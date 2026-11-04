@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_zh-CN.xtb.
+type: data
+title: Android Chrome strings translations in Simplified Chinese
+summary: Simplified Chinese XTB translation bundle mapping Chrome for Android message IDs to localized UI strings such as incognito, passwords, and tab groups.

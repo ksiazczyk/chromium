@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomUiThemeColorProvider
+// summary: Theme color provider for bottom browser controls that picks colors based on controls position, incognito state, and bottom bar support.
+// ---
+
 package org.chromium.chrome.browser.theme;
 
 import android.content.Context;

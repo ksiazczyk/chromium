@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AdjustedTopUiThemeColorProviderUnitTest
+// summary: Robolectric unit tests verifying the tint and theme color adjustments made by AdjustedTopUiThemeColorProvider.
+// ---
+
 package org.chromium.chrome.browser.theme;
 
 import static org.junit.Assert.assertEquals;

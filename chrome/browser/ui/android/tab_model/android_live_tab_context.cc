@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidLiveTabContext implementation
+// summary: Implements the sessions LiveTabContext interface on top of a TabModel so Android tabs can be restored.
+// ---
+
 #include "chrome/browser/ui/android/tab_model/android_live_tab_context.h"
 
 #include <memory>

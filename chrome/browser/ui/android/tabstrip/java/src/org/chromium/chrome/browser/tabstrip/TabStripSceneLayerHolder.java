@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripSceneLayerHolder interface
+// summary: Interface that holds the tab strip scene layer and receives browser control offset information and tab strip transition updates from TabStripTopControlLayer.
+// ---
+
 package org.chromium.chrome.browser.tabstrip;
 
 import org.chromium.build.annotations.NullMarked;

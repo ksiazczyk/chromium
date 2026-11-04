@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModelList unit tests
+// summary: Unit tests verifying that TabModelList lookups do not crash when there are no tabs or an uninitialized tab.
+// ---
+
 #include "chrome/browser/ui/android/tab_model/tab_model_list.h"
 
 #include "chrome/browser/ui/android/tab_model/tab_model_test_helper.h"

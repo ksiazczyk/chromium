@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive toolbar bridge header
+// summary: Declares GetRankedSessionVariantButtons, which ranks adaptive toolbar button variants for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_TOOLBAR_ADAPTIVE_TOOLBAR_BRIDGE_H_
 #define CHROME_BROWSER_UI_ANDROID_TOOLBAR_ADAPTIVE_TOOLBAR_BRIDGE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_sr-Latn.xtb.
+type: data
+title: Serbian (Latin) Android Chrome strings translation bundle
+summary: Serbian Latin-script translations of Chrome for Android UI strings, stored as an XTB translation bundle keyed by numeric message IDs.

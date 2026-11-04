@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_vi.xtb.
+type: data
+title: Android Chrome strings translations in Vietnamese
+summary: Vietnamese XTB translation bundle mapping Chrome for Android message IDs to localized UI strings such as incognito, passwords, and sync.

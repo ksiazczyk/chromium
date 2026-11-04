@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_ne.xtb.
+type: data
+title: Nepali Android Chrome strings translation bundle
+summary: Nepali translations of Chrome for Android UI strings, stored as an XML translation bundle keyed by numeric message IDs.

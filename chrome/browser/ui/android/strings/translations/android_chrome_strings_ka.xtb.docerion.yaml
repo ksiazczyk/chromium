@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_ka.xtb.
+type: data
+title: Georgian Android Chrome strings translation bundle
+summary: Georgian translation bundle holding localized Chrome for Android UI strings, including prompts for Incognito mode, passwords, sync, and downloads.

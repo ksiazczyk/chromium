@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Toolbar dimension values
+summary: Defines dimension values for the Chrome Android toolbar UI, covering tab strip, optional buttons, navigation popup, menus, and action chip sizing.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Tab Strip Dimensions -->

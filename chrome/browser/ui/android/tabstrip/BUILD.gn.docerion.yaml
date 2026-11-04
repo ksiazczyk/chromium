@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tabstrip Android library build targets
+summary: Defines Android library and Robolectric test targets for the tabstrip UI code, including TabStripTopControlLayer and the strip visibility enum.

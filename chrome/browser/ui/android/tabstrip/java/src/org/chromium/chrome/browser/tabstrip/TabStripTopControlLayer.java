@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripTopControlLayer
+// summary: Implements the tab strip top control layer, managing tab strip height transitions, visibility, and browser control offset updates for the top controls stacker.
+// ---
+
 package org.chromium.chrome.browser.tabstrip;
 
 import static org.chromium.build.NullUtil.assertNonNull;

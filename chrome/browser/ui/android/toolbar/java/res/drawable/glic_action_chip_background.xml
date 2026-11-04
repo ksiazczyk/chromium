@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Glic action chip background drawable
+summary: Ripple drawable that confines the touch ripple to a pill-shaped Glic action chip using inset dimensions and the toolbar text box background color.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="?attr/colorControlHighlight">
     <!-- Mask to keep the ripple effect within the pill shape -->

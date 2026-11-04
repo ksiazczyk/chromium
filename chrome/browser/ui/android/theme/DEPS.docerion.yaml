@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the theme directory
+summary: Restricts allowed dependencies of this directory to the bottombar, browser UI styles, and content public Android Java targets.

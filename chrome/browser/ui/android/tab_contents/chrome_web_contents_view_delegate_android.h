@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebContents view delegate for Android header
+// summary: Declares ChromeWebContentsViewDelegateAndroid, which extends the Android WebContents view with context menu and blur transition animation behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_TAB_CONTENTS_CHROME_WEB_CONTENTS_VIEW_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_TAB_CONTENTS_CHROME_WEB_CONTENTS_VIEW_DELEGATE_ANDROID_H_
 

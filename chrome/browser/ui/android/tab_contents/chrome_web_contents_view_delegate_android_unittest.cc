@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome WebContents view delegate Android unit tests
+// summary: Unit tests verifying when the Android blur transition animation is shown, covering search results page and reader mode navigations with feature parameters.
+// ---
+
 #include "chrome/browser/ui/android/tab_contents/chrome_web_contents_view_delegate_android.h"
 
 #include <memory>

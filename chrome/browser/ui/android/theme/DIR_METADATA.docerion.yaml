@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with Chrome Android team contact
+summary: Declares chrome-android-app@chromium.org as the owning team email for this directory.

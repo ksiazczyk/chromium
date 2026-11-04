@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_hy.xtb.
+type: data
+title: Armenian Android Chrome strings translation bundle
+summary: Armenian translation bundle holding localized Chrome for Android UI strings, including prompts for Incognito mode, passwords, sync, and downloads.

@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_gu.xtb.
+type: data
+title: Chrome Android UI strings, Gujarati translation bundle
+summary: Gujarati translations of Chrome for Android interface strings, stored as an XTB translation bundle keyed by numeric message IDs.

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Toolbar night mode drawable aliases
+summary: Maps toolbar drawable names to their night-mode variants, such as a light badge update icon and a white filled error icon, for Android dark theme.
+-->
+
 <resources>
     <drawable name="badge_update">@drawable/badge_update_light</drawable>
     <drawable name="ic_error_24dp_filled">@drawable/ic_error_white_24dp_filled</drawable>

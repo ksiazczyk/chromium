@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Browser UI theme color resources
+summary: Defines Android color resources for the Chrome browser UI theme, covering toolbar, hub pane switcher, and incognito colors.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Toolbar colors -->
     <color name="toolbar_text_box_background_incognito">@color/gm3_baseline_surface_container_highest_dark</color>
