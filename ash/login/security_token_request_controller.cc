@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security token request controller implementation
+// summary: Implements the controller that shows and manages the PIN dialog for security token requests, including error states and cancellation handling.
+// relations:
+//   - implements /ash/login/security_token_request_controller.h
+//   - depends_on /ash/login/ui/pin_request_widget.h
+//   - depends_on /chromeos/components/security_token_pin/error_generator.h
+// ---
+
 #include "ash/login/security_token_request_controller.h"
 
 #include <string>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test keyboard UI stub
+// summary: Provides a stub KeyboardUI and factory that create a fake keyboard window for use in tests.
+// relations:
+//   - implements /ash/keyboard/test_keyboard_ui.h
+// ---
+
 #include "ash/keyboard/test_keyboard_ui.h"
 
 #include "ash/keyboard/ui/test/keyboard_test_util.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardUI interface for the virtual keyboard window
+// summary: Declares the KeyboardUI interface for loading, showing, hiding and reloading the virtual keyboard window with input method access.
+// relations:
+//   - depends_on /ash/keyboard/ui/keyboard_export.h
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_KEYBOARD_UI_H_
 #define ASH_KEYBOARD_UI_KEYBOARD_UI_H_
 

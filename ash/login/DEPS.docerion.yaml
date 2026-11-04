@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ash/login dependencies
+summary: Defines the allowed header include dependencies for code in the ash/login directory.

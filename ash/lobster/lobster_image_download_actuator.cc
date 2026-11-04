@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster image download actuator implementation
+// summary: Implements writing generated image bytes to a file path with a sanitized, unique file name on a background task runner.
+// relations:
+//   - implements /ash/lobster/lobster_image_download_actuator.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/public/cpp/lobster/lobster_image_download_response.h
+// ---
+
 #include "ash/lobster/lobster_image_download_actuator.h"
 
 #include "ash/constants/ash_features.h"

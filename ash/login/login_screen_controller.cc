@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginScreenController implementation
+// summary: Implements the ash login screen controller, handling authentication requests, system tray visibility, and forwarding calls to LoginScreenClient.
+// relations:
+//   - depends_on /ash/login/login_screen_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/constants/notifier_catalogs.h
+// ---
+
 #include "ash/login/login_screen_controller.h"
 
 #include <utility>

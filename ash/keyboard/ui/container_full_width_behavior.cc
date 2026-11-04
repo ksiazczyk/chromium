@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the full-width keyboard container behavior
+// summary: Implements full-width keyboard animations, bounds spanning the display width, occluded bounds, and swipe-up gesture handling for the shelf.
+// relations:
+//   - implements /ash/keyboard/ui/container_full_width_behavior.h
+//   - depends_on /ash/keyboard/ui/container_full_width_behavior.h
+//   - depends_on /ui/aura/window.h
+// ---
+
 #include "ash/keyboard/ui/container_full_width_behavior.h"
 
 #include "ui/aura/window.h"

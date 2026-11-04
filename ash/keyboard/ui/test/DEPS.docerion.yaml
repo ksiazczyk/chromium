@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the unit test entry point
+summary: Grants run_all_unittests.cc an additional include dependency on mojo/core/embedder.

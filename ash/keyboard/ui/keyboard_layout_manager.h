@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardLayoutManager class
+// summary: Declares an aura layout manager that keeps the virtual keyboard window positioned at the bottom of its owner window.
+// relations:
+//   - depends_on /ash/keyboard/ui/keyboard_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/aura/layout_manager.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_KEYBOARD_LAYOUT_MANAGER_H_
 #define ASH_KEYBOARD_UI_KEYBOARD_LAYOUT_MANAGER_H_
 

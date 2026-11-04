@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual keyboard controller implementation
+// summary: Implements the controller that enables and shows the virtual keyboard based on tablet mode, input devices, and requested keysets such as emoji.
+// relations:
+//   - implements /ash/keyboard/virtual_keyboard_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/ime/ime_controller_impl.h
+// ---
+
 #include "ash/keyboard/virtual_keyboard_controller.h"
 
 #include <vector>

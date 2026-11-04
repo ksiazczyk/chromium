@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard resource utility mapping files to resource IDs
+// summary: C++ utility that maps keyboard WebUI resource files such as locales, configs, and images to resource IDs and defines constants for the keyboard host.
+// relations:
+//   - depends_on /ash/keyboard/ui/resources/keyboard_resource_util.h
+//   - depends_on /base/containers/span.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #include "ash/keyboard/ui/resources/keyboard_resource_util.h"
 
 #include "ash/keyboard/ui/grit/keyboard_resources.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test runner for the keyboard UI
+// summary: Entry point that initializes the GL, aura, and resource test environment and launches all keyboard UI unit tests.
+// relations:
+//   - depends_on /base/functional/bind.h
+//   - depends_on /base/path_service.h
+//   - depends_on /base/test/launcher/unit_test_launcher.h
+// ---
+
 #include "base/compiler_specific.h"
 #include "base/functional/bind.h"
 #include "base/path_service.h"

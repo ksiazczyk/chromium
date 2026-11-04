@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test login screen declaration
+// summary: Declares TestLoginScreen, a test stub of the ash LoginScreen mojo interface used in place of the real login screen.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/test_login_screen_model.h
+//   - implements /ash/public/cpp/login_screen.h
+// ---
+
 #ifndef ASH_LOGIN_TEST_LOGIN_SCREEN_H_
 #define ASH_LOGIN_TEST_LOGIN_SCREEN_H_
 

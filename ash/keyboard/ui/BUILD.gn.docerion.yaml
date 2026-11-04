@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the Ash keyboard UI component
+summary: GN build file defining the keyboard UI component, test support library, grit resources, inputview closure build, and the keyboard_unittests target.
+relations:
+  - depends_on /mojo/public/tools/bindings/mojom.gni
+  - depends_on /testing/test.gni
+  - depends_on /third_party/google_input_tools/closure.gni

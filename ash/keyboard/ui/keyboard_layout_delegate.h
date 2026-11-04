@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardLayoutDelegate interface
+// summary: Declares a delegate interface for obtaining keyboard container windows per display and transferring gesture events to the Ash shelf.
+// relations:
+//   - depends_on /ash/keyboard/ui/keyboard_export.h
+//   - depends_on /ui/events/event.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_KEYBOARD_LAYOUT_DELEGATE_H_
 #define ASH_KEYBOARD_UI_KEYBOARD_LAYOUT_DELEGATE_H_
 

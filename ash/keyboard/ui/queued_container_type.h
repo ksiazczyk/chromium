@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueuedContainerType class declaration
+// summary: Declares QueuedContainerType, which couples a queued container type change with a callback invoked once the animation and container changes complete.
+// relations:
+//   - depends_on /ash/public/cpp/keyboard/keyboard_types.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_QUEUED_CONTAINER_TYPE_H_
 #define ASH_KEYBOARD_UI_QUEUED_CONTAINER_TYPE_H_
 

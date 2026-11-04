@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test implementation of the ash login screen model interface
+// summary: Declares TestLoginScreenModel, a test double for ash::LoginScreenModel that simulates login screen state such as user lists, auth factors, PIN, fingerprint, Smart Lock, and public session settings.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/login_screen_model.h
+//   - implements /ash/public/cpp/login_screen_model.h
+// ---
+
 #ifndef ASH_LOGIN_TEST_LOGIN_SCREEN_MODEL_H_
 #define ASH_LOGIN_TEST_LOGIN_SCREEN_MODEL_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueuedDisplayChange class implementation
+// summary: Implements the QueuedDisplayChange class that stores a new display and its local bounds for a queued keyboard display change.
+// relations:
+//   - implements /ash/keyboard/ui/queued_display_change.h
+//   - depends_on /ui/display/display.h
+// ---
+
 #include "ash/keyboard/ui/queued_display_change.h"
 #include "ash/keyboard/ui/keyboard_ui_controller.h"
 #include "base/functional/bind.h"

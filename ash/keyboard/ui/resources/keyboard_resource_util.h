@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for keyboard resource utilities
+// summary: Header declaring the keyboard extension URL and host constants, the resource list accessor, and the one-time keyboard resource initialization function.
+// relations:
+//   - depends_on /ash/keyboard/ui/keyboard_export.h
+//   - depends_on /base/containers/span.h
+//   - depends_on /ui/base/webui/resource_path.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_RESOURCES_KEYBOARD_RESOURCE_UTIL_H_
 #define ASH_KEYBOARD_UI_RESOURCES_KEYBOARD_RESOURCE_UTIL_H_
 

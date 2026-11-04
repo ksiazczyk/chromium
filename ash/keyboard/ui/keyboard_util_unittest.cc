@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard utility unit tests
+// summary: Tests keyboard enable flag precedence, verifying that accessibility and policy settings override other flags when showing the virtual keyboard.
+// relations:
+//   - tests /ash/keyboard/ui/keyboard_util.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui_controller.h
+// ---
+
 #include <memory>
 
 #include "ash/keyboard/ui/keyboard_ui.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Lobster metrics recorder
+// summary: Parameterized tests checking that each Lobster metric state is recorded exactly once in the Ash.Lobster.State histogram.
+// relations:
+//   - tests /ash/lobster/lobster_metrics_recorder.h
+//   - depends_on /ash/public/cpp/lobster/lobster_metrics_state_enums.h
+//   - depends_on /base/test/metrics/histogram_tester.h
+// ---
+
 #include "ash/lobster/lobster_metrics_recorder.h"
 
 #include "ash/public/cpp/lobster/lobster_metrics_state_enums.h"

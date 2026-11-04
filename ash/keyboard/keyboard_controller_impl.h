@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardControllerImpl class declaration
+// summary: Declares the ash implementation of the KeyboardController public interface, including container and bounds methods.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/keyboard/ui/keyboard_layout_delegate.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui_controller.h
+// ---
+
 #ifndef ASH_KEYBOARD_KEYBOARD_CONTROLLER_IMPL_H_
 #define ASH_KEYBOARD_KEYBOARD_CONTROLLER_IMPL_H_
 

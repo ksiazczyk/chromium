@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security token request controller unit tests
+// summary: Unit tests for the security token PIN request flow, covering successful validation, wrong PIN attempts, and cancellation of the dialog.
+// relations:
+//   - tests /ash/login/security_token_request_controller.h
+//   - depends_on /ash/login/ui/login_test_base.h
+//   - depends_on /ash/login/ui/pin_request_view.h
+// ---
+
 #include "ash/login/security_token_request_controller.h"
 
 #include <memory>

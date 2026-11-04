@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the full-width keyboard container behavior
+// summary: Verifies that bounds requests are stretched across the bottom of the workspace, ignoring width and x coordinates.
+// relations:
+//   - tests /ash/keyboard/ui/container_full_width_behavior.h
+//   - depends_on /ash/keyboard/ui/container_full_width_behavior.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/keyboard/ui/container_full_width_behavior.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

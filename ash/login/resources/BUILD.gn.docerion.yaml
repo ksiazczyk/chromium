@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ash login resources
+summary: GN build configuration that runs grit to generate ash login string headers and login resource pak files.
+relations:
+  - depends_on /build/config/chrome_build.gni
+  - depends_on /build/config/locales.gni
+  - depends_on /chrome/common/features.gni

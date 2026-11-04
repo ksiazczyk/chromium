@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test keyboard UI stub declarations
+// summary: Declares TestKeyboardUI and TestKeyboardUIFactory classes used to fake keyboard UI in tests.
+// relations:
+//   - implements /ash/keyboard/ui/keyboard_ui.h
+//   - implements /ash/keyboard/ui/keyboard_ui_factory.h
+// ---
+
 #ifndef ASH_KEYBOARD_TEST_KEYBOARD_UI_H_
 #define ASH_KEYBOARD_TEST_KEYBOARD_UI_H_
 

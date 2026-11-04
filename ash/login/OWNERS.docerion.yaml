@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for ash/login
+summary: Delegates ownership to LOGIN_LOCK_OWNERS and points login-screen issues to the UI>Shell>StartScreen component.
+relations:
+  - references /ash/login/LOGIN_LOCK_OWNERS

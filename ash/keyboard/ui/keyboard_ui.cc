@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardUI base class implementation
+// summary: Implements default show and hide behavior for the virtual keyboard window and stores its controller reference.
+// relations:
+//   - implements /ash/keyboard/ui/keyboard_ui.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui_controller.h
+// ---
+
 #include "ash/keyboard/ui/keyboard_ui.h"
 
 #include "ash/keyboard/ui/keyboard_ui_controller.h"

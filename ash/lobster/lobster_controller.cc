@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster controller implementation
+// summary: Implements the LobsterController trigger and session startup logic, including system state checks and entry point impression metrics.
+// relations:
+//   - implements /ash/lobster/lobster_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/lobster/lobster_entry_point_enums.h
+// ---
+
 #include "ash/lobster/lobster_controller.h"
 
 #include <memory>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification manager unit tests
+// summary: Tests that NotificationManager suppresses repeated identical visibility and bounds notifications and treats empty rectangles as equal.
+// relations:
+//   - tests /ash/keyboard/ui/notification_manager.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/keyboard/ui/notification_manager.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

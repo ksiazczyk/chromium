@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract interface for keyboard container behaviors
+// summary: Declares the ContainerBehavior interface that encapsulates how the keyboard container shows, hides, positions itself, and handles events in the workspace.
+// relations:
+//   - depends_on /ash/keyboard/ui/keyboard_export.h
+//   - depends_on /ash/public/cpp/keyboard/keyboard_types.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_CONTAINER_BEHAVIOR_H_
 #define ASH_KEYBOARD_UI_CONTAINER_BEHAVIOR_H_
 

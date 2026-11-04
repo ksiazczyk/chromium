@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the floating keyboard container behavior
+// summary: Tests bounds adjustment, display clipping, and keyboard show position calculation for the floating container behavior.
+// relations:
+//   - tests /ash/keyboard/ui/container_floating_behavior.h
+//   - depends_on /ash/keyboard/ui/container_floating_behavior.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/keyboard/ui/container_floating_behavior.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

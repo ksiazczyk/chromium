@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyboardEventHandler unit tests
+// summary: Unit tests verifying that pinch gestures stop propagation while other gestures are passed to the keyboard UI controller.
+// relations:
+//   - tests /ash/keyboard/ui/keyboard_event_handler.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui_controller.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/keyboard/ui/keyboard_event_handler.h"
 
 #include "ash/keyboard/ui/keyboard_ui_controller.h"

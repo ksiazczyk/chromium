@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Inputview adapter for keysets, i18n, and test hooks
+// summary: JavaScript adapter that registers keyboard functions, overrides chrome.i18n message lookup, and hooks keyset switching to synchronize automated virtual keyboard tests.
+// ---
+
 var CLOSURE_NO_DEPS=true;
 
 var controller;

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster metrics recorder implementation
+// summary: Records Lobster feature state and blocked reasons, such as consent, region, or hardware limits, as entries in the Ash.Lobster.State histogram.
+// relations:
+//   - implements /ash/lobster/lobster_metrics_recorder.h
+//   - depends_on /ash/public/cpp/lobster/lobster_enums.h
+//   - depends_on /ash/public/cpp/lobster/lobster_metrics_state_enums.h
+// ---
+
 #include "ash/lobster/lobster_metrics_recorder.h"
 
 #include "ash/public/cpp/lobster/lobster_enums.h"

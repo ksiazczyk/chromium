@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShapedWindowTargeter implementation
+// summary: Implements ShapedWindowTargeter, which supplies a fixed list of extra hit-test shape rectangles for window targeting.
+// relations:
+//   - depends_on /ash/keyboard/ui/shaped_window_targeter.h
+//   - implements /ash/keyboard/ui/shaped_window_targeter.h
+//   - depends_on /ui/gfx/geometry/rect.h
+// ---
+
 #include "ash/keyboard/ui/shaped_window_targeter.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard utility function declarations
+// summary: Declares IsArrowKeyCode and CloseKeyboardIfActive helpers for virtual keyboard handling.
+// ---
+
 #ifndef ASH_KEYBOARD_KEYBOARD_UTIL_H_
 #define ASH_KEYBOARD_KEYBOARD_UTIL_H_
 

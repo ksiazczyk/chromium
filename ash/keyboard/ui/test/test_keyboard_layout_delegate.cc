@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test keyboard layout delegate implementation
+// summary: Implements a layout delegate that always returns a fixed root window and ignores gesture transfers for tests.
+// relations:
+//   - implements /ash/keyboard/ui/test/test_keyboard_layout_delegate.h
+//   - depends_on /ui/aura/window.h
+// ---
+
 #include "ash/keyboard/ui/test/test_keyboard_layout_delegate.h"
 
 #include "ui/aura/window.h"

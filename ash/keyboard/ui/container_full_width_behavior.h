@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full-width keyboard container behavior class
+// summary: Declares the full-width container behavior that stretches the keyboard across the display and tracks occluded bounds.
+// relations:
+//   - implements /ash/keyboard/ui/container_behavior.h
+//   - depends_on /ash/keyboard/ui/container_behavior.h
+//   - depends_on /ui/gfx/geometry/rect.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_CONTAINER_FULL_WIDTH_BEHAVIOR_H_
 #define ASH_KEYBOARD_UI_CONTAINER_FULL_WIDTH_BEHAVIOR_H_
 

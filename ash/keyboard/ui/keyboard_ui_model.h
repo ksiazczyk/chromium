@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardUIModel and KeyboardUIState declaration
+// summary: Declares the KeyboardUIState enum and the KeyboardUIModel class that tracks and validates virtual keyboard UI state transitions.
+// relations:
+//   - depends_on /ash/keyboard/ui/keyboard_export.h
+//   - depends_on /ash/public/cpp/keyboard/keyboard_config.h
+//   - references /tools/metrics/histograms/enums.xml
+// ---
+
 #ifndef ASH_KEYBOARD_UI_KEYBOARD_UI_MODEL_H_
 #define ASH_KEYBOARD_UI_KEYBOARD_UI_MODEL_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDescriptor struct
+// summary: Defines a struct that records the original click offset and keyboard location so incoming pointer events can reposition the keyboard during a drag.
+// relations:
+//   - depends_on /ui/events/event.h
+//   - depends_on /ui/gfx/geometry/point.h
+//   - depends_on /ui/gfx/geometry/vector2d.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_DRAG_DESCRIPTOR_H_
 #define ASH_KEYBOARD_UI_DRAG_DESCRIPTOR_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login screen test API implementation
+// summary: Implements the login screen test API used to inspect and drive the login and lock screen UI, such as shelf buttons and user views, from tests.
+// relations:
+//   - implements /ash/public/cpp/login_screen_test_api.h
+//   - depends_on /ash/login/ui/lock_screen.h
+//   - depends_on /ash/login/ui/lock_contents_view_test_api.h
+// ---
+
 #include "ash/public/cpp/login_screen_test_api.h"
 
 #include <memory>

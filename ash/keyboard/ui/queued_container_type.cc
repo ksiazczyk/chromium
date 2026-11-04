@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueuedContainerType class implementation
+// summary: Implements the QueuedContainerType class, which runs its queued container-change callback with a success flag when the object is destroyed.
+// relations:
+//   - implements /ash/keyboard/ui/queued_container_type.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui_controller.h
+// ---
+
 #include "ash/keyboard/ui/queued_container_type.h"
 
 #include <utility>

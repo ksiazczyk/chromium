@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyboardControllerImpl unit tests
+// summary: Tests keyboard controller behavior such as container behavior, enable flags, bounds, and visibility changes.
+// relations:
+//   - tests /ash/keyboard/keyboard_controller_impl.h
+//   - implements /ash/keyboard/ui/container_behavior.h
+// ---
+
 #include "ash/keyboard/keyboard_controller_impl.h"
 
 #include <memory>

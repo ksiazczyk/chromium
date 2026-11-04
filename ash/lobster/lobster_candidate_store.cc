@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster candidate store implementation
+// summary: Implements an in-memory store that caches Lobster image candidates by id and looks them up, returning an optional result.
+// relations:
+//   - implements /ash/lobster/lobster_candidate_store.h
+//   - depends_on /ash/public/cpp/lobster/lobster_image_candidate.h
+// ---
+
 #include "ash/lobster/lobster_candidate_store.h"
 
 #include <optional>

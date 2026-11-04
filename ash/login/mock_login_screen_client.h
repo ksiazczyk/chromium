@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock login screen client declaration
+// summary: Declares a gmock-based mock of the login screen client with configurable results and callback storage for testing login flows.
+// relations:
+//   - implements /ash/public/cpp/login_screen_client.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_LOGIN_MOCK_LOGIN_SCREEN_CLIENT_H_
 #define ASH_LOGIN_MOCK_LOGIN_SCREEN_CLIENT_H_
 

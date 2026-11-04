@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating keyboard container behavior class
+// summary: Declares the floating container behavior, including default screen margins, draggable area handling, and position calculation for showing the keyboard.
+// relations:
+//   - depends_on /ash/keyboard/ui/container_behavior.h
+//   - depends_on /ash/keyboard/ui/drag_descriptor.h
+//   - depends_on /ash/keyboard/ui/keyboard_export.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_CONTAINER_FLOATING_BEHAVIOR_H_
 #define ASH_KEYBOARD_UI_CONTAINER_FLOATING_BEHAVIOR_H_
 

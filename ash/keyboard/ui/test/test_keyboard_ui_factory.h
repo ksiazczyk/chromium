@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test keyboard UI factory
+// summary: Declares a KeyboardUIFactory and mock KeyboardUI that provide a stub keyboard window for tests.
+// relations:
+//   - implements /ash/keyboard/ui/keyboard_ui.h
+//   - implements /ash/keyboard/ui/keyboard_ui_factory.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_TEST_TEST_KEYBOARD_UI_FACTORY_H_
 #define ASH_KEYBOARD_UI_TEST_TEST_KEYBOARD_UI_FACTORY_H_
 

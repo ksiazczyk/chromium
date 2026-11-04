@@ -1,0 +1,4 @@
+# Docerion header of LOGIN_LOCK_METADATA.
+type: config
+title: Metadata for login and lock screen code
+summary: Sets Buganizer components, team email, and OS metadata for the login and lock screen code.
