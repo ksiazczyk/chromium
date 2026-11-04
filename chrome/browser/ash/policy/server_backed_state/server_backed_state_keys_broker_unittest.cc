@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServerBackedStateKeysBroker unit tests
+// summary: Tests the broker's initial load, retry after fetch and communication failures, and periodic refresh using a fake session manager client and mock time.
+// ---
+
 #include "chrome/browser/ash/policy/server_backed_state/server_backed_state_keys_broker.h"
 
 #include "base/functional/bind.h"

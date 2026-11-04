@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventBasedLogUploader interface header
+// summary: Declares the EventBasedLogUploader interface and its implementation for uploading event based logs with a completion callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_EVENT_BASED_LOGS_EVENT_BASED_LOG_UPLOADER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_EVENT_BASED_LOGS_EVENT_BASED_LOG_UPLOADER_H_
 

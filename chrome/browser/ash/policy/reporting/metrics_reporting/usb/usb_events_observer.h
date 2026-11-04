@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB events observer class declaration
+// summary: Declares UsbEventsObserver, which watches cros_healthd USB events and reports them as metric data for policy-based reporting.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_USB_USB_EVENTS_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_USB_USB_EVENTS_OBSERVER_H_
 

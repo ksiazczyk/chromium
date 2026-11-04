@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local files migration manager implementation
+// summary: Implements the manager that starts, monitors, and completes migration of MyFiles contents to Google Drive or OneDrive when SkyVault is enabled.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/local_files_migration_manager.h"
 
 #include <memory>

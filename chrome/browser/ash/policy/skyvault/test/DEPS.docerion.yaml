@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Skyvault test include rules (DEPS)
+summary: Grants skyvault_test_base.cc an include exception for the Chrome sign-in identity manager factory header.

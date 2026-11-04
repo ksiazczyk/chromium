@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for metrics reporting
+summary: Defines the metrics_reporting static library, test_support, and unit_tests targets with their sources and dependencies for the ChromeOS policy reporting build.

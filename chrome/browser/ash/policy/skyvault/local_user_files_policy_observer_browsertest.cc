@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local user files policy observer browser test
+// summary: Browser test verifying that the policy observer is notified and reads the updated value when the LocalUserFilesAllowed policy changes.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/local_user_files_policy_observer.h"
 
 #include "ash/constants/ash_features.h"

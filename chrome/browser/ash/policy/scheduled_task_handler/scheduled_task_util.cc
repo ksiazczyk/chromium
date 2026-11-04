@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled task policy parsing and timing utilities
+// summary: Implements utilities that parse scheduled task policies and calculate the next scheduled task time, including grace period handling for reboots.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/scheduled_task_util.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for audio events reporting
+summary: Defines the audio static library plus unit and browser test targets for the audio events observer in ChromeOS metrics reporting.

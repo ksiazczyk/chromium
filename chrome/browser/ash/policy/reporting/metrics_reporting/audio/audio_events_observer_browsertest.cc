@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioEventsObserver browser tests
+// summary: Browser tests verifying that audio severe underrun events are reported as metric records for affiliated users when the audio reporting policy is enabled.
+// ---
+
 #include <memory>
 #include <string>
 

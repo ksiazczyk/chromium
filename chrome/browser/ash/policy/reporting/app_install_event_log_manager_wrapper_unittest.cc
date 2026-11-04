@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App install event log manager wrapper unit tests
+// summary: Unit tests for AppInstallEventLogManagerWrapper covering pref-driven creation and teardown of the encrypted reporter and pref clearing.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/app_install_event_log_manager_wrapper.h"
 
 #include "ash/constants/ash_policy_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppPlatformMetricsRetriever class declaration
+// summary: Declares AppPlatformMetricsRetriever, which retrieves the AppPlatformMetrics component and observes its initialization via callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_APPS_APP_PLATFORM_METRICS_RETRIEVER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_APPS_APP_PLATFORM_METRICS_RETRIEVER_H_
 

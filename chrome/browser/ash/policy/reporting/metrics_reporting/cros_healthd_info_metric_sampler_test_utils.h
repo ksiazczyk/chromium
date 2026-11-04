@@ -4,6 +4,12 @@
 
 // Some utilities that can be used for info metric unit tests and browser tests.
 
+// ---docerion
+// type: test
+// title: Header for cros_healthd info metric test utilities
+// summary: Declares test helpers for creating fake cros_healthd telemetry results and assertions used by info metric unit and browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_CROS_HEALTHD_INFO_METRIC_SAMPLER_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_CROS_HEALTHD_INFO_METRIC_SAMPLER_TEST_UTILS_H_
 

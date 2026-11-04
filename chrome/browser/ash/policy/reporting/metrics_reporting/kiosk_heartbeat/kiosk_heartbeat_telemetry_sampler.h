@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskHeartbeatTelemetrySampler header
+// summary: Declares the KioskHeartbeatTelemetrySampler class that creates KioskHeartbeat messages collected by a KioskHeartbeatTelemetryCollector.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_KIOSK_HEARTBEAT_KIOSK_HEARTBEAT_TELEMETRY_SAMPLER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_KIOSK_HEARTBEAT_KIOSK_HEARTBEAT_TELEMETRY_SAMPLER_H_
 

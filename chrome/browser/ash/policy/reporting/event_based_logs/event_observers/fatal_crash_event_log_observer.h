@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fatal crash event log observer class declaration
+// summary: Declares FatalCrashEventLogObserver, which observes fatal crash events and uploads related log files to the server.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_EVENT_BASED_LOGS_EVENT_OBSERVERS_FATAL_CRASH_EVENT_LOG_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_EVENT_BASED_LOGS_EVENT_OBSERVERS_FATAL_CRASH_EVENT_LOG_OBSERVER_H_
 

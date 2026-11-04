@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the OS updates reporting library
+summary: Defines the os_updates static library and its unit and browser test targets together with their source files and build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install event log utilities
+// summary: Implements conversion of extension and ARC app install report protos into dictionaries for the Chrome Reporting API, including event ID hashing.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/install_event_log_util.h"
 
 #include <set>

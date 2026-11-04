@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device activity sampler implementation
+// summary: Implements MaybeCollect, mapping the ChromeOS idle state, with a five-minute threshold, to device activity telemetry data.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/device_activity/device_activity_sampler.h"
 
 #include "components/reporting/metrics/sampler.h"

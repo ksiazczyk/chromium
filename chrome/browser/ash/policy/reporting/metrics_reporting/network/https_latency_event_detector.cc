@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS latency event detection logic
+// summary: Detects HTTPS latency metric events by comparing previous and current latency data against network state.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/network/https_latency_event_detector.h"
 
 #include "chromeos/ash/components/network/network_handler.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event observer base implementation
+// summary: Implements the EventObserverBase class that triggers event-based log uploads, enforces upload wait periods via local state prefs, and emits upload status histograms.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/event_based_logs/event_observer_base.h"
 
 #include <memory>

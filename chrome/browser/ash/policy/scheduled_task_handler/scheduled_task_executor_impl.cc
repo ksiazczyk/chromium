@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScheduledTaskExecutorImpl native timer scheduling implementation
+// summary: Implements ScheduledTaskExecutorImpl, which calculates the next scheduled task time and starts a ChromeOS native timer, handling timezone and DST changes.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/scheduled_task_executor_impl.h"
 #include <cstdint>
 

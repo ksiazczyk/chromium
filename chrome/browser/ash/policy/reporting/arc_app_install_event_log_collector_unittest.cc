@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app install event log collector unit tests
+// summary: Unit tests for ArcAppInstallEventLogCollector that verify event logging for session, connectivity, and installation events using a fake delegate.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/arc_app_install_event_log_collector.h"
 
 #include <vector>

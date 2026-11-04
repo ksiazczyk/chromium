@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WiFi signal strength RSSI fetcher header
+// summary: Declares FetchWifiSignalStrengthRssi and its callback type for retrieving a map of per-service WiFi RSSI values.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_NETWORK_WIFI_SIGNAL_STRENGTH_RSSI_FETCHER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_NETWORK_WIFI_SIGNAL_STRENGTH_RSSI_FETCHER_H_
 

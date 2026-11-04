@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserAddedRemovedReporter implementation
+// summary: Implements reporting of user added and removed events on managed ChromeOS devices, checking the login/logout reporting policy and affiliation before emitting records.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/user_added_removed/user_added_removed_reporter.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppEventsObserver browser tests
+// summary: Browser tests verifying that AppEventsObserver collects and reports app events such as web app installs with the expected record and metric data.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

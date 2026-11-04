@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metric reporting manager test support
+// summary: Implements MetricReportingManagerForTest and MockDelegate, exposing fake metric report queues so tests can inspect reported data.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/metric_reporting_manager_for_test.h"
 
 #include <memory>

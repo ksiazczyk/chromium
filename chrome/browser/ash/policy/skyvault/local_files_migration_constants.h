@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local files migration constants
+// summary: Defines migration timeouts, retry limits, upload directory prefix, and error log file paths used by the local files migration process.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_LOCAL_USER_FILES_LOCAL_FILES_MIGRATION_CONSTANTS_H_
 #define CHROME_BROWSER_POLICY_LOCAL_USER_FILES_LOCAL_FILES_MIGRATION_CONSTANTS_H_
 

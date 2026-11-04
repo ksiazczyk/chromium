@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake scheduled task executor implementation
+// summary: Implements a fake scheduled task executor that schedules tasks with a mock clock and fixed time zone and can simulate scheduling failures in tests.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/test/fake_scheduled_task_executor.h"
 
 #include <memory>

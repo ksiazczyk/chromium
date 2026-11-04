@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for USB event reporting policy
+// summary: Browser tests validating USB added events and telemetry collection when the ReportDevicePeripherals policy is set or unset.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string>

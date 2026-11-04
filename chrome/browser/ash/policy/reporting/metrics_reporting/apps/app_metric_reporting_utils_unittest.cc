@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App metric reporting utilities unit tests
+// summary: Unit tests for GetPublisherIdForApp covering apps with and without publisher ids and unregistered apps.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/apps/app_metric_reporting_utils.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS update event observer implementation
+// summary: Implements the observer that triggers event-based log uploads when OS update failures occur.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/event_based_logs/event_observers/os_update_event_observer.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive upload observer header
+// summary: Declares DriveUploadObserver, which tracks Drive sync events for an uploaded file and deletes the local cache copy if the upload fails.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SKYVAULT_DRIVE_UPLOAD_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POLICY_SKYVAULT_DRIVE_UPLOAD_OBSERVER_H_
 

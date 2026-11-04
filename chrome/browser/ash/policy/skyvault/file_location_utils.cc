@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File location utilities implementation
+// summary: Resolves policy location strings by expanding Google Drive and OneDrive placeholders into concrete file paths for the migration.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/file_location_utils.h"
 
 #include "chrome/browser/ash/drive/drive_integration_service.h"

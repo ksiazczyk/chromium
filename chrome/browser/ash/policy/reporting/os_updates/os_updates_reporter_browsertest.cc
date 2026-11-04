@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for OS update event reporting
+// summary: Browser tests verifying that OS update and powerwash events are reported when the report OS update status policy is enabled.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_switches.h"

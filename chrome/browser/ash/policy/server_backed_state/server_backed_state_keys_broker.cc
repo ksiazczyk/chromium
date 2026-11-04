@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server-backed state keys broker implementation
+// summary: Implements the broker that fetches server-backed state keys from the session manager via D-Bus, retrying on failure and refreshing them on a daily poll.
+// ---
+
 #include "chrome/browser/ash/policy/server_backed_state/server_backed_state_keys_broker.h"
 
 #include "base/functional/bind.h"

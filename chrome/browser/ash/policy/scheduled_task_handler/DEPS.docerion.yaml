@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Include rules that allow this //chrome directory to include its own files and list permitted //chrome dependencies for ChromeOS code.

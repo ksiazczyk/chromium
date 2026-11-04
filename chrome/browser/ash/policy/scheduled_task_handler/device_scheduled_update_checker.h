@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceScheduledUpdateChecker class declaration
+// summary: Declares the class that listens for scheduled update check policy changes and manages recurring update checks with retry handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SCHEDULED_TASK_HANDLER_DEVICE_SCHEDULED_UPDATE_CHECKER_H_
 #define CHROME_BROWSER_ASH_POLICY_SCHEDULED_TASK_HANDLER_DEVICE_SCHEDULED_UPDATE_CHECKER_H_
 

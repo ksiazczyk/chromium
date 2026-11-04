@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the OS updates reporter
+// summary: Unit tests covering update status filtering, event reporting, and failure log upload notification using fake clients and a mock report queue.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/os_updates/os_updates_reporter.h"
 
 #include <memory>

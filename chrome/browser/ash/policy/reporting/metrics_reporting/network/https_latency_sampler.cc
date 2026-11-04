@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS latency sampler implementation
+// summary: Runs network diagnostics HTTPS latency routines and converts routine results into telemetry metric data.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/network/https_latency_sampler.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skyvault test mock implementations
+// summary: Implements mock migration observer, notification manager, coordinator, and cleanup handler with default success behaviors for Skyvault tests.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/test/skyvault_test_utils.h"
 
 #include "base/files/file_path.h"

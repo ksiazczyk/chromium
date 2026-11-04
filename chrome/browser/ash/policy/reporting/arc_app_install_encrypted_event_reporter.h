@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ARC app install encrypted event reporter header
+// summary: Declares ArcAppInstallEncryptedEventReporter, the logger delegate that reports selected ARC app install events via a report queue.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_ARC_APP_INSTALL_ENCRYPTED_EVENT_REPORTER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_ARC_APP_INSTALL_ENCRYPTED_EVENT_REPORTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWakeLock class declaration
+// summary: Declares ScopedWakeLock, a movable-only RAII class that holds a device wake lock for the duration of its lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SCHEDULED_TASK_HANDLER_SCOPED_WAKE_LOCK_H_
 #define CHROME_BROWSER_ASH_POLICY_SCHEDULED_TASK_HANDLER_SCOPED_WAKE_LOCK_H_
 

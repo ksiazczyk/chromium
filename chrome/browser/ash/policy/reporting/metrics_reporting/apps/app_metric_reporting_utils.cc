@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App metric reporting utilities implementation
+// summary: Implements GetPublisherIdForApp, which looks up an app's publisher id in the app registry cache for the given profile.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/apps/app_metric_reporting_utils.h"
 
 #include <optional>

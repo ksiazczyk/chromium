@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for event based log observers
+summary: Defines the event_observers static library and its browser test target with sources and dependencies.

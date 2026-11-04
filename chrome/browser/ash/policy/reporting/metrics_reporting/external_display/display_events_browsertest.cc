@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for external display event reporting
+// summary: Browser tests verifying external display connected and disconnected events are reported when the ReportDeviceGraphicsStatus policy is enabled or disabled.
+// ---
+
 #include <memory>
 #include <string>
 

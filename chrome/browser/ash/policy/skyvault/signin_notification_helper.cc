@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in notification helper implementation
+// summary: Implements helpers that show notifications prompting OneDrive sign-in and handle sign-in or cancel button actions with a completion callback.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/signin_notification_helper.h"
 
 #include <memory>

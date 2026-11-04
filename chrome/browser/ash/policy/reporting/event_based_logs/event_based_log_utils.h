@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event based log utilities header
+// summary: Declares GenerateEventBasedLogUploadId, which creates a GUID identifying a log upload for server-side correlation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_EVENT_BASED_LOGS_EVENT_BASED_LOG_UTILS_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_EVENT_BASED_LOGS_EVENT_BASED_LOG_UTILS_H_
 

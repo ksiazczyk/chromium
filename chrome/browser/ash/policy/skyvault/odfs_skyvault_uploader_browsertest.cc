@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OdfsSkyvaultUploader browser tests
+// summary: Browser tests verifying the OneDrive upload workflow of OdfsSkyvaultUploader across upload triggers, including successful uploads, notifications, and errors.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/odfs_skyvault_uploader.h"
 
 #include "ash/public/cpp/notification_utils.h"

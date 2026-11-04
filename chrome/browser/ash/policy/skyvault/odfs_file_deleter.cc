@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OdfsFileDeleter implementation
+// summary: Implements OdfsFileDeleter, which deletes a local file through the file manager IO task system after upload to OneDrive and reports the result via callback.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/odfs_file_deleter.h"
 
 #include "base/functional/bind.h"

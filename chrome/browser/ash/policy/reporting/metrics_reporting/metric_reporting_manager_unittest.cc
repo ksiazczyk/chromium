@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metric reporting manager unit tests
+// summary: Unit tests covering MetricReportingManager initialization, collector and observer setup, and behavior across login and device settings updates.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/metric_reporting_manager.h"
 
 #include <memory>

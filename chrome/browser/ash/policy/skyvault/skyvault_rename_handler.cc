@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkyVault download rename handler
+// summary: Implements a download rename handler that uploads completed downloads to Google Drive or OneDrive as configured by the download directory policy.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/skyvault_rename_handler.h"
 
 #include "ash/constants/ash_features.h"

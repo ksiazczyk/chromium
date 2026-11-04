@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppUsageTelemetryPeriodicCollector implementation
+// summary: Implements a periodic collector that reports app usage telemetry at the policy-configured rate and collects pending data when a session is terminated.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/apps/app_usage_telemetry_periodic_collector.h"
 
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/metric_reporting_prefs.h"

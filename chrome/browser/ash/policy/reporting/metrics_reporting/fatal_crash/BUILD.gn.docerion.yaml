@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fatal crash reporting build targets
+summary: GN build file defining the fatal crash static library plus unit test and browser test source sets with their dependencies.

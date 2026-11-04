@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduled task test utilities header
+// summary: Declares test helpers for creating scheduled task policies and converting between ICU calendars and base::Time in scheduled task tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SCHEDULED_TASK_HANDLER_TEST_SCHEDULED_TASK_TEST_UTIL_H_
 #define CHROME_BROWSER_ASH_POLICY_SCHEDULED_TASK_HANDLER_TEST_SCHEDULED_TASK_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device scheduled update checker unit tests
+// summary: Unit tests for the device scheduled update checker, verifying scheduled OS update and policy check timing across time zones, network states, and frequencies.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/device_scheduled_update_checker.h"
 
 #include <algorithm>

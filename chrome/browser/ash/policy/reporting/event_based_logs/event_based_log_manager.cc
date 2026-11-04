@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event based log manager implementation
+// summary: Implements EventBasedLogManager, which watches the LogUploadEnabled device policy and adds or removes event observers for OS update failures and fatal crashes.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/event_based_logs/event_based_log_manager.h"
 
 #include <memory>

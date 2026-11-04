@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SkyVault rename handler unit tests
+// summary: Unit tests verifying progress callbacks and rename results for successful and failed uploads to Google Drive and OneDrive.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/skyvault_rename_handler.h"
 
 #include "base/test/mock_callback.h"

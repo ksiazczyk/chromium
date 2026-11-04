@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metric reporting manager test support header
+// summary: Declares MetricReportingManagerForTest and MockDelegate with mocked collector, queue, rate limiter, and sampler factories for testing the reporting manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_METRIC_REPORTING_MANAGER_FOR_TEST_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_METRIC_REPORTING_MANAGER_FOR_TEST_H_
 

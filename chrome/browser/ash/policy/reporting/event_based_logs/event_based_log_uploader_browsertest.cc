@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event based log uploader browser tests
+// summary: Browser tests verifying event based log collection, exported files, and upload parameters against a test reporting storage module.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/event_based_logs/event_based_log_uploader.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skyvault test base classes
+// summary: Declares base browser test classes for Skyvault covering local My files, Microsoft OneDrive, and Google Drive migration test scenarios.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SKYVAULT_TEST_SKYVAULT_TEST_BASE_H_
 #define CHROME_BROWSER_ASH_POLICY_SKYVAULT_TEST_SKYVAULT_TEST_BASE_H_
 

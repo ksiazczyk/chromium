@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for file location utilities
+// summary: Browser tests verifying resolution of Google Drive, OneDrive, regular, and empty location paths used by SkyVault policies.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/file_location_utils.h"
 
 #include "chrome/browser/ash/drive/drive_integration_service.h"

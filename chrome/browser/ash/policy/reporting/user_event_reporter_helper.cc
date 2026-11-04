@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User event reporter helper implementation
+// summary: Implements the helper that checks reporting policies and user eligibility, then enqueues event records on a reporting queue for ChromeOS Ash policy reporting.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/user_event_reporter_helper.h"
 
 #include <optional>

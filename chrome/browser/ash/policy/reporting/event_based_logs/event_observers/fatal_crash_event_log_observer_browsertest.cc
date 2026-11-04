@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the fatal crash event log observer
+// summary: Browser tests verifying that fatal crash events trigger event-based log uploads, using a mock uploader and fake cros_healthd crash events.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/event_based_logs/event_observers/fatal_crash_event_log_observer.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reported local ID manager implementation
+// summary: Implements loading and writing of the reported crash local ID save file and decides whether a crash should be reported or skipped.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/fatal_crash/fatal_crash_events_observer_reported_local_id_manager.h"
 
 #include <algorithm>

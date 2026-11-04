@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device scheduled update checker implementation
+// summary: Implements DeviceScheduledUpdateChecker, which runs recurring update checks from the scheduled update check policy while holding wake locks and retrying timer starts.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/device_scheduled_update_checker.h"
 
 #include <time.h>

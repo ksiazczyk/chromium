@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WiFi signal strength RSSI fetcher unit tests
+// summary: Unit tests verifying that RSSI values are fetched for configured WiFi services, including handling of services without an RSSI property.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/network/wifi_signal_strength_rssi_fetcher.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioEventsObserver class declaration
+// summary: Declares the AudioEventsObserver class, which observes cros_healthd audio events and forwards them through the metrics reporting pipeline.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_AUDIO_AUDIO_EVENTS_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_AUDIO_AUDIO_EVENTS_OBSERVER_H_
 

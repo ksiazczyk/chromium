@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app install event logger header
+// summary: Declares ArcAppInstallEventLogger, which logs the start and end of app push-install processes and instantiates a collector for pending installs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_ARC_APP_INSTALL_EVENT_LOGGER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_ARC_APP_INSTALL_EVENT_LOGGER_H_
 

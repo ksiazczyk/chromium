@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uploaded crash info manager implementation
+// summary: Implements the manager that persists uploads.log creation time and offset in a JSON save file to decide whether a crash event was already reported.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/fatal_crash/fatal_crash_events_observer_uploaded_crash_info_manager.h"
 
 #include <atomic>

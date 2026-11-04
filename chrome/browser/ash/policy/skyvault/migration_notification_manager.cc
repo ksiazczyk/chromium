@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migration notification manager implementation
+// summary: Implements creation and handling of SkyVault migration dialogs and notifications, including progress, completion, error, configuration error, and OneDrive sign-in prompts.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/migration_notification_manager.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network diagnostics declarations
+// summary: Declares FakeNetworkDiagnostics and FakeHttpsLatencyDelegate test doubles for network diagnostics routines.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_NETWORK_FAKE_NETWORK_DIAGNOSTICS_UTIL_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_NETWORK_FAKE_NETWORK_DIAGNOSTICS_UTIL_H_
 

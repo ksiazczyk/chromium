@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosReportingSettings class header
+// summary: Declares CrosReportingSettings, a wrapper around ash::CrosSettings that telemetry collection and reporting use to read settings and observe changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_CROS_REPORTING_SETTINGS_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_CROS_REPORTING_SETTINGS_H_
 

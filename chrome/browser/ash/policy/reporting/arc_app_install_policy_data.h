@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app install policy data header
+// summary: Declares ArcAppInstallPolicyData, a class storing policy data used to record app install success rate metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_ARC_APP_INSTALL_POLICY_DATA_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_ARC_APP_INSTALL_POLICY_DATA_H_
 

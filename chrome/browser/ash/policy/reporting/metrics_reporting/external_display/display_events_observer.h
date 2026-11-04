@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display events observer header
+// summary: Declares DisplayEventsObserver, a cros_healthd event observer that reports external display connect and disconnect events for metrics reporting.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_EXTERNAL_DISPLAY_DISPLAY_EVENTS_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_EXTERNAL_DISPLAY_DISPLAY_EVENTS_OBSERVER_H_
 

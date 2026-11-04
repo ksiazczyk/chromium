@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduled task test utilities implementation
+// summary: Implements helpers that build scheduled task policies and compute timer expiration delays across time zones for scheduled task tests.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/test/scheduled_task_test_util.h"
 
 #include <algorithm>

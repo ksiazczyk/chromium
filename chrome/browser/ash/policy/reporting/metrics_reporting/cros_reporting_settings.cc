@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS reporting settings wrapper implementation
+// summary: Implements a wrapper around ChromeOS CrosSettings for reading reporting-related device settings and observing changes.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/cros_reporting_settings.h"
 
 #include "base/notreached.h"

@@ -1,3 +1,11 @@
+---
+type: readme
+title: Metrics reporting directory overview
+summary: Explains that this directory reports events and telemetry through the Encrypted Reporting Pipeline and where telemetry protos live.
+relations:
+  - references /components/reporting/proto/synced/metric_data.proto
+---
+
 This directory contains code that reports events and telemetry through the
 Encrypted Reporting Pipeline (ERP).
 

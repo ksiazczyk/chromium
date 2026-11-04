@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB events observer implementation
+// summary: Implements the cros_healthd event observer that converts USB add and remove events into metric event data and peripheral telemetry.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/usb/usb_events_observer.h"
 #include "chromeos/ash/services/cros_healthd/public/cpp/service_connection.h"
 #include "components/reporting/proto/synced/metric_data.pb.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server-backed device state constants and DeviceStateMode enum
+// summary: Declares dictionary key constants, enrollment and restore mode strings, license and upgrade type strings, and the DeviceStateMode enum with its parser.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SERVER_BACKED_STATE_SERVER_BACKED_DEVICE_STATE_H_
 #define CHROME_BROWSER_ASH_POLICY_SERVER_BACKED_STATE_SERVER_BACKED_DEVICE_STATE_H_
 

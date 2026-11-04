@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app install policy data helper implementation
+// summary: Implements ArcAppInstallPolicyDataHelper, which adds policy data, updates success rates, and times out stale policy tracking.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/arc_app_install_policy_data_helper.h"
 
 #include <string>

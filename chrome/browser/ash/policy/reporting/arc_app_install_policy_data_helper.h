@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app install policy data helper header
+// summary: Declares ArcAppInstallPolicyDataHelper, which manages policy data sets and a repeating timer to track install success rate metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_ARC_APP_INSTALL_POLICY_DATA_HELPER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_ARC_APP_INSTALL_POLICY_DATA_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User event reporter helper class declaration
+// summary: Declares the UserEventReporterHelper interface for policy checks, kiosk detection, DM token access, and enqueueing event records to a report queue.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_USER_EVENT_REPORTER_HELPER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_USER_EVENT_REPORTER_HELPER_H_
 

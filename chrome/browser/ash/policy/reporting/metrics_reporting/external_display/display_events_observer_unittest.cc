@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the display events observer
+// summary: Unit tests for DisplayEventsObserver checking event type mapping and display status fields such as resolution, refresh rate, name, serial number and EDID version.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/external_display/display_events_observer.h"
 
 #include <sys/types.h>

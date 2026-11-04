@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn test targets for scheduled task handlers
+summary: Defines the test_support static library with fakes and utilities and the unit_tests source set for the Ash policy scheduled task handler tests.

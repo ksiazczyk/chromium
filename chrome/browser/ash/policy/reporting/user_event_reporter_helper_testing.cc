@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User event reporter helper testing stub implementation
+// summary: Implements a configurable stub of UserEventReporterHelper that returns preset reporting flags and a fixed DM token for use in tests.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/user_event_reporter_helper_testing.h"
 
 namespace reporting {

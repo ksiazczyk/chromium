@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppPlatformMetricsRetriever implementation
+// summary: Implements AppPlatformMetricsRetriever, which returns the initialized AppPlatformMetrics component or waits for its initialization to complete.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/apps/app_platform_metrics_retriever.h"
 
 #include "base/callback_list.h"

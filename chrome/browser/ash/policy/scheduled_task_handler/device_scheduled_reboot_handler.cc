@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device scheduled reboot handler implementation
+// summary: Implements DeviceScheduledRebootHandler, which manages recurring device reboots from the scheduled reboot policy, reacting to timezone changes and power manager availability.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/device_scheduled_reboot_handler.h"
 
 #include <time.h>

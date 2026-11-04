@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkyVault policy utilities header
+// summary: Declares enums and helper functions for SkyVault policies, covering save destinations, migration destinations, upload errors, migration states, and dialog actions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SKYVAULT_POLICY_UTILS_H_
 #define CHROME_BROWSER_ASH_POLICY_SKYVAULT_POLICY_UTILS_H_
 

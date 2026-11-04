@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event observer base unit tests
+// summary: Unit tests for EventObserverBase using a fake log uploader and test observer to verify successful uploads, wait period limits, and histogram metrics.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/event_based_logs/event_observer_base.h"
 
 #include <memory>

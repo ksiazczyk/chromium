@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User session activity reporter delegate implementation
+// summary: Implements the delegate that tracks session activity state, queries device active and idle status, and enqueues UserSessionActivityRecord reports.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/user_session_activity/user_session_activity_reporter_delegate.h"
 
 #include <algorithm>

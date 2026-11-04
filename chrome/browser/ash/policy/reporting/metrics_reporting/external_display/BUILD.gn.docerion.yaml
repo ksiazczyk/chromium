@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for external display event reporting
+summary: GN build file defining the external_display static library and the unit and browser test source sets for external display event reporting.

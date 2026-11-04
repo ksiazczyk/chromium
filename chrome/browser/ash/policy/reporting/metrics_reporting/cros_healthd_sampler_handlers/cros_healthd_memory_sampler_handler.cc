@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosHealthdMemorySamplerHandler implementation
+// summary: Implements conversion of croshealthd memory telemetry, including TME encryption state and algorithm details, into metric data.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/cros_healthd_sampler_handlers/cros_healthd_memory_sampler_handler.h"
 
 #include <optional>

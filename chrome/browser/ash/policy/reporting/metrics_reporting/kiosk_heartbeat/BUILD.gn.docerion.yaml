@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Kiosk heartbeat build configuration
+summary: GN build file defining the kiosk_heartbeat static library together with its unit test and browser test targets and their dependencies.

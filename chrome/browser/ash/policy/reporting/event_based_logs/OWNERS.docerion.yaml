@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for event based logs
+summary: Delegates review ownership of the event based logs directory to the support tool OWNERS file.

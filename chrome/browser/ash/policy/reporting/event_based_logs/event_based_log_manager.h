@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventBasedLogManager class header
+// summary: Declares EventBasedLogManager, which manages event observers based on the LogUploadEnabled policy state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_EVENT_BASED_LOGS_EVENT_BASED_LOG_MANAGER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_EVENT_BASED_LOGS_EVENT_BASED_LOG_MANAGER_H_
 

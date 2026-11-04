@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for cros_healthd sampler handlers library
+summary: Defines the cros_healthd_sampler_handlers static library with its source files and dependencies for the Chrome OS metrics reporting build.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install event logger base template
+// summary: Template base class with shared logic for managing install event logs for ARC apps and extensions, including disk space info gathering.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_INSTALL_EVENT_LOGGER_BASE_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_INSTALL_EVENT_LOGGER_BASE_H_
 

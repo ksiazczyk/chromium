@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User event reporter helper testing stub declaration
+// summary: Declares a UserEventReporterHelper subclass that returns preset reporting answers so tests can control reporter behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_USER_EVENT_REPORTER_HELPER_TESTING_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_USER_EVENT_REPORTER_HELPER_TESTING_H_
 

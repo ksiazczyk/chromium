@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake scheduled task executor header
+// summary: Declares a fake ScheduledTaskExecutor with controllable time zone and failure simulation for deterministic scheduled task tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SCHEDULED_TASK_HANDLER_TEST_FAKE_SCHEDULED_TASK_EXECUTOR_H_
 #define CHROME_BROWSER_ASH_POLICY_SCHEDULED_TASK_HANDLER_TEST_FAKE_SCHEDULED_TASK_EXECUTOR_H_
 

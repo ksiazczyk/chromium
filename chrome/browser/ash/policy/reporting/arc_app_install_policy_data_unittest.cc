@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app install policy data unit tests
+// summary: Unit tests for ARC app install policy data, verifying install result updates, timeout behavior and policy success rate histogram reporting.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/arc_app_install_policy_data.h"
 
 #include "base/test/gtest_util.h"

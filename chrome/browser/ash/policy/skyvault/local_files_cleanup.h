@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local files cleanup class header
+// summary: Declares LocalFilesCleanup, a policy observer that kicks off user file removal when local user files are disallowed by policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SKYVAULT_LOCAL_FILES_CLEANUP_H_
 #define CHROME_BROWSER_ASH_POLICY_SKYVAULT_LOCAL_FILES_CLEANUP_H_
 

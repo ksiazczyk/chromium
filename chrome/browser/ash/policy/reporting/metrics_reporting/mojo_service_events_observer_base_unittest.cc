@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoServiceEventsObserverBase unit tests
+// summary: Unit tests verifying that MojoServiceEventsObserverBase observes cros_healthd audio events and reports telemetry data, including recovery after a simulated cros_healthd restart.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/mojo_service_events_observer_base.h"
 
 #include <string>

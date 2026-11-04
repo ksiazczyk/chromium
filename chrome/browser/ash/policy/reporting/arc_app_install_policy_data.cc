@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app install policy data implementation
+// summary: Implements ArcAppInstallPolicyData, which tracks pending app installs and records the ARC.AppInstall.PolicySuccessRate metric.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/arc_app_install_policy_data.h"
 
 #include <mutex>

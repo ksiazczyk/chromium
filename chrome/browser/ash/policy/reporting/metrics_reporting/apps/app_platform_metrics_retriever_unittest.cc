@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppPlatformMetricsRetriever unit tests
+// summary: Unit tests verifying that AppPlatformMetricsRetriever returns the initialized AppPlatformMetrics component or observes its initialization for a profile.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/apps/app_platform_metrics_retriever.h"
 
 #include <memory>

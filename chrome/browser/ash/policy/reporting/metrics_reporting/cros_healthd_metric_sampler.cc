@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cros_healthd metric sampler implementation
+// summary: Implements the sampler that probes cros_healthd for a given category and forwards results to a handler for metric conversion.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/cros_healthd_metric_sampler.h"
 
 #include <optional>

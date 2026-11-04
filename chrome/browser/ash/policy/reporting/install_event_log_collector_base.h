@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install event log collector base class
+// summary: Declares the base event log collector that observes network and suspend events and forwards them to derived collector classes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_INSTALL_EVENT_LOG_COLLECTOR_BASE_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_INSTALL_EVENT_LOG_COLLECTOR_BASE_H_
 

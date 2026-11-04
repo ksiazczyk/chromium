@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OsAndPoliciesUpdateChecker class declaration
+// summary: Declares the class used by the scheduled update check policy to perform device update checks, including retry and network-wait constants.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SCHEDULED_TASK_HANDLER_OS_AND_POLICIES_UPDATE_CHECKER_H_
 #define CHROME_BROWSER_ASH_POLICY_SCHEDULED_TASK_HANDLER_OS_AND_POLICIES_UPDATE_CHECKER_H_
 

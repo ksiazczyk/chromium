@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device scheduled reboot handler unit tests
+// summary: Unit tests for the device scheduled reboot handler, covering scheduled reboot policy handling, timer expirations, and reboot behavior across time zones and user types.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/device_scheduled_reboot_handler.h"
 
 #include <memory>

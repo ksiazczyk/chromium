@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk heartbeat telemetry sampler unit test
+// summary: Unit test verifying that MaybeCollect returns MetricData containing telemetry data with heartbeat telemetry.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/kiosk_heartbeat/kiosk_heartbeat_telemetry_sampler.h"
 
 #include <optional>

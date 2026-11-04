@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app install event log collector header
+// summary: Declares ArcAppInstallEventLogCollector, which listens for events related to app push-installs and forwards them to a delegate for logging.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_ARC_APP_INSTALL_EVENT_LOG_COLLECTOR_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_ARC_APP_INSTALL_EVENT_LOG_COLLECTOR_H_
 
