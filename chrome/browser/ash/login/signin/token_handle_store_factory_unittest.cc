@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenHandleStoreFactory unit tests
+// summary: Unit tests for TokenHandleStoreFactory covering Gaia password detection and token handle store behavior with fake auth factor clients.
+// ---
+
 #include "chrome/browser/ash/login/signin/token_handle_store_factory.h"
 
 #include <deque>

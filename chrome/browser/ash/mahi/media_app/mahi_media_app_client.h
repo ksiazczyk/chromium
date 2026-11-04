@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi media app client class declaration
+// summary: Declares MahiMediaAppClient, a Mojo-backed client binding a media app PDF window to Mahi, handling focus changes, context menus, and content requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAHI_MEDIA_APP_MAHI_MEDIA_APP_CLIENT_H_
 #define CHROME_BROWSER_ASH_MAHI_MEDIA_APP_MAHI_MEDIA_APP_CLIENT_H_
 

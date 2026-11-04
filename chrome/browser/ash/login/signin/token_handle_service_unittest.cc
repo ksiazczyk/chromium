@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenHandleService unit tests
+// summary: Unit tests for TokenHandleService covering token handle fetching and status handling for existing and new users.
+// ---
+
 #include "chrome/browser/ash/login/signin/token_handle_service.h"
 
 #include <memory>

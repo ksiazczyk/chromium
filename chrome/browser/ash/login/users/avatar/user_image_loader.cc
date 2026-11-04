@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User image loader implementation
+// summary: Implements reading, decoding, cropping to a square, resizing and re-encoding of user avatar images on background threads, including animated WebP handling.
+// ---
+
 #include "chrome/browser/ash/login/users/avatar/user_image_loader.h"
 
 #include <memory>

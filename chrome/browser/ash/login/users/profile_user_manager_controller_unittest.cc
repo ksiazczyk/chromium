@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile user manager controller unit tests
+// summary: Unit tests verifying that profile prefs are attached to a user on profile creation and cleared when the profile is destroyed.
+// ---
+
 #include "chrome/browser/ash/login/users/profile_user_manager_controller.h"
 
 #include "chrome/browser/ash/login/users/scoped_account_id_annotator.h"

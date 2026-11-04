@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline login test mixin header
+// summary: Declares a test mixin for preparing offline login, toggling network state, and submitting offline login forms in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_OFFLINE_LOGIN_TEST_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_OFFLINE_LOGIN_TEST_MIXIN_H_
 

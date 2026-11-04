@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticationFlowAutoReloadManager implementation
+// summary: Implements automatic reloading of the authentication flow based on the DeviceAuthenticationFlowAutoReloadInterval policy, postponing reloads while the user is active.
+// ---
+
 #include "chrome/browser/ash/login/signin/authentication_flow_auto_reload_manager.h"
 
 #include <functional>

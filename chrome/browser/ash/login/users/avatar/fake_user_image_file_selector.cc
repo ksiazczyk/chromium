@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake user image file selector for tests
+// summary: Fake UserImageFileSelector that immediately reports a preset file path as selected, for use in tests.
+// ---
+
 #include "chrome/browser/ash/login/users/avatar/fake_user_image_file_selector.h"
 
 namespace ash {

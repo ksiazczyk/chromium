@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User image preferences implementation
+// summary: Registers the avatar customization selectors profile preference and provides a helper to read its enabled state.
+// ---
+
 #include "chrome/browser/ash/login/users/avatar/user_image_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

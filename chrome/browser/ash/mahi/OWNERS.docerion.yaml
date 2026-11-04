@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to the chromeos Mahi owners
+summary: Delegates ownership review for this directory to the OWNERS file of chromeos/components/mahi.

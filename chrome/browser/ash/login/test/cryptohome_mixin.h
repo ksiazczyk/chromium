@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptohomeMixin header
+// summary: Declares a browser test mixin that brokers interactions with FakeUserDataAuthClient to add auth factors, sessions and fingerprint scans for user accounts in login tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_CRYPTOHOME_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_CRYPTOHOME_MIXIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaia page event waiter header
+// summary: Declares GaiaPageEventWaiter, a test helper that waits for a named event from the Gaia authenticator on the login or enrollment screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_GAIA_PAGE_EVENT_WAITER_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_GAIA_PAGE_EVENT_WAITER_H_
 

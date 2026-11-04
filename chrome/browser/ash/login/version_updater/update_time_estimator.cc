@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update time estimator implementation
+// summary: Implements estimation of remaining download time, total update time, and progress percentages from update engine stage statuses.
+// ---
+
 #include "chrome/browser/ash/login/version_updater/update_time_estimator.h"
 
 #include <utility>

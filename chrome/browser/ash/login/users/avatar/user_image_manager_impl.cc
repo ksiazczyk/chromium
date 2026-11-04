@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserImageManagerImpl implementation
+// summary: Implements the per-user image manager that loads, saves, downloads, and deletes avatar images and records related UMA metrics.
+// ---
+
 
 #include "chrome/browser/ash/login/users/avatar/user_image_manager_impl.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE configuration waiter header
+// summary: Declares OOBEConfigurationWaiter, a test helper that ensures the OOBE configuration is loaded before proceeding with checks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_OOBE_CONFIGURATION_WAITER_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_OOBE_CONFIGURATION_WAITER_H_
 

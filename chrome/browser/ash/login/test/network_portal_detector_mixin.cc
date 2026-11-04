@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network portal detector test mixin implementation
+// summary: Implements a test mixin that fakes captive portal detection states by configuring fake Shill network services.
+// ---
+
 #include "chrome/browser/ash/login/test/network_portal_detector_mixin.h"
 
 #include "base/run_loop.h"

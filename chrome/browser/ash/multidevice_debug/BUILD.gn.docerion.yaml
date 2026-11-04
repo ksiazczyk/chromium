@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the multidevice_debug static library
+summary: Defines the multidevice_debug static library, listing its sources and dependencies on ChromeOS browser and multidevice setup targets.

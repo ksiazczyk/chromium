@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash login test support build definition
+summary: GN build file that defines the test_support static library of login and OOBE test helpers for ChromeOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magic Boost controller unit tests
+// summary: Unit tests for the controller verifying disclaimer widget creation, accept and decline button handling, link presses, and disclaimer view histograms.
+// ---
+
 #include "chrome/browser/ash/magic_boost/magic_boost_controller.h"
 
 #include "base/strings/strcat.h"

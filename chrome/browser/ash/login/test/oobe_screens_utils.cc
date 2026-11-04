@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE screen test utilities implementation
+// summary: Implements helpers to wait for, advance through and exit OOBE screens such as welcome, network, update, consent, enrollment and user creation in tests.
+// ---
+
 #include "chrome/browser/ash/login/test/oobe_screens_utils.h"
 
 #include <cstdint>

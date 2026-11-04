@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE screen test utilities header
+// summary: Declares OOBE screen test helpers plus waiters and watchers for screens like welcome, network, update, consent, enrollment and user creation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_OOBE_SCREENS_UTILS_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_OOBE_SCREENS_UTILS_H_
 

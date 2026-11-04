@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin error notifier factory implementation
+// summary: Implements the profile-keyed factory that creates SigninErrorNotifier services, suppressing notifications during test dummy logins with disabled Gaia services.
+// ---
+
 #include "chrome/browser/ash/login/signin/signin_error_notifier_factory.h"
 
 #include "ash/constants/ash_switches.h"

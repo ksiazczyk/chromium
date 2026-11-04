@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DialogWindowWaiter header
+// summary: Declares a single-use test helper that waits for a dialog window with a given title to open and become visible during browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_DIALOG_WINDOW_WAITER_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_DIALOG_WINDOW_WAITER_H_
 

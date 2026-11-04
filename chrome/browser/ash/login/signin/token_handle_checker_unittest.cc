@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Token handle checker unit tests
+// summary: Unit tests covering token handle check outcomes for valid, expired, OAuth error and network error responses using a fake URL loader factory.
+// ---
+
 #include "chrome/browser/ash/login/signin/token_handle_checker.h"
 
 #include <memory>

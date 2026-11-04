@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login manager mixin implementation
+// summary: Implements LoginManagerMixin, which creates test accounts, builds default user contexts, and drives login flows for browser tests.
+// ---
+
 #include "chrome/browser/ash/login/test/login_manager_mixin.h"
 
 #include <memory>

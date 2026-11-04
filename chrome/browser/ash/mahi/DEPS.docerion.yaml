@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Mahi directory
+summary: Specifies allowed include dependencies for the Mahi directory, with per-file exceptions for availability code and browser test files.

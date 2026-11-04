@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default user images unit tests
+// summary: Unit tests verifying that the current image set is valid, random indices are current, and image URLs use correct scale factor prefixes.
+// ---
+
 #include "chrome/browser/ash/login/users/default_user_image/default_user_images.h"
 
 #include <string_view>

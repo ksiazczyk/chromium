@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock notification controller implementation
+// summary: Implements showing Smart Lock notifications for a newly added Chromebook, pairing changes, and applied pairing changes, with click handling.
+// ---
+
 #include "chrome/browser/ash/login/smart_lock/smart_lock_notification_controller.h"
 
 #include "ash/constants/notifier_catalogs.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock user image loader delegate for tests
+// summary: gmock implementation of UserImageLoaderDelegate whose default FromGURLAnimated action posts an empty user image to the callback.
+// ---
+
 #include "chrome/browser/ash/login/users/avatar/mock_user_image_loader_delegate.h"
 
 #include <memory>

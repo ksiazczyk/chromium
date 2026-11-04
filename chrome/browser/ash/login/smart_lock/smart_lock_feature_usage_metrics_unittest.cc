@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart Lock feature usage metrics unit tests
+// summary: Unit tests verifying SmartLockFeatureUsageMetrics eligibility and enabled states across MultiDevice Setup feature states and usage recording via histograms.
+// ---
+
 #include <memory>
 
 #include "base/test/metrics/histogram_tester.h"

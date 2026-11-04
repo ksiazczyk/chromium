@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for default_user_image
+summary: GN build file defining the default_user_image static library and its unit_tests source_set with their dependencies.

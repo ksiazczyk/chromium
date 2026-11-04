@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome user session test environment delegate
+// summary: Declares a UserSessionTestEnvironment delegate that manages TestingProfileManager and profile creation in Chrome tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_CHROME_USER_SESSION_TEST_ENVIRONMENT_DELEGATE_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_CHROME_USER_SESSION_TEST_ENVIRONMENT_DELEGATE_H_
 

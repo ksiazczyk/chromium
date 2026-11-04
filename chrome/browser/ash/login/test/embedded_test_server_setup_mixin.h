@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmbeddedTestServerSetupMixin header
+// summary: Declares a browser test mixin that sets up an embedded test server to serve files from the test data directory for the owning test.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_EMBEDDED_TEST_SERVER_SETUP_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_EMBEDDED_TEST_SERVER_SETUP_MIXIN_H_
 

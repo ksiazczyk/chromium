@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceStateMixin implementation
+// summary: Implements a browser test mixin that configures device state such as OOBE completion, enrollment, install attributes and cached device policies for login tests.
+// ---
+
 #include "chrome/browser/ash/login/test/device_state_mixin.h"
 
 #include <utility>

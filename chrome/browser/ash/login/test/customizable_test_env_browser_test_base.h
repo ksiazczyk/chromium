@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomizableTestEnvBrowserTestBase header
+// summary: Declares a browser test base class whose subclasses can configure device state and user session type environments before SetUp for ChromeOS login tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_CUSTOMIZABLE_TEST_ENV_BROWSER_TEST_BASE_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_CUSTOMIZABLE_TEST_ENV_BROWSER_TEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash browser main parts implementation
+// summary: Implements ChromeBrowserMainPartsAsh, wiring up Ash subsystems, DBus services, and Chrome OS browser initialization and teardown during startup.
+// ---
+
 #include "chrome/browser/ash/main_parts/chrome_browser_main_parts_ash.h"
 
 #include <stddef.h>

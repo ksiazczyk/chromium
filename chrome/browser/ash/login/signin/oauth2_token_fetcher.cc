@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2TokenFetcher implementation
+// summary: Exchanges auth codes for OAuth2 tokens with retries on transient errors, notifying a delegate of success or failure.
+// ---
+
 #include "chrome/browser/ash/login/signin/oauth2_token_fetcher.h"
 
 #include "base/functional/bind.h"

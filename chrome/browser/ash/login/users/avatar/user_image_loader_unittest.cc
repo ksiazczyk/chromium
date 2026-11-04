@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserImageLoader unit tests
+// summary: Unit tests verifying that the user image loader reads an animated WebP avatar file from disk and yields a correctly formatted user image.
+// ---
+
 #include "chrome/browser/ash/login/users/avatar/user_image_loader.h"
 
 #include <memory>

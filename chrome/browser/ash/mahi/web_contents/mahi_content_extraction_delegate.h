@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi content extraction delegate header
+// summary: Declares the delegate responsible for setting up the Mahi content extraction service and handling content extraction requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAHI_WEB_CONTENTS_MAHI_CONTENT_EXTRACTION_DELEGATE_H_
 #define CHROME_BROWSER_ASH_MAHI_WEB_CONTENTS_MAHI_CONTENT_EXTRACTION_DELEGATE_H_
 

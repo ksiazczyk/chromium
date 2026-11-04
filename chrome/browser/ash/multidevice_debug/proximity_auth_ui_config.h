@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProximityAuthUIConfig class declaration
+// summary: Declares the WebUIConfig subclass that registers and enables the ProximityAuth debug WebUI, noting it lives under chrome because Profile access is required.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MULTIDEVICE_DEBUG_PROXIMITY_AUTH_UI_CONFIG_H_
 #define CHROME_BROWSER_ASH_MULTIDEVICE_DEBUG_PROXIMITY_AUTH_UI_CONFIG_H_
 

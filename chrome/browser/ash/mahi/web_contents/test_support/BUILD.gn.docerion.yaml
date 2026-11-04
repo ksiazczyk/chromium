@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Mahi web contents test support
+summary: Defines the testonly static library that bundles the fake and mock Mahi web contents manager sources with their build dependencies.

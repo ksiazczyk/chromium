@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network portal detector test mixin header
+// summary: Declares a deprecated test mixin for faking network captive portal detector states, kept for compatibility with existing tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_NETWORK_PORTAL_DETECTOR_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_NETWORK_PORTAL_DETECTOR_MIXIN_H_
 

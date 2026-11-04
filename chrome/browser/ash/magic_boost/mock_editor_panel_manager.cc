@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Editor panel manager mock implementation
+// summary: Implements the MockEditorPanelManager constructor and destructor for the test double of EditorPanelManager.
+// ---
+
 #include "chrome/browser/ash/magic_boost/mock_editor_panel_manager.h"
 
 #include "chrome/browser/ash/input_method/editor_panel_manager.h"

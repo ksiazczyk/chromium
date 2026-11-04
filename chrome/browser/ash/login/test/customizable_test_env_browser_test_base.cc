@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomizableTestEnvBrowserTestBase implementation
+// summary: Implements a parameterized browser test base that sets up combinations of device states and user session types for ChromeOS login tests.
+// ---
+
 #include "chrome/browser/ash/login/test/customizable_test_env_browser_test_base.h"
 
 #include "chrome/browser/ash/login/test/device_state_mixin.h"

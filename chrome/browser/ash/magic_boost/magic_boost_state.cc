@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost state implementation
+// summary: Implements the ash-level MagicBoostState that tracks Magic Boost prefs, HMR consent, and user eligibility across sessions.
+// ---
+
 #include "chrome/browser/ash/magic_boost/magic_boost_state.h"
 
 #include <cstdint>

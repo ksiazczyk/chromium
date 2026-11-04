@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2LoginManager implementation
+// summary: Implements restoration of authenticated web sessions from OAuth2 tokens, tracking session restore state and notifying observers.
+// ---
+
 #include "chrome/browser/ash/login/signin/oauth2_login_manager.h"
 
 #include <utility>

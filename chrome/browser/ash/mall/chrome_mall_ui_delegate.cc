@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Mall UI delegate implementation
+// summary: Implements ChromeMallUIDelegate, fetching device info to produce the Mall embed URL for the WebUI.
+// ---
+
 #include "chrome/browser/ash/mall/chrome_mall_ui_delegate.h"
 
 #include <string_view>

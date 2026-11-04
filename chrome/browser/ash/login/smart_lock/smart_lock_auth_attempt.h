@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock auth attempt header
+// summary: Declares SmartLockAuthAttempt, which starts, finalizes, and cancels Smart Lock unlock attempts on the lock screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SMART_LOCK_SMART_LOCK_AUTH_ATTEMPT_H_
 #define CHROME_BROWSER_ASH_LOGIN_SMART_LOCK_SMART_LOCK_AUTH_ATTEMPT_H_
 

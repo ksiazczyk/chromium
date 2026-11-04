@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment helper mixin header
+// summary: Declares a browser test mixin for mocking enterprise enrollment backend interactions, with helpers to expect enrollment modes, successes, errors and token configurations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_ENROLLMENT_HELPER_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_ENROLLMENT_HELPER_MIXIN_H_
 

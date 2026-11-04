@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User auth config implementation
+// summary: Implements UserAuthConfig factory and builder methods that configure auth factors such as online or local passwords, PINs and recovery for test users.
+// ---
+
 #include "chrome/browser/ash/login/test/user_auth_config.h"
 
 #include <initializer_list>

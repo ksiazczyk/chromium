@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Magic Boost BUILD.gn build targets
+summary: Defines the static libraries and test targets that build the Magic Boost ash implementation, its mock test support, and its unit and browser tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merge session throttling utilities implementation
+// summary: Implements helpers that track blocked profiles and decide whether requests or URLs should be delayed while session restore is pending.
+// ---
+
 #include "chrome/browser/ash/login/signin/merge_session_throttling_utils.h"
 
 #include <stdint.h>

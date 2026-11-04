@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile user manager controller implementation
+// summary: Implements profile lifecycle handling that notifies the user manager when user profiles are created or about to be destroyed.
+// ---
+
 #include "chrome/browser/ash/login/users/profile_user_manager_controller.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost metrics implementation
+// summary: Records Ash.MagicBoost.DisclaimerView histograms for disclaimer view actions, split by HMR-only and Orca-and-HMR opt-in feature combinations.
+// ---
+
 #include "chrome/browser/ash/magic_boost/magic_boost_metrics.h"
 
 #include <string>

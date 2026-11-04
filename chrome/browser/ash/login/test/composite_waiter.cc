@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composite waiter implementation
+// summary: Implements a waiter that sequentially waits on two or three test condition waiters.
+// ---
+
 #include "chrome/browser/ash/login/test/composite_waiter.h"
 
 #include <memory>

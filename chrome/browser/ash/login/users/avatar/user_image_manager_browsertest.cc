@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserImageManager browser tests
+// summary: Browser tests covering user image manager behavior across login, profile image download, policy, and image change scenarios.
+// ---
+
 #include <stdint.h>
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart Lock auth attempt unit tests
+// summary: Unit tests SmartLockAuthAttempt start, finalize, and cancel behavior using a fake ScreenlockBridge lock handler.
+// ---
+
 #include "chrome/browser/ash/login/smart_lock/smart_lock_auth_attempt.h"
 
 #include <stddef.h>

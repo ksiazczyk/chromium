@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake user image file selector header
+// summary: Declares FakeUserImageFileSelector, a test double of UserImageFileSelector that returns a preset file path.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_AVATAR_FAKE_USER_IMAGE_FILE_SELECTOR_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_AVATAR_FAKE_USER_IMAGE_FILE_SELECTOR_H_
 

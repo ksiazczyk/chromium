@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for multidevice_debug
+summary: Sets directory dependency rules, allowing only specific //chrome dependencies and documenting the ChromeOS exception for this directory.

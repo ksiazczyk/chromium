@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE screen exit waiter implementation
+// summary: Implements OobeScreenExitWaiter, which blocks a test until the OOBE UI leaves the target screen or the OOBE UI is destroyed.
+// ---
+
 #include "chrome/browser/ash/login/test/oobe_screen_exit_waiter.h"
 
 #include "base/logging.h"

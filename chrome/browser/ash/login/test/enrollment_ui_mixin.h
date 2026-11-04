@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment UI mixin header
+// summary: Declares a test mixin for enrollment-specific OOBE UI interactions, exposing step and value constants plus helpers for waiting, error retry and license selection.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_ENROLLMENT_UI_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_ENROLLMENT_UI_MIXIN_H_
 

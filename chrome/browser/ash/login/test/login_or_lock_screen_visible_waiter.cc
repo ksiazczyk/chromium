@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login or lock screen waiter implementation
+// summary: Implements a test waiter that blocks until the login or lock screen becomes visible during Ash browser tests.
+// ---
+
 #include "chrome/browser/ash/login/test/login_or_lock_screen_visible_waiter.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin error notifier unit tests
+// summary: Unit tests verifying that signin auth errors for primary and secondary accounts produce the expected user notifications.
+// ---
+
 #include "chrome/browser/ash/login/signin/signin_error_notifier.h"
 
 #include <memory>

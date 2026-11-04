@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenHandleStore unit tests
+// summary: Unit tests for TokenHandleStore covering token handle persistence, validity status, staleness, and reauthentication requirements.
+// ---
+
 #include "chrome/browser/ash/login/signin/token_handle_store.h"
 
 #include <memory>

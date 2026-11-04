@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi media app events proxy class declaration
+// summary: Declares MahiMediaAppEventsProxyImpl, which forwards media app PDF events that the Mahi feature cares about to its observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAHI_MEDIA_APP_MAHI_MEDIA_APP_EVENTS_PROXY_IMPL_H_
 #define CHROME_BROWSER_ASH_MAHI_MEDIA_APP_MAHI_MEDIA_APP_EVENTS_PROXY_IMPL_H_
 

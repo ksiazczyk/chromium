@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token handle service implementation
+// summary: Implements a per-profile service that observes refresh token updates, marks stored token handles stale and fetches fresh token handles for Google accounts.
+// ---
+
 #include "chrome/browser/ash/login/signin/token_handle_service.h"
 
 #include <string>

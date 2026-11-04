@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User image file selector implementation
+// summary: Opens a select-file dialog limited to image formats so users can pick a picture for their avatar, reporting selection or cancellation via callbacks.
+// ---
+
 #include "chrome/browser/ash/login/users/avatar/user_image_file_selector.h"
 
 #include <utility>

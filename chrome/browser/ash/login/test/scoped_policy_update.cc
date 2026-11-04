@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped policy update implementations
+// summary: Implements scoped user and device policy update helpers that run a completion callback when the object goes out of scope.
+// ---
+
 #include "chrome/browser/ash/login/test/scoped_policy_update.h"
 
 #include <utility>

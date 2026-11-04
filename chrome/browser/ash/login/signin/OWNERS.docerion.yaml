@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for signin
+summary: Lists owners for the signin directory and delegates SAML integration files to the Ash login SAML integration owners.

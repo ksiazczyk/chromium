@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline login test mixin implementation
+// summary: Implements a test mixin that switches the login screen to offline login mode and drives the offline sign-in UI flow.
+// ---
+
 #include "chrome/browser/ash/login/test/offline_login_test_mixin.h"
 
 #include "base/check_deref.h"

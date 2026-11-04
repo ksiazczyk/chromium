@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'OobeBaseTest: base class for OOBE, login, SAML and Kiosk browser tests'
+// summary: Declares the base browser test class for OOBE, login, SAML and Kiosk tests, with Gaia page waiters, JS checking and embedded test server setup.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_OOBE_BASE_TEST_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_OOBE_BASE_TEST_H_
 

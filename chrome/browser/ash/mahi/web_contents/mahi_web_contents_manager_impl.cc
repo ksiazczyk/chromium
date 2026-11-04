@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi web contents manager implementation
+// summary: Implements the browser-side Mahi web contents manager that tracks focused pages, extracts content, and handles PDF and incognito cases.
+// ---
+
 #include "chrome/browser/ash/mahi/web_contents/mahi_web_contents_manager_impl.h"
 
 #include <memory>

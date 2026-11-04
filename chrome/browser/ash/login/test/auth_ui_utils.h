@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth UI test helper page actors
+// summary: Declares OOBE page actor classes and auth surface interfaces for interacting with login and authentication UI in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_AUTH_UI_UTILS_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_AUTH_UI_UTILS_H_
 

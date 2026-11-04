@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JS checker header
+// summary: Declares JSChecker, a utility for tests to evaluate and assert JavaScript expressions and element attributes within given web contents.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_JS_CHECKER_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_JS_CHECKER_H_
 

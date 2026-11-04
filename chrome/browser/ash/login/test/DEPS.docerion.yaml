@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ash login test directory
+summary: DEPS file restricting //chrome includes to an allowlist for the login test support code.

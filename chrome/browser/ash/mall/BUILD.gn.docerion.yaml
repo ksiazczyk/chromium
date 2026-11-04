@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the Mall component
+summary: Defines the Mall static library sources and dependencies plus the unit test target for the chrome/browser/ash/mall directory.

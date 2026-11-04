@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi media app service factory implementation
+// summary: Implements the singleton factory that creates MahiMediaAppClient instances and binds their Mojo receivers for media app windows.
+// ---
+
 #include "chrome/browser/ash/mahi/media_app/mahi_media_app_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview content extractor implementation
+// summary: Implements helpers that tag and locate OOBE webview guests by element ID and return their document body text for test verification.
+// ---
+
 #include "chrome/browser/ash/login/test/webview_content_extractor.h"
 
 #include <string_view>

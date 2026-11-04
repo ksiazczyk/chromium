@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE window visibility waiter implementation
+// summary: Implements OobeWindowVisibilityWaiter, which blocks a test until the OOBE window reaches the requested visibility state or is destroyed.
+// ---
+
 #include "chrome/browser/ash/login/test/oobe_window_visibility_waiter.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi test utility declarations
+// summary: Declares test helpers for Mahi tests, including consent status application, default answer and summary accessors, and a UI update wait function.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAHI_MAHI_TEST_UTIL_H_
 #define CHROME_BROWSER_ASH_MAHI_MAHI_TEST_UTIL_H_
 

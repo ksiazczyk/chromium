@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session flags manager implementation
+// summary: Implements command line setup for login tests, including session restore state persisted to a JSON file across PRE_ test steps.
+// ---
+
 #include "chrome/browser/ash/login/test/session_flags_manager.h"
 
 #include <algorithm>

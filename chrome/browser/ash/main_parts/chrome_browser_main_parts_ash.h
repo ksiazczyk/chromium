@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBrowserMainPartsAsh class declaration
+// summary: Declares the ChromeBrowserMainPartsAsh class and the many Ash subsystem clients and managers it owns for browser startup on Chrome OS.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAIN_PARTS_CHROME_BROWSER_MAIN_PARTS_ASH_H_
 #define CHROME_BROWSER_ASH_MAIN_PARTS_CHROME_BROWSER_MAIN_PARTS_ASH_H_
 

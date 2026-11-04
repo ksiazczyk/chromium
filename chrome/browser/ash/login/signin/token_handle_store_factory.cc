@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenHandleStore factory implementation
+// summary: Implements the global TokenHandleStore factory and the helper that determines whether an account authenticates with a Gaia password.
+// ---
+
 #include "chrome/browser/ash/login/signin/token_handle_store_factory.h"
 
 #include <memory>

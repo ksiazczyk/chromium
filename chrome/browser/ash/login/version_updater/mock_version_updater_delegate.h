@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock version updater delegate header
+// summary: Declares a gmock mock of VersionUpdater::Delegate that stubs update info, error, and reboot callbacks for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_VERSION_UPDATER_MOCK_VERSION_UPDATER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_LOGIN_VERSION_UPDATER_MOCK_VERSION_UPDATER_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Smart Lock build targets and dependencies (BUILD.gn)
+summary: Defines the smart_lock static library and its unit_tests source set, listing sources and build dependencies for ChromeOS Smart Lock.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost state class declaration
+// summary: Declares MagicBoostState, a class holding Magic Boost preferences and state that observes session, shell, and pref changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAGIC_BOOST_MAGIC_BOOST_STATE_H_
 #define CHROME_BROWSER_ASH_MAGIC_BOOST_MAGIC_BOOST_STATE_H_
 

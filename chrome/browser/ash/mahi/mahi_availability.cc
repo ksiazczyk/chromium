@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi availability checks implementation
+// summary: Implements checks that decide whether the Mahi service can be used, based on feature flags, demo and guest sessions, minor-account restrictions, and country allowlist.
+// ---
+
 #include "chrome/browser/ash/mahi/mahi_availability.h"
 
 #include "ash/constants/generative_ai_country_restrictions.h"

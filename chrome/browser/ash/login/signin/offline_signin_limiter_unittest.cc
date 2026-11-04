@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflineSigninLimiter unit tests
+// summary: Unit tests for OfflineSigninLimiter covering Gaia and SAML users, offline sign-in time limits, lock screen re-authentication, and suspend behavior.
+// ---
+
 #include "chrome/browser/ash/login/signin/offline_signin_limiter.h"
 
 #include <memory>

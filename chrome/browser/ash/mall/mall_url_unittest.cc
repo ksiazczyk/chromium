@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mall URL unit tests
+// summary: Unit tests verifying GetMallLaunchUrl host, origin and context query parameters, and handling of base, relative, and query-like paths.
+// ---
+
 #include "chrome/browser/ash/mall/mall_url.h"
 
 #include "base/base64.h"

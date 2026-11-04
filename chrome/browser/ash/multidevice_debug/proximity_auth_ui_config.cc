@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProximityAuthUIConfig implementation
+// summary: Implements the WebUI configuration for the ProximityAuth debug page, restricting access to eligible profiles and binding the MultiDeviceSetup service to the controller.
+// ---
+
 #include "chrome/browser/ash/multidevice_debug/proximity_auth_ui_config.h"
 
 #include "ash/webui/multidevice_debug/proximity_auth_ui.h"

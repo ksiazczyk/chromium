@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for cryptohome mixin
+summary: OWNERS file assigning emaamari@google.com as owner for cryptohome_mixin files.

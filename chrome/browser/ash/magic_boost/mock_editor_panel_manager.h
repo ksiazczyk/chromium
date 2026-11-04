@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Editor panel manager mock declaration
+// summary: Declares a GoogleMock EditorPanelManager with mocked editor menu, promo card, and consent methods for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAGIC_BOOST_MOCK_EDITOR_PANEL_MANAGER_H_
 #define CHROME_BROWSER_ASH_MAGIC_BOOST_MOCK_EDITOR_PANEL_MANAGER_H_
 

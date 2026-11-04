@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mall launch URL builder header
+// summary: Declares GetMallLaunchUrl, which returns a Mall app launch URL with an optional path and device context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MALL_MALL_URL_H_
 #define CHROME_BROWSER_ASH_MALL_MALL_URL_H_
 

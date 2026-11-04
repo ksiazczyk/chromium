@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineSigninLimiterFactory implementation
+// summary: Implements the profile-keyed factory that builds OfflineSigninLimiter instances per profile and provides a testing hook for injecting a clock.
+// ---
+
 #include "chrome/browser/ash/login/signin/offline_signin_limiter_factory.h"
 
 #include "base/time/clock.h"

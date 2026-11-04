@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token handle checker implementation
+// summary: Implements token handle validation against the Gaia tokeninfo endpoint, mapping results to valid, invalid, expired or unknown statuses and recording response time metrics.
+// ---
+
 #include "chrome/browser/ash/login/signin/token_handle_checker.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi cache manager implementation
+// summary: Implements a per-URL page cache for Mahi that stores page data and periodically removes entries older than seven days.
+// ---
+
 #include "chrome/browser/ash/mahi/mahi_cache_manager.h"
 
 #include <memory>

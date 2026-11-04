@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WizardControllerExitWaiter implementation
+// summary: Implements a test waiter that blocks until the WizardController exits the target OOBE screen or shuts down, using a RunLoop and screen observation.
+// ---
+
 #include "chrome/browser/ash/login/test/wizard_controller_screen_exit_waiter.h"
 
 #include "base/logging.h"

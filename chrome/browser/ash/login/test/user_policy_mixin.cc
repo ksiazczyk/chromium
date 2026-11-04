@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User policy mixin implementation
+// summary: Implements a browser test mixin that writes user policy signing keys and sets cached or served policy blobs for a test account via the fake session manager.
+// ---
+
 #include "chrome/browser/ash/login/test/user_policy_mixin.h"
 
 #include <utility>

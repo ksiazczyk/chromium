@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MergeSessionNavigationThrottle class declaration
+// summary: Declares a navigation throttle that defers page loads during ChromeOS merge session restore and resumes them on completion or after a timeout.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_MERGE_SESSION_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_MERGE_SESSION_NAVIGATION_THROTTLE_H_
 

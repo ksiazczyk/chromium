@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart Lock notification controller unit tests
+// summary: Tests that Smart Lock notifications are displayed with expected buttons and that clicks launch multi-device settings or lock the screen.
+// ---
+
 #include "chrome/browser/ash/login/smart_lock/smart_lock_notification_controller.h"
 
 #include "ash/constants/ash_features.h"

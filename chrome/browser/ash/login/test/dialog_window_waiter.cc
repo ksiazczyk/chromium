@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DialogWindowWaiter implementation
+// summary: Implements a test helper that blocks until a dialog window with a given title becomes visible and closes leftover dialogs on teardown to avoid flaky browser tests.
+// ---
+
 #include "chrome/browser/ash/login/test/dialog_window_waiter.h"
 
 #include "ui/aura/env.h"

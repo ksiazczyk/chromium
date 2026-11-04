@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost controller implementation
+// summary: Implements the Magic Boost controller that shows and closes the disclaimer UI and handles accept, decline, and link press actions with metrics recording.
+// ---
+
 #include "chrome/browser/ash/magic_boost/magic_boost_controller.h"
 
 #include "ash/lobster/lobster_controller.h"

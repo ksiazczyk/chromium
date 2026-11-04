@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Ash main parts directory
+summary: Specifies which Chrome browser and Ash headers the main parts directory may include, with extra rules scoped to the .cc implementation.

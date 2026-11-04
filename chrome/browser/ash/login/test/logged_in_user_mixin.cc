@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Logged-in user mixin implementation
+// summary: Implements LoggedInUserMixin, which composes login, cryptohome, fake Gaia, and policy mixins to log in consumer, child, or managed users in browser tests.
+// ---
+
 #include "chrome/browser/ash/login/test/logged_in_user_mixin.h"
 
 #include <initializer_list>

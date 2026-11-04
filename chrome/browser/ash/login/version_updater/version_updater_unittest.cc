@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Version updater unit tests
+// summary: Unit tests exercising the update flow with a fake update engine client, network test helpers, and a mock delegate.
+// ---
+
 #include "chrome/browser/ash/login/version_updater/version_updater.h"
 
 #include <memory>

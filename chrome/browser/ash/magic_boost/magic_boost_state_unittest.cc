@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magic Boost state unit tests
+// summary: Unit tests verifying Magic Boost pref handling, HMR consent and enable updates, and observer notifications.
+// ---
+
 #include "chrome/browser/ash/magic_boost/magic_boost_state.h"
 
 #include <memory>

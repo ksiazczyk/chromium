@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock service factory implementation
+// summary: Profile-keyed service factory that builds SmartLockService when Smart Lock is policy-allowed and the cross-device suite is enabled.
+// ---
+
 #include "chrome/browser/ash/login/smart_lock/smart_lock_service_factory.h"
 
 #include "ash/constants/ash_features.h"
