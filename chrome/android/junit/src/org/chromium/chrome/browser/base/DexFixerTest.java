@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'DexFixerTest: unit tests for DexFixer'
+// summary: Robolectric unit tests verifying that DexFixer triggers a package dex optimization only when the odex file is not world-readable.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import static com.google.common.truth.Truth.assertThat;

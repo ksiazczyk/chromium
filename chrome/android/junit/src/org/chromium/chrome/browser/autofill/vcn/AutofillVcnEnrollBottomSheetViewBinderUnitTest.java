@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillVcnEnrollBottomSheetViewBinder
+// summary: Robolectric unit tests binding the enrollment bottom sheet model to its view, covering issuer icons, legal message links, loading state and description text.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import static com.google.common.truth.Truth.assertThat;

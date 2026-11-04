@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Home button instrumentation tests
+// summary: Instrumentation tests for the toolbar home button, covering clicks, long-press context menu, and homepage settings navigation.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static androidx.test.espresso.Espresso.onView;

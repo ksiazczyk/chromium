@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webapp theme color short-edges cutout tests
+// summary: Tests status bar color transitions for standalone webapps with the short-edges cutout feature as pages opt in and out of viewport-fit=cover.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

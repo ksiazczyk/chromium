@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecentlyClosedEntriesManagerTrackerImpl unit tests
+// summary: Unit tests for RecentlyClosedEntriesManagerTrackerImpl covering manager creation, destruction, and notifications when windows are closed or restored.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

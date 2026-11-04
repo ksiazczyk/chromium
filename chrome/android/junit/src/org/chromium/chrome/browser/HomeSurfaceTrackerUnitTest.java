@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HomeSurfaceTracker unit tests
+// summary: Unit tests for HomeSurfaceTracker covering home surface tab tracking, last active tab selection, and conditions for showing the home surface.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.mockito.Mockito.doReturn;

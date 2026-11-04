@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeBackgroundTaskTest unit tests
+// summary: JUnit Robolectric unit tests for the NativeBackgroundTask class in Chrome's Android background task scheduler, covering browser startup and task handling with Mockito.
+// ---
+
 package org.chromium.chrome.browser.background_task_scheduler;
 
 import static org.junit.Assert.assertEquals;

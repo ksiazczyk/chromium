@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'MockFido2ApiCallHelper: WebAuthn test double'
+// summary: Mock implementation of Fido2ApiCallHelper that returns canned credential details and placeholder intents without calling Play Services.
+// ---
+
 package org.chromium.chrome.browser.webauth;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

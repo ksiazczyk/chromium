@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageZoomMenuItemViewUnitTest
+// summary: Robolectric unit tests for PageZoomMenuItemView and its binder, checking view inflation, child view caching, and property model binding for zoom controls and immersive mode.
+// ---
+
 package org.chromium.chrome.browser.accessibility;
 
 import static org.junit.Assert.assertEquals;

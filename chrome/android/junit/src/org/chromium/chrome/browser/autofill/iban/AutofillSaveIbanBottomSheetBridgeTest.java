@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill save IBAN bottom sheet bridge unit tests
+// summary: Robolectric unit tests for AutofillSaveIbanBottomSheetBridge, covering native bridge setup and bottom sheet interactions.
+// ---
+
 package org.chromium.chrome.browser.autofill.iban;
 
 import static org.mockito.ArgumentMatchers.any;

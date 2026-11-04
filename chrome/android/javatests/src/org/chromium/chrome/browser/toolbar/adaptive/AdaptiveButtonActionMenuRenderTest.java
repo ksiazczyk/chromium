@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Adaptive button action menu render test
+// summary: Render tests for the adaptive toolbar button long-press menu popup, parameterized across night mode settings and using a render test rule with a public corpus.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive;
 
 import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArTestRule interface for AR test rules
+// summary: Marker interface implemented by AR test rules, extending XrTestRule so AR-specific rules can be identified.
+// ---
+
 package org.chromium.chrome.browser.vr.rules;
 
 /**

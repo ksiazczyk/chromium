@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutomotiveUtilsUnitTest
+// summary: Robolectric unit tests for AutomotiveUtils, checking that horizontal and vertical automotive toolbar dimensions are positive on automotive devices and zero otherwise.
+// ---
+
 package org.chromium.chrome.browser.automotive;
 
 import static org.junit.Assert.assertEquals;

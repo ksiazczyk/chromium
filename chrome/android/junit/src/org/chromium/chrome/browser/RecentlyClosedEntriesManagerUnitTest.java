@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecentlyClosedEntriesManager unit tests
+// summary: Unit tests for RecentlyClosedEntriesManager covering recently closed tab and window entries, metadata persistence, and multi-window tracking.
+// ---
+
 package chrome.android.junit.src.org.chromium.chrome.browser;
 
 import static org.hamcrest.MatcherAssert.assertThat;

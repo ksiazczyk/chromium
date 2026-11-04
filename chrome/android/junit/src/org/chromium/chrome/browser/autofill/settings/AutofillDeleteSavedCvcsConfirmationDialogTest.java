@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delete saved CVCs confirmation dialog tests
+// summary: Robolectric unit tests for the saved CVCs deletion confirmation dialog, checking title, message, button labels, and the callback results for delete and cancel actions.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static com.google.common.truth.Truth.assertThat;

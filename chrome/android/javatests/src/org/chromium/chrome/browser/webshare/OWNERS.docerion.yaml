@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for webshare javatests
+summary: Inherits code ownership for the webshare javatests directory from the OWNERS file in the webshare source directory.

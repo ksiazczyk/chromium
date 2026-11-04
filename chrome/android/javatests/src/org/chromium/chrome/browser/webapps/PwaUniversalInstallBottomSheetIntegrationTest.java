@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PwaUniversalInstallBottomSheetIntegrationTest
+// summary: Integration tests for the PWA universal install bottom sheet dialog, covering dialog display, user actions, and related histograms for different app types.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static androidx.test.espresso.Espresso.onView;

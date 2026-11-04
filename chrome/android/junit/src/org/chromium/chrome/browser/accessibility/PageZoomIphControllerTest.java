@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageZoomIphControllerTest
+// summary: Robolectric unit tests for PageZoomIphController verifying that the page zoom in-product help command uses the right feature and string and toggles the app menu highlight.
+// ---
+
 package org.chromium.chrome.browser.accessibility;
 
 import static org.mockito.Mockito.verify;

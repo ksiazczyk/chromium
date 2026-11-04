@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Voice toolbar button controller tests
+// summary: Tests for VoiceToolbarButtonController, verifying the voice search button appears and triggers voice recognition in the adaptive toolbar.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static androidx.test.espresso.action.ViewActions.click;

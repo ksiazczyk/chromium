@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webapp default offline tests
+// summary: Tests the default offline page shown when a web app is launched without network, verifying the rendered title, message, and icon.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.junit.Assert.assertEquals;

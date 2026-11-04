@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SwipeRefreshHandler unit tests
+// summary: Robolectric unit tests for SwipeRefreshHandler covering side UI state updates and horizontal offsets of the swipe refresh layout.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

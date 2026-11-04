@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkUpdateDataFetcher tests
+// summary: Tests WebApkUpdateDataFetcher retrieval of web manifest data such as names, icons, maskable icons, and Murmur2 hashes for update detection.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import androidx.test.filters.MediumTest;

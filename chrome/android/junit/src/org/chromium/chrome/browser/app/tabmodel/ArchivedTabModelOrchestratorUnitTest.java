@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArchivedTabModelOrchestratorUnitTest
+// summary: Robolectric unit tests for ArchivedTabModelOrchestrator covering state loading flags, archived tab count suppliers, and lease handling.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.junit.Assert.assertEquals;

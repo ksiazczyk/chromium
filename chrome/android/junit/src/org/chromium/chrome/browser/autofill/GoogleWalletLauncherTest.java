@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GoogleWalletLauncherTest
+// summary: Robolectric tests for GoogleWalletLauncher covering opening the Wallet app when installed or a custom tab fallback otherwise.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.junit.Assert.assertEquals;

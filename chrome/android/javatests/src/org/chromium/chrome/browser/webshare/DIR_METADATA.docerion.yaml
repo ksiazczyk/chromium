@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for webshare javatests
+summary: Points the webshare javatests directory to the common metadata mixin defined in the webshare source directory.

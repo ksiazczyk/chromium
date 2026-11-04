@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tracing settings menu tests
+// summary: Android instrumentation tests for Chrome's tracing settings menu, covering its preferences and the related tracing notification behavior.
+// ---
+
 package org.chromium.chrome.browser.tracing.settings;
 
 import static android.app.Notification.FLAG_ONGOING_EVENT;

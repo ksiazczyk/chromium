@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ReparentingTask
+// summary: Robolectric unit tests for ReparentingTask, checking tab reparenting parameters, async tab params, and detach behavior when moving tabs between activities.
+// ---
+
 package org.chromium.chrome.browser.app.tab_activity_glue;
 
 import static org.junit.Assert.assertEquals;

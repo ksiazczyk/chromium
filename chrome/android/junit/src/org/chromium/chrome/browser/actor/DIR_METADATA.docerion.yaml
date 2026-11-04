@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Actor test folder directory metadata
+summary: Declares the UI>Browser>Actor monorail component, team email, and Buganizer component ID for this directory.

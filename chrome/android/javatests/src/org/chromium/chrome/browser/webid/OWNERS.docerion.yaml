@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebID test directory owners
+summary: OWNERS file that delegates code ownership for this directory to the owners list of content/browser/webid.

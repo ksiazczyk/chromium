@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Known leaks registry for Chrome instrumentation tests
+// summary: Service implementation that lists known memory leaks in Chrome instrumentation tests for LeakCanary, intended to shrink to nothing as leaks are fixed.
+// ---
+
 package org.chromium.chrome.test.memory_leaks;
 
 import org.chromium.base.test.util.LeakCanaryChecker.LeakCanaryConfigProvider;

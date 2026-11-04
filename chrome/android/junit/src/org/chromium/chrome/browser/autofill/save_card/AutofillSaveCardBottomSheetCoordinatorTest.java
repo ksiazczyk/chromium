@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillSaveCardBottomSheetCoordinator
+// summary: Robolectric unit tests verifying the save-card bottom sheet coordinator's initial property model values and behaviors such as opening legal message links in custom tabs.
+// ---
+
 package org.chromium.chrome.browser.autofill.save_card;
 
 import static org.junit.Assert.assertEquals;

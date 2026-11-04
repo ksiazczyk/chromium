@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for Chrome JUnit tests
+summary: Android manifest declaring activities and themes required by Chrome's Robolectric JUnit tests that use androidx.test ActivityScenario.
+-->
+
 <!-- This manifest is required for tests using
      androidx.test.core.app.ActivityScenario to work.
 -->

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Android manifest for Chrome smoke tests
+summary: Declares the Android instrumentation runner for the org.chromium.chrome.test.smoke test package.
+-->
+
 <manifest
       xmlns:android="http://schemas.android.com/apk/res/android"
       package="org.chromium.chrome.test.smoke">

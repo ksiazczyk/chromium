@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CombinedTabRestorerUnitTest
+// summary: Robolectric unit tests for CombinedTabRestorer verifying restoration of regular and incognito tabs and delegate load-finished callbacks.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.mockito.ArgumentMatchers.anyInt;

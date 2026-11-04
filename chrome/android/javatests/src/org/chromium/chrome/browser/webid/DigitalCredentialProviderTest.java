@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Digital Credential Provider instrumented tests
+// summary: Android instrumented test suite verifying that requesting digital credentials via the Web API returns the expected mdoc credential, using a mocked IdentityCredentialsDelegate.
+// ---
+
 package org.chromium.chrome.browser.webid;
 
 import static org.hamcrest.Matchers.is;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkOpenerImplUnitTest
+// summary: Robolectric unit tests for BookmarkOpenerImpl that verify opening individual bookmarks and folders, including intent creation and multi-instance handling.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertEquals;

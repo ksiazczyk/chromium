@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ConfirmQuitHelper
+// summary: Unit tests for ConfirmQuitHelper verifying quit requests, hold-to-quit timing, double-tap termination, and result histogram recording.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappActivity test rule
+// summary: JUnit test rule that launches and manages WebappActivity instances, providing test icons, webapp constants, and intent helpers for web app tests.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.junit.Assert.assertNotNull;

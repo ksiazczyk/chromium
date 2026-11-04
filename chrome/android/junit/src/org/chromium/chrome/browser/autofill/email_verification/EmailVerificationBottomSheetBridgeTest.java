@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmailVerificationBottomSheetBridgeTest
+// summary: Robolectric unit tests for EmailVerificationBottomSheetBridge, covering bottom sheet show requests, no-op behavior when already showing, and native onUiShown callbacks.
+// ---
+
 package org.chromium.chrome.browser.autofill.email_verification;
 
 import static org.mockito.ArgumentMatchers.any;

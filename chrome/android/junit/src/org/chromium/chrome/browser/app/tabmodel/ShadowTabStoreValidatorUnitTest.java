@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShadowTabStoreValidatorUnitTest
+// summary: Robolectric unit tests for ShadowTabStoreValidator verifying diff metrics between authoritative and shadow tab stores, including suppression when not caught up.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.mockito.Mockito.verify;

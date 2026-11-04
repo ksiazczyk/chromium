@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabCountTracker unit tests
+// summary: Robolectric unit tests verifying per-window tab count tracking, clearing of individual and current window counts, and global state cleanup in TabCountTracker.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.junit.Assert.assertEquals;

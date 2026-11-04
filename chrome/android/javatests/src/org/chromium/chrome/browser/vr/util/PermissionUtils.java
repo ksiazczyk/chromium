@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionUtils
+// summary: Test utility for interacting with permission prompts outside the VR Browser, such as waiting for prompts to appear or be dismissed and accepting or denying them.
+// ---
+
 package org.chromium.chrome.browser.vr.util;
 
 import org.chromium.base.ThreadUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExternalIntentUrlChecker unit tests
+// summary: Unit tests for ExternalIntentUrlChecker covering unsafe URL schemes, local file and content URLs, native validation, and safe exceptions like about:blank.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertFalse;

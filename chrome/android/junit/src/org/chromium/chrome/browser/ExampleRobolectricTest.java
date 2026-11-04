@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Example Robolectric unit test
+// summary: Example Robolectric unit test demonstrating a batched test with Mockito mocks that verifies tab thumbnail caching through a TabContentManager.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.mockito.Mockito.verify;

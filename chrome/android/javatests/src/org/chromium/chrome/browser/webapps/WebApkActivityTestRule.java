@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkActivityTestRule
+// summary: Test rule that launches a WebAPK WebappActivity and waits for page load and splash screen dismissal before tests run.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Intent;

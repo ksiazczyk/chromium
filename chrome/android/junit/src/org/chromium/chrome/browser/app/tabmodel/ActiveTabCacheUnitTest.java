@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActiveTabCacheUnitTest
+// summary: Robolectric unit tests for ActiveTabCache that verify saving regular and incognito active tab state to cache files and shared preferences.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.junit.Assert.assertEquals;

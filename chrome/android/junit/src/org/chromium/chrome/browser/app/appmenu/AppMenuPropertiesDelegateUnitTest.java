@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppMenuPropertiesDelegate unit tests
+// summary: Robolectric unit tests for AppMenuPropertiesDelegate covering menu item behavior across bookmarks, incognito, commerce, translate, and update menu features.
+// ---
+
 package org.chromium.chrome.browser.app.appmenu;
 
 import static org.junit.Assert.assertEquals;

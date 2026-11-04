@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intentional crash tests for Chrome on Android
+// summary: JUnit test class that deliberately triggers renderer, browser, Java, and GPU process crashes; the tests are disabled by default and intended to be run manually.
+// ---
+
 package org.chromium.chrome.test.crash;
 
 import androidx.test.filters.SmallTest;

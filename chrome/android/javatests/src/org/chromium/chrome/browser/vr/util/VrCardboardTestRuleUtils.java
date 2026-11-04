@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VrCardboardTestRuleUtils
+// summary: Utility class for applying Cardboard VR test rules, evaluating VrTestRule implementations and generating default parameterized test rules for supported Chrome activities.
+// ---
+
 package org.chromium.chrome.browser.vr.util;
 
 import org.junit.runner.Description;

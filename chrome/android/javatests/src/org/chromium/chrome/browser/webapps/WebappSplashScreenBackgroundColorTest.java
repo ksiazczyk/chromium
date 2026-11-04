@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webapp splash screen background color tests
+// summary: Tests splash screens that specify a background color via the intent extra, checking the shown color and UMA recording.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.graphics.Color;

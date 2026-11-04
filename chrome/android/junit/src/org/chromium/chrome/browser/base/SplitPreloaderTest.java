@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'SplitPreloaderTest: unit tests for SplitPreloader'
+// summary: Robolectric unit tests verifying that SplitPreloader creates split contexts on the correct threads and runs preload hooks for UI and background threads.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import static com.google.common.truth.Truth.assertThat;

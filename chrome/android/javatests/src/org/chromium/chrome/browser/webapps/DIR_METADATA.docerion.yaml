@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Repository metadata assigning the folder to the UI>Browser>WebAppInstalls monorail component and a Buganizer component.

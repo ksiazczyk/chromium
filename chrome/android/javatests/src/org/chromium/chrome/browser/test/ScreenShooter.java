@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenShooter JUnit rule for test screenshots
+// summary: JUnit rule that captures screenshots during instrumentation tests, saving each PNG with a JSON sidecar of filters, tags and metadata for the UiCatalogue.
+// ---
+
 package org.chromium.chrome.browser.test;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

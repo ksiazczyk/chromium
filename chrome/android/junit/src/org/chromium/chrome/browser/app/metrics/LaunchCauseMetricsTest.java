@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LaunchCauseMetricsTest
+// summary: Robolectric unit tests verifying that LaunchCauseMetrics records the launch cause histogram once per launch and handles multiple instances and display-off cases.
+// ---
+
 package org.chromium.chrome.browser.app.metrics;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local card editor tests
+// summary: Robolectric unit tests for the local credit card editor in autofill settings, covering card fields, saving behavior, card scanning entry points, and histogram logging.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static com.google.common.truth.Truth.assertThat;

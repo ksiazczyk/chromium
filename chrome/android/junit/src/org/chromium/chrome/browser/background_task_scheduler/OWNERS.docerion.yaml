@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to main background task scheduler owners
+summary: Redirects ownership review requirements to the OWNERS file of the main background_task_scheduler source directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CardUnmaskBridgeTest
+// summary: Robolectric unit tests for CardUnmaskBridge verifying that card unmasking input and events are forwarded to native code.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.junit.Assert.assertEquals;

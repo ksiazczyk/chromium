@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location bar model tests
+// summary: Parameterized instrumentation tests for LocationBarModel, checking URL bar data and observer notifications across tab and navigation changes.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.junit.Assert.assertEquals;

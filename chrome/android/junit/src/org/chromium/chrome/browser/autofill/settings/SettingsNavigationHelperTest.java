@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsNavigationHelper unit tests
+// summary: Robolectric tests verifying that autofill settings navigation helpers record user actions and launch the correct settings fragments, including behavior when no context is provided.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static org.junit.Assert.assertEquals;

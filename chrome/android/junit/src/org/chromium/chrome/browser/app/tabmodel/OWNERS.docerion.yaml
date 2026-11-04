@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file delegating review ownership of this test directory to the owners listed in chrome/browser/tabmodel/OWNERS.

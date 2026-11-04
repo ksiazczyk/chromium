@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webapp splash screen theme color tests
+// summary: Tests splash screens and status bar colors when a theme color is specified in the intent extra versus the page's own theme color.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Intent;

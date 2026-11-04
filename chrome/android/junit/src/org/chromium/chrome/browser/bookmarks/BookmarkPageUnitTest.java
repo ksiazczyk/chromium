@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkPageUnitTest
+// summary: Parameterized Robolectric unit tests for the BookmarkPage native page, exercising setup and behavior with and without the identity manager as source of accounts.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertEquals;

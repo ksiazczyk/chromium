@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXrVrTestFramework
+// summary: Test framework for WebXR on VR that handles permission prompts and entering or ending immersive and magic window sessions.
+// ---
+
 package org.chromium.chrome.browser.vr;
 
 import androidx.annotation.IntDef;

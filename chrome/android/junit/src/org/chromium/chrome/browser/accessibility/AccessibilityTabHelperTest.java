@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessibilityTabHelperTest
+// summary: Robolectric unit tests for AccessibilityTabHelper covering lazy initialization, null WebContents handling, and accessibility configuration cleanup and restore across tab freeze and unfreeze.
+// ---
+
 package org.chromium.chrome.browser.accessibility;
 
 import static org.junit.Assert.assertNotNull;

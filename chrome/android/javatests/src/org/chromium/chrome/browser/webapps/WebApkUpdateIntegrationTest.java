@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAPK update integration tests
+// summary: Integration tests for the WebAPK update pipeline, exercising manifest update checks on startup and WebAPK metadata handling.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.junit.Assert.assertEquals;

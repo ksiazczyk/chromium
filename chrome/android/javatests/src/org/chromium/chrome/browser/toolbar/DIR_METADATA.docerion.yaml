@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Toolbar test directory metadata
+summary: Points to the shared COMMON_METADATA mixin from the Android toolbar UI component for this test directory.

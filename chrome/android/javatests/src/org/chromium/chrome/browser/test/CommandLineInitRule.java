@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommandLineInitRule JUnit rule for command line setup
+// summary: JUnit rule that initializes the Chromium command line with the given arguments before the browser starts, designed to be chained via RuleChain.
+// ---
+
 package org.chromium.chrome.browser.test;
 
 import org.junit.rules.TestRule;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmahaServiceStartDelayer unit tests
+// summary: Tests for OmahaServiceStartDelayer verifying the Omaha runnable is scheduled, run, or canceled based on foreground sessions and screen state.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.mockito.Mockito.times;

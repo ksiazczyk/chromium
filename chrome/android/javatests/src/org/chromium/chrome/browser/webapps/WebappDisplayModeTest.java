@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webapp display mode tests
+// summary: Tests that WebappActivity honors the various web app display modes such as standalone, fullscreen, and minimal UI.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.graphics.Color;

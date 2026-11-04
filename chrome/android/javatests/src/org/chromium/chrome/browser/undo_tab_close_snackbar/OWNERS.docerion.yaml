@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for undo_tab_close_snackbar tests
+summary: Delegates code ownership of the undo tab close snackbar tests to the OWNERS file in the corresponding source directory.

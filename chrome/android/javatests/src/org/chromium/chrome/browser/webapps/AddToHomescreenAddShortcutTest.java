@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddToHomescreenAddShortcutTest
+// summary: Instrumentation tests for the add-to-homescreen manager and its C++ counterpart, covering creation of web app and plain shortcuts from the add-to-homescreen dialog.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Context;

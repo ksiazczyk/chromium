@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninButtonRenderTest
+// summary: Render tests for the Chrome toolbar sign-in button coordinator, capturing screenshots with parameterized night mode and sign-in test rules.
+// ---
+
 package org.chromium.chrome.browser.toolbar.signin_button;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

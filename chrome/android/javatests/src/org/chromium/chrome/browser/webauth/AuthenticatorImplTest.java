@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'AuthenticatorImplTest: unit tests for AuthenticatorImpl on Android'
+// summary: Instrumentation tests covering AuthenticatorImpl and InternalAuthenticator behavior for WebAuthn credential requests in Chrome on Android.
+// ---
+
 package org.chromium.chrome.browser.webauth;
 
 import static org.mockito.ArgumentMatchers.any;

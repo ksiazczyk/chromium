@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile editor preference tests
+// summary: Robolectric unit test verifying that the autofill profile editor preference does not reserve icon space by default.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static org.junit.Assert.assertFalse;

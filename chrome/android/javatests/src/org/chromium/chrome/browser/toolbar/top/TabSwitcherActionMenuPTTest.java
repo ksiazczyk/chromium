@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab switcher action menu Public Transit tests
+// summary: Unbatched Public Transit instrumentation tests for the tab switcher long-press menu, serving as an example alongside its batched variant.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppMenuItemTheme unit tests
+// summary: Robolectric unit tests verifying how AppMenuItemTheme marks the incognito menu item as managed under different incognito policy states.
+// ---
+
 package org.chromium.chrome.browser.app.appmenu;
 
 import static org.junit.Assert.assertFalse;

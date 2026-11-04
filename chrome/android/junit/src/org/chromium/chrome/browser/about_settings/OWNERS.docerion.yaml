@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the about_settings test directory
+summary: Delegates code ownership for this test directory to the OWNERS file of the about_settings source directory.

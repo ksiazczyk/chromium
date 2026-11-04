@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabReparentingController
+// summary: Robolectric unit tests for TabReparentingController, verifying that tabs are prepared for reparenting through AsyncTabParams in regular and incognito tab models.
+// ---
+
 package org.chromium.chrome.browser.app.tab_activity_glue;
 
 import static org.mockito.Mockito.doReturn;

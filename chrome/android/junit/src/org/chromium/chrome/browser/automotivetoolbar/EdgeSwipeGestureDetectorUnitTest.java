@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edge swipe gesture detector unit test
+// summary: Robolectric unit test validating edge swipe gesture detection, including valid and invalid forward and back swipes and their callbacks.
+// ---
+
 package org.chromium.chrome.browser.automotivetoolbar;
 
 import static org.junit.Assert.assertFalse;

@@ -1,3 +1,11 @@
+---
+type: readme
+title: XR Instrumentation Tests
+summary: Explains how to build, run, and extend the WebXR VR and AR instrumentation tests on Android devices, including common test runner arguments.
+relations:
+  - references /tools/perf/core/gsutil.py
+---
+
 # XR Instrumentation Tests
 
 ## TL;DR For Most Local Repros

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom sheet large form factor tests
+// summary: Instrumentation tests for bottom sheet large form factor layouts on desktop windowing, exercising desktop popup and fallback behavior on a real Android view hierarchy.
+// ---
+
 package org.chromium.chrome.browser.widget.bottomsheet;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment methods fragment Buy Now Pay Later tests
+// summary: Robolectric tests for the Buy Now Pay Later preference on the payment methods settings fragment, including BNPL issuer detection and preference visibility.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static com.google.common.truth.Truth.assertThat;

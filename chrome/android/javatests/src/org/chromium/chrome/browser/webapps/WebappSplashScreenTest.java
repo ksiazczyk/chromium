@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webapp splash screen tests
+// summary: Tests general splash screen behavior such as default background color and hiding after first paint, crash, or load completion.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.chromium.chrome.browser.ui.system.StatusBarColorController.UNDEFINED_STATUS_BAR_COLOR;

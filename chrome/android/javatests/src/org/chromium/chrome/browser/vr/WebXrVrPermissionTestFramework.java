@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXrVrPermissionTestFramework
+// summary: Test framework subclass that lets VR tests explicitly specify whether a permission prompt is expected.
+// ---
+
 package org.chromium.chrome.browser.vr;
 
 import org.chromium.chrome.test.ChromeActivityTestRule;

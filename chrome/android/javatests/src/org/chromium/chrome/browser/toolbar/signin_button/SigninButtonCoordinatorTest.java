@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninButtonCoordinatorTest
+// summary: Integration tests for the Chrome toolbar sign-in button coordinator, using Espresso to verify UI behavior across sign-in states, features, and window modes.
+// ---
+
 package org.chromium.chrome.browser.toolbar.signin_button;
 
 import static androidx.test.espresso.Espresso.onView;

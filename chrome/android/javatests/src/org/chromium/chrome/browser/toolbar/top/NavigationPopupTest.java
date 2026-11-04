@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation popup tests
+// summary: Instrumentation tests for the back and forward navigation popup, covering popup sizing and navigation entry behavior.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Omnibox OWNERS file
+summary: Delegates ownership of the Android omnibox JUnit test directory to the shared components/omnibox OWNERS file.

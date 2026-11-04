@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeTabbedActivity
+// summary: Unit tests for ChromeTabbedActivity covering window features, tab model initialization, incognito session termination, and activity finish behavior.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

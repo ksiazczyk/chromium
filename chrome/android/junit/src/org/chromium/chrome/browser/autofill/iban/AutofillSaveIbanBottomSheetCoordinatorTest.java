@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill save IBAN bottom sheet coordinator unit tests
+// summary: Robolectric unit tests for AutofillSaveIbanBottomSheetCoordinator, checking content display, destruction, and related behavior.
+// ---
+
 package org.chromium.chrome.browser.autofill.iban;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillSaveCardBottomSheetLifecycle
+// summary: Robolectric unit tests covering the save-card bottom sheet lifecycle's observer registration, teardown, and delegate callbacks for sheet-closed reasons and layout types.
+// ---
+
 package org.chromium.chrome.browser.autofill.save_card;
 
 import static org.mockito.ArgumentMatchers.eq;

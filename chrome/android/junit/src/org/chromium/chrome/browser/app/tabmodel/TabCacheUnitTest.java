@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabCacheUnitTest
+// summary: Robolectric unit tests for TabCache, TabCacheManager, and TabCacheKey verifying saving and restoring of regular and incognito tab state to cache files.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.junit.Assert.assertEquals;

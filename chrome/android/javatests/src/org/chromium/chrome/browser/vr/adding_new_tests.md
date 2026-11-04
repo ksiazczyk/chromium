@@ -1,3 +1,13 @@
+---
+type: guide
+title: Adding New XR Instrumentation Tests
+summary: Guide to writing new XR instrumentation tests, covering annotations, HTML test files, Java test bodies, and new test classes.
+relations:
+  - references /chrome/android/javatests/src/org/chromium/chrome/browser/vr/xr_instrumentation_deep_dive.md
+  - references /chrome/test/data/xr/e2e_test_files/html/test_non_immersive_stops_during_immersive.html
+  - references /chrome/test/data/xr/e2e_test_files/resources/webxr_e2e.js
+---
+
 # Adding New XR Instrumentation Tests
 
 ## Introduction

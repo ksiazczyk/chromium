@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillFallbackSurfaceLauncherTest
+// summary: Robolectric unit tests verifying that the autofill fallback surface opens the Google Wallet passes page via a CCT intent.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.junit.Assert.assertEquals;

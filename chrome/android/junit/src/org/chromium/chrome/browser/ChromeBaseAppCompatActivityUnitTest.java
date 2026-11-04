@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Unit tests for ChromeBaseAppCompatActivity
+// summary: Unit tests for ChromeBaseAppCompatActivity verifying UI scaling overrides applied on automotive devices and display metrics handling.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR test framework base class
+// summary: Abstract base framework for XR instrumentation tests that enters sessions via canvas taps, runs JavaScript test steps, and polls for session state.
+// ---
+
 package org.chromium.chrome.browser.vr;
 
 import android.os.SystemClock;

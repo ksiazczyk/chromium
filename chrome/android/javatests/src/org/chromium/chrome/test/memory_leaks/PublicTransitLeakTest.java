@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Leak-check instrumentation tests for Chrome activities
+// summary: Instrumentation test suite that exercises Chrome activities such as settings, bookmarks and search with leak checks enabled to detect memory leaks.
+// ---
+
 package org.chromium.chrome.test.memory_leaks;
 
 import android.content.Context;

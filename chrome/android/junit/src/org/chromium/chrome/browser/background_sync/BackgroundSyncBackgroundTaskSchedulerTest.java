@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundSyncBackgroundTaskSchedulerTest
+// summary: JUnit tests for BackgroundSyncBackgroundTaskScheduler, verifying one-off and periodic sync wake-up task scheduling, task IDs, and TaskInfo parameters.
+// ---
+
 package org.chromium.chrome.browser.background_sync;
 
 import static org.junit.Assert.assertEquals;

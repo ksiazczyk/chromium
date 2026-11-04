@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadPage unit test
+// summary: Robolectric JUnit test for the Chrome Android downloads page, mocking dependencies like SnackbarManager and Profile to verify DownloadPage behavior including edge-to-edge support.
+// ---
+
 package org.chromium.chrome.browser.app.download.home;
 
 import static org.junit.Assert.assertEquals;

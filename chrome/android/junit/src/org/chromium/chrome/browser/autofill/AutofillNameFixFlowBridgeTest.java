@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillNameFixFlowBridgeTest
+// summary: Robolectric unit tests for AutofillNameFixFlowBridge verifying that user actions reach the native bridge and are cleared after dismissal.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.mockito.Mockito.verify;

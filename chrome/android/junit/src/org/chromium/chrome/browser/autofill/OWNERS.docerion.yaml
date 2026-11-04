@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Reuses the OWNERS file from the corresponding autofill source directory for review ownership.

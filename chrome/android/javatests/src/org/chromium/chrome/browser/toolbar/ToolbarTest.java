@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar behavior tests
+// summary: Broad instrumentation test suite for the Chrome Android toolbar, covering layout, visibility, back press, bookmarks bar, and related behaviors.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static androidx.test.espresso.Espresso.onView;

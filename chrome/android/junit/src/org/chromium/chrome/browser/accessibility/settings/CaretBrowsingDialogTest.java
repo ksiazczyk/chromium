@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Caret Browsing Dialog Test
+// summary: Robolectric unit tests verifying the caret browsing dialog's title, message, buttons, checkbox, and turn-on behavior in Chrome for Android's accessibility settings.
+// ---
+
 package org.chromium.chrome.browser.accessibility.settings;
 
 import static org.hamcrest.CoreMatchers.is;
