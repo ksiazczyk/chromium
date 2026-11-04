@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: clearAllCachedAuthTokens function implementation
+// summary: Implements the identity.clearAllCachedAuthTokens extension function, erasing the extension's cached Gaia ID and all cached auth tokens while rejecting incognito profiles.
+// ---
+
 #include "chrome/browser/extensions/api/identity/identity_clear_all_cached_auth_tokens_function.h"
 
 #include "chrome/browser/extensions/api/identity/identity_api.h"

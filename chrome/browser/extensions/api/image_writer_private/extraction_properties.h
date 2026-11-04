@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtractionProperties struct declaration
+// summary: Declares the ExtractionProperties struct holding image paths plus open, complete, failure and progress callbacks for archive extraction.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IMAGE_WRITER_PRIVATE_EXTRACTION_PROPERTIES_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IMAGE_WRITER_PRIVATE_EXTRACTION_PROPERTIES_H_
 

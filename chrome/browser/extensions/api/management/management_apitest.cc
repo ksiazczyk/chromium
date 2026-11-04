@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management API extension API tests
+// summary: Extension API tests for chrome.management covering app launch types, replacement web apps and Chrome Apps deprecation behavior.
+// ---
+
 #include <map>
 #include <string>
 #include <string_view>

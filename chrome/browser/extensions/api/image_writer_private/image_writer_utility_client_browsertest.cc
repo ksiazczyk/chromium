@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for image writer utility client
+// summary: Browser tests that exercise the write, verify, and cancel flows of ImageWriterUtilityClient against the removable storage writer service.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/image_writer_utility_client.h"
 
 #include "base/files/file_path.h"

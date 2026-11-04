@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the LanguageSettingsPrivateDelegate
+// summary: Implements the per-profile delegate that observes spellcheck dictionary and ChromeOS input method changes and dispatches languageSettingsPrivate API events.
+// ---
+
 #include "chrome/browser/extensions/api/language_settings_private/language_settings_private_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon extension API browser tests
+// summary: Browser tests for the extensions favicon API covering favicon fetching with and without the favicon permission and restricting the generated _favicon path to the extension's own origin.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "chrome/browser/extensions/extension_apitest.h"

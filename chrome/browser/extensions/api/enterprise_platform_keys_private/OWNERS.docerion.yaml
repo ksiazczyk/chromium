@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the directory
+summary: Lists the owners responsible for reviewing changes to the enterprise platform keys private API.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS unit tests for image writer private API
+// summary: Unit tests the imageWriterPrivate API on ChromeOS using a fake disk mount manager and external storage policy helpers to check device listing and write errors.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/image_writer_private_api.h"
 
 #include <cstdint>

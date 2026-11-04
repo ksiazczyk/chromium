@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for the chrome.action API
+// summary: Interactive test suite for chrome.action popup opening where focus and window activation matter.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/bind.h"
 #include "chrome/browser/extensions/extension_apitest.h"

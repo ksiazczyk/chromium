@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS removable storage provider
+// summary: ChromeOS implementation that populates the device list from DiskMountManager, exposing parent USB and SD drives that are not boot devices.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/removable_storage_provider.h"
 
 #include "base/memory/scoped_refptr.h"

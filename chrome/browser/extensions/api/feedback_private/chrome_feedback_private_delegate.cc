@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome feedback private delegate implementation
+// summary: Implements ChromeFeedbackPrivateDelegate, supplying localized feedback UI strings, signed-in user email, system information fetching, and ChromeOS-specific log sources and extra logs.
+// ---
+
 #include "chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.h"
 
 #include <memory>

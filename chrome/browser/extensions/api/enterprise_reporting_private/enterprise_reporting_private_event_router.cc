@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise reporting private event router implementation
+// summary: Dispatches data masking rules triggered events to extensions when Safe Browsing URL filtering verdicts contain data masking actions.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_reporting_private/enterprise_reporting_private_event_router.h"
 
 #include <memory>

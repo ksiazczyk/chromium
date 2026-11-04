@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension API tests for enterprise reporting private
+// summary: Browser tests covering the enterprise.reportingPrivate extension API across platforms, including policy setup, sign-in, device signals and event reporting scenarios.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

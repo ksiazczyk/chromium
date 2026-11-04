@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Write from file operation unit tests
+// summary: Tests WriteFromFileOperation end to end and its handling of missing source files, using mocked progress, completion and error callbacks.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/write_from_file_operation.h"
 
 #include "base/functional/bind.h"

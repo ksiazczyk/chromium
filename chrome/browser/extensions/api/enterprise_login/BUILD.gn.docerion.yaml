@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the enterprise_login extension API
+summary: Defines the ChromeOS-only enterprise_login source set with its sources and build dependencies.

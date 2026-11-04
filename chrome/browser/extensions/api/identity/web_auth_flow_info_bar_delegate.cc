@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthFlow infobar delegate implementation
+// summary: Implements the infobar shown during chrome.identity.launchWebAuthFlow() to explain why an auth window was opened, naming the extension and persisting until the flow closes it.
+// ---
+
 #include "chrome/browser/extensions/api/identity/web_auth_flow_info_bar_delegate.h"
 
 #include <string>

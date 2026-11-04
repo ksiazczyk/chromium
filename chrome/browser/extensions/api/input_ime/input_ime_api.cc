@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core implementation of the input.ime extension API
+// summary: Implements the input.ime extension functions and the per-profile event router that dispatches key events to IME extensions.
+// ---
+
 #include "chrome/browser/extensions/api/input_ime/input_ime_api.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for management API delegate and tests
+summary: Grants specific include exceptions for the management API delegate and tests, mainly to access AppService and Chrome Apps deprecation utilities.

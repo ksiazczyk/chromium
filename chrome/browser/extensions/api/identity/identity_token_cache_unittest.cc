@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Identity token cache unit tests
+// summary: Unit tests for the identity token cache covering access token cache hits, expired tokens, and intermediate remote-consent values.
+// ---
+
 #include "chrome/browser/extensions/api/identity/identity_token_cache.h"
 
 #include <set>

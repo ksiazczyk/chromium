@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity token cache implementation
+// summary: Implements the in-memory cache of OAuth2 access tokens and intermediate remote-consent values used by the extensions identity getAuthToken flow.
+// ---
+
 #include "chrome/browser/extensions/api/identity/identity_token_cache.h"
 
 #include <algorithm>

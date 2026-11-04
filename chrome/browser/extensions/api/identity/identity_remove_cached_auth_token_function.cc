@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity removeCachedAuthToken function implementation
+// summary: Implements the chrome.identity.removeCachedAuthToken extension function, which erases an access token from the identity token cache and rejects off-the-record profiles.
+// ---
+
 #include "chrome/browser/extensions/api/identity/identity_remove_cached_auth_token_function.h"
 
 #include "chrome/browser/extensions/api/identity/identity_api.h"

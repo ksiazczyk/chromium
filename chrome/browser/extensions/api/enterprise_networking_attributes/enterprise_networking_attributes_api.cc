@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise networking attributes API implementation
+// summary: Implements the enterprise.networkingAttributes.getNetworkDetails extension function, returning the default network's MAC, IPv4 and IPv6 addresses to affiliated users.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_networking_attributes/enterprise_networking_attributes_api.h"
 
 #include "chrome/browser/browser_process.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise WebRTC extension API browser tests
+// summary: Browser tests exercising the enterprise.webrtc API end to end with policy and non-policy test extensions, service workers and an embedded test server.
+// ---
+
 #include "base/run_loop.h"
 #include "base/strings/strcat.h"
 #include "base/strings/stringprintf.h"

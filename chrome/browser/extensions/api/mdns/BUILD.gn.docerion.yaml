@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the mdns extension API source set
+summary: Defines the mdns source_set with its sources and dependencies for the chrome.mdns extension API.

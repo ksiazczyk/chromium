@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity API class declaration
+// summary: Declares the IdentityAPI browser-context-keyed service that manages the mint request queue, token cache, Gaia ID storage, and web auth flow tracking for extensions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_API_H_
 

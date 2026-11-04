@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityGetProfileUserInfoFunction implementation
+// summary: Implements the identity.getProfileUserInfo extension function that returns the signed-in account's email and GAIA ID.
+// ---
+
 #include "chrome/browser/extensions/api/identity/identity_get_profile_user_info_function.h"
 
 #include "base/notreached.h"

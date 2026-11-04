@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise WebRTC API observer unit tests
+// summary: Unit tests verifying that peer connection events are dispatched to extensions and that records missing required fields are dropped.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_webrtc/enterprise_webrtc_api_observer.h"
 
 #include <string>

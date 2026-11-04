@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android management API delegate implementation
+// summary: Provides the Android build of the management API delegate, where app launching, shortcuts and web app installation are disabled and unreachable.
+// ---
+
 #include "chrome/browser/extensions/api/management/chrome_management_api_delegate.h"
 
 #include "base/notimplemented.h"

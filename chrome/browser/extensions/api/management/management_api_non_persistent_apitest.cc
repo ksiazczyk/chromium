@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management API tests for non-persistent extensions
+// summary: Extension API tests verifying chrome.management.uninstallSelf and uninstall via browser action for service worker based extensions.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "chrome/browser/extensions/extension_action_runner.h"
 #include "chrome/browser/extensions/extension_apitest.h"

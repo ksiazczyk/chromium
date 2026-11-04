@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for the extensions history API
+summary: Defines the GN source_set for the history extension API, listing its sources and build dependencies.

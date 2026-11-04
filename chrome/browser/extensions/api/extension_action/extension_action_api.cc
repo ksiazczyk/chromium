@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action API implementation
+// summary: Implements the action, browserAction and pageAction extension functions such as setIcon, setBadgeText and popup handling.
+// ---
+
 #include "chrome/browser/extensions/api/extension_action/extension_action_api.h"
 
 #include <stddef.h>

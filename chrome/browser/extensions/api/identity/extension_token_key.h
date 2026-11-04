@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionTokenKey header
+// summary: Declares ExtensionTokenKey, a key combining extension ID, account info, and OAuth scopes used to identify token mint requests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IDENTITY_EXTENSION_TOKEN_KEY_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IDENTITY_EXTENSION_TOKEN_KEY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy browser tests for the experimental AI data API
+// summary: In-process browser tests verifying that policy host restrictions are enforced across the public collection methods during real page navigation.
+// ---
+
 #include <string>
 #include <utility>
 #include <vector>

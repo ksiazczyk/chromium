@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GaiaRemoteConsentFlow unit tests
+// summary: Unit tests for GaiaRemoteConsentFlow consent result handling using a fake web auth flow and a mock delegate.
+// ---
+
 #include "chrome/browser/extensions/api/identity/gaia_remote_consent_flow.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Write from URL operation unit tests
+// summary: Unit tests for the URL-based image write operation, using a URL loader interceptor to exercise download, verification and cancellation stages.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/write_from_url_operation.h"
 
 #include <utility>

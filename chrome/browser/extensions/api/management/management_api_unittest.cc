@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management API unit tests
+// summary: Unit tests for the management API covering uninstall flows, enable and disable behavior, supervised user restrictions and uninstall source metrics.
+// ---
+
 #include "extensions/browser/api/management/management_api.h"
 
 #include <memory>

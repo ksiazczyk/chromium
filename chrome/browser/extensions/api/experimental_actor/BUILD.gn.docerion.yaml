@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for experimental_actor
+summary: GN build file defining the experimental_actor source set with its sources and dependencies, including actor, AI and journal components.

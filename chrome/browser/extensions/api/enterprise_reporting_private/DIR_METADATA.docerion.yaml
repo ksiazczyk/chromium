@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA pointing to device_signals common metadata
+summary: Points the directory metadata at the device_signals COMMON_METADATA mixins so review and ownership tooling treats it as part of that component.

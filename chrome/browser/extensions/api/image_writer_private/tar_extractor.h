@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tar extractor class declaration
+// summary: Declares TarExtractor, which manages its own lifetime, delegates extraction to a utility process, and listens for extraction progress and completion.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IMAGE_WRITER_PRIVATE_TAR_EXTRACTOR_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IMAGE_WRITER_PRIVATE_TAR_EXTRACTOR_H_
 

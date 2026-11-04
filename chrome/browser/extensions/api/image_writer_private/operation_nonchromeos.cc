@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-ChromeOS operation write implementation
+// summary: Implements the write and verify-write stages of image writer operations for non-ChromeOS platforms using the image writer utility client.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/operation.h"
 
 #include <stdint.h>

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome Extensions Identity API
+summary: Documents the browser-side backend of the chrome.identity extension API, covering token minting, consent flows, caching, web auth flows, and ChromeOS specifics.
+relations:
+  - documents /chrome/browser/extensions/api/identity/identity_clear_all_cached_auth_tokens_function.h
+  - documents /chrome/browser/extensions/api/identity/identity_get_accounts_function.h
+  - documents /chrome/browser/extensions/api/identity/identity_get_auth_token_function.h
+---
+
 # Chrome Extensions Identity API
 
 Freshness: 2026-09-10

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthFlow controller header for extension web-based auth flows
+// summary: Declares the WebAuthFlow controller that opens a popup window or tab with a webview for extension auth flows and reports navigation, title changes and failures to its delegate.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IDENTITY_WEB_AUTH_FLOW_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IDENTITY_WEB_AUTH_FLOW_H_
 

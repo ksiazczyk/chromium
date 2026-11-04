@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History extension API browser tests
+// summary: Contains browser tests for the history extension API, covering visits, deletions, and synced-visit behavior with a fake sync service.
+// ---
+
 #include "base/base_switches.h"
 #include "base/command_line.h"
 #include "base/run_loop.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the image_writer_private directory
+summary: Chromium DEPS file restricting includes in the image_writer_private API directory to the device udev_linux library.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityLaunchWebAuthFlowFunction implementation
+// summary: Implements the identity.launchWebAuthFlow extension function, starting web auth flows and mapping flow failures to error codes.
+// ---
+
 #include "chrome/browser/extensions/api/identity/identity_launch_web_auth_flow_function.h"
 
 #include <algorithm>

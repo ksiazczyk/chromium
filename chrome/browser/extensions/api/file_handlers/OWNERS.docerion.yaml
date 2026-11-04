@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the file handlers extension API
+summary: Lists the code owners for the file handlers extension API directory, delegating to the file manager OWNERS file and naming sammc@chromium.org.

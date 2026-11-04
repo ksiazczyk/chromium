@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image writer error constant definitions
+// summary: Defines the error string constants used by image writer operations for device, download, unzip, write and verification failures.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/error_constants.h"
 
 namespace extensions {

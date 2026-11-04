@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File entry picker implementation
+// summary: Shows a select file dialog for extensions and reports chosen file paths or cancellation through callbacks.
+// ---
+
 #include "chrome/browser/extensions/api/file_system/file_entry_picker.h"
 
 #include <memory>

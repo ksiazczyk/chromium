@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthFlow infobar delegate unit tests
+// summary: Unit test verifying that long extension names are truncated in the web auth flow infobar message text.
+// ---
+
 #include "chrome/browser/extensions/api/identity/web_auth_flow_info_bar_delegate.h"
 
 #include "base/strings/utf_string_conversions.h"

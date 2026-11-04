@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the input.ime extension API on ChromeOS
+// summary: Runs in-process browser tests for the input.ime API, including a regression test that key events wake an idle-shut-down extension service worker.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/profiles/profile.h"

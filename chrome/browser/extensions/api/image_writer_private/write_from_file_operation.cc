@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Write from file operation
+// summary: Implements writing an image from a local file to a device, chaining extraction, write, verify and finish steps and failing on invalid source paths.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/write_from_file_operation.h"
 
 #include "base/files/file_util.h"

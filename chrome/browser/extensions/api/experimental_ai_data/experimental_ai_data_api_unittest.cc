@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the experimental AI data API functions
+// summary: Unit tests covering validation, option construction, serialization, and allowlist checks while faking tab lookup, screenshot access, and the fetch operation.
+// ---
+
 #include "chrome/browser/extensions/api/experimental_ai_data/experimental_ai_data_api.h"
 
 #include <memory>

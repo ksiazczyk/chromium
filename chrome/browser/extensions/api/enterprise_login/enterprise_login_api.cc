@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise login exit managed guest session extension function
+// summary: Implements the enterprise.login.exitCurrentManagedGuestSession function that clears login API data and exits a managed guest session.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_login/enterprise_login_api.h"
 
 #include "chrome/browser/browser_process.h"

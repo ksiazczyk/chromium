@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension management policy browser tests
+// summary: Browser tests for extension management with enterprise policies, covering force-installed extensions, update URLs and extension updates.
+// ---
+
 #include <stddef.h>
 
 #include "base/files/file_util.h"

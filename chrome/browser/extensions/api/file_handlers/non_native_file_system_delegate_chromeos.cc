@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS non-native file system delegate implementation
+// summary: Implements the Chrome OS non-native file system delegate, forwarding path, MIME type, and file preparation checks to file manager utilities.
+// ---
+
 #include "chrome/browser/extensions/api/file_handlers/non_native_file_system_delegate_chromeos.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy unit tests for the experimental AI data API
+// summary: Unit tests exercising the shared policy host restriction checks with a controllable asynchronous collection function.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

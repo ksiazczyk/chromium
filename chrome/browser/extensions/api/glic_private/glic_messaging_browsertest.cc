@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic messaging browser tests
+// summary: Browser tests covering glicPrivate messaging behavior, feature gating, and access from Gemini web origins.
+// ---
+
 #include "base/callback_list.h"
 #include "base/json/json_reader.h"
 #include "base/strings/stringprintf.h"

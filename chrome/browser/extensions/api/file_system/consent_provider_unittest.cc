@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Consent provider unit tests
+// summary: Unit tests for ConsentProviderImpl using a fake delegate to exercise dialog, notification, kiosk and allowlist consent paths.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

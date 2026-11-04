@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the MDnsAPI extension API
+// summary: Unit tests MDnsAPI listener registration, permission checks, and event dispatching using a mocked DnsSdRegistry.
+// ---
+
 #include "chrome/browser/extensions/api/mdns/mdns_api.h"
 
 #include <stddef.h>

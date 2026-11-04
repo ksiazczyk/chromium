@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaRemoteConsentFlow implementation
+// summary: Implements the Gaia remote OAuth consent flow, setting resolution cookies and interpreting consent results from the web auth flow.
+// ---
+
 #include "chrome/browser/extensions/api/identity/gaia_remote_consent_flow.h"
 
 #include <algorithm>

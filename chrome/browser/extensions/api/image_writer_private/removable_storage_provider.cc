@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Removable storage provider implementation
+// summary: Implements the shared device listing entry point, including test hooks that substitute a fixed device list for GetAllDevices results.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/removable_storage_provider.h"
 #include "base/functional/bind.h"
 #include "base/lazy_instance.h"

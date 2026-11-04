@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tar archive extractor
+// summary: Detects tar files by their ustar magic bytes and extracts them to a temporary directory through the file utility service process, reporting progress.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/tar_extractor.h"
 
 #include <array>

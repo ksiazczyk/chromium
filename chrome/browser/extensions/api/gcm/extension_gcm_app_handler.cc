@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension GCM app handler implementation
+// summary: Implements the per-profile GCM app handler that routes messages and events to extensions and manages handlers as extensions load, unload and uninstall.
+// ---
+
 #include "chrome/browser/extensions/api/gcm/extension_gcm_app_handler.h"
 
 #include <memory>

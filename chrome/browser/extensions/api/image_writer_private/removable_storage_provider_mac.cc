@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS removable storage provider
+// summary: Enumerates writable whole-disk removable storage devices on macOS via IOKit, reporting each device's BSD name, capacity, vendor, model and removability.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/removable_storage_provider.h"
 
 #include <CoreFoundation/CoreFoundation.h>

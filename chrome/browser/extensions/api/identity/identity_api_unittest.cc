@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Identity API unit tests
+// summary: Unit tests for IdentityAPI covering Gaia ID storage per extension, stale Gaia ID erasure, and sign-in change event behavior using a signin identity test environment.
+// ---
+
 #include "chrome/browser/extensions/api/identity/identity_api.h"
 
 #include <memory>

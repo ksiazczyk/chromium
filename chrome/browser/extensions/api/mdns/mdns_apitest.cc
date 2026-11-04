@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the chrome.mdns extension API
+// summary: Runs extension API browser tests verifying mDNS listener registration, event dispatch, and forced discovery with a mock registry.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

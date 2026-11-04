@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise WebRTC extension API function implementations
+// summary: Implements the enterprise.webrtc startCapture, stopCapture, getSnapshot and getCaptureStatus extension functions on top of WebRtcDiagnostics.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_webrtc/enterprise_webrtc_api.h"
 
 #include <utility>

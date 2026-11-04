@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test icon image observer implementation
+// summary: Implements a test helper that observes IconImage and waits for extension action icons to finish their asynchronous initial load.
+// ---
+
 #include "chrome/browser/extensions/api/extension_action/test_icon_image_observer.h"
 
 #include "extensions/browser/extension_action.h"

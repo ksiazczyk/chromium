@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise platform keys extension API implementation
+// summary: Implements the enterprise.platformKeys and internal extension functions for keystore key generation and TPM challenges on ChromeOS.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_platform_keys/enterprise_platform_keys_api.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the experimental AI data API
+// summary: Parameterized extension API tests verifying access control by channel, allowlist, blocklist, incognito, and DevTools for APC snapshot collection.
+// ---
+
 #include <string>
 #include <utility>
 

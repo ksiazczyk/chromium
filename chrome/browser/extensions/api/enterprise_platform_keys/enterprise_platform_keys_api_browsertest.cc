@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for enterprise platform keys challenge key
+// summary: Browser tests for the challengeKey API functions that mock the TPM challenger and key permissions manager services.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_platform_keys/enterprise_platform_keys_api.h"
 
 #include <optional>

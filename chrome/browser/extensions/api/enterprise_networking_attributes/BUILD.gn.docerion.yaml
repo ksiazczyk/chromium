@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for enterprise networking attributes
+summary: GN build file defining the enterprise_networking_attributes source set and its ChromeOS dependencies.

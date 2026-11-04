@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: clearAllCachedAuthTokens function declaration
+// summary: Declares the IdentityClearAllCachedAuthTokensFunction extension function backing the identity.clearAllCachedAuthTokens API method.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_CLEAR_ALL_CACHED_AUTH_TOKENS_FUNCTION_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_CLEAR_ALL_CACHED_AUTH_TOKENS_FUNCTION_H_
 

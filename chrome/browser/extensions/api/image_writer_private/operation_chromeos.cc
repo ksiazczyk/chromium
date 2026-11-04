@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS image write operation via ImageBurner
+// summary: Implements ChromeOS-specific write and verify behavior for Operation, unmounting volumes and burning images through the ImageBurner client.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/operation.h"
 
 #include <stdint.h>

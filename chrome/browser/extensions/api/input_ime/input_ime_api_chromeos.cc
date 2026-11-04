@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS implementation of the input.ime extension API
+// summary: Implements the ChromeOS-specific input.ime functions for candidate windows, menu items, assistive windows, and composition handling.
+// ---
+
 #include "chrome/browser/extensions/api/input_ime/input_ime_api.h"
 
 #include <stddef.h>

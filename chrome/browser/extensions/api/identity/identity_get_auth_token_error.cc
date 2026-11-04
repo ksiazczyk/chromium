@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: getAuthToken error mapping implementation
+// summary: Implements IdentityGetAuthTokenError, mapping internal error states to user-facing error message strings for the getAuthToken flow.
+// ---
+
 #include "chrome/browser/extensions/api/identity/identity_get_auth_token_error.h"
 
 #include <string_view>

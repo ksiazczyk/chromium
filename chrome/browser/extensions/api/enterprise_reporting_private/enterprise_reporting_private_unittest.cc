@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise reporting private API unit tests
+// summary: Unit tests for the enterpriseReportingPrivate extension API, including desktop report request generation and device signal handling across platforms.
+// ---
+
 #include "chrome/common/extensions/api/enterprise_reporting_private.h"
 
 #include <tuple>

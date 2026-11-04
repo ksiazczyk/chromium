@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tar extractor unit tests
+// summary: Tests TarExtractor progress handling, covering zero total bytes and totals exceeding INT64_MAX to guard against divide-by-zero and overflow crashes.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/tar_extractor.h"
 
 #include <limits>

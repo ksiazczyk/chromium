@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the languageSettingsPrivate API
+// summary: Unit tests for the languageSettingsPrivate extension functions, using a mock delegate and testing profile to cover language, spellcheck, and input method behavior.
+// ---
+
 #include "chrome/browser/extensions/api/language_settings_private/language_settings_private_api.h"
 
 #include <algorithm>

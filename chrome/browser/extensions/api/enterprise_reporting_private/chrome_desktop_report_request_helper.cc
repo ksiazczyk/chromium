@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome desktop report request helper implementation
+// summary: Implements platform-specific storage and retrieval of Endpoint Verification device data and secrets, using DPAPI on Windows, the registry, and Keychain helpers on macOS.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_reporting_private/chrome_desktop_report_request_helper.h"
 
 #include "base/base64.h"

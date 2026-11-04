@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility process client for writing disk images
+// summary: Implements the client that drives the removable storage writer utility process over Mojo for write, verify, and cancel operations with progress and error callbacks.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/image_writer_utility_client.h"
 
 #include <optional>

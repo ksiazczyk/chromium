@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity token cache class declarations
+// summary: Declares IdentityTokenCacheValue and IdentityTokenCache, an in-memory cache of OAuth2 access tokens requested by extensions, with expiration and scope handling.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_TOKEN_CACHE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_TOKEN_CACHE_H_
 

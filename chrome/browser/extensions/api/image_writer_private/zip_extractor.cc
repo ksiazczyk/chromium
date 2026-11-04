@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZIP extractor implementation
+// summary: Implements detection and extraction of zip-archived OS images, unpacking the single archive entry to a temporary directory.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/zip_extractor.h"
 
 #include <algorithm>

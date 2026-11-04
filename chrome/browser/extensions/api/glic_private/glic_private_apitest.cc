@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic private extension API tests
+// summary: Browser tests for the glicPrivate extension API covering getState, invoke, and conversation behavior under various feature configurations.
+// ---
+
 #include "base/json/json_writer.h"
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"

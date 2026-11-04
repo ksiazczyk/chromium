@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic private API test base implementation
+// summary: Provides shared setup for glicPrivate API tests, including identity setup, host resolution rules, and mock prompt response interceptors.
+// ---
+
 #include "chrome/browser/extensions/api/glic_private/glic_private_api_test_base.h"
 
 #include "base/base64.h"

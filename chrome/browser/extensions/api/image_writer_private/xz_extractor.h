@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XZ extractor class declaration
+// summary: Declares the .tar.xz archive extractor class, which receives extraction progress from the utility process and manages its own lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IMAGE_WRITER_PRIVATE_XZ_EXTRACTOR_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IMAGE_WRITER_PRIVATE_XZ_EXTRACTOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Glic private extension API build definition
+summary: Defines the glic_private source set with its sources and dependencies for the Chromium GN build.

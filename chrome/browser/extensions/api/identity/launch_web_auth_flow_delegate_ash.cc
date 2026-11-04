@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash launchWebAuthFlow delegate implementation
+// summary: Ash implementation of the launchWebAuthFlow delegate that supplies Files app window bounds for the ODFS extension auth dialog.
+// ---
+
 #include "chrome/browser/extensions/api/identity/launch_web_auth_flow_delegate_ash.h"
 
 #include <optional>

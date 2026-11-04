@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the LanguageSettingsPrivateDelegate
+// summary: Unit tests covering the delegate's Hunspell dictionary statuses and retry-download behavior with a testing profile and spellcheck service.
+// ---
+
 #include "chrome/browser/extensions/api/language_settings_private/language_settings_private_delegate.h"
 
 #include "base/functional/bind.h"

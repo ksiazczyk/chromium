@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Instance ID API browser tests
+// summary: Runs in-process browser tests covering getID, getCreationTime, get and delete token, deleteID and incognito behavior using fake GCM services.
+// ---
+
 #include <memory>
 #include <utility>
 

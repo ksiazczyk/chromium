@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the languageSettingsPrivate extension API
+// summary: Implements the languageSettingsPrivate extension functions for language lists, spellcheck dictionaries, translate settings, and ChromeOS input methods.
+// ---
+
 #include "chrome/browser/extensions/api/language_settings_private/language_settings_private_api.h"
 
 #include <algorithm>

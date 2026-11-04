@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DestroyPartitionsOperation class declaration
+// summary: Declares the DestroyPartitionsOperation class that destroys partitions by burning a dummy blank image to the disk.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IMAGE_WRITER_PRIVATE_DESTROY_PARTITIONS_OPERATION_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IMAGE_WRITER_PRIVATE_DESTROY_PARTITIONS_OPERATION_H_
 

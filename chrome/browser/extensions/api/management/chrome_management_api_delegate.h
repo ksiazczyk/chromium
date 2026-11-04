@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome management API delegate class declaration
+// summary: Declares ChromeManagementAPIDelegate, the Chrome implementation of the management API delegate interface, split by platform between Android and non-Android files.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MANAGEMENT_CHROME_MANAGEMENT_API_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MANAGEMENT_CHROME_MANAGEMENT_API_DELEGATE_H_
 

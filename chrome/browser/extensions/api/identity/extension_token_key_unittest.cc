@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionTokenKey unit tests
+// summary: Unit tests verifying that ExtensionTokenKey comparison establishes a strict, consistent ordering across extensions, accounts, and scopes.
+// ---
+
 #include "chrome/browser/extensions/api/identity/extension_token_key.h"
 
 #include <algorithm>

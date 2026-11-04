@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension GCM app handler unit tests
+// summary: Unit tests for the extension GCM app handler using fake GCM clients, services and test extension systems.
+// ---
+
 #include "chrome/browser/extensions/api/gcm/extension_gcm_app_handler.h"
 
 #include <memory>

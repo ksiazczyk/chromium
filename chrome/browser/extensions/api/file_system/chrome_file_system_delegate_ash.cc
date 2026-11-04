@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash file system delegate implementation
+// summary: Implements ChromeOS Ash-specific requestFileSystem and volume list handling for the extensions file system API.
+// ---
+
 #include "chrome/browser/extensions/api/file_system/chrome_file_system_delegate_ash.h"
 
 #include <utility>

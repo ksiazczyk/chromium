@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Operation unit tests
+// summary: Unit tests exercising image writer operation stages such as extraction, writing and verification with a fake utility client and test zip images.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/operation.h"
 
 #include "base/files/file_util.h"

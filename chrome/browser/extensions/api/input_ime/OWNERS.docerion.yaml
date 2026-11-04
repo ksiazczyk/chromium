@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the input_ime API directory
+summary: Delegates code review ownership to the ChromeOS input method component owners file.

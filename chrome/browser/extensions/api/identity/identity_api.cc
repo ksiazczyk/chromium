@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity API implementation
+// summary: Implements the browser-side chrome.identity API service, including per-extension Gaia ID caching in extension prefs, token cache access, and web auth flow tracking.
+// ---
+
 #include "chrome/browser/extensions/api/identity/identity_api.h"
 
 #include <stddef.h>

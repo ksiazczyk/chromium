@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityLaunchWebAuthFlowFunction header
+// summary: Declares the identity.launchWebAuthFlow extension function class with its error enum and redirect URL handling.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_LAUNCH_WEB_AUTH_FLOW_FUNCTION_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_LAUNCH_WEB_AUTH_FLOW_FUNCTION_H_
 

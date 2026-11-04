@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the enterprise_reporting_private directory
+summary: Defines include dependency rules for the directory, allowing device_signals core includes and extra test includes for the API, browser and unit test files.

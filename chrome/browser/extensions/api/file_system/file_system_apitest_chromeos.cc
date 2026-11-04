@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS browser tests for requestFileSystem
+// summary: ChromeOS-specific browser tests for chrome.fileSystem.requestFileSystem, covering mount points, consent dialogs, Drive integration, and kiosk scenarios.
+// ---
+
 #include <memory>
 
 #include "base/files/file_util.h"

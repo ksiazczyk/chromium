@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Keychain data helper header
+// summary: Declares macOS Keychain helper functions for writing password items and checking keychain unlock status.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_REPORTING_PRIVATE_KEYCHAIN_DATA_HELPER_MAC_H_
 #define CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_REPORTING_PRIVATE_KEYCHAIN_DATA_HELPER_MAC_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for experimental_actor
+summary: Lists ryansturm@chromium.org and inherits reviewers from chrome/browser/actor/OWNERS for this directory.

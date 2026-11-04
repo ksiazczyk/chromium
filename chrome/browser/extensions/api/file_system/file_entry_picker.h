@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileEntryPicker header for extension file selection dialogs
+// summary: Declares FileEntryPicker, which shows a modal open or save file dialog for extensions and invokes callbacks when files are selected or the dialog is canceled.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_FILE_SYSTEM_FILE_ENTRY_PICKER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_FILE_SYSTEM_FILE_ENTRY_PICKER_H_
 

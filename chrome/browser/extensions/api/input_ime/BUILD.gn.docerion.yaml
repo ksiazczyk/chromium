@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the input_ime extension API
+summary: Defines the ChromeOS-only input_ime source set and its source files and build dependencies for the extension input method API.

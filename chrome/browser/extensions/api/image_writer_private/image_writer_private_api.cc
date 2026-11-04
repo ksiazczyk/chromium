@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image writer private extension API implementation
+// summary: Implements the imageWriterPrivate extension functions for writing images from URLs or files, listing devices, and enforcing ChromeOS external storage write policy.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/image_writer_private_api.h"
 
 #include <optional>

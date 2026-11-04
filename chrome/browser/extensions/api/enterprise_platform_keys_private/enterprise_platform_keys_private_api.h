@@ -5,6 +5,12 @@
 // TODO(dkrahn): Clean up this private API once all clients have been migrated
 // to use the public API. b/309464153.
 
+// ---docerion
+// type: source
+// title: Header for the enterprise.platformKeysPrivate API
+// summary: Declares the EPKPChallengeKey helper and the challengeMachineKey and challengeUserKey extension functions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_PLATFORM_KEYS_PRIVATE_ENTERPRISE_PLATFORM_KEYS_PRIVATE_API_H__
 #define CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_PLATFORM_KEYS_PRIVATE_ENTERPRISE_PLATFORM_KEYS_PRIVATE_API_H__
 

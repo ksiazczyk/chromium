@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MDnsAPI implementation for the chrome.mdns extension API
+// summary: Implements the browser-side chrome.mdns API, tracking extension listeners and dispatching mDNS service discovery events via the DnsSdRegistry.
+// ---
+
 #include "chrome/browser/extensions/api/mdns/mdns_api.h"
 
 #include <utility>

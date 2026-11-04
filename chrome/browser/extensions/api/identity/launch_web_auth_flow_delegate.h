@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LaunchWebAuthFlow delegate interface
+// summary: Declares an interface to delegate behavior of chrome.identity.launchWebAuthFlow, such as providing optional window bounds for the auth popup.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IDENTITY_LAUNCH_WEB_AUTH_FLOW_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IDENTITY_LAUNCH_WEB_AUTH_FLOW_DELEGATE_H_
 

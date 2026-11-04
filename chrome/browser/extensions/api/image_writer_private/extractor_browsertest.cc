@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extractor browser tests
+// summary: Browser tests exercising tar, tar.xz and zip extraction, including failure handling for missing archives.
+// ---
+
 #include <string>
 #include <utility>
 

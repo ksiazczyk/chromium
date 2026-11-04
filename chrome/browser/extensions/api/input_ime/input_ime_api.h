@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for the input.ime extension API classes
+// summary: Declares the input.ime event router factory, key event and composition extension functions, and the browser-context-keyed InputImeAPI class.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_INPUT_IME_INPUT_IME_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_INPUT_IME_INPUT_IME_API_H_
 
