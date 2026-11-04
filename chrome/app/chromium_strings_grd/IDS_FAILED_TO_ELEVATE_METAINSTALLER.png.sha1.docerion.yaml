@@ -1,0 +1,4 @@
+# Docerion header of IDS_FAILED_TO_ELEVATE_METAINSTALLER.png.sha1.
+type: data
+title: SHA-1 of IDS_FAILED_TO_ELEVATE_METAINSTALLER PNG
+summary: Records the SHA-1 hash of the PNG image referenced by the IDS_FAILED_TO_ELEVATE_METAINSTALLER message in Chromium's string resources.

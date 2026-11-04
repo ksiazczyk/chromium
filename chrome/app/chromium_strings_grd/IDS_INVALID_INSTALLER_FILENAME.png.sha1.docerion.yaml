@@ -1,0 +1,4 @@
+# Docerion header of IDS_INVALID_INSTALLER_FILENAME.png.sha1.
+type: data
+title: SHA-1 checksum for IDS_INVALID_INSTALLER_FILENAME screenshot
+summary: Stores the SHA-1 hash of the screenshot PNG for the invalid installer filename string so translation tools can verify the image.

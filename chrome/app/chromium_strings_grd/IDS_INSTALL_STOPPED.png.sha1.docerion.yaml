@@ -1,0 +1,4 @@
+# Docerion header of IDS_INSTALL_STOPPED.png.sha1.
+type: data
+title: SHA-1 checksum for IDS_INSTALL_STOPPED screenshot
+summary: Stores the SHA-1 hash of the screenshot PNG for the install stopped string so translation tools can verify the referenced image.

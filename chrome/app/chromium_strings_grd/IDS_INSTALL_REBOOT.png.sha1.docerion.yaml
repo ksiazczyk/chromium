@@ -1,0 +1,4 @@
+# Docerion header of IDS_INSTALL_REBOOT.png.sha1.
+type: data
+title: SHA-1 checksum for IDS_INSTALL_REBOOT screenshot
+summary: Stores the SHA-1 hash of the screenshot PNG for the install reboot string so translation tools can verify the referenced image.
