@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test holding space tray child bubble declaration
+// summary: Declares TestHoldingSpaceTrayChildBubble and its Params struct, letting tests supply callbacks that dictate which sections and placeholder are created.
+// relations:
+//   - references /ash/system/holding_space/holding_space_tray_child_bubble.h
+//   - references /base/functional/callback_helpers.h
+//   - references /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_TEST_HOLDING_SPACE_TRAY_CHILD_BUBBLE_H_
 #define ASH_SYSTEM_HOLDING_SPACE_TEST_HOLDING_SPACE_TRAY_CHILD_BUBBLE_H_
 

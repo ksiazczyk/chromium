@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space tray implementation
+// summary: Implements the holding space tray button in the shelf status area, handling visibility, file drag-and-drop, context menus, progress indication, and bubble lifetime.
+// relations:
+//   - implements /ash/system/holding_space/holding_space_tray.h
+// ---
+
 #include "ash/system/holding_space/holding_space_tray.h"
 
 #include <algorithm>

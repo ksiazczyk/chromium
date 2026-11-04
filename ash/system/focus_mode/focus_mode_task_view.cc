@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusModeTaskView implementation
+// summary: Implements the Focus Mode task view UI that lets users create, edit, select, complete, or deselect tasks for a focus session.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_task_view.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_task_view.h"
 
 #include "ash/accessibility/accessibility_controller.h"

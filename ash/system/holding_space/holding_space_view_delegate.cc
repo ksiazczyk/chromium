@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space view delegate implementation
+// summary: Implements the shared delegate for holding space views, covering context menus, drag-and-drop, and multi-selection state.
+// relations:
+//   - implemented_by /ash/system/holding_space/holding_space_view_delegate.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/public/cpp/holding_space/holding_space_client.h
+// ---
+
 #include "ash/system/holding_space/holding_space_view_delegate.h"
 
 #include <algorithm>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playlist view class declaration
+// summary: Declares the view representing one focus mode playlist, exposing its data and a toggle callback for selection.
+// relations:
+//   - references /ash/system/focus_mode/focus_mode_util.h
+//   - references /ui/views/layout/box_layout_view.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_PLAYLIST_VIEW_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_PLAYLIST_VIEW_H_
 

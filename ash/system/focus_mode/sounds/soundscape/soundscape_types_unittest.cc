@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Soundscape types unit tests
+// summary: Unit tests verifying parsing of soundscape tracks and playlists, including localized name matching, English fallback, and invalid input handling.
+// relations:
+//   - tests /ash/system/focus_mode/sounds/soundscape/soundscape_types.h
+// ---
+
 #include "ash/system/focus_mode/sounds/soundscape/soundscape_types.h"
 
 #include <optional>

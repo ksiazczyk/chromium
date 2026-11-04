@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Soundscapes downloader unit tests
+// summary: Unit tests for SoundscapesDownloader using a fake URL loader factory to verify configuration fetching, retries, and failure handling.
+// relations:
+//   - tests /ash/system/focus_mode/sounds/soundscape/soundscapes_downloader.h
+// ---
+
 #include "ash/system/focus_mode/sounds/soundscape/soundscapes_downloader.h"
 
 #include "ash/system/focus_mode/sounds/soundscape/test/test_data.h"

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard backlight color nudge controller header
+// summary: Declares the controller that shows, closes, and tracks the keyboard backlight color education nudge.
+// relations:
+//   - depends_on /ash/controls/contextual_nudge.h
+// ---
+
 #ifndef ASH_SYSTEM_KEYBOARD_BRIGHTNESS_KEYBOARD_BACKLIGHT_COLOR_NUDGE_CONTROLLER_H_
 #define ASH_SYSTEM_KEYBOARD_BRIGHTNESS_KEYBOARD_BACKLIGHT_COLOR_NUDGE_CONTROLLER_H_
 

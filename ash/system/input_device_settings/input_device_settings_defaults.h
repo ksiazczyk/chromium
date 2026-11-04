@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings default values
+// summary: Defines default constants for keyboard, mouse, touchpad and pointing stick settings such as auto-repeat, sensitivity, scrolling and tap-to-click.
+// relations:
+//   - depends_on /ash/constants/ash_constants.h
+//   - depends_on /base/time/time.h
+//   - references /chrome/browser/ash/preferences/preferences.cc
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_SETTINGS_DEFAULTS_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_SETTINGS_DEFAULTS_H_
 

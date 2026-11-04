@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen captures section for the holding space Recent Files bubble
+// summary: Declares ScreenCapturesSection, a HoldingSpaceItemViewsSection subclass that builds the header, container and item views for screen captures in the Recent Files bubble.
+// relations:
+//   - references /ash/system/holding_space/holding_space_item_views_section.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_SCREEN_CAPTURES_SECTION_H_
 #define ASH_SYSTEM_HOLDING_SPACE_SCREEN_CAPTURES_SECTION_H_
 

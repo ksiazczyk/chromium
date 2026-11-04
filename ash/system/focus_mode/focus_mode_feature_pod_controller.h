@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode quick settings feature pod controller header
+// summary: Declares the controller for the Focus Mode feature pod button in quick settings, handling toggling, navigation to the detailed view, and session state change callbacks.
+// relations:
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+//   - depends_on /ash/system/focus_mode/focus_mode_controller.h
+//   - depends_on /ash/system/unified/feature_pod_controller_base.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_FEATURE_POD_CONTROLLER_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_FEATURE_POD_CONTROLLER_H_
 

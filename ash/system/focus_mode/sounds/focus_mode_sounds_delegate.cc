@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode sounds delegate implementation
+// summary: Implements constructors and string formatting for the Playlist and Track structs shared by Focus Mode sound data providers.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/focus_mode_sounds_delegate.h
+//   - references /base/strings/stringprintf.h
+// ---
+
 #include "ash/system/focus_mode/sounds/focus_mode_sounds_delegate.h"
 
 #include "base/strings/stringprintf.h"

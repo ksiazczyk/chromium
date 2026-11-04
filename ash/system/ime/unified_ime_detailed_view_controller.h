@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified IME detailed view controller class declaration
+// summary: Declares UnifiedIMEDetailedViewController, which creates and updates the IME detailed view in the unified system tray.
+// relations:
+//   - implements /ash/system/unified/detailed_view_controller.h
+//   - implements /ash/system/ime/ime_observer.h
+//   - implements /ash/accessibility/accessibility_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_IME_UNIFIED_IME_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_IME_UNIFIED_IME_DETAILED_VIEW_CONTROLLER_H_
 

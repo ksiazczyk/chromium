@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceImageStorage implementation
+// summary: Retrieves and persists device image data URLs in the local state preferences dictionary keyed by device key.
+// relations:
+//   - implements /ash/system/input_device_settings/device_image_storage.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_pref_names.h
+// ---
+
 #include "ash/system/input_device_settings/device_image_storage.h"
 
 #include "ash/shell.h"

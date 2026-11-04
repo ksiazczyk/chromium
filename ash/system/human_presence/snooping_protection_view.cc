@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snooping protection system tray view implementation
+// summary: Implements the system tray icon that appears when a second person is detected looking over the user's shoulder.
+// relations:
+//   - implements /ash/system/human_presence/snooping_protection_view.h
+// ---
+
 #include "ash/system/human_presence/snooping_protection_view.h"
 
 #include "ash/public/cpp/session/session_observer.h"

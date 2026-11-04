@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard backlight color controller implementation
+// summary: Implements the controller that sets and persists RGB keyboard backlight colors, including wallpaper-derived colors and per-zone colors, for ChromeOS Ash.
+// relations:
+//   - implements /ash/system/keyboard_brightness/keyboard_backlight_color_controller.h
+//   - depends_on /ash/system/keyboard_brightness/keyboard_backlight_color_nudge_controller.h
+// ---
+
 #include "ash/system/keyboard_brightness/keyboard_backlight_color_controller.h"
 
 #include <memory>

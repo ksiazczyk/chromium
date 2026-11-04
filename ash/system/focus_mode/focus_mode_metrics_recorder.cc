@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode metrics recorder implementation
+// summary: Implements recording of Focus Mode usage histograms for session start and end, task and playlist counts, Do Not Disturb state, and time added to sessions.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_metrics_recorder.h
+//   - references /ash/system/focus_mode/focus_mode_histogram_names.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_metrics_recorder.h"
 
 #include "ash/constants/ash_pref_names.h"

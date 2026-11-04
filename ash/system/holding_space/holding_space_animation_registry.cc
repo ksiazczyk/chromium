@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space animation registry implementation
+// summary: Implements the singleton registry and its delegate that create and update progress indicator animations based on holding space model state.
+// relations:
+//   - implements /ash/system/holding_space/holding_space_animation_registry.h
+//   - references /ash/public/cpp/holding_space/holding_space_controller.h
+//   - references /ash/public/cpp/holding_space/holding_space_controller_observer.h
+// ---
+
 #include "ash/system/holding_space/holding_space_animation_registry.h"
 
 #include <algorithm>

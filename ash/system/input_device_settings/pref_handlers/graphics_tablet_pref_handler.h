@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graphics tablet pref handler interface
+// summary: Declares the GraphicsTabletPrefHandler interface for initializing and updating graphics tablet settings prefs, including login screen tablet and pen button remappings.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_GRAPHICS_TABLET_PREF_HANDLER_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_GRAPHICS_TABLET_PREF_HANDLER_H_
 

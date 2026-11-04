@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playlist image button class declaration
+// summary: Declares a button view that displays a playlist image with selected and playing states, including a lottie equalizer animation.
+// relations:
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/controls/button/button.h
+//   - depends_on /ui/views/layout/delegating_layout_manager.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_PLAYLIST_IMAGE_BUTTON_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_PLAYLIST_IMAGE_BUTTON_H_
 

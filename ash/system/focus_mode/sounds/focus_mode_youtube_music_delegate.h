@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus mode YouTube Music delegate class declaration
+// summary: Declares the delegate that serves focus mode sound requests via the YouTube Music API, managing request state, retries, and error callbacks.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/focus_mode_sounds_delegate.h
+//   - depends_on /ash/system/focus_mode/focus_mode_retry_util.h
+//   - depends_on /ash/system/focus_mode/sounds/focus_mode_api_error.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_FOCUS_MODE_YOUTUBE_MUSIC_DELEGATE_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_FOCUS_MODE_YOUTUBE_MUSIC_DELEGATE_H_
 

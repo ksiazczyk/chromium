@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation nudge controller implementation
+// summary: Implements the Ash controller that shows a shelf-anchored nudge for the Graduation app, limiting displays to three times with at least 24 hours between shows and recording failure metrics.
+// relations:
+//   - implements /ash/system/graduation/graduation_nudge_controller.h
+// ---
+
 #include "ash/system/graduation/graduation_nudge_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

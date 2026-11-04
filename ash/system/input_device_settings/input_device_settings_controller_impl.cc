@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceSettingsControllerImpl implementation
+// summary: Implements the core input device settings controller that manages keyboard, mouse, touchpad, and graphics tablet settings, preferences, metadata, and device state.
+// relations:
+//   - implements /ash/system/input_device_settings/input_device_settings_controller_impl.h
+//   - implements /ash/public/cpp/input_device_settings_controller.h
+//   - depends_on /ash/system/input_device_settings/input_device_duplicate_id_finder.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_controller_impl.h"
 
 #include <algorithm>

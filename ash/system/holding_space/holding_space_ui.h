@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space UI label factory declarations
+// summary: Declares label builder factory functions for holding space top-level bubble headers, section headers, and bubble and section placeholders.
+// relations:
+//   - references /ui/views/controls/label.h
+//   - references /ui/views/metadata/view_factory.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_UI_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_UI_H_
 

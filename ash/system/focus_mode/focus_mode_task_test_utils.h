@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tasks client test utility declarations
+// summary: Declares helpers for creating a fake tasks client and adding fake task lists and tasks in Focus Mode tests.
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_TASK_TEST_UTILS_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_TASK_TEST_UTILS_H_
 

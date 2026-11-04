@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Sounds configuration downloader implementation
+// summary: Implements SoundscapesDownloader, which fetches the Focus Sounds configuration JSON from the server with retries and returns the parsed result via callback.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/soundscape/soundscapes_downloader.h
+// ---
+
 #include "ash/system/focus_mode/sounds/soundscape/soundscapes_downloader.h"
 
 #include "ash/shell.h"

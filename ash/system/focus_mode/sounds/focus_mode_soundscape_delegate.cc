@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode soundscape delegate implementation
+// summary: Implements the soundscape delegate that fetches and caches soundscape configurations and serves playlists and tracks through the SoundscapesDownloader.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/focus_mode_soundscape_delegate.h
+//   - references /ash/system/focus_mode/sounds/focus_mode_sounds_delegate.h
+//   - references /ash/system/focus_mode/sounds/soundscape/playlist_tracker.h
+// ---
+
 #include "ash/system/focus_mode/sounds/focus_mode_soundscape_delegate.h"
 
 #include <optional>

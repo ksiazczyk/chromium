@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceImageDownloader implementation
+// summary: Builds gstatic peripheral image URLs from device keys and downloads images for settings or notifications with a defined network traffic annotation.
+// relations:
+//   - implements /ash/system/input_device_settings/device_image_downloader.h
+//   - depends_on /ash/public/cpp/image_downloader.h
+//   - depends_on /ash/system/input_device_settings/device_image.h
+// ---
+
 #include "ash/system/input_device_settings/device_image_downloader.h"
 
 #include <algorithm>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus Mode feature pod controller unit tests
+// summary: Unit tests for the Focus Mode quick settings tile, covering tile visibility across user types and lock screens, detailed view navigation, and histogram recording.
+// relations:
+//   - tests /ash/system/focus_mode/focus_mode_feature_pod_controller.h
+//   - tests /ash/system/focus_mode/focus_mode_feature_pod_controller.cc
+// ---
+
 #include "ash/system/focus_mode/focus_mode_feature_pod_controller.h"
 
 #include <memory>

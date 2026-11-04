@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space tray icon preview declaration
+// summary: Declares the class that visually represents a single holding space item within the holding space tray icon in the shelf.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/functional/callback.h
+//   - references /ui/color/color_provider.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_TRAY_ICON_PREVIEW_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_TRAY_ICON_PREVIEW_H_
 

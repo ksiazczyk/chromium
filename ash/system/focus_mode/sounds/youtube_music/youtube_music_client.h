@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music client interface
+// summary: Declares the YouTubeMusicClient interface for invoking YouTube Music API requests to fetch music sections, playlists, playback contexts, and report playback.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/system/focus_mode/sounds/youtube_music/request_signer.h
+//   - references /ash/system/focus_mode/sounds/youtube_music/youtube_music_types.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_YOUTUBE_MUSIC_YOUTUBE_MUSIC_CLIENT_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_YOUTUBE_MUSIC_YOUTUBE_MUSIC_CLIENT_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode status area tray implementation
+// summary: Implements the Focus Mode status area tray, including its bubble, task item view, countdown and ending moment views, and animations.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_tray.h
+//   - references /ash/system/focus_mode/focus_mode_controller.h
+//   - references /ash/system/focus_mode/focus_mode_countdown_view.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_tray.h"
 
 #include "ash/constants/notifier_catalogs.h"

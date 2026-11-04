@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper declarations for the geolocation controller
+// summary: Declares GeolocationControllerObserver and GeopositionResponsesWaiter used to observe and await geoposition updates in tests.
+// relations:
+//   - depends_on /ash/system/geolocation/geolocation_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_GEOLOCATION_GEOLOCATION_CONTROLLER_TEST_UTIL_H_
 #define ASH_SYSTEM_GEOLOCATION_GEOLOCATION_CONTROLLER_TEST_UTIL_H_
 

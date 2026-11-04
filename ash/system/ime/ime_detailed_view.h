@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME detailed view class declaration
+// summary: Declares IMEDetailedView, the system menu view that lists available IMEs with a settings button and an optional enterprise-managed icon.
+// relations:
+//   - depends_on /ash/public/cpp/ime_info.h
+//   - depends_on /ash/system/ime_menu/ime_list_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_IME_IME_DETAILED_VIEW_H_
 #define ASH_SYSTEM_IME_IME_DETAILED_VIEW_H_
 

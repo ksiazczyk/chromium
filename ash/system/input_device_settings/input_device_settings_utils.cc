@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings utilities implementation
+// summary: Implements helpers for building device keys, deciding when settings persist, and enforcing button remapping customization restrictions.
+// relations:
+//   - implements /ash/system/input_device_settings/input_device_settings_utils.h
+//   - depends_on /ash/public/cpp/accelerators_util.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_utils.h"
 
 #include <string_view>

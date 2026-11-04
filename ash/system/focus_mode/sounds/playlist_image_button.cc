@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playlist image button implementation
+// summary: Implements the playlist image button that shows playlist artwork with a selected cutout icon and an equalizer animation while playing.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/playlist_image_button.h
+//   - depends_on /ash/style/rounded_rect_cutout_path_builder.h
+//   - depends_on /ui/base/resource/resource_bundle.h
+// ---
+
 #include "ash/system/focus_mode/sounds/playlist_image_button.h"
 
 #include "ash/public/cpp/resources/grit/ash_public_unscaled_resources.h"

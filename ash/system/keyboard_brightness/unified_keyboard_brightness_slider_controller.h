@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Settings keyboard brightness slider controller declaration
+// summary: Declares the UnifiedKeyboardBrightnessSliderController that creates the keyboard brightness slider view and reports slider value changes for the unified system tray.
+// relations:
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+//   - depends_on /ash/system/unified/unified_slider_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_KEYBOARD_BRIGHTNESS_UNIFIED_KEYBOARD_BRIGHTNESS_SLIDER_CONTROLLER_H_
 #define ASH_SYSTEM_KEYBOARD_BRIGHTNESS_UNIFIED_KEYBOARD_BRIGHTNESS_SLIDER_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sound section view implementation
+// summary: Implements the sound section view that lays out playlist views and swaps in an alternate view, updating states for the selected playlist.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/sound_section_view.h
+//   - references /ash/system/focus_mode/focus_mode_controller.h
+//   - references /ash/system/focus_mode/sounds/focus_mode_sounds_controller.h
+// ---
+
 #include "ash/system/focus_mode/sounds/sound_section_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

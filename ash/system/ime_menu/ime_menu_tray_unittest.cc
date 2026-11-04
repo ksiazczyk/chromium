@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IME menu tray unit tests
+// summary: Unit tests for ImeMenuTray covering tray visibility, bubble display, IME switching, and emoji, handwriting, and voice input availability.
+// relations:
+//   - tests /ash/system/ime_menu/ime_menu_tray.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/accessibility/a11y_feature_type.h
+// ---
+
 #include "ash/system/ime_menu/ime_menu_tray.h"
 
 #include <algorithm>

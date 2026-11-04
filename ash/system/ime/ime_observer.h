@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME observer interface
+// summary: Declares the IMEObserver interface with callbacks for IME state refresh and IME menu activation changes.
+// ---
+
 #ifndef ASH_SYSTEM_IME_IME_OBSERVER_H_
 #define ASH_SYSTEM_IME_IME_OBSERVER_H_
 

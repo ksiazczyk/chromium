@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input device settings policy handler unit tests
+// summary: Unit tests verifying how keyboard and mouse policies are observed and reported by the input device settings policy handler.
+// relations:
+//   - tests /ash/system/input_device_settings/input_device_settings_policy_handler.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_policy_handler.h"
 
 #include <memory>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space item views section implementation
+// summary: Implements sections that lay out, animate and scroll holding space item views, including a custom scroll view.
+// relations:
+//   - implements /ash/system/holding_space/holding_space_item_views_section.h
+//   - depends_on /ash/system/holding_space/holding_space_item_view.h
+// ---
+
 #include "ash/system/holding_space/holding_space_item_views_section.h"
 
 #include <algorithm>

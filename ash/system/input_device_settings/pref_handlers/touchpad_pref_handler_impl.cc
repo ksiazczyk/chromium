@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchpadPrefHandlerImpl implementation
+// summary: Implements TouchpadPrefHandler, managing touchpad settings prefs such as sensitivity, reverse scrolling, haptics, and right-click modifier simulation.
+// relations:
+//   - depends_on /ash/system/input_device_settings/pref_handlers/touchpad_pref_handler_impl.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_defaults.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_pref_names.h
+// ---
+
 #include "ash/system/input_device_settings/pref_handlers/touchpad_pref_handler_impl.h"
 
 #include "ash/constants/ash_features.h"

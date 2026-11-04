@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Hotspot DIR_METADATA
+summary: Specifies the Buganizer component ID and owning team email for the ChromeOS Ash hotspot system tray code.

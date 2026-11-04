@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space tray child bubble view declaration
+// summary: Declares the child bubble view of the holding space tray bubble, which hosts item sections, observes the holding space controller and model, and animates in and out.
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_TRAY_CHILD_BUBBLE_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_TRAY_CHILD_BUBBLE_H_
 

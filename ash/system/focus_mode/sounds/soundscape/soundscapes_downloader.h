@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Soundscapes downloader interface header
+// summary: Declares the SoundscapesDownloader interface for downloading and parsing the Focus Sounds configuration, including URL resolution and test creation hooks.
+// relations:
+//   - depends_on /ash/system/focus_mode/sounds/soundscape/soundscape_types.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_SOUNDSCAPE_SOUNDSCAPES_DOWNLOADER_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_SOUNDSCAPE_SOUNDSCAPES_DOWNLOADER_H_
 

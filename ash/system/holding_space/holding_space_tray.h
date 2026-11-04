@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HoldingSpaceTray class declaration
+// summary: Declares HoldingSpaceTray, the per-display shelf tray button for holding space, which observes controller, model, session, and widget events and manages its bubble.
+// relations:
+//   - references /ash/system/tray/tray_background_view.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_TRAY_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_TRAY_H_
 

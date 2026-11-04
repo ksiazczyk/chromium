@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode countdown view implementation
+// summary: Implements the countdown view showing remaining focus session time, a progress bar, and buttons to end or extend the session.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_countdown_view.h
+//   - references /ash/system/focus_mode/focus_mode_controller.h
+//   - references /ash/system/focus_mode/focus_mode_session.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_countdown_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

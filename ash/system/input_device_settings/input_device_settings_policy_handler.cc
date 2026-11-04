@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings policy handler implementation
+// summary: Reads managed and recommended enterprise policy preferences for keyboard and mouse input device settings and notifies changes through callbacks.
+// relations:
+//   - depends_on /ash/system/input_device_settings/input_device_settings_policy_handler.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /components/prefs/pref_change_registrar.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_policy_handler.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode soundscape delegate class
+// summary: Declares the FocusModeSoundscapeDelegate class that provides soundscape playlists and tracks using a cached configuration and playlist tracker.
+// relations:
+//   - references /ash/system/focus_mode/sounds/focus_mode_sounds_delegate.h
+//   - references /ash/system/focus_mode/sounds/soundscape/playlist_tracker.h
+//   - references /ash/system/focus_mode/sounds/soundscape/soundscape_types.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_FOCUS_MODE_SOUNDSCAPE_DELEGATE_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_FOCUS_MODE_SOUNDSCAPE_DELEGATE_H_
 

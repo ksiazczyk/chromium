@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space item view base implementation
+// summary: Implements the base holding space item view with selection UI, focus painting, drag support and model observation.
+// relations:
+//   - implements /ash/system/holding_space/holding_space_item_view.h
+// ---
+
 #include "ash/system/holding_space/holding_space_item_view.h"
 
 #include "ash/public/cpp/holding_space/holding_space_client.h"

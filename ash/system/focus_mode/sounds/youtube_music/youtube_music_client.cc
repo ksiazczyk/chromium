@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music client implementation
+// summary: Implements the YouTube Music client that sends authenticated API requests for music sections, playlists, playback queue preparation and next track, and playback reporting.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/youtube_music/youtube_music_client.h
+//   - references /ash/system/focus_mode/sounds/youtube_music/youtube_music_types.h
+//   - references /ash/system/focus_mode/sounds/youtube_music/youtube_music_util.h
+// ---
+
 #include "ash/system/focus_mode/sounds/youtube_music/youtube_music_client.h"
 
 #include <memory>

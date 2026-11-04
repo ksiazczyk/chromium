@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input device settings dispatcher unit tests
+// summary: Unit tests for the settings dispatcher using a mock input controller to verify that mouse, touchpad and pointing stick settings are dispatched correctly.
+// relations:
+//   - tests /ash/system/input_device_settings/input_device_settings_dispatcher.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/events/event_rewriter_controller_impl.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_dispatcher.h"
 
 #include "ash/constants/ash_features.h"

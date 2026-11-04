@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings updated metrics info implementation
+// summary: Implements recording, counting, and dictionary serialization of input device settings update metrics across tracked time periods.
+// relations:
+//   - implements /ash/system/input_device_settings/settings_updated_metrics_info.h
+//   - depends_on /base/containers/fixed_flat_map.h
+//   - depends_on /base/json/values_util.h
+// ---
+
 #include "ash/system/input_device_settings/settings_updated_metrics_info.h"
 
 #include "base/containers/fixed_flat_map.h"

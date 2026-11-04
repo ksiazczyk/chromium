@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space drag utilities implementation
+// summary: Implements drag image creation for holding space items, including chip and screen capture views with an overflow badge for extra items.
+// relations:
+//   - references /ash/system/holding_space/holding_space_drag_util.h
+//   - references /ash/public/cpp/holding_space/holding_space_image.h
+//   - references /ash/public/cpp/holding_space/holding_space_item.h
+// ---
+
 #include "ash/system/holding_space/holding_space_drag_util.h"
 
 #include <algorithm>

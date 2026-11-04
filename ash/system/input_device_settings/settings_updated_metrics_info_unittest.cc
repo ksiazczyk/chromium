@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings updated metrics info unit tests
+// summary: Unit tests for converting settings updated metrics info to and from dictionaries, including invalid and missing field cases.
+// relations:
+//   - tests /ash/system/input_device_settings/settings_updated_metrics_info.h
+//   - depends_on /base/json/values_util.h
+//   - depends_on /base/time/time.h
+// ---
+
 #include "ash/system/input_device_settings/settings_updated_metrics_info.h"
 
 #include "base/json/values_util.h"

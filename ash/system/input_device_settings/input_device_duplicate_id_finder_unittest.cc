@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputDeviceDuplicateIdFinder unit tests
+// summary: Unit tests verifying duplicate device ID grouping across mice, keyboards, touchpads, graphics tablets, and other devices, along with observer update counts.
+// relations:
+//   - tests /ash/system/input_device_settings/input_device_duplicate_id_finder.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ui/events/devices/device_data_manager_test_api.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_duplicate_id_finder.h"
 
 #include <memory>

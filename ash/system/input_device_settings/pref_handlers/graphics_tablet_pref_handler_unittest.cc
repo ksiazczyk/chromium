@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Graphics tablet pref handler unit tests
+// summary: Unit tests for GraphicsTabletPrefHandlerImpl covering initialization and updates of graphics tablet and login screen button remapping preferences.
+// relations:
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/public/cpp/accelerator_actions.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_pref_names.h
+// ---
+
 #include <vector>
 
 #include "ash/constants/ash_features.h"

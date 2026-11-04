@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space animation registry
+// summary: Declares a lazily initialized singleton registry for progress icon and ring animations that exists only while Shell is alive.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/shell_observer.h
+//   - depends_on /ash/system/progress_indicator/progress_indicator_animation_registry.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_ANIMATION_REGISTRY_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_ANIMATION_REGISTRY_H_
 

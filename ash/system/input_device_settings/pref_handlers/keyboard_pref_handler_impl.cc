@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard pref handler implementation
+// summary: Implements KeyboardPrefHandler, managing keyboard prefs such as modifier remappings and top-row function keys while respecting policies and recording settings metrics.
+// relations:
+//   - depends_on /ash/system/input_device_settings/pref_handlers/keyboard_pref_handler_impl.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/system/input_device_settings/pref_handlers/keyboard_pref_handler_impl.h"
 
 #include <algorithm>

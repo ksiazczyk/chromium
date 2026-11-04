@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input device settings utilities unit tests
+// summary: Unit tests covering device key building, login screen settings retrieval, and button remapping conversion behavior.
+// relations:
+//   - tests /ash/system/input_device_settings/input_device_settings_utils.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_pref_names.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_utils.h"
 
 #include <cstdint>

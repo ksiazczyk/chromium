@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode detailed view controller header
+// summary: Declares FocusModeDetailedViewController, which manages the Focus Mode detailed view within the unified system tray.
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_DETAILED_VIEW_CONTROLLER_H_
 

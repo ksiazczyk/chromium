@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus mode controller implementation
+// summary: Implements the core controller that starts and ends focus mode sessions and manages do-not-disturb, sounds, nudges, and profile preferences.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_controller.h
+//   - references /ash/accessibility/accessibility_controller.h
+//   - references /ash/api/tasks/tasks_types.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_controller.h"
 
 #include <memory>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Soundscape test configuration data
+// summary: Defines kTestConfig, a JSON string with sample localized playlists, thumbnails and tracks used as test data for soundscape tests.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/soundscape/test/test_data.h
+// ---
+
 #include "ash/system/focus_mode/sounds/soundscape/test/test_data.h"
 
 namespace ash {

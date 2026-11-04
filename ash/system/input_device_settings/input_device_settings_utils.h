@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings utilities header
+// summary: Declares utility functions and the VendorProductId struct used for device keys, setting persistence decisions, and login screen settings access.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/export_template.h
+//   - depends_on /base/values.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_SETTINGS_UTILS_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_SETTINGS_UTILS_H_
 

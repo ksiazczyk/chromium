@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusModeTasksProvider implementation
+// summary: Implements the tasks provider that fetches task lists and tasks from the API, sorts them for the carousel, and serves cached results.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_tasks_provider.h
+//   - references /ash/api/tasks/tasks_controller.h
+//   - references /ash/system/focus_mode/focus_mode_retry_util.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_tasks_provider.h"
 
 #include <algorithm>

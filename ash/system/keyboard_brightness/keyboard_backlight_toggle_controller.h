@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard backlight toggle controller header
+// summary: Declares the controller for the quick settings toast indicating keyboard backlight on and off state.
+// relations:
+//   - depends_on /ash/system/unified/unified_slider_view.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+// ---
+
 #ifndef ASH_SYSTEM_KEYBOARD_BRIGHTNESS_KEYBOARD_BACKLIGHT_TOGGLE_CONTROLLER_H_
 #define ASH_SYSTEM_KEYBOARD_BRIGHTNESS_KEYBOARD_BACKLIGHT_TOGGLE_CONTROLLER_H_
 

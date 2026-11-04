@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snooping protection notification blocker unit tests
+// summary: Unit tests verifying that popup notifications are suppressed and the informational popup updated according to snooping state and user preferences.
+// relations:
+//   - tests /ash/system/human_presence/snooping_protection_notification_blocker.h
+// ---
+
 #include "ash/system/human_presence/snooping_protection_notification_blocker.h"
 
 #include <memory>

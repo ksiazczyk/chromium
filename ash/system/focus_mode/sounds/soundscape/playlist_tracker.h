@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlaylistTracker class header
+// summary: Declares the PlaylistTracker class that tracks the currently played track in a playlist and provides randomly chosen next tracks before the playlist repeats.
+// relations:
+//   - depends_on /ash/system/focus_mode/sounds/soundscape/soundscape_types.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/raw_ref.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_SOUNDSCAPE_PLAYLIST_TRACKER_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_SOUNDSCAPE_PLAYLIST_TRACKER_H_
 

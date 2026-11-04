@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music data type implementations
+// summary: Implements constructors and debug string formatting for the YouTube Music data structures such as Image, MusicSection, Playlist, PlaybackContext, MediaSegment, and PlaybackData.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/youtube_music/youtube_music_types.h
+// ---
+
 #include "ash/system/focus_mode/sounds/youtube_music/youtube_music_types.h"
 
 #include <string>

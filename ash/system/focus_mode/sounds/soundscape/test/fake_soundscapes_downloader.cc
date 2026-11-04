@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Soundscapes Downloader implementation
+// summary: Implements a fake SoundscapesDownloader test double that serves a preset playlist from FetchConfiguration and resolves URLs against a fixed test host.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/soundscape/test/fake_soundscapes_downloader.h
+//   - depends_on /base/task/sequenced_task_runner.h
+// ---
+
 #include "ash/system/focus_mode/sounds/soundscape/test/fake_soundscapes_downloader.h"
 
 #include "base/task/sequenced_task_runner.h"

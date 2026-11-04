@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music API conversion utilities
+// summary: Provides helpers that convert YouTube Music API response types into ash UI types and select the best-qualified image for display.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/youtube_music/youtube_music_util.h
+//   - references /google_apis/youtube_music/youtube_music_api_response_types.h
+// ---
+
 #include "ash/system/focus_mode/sounds/youtube_music/youtube_music_util.h"
 
 #include <algorithm>

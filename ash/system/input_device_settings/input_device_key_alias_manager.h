@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceKeyAliasManager class declaration
+// summary: Declares InputDeviceKeyAliasManager, which resolves aliased device keys to their primary key and lists aliases for a given primary device key.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/flat_map.h
+//   - depends_on /base/containers/flat_set.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_KEY_ALIAS_MANAGER_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_KEY_ALIAS_MANAGER_H_
 

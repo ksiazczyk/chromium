@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the keyboard brightness slider controller
+// summary: Ash test suite checking that clicks on the slider button pass through to the keyboard brightness slider and change its value as expected.
+// relations:
+//   - tests /ash/system/keyboard_brightness/unified_keyboard_brightness_slider_controller.h
+//   - depends_on /ash/system/unified/unified_system_tray.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/system/keyboard_brightness/unified_keyboard_brightness_slider_controller.h"
 
 #include "ash/system/unified/unified_system_tray.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test holding space tray child bubble implementation
+// summary: Implements TestHoldingSpaceTrayChildBubble, which creates sections and placeholders in tests by running caller-supplied callbacks from its Params.
+// relations:
+//   - implements /ash/system/holding_space/test_holding_space_tray_child_bubble.h
+//   - references /ash/system/holding_space/holding_space_item_views_section.h
+//   - references /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/system/holding_space/test_holding_space_tray_child_bubble.h"
 
 #include "ash/system/holding_space/holding_space_item_views_section.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot icon selection by state
+// summary: Selects the hotspot status area vector icon based on the current hotspot state, cycling through animation frames while enabling.
+// relations:
+//   - implements /ash/system/hotspot/hotspot_icon.h
+//   - references /ash/system/hotspot/hotspot_icon_animation.h
+// ---
+
 #include "ash/system/hotspot/hotspot_icon.h"
 
 #include <utility>

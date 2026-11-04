@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot detailed view unit tests
+// summary: Unit tests for HotspotDetailedView verifying toggle, icon, labels, and settings button behavior across hotspot states and allow statuses.
+// relations:
+//   - tests /ash/system/hotspot/hotspot_detailed_view.h
+//   - references /ash/system/tray/fake_detailed_view_delegate.h
+// ---
+
 #include "ash/system/hotspot/hotspot_detailed_view.h"
 
 #include <optional>

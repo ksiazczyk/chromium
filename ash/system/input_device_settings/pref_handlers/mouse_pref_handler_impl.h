@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MousePrefHandlerImpl header
+// summary: Declares MousePrefHandlerImpl, which implements the MousePrefHandler interface for initializing and updating mouse device settings stored in preferences.
+// relations:
+//   - implements /ash/system/input_device_settings/pref_handlers/mouse_pref_handler.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/values.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_MOUSE_PREF_HANDLER_IMPL_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_MOUSE_PREF_HANDLER_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Human presence DIR_METADATA
+summary: ChromeOS directory metadata assigning the human presence code to buganizer component 1140302 and the chromeos-hps-swe team mailing list.

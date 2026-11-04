@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot feature pod controller unit tests
+// summary: Unit tests for HotspotFeaturePodController covering tile visibility, toggling, dive-in navigation, and UMA histogram recording.
+// relations:
+//   - tests /ash/system/hotspot/hotspot_feature_pod_controller.h
+// ---
+
 #include "ash/system/hotspot/hotspot_feature_pod_controller.h"
 
 #include <optional>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FocusModeSession unit tests
+// summary: Unit tests for FocusModeSession verifying state transitions, snapshot values, and session extension behavior using a mock clock.
+// relations:
+//   - depends_on /base/test/task_environment.h
+//   - depends_on /base/time/time.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_session.h"
 
 #include "base/test/task_environment.h"

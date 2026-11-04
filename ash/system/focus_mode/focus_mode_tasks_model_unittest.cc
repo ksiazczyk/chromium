@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FocusModeTasksModel unit tests
+// summary: Unit tests for FocusModeTasksModel covering task selection, updates, and observer notifications using a fake delegate and recording observer.
+// relations:
+//   - tests /ash/system/focus_mode/focus_mode_tasks_model.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_tasks_model.h"
 
 #include <optional>

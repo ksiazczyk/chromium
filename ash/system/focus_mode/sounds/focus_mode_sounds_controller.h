@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode sounds controller class
+// summary: Declares the FocusModeSoundsController class that downloads images and manages playlist data from music APIs for display in the Focus Mode sounds view.
+// relations:
+//   - references /ash/system/focus_mode/sounds/focus_mode_api_error.h
+//   - references /ash/system/focus_mode/sounds/focus_mode_sounds_delegate.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_FOCUS_MODE_SOUNDS_CONTROLLER_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_FOCUS_MODE_SOUNDS_CONTROLLER_H_
 

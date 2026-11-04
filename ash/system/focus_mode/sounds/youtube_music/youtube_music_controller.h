@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music controller interface
+// summary: Declares the YouTubeMusicController class that provides access to the YouTube Music API for the active account through the active client.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/public/cpp/session/session_observer.h
+//   - references /ash/system/focus_mode/sounds/youtube_music/youtube_music_client.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_YOUTUBE_MUSIC_YOUTUBE_MUSIC_CONTROLLER_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_YOUTUBE_MUSIC_YOUTUBE_MUSIC_CONTROLLER_H_
 

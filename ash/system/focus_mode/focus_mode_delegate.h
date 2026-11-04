@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode delegate interface
+// summary: Defines the FocusModeDelegate interface used by Chrome to create a YouTube Music client, provide the locale, and detect minor users.
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_DELEGATE_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_DELEGATE_H_
 

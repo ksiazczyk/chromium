@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus Mode countdown view unit tests
+// summary: Unit tests for the countdown view covering bubble visibility, session extension limits, and end button metrics recording.
+// relations:
+//   - references /ash/system/focus_mode/focus_mode_countdown_view.h
+//   - references /ash/style/pill_button.h
+//   - references /ash/system/focus_mode/focus_mode_controller.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_countdown_view.h"
 
 #include "ash/constants/ash_features.h"

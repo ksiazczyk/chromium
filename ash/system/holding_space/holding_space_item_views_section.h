@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HoldingSpaceItemViewsSection class header
+// summary: Declares HoldingSpaceItemViewsSection, a view managing a section of holding space item views within a tray child bubble, with virtual hooks for header, container, item views, and placeholder creation.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_item.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_section.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_ITEM_VIEWS_SECTION_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_ITEM_VIEWS_SECTION_H_
 

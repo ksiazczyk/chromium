@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot icon API
+// summary: Declares GetIconForHotspot, which returns the vector icon matching a given hotspot state.
+// ---
+
 #ifndef ASH_SYSTEM_HOTSPOT_HOTSPOT_ICON_H_
 #define ASH_SYSTEM_HOTSPOT_HOTSPOT_ICON_H_
 

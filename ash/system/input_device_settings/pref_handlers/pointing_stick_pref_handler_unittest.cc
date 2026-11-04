@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PointingStickPrefHandlerImpl unit tests
+// summary: Unit tests for PointingStickPrefHandlerImpl verifying initialization, updates, and login screen behavior of pointing stick settings preferences.
+// relations:
+//   - tests /ash/system/input_device_settings/pref_handlers/pointing_stick_pref_handler_impl.cc
+//   - depends_on /ash/system/input_device_settings/pref_handlers/pointing_stick_pref_handler_impl.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_defaults.h
+// ---
+
 #include "ash/system/input_device_settings/pref_handlers/pointing_stick_pref_handler_impl.h"
 
 #include "ash/constants/ash_pref_names.h"

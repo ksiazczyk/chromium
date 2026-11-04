@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test holding space item views section declaration
+// summary: Declares TestHoldingSpaceItemViewsSection, a simple test implementation of the abstract HoldingSpaceItemViewsSection class.
+// relations:
+//   - references /ash/system/holding_space/holding_space_item_views_section.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_TEST_HOLDING_SPACE_ITEM_VIEWS_SECTION_H_
 #define ASH_SYSTEM_HOLDING_SPACE_TEST_HOLDING_SPACE_ITEM_VIEWS_SECTION_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SnoopingProtectionController unit tests
+// summary: Tests snooping protection controller behavior with a fake DBus daemon and mock time, covering service availability, login and positive result windows.
+// relations:
+//   - tests /ash/system/human_presence/snooping_protection_controller.h
+//   - tests /ash/system/human_presence/snooping_protection_controller.cc
+// ---
+
 #include "ash/system/human_presence/snooping_protection_controller.h"
 
 #include <memory>

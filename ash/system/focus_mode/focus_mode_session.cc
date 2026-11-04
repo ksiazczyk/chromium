@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode session implementation
+// summary: Implements the Focus Mode session model, computing session state, progress snapshots, remaining time, and session extension up to the maximum duration.
+// relations:
+//   - depends_on /ash/system/focus_mode/focus_mode_util.h
+//   - depends_on /base/check_op.h
+//   - depends_on /base/notreached.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_session.h"
 
 #include <algorithm>

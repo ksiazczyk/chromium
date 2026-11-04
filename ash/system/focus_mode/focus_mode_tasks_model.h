@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusModeTasksModel class declaration
+// summary: Declares FocusModeTasksModel with its TaskUpdate options, observer interface, and delegate for fetching, adding, and updating tasks.
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_TASKS_MODEL_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_TASKS_MODEL_H_
 

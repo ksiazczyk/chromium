@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode detailed view implementation
+// summary: Implements the Focus Mode settings panel with toggle, timer, task, sounds, and do-not-disturb controls in the system tray.
+// ---
+
 #include "ash/system/focus_mode/focus_mode_detailed_view.h"
 
 #include <memory>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads section class declaration
+// summary: Declares DownloadsSection, the holding space section that shows downloads in the Recent Files bubble.
+// relations:
+//   - references /ash/system/holding_space/holding_space_item_views_section.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_DOWNLOADS_SECTION_H_
 #define ASH_SYSTEM_HOLDING_SPACE_DOWNLOADS_SECTION_H_
 

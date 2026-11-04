@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode ending moment view implementation
+// summary: Implements the celebratory view shown when a focus session ends, with congratulatory text, confetti animation, and buttons.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_ending_moment_view.h
+//   - depends_on /ash/system/focus_mode/focus_mode_controller.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_ending_moment_view.h"
 
 #include <string>

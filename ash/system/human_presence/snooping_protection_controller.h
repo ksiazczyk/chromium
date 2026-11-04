@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnoopingProtectionController class declaration
+// summary: Declares the controller pushing snooping status changes to observers and the notification blocker, including its state struct and profile preference registration.
+// relations:
+//   - implements /ash/system/human_presence/human_presence_orientation_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_HUMAN_PRESENCE_SNOOPING_PROTECTION_CONTROLLER_H_
 #define ASH_SYSTEM_HUMAN_PRESENCE_SNOOPING_PROTECTION_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphicsTabletPrefHandlerImpl class declaration
+// summary: Declares GraphicsTabletPrefHandlerImpl, the concrete implementation of the graphics tablet preference handler interface.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/input_device_settings/pref_handlers/graphics_tablet_pref_handler.h
+//   - implements /ash/system/input_device_settings/pref_handlers/graphics_tablet_pref_handler.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_GRAPHICS_TABLET_PREF_HANDLER_IMPL_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_GRAPHICS_TABLET_PREF_HANDLER_IMPL_H_
 

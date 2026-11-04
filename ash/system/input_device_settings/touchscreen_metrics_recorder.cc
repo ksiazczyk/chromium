@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touchscreen metrics recorder implementation
+// summary: Records UMA histograms describing the configuration of internal and external touchscreens whenever the input device list changes in Ash.
+// relations:
+//   - implements /ash/system/input_device_settings/touchscreen_metrics_recorder.h
+//   - depends_on /base/metrics/histogram_functions.h
+//   - depends_on /ui/events/devices/device_data_manager.h
+// ---
+
 #include "ash/system/input_device_settings/touchscreen_metrics_recorder.h"
 
 #include "base/metrics/histogram_functions.h"

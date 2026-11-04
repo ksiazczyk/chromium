@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode countdown view header
+// summary: Declares FocusModeCountdownView, a view with session timer labels, a progress bar, and end/extend buttons for focus mode.
+// relations:
+//   - references /ash/system/focus_mode/focus_mode_controller.h
+//   - references /ui/base/metadata/metadata_header_macros.h
+//   - references /ui/views/layout/flex_layout_view.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_COUNTDOWN_VIEW_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_COUNTDOWN_VIEW_H_
 

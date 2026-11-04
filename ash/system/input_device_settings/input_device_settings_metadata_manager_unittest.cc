@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input device settings metadata manager unit tests
+// summary: Unit tests for the input device settings metadata manager, covering device image fetching, caching for settings versus notification destinations, and image request key generation.
+// relations:
+//   - tests /ash/system/input_device_settings/input_device_settings_metadata_manager.h
+//   - depends_on /ash/public/cpp/test/test_image_downloader.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_metadata.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_metadata_manager.h"
 
 #include <memory>

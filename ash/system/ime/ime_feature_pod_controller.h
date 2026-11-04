@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME feature pod controller class declaration
+// summary: Declares IMEFeaturePodController, which manages the IME feature tile in Quick Settings and refreshes it on IME state changes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+//   - implements /ash/system/ime/ime_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_IME_IME_FEATURE_POD_CONTROLLER_H_
 #define ASH_SYSTEM_IME_IME_FEATURE_POD_CONTROLLER_H_
 

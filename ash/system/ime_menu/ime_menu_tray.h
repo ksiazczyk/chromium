@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImeMenuTray class declaration
+// summary: Declares ImeMenuTray, a TrayBackgroundView that shows the current IME short name in the shelf and manages the opt-in IME menu bubble and keyboard keysets.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/public/cpp/keyboard/keyboard_controller_observer.h
+//   - implements /ash/system/ime/ime_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_IME_MENU_IME_MENU_TRAY_H_
 #define ASH_SYSTEM_IME_MENU_IME_MENU_TRAY_H_
 

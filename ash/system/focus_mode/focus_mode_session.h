@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusModeSession class declaration
+// summary: Declares the FocusModeSession class that represents a Focus Mode session, tracking state, duration, snapshots, and session extension.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/focus_mode/focus_mode_util.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_SESSION_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_SESSION_H_
 

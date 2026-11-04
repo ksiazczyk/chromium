@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HoldingSpaceItemViewsSection unit tests
+// summary: Parameterized unit tests for holding space item views sections, covering item add, remove, and initialization behavior across section IDs and item types, including asynchronous widget teardown.
+// relations:
+//   - tests /ash/system/holding_space/holding_space_item_views_section.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_file.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_image.h
+// ---
+
 #include "ash/system/holding_space/holding_space_item_views_section.h"
 
 #include <memory>

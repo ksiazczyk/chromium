@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graphics tablet pref handler implementation
+// summary: Implements GraphicsTabletPrefHandler, reading and persisting tablet and pen button remapping prefs for graphics tablets, including login screen settings and update timestamps.
+// relations:
+//   - depends_on /ash/system/input_device_settings/pref_handlers/graphics_tablet_pref_handler_impl.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_metadata.h
+// ---
+
 #include "ash/system/input_device_settings/pref_handlers/graphics_tablet_pref_handler_impl.h"
 
 #include <vector>

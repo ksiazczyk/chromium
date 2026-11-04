@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceNotifier class declaration
+// summary: Declares the InputDeviceNotifier template that reports added and removed devices via callback and tracks keyboard and mouse imposter devices.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/bluetooth_devices_observer.h
+//   - depends_on /ash/public/cpp/input_device_settings_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_NOTIFIER_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_NOTIFIER_H_
 

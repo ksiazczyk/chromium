@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space item chip view unit tests
+// summary: Unit tests verifying that the chip view renders combined primary and secondary tooltip text correctly.
+// relations:
+//   - tests /ash/system/holding_space/holding_space_item_chip_view.h
+//   - tests /ash/system/holding_space/holding_space_item_chip_view.cc
+// ---
+
 #include "ash/system/holding_space/holding_space_item_chip_view.h"
 
 #include <memory>

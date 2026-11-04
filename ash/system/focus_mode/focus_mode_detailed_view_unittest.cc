@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus Mode detailed view unit tests
+// summary: Unit tests for the Focus Mode detailed view covering toggle, timer, task, sounds, and do-not-disturb behaviors.
+// relations:
+//   - tests /ash/system/focus_mode/focus_mode_detailed_view.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_detailed_view.h"
 
 #include <memory>

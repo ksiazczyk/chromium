@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode retry utility header
+// summary: Declares retry limits, wait time constants, and the retry state struct used to retry Focus Mode media API requests with exponential backoff.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_RETRY_UTIL_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_RETRY_UTIL_H_
 

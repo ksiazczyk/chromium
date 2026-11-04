@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputDeviceNotifier unit tests
+// summary: Unit tests for InputDeviceNotifier covering device add and remove callbacks, Bluetooth device changes, and imposter handling using mock Bluetooth adapters.
+// relations:
+//   - tests /ash/system/input_device_settings/input_device_notifier.h
+//   - depends_on /ash/public/cpp/input_device_settings_controller.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_notifier.h"
 
 #include <algorithm>

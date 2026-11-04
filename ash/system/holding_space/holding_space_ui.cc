@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space UI label factory implementation
+// summary: Implements factory functions that create styled labels for holding space bubble headers, section headers, and placeholder text.
+// relations:
+//   - implements /ash/system/holding_space/holding_space_ui.h
+//   - references /ash/bubble/bubble_utils.h
+//   - references /ash/style/ash_color_id.h
+// ---
+
 #include "ash/system/holding_space/holding_space_ui.h"
 
 #include "ash/bubble/bubble_utils.h"

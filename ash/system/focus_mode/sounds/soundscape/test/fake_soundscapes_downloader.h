@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Soundscapes Downloader header
+// summary: Declares the FakeSoundscapesDownloader test double, which lets tests queue a playlist response for the FetchConfiguration call.
+// relations:
+//   - depends_on /ash/system/focus_mode/sounds/soundscape/soundscape_types.h
+//   - implements /ash/system/focus_mode/sounds/soundscape/soundscapes_downloader.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_SOUNDSCAPE_TEST_FAKE_SOUNDSCAPES_DOWNLOADER_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_SOUNDSCAPE_TEST_FAKE_SOUNDSCAPES_DOWNLOADER_H_
 

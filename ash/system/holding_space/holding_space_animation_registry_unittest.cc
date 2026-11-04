@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space animation registry unit tests
+// summary: Unit tests verifying that progress icon and ring animations are created and updated as holding space items are added, updated, and removed.
+// relations:
+//   - tests /ash/system/holding_space/holding_space_animation_registry.h
+//   - references /ash/public/cpp/holding_space/holding_space_util.h
+//   - references /ash/system/progress_indicator/progress_icon_animation.h
+// ---
+
 #include "ash/system/holding_space/holding_space_animation_registry.h"
 
 #include <array>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space tray unit tests
+// summary: Extensive unit tests for the holding space tray, covering its icon, previews, item views, metrics, accessibility, and related tray interactions.
+// relations:
+//   - tests /ash/system/holding_space/holding_space_tray.h
+//   - references /ash/system/holding_space/holding_space_animation_registry.h
+//   - references /ash/system/holding_space/holding_space_ash_test_base.h
+// ---
+
 #include "ash/system/holding_space/holding_space_tray.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snooping protection system tray view declaration
+// summary: Declares the tray item view that shows a snooping-protection icon in the system tray and reacts to snooping status changes.
+// ---
+
 #ifndef ASH_SYSTEM_HUMAN_PRESENCE_SNOOPING_PROTECTION_VIEW_H_
 #define ASH_SYSTEM_HUMAN_PRESENCE_SNOOPING_PROTECTION_VIEW_H_
 

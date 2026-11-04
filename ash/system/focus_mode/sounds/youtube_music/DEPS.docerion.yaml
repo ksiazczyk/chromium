@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for YouTube Music Focus Mode sounds
+summary: Defines include rules allowing this directory to depend on google_apis/gaia and google_apis/youtube_music for the Focus Mode YouTube Music integration.

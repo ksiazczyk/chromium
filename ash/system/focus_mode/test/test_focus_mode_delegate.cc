@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFocusModeDelegate implementation
+// summary: Implements the test FocusModeDelegate with stubbed behavior, returning no YouTube Music client, a fixed en-US locale, and false for minor-user checks.
+// relations:
+//   - implements /ash/system/focus_mode/test/test_focus_mode_delegate.h
+// ---
+
 #include "ash/system/focus_mode/test/test_focus_mode_delegate.h"
 
 namespace ash {

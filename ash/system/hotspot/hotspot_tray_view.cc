@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HotspotTrayView implementation
+// summary: Implements the system tray icon view that appears when hotspot is on, updating icon image, visibility, tooltip, and accessible name from hotspot state and client count.
+// relations:
+//   - implements /ash/system/hotspot/hotspot_tray_view.h
+// ---
+
 #include "ash/system/hotspot/hotspot_tray_view.h"
 
 #include "ash/public/cpp/hotspot_config_service.h"

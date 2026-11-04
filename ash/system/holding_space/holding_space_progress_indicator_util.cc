@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space progress indicator utilities implementation
+// summary: Implements progress indicators that paint cumulative progress for all in-progress holding space items of a controller or for a single holding space item.
+// relations:
+//   - implements /ash/system/holding_space/holding_space_progress_indicator_util.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_controller.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_controller_observer.h
+// ---
+
 #include "ash/system/holding_space/holding_space_progress_indicator_util.h"
 
 #include "ash/public/cpp/holding_space/holding_space_controller.h"

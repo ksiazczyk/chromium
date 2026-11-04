@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus mode soundscape delegate unit tests
+// summary: Unit tests for the focus mode soundscape delegate, using a fake soundscapes downloader to verify playlist fetching and track sequencing.
+// relations:
+//   - tests /ash/system/focus_mode/sounds/focus_mode_soundscape_delegate.h
+//   - references /ash/system/focus_mode/sounds/soundscape/soundscape_types.h
+//   - references /ash/system/focus_mode/sounds/soundscape/test/fake_soundscapes_downloader.h
+// ---
+
 #include "ash/system/focus_mode/sounds/focus_mode_soundscape_delegate.h"
 
 #include <ostream>

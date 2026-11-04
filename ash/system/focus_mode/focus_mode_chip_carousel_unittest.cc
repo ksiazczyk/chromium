@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus mode chip carousel unit tests
+// summary: Unit tests covering task chip population, the five-task limit, scrolling, and overflow icon behavior of the chip carousel.
+// relations:
+//   - tests /ash/system/focus_mode/focus_mode_chip_carousel.h
+//   - references /ash/api/tasks/tasks_types.h
+//   - references /ash/constants/ash_features.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_chip_carousel.h"
 
 #include <vector>

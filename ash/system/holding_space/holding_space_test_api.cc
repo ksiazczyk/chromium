@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space test API implementation
+// summary: Implements the holding space test API used by tests to show and close the tray, query item views and IDs, and simulate interactions such as taps and drag and drop.
+// relations:
+//   - implements /ash/public/cpp/holding_space/holding_space_test_api.h
+//   - depends_on /ash/drag_drop/drag_drop_controller.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_constants.h
+// ---
+
 #include "ash/public/cpp/holding_space/holding_space_test_api.h"
 
 #include <algorithm>

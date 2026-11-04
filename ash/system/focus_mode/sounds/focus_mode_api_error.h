@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode API error struct
+// summary: Defines the FocusModeApiError struct with error types, user-displayable messages, and an API error callback used by Focus Mode sound backends.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_FOCUS_MODE_API_ERROR_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_FOCUS_MODE_API_ERROR_H_
 

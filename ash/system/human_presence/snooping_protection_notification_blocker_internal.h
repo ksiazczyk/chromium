@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal snooping protection notification blocker helpers
+// summary: Declares test-only helpers that map notification notifiers to human-readable titles and build the message listing the blocked notifier titles.
+// relations:
+//   - references /ui/base/l10n/l10n_util.h
+// ---
+
 #ifndef ASH_SYSTEM_HUMAN_PRESENCE_SNOOPING_PROTECTION_NOTIFICATION_BLOCKER_INTERNAL_H_
 #define ASH_SYSTEM_HUMAN_PRESENCE_SNOOPING_PROTECTION_NOTIFICATION_BLOCKER_INTERNAL_H_
 

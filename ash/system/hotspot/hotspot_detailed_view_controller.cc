@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot detailed view controller implementation
+// summary: Implements the controller that updates the hotspot detailed view from hotspot config state and translates toggle clicks into enable or disable calls.
+// relations:
+//   - implements /ash/system/hotspot/hotspot_detailed_view_controller.h
+//   - depends_on /ash/system/hotspot/hotspot_detailed_view.cc
+//   - depends_on /ash/system/tray/detailed_view_delegate.h
+// ---
+
 #include "ash/system/hotspot/hotspot_detailed_view_controller.h"
 
 #include "ash/constants/ash_switches.h"

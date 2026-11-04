@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input device settings metadata unit tests
+// summary: Unit tests for input device settings metadata, validating keyboard, mouse, combo, and graphics tablet metadata lists plus VID/PID alias lookups.
+// relations:
+//   - tests /ash/system/input_device_settings/input_device_settings_metadata.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_metadata.h"
 
 #include "ash/public/mojom/input_device_settings.mojom.h"

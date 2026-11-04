@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HotspotNotifier unit tests
+// summary: Tests HotspotNotifier notification behavior for hotspot enable, disable reasons, and WiFi state changes using Ash and network handler test helpers.
+// relations:
+//   - tests /ash/system/hotspot/hotspot_notifier.h
+// ---
+
 #include "ash/system/hotspot/hotspot_notifier.h"
 #include "ash/test/ash_test_base.h"
 #include "ash/test/ash_test_helper.h"

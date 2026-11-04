@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake geolocation URL loader factory implementation
+// summary: Implements a test URL loader factory that serializes a configurable geoposition as the response body for geolocation requests.
+// relations:
+//   - implements /ash/system/geolocation/test_geolocation_url_loader_factory.h
+//   - depends_on /base/json/json_writer.h
+// ---
+
 #include "ash/system/geolocation/test_geolocation_url_loader_factory.h"
 
 #include <memory>

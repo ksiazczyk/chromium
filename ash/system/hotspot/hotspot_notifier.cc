@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot notifier implementation
+// summary: Shows system notifications when the hotspot turns on or off, including admin restriction, Wi-Fi enabled, auto-disabled, and error reasons.
+// relations:
+//   - implements /ash/system/hotspot/hotspot_notifier.h
+//   - references /ash/ash_element_identifiers.h
+//   - references /ash/public/cpp/hotspot_config_service.h
+// ---
+
 #include "ash/system/hotspot/hotspot_notifier.h"
 
 #include "ash/ash_element_identifiers.h"

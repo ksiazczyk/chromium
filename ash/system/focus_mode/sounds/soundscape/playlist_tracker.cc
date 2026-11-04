@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlaylistTracker implementation for Focus Sounds playlists
+// summary: Implements PlaylistTracker, which shuffles a soundscape playlist and serves randomly chosen next tracks without immediate repeats until all tracks have played.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/soundscape/playlist_tracker.h
+//   - depends_on /base/rand_util.h
+//   - depends_on /base/uuid.h
+// ---
+
 #include "ash/system/focus_mode/sounds/soundscape/playlist_tracker.h"
 
 #include "base/rand_util.h"

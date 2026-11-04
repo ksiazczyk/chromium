@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode metrics recorder header
+// summary: Declares the recorder class that tracks task, playlist, and Do Not Disturb interactions during a Focus Mode session and emits histograms at session start and end.
+// relations:
+//   - references /ash/system/focus_mode/focus_mode_histogram_names.h
+//   - references /ash/system/focus_mode/focus_mode_tasks_provider.h
+//   - references /ash/system/focus_mode/focus_mode_util.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_METRICS_RECORDER_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_METRICS_RECORDER_H_
 

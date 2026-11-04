@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME menu tray implementation
+// summary: Implements the status area tray button that displays the active input method's short name and opens the IME menu bubble with emoji, handwriting, and voice options.
+// relations:
+//   - implements /ash/system/ime_menu/ime_menu_tray.h
+//   - depends_on /ash/accessibility/a11y_feature_type.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+// ---
+
 #include "ash/system/ime_menu/ime_menu_tray.h"
 
 #include <memory>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot feature pod controller implementation
+// summary: Implements the quick settings feature tile controller for hotspot, handling toggling, navigation to the detailed view, and UMA metrics tracking.
+// relations:
+//   - implements /ash/system/hotspot/hotspot_feature_pod_controller.h
+// ---
+
 #include "ash/system/hotspot/hotspot_feature_pod_controller.h"
 
 #include "ash/ash_element_identifiers.h"
