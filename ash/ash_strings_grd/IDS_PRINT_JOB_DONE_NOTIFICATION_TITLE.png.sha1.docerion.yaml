@@ -1,0 +1,4 @@
+# Docerion header of IDS_PRINT_JOB_DONE_NOTIFICATION_TITLE.png.sha1.
+type: data
+title: SHA1 checksum for print job done notification title image
+summary: Stores the SHA-1 hash of the PNG screenshot for the print job done notification title string in the Ash string resources.
