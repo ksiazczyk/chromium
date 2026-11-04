@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Component cloud policy browser tests
+// summary: Browser tests verifying that cloud policy for extensions is served by an embedded policy test server and applied to managed extensions.
+// ---
+
 #include <memory>
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkAnnotationBlocklistHandler class header
+// summary: Declares a policy handler that adds disabled annotation hash codes to the kNetworkAnnotationBlocklist pref for monitoring purposes.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_ANNOTATIONS_BLOCKLIST_HANDLER_H_
 #define CHROME_BROWSER_POLICY_ANNOTATIONS_BLOCKLIST_HANDLER_H_
 

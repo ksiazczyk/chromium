@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy value and status aggregator implementation
+// summary: Implements the aggregator that merges policy status, names and values from platform-specific providers for the Chrome policy WebUI.
+// ---
+
 #include "chrome/browser/policy/policy_value_and_status_aggregator.h"
 
 #include <memory>

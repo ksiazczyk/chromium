@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Developer tools policy checker class declaration
+// summary: Declares the DeveloperToolsPolicyChecker keyed service that reports per-URL DevTools availability from allowlist and blocklist preferences.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_DEVELOPER_TOOLS_POLICY_CHECKER_H_
 #define CHROME_BROWSER_POLICY_DEVELOPER_TOOLS_POLICY_CHECKER_H_
 

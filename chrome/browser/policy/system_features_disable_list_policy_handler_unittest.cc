@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemFeaturesDisableList policy handler tests
+// summary: Unit tests verifying conversion of disabled system feature names into enum preference values and histogram logging.
+// ---
+
 #include "chrome/browser/policy/system_features_disable_list_policy_handler.h"
 
 #include <asm-generic/errno-base.h>

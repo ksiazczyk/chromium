@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemaRegistryService implementation
+// summary: Implements the profile-keyed service that owns a SchemaRegistry and registers the Chrome and extension-install policy schemas.
+// ---
+
 #include "chrome/browser/policy/schema_registry_service.h"
 
 #include <utility>

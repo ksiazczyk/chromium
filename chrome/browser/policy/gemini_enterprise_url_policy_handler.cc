@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini Enterprise URL policy handler
+// summary: Validates and applies the GeminiEnterpriseUrl policy, requiring an HTTPS URL on an allowed host and rejecting recommended-level or credential-embedded values.
+// ---
+
 #include "chrome/browser/policy/gemini_enterprise_url_policy_handler.h"
 
 #include <string>

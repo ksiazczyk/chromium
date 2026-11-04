@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default geolocation policy handler header
+// summary: Declares the DefaultGeolocationPolicyHandler class that applies the DefaultGeolocationSetting policy to preferences.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_DEFAULT_GEOLOCATION_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_DEFAULT_GEOLOCATION_POLICY_HANDLER_H_
 

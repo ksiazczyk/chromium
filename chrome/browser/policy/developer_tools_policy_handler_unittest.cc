@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Developer tools policy handler unit tests
+// summary: Unit tests covering policy validation and application, including legacy DeveloperToolsDisabled handling and ChromeOS-specific cases.
+// ---
+
 #include "chrome/browser/policy/developer_tools_policy_handler.h"
 
 #include "base/command_line.h"

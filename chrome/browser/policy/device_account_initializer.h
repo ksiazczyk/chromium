@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAccountInitializer class header
+// summary: Declares the DeviceAccountInitializer class that fetches and stores OAuth2 tokens for the device account during Chrome enrollment, with a delegate interface for completion and error callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_DEVICE_ACCOUNT_INITIALIZER_H_
 #define CHROME_BROWSER_POLICY_DEVICE_ACCOUNT_INITIALIZER_H_
 

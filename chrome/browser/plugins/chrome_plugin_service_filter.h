@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome plugin service filter header
+// summary: Declares the singleton ChromePluginServiceFilter that authorizes plugins per render process and observes render process exits.
+// ---
+
 #ifndef CHROME_BROWSER_PLUGINS_CHROME_PLUGIN_SERVICE_FILTER_H_
 #define CHROME_BROWSER_PLUGINS_CHROME_PLUGIN_SERVICE_FILTER_H_
 

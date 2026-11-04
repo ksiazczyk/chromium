@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension install policy service unit tests
+// summary: Unit tests for the extension install policy service covering install blocking, allow decisions, and policy update notifications with mock providers.
+// ---
+
 #include "chrome/browser/policy/cloud/extension_install_policy_service.h"
 
 #include "chrome/browser/extensions/extension_management.h"

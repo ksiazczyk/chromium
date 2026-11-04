@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CPU performance override browser test
+// summary: Browser test verifying that the CpuPerformanceTierOverride policy and a user override change the navigator.cpuPerformance hardware tier.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/policy/policy_test_utils.h"

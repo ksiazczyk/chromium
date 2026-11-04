@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension policy test base implementation
+// summary: Implements the ExtensionPolicyTestBase helper that loads unpacked test extensions for extension policy browser tests.
+// ---
+
 #include "chrome/browser/policy/extension_policy_test_base.h"
 
 #include "chrome/browser/extensions/chrome_test_extension_loader.h"

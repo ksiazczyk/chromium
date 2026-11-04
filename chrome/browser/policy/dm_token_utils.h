@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DM token utilities header
+// summary: Declares helpers to obtain the platform-specific DM token for a profile and to override it for testing purposes.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_DM_TOKEN_UTILS_H_
 #define CHROME_BROWSER_POLICY_DM_TOKEN_UTILS_H_
 

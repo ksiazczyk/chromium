@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension force install mixin implementation
+// summary: Implements a browser test mixin that force-installs extensions via user or device policy by generating CRX files and update manifests served by an embedded test server.
+// ---
+
 #include "chrome/browser/policy/extension_force_install_mixin.h"
 
 #include <stdint.h>

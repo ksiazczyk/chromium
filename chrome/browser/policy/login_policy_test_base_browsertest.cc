@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login policy browser tests
+// summary: Chrome OS browser tests verifying that login policies such as AllowedLanguages and AllowedInputMethods override locale and input method settings.
+// ---
+
 #include "chrome/browser/ash/policy/login/login_policy_test_base.h"
 
 #include <string>

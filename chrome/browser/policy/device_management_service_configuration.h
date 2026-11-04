@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device management service configuration header
+// summary: Declares the concrete device management service configuration used to create device management service instances.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_DEVICE_MANAGEMENT_SERVICE_CONFIGURATION_H_
 #define CHROME_BROWSER_POLICY_DEVICE_MANAGEMENT_SERVICE_CONFIGURATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux browser DM token storage unit tests
+// summary: Unit tests for the Linux DM token storage delegate covering client ID, enrollment token, and DM token init, save, and delete.
+// ---
+
 #include "chrome/browser/policy/browser_dm_token_storage_linux.h"
 
 #include <iostream>

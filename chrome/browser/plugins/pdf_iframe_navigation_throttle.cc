@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF iframe navigation throttle implementation
+// summary: Intercepts subframe responses with the PDF MIME type and loads a placeholder page instead of the plugin viewer, except for mandatory downloads.
+// ---
+
 #include "chrome/browser/plugins/pdf_iframe_navigation_throttle.h"
 
 #include <string>

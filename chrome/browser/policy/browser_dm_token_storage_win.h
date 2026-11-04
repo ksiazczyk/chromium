@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows browser DM token storage delegate declaration
+// summary: Declares the Windows BrowserDMTokenStorage delegate and the DeviceManagementAndCBCMState enum logged to UMA.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_BROWSER_DM_TOKEN_STORAGE_WIN_H_
 #define CHROME_BROWSER_POLICY_BROWSER_DM_TOKEN_STORAGE_WIN_H_
 

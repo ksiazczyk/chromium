@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default sensors setting policy handler implementation
+// summary: Applies the DefaultSensorsSetting policy to the managed default sensors preference, falling back to allow when the ask state is unavailable.
+// ---
+
 #include "chrome/browser/policy/default_sensors_setting_policy_handler.h"
 
 #include "base/values.h"

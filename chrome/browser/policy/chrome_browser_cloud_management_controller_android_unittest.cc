@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CBCM Android controller unit tests
+// summary: Unit tests verifying when the Android CBCM controller is ready to create the policy manager and initialize based on DM token and enrollment token availability.
+// ---
+
 #include "chrome/browser/policy/chrome_browser_cloud_management_controller_android.h"
 
 #include "base/test/scoped_feature_list.h"

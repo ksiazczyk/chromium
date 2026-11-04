@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restricted managed guest session policy provider header
+// summary: Declares the RestrictedMGSPolicyProvider class that restricts a list of policies for restricted managed guest sessions on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_RESTRICTED_MGS_POLICY_PROVIDER_H_
 #define CHROME_BROWSER_POLICY_RESTRICTED_MGS_POLICY_PROVIDER_H_
 

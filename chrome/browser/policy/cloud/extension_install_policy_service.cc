@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install policy service implementation
+// summary: Implements the profile-keyed service that applies cloud extension install policies to allow or block extension installs and records related metrics.
+// ---
+
 #include "chrome/browser/policy/cloud/extension_install_policy_service.h"
 
 #include <set>

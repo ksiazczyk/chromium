@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome policy blocklist service factory
+// summary: Declares a profile-keyed service factory that provides the PolicyBlocklistService for Chrome profiles.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CHROME_POLICY_BLOCKLIST_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_POLICY_CHROME_POLICY_BLOCKLIST_SERVICE_FACTORY_H_
 

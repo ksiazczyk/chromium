@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin response interceptor URL loader throttle header
+// summary: Declares a URLLoaderThrottle that intercepts navigation responses whose MIME types are handled by extensions and routes the URLLoader to the extension via a token written into the plugin object tag.
+// ---
+
 #ifndef CHROME_BROWSER_PLUGINS_PLUGIN_RESPONSE_INTERCEPTOR_URL_LOADER_THROTTLE_H_
 #define CHROME_BROWSER_PLUGINS_PLUGIN_RESPONSE_INTERCEPTOR_URL_LOADER_THROTTLE_H_
 

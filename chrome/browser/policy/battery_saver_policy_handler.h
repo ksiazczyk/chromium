@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver policy handler header
+// summary: Declares BatterySaverPolicyHandler, which applies the battery saver availability policy to preference values.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_BATTERY_SAVER_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_BATTERY_SAVER_POLICY_HANDLER_H_
 

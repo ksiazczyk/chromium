@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local network access IP address space overrides policy handler header
+// summary: Declares a ListPolicyHandler subclass that validates and applies the LocalNetworkAccessIpAddressSpaceOverrides policy entries.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_LOCAL_NETWORK_ACCESS_IP_ADDRESS_SPACE_OVERRIDES_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_LOCAL_NETWORK_ACCESS_IP_ADDRESS_SPACE_OVERRIDES_POLICY_HANDLER_H_
 

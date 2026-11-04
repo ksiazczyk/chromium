@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local sync policy handler header
+// summary: Declares the TypeCheckingPolicyHandler that applies the RoamingProfileLocation policy to the local sync backend directory preference.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_LOCAL_SYNC_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_LOCAL_SYNC_POLICY_HANDLER_H_
 

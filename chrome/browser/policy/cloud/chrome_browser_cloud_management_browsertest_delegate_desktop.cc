@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop delegate for CBCM browser tests
+// summary: Desktop implementation of the CBCM browser test delegate handling error dialogs, widgets and active browser counts.
+// ---
+
 #include "chrome/browser/policy/cloud/chrome_browser_cloud_management_browsertest_delegate_desktop.h"
 
 #include "build/build_config.h"

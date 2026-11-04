@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile policy connector builder
+// summary: Declares factory functions that create and initialize ProfilePolicyConnector instances for browser contexts, plus a testing hook for overriding policy providers.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_PROFILE_POLICY_CONNECTOR_BUILDER_H_
 #define CHROME_BROWSER_POLICY_PROFILE_POLICY_CONNECTOR_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing policy test helper
+// summary: Implements the SafeBrowsingPolicyTest helper used to check whether a security interstitial is shown during Safe Browsing policy tests.
+// ---
+
 #include "chrome/browser/policy/safe_browsing_policy_test.h"
 
 #include "chrome/browser/interstitials/security_interstitial_page_test_utils.h"

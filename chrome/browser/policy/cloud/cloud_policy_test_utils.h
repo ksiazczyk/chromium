@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud policy test utilities header
+// summary: Declares GetExpectedDefaultPolicy, a test helper that fills a PolicyMap with default enterprise user policies.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CLOUD_CLOUD_POLICY_TEST_UTILS_H_
 #define CHROME_BROWSER_POLICY_CLOUD_CLOUD_POLICY_TEST_UTILS_H_
 

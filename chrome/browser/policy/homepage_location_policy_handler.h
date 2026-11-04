@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Homepage location policy handler header
+// summary: Declares the HomepageLocationPolicyHandler, which maps the HomepageLocation policy to the homepage preference after URL validation.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_HOMEPAGE_LOCATION_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_HOMEPAGE_LOCATION_POLICY_HANDLER_H_
 

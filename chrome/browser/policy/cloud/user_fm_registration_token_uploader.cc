@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User Firebase registration token uploader
+// summary: Implements a per-profile KeyedService that uploads Firebase registration tokens for user policy invalidation scopes once profile initialization completes.
+// ---
+
 #include "chrome/browser/policy/cloud/user_fm_registration_token_uploader.h"
 
 #include <stdint.h>

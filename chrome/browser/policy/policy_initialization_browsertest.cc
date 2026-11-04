@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy initialization browser test
+// summary: Browser test verifying that a policy value written to the Windows registry is read into local state preferences during browser startup.
+// ---
+
 #include <memory>
 #include <string>
 

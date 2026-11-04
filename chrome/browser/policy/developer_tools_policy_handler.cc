@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Developer tools policy handler implementation
+// summary: Validates and applies the DeveloperToolsDisabled and DeveloperToolsAvailability policies to the DevTools availability and extension developer mode prefs.
+// ---
+
 #include "chrome/browser/policy/developer_tools_policy_handler.h"
 
 #include <optional>

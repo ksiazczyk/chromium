@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PluginUtils implementation
+// summary: Implements PluginUtils for plugin content settings and for resolving extensions that handle a MIME type, honoring the always-open-PDFs-externally preference and incognito restrictions.
+// ---
+
 #include "chrome/browser/plugins/plugin_utils.h"
 
 #include "base/values.h"

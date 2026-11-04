@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript policy handler header
+// summary: Declares the JavascriptPolicyHandler, which checks and applies JavaScript policies to browser preferences.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_JAVASCRIPT_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_JAVASCRIPT_POLICY_HANDLER_H_
 

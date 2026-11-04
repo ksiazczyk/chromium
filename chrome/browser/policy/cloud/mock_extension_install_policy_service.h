@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock extension install policy service
+// summary: GMock-based mock of ExtensionInstallPolicyService for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CLOUD_MOCK_EXTENSION_INSTALL_POLICY_SERVICE_H_
 #define CHROME_BROWSER_POLICY_CLOUD_MOCK_EXTENSION_INSTALL_POLICY_SERVICE_H_
 

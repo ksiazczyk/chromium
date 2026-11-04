@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device management service configuration implementation
+// summary: Implements the device management service configuration that supplies the DM server and reporting server URLs plus agent and platform parameters for device management requests.
+// ---
+
 #include "chrome/browser/policy/device_management_service_configuration.h"
 
 #include <stdint.h>

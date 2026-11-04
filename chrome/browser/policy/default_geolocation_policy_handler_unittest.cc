@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default geolocation policy handler unit tests
+// summary: Parameterized unit tests checking how DefaultGeolocationSetting translates to the ARC location preference with the privacy hub feature enabled and disabled.
+// ---
+
 #include "chrome/browser/policy/default_geolocation_policy_handler.h"
 
 #include <memory>

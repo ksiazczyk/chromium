@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy origin allowlist helper implementation
+// summary: Implements IsOriginInAllowlist, which checks whether a URL matches a policy-controlled allowlist pref with an optional always-allow pref.
+// ---
+
 #include "chrome/browser/policy/policy_util.h"
 
 #include <stdint.h>

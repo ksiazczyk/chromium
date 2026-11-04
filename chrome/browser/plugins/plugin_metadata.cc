@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin metadata implementation
+// summary: Implements the PluginMetadata constructor and destructor for a class holding a plugin's identifier, name, and security status.
+// ---
+
 #include "chrome/browser/plugins/plugin_metadata.h"
 
 #include <string>

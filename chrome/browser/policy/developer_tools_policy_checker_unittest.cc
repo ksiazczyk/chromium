@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Developer tools policy checker unit tests
+// summary: Unit tests verifying URL blocklist and allowlist matching behavior of the developer tools policy checker.
+// ---
+
 #include "chrome/browser/policy/developer_tools_policy_checker.h"
 
 #include "base/values.h"

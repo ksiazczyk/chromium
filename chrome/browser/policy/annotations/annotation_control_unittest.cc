@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnotationControl unit tests
+// summary: Tests IsBlockedByPolicies for default, matching, mismatching, and multi-policy cases, and that non-boolean policies are rejected.
+// ---
+
 #include "chrome/browser/policy/annotations/annotation_control.h"
 
 #include "base/test/gtest_util.h"

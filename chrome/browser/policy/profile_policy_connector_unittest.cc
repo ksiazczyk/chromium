@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile policy connector unit tests
+// summary: Unit tests for ProfilePolicyConnector covering policy providers, initialization waiting, and profile affiliation histograms.
+// ---
+
 #include "chrome/browser/policy/profile_policy_connector.h"
 
 #include <memory>

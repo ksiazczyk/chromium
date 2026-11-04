@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configuration policy handler list factory header
+// summary: Declares BuildHandlerList, which assembles the platform-specific list of configuration policy handlers for Chrome.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CONFIGURATION_POLICY_HANDLER_LIST_FACTORY_H_
 #define CHROME_BROWSER_POLICY_CONFIGURATION_POLICY_HANDLER_LIST_FACTORY_H_
 

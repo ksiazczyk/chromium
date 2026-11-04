@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android user policy sign-in service implementation
+// summary: Implements the Android specialization of UserPolicySigninService, handling profile readiness, identity changes, and cloud policy registration for signed-in users.
+// ---
+
 #include "chrome/browser/policy/cloud/user_policy_signin_service_mobile.h"
 
 #include <memory>

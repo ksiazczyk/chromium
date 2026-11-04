@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome policy blocklist service factory
+// summary: Profile-keyed service factory creating the policy URL blocklist service, with special handling for ChromeOS Ash and incognito blocklist managers.
+// ---
+
 #include "chrome/browser/policy/chrome_policy_blocklist_service_factory.h"
 
 #include <memory>

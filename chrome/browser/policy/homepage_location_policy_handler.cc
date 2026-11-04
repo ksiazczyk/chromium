@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Homepage location policy handler implementation
+// summary: Implements the handler that validates the HomepageLocation policy URL and applies it to the homepage preference.
+// ---
+
 #include "chrome/browser/policy/homepage_location_policy_handler.h"
 
 #include <memory>

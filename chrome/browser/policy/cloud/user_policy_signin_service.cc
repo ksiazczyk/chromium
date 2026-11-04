@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy signin service implementation
+// summary: Implements the desktop UserPolicySigninService that initializes cloud policy management for signed-in users and observes profile and identity changes.
+// ---
+
 #include "chrome/browser/policy/cloud/user_policy_signin_service.h"
 
 #include <memory>

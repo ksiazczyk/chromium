@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemaRegistryService class declaration
+// summary: Declares the KeyedService that owns a SchemaRegistry for a profile and exposes access to that registry.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_SCHEMA_REGISTRY_SERVICE_H_
 #define CHROME_BROWSER_POLICY_SCHEMA_REGISTRY_SERVICE_H_
 

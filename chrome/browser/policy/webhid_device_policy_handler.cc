@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebHID device policy handler
+// summary: Implements the schema-validating handler for WebHID allow-devices policies, checking URL validity in policy values and applying them to preferences.
+// ---
+
 #include "chrome/browser/policy/webhid_device_policy_handler.h"
 
 #include <memory>

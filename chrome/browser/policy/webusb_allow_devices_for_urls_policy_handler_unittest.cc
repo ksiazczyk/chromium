@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUSB allow devices for URLs policy handler unit tests
+// summary: Unit tests covering valid and invalid WebUsbAllowDevicesForUrls policy values, including device IDs, URL counts, and unknown properties.
+// ---
+
 #include "chrome/browser/policy/webusb_allow_devices_for_urls_policy_handler.h"
 
 #include <memory>

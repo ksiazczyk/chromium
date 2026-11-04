@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PluginUtils header
+// summary: Declares PluginUtils helpers for plugin content settings and for mapping MIME types to the extension IDs allowed to handle them, including embedded-use cases.
+// ---
+
 #ifndef CHROME_BROWSER_PLUGINS_PLUGIN_UTILS_H_
 #define CHROME_BROWSER_PLUGINS_PLUGIN_UTILS_H_
 

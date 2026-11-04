@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Plugin info host unit test
+// summary: Unit tests for PluginInfoHostImpl using a fake plugin service filter to verify plugin status decisions and content setting behavior.
+// ---
+
 #include "chrome/browser/plugins/plugin_info_host_impl.h"
 
 #include <map>

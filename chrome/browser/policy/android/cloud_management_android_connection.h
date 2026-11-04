@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud management Android connection header
+// summary: Declares GetClientId, which returns the client ID used in DM token generation for Android cloud management.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_ANDROID_CLOUD_MANAGEMENT_ANDROID_CONNECTION_H_
 #define CHROME_BROWSER_POLICY_ANDROID_CLOUD_MANAGEMENT_ANDROID_CONNECTION_H_
 

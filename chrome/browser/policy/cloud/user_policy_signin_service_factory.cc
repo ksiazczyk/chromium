@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy signin service factory
+// summary: Implements the profile-keyed service factory that creates a UserPolicySigninService per profile, wiring the device management service and identity manager.
+// ---
+
 #include "chrome/browser/policy/cloud/user_policy_signin_service_factory.h"
 
 #include "base/memory/ref_counted.h"

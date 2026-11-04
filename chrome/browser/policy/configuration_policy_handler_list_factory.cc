@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configuration policy handler list factory
+// summary: Builds Chrome's configuration policy handler list, wiring handlers for preferences across bookmarks, network, privacy, autofill, and other browser areas.
+// ---
+
 #include "chrome/browser/policy/configuration_policy_handler_list_factory.h"
 
 #include <limits.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local network access IP address space overrides policy handler unit tests
+// summary: Unit tests checking valid and invalid IP address space override entries and the resulting policy error messages.
+// ---
+
 #include "chrome/browser/policy/local_network_access_ip_address_space_overrides_policy_handler.h"
 
 #include "base/values.h"

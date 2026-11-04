@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS color mode policy handler implementation
+// summary: Implements the OsColorMode policy handler that validates light, dark, and auto values and maps them to ChromeOS dark mode preferences.
+// ---
+
 #include "chrome/browser/policy/os_color_mode_policy_handler.h"
 
 #include <algorithm>

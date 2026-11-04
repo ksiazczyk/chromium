@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for policy browser test utilities
+// summary: Declares the PolicyTest base class, app termination observer, and scoped domain enterprise management helper used by policy browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_POLICY_TEST_UTILS_H_
 #define CHROME_BROWSER_POLICY_POLICY_TEST_UTILS_H_
 

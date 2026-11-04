@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension developer mode policy handler implementation
+// summary: Implements the handler that applies the ExtensionDeveloperModeSettings policy to disable the extensions developer mode preference when disallowed.
+// ---
+
 #include "chrome/browser/policy/extension_developer_mode_policy_handler.h"
 
 #include "base/values.h"

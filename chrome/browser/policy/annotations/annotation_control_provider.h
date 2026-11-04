@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnotationControlProvider class header
+// summary: Declares a provider that lazily initializes and returns a map of annotation hash codes to their AnnotationControl objects.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_ANNOTATIONS_ANNOTATION_CONTROL_PROVIDER_H_
 #define CHROME_BROWSER_POLICY_ANNOTATIONS_ANNOTATION_CONTROL_PROVIDER_H_
 

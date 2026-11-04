@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows policy path variable expansion
+// summary: Windows implementation that delegates variable expansion to install_static and reads the UserDataDir policy from the registry with HKLM precedence.
+// ---
+
 #include "chrome/browser/policy/policy_path_parser.h"
 
 #include <shlobj.h>

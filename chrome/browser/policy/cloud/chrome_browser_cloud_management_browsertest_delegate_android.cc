@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android delegate for CBCM browser tests
+// summary: Android implementation of the CBCM browser test delegate, including an observer that waits for enrollment confirmation.
+// ---
+
 #include "chrome/browser/policy/cloud/chrome_browser_cloud_management_browsertest_delegate_android.h"
 
 #include "base/run_loop.h"

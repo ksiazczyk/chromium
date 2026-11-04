@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud policy test utilities implementation
+// summary: Implements GetExpectedDefaultPolicy, which fills a PolicyMap with platform-specific default enterprise policies for tests.
+// ---
+
 #include "chrome/browser/policy/cloud/cloud_policy_test_utils.h"
 #include "base/values.h"
 #include "build/build_config.h"

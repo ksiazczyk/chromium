@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CloudManagementAndroidConnection unit tests
+// summary: Robolectric unit tests verifying client ID generation and reuse from shared preferences in CloudManagementAndroidConnection.
+// ---
+
 package org.chromium.chrome.browser.policy;
 
 import org.junit.Assert;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugins part of ChromeContentBrowserClient implementation
+// summary: Binds the PluginInfoHost Mojo interface for each render frame host, creating a PluginInfoHostImpl backed by the frame's profile.
+// ---
+
 #include "chrome/browser/plugins/chrome_content_browser_client_plugins_part.h"
 
 #include <memory>

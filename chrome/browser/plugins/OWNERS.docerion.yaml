@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the plugins directory
+summary: Lists the default owner and per-file owner delegations for PDF and permission context changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileTokenPolicyWebSigninService implementation
+// summary: Implements a per-profile service that registers the profile's cloud policy client with a DM token during web signin and initializes cloud policy management.
+// ---
+
 #include "chrome/browser/policy/cloud/profile_token_policy_web_signin_service.h"
 
 #include "base/functional/bind.h"

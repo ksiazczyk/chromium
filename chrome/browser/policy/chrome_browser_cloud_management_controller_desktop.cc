@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBCM controller desktop implementation
+// summary: Desktop implementation of the ChromeBrowserCloudManagementController delegate, setting up policy invalidators, remote commands, reporting, and device trust services.
+// ---
+
 #include "chrome/browser/policy/chrome_browser_cloud_management_controller_desktop.h"
 
 #include <stdint.h>

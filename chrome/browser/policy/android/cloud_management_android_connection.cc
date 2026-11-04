@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud management Android connection implementation
+// summary: Native C++ implementation that retrieves the cloud management client ID from Java through a JNI bridge.
+// ---
+
 #include "chrome/browser/policy/android/cloud_management_android_connection.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FM registration token uploader unit tests
+// summary: Unit tests for the FM registration token uploader verifying token upload requests, retry behavior, and success and failure handling.
+// ---
+
 #include "chrome/browser/policy/cloud/fm_registration_token_uploader.h"
 
 #include <stdint.h>

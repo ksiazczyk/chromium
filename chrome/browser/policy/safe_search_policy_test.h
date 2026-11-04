@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Search policy test helper header
+// summary: Declares the SafeSearchPolicyTest helper class for applying and checking Safe Search policies in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_SAFE_SEARCH_POLICY_TEST_H_
 #define CHROME_BROWSER_POLICY_SAFE_SEARCH_POLICY_TEST_H_
 

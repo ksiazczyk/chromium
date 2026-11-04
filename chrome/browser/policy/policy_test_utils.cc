@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared implementation for policy browser tests
+// summary: Implements the PolicyTest browser test base class with helpers for setting policies, fetching subresources, and flushing URL blocklist updates.
+// ---
+
 #include "chrome/browser/policy/policy_test_utils.h"
 
 #include <optional>

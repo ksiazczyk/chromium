@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android policy build targets
+summary: GN build configuration defining JNI generation, Java libraries, Robolectric tests, and the native static library for Android cloud management policy code.

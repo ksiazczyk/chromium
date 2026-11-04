@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL blocking policy test utilities
+// summary: Test base class extending PolicyTest with helpers to verify that URLs and view-source pages are blocked by policy and show the correct error page.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_URL_BLOCKING_POLICY_TEST_UTILS_H_
 #define CHROME_BROWSER_POLICY_URL_BLOCKING_POLICY_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome browser policy connector unit tests
+// summary: Unit test verifying that HasMachineLevelPolicies reports machine-level policies set by a test policy provider on non-ChromeOS platforms.
+// ---
+
 #include "chrome/browser/policy/chrome_browser_policy_connector.h"
 
 #include <memory>

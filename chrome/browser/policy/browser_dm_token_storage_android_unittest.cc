@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Android browser DM token storage
+// summary: Tests initialization of client and enrollment tokens and saving of DM tokens for the Android storage implementation.
+// ---
+
 #include "chrome/browser/policy/browser_dm_token_storage_android.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Developer tools policy checker factory declaration
+// summary: Declares the ProfileKeyedServiceFactory that provides per-profile DeveloperToolsPolicyChecker instances.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_DEVELOPER_TOOLS_POLICY_CHECKER_FACTORY_H_
 #define CHROME_BROWSER_POLICY_DEVELOPER_TOOLS_POLICY_CHECKER_FACTORY_H_
 

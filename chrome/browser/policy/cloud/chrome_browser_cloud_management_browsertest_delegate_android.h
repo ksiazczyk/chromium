@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android CBCM browser test delegate header
+// summary: Declares the Android specialization of the Chrome Browser Cloud Management browser test delegate.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CLOUD_CHROME_BROWSER_CLOUD_MANAGEMENT_BROWSERTEST_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_POLICY_CLOUD_CHROME_BROWSER_CLOUD_MANAGEMENT_BROWSERTEST_DELEGATE_ANDROID_H_
 

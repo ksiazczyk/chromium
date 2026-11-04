@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF iframe navigation throttle browser test
+// summary: Browser tests verifying that the PDF iframe navigation throttle navigates embedded PDFs to HTML fallback content, including a disabled prerendering case.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/memory/raw_ptr.h"
 #include "base/strings/escape.h"

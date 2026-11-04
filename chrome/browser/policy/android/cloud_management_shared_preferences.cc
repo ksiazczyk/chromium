@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud management shared preferences implementation
+// summary: Native C++ implementation that saves, deletes, and reads the DM token in Android shared preferences via JNI.
+// ---
+
 #include "chrome/browser/policy/android/cloud_management_shared_preferences.h"
 
 #include "base/android/jni_android.h"

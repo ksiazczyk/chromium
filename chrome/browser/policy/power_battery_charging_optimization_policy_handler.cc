@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery charging optimization policy handler implementation
+// summary: Validates the DevicePowerBatteryChargingOptimization policy and maps its modes to adaptive charging and charge limit preferences on ChromeOS.
+// ---
+
 #include "chrome/browser/policy/power_battery_charging_optimization_policy_handler.h"
 
 #include "ash/constants/ash_pref_names.h"

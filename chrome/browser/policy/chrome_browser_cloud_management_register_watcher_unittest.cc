@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome browser cloud management register watcher unit tests
+// summary: Unit tests for the enrollment register watcher using a fake controller and a mock startup dialog to cover success, failure, and cancellation paths.
+// ---
+
 #include "chrome/browser/policy/chrome_browser_cloud_management_register_watcher.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension install policy service browser tests
+// summary: Browser tests verifying extension install policy enforcement for user and machine-level cloud policy using an embedded policy test server.
+// ---
+
 #include "chrome/browser/policy/cloud/extension_install_policy_service.h"
 
 #include "base/test/test_future.h"

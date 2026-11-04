@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux browser DM token storage delegate declaration
+// summary: Declares the Linux BrowserDMTokenStorage delegate that derives the client ID from /etc/machine-id and stores DM tokens.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_BROWSER_DM_TOKEN_STORAGE_LINUX_H_
 #define CHROME_BROWSER_POLICY_BROWSER_DM_TOKEN_STORAGE_LINUX_H_
 

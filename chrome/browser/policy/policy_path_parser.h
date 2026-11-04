@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy path variable expansion header
+// summary: Declares ExpandPathVariables for substituting variables like ${user_name} in policy path strings and CheckUserDataDirPolicy for early UserDataDir policy reads.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_POLICY_PATH_PARSER_H_
 #define CHROME_BROWSER_POLICY_POLICY_PATH_PARSER_H_
 

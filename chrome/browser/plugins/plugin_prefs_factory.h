@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PluginPrefsFactory class declaration
+// summary: Declares the RefcountedProfileKeyedServiceFactory that associates PluginPrefs instances with browser profiles and supports testing profiles.
+// ---
+
 #ifndef CHROME_BROWSER_PLUGINS_PLUGIN_PREFS_FACTORY_H_
 #define CHROME_BROWSER_PLUGINS_PLUGIN_PREFS_FACTORY_H_
 

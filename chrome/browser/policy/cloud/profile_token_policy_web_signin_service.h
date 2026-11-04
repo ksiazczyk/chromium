@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileTokenPolicyWebSigninService declaration
+// summary: Declares ProfileTokenPolicyWebSigninService, which registers profile cloud policy via DM token at signin and observes profile manager events.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CLOUD_PROFILE_TOKEN_POLICY_WEB_SIGNIN_SERVICE_H_
 #define CHROME_BROWSER_POLICY_CLOUD_PROFILE_TOKEN_POLICY_WEB_SIGNIN_SERVICE_H_
 

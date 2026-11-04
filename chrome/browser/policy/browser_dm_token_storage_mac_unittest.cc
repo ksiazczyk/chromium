@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac browser DM token storage unit tests
+// summary: Unit tests for the macOS DM token storage delegate covering client ID init, token saving, and token deletion.
+// ---
+
 #include "chrome/browser/policy/browser_dm_token_storage_mac.h"
 
 #include <iostream>

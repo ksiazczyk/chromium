@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnotationControl implementation
+// summary: Implements AnnotationControl, which checks whether all configured boolean policy values in a PolicyMap block a network annotation.
+// ---
+
 #include "chrome/browser/policy/annotations/annotation_control.h"
 
 namespace policy {

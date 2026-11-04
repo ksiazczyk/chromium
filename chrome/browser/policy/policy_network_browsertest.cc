@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy network browser tests
+// summary: Browser tests covering how enterprise policies affect network behavior such as DNS, TLS, and network service settings across platforms.
+// ---
+
 #include <string_view>
 
 #include "base/compiler_specific.h"

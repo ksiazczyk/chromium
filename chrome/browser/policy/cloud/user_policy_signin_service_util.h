@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy sign-in service utilities declaration
+// summary: Declares helper functions used by the user policy sign-in services for sign-out profile updates, affiliated DM token lookup, and profile identification.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CLOUD_USER_POLICY_SIGNIN_SERVICE_UTIL_H_
 #define CHROME_BROWSER_POLICY_CLOUD_USER_POLICY_SIGNIN_SERVICE_UTIL_H_
 

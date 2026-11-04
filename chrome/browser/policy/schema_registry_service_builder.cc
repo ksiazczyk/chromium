@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Schema registry service builder
+// summary: Builds SchemaRegistryService instances for browser contexts, including ChromeOS handling for device-local accounts and signin or lock screen profiles.
+// ---
+
 #include "chrome/browser/policy/schema_registry_service_builder.h"
 
 #include <memory>

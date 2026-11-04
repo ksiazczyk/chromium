@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript policy handler implementation
+// summary: Implements the handler that resolves JavaScript policies into the managed default JavaScript content setting and reports conflicting policies.
+// ---
+
 #include "chrome/browser/policy/javascript_policy_handler.h"
 
 #include "base/values.h"

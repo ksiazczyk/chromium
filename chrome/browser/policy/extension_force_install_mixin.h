@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension force install mixin
+// summary: Declares a browser test mixin that hosts CRX packages and update manifests, configures force-install policies, and offers wait modes for installation and updates.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_EXTENSION_FORCE_INSTALL_MIXIN_H_
 #define CHROME_BROWSER_POLICY_EXTENSION_FORCE_INSTALL_MIXIN_H_
 

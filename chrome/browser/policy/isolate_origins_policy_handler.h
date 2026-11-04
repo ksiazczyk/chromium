@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolate origins policy handler header
+// summary: Declares the handler that maps IsolateOrigins-related policies to the site isolation preference based on device memory.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_ISOLATE_ORIGINS_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_ISOLATE_ORIGINS_POLICY_HANDLER_H_
 

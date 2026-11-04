@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebHID device policy handler declarations
+// summary: Declares the WebHidDevicePolicyHandler class that handles the WebHidAllowDevicesForUrls, login-screen, and HID-usages policy variants.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_WEBHID_DEVICE_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_WEBHID_DEVICE_POLICY_HANDLER_H_
 

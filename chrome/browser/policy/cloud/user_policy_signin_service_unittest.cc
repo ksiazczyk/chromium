@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User policy sign-in service unit tests
+// summary: Unit tests for UserPolicySigninService covering policy registration, fetching, and sign-in behavior for desktop and Android variants.
+// ---
+
 #include <memory>
 #include <utility>
 

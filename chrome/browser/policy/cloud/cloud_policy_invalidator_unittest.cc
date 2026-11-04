@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CloudPolicyInvalidator unit tests
+// summary: Unit tests covering invalidation handling, policy refresh scheduling, and metrics of the cloud policy invalidator.
+// ---
+
 #include "chrome/browser/policy/cloud/cloud_policy_invalidator.h"
 
 #include <stdint.h>

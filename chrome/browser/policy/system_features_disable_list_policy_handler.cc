@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemFeaturesDisableList policy handler
+// summary: Applies the ChromeOS SystemFeaturesDisableList policy, converting feature names to enum values and updating preferences and histograms.
+// ---
+
 #include "system_features_disable_list_policy_handler.h"
 
 #include "ash/constants/ash_pref_names.h"

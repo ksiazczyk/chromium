@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver policy handler implementation
+// summary: Maps the BatterySaverModeAvailability policy to battery saver preferences in Chrome and ChromeOS, treating the deprecated on-battery value as below-threshold mode.
+// ---
+
 #include "chrome/browser/policy/battery_saver_policy_handler.h"
 
 #include "base/numerics/safe_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebHID device policy handler unit tests
+// summary: Unit tests verifying validation and preference application of the WebHID allow-devices-for-URLs and allow-devices-with-HID-usages policies.
+// ---
+
 #include "chrome/browser/policy/webhid_device_policy_handler.h"
 
 #include <memory>

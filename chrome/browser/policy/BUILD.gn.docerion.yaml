@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Chrome browser policy directory
+summary: GN build file defining source sets and dependencies for policy handlers, path parsing, ONC networking, and policy utilities in the Chrome browser policy directory.

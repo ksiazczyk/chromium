@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud policy browser tests
+// summary: Browser tests for user cloud policy fetch, invalidation and policy service behavior across ChromeOS and other platforms.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

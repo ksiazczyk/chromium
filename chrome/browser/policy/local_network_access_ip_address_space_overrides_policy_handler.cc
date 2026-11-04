@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local network access IP address space overrides policy handler
+// summary: Implements the policy handler that validates LocalNetworkAccessIpAddressSpaceOverrides list entries and applies them to the managed preference.
+// ---
+
 #include "chrome/browser/policy/local_network_access_ip_address_space_overrides_policy_handler.h"
 
 #include "base/values.h"

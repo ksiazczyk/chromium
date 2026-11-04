@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileTokenPolicyWebSigninServiceFactory declaration
+// summary: Declares the singleton factory that owns and creates ProfileTokenPolicyWebSigninService instances as profiles are created and shut down.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CLOUD_PROFILE_TOKEN_POLICY_WEB_SIGNIN_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_POLICY_CLOUD_PROFILE_TOKEN_POLICY_WEB_SIGNIN_SERVICE_FACTORY_H_
 

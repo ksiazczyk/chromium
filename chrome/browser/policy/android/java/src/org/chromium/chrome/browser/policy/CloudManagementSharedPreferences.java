@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudManagementSharedPreferences
+// summary: Reads and writes cloud management preferences such as the DM token and client ID through Chrome shared preferences.
+// ---
+
 package org.chromium.chrome.browser.policy;
 
 import org.jni_zero.CalledByNative;

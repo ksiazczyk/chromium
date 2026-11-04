@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared PDF URL opening helper declaration
+// summary: Declares CanOpenPdfUrl, the shared code between PluginObserver and PluginObserverAndroid for validating and opening PDF URLs.
+// ---
+
 #ifndef CHROME_BROWSER_PLUGINS_PLUGIN_OBSERVER_COMMON_H_
 #define CHROME_BROWSER_PLUGINS_PLUGIN_OBSERVER_COMMON_H_
 

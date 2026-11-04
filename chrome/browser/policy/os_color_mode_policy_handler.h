@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS color mode policy handler header
+// summary: Declares the OsColorModePolicyHandler class that checks and applies the OsColorMode policy for ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_OS_COLOR_MODE_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_OS_COLOR_MODE_POLICY_HANDLER_H_
 

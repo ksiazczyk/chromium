@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed account restrictions policy handler
+// summary: Maps the ManagedAccountsSigninRestriction policy to preferences and records whether its scope is machine or user account.
+// ---
+
 #include "chrome/browser/policy/managed_account_policy_handler.h"
 #include "chrome/common/pref_names.h"
 #include "components/policy/core/browser/policy_error_map.h"

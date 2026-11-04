@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBCM invalidations initializer implementation
+// summary: Implements CBCMInvalidationsInitializer, which fetches and stores the machine-level device service account token needed for CBCM policy invalidations.
+// ---
+
 #include "chrome/browser/policy/cbcm_invalidations_initializer.h"
 
 #include "base/memory/raw_ptr.h"

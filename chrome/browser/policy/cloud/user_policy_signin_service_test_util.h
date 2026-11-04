@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake user policy sign-in service declaration
+// summary: Declares FakeUserPolicySigninService, a test double that simulates policy registration and fetching with configurable DM token and client ID.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CLOUD_USER_POLICY_SIGNIN_SERVICE_TEST_UTIL_H_
 #define CHROME_BROWSER_POLICY_CLOUD_USER_POLICY_SIGNIN_SERVICE_TEST_UTIL_H_
 

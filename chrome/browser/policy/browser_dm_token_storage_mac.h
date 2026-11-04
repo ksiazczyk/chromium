@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac browser DM token storage delegate declaration
+// summary: Declares the macOS BrowserDMTokenStorage delegate interface for initializing, saving, and deleting DM tokens.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_BROWSER_DM_TOKEN_STORAGE_MAC_H_
 #define CHROME_BROWSER_POLICY_BROWSER_DM_TOKEN_STORAGE_MAC_H_
 

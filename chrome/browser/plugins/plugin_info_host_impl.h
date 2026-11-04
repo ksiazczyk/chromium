@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin info host header
+// summary: Declares PluginInfoHostImpl, the browser-side handler of the PluginInfoHost Mojo interface that resolves plugin availability for a render frame.
+// ---
+
 #ifndef CHROME_BROWSER_PLUGINS_PLUGIN_INFO_HOST_IMPL_H_
 #define CHROME_BROWSER_PLUGINS_PLUGIN_INFO_HOST_IMPL_H_
 

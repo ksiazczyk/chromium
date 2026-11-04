@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBCM controller Android implementation
+// summary: Android implementation of the ChromeBrowserCloudManagementController delegate, wiring DM token storage, certificate provisioning, and device trust key management.
+// ---
+
 #include "chrome/browser/policy/chrome_browser_cloud_management_controller_android.h"
 
 #include <utility>

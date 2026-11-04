@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the policy folder
+summary: Points to the common policy component metadata mixins shared by the Chrome browser policy directory.

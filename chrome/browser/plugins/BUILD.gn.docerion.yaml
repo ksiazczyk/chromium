@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the browser plugins source sets
+summary: Defines the plugins, impl, test_support and unit_tests source sets with their sources and dependencies, gated by the enable_plugins build flag and Android conditions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default sensors setting policy handler header
+// summary: Declares the DefaultSensorsSettingPolicyHandler class that applies the DefaultSensorsSetting policy to preferences.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_DEFAULT_SENSORS_SETTING_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_DEFAULT_SENSORS_SETTING_POLICY_HANDLER_H_
 

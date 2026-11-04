@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux browser DM token storage implementation
+// summary: Implements DM token storage for Linux, persisting tokens under the user data directory and deriving the client ID from the hashed machine ID.
+// ---
+
 #include "chrome/browser/policy/browser_dm_token_storage_linux.h"
 
 #include <string>

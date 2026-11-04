@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restricted managed guest session policy provider
+// summary: Implements a ChromeOS policy provider that applies mandatory policy overrides when a restricted managed guest session is enabled.
+// ---
+
 #include "chrome/browser/policy/restricted_mgs_policy_provider.h"
 
 #include <utility>
