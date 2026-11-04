@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_sk.xtb.
+type: data
+title: Android restore tabs strings (Slovak)
+summary: Slovak translation bundle with localized strings for the Chrome Android tab restore flow, covering device selection, tab counts and accessibility descriptions.

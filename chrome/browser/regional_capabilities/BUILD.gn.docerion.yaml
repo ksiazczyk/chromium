@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for regional capabilities
+summary: Defines GN source sets for the regional capabilities service, its metrics provider, platform-specific clients, and unit and browser tests.

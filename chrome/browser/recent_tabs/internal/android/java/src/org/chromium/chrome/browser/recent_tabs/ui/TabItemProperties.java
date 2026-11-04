@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabItemProperties
+// summary: Property model for a tab entry in the review tabs detail screen, exposing the foreign session tab, selection state and click listener keys.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import org.chromium.build.annotations.NullMarked;

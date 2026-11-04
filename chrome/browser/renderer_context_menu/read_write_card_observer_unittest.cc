@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read write card observer unit tests
+// summary: Unit tests for ReadWriteCardObserver that use a test controller to verify context menu shown, bounds changed, and dismiss handling.
+// ---
+
 #include "chrome/browser/renderer_context_menu/read_write_card_observer.h"
 
 #include <cstddef>

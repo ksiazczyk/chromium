@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reduce Accept Language service factory implementation
+// summary: Implements the profile-keyed factory that builds ReduceAcceptLanguageService instances from content settings, prefs, and incognito profile state.
+// ---
+
 #include "chrome/browser/reduce_accept_language/reduce_accept_language_factory.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

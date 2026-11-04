@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadingListModelFactory header
+// summary: Declares the singleton factory that owns ReadingListModels and associates them with browser contexts.
+// ---
+
 #ifndef CHROME_BROWSER_READING_LIST_READING_LIST_MODEL_FACTORY_H_
 #define CHROME_BROWSER_READING_LIST_READING_LIST_MODEL_FACTORY_H_
 

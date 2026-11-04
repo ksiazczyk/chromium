@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reduce Accept Language browser build rules
+summary: Defines GN source sets for the Reduce Accept Language browser factory, its implementation, and the unit and browser tests with their dependencies.

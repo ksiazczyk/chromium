@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadingListManagerImpl class declaration
+// summary: Declares the ReadingListManagerImpl class, which maintains a one-level bookmark tree synced with the reading list model and reports changes to observers.
+// ---
+
 #ifndef CHROME_BROWSER_READING_LIST_ANDROID_READING_LIST_MANAGER_IMPL_H_
 #define CHROME_BROWSER_READING_LIST_ANDROID_READING_LIST_MANAGER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything context menu content type unit tests
+// summary: Unit tests verifying which menu item groups ContextMenuContentTypeReadAnything supports for copy, link, search and developer actions.
+// ---
+
 #include "chrome/browser/renderer_context_menu/context_menu_content_type_read_anything.h"
 
 #include <memory>

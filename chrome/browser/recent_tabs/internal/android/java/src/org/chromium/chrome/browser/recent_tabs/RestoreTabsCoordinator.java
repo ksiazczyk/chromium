@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restore Tabs coordinator
+// summary: Coordinator for the Restore Tabs on FRE feature that wires the model, mediator, promo and detail screens, and the view flipper.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import android.content.Context;

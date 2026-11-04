@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDevicePaneView
+// summary: Android FrameLayout view that conditionally shows an empty state with illustration and text for the cross device pane in recent tabs.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reduce Accept Language service unit tests
+// summary: Unit tests for the Reduce Accept Language service covering accept-language list retrieval, incognito behavior, and persisting languages per host.
+// ---
+
 #include "chrome/browser/reduce_accept_language/reduce_accept_language_factory.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

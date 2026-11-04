@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracking metadata for the reading list Android directory
+summary: Declares the Monorail component, OS, and Buganizer component used for bugs filed against this directory.

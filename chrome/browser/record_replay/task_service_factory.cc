@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskServiceFactory implementation
+// summary: Implements the per-profile TaskService factory for the record_replay feature, wiring TaskStore and TaskParametersExtractor dependencies plus an execution callback, gated by the kRecordReplayBase feature flag.
+// ---
+
 #include "chrome/browser/record_replay/task_service_factory.h"
 
 #include "base/feature_list.h"

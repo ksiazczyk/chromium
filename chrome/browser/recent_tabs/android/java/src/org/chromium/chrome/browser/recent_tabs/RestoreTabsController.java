@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreTabsController interface
+// summary: Interface for a restore tabs promo controller that destroys at lifecycle end and shows the promo home screen.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import org.chromium.build.annotations.NullMarked;

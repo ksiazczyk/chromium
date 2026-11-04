@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for reduce_accept_language
+summary: Restricts Blink includes in this browser directory, permitting them only for the reduce accept language component code and browser tests.

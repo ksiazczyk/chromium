@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for renderer context menu
+summary: Defines GN source_set targets for the renderer context menu, including a separate bubble_models target that avoids dependency cycles through //chrome/browser/ui.

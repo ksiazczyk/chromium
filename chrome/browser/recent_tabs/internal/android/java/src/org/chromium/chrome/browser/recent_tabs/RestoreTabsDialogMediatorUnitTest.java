@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Restore Tabs dialog mediator unit tests
+// summary: Unit tests for RestoreTabsDialogMediator, verifying dialog model setup and behavior of the restore tabs promo shown as a modal dialog on XR devices.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import static org.mockito.Mockito.verify;

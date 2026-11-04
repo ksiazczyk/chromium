@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings.grd.
+type: data
+title: Android restore tabs string resources (GRIT)
+summary: GRIT resource file defining localized Android strings for the recent tabs restore feature, listing per-locale output files for many languages.

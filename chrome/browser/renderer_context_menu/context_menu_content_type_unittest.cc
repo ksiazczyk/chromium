@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu content type unit tests
+// summary: Unit tests checking which item groups the base ContextMenuContentType supports for links, selections, editable fields and media types.
+// ---
+
 #include <memory>
 
 #include "chrome/browser/renderer_context_menu/context_menu_content_type_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreTabsDetailItemDecoration
+// summary: RecyclerView item decoration that adds vertical spacing between items and picks a rounded background based on item position on the detail screens.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

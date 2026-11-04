@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabItemViewBinder
+// summary: Binds tab item properties to views on the review tabs detail sheet, including inflating the item layout and fetching favicons via a bind context.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import static org.chromium.chrome.browser.recent_tabs.ui.TabItemProperties.FOREIGN_SESSION_TAB;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS implementation of the regional capabilities service client
+// summary: Implements the ChromeOS client that derives a fallback country from VPD region data, returns the variations permanent country, and logs missing variation data histogram samples.
+// ---
+
 #include "chrome/browser/regional_capabilities/regional_capabilities_service_client_chromeos.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render view context menu implementation
+// summary: Implements Chrome's renderer context menu, building, updating, and executing menu items for web content across many browser features.
+// ---
+
 #include "chrome/browser/renderer_context_menu/render_view_context_menu.h"
 
 #include <stddef.h>

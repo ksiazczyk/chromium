@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu content type for Reading Mode
+// summary: Declares ContextMenuContentTypeReadAnything, which decides which context menu item groups are supported for Reading Mode.
+// ---
+
 #ifndef CHROME_BROWSER_RENDERER_CONTEXT_MENU_CONTEXT_MENU_CONTENT_TYPE_READ_ANYTHING_H_
 #define CHROME_BROWSER_RENDERER_CONTEXT_MENU_CONTEXT_MENU_CONTENT_TYPE_READ_ANYTHING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_ko.xtb.
+type: data
+title: Korean strings for Android tab restore UI
+summary: Korean translation bundle with UI strings for the Chrome Android recent tabs restore flow, covering device selection, tab review, and open/select actions.

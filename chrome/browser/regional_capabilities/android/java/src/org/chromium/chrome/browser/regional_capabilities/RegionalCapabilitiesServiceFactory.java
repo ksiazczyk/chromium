@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegionalCapabilitiesServiceFactory
+// summary: Factory that links a profile to its RegionalCapabilitiesService instance through JNI, with test overrides for mocking.
+// ---
+
 package org.chromium.chrome.browser.regional_capabilities;
 
 import org.jni_zero.JNINamespace;

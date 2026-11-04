@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskStoreFactory class declaration
+// summary: Declares the singleton ProfileKeyedServiceFactory that manages TaskStore creation and retrieval, one instance per Profile for the browser process lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_RECORD_REPLAY_TASK_STORE_FACTORY_H_
 #define CHROME_BROWSER_RECORD_REPLAY_TASK_STORE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu content type for Read Anything
+// summary: Implements the content type for the Read Anything side panel, allowing only copy, search provider, link and developer menu groups.
+// ---
+
 #include "chrome/browser/renderer_context_menu/context_menu_content_type_read_anything.h"
 
 ContextMenuContentTypeReadAnything::ContextMenuContentTypeReadAnything(

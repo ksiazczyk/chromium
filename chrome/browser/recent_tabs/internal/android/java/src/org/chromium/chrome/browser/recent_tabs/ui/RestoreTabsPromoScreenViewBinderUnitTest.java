@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RestoreTabsPromoScreenViewBinderUnitTest
+// summary: Robolectric unit tests verifying how the promo screen view binder reacts to property changes such as screen switches, selected device and tab counts.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import static org.mockito.Mockito.times;

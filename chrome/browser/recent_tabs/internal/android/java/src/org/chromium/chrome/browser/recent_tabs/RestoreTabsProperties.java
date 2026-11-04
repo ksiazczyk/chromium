@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restore Tabs promo UI properties
+// summary: Property keys and screen type definitions describing the state of the restore tabs promo UI, including visibility, current screen, and model lists.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import androidx.annotation.IntDef;

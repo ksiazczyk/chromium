@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadingListManagerImpl implementation
+// summary: Implements the reading list manager by syncing reading list entries into an in-memory bookmark tree and notifying observers of model changes.
+// ---
+
 #include "chrome/browser/reading_list/android/reading_list_manager_impl.h"
 
 #include <utility>

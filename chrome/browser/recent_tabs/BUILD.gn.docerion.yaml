@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Recent tabs Android build targets
+summary: GN build file defining Android library targets for the recent tabs restore feature, including the feature helper, JNI bindings, factories, and Robolectric unit tests.

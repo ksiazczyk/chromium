@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_it.xtb.
+type: data
+title: Italian translations for Android tab restore strings
+summary: XTB translation bundle with Italian localized strings for the Chrome Android tab restore flow, covering device selection, tab review, and open-tab actions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spelling menu observer declaration
+// summary: Declares SpellingMenuObserver, which listens to context menu events and adds spelling suggestions and spelling service controls to the menu.
+// ---
+
 #ifndef CHROME_BROWSER_RENDERER_CONTEXT_MENU_SPELLING_MENU_OBSERVER_H_
 #define CHROME_BROWSER_RENDERER_CONTEXT_MENU_SPELLING_MENU_OBSERVER_H_
 

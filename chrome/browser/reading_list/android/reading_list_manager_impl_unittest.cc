@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadingListManagerImpl unit tests
+// summary: Unit tests for ReadingListManagerImpl covering add, delete, read status, search, and observer notification behavior using a fake reading list model storage.
+// ---
+
 #include "chrome/browser/reading_list/android/reading_list_manager_impl.h"
 
 #include <cstdint>

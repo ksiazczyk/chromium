@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome record replay client implementation
+// summary: Implements the per-tab Chrome record replay client, wiring task discovery, driver binding, navigation handling, and user-facing toasts.
+// ---
+
 #include "chrome/browser/record_replay/chrome_record_replay_client.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrossDeviceListViewBinderUnitTest
+// summary: Robolectric unit tests for CrossDeviceListViewBinder verifying empty-state and list visibility switching.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import static org.junit.Assert.assertEquals;

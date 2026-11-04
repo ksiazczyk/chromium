@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility labels bubble model implementation
+// summary: Implements the confirmation bubble for opting in to the accessibility image labels service, updating profile preferences and opening the help page.
+// ---
+
 #include "chrome/browser/renderer_context_menu/accessibility_labels_bubble_model.h"
 
 #include "base/metrics/histogram_macros.h"

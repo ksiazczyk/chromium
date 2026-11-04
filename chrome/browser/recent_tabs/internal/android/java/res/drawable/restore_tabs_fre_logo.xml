@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Restore tabs first run experience logo
+summary: Vector drawable logo for the restore tabs first-run experience, drawn with restore tabs icon colors and showing device and sync imagery.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="150dp"
     android:height="100dp"

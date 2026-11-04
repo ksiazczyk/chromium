@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task parameters extractor factory header
+// summary: Declares the singleton profile-keyed factory that manages TaskParametersExtractor instances per profile.
+// ---
+
 #ifndef CHROME_BROWSER_RECORD_REPLAY_TASK_PARAMETERS_EXTRACTOR_FACTORY_H_
 #define CHROME_BROWSER_RECORD_REPLAY_TASK_PARAMETERS_EXTRACTOR_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_de.xtb.
+type: data
+title: German translations for Android restore tabs strings
+summary: German translation bundle for the Android tab restore flow, covering device selection and tab review and restore messages.

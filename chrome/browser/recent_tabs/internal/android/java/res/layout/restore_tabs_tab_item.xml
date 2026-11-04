@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Restore tabs tab item layout
+summary: List item layout for a single tab in the restore tabs review screen, showing a favicon, tab name, info text, and a selection checkbox.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

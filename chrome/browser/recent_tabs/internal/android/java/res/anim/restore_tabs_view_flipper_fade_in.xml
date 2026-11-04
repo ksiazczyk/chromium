@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Restore tabs view flipper fade-in animation
+summary: Android animation resource that fades the restore tabs view flipper in from fully transparent to opaque over 100 ms with an accelerate quad interpolator and a 118 ms start offset.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android"
   android:interpolator="@android:interpolator/accelerate_quad">
     <alpha

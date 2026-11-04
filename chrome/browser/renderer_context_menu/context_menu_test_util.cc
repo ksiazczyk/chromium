@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu test utility implementation
+// summary: Implements a helper that searches a menu model, including submenus, for the item with a given command ID.
+// ---
+
 #include "chrome/browser/renderer_context_menu/context_menu_test_util.h"
 
 #include <optional>

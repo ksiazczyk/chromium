@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Recent Tabs Restore Icon Colors
+summary: Android color resources for the restore tabs feature, defining the icon background and icon colors from the material primary palette.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Restore Tabs Icon Colors-->
     <color name="restore_tabs_icon_bg_color">@color/material_primary_95</color>

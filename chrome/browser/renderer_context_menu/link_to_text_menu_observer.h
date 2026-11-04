@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link to Text context menu observer header
+// summary: Declares LinkToTextMenuObserver, which adds the Copy Link to Text item and manages link generation, resharing and highlight removal.
+// ---
+
 #ifndef CHROME_BROWSER_RENDERER_CONTEXT_MENU_LINK_TO_TEXT_MENU_OBSERVER_H_
 #define CHROME_BROWSER_RENDERER_CONTEXT_MENU_LINK_TO_TEXT_MENU_OBSERVER_H_
 

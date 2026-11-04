@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RestoreTabsCoordinator unit tests
+// summary: Robolectric unit tests for RestoreTabsCoordinator covering home screen display, view flipper screen changes, and visibility handling.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import static org.mockito.ArgumentMatchers.any;

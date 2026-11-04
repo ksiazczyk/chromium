@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Recent tabs include rules
+summary: DEPS file allowing code in this directory to depend on the Android bottomsheet component under components/browser_ui.

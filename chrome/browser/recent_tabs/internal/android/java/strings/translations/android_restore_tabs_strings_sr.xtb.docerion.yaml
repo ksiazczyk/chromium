@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_sr.xtb.
+type: data
+title: Android restore tabs strings (Serbian Cyrillic)
+summary: Serbian Cyrillic translation bundle with localized strings for the Chrome Android tab restore flow, covering device selection, tab counts and accessibility descriptions.

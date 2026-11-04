@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spelling confirmation bubble model implementation
+// summary: Implements the confirmation bubble model that lets users opt in or out of the Google spelling service and updates the spellcheck preferences.
+// ---
+
 #include "chrome/browser/renderer_context_menu/spelling_bubble_model.h"
 
 #include "chrome/browser/profiles/profile.h"

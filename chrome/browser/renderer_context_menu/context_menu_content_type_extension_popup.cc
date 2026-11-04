@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu content type for extension popups
+// summary: Implements the content type for extension popups, allowing link, image, editable, copy, search provider, developer and extension menu groups.
+// ---
+
 #include "chrome/browser/renderer_context_menu/context_menu_content_type_extension_popup.h"
 
 ContextMenuContentTypeExtensionPopup::ContextMenuContentTypeExtensionPopup(

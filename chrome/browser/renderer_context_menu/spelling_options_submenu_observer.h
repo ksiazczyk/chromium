@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spelling options submenu observer class declaration
+// summary: Declares SpellingOptionsSubMenuObserver, which builds the spell-checker options submenu, adds it to the parent context menu, and handles its commands.
+// ---
+
 #ifndef CHROME_BROWSER_RENDERER_CONTEXT_MENU_SPELLING_OPTIONS_SUBMENU_OBSERVER_H_
 #define CHROME_BROWSER_RENDERER_CONTEXT_MENU_SPELLING_OPTIONS_SUBMENU_OBSERVER_H_
 

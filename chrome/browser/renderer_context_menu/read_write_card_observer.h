@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read write card observer header
+// summary: Declares ReadWriteCardObserver, which observes context menu actions and notifies all associated ReadWriteCardController instances about the events.
+// ---
+
 #ifndef CHROME_BROWSER_RENDERER_CONTEXT_MENU_READ_WRITE_CARD_OBSERVER_H_
 #define CHROME_BROWSER_RENDERER_CONTEXT_MENU_READ_WRITE_CARD_OBSERVER_H_
 

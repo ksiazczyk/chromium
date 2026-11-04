@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation context menu observer implementation
+// summary: Adds the dictation item to renderer context menus for editable fields and dispatches commands to the DictationKeyedService.
+// ---
+
 #include "chrome/browser/renderer_context_menu/dictation_menu_observer.h"
 
 #include "base/feature_list.h"

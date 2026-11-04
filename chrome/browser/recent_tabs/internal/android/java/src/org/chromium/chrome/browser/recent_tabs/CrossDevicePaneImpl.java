@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDevicePaneImpl
+// summary: Hub pane showing tabs from other devices, lazily building, clearing, or destroying the list based on load hints.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDeviceListCoordinator
+// summary: Orchestrates the display of the cross-device tabs list, wiring the pane view, mediator, model, and edge-to-edge padding.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import android.content.Context;

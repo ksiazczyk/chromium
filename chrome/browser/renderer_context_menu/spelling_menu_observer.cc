@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spelling menu observer implementation
+// summary: Implements the context menu observer that adds spelling suggestions, add-to-dictionary items, and spelling service options for misspelled words.
+// ---
+
 #include "chrome/browser/renderer_context_menu/spelling_menu_observer.h"
 
 #include <utility>

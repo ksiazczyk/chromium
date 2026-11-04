@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskServiceFactory class declaration
+// summary: Declares the singleton ProfileKeyedServiceFactory that manages TaskService instances per Profile for the record_replay feature.
+// ---
+
 #ifndef CHROME_BROWSER_RECORD_REPLAY_TASK_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_RECORD_REPLAY_TASK_SERVICE_FACTORY_H_
 

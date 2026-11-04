@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreTabsFeatureHelper
+// summary: Helper methods for the restore tabs workflow, checking promo display criteria such as tab sync, recency, and feature engagement.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

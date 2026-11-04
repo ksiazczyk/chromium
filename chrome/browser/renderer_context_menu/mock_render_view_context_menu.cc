@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock render view context menu implementation
+// summary: Implements a mock context menu proxy that records menu items and delegates to an observer, supporting tests of RenderViewContextMenuObserver classes.
+// ---
+
 #include "chrome/browser/renderer_context_menu/mock_render_view_context_menu.h"
 
 #include <algorithm>

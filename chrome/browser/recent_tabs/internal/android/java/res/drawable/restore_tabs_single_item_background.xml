@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Restore tabs single item background
+summary: Ripple drawable giving a standalone restore tabs item a surface-colored background with outer corner radius on all corners.
+-->
+
 <org.chromium.chrome.browser.recent_tabs.ui.UnsharableRippleDrawable
   xmlns:android="http://schemas.android.com/apk/res/android"
   android:color="?android:attr/colorControlHighlight">

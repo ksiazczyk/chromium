@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreTabsControllerDelegate interface
+// summary: Interface of actions for the restore tabs promo, including showing and dismissing the promo and scrolling to restored tabs.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import org.chromium.build.annotations.NullMarked;

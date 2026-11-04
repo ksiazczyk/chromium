@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Restore Tabs promo sheet content unit tests
+// summary: Unit tests for RestoreTabsPromoSheetContent, checking content and toolbar views, vertical scroll offsets, and sheet destruction.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import static org.chromium.chrome.browser.recent_tabs.RestoreTabsProperties.CURRENT_SCREEN;

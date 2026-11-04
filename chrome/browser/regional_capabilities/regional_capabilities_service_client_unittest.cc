@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the base regional capabilities service client
+// summary: Tests shared client behavior, including variations latest country lookup, fallback country ID, and country fetching with and without a variations service.
+// ---
+
 #include "chrome/browser/regional_capabilities/regional_capabilities_service_client.h"
 
 #if BUILDFLAG(IS_ANDROID)

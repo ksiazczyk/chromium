@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reduce Accept Language service factory header
+// summary: Declares the ProfileKeyedServiceFactory that provides one Reduce Accept Language service instance per browser profile.
+// ---
+
 #ifndef CHROME_BROWSER_REDUCE_ACCEPT_LANGUAGE_REDUCE_ACCEPT_LANGUAGE_FACTORY_H_
 #define CHROME_BROWSER_REDUCE_ACCEPT_LANGUAGE_REDUCE_ACCEPT_LANGUAGE_FACTORY_H_
 

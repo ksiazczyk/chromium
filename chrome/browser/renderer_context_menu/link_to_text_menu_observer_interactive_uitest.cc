@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Link to Text interactive UI tests
+// summary: Interactive browser tests covering link generation, resharing and clipboard behavior of the Copy Link to Text menu item using mock observers.
+// ---
+
 #include "chrome/browser/renderer_context_menu/link_to_text_menu_observer.h"
 
 #include "base/strings/utf_string_conversions.h"

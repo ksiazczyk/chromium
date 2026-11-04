@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility labels bubble model header
+// summary: Declares the confirm bubble model shown when the user allows integrating the accessibility labels service into Chrome.
+// ---
+
 #ifndef CHROME_BROWSER_RENDERER_CONTEXT_MENU_ACCESSIBILITY_LABELS_BUBBLE_MODEL_H_
 #define CHROME_BROWSER_RENDERER_CONTEXT_MENU_ACCESSIBILITY_LABELS_BUBBLE_MODEL_H_
 

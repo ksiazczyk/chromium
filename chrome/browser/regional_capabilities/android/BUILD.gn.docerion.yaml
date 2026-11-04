@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for regional capabilities Android targets
+summary: Defines the Android Java library, JNI header generation, and test utility targets for the regional capabilities module.

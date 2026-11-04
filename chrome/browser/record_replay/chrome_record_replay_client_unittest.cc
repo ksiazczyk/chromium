@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome record replay client unit tests
+// summary: Tests main frame URL tracking, navigation-driven task offers, and DOMContentLoaded parameter extraction using mock services.
+// ---
+
 #include "chrome/browser/record_replay/chrome_record_replay_client.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Reading list directory owners
+summary: Lists the primary owner and backup reviewers responsible for code in the reading_list directory.

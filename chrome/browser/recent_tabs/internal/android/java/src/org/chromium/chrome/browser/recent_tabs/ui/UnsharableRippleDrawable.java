@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnsharableRippleDrawable
+// summary: RippleDrawable subclass that returns a null constant state so ripple backgrounds are not shared between RecyclerView items of different heights.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import android.content.res.ColorStateList;

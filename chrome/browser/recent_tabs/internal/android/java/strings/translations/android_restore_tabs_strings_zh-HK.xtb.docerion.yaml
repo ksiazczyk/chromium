@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_zh-HK.xtb.
+type: data
+title: Android tab restore strings in Chinese (Hong Kong)
+summary: Chinese (Hong Kong) translation bundle with UI strings for the Chrome Android recent tabs restore flow, covering device selection, tab review and opening synced tabs.

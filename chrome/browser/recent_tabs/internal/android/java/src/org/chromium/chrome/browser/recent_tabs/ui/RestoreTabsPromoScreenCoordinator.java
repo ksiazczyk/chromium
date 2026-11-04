@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreTabsPromoScreenCoordinator
+// summary: Coordinator for the home screen of the Restore Tabs on FRE promo that connects the property model to the promo screen view binder.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import android.view.View;
