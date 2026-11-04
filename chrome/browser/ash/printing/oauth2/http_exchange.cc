@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpExchange implementation
+// summary: Implements the HttpExchange class, serializing JSON or form-urlencoded request payloads, sending HTTP requests, and processing the corresponding responses.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/http_exchange.h"
 
 #include <string>

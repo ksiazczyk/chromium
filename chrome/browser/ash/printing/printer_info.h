@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer info query interface
+// summary: Declares QueryIppPrinter and a callback type for fetching basic printer status, make-and-model, and IPP attributes over the network.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINTER_INFO_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINTER_INFO_H_
 

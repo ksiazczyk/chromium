@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash profiles
+summary: Sets include dependency rules for the directory, blocking //chrome dependencies while allowlisting specific existing ones during an ongoing refactor.

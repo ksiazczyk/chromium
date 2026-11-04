@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeLocalPrinter class declaration
+// summary: Declares a fake LocalPrinter for unit tests with setup methods for printers, capabilities, statuses, EULA URLs and OAuth tokens plus call counters.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_FAKE_LOCAL_PRINTER_H_
 #define CHROME_BROWSER_ASH_PRINTING_FAKE_LOCAL_PRINTER_H_
 

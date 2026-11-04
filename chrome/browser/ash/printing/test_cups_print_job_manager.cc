@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCupsPrintJobManager fake implementation
+// summary: Fake CupsPrintJobManager that simulates print job creation, cancellation, suspension, resumption and completion for tests.
+// ---
+
 #include "chrome/browser/ash/printing/test_cups_print_job_manager.h"
 
 #include "chrome/browser/ash/printing/cups_print_job.h"

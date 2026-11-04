@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BulkPrintersCalculatorFactory interface
+// summary: Declares a factory that provides BulkPrintersCalculator objects per account id or for the device context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_BULK_PRINTERS_CALCULATOR_FACTORY_H_
 #define CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_BULK_PRINTERS_CALCULATOR_FACTORY_H_
 

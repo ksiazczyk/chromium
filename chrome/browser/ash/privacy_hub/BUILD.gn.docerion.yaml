@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Privacy Hub build targets
+summary: Defines the privacy_hub static library and browser_tests source set with their sources and dependencies for the ChromeOS Privacy Hub.

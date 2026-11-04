@@ -4,6 +4,12 @@
 
 // Utility routines for working with UsbDevices that are printers.
 
+// ---docerion
+// type: source
+// title: USB printer utility header
+// summary: Declares utility functions for working with USB printer devices, including make-and-model guessing, display names, and device ID retrieval.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_USB_PRINTER_UTIL_H_
 #define CHROME_BROWSER_ASH_PRINTING_USB_PRINTER_UTIL_H_
 

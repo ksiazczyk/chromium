@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS print job notification utilities header
+// summary: Declares internal helpers that update the title, icon and body message of a CUPS print job notification based on the job state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_CUPS_PRINT_JOB_NOTIFICATION_UTILS_H_
 #define CHROME_BROWSER_ASH_PRINTING_CUPS_PRINT_JOB_NOTIFICATION_UTILS_H_
 

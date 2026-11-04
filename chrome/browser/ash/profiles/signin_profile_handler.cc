@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninProfileHandler implementation
+// summary: Implements SigninProfileHandler, which clears signin profile browsing data on session start and tracks hashes of non-risky allowlisted extensions.
+// ---
+
 #include "chrome/browser/ash/profiles/signin_profile_handler.h"
 
 #include <set>

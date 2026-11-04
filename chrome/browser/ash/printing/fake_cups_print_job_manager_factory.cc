@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake print job manager instance factory
+// summary: Supplies CupsPrintJobManager::CreateInstance returning the fake manager so unit tests can run standalone when CUPS is unavailable.
+// ---
+
 #include "chrome/browser/ash/printing/fake_cups_print_job_manager.h"
 
 namespace ash {

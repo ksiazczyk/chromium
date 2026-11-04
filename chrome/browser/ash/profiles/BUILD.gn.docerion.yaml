@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for ash profiles
+summary: Defines static library build targets for the ChromeOS profiles directory, listing sources and dependencies for profile helpers and signin profile handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair support check header
+// summary: Declares IsFastPairSupported, which reports whether the device meets the minimum requirements to support Fast Pair.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_QUICK_PAIR_FAST_PAIR_SUPPORT_UTILS_H_
 #define CHROME_BROWSER_ASH_QUICK_PAIR_FAST_PAIR_SUPPORT_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthorizationZonesManager unit tests
+// summary: Unit tests for AuthorizationZonesManager using mock authorization zones, a mock client IDs database, and sync data type store test utilities.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/authorization_zones_manager.h"
 
 #include <map>

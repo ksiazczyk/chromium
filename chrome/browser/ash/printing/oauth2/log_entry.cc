@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 device log entry builder
+// summary: Implements the LogEntry function that composes a device-log string for OAuth2 printing events, including server, endpoint, status, and message details.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/log_entry.h"
 
 #include <optional>

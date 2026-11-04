@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server printers provider implementation
+// summary: Implements ServerPrintersProvider, tracking printers exposed by configured external print servers via fetchers and notifying observers when the printer list changes.
+// ---
+
 #include "chrome/browser/ash/printing/server_printers_provider.h"
 
 #include <map>

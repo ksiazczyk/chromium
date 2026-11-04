@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer event tracker implementation
+// summary: Records printer events as metrics protos, converting PDF version and IPP feature strings into their corresponding enum values.
+// ---
+
 #include "chrome/browser/ash/printing/printer_event_tracker.h"
 
 #include "chromeos/printing/ppd_provider.h"

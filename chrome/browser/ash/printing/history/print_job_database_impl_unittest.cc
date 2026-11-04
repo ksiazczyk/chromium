@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print job database unit tests
+// summary: Unit tests for PrintJobDatabaseImpl covering initialization, saving, deleting, clearing, and retrieving print job entries.
+// ---
+
 #include "chrome/browser/ash/printing/history/print_job_database_impl.h"
 
 #include <algorithm>

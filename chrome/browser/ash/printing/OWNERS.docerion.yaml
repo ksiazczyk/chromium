@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the ChromeOS printing directory
+summary: Delegates ownership to chromeos/printing OWNERS and assigns sync bridge files to the sync component owners.

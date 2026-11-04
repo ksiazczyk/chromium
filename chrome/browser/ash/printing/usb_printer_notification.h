@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB printer notification declaration
+// summary: Declares UsbPrinterNotification, which creates and manages USB printer notifications and responds to user clicks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_USB_PRINTER_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_PRINTING_USB_PRINTER_NOTIFICATION_H_
 

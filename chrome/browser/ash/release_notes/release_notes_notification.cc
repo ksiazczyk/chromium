@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Release notes notification implementation
+// summary: Implements the system notification shown when release notes are available and launches release notes when it is clicked.
+// ---
+
 #include "chrome/browser/ash/release_notes/release_notes_notification.h"
 
 #include <string>

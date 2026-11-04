@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the automatic USB printer configurer
+// summary: Tests automatic USB printer setup behavior using fake notification controller and PPD provider backends.
+// ---
+
 #include "chrome/browser/ash/printing/automatic_usb_printer_configurer.h"
 
 #include <optional>

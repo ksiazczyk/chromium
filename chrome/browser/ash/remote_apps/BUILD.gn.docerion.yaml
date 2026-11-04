@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for remote apps
+summary: Defines the GN build targets for the remote apps static library and its browser and unit test source sets.

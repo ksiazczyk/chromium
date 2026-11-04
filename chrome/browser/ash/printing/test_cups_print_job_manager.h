@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCupsPrintJobManager fake declaration
+// summary: Declares the test double of CupsPrintJobManager used to drive print job state changes in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_TEST_CUPS_PRINT_JOB_MANAGER_H_
 #define CHROME_BROWSER_ASH_PRINTING_TEST_CUPS_PRINT_JOB_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer specifics translation interface
+// summary: Declares conversion functions between sync PrinterSpecifics protos and local Printer objects, plus the MakeAndModel helper.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_SPECIFICS_TRANSLATION_H_
 #define CHROME_BROWSER_ASH_PRINTING_SPECIFICS_TRANSLATION_H_
 

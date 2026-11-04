@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock authorization zones manager for tests
+// summary: Declares a gmock implementation of AuthorizationZonesManager that stubs its methods for use in OAuth2 printing tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_MOCK_AUTHORIZATION_ZONES_MANAGER_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_MOCK_AUTHORIZATION_ZONES_MANAGER_H_
 

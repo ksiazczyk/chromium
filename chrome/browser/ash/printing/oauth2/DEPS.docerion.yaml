@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the printing OAuth 2 directory
+summary: Restricts Chromium dependencies for the directory and allows specific includes such as the sync data type store factory.

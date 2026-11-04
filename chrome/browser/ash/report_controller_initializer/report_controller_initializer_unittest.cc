@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportControllerInitializer unit tests
+// summary: Parameterized gtest suite validating market segment mapping for device modes and segments through GetMarketSegmentForTesting.
+// ---
+
 #include "chrome/browser/ash/report_controller_initializer/report_controller_initializer.h"
 
 #include "base/memory/ptr_util.h"

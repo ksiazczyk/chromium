@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientIdsDatabase interface for OAuth2 printing
+// summary: Declares the ClientIdsDatabase interface, a small pref-backed database mapping Authorization Server URLs to the client IDs assigned to the ChromeOS client.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_CLIENT_IDS_DATABASE_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_CLIENT_IDS_DATABASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PPD resolution state header
+// summary: Declares PpdResolutionState, which stores a printer's PPD resolution outcome, PpdReference, and USB manufacturer.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PPD_RESOLUTION_STATE_H_
 #define CHROME_BROWSER_ASH_PRINTING_PPD_RESOLUTION_STATE_H_
 

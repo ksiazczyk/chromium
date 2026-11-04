@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User profile migration helpers implementation
+// summary: Implements helpers that check whether a profile is a user-representative profile for migration and resolve the representative profile for guest and OTR cases.
+// ---
+
 #include "chrome/browser/ash/profiles/user_profile_migration.h"
 
 #include "base/check.h"

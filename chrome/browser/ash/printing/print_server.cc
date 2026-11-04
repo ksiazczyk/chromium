@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print server implementation
+// summary: Implements the PrintServer constructor initializing the server id, IPP URL, and display name.
+// ---
+
 #include "chrome/browser/ash/printing/print_server.h"
 
 #include <string>

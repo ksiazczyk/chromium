@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed printer translator implementation
+// summary: Converts printer configuration policy dictionaries into ManagedPrinterConfiguration protos and builds validated chromeos Printer objects from them.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/managed_printer_translator.h"
 
 #include <cstdint>

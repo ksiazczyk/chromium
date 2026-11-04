@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the sanitize directory
+summary: DEPS rules that block //chrome dependencies for ChromeOS while allowing the specific includes this directory and its unit test require.

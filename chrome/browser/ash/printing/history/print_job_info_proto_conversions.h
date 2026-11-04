@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job info proto conversions header
+// summary: Declares functions that convert print settings and CUPS print jobs into proto messages so only the necessary data is stored in the print job history database.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_HISTORY_PRINT_JOB_INFO_PROTO_CONVERSIONS_H_
 #define CHROME_BROWSER_ASH_PRINTING_HISTORY_PRINT_JOB_INFO_PROTO_CONVERSIONS_H_
 

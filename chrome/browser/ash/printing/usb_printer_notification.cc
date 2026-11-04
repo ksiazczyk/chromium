@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB printer notification implementation
+// summary: Implements system notifications for USB printers, showing connected or configuration-required messages and opening printer settings on click.
+// ---
+
 #include "chrome/browser/ash/printing/usb_printer_notification.h"
 
 #include <memory>

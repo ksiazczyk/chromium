@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPP client-info calculator implementation
+// summary: Implements the IPP client-info calculator that builds OS and device client-info values from the client name template policy and device attributes.
+// ---
+
 #include "chrome/browser/ash/printing/ipp_client_info_calculator.h"
 
 #include <cstdint>

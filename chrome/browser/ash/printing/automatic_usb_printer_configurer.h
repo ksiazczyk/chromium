@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automatic USB printer configurer class declaration
+// summary: Declares the class that automatically sets up connected USB printers and tracks configured and unconfigured printers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_AUTOMATIC_USB_PRINTER_CONFIGURER_H_
 #define CHROME_BROWSER_ASH_PRINTING_AUTOMATIC_USB_PRINTER_CONFIGURER_H_
 

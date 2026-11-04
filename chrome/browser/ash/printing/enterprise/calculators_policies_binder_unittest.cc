@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calculators policies binder unit tests
+// summary: Unit tests verifying that user preference and device setting updates propagate to the printer calculators.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/calculators_policies_binder.h"
 
 #include <array>

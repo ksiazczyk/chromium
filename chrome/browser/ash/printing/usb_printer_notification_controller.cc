@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB printer notification controller implementation
+// summary: Implements the notification controller that shows, tracks and removes per-printer USB notifications for a user profile.
+// ---
+
 #include "chrome/browser/ash/printing/usb_printer_notification_controller.h"
 
 #include <map>

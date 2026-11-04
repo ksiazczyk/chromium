@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthorizationZone unit tests
+// summary: Unit tests for AuthorizationZone that simulate metadata, registration, and token exchanges against a test authorization server.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/authorization_zone.h"
 
 #include <memory>

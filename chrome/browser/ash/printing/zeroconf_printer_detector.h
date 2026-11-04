@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zeroconf printer detector header
+// summary: Declares the ZeroconfPrinterDetector class that uses mDNS and DNS-SD to discover nearby network printers, with factory methods for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_ZEROCONF_PRINTER_DETECTOR_H_
 #define CHROME_BROWSER_ASH_PRINTING_ZEROCONF_PRINTER_DETECTOR_H_
 

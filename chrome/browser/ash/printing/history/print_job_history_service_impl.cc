@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintJobHistoryServiceImpl implementation
+// summary: Saves finished, failed, and cancelled CUPS print jobs to the database, skipping incognito jobs, and triggers history cleanup.
+// ---
+
 #include "chrome/browser/ash/printing/history/print_job_history_service_impl.h"
 
 #include "base/functional/callback_helpers.h"

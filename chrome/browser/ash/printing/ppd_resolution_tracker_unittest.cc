@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PPD resolution tracker unit tests
+// summary: Unit tests covering pending, successful, and failed PPD resolution tracking across multiple printers in PpdResolutionTracker.
+// ---
+
 #include "chrome/browser/ash/printing/ppd_resolution_tracker.h"
 
 #include "chrome/browser/ash/printing/ppd_resolution_state.h"

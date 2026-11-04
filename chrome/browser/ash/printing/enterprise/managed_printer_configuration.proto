@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed printer configuration proto schema
+// summary: Defines the protobuf message for one managed printer configuration, matching the JSON contents of the PrintersBulkConfiguration and DevicePrinters policies.
+// ---
+
 syntax = "proto3";
 option optimize_for = LITE_RUNTIME;
 

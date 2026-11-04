@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPP client-info calculator unit tests
+// summary: Unit tests for IppClientInfoCalculator covering OS info and device info derived from the client name template policy with fake device attributes.
+// ---
+
 #include "chrome/browser/ash/printing/ipp_client_info_calculator.h"
 
 #include <memory>

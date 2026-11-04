@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job reporting service factory implementation
+// summary: Implements the profile-keyed service factory that creates and provides PrintJobReportingService instances per browser context.
+// ---
+
 #include "chrome/browser/ash/printing/history/print_job_reporting_service_factory.h"
 
 #include "base/no_destructor.h"

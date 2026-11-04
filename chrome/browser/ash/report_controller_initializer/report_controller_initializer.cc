@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportControllerInitializer implementation
+// summary: Implements the state machine that checks ownership, startup delay, OOBE completion, trusted device settings, and last powerwash time before initializing ReportController.
+// ---
+
 #include "chrome/browser/ash/report_controller_initializer/report_controller_initializer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterEventTracker header
+// summary: Declares a thread-safe keyed service that aggregates printer installation, setup abandonment, and removal events for UMA metrics logging.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINTER_EVENT_TRACKER_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINTER_EVENT_TRACKER_H_
 

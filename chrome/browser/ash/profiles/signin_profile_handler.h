@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninProfileHandler header
+// summary: Declares SigninProfileHandler, which manages signin profile operations such as clearing its site data when a user session starts.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PROFILES_SIGNIN_PROFILE_HANDLER_H_
 #define CHROME_BROWSER_ASH_PROFILES_SIGNIN_PROFILE_HANDLER_H_
 

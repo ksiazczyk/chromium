@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome sanitize UI delegate class declaration
+// summary: Declares the ChromeSanitizeUIDelegate class that performs sanitize settings and schedules a browser restart, with a test hook for the restart callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SANITIZE_CHROME_SANITIZE_UI_DELEGATE_H_
 #define CHROME_BROWSER_ASH_SANITIZE_CHROME_SANITIZE_UI_DELEGATE_H_
 

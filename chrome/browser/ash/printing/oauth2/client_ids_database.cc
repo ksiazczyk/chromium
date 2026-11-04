@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientIdsDatabase implementation
+// summary: Stores OAuth2 client IDs for authorization servers in local state preferences and provides fetch and store operations keyed by server URL.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/client_ids_database.h"
 
 #include <memory>

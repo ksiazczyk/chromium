@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ClientIdsDatabase
+// summary: Unit tests verifying that ClientIdsDatabase returns an empty ID for unknown URLs and correctly stores and fetches client IDs via callbacks.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/client_ids_database.h"
 
 #include <memory>

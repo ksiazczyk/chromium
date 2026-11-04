@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for report_controller_initializer
+summary: GN build file defining the report_controller_initializer static library with its dependencies and the unit_tests source set.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printer specifics translation unit tests
+// summary: Unit tests verifying conversion between PrinterSpecifics protos and Printer objects, including round trips and socket URI path handling.
+// ---
+
 #include <string>
 #include <utility>
 

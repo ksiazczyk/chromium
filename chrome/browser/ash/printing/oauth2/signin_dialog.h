@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in dialog for OAuth2 authorization
+// summary: Declares SigninDialog, a modal web-view dialog that guides the user through OAuth2 authorization at an external authorization server and completes when the server redirects to the configured redirect URI.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_SIGNIN_DIALOG_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_SIGNIN_DIALOG_H_
 

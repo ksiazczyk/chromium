@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print server header
+// summary: Declares PrintServer, a simple class holding a print server's id, IPP URL, and user-facing name.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINT_SERVER_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINT_SERVER_H_
 

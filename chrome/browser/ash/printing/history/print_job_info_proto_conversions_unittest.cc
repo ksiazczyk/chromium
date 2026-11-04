@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print job info proto conversions unit tests
+// summary: Unit tests verifying that print settings and CUPS print jobs are correctly converted to proto messages, using time overrides for deterministic results.
+// ---
+
 #include "chrome/browser/ash/printing/history/print_job_info_proto_conversions.h"
 
 #include "base/time/time_override.h"

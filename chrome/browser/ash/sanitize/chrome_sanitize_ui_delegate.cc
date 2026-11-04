@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome sanitize UI delegate implementation
+// summary: Implements ChromeSanitizeUIDelegate, which resets profile settings via ProfileResetter, records the Sanitize user action, and restarts the browser when done.
+// ---
+
 #include "chrome/browser/ash/sanitize/chrome_sanitize_ui_delegate.h"
 
 #include "ash/constants/ash_features.h"

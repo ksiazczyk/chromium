@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authorization server session implementation
+// summary: Implements first and next token requests that acquire and refresh OAuth 2 access tokens for printing sessions.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/authorization_server_session.h"
 
 #include <algorithm>

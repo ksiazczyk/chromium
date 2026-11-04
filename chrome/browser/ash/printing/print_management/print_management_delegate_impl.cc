@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print management delegate implementation
+// summary: Implements LaunchPrinterSettings by opening the OS Settings printing details subpage for the primary session user.
+// ---
+
 #include "chrome/browser/ash/printing/print_management/print_management_delegate_impl.h"
 
 #include "ash/webui/settings/public/constants/routes.mojom.h"

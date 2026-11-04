@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer configurer implementation
+// summary: Implements printer setup by resolving PPDs and registering printers with CUPS through the printscanmgr D-Bus service.
+// ---
+
 #include "chrome/browser/ash/printing/printer_configurer.h"
 
 #include <map>

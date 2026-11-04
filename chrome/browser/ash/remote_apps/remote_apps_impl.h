@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote apps Mojo implementation header
+// summary: Declares RemoteAppsImpl, which forwards Mojo calls to RemoteAppsManager and routes app launch events by source ID.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_REMOTE_APPS_REMOTE_APPS_IMPL_H_
 #define CHROME_BROWSER_ASH_REMOTE_APPS_REMOTE_APPS_IMPL_H_
 

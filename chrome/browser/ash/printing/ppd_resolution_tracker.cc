@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PPD resolution tracker implementation
+// summary: Implements PpdResolutionTracker, mapping printer IDs to PpdResolutionState and querying resolution status.
+// ---
+
 #include "chrome/browser/ash/printing/ppd_resolution_tracker.h"
 
 #include "chrome/browser/ash/printing/ppd_resolution_state.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing manager service implementation
+// summary: Implements the PrintingManager keyed service that serves, deletes, cancels, and observes print jobs while honoring policy and expiration prefs.
+// ---
+
 #include "chrome/browser/ash/printing/print_management/printing_manager.h"
 
 #include "ash/constants/ash_pref_names.h"

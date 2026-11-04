@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer setup utility header
+// summary: Declares SetUpPrinter, which sets up a printer if needed and returns its capabilities via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINTER_SETUP_UTIL_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINTER_SETUP_UTIL_H_
 

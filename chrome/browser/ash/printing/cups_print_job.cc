@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS print job implementation
+// summary: Implements the CupsPrintJob model, including unique id creation and job state helpers.
+// ---
+
 #include "chrome/browser/ash/printing/cups_print_job.h"
 
 #include "base/strings/stringprintf.h"

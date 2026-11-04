@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsPrintJobManagerFactory implementation
+// summary: Implements the per-profile factory that instantiates CupsPrintJobManager services for browser contexts and declares dependencies on printers managers.
+// ---
+
 #include "chrome/browser/ash/printing/cups_print_job_manager_factory.h"
 
 #include "base/check_deref.h"

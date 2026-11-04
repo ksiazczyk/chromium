@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ChromeOS printing dependencies
+summary: Restricts which //chrome headers and third-party libraries files in this directory may include, with special rules for tests and factories.

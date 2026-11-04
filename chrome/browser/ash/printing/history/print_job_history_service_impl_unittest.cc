@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrintJobHistoryServiceImpl unit tests
+// summary: Unit tests covering saving of observed CUPS print jobs, retrieval of print job history, and deletion of all print jobs.
+// ---
+
 #include "chrome/browser/ash/printing/history/print_job_history_service_impl.h"
 
 #include "chrome/browser/ash/login/users/fake_chrome_user_manager.h"

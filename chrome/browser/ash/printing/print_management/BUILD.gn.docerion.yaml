@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Print management BUILD.gn build targets
+summary: Defines the print_management static library and its unit, browser, and interactive UI test targets with their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print servers provider header
+// summary: Declares the PrintServersProvider interface that observes external print server policies, applies an allowlist, and exposes the calculated list of available print servers to observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_PRINT_SERVERS_PROVIDER_H_
 #define CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_PRINT_SERVERS_PROVIDER_H_
 

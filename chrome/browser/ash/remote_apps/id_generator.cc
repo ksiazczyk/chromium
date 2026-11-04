@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ID generator implementations
+// summary: Implements GUID-based and fake ID generators that produce IDs for remote apps and folders.
+// ---
+
 #include "chrome/browser/ash/remote_apps/id_generator.h"
 
 #include "base/uuid.h"

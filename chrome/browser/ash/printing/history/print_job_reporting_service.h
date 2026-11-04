@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job reporting service interface
+// summary: Defines the keyed service interface that observes finished print jobs and reports them, with factory methods including a test helper accepting a custom report queue.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_HISTORY_PRINT_JOB_REPORTING_SERVICE_H_
 #define CHROME_BROWSER_ASH_PRINTING_HISTORY_PRINT_JOB_REPORTING_SERVICE_H_
 

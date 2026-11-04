@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncedPrintersManager unit tests
+// summary: Unit tests for the synced printers manager, covering saved printer updates, automatic ID assignment and observer notifications.
+// ---
+
 #include "chrome/browser/ash/printing/synced_printers_manager.h"
 
 #include <algorithm>

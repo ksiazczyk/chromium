@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test print job history service observer header
+// summary: Declares a test observer for the print job history service that counts OnPrintJobFinished callbacks to support unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_HISTORY_TEST_PRINT_JOB_HISTORY_SERVICE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_PRINTING_HISTORY_TEST_PRINT_JOB_HISTORY_SERVICE_OBSERVER_H_
 

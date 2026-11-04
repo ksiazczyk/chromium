@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterConfigurer interface and setup result enums
+// summary: Declares the PrinterConfigurer class and PrinterSetupResult enums used to set up printers and report setup outcomes for histograms.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINTER_CONFIGURER_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINTER_CONFIGURER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for sync bridge files
+summary: Delegates review ownership of sync bridge files to the components/sync owners.

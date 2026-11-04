@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintingManager print job metadata service declaration
+// summary: Declares the PrintingManager keyed service that provides print job metadata, history expiration, deletion, cancellation and job observation over Mojo for Chrome OS print management.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINT_MANAGEMENT_PRINTING_MANAGER_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINT_MANAGEMENT_PRINTING_MANAGER_H_
 

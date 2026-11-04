@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Release notes storage implementation
+// summary: Implements profile eligibility checks and preference tracking for showing release notes notifications and the suggestion chip.
+// ---
+
 #include "chrome/browser/ash/release_notes/release_notes_storage.h"
 
 #include "ash/constants/ash_features.h"

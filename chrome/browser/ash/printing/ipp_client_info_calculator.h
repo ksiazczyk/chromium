@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPP client-info calculator interface
+// summary: Declares IppClientInfoCalculator, which computes IPP client-info values sent to printers to identify the origin of print jobs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_IPP_CLIENT_INFO_CALCULATOR_H_
 #define CHROME_BROWSER_ASH_PRINTING_IPP_CLIENT_INFO_CALCULATOR_H_
 

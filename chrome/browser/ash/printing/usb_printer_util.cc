@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB printer utility implementation
+// summary: Implements helpers for detecting USB printers, guessing make and model, and querying IEEE 1284 device IDs over USB control transfers.
+// ---
+
 #include "chrome/browser/ash/printing/usb_printer_util.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IppEndpointTokenFetcher implementation
+// summary: Implements OAuth2 Token Exchange Requests that trade a session access token for an endpoint access token for a specific IPP printer.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/ipp_endpoint_token_fetcher.h"
 
 #include <string>

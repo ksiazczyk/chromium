@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print job reporting service unit tests
+// summary: Unit tests for the print job reporting service using a mock report queue, stub CrosSettings and a fake user manager to verify event reporting behavior.
+// ---
+
 #include "chrome/browser/ash/printing/history/print_job_reporting_service.h"
 
 #include <string_view>

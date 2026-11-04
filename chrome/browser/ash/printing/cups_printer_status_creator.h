@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS printer status creator header
+// summary: Declares functions that map printer status reasons and severities to ChromeOS CupsPrinterStatus equivalents.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_CUPS_PRINTER_STATUS_CREATOR_H_
 #define CHROME_BROWSER_ASH_PRINTING_CUPS_PRINTER_STATUS_CREATOR_H_
 

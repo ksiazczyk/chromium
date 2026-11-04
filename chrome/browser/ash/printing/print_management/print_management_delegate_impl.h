@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print management delegate class declaration
+// summary: Declares the browser-side PrintManagementDelegate implementation used by the print management backend to open printer settings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINT_MANAGEMENT_PRINT_MANAGEMENT_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINT_MANAGEMENT_PRINT_MANAGEMENT_DELEGATE_IMPL_H_
 

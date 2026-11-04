@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced printers manager factory implementation
+// summary: ProfileKeyedServiceFactory that builds SyncedPrintersManager instances with a PrintersSyncBridge for each browser context.
+// ---
+
 #include "chrome/browser/ash/printing/synced_printers_manager_factory.h"
 
 #include <memory>

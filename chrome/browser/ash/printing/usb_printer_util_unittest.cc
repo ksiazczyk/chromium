@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB printer utility unit tests
+// summary: Unit tests covering USB device to printer conversion, make-and-model guessing, display name creation, and PPD search data updates.
+// ---
+
 #include "chrome/browser/ash/printing/usb_printer_util.h"
 
 #include "services/device/public/mojom/usb_device.mojom.h"

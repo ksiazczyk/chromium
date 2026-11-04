@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Privacy Hub include rules
+summary: Sets include rules that forbid ChromeOS dependencies on //chrome while allowing the needed exceptions for this directory and its browser test.

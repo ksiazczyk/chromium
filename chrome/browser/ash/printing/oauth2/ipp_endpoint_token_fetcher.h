@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IppEndpointTokenFetcher class declaration
+// summary: Declares IppEndpointTokenFetcher, a per-IPP-endpoint OAuth2 session that stores endpoint URI, scope, and access token, and manages waiting callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_IPP_ENDPOINT_TOKEN_FETCHER_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_IPP_ENDPOINT_TOKEN_FETCHER_H_
 

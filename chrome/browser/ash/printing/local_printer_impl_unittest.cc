@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalPrinterImpl unit tests
+// summary: Unit tests for LocalPrinterImpl using a fake PPD provider, printers manager and OAuth2 manager to verify printer data handling.
+// ---
+
 #include "chrome/browser/ash/printing/local_printer_impl.h"
 
 #include "ash/constants/ash_features.h"

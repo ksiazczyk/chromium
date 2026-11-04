@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printer authenticator unit tests
+// summary: Unit tests for PrinterAuthenticator that mock the printers manager and authorization zones manager to exercise the OAuth2 flow.
+// ---
+
 #include "chrome/browser/ash/printing/printer_authenticator.h"
 
 #include <memory>

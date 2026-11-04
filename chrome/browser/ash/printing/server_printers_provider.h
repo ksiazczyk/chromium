@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server printers provider interface
+// summary: Declares the ServerPrintersProvider interface that tracks printers from external print servers and signals updates through a registered callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_SERVER_PRINTERS_PROVIDER_H_
 #define CHROME_BROWSER_ASH_PRINTING_SERVER_PRINTERS_PROVIDER_H_
 

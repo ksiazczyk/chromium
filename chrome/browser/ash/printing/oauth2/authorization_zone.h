@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthorizationZone interface for OAuth2 sessions
+// summary: Interface for creating and maintaining OAuth2 sessions with a single authorization server, including obtaining and expiring endpoint access tokens for IPP endpoints.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_AUTHORIZATION_ZONE_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_AUTHORIZATION_ZONE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print job options translator unit tests
+// summary: Unit tests verifying conversion of managed print job option dictionaries into PrintJobOptions protobuf messages, covering media size, type, duplex, color, DPI, quality, layout and print-as-image options.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/print_job_options_translator.h"
 
 #include <optional>

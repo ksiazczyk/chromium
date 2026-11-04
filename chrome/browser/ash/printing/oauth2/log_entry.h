@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth 2 printing log entry helper
+// summary: Declares a helper that formats a single OAuth 2 log entry for the browser's device log, including a message, method name, authorization server, status code and IPP endpoint.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_LOG_ENTRY_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_LOG_ENTRY_H_
 

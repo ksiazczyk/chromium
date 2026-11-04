@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintJobHistoryService base class implementation
+// summary: Implements the print job history service base class, registering the expiration period preference and managing observer lifecycle.
+// ---
+
 #include "chrome/browser/ash/printing/history/print_job_history_service.h"
 
 #include "ash/constants/ash_pref_names.h"

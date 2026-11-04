@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the mock client IDs database
+// summary: Defines the mock ClientIdsDatabase whose default FetchId reports kOK with an empty id, for use in tests.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/mock_client_ids_database.h"
 
 #include <utility>

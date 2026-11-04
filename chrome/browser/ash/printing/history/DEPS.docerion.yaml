@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for printing history
+summary: Restricts //chrome dependencies for ChromeOS printing history and grants extra includes to specific unit tests.

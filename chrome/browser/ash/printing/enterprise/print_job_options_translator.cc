@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job options translator implementation
+// summary: Converts print job options from policy JSON into protos and maps them to the ChromeOS Printer managed print options representation.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/print_job_options_translator.h"
 
 #include <optional>

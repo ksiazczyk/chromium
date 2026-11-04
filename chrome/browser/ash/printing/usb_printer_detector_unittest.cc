@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB printer detector unit tests
+// summary: Unit tests for USB printer detection using fake USB devices, covering IPP and non-IPP printers and screen lock behavior.
+// ---
+
 #include "chrome/browser/ash/printing/usb_printer_detector.h"
 
 #include <utility>

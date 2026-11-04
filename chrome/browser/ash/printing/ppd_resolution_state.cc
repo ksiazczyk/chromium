@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PPD resolution state implementation
+// summary: Implements PpdResolutionState, tracking whether PPD resolution is inflight, successful, or failed, with USB manufacturer details.
+// ---
+
 #include "chrome/browser/ash/printing/ppd_resolution_state.h"
 
 #include "base/check.h"

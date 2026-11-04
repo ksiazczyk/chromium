@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock print job history service for tests
+// summary: Declares a gmock-based PrintJobHistoryService mock used in tests to notify observers without persistent storage.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_HISTORY_MOCK_PRINT_JOB_HISTORY_SERVICE_H_
 #define CHROME_BROWSER_ASH_PRINTING_HISTORY_MOCK_PRINT_JOB_HISTORY_SERVICE_H_
 

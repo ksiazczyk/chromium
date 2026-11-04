@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsPrintJobNotification implementation
+// summary: Creates and updates message center notifications for CUPS print jobs, including buttons for the print management page and web printing content settings.
+// ---
+
 #include "chrome/browser/ash/printing/cups_print_job_notification.h"
 
 #include "ash/constants/notifier_catalogs.h"

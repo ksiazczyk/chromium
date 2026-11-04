@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS print job manager base implementation
+// summary: Implements observer notifications and job duration metrics for CUPS print job lifecycle events.
+// ---
+
 #include "chrome/browser/ash/printing/cups_print_job_manager.h"
 
 #include <algorithm>

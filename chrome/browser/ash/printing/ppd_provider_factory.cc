@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PPD provider factory implementation
+// summary: Creates a PpdProvider for printer PPD resolution, configured from command-line switches, profile caches, and network fetchers.
+// ---
+
 #include "chrome/browser/ash/printing/ppd_provider_factory.h"
 
 #include <string>

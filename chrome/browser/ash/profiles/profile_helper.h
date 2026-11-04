@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileHelper header
+// summary: Declares the ProfileHelper interface used on ChromeOS to track the active user profile and map user IDs to profiles, with several deprecated static methods.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PROFILES_PROFILE_HELPER_H_
 #define CHROME_BROWSER_ASH_PROFILES_PROFILE_HELPER_H_
 

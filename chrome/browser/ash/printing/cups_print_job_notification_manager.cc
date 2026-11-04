@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsPrintJobNotificationManager implementation
+// summary: Implements the manager that observes print job events and keeps one notification per active print job up to date.
+// ---
+
 #include "chrome/browser/ash/printing/cups_print_job_notification_manager.h"
 
 #include "base/containers/map_util.h"

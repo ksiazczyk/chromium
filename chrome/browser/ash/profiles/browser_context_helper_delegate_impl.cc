@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContextHelperDelegateImpl implementation
+// summary: Implements the BrowserContextHelper delegate that resolves browser contexts by path, account ID, and OTR status through the profile manager.
+// ---
+
 #include "chrome/browser/ash/profiles/browser_context_helper_delegate_impl.h"
 
 #include "chrome/browser/browser_process.h"

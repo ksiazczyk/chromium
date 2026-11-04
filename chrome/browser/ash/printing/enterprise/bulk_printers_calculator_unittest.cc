@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bulk printers calculator unit tests
+// summary: Unit tests verifying printer list calculation, policy handling, observer notifications, and safe destruction.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/bulk_printers_calculator.h"
 
 #include <string>

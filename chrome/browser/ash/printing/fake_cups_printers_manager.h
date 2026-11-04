@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCupsPrintersManager header
+// summary: Declares the fake printers manager used in unit and API integration tests to add arbitrary printers and stub setup and installation behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_FAKE_CUPS_PRINTERS_MANAGER_H_
 #define CHROME_BROWSER_ASH_PRINTING_FAKE_CUPS_PRINTERS_MANAGER_H_
 

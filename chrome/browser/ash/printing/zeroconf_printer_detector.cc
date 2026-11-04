@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zeroconf printer detector implementation
+// summary: Detects nearby networked printers via mDNS and DNS-SD service discovery, parsing Bonjour printing metadata into printer records.
+// ---
+
 
 #include "chrome/browser/ash/printing/zeroconf_printer_detector.h"
 

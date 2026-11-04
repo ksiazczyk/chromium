@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to ash quick_pair owners
+summary: Delegates code ownership for this directory to the OWNERS file of ash/quick_pair.

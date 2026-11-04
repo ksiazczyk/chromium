@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrintingManagerFactory unit tests
+// summary: Unit tests verifying that PrintingManagerFactory provides the service for regular and off-the-record profiles but not for the signin profile.
+// ---
+
 #include "chrome/browser/ash/printing/print_management/printing_manager_factory.h"
 
 #include "chrome/browser/ash/printing/print_management/printing_manager.h"
