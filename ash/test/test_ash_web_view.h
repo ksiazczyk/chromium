@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test AshWebView header
+// summary: Declares TestAshWebView, an AshWebView implementation for unittests that tracks the current URL, focus, and error document state.
+// ---
+
 #ifndef ASH_TEST_TEST_ASH_WEB_VIEW_H_
 #define ASH_TEST_TEST_ASH_WEB_VIEW_H_
 

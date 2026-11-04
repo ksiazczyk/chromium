@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshPixelTestHelper implementation
+// summary: Implements pixel test setup that stabilizes the UI by fixing the wallpaper, dark mode, battery state, locale, and time zone.
+// ---
+
 #include "ash/test/pixel/ash_pixel_test_helper.h"
 
 #include "ash/shell.h"

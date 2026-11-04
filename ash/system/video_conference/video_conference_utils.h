@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference utility function declarations
+// summary: Declares utility functions for the video conference tray, providing effect histogram names, media app display text and creation of a color map for gradient animations.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_VIDEO_CONFERENCE_UTILS_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_VIDEO_CONFERENCE_UTILS_H_
 

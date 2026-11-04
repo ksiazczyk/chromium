@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update notification controller implementation
+// summary: Implements the controller that creates, updates and removes the ChromeOS update notification, including slow boot detection and relaunch policy handling.
+// ---
+
 #include "ash/system/update/update_notification_controller.h"
 
 #include <optional>

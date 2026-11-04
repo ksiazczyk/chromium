@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quiet mode feature pod controller implementation
+// summary: Implements the do-not-disturb feature tile controller that toggles message center quiet mode, updates tooltips, and records user metrics.
+// ---
+
 #include "ash/system/unified/quiet_mode_feature_pod_controller.h"
 
 #include "ash/constants/ash_features.h"

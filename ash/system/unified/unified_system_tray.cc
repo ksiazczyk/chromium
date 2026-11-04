@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified system tray implementation
+// summary: Implements UnifiedSystemTray, the Chrome OS system menu in the status area that shows status icons and opens the quick settings bubble.
+// ---
+
 #include "ash/system/unified/unified_system_tray.h"
 
 #include "ash/accessibility/accessibility_controller.h"

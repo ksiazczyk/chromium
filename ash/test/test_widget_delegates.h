@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test widget delegates header
+// summary: Declares a centered bubble dialog model host plus helpers to create test widget delegates and builders with Ash window frames.
+// ---
+
 #ifndef ASH_TEST_TEST_WIDGET_DELEGATES_H_
 #define ASH_TEST_TEST_WIDGET_DELEGATES_H_
 

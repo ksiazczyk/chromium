@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceableTrayChildBubble implementation
+// summary: Implements the styled child bubble base view for glanceables, applying rounded corners, background blur and a highlight border when container styling is enabled.
+// ---
+
 #include "ash/system/unified/glanceable_tray_child_bubble.h"
 
 #include <memory>

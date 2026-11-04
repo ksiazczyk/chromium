@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractedByTapRecorder header
+// summary: Declares an event handler installed as a tray view pre-target handler to record UMA interaction metrics for taps and clicks.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_INTERACTED_BY_TAP_RECORDER_H_
 #define ASH_SYSTEM_TRAY_INTERACTED_BY_TAP_RECORDER_H_
 

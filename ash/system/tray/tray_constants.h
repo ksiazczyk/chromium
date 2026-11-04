@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tray UI constants
+// summary: Defines shared sizes, paddings, margins, icon dimensions, and bubble durations used across the Ash system tray, its menus, and quick settings.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRAY_CONSTANTS_H_
 #define ASH_SYSTEM_TRAY_TRAY_CONSTANTS_H_
 

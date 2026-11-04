@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick settings notice view pixel test base implementation
+// summary: Implements the shared pixel test base that sets up a fullscreen test widget with a solid background and performs screenshot diffs for notice views.
+// ---
+
 #include "ash/system/update/quick_settings_notice_view_pixeltest_base.h"
 
 #include <memory>

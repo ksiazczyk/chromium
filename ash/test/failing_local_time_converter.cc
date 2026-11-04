@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Failing local time converter implementation
+// summary: Implements a LocalTimeConverter that always fails, returning false and filling exploded time values with invalid -1 entries for test scenarios.
+// ---
+
 #include "ash/test/failing_local_time_converter.h"
 
 #include "base/check.h"

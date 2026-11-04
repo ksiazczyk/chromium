@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified slider view implementation
+// summary: Implements UnifiedSliderView, the base view for slider rows in the unified system tray, with an icon, togglable button, and UMA tracking helpers.
+// ---
+
 #include "ash/system/unified/unified_slider_view.h"
 
 #include <memory>

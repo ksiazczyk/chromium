@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings slider implementation
+// summary: Implements a slider view for quick settings with multiple styles, custom painting, focus rings, and accessibility support for the tray and audio detailed view.
+// ---
+
 #include "ash/system/unified/quick_settings_slider.h"
 
 #include "ash/strings/grit/ash_strings.h"

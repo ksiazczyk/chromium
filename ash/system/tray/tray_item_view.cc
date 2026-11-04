@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayItemView implementation
+// summary: Implements TrayItemView and IconizedLabel, providing tray items with label or image children, show and hide visibility animations, and animation smoothness metrics.
+// ---
+
 #include "ash/system/tray/tray_item_view.h"
 
 #include <optional>

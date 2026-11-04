@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshTestHelper implementation
+// summary: Implements the common initialization required for Ash tests, creating a root window and an ash::Shell instance with test delegates, fakes, and subsystem test helpers.
+// ---
+
 #include "ash/test/ash_test_helper.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View click listener interface for Ash tray views
+// summary: Declares the ash::ViewClickListener interface with an OnViewClicked callback that views use to notify listeners when they are clicked.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_VIEW_CLICK_LISTENER_H_
 #define ASH_SYSTEM_TRAY_VIEW_CLICK_LISTENER_H_
 

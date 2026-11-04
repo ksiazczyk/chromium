@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayItemView class declaration
+// summary: Declares TrayItemView, the base class for status area tray items handling visibility animations and widget updates, plus IconizedLabel with custom accessible names.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRAY_ITEM_VIEW_H_
 #define ASH_SYSTEM_TRAY_TRAY_ITEM_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set value effects view declaration
+// summary: Declares SetValueEffectSlider and SetValueEffectsView, the views providing tab sliders for choosing integer values of kSetValue effects in the video conference bubble.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_SET_VALUE_EFFECTS_VIEW_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_SET_VALUE_EFFECTS_VIEW_H_
 

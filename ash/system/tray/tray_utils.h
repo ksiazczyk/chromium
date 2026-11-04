@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tray utility function declarations
+// summary: Declares shared tray helpers for label styling, status subtext, bubble insets and maximum bubble height, ink drop insets, and creating tray bubble init parameters.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRAY_UTILS_H_
 #define ASH_SYSTEM_TRAY_TRAY_UTILS_H_
 

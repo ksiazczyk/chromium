@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash tooltip controller unit tests
+// summary: Unit tests for the views corewm TooltipController inside ash, exercising tooltip visibility, text, and hiding behavior that requires the Ash shell to be installed.
+// ---
+
 #include "ui/views/corewm/tooltip_controller.h"
 
 #include <memory>

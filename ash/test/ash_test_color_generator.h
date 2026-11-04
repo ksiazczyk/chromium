@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshTestColorGenerator header
+// summary: Declares AshTestColorGenerator, a test helper class that returns a default color and alternative colors for solid-colored icons in Ash tests.
+// ---
+
 #ifndef ASH_TEST_ASH_TEST_COLOR_GENERATOR_H_
 #define ASH_TEST_ASH_TEST_COLOR_GENERATOR_H_
 

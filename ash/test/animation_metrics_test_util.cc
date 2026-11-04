@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animation metrics test utilities implementation
+// summary: Implements compositor animation observers, frame waiters, and helpers to run simple animations and wait for animation metrics in ash tests.
+// ---
+
 #include "ash/test/animation_metrics_test_util.h"
 
 #include <memory>

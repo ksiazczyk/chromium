@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrayBackgroundView unit tests
+// summary: Unit tests for TrayBackgroundView covering bubble show and close behavior, context menus, lock screen persistence, and pressed metrics.
+// ---
+
 #include "ash/system/tray/tray_background_view.h"
 
 #include "ash/accessibility/accessibility_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video conference tray unit tests
+// summary: Unit tests for the ChromeOS Ash video conference tray, covering toggle, camera and microphone mute buttons, session states, media app delays and related histogram metrics.
+// ---
+
 #include "ash/system/video_conference/video_conference_tray.h"
 
 #include "ash/constants/ash_features.h"

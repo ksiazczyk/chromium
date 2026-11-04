@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unified slider view pixel tests
+// summary: Pixel tests comparing rendered UnifiedSliderView volume sliders in default, muted, and radio styles against golden images.
+// ---
+
 #include <memory>
 
 #include "ash/system/audio/unified_volume_slider_controller.h"

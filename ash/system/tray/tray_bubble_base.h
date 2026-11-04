@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayBubbleBase interface
+// summary: Declares the base interface for tray bubbles registered to TrayEventFilter, exposing the tray, bubble view, and bubble widget.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRAY_BUBBLE_BASE_H_
 #define ASH_SYSTEM_TRAY_TRAY_BUBBLE_BASE_H_
 

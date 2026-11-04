@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeatureTilesContainerView unit tests
+// summary: Unit tests covering tile layout, pagination, row calculation and focus behavior of the Quick Settings feature tiles container using a mock feature pod controller.
+// ---
+
 #include "ash/system/unified/feature_tiles_container_view.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test widget delegates implementation
+// summary: Implements test widget delegates, including a resizable delegate with Ash frame views and a bubble dialog host centered on its anchor widget.
+// ---
+
 #include "ash/test/test_widget_delegates.h"
 
 #include "ash/shell.h"

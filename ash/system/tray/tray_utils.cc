@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tray utility function implementations
+// summary: Implements shared tray helpers such as label setup, connected and connecting status subtext, warning subtext, bubble insets, and hotseat compensation for tray bubbles.
+// ---
+
 #include "ash/system/tray/tray_utils.h"
 
 #include <string>

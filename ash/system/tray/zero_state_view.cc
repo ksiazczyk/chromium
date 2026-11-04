@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZeroStateView implementation
+// summary: Implements the Ash tray's generic zero-state view, laying out a themed illustration, title, and subtitle for detailed views with no options to show.
+// ---
+
 #include "ash/system/tray/zero_state_view.h"
 
 #include <memory>

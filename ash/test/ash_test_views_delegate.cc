@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshTestViewsDelegate implementation
+// summary: Implements an Ash-specific test ViewsDelegate that parents parentless widgets to the shell, resolves inferred opacity, and processes accelerators while menus are showing.
+// ---
+
 #include "ash/test/ash_test_views_delegate.h"
 
 #include "ash/accelerators/accelerator_controller_impl.h"

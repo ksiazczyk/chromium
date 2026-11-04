@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Active window waiter test helper declaration
+// summary: Declares ActiveWindowWaiter, an ash test helper that waits for window activation on a root window and returns the activated window.
+// ---
+
 #ifndef ASH_TEST_ACTIVE_WINDOW_WAITER_H_
 #define ASH_TEST_ACTIVE_WINDOW_WAITER_H_
 

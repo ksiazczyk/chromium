@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Failing local time converter test header
+// summary: Declares a LocalTimeConverter subclass that simulates failure of all local time operations so tests can exercise failure paths.
+// ---
+
 #ifndef ASH_TEST_FAILING_LOCAL_TIME_CONVERTER_H_
 #define ASH_TEST_FAILING_LOCAL_TIME_CONVERTER_H_
 

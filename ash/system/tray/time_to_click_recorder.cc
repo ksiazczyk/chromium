@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeToClickRecorder implementation
+// summary: Implements a pre-target event handler that records TimeToClick metrics when mouse presses or gesture taps occur on a target view.
+// ---
+
 #include "ash/system/tray/time_to_click_recorder.h"
 
 #include "ui/events/event.h"

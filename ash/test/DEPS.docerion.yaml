@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Ash test directory dependency rules
+summary: DEPS include rules that restrict which dependencies files in the ash test directory may include, with special rules for ash_test_helper.

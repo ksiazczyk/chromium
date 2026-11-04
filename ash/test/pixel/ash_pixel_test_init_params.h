@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel test InitParams header
+// summary: Defines the InitParams struct and WallpaperInitType enum that control pixel test setup such as wallpaper type, RTL layout, and system blur.
+// ---
+
 #ifndef ASH_TEST_PIXEL_ASH_PIXEL_TEST_INIT_PARAMS_H_
 #define ASH_TEST_PIXEL_ASH_PIXEL_TEST_INIT_PARAMS_H_
 

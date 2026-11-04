@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test window builder implementation
+// summary: Implements an Ash test window builder extending the aura test builder with client-controlled window state and bounds change signaling.
+// ---
+
 #include "ash/test/test_window_builder.h"
 
 #include "ash/shell.h"

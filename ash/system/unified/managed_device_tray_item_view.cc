@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed device tray icon view implementation
+// summary: Implements the status tray icon shown for public account and child (supervised) users, with a tooltip naming the managing enterprise domain.
+// ---
+
 #include "ash/system/unified/managed_device_tray_item_view.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

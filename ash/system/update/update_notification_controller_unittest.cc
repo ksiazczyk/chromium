@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update notification controller unit tests
+// summary: Unit tests for the update notification controller covering notification visibility, titles, messages, buttons and enterprise domain behavior.
+// ---
+
 #include "ash/system/update/update_notification_controller.h"
 
 #include <optional>

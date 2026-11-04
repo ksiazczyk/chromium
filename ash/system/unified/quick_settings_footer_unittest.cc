@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the quick settings footer
+// summary: Unit tests for QuickSettingsFooter checking button view IDs, catalog names, visibility and state changes between logged out and logged in sessions.
+// ---
+
 #include "ash/system/unified/quick_settings_footer.h"
 
 #include "ash/constants/ash_pref_names.h"

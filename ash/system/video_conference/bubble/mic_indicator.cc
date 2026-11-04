@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microphone level indicator implementation
+// summary: Implements an animated wave view that reflects microphone capture loudness using EWMA power reports from the tray controller.
+// ---
+
 #include "ash/system/video_conference/bubble/mic_indicator.h"
 
 #include <array>

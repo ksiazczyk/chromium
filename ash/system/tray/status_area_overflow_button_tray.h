@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusAreaOverflowButtonTray class declaration
+// summary: Declares the collapse/expand tray button shown in tablet mode when the status area contains more buttons than fit its maximum width.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_STATUS_AREA_OVERFLOW_BUTTON_TRAY_H_
 #define ASH_SYSTEM_TRAY_STATUS_AREA_OVERFLOW_BUTTON_TRAY_H_
 

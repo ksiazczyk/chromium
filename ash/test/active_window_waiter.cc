@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Active window waiter test helper implementation
+// summary: Implements a test helper that observes the activation client and blocks until a window is activated, returning the activated window.
+// ---
+
 #include "ash/test/active_window_waiter.h"
 
 #include "ash/shell.h"

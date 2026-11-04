@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Set camera background view unit tests
+// summary: Unit tests for SetCameraBackgroundView that verify the Create with AI button animation starts and stops as the view becomes visible, using mocked camera effects controllers.
+// ---
+
 #include "ash/system/video_conference/bubble/set_camera_background_view.h"
 
 #include <memory>

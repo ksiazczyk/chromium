@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MicIndicator class header
+// summary: Declares MicIndicator, the title header view that draws a wave indicating how loud the captured microphone audio is.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_MIC_INDICATOR_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_MIC_INDICATOR_H_
 

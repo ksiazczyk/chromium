@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnfocusableLabel implementation
+// summary: Implements UnfocusableLabel, a views::Label whose focus behavior is set to never, so it cannot be focused via ChromeVox in the Ash system tray.
+// ---
+
 #include "ash/system/tray/unfocusable_label.h"
 
 #include "ui/accessibility/ax_enums.mojom.h"

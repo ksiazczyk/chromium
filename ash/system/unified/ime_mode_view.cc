@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME mode tray icon view implementation
+// summary: Implements the shelf tray icon showing the current input method, hiding it in tablet mode, when the locale is displayed, or when the IME menu is active.
+// ---
+
 #include "ash/system/unified/ime_mode_view.h"
 
 #include "ash/ime/ime_controller_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TriView layout implementation
+// summary: Implements TriView, a view with START, CENTER, and END containers using box layout, supporting min and max sizes, flex weights, insets, and container visibility control.
+// ---
+
 #include "ash/system/tray/tri_view.h"
 
 #include "ash/system/tray/size_range_layout.h"

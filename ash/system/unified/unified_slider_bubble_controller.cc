@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified slider bubble controller implementation
+// summary: Implements the controller for independent slider bubbles such as volume, brightness, keyboard backlight, and microphone mute toasts triggered from hardware buttons.
+// ---
+
 #include "ash/system/unified/unified_slider_bubble_controller.h"
 
 #include "ash/bubble/bubble_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayPopupUtils implementation
+// summary: Implements TrayPopupUtils helper functions that create default labels, row views, layouts, buttons, and separators for system tray popup views.
+// ---
+
 #include "ash/system/tray/tray_popup_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux apps bubble view implementation
+// summary: Implements the smaller bubble shown when all running media apps are Linux apps, listing return-to-app buttons for each app.
+// ---
+
 #include "ash/system/video_conference/bubble/linux_apps_bubble_view.h"
 
 #include "ash/system/tray/tray_bubble_view.h"

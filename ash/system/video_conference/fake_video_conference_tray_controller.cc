@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake video conference tray controller implementation
+// summary: Implements a fake VideoConferenceTrayController that supplies sample media apps, mute state handling, and fake effects for tests and emulator mocking.
+// ---
+
 #include "ash/system/video_conference/fake_video_conference_tray_controller.h"
 
 #include <vector>

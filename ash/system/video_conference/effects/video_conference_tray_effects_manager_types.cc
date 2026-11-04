@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference effect state and hosted effect types
+// summary: Implements VcEffectState and VcHostedEffect, the data types representing effect states and hosted effects for the video conference tray.
+// ---
+
 #include "ash/system/video_conference/effects/video_conference_tray_effects_manager_types.h"
 
 #include <utility>

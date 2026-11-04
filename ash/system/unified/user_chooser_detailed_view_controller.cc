@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User chooser detailed view controller implementation
+// summary: Implements the controller for the user chooser detailed view, handling user switching, add-user actions, and conditions for enabling the chooser.
+// ---
+
 #include "ash/system/unified/user_chooser_detailed_view_controller.h"
 
 #include <memory>

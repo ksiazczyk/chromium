@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshPixelTestHelper class header
+// summary: Declares the test helper that sets up system UI for pixel tests, stabilizes variable UI elements, and generates screenshot names from test parameters.
+// ---
+
 #ifndef ASH_TEST_PIXEL_ASH_PIXEL_TEST_HELPER_H_
 #define ASH_TEST_PIXEL_ASH_PIXEL_TEST_HELPER_H_
 

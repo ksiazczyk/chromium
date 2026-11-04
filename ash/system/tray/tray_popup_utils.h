@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayPopupUtils header for system menu helpers
+// summary: Declares TrayPopupUtils, a set of factory and utility functions for building system menu rows, labels, and buttons in the Ash status tray, including font style definitions.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRAY_POPUP_UTILS_H_
 #define ASH_SYSTEM_TRAY_TRAY_POPUP_UTILS_H_
 

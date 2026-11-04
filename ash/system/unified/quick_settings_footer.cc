@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings footer view implementation
+// summary: Implements the footer of the quick settings view with battery status, settings, sign out, user avatar and power buttons.
+// ---
+
 #include "ash/system/unified/quick_settings_footer.h"
 
 #include <cstddef>

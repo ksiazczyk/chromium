@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified system tray model implementation
+// summary: Implements the model holding unified system tray UI state, tracking brightness, lid state, and tray button sizing from power manager signals.
+// ---
+
 #include "ash/system/unified/unified_system_tray_model.h"
 
 #include "ash/accessibility/accessibility_controller.h"

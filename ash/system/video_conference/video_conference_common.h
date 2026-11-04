@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference shared types and constants
+// summary: Declares shared video conference structs, enums, and constants including media state, client updates, app types, and bubble padding used across the VC tray.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_VIDEO_CONFERENCE_COMMON_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_VIDEO_CONFERENCE_COMMON_H_
 

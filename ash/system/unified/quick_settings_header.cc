@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings header view implementation
+// summary: Implements the header of the quick settings view showing enterprise managed and supervised device buttons, release channel indicator and update notices.
+// ---
+
 #include "ash/system/unified/quick_settings_header.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BubbleView pixel tests
+// summary: Pixel tests verifying the visual rendering of the video conference bubble with fake effects, controllers, and varied feature configurations.
+// ---
+
 #include <memory>
 #include <string>
 

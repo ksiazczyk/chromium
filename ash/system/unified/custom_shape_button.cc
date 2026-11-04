@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomShapeButton implementation
+// summary: Implements an image button base class that paints a custom shape path with ink drop styling and a matching highlight path.
+// ---
+
 #include "ash/system/unified/custom_shape_button.h"
 
 #include "ash/style/ash_color_id.h"

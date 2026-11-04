@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CurrentLocaleView implementation
+// summary: Implements the status area tray item that shows the abbreviation of the current locale and updates from the locale model.
+// ---
+
 #include "ash/system/unified/current_locale_view.h"
 
 #include "ash/session/session_controller_impl.h"

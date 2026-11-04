@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake video conference effects declarations
+// summary: Declares the SimpleToggleEffect base class and a series of fake toggle and set-value effects used by unit tests and the video conference bubble emulator.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_EFFECTS_FAKE_VIDEO_CONFERENCE_EFFECTS_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_EFFECTS_FAKE_VIDEO_CONFERENCE_EFFECTS_H_
 

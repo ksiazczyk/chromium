@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME mode tray icon view header
+// summary: Declares ImeModeView, a tray item that observes IME, locale and display state to show or hide the input method icon on the shelf.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_IME_MODE_VIEW_H_
 #define ASH_SYSTEM_UNIFIED_IME_MODE_VIEW_H_
 

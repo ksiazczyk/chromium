@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMenuButton implementation
+// summary: Implements a 48x48 image button with material design ink drop, focus ring, and tooltip text for Ash system menus.
+// ---
+
 #include "ash/system/tray/system_menu_button.h"
 
 #include "ash/style/color_util.h"

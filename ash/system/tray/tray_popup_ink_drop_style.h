@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayPopupInkDropStyle enum
+// summary: Defines the TrayPopupInkDropStyle enum describing host-centered, inset-bounds, and fill-bounds ink drop styles for system menu targets.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRAY_POPUP_INK_DROP_STYLE_H_
 #define ASH_SYSTEM_TRAY_TRAY_POPUP_INK_DROP_STYLE_H_
 

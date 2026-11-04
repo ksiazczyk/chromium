@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash unit tests entry point
+// summary: Main entry point for the ash_unittests binary, initializing Mojo and launching Ash unit tests through AshTestSuite with racy feature list overrides allowed.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "chromeos/ash/components/test/ash_test_suite.h"

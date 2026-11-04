@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings view implementation
+// summary: Implements the main quick settings bubble container, arranging feature tiles, sliders, media view, header, footer, and detailed views with pagination and accessibility handling.
+// ---
+
 #include "ash/system/unified/quick_settings_view.h"
 
 #include "ash/ash_element_identifiers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractedByTapRecorder implementation
+// summary: Implements an event handler that logs UMA histograms distinguishing tap and click interactions on a system tray view.
+// ---
+
 #include "ash/system/tray/interacted_by_tap_recorder.h"
 
 #include "base/metrics/histogram_macros.h"

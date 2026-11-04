@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SizeRangeLayout unit tests
+// summary: Unit tests verifying SizeRangeLayout construction, invalid size handling, clamping, and delegation to the internal layout manager.
+// ---
+
 #include <memory>
 
 #include "ash/system/tray/size_range_layout.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlanceableTrayBubbleView unit tests
+// summary: Unit test verifying that the calendar view height adapts to display height thresholds within the glanceable tray bubble.
+// ---
+
 #include "ash/system/unified/glanceable_tray_bubble_view.h"
 
 #include "ash/root_window_controller.h"

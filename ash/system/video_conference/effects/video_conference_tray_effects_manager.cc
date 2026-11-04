@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference tray effects manager implementation
+// summary: Implements VideoConferenceTrayEffectsManager, which registers effect delegates, arranges toggle effect buttons into a table, and notifies observers about effect changes.
+// ---
+
 #include "ash/system/video_conference/effects/video_conference_tray_effects_manager.h"
 
 #include <algorithm>

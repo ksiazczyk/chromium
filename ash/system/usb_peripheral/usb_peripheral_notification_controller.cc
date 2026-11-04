@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB peripheral notification controller implementation
+// summary: Implements Ash notifications for invalid DisplayPort, USB4, or Thunderbolt cables, speed-limiting cables, and USB device or endpoint limits, including profile prefs and click handling.
+// ---
+
 #include "ash/system/usb_peripheral/usb_peripheral_notification_controller.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings metrics utility implementation
+// summary: Implements helpers that record UMA histograms for quick settings button activations, feature pod toggles, dive-ins, visibility, and slider changes, including demo session exit metrics.
+// ---
+
 #include "ash/system/unified/quick_settings_metrics_util.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

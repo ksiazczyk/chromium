@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick settings view unit tests
+// summary: Unit tests for the quick settings view, verifying compact tile behavior for cast and auto-rotate, screen capture and DND tiles, pagination, and accessibility focus handling.
+// ---
+
 #include "ash/system/unified/quick_settings_view.h"
 
 #include "ash/public/cpp/ash_view_ids.h"

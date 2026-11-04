@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User chooser detailed view controller unit tests
+// summary: Unit tests for the user chooser detailed view, verifying multi-profile login display and user switching while overview mode is active.
+// ---
+
 #include "ash/system/unified/user_chooser_detailed_view_controller.h"
 
 #include <memory>

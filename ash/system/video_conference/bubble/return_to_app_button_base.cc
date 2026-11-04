@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Return-to-app button base implementation
+// summary: Implements the base button for returning to a media app, showing camera, microphone, and screen share capture state icons.
+// ---
+
 #include "ash/system/video_conference/bubble/return_to_app_button_base.h"
 
 #include <memory>

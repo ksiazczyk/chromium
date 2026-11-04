@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference utility functions
+// summary: Implements helpers for the video conference tray, including effect histogram names, media app display text and a Skottie color map that adapts gradient animations to dark and light mode.
+// ---
+
 #include "ash/system/video_conference/video_conference_utils.h"
 
 #include <string>

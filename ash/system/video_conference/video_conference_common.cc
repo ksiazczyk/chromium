@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference common struct definitions
+// summary: Defines constructors, assignment operators, and equality checks for shared video conference structs such as TitleChangeInfo and VideoConferenceClientUpdate.
+// ---
+
 #include "ash/system/video_conference/video_conference_common.h"
 
 namespace ash {

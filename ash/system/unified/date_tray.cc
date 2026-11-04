@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateTray implementation
+// summary: Implements the shelf date tray button that opens the glanceable tray bubble next to the unified system tray.
+// ---
+
 #include "ash/system/unified/date_tray.h"
 
 #include "ash/constants/tray_background_view_catalog.h"

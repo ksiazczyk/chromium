@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification icons controller implementation
+// summary: Implements the controller that decides which pinned or critical notification icons appear in the system tray button and manages their views.
+// ---
+
 #include "ash/system/unified/notification_icons_controller.h"
 
 #include <optional>

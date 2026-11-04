@@ -1,0 +1,4 @@
+# Docerion header of vc_resources.grd.
+type: config
+title: Grit resource list for VC tray animations
+summary: Grit XML that packages the two gradient animation JSON files into a header and pak resource bundle for the video conference tray.

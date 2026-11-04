@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the unified system tray directory
+summary: Lists the code owner email address responsible for the ash/system/unified directory.

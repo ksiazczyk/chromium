@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video conference tray controller unit tests
+// summary: Ash unit tests for the tray controller covering speak-on-mute and use-while-disabled nudges, toasts, prefs, and histogram metrics.
+// ---
+
 #include "ash/system/video_conference/video_conference_tray_controller.h"
 
 #include <string_view>

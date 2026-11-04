@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VC tile UI controller implementation
+// summary: Implements the controller that creates and updates feature tiles for video conference effects, including DLC download state handling.
+// ---
+
 #include "ash/system/video_conference/bubble/vc_tile_ui_controller.h"
 
 #include <optional>

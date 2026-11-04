@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinuxAppsBubbleView class header
+// summary: Declares LinuxAppsBubbleView, a simplified tray bubble without effects controls shown when only Linux apps are capturing media.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_LINUX_APPS_BUBBLE_VIEW_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_LINUX_APPS_BUBBLE_VIEW_H_
 

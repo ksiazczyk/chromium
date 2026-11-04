@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference tray controller implementation
+// summary: Implements the singleton controller bridging video conference app management and tray UI, handling mute state, nudges, toasts, prefs, and camera privacy events.
+// ---
+
 #include "ash/system/video_conference/video_conference_tray_controller.h"
 
 #include <array>

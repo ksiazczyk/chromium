@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toggle effects view unit tests
+// summary: Unit tests for the toggle effects view, covering button clicks, histogram recording and effect state updates.
+// ---
+
 #include "ash/system/video_conference/bubble/toggle_effects_view.h"
 
 #include "ash/constants/ash_features.h"

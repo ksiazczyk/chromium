@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualKeyboardObserver interface header
+// summary: Defines the ash VirtualKeyboardObserver interface that is notified when keyboard suppression changes.
+// ---
+
 #ifndef ASH_SYSTEM_VIRTUAL_KEYBOARD_VIRTUAL_KEYBOARD_OBSERVER_H_
 #define ASH_SYSTEM_VIRTUAL_KEYBOARD_VIRTUAL_KEYBOARD_OBSERVER_H_
 

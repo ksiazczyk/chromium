@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended updates notice quick settings view implementation
+// summary: Implements the quick settings banner shown when a device is eligible for extended updates, recording show and click metrics and opening the About ChromeOS page.
+// ---
+
 #include "ash/system/update/extended_updates_notice_quick_settings_view.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

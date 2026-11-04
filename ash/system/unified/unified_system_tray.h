@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified system tray header
+// summary: Declares UnifiedSystemTray, the Chrome OS system tray view that manages the quick settings bubble, slider bubbles, and related observers.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_UNIFIED_SYSTEM_TRAY_H_
 #define ASH_SYSTEM_UNIFIED_UNIFIED_SYSTEM_TRAY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemTrayNotifier implementation
+// summary: Implements the ash system tray notifier that registers and notifies IME, network, screen security, system tray, and virtual keyboard observers.
+// ---
+
 #include "ash/system/tray/system_tray_notifier.h"
 
 #include "ash/system/ime/ime_observer.h"

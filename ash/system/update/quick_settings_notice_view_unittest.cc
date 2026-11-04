@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick settings notice view unit tests
+// summary: Unit tests for QuickSettingsNoticeView verifying button press handling and the switch between full and short notice text in narrow layouts.
+// ---
+
 #include "ash/system/update/quick_settings_notice_view.h"
 
 #include <memory>

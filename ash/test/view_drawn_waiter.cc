@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewDrawnWaiter implementation
+// summary: Implements a waiter that blocks a test until a view is drawn, visible and has non-zero size, quitting the run loop on visibility or bounds changes.
+// ---
+
 #include "ash/test/view_drawn_waiter.h"
 
 #include "base/check.h"

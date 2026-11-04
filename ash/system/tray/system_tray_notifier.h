@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemTrayNotifier class declaration
+// summary: Declares the SystemTrayNotifier class that manages observer lists and dispatches system tray events for IME, network, screen security, bubbles, and the virtual keyboard.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_SYSTEM_TRAY_NOTIFIER_H_
 #define ASH_SYSTEM_TRAY_SYSTEM_TRAY_NOTIFIER_H_
 

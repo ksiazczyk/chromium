@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings footer view declarations
+// summary: Declares QuickSettingsFooter and battery info views that display battery status, settings, sign out and power controls at the bottom of quick settings.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_QUICK_SETTINGS_FOOTER_H_
 #define ASH_SYSTEM_UNIFIED_QUICK_SETTINGS_FOOTER_H_
 

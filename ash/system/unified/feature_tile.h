@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature tile
+// summary: Declares the FeatureTile button used as a Quick Settings entry point, with primary and compact types and download progress states.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_FEATURE_TILE_H_
 #define ASH_SYSTEM_UNIFIED_FEATURE_TILE_H_
 

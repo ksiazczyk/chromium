@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StatusAreaOverflowButtonTray unit tests
+// summary: Unit tests covering toggle behavior, accessible name updates, and UMA shown/hidden metrics of the status area overflow button tray.
+// ---
+
 #include "ash/system/tray/status_area_overflow_button_tray.h"
 
 #include "ash/session/session_controller_impl.h"

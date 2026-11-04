@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toggle effects view implementation
+// summary: Implements the view and buttons that toggle individual video conference effects on and off in the bubble.
+// ---
+
 #include "ash/system/video_conference/bubble/toggle_effects_view.h"
 
 #include <algorithm>

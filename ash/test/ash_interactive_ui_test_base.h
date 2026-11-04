@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI test base declaration
+// summary: Declares AshInteractiveUITestBase, an AshTestBase subclass that sets up the environment needed for interactive UI tests.
+// ---
+
 #ifndef ASH_TEST_ASH_INTERACTIVE_UI_TEST_BASE_H_
 #define ASH_TEST_ASH_INTERACTIVE_UI_TEST_BASE_H_
 

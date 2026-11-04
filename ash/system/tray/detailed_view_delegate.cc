@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Detailed view delegate implementation
+// summary: Implements the delegate for tray detailed views, handling transitions to the main view, closing the bubble, and creating back, info, settings, and help buttons.
+// ---
+
 #include "ash/system/tray/detailed_view_delegate.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

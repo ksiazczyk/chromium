@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshTestHelper unit tests
+// summary: Unit tests for AshTestHelper that verify enough of Ash is initialized to create, show, activate, and make a widget visible.
+// ---
+
 #include "ash/test/ash_test_helper.h"
 
 #include "ash/shell.h"

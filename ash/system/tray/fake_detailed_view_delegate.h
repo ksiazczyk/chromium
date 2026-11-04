@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake detailed view delegate class declaration
+// summary: Declares FakeDetailedViewDelegate, a test double that records how often CloseBubble is invoked.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_FAKE_DETAILED_VIEW_DELEGATE_H_
 #define ASH_SYSTEM_TRAY_FAKE_DETAILED_VIEW_DELEGATE_H_
 

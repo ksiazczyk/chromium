@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature pod controller base implementation
+// summary: Implements label press handling and UMA tracking helpers for toggle, dive-in, and visibility events of feature pod controllers.
+// ---
+
 #include "ash/system/unified/feature_pod_controller_base.h"
 
 #include "ash/constants/ash_features.h"

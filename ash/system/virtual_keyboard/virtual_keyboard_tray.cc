@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual keyboard tray implementation
+// summary: Implements the shelf tray button that shows and hides the virtual keyboard, records metrics, and updates its icon color based on active state.
+// ---
+
 #include "ash/system/virtual_keyboard/virtual_keyboard_tray.h"
 
 #include <algorithm>

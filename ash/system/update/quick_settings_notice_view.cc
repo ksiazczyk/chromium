@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings notice view base implementation
+// summary: Implements the base label button for update notices in quick settings, handling styling, rounded borders, button metrics, and narrow-layout text.
+// ---
+
 #include "ash/system/update/quick_settings_notice_view.h"
 
 #include "ash/public/cpp/ash_view_ids.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayBubbleWrapper class declaration
+// summary: Declares the wrapper that creates and manages the widget components of a tray bubble, with an option to disable event filtering for cases like the Eche window.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRAY_BUBBLE_WRAPPER_H_
 #define ASH_SYSTEM_TRAY_TRAY_BUBBLE_WRAPPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual keyboard tray unit tests
+// summary: Tests that tapping the tray toggles the floating virtual keyboard and that the tray exposes the correct accessible name.
+// ---
+
 #include "ash/system/virtual_keyboard/virtual_keyboard_tray.h"
 
 #include "ash/keyboard/ui/keyboard_ui_controller.h"

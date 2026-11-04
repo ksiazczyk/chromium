@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference bubble view implementation
+// summary: Implements the bubble view that hosts camera and microphone effect controls, warning views, and navigation to apps capturing video or audio.
+// ---
+
 #include "ash/system/video_conference/bubble/bubble_view.h"
 
 #include <memory>
