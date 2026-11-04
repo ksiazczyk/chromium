@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionHandler
+// summary: Interface for handling browser services calls, such as toolbar and button updates and intent handling, when a Custom Tabs session id matches.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.app.Activity;

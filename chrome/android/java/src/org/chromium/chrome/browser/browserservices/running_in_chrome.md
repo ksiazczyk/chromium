@@ -1,3 +1,9 @@
+---
+type: reference
+title: Running in Chrome
+summary: Explains how Chrome discloses to users that Trusted Web Activities share Chrome's profile and storage, covering behavior before and since version 84 and the related code.
+---
+
 # Running in Chrome
 
 When a Trusted Web Activity (TWA) is launched to Chrome, it it shares Chrome's

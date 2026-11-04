@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledWebappPermissionStore
+// summary: SharedPreferences-backed store that keeps, per origin, the delegate apps, the delegating app and its notification and geolocation permission states for permission delegation.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import android.content.Context;

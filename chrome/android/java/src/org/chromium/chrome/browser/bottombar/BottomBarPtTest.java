@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom bar public transit tests
+// summary: Instrumented transit tests verifying the bottom bar container is inflated and visible and the app menu stays below the top controls.
+// ---
+
 package org.chromium.chrome.browser.bottombar;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

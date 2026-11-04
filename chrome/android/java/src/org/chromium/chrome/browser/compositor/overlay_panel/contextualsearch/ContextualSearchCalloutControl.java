@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Search callout control
+// summary: Controls the callout view shown in the Contextual Search bar, including feature-flag handling for its icon and opacity updates during panel transitions.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel.contextualsearch;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

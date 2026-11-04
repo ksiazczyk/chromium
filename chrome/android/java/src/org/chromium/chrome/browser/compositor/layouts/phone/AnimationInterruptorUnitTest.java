@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimationInterruptorUnitTest
+// summary: Robolectric unit tests verifying that AnimationInterruptor triggers and cleans up animation interruption on layout changes, tab switches, navigations, and scrim or search box transitions.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu helper for WebContents
+// summary: Handles generating and dismissing context menus for WebContents, bridging native context menu logic with the Android UI.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.chromium.build.NullUtil.assertNonNull;

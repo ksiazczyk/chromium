@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddToHomescreenVerifier
+// summary: Provides homescreen-shortcut specific scope verification behaviour for the CurrentPageVerifier, deriving the scope from the webapp's URL origin.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller.webapps;
 
 import static org.chromium.build.NullUtil.assertNonNull;

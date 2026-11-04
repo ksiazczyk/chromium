@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay panel content container
+// summary: Manages the WebContents shown inside an overlay panel, handling loading, navigation, and a simple API for panel actions.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

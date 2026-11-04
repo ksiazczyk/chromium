@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Search quick action control
+// summary: Manages Contextual Search quick actions such as calling a phone number or opening an address in Maps, resolving icons, intents and captions.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel.contextualsearch;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

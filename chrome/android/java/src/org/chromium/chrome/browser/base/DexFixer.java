@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: DexFixer workarounds for invalid or unreadable dex
+// summary: Triggers dex compilation workarounds for Android bugs that leave dex files invalid or unreadable, skipping releases after Q and system installs.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import android.content.pm.ApplicationInfo;

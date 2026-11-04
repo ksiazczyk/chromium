@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitCompatAppComponentFactory ClassLoader workaround
+// summary: AppComponentFactory that sets correct ClassLoaders for chrome split components and records the reason the process was created.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import static org.chromium.chrome.browser.base.SplitCompatApplication.CHROME_SPLIT_NAME;

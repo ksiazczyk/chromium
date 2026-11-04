@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkVerifier
+// summary: Provides WebAPK specific scope verification behaviour for the CurrentPageVerifier, checking URLs against the webapp's declared scope URL.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller.webapps;
 
 import static org.chromium.build.NullUtil.assertNonNull;

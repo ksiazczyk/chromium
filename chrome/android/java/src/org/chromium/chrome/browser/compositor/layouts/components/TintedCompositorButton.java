@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TintedCompositorButton
+// summary: Java class extending CompositorButton that uses color tinting instead of multiple drawable resources, adding highlight state and background tint support.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.components;
 
 import android.content.Context;

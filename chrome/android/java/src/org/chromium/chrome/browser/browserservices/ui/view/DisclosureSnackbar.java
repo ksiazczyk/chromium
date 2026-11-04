@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisclosureSnackbar
+// summary: Android Java class extending DisclosurePersistentSnackbar to show a transient seven-second Running in Chrome snackbar only at first launch instead of a persistent disclosure.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.view;
 
 import android.content.res.Resources;

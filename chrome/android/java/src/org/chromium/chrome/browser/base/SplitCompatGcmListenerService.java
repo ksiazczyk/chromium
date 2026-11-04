@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitCompatGcmListenerService base class
+// summary: Base FirebaseMessagingService that loads its implementation from the chrome split and forwards FCM message, token, send and error callbacks to it.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import android.content.Context;

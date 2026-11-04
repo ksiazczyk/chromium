@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorButton
+// summary: Java class that tracks state for buttons rendered by the Chrome Android compositor, covering button types, opacity, press and hover state, tooltips, and click handling.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.components;
 
 import android.content.Context;

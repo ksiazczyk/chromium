@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab item picker offscreen renderer
+// summary: Manages the lifecycle and offscreen window dimensions for background tabs undergoing on-demand capture in the tab item picker.
+// ---
+
 package org.chromium.chrome.browser.chrome_item_picker;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedWebActivityOpenTimeRecorder
+// summary: Records UMA metrics on how long Trusted Web Activities are used and when a TWA is opened in a verified origin.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller.trustedwebactivity;
 
 import android.os.SystemClock;

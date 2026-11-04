@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verifier
+// summary: Interface defining the verification delegate for CurrentPageVerifier, with implementations specific to Trusted Web Activities, WebAPKs or A2HS.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller;
 
 import org.chromium.base.Promise;

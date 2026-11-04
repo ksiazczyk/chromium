@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AreaMotionEventFilter intercepting events in a screen area
+// summary: Event filter that intercepts touch and hover events starting within a specified rectangular area on screen and notifies an AreaMotionEventHandler.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.eventfilter;
 
 import android.content.Context;

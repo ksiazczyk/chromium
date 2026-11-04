@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DigitalGoodsConverter
+// summary: Shared helper for the converter classes, handling response code conversion between Play Billing and mojo formats and Bundle field validation.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import android.os.Bundle;

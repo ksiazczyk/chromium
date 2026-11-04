@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutManagerChromeTablet
+// summary: Tablet specialization of LayoutManagerChrome that adds tab strip layout helpers plus tablet features like bookmarking, sharing and multi-window support.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import android.content.Context;

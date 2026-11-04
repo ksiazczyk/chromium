@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'OverlayPanelStateProvider: interface for overlay panel state'
+// summary: Interface for observing overlay panel state and background color changes and querying whether the panel covers the full screen width.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import androidx.annotation.ColorInt;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlFilters with trivial test implementations
+// summary: Provides trivial UrlFilter implementations used in tests, one matching all URLs and one matching a single URL.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import android.text.TextUtils;

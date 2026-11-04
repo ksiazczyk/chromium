@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledWebappDataRegister
+// summary: Persists in shared preferences which installed webapps (TWAs or WebAPKs) Chrome holds data for, including migration of legacy UID-based records.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.content.Context;

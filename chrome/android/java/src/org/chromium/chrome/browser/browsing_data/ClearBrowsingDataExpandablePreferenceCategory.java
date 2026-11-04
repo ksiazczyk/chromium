@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearBrowsingDataExpandablePreferenceCategory
+// summary: Expandable preference group that groups clear browsing data preferences and toggles its expanded state on click.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import android.content.Context;

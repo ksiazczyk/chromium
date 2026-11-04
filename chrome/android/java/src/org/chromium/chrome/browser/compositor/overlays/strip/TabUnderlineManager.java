@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab underline manager
+// summary: Manages native tab underline controllers across Android tab UI surfaces and notifies observers of indicator state changes.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import org.jni_zero.CalledByNative;

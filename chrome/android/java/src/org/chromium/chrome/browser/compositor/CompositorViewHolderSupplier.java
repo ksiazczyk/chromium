@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorViewHolderSupplier
+// summary: Manages the observable supplier and UnownedUserData used to look up the CompositorViewHolder for a given WindowAndroid.
+// ---
+
 package org.chromium.chrome.browser.compositor;
 
 import org.chromium.base.ResettersForTesting;

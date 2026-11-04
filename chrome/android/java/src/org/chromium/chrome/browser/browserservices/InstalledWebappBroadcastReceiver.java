@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledWebappBroadcastReceiver
+// summary: Broadcast receiver that detects when an installed webapp (TWA or WebAPK) is uninstalled or its data is cleared, then clears the corresponding Chrome data at domain level.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.content.BroadcastReceiver;

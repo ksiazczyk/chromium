@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TWA sharing controller for Chrome Android
+// summary: Delivers incoming Android share data to the Web Share Target of a web app running in a custom tab activity, handling both Trusted Web Activities and WebAPKs.
+// ---
+
 package org.chromium.chrome.browser.browserservices.trustedwebactivityui.sharing;
 
 import static org.chromium.build.NullUtil.assertNonNull;

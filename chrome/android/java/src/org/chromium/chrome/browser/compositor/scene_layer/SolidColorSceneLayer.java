@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Solid color scene layer
+// summary: Java scene layer that provides a solid background color for layouts without other composited content, delegating the color to native code through JNI.
+// ---
+
 package org.chromium.chrome.browser.compositor.scene_layer;
 
 import androidx.annotation.ColorInt;

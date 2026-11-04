@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentCaptureHistoryDeletionObserver
+// summary: Java observer that clears Content Capture data when browsing history is deleted, falling back to clearing all data if URL-specific deletion fails.
+// ---
+
 package org.chromium.chrome.browser.content_capture;
 
 import org.chromium.base.Log;

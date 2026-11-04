@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for compositor layout components
+summary: Per-file code owner assignments for the CompositorButton and TintedCompositorTextButton sources in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisclosureController
+// summary: Abstract base class holding the common disclosure implementation shared by the Webapp and Trusted Web Activity disclosure controllers.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

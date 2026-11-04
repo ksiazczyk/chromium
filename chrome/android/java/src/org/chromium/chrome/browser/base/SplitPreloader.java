@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitPreloader background split context preloading
+// summary: Preloads isolated split contexts on a background thread to avoid costly class loader creation at startup, with hooks running on background and UI threads.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyVerifier
+// summary: No-op Verifier implementation that never verifies URLs and simply returns the URL itself as its scope.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller;
 
 import org.chromium.base.Promise;

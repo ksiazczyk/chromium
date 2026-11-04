@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListPurchaseHistoryConverter
+// summary: Converter that validates and translates callback results into purchase references for ListPurchaseHistory calls.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import static org.chromium.chrome.browser.browserservices.digitalgoods.DigitalGoodsConverter.checkField;

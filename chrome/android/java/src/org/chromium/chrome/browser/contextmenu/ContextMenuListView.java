@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu list view
+// summary: Custom ListView that sizes the context menu to its contents while constraining width and height to fit the screen.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import android.content.Context;

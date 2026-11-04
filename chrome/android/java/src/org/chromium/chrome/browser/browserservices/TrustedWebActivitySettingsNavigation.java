@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedWebActivitySettingsNavigation
+// summary: Helper for launching Chrome site settings pages for the origins and domains associated with a Trusted Web Activity or WebAPK package.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedWebActivityClientWrappers
+// summary: Provides wrapper interfaces around AndroidX TrustedWebActivityService connection and connection pool classes so they can be mocked in tests.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.app.Notification;

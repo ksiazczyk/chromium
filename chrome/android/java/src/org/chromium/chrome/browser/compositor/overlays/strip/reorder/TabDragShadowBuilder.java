@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag shadow builder
+// summary: Custom DragShadowBuilder that draws a high-fidelity tab drag shadow with an outer glow and provides shadow metrics and touch offsets to the system.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

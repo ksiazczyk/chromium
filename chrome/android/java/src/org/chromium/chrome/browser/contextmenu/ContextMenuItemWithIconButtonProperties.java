@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu item with icon button properties
+// summary: Defines property keys for context menu items that include an end icon button, such as image, content description, and click listener.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import android.graphics.drawable.Drawable;

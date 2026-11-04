@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'OverlayPanelManager: decides which overlay panel is shown'
+// summary: Manages a set of overlay panels, using priorities and a suppressed-panel queue to decide which panel is active and exposing its state via a supplier.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import android.view.ViewGroup;

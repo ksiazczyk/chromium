@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearBrowsingDataFetcher
+// summary: Fetches and stores important sites and other forms of browsing history information for the clear browsing data flow.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import android.os.Parcel;

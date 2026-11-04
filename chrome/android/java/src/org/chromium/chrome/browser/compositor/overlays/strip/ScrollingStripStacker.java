@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollingStripStacker
+// summary: Strip stacker that layers tabs side by side in a scrolling strip and computes draw positions and visibility within visible bounds.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import org.chromium.build.annotations.NullMarked;

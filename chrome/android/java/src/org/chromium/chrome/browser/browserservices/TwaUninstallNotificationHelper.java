@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TwaUninstallNotificationHelper
+// summary: Creates and displays a notification after a Trusted Web Activity is uninstalled, offering the user a chance to clear associated browsing data.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.app.PendingIntent;

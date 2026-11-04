@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitCompatIntentService base class
+// summary: Base IntentService that loads its implementation from the chrome split and delegates intent handling to it, with a hook for attaching a context in tests.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import android.app.IntentService;

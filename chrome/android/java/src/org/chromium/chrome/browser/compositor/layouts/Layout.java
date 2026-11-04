@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layout
+// summary: Abstract base class for OpenGL-based layouts that draw tabs as a hardware-accelerated alternative to the Android UI, defining orientation, viewport modes and layout states.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import android.content.Context;

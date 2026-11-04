@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay panel progress bar observer
+// summary: Observer receiving progress bar events for panel content, including start, progress updates, and finish.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import org.chromium.build.annotations.NullMarked;

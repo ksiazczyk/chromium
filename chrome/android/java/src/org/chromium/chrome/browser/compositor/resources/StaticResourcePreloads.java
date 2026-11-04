@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StaticResourcePreloads
+// summary: Java class that lists high priority Chrome compositor drawable resources to preload synchronously and asynchronously at startup, depending on device form factor.
+// ---
+
 package org.chromium.chrome.browser.compositor.resources;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OtherFormsOfHistoryDialogFragment
+// summary: Dialog informing the user about other forms of browsing history, with a link to the My Activity page.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import android.app.Dialog;

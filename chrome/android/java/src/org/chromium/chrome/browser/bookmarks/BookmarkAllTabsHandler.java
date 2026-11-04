@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkAllTabsHandler
+// summary: Handles the Android "bookmark all tabs" action, recording user actions and histogram results before adding all open tabs to bookmarks.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.app.Activity;

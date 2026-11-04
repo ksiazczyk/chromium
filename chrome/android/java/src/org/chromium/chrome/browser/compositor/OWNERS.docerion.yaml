@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists code owners for the compositor directory, with per-file ownership rules for specific source files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitCompatMinidumpUploadJobService base class
+// summary: Base MinidumpUploadJobService that loads its implementation from the chrome split and delegates crash minidump upload job creation to it.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import android.content.Context;

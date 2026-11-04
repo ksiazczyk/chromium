@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewBackgroundTabFakeTabSwitcherButton
+// summary: Fake tab switcher button used during the new background tab animation to stand in for the real toolbar button, supporting scaling, translation, and tab count updates.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import static org.chromium.chrome.browser.compositor.layouts.phone.NewBackgroundTabAnimationHostView.CROSS_FADE_DURATION_MS;

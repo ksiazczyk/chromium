@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TwaSplashController
+// summary: Orchestrates showing and removing splash screens for Trusted Web Activity apps, displaying the client-provided image until first paint or failure occurs.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.splashscreen.trustedwebactivity;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledWebappBridge
+// summary: JNI bridge that exposes Trusted Web Activity client app permissions to native code, passing permission settings and origins and relaying permission decisions and change notifications.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import android.net.Uri;

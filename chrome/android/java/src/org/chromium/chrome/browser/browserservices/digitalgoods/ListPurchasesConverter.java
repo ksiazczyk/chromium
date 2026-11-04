@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListPurchasesConverter
+// summary: Converter that validates and translates callback results into PurchaseReference objects for ListPurchases calls.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

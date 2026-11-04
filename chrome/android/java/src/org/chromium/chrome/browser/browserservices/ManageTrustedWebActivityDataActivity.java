@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManageTrustedWebActivityDataActivity
+// summary: Activity launched by Trusted Web Activity apps when the user clears data, redirecting to site settings for the websites associated with the calling app.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.os.Bundle;

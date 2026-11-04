@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Search panel metrics
+// summary: Tracks Contextual Search panel activity and logs user interaction metrics to UMA when the panel is dismissed, including durations and results seen.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel.contextualsearch;
 
 import org.chromium.base.TimeUtils;

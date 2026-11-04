@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TitleBitmapFactory
+// summary: Factory that renders text and favicon bitmaps for tab strip titles, handling tab, tab group, and button text with incognito styling and size limits.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.content;
 
 import android.content.Context;

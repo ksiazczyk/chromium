@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextMenuHeaderCoordinator
+// summary: Builds the property model for the context menu header from page title, alt text, and emphasized URLs, and creates the header mediator.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import android.app.Activity;

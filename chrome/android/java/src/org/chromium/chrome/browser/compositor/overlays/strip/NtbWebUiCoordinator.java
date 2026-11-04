@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtbWebUiCoordinator for the WebUI new tab button in the tab strip
+// summary: Coordinates a WebUI-based new tab button in the Android tab strip, hosting a WebContents layer that replaces the native new tab button and routing touch, mouse and hover events in its area.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.chromium.build.NullUtil.assertNonNull;

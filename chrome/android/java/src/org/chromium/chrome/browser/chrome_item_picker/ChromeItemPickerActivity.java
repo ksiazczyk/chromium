@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome item picker activity
+// summary: Android activity that serves as the entry point for selecting Chrome items such as tabs, resolving the target window and launching the tab item picker coordinator.
+// ---
+
 package org.chromium.chrome.browser.chrome_item_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

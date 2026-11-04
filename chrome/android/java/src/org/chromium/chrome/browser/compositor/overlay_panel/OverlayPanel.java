@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay panel controller
+// summary: Main class controlling the overlay panel, implementing state changes, gestures, activity state handling, and scene overlay behavior.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitCompatContentProvider base class with Impl delegation
+// summary: ContentProvider base class that lazily loads its implementation from the chrome split and forwards provider calls thread-safely.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import static org.chromium.chrome.browser.base.SplitCompatApplication.CHROME_SPLIT_NAME;

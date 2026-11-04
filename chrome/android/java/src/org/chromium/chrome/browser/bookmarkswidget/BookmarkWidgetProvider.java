@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkWidgetProvider
+// summary: Android AppWidgetProvider for the Chrome bookmarks widget that handles updates, resize threshold changes, widget deletion and broadcast-driven refreshes of all widget instances.
+// ---
+
 package org.chromium.chrome.browser.bookmarkswidget;
 
 import android.appwidget.AppWidgetManager;

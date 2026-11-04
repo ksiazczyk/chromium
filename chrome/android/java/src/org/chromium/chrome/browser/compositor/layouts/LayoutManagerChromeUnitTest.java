@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayoutManagerChromeUnitTest
+// summary: Robolectric unit tests for LayoutManagerChrome covering browser controls, hub layout and toolbar swipe behavior using Mockito mocks.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import static org.mockito.ArgumentMatchers.anyBoolean;

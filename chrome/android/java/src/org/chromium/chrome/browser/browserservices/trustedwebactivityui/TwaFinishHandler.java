@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TwaFinishHandler
+// summary: Applies TWA-specific logic when the activity finishes, attempting to finish and remove the task for WebAPKs via the WebApkServiceClient or Custom Tabs connection.
+// ---
+
 package org.chromium.chrome.browser.browserservices.trustedwebactivityui;
 
 import android.app.Activity;

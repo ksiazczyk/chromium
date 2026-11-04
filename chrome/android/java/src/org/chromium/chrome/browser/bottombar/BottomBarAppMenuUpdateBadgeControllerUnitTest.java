@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom bar app menu update badge controller unit tests
+// summary: Robolectric and Mockito unit tests for the bottom bar app menu update badge controller.
+// ---
+
 package org.chromium.chrome.browser.bottombar;
 
 import static org.junit.Assert.assertEquals;

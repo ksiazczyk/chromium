@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DigitalGoodsImpl
+// summary: Implementation of the DigitalGoods mojo interface that forwards getDetails, listPurchases, listPurchaseHistory and consume calls to the DigitalGoodsAdapter.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import android.net.Uri;

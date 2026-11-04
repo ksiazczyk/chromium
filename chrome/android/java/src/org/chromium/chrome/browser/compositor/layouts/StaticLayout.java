@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StaticLayout for showing a single tab full screen
+// summary: Layout implementation that displays a single tab at full screen, showing a thumbnail of the tab until it is ready to be shown.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

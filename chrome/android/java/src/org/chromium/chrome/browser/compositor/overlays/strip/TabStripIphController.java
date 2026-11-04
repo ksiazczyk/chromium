@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip IPH controller
+// summary: Controls the display of In-Product Help bubbles on the tablet tab strip for features like tab group sync, Glic, and vertical tabs.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import android.content.res.Resources;

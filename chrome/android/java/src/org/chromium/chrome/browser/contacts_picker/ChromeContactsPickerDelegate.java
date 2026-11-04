@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeContactsPickerDelegate
+// summary: Chrome-specific ContactsPickerDelegate that builds and shows the ContactsPickerDialog with edge-to-edge padding support and cancels it on request.
+// ---
+
 package org.chromium.chrome.browser.contacts_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

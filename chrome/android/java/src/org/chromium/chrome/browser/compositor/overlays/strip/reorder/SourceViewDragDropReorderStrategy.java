@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Source view drag-and-drop reorder strategy
+// summary: Coordinates drag-and-drop reordering that starts from a strip view, dispatching to tab, multi-tab, or group sub-strategies as the drag moves on, off, and back onto the strip.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

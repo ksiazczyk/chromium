@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionDataHolder
+// summary: Singleton that tracks active session handlers per task and routes new intents and browser services calls to the focused activity's session.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeIsolatedWorldIds
+// summary: Java annotation defining Chrome isolated world ID constants, mirrored from the C++ chrome_isolated_world_ids header and kept in sync with it.
+// ---
+
 package org.chromium.chrome.browser.common;
 
 import androidx.annotation.IntDef;

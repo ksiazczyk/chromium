@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextMenuHeaderTextView
+// summary: Custom linear layout for the context menu header that supports expanding and collapsing ellipsized text with accessibility expand and collapse actions.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static android.view.accessibility.AccessibilityNodeInfo.AccessibilityAction.ACTION_COLLAPSE;

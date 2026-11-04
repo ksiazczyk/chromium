@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthTabVerifier
+// summary: Runs Digital Asset Link verification for AuthTab and returns an activity result when the matching redirect URL is navigated to.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller;
 
 import static org.chromium.build.NullUtil.assertNonNull;

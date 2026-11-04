@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StripLayoutView
+// summary: Abstract base class that tracks position and rendering information for tab strip items such as tabs and group indicators drawn on the GL canvas.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import android.content.Context;

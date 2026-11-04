@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollDelegate
+// summary: Delegate that manages tab strip scrolling logic, documenting LTR and RTL coordinate systems and handling scroll offsets and durations.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import android.content.Context;

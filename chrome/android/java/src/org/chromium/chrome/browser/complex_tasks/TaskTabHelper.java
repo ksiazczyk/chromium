@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskTabHelper
+// summary: Java helper that stores parent tab task and root task IDs on Chrome tabs and exposes them to native code through JNI.
+// ---
+
 package org.chromium.chrome.browser.complex_tasks;
 
 import org.jni_zero.CalledByNative;

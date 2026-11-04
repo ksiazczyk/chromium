@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorView
+// summary: FrameLayout view that displays the UI compositor results, including webpages and the tab switcher, with native bindings.
+// ---
+
 package org.chromium.chrome.browser.compositor;
 
 import static androidx.core.view.WindowInsetsCompat.Type.displayCutout;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostMessageHandler
+// summary: Handles postMessage communications with a Custom Tabs session, managing the message channel, web contents state, and sender origin verification.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

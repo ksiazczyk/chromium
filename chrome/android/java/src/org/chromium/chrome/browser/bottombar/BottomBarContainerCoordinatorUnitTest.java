@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom bar container coordinator unit tests
+// summary: Robolectric unit tests for the bottom bar container coordinator, covering visibility, layout, and configuration change behavior.
+// ---
+
 package org.chromium.chrome.browser.bottombar;
 
 import static org.junit.Assert.assertEquals;

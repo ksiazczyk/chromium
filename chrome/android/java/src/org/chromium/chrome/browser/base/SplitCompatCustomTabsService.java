@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitCompatCustomTabsService base class
+// summary: Base CustomTabsService kept in the base module that loads its implementation from the chrome split and delegates warmup, session, prefetch and post message calls to it.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import android.content.Context;

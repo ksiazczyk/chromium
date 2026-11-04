@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu header view binder
+// summary: Binds context menu header model properties such as alt text, page title, and URLs to the corresponding header views.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import android.graphics.Bitmap;

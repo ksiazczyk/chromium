@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappVerifier
+// summary: Abstract base class sharing verification logic between the AddToHomescreenVerifier and WebApkVerifier, implementing the Verifier interface via scope checks.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller.webapps;
 
 import org.chromium.base.Promise;

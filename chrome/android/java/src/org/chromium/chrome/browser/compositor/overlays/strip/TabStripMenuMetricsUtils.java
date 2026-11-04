@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip menu metrics utility
+// summary: Defines and records UMA user action metrics for tab strip and tab group context menu interactions.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import androidx.annotation.StringDef;

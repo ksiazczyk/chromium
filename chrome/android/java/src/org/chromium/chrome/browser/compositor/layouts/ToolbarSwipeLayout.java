@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarSwipeLayout for the toolbar edge swipe effect
+// summary: Layout that defines the animation and positioning of tabs during the toolbar edge swipe gesture, including fling and switch-to-tab animations.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

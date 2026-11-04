@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom bar app menu update badge controller
+// summary: Controls the update badge shown on the app menu button in the Chrome Android bottom bar, reacting to profile and menu state changes.
+// ---
+
 package org.chromium.chrome.browser.bottombar;
 
 import org.chromium.base.Callback;

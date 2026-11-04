@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColdStartTracker heuristic for Android cold start detection
+// summary: Utility class that heuristically detects whether the first Activity was created during an application cold start, mainly for startup metrics.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

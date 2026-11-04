@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Owners file listing wylieb@google.com and deferring to the owners of components/content_capture for reviews.

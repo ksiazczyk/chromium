@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationPermissionUpdater
+// summary: Sets an origin's notification permission from the Android notification permission of the linked TWA or WebAPK and reverts to the pre-install permission on client app uninstall.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import android.content.ComponentName;

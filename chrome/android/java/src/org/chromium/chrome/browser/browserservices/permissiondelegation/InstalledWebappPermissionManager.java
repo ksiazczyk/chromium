@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledWebappPermissionManager
+// summary: Singleton that preserves and surfaces permissions of installed webapps such as TWAs and WebAPKs for their associated origins, coordinating the permission store and the JNI bridge.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import static android.Manifest.permission.ACCESS_COARSE_LOCATION;

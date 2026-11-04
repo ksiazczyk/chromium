@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearBrowsingDataCheckBoxPreference
+// summary: Checkbox preference representing one browsing data type in the clear browsing data screen, with support for clickable links in the summary.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import android.content.Context;

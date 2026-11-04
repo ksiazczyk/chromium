@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextMenuCoordinator
+// summary: Main coordinator for the context menu that creates the menu UI and header component, manages list views, popups, and web contents observation.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.chromium.build.NullUtil.assertNonNull;

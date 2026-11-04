@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutManagerHost
+// summary: Interface exposing the minimal host view API needed by layouts, including viewports, render requests, keyboard focus and browser controls, callable from the GL thread.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import android.content.Context;

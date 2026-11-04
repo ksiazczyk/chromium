@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reorder strategy interface
+// summary: Interface defining the lifecycle of tab strip reorder operations, including starting, updating, and stopping reorder mode and keyboard-driven reordering.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import android.graphics.PointF;

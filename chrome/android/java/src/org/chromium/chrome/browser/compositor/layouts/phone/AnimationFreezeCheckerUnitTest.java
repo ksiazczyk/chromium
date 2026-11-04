@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimationFreezeCheckerUnitTest
+// summary: Robolectric unit tests verifying that AnimationFreezeChecker records the expected histogram states for completed, cancelled, timed out, and repeated animations.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import org.junit.Before;

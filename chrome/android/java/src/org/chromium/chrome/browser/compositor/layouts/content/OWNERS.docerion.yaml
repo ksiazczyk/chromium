@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the compositor layouts content directory
+summary: Lists code owners for the directory and delegates ownership of TitleBitmapFactory.java to the owners of the tab strip overlays directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedActivityCoordinator
+// summary: Coordinates shared app-mode UI behavior between Trusted Web Activities and standalone webapps, handling verification-based UI decisions, immersive mode, theme, status bar, browser controls, and orientation.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui;
 
 import androidx.browser.trusted.TrustedWebActivityDisplayMode;

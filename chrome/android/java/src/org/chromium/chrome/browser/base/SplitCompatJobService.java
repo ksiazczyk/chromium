@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitCompatJobService base class
+// summary: Base JobService that loads its implementation from a specified installed split or falls back to the chrome split, delegating job start and stop handling to it.
+// ---
+
 package org.chromium.chrome.browser.base;
 
 import static org.chromium.chrome.browser.base.SplitCompatApplication.CHROME_SPLIT_NAME;
