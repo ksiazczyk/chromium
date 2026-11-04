@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set local password dialog element
+// summary: TypeScript element implementing the set local password dialog, validating the input and calling PasswordFactorEditor to update or set the local password.
+// ---
+
 import 'chrome://resources/ash/common/auth_setup/set_local_password_input.js';
 
 import {SetLocalPasswordInputElement} from 'chrome://resources/ash/common/auth_setup/set_local_password_input.js';

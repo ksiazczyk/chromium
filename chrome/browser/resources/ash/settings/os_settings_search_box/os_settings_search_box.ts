@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings search box element
+// summary: TypeScript element providing the settings search input and result list, combining search handlers and recording search metrics.
+// ---
+
 /**
  * @fileoverview 'os-settings-search-box' is the container for the search input
  * and settings search results.

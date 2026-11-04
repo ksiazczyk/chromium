@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings search result row element
+// summary: TypeScript element that renders one settings search result, handles selection and keyboard focus, and bolds query matches.
+// ---
+
 /**
  * @fileoverview 'os-search-result-row' is the container for one search result.
  */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adapter broker
+// summary: Proxy for the Bluetooth adapter Mojo service that forwards adapter and device events and exposes connection, discovery and info calls.
+// ---
+
 import {AdapterObserverReceiver, ConnectResult} from './adapter.mojom-webui.js';
 import type {AdapterInfo, AdapterObserverInterface, AdapterRemote, DiscoverySessionRemote} from './adapter.mojom-webui.js';
 import {BluetoothInternalsHandler} from './bluetooth_internals.mojom-webui.js';

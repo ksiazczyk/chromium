@@ -1,0 +1,4 @@
+# Docerion header of os_settings_main.html.
+type: source
+title: OS settings main template
+summary: HTML template for the os-settings-main element, arranging the managed header footnote and the main page container.

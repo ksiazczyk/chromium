@@ -1,0 +1,4 @@
+# Docerion header of settings_card.html.
+type: source
+title: Template for settings-card
+summary: HTML template for the settings card, rendering an optional header above a rounded card body that slots content.

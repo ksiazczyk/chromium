@@ -1,0 +1,4 @@
+# Docerion header of cups_printer_dialog_error.html.
+type: source
+title: Printer dialog error template
+summary: HTML template showing a warning icon and alert-colored error message inside printer dialogs.

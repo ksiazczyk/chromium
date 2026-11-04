@@ -1,0 +1,4 @@
+# Docerion header of device_table.html.
+type: source
+title: Device table template
+summary: HTML template with styles for the responsive device table listing name, address, RSSI, services, and GATT connection state.

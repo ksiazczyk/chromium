@@ -1,0 +1,4 @@
+# Docerion header of pin_autosubmit_dialog.html.
+type: source
+title: PIN autosubmit confirmation dialog template
+summary: HTML template for the dialog that confirms enabling PIN auto submit by prompting the user to re-enter their current PIN, with a PIN keyboard and error display.

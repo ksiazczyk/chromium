@@ -1,0 +1,4 @@
+# Docerion header of setup_fingerprint_dialog.html.
+type: source
+title: Fingerprint setup dialog template
+summary: HTML template for the fingerprint enrollment dialog showing instructions, a scanner location animation and a progress arc with add-another and close buttons.

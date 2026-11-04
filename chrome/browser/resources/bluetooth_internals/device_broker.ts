@@ -9,6 +9,12 @@
  * DeviceRemote being shared among all requesters.
  */
 
+// ---docerion
+// type: source
+// title: Device broker
+// summary: Provides cached GATT connections to Bluetooth devices, sharing one DeviceRemote among all requesters per address.
+// ---
+
 import {getAdapterBroker} from './adapter_broker.js';
 import type {DeviceRemote} from './device.mojom-webui.js';
 

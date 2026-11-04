@@ -8,6 +8,12 @@
  * the user to configure the restore apps and pages options on startup.
  */
 
+// ---docerion
+// type: source
+// title: Startup settings card element
+// summary: Polymer element for the startup settings card, defining the restore apps and pages dropdown options and supporting deep linking.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import '../os_settings_page/settings_card.js';
 import '../settings_shared.css.js';

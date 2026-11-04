@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reset browser proxy
+// summary: Browser proxy interface and singleton implementation sending factory reset and sanitize settings messages to the browser.
+// ---
+
 export interface OsResetBrowserProxy {
   /**
    * Initiates a factory reset and restarts.

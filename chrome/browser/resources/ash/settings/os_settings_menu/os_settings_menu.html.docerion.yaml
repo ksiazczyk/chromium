@@ -1,0 +1,4 @@
+# Docerion header of os_settings_menu.html.
+type: source
+title: OS settings menu template
+summary: HTML template and styles for the os-settings-menu element, wrapping menu items in an iron-selector based navigation list.

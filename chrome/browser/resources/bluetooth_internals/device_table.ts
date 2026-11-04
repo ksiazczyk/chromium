@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device table element
+// summary: Custom element rendering a device table that reacts to DeviceCollection events and fires inspect and forget events for rows.
+// ---
+
 /**
  * Javascript for DeviceTable UI, served from chrome://bluetooth-internals/.
  */

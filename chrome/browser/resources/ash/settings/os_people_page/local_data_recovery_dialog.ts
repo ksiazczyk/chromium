@@ -9,6 +9,12 @@
  *
  */
 
+// ---docerion
+// type: source
+// title: Local data recovery dialog element
+// summary: Polymer element implementing the confirmation dialog that disables local data recovery through the recovery factor editor using an auth token.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/js/assert.js';

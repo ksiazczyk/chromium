@@ -7,6 +7,12 @@
  * interact with the browser.
  */
 
+// ---docerion
+// type: source
+// title: OS settings search box browser proxy
+// summary: Browser proxy that lets the OS settings search box talk to the browser, such as opening the search feedback dialog.
+// ---
+
 export interface OsSettingsSearchBoxBrowserProxy {
   // <if expr="_google_chrome">
   /**

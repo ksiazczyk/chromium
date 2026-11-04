@@ -1,0 +1,4 @@
+# Docerion header of expandable_list_item.html.
+type: source
+title: Expandable list item element template
+summary: HTML template with styles and slots for the brief and expanded content of an expandable list item.

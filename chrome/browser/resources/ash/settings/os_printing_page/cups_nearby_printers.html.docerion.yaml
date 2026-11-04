@@ -1,0 +1,4 @@
+# Docerion header of cups_nearby_printers.html.
+type: source
+title: Nearby printers list template
+summary: HTML template for the nearby printers list, rendering printer entries and a no-search-results message.

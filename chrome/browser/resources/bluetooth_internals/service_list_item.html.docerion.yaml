@@ -1,0 +1,4 @@
+# Docerion header of service_list_item.html.
+type: source
+title: Service list item template
+summary: HTML template providing styles and structure for the expandable service list item with service info and characteristics sections.

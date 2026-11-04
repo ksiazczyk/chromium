@@ -1,0 +1,4 @@
+# Docerion header of lock_screen_subpage.html.
+type: source
+title: Lock screen subpage template
+summary: HTML template for the lock screen subpage with the screen lock toggle, PIN and password settings, recovery toggle, and fingerprint unlock entry.

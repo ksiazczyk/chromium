@@ -7,6 +7,12 @@
  * 'os-settings-sync-subpage' is the settings page containing sync settings.
  */
 
+// ---docerion
+// type: source
+// title: OS sync subpage element
+// summary: Implements the os-settings-sync-subpage element containing sync status, passphrase handling, encryption options, and personalization toggles.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';

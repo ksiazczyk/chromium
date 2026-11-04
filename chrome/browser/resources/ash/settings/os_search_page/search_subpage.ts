@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search subpage element
+// summary: Polymer element settings-search-subpage containing search engine and Quick Answers settings, with deep linking and navigation to the language settings page.
+// ---
+
 /**
  * @fileoverview 'settings-search-subpage' is the settings sub-page containing
  * search engine and quick answers settings.

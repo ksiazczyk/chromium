@@ -1,0 +1,4 @@
+# Docerion header of os_powerwash_dialog_esim_item.html.
+type: source
+title: eSIM profile item template
+summary: HTML template rendering a single installed eSIM profile entry shown in the powerwash dialog's profile list.

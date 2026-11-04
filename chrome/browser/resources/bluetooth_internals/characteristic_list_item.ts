@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Characteristic list item
+// summary: Custom element that renders a GATT characteristic's info, property bitfield and descriptor list when expanded.
+// ---
+
 import './descriptor_list.js';
 import './expandable_list_item.js';
 import './object_fieldset.js';

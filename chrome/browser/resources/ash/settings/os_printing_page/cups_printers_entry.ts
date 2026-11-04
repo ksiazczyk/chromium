@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer entry row element
+// summary: Implements the settings-cups-printers-entry element that renders one printer and dispatches events for saving it or opening its action menu.
+// ---
+
 /**
  * @fileoverview 'settings-cups-printers-entry' is a component that holds a
  * printer.

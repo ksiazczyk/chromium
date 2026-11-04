@@ -7,6 +7,12 @@
  *     chrome://bluetooth-internals/.
  */
 
+// ---docerion
+// type: source
+// title: Device collection
+// summary: EventTarget-based collection of Bluetooth devices that tracks additions, updates, and removals and notifies observers via events.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {DeviceInfo} from './device.mojom-webui.js';

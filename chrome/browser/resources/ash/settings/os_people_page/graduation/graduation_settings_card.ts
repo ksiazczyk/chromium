@@ -7,6 +7,12 @@
  * related to the Content Transfer app.
  */
 
+// ---docerion
+// type: source
+// title: Graduation settings card element
+// summary: Defines the graduation-settings-card Polymer element for Chrome OS people settings, handling deep links and launching the graduation app on click.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '../../settings_shared.css.js';

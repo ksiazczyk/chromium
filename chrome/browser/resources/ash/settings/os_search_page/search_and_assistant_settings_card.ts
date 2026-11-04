@@ -8,6 +8,12 @@
  * and assistant settings.
  */
 
+// ---docerion
+// type: source
+// title: Search and assistant settings card element
+// summary: Polymer element for the search-and-assistant-settings-card, wiring feature flags, enterprise policies, preferences and deep links for search and assistant settings.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import './magic_boost_review_terms_banner.js';
 import '../os_settings_page/settings_card.js';

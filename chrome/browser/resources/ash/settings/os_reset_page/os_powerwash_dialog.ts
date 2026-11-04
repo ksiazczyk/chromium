@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Powerwash dialog element
+// summary: Polymer element implementing the powerwash confirmation dialog, handling factory reset requests and eSIM profile warnings.
+// ---
+
 /**
  * @fileoverview
  * 'os-settings-powerwash-dialog' is a dialog shown to request confirmation

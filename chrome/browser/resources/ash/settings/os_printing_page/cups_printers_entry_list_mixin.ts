@@ -8,6 +8,12 @@
  * saved and nearby printers.
  */
 
+// ---docerion
+// type: source
+// title: Printer list update mixin
+// summary: Polymer mixin that listens to the printer entry manager and keeps the saved, nearby, and enterprise printer list properties up to date.
+// ---
+
 import type {ListPropertyUpdateMixinInterface} from 'chrome://resources/ash/common/cr_elements/list_property_update_mixin.js';
 import {ListPropertyUpdateMixin} from 'chrome://resources/ash/common/cr_elements/list_property_update_mixin.js';
 import {assert} from 'chrome://resources/js/assert.js';

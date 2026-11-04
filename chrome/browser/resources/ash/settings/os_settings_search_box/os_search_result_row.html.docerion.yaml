@@ -1,0 +1,4 @@
+# Docerion header of os_search_result_row.html.
+type: source
+title: OS settings search result row template
+summary: HTML template and styles for rendering a single OS settings search result row with icon, highlighted text, and action icon.

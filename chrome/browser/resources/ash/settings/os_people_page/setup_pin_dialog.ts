@@ -11,6 +11,12 @@
  * </settings-setup-pin-dialog>
  */
 
+// ---docerion
+// type: source
+// title: Setup PIN dialog element
+// summary: Defines the settings-setup-pin-dialog custom element that lets users choose and confirm a device PIN using the quick unlock PIN keyboard.
+// ---
+
 import 'chrome://resources/ash/common/quick_unlock/pin_keyboard.js';
 import 'chrome://resources/ash/common/quick_unlock/setup_pin_keyboard.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

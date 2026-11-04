@@ -1,0 +1,4 @@
+# Docerion header of privacy_hub_geolocation_warning_text.html.
+type: source
+title: Privacy hub geolocation warning text template
+summary: HTML template for the inline warning text with icon and localized link that opens the geolocation dialog.

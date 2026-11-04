@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy hub geolocation warning text element
+// summary: Defines the settings-privacy-hub-geolocation-warning-text element that emits a link-clicked event to launch the geolocation dialog.
+// ---
+
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 import {getTemplate} from './privacy_hub_geolocation_warning_text.html.js';

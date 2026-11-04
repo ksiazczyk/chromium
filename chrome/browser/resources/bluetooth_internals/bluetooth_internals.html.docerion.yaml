@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_internals.html.
+type: source
+title: Bluetooth Internals WebUI page markup
+summary: Main HTML page for the Bluetooth Internals WebUI, providing the sidebar navigation, adapter, devices and debug sections, device details template, and dialogs about location and nearby-devices permissions.

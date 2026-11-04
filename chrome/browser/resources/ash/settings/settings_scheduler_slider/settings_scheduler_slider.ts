@@ -8,6 +8,12 @@
  * start and end times.
  */
 
+// ---docerion
+// type: source
+// title: Settings scheduler slider element for Night Light schedule
+// summary: TypeScript Polymer element implementing the settings-scheduler-slider, letting users set custom start and end times for the Night Light schedule via preferences.
+// ---
+
 import '../settings_shared.css.js';
 
 import type {PrefsMixinInterface} from '/shared/settings/prefs/prefs_mixin.js';

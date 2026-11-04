@@ -1,0 +1,4 @@
+# Docerion header of manage_users_subpage.html.
+type: source
+title: Manage users subpage template
+summary: HTML template for the ChromeOS settings subpage that manages device user accounts, with toggles for guest browsing, sign-in restrictions and the user list.

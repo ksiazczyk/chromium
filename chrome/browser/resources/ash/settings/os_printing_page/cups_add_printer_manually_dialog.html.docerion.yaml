@@ -1,0 +1,4 @@
+# Docerion header of cups_add_printer_manually_dialog.html.
+type: source
+title: Add printer manually dialog template
+summary: HTML template for the dialog where users manually enter printer name, address, protocol, and queue.

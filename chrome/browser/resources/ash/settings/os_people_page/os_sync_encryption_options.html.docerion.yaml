@@ -1,0 +1,4 @@
+# Docerion header of os_sync_encryption_options.html.
+type: source
+title: OS sync encryption options template
+summary: HTML template showing radio buttons for encrypting sync data with Google credentials or a custom passphrase, plus passphrase creation inputs.

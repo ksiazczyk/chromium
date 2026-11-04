@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Hub browser proxy
+// summary: Browser proxy interface and implementation that fetch initial microphone, camera, geolocation, timezone and sunrise/sunset states for Privacy Hub.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 import type {GeolocationAccessLevel} from './privacy_hub_geolocation_subpage.js';

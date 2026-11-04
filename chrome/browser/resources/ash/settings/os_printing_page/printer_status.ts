@@ -4,6 +4,12 @@
 
 // TODO(b/278895546): Merge this printer_status_cros.ts used for Print Preview.
 
+// ---docerion
+// type: source
+// title: Printer status enums and helpers
+// summary: Defines printer status reason, severity and state enums plus helpers to pick the most relevant status reason for display.
+// ---
+
 /**
  *  These values must be kept in sync with the Reason enum in
  *  /chromeos/printing/cups_printer_status.h

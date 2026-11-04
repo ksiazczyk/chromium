@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reset settings card element
+// summary: Polymer element for the reset settings card, opening powerwash and sanitize dialogs and fetching installed eSIM profiles.
+// ---
+
 /**
  * @fileoverview
  * 'reset-settings-card' is the card element containing reset settings.

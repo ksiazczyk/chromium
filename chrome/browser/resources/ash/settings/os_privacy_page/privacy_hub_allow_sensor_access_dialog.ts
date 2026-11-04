@@ -7,6 +7,12 @@
  * or location access.
  */
 
+// ---docerion
+// type: source
+// title: Allow sensor access dialog element
+// summary: Implements the Privacy Hub dialog that asks users to enable system-wide camera, microphone or location access and sets the corresponding preference on confirm.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import '../settings_shared.css.js';

@@ -7,6 +7,12 @@
  *     chrome://bluetooth-internals/.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth Internals main logic
+// summary: Main script that wires adapter, devices and debug log pages together through the page manager, sidebar and device collection.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';
 

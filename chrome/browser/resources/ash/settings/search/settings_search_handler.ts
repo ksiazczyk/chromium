@@ -9,6 +9,12 @@
  * OS settings search.
  */
 
+// ---docerion
+// type: source
+// title: OS settings search handler accessor
+// summary: Provides access to the OS settings search Mojo handler and allows injecting a test implementation for verifying settings search behavior.
+// ---
+
 import type {SearchHandlerInterface} from '../mojom-webui/search.mojom-webui.js';
 import {SearchHandler} from '../mojom-webui/search.mojom-webui.js';
 

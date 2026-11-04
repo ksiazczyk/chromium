@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS personalization options element
+// summary: Polymer element providing personalization toggles such as search suggestions, URL collection, and spellcheck-related preferences.
+// ---
+
 /**
  * @fileoverview
  * 'personalization-options' contains several toggles related to

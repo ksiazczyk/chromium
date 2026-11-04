@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer dialog error element
+// summary: Polymer element that displays error text within CUPS printer setup dialogs.
+// ---
+
 /**
  * 'printer-dialog-error' is the error container for dialogs.
  */

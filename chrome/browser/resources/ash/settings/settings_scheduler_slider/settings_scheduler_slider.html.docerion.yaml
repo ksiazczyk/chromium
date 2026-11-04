@@ -1,0 +1,4 @@
+# Docerion header of settings_scheduler_slider.html.
+type: source
+title: Settings scheduler slider HTML template
+summary: HTML template and styles for the settings-scheduler-slider element, defining the dual-knob slider bar, labels, markers and legend used to pick a time range.

@@ -1,0 +1,4 @@
+# Docerion header of secure_dns_input.html.
+type: source
+title: Secure DNS custom resolver input template
+summary: HTML template providing a textarea for entering custom secure DNS server templates with validation feedback.

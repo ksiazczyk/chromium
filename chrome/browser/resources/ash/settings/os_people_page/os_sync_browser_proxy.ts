@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS sync browser proxy
+// summary: Defines the OsSyncPrefs interface and browser proxy for exchanging OS sync preferences between the settings WebUI and the C++ layer.
+// ---
+
 /**
  * User preferences for OS sync. 'Registered' means the user has the option to
  * select a type. For example, a type might not be registered due to a feature

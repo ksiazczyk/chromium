@@ -1,0 +1,4 @@
+# Docerion header of add_user_dialog.html.
+type: source
+title: Add user dialog template
+summary: HTML template for the dialog that adds a new allowed user to a ChromeOS device via an email input with validation errors.

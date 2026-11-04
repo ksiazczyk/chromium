@@ -8,6 +8,12 @@
  * power settings.
  */
 
+// ---docerion
+// type: source
+// title: Multitasking settings card element
+// summary: Polymer element for the multitasking settings card, wiring the snap window suggestions toggle with deep linking and route observation.
+// ---
+
 import '../controls/settings_toggle_button.js';
 import '../os_settings_page/settings_card.js';
 import '../settings_shared.css.js';

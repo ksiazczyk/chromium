@@ -1,0 +1,4 @@
+# Docerion header of value_control.html.
+type: source
+title: Value control template
+summary: HTML template for the GATT value control with a value input, format selector and read and write buttons.

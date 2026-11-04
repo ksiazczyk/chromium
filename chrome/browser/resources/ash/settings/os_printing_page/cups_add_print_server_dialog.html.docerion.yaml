@@ -1,0 +1,4 @@
+# Docerion header of cups_add_print_server_dialog.html.
+type: source
+title: Add print server dialog template
+summary: HTML template for the dialog where users enter a print server address to add it in ChromeOS printing settings.

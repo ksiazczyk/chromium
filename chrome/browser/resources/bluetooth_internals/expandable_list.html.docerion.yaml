@@ -1,0 +1,4 @@
+# Docerion header of expandable_list.html.
+type: source
+title: Expandable list element template
+summary: HTML template and styles for the expandable list custom element, including the loading spinner and empty message.

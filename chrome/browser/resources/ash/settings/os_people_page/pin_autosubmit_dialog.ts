@@ -10,6 +10,12 @@
  *
  */
 
+// ---docerion
+// type: source
+// title: PIN autosubmit confirmation dialog element
+// summary: TypeScript element implementing the PIN auto submit confirmation dialog, verifying the entered PIN via quickUnlockPrivate and enabling auto submit when it matches.
+// ---
+
 import 'chrome://resources/ash/common/quick_unlock/pin_keyboard.js';
 import 'chrome://resources/ash/common/quick_unlock/setup_pin_keyboard.js';
 import 'chrome://resources/js/assert.js';

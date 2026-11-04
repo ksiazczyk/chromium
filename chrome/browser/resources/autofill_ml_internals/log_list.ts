@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log list element
+// summary: Lit element that lists ML prediction logs, filters them by autofill or password manager target, emits selection events and downloads logs as JSON.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

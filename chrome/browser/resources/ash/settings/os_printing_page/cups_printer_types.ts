@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer type definitions for the CUPS printers page
+// summary: Defines the PrinterListEntry interface and the PrinterType enum that orders saved, print server, automatic, discovered, and enterprise printers.
+// ---
+
 import type {CupsPrinterInfo} from './cups_printers_browser_proxy.js';
 
 export interface PrinterListEntry {

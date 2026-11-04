@@ -1,0 +1,4 @@
+# Docerion header of privacy_hub_allow_sensor_access_dialog.html.
+type: source
+title: Allow sensor access dialog template
+summary: HTML template for the Privacy Hub dialog that asks users to allow system-wide sensor access, with cancel and confirm buttons.

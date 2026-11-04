@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry point initializing the Bluetooth internals UI
+// summary: Entry point that initializes the Bluetooth internals views and checks system permissions on page load, skipping setup when a test flag is present.
+// ---
+
 import {checkSystemPermissions, initializeViews} from './bluetooth_internals.js';
 import {BluetoothInternalsHandler} from './bluetooth_internals.mojom-webui.js';
 

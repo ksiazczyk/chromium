@@ -1,0 +1,4 @@
+# Docerion header of cups_settings_add_printer_dialog.html.
+type: source
+title: CUPS add printer dialog template
+summary: HTML template that conditionally renders the manual add-printer, manufacturer-model and add-print-server dialogs.

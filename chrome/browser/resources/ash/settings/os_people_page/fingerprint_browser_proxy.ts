@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint browser proxy
+// summary: TypeScript browser proxy defining fingerprint result types and methods for listing, enrolling, renaming, and removing fingerprint enrollments.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

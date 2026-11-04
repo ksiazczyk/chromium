@@ -8,6 +8,12 @@
  * served from chrome://bluetooth-internals/.
  */
 
+// ---docerion
+// type: source
+// title: Device details page
+// summary: Page showing a device's status fields and services, with connect, disconnect, and forget controls for GATT interaction.
+// ---
+
 import './service_list.js';
 import './object_fieldset.js';
 

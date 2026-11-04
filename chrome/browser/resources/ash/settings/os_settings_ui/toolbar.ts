@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings toolbar element
+// summary: Defines the settings-toolbar Polymer element with menu button, spinner and search field behavior for the ChromeOS settings UI.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icons.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_hidden_style.css.js';

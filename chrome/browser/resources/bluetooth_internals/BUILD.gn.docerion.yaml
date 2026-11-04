@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for Bluetooth Internals
+summary: GN build file that configures the WebUI build, listing static, web component, TypeScript and Mojo files for the Bluetooth Internals page.

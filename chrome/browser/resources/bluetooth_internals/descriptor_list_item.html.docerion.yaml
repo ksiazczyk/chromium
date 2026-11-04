@@ -1,0 +1,4 @@
+# Docerion header of descriptor_list_item.html.
+type: source
+title: Descriptor list item template
+summary: HTML template for the descriptor list item element, styling brief and expanded content with descriptor info and value sections.

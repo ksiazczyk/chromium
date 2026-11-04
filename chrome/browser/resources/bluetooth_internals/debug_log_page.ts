@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug log page for Bluetooth Internals
+// summary: Implements the Bluetooth Internals debug logs page, with a toggle for debug logging and ChromeOS btsnoop capture start and stop controls.
+// ---
+
 import {getRequiredElement} from 'chrome://resources/js/util.js';
 
 import type {BluetoothBtsnoopRemote, BluetoothInternalsHandlerRemote, DebugLogsChangeHandlerRemote} from './bluetooth_internals.mojom-webui.js';

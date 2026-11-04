@@ -1,0 +1,4 @@
+# Docerion header of printing_settings_card.html.
+type: source
+title: Printing settings card template
+summary: HTML template for the settings card that links to the CUPS printers page and the scanning app.

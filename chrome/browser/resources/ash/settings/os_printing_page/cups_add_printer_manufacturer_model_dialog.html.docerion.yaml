@@ -1,0 +1,4 @@
+# Docerion header of cups_add_printer_manufacturer_model_dialog.html.
+type: source
+title: Printer manufacturer and model dialog template
+summary: HTML template for choosing a printer manufacturer, model, and optional PPD driver file.

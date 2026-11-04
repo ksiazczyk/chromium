@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager browser proxy
+// summary: TypeScript browser proxy defining the Account interface and methods to list, add, reauthenticate, migrate, and remove Chrome OS accounts.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

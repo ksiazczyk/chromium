@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen password prompt dialog element
+// summary: Polymer element that shows a password prompt and fires an auth-token-obtained event with a quick unlock token after successful authentication.
+// ---
+
 /**
  * @fileoverview
  *

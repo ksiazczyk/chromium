@@ -1,0 +1,4 @@
+# Docerion header of parental_controls_settings_card.html.
+type: source
+title: Parental Controls settings card HTML template
+summary: HTML template for the parental controls settings card, showing a Family Link link row for child users and a setup button for other users.

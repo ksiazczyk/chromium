@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Autofill ML Internals app styles
+summary: Styles the app shell of the internals page, including its full-window layout and the empty-state message.
+*/
+
 :host {
   background-color: var(--md-background-color);
   color: var(--cr-primary-text-color);

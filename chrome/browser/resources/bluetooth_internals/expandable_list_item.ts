@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expandable list item custom element
+// summary: Custom element that toggles expanded content on click and dispatches a list-item-expanded event.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 
 import {getTemplate} from './expandable_list_item.html.js';

@@ -6,6 +6,12 @@
  * Javascript for AdapterPage, served from chrome://bluetooth-internals/.
  */
 
+// ---docerion
+// type: source
+// title: Adapter page
+// summary: Page that shows the latest adapter info in a fieldset with refresh and, on ChromeOS, restart Bluetooth controls.
+// ---
+
 import './object_fieldset.js';
 
 import {getRequiredElement} from 'chrome://resources/js/util.js';

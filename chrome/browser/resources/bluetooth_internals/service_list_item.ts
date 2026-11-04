@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service list item element
+// summary: Custom element that displays a ServiceInfo object with a UUID header and a property fieldset, loading characteristics on expansion.
+// ---
+
 import './characteristic_list.js';
 import './expandable_list_item.js';
 import './object_fieldset.js';

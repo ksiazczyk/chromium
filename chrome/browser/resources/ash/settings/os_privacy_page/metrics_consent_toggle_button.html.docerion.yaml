@@ -1,0 +1,4 @@
+# Docerion header of metrics_consent_toggle_button.html.
+type: source
+title: Metrics consent toggle button template
+summary: HTML template rendering a settings toggle that controls the user's consent to metrics logging.

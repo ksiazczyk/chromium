@@ -1,0 +1,4 @@
+# Docerion header of system_preferences_page.html.
+type: source
+title: System preferences page template
+summary: HTML template composing the system preferences cards and their date and time, files, languages, search, storage and power subpages.

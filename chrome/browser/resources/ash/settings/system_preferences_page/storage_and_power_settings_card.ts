@@ -8,6 +8,12 @@
  * power settings.
  */
 
+// ---docerion
+// type: source
+// title: Storage and power settings card element
+// summary: Polymer element for the storage and power settings card, navigating to the storage and power subpages and hiding the storage row in demo sessions.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import '../os_settings_page/settings_card.js';
 import '../settings_shared.css.js';

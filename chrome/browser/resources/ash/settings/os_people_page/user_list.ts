@@ -13,6 +13,12 @@
  *    </settings-user-list>
  */
 
+// ---docerion
+// type: source
+// title: User list element
+// summary: Defines the settings-user-list element that lists users allowed on the Chrome OS device and supports removing them via the usersPrivate API.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';

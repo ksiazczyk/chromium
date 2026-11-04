@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page base class for Bluetooth internals
+// summary: Base class for pages shown and hidden by PageManager, handling focus, hash changes and visibility.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 function getRequiredElement(id: string): HTMLElement {

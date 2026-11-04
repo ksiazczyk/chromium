@@ -7,6 +7,12 @@
  * when disabling peripheral data access setup.
  */
 
+// ---docerion
+// type: source
+// title: Peripheral data access protection dialog element
+// summary: Defines the settings dialog that explains and warns users about the outcome of disabling peripheral data access and applies the preference change on confirmation.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/polymer/v3_0/paper-progress/paper-progress.js';

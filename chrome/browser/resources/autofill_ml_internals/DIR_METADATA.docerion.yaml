@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Autofill ML Internals directory metadata (DIR_METADATA)
+summary: Points the directory metadata to the shared mixins in the Autofill component's COMMON_METADATA.

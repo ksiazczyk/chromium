@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer entry manager
+// summary: Singleton that tracks saved, nearby, enterprise, and print server printers and notifies listeners whenever those printer lists change.
+// ---
+
 import type {WebUiListener} from 'chrome://resources/js/cr.js';
 import {addWebUiListener, removeWebUiListener} from 'chrome://resources/js/cr.js';
 

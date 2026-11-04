@@ -1,0 +1,4 @@
+# Docerion header of os_sync_subpage.html.
+type: source
+title: OS sync subpage template
+summary: HTML template for the sync settings subpage with admin-disabled notices, existing passphrase entry, and encryption option sections.

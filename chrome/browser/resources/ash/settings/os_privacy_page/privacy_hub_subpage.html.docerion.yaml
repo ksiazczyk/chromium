@@ -1,0 +1,4 @@
+# Docerion header of privacy_hub_subpage.html.
+type: source
+title: Privacy hub subpage template
+summary: HTML template for the main privacy hub page with camera and microphone toggles, geolocation link, speak-on-mute and metrics consent controls.

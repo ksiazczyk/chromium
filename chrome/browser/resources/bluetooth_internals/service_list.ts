@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service list element
+// summary: Custom element that lists a device's GATT services, loading them via the device broker and showing errors with a retry snackbar.
+// ---
+
 import './service_list_item.js';
 import './expandable_list.js';
 

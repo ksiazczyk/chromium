@@ -1,0 +1,4 @@
+# Docerion header of os_privacy_page.html.
+type: source
+title: OS privacy page template
+summary: HTML template for the ChromeOS settings privacy page, covering privacy hub, sync, lock screen, user management and peripheral data access controls.

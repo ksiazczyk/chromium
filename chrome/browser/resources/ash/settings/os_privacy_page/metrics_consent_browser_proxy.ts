@@ -7,6 +7,12 @@
  * consent data.
  */
 
+// ---docerion
+// type: source
+// title: Metrics consent browser proxy
+// summary: Browser proxy interface and implementation for reading and updating the current user's metrics consent state.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

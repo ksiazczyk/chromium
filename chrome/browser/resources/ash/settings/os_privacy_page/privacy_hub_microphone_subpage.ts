@@ -8,6 +8,12 @@
  * the state of the system microphone access.
  */
 
+// ---docerion
+// type: source
+// title: Privacy hub microphone subpage element
+// summary: Implements the settings-privacy-hub-microphone-subpage element tracking microphone access, connected devices and app permissions.
+// ---
+
 import './privacy_hub_app_permission_row.js';
 import './privacy_hub_system_service_row.js';
 

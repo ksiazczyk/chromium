@@ -1,0 +1,4 @@
+# Docerion header of secure_dns.html.
+type: source
+title: Secure DNS setting template
+summary: HTML template for the secure DNS setting with its toggle, resolver mode dropdown, privacy policy link and custom resolver input.

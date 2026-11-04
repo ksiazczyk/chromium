@@ -8,6 +8,12 @@
  * system preferences settings.
  */
 
+// ---docerion
+// type: source
+// title: System preferences page element
+// summary: Polymer element for the ChromeOS settings system preferences page, controlling card visibility by session state and exposing language and time zone bindings.
+// ---
+
 import '../date_time_page/date_time_settings_card.js';
 import '../os_files_page/files_settings_card.js';
 import '../os_languages_page/language_settings_card.js';

@@ -1,0 +1,4 @@
+# Docerion header of pin_settings.html.
+type: source
+title: Lock screen PIN settings template
+summary: HTML template for the lock screen PIN settings row offering set, change and remove PIN actions plus a PIN auto submit toggle, honoring policy restrictions.

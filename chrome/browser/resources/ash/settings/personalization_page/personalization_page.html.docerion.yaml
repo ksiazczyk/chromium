@@ -1,0 +1,4 @@
+# Docerion header of personalization_page.html.
+type: source
+title: Personalization page HTML template
+summary: HTML template for the ChromeOS settings personalization page, rendering a settings card with a link row that opens the Personalization Hub.

@@ -8,6 +8,12 @@
  * accounts settings (including add / remove accounts).
  */
 
+// ---docerion
+// type: source
+// title: Additional accounts settings card element
+// summary: Polymer element managing the secondary accounts card, including adding, removing, and reauthenticating accounts with deep linking support.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

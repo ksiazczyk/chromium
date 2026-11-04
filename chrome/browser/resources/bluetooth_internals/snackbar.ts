@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snackbar notification element
+// summary: Notification bar that shows timed messages with an optional action link, queued through the showSnackbar and dismissSnackbar helpers.
+// ---
+
 import type {ActionLink} from 'chrome://resources/js/action_link.js';
 import {assert} from 'chrome://resources/js/assert.js';
 import {CustomElement} from 'chrome://resources/js/custom_element.js';

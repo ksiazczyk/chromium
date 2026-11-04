@@ -7,6 +7,12 @@
  *   add a print server.
  */
 
+// ---docerion
+// type: source
+// title: Add print server dialog element
+// summary: Implements the add-print-server-dialog element that queries a print server by URL and reports success or error.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 import './cups_add_printer_dialog.js';

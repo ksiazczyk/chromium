@@ -1,0 +1,4 @@
+# Docerion header of settings_idle_load.html.
+type: source
+title: Template for settings-idle-load
+summary: Minimal HTML template providing a slot for the settings-idle-load element's lazily loaded content.

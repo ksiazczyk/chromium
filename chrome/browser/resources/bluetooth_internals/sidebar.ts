@@ -6,6 +6,12 @@
  * Javascript for Sidebar, served from chrome://bluetooth-internals/.
  */
 
+// ---docerion
+// type: source
+// title: Sidebar navigation for Bluetooth Internals
+// summary: Side menu listing navigable pages that switches pages via the page manager and opens or closes on narrow screen layouts.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {PageManager} from './page_manager.js';

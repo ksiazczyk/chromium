@@ -9,6 +9,12 @@
  * the OS Settings Privacy controls page.
  */
 
+// ---docerion
+// type: source
+// title: Privacy Hub system service row element
+// summary: Defines the custom element used in Privacy Hub subpages to represent a system service or system app with name, icon and permission state.
+// ---
+
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 import {getTemplate} from './privacy_hub_system_service_row.html.js';

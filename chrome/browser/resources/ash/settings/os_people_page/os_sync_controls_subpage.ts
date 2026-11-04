@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS sync controls subpage element
+// summary: Implements the os-sync-controls-subpage element that manages sync-everything versus customized sync and caches individual data type toggles.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';

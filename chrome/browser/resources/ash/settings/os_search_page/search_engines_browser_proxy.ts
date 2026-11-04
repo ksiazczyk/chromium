@@ -7,6 +7,12 @@
  * to interact with the browser.
  */
 
+// ---docerion
+// type: source
+// title: Search engines browser proxy
+// summary: Browser proxy used by the manage search engines section to fetch search engine lists and categorized template URLs and to open browser search settings.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

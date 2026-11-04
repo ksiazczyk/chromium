@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Bluetooth Internals OWNERS
+summary: Ownership file that defers review approval to the owners of device/bluetooth.

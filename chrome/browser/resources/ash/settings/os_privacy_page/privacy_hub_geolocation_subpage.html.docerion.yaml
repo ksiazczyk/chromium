@@ -1,0 +1,4 @@
+# Docerion header of privacy_hub_geolocation_subpage.html.
+type: source
+title: Privacy hub geolocation subpage template
+summary: HTML template for the geolocation subpage showing access level, apps, websites and system services that use location.

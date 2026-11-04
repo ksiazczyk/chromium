@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log details template
+// summary: Renders details of a selected ML prediction log, including form metadata, field properties and top prediction histograms.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {MlFieldPredictionLog} from './autofill_ml_internals.mojom-webui.js';

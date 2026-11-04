@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Characteristic list
+// summary: Expandable list custom element that loads and displays the GATT characteristics of a device service.
+// ---
+
 import './characteristic_list_item.js';
 import './expandable_list.js';
 

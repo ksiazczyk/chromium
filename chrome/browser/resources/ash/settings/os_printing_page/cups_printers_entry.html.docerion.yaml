@@ -1,0 +1,4 @@
+# Docerion header of cups_printers_entry.html.
+type: source
+title: Printer entry row template
+summary: HTML template for a single printer list row, showing the printer name, status text, and save or more-actions buttons.

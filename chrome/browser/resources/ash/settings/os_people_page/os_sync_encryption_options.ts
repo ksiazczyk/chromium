@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS sync encryption options element
+// summary: Implements the sync encryption options element for selecting an encryption method and setting or confirming a sync passphrase.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';
 import '//resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';

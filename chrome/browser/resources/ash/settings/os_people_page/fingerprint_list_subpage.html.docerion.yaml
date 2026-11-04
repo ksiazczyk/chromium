@@ -1,0 +1,4 @@
+# Docerion header of fingerprint_list_subpage.html.
+type: source
+title: Fingerprint list subpage template
+summary: HTML template for the fingerprint list subpage showing registered fingerprints with label editing, deletion, and setup dialog triggers.
