@@ -1,0 +1,4 @@
+# Docerion header of IDS_ISOLATED_MODE_SESSION_TITLE.png.sha1.
+type: data
+title: SHA1 hash for IDS_ISOLATED_MODE_SESSION_TITLE.png
+summary: Stores the SHA1 content hash of the isolated mode session title PNG resource in Chromium's profile strings resources.
