@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped abort for remaining swap promises
+// summary: RAII helper that breaks all remaining swap promises with COMMIT_FAILS when it goes out of scope.
+// ---
+
 #ifndef CC_TREES_SCOPED_ABORT_REMAINING_SWAP_PROMISES_H_
 #define CC_TREES_SCOPED_ABORT_REMAINING_SWAP_PROMISES_H_
 

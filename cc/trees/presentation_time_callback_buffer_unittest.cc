@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation time callback buffer unit tests
+// summary: Unit tests verifying that the callback buffer registers, pops, and preserves callbacks correctly across successful and failed presentations.
+// ---
+
 #include "cc/trees/presentation_time_callback_buffer.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeSettings implementation
+// summary: Implements LayerTreeSettings defaults and conversions to scheduler and tile manager settings for the compositor.
+// ---
+
 #include "cc/trees/layer_tree_settings.h"
 
 #include <string>

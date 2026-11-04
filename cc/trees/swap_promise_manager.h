@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwapPromiseManager class header
+// summary: Declares SwapPromiseManager, which queues swap promises, manages latency info monitors, and breaks queued promises with a given failure reason.
+// ---
+
 #ifndef CC_TREES_SWAP_PROMISE_MANAGER_H_
 #define CC_TREES_SWAP_PROMISE_MANAGER_H_
 

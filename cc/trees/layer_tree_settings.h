@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeSettings class declaration
+// summary: Declares compositor settings such as tile sizes, GPU rasterization options, scrollbar animation, and trees-in-Viz flags for the layer tree.
+// ---
+
 #ifndef CC_TREES_LAYER_TREE_SETTINGS_H_
 #define CC_TREES_LAYER_TREE_SETTINGS_H_
 

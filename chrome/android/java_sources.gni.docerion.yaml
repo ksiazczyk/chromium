@@ -1,0 +1,4 @@
+# Docerion header of java_sources.gni.
+type: config
+title: Conditional Java source additions for Chrome Android
+summary: Adds conditionally compiled Java sources to the Chrome Java sources list for the offline pages testing harness and ARCore or Cardboard VR support.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyImpl compositor-thread implementation
+// summary: Implements ProxyImpl, the impl-thread proxy that manages commits, frame sink lifecycle, redraw requests, rendering pauses and scheduler interactions for the compositor.
+// ---
+
 #include "cc/trees/proxy_impl.h"
 
 #include <string.h>

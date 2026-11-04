@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientLayerTreeHostImpl implementation
+// summary: Implements the client-side layer tree host impl, handling aborted and completed commits, active URL updates, tree priority, and dirty paint worklet jobs.
+// ---
+
 #include "cc/trees/client_layer_tree_host_impl.h"
 
 #include <utility>

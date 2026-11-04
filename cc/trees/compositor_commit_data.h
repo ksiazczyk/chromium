@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor commit data definition
+// summary: Defines CompositorCommitData carrying scroll deltas, page scale, overscroll, scrollbar visibility, browser controls, and swap promises from the impl thread.
+// ---
+
 #ifndef CC_TREES_COMPOSITOR_COMMIT_DATA_H_
 #define CC_TREES_COMPOSITOR_COMMIT_DATA_H_
 

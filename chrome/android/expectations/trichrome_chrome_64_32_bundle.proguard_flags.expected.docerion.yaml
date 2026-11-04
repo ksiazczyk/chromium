@@ -1,0 +1,4 @@
+# Docerion header of trichrome_chrome_64_32_bundle.proguard_flags.expected.
+type: test
+title: Expected ProGuard flags for Trichrome Chrome 64_32 bundle
+summary: Records the expected R8/ProGuard flags for the Trichrome Chrome 64_32 bundle so build verification fails when flag changes are not reviewed.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit state definition
+// summary: Defines CommitState and ThreadUnsafeCommitState, which carry all LayerTreeHost information needed to run a compositor commit.
+// ---
+
 #ifndef CC_TREES_COMMIT_STATE_H_
 #define CC_TREES_COMMIT_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreeSynchronizer implementation
+// summary: Implements TreeSynchronizer logic that synchronizes main-thread layers to impl layers, recycles LayerImpls, and pushes layer properties.
+// ---
+
 #include "cc/trees/tree_synchronizer.h"
 
 #include <stddef.h>

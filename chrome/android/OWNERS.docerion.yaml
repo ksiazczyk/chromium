@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Chrome Android code owners
+summary: Lists owners for the Chrome Android directory with per-file rules covering build files, translations, and feature-specific files.

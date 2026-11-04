@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for //chrome
+summary: Lists reviewers grouped by timezone plus per-file ownership rules for the chrome directory, with criteria for joining the list.

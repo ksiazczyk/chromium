@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sticky position constraint unit tests
+// summary: Unit tests verifying when sticky position constraints can be merged, covering horizontal and vertical anchoring, offsets, and mergeability within scroll ranges.
+// ---
+
 #include "cc/trees/sticky_position_constraint.h"
 
 #include "base/logging.h"

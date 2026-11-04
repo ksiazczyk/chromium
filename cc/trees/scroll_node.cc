@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll node implementation
+// summary: Implements ScrollNode constructors and traced-value serialization of scroll tree node state.
+// ---
+
 #include "cc/trees/scroll_node.h"
 
 #include "cc/base/math_util.h"

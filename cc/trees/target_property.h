@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation target property enum
+// summary: Defines the TargetProperty enum of animatable properties such as transform, opacity, and filter, plus a property-to-element-id map type.
+// ---
+
 #ifndef CC_TREES_TARGET_PROPERTY_H_
 #define CC_TREES_TARGET_PROPERTY_H_
 

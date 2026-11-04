@@ -1,0 +1,4 @@
+# Docerion header of chrome_public_bundle__xr.AndroidManifest.expected.
+type: test
+title: Expected manifest for chrome_public_bundle XR split
+summary: Expected AndroidManifest for the XR feature split of the chrome_public_bundle, listing XR delivery conditions and activities for manifest verification.

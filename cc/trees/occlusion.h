@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Occlusion class header
+// summary: Declares the Occlusion class, which holds occlusion regions for a draw transform and answers queries about occluded and unoccluded content rectangles.
+// ---
+
 #ifndef CC_TREES_OCCLUSION_H_
 #define CC_TREES_OCCLUSION_H_
 

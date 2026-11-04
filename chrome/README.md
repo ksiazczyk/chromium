@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chrome directory overview
+summary: Explains that the directory holds the open source application layer of Google Chrome for desktop, Android, and Chrome OS.
+---
+
 # Chrome
 
 This directory contains the open source, application layer of Google Chrome.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeHost picture layer unit tests
+// summary: Unit tests for picture layers, covering pending and active twin layers, layer recycling, and related picture layer behavior across commits.
+// ---
+
 #include "base/cfi_buildflags.h"
 #include "base/functional/bind.h"
 #include "base/time/time.h"

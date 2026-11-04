@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewport property IDs header
+// summary: Declares the ViewportPropertyIds struct, which stores property tree node IDs for viewport transforms, clips and scrolls.
+// ---
+
 #ifndef CC_TREES_VIEWPORT_PROPERTY_IDS_H_
 #define CC_TREES_VIEWPORT_PROPERTY_IDS_H_
 

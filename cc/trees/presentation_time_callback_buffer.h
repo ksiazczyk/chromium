@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Presentation time callback buffer
+// summary: Declares a class that queues presentation-time callbacks per frame token until the frame is presented, returning them via PopPendingCallbacks.
+// ---
+
 #ifndef CC_TREES_PRESENTATION_TIME_CALLBACK_BUFFER_H_
 #define CC_TREES_PRESENTATION_TIME_CALLBACK_BUFFER_H_
 

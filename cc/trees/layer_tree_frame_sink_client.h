@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeFrameSinkClient interface
+// summary: Declares the client interface for a layer tree frame sink, covering frame acknowledgements, resource reclamation, hit test data, and context loss.
+// ---
+
 #ifndef CC_TREES_LAYER_TREE_FRAME_SINK_CLIENT_H_
 #define CC_TREES_LAYER_TREE_FRAME_SINK_CLIENT_H_
 

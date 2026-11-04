@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll elasticity overscroll decision logic
+// summary: Implements ShouldAllowOverscrollEffect, deciding when a scroll node may show an elastic overscroll effect.
+// ---
+
 #include "cc/trees/scroll_elasticity_utils.h"
 
 #include "cc/trees/layer_tree_host_impl.h"

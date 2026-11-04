@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimatedPaintWorkletTracker class header
+// summary: Declares the class that hooks the compositor animation system to PaintWorklets so their input values can change entirely on the compositor without a main frame commit.
+// ---
+
 #ifndef CC_TREES_ANIMATED_PAINT_WORKLET_TRACKER_H_
 #define CC_TREES_ANIMATED_PAINT_WORKLET_TRACKER_H_
 

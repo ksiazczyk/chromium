@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HitTestDataBuilder class declaration
+// summary: Declares HitTestDataBuilder, which constructs a viz HitTestRegionList from the active layer tree and tracks layers that may obscure surfaces.
+// ---
+
 #ifndef CC_TREES_HIT_TEST_DATA_BUILDER_H_
 #define CC_TREES_HIT_TEST_DATA_BUILDER_H_
 

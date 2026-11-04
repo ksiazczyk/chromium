@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThrottleDecider unit tests
+// summary: Unit tests that verify ThrottleDecider's throttling decisions for render passes with backdrop blur filters and surface draw quads.
+// ---
+
 
 #include "cc/trees/throttle_decider.h"
 

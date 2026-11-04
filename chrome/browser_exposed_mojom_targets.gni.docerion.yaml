@@ -1,0 +1,4 @@
+# Docerion header of browser_exposed_mojom_targets.gni.
+type: config
+title: Browser-exposed mojom target list
+summary: Enumerates mojom targets with browser-to-renderer interfaces, maintained for IPC fuzzing of the browser/renderer boundary.

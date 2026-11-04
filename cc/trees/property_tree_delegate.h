@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyTreeDelegate interface
+// summary: Defines an abstract interface that LayerTreeHosts and delegates implement to keep property trees up to date and handle scroll offsets and element mutations.
+// ---
+
 #ifndef CC_TREES_PROPERTY_TREE_DELEGATE_H_
 #define CC_TREES_PROPERTY_TREE_DELEGATE_H_
 

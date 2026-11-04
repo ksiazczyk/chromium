@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameMetadataObserver interface
+// summary: Declares the observer interface notified on the compositor thread when render frame metadata is submitted with a frame, including Android scroll jank reporting hooks.
+// ---
+
 #ifndef CC_TREES_RENDER_FRAME_METADATA_OBSERVER_H_
 #define CC_TREES_RENDER_FRAME_METADATA_OBSERVER_H_
 

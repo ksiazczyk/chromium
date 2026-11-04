@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeImpl unit tests
+// summary: Unit tests for LayerTreeImpl covering hit testing, render surface lists, draw properties, and selection bounds in the compositor's impl-side tree.
+// ---
+
 #include "cc/trees/layer_tree_impl.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of chrome_public_bundle.arm64.libs_and_assets.expected.
+type: data
+title: Expected libs and assets for chrome_public_bundle
+summary: Expectation file recording the native libraries and assets, including compression and alignment details, expected in the chrome_public_bundle build output.

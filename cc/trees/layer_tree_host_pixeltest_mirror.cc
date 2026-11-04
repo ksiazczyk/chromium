@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree host pixel tests for mirror layers
+// summary: Pixel test checking that a scaled mirror layer correctly renders another layer across all viz renderer types, with fuzzy comparators for software and Vulkan paths.
+// ---
+
 #include "build/build_config.h"
 #include "cc/layers/mirror_layer.h"
 #include "cc/layers/solid_color_layer.h"

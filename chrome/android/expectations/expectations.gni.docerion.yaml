@@ -1,0 +1,4 @@
+# Docerion header of expectations.gni.
+type: config
+title: Expectations GN config for Android bundle verification
+summary: GN build configuration that defines when libs-and-assets and manifest expectation verification is enabled for Chrome Android builds.

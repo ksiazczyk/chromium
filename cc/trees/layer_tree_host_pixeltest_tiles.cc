@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree host pixel tests for tiles
+// summary: Pixel tests covering tiled rasterization and partial invalidation behavior, comparing rendered output against reference images across raster configurations.
+// ---
+
 #include <stddef.h>
 
 #include "build/build_config.h"

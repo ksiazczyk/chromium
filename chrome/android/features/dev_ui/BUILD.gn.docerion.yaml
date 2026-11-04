@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Dev UI module build targets
+summary: GN build file defining the DFMIFY_DEV_UI buildflag header and the Java library that implements the Developer UI dynamic feature module.

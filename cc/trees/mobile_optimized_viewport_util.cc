@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile optimized viewport utility implementation
+// summary: Implements IsMobileOptimized, which decides from page scale factors, viewport and content sizes, and the viewport meta tag whether a page is mobile optimized and can skip double-tap zoom.
+// ---
+
 #include "cc/trees/mobile_optimized_viewport_util.h"
 
 #include "base/feature_list.h"

@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Presubmit check unit tests
+summary: Unit tests verifying that disallowed build flags such as IS_APPLE, IS_IOS, and IS_FUCHSIA are flagged in chrome source files.

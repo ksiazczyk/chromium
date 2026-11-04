@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clip node implementation
+// summary: Implements the ClipNode property tree node, including the local clip application check and traced value serialization for debugging.
+// ---
+
 #include "cc/trees/clip_node.h"
 
 #include "base/trace_event/traced_value.h"

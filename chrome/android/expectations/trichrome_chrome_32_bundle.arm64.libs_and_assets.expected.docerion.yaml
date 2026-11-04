@@ -1,0 +1,4 @@
+# Docerion header of trichrome_chrome_32_bundle.arm64.libs_and_assets.expected.
+type: test
+title: Expected libs and assets for trichrome_chrome_32_bundle
+summary: Checked-in list of expected libraries and assets with compression flags for the trichrome_chrome_32_bundle, used by binary size verification.

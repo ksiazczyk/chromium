@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile optimized viewport utility header
+// summary: Declares the IsMobileOptimized helper that reports whether a viewport is mobile optimized and therefore does not need the double-tap-to-zoom gesture.
+// ---
+
 #ifndef CC_TREES_MOBILE_OPTIMIZED_VIEWPORT_UTIL_H_
 #define CC_TREES_MOBILE_OPTIMIZED_VIEWPORT_UTIL_H_
 

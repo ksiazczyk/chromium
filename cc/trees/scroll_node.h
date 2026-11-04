@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll node for the scroll property tree
+// summary: Defines the ScrollNode struct holding scroll bounds, viewport flags, overscroll behavior and snap container data.
+// ---
+
 #ifndef CC_TREES_SCROLL_NODE_H_
 #define CC_TREES_SCROLL_NODE_H_
 

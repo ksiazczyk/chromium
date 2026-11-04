@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FrameData tracing and TreesInViz timestamps
+// summary: Verifies FrameData's traced value output and the set_trees_in_viz_timestamps behavior using fake render passes and begin frame args.
+// ---
+
 #include "cc/trees/frame_data.h"
 
 #include <utility>

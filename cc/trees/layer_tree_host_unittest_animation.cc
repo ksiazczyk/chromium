@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree host animation unit tests
+// summary: Unit tests for animation timelines, keyframe effects and scroll offset animations driven through the layer tree host in single- and multi-threaded modes.
+// ---
+
 #include <stdint.h>
 
 #include <atomic>

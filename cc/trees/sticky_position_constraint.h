@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sticky position constraint
+// summary: Defines the StickyPositionConstraint struct with anchor offsets, constraint rects and merge logic for sticky layers.
+// ---
+
 #ifndef CC_TREES_STICKY_POSITION_CONSTRAINT_H_
 #define CC_TREES_STICKY_POSITION_CONSTRAINT_H_
 

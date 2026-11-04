@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sticky position constraint implementation
+// summary: Implements sticky position constraint merging and computation of sticky offsets for scroll positions.
+// ---
+
 #include "cc/trees/sticky_position_constraint.h"
 
 #include <algorithm>

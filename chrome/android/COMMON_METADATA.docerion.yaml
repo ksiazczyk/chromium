@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Chrome Android common metadata
+summary: Shared directory metadata assigning the UI>Browser>Mobile bug component, the clank-dev team email, and Android as the OS.

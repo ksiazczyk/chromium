@@ -1,0 +1,4 @@
+# Docerion header of trichrome_chrome_64_bundle.arm64.libs_and_assets.expected.
+type: test
+title: Expected ARM64 libs and assets for Trichrome Chrome 64 bundle
+summary: Lists the expected native libraries and packaged assets of the Trichrome Chrome 64 bundle for ARM64, used to verify packaging changes.

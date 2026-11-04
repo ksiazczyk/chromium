@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome main GN build file
+summary: Defines the GN build targets for the Chrome application layer, including platform-specific actions, arguments, and dependencies.

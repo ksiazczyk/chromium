@@ -1,0 +1,4 @@
+# Docerion header of chrome_paks.gni.
+type: source
+title: Chrome pak repacking GN templates (chrome_paks.gni)
+summary: Defines GN templates that repack Chrome resource paks, including percent-scaled resources, WebUI code cache paks, and locale paks, wiring up the required sources and dependencies.

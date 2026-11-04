@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedMemoryPolicy implementation
+// summary: Implements the ManagedMemoryPolicy struct, mapping GPU memory allocation priority cutoffs to tile memory limit policies.
+// ---
+
 #include "cc/trees/managed_memory_policy.h"
 
 #include <stddef.h>

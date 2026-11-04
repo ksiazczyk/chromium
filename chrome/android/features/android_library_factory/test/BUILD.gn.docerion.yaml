@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for android_library_factory nocompile tests
+summary: Defines a GN nocompile test suite verifying that compile failures from a missing android_library factory dependency produce a hint to add the factory GN target.

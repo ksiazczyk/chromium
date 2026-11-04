@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreeSynchronizer class header
+// summary: Declares TreeSynchronizer static methods for synchronizing layer trees between main thread, pending, and active trees and pushing properties.
+// ---
+
 #ifndef CC_TREES_TREE_SYNCHRONIZER_H_
 #define CC_TREES_TREE_SYNCHRONIZER_H_
 

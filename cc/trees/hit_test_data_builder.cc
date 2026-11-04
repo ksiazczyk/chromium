@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hit test region data builder implementation
+// summary: Builds viz hit test region data from the active layer tree, computing surface hit test geometry and conservatively handling OOPIF overlap.
+// ---
+
 #include "cc/trees/hit_test_data_builder.h"
 
 #include <cstddef>

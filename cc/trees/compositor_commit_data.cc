@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor commit data implementation
+// summary: Implements CompositorCommitData constructors and its ScrollUpdateInfo and ScrollEndInfo structures for commit data passed between compositor threads.
+// ---
+
 #include "cc/trees/compositor_commit_data.h"
 
 #include "cc/trees/swap_promise.h"

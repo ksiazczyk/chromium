@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Feature targets directory owners
+summary: Lists the Chromium developers responsible for reviewing changes to the chrome/android/features directory.

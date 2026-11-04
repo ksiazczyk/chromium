@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyMain class declaration
+// summary: Declares ProxyMain, the main-thread proxy with its commit pipeline stage enum and methods for begin main frame, frame sink, metrics and commit completion notifications.
+// ---
+
 #ifndef CC_TREES_PROXY_MAIN_H_
 #define CC_TREES_PROXY_MAIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint holding reason enum
+// summary: Defines a PaintHoldingReason enum with reasons for deferring paint, such as waiting for first contentful paint or a view transition.
+// ---
+
 #ifndef CC_TREES_PAINT_HOLDING_REASON_H_
 #define CC_TREES_PAINT_HOLDING_REASON_H_
 

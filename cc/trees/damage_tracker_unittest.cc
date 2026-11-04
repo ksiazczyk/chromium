@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Damage tracker unit tests
+// summary: Unit tests for the compositor damage tracker, verifying damage rects and damage reasons for layers including view transition content layers.
+// ---
+
 #include "cc/trees/damage_tracker.h"
 
 #include <stddef.h>

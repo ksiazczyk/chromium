@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwapPromise interface
+// summary: Defines the SwapPromise interface that tracks whether a compositor commit reaches the output, with callbacks for activation, swap, and swap failure.
+// ---
+
 #ifndef CC_TREES_SWAP_PROMISE_H_
 #define CC_TREES_SWAP_PROMISE_H_
 

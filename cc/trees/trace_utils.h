@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main frame pipeline trace utilities header
+// summary: Declares EmitMainFramePipelineStep, a helper that emits Perfetto trace event arguments for main frame pipeline steps.
+// ---
+
 #ifndef CC_TREES_TRACE_UTILS_H_
 #define CC_TREES_TRACE_UTILS_H_
 

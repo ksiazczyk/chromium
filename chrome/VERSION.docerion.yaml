@@ -1,0 +1,4 @@
+# Docerion header of VERSION.
+type: data
+title: Chrome version numbers
+summary: Defines the major, minor, build, and patch components of the current Chrome version.

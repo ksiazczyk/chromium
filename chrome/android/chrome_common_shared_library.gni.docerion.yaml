@@ -1,0 +1,4 @@
+# Docerion header of chrome_common_shared_library.gni.
+type: config
+title: Chrome common shared library template
+summary: GN template providing common configuration for native shared libraries such as libchrome, libmonochrome, libwebviewchromium, and libchromefortest.

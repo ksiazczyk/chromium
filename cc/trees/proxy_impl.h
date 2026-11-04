@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyImpl class declaration
+// summary: Declares ProxyImpl, the impl-thread class aggregating all interactions between the compositor's main side and impl side, including commit, frame sink and browser controls handling.
+// ---
+
 #ifndef CC_TREES_PROXY_IMPL_H_
 #define CC_TREES_PROXY_IMPL_H_
 

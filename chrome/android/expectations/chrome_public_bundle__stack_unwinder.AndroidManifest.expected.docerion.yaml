@@ -1,0 +1,4 @@
+# Docerion header of chrome_public_bundle__stack_unwinder.AndroidManifest.expected.
+type: test
+title: Expected manifest for chrome_public_bundle stack_unwinder split
+summary: Expected AndroidManifest for the stack_unwinder feature split of the chrome_public_bundle, used to verify the built manifest against a checked-in reference.

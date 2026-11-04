@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnboundedFrameSinkHandler implementation
+// summary: Implements UnboundedFrameSinkHandler, which manages a frame sink for unbounded elements, submitting compositor frames and reclaiming resources.
+// ---
+
 #include "cc/trees/unbounded_frame_sink_handler.h"
 
 #include <utility>

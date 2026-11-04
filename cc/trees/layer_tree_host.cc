@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeHost implementation
+// summary: Implements LayerTreeHost, the main-thread compositor host that manages the layer tree, commits, visibility, and swap promises.
+// ---
+
 #include "cc/trees/layer_tree_host.h"
 
 #include <stddef.h>

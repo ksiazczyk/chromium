@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MutatorHostDelegate interface
+// summary: Declares the MutatorHostDelegate interface through which the mutator host notifies its LayerTreeHost about element mutations, animation state changes, and property tree updates.
+// ---
+
 #ifndef CC_TREES_MUTATOR_HOST_DELEGATE_H_
 #define CC_TREES_MUTATOR_HOST_DELEGATE_H_
 

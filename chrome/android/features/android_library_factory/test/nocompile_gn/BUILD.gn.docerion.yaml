@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Android library factory missing symbol GN test
+summary: GN build file defining a missing symbol generated importer test for the Android library factory, along with the factory and library targets it depends on.

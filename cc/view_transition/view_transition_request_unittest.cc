@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewTransitionRequest unit tests
+// summary: Unit tests verifying capture and animate-renderer request creation, finished-callback behavior, and directive construction with sequence IDs and types.
+// ---
+
 #include "cc/view_transition/view_transition_request.h"
 
 #include <utility>

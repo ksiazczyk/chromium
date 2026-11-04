@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer tree mutator implementation
+// summary: Implements input and output state structures for animation worklet mutations, including MutatorInputState queues and AnimationWorkletInput entries.
+// ---
+
 #include "cc/trees/layer_tree_mutator.h"
 
 #include <algorithm>

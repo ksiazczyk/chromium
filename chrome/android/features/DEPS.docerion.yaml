@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for feature targets
+summary: Restricts includes in the chrome/android/features directory, allowing only chrome/grit headers.

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: DevUI feature module Android manifest
+summary: Android manifest declaring the dev_ui dynamic feature module with on-demand delivery, install-time installation for desktop devices, and fusing enabled.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
     featureSplit="dev_ui">

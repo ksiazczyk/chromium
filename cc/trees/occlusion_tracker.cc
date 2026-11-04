@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OcclusionTracker implementation
+// summary: Implements OcclusionTracker, which tracks layer occlusion during front-to-back traversal of the effect tree and provides current occlusion for layers and contributing surfaces.
+// ---
+
 #include "cc/trees/occlusion_tracker.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame data implementation
+// summary: Implements FrameData serialization of render passes and damage state into trace values and JSON for compositor frame debugging.
+// ---
+
 #include "cc/trees/frame_data.h"
 
 #include <string>

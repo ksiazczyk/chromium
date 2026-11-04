@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeHostImpl test base declarations
+// summary: Declares shared test utilities for LayerTreeHostImpl tests, such as the test host creation function, TestFrameData, DidDrawCheckLayer and TestVizLayerTreeHostImpl.
+// ---
+
 #ifndef CC_TREES_LAYER_TREE_HOST_IMPL_TEST_BASE_H_
 #define CC_TREES_LAYER_TREE_HOST_IMPL_TEST_BASE_H_
 

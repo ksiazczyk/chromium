@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy common commit state and throttling
+// summary: Implements BeginMainFrameAndCommitState and the GetThrottlingFactor function that throttles frame rate after consecutive no-damage main frames.
+// ---
+
 #include "cc/trees/proxy_common.h"
 
 #include "base/trace_event/trace_id_helper.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyTreeLayerListDelegate header
+// summary: Declares the default PropertyTreeDelegate implementation used in layer list mode, where the LayerTreeHost client keeps property trees up to date directly.
+// ---
+
 #ifndef CC_TREES_PROPERTY_TREE_LAYER_LIST_DELEGATE_H_
 #define CC_TREES_PROPERTY_TREE_LAYER_LIST_DELEGATE_H_
 

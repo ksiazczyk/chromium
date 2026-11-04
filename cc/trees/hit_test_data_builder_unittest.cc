@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for hit test data building
+// summary: Tests HitTestDataBuilder's emission of hit test regions for surface and non-surface layers, including clipping, masking, and overlap behavior.
+// ---
+
 #include "cc/trees/hit_test_data_builder.h"
 
 #include <cstddef>

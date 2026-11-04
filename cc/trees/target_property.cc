@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target property static assertions
+// summary: Contains static assertions ensuring the cc target property count fits within the capacity of the gfx TargetProperties bitset.
+// ---
+
 #include "cc/trees/target_property.h"
 
 #include <stdint.h>

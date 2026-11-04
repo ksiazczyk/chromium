@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree filter pixel tests
+// summary: Runs parameterized pixel tests verifying backdrop filters and filter operations such as blur and color matrices across GPU and software renderer types.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

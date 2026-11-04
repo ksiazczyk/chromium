@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientLayerTreeHostImpl unit tests
+// summary: Extensive unit tests for ClientLayerTreeHostImpl covering commits, scrolling, browser controls, animations, render surface and quad behavior, and paint worklets.
+// ---
+
 #include "cc/trees/client_layer_tree_host_impl.h"
 
 #include <stddef.h>

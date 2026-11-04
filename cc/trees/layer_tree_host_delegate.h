@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeHostDelegate interface
+// summary: Declares the LayerTreeHostDelegate interface used by the main rendering loop to drive a LayerTreeHost, along with viewport change arguments, manipulation info flags and paint benchmark result structs.
+// ---
+
 #ifndef CC_TREES_LAYER_TREE_HOST_DELEGATE_H_
 #define CC_TREES_LAYER_TREE_HOST_DELEGATE_H_
 

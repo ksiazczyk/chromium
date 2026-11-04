@@ -1,0 +1,4 @@
+# Docerion header of trichrome_library_32_64_apk.AndroidManifest.expected.
+type: test
+title: Expected manifest for Trichrome Library 32_64 APK
+summary: Snapshot of the expected Android manifest for the Trichrome Library 32_64 APK, verified against actual build output.

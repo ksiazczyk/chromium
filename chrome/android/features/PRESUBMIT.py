@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for feature targets
+# summary: Presubmit script that runs the directory's Python unittest files whenever Python files are changed.
+# ---
+
 """Presubmit script for //chrome/android/features.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

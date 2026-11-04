@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsParams struct
+// summary: Declares parameters for browser controls, including top and bottom control heights, minimum heights, and animation and expansion behavior.
+// ---
+
 #ifndef CC_TREES_BROWSER_CONTROLS_PARAMS_H_
 #define CC_TREES_BROWSER_CONTROLS_PARAMS_H_
 

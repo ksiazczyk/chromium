@@ -1,0 +1,4 @@
+# Docerion header of chrome_public_bundle__on_demand.AndroidManifest.expected.
+type: data
+title: Expected AndroidManifest for chrome_public_bundle on_demand split
+summary: Expectation file holding the pretty-printed merged AndroidManifest for the on_demand feature split of chrome_public_bundle, including its queries and PDF service.

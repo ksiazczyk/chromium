@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clip node definition
+// summary: Defines the ClipNode struct for the clip property tree, holding clip rects, cached accumulated clips per render target, and pixel-moving filter references.
+// ---
+
 #ifndef CC_TREES_CLIP_NODE_H_
 #define CC_TREES_CLIP_NODE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeHost proxy unit tests
+// summary: Unit tests for the compositor proxy pipeline, verifying normal, urgent, and unthrottled commit requests through ProxyMain and the single-thread proxy.
+// ---
+
 #include "base/compiler_specific.h"
 #include "base/functional/bind.h"
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeHost damage unit tests
+// summary: Unit tests for damage tracking, checking that redraw requests, viewport changes, and related operations produce the expected damage rects on the root surface.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/functional/callback.h"
 #include "base/location.h"

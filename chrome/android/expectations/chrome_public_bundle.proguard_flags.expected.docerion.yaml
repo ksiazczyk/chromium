@@ -1,0 +1,4 @@
+# Docerion header of chrome_public_bundle.proguard_flags.expected.
+type: data
+title: Expected Proguard flags for chrome_public_bundle
+summary: Expectation file capturing all Proguard configs used when building chrome_public_bundle, so flag changes pulled in via dependencies go through code review.

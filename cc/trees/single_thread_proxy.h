@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single-thread compositor proxy interface
+// summary: Declares SingleThreadProxy, the Proxy implementation for single-threaded compositing with scheduler integration.
+// ---
+
 #ifndef CC_TREES_SINGLE_THREAD_PROXY_H_
 #define CC_TREES_SINGLE_THREAD_PROXY_H_
 

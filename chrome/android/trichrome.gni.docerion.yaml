@@ -1,0 +1,4 @@
+# Docerion header of trichrome.gni.
+type: config
+title: Trichrome library build templates
+summary: Defines GN arguments and templates for building the Trichrome static shared library APK, covering package name, certificate digest, version codes, and manifest generation.

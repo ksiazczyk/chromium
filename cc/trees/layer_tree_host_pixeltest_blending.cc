@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree blending pixel tests
+// summary: Runs pixel tests verifying compositor blend modes against CSS test colors across raster backends, with optional masks, antialiasing and color matrices.
+// ---
+
 #include <stdint.h>
 
 #include <array>

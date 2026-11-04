@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeFrameSink implementation
+// summary: Implements the frame sink that submits compositor frames to the display compositor, binding context providers and forwarding context loss notifications.
+// ---
+
 #include "cc/trees/layer_tree_frame_sink.h"
 
 #include <stdint.h>

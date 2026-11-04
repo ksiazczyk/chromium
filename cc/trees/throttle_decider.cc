@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrottleDecider implementation
+// summary: Collects frame sink IDs of surfaces affected by blur backdrop filters across render passes to decide which surfaces should be throttled.
+// ---
+
 #include "cc/trees/throttle_decider.h"
 
 #include <vector>

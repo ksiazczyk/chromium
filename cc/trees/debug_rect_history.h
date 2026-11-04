@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DebugRectHistory class declaration
+// summary: Declares DebugRectHistory and the DebugRectType enum, which record rects of various kinds for on-screen compositor debugging overlays.
+// ---
+
 #ifndef CC_TREES_DEBUG_RECT_HISTORY_H_
 #define CC_TREES_DEBUG_RECT_HISTORY_H_
 

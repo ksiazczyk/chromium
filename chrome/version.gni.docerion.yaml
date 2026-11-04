@@ -1,0 +1,4 @@
+# Docerion header of version.gni.
+type: source
+title: Chrome version variables for GN (version.gni)
+summary: Exposes the Chrome version number and Android version codes as GN variables via version.py, for build files that need version values at build time.

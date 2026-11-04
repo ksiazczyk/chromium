@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameData struct for per-frame compositor state
+// summary: Defines the FrameData struct that carries per-frame compositor state such as render passes, damage reasons, begin frame args, and tracked element status.
+// ---
+
 #ifndef CC_TREES_FRAME_DATA_H_
 #define CC_TREES_FRAME_DATA_H_
 

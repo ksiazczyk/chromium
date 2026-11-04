@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRunnerProvider class header
+// summary: Declares TaskRunnerProvider, which controls access to main and impl task runners and provides debug hooks for thread assertions.
+// ---
+
 #ifndef CC_TREES_TASK_RUNNER_PROVIDER_H_
 #define CC_TREES_TASK_RUNNER_PROVIDER_H_
 
