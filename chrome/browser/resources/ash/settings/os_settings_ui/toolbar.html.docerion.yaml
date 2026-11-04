@@ -1,0 +1,4 @@
+# Docerion header of toolbar.html.
+type: source
+title: Settings toolbar template
+summary: Template and styles for the settings toolbar, showing the settings title, optional menu button and search box with narrow and search-cutoff layout adjustments.

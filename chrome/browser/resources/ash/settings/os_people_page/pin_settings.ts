@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen PIN settings element
+// summary: TypeScript element managing the lock screen PIN settings, observing auth factor changes, policy restrictions, and opening the setup and autosubmit dialogs.
+// ---
+
 import './setup_pin_dialog.js';
 import './pin_autosubmit_dialog.js';
 

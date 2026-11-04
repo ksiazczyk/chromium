@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost notice browser proxy
+// summary: Browser proxy that lets the Magic Boost review terms banner invoke showNotice in the browser process through the MagicBoost Mojo page handler.
+// ---
+
 import {PageHandlerFactory, PageHandlerRemote} from '../mojom-webui/magic_boost_handler.mojom-webui.js';
 
 // Communicates with the MagicBoostNoticeBrowserProxy in the browser process.

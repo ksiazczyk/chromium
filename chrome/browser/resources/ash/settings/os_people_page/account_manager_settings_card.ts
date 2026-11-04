@@ -8,6 +8,12 @@
  * information.
  */
 
+// ---docerion
+// type: source
+// title: Account manager settings card element
+// summary: Polymer element implementing the account manager settings card with device account details and managed or child user descriptions.
+// ---
+
 import '../os_settings_page/settings_card.js';
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';

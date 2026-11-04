@@ -1,0 +1,4 @@
+# Docerion header of privacy_hub_app_permission_row.html.
+type: source
+title: Privacy Hub app permission row template
+summary: HTML template for the app permission row showing an app icon, name, permission text, policy indicator and a permission toggle.

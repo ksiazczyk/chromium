@@ -11,6 +11,12 @@
  * becomes visible.
  */
 
+// ---docerion
+// type: source
+// title: Managed footnote element
+// summary: Polymer element that displays a footnote indicating the user or device is managed by an organization, hidden when isManaged is false.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/ash/common/cr_elements/icons.html.js';
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';

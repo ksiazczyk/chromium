@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization settings page element
+// summary: Defines the settings-personalization-page Polymer element that hosts personalization settings, handles deep links, and opens the Personalization Hub via the browser proxy.
+// ---
+
 /**
  * @fileoverview
  * 'settings-personalization-page' is the settings page containing

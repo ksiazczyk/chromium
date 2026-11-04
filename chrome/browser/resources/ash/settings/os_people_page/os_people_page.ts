@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS people page element
+// summary: Polymer element for the OS settings people page containing sign-in settings, account manager state, and graduation app visibility.
+// ---
+
 /**
  * @fileoverview
  * 'settings-people-page' is the settings page containing sign-in settings.

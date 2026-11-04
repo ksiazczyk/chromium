@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation handler Mojo interface provider
+// summary: Supplies the GraduationHandler Mojo remote for the settings card, allowing a test provider to be injected for testing.
+// ---
+
 import type {GraduationHandlerInterface} from '../../mojom-webui/graduation_handler.mojom-webui.js';
 import {GraduationHandler} from '../../mojom-webui/graduation_handler.mojom-webui.js';
 

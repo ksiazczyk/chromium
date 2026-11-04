@@ -7,6 +7,12 @@
  * Enterprise Printers.
  */
 
+// ---docerion
+// type: source
+// title: Enterprise printers list element
+// summary: Polymer element that lists enterprise printers with search filtering, sorting and a collapsible show-more section.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 import 'chrome://resources/polymer/v3_0/iron-flex-layout/iron-flex-layout-classes.js';

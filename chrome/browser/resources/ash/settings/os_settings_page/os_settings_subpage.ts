@@ -8,6 +8,12 @@
  * contains the subpage title, a search field and a back icon.
  */
 
+// ---docerion
+// type: source
+// title: os-settings-subpage element
+// summary: Defines the os-settings-subpage element that shows a subpage with title, back button, search field, spinner and card body.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_search_field/cr_search_field.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';

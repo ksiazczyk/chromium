@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick unlock browser proxy
+// summary: Browser proxy helper that queries whether the password and PIN authentication factors are currently configured for quick unlock on the lock screen subpage.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

@@ -8,6 +8,12 @@
  * users to a ChromeOS device.
  */
 
+// ---docerion
+// type: source
+// title: Add user dialog element
+// summary: Polymer element implementing the add user dialog, validating email or alias input and adding users through the usersPrivate API.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

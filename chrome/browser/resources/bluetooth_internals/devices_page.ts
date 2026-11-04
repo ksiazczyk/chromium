@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Devices page TypeScript for Bluetooth internals UI
+// summary: Defines the DevicesPage class and scan status enum that render a device table and control the Bluetooth discovery scan button state.
+// ---
+
 /**
  * Javascript for DevicesPage and DevicesView, served from
  *     chrome://bluetooth-internals/.

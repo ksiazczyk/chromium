@@ -1,0 +1,4 @@
+# Docerion header of search_engine.html.
+type: source
+title: Search engine link row template
+summary: HTML template for the settings-search-engine element, a link row that shows the current default search engine and opens the browser search settings.

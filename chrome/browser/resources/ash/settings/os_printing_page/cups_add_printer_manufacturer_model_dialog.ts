@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add printer manufacturer model dialog
+// summary: Polymer dialog element letting the user manually pick the manufacturer and model of a new printer, including PPD validation and EULA display.
+// ---
+
 /**
  * @fileoverview
  * 'add-printer-manufacturer-model-dialog' is a dialog in which the user can

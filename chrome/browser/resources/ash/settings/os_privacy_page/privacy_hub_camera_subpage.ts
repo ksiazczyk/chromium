@@ -8,6 +8,12 @@
  * state of the system camera access.
  */
 
+// ---docerion
+// type: source
+// title: Privacy Hub camera subpage element
+// summary: Subpage element giving a detailed overview of system camera access, listing connected cameras, apps and system services with camera permissions.
+// ---
+
 import './privacy_hub_app_permission_row.js';
 
 import {PrefsMixin} from '/shared/settings/prefs/prefs_mixin.js';

@@ -7,6 +7,12 @@
  * manually enter the information to set up a new printer.
  */
 
+// ---docerion
+// type: source
+// title: Add printer manually dialog element
+// summary: Implements the add-printer-manually-dialog element that validates manual printer details and adds it via the browser proxy.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

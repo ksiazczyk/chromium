@@ -8,6 +8,12 @@
  * security settings.
  */
 
+// ---docerion
+// type: source
+// title: OS privacy page element
+// summary: TypeScript element implementing the ChromeOS settings privacy and security page, including authentication prompts, sync status and deep linking.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';

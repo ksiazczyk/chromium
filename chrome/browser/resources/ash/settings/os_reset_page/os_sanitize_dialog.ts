@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sanitize dialog element
+// summary: Polymer element implementing the sanitize confirmation dialog that triggers settings sanitization via the reset proxy.
+// ---
+
 /**
  * @fileoverview
  * 'os-settings-sanitize-dialog' is a dialog shown to request confirmation

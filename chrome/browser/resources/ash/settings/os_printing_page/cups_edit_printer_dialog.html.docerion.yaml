@@ -1,0 +1,4 @@
+# Docerion header of cups_edit_printer_dialog.html.
+type: source
+title: Edit printer dialog template
+summary: HTML template for the dialog that edits an existing CUPS printer's name, address, protocol, queue and URI.

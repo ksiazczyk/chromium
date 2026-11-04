@@ -8,6 +8,12 @@
  * consent regarding user metric analysis.
  */
 
+// ---docerion
+// type: source
+// title: Metrics consent toggle button element
+// summary: TypeScript custom element implementing the metrics consent toggle, updating consent through the browser proxy and syncing the pref state.
+// ---
+
 import '../controls/settings_toggle_button.js';
 
 import {PrefsMixin} from '/shared/settings/prefs/prefs_mixin.js';

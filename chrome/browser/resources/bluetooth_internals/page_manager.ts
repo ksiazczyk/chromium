@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page manager for Bluetooth Internals pages
+// summary: Manages registration and hash-based navigation of root pages, showing and hiding page hierarchies and updating browser history.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {FocusOutlineManager} from 'chrome://resources/js/focus_outline_manager.js';
 

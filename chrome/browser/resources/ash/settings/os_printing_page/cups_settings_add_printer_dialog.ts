@@ -14,6 +14,12 @@
  *   add a print server.
  */
 
+// ---docerion
+// type: source
+// title: CUPS add printer dialog element
+// summary: Element that coordinates the sub-dialogs for manually adding a CUPS printer, selecting manufacturer and model, or adding a print server.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import './cups_add_print_server_dialog.js';

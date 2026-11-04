@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add printer dialog base element
+// summary: Implements the add-printer-dialog base element that shows a modal dialog reused by the printer setup flows.
+// ---
+
 /**
  * @fileoverview 'add-printer-dialog' is the template of the Add Printer
  * dialog.

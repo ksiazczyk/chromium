@@ -1,0 +1,4 @@
+# Docerion header of graduation_settings_card.html.
+type: source
+title: Graduation settings card HTML template
+summary: HTML template for the graduation settings card in Chrome OS settings, rendering a link row that opens the graduation (Content Transfer) entry.

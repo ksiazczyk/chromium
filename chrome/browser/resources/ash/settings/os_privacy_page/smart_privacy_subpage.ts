@@ -7,6 +7,12 @@
  * 'settings-smart-privacy-subpage' contains smart privacy settings.
  */
 
+// ---docerion
+// type: source
+// title: Smart privacy subpage element
+// summary: Implements the settings-smart-privacy-subpage element exposing quick dim, quick lock delay and snooping protection settings with deep linking.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '../controls/extension_controlled_indicator.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: eSIM profile item element
+// summary: Polymer element that displays an installed eSIM profile's name and service provider within the device reset dialog.
+// ---
+
 /**
  * @fileoverview
  * 'os-settings-powerwash-dialog-esim-item' is an item showing details of an

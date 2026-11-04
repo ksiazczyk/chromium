@@ -1,0 +1,4 @@
+# Docerion header of os_sanitize_dialog.html.
+type: source
+title: Sanitize dialog template
+summary: HTML template for the dialog asking users to confirm reverting ChromeOS settings to safe defaults.

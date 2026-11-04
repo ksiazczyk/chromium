@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure DNS custom resolver input element
+// summary: Defines the secure-dns-input element that validates custom resolver templates, probes them and reports validity via value-update events.
+// ---
+
 /**
  * @fileoverview `secure-dns-input` is a single-line text field that is used
  * with the secure DNS setting to configure custom servers. It is based on

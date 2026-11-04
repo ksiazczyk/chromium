@@ -1,0 +1,4 @@
+# Docerion header of characteristic_list_item.html.
+type: source
+title: Characteristic list item template
+summary: HTML template for a characteristic list item showing characteristic info, properties, value and descriptors.

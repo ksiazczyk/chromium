@@ -1,0 +1,4 @@
+# Docerion header of cups_add_printer_dialog.html.
+type: source
+title: Add printer dialog base template
+summary: HTML template for the base Add Printer dialog with slots for title, body, and buttons.

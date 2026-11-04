@@ -1,0 +1,4 @@
+# Docerion header of managed_footnote.html.
+type: source
+title: Managed footnote template
+summary: HTML template with styles for the managed-footnote element, showing a management notice with an icon when the user is managed.

@@ -10,6 +10,12 @@
  * personalization search.
  */
 
+// ---docerion
+// type: source
+// title: Personalization search handler accessor
+// summary: Provides access to the personalization search Mojo handler whose results link to the Personalization App, and allows injecting a test implementation for verification.
+// ---
+
 import type {SearchHandlerInterface} from '../mojom-webui/personalization_search.mojom-webui.js';
 import {SearchHandler} from '../mojom-webui/personalization_search.mojom-webui.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of menu_item.html.
+type: source
+title: OS settings menu item template
+summary: HTML template and styles for the os-settings-menu-item element, rendering an icon, label, sublabel and tooltip for a settings navigation entry.

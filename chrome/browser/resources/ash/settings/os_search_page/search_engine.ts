@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine settings element
+// summary: Polymer element settings-search-engine that displays the current preferred search engine and opens the browser search settings when the link is clicked.
+// ---
+
 /**
  * @fileoverview 'settings-search-engine' is the settings module for setting
  * the preferred search engine.

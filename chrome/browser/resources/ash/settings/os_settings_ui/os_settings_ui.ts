@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings UI element
+// summary: Implements the settings-ui Polymer element hosting the ChromeOS Settings page, handling routing, prefs, lock state, drawer navigation and metrics recording.
+// ---
+
 /**
  * @fileoverview
  * 'settings-ui' implements the UI for the Settings page.

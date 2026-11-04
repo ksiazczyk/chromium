@@ -1,0 +1,4 @@
+# Docerion header of account_manager_settings_card.html.
+type: source
+title: Account manager settings card template
+summary: HTML template for the account manager settings card showing the device account profile, managed badge, and management messaging.

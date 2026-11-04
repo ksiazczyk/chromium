@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log details element
+// summary: Implements the log-details element that formats prediction logs, optimization targets and the top field predictions.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {OptimizationTarget} from './autofill_ml_internals.mojom-webui.js';

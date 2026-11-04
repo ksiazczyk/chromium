@@ -7,6 +7,12 @@
  * 'os-settings-privacy-hub-subpage' contains privacy hub configurations.
  */
 
+// ---docerion
+// type: source
+// title: Privacy Hub settings subpage element
+// summary: Implements the OS Settings Privacy Hub subpage with camera, microphone and location controls, deep linking and navigation origin metrics.
+// ---
+
 import '../app_management_icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';

@@ -1,0 +1,4 @@
+# Docerion header of user_list.html.
+type: source
+title: User list HTML template
+summary: HTML template for the settings-user-list element, rendering allowed users with profile pictures, emails, and remove buttons.

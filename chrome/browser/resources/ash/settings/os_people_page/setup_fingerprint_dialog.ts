@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint setup dialog element
+// summary: TypeScript element implementing the fingerprint setup flow through steps to locate the scanner, move the finger and complete enrollment, with progress tracking.
+// ---
+
 import 'chrome://resources/cros_components/lottie_renderer/lottie-renderer.js';
 import 'chrome://resources/ash/common/quick_unlock/fingerprint_progress.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

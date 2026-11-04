@@ -8,6 +8,12 @@
  * Controls features
  */
 
+// ---docerion
+// type: source
+// title: Parental Controls settings card element
+// summary: Polymer element implementing the parental-controls-settings-card, handling setup and Family Link clicks, deep linking, and online/offline state.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

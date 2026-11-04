@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby printers list element
+// summary: Polymer element that lists nearby printers and handles adding automatic, print-server and discovered printers.
+// ---
+
 /**
  * @fileoverview 'settings-cups-nearby-printers' is a list container for
  * Nearby Printers.

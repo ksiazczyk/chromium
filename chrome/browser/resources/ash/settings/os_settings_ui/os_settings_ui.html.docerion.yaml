@@ -1,0 +1,4 @@
+# Docerion header of os_settings_ui.html.
+type: source
+title: OS settings UI template
+summary: Polymer template and styles for the ChromeOS settings page, laying out the toolbar, navigation drawer, side menu and main content area with narrow-layout handling.

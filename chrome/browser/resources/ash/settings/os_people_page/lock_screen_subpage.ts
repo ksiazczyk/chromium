@@ -14,6 +14,12 @@
  * </settings-lock-screen-subpage>
  */
 
+// ---docerion
+// type: source
+// title: Lock screen subpage element
+// summary: Polymer element for the lock screen subpage that lets users configure screen lock, PIN, password, recovery, and fingerprint unlock options.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';

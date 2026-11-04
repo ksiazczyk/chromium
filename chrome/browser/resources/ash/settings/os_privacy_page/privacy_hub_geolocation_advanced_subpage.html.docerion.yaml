@@ -1,0 +1,4 @@
+# Docerion header of privacy_hub_geolocation_advanced_subpage.html.
+type: source
+title: Privacy Hub geolocation advanced subpage template
+summary: HTML template for the advanced geolocation subpage with the Google Location Accuracy toggle and a secondary-user managed indicator.

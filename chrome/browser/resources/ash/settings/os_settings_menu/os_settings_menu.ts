@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings menu element
+// summary: Implements the os-settings-menu element that shows the ChromeOS settings navigation with a hardcoded set of pages and subpages, reacting to Bluetooth, network and input device state.
+// ---
+
 /**
  * @fileoverview
  * 'os-settings-menu' shows a menu with a hardcoded set of pages and subpages.

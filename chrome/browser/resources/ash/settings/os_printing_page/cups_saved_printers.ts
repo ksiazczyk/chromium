@@ -7,6 +7,12 @@
  * Printers.
  */
 
+// ---docerion
+// type: source
+// title: CUPS saved printers list element
+// summary: Polymer element that shows the saved CUPS printers list with search filtering, sorting, status display and a show-more expansion.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 import 'chrome://resources/polymer/v3_0/iron-flex-layout/iron-flex-layout-classes.js';

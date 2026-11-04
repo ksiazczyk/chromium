@@ -8,6 +8,12 @@
  * the state of the system geolocation access.
  */
 
+// ---docerion
+// type: source
+// title: Privacy hub geolocation subpage element
+// summary: Implements the settings-privacy-hub-geolocation-subpage element with geolocation access levels, app permission lists and pref handling.
+// ---
+
 import './privacy_hub_app_permission_row.js';
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_radio_button_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';

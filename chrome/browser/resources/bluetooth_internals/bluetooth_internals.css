@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Bluetooth Internals styles
+summary: Stylesheet defining colors, header, sidebar, overlay and responsive layout for the Bluetooth Internals page.
+*/
+
 :root {
   --dark-primary-color: rgb(25, 118, 210);
   --darker-primary-color: rgb(13, 71, 161);

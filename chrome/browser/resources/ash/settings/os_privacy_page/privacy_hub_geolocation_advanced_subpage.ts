@@ -9,6 +9,12 @@
  *
  */
 
+// ---docerion
+// type: source
+// title: Privacy Hub geolocation advanced subpage element
+// summary: Subpage element with advanced geolocation settings such as Google Location Accuracy, disabled for secondary users or when the location control is hidden.
+// ---
+
 import {PrefsMixin} from '/shared/settings/prefs/prefs_mixin.js';
 import {I18nMixin} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';
 import {WebUiListenerMixin} from 'chrome://resources/ash/common/cr_elements/web_ui_listener_mixin.js';

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Log details styles
+summary: Styles the log details view, including field rows and the prediction probability histogram bars.
+*/
+
 :host {
   padding: 16px;
 }

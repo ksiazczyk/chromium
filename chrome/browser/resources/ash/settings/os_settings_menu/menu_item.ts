@@ -8,6 +8,12 @@
  * rendered under a 'iron-selector' element in 'os-settings-menu'.
  */
 
+// ---docerion
+// type: source
+// title: OS settings menu item element
+// summary: Defines the os-settings-menu-item Polymer element that renders a selectable settings menu entry with icon, label, sublabel, accessibility attributes and keyboard activation.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';
 import 'chrome://resources/polymer/v3_0/paper-tooltip/paper-tooltip.js';
 import '../os_settings_icons.html.js';

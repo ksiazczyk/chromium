@@ -14,6 +14,12 @@
  *    </os-settings-animated-pages>
  */
 
+// ---docerion
+// type: source
+// title: os-settings-animated-pages element
+// summary: Defines the os-settings-animated-pages Polymer element that manages animated page and subpage transitions, route observation and focus handling.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-pages/iron-pages.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

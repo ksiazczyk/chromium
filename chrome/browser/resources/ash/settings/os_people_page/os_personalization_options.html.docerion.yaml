@@ -1,0 +1,4 @@
+# Docerion header of os_personalization_options.html.
+type: source
+title: OS personalization options template
+summary: HTML template for personalization options with a toggle controlling use of the spelling service for spell check.

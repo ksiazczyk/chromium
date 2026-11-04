@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization hub browser proxy
+// summary: TypeScript browser proxy interface and singleton implementation that sends the openPersonalizationHub message to the browser, with a hook for injecting test instances.
+// ---
+
 export interface PersonalizationHubBrowserProxy {
   openPersonalizationHub(): void;
 }

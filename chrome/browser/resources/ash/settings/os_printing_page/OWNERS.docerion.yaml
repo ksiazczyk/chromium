@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for os_printing_page
+summary: Lists the code owners responsible for reviewing changes in the os_printing_page directory.

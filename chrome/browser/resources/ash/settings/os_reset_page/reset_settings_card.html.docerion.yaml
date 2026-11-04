@@ -1,0 +1,4 @@
+# Docerion header of reset_settings_card.html.
+type: source
+title: Reset settings card template
+summary: HTML template for the reset settings card offering powerwash and sanitize actions and hosting the powerwash dialog.

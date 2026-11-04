@@ -7,6 +7,12 @@
  * interact with the browser. Used only on Chrome OS.
  */
 
+// ---docerion
+// type: source
+// title: CUPS printers browser proxy
+// summary: Defines printer data types, setup result enums, and the browser proxy interface the CUPS printing UI uses to communicate with the browser.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 import type {PrinterStatus} from './printer_status.js';

@@ -13,6 +13,12 @@
  *    </settings-card>
  */
 
+// ---docerion
+// type: source
+// title: settings-card element
+// summary: Defines the settings-card element that displays a themed card with an optional header text.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

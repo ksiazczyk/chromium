@@ -1,0 +1,4 @@
+# Docerion header of setup_pin_dialog.html.
+type: source
+title: Setup PIN dialog template
+summary: HTML template for the dialog that sets up a new PIN using the setup PIN keyboard, including a confirmation step and cancel and continue buttons.

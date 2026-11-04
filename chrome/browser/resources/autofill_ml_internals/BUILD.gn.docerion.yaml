@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Autofill ML Internals WebUI build definition (BUILD.gn)
+summary: Defines the GN build for the Autofill ML Internals WebUI, listing its TypeScript, CSS and static files plus Mojo and Lit dependencies.

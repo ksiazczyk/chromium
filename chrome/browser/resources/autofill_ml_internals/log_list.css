@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Log list styles
+summary: Styles the log list of the autofill ML internals page, covering filter chips, log entries, selection states and dark mode colors.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

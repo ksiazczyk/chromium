@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill ML Internals app element
+// summary: Defines the root app element that listens for ML prediction logs over Mojo and manages the log list and selection.
+// ---
+
 import './log_list.js';
 import './log_details.js';
 

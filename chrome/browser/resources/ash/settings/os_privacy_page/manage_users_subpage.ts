@@ -8,6 +8,12 @@
  * accounts on the device.
  */
 
+// ---docerion
+// type: source
+// title: Manage users subpage element
+// summary: TypeScript element implementing the settings-manage-users-subpage for managing user accounts, including owner checks, deep linking and the add-user dialog.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/action_link.css.js';
 import 'chrome://resources/js/action_link.js';

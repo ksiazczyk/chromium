@@ -7,6 +7,12 @@
  * Browser Proxy for Parental Controls functions.
  */
 
+// ---docerion
+// type: source
+// title: Parental Controls browser proxy
+// summary: TypeScript browser proxy interface and implementation that forwards requests to show the Add Supervision dialog and launch Family Link settings.
+// ---
+
 export interface ParentalControlsBrowserProxy {
   /**
    * Shows the Add Supervsion dialog.

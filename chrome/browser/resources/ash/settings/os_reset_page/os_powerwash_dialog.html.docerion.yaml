@@ -1,0 +1,4 @@
+# Docerion header of os_powerwash_dialog.html.
+type: source
+title: Powerwash dialog template with eSIM warning
+summary: HTML template for the ChromeOS powerwash confirmation dialog, including the eSIM profile warning list and checkbox flow.

@@ -1,0 +1,4 @@
+# Docerion header of cups_printers.html.
+type: source
+title: CUPS printers settings page template
+summary: HTML template for the CUPS printers subpage, covering the print management link, connectivity warning, and saved, nearby, and enterprise printer sections.

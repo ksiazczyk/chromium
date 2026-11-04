@@ -1,0 +1,4 @@
+# Docerion header of startup_settings_card.html.
+type: source
+title: Startup settings card template
+summary: HTML template for the startup settings card, showing the restore apps and pages dropdown bound to its preference.

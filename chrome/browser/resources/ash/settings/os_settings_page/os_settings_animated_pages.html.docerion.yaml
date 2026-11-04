@@ -1,0 +1,4 @@
+# Docerion header of os_settings_animated_pages.html.
+type: source
+title: Template for os-settings-animated-pages
+summary: HTML template wrapping an iron-pages element that hosts the OS settings pages and animated subpages.

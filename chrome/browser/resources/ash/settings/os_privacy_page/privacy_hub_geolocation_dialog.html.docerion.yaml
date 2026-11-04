@@ -1,0 +1,4 @@
+# Docerion header of privacy_hub_geolocation_dialog.html.
+type: source
+title: Privacy hub geolocation dialog template
+summary: HTML template for the dialog that explains and asks users to enable system location permission for precise timezone resolution.

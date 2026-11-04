@@ -7,6 +7,12 @@
  *     chrome://bluetooth-internals/.
  */
 
+// ---docerion
+// type: source
+// title: Descriptor list element
+// summary: Custom element that loads and displays GATT descriptors for a device characteristic, with retry via snackbar on errors.
+// ---
+
 import './descriptor_list_item.js';
 import './expandable_list.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost review terms banner element
+// summary: Polymer element magic-boost-review-terms-banner that displays a button for users to review Magic Boost terms and shows the notice via the browser proxy.
+// ---
+
 /**
  * @fileoverview 'magic-boost-review-terms-banner' is an element to display
  * an option for users to review the terms.

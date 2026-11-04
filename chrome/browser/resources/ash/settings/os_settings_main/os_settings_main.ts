@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings main element
+// summary: Polymer element that displays the selected ChromeOS settings page, tracking main page versus subpage visibility and page availability.
+// ---
+
 /**
  * @fileoverview
  * 'os-settings-main' displays the selected settings page.

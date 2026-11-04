@@ -6,6 +6,12 @@
  * Javascript for ValueControl, served from chrome://bluetooth-internals/.
  */
 
+// ---docerion
+// type: source
+// title: Value control element
+// summary: Control for reading and writing GATT characteristic and descriptor values in hexadecimal, UTF-8 and decimal formats.
+// ---
+
 import {assert, assertNotReachedCase} from 'chrome://resources/js/assert.js';
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 

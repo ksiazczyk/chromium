@@ -8,6 +8,12 @@
  * #include=settings-shared md-select
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for CUPS printer dialogs
+summary: Shared CSS rules that style the dialog body, inputs, buttons, and search area of the CUPS printer dialogs in ChromeOS settings.
+*/
+
 [slot='dialog-body'] .settings-box {
   border-top: none;
   margin-bottom: 10px;

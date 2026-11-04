@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Printing directory component metadata
+summary: Defines the ChromeOS Printing team component and Buganizer component ID for the os_printing_page directory.

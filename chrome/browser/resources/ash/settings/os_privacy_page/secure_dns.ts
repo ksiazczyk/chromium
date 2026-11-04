@@ -14,6 +14,12 @@
  * by PrivacyPageBrowserProxy and describe the new host resolver configuration.
  */
 
+// ---docerion
+// type: source
+// title: Secure DNS setting element
+// summary: Implements the settings-secure-dns element that configures the secure DNS mode and resolver list based on host resolver state events.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';

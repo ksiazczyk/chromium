@@ -7,6 +7,12 @@
  * existing printer's information and re-configure it.
  */
 
+// ---docerion
+// type: source
+// title: Edit printer dialog element
+// summary: Polymer element implementing the dialog to edit and reconfigure an existing CUPS printer, with network listeners and edit action metrics.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

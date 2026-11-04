@@ -1,0 +1,4 @@
+# Docerion header of snackbar.html.
+type: source
+title: Snackbar template
+summary: HTML template with styles for the snackbar notification bar, including success, warning and error variants and responsive layout.

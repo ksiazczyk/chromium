@@ -7,6 +7,12 @@
  * 'printing-settings-card' is the card element containing printing settings.
  */
 
+// ---docerion
+// type: source
+// title: Printing settings card element
+// summary: Settings card element that navigates to the CUPS printers page and opens the scanning app, with deep-link and route support.
+// ---
+
 import '../os_settings_page/settings_card.js';
 import '../settings_shared.css.js';
 import './cups_printers_browser_proxy.js';

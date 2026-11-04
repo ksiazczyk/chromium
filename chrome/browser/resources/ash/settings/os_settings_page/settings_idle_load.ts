@@ -9,6 +9,12 @@
  * given that holds the elements to be loaded lazily.
  */
 
+// ---docerion
+// type: source
+// title: settings-idle-load element
+// summary: Defines the settings-idle-load element that lazily loads and stamps template content during browser idle time.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {TemplateInstanceBase} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {PolymerElement, templatize} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

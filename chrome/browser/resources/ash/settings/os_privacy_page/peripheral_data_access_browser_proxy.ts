@@ -6,6 +6,12 @@
  * @fileoverview Helper browser proxy for peripheral data access client.
  */
 
+// ---docerion
+// type: source
+// title: Peripheral data access browser proxy
+// summary: Browser proxy interface and implementation for checking Thunderbolt support and the peripheral data access policy state.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface DataAccessPolicyState {

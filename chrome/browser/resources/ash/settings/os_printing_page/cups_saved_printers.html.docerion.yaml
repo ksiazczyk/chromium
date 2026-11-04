@@ -1,0 +1,4 @@
+# Docerion header of cups_saved_printers.html.
+type: source
+title: Saved printers list template
+summary: HTML template for the saved printers list, with edit and remove actions, search filtering, and a show-more toggle for long lists.

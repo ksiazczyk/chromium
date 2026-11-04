@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Descriptor list item element
+// summary: Custom element rendering a single GATT descriptor, filling the object fieldset and value control from descriptor info.
+// ---
+
 import './expandable_list_item.js';
 import './object_fieldset.js';
 import './value_control.js';

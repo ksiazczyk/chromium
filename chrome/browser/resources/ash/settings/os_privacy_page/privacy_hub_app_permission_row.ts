@@ -9,6 +9,12 @@
  * controls page.
  */
 
+// ---docerion
+// type: source
+// title: Privacy Hub app permission row element
+// summary: Custom row element representing an app and its camera, microphone or location permission state for the OS Settings Privacy controls subpages.
+// ---
+
 import {I18nMixin} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';
 import type {Permission} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import {AppType, PermissionType, TriState} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';

@@ -1,0 +1,4 @@
+# Docerion header of cups_enterprise_printers.html.
+type: source
+title: Enterprise printers list template
+summary: HTML template for the enterprise printers list, with a show-more control, action menu and no-search-results message.

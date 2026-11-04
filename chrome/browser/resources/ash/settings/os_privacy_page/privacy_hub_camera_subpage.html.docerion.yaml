@@ -1,0 +1,4 @@
+# Docerion header of privacy_hub_camera_subpage.html.
+type: source
+title: Privacy Hub camera subpage template
+summary: HTML template for the camera subpage showing the camera toggle, connected cameras, and per-app, website and system service camera access sections.

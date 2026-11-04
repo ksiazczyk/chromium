@@ -1,0 +1,4 @@
+# Docerion header of os_settings_subpage.html.
+type: source
+title: Template for os-settings-subpage
+summary: HTML template for the OS settings subpage header with back button, title, icon, learn-more link, search field and spinner, plus the card body slot.

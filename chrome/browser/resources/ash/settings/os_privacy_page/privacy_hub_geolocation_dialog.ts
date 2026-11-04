@@ -7,6 +7,12 @@
  * permission to allow precise timezone resolution.
  */
 
+// ---docerion
+// type: source
+// title: Privacy hub geolocation dialog element
+// summary: Defines the settings-privacy-hub-geolocation-dialog element that enables system geolocation via a pref and records usage metrics.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';

@@ -9,6 +9,12 @@
  * Served from chrome://bluetooth-internals/.
  */
 
+// ---docerion
+// type: source
+// title: Object fieldset custom element
+// summary: Custom element that displays an object's properties as fieldset rows, with booleans shown as status icons.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of os_sync_controls_subpage.html.
+type: source
+title: OS sync controls subpage template
+summary: HTML template with a radio group and per-data-type toggles for choosing which OS data types are synced, including wallpaper.

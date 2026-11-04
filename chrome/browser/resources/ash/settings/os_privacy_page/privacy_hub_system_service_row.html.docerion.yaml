@@ -1,0 +1,4 @@
+# Docerion header of privacy_hub_system_service_row.html.
+type: source
+title: Privacy Hub system service row template
+summary: HTML template for a row showing a system service or app with its icon, name and permission state.

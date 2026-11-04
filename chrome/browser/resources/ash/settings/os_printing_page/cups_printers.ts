@@ -9,6 +9,12 @@
  * unix printing system) and the many open source drivers built for CUPS.
  */
 
+// ---docerion
+// type: source
+// title: CUPS printers settings subpage component
+// summary: Implements the settings-cups-printers Polymer component for the ChromeOS CUPS printer settings subpage, used to set up legacy and non-CloudPrint printers via CUPS and its open source drivers.
+// ---
+
 // TODO(xdai): Rename it to 'settings-cups-printers-page'.
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
