@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TWA launch queue tab helper header
+// summary: Declares the WebContents user data that manages TWA launch lifecycle across Java launch intents, DAL verification, and C++ navigation.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEBAPPS_TWA_LAUNCH_QUEUE_TAB_HELPER_H_
 #define CHROME_BROWSER_ANDROID_WEBAPPS_TWA_LAUNCH_QUEUE_TAB_HELPER_H_
 

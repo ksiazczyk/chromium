@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK install metrics
+// summary: Records UMA histograms for WebAPK request token duration, install duration, install events and install results.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_metrics.h"
 
 #include "base/metrics/histogram_macros.h"

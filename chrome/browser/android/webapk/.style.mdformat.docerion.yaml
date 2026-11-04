@@ -1,0 +1,4 @@
+# Docerion header of .style.mdformat.
+type: config
+title: mdformat style marker for markdown formatting
+summary: Marker file that enables automatic markdown formatting through depot_tools git cl format, wrapping lines at 80 characters.

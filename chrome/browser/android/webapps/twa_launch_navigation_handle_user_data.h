@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TWA launch navigation handle user data header
+// summary: Declares the NavigationHandle user data class and the Digital Asset Links verification status enum, documenting the expected launch flow.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEBAPPS_TWA_LAUNCH_NAVIGATION_HANDLE_USER_DATA_H_
 #define CHROME_BROWSER_ANDROID_WEBAPPS_TWA_LAUNCH_NAVIGATION_HANDLE_USER_DATA_H_
 

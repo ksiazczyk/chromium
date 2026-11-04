@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppDiscoveryService unit tests
+// summary: Tests GetApps results and errors using a TestFetcher override, including results with Play Store extras.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/app_discovery_service.h"
 
 #include <string>

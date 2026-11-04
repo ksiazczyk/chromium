@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the AppDiscoveryService
+summary: GN build file defining the ChromeOS-only app_discovery_service source set and its unit_tests target with their dependencies.

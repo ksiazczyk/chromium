@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App mode build configuration
+summary: Defines the app_mode source set with app_mode_utils sources and dependencies, adding ChromeOS kiosk dependencies for ChromeOS builds.

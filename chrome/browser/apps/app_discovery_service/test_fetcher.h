@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestFetcher header for app discovery tests
+// summary: Declares a TestFetcher AppFetcher stub that returns preset Result lists, supporting app discovery service unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_TEST_FETCHER_H_
 #define CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_TEST_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator press helpers implementation
+// summary: Implements helpers that simulate pressing the Ctrl+W close-tab and Ctrl+Shift+W close-window accelerators on a browser window during tests.
+// ---
+
 #include "chrome/browser/app_mode/test/accelerator_helpers.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

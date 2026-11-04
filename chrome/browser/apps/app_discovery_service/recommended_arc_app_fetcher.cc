@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecommendedArcAppFetcher implementation for Play recommendations
+// summary: Implements RecommendedArcAppFetcher, which requests recommended Android apps and parses the Play response into Result objects with PlayExtras, reporting discovery errors.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/recommended_arc_app_fetcher.h"
 
 #include <utility>

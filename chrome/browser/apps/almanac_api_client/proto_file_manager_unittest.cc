@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProtoFileManager unit tests
+// summary: Unit tests verifying that ProtoFileManager writes, reads, and overwrites ClientUserContext proto data on disk using a temporary directory.
+// ---
+
 #include "chrome/browser/apps/almanac_api_client/proto_file_manager.h"
 
 #include <memory>

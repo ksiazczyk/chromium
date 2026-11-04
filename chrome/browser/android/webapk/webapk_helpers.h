@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK helpers header
+// summary: Declares GenerateAppIdFromManifestId, which derives the Chrome-specific AppId from a spec-defined web manifest ID.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_HELPERS_H_
 #define CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_HELPERS_H_
 

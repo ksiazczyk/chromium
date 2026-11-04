@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preload app definition unit tests
+// summary: Unit tests verifying PreloadAppDefinition accessors for name, platform, install reason, install surface, and web app manifest URLs.
+// ---
+
 #include "chrome/browser/apps/app_preload_service/preload_app_definition.h"
 
 #include <memory>

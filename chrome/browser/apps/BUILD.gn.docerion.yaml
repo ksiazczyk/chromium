@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for apps user type filter and guest view tests
+summary: Defines GN source sets for the user type filter plus unit, browser, and interactive UI tests for guest view web apps on ChromeOS.

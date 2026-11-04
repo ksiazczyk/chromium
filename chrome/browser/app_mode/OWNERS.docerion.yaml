@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for app_mode
+summary: Delegates code ownership review to the ChromeOS kiosk component OWNERS file.

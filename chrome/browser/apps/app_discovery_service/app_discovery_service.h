@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppDiscoveryService class declaration
+// summary: Declares the KeyedService API that consumers use to query apps of a given result type.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_APP_DISCOVERY_SERVICE_H_
 #define CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_APP_DISCOVERY_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the WebAPK native folder
+summary: Inherits shared directory metadata from the components/webapk COMMON_METADATA mixin for Chromium tooling.

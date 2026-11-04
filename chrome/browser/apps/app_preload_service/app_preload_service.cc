@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Preload Service implementation
+// summary: Implements the first login flow that checks eligibility, fetches apps from the server and installs them, tracking state in profile prefs.
+// ---
+
 #include "chrome/browser/apps/app_preload_service/app_preload_service.h"
 
 #include <algorithm>

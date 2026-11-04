@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Almanac API util unit tests
+// summary: Unit tests covering endpoint URL construction and Almanac API query behavior with a test URL loader factory.
+// ---
+
 #include "chrome/browser/apps/almanac_api_client/almanac_api_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkUpdateDataFetcher implementation
+// summary: JNI counterpart of the Java WebApkUpdateDataFetcher that fetches installable data and icon hashes to detect web manifest changes for WebAPK updates.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_update_data_fetcher.h"
 
 #include <jni.h>

@@ -10,6 +10,12 @@
 // Copied from google3/wireless/android/proto/device_configuration.proto
 // The android part in path needs to be removed.
 
+// ---docerion
+// type: source
+// title: Device configuration protocol buffer definition
+// summary: Defines the DeviceConfigurationProto message describing device hardware and software details used for app recommendation requests.
+// ---
+
 syntax = "proto2";
 
 package device_configuration;

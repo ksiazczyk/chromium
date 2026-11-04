@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkRestoreTask implementation
+// summary: Implements the task that installs previously synced WebAPKs on new devices, covering icon download, installable data fetching and restore-related histogram metrics.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_restore_task.h"
 
 #include "base/metrics/histogram_functions.h"

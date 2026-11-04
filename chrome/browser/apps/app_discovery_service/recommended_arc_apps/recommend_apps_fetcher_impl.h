@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recommend apps fetcher implementation header
+// summary: Declares RecommendAppsFetcherImpl, which builds the device configuration proto and fetches the recommended app list for the Recommend Apps screen.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_RECOMMENDED_ARC_APPS_RECOMMEND_APPS_FETCHER_IMPL_H_
 #define CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_RECOMMENDED_ARC_APPS_RECOMMEND_APPS_FETCHER_IMPL_H_
 

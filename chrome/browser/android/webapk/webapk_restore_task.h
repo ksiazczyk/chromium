@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkRestoreTask header
+// summary: Declares WebApkRestoreData and the WebApkRestoreTask class that installs previously synced WebAPKs, including fallback reasons and completion callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_RESTORE_TASK_H_
 #define CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_RESTORE_TASK_H_
 

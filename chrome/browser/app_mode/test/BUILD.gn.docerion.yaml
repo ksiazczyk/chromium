@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for app mode test support
+summary: GN build definition for a test-only static library that bundles app mode test helpers such as the accelerator helpers and the fake origin test server mixin.

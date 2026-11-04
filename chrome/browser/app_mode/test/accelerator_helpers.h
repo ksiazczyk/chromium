@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator press helpers header
+// summary: Declares test helpers that dispatch close-tab and close-window accelerator presses against a browser window's view.
+// ---
+
 #ifndef CHROME_BROWSER_APP_MODE_TEST_ACCELERATOR_HELPERS_H_
 #define CHROME_BROWSER_APP_MODE_TEST_ACCELERATOR_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkRestoreWebContentsManager implementation
+// summary: Implements a manager that creates and shares a WebContents for WebAPK restore tasks and loads URLs for installable data checks.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_restore_web_contents_manager.h"
 
 #include "chrome/browser/profiles/profile.h"

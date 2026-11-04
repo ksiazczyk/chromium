@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK install metrics declarations
+// summary: Declares the InstallEvent enum and the tracking functions for WebAPK installation metrics, kept in sync with histograms.xml.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_METRICS_H_
 #define CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device info manager implementation
+// summary: Implements DeviceInfoManager, gathering board, model, hardware ID, custom label, versions, channel, user type and locale for Almanac API request contexts.
+// ---
+
 #include "chrome/browser/apps/almanac_api_client/device_info_manager.h"
 
 #include <optional>

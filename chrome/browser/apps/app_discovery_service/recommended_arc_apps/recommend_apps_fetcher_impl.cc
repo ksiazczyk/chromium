@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recommend apps fetcher implementation
+// summary: Implements the fetcher that collects device configuration, compresses and encodes it into request headers, and downloads the recommended Android app list from Play.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/recommended_arc_apps/recommend_apps_fetcher_impl.h"
 
 #include <optional>

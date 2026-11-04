@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayExtras declaration with Google Play app metadata fields
+// summary: Declares PlayExtras, a SourceExtras subclass storing Google Play specific fields like package name, category, description, content rating and purchase flags.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_PLAY_EXTRAS_H_
 #define CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_PLAY_EXTRAS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Almanac app icon loader browser tests
+// summary: Browser tests verifying PNG and SVG app icon loading success and failure cases via an embedded test server.
+// ---
+
 #include "chrome/browser/apps/almanac_api_client/almanac_app_icon_loader.h"
 
 #include "base/test/test_future.h"

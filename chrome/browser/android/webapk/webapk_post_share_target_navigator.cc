@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK share target POST navigation
+// summary: Navigates a WebContents to a Web Share Target action URL with POST data built as multipart or URL-encoded form bodies, attributing the navigation to the app origin.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_post_share_target_navigator.h"
 
 #include <jni.h>

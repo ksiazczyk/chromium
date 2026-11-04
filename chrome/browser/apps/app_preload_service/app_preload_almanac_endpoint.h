@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App preload Almanac endpoint API
+// summary: Declares GetAppsForFirstLogin, which fetches the list of apps to install at first login, and the server URL helper exposed for tests.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_PRELOAD_SERVICE_APP_PRELOAD_ALMANAC_ENDPOINT_H_
 #define CHROME_BROWSER_APPS_APP_PRELOAD_SERVICE_APP_PRELOAD_ALMANAC_ENDPOINT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Almanac API client protos
+summary: GN build file defining the proto_library targets for the client context proto and the test-only test request proto.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Webapps directory owners
+summary: Points to the OWNERS file of chrome/android/webapk as the approvers for this directory.

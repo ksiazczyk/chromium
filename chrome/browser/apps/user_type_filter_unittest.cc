@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the user type filter
+// summary: Tests user type determination and JSON filter matching for child, guest, managed, and managed guest profiles using testing profiles.
+// ---
+
 #include "chrome/browser/apps/user_type_filter.h"
 
 #include <memory>

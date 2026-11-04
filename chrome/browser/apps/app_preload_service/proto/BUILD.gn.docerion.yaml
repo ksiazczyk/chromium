@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App Preload Service proto build definition
+summary: GN build file defining the proto_library target that compiles app_preload.proto and depends on the Almanac API client protos.

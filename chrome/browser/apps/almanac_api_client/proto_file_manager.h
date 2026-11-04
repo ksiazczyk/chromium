@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtoFileManager header for storing protos on disk
+// summary: Declares WriteFileToDisk and the ProtoFileManager template class that asynchronously writes and reads serialized protos to and from a file path.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_ALMANAC_API_CLIENT_PROTO_FILE_MANAGER_H_
 #define CHROME_BROWSER_APPS_ALMANAC_API_CLIENT_PROTO_FILE_MANAGER_H_
 

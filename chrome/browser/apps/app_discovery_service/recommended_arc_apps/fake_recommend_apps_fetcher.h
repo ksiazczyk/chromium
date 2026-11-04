@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake recommend apps fetcher class declaration
+// summary: Declares FakeRecommendAppsFetcher, which simulates the recommended apps download with fake results for testing.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_RECOMMENDED_ARC_APPS_FAKE_RECOMMEND_APPS_FETCHER_H_
 #define CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_RECOMMENDED_ARC_APPS_FAKE_RECOMMEND_APPS_FETCHER_H_
 

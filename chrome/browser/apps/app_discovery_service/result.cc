@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result class implementation with clonable source extras
+// summary: Implements the Result class and the SourceExtras default downcast, including copy semantics that clone source extras.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/result.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Almanac icon cache implementation
+// summary: Implements AlmanacIconCache, which downloads app icons through the ImageFetcher service using a disk-cache-only fetcher and a defined network traffic annotation.
+// ---
+
 #include "chrome/browser/apps/almanac_api_client/almanac_icon_cache.h"
 
 #include "chrome/browser/image_fetcher/image_fetcher_service_factory.h"

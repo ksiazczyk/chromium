@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TWA launch navigation handle user data implementation
+// summary: Implements the NavigationHandle user data that stores the launch token, launch parameters, and Digital Asset Links verification status for a TWA launch.
+// ---
+
 #include "chrome/browser/android/webapps/twa_launch_navigation_handle_user_data.h"
 
 #include "chrome/browser/android/webapps/twa_launch_queue_tab_helper.h"

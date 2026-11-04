@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device info manager unit tests
+// summary: Unit tests verifying DeviceInfoManager collects board, model, hardware ID, locale and version data and returns consistent cached results across calls.
+// ---
+
 #include "chrome/browser/apps/almanac_api_client/device_info_manager.h"
 
 #include <memory>

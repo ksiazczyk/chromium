@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TWA launch queue delegate implementation
+// summary: Implements scope checking, launch parameter validation, and file path info handling for the Android TWA launch queue.
+// ---
+
 #include "chrome/browser/android/webapps/twa_launch_queue_delegate.h"
 
 #include "base/android/content_uri_utils.h"

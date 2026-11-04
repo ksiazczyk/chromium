@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppDiscoveryServiceFactory declaration
+// summary: Declares the singleton ProfileKeyedServiceFactory that owns AppDiscoveryService instances per profile.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_APP_DISCOVERY_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_APP_DISCOVERY_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAPK icon hasher browser tests
+// summary: Browser tests for WebApkIconHasher, checking that icon hashing reuses icons cached by ManifestIconDownloader.
+// ---
+
 #include "components/webapps/browser/android/webapk/webapk_icons_hasher.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device info manager header
+// summary: Declares the DeviceInfo and VersionInfo structs and the DeviceInfoManager KeyedService that asynchronously fetches and caches device information.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_ALMANAC_API_CLIENT_DEVICE_INFO_MANAGER_H_
 #define CHROME_BROWSER_APPS_ALMANAC_API_CLIENT_DEVICE_INFO_MANAGER_H_
 

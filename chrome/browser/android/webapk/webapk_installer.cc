@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK installer implementation
+// summary: Implements the native installer that talks to the Chrome WebAPK server to obtain a WebAPK and requests its installation or update, clearing cache when space is low.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_installer.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for recommended_arc_apps
+summary: Allows this directory to include ash display configuration and shell headers.

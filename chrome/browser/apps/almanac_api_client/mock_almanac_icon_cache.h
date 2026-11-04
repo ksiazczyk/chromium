@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Almanac icon cache header
+// summary: Declares MockAlmanacIconCache, a gmock mock of AlmanacIconCache that stubs GetIcon for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_ALMANAC_API_CLIENT_MOCK_ALMANAC_ICON_CACHE_H_
 #define CHROME_BROWSER_APPS_ALMANAC_API_CLIENT_MOCK_ALMANAC_ICON_CACHE_H_
 

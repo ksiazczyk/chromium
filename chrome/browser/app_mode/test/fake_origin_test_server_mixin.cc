@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake origin test server mixin implementation
+// summary: Implements a browser test mixin that serves files from an embedded test server under a fixed origin by adding host resolver rules to the command line.
+// ---
+
 #include "chrome/browser/app_mode/test/fake_origin_test_server_mixin.h"
 
 #include <cstddef>

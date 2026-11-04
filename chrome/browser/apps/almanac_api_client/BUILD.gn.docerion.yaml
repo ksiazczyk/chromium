@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Almanac API client GN build definitions
+summary: Defines the source sets, dependencies and unit and browser test targets for the Almanac API client.

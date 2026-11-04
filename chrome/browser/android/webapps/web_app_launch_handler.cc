@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app launch handler JNI implementation
+// summary: Implements JNI entry points that validate web app launch URLs and build LaunchParams, forwarding them to the TWA launch queue tab helper for navigating and non-navigating launches.
+// ---
+
 #include "base/android/jni_string.h"
 #include "base/check.h"
 #include "base/files/file_path.h"

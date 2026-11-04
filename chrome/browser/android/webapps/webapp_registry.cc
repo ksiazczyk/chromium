@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappRegistry JNI implementation
+// summary: C++ counterpart of the Java WebappRegistry that unregisters web apps and clears history for URL filters, lists origins with WebAPKs or installed apps, and manages the PWA restore preference.
+// ---
+
 #include "chrome/browser/android/webapps/webapp_registry.h"
 
 #include "base/android/jni_android.h"
