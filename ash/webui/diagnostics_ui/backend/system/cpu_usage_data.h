@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU usage data class
+// summary: Declares CpuUsageData, a value type holding user, system and idle CPU times with arithmetic operators.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_CPU_USAGE_DATA_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_CPU_USAGE_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power manager client conversions header
+// summary: Declares converters from power manager PowerSupplyProperties protos to Diagnostics mojom battery and power source types plus battery time formatting.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_POWER_MANAGER_CLIENT_CONVERSIONS_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_POWER_MANAGER_CLIENT_CONVERSIONS_H_
 

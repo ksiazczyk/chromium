@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Percent bar chart element
+// summary: Polymer element percent-bar-chart that wraps paper-progress to display a percentage-based bar chart and clamps values to the maximum.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';
 import 'chrome://resources/polymer/v3_0/paper-progress/paper-progress.js';

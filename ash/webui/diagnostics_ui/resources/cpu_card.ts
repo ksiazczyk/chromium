@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU card element for the Diagnostics app
+// summary: Polymer element 'cpu-card' that displays CPU usage, memory usage, chip info and CPU-related diagnostic routines in the ChromeOS Diagnostics UI.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';
 import './data_point.js';

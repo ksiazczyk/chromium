@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemRoutineControllerDelegate interface header
+// summary: Declares a pure virtual delegate interface for running network diagnostic routines directly, bypassing Mojo IPC, with the production implementation in chrome/.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_SYSTEM_ROUTINE_CONTROLLER_DELEGATE_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_SYSTEM_ROUTINE_CONTROLLER_DELEGATE_H_
 

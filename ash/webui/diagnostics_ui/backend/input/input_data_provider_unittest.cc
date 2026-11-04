@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input data provider unit tests
+// summary: Extensive unit tests for the diagnostics input data provider, covering device information, event watchers, top-row keys, and keyboard input logging.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/input_data_provider.h"
 
 #include <cstdint>

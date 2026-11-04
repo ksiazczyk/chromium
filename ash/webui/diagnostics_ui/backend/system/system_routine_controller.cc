@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System routine controller implementation
+// summary: Implements the controller that lists and runs cros_healthd and network diagnostics routines, tracks routine status and formats power and connectivity routine results.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/system/system_routine_controller.h"
 
 #include <optional>

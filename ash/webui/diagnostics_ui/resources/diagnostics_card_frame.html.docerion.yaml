@@ -1,0 +1,4 @@
+# Docerion header of diagnostics_card_frame.html.
+type: source
+title: Diagnostics card frame template
+summary: HTML template for the 'diagnostics-card-frame' element, supplying the card header, chip slot and rounded card container styling.

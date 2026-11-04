@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics card element
+// summary: Defines the 'diagnostics-card' custom element, a styling wrapper used for each component's diagnostic card, with networking-specific layout variants.
+// ---
+
 import './diagnostics_card_frame.js';
 import './diagnostics_shared.css.js';
 

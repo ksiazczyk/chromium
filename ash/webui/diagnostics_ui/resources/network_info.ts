@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network info element
+// summary: 'Polymer element that displays specialized data points for supported network types: Ethernet, WiFi, and cellular.'
+// ---
+
 import './cellular_info.js';
 import './diagnostics_shared.css.js';
 import './ethernet_info.js';

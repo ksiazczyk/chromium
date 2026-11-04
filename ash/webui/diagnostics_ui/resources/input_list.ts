@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input list element
+// summary: Polymer element that displays keyboard, touchpad, and touchscreen cards and manages device observers and tester interactions.
+// ---
+
 import './diagnostics_shared.css.js';
 import './input_card.js';
 import './keyboard_tester.js';

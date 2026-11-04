@@ -1,0 +1,4 @@
+# Docerion header of wifi_info.html.
+type: source
+title: WiFi info element template
+summary: HTML template for the wifi-info element that lays out data points for a WiFi network, including IP address, SSID, BSSID, security, signal strength, and channel.

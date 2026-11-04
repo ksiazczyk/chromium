@@ -1,0 +1,4 @@
+# Docerion header of system_data_provider.mojom.
+type: source
+title: System data provider Mojom interface definitions
+summary: Defines structs and observer interfaces for system information, battery charge and health, memory usage, and CPU usage telemetry exposed to the Diagnostics SWA.

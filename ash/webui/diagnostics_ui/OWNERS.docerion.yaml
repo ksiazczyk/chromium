@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Diagnostics UI directory
+summary: Names the cros_healthd OWNERS file as primary owners and two engineers as backup owners for review routing.

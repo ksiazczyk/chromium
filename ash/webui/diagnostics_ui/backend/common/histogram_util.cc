@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics UI histogram metrics implementation
+// summary: Implements UMA histogram emission for the ChromeOS Diagnostics app, covering app open duration, routine durations, counts and results, and data or cros_healthd probe errors.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/common/histogram_util.h"
 
 #include <string_view>

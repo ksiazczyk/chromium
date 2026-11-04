@@ -1,0 +1,4 @@
+# Docerion header of input_list.html.
+type: source
+title: Input list template
+summary: HTML template for the input-list element that renders keyboard, touchpad, and touchscreen cards and hosts the device tester dialogs.

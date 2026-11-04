@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WiFi info element logic
+// summary: Defines the wifi-info Polymer custom element that computes and displays WiFi security type, signal strength, and a channel description derived from the frequency.
+// ---
+
 import './data_point.js';
 import './diagnostics_shared.css.js';
 

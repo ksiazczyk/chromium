@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input data provider touch unit tests
+// summary: Unit tests verifying construction of touchscreen device info, including testability when the internal display is on or off.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/input_data_provider_touch.h"
 
 #include "ash/shell.h"

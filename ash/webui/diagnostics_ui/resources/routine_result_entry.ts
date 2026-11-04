@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Routine result entry element
+// summary: Polymer element for routine result entries that maps routine types to localized names and resolves routine results for display.
+// ---
+
 import './diagnostics_card.js';
 import './diagnostics_shared.css.js';
 import './text_badge.js';

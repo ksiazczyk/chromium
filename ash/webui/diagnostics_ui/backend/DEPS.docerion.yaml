@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the diagnostics backend
+summary: Allowlists an extra include so input_data_provider_unittest.cc can use the fake udev loader header in tests.

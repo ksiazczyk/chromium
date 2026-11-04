@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics feature usage metrics implementation
+// summary: Implements DiagnosticsMetrics, recording DiagnosticsUi feature usage and tracking successful usage time through FeatureUsageMetrics.
+// ---
+
 #include "ash/webui/diagnostics_ui/diagnostics_metrics.h"
 
 #include "ash/constants/ash_features.h"

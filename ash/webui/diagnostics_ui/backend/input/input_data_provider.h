@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input data provider interface
+// summary: Declares the input data provider class exposing input device information and event observation over Mojo for the diagnostics app.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_INPUT_INPUT_DATA_PROVIDER_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_INPUT_INPUT_DATA_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System data provider unit tests
+// summary: Unit tests for SystemDataProvider covering system, battery, CPU and memory data probing, observer notifications, timers and error histograms using fake services.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/system/system_data_provider.h"
 
 #include <cstdint>

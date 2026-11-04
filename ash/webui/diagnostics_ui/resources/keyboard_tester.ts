@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard tester element
+// summary: Polymer element that provides a keyboard testing UI, mapping Mojo top row key constants to the keyboard diagram and observing key events.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_toast/cr_toast.js';

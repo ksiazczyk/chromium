@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Health daemon event reporter implementation
+// summary: Implements reporting of keyboard diagnostic events, including tested keys, to the ChromeOS health daemon over Mojo.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/healthd_event_reporter.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text badge element
+// summary: Polymer element that displays a text-based rounded badge whose appearance is selected by a badge type such as error, running, success, or warning.
+// ---
+
 import './diagnostics_shared.css.js';
 
 import type {PolymerElementProperties} from 'chrome://resources/polymer/v3_0/polymer/interfaces.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event watcher factory interface
+// summary: Declares the factory interface for creating input data event watchers per device type, plus a keyboard watcher implementation.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_INPUT_EVENT_WATCHER_FACTORY_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_INPUT_EVENT_WATCHER_FACTORY_H_
 

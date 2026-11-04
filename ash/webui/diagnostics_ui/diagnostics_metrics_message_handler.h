@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsMetricsMessageHandler class declaration
+// summary: Declares the NavigationView enum and the WebUI message handler that records navigation events between Diagnostics app screens.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_DIAGNOSTICS_METRICS_MESSAGE_HANDLER_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_DIAGNOSTICS_METRICS_MESSAGE_HANDLER_H_
 

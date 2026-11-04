@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake diagnostics data
+// summary: Provides fake battery, CPU, memory, and network data used by the fake providers and tests of the diagnostics UI.
+// ---
+
 import type {CellularNetwork, EthernetNetwork, NetworkGuidInfo, WiFiNetwork} from './diagnostics_types.js';
 import type {KeyboardInfo} from './input.mojom-webui.js';
 import {BottomLeftLayout, BottomRightLayout, ConnectionType, MechanicalLayout, NumberPadPresence, NumpadLayout, PhysicalLayout, TopRightKey, TopRowKey} from './input.mojom-webui.js';

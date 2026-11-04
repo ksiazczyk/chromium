@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network card element
+// summary: Polymer element implementing the network card, tracking troubleshooting states such as missing IP address or name servers and showing data points.
+// ---
+
 import './diagnostics_card.js';
 import './diagnostics_network_icon.js';
 import './diagnostics_shared.css.js';

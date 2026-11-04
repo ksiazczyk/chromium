@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Diagnostics WebUI
+summary: Defines the build_webui target for the ChromeOS Diagnostics app, listing web components, TypeScript, CSS, and Mojo files with their build dependencies.

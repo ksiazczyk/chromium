@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the diagnostics metrics message handler
+// summary: Unit tests verifying that the diagnostics metrics message handler registers messages, tracks navigation views, and records open-duration histograms correctly.
+// ---
+
 #include "ash/webui/diagnostics_ui/diagnostics_metrics_message_handler.h"
 
 #include "base/test/metrics/histogram_tester.h"

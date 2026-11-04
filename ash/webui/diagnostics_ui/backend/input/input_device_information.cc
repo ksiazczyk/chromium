@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device information implementation
+// summary: Implements gathering of evdev device information, including keyboard layout mappings read from files and blocking hardware identification for the diagnostics backend.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/input_device_information.h"
 
 #include <fcntl.h>

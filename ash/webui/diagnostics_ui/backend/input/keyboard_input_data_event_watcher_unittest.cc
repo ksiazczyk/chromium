@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyboardInputDataEventWatcher unit tests
+// summary: Unit tests that verify the keyboard input data event watcher converts and dispatches evdev key events and ignores unhandled event types such as LED and repeat events.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/keyboard_input_data_event_watcher.h"
 
 #include <linux/input-event-codes.h>

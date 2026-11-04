@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touchpad tester element
+// summary: Polymer element that opens a touchpad tester dialog and draws received touch points on a canvas via a drawing provider.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import './diagnostics_shared.css.js';
 

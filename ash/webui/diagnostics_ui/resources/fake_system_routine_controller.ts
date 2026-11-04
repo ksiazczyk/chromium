@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake system routine controller
+// summary: Fake implementation of the SystemRoutineController Mojo interface that simulates running diagnostics routines for tests.
+// ---
+
 import {FakeMethodResolver} from 'chrome://resources/ash/common/fake_method_resolver.js';
 import {assert} from 'chrome://resources/js/assert.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';

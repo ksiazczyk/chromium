@@ -1,0 +1,4 @@
+# Docerion header of routine_result_list.html.
+type: source
+title: Routine result list HTML template
+summary: HTML template for the routine-result-list element that repeats routine result entries inside a grey container.

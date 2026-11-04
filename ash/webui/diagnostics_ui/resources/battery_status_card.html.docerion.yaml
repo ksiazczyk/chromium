@@ -1,0 +1,4 @@
+# Docerion header of battery_status_card.html.
+type: source
+title: Battery status card template
+summary: HTML template for the battery-status-card component showing battery charge, health, cycle count, current, and power-related routines.

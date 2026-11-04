@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network provider Mojom traits unit tests
+// summary: Unit tests that verify the security and authentication enum mappings between diagnostics Mojom and network config types match in both directions.
+// ---
+
 #include "ash/webui/diagnostics_ui/mojom/network_provider_mojom_traits.h"
 
 #include <map>

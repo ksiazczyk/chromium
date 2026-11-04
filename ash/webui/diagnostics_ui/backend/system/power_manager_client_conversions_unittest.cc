@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power manager client conversions unit tests
+// summary: Unit tests verifying battery state and power source conversions and the formatted battery charge or discharge time output for various power supply properties.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/system/power_manager_client_conversions.h"
 
 #include "ash/webui/diagnostics_ui/mojom/system_data_provider.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drawing provider constants and helpers
+// summary: Constants and helpers for the drawing provider, including CSS variable lookup, rgba color construction, and pressure-based trail opacity.
+// ---
+
 export const LINE_CAP = 'round';
 export const LINE_WIDTH = 20;
 export const MARK_RADIUS = 10;

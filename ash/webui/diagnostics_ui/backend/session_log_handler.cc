@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionLogHandler implementation
+// summary: Implements the WebUI message handler that saves session logs via a file selection dialog and a background task runner.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/session_log_handler.h"
 
 #include <memory>

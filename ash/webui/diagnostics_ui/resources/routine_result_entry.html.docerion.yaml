@@ -1,0 +1,4 @@
+# Docerion header of routine_result_entry.html.
+type: source
+title: Routine result entry HTML template
+summary: HTML template for a routine result entry showing a status badge, routine name, failed test text, and animated connector lines.

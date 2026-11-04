@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input data provider keyboard unit tests
+// summary: Unit tests for the keyboard helper of the diagnostics input data provider, covering top-row layouts, scancodes, and key event construction across keyboard types.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/input_data_provider_keyboard.h"
 
 #include <algorithm>

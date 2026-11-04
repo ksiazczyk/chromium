@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake system routine controller delegate header
+// summary: State-based fake of SystemRoutineControllerDelegate for tests, letting tests preset Google services connectivity results and hold or fire callbacks on demand.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_FAKE_SYSTEM_ROUTINE_CONTROLLER_DELEGATE_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_FAKE_SYSTEM_ROUTINE_CONTROLLER_DELEGATE_H_
 

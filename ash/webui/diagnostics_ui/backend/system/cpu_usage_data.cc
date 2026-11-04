@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU usage data implementation
+// summary: Implements initialization checks, total time and arithmetic operators for CPU user, system and idle time samples.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/system/cpu_usage_data.h"
 
 namespace ash {

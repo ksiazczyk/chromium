@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input data provider implementation
+// summary: Implements the input data provider that supplies connected keyboard and touch device information and key events to the diagnostics UI.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/input_data_provider.h"
 
 #include <fcntl.h>

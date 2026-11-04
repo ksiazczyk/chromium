@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardInputDataEventWatcher class header for evdev key events
+// summary: Declares the KeyboardInputDataEventWatcher class, which reads evdev events from a keyboard device and dispatches key events to the input data provider via a Dispatcher interface.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_INPUT_KEYBOARD_INPUT_DATA_EVENT_WATCHER_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_INPUT_KEYBOARD_INPUT_DATA_EVENT_WATCHER_H_
 

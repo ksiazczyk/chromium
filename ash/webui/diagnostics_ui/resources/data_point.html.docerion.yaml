@@ -1,0 +1,4 @@
+# Docerion header of data_point.html.
+type: source
+title: Data point element template
+summary: HTML template and styles for the 'data-point' element, rendering a header, value and optional tooltip in vertical or horizontal orientation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionLogAsyncHelper class declaration
+// summary: Declares the helper that gathers session data from three log sources and writes the combined log to a given file path.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SESSION_LOG_ASYNC_HELPER_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SESSION_LOG_ASYNC_HELPER_H_
 

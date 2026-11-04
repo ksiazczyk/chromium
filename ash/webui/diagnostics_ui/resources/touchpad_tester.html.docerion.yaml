@@ -1,0 +1,4 @@
+# Docerion header of touchpad_tester.html.
+type: source
+title: Touchpad tester template
+summary: HTML template for the touchpad tester dialog that shows the device name and a canvas for visualizing touchpad contact points.

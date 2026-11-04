@@ -1,0 +1,4 @@
+# Docerion header of ethernet_info.html.
+type: source
+title: Ethernet info element template
+summary: HTML template for the ethernet info element that displays the network IP address and authentication as horizontal data points.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo interface provider
+// summary: Provides singleton access to Mojo interfaces for system data, routines, network health, and input, with overridable fakes for testing.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {InputDataProviderInterface} from './input_data_provider.mojom-webui.js';

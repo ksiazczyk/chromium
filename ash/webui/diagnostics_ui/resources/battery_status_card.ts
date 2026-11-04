@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery status card component
+// summary: Implements the battery-status-card Polymer element that displays battery charge status and health and runs power routines via the system data provider.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';
 import './data_point.js';

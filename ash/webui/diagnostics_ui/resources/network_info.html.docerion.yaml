@@ -1,0 +1,4 @@
+# Docerion header of network_info.html.
+type: source
+title: Network info HTML template
+summary: Template that selects the wifi, ethernet, or cellular info element based on the network type.

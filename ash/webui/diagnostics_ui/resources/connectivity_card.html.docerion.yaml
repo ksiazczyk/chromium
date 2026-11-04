@@ -1,0 +1,4 @@
+# Docerion header of connectivity_card.html.
+type: source
+title: Connectivity card template
+summary: HTML template for the connectivity-card component combining a network icon, network info, routine section, and IP configuration drawer.

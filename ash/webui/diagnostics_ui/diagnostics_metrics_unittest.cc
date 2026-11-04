@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for diagnostics feature usage metrics
+// summary: Unit tests verifying eligibility, usage success and failure recording, and use-time tracking for the Diagnostics UI feature usage metrics.
+// ---
+
 #include "ash/webui/diagnostics_ui/diagnostics_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

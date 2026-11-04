@@ -1,0 +1,4 @@
+# Docerion header of network_list.html.
+type: source
+title: Network list HTML template
+summary: Template showing the active connectivity card, cards for other networks, and a link to network settings.

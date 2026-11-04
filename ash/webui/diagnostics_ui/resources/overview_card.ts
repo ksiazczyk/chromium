@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview card element
+// summary: Polymer element that fetches system info and shows an overview including marketing name, board name, and version.
+// ---
+
 import './diagnostics_shared.css.js';
 
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';

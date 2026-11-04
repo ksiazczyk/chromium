@@ -1,0 +1,4 @@
+# Docerion header of keyboard_tester.html.
+type: source
+title: Keyboard tester template
+summary: HTML template for the keyboard tester dialog, including styles, a keyboard diagram, and shortcut instructions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CPU usage data
+// summary: Tests initialization, total time and the addition and subtraction operators of CpuUsageData.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/system/cpu_usage_data.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

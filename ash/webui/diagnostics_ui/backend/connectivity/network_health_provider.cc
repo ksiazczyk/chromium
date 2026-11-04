@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network health provider implementation
+// summary: Implements the NetworkHealthProvider that tracks network and device states from CrosNetworkConfig and notifies Diagnostics UI observers about network list and state changes.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/connectivity/network_health_provider.h"
 
 #include <string>

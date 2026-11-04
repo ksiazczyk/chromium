@@ -1,0 +1,4 @@
+# Docerion header of memory_card.html.
+type: source
+title: Memory card template
+summary: HTML template for the memory card that shows a memory usage bar chart and a routine section for running the memory test.

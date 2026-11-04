@@ -1,0 +1,4 @@
+# Docerion header of network_health_provider.mojom.
+type: source
+title: Network health provider Mojom interface definitions
+summary: Defines network state structs and enums plus the NetworkHealthProvider interface that supplies WiFi, Ethernet, and cellular information to the Diagnostics SWA.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network health provider unit tests
+// summary: Unit tests for NetworkHealthProvider covering network list and state observation for Ethernet, Wi-Fi, and cellular devices using fake observers and network test helpers.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/connectivity/network_health_provider.h"
 
 #include <utility>

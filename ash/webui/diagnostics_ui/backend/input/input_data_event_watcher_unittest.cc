@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input data event watcher unit tests
+// summary: Unit tests that feed fake evdev events through a pipe and verify the watcher reads and processes them correctly.
+// ---
+
 
 #include "ash/webui/diagnostics_ui/backend/input/input_data_event_watcher.h"
 
