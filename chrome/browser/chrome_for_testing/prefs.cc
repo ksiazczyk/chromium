@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome for Testing prefs registration
+// summary: Registers Chrome for Testing preferences with default values and clears them, including a five minute default required components update timeout.
+// ---
+
 #include "chrome/browser/chrome_for_testing/prefs.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome browsing data remover delegate unit tests
+// summary: Unit tests verifying that the Chrome browsing data remover delegate deletes cookies, history, passwords, permissions and other browsing data types.
+// ---
+
 #include "chrome/browser/browsing_data/chrome_browsing_data_remover_delegate.h"
 
 #include <stdint.h>

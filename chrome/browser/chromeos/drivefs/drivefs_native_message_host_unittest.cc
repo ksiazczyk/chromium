@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveFS native message host unit tests
+// summary: Unit tests covering DriveFS-initiated and extension-initiated native messaging sessions with mock clients.
+// ---
+
 #include "chrome/browser/chromeos/drivefs/drivefs_native_message_host.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSwitcher service class declarations
+// summary: Declares RulesetSource, XmlDownloader and BrowserSwitcherService, which manage sitelist downloads and per-profile BrowserSwitcher resources.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_SWITCHER_BROWSER_SWITCHER_SERVICE_H_
 #define CHROME_BROWSER_BROWSER_SWITCHER_BROWSER_SWITCHER_SERVICE_H_
 

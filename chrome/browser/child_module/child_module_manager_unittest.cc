@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child module manager unit tests
+// summary: Unit tests verifying version detection at startup, highest-version selection, missing directory handling, and the dynamic patching preference.
+// ---
+
 #include "chrome/browser/child_module/child_module_manager.h"
 
 #include <optional>

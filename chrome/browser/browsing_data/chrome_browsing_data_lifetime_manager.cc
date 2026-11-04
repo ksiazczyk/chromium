@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browsing data lifetime manager implementation
+// summary: Implements scheduled and on-exit browsing data deletion driven by the BrowsingDataLifetime and ClearBrowsingDataOnExitList policies.
+// ---
+
 #include "chrome/browser/browsing_data/chrome_browsing_data_lifetime_manager.h"
 
 #include <algorithm>

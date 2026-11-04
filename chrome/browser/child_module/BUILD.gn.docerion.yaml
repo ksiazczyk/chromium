@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Child module GN build definition
+summary: GN build file defining the child_module source set with platform-specific path sources and a unit_tests target, including their dependencies.

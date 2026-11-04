@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DriveFS DIR_METADATA
+summary: Points the directory metadata to the shared file manager common metadata mixins.

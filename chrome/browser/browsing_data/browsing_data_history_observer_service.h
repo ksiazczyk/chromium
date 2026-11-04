@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingDataHistoryObserverService class declaration
+// summary: Declares BrowsingDataHistoryObserverService, a keyed service observing history deletions to clean up related browsing data.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_BROWSING_DATA_HISTORY_OBSERVER_SERVICE_H_
 #define CHROME_BROWSER_BROWSING_DATA_BROWSING_DATA_HISTORY_OBSERVER_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IE Enterprise Mode sitelist XML parser implementation
+// summary: Parses IE Enterprise Mode sitelist XML in both schema versions into sitelist and greylist rules using the safe XML decoder.
+// ---
+
 #include "chrome/browser/browser_switcher/ieem_sitelist_parser.h"
 
 #include "base/functional/bind.h"

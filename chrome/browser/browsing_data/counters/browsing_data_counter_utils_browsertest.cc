@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing data counter utilities browser test
+// summary: Browser test verifying ShouldShowCookieException behavior for signed-in, signed-out and syncing profiles.
+// ---
+
 #include "chrome/browser/browsing_data/counters/browsing_data_counter_utils.h"
 
 #include "build/build_config.h"

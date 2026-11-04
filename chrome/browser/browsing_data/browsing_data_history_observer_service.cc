@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingDataHistoryObserverService implementation
+// summary: Implements the service that reacts to history deletions by removing navigation entries, sessions, template URLs, and commerce data.
+// ---
+
 #include "chrome/browser/browsing_data/browsing_data_history_observer_service.h"
 
 #include <tuple>

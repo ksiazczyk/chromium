@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hosted apps counter unit test
+// summary: Unit test using TestingProfile and ExtensionBuilder to add extensions and apps and verify hosted apps counting, example names, and deletion preference handling.
+// ---
+
 #include "chrome/browser/browsing_data/counters/hosted_apps_counter.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child module directory watcher header
+// summary: Declares ChildModuleWatcher, a background-sequence class that monitors the modules directory and reports version set changes.
+// ---
+
 #ifndef CHROME_BROWSER_CHILD_MODULE_CHILD_MODULE_WATCHER_H_
 #define CHROME_BROWSER_CHILD_MODULE_CHILD_MODULE_WATCHER_H_
 

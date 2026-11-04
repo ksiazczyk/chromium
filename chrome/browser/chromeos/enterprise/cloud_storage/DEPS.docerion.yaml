@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cloud storage
+summary: Sets include rules that restrict //chrome dependencies for this ChromeOS directory while allowing specific exceptions.

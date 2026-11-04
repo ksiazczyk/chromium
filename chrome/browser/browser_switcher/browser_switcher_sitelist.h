@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSwitcher sitelist header
+// summary: Declares the sitelist interface and implementation that decide whether a URL should open in an alternative browser, including the Decision struct and rule canonicalization.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_SWITCHER_BROWSER_SWITCHER_SITELIST_H_
 #define CHROME_BROWSER_BROWSER_SWITCHER_BROWSER_SWITCHER_SITELIST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captive portal browser tests
+// summary: Large in-process browser test suite covering captive portal detection, blocking pages, tab reloading, and related navigation behavior.
+// ---
+
 #include <algorithm>
 #include <atomic>
 #include <iterator>

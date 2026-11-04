@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBrowsingDataRemoverDelegate header
+// summary: Declares ChromeBrowsingDataRemoverDelegate, the KeyedService used by BrowsingDataRemover to remove Chrome embedder data, including its tracing data types.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_CHROME_BROWSING_DATA_REMOVER_DELEGATE_H_
 #define CHROME_BROWSER_BROWSING_DATA_CHROME_BROWSING_DATA_REMOVER_DELEGATE_H_
 

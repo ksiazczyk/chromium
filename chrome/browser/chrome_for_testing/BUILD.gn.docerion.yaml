@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome for Testing build targets
+summary: Defines GN targets for Chrome for Testing, including prefs and browser source sets, ABOUT file generation, and unit and browser test targets.

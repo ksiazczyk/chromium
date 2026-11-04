@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IE Enterprise Mode sitelist parser header
+// summary: Declares the ParsedXml result type and the ParseIeemXml function that asynchronously parses Enterprise Mode sitelist XML.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_SWITCHER_IEEM_SITELIST_PARSER_H_
 #define CHROME_BROWSER_BROWSER_SWITCHER_IEEM_SITELIST_PARSER_H_
 

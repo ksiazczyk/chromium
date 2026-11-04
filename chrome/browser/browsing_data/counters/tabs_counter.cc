@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs counter implementation
+// summary: Implements TabsCounter, which counts tabs and windows navigated within the selected time period using Android tab models.
+// ---
+
 #include "chrome/browser/browsing_data/counters/tabs_counter.h"
 
 #include "base/memory/raw_ptr.h"

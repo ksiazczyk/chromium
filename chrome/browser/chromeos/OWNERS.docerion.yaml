@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for chrome/browser/chromeos
+summary: Shares owners with chrome/browser/ash and sets per-file rules so BUILD.gn changes are open while DEPS changes need ash refactoring owners.

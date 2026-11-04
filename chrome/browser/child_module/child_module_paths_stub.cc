@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Windows child module path stubs
+// summary: Default implementation of the path helpers that stages child modules under the User Data directory on platforms other than Windows.
+// ---
+
 #include "chrome/browser/child_module/child_module_paths.h"
 
 #include "base/files/file_path.h"

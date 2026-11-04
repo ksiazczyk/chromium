@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatefulBounceCounter class declaration
+// summary: Declares the BtmService observer class that forwards stateful bounce events to PageSpecificContentSettings and is attached via CreateFor with a pass key.
+// ---
+
 #ifndef CHROME_BROWSER_BTM_STATEFUL_BOUNCE_COUNTER_H_
 #define CHROME_BROWSER_BTM_STATEFUL_BOUNCE_COUNTER_H_
 

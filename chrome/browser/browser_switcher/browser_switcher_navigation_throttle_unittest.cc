@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the BrowserSwitcher navigation throttle
+// summary: Unit tests verifying the navigation throttle's launch behavior using a mocked sitelist and mock navigation handles.
+// ---
+
 #include "chrome/browser/browser_switcher/browser_switcher_navigation_throttle.h"
 
 #include <memory>

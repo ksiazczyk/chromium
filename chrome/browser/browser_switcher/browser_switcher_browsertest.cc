@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserSwitcher browser tests
+// summary: Browser tests that set switcher policies and verify navigations to sitelist URLs launch the alternative browser.
+// ---
+
 #include <string.h>
 
 #include "base/command_line.h"

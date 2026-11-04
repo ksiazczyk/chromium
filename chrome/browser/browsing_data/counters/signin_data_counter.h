@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin data counter header
+// summary: Declares the SigninDataCounter class and its SigninDataResult, combining password counts with WebAuthn credential counts.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_COUNTERS_SIGNIN_DATA_COUNTER_H_
 #define CHROME_BROWSER_BROWSING_DATA_COUNTERS_SIGNIN_DATA_COUNTER_H_
 

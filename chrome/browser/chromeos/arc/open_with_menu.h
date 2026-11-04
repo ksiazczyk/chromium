@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenWithMenu class declaration
+// summary: Declares the context menu observer that adds Open with app items from the link handler model, with helpers for testing.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_ARC_OPEN_WITH_MENU_H_
 #define CHROME_BROWSER_CHROMEOS_ARC_OPEN_WITH_MENU_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSwitcher navigation throttle implementation
+// summary: Implements the navigation throttle for Legacy Browser Support that checks the sitelist per navigation and redirects matching navigations to the browser-switch page, skipping GuestViews and no-state prefetching.
+// ---
+
 #include "chrome/browser/browser_switcher/browser_switcher_navigation_throttle.h"
 
 #include <memory>

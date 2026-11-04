@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternative browser driver for Windows
+// summary: Windows implementation that launches browsers via registry App Paths lookups, DDE and shell execution.
+// ---
+
 #include "chrome/browser/browser_switcher/alternative_browser_driver.h"
 
 #include <windows.h>

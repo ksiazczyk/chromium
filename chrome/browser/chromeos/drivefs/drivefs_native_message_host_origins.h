@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS native message host origins
+// summary: Defines constants for the DriveFS native messaging host name and its allowed extension origin.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_DRIVEFS_DRIVEFS_NATIVE_MESSAGE_HOST_ORIGINS_H_
 #define CHROME_BROWSER_CHROMEOS_DRIVEFS_DRIVEFS_NATIVE_MESSAGE_HOST_ORIGINS_H_
 

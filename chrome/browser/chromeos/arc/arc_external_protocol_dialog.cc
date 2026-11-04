@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC external protocol dialog implementation
+// summary: Implements the dialog and decision logic that route external protocol navigations to ARC apps or Chrome, including metrics and tab handling.
+// ---
+
 #include "chrome/browser/chromeos/arc/arc_external_protocol_dialog.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser sign-in detector factory header
+// summary: Declares the BrowserContextKeyedServiceFactory for the sign-in detector, including testing wait helpers.
+// ---
+
 #ifndef CHROME_BROWSER_BTM_BTM_BROWSER_SIGNIN_DETECTOR_FACTORY_H_
 #define CHROME_BROWSER_BTM_BTM_BROWSER_SIGNIN_DETECTOR_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Open with menu unit tests
+// summary: Unit tests for the ARC open-with context menu, covering handler map building and command ID allocation for main and sub menus.
+// ---
+
 #include "chrome/browser/chromeos/arc/open_with_menu.h"
 
 #include <unordered_map>

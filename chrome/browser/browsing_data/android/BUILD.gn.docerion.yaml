@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android browsing data Java library
+summary: Defines the Android Java library build targets for browsing data, listing BrowsingDataBridge and TimePeriodUtils sources, dependencies, and JNI header generation.

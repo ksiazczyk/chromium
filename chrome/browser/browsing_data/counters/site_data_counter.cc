@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site data counter implementation
+// summary: Implements SiteDataCounter, which counts origins with cookies and site data via SiteDataCountingHelper for the Clear Browsing Data dialog.
+// ---
+
 #include "chrome/browser/browsing_data/counters/site_data_counter.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation entry remover API
+// summary: Declares RemoveNavigationEntries, which removes navigation entries from tabs of all browsers of a profile and cleans up recent tabs and sessions.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_NAVIGATION_ENTRY_REMOVER_H_
 #define CHROME_BROWSER_BROWSING_DATA_NAVIGATION_ENTRY_REMOVER_H_
 

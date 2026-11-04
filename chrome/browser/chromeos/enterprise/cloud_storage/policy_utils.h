@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDrive policy preference helper declarations
+// summary: Declares helpers that return the OneDrive mount mode and account restrictions derived from profile preferences.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_ENTERPRISE_CLOUD_STORAGE_POLICY_UTILS_H_
 #define CHROME_BROWSER_CHROMEOS_ENTERPRISE_CLOUD_STORAGE_POLICY_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: DriveFS BUILD.gn
+summary: GN build file defining source sets for the DriveFS native message host, its origins header, and the unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimePeriodUtils
+// summary: Utility class providing spinner options and localized strings for the time periods offered in the Clear Browsing Data dialog.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import android.content.Context;

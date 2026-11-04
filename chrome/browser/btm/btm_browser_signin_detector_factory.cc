@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser sign-in detector factory implementation
+// summary: Implements the per-profile factory that builds the sign-in detector when the BTM feature is enabled.
+// ---
+
 #include "chrome/browser/btm/btm_browser_signin_detector_factory.h"
 
 #include "chrome/browser/btm/btm_browser_signin_detector.h"

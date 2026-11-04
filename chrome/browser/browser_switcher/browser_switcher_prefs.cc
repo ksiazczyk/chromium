@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSwitcher prefs implementation
+// summary: Implements BrowserSwitcherPrefs, rule canonicalization and cached sitelist rules for Legacy Browser Support, reacting to pref and policy changes.
+// ---
+
 #include "chrome/browser/browser_switcher/browser_switcher_prefs.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hosted apps counter header
+// summary: Declares HostedAppsCounter and its HostedAppsResult, a BrowsingDataCounter that returns the number of hosted apps together with example names.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_COUNTERS_HOSTED_APPS_COUNTER_H_
 #define CHROME_BROWSER_BROWSING_DATA_COUNTERS_HOSTED_APPS_COUNTER_H_
 

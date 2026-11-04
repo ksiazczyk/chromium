@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSwitcher service factory implementation
+// summary: Creates a per-profile BrowserSwitcherService instance, using the Windows-specific implementation on Windows and refusing to build on ChromeOS.
+// ---
+
 #include "chrome/browser/browser_switcher/browser_switcher_service_factory.h"
 
 #include "build/build_config.h"

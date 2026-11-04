@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chooser title browser test
+// summary: Browser test verifying that popup chooser titles display the committed origin rather than the URL, using an embedded HTTPS test server.
+// ---
+
 #include "chrome/browser/chooser_controller/title_util.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows BrowserSwitcher service implementation
+// summary: Windows-specific service that merges rules from policies and IE Enterprise Mode sitelists and writes them to a cache.dat file for the Internet Explorer BHO.
+// ---
+
 #include "chrome/browser/browser_switcher/browser_switcher_service_win.h"
 
 #include <sstream>

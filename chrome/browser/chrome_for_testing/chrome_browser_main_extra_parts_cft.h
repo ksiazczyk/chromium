@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome for Testing browser main extra parts class declaration
+// summary: Declares the ChromeBrowserMainExtraPartsCft class that runs Chrome for Testing code at specific points of the browser life cycle.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_FOR_TESTING_CHROME_BROWSER_MAIN_EXTRA_PARTS_CFT_H_
 #define CHROME_BROWSER_CHROME_FOR_TESTING_CHROME_BROWSER_MAIN_EXTRA_PARTS_CFT_H_
 

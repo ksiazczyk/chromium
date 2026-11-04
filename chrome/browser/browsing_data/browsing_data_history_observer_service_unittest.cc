@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowsingDataHistoryObserverService unit tests
+// summary: Unit tests verifying history deletion handling, including Android commerce merchant viewer data clearing and origin-based deletions.
+// ---
+
 #include "chrome/browser/browsing_data/browsing_data_history_observer_service.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation entry remover implementation
+// summary: Implements deletion of navigation entries across all browser tabs of a profile, filtered by time range, URL set or deleted history rows.
+// ---
+
 #include "chrome/browser/browsing_data/navigation_entry_remover.h"
 
 #include <functional>

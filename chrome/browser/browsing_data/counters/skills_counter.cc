@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills counter implementation
+// summary: Implements SkillsCounter, which counts user skills last modified within the selected time period and reports whether skills sync is active.
+// ---
+
 #include "chrome/browser/browsing_data/counters/skills_counter.h"
 
 #include <algorithm>

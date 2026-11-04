@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS native message host implementation
+// summary: Implements the native message host that bridges Chrome extensions and DriveFS via mojo native messaging.
+// ---
+
 #include "chrome/browser/chromeos/drivefs/drivefs_native_message_host.h"
 
 #include <algorithm>

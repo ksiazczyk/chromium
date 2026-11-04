@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: BTM directory owners
+summary: Delegates code review ownership for this directory to the OWNERS file of content/browser/btm.

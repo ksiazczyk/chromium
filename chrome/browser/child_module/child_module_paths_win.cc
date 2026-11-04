@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows child module paths implementation
+// summary: Windows implementation that resolves the per-user child modules directory and overrides the child module root path service entry.
+// ---
+
 #include "chrome/browser/child_module/child_module_paths.h"
 
 #include <optional>

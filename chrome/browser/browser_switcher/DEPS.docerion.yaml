@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: BrowserSwitcher include dependency rules
+summary: DEPS rules restricting which chrome, components and content headers this directory may include.

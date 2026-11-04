@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Browsing data DEPS include rules
+summary: Lists allowed header include rules for the browsing data directory, permitting specific Chrome browser headers.

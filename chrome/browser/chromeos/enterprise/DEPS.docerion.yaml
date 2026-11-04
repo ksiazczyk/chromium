@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the enterprise directory
+summary: Defines include rules that block dependencies on //chrome for ChromeOS code while allowing this directory to include its own files.

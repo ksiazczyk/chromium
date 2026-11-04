@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing data lifetime policy handler unit tests
+// summary: Unit tests verifying that the browsing data lifetime policy handler behaves correctly when sync or browser sign-in is disabled and with forced sync type policies.
+// ---
+
 #include "chrome/browser/browsing_data/browsing_data_lifetime_policy_handler.h"
 
 #include "base/strings/utf_string_conversions.h"

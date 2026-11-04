@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBrowsingDataRemoverDelegate implementation
+// summary: Implements the embedder delegate that deletes Chrome-specific browsing data such as history, passwords, autofill and cookies on behalf of BrowsingDataRemover.
+// ---
+
 #include "chrome/browser/browsing_data/chrome_browsing_data_remover_delegate.h"
 
 #include <stdint.h>

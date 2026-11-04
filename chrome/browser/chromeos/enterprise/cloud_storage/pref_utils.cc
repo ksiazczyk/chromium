@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud storage profile preference registration
+// summary: Registers default profile preferences for OneDrive mount, account restrictions, and ODFS-related settings.
+// ---
+
 #include "chrome/browser/chromeos/enterprise/cloud_storage/pref_utils.h"
 
 #include <utility>

@@ -1,3 +1,9 @@
+---
+type: readme
+title: chrome/browser/chromeos directory README
+summary: Explains that the directory holds ChromeOS-specific code with //chrome dependencies shared between Ash and Lacros, and points to the migration design doc.
+---
+
 chrome/browser/chromeos
 =======================
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSwitcher policy migrator class declaration
+// summary: Declares the policy migrator that copies LBS extension policies into Chrome policies, plus the LBS extension ID constant.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_SWITCHER_BROWSER_SWITCHER_POLICY_MIGRATOR_H_
 #define CHROME_BROWSER_BROWSER_SWITCHER_BROWSER_SWITCHER_POLICY_MIGRATOR_H_
 

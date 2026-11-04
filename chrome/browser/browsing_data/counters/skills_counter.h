@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills counter class declaration
+// summary: Declares SkillsCounter, a browsing data counter that counts skills modified in the selected period and reports sync status via a SyncResult.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_COUNTERS_SKILLS_COUNTER_H_
 #define CHROME_BROWSER_BROWSING_DATA_COUNTERS_SKILLS_COUNTER_H_
 

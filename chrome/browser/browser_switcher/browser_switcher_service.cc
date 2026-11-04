@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSwitcher service implementation
+// summary: Implements the per-profile BrowserSwitcherService, downloading and periodically refreshing IE Enterprise Mode and external sitelist XML files.
+// ---
+
 #include "chrome/browser/browser_switcher/browser_switcher_service.h"
 
 #include <algorithm>

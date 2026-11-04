@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows BrowserSwitcher service header
+// summary: Declares the Windows extension of BrowserSwitcherService that manages the cache.dat and sitelist cache files used by the IE BHO.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_SWITCHER_BROWSER_SWITCHER_SERVICE_WIN_H_
 #define CHROME_BROWSER_BROWSER_SWITCHER_BROWSER_SWITCHER_SERVICE_WIN_H_
 

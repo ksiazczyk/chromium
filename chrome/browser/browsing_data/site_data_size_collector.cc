@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site data size collector implementation
+// summary: Fetches and sums the storage used by cookies, local storage and quota-managed data for a profile's default storage partition.
+// ---
+
 #include "chrome/browser/browsing_data/site_data_size_collector.h"
 
 #include <utility>

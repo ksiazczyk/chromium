@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for chooser_controller
+summary: Points the directory metadata to the shared services/device common metadata mixins.

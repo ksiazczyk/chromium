@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chooser title unit tests
+// summary: Unit tests for CreateChooserTitle covering null frames, main frame origin attribution, extension names, and isolated web app names.
+// ---
+
 #include "chrome/browser/chooser_controller/title_util.h"
 
 #include "base/command_line.h"

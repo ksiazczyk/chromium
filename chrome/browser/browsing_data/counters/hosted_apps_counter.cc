@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hosted apps counter implementation
+// summary: Implements HostedAppsCounter, which counts protected hosted apps via the extension special storage policy and reports up to two alphabetically sorted example names.
+// ---
+
 #include "chrome/browser/browsing_data/counters/hosted_apps_counter.h"
 
 #include <algorithm>

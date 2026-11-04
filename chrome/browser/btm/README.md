@@ -1,3 +1,11 @@
+---
+type: readme
+title: Bounce Tracking Mitigations (BTM)
+summary: Describes the directory as holding Chromium BTM code with //chrome dependencies and links to the main implementation in content/browser/btm.
+relations:
+  - references /content/browser/btm/README.md
+---
+
 # Bounce Tracking Mitigations (BTM)
 
 This directory contains the code for portions of Chromium's Bounce Tracking

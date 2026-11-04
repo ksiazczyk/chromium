@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Conditional cache counting helper browser test
+// summary: Browser test for ConditionalCacheCountingHelper that creates cache entries via a test server and checks counted cache sizes and upper-limit results for time ranges.
+// ---
+
 #include "components/browsing_data/content/conditional_cache_counting_helper.h"
 
 #include <algorithm>

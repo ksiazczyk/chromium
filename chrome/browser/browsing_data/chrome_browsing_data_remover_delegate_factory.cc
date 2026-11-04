@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBrowsingDataRemoverDelegateFactory implementation
+// summary: Implements the profile-keyed service factory for ChromeBrowsingDataRemoverDelegate, declaring dependencies on the many services whose data it deletes.
+// ---
+
 #include "chrome/browser/browsing_data/chrome_browsing_data_remover_delegate_factory.h"
 
 #include "base/no_destructor.h"

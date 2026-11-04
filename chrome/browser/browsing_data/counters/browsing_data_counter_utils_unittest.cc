@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing data counter utilities unit tests
+// summary: Unit tests checking the display text produced for cache, hosted apps and other browsing data counter results.
+// ---
+
 #include "chrome/browser/browsing_data/counters/browsing_data_counter_utils.h"
 
 #include <string>

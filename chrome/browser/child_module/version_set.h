@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child module version set type
+// summary: Defines VersionSet, a descending-sorted set of available child module versions used across the child module code.
+// ---
+
 #ifndef CHROME_BROWSER_CHILD_MODULE_VERSION_SET_H_
 #define CHROME_BROWSER_CHILD_MODULE_VERSION_SET_H_
 

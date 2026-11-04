@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Downloads counter browser test
+// summary: Browser test covering DownloadsCounter behavior for regular, incognito, and extension downloads, including deletion preferences, time periods, and download history persistence.
+// ---
+
 #include "chrome/browser/browsing_data/counters/downloads_counter.h"
 
 #include <memory>

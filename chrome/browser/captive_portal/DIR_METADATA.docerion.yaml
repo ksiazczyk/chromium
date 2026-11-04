@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Captive portal directory metadata
+summary: Declares the Chromium issue tracker component, team email, and Buganizer component for the captive portal directory.

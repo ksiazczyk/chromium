@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chooser controller build configuration
+summary: GN build file defining the chooser_controller source set plus browser test and unit test targets for the chooser title utility.

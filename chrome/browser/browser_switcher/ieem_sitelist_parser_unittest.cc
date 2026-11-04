@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IEEM sitelist parser unit tests
+// summary: Unit tests verifying that the IEEM sitelist XML parser yields the expected sitelist and greylist rules and error messages across parsing modes.
+// ---
+
 #include "chrome/browser/browser_switcher/ieem_sitelist_parser.h"
 
 #include "base/functional/bind.h"

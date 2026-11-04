@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing data remover browser test base header
+// summary: Declares the base class providing shared setup and verification helpers for browsing data remover browser tests on desktop and Android.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_BROWSING_DATA_REMOVER_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_BROWSING_DATA_BROWSING_DATA_REMOVER_BROWSERTEST_BASE_H_
 

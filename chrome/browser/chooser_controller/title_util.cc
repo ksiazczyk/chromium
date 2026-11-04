@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chooser title utility implementation
+// summary: Implements CreateChooserTitle, attributing permission prompts to the main frame and formatting the origin, extension, or isolated web app identity into a localized title.
+// ---
+
 #include "chrome/browser/chooser_controller/title_util.h"
 
 #include <string>

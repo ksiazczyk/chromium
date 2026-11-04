@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History counter browser test
+// summary: Browser test for the history counter that adds visits and uses a fake web history service to verify counting of history, unique domains, and synced visits.
+// ---
+
 #include "components/browsing_data/core/counters/history_counter.h"
 
 #include <memory>

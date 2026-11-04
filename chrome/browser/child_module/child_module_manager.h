@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child module manager class declaration
+// summary: Declares ChildModuleManager, a UI-thread manager that tracks dynamically staged child module versions and returns the latest module for renderer patching.
+// ---
+
 #ifndef CHROME_BROWSER_CHILD_MODULE_CHILD_MODULE_MANAGER_H_
 #define CHROME_BROWSER_CHILD_MODULE_CHILD_MODULE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child module path helpers
+// summary: Declares functions that initialize the child module staging directory path and canonicalize the User Data directory.
+// ---
+
 #ifndef CHROME_BROWSER_CHILD_MODULE_CHILD_MODULE_PATHS_H_
 #define CHROME_BROWSER_CHILD_MODULE_CHILD_MODULE_PATHS_H_
 

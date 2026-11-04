@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for cloud storage
+summary: Defines GN targets for the cloud_storage static library, the pref_utils source set, and browser tests with their dependencies.

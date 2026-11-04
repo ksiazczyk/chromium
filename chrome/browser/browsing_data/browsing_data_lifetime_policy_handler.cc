@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data lifetime policy handler implementation
+// summary: Implements the policy handler that maps browsing data lifetime policies to preferences and warns about unsupported data types and sync or sign-in restrictions.
+// ---
+
 #include "chrome/browser/browsing_data/browsing_data_lifetime_policy_handler.h"
 
 #include "base/strings/string_util.h"

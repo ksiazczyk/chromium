@@ -1,0 +1,4 @@
+# Docerion header of generate_about_file.py.
+type: script
+title: Chrome for Testing ABOUT file generator
+summary: Generates the ABOUT file shipped alongside Chrome for Testing assets, writing a copyright and credits notice to a given output file.

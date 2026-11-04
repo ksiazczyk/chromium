@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Captive portal build configuration
+summary: GN build file defining the captive portal source set and its browser test target with their sources and dependencies.
