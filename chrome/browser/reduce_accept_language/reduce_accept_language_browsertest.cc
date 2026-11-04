@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reduce Accept Language browser tests
+// summary: Browser tests verifying the Reduce Accept Language feature, covering feature flags and origin trials, content settings, incognito, fenced frames, and metrics.
+// ---
+
 #include <algorithm>
 #include <optional>
 #include <string_view>

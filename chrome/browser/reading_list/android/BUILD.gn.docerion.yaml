@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Android reading list manager
+summary: Defines the GN source_set targets for the reading list manager sources and their unit tests, with dependency restrictions on //chrome/browser.

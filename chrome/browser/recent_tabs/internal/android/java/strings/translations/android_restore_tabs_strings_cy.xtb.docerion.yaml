@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_cy.xtb.
+type: data
+title: Welsh translations for Android restore tabs strings
+summary: Welsh translation bundle for the Android tab restore flow, with strings for reviewing, selecting, and opening tabs from synced devices.

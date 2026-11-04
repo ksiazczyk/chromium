@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities service factory header
+// summary: Declares the singleton factory associating regional capabilities services with profiles and the system-profile helper for search engine choice screen regions.
+// ---
+
 #ifndef CHROME_BROWSER_REGIONAL_CAPABILITIES_REGIONAL_CAPABILITIES_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_REGIONAL_CAPABILITIES_REGIONAL_CAPABILITIES_SERVICE_FACTORY_H_
 

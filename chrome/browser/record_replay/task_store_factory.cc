@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskStoreFactory implementation
+// summary: Implements the per-profile TaskStore factory, creating TaskStoreImpl only when the record_replay feature is enabled and seeding or wipe switches are present.
+// ---
+
 #include "chrome/browser/record_replay/task_store_factory.h"
 
 #include "base/command_line.h"

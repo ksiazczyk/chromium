@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_hy.xtb.
+type: data
+title: Armenian translations for Android tab restore strings
+summary: XTB translation bundle with Armenian localized strings for the Chrome Android tab restore flow, covering device selection, tab review, and open-tab actions.

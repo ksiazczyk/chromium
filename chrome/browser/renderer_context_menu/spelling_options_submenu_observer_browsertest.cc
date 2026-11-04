@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spelling options submenu observer browser tests
+// summary: Browser tests that verify the spell-checker options submenu toggles spellcheck preferences and updates the selected dictionaries correctly.
+// ---
+
 #include "chrome/browser/renderer_context_menu/spelling_options_submenu_observer.h"
 
 #include <memory>

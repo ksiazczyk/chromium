@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS unit tests for the regional capabilities service client
+// summary: Tests the ChromeOS client's fallback country logic using a fake statistics provider for loading states, grouped regions, and malformed region values, checking histogram emissions.
+// ---
+
 #include "chrome/browser/regional_capabilities/regional_capabilities_service_client_chromeos.h"
 
 #include "base/test/metrics/histogram_tester.h"

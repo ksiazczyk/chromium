@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Restore tabs promo screen layout
+summary: Scrollable promo screen layout for the restore tabs bottom sheet with logo, headline, subtitle, and a selected device card, including notes on its buffer layout.
+-->
+
 <!-- Notes:
     The parent layout is not "useless", it acts as a buffer when using
     include from the restore_tabs_bottom_sheet layout. This way, that

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RegionalCapabilitiesServiceTestUtil
+// summary: Java test utility that stubs RegionalCapabilitiesServiceClientAndroid and SearchEngineChoiceService for native tests, simulating device country responses and failures.
+// ---
+
 package org.chromium.chrome.browser.regional_capabilities.test.util;
 
 import static org.mockito.Mockito.doReturn;

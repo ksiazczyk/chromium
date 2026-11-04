@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ForeignSessionItemViewBinderUnitTest
+// summary: Robolectric unit tests verifying that ForeignSessionItemViewBinder binds foreign session properties correctly to the device item view.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import static org.chromium.chrome.browser.recent_tabs.ui.ForeignSessionItemProperties.ALL_KEYS;

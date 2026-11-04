@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu browser test utilities
+// summary: Implements test helpers that wait for a context menu to open, execute or capture commands, and record menu parameters during browser tests.
+// ---
+
 #include "chrome/browser/renderer_context_menu/render_view_context_menu_browsertest_util.h"
 
 #include <memory>

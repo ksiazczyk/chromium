@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDeviceListMediator
+// summary: Mediator that populates and clears the model list of cross-device tab groups and toggles the empty-state property.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import org.chromium.build.annotations.NullMarked;

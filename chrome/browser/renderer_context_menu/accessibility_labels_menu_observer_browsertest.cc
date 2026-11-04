@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility labels menu observer browser tests
+// summary: Browser tests checking that accessibility labels menu items appear only with a screen reader enabled and follow the image labels setting.
+// ---
+
 #include "chrome/browser/renderer_context_menu/accessibility_labels_menu_observer.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of reduce_accept_language
+summary: Delegates reviewer ownership to the shared OWNERS file of components/reduce_accept_language.

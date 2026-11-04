@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_lv.xtb.
+type: data
+title: Latvian strings for Android tab restore UI
+summary: Latvian translation bundle with UI strings for the Chrome Android recent tabs restore flow, including plural forms for tab counts and selection actions.

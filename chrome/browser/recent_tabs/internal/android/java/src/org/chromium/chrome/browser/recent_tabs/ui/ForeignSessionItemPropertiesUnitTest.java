@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ForeignSessionItemPropertiesUnitTest
+// summary: Robolectric unit tests verifying that the ForeignSessionItemProperties model is created with valid defaults and supports selection updates.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import static org.chromium.chrome.browser.recent_tabs.ui.ForeignSessionItemProperties.IS_SELECTED;

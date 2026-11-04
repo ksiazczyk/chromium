@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regional capabilities service factory browser test
+// summary: Browser tests verifying that the regional capabilities service factory resolves the country ID according to the variations country override and the platform.
+// ---
+
 #include "chrome/browser/regional_capabilities/regional_capabilities_service_factory.h"
 
 #include "base/check_deref.h"

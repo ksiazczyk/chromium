@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegionalCapabilitiesServiceClientAndroid implementation
+// summary: Android client that fetches the device country through a JNI call to Java and reports the device program to the regional capabilities service.
+// ---
+
 #include "chrome/browser/regional_capabilities/regional_capabilities_service_client_android.h"
 
 #include "base/android/jni_android.h"

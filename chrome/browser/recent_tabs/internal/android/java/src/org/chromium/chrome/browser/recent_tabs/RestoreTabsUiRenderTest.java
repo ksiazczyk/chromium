@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Restore Tabs UI render tests
+// summary: Render tests for restore tabs UI elements, capturing screenshots of the promo screens in day and night mode variants.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

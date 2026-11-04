@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS regional capabilities service client header
+// summary: Declares the ChromeOS client class supplying country data to the regional capabilities service and the ChromeOSFallbackCountry enum backing the missing variation data histogram.
+// ---
+
 #ifndef CHROME_BROWSER_REGIONAL_CAPABILITIES_REGIONAL_CAPABILITIES_SERVICE_CLIENT_CHROMEOS_H_
 #define CHROME_BROWSER_REGIONAL_CAPABILITIES_REGIONAL_CAPABILITIES_SERVICE_CLIENT_CHROMEOS_H_
 

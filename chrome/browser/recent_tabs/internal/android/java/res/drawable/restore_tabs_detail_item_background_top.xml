@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Restore tabs detail item background top
+summary: Ripple drawable for the top item of the restore tabs detail list, with outer corner radius at the top and inner radius at the bottom.
+-->
+
 <org.chromium.chrome.browser.recent_tabs.ui.UnsharableRippleDrawable
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:app="http://schemas.android.com/apk/res-auto"

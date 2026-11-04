@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Restore Tabs integration tests
+// summary: Integration tests for the restore tabs feature on phones, exercising the promo sheet flow during the first run experience with Espresso.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Cross-device pane layout
+summary: Android layout for the cross-device pane view, combining an empty state view with a list view of tabs from other devices.
+-->
+
 <org.chromium.chrome.browser.recent_tabs.ui.CrossDevicePaneView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RestoreTabsDetailScreenViewBinderUnitTest
+// summary: Robolectric unit tests using Mockito to verify the binding behavior of RestoreTabsDetailScreenViewBinder across device and review tabs screens.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import static org.mockito.Mockito.times;

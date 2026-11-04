@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDeviceListProperties
+// summary: Defines the property model for the cross-device pane, including the empty-state visibility key.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import org.chromium.build.annotations.NullMarked;

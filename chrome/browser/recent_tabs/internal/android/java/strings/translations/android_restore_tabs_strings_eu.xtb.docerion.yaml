@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_eu.xtb.
+type: data
+title: Basque translations for Android restore tabs strings
+summary: Basque translation bundle for the Android tab restore flow, covering device selection and tab review and restore messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App mode context menu content type
+// summary: Restricts context menu item groups to editable and copy actions when running in app mode.
+// ---
+
 #include "chrome/browser/renderer_context_menu/context_menu_content_type_app_mode.h"
 
 ContextMenuContentTypeAppMode::ContextMenuContentTypeAppMode(

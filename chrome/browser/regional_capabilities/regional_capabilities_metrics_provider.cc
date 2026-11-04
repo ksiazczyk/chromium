@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegionalCapabilitiesMetricsProvider implementation
+// summary: Implements the metrics provider that records active regional program histograms for all loaded profiles in the current session.
+// ---
+
 #include "chrome/browser/regional_capabilities/regional_capabilities_metrics_provider.h"
 
 #include "base/check_deref.h"

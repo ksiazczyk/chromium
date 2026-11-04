@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux unit tests for the regional capabilities service client
+// summary: Tests that the Linux client fetches the stored permanent country from the variations service using a test environment with overridden country prefs.
+// ---
+
 #include "chrome/browser/regional_capabilities/regional_capabilities_service_client_linux.h"
 
 #include <memory>

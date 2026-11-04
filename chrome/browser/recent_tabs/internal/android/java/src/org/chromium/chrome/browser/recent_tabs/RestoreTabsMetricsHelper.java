@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restore Tabs metrics helper
+// summary: Helper that records user actions and histograms for the restore tabs on first run experience feature, defining persisted enum values for the metrics.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import androidx.annotation.IntDef;

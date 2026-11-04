@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Recent Tabs Restore Tabs Dimensions
+summary: Android dimension resources specifying padding, margins, icon sizes, and corner radii for the restore tabs general, home promo, and detail sheets.
+-->
+
 <resources>
     <!-- General dimensions. -->
     <dimen name="restore_tabs_sheet_padding">24dp</dimen>

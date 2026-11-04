@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility labels menu observer implementation
+// summary: Adds accessibility labels commands to the render view context menu and shows a confirm bubble when the feature is enabled.
+// ---
+
 #include "chrome/browser/renderer_context_menu/accessibility_labels_menu_observer.h"
 
 #include <utility>

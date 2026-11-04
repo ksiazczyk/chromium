@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test render view context menu implementation
+// summary: Implements TestRenderViewContextMenu, a test double that creates context menus and provides helpers to inspect menu items in tests.
+// ---
+
 #include "chrome/browser/renderer_context_menu/render_view_context_menu_test_util.h"
 
 #include "chrome/app/chrome_command_ids.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreTabsDetailScreenViewBinder
+// summary: View binder that pushes property model updates to the Restore Tabs detail screen, handling device screen and review tabs screen bindings.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import static org.chromium.chrome.browser.recent_tabs.RestoreTabsProperties.CURRENT_SCREEN;

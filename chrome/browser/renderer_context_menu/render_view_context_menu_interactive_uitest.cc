@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render view context menu interactive UI tests
+// summary: Interactive browser tests for Chrome's render view context menu, exercising menu commands and related UI behavior such as protocol handlers and Glic.
+// ---
+
 #include "chrome/browser/renderer_context_menu/render_view_context_menu.h"
 
 #include <memory>

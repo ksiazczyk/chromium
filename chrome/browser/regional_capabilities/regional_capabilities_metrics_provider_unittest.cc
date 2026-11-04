@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RegionalCapabilitiesMetricsProvider unit tests
+// summary: Unit tests verifying the regional capabilities histograms recorded per profile and per session using testing profiles and a histogram tester.
+// ---
+
 #include "chrome/browser/regional_capabilities/regional_capabilities_metrics_provider.h"
 
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Recent tabs directory metadata
+summary: Directory metadata assigning the tab switcher suggestions Monorail component, team email, Android OS, and Buganizer component for this folder.

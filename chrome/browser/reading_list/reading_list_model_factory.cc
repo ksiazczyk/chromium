@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadingListModelFactory implementation
+// summary: Implements the profile-keyed service factory that builds local and account reading list models for browser contexts.
+// ---
+
 #include "chrome/browser/reading_list/reading_list_model_factory.h"
 
 #include <memory>

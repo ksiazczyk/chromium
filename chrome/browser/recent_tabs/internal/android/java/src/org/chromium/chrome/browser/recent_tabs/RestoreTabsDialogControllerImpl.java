@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restore Tabs dialog controller implementation
+// summary: Implements RestoreTabsController by delegating to a RestoreTabsDialogCoordinator to show the promo in a modal dialog.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility labels bubble model browser tests
+// summary: Browser tests verifying that accepting or cancelling the bubble updates preferences and that the help page opens even after the tab is closed.
+// ---
+
 #include "chrome/browser/renderer_context_menu/accessibility_labels_bubble_model.h"
 
 #include <memory>

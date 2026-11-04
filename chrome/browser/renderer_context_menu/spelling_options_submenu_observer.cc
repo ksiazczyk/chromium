@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spelling options submenu observer implementation
+// summary: Implements the spell-checker options submenu of the render view context menu, listing available spellcheck languages and basic and enhanced spell check toggles.
+// ---
+
 #include "chrome/browser/renderer_context_menu/spelling_options_submenu_observer.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForeignSessionItemViewBinder
+// summary: View binder that populates device item views on the restore tabs detail sheet with session name, icon, session info, selection state and accessibility content.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import static org.chromium.chrome.browser.recent_tabs.ui.ForeignSessionItemProperties.IS_SELECTED;

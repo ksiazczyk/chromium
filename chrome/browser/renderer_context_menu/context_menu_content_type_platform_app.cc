@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu content type for platform apps
+// summary: Implements the content type for platform apps, enabling editable and copy groups plus extension and DevTools items for unpacked extensions.
+// ---
+
 #include "chrome/browser/renderer_context_menu/context_menu_content_type_platform_app.h"
 
 #include "base/command_line.h"

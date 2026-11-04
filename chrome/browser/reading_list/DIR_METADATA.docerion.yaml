@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Reading list directory metadata
+summary: Maps the directory to the Reading List monorail component and a Buganizer component ID for issue tracking.

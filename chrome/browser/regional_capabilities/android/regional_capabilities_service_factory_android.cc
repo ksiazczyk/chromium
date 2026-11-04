@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities service factory JNI bridge
+// summary: C++ JNI glue that returns the per-profile RegionalCapabilitiesService Java object for the Android client.
+// ---
+
 #include "chrome/browser/regional_capabilities/regional_capabilities_service_factory.h"
 
 #include "base/android/jni_android.h"

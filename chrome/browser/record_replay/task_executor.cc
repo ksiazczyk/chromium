@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task executor implementation
+// summary: Formats a task definition and parameter values into a prompt and invokes Glic on the active tab or browser window to execute the task.
+// ---
+
 #include "chrome/browser/record_replay/task_executor.h"
 
 #include <algorithm>

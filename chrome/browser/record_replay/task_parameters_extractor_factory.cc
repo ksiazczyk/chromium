@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task parameters extractor factory implementation
+// summary: Implements a profile-keyed service factory that creates TaskParametersExtractor instances when the record replay feature is enabled.
+// ---
+
 #include "chrome/browser/record_replay/task_parameters_extractor_factory.h"
 
 #include "base/feature_list.h"

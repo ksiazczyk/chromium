@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_zu.xtb.
+type: data
+title: Zulu translations for Android restore tabs strings
+summary: Zulu translation bundle providing localized strings for the Android recent tabs restore feature, covering device selection, tab counts, and selection actions.

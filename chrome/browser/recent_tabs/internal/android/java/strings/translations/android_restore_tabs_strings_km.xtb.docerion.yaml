@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_km.xtb.
+type: data
+title: Khmer translations for Android tab restore strings
+summary: XTB translation bundle with Khmer localized strings for the Chrome Android tab restore flow, covering device selection, tab review, and open-tab actions.

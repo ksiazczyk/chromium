@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabItemViewBinderUnitTest
+// summary: Robolectric unit tests for TabItemViewBinder using mocked favicon helpers and profiles to verify tab item view binding.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import static org.mockito.Mockito.when;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskServiceFactory unit tests
+// summary: Unit tests verifying that TaskServiceFactory returns a service instance when the kRecordReplayBase feature is enabled and nullptr when it is disabled.
+// ---
+
 #include "chrome/browser/record_replay/task_service_factory.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_pl.xtb.
+type: data
+title: Restore tabs strings in Polish
+summary: Polish translation bundle with localized strings for the Android tab restore flow in Chrome's recent tabs feature.

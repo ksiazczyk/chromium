@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_fi.xtb.
+type: data
+title: Android restore tabs strings (Finnish)
+summary: Finnish translation bundle with UI strings for the Chrome Android recent tabs restore feature, covering device selection, tab review and restore actions.

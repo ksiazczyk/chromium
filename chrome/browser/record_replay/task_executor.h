@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task executor header
+// summary: Declares the static TaskExecutor::ExecuteTask helper that runs record replay tasks through the Glic service.
+// ---
+
 #ifndef CHROME_BROWSER_RECORD_REPLAY_TASK_EXECUTOR_H_
 #define CHROME_BROWSER_RECORD_REPLAY_TASK_EXECUTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restore Tabs dialog mediator
+// summary: Extends RestoreTabsMediator to manage the modal dialog state, back press handling, and dismissal metrics for the Restore Tabs promo.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import android.content.Context;

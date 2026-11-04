@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Chrome record replay browser code
+summary: Defines the record_replay group, the impl static library, and the unit_tests source_set with their sources and dependencies.

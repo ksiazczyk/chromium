@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock render view context menu header
+// summary: Declares MockRenderViewContextMenu, a test double implementing RenderViewContextMenuProxy and SimpleMenuModel::Delegate to monitor observer calls in tests.
+// ---
+
 #ifndef CHROME_BROWSER_RENDERER_CONTEXT_MENU_MOCK_RENDER_VIEW_CONTEXT_MENU_H_
 #define CHROME_BROWSER_RENDERER_CONTEXT_MENU_MOCK_RENDER_VIEW_CONTEXT_MENU_H_
 

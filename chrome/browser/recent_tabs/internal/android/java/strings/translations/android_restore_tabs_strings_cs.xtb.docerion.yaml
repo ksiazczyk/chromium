@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_cs.xtb.
+type: data
+title: Czech translations for Android restore tabs strings
+summary: Czech translation bundle for the Android tab restore flow, with strings for reviewing, selecting, and opening tabs from synced devices.

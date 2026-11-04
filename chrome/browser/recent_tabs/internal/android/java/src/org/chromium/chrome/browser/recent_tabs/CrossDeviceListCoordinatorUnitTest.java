@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrossDeviceListCoordinatorUnitTest
+// summary: Robolectric unit tests for CrossDeviceListCoordinator covering view creation and edge-to-edge pad adjuster registration.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import static org.junit.Assert.assertNotNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadingListManager interface for Android
+// summary: Declares the KeyedService interface that owns a reading list model and exposes reading list articles as bookmark nodes with observer support.
+// ---
+
 #ifndef CHROME_BROWSER_READING_LIST_ANDROID_READING_LIST_MANAGER_H_
 #define CHROME_BROWSER_READING_LIST_ANDROID_READING_LIST_MANAGER_H_
 

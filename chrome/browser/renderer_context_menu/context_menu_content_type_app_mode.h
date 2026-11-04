@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu content type for app mode (header)
+// summary: Declares ContextMenuContentTypeAppMode, which restricts supported context menu item groups when Chrome runs in forced app mode.
+// ---
+
 #ifndef CHROME_BROWSER_RENDERER_CONTEXT_MENU_CONTEXT_MENU_CONTENT_TYPE_APP_MODE_H_
 #define CHROME_BROWSER_RENDERER_CONTEXT_MENU_CONTEXT_MENU_CONTENT_TYPE_APP_MODE_H_
 

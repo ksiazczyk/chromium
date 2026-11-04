@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spelling menu observer browser tests
+// summary: Browser tests for the spelling menu observer, checking suggestion menu items and spelling service integration for misspelled words.
+// ---
+
 #include "chrome/browser/renderer_context_menu/spelling_menu_observer.h"
 
 #include <memory>

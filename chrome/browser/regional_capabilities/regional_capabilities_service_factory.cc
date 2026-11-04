@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities service factory implementation
+// summary: Implements the profile-keyed factory that builds the regional capabilities service with a platform-specific client and checks search engine choice regions for system profiles.
+// ---
+
 #include "chrome/browser/regional_capabilities/regional_capabilities_service_factory.h"
 
 #include <memory>

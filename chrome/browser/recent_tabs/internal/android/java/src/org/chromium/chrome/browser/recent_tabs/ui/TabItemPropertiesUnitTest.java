@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabItemPropertiesUnitTest
+// summary: Robolectric unit tests for the TabItemProperties model, covering default model creation and toggling the tab selection state.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import static org.chromium.chrome.browser.recent_tabs.ui.TabItemProperties.FOREIGN_SESSION_TAB;

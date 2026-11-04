@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spelling bubble model browser tests
+// summary: Browser tests verifying that the spelling bubble model sets spellcheck preferences on accept or cancel and opens the help page correctly.
+// ---
+
 #include "chrome/browser/renderer_context_menu/spelling_bubble_model.h"
 
 #include <memory>

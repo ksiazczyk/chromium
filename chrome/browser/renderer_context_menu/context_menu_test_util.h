@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu test utility header
+// summary: Declares a test helper that locates a menu item by command ID within a menu model and its submenus, and compiles on Android.
+// ---
+
 #ifndef CHROME_BROWSER_RENDERER_CONTEXT_MENU_CONTEXT_MENU_TEST_UTIL_H_
 #define CHROME_BROWSER_RENDERER_CONTEXT_MENU_CONTEXT_MENU_TEST_UTIL_H_
 

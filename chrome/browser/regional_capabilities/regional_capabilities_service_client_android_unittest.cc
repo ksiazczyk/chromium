@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android unit tests for the regional capabilities service client
+// summary: Unit tests verifying the Android client fetches device country IDs synchronously and asynchronously via JNI test support, drops the callback on failure, and reports the default device program.
+// ---
+
 #include "chrome/browser/regional_capabilities/regional_capabilities_service_client_android.h"
 
 #include <optional>

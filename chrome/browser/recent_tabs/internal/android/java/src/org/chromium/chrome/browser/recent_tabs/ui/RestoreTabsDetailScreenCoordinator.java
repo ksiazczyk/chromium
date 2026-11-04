@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreTabsDetailScreenCoordinator
+// summary: Coordinator for the device select and review tabs detail screens of the Restore Tabs on FRE promo, wiring the recycler view, favicon helpers and delegate callbacks.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import android.content.Context;

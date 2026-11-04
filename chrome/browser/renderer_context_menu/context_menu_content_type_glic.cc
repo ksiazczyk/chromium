@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu content type for Glic surfaces
+// summary: Implements the content type for Glic surfaces, disabling most menu groups while keeping developer and default groups available.
+// ---
+
 #include "chrome/browser/renderer_context_menu/context_menu_content_type_glic.h"
 
 ContextMenuContentTypeGlic::ContextMenuContentTypeGlic(

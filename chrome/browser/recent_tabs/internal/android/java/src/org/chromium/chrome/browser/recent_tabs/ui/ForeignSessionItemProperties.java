@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForeignSessionItemProperties
+// summary: Property model defining keys for a foreign session device item on the restore tabs detail screen, including selection state and click listener.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs.ui;
 
 import org.chromium.build.annotations.NullMarked;

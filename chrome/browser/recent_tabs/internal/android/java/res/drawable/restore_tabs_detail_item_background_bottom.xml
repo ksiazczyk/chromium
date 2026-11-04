@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Restore tabs detail item background bottom
+summary: Ripple drawable giving the bottom item of the restore tabs detail list a surface-colored background with rounded outer corners at the bottom.
+-->
+
 <org.chromium.chrome.browser.recent_tabs.ui.UnsharableRippleDrawable
   xmlns:android="http://schemas.android.com/apk/res/android"
   android:color="?android:attr/colorControlHighlight">

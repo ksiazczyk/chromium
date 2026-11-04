@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read write card observer implementation
+// summary: Implements an observer that forwards context menu events, bounds, and selected text to ChromeOS read-write card controllers such as quick answers.
+// ---
+
 #include "chrome/browser/renderer_context_menu/read_write_card_observer.h"
 
 #include <vector>

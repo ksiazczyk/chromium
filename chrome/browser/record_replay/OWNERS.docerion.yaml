@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the record_replay browser directory
+summary: Delegates review ownership for this directory to the OWNERS file of components/record_replay.

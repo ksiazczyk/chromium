@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrossDevicePane unit tests
+// summary: Robolectric unit tests for the CrossDevicePane hub pane, covering pane ID, root view, load hints, destruction, and hide animations.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import static org.junit.Assert.assertEquals;

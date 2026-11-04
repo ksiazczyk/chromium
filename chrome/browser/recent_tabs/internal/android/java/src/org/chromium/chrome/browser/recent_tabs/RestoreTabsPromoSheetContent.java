@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restore Tabs promo bottom sheet content
+// summary: Bottom sheet content implementation for the restore tabs promo, providing views and scroll offsets for the home, device, and review tabs screens.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import static org.chromium.chrome.browser.recent_tabs.RestoreTabsProperties.ScreenType.DEVICE_SCREEN;

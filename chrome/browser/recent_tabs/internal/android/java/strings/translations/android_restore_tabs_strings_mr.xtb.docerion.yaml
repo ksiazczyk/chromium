@@ -1,0 +1,4 @@
+# Docerion header of android_restore_tabs_strings_mr.xtb.
+type: data
+title: Marathi strings for Android tab restore UI
+summary: Marathi translation bundle with UI strings for the Chrome Android recent tabs restore flow, covering device selection, tab review, and open/select actions.

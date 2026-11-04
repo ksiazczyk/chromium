@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for reduce_accept_language
+summary: Maps issues in this directory to the Privacy>Fingerprinting monorail component and Buganizer public component 1456351.

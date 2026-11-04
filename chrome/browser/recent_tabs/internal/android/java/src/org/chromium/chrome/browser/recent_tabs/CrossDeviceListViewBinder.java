@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDeviceListViewBinder
+// summary: Binds cross-device list property changes, such as empty-state visibility, to the pane view.
+// ---
+
 package org.chromium.chrome.browser.recent_tabs;
 
 import static org.chromium.chrome.browser.recent_tabs.CrossDeviceListProperties.EMPTY_STATE_VISIBLE;
