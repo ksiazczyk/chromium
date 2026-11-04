@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalBinaryUploadServiceFactory class declaration
+// summary: Declares LocalBinaryUploadServiceFactory, a singleton keyed service factory owning one LocalBinaryUploadService per active profile.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_LOCAL_BINARY_UPLOAD_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_LOCAL_BINARY_UPLOAD_SERVICE_FACTORY_H_
 

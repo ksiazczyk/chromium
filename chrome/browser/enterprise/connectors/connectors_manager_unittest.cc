@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the connectors manager
+// summary: Tests analysis connector policy parsing and settings resolution for cloud and local analysis providers.
+// ---
+
 #include "chrome/browser/enterprise/connectors/connectors_manager.h"
 
 #include <optional>

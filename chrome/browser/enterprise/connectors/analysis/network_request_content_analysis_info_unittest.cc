@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network request content analysis info unit tests
+// summary: Unit tests verifying NetworkRequestContentAnalysisInfo getters such as settings, identity manager, URLs and frame URL chain.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/network_request_content_analysis_info.h"
 
 #include <memory>

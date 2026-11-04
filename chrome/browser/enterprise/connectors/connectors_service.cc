@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectorsService keyed service implementation
+// summary: Implements the per-profile ConnectorsService that resolves enterprise connector analysis and reporting settings, DM tokens, client metadata and management domains across platforms.
+// ---
+
 #include "chrome/browser/enterprise/connectors/connectors_service.h"
 
 #include <memory>

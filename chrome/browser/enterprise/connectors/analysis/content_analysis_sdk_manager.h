@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content analysis SDK manager header
+// summary: Declares a UI-thread singleton managing ref-counted content analysis SDK client connections keyed by service provider configuration.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_CONTENT_ANALYSIS_SDK_MANAGER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_CONTENT_ANALYSIS_SDK_MANAGER_H_
 

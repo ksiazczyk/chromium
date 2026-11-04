@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content analysis SDK manager implementation
+// summary: Implements a singleton that creates, caches and resets content analysis SDK clients shared by all profiles in the browser.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/content_analysis_sdk_manager.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Enterprise directory owners
+summary: Delegates ownership to the components enterprise OWNERS file and assigns a per-file owner for the data protection bridge utilities.

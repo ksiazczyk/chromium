@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise connectors shared utilities implementation
+// summary: Implements shared connector helpers such as frame URL collection, affiliation checks and binary upload service selection.
+// ---
+
 #include "chrome/browser/enterprise/connectors/common.h"
 
 #include "base/metrics/histogram_functions.h"

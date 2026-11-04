@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentAnalysisDelegate class declaration
+// summary: Declares ContentAnalysisDelegate, which performs deep scans for malicious or sensitive content before a page accesses data, with dialog or audit-only modes.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_CONTENT_ANALYSIS_DELEGATE_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_CONTENT_ANALYSIS_DELEGATE_H_
 

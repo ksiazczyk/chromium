@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content analysis dialog browser tests
+// summary: Browser tests verifying the content analysis dialog's buttons, state transitions, timing constraints, destruction, and accessibility events.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"
 #include "base/strings/utf_string_conversions.h"

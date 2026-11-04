@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for content analysis
+// summary: Browser tests exercising the content analysis delegate with an embedded test server and fake chunked data pipes for upload scanning.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

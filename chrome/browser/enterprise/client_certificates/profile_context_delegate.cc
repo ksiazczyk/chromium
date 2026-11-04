@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile context delegate implementation
+// summary: Implements the profile-scoped delegate that flushes cached client certificates and provides identity names, policy pref and logging context.
+// ---
+
 #include "chrome/browser/enterprise/client_certificates/profile_context_delegate.h"
 
 #include "base/check.h"

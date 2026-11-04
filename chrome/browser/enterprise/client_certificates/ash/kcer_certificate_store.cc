@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerCertificateStore implementation for ChromeOS
+// summary: Implements the ChromeOS certificate store that creates, commits, loads and deletes enterprise client certificate identities via Kcer, persisting identity metadata such as SPKI in profile prefs.
+// ---
+
 #include "chrome/browser/enterprise/client_certificates/ash/kcer_certificate_store.h"
 
 #include <algorithm>

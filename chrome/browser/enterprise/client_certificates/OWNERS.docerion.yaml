@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to component client certificates owners
+summary: Delegates code review ownership for this directory to the OWNERS file of the components enterprise client certificates folder.

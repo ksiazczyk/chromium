@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local binary upload service unit tests
+// summary: Unit tests for the local binary upload service, covering agent verification and request handling with fake SDK and system signals mocks.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/local_binary_upload_service.h"
 
 #include <array>

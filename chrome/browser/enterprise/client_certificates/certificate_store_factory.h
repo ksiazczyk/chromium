@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate store factory header
+// summary: Declares a profile-keyed service factory that provides CertificateStore instances for Chrome profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_CERTIFICATE_STORE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_CERTIFICATE_STORE_FACTORY_H_
 

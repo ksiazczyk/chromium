@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for enterprise connectors
+summary: Points this directory to the shared enterprise content metadata mixins.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PagePrintRequestHandler class declaration
+// summary: Declares the handler that manages a page print analysis request and reporting, including warning bypass and upload size handling.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_PAGE_PRINT_REQUEST_HANDLER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_PAGE_PRINT_REQUEST_HANDLER_H_
 

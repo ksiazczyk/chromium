@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SourceDestinationTestingHelper test utility header
+// summary: Declares a helper that creates and registers test volumes and provides FileSystemURLs and temp paths for analysis connector tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_SOURCE_DESTINATION_TEST_UTIL_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_SOURCE_DESTINATION_TEST_UTIL_H_
 

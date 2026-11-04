@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content analysis SDK manager unit tests
+// summary: Unit tests covering client creation, resetting a single client and resetting all clients while existing references stay valid.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/content_analysis_sdk_manager.h"
 
 #include "chrome/browser/enterprise/connectors/test/fake_content_analysis_sdk_client.h"

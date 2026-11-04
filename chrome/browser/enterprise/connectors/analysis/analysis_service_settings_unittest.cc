@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for analysis service settings
+// summary: Unit tests verifying parsing of analysis service settings and ChromeOS source/destination pattern matching against expected analysis settings.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/analysis_service_settings.h"
 
 #include "base/json/json_reader.h"

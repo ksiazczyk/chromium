@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerCertificateStore class declaration
+// summary: Declares the ChromeOS CertificateStore backed by Kcer, which generates keys in the user's PKCS#11 slot, imports certificates into the NSS database, and restricts provisioning to regular signed-in users.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_ASH_KCER_CERTIFICATE_STORE_H_
 #define CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_ASH_KCER_CERTIFICATE_STORE_H_
 

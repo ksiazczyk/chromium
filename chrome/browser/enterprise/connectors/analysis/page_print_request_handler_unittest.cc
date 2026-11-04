@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PagePrintRequestHandler unit tests
+// summary: Unit tests for the print request handler using a test upload service, covering triggered rule responses, size limits, and warning bypass.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/page_print_request_handler.h"
 
 #include <memory>

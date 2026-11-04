@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise BUILD.gn build targets
+summary: Defines the enterprise source_set with its public headers, sources, and dependencies for enterprise features such as connectors, reporting, and browser management.

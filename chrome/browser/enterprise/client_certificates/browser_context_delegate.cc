@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser context delegate for managed client certificates
+// summary: Implements the browser-scope delegate that flushes matching cached client certificates from network contexts and supplies identity names, policy prefs and logging context.
+// ---
+
 #include "chrome/browser/enterprise/client_certificates/browser_context_delegate.h"
 
 #include "base/memory/scoped_refptr.h"

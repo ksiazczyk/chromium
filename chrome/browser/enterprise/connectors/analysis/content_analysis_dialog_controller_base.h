@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content analysis dialog controller base interface
+// summary: Defines the platform-agnostic interface that ContentAnalysisDelegate uses to show pending and result UI for content analysis.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_CONTENT_ANALYSIS_DIALOG_CONTROLLER_BASE_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_CONTENT_ANALYSIS_DIALOG_CONTROLLER_BASE_H_
 

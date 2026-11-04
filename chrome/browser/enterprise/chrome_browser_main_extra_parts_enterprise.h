@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise browser main extra parts header
+// summary: Declares the ChromeBrowserMainExtraPartsEnterprise class that runs enterprise code at specific points of the browser process life cycle.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CHROME_BROWSER_MAIN_EXTRA_PARTS_ENTERPRISE_H_
 #define CHROME_BROWSER_ENTERPRISE_CHROME_BROWSER_MAIN_EXTRA_PARTS_ENTERPRISE_H_
 

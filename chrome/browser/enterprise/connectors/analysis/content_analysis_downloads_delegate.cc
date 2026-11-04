@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content analysis downloads delegate implementation
+// summary: Implements the delegate that shows content analysis verdicts for downloads, handling custom messages, bypass warnings, and open or discard actions.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/content_analysis_downloads_delegate.h"
 
 #include "chrome/browser/enterprise/connectors/common.h"

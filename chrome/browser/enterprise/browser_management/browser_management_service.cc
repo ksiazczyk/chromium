@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser management service implementation
+// summary: Implements the per-profile BrowserManagementService, aggregating management status providers and updating management icons and enterprise labels.
+// ---
+
 #include "chrome/browser/enterprise/browser_management/browser_management_service.h"
 
 #include <algorithm>

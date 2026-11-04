@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Enterprise directory include rules
+summary: Specifies allowed include dependencies for the enterprise directory, with a special rule for the Box captured sites interactive UI test.

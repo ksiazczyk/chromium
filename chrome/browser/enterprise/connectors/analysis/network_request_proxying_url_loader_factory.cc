@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network request proxying URL loader factory implementation
+// summary: Implements a URL loader factory proxy that scans POST request bodies in parallel for the audit-only network request enterprise connector policy.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/network_request_proxying_url_loader_factory.h"
 
 #include <optional>

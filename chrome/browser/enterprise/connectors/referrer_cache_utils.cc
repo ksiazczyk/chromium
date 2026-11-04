@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Referrer chain caching utilities implementation
+// summary: Implements helpers that obtain and cache Safe Browsing referrer chains in web contents and download items for enterprise reporting and DLP checks.
+// ---
+
 #include "chrome/browser/enterprise/connectors/referrer_cache_utils.h"
 
 #include <memory>

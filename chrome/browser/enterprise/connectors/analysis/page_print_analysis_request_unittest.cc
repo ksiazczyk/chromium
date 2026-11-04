@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PagePrintAnalysisRequest unit tests
+// summary: Parameterized unit tests verifying page size limits and data retrieval for cloud and local print content analysis requests.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/page_print_analysis_request.h"
 
 #include <algorithm>

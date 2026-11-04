@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning service factory
+// summary: Profile-keyed service factory that builds the per-profile client certificate provisioning service using the certificate store, profile IDs and device management service.
+// ---
+
 #include "chrome/browser/enterprise/client_certificates/certificate_provisioning_service_factory.h"
 
 #include <memory>

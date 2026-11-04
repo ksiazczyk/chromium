@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser management status providers implementation
+// summary: Implements status providers that determine the management authority from cloud, local, domain, profile, and ChromeOS device policies.
+// ---
+
 #include "chrome/browser/enterprise/browser_management/browser_management_status_provider.h"
 
 #include "build/build_config.h"

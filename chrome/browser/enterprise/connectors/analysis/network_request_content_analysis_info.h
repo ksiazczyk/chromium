@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network request content analysis info
+// summary: Declares the ContentAnalysisInfo implementation that stores tab state for a network request scanned under the OnNetworkRequestEnterpriseConnector policy.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_NETWORK_REQUEST_CONTENT_ANALYSIS_INFO_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_NETWORK_REQUEST_CONTENT_ANALYSIS_INFO_H_
 

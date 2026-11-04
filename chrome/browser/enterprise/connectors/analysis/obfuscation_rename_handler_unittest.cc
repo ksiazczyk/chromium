@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ObfuscationRenameHandler unit tests
+// summary: Unit tests covering handler creation conditions and the move of staged obfuscated downloads to their target path, including a regression test.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/obfuscation_rename_handler.h"
 
 #include "base/files/file_util.h"

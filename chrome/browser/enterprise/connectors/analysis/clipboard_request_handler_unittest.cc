@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for clipboard request handler
+// summary: Unit tests for the cloud content scanning clipboard request handler, using test upload services and a fake ContentAnalysisInfo to exercise scan results.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/clipboard_request_handler.h"
 
 #include "base/run_loop.h"

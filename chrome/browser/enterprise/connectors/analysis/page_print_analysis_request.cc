@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page print analysis request implementation
+// summary: Implements a binary upload request that supplies a printed page from shared memory for content analysis, rejecting oversized pages for cloud scans.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/page_print_analysis_request.h"
 
 #include "base/memory/read_only_shared_memory_region.h"

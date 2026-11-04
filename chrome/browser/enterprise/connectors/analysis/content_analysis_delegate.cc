@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content analysis delegate implementation
+// summary: Implements deep scanning of text, files, and clipboard data before pages access it, showing blocking dialogs or running audit-only scans.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/content_analysis_delegate.h"
 
 #include <algorithm>

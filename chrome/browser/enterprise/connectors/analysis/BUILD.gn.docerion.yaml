@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for enterprise content analysis
+summary: GN build file defining source sets, ChromeOS-only test support, and unit and browser test targets for the enterprise content analysis code.

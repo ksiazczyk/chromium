@@ -1,3 +1,9 @@
+---
+type: readme
+title: Enterprise connectors directory overview
+summary: Describes the directory scope, covering connector policies, shared utilities, content analysis and reporting connectors.
+---
+
 This directory contains code used by Chrome Enterprise Connectors. This
 includes:
   * Code to handle Connector policies.

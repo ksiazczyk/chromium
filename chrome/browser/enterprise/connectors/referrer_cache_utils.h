@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Referrer chain caching utilities declarations
+// summary: Declares helpers to check whether referrer chains are needed and to get, create, set or cache referrer chains for enterprise connector functionality.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_REFERRER_CACHE_UTILS_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_REFERRER_CACHE_UTILS_H_
 

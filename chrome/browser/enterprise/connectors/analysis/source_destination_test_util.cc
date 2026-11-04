@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SourceDestinationTestingHelper implementation
+// summary: Implements a test helper that sets up fake disk mounting and registers test volumes so connector matching tests can use realistic FileSystemURLs.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/source_destination_test_util.h"
 
 #include "base/files/file_util.h"

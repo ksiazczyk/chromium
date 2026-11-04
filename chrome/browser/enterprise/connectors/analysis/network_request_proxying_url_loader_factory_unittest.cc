@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network request proxying URL loader factory unit tests
+// summary: Unit tests for the proxying URL loader factory, covering policy matching, request scanning and scan completion callbacks.
+// ---
+
 #include "chrome/browser/enterprise/connectors/analysis/network_request_proxying_url_loader_factory.h"
 
 #include <memory>

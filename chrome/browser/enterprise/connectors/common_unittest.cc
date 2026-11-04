@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for enterprise connectors common utilities
+// summary: Tests shared connector helpers, notably frame URL collection for nested iframes under content analysis features.
+// ---
+
 #include "chrome/browser/enterprise/connectors/common.h"
 
 #include "base/memory/raw_ptr.h"
