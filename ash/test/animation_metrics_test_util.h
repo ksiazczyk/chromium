@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animation metrics test utilities declaration
+// summary: Declares test animation observers, first non-animated frame and metrics waiters, and a helper to run a simple animation in ash tests.
+// ---
+
 #ifndef ASH_TEST_ANIMATION_METRICS_TEST_UTIL_H_
 #define ASH_TEST_ANIMATION_METRICS_TEST_UTIL_H_
 

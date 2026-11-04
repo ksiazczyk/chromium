@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified system tray bubble implementation
+// summary: Implements the bubble widget that hosts the Quick Settings view for the Chrome OS unified system tray, handling creation, display, observers, and teardown.
+// ---
+
 #include "ash/system/unified/unified_system_tray_bubble.h"
 
 #include "ash/app_list/app_list_controller_impl.h"

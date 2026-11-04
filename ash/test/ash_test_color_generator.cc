@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshTestColorGenerator implementation
+// summary: Implements a test helper that cycles through a fixed set of candidate colors, guaranteeing consecutive calls return different colors for solid-colored app icons in Ash tests.
+// ---
+
 #include "ash/test/ash_test_color_generator.h"
 
 namespace ash {

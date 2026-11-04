@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick settings header unit tests
+// summary: Unit tests for the quick settings header view, covering managed and supervised buttons, channel visibility, and related metrics behavior in the Ash system tray.
+// ---
+
 #include "ash/system/unified/quick_settings_header.h"
 
 #include <memory>

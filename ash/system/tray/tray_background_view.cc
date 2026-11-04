@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayBackgroundView implementation
+// summary: Implements the base view for status area tray buttons, handling backgrounds, show and hide animations, bubbles, context menus, and accessibility focus.
+// ---
+
 #include "ash/system/tray/tray_background_view.h"
 
 #include <algorithm>

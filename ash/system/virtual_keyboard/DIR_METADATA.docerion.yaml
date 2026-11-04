@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the virtual keyboard directory
+summary: Declares directory metadata mixins for the ash virtual keyboard system directory, inheriting settings from the common ime metadata.

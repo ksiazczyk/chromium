@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended updates notice quick settings view class declaration
+// summary: Declares the quick settings banner shown when a device is eligible for extended updates support, linking to the About ChromeOS settings page.
+// ---
+
 #ifndef ASH_SYSTEM_UPDATE_EXTENDED_UPDATES_NOTICE_QUICK_SETTINGS_VIEW_H_
 #define ASH_SYSTEM_UPDATE_EXTENDED_UPDATES_NOTICE_QUICK_SETTINGS_VIEW_H_
 

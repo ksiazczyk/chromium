@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User chooser view implementation for the unified system tray
+// summary: Implements the quick settings user chooser detailed view, including the add-user button, separators, and user item buttons that switch between signed-in accounts.
+// ---
+
 #include "ash/system/unified/user_chooser_view.h"
 
 #include <memory>

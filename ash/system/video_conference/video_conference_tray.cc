@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference tray UI implementation
+// summary: Implements the video conference tray button and bubble in the status area, including toggle, camera and microphone mute buttons, and privacy indicators.
+// ---
+
 #include "ash/system/video_conference/video_conference_tray.h"
 
 #include <memory>

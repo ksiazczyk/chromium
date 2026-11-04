@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quiet mode feature pod controller unit tests
+// summary: Unit tests for the quiet mode feature pod controller, covering tile visibility across session states and UMA metrics for icon and label presses.
+// ---
+
 #include "ash/system/unified/quiet_mode_feature_pod_controller.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

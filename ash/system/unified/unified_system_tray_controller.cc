@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified system tray controller implementation
+// summary: Implements the controller for QuickSettingsView, wiring feature pod tiles and detailed views such as network, Bluetooth, audio, hotspot, and calendar.
+// ---
+
 #include "ash/system/unified/unified_system_tray_controller.h"
 
 #include "ash/capture_mode/capture_mode_feature_pod_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayBubbleWrapper implementation
+// summary: Implements creation and lifetime management of tray bubble widgets, including transient child cleanup, bubble animations, app list dismissal, and event filtering.
+// ---
+
 #include "ash/system/tray/tray_bubble_wrapper.h"
 #include <memory>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Return to app panel implementation
+// summary: Implements the return-to-app panel of the video conference bubble, including app buttons, expand/collapse behavior, fade and bounds-change animations, and animation smoothness metrics.
+// ---
+
 #include "ash/system/video_conference/bubble/return_to_app_panel.h"
 
 #include <memory>

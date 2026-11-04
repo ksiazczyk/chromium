@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login info test struct
+// summary: Defines a LoginInfo struct describing test user login details such as email, user type, and session activation, plus a default regular user.
+// ---
+
 #ifndef ASH_TEST_LOGIN_INFO_H_
 #define ASH_TEST_LOGIN_INFO_H_
 

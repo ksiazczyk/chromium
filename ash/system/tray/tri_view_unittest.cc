@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TriView unit tests
+// summary: Unit tests for TriView covering padding between containers, vertical orientation, minimum sizes, flex weights, and container layout behavior.
+// ---
+
 #include <memory>
 #include <utility>
 

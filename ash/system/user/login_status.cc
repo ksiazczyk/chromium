@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login status sign-out string helper implementation
+// summary: Implements GetLocalizedSignOutStringForStatus, which picks a localized sign-out or exit-guest message for the given login status and handles line breaking for multiline display.
+// ---
+
 #include "ash/system/user/login_status.h"
 
 #include "ash/session/session_controller_impl.h"

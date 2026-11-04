@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomShapeButton class declaration
+// summary: Declares an abstract image button base class whose subclasses supply a custom SkPath shape for Material Design buttons.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_CUSTOM_SHAPE_BUTTON_H_
 #define ASH_SYSTEM_UNIFIED_CUSTOM_SHAPE_BUTTON_H_
 

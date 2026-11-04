@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings metrics utility header
+// summary: Declares functions for recording quick settings interaction metrics such as feature toggles, dive-ins, visibility, and slider value changes and toggles.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_QUICK_SETTINGS_METRICS_UTIL_H_
 #define ASH_SYSTEM_UNIFIED_QUICK_SETTINGS_METRICS_UTIL_H_
 

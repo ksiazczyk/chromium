@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference bubble title view header
+// summary: Declares TitleView, MicTestButtonContainer and MicTestButton for the title area of the video conference bubble.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_TITLE_VIEW_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_TITLE_VIEW_H_
 

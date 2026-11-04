@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB peripheral notification controller header
+// summary: Declares the UsbPeripheralNotificationController class, a PeripheralNotificationManager observer that shows cable warning notifications via the message center.
+// ---
+
 #ifndef ASH_SYSTEM_USB_PERIPHERAL_USB_PERIPHERAL_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_USB_PERIPHERAL_USB_PERIPHERAL_NOTIFICATION_CONTROLLER_H_
 

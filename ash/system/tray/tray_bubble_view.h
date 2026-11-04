@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayBubbleView class declaration
+// summary: Declares the specialized bubble view for tray icons, covering bubble types, anchoring modes, init params, and its delegate for mouse and accessibility handling.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRAY_BUBBLE_VIEW_H_
 #define ASH_SYSTEM_TRAY_TRAY_BUBBLE_VIEW_H_
 

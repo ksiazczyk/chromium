@@ -1,3 +1,9 @@
+---
+type: readme
+title: Ash Pixel Unit Testing
+summary: Guide to writing and running Ash pixel diff unit tests, covering benchmark creation and updates, screenshot capture APIs, flakiness best practices, and FAQs.
+---
+
 # Ash Pixel Unit Testing
 
 ## 1. Overview

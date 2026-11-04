@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification counter view unit tests
+// summary: Unit tests covering the notification counter and quiet mode tray icons, including count limits, pinned notifications and visibility behavior.
+// ---
+
 #include "ash/system/unified/notification_counter_view.h"
 
 #include "ash/shelf/shelf.h"

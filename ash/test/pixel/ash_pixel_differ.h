@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshPixelDiffer class header
+// summary: Declares the AshPixelDiffer helper that compares screenshots of UI components with Skia Gold benchmark images, including usage examples for the compare APIs.
+// ---
+
 #ifndef ASH_TEST_PIXEL_ASH_PIXEL_DIFFER_H_
 #define ASH_TEST_PIXEL_ASH_PIXEL_DIFFER_H_
 

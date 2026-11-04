@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToplevelWindow test widget declaration
+// summary: Declares a toplevel test window widget for the Ash shell with creation parameters for resizing, maximizing, fullscreen and saved placement.
+// ---
+
 #ifndef ASH_TEST_TOPLEVEL_WINDOW_H_
 #define ASH_TEST_TOPLEVEL_WINDOW_H_
 

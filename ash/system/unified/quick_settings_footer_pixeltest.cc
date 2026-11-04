@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel tests for the quick settings footer
+// summary: Pixel tests verifying footer rendering with and without the exit button, including a regression test for the missing settings button.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/system/unified/quick_settings_footer.h"
 #include "ash/system/unified/unified_system_tray.h"

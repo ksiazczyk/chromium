@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User chooser detailed view controller class declaration
+// summary: Declares UserChooserDetailedViewController, which manages the multi-user sign-in chooser view within the unified system tray.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_USER_CHOOSER_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_UNIFIED_USER_CHOOSER_DETAILED_VIEW_CONTROLLER_H_
 

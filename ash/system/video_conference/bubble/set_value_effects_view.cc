@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set value effects view implementation
+// summary: Implements the set-value effects view of the video conference bubble, with sliders and animated buttons that let users pick values for hosted effects such as Create with AI.
+// ---
+
 #include "ash/system/video_conference/bubble/set_value_effects_view.h"
 
 #include "ash/bubble/bubble_utils.h"

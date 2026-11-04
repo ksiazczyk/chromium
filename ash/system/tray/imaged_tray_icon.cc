@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Imaged tray icon implementation
+// summary: Implements an image-based tray icon with tooltip and accessibility name, plus a session observer that updates icon visibility on session state changes.
+// ---
+
 #include "ash/system/tray/imaged_tray_icon.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayInfoLabel implementation
+// summary: Implements TrayInfoLabel, a label-only row view used in system menu detailed views to display informational messages such as scanning status.
+// ---
+
 #include "ash/system/tray/tray_info_label.h"
 
 #include "ash/style/ash_color_id.h"

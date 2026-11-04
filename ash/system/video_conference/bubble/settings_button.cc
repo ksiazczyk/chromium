@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference settings button implementation
+// summary: Implements the settings button for the video conference bubble, opening a menu with toggles for audio, privacy, portrait relighting, and face retouch preferences.
+// ---
+
 #include "ash/system/video_conference/bubble/settings_button.h"
 
 #include "ash/public/cpp/system_tray_client.h"

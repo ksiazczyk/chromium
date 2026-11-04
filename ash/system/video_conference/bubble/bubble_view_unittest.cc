@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BubbleView unit tests
+// summary: Unit tests for the video conference bubble view using fake toggle and set-value effects to verify its behavior.
+// ---
+
 #include "ash/system/video_conference/bubble/bubble_view.h"
 
 #include <string_view>

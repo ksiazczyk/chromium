@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set camera background view declaration
+// summary: Declares SetCameraBackgroundView, the view responsible for setting the camera background image from system UI, including recently used images and Create with AI controls.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_SET_CAMERA_BACKGROUND_VIEW_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_SET_CAMERA_BACKGROUND_VIEW_H_
 

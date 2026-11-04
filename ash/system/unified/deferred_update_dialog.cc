@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeferredUpdateDialog implementation
+// summary: Implements a modal dialog that lets users apply or defer an OS update before sign-out or shutdown.
+// ---
+
 #include "ash/system/unified/deferred_update_dialog.h"
 
 #include "ash/strings/grit/ash_strings.h"

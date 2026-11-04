@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayDetailedView class declaration
+// summary: Declares the base class for tray detailed views, providing helpers to build title rows, scrollable lists, checkable items, zero state views, and footer buttons.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRAY_DETAILED_VIEW_H_
 #define ASH_SYSTEM_TRAY_TRAY_DETAILED_VIEW_H_
 

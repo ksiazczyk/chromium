@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrayEventFilter unit tests
+// summary: Unit tests verifying tray bubble closing behavior for outside clicks, gestures, window activation, and notification interactions using a test tray background view.
+// ---
+
 #include "ash/system/tray/tray_event_filter.h"
 
 #include "ash/accessibility/accessibility_controller.h"

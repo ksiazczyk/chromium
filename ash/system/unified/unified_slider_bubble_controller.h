@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified slider bubble controller header
+// summary: Declares UnifiedSliderBubbleController, which shows and auto-closes slider bubbles for volume, brightness, keyboard backlight, and microphone mute.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_UNIFIED_SLIDER_BUBBLE_CONTROLLER_H_
 #define ASH_SYSTEM_UNIFIED_UNIFIED_SLIDER_BUBBLE_CONTROLLER_H_
 

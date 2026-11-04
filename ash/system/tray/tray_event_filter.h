@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayEventFilter class declaration
+// summary: Declares TrayEventFilter, a BubbleEventFilter and activation change observer that closes system tray bubbles when the user clicks outside or activates another window.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRAY_EVENT_FILTER_H_
 #define ASH_SYSTEM_TRAY_TRAY_EVENT_FILTER_H_
 

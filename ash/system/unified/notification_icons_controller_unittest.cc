@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification icons controller unit tests
+// summary: Unit tests for NotificationIconsController covering icon visibility, quiet mode, screen size thresholds and shelf auto-hide behavior.
+// ---
+
 #include "ash/system/unified/notification_icons_controller.h"
 
 #include "ash/constants/ash_constants.h"

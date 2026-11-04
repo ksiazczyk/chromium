@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover highlight view implementation
+// summary: Implements a clickable tray row view that highlights on hover and supports icon and label rows, right-side views, sub labels, and accessibility states.
+// ---
+
 #include "ash/system/tray/hover_highlight_view.h"
 
 #include <string>

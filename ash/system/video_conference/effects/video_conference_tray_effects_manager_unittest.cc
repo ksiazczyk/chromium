@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video conference tray effects manager unit tests
+// summary: Unit tests for VideoConferenceTrayEffectsManager that register a fake effect delegate and verify effect handling such as the toggle effect button table.
+// ---
+
 #include "ash/system/video_conference/effects/video_conference_tray_effects_manager.h"
 
 #include <memory>

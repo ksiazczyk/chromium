@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewDrawnWaiter declaration
+// summary: Declares a reusable helper that waits for a view to be drawn with non-zero size, useful for synchronizing Ash tests on layout completion.
+// ---
+
 #ifndef ASH_TEST_VIEW_DRAWN_WAITER_H_
 #define ASH_TEST_VIEW_DRAWN_WAITER_H_
 

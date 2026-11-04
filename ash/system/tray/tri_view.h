@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TriView class declaration
+// summary: Declares TriView, a view with three child containers arranged horizontally or vertically, each with configurable size ranges, flex weights, and layout managers.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRI_VIEW_H_
 #define ASH_SYSTEM_TRAY_TRI_VIEW_H_
 

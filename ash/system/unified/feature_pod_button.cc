@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature pod icon button implementation
+// summary: Implements FeaturePodIconButton, a large togglable icon button used by feature pods, marking it as a leaf for accessibility.
+// ---
+
 #include "ash/system/unified/feature_pod_button.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayContainer implementation
+// summary: Implements layout calculation, border, margins, and custom highlight border painting for the tray container that holds status area items.
+// ---
+
 #include "ash/system/tray/tray_container.h"
 
 #include <utility>

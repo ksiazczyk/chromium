@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference bubble settings button header
+// summary: Declares the SettingsButton class that opens the video conference settings menu when clicked.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_SETTINGS_BUTTON_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_SETTINGS_BUTTON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification counter tray views implementation
+// summary: Implements the notification count icon, do-not-disturb icon and separator views shown in the unified system tray button.
+// ---
+
 #include "ash/system/unified/notification_counter_view.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified system tray model class declaration
+// summary: Declares UnifiedSystemTrayModel, a ref-counted store for tray UI state such as brightness, lid state, notification targets, and pagination.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_UNIFIED_SYSTEM_TRAY_MODEL_H_
 #define ASH_SYSTEM_UNIFIED_UNIFIED_SYSTEM_TRAY_MODEL_H_
 

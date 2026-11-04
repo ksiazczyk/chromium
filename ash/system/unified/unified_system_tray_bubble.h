@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified system tray bubble class declaration
+// summary: Declares UnifiedSystemTrayBubble, which manages the Quick Settings bubble lifecycle and exposes detailed views for audio, display, network, and calendar.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_UNIFIED_SYSTEM_TRAY_BUBBLE_H_
 #define ASH_SYSTEM_UNIFIED_UNIFIED_SYSTEM_TRAY_BUBBLE_H_
 

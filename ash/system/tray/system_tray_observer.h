@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemTrayObserver interface
+// summary: Declares the observer interface for system tray focus changes, bubble visibility, and tray bubble bounds events.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_SYSTEM_TRAY_OBSERVER_H_
 #define ASH_SYSTEM_TRAY_SYSTEM_TRAY_OBSERVER_H_
 

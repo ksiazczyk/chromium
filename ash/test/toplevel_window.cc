@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToplevelWindow test widget implementation
+// summary: Implements a toplevel test window for the Ash shell that saves and restores window placement and supports resize, maximize and fullscreen settings.
+// ---
+
 #include "ash/test/toplevel_window.h"
 
 #include "ash/shell.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI test base implementation
+// summary: Implements a test base that initializes Mojo, GL surfaces, resource packs, and the Aura environment before delegating to AshTestBase setup.
+// ---
+
 #include "ash/test/ash_interactive_ui_test_base.h"
 
 #include "base/lazy_instance.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Return to app button base class declaration
+// summary: Declares ReturnToAppButtonBase, the views::Button base class for return-to-app buttons in the video conference bubble, exposing capture states, label, and icons for a running media app.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_RETURN_TO_APP_BUTTON_BASE_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_RETURN_TO_APP_BUTTON_BASE_H_
 

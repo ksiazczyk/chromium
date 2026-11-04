@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set camera background view implementation
+// summary: Implements the camera background view of the video conference bubble, showing recently used background images and a Create with AI button with click metrics and image processing helpers.
+// ---
+
 #include "ash/system/video_conference/bubble/set_camera_background_view.h"
 
 #include <array>

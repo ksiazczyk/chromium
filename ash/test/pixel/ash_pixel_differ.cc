@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshPixelDiffer implementation
+// summary: Implements AshPixelDiffer screenshot comparison against Skia Gold benchmarks, converting screen coordinate rects to pixel coordinates for root windows.
+// ---
+
 #include "ash/test/pixel/ash_pixel_differ.h"
 
 #include <string>

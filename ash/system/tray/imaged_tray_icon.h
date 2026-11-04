@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Imaged tray icon class declaration
+// summary: Declares ImagedTrayIcon, a TrayBackgroundView showing an image with session-driven visibility, tooltip, accessibility name, and locale change handling.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_IMAGED_TRAY_ICON_H_
 #define ASH_SYSTEM_TRAY_IMAGED_TRAY_ICON_H_
 

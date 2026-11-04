@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System tray test API implementation
+// summary: Implements the SystemTrayTestApi helper that opens and closes the unified system tray bubble and inspects its detailed views, toggles, and scroll positions.
+// ---
+
 #include "ash/public/cpp/system_tray_test_api.h"
 
 #include <string>

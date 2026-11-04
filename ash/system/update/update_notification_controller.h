@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update notification controller class declaration
+// summary: Declares the UpdateNotificationController, an UpdateObserver that manages the update notification and the shutdown confirmation dialog shown for slow boots.
+// ---
+
 #ifndef ASH_SYSTEM_UPDATE_UPDATE_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_UPDATE_UPDATE_NOTIFICATION_CONTROLLER_H_
 

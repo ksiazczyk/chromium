@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB peripheral notification controller unit tests
+// summary: Ash unit tests verifying that each cable warning triggers the correct notification with a button and that repeated warnings do not duplicate notifications.
+// ---
+
 #include "ash/system/usb_peripheral/usb_peripheral_notification_controller.h"
 
 #include "ash/constants/ash_features.h"

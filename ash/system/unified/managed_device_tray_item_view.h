@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed device tray icon view header
+// summary: Declares ManagedDeviceTrayItemView, a tray item that observes session and enterprise info to show a managed or supervised device icon.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_MANAGED_DEVICE_TRAY_ITEM_VIEW_H_
 #define ASH_SYSTEM_UNIFIED_MANAGED_DEVICE_TRAY_ITEM_VIEW_H_
 

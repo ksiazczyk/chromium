@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWindowBuilder for creating Ash test windows
+// summary: Declares a builder that constructs aura test windows in Ash, supporting client-controlled state-backed windows and a helper for child window builders.
+// ---
+
 #ifndef ASH_TEST_TEST_WINDOW_BUILDER_H_
 #define ASH_TEST_TEST_WINDOW_BUILDER_H_
 

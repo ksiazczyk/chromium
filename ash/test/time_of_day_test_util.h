@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimeOfDay test helper declaration
+// summary: Declares ToTimeToday, which converts a TimeOfDay to today's time and asserts via gtest on failure, a behavior intended only for tests.
+// ---
+
 #ifndef ASH_TEST_TIME_OF_DAY_TEST_UTIL_H_
 #define ASH_TEST_TIME_OF_DAY_TEST_UTIL_H_
 

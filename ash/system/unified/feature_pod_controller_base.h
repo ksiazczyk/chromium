@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature pod controller base class
+// summary: Declares the base class for feature pod controllers, covering tile creation, catalog naming, press handling, and UMA tracking.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_FEATURE_POD_CONTROLLER_BASE_H_
 #define ASH_SYSTEM_UNIFIED_FEATURE_POD_CONTROLLER_BASE_H_
 

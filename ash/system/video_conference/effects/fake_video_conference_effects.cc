@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake video conference effects implementation
+// summary: Implements fake video conference effect delegates such as SimpleToggleEffect and sample toggle effects like Cat Ears, used in unit tests and the emulator.
+// ---
+
 #include "ash/system/video_conference/effects/fake_video_conference_effects.h"
 
 #include <string>

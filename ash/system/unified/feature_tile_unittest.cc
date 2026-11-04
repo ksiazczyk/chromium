@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature tile unit tests
+// summary: Unit tests for FeatureTile behavior using a mock feature pod controller, covering icon and label presses, toggling, and accessibility.
+// ---
+
 #include "ash/system/unified/feature_tile.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

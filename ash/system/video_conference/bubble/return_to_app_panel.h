@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Return to app panel and button declarations
+// summary: Declares ReturnToAppButton and ReturnToAppPanel, the views listing media apps that capture audio, video, or screen so users can select an app and bring it to the foreground.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_RETURN_TO_APP_PANEL_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_RETURN_TO_APP_PANEL_H_
 

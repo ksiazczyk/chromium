@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceableTrayBubbleView implementation
+// summary: Implements the glanceable tray bubble view hosting calendar, tasks and classroom glanceables, including the time management container layout and profile prefs.
+// ---
+
 #include "ash/system/unified/glanceable_tray_bubble_view.h"
 
 #include <algorithm>

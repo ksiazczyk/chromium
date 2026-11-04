@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VC tile UI controller header
+// summary: Declares VcTileUiController, which manages the UI of toggle tiles in the video conference controls bubble.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_VC_TILE_UI_CONTROLLER_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_BUBBLE_VC_TILE_UI_CONTROLLER_H_
 

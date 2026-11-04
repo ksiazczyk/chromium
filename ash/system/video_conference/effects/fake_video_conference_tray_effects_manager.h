@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake video conference tray effects manager declarations
+// summary: Declares a fake VideoConferenceTrayEffectsManager for testing that allows several tile UI controllers per effect id and overridable DLC id mappings.
+// ---
+
 #ifndef ASH_SYSTEM_VIDEO_CONFERENCE_EFFECTS_FAKE_VIDEO_CONFERENCE_TRAY_EFFECTS_MANAGER_H_
 #define ASH_SYSTEM_VIDEO_CONFERENCE_EFFECTS_FAKE_VIDEO_CONFERENCE_TRAY_EFFECTS_MANAGER_H_
 

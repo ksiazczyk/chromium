@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrayItemView unit tests
+// summary: Unit tests covering TrayItemView visibility animations, show and hide smoothness histograms, and accessible name behavior, with a helper to wait for animations.
+// ---
+
 #include "ash/system/tray/tray_item_view.h"
 
 #include "ash/system/tray/tray_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Return to app panel unit tests
+// summary: Unit tests for the return-to-app panel, verifying button capture states, displayed URLs, expand/collapse behavior, and animation metrics using fake video conference tray controllers.
+// ---
+
 #include "ash/system/video_conference/bubble/return_to_app_panel.h"
 
 #include <memory>

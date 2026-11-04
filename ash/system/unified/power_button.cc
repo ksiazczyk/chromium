@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button view implementation for quick settings footer
+// summary: Implements the PowerButton view in the quick settings footer, including its context menu with sign out, restart, power off, lock and email options.
+// ---
+
 #include "ash/system/unified/power_button.h"
 
 #include <utility>

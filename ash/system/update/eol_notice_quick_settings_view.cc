@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EOL notice quick settings view implementation
+// summary: Implements the quick settings label button shown when a ChromeOS device reaches end of life, which opens the end-of-life info page when clicked.
+// ---
+
 #include "ash/system/update/eol_notice_quick_settings_view.h"
 
 #include "ash/public/cpp/ash_view_ids.h"

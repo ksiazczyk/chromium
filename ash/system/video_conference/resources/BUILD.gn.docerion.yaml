@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for video conference tray resources
+summary: GN build file defining the grit target that compiles vc_resources.grd into a C++ header and a pak data package, ChromeOS only.

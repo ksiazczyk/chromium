@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayToggleButton class declaration
+// summary: Declares TrayToggleButton, a views::ToggleButton subclass configured for the system tray menu layout with optional accessible names and legacy status area padding.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRAY_TOGGLE_BUTTON_H_
 #define ASH_SYSTEM_TRAY_TRAY_TOGGLE_BUTTON_H_
 

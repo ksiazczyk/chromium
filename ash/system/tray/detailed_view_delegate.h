@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Detailed view delegate class declaration
+// summary: Declares DetailedViewDelegate, which handles bubble actions such as returning to the main view, closing the bubble, and creating title row buttons.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_DETAILED_VIEW_DELEGATE_H_
 #define ASH_SYSTEM_TRAY_DETAILED_VIEW_DELEGATE_H_
 

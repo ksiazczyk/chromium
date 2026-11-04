@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMenuButton class declaration
+// summary: Declares a 48x48 image button with a material design ripple effect for use across Ash material design native UI menus.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_SYSTEM_MENU_BUTTON_H_
 #define ASH_SYSTEM_TRAY_SYSTEM_MENU_BUTTON_H_
 

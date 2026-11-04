@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayEventFilter implementation
+// summary: Implements event filtering for tray bubbles, closing the bubble on outside clicks, scroll gestures, and window activation while skipping transient children and popup notifications.
+// ---
+
 #include "ash/system/tray/tray_event_filter.h"
 
 #include "ash/bubble/bubble_event_filter.h"

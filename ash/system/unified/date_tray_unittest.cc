@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DateTray unit tests
+// summary: Unit tests covering date tray behavior including glanceables bubbles, classroom and tasks views, and accessibility.
+// ---
+
 #include "ash/system/unified/date_tray.h"
 
 #include <memory>

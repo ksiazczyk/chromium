@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings notice view base class declaration
+// summary: Declares the base label button view for update notices in quick settings, with shared styling and a narrow layout that uses a shorter label.
+// ---
+
 #ifndef ASH_SYSTEM_UPDATE_QUICK_SETTINGS_NOTICE_VIEW_H_
 #define ASH_SYSTEM_UPDATE_QUICK_SETTINGS_NOTICE_VIEW_H_
 

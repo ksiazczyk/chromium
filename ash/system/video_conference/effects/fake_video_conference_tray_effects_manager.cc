@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake video conference tray effects manager implementation
+// summary: Implements a fake effects manager for testing that maps effect ids to multiple tile UI controllers and supports custom DLC id lists per effect.
+// ---
+
 #include "ash/system/video_conference/effects/fake_video_conference_tray_effects_manager.h"
 
 #include <vector>

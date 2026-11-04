@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo Ash Pixel Diff Test
+// summary: Demonstration test showing how to write ash pixel diff tests that create solid-color widgets on displays and compare their screenshots against benchmark images.
+// ---
+
 #include <memory>
 
 #include "ash/shell.h"

@@ -1,3 +1,13 @@
+---
+type: guide
+title: 'Ash Pixel Unit Testing: Test Failure Triage'
+summary: Guide for triaging ash_pixeltests failures, covering how to find failed tests, locate the generating test code line, and bump benchmark revision numbers after expected UI changes.
+relations:
+  - references /ash/test/pixel/markdown_resources/triage_intro/failure_digest.png
+  - references /ash/test/pixel/markdown_resources/triage_intro/gold_ui.png
+  - references /ash/test/pixel/OWNERS
+---
+
 # Ash Pixel Unit Testing: Test Failure Triage
 
 TL;DR: If you made a UI change that you expect to change ash_pixeltests, you

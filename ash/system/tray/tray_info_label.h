@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayInfoLabel class declaration
+// summary: Declares TrayInfoLabel, a view holding a single label for informational rows in system menu detailed views, with an Update method keyed by message ID.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TRAY_INFO_LABEL_H_
 #define ASH_SYSTEM_TRAY_TRAY_INFO_LABEL_H_
 

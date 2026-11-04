@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash pixel diff utility header
+// summary: Declares helpers for screenshot prefixes and a variadic function that collects the screen bounds of views, widgets, and windows for pixel diff tests.
+// ---
+
 #ifndef ASH_TEST_PIXEL_ASH_PIXEL_DIFF_UTIL_H_
 #define ASH_TEST_PIXEL_ASH_PIXEL_DIFF_UTIL_H_
 

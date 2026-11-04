@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash UI controls for synthetic input events
+// summary: Implements UIControlsAsh, which routes synthetic key and mouse events to the appropriate Ash root window for test automation.
+// ---
+
 #include "ash/shell.h"
 #include "ash/wm/window_properties.h"
 #include "ash/wm/window_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the quick settings power button
+// summary: Unit tests for PowerButton covering menu contents, button visibility, corner radii and chevron icon behavior across session states.
+// ---
+
 #include "ash/system/unified/power_button.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

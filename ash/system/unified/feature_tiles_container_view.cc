@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureTilesContainerView implementation
+// summary: Implements the Quick Settings feature tiles container, arranging feature tiles into rows and paginated pages with layout, pagination and focus handling.
+// ---
+
 #include "ash/system/unified/feature_tiles_container_view.h"
 
 #include "ash/public/cpp/pagination/pagination_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrayDetailedView unit tests
+// summary: Tests that the zero state view is created in place of the scroller and that its visibility toggles correctly with the scrollable list.
+// ---
+
 #include "ash/system/tray/tray_detailed_view.h"
 
 #include <memory>

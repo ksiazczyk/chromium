@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshTestHelper header
+// summary: Declares AshTestHelper and its InitParams for setting up Ash test environments, including session, audio, Quick Pair, and prefs service configuration options.
+// ---
+
 #ifndef ASH_TEST_ASH_TEST_HELPER_H_
 #define ASH_TEST_ASH_TEST_HELPER_H_
 

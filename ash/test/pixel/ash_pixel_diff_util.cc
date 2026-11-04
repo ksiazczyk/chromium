@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash pixel diff utility implementation
+// summary: Implements helpers that build the screenshot name for the current test and get the screen bounds of views, widgets, and windows for pixel diff tests.
+// ---
+
 #include "ash/test/pixel/ash_pixel_diff_util.h"
 
 #include <string>

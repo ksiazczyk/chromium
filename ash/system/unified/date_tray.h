@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateTray class declaration
+// summary: Declares the date tray view with bubble handling, accessibility callbacks, and glanceable bubble show and hide methods.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_DATE_TRAY_H_
 #define ASH_SYSTEM_UNIFIED_DATE_TRAY_H_
 

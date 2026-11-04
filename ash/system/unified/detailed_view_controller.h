@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Detailed view controller base class
+// summary: Declares the base interface for controllers that create detailed views in the unified system tray, including accessible naming and shutdown.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_UNIFIED_DETAILED_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video conference tray effects delegate unit tests
+// summary: Unit tests for VcEffectsDelegate covering adding, replacing, and removing hosted effects.
+// ---
+
 #include "ash/system/video_conference/effects/video_conference_tray_effects_delegate.h"
 
 #include <memory>

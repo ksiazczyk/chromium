@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceableTrayBubble implementation
+// summary: Implements the bubble manager that shows and closes the glanceable tray bubble from the date tray, exposing calendar, tasks and classroom child views.
+// ---
+
 #include "ash/system/unified/glanceable_tray_bubble.h"
 
 #include "ash/shelf/shelf.h"

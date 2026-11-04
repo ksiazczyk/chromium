@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified system tray unit tests
+// summary: Unit tests covering UnifiedSystemTray behavior, including bubble opening, accessible names, tray button sizes, and notification interactions.
+// ---
+
 #include "ash/system/unified/unified_system_tray.h"
 
 #include "ash/accessibility/accessibility_controller.h"

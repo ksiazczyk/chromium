@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference bubble title view implementation
+// summary: Implements the title view of the video conference bubble with icon, title label, mic test button and settings button.
+// ---
+
 #include "ash/system/video_conference/bubble/title_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test AshWebView implementation
+// summary: Implements a fake AshWebView for unittests that simulates navigation, focus, and observer notifications without real web contents.
+// ---
+
 #include "ash/test/test_ash_web_view.h"
 
 #include "base/functional/bind.h"

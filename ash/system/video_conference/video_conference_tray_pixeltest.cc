@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video conference tray pixel tests
+// summary: Pixel tests verifying the rendered appearance of the video conference tray and its buttons with and without focus and system blur.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_switches.h"
 #include "ash/focus/focus_cycler.h"

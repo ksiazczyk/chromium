@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureTilesContainerView class declaration
+// summary: Declares the container view that lays out feature tiles in a grid with pagination for the ChromeOS Quick Settings panel, including row and page management APIs.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_FEATURE_TILES_CONTAINER_VIEW_H_
 #define ASH_SYSTEM_UNIFIED_FEATURE_TILES_CONTAINER_VIEW_H_
 

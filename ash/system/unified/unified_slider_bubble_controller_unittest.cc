@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unified slider bubble controller unit tests
+// summary: Unit tests verifying bubble and slider view lifetime when showing and closing each slider bubble type of UnifiedSliderBubbleController.
+// ---
+
 #include "ash/system/unified/unified_slider_bubble_controller.h"
 
 #include <vector>

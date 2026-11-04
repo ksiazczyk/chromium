@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VC tile UI controller unit tests
+// summary: Unit tests for VcTileUiController covering tile creation, DLC download states, toggling and haptic feedback.
+// ---
+
 #include "ash/system/video_conference/bubble/vc_tile_ui_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash test base declaration
+// summary: Declares AshTestBase, the base testing class for ash that builds the shell and its dependencies and offers display and tray accessors.
+// ---
+
 #ifndef ASH_TEST_ASH_TEST_BASE_H_
 #define ASH_TEST_ASH_TEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference tray effects delegate implementation
+// summary: Implements VcEffectsDelegate, which hosts video conference effects, filters them by resource dependencies such as camera and microphone permission, and records initial state metrics.
+// ---
+
 #include "ash/system/video_conference/effects/video_conference_tray_effects_delegate.h"
 
 #include "ash/shell.h"

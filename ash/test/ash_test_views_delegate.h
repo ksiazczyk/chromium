@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshTestViewsDelegate header
+// summary: Declares AshTestViewsDelegate, the Ash-specific ViewsDelegate for tests that is created by default by AshTestHelper and handles menu accelerator processing.
+// ---
+
 #ifndef ASH_TEST_ASH_TEST_VIEWS_DELEGATE_H_
 #define ASH_TEST_ASH_TEST_VIEWS_DELEGATE_H_
 

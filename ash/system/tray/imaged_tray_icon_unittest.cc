@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Imaged tray icon unit tests
+// summary: Unit tests covering ImagedTrayIcon initial state, tooltip and accessibility updates, session-based visibility, and locale change behavior.
+// ---
+
 #include "ash/system/tray/imaged_tray_icon.h"
 
 #include <string>

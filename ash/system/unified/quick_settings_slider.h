@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings slider class declarations
+// summary: Declares the QuickSettingsSlider view with default, muted, and radio styles plus a ReadOnlySlider used for keyboard brightness views in quick settings.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_QUICK_SETTINGS_SLIDER_H_
 #define ASH_SYSTEM_UNIFIED_QUICK_SETTINGS_SLIDER_H_
 

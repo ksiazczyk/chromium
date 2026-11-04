@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification icons controller header
+// summary: Declares NotificationIconTrayItemView and NotificationIconsController, which manage notification icons displayed in the unified system tray.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_NOTIFICATION_ICONS_CONTROLLER_H_
 #define ASH_SYSTEM_UNIFIED_NOTIFICATION_ICONS_CONTROLLER_H_
 

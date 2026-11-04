@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for usb_peripheral
+summary: Lists jimmyxgong@chromium.org as the code owner for the ash USB peripheral notification directory.

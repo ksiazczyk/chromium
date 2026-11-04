@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayToggleButton implementation
+// summary: Implements TrayToggleButton, a toggle switch styled for the system tray menu that plays haptic feedback on click and applies tray colors, focus ring, and accessibility names.
+// ---
+
 #include "ash/system/tray/tray_toggle_button.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EOL notice quick settings view class declaration
+// summary: Declares the quick settings label button shown when a device reaches end of life, which opens a page with more end-of-life information when clicked.
+// ---
+
 #ifndef ASH_SYSTEM_UPDATE_EOL_NOTICE_QUICK_SETTINGS_VIEW_H_
 #define ASH_SYSTEM_UPDATE_EOL_NOTICE_QUICK_SETTINGS_VIEW_H_
 

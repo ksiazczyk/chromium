@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deferred update dialog header
+// summary: Declares the Ash dialog that lets users apply or ignore a deferred system update, with shutdown or sign-out follow-up actions.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_DEFERRED_UPDATE_DIALOG_H_
 #define ASH_SYSTEM_UNIFIED_DEFERRED_UPDATE_DIALOG_H_
 

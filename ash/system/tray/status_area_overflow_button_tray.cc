@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusAreaOverflowButtonTray implementation
+// summary: Implements the tablet-mode tray button that expands or collapses overflown status area buttons using an animated rotating arrow icon.
+// ---
+
 #include "ash/system/tray/status_area_overflow_button_tray.h"
 
 #include <memory>

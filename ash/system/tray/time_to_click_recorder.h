@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeToClickRecorder class declaration
+// summary: Declares the event handler class that records TimeToClick metrics through a delegate for clicks and taps on a target view.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_TIME_TO_CLICK_RECORDER_H_
 #define ASH_SYSTEM_TRAY_TIME_TO_CLICK_RECORDER_H_
 

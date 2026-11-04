@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EOL notice quick settings view pixel test
+// summary: Pixel test that renders the end-of-life notice quick settings view and compares it against a reference screenshot.
+// ---
+
 #include <memory>
 
 #include "ash/system/update/eol_notice_quick_settings_view.h"

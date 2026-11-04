@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tray directory DEPS include rules
+summary: Declares that the ash system tray directory has no specific include rules for dependencies.

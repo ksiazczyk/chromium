@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature tile implementation
+// summary: Implements the primary and compact Quick Settings feature tile buttons, including ink drop effects, layout, and download progress painting.
+// ---
+
 #include "ash/system/unified/feature_tile.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash test utility functions header
+// summary: Declares Ash test utility functions for screenshots, solid color images, window decoration, multitask menu display, key sending, and system tray visibility checks.
+// ---
+
 #ifndef ASH_TEST_ASH_TEST_UTIL_H_
 #define ASH_TEST_ASH_TEST_UTIL_H_
 

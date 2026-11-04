@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover highlight view class declaration
+// summary: Declares HoverHighlightView, a tray row button that notifies a ViewClickListener on click and can hold icons, labels, and right views.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_HOVER_HIGHLIGHT_VIEW_H_
 #define ASH_SYSTEM_TRAY_HOVER_HIGHLIGHT_VIEW_H_
 

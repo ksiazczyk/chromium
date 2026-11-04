@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User chooser view class declarations
+// summary: Declares the UserChooserView detailed view, UserItemButton, and helper functions for user avatars and accessibility strings in the unified system tray.
+// ---
+
 #ifndef ASH_SYSTEM_UNIFIED_USER_CHOOSER_VIEW_H_
 #define ASH_SYSTEM_UNIFIED_USER_CHOOSER_VIEW_H_
 

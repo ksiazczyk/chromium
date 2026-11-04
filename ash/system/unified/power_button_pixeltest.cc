@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel tests for the quick settings power button
+// summary: Pixel tests comparing the rendered power button and its context menu across no session, login, lock screen and guest mode states.
+// ---
+
 #include "ash/system/unified/power_button.h"
 #include "ash/system/unified/quick_settings_footer.h"
 #include "ash/system/unified/unified_system_tray.h"

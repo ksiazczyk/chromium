@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SizeRangeLayout class declaration
+// summary: Declares a layout manager adapter that delegates layout while enforcing minimum and maximum preferred sizes on a host view.
+// ---
+
 #ifndef ASH_SYSTEM_TRAY_SIZE_RANGE_LAYOUT_H_
 #define ASH_SYSTEM_TRAY_SIZE_RANGE_LAYOUT_H_
 
