@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Auto PiP permission dialog background shape
+summary: Shape drawable providing a solid background with 16dp rounded corners for the auto picture-in-picture permission dialog.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="@macro/default_bg_color" />
     <corners android:radius="@dimen/popup_bg_corner_radius_16dp" />

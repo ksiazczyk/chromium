@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Settings search no-match illustration
+summary: Vector drawable illustration with a decorative flower shape and corner brackets, shown when settings search finds no matches.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="100dp"
     android:height="100dp"

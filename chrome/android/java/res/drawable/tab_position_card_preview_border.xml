@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tab position card preview border
+summary: State-list border that draws a primary-colored stroke around the selected tab position preview card and a divider-colored stroke otherwise.
+-->
+
 <!-- Border drawn over a tab position preview illustration. The frame duplicates its parent's
      state, so the selected border follows the selected option card. -->
 <selector xmlns:android="http://schemas.android.com/apk/res/android">

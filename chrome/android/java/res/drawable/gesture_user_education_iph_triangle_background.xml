@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Gesture IPH triangle background drawable
+summary: Auto-mirrored vector triangle that points from the gesture in-product help bubble to its anchor.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="@dimen/iph_bubble_triangle_width"
     android:height="@dimen/iph_bubble_triangle_height"

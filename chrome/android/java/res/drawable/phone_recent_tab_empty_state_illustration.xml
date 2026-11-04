@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Phone recent tab empty state illustration
+summary: Auto-mirrored vector drawable illustration of stacked tab cards with a clock, used as the empty state graphic for the phone recent tabs view.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:autoMirrored="true"
     android:width="130dp"

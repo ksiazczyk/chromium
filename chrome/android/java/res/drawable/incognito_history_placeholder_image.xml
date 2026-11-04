@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Incognito history placeholder illustration
+summary: Vector drawable illustration used as the placeholder image for the incognito history empty state.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="164dp"
     android:height="88dp"

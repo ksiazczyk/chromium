@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Horizontal tab position preview illustration
+summary: Vector illustration showing a browser window with a horizontal tab strip, toolbar buttons, omnibox, and web contents area.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="180dp"
     android:height="102dp"

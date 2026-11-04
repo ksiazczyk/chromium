@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Recent tabs icon (20dp vector drawable)
+summary: Vector drawable for a 20dp stacked-tabs icon representing recent tabs in Chrome for Android.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="20dp"
     android:height="20dp"

@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: asset
+title: Tab close 24dp vector icon
+summary: Defines a 24dp vector icon of a tab with a close cross, tinted with the default icon color.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
   android:width="24dp"
   android:height="24dp"

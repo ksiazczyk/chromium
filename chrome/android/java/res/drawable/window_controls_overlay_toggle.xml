@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Window controls overlay toggle level-list drawable
+summary: Level-list drawable that switches between the unfold less and unfold more icons based on the window controls overlay toggle level.
+-->
+
 <level-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:maxLevel="@integer/window_controls_overlay_toggle_level_enable"

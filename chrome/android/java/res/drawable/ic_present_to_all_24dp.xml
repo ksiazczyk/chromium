@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Present to all icon (24dp vector drawable)
+summary: Vector drawable for a 24dp present-to-all screen icon with an upward arrow, used in Chrome for Android.
+-->
+
 <vector
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
