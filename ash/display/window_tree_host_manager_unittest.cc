@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowTreeHostManager unit tests
+// summary: Unit tests for the Ash WindowTreeHostManager, covering display layout changes, focus and activation observers, cursor behavior, and rounded display provider integration.
+// relations:
+//   - tests /ash/display/window_tree_host_manager.h
+//   - depends_on /ash/display/display_util.h
+//   - depends_on /ash/public/cpp/shelf_config.h
+// ---
+
 #include "ash/display/window_tree_host_manager.h"
 
 #include <memory>

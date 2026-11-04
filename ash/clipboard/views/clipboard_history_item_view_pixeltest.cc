@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard history item view pixel test
+// summary: Pixel test that writes an image to the clipboard and verifies the bitmap item view rendering, including the state with the delete button focused.
+// relations:
+//   - depends_on /ash/clipboard/clipboard_history_controller_impl.h
+//   - depends_on /ash/clipboard/clipboard_history_util.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include <optional>
 
 #include "ash/clipboard/clipboard_history_controller_impl.h"

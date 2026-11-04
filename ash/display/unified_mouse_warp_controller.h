@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnifiedMouseWarpController class declaration
+// summary: Declares the MouseWarpController used in unified display mode, which warps the cursor across edges between displays and tracks per-display boundary edges.
+// relations:
+//   - depends_on /ash/display/mouse_warp_controller.h
+//   - depends_on /ui/gfx/geometry/rect.h
+//   - implemented_by /ash/display/unified_mouse_warp_controller.cc
+// ---
+
 #ifndef ASH_DISPLAY_UNIFIED_MOUSE_WARP_CONTROLLER_H_
 #define ASH_DISPLAY_UNIFIED_MOUSE_WARP_CONTROLLER_H_
 

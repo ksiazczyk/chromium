@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history menu model adapter declaration
+// summary: Declares ClipboardHistoryMenuModelAdapter, which shows the clipboard history menu holding the last few copied items.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/clipboard_history_controller.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_CLIPBOARD_CLIPBOARD_HISTORY_MENU_MODEL_ADAPTER_H_
 #define ASH_CLIPBOARD_CLIPBOARD_HISTORY_MENU_MODEL_ADAPTER_H_
 

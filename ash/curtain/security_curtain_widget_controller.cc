@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security curtain widget controller implementation
+// summary: Creates and manages the frameless curtain overlay widget, keeping it maximized on display resizes using solid color and textured layers.
+// relations:
+//   - implements /ash/curtain/security_curtain_widget_controller.h
+//   - depends_on /base/scoped_observation.h
+//   - depends_on /ui/aura/window_observer.h
+// ---
+
 #include "ash/curtain/security_curtain_widget_controller.h"
 
 #include <memory>

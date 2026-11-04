@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedClipboardHistoryPauseImpl class header
+// summary: Declares ScopedClipboardHistoryPauseImpl, a scoped pause that controls clipboard history updates and metrics while clipboard data is read or modified.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/public/cpp/scoped_clipboard_history_pause.h
+//   - depends_on /ash/public/cpp/scoped_clipboard_history_pause.h
+// ---
+
 #ifndef ASH_CLIPBOARD_SCOPED_CLIPBOARD_HISTORY_PAUSE_IMPL_H_
 #define ASH_CLIPBOARD_SCOPED_CLIPBOARD_HISTORY_PAUSE_IMPL_H_
 

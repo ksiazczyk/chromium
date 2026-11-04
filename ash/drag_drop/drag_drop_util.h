@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag image style constants
+// summary: Header defining shared constants for the drag image background color and shadow elevation used by Ash drag-and-drop.
+// relations:
+//   - depends_on /ash/style/ash_color_id.h
+//   - depends_on /ui/color/color_id.h
+// ---
+
 #ifndef ASH_DRAG_DROP_DRAG_DROP_UTIL_H_
 #define ASH_DRAG_DROP_DRAG_DROP_UTIL_H_
 

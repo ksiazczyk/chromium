@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension and app ID constants
+// summary: Defines extension and app IDs plus manifest paths for ChromeOS extensions such as ChromeVox, Calendar, and Google apps.
+// ---
+
 #ifndef ASH_CONSTANTS_ASH_EXTENSION_CONSTANTS_H_
 #define ASH_CONSTANTS_ASH_EXTENSION_CONSTANTS_H_
 

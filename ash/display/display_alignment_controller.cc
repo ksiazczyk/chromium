@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display alignment controller implementation
+// summary: Tracks mouse hits on display edges and shows alignment indicators to help users align displays.
+// relations:
+//   - implements /ash/display/display_alignment_controller.h
+//   - depends_on /ash/display/display_alignment_indicator.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/display/display_alignment_controller.h"
 
 #include <algorithm>

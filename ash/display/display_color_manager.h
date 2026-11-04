@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayColorManager header
+// summary: Declares DisplayColorManager, which observes display configuration changes and applies color calibration, ICC profiles, and color temperature adjustments to displays.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/flat_map.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #ifndef ASH_DISPLAY_DISPLAY_COLOR_MANAGER_H_
 #define ASH_DISPLAY_DISPLAY_COLOR_MANAGER_H_
 

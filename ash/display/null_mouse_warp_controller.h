@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NullMouseWarpController class declaration
+// summary: Declares the no-op MouseWarpController used when there is a single desktop display, in single display or mirror mode.
+// relations:
+//   - depends_on /ash/display/mouse_warp_controller.h
+//   - implements /ash/display/mouse_warp_controller.h
+// ---
+
 #ifndef ASH_DISPLAY_NULL_MOUSE_WARP_CONTROLLER_H_
 #define ASH_DISPLAY_NULL_MOUSE_WARP_CONTROLLER_H_
 

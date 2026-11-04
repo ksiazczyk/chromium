@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Curtain directory metadata
+summary: Directory metadata assigning the ash curtain folder to the ChromeOS Commercial CRD buganizer component 1047865.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayManager unit tests
+// summary: Extensive unit tests for Ash display management, covering display configuration, mirroring, rotation, touch devices, observers, and related behaviors.
+// relations:
+//   - tests /ui/display/manager/display_manager.h
+//   - depends_on /ash/accelerators/accelerator_commands.h
+//   - depends_on /ash/accelerometer/accelerometer_reader.h
+// ---
+
 #include "ui/display/manager/display_manager.h"
 
 #include <algorithm>

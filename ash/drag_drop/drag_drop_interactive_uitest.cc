@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag and drop interactive UI tests
+// summary: Interactive UI test that verifies drag and drop works across multiple displays by simulating mouse press, move and release events.
+// relations:
+//   - depends_on /ash/drag_drop/draggable_test_view.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/test/ash_interactive_ui_test_base.h
+// ---
+
 #include "ash/drag_drop/drag_drop_controller.h"
 
 #include <memory>

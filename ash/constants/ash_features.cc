@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash feature flag definitions
+// summary: Defines base::Feature flags controlling ChromeOS Ash features such as Ambient EQ, ARC sideloading, and Night Light.
+// relations:
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_switches.h
+//   - depends_on /base/feature_list.h
+// ---
+
 #include "ash/constants/ash_features.h"
 
 #include "ash/constants/ash_switches.h"

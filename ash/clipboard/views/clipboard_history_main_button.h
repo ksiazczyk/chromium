@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history main button class declaration
+// summary: Declares ClipboardHistoryMainButton, a views::Button subclass that forwards mouse and gesture events to its parent clipboard history item view.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/controls/button/button.h
+// ---
+
 #ifndef ASH_CLIPBOARD_VIEWS_CLIPBOARD_HISTORY_MAIN_BUTTON_H_
 #define ASH_CLIPBOARD_VIEWS_CLIPBOARD_HISTORY_MAIN_BUTTON_H_
 

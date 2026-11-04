@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote maintenance curtain view implementation
+// summary: Implements the root view shown as the security curtain during admin-started remote maintenance, layering a blurred wallpaper under a WebUI curtain view with shadow.
+// relations:
+//   - depends_on /ash/curtain/remote_maintenance_curtain_view.h
+//   - depends_on /ash/curtain/stack_layout.h
+//   - depends_on /ash/public/cpp/ash_web_view.h
+// ---
+
 #include "ash/curtain/remote_maintenance_curtain_view.h"
 
 #include <memory>

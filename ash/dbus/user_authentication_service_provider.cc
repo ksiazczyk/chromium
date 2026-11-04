@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User authentication D-Bus service provider
+// summary: Implements D-Bus methods that let platform daemons start, cancel, and query in-session user authentication flows in Ash.
+// relations:
+//   - depends_on /ash/dbus/user_authentication_service_provider.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/public/cpp/auth/active_session_auth_controller.h
+// ---
+
 #include "ash/dbus/user_authentication_service_provider.h"
 
 #include <string>

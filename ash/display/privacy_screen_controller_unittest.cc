@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy screen controller unit tests
+// summary: Unit tests covering privacy screen enablement across user sessions, DLP enforcement, and display snapshot configurations.
+// relations:
+//   - tests /ash/display/privacy_screen_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/dbus/privacy_screen_service_provider.h
+// ---
+
 #include "ash/display/privacy_screen_controller.h"
 #include "ash/constants/ash_pref_names.h"
 #include "ash/dbus/privacy_screen_service_provider.h"

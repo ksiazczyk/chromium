@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.LivenessService.conf.
+type: config
+title: org.chromium.LivenessService D-Bus policy configuration
+summary: D-Bus bus policy that lets chronos own org.chromium.LivenessService and allows root and session_manager users to call its interface.

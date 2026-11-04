@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security curtain session implementation
+// summary: Implements the security curtain session that curtains all root windows and, while enabled, mutes audio input and output, disables camera access and input devices.
+// relations:
+//   - implements /ash/curtain/session.h
+//   - depends_on /ash/curtain/security_curtain_widget_controller.h
+//   - depends_on /ash/root_window_controller.h
+// ---
+
 #include "ash/curtain/session.h"
 
 #include <memory>

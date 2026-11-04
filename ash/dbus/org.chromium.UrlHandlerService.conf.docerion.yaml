@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.UrlHandlerService.conf.
+type: config
+title: org.chromium.UrlHandlerService D-Bus policy configuration
+summary: D-Bus bus policy that lets chronos own org.chromium.UrlHandlerService and allows vm_cicerone and ferrochromed users to call the OpenUrl method.

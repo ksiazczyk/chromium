@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackLayout layout manager declaration
+// summary: Declares StackLayout, a layout manager that lays out views atop each other, unlike FillLayout, with per-view respected dimensions and vertical alignment options.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/views/layout/layout_manager_base.h
+//   - depends_on /ui/views/layout/proposed_layout.h
+// ---
+
 #ifndef ASH_CURTAIN_STACK_LAYOUT_H_
 #define ASH_CURTAIN_STACK_LAYOUT_H_
 

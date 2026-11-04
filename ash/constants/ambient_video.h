@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientVideo enum
+// summary: Declares the AmbientVideo enum of user-selectable ambient mode videos and its ToString helper.
+// relations:
+//   - depends_on /base/component_export.h
+// ---
+
 #ifndef ASH_CONSTANTS_AMBIENT_VIDEO_H_
 #define ASH_CONSTANTS_AMBIENT_VIDEO_H_
 

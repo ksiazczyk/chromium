@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenPositionController implementation
+// summary: Implements conversion of points between host window, root window, and screen coordinates across multiple displays, including pointer capture edge cases.
+// relations:
+//   - implements /ash/display/screen_position_controller.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/display/screen_position_controller.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

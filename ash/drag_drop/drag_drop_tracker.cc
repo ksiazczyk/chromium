@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropTracker implementation
+// summary: Implements DragDropTracker, which creates a popup capture window to track drag events outside the root window where the drag started and cancels the drag on capture loss.
+// relations:
+//   - implements /ash/drag_drop/drag_drop_tracker.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/drag_drop/drag_drop_tracker.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

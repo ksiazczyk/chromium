@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenOrientationController unit tests
+// summary: Unit tests covering screen orientation locking, user rotation locks, auto-rotation, and tablet mode behavior of the Ash screen orientation controller.
+// relations:
+//   - tests /ash/display/screen_orientation_controller.h
+//   - depends_on /ash/accelerometer/accelerometer_reader.h
+//   - depends_on /ash/accelerometer/accelerometer_types.h
+// ---
+
 #include "ash/display/screen_orientation_controller.h"
 
 #include <memory>

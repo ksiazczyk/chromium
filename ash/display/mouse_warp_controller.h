@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MouseWarpController interface
+// summary: Declares the abstract MouseWarpController interface that implements mouse warp behavior for different display modes and platforms.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_DISPLAY_MOUSE_WARP_CONTROLLER_H_
 #define ASH_DISPLAY_MOUSE_WARP_CONTROLLER_H_
 

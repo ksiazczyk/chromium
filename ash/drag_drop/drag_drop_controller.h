@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropController header
+// summary: Declares the DragDropController class, the aura DragDropClient for Ash that manages drag and drop sessions, event handling, observers and drag images.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/drag_drop/drag_drop_capture_delegate.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_DRAG_DROP_DRAG_DROP_CONTROLLER_H_
 #define ASH_DRAG_DROP_DRAG_DROP_CONTROLLER_H_
 

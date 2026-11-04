@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenOrientationController test API implementation
+// summary: Implements the test API that exposes ScreenOrientationController internals such as rotation, lock state, and auto-rotation checks for use in tests.
+// relations:
+//   - implements /ash/display/screen_orientation_controller_test_api.h
+//   - depends_on /ash/display/screen_orientation_controller.h
+// ---
+
 #include "ash/display/screen_orientation_controller_test_api.h"
 
 #include "ash/display/screen_orientation_controller.h"

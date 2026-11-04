@@ -1,0 +1,7 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the ash DBus directory
+summary: Delegates ownership to the ChromeOS DBus owners and requires security owners for changes to org.chromium D-Bus config files.
+relations:
+  - references /chromeos/dbus/OWNERS
+  - references /chromeos/SECURITY_OWNERS

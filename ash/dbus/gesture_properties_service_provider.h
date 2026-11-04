@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GesturePropertiesServiceProvider header
+// summary: Declares a D-Bus service provider that bridges D-Bus method calls to the Mojo GesturePropertiesService for listing devices and reading or writing gesture properties.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/scoped_refptr.h
+// ---
+
 #ifndef ASH_DBUS_GESTURE_PROPERTIES_SERVICE_PROVIDER_H_
 #define ASH_DBUS_GESTURE_PROPERTIES_SERVICE_PROVIDER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor window controller implementation
+// summary: Implements compositing of the mouse cursor into a container window, supporting large cursor size, custom color, inversion, and magnifier interactions.
+// relations:
+//   - implements /ash/display/cursor_window_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/magnifier/fullscreen_magnifier_controller.h
+// ---
+
 #include "ash/display/cursor_window_controller.h"
 
 #include <optional>

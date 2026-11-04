@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorWindowController class declaration
+// summary: Declares the controller that draws a composited cursor window, with observers and settings for size, color, inversion, and compositing mode.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/constants/ash_constants.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_DISPLAY_CURSOR_WINDOW_CONTROLLER_H_
 #define ASH_DISPLAY_CURSOR_WINDOW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash web app ID constants
+// summary: Defines generated app ID constants for system and installed web apps such as Gmail, Docs, Drive, and Camera, matching PWA manifest start URLs.
+// ---
+
 #ifndef ASH_CONSTANTS_WEB_APP_ID_CONSTANTS_H_
 #define ASH_CONSTANTS_WEB_APP_ID_CONSTANTS_H_
 

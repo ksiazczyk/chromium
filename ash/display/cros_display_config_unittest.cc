@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CrosDisplayConfig
+// summary: Tests display layout info retrieval and updates, display property changes, and touch calibration through the CrosDisplayConfig interface.
+// relations:
+//   - tests /ash/display/cros_display_config.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/display/display_alignment_controller.h
+// ---
+
 #include "ash/display/cros_display_config.h"
 
 #include <algorithm>

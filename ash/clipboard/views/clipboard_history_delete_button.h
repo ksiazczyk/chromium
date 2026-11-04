@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history delete button class declaration
+// summary: Declares ClipboardHistoryDeleteButton, the button for removing an item and its clipboard data from the clipboard history menu.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/controls/button/image_button.h
+// ---
+
 #ifndef ASH_CLIPBOARD_VIEWS_CLIPBOARD_HISTORY_DELETE_BUTTON_H_
 #define ASH_CLIPBOARD_VIEWS_CLIPBOARD_HISTORY_DELETE_BUTTON_H_
 

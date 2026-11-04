@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse cursor event filter implementation
+// summary: Implements an event filter that warps the mouse cursor across display edges in an extended desktop and shows or hides the shared edge indicator during window dragging.
+// relations:
+//   - implements /ash/display/mouse_cursor_event_filter.h
+//   - depends_on /ash/display/cursor_window_controller.h
+//   - depends_on /ash/display/mouse_warp_controller.h
+// ---
+
 #include "ash/display/mouse_cursor_event_filter.h"
 
 #include <cmath>

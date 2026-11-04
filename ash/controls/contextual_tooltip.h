@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tooltip API and constants
+// summary: Declares the TooltipType and DismissNudgeReason enums, nudge show limits and intervals, and functions for registering prefs and managing nudge display state.
+// relations:
+//   - implemented_by /ash/controls/contextual_tooltip.cc
+// ---
+
 #ifndef ASH_CONTROLS_CONTEXTUAL_TOOLTIP_H_
 #define ASH_CONTROLS_CONTEXTUAL_TOOLTIP_H_
 

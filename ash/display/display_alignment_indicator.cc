@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayAlignmentIndicator implementation
+// summary: Implements the alignment indicator views, including edge highlight styling, the pill with arrow and neighboring display name, and resolution-dependent thickness.
+// relations:
+//   - implements /ash/display/display_alignment_indicator.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/root_window_controller.h
+// ---
+
 #include "ash/display/display_alignment_indicator.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

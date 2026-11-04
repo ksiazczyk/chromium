@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash system WebUI host and URL constants
+// summary: Declares inline constants for ash-chrome system WebUI host names and their matching URLs, covering pages such as the emoji picker, cloud upload, and Crostini installer, kept separate from browser-related URL constants.
+// relations:
+//   - depends_on /base/component_export.h
+//   - references /chrome/common/webui_url_constants.h
+// ---
+
 #ifndef ASH_CONSTANTS_WEBUI_URL_CONSTANTS_H_
 #define ASH_CONSTANTS_WEBUI_URL_CONSTANTS_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DetachableBaseObserver interface
+// summary: Defines the observer interface for detachable base pairing status changes and firmware update requirement changes.
+// relations:
+//   - depends_on /ash/detachable_base/detachable_base_pairing_status.h
+// ---
+
 #ifndef ASH_DETACHABLE_BASE_DETACHABLE_BASE_OBSERVER_H_
 #define ASH_DETACHABLE_BASE_DETACHABLE_BASE_OBSERVER_H_
 

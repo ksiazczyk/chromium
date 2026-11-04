@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard history item unit tests
+// summary: Unit tests for ClipboardHistoryItem covering display image update callbacks and display text behavior across clipboard data formats.
+// relations:
+//   - tests /ash/clipboard/clipboard_history_item.h
+//   - depends_on /ash/clipboard/clipboard_history_util.h
+//   - depends_on /ash/clipboard/test_support/clipboard_history_item_builder.h
+// ---
+
 #include "ash/clipboard/clipboard_history_item.h"
 
 #include "ash/clipboard/clipboard_history_util.h"

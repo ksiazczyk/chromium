@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchCalibratorController unit tests
+// summary: Unit tests for TouchCalibratorController covering touch thresholds, custom calibration, invalid touch devices, and touchscreen mapping across external displays.
+// relations:
+//   - tests /ash/display/touch_calibrator_controller.h
+//   - depends_on /ash/display/touch_calibrator_view.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/display/touch_calibrator_controller.h"
 
 #include <algorithm>

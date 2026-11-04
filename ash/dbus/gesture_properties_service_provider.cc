@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GesturePropertiesServiceProvider implementation
+// summary: Implements the gesture properties D-Bus service to list devices and get or set gesture properties via the Ozone input controller.
+// relations:
+//   - implements /ash/dbus/gesture_properties_service_provider.h
+//   - depends_on /base/functional/bind.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/dbus/gesture_properties_service_provider.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DragImageView unit tests
+// summary: Unit tests verifying that DragImageView bounds account for the drag hint image for touch drags but not for mouse drags.
+// relations:
+//   - tests /ash/drag_drop/drag_image_view.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ui/aura/window.h
+// ---
+
 #include "ash/drag_drop/drag_image_view.h"
 
 #include "ash/test/ash_test_base.h"

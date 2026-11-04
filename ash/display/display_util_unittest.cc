@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayUtil unit tests
+// summary: Unit tests verifying native edge bounds computation for rotated display configurations and refresh rate to string conversion in the display utility functions.
+// relations:
+//   - tests /ash/display/display_util.h
+//   - depends_on /ash/root_window_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/display/display_util.h"
 
 #include "ash/root_window_controller.h"

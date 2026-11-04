@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen orientation controller implementation
+// summary: Implements automatic screen rotation from accelerometer data, resolving app-requested and user orientation locks, mainly in tablet mode.
+// relations:
+//   - implements /ash/display/screen_orientation_controller.h
+//   - depends_on /ash/accelerometer/accelerometer_reader.h
+//   - depends_on /ash/accelerometer/accelerometer_types.h
+// ---
+
 #include "ash/display/screen_orientation_controller.h"
 
 #include "ash/accelerometer/accelerometer_reader.h"

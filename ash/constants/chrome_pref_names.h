@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome preference name copies for ChromeOS
+// summary: Defines copies of browser preference key constants needed by ChromeOS system code, explicitly marked as closed to new additions.
+// ---
+
 #ifndef ASH_CONSTANTS_CHROME_PREF_NAMES_H_
 #define ASH_CONSTANTS_CHROME_PREF_NAMES_H_
 

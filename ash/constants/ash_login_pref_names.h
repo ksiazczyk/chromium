@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash login and OOBE preference names
+// summary: Defines preference name constants for login, OOBE onboarding, and GAIA or SAML offline authentication settings in the Ash shell.
+// ---
+
 #ifndef ASH_CONSTANTS_ASH_LOGIN_PREF_NAMES_H_
 #define ASH_CONSTANTS_ASH_LOGIN_PREF_NAMES_H_
 

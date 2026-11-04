@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Detachable base notification controller implementation
+// summary: Implements system notifications for detachable base changes, unauthenticated bases, and required firmware updates across session states.
+// relations:
+//   - implements /ash/detachable_base/detachable_base_notification_controller.h
+//   - depends_on /ash/constants/notifier_catalogs.h
+//   - depends_on /ash/detachable_base/detachable_base_handler.h
+// ---
+
 #include "ash/detachable_base/detachable_base_notification_controller.h"
 
 #include <memory>

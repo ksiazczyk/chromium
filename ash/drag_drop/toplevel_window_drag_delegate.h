@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToplevelWindowDragDelegate interface header
+// summary: Declares the ToplevelWindowDragDelegate interface for implementing toplevel window drag handling during drag-and-drop sessions.
+// relations:
+//   - depends_on /ash/drag_drop/drag_drop_capture_delegate.h
+// ---
+
 #ifndef ASH_DRAG_DROP_TOPLEVEL_WINDOW_DRAG_DELEGATE_H_
 #define ASH_DRAG_DROP_TOPLEVEL_WINDOW_DRAG_DELEGATE_H_
 

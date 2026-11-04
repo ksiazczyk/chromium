@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DraggableTestView test helper declaration
+// summary: Declares a simple draggable view for tests with mockable drag operations and optional drag image or file path data.
+// relations:
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_DRAG_DROP_DRAGGABLE_TEST_VIEW_H_
 #define ASH_DRAG_DROP_DRAGGABLE_TEST_VIEW_H_
 

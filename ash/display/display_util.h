@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display utility functions declaration
+// summary: Declares Ash display utility helpers for mouse warp controllers, native edge bounds, cursor movement, display error notifications, refresh rate conversion, and mirror rotation handling.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/display/display.h
+// ---
+
 #ifndef ASH_DISPLAY_DISPLAY_UTIL_H_
 #define ASH_DISPLAY_DISPLAY_UTIL_H_
 

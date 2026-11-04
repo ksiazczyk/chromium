@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosDisplayConfig interface and data types
+// summary: Declares the CrosDisplayConfig API with enums and structs for display layout, rotation options, calibration operations, and configuration properties.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/observer_list_types.h
+//   - depends_on /base/types/optional_ref.h
+// ---
+
 #ifndef ASH_DISPLAY_CROS_DISPLAY_CONFIG_H_
 #define ASH_DISPLAY_CROS_DISPLAY_CONFIG_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash switch helper implementations
+// summary: Implements helper functions that check Ash command-line switches for device form factor, branding, OOBE testing, and other feature toggles.
+// relations:
+//   - depends_on /ash/constants/ash_switches.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /base/auto_reset.h
+// ---
+
 #include "ash/constants/ash_switches.h"
 
 #include <algorithm>

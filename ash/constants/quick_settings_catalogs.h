@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Settings catalog enums for metrics
+// summary: Defines catalog enums for Quick Settings buttons, features, and sliders used for histogram metrics.
+// ---
+
 #ifndef ASH_CONSTANTS_QUICK_SETTINGS_CATALOGS_H_
 #define ASH_CONSTANTS_QUICK_SETTINGS_CATALOGS_H_
 

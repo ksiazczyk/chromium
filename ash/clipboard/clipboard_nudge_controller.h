@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard nudge controller class
+// summary: Declares ClipboardNudgeController, which observes clipboard and history events to show nudges and record time deltas to feature usage.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/clipboard/clipboard_history.h
+//   - depends_on /ash/clipboard/clipboard_nudge_constants.h
+// ---
+
 #ifndef ASH_CLIPBOARD_CLIPBOARD_NUDGE_CONTROLLER_H_
 #define ASH_CLIPBOARD_CLIPBOARD_NUDGE_CONTROLLER_H_
 

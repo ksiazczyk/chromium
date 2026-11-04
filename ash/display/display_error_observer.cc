@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayErrorObserver implementation
+// summary: Implements DisplayErrorObserver, which logs failed display configurations and shows user notifications for mirroring and external display limit errors.
+// relations:
+//   - depends_on /ash/display/display_error_observer.h
+//   - implements /ash/display/display_error_observer.h
+//   - depends_on /ash/display/display_util.h
+// ---
+
 #include "ash/display/display_error_observer.h"
 
 #include <string>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history text item view implementation
+// summary: Implements the menu item view for plain text clipboard entries, building its contents view with an elided label and a clip path that cuts out a corner for the delete button.
+// relations:
+//   - implements /ash/clipboard/views/clipboard_history_text_item_view.h
+//   - depends_on /ash/bubble/bubble_utils.h
+//   - depends_on /ash/clipboard/clipboard_history_item.h
+// ---
+
 #include "ash/clipboard/views/clipboard_history_text_item_view.h"
 
 #include <string>

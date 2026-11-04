@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayErrorObserver unit tests
+// summary: Unit tests verifying the error notification message produced by DisplayErrorObserver for mirroring, non-mirroring, repeated, and internal display failures.
+// relations:
+//   - tests /ash/display/display_error_observer.h
+//   - depends_on /ash/display/display_util.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/display/display_error_observer.h"
 
 #include <memory>

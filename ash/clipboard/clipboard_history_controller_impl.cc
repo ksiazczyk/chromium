@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history controller implementation
+// summary: Implements the controller that shows the clipboard history menu, handles paste operations, image encoding, and user nudges.
+// relations:
+//   - implements /ash/clipboard/clipboard_history_controller_impl.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/clipboard/clipboard_history_controller_delegate.h
+// ---
+
 #include "ash/clipboard/clipboard_history_controller_impl.h"
 
 #include <map>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history utility implementation
+// summary: Implements clipboard history utilities for format prioritization, menu width, and placeholder images for unrendered HTML previews.
+// relations:
+//   - implements /ash/clipboard/clipboard_history_util.h
+//   - depends_on /ash/clipboard/clipboard_history_util.h
+//   - depends_on /ash/clipboard/clipboard_history_item.h
+// ---
+
 #include "ash/clipboard/clipboard_history_util.h"
 
 #include <array>

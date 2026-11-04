@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash path service key declarations
+// summary: Declares the enum of path keys used with the PathService to access special ChromeOS directories and files from the Ash module.
+// relations:
+//   - depends_on /base/component_export.h
+// ---
+
 #ifndef ASH_CONSTANTS_ASH_PATHS_H_
 #define ASH_CONSTANTS_ASH_PATHS_H_
 

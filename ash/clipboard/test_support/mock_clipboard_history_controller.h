@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock clipboard history controller interface
+// summary: Declares a GoogleMock mock of the ClipboardHistoryController interface, stubbing menu, history, paste and delete methods for tests.
+// relations:
+//   - implements /ash/public/cpp/clipboard_history_controller.h
+//   - depends_on /ash/public/cpp/scoped_clipboard_history_pause.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_CLIPBOARD_TEST_SUPPORT_MOCK_CLIPBOARD_HISTORY_CONTROLLER_H_
 #define ASH_CLIPBOARD_TEST_SUPPORT_MOCK_CLIPBOARD_HISTORY_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GesturePropertiesServiceProvider unit tests
+// summary: Unit tests for the gesture properties D-Bus service provider, exercising ListDevices, ListProperties, GetProperty and SetProperty against a mock Mojo service.
+// relations:
+//   - tests /ash/dbus/gesture_properties_service_provider.h
+//   - depends_on /chromeos/ash/components/dbus/services/service_provider_test_helper.h
+//   - depends_on /dbus/message.h
+// ---
+
 #include "ash/dbus/gesture_properties_service_provider.h"
 
 #include "base/test/task_environment.h"

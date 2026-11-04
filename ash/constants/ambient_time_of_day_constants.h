@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient time of day constants
+// summary: Declares the DLC package ID for assets used by the time-of-day screensaver in ambient mode.
+// ---
+
 #ifndef ASH_CONSTANTS_AMBIENT_TIME_OF_DAY_CONSTANTS_H_
 #define ASH_CONSTANTS_AMBIENT_TIME_OF_DAY_CONSTANTS_H_
 

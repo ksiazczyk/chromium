@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackLayout layout manager implementation
+// summary: Implements StackLayout, a views layout manager that stacks child views atop each other while respecting preferred sizes, configured dimensions and vertical alignment.
+// relations:
+//   - implements /ash/curtain/stack_layout.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #include "ash/curtain/stack_layout.h"
 
 #include <algorithm>

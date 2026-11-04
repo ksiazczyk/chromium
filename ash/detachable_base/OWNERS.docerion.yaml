@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ash/detachable_base
+summary: Lists the code owner (tbarzic@chromium.org) responsible for the detachable_base directory.

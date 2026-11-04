@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirror window controller implementation
+// summary: Implements the controller that mirrors primary root window content into a mirror window, managing mirroring hosts, screen position conversion, and cursor drawing.
+// relations:
+//   - implements /ash/display/mirror_window_controller.h
+//   - depends_on /ash/display/cursor_window_controller.h
+//   - depends_on /ash/display/display_util.h
+// ---
+
 #include "ash/display/mirror_window_controller.h"
 
 #include <algorithm>

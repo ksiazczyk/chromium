@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root window transformers implementation
+// summary: Builds root window transforms for rotation, overscan insets, and device scale, including transformers for mirrored and unified desktop displays.
+// relations:
+//   - depends_on /ash/display/root_window_transformers.h
+//   - depends_on /ash/accessibility/magnifier/fullscreen_magnifier_controller.h
+//   - depends_on /ash/display/display_util.h
+// ---
+
 #include "ash/display/root_window_transformers.h"
 
 #include <cmath>

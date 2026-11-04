@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard history resource manager unit tests
+// summary: Unit tests for ClipboardHistoryResourceManager using a mock image model factory to verify HTML preview rendering and caching.
+// relations:
+//   - tests /ash/clipboard/clipboard_history_resource_manager.h
+//   - depends_on /ash/public/cpp/clipboard_image_model_factory.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/clipboard/clipboard_history_resource_manager.h"
 
 #include <string>

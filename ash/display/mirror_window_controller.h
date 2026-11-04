@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirror window controller header
+// summary: Declares MirrorWindowController, which copies primary root window content to a mirror window and manages window tree hosts for mirroring displays.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/host/ash_window_tree_host_delegate.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_DISPLAY_MIRROR_WINDOW_CONTROLLER_H_
 #define ASH_DISPLAY_MIRROR_WINDOW_CONTROLLER_H_
 

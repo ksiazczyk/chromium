@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedScrollBar unit tests
+// summary: Tests scrollbar thumb visibility, fade timing, hover behavior and show-on-scroll settings using a test widget and event generator.
+// relations:
+//   - tests /ash/controls/rounded_scroll_bar.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/compositor/layer.h
+// ---
+
 #include "ash/controls/rounded_scroll_bar.h"
 
 #include <memory>

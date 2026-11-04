@@ -1,0 +1,8 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ash/constants
+summary: Assigns per-file owners for constants files, delegating catalog headers to ash/system owners.
+relations:
+  - references /ash/ambient/OWNERS
+  - references /ash/constants/ash_features.cc
+  - references /ash/constants/ash_features.h

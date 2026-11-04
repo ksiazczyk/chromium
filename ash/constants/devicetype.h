@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device type helper declarations
+// summary: Declares Ash functions for Bluetooth device names, device type strings, and Google-branded device detection.
+// relations:
+//   - depends_on /base/component_export.h
+//   - depends_on /chromeos/constants/devicetype.h
+// ---
+
 #ifndef ASH_CONSTANTS_DEVICETYPE_H_
 #define ASH_CONSTANTS_DEVICETYPE_H_
 

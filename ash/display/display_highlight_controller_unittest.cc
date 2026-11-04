@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayHighlightController unit tests
+// summary: Unit tests covering highlight behavior for single and multiple displays, invalid display IDs, added displays, unified mode, and screen locking.
+// relations:
+//   - tests /ash/display/display_highlight_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/display/display_highlight_controller.h"
 
 #include "ash/constants/ash_features.h"

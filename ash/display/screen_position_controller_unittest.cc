@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenPositionController unit tests
+// summary: Unit tests verifying host-to-screen point conversion and window positioning across primary and secondary display layouts.
+// relations:
+//   - tests /ash/display/screen_position_controller.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/public/cpp/test/shell_test_api.h
+// ---
+
 #include "ash/display/screen_position_controller.h"
 
 #include <memory>

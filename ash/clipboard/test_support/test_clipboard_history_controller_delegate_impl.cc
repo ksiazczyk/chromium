@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test clipboard history controller delegate implementation
+// summary: Implements the test clipboard history controller delegate whose Paste method always returns false.
+// relations:
+//   - implements /ash/clipboard/test_support/test_clipboard_history_controller_delegate_impl.h
+// ---
+
 #include "ash/clipboard/test_support/test_clipboard_history_controller_delegate_impl.h"
 
 namespace ash {

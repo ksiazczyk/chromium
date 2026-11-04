@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputProtectionDelegate class declaration
+// summary: Declares the OutputProtectionDelegate that proxies output protection requests for an associated window and reapplies them on reparenting to another display.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/aura/window.h
+// ---
+
 #ifndef ASH_DISPLAY_OUTPUT_PROTECTION_DELEGATE_H_
 #define ASH_DISPLAY_OUTPUT_PROTECTION_DELEGATE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropCaptureDelegate header
+// summary: Declares DragDropCaptureDelegate, which takes capture of top level touch events during drag and drop and converts events for the drag and drop controller.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/bind.h
+//   - depends_on /ui/events/gestures/gesture_types.h
+// ---
+
 #ifndef ASH_DRAG_DROP_DRAG_DROP_CAPTURE_DELEGATE_H_
 #define ASH_DRAG_DROP_DRAG_DROP_CAPTURE_DELEGATE_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security curtain controller InitParams definitions
+// summary: Defines the constructors and assignment operators of the SecurityCurtainController InitParams struct.
+// relations:
+//   - depends_on /ash/curtain/security_curtain_controller.h
+// ---
+
 #include "ash/curtain/security_curtain_controller.h"
 
 namespace ash::curtain {

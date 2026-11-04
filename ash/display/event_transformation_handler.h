@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event transformation handler header
+// summary: Declares the EventTransformationHandler class that transforms input event properties, such as scroll scaling, in extended desktop environments.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/compiler_specific.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_DISPLAY_EVENT_TRANSFORMATION_HANDLER_H_
 #define ASH_DISPLAY_EVENT_TRANSFORMATION_HANDLER_H_
 

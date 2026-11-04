@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard nudge controller unit tests
+// summary: Tests nudge display for all nudge types, show caps, onboarding state transitions, and histogram recording using a mock clock.
+// relations:
+//   - tests /ash/clipboard/clipboard_nudge_controller.h
+//   - depends_on /ash/clipboard/clipboard_history.h
+//   - depends_on /ash/clipboard/clipboard_history_controller_impl.h
+// ---
+
 #include "ash/clipboard/clipboard_nudge_controller.h"
 
 #include <array>

@@ -4,6 +4,15 @@
 
 // Constants related to ChromeOS.
 
+// ---docerion
+// type: source
+// title: General ChromeOS constants
+// summary: Defines general ChromeOS constants for asset paths, accessibility defaults, notification IDs, and input behaviors.
+// relations:
+//   - depends_on /base/files/file_path.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_CONSTANTS_ASH_CONSTANTS_H_
 #define ASH_CONSTANTS_ASH_CONSTANTS_H_
 

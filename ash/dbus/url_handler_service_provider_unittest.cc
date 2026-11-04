@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL handler service provider unit test
+// summary: Unit test verifying that UrlHandlerServiceProvider allows expected URL schemes and rejects invalid or disallowed ones.
+// relations:
+//   - tests /ash/dbus/url_handler_service_provider.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+//   - depends_on /url/gurl.h
+// ---
+
 #include "ash/dbus/url_handler_service_provider.h"
 
 #include <memory>

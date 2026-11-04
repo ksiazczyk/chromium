@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history resource manager implementation
+// summary: Implements ClipboardHistoryResourceManager, which requests and caches rendered HTML preview images for clipboard history items.
+// relations:
+//   - implements /ash/clipboard/clipboard_history_resource_manager.h
+//   - depends_on /ash/clipboard/clipboard_history_item.h
+//   - depends_on /ash/public/cpp/clipboard_image_model_factory.h
+// ---
+
 #include "ash/clipboard/clipboard_history_resource_manager.h"
 
 #include <algorithm>

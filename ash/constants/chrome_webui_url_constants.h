@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebUI URL constants for Ash
+// summary: Declares Chrome WebUI URL and settings subpage constants used by Ash, kept consistent with Chrome's webui_url_constants.
+// ---
+
 #ifndef ASH_CONSTANTS_CHROME_WEBUI_URL_CONSTANTS_H_
 #define ASH_CONSTANTS_CHROME_WEBUI_URL_CONSTANTS_H_
 

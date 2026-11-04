@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayConfigurationController unit tests
+// summary: Unit tests for DisplayConfigurationController verifying that only one screen rotation animator exists and that target rotation is reported during animated rotations.
+// relations:
+//   - tests /ash/display/display_configuration_controller.h
+//   - depends_on /ash/display/display_configuration_controller_test_api.h
+//   - depends_on /ash/rotator/screen_rotation_animator.h
+// ---
+
 #include "ash/display/display_configuration_controller.h"
 
 #include "ash/display/display_configuration_controller_test_api.h"

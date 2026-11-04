@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mirror window controller unit tests
+// summary: Unit tests covering software mirroring, dock mode transitions, and mirror window behavior of the mirror window controller.
+// relations:
+//   - tests /ash/display/mirror_window_controller.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ui/display/display_switches.h
+// ---
+
 #include "ash/display/mirror_window_controller.h"
 
 #include "ash/display/mirror_window_test_api.h"

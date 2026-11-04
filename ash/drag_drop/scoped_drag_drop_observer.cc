@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped drag drop observer implementation
+// summary: Implements a scoped observer that forwards drag update, completion and cancellation events to a callback while attached.
+// relations:
+//   - implements /ash/drag_drop/scoped_drag_drop_observer.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ui/aura/client/drag_drop_client.h
+// ---
+
 #include "ash/drag_drop/scoped_drag_drop_observer.h"
 
 #include "ash/shell.h"

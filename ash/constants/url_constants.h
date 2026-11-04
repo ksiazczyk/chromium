@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash external URL constants
+// summary: Defines constants for known external help and support URLs used by the ChromeOS system parts of chrome, sorted by name within sections.
+// ---
+
 #ifndef ASH_CONSTANTS_URL_CONSTANTS_H_
 #define ASH_CONSTANTS_URL_CONSTANTS_H_
 

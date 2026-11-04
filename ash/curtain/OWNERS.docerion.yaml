@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Curtain directory owners
+summary: Defines code owners for the ash curtain directory by referencing the kiosk component OWNERS file.
+relations:
+  - references /chromeos/components/kiosk/OWNERS

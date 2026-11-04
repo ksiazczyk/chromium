@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ctrl+V histogram recorder implementation
+// summary: Implements a key event handler that records histograms for the Ctrl-to-V delay and total Ctrl+V hold time during paste sequences.
+// relations:
+//   - implements /ash/clipboard/control_v_histogram_recorder.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/accelerators/accelerator_history_impl.h
+// ---
+
 #include "ash/clipboard/control_v_histogram_recorder.h"
 
 #include "ash/accelerators/accelerator_controller_impl.h"

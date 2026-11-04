@@ -1,0 +1,6 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash DBus build rules for privacy screen proto
+summary: GN build file defining the privacy screen proto library and asserting that ash DBus targets only build on ChromeOS.
+relations:
+  - depends_on /third_party/protobuf/proto_library.gni

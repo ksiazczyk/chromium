@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DetachableBaseNotificationController class declaration
+// summary: Declares the controller that observes detachable base state and session changes to show or remove pairing and update notifications.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/detachable_base/detachable_base_handler.h
+//   - depends_on /ash/detachable_base/detachable_base_observer.h
+// ---
+
 #ifndef ASH_DETACHABLE_BASE_DETACHABLE_BASE_NOTIFICATION_CONTROLLER_H_
 #define ASH_DETACHABLE_BASE_DETACHABLE_BASE_NOTIFICATION_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayHighlightController implementation
+// summary: Implements the controller that renders translucent blue identification highlights around a selected display, updating on session lock and display changes.
+// relations:
+//   - implements /ash/display/display_highlight_controller.h
+//   - depends_on /ash/accessibility/magnifier/fullscreen_magnifier_controller.h
+//   - depends_on /ash/display/window_tree_host_manager.h
+// ---
+
 #include "ash/display/display_highlight_controller.h"
 
 #include "ash/accessibility/magnifier/fullscreen_magnifier_controller.h"

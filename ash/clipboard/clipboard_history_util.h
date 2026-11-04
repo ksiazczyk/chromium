@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history utility header
+// summary: Declares constants, enums (policy values, actions, pause behavior, operations, reorder types) and helper functions shared by the ChromeOS clipboard history feature.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /chromeos/ui/clipboard_history/clipboard_history_types.h
+//   - depends_on /ui/base/models/image_model.h
+// ---
+
 #ifndef ASH_CLIPBOARD_CLIPBOARD_HISTORY_UTIL_H_
 #define ASH_CLIPBOARD_CLIPBOARD_HISTORY_UTIL_H_
 

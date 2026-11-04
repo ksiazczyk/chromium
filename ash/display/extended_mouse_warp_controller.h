@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended mouse warp controller header
+// summary: Declares ExtendedMouseWarpController and its WarpRegion class, which move the cursor across shared display edges in extended display mode.
+// relations:
+//   - implements /ash/display/mouse_warp_controller.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/gtest_prod_util.h
+// ---
+
 #ifndef ASH_DISPLAY_EXTENDED_MOUSE_WARP_CONTROLLER_H_
 #define ASH_DISPLAY_EXTENDED_MOUSE_WARP_CONTROLLER_H_
 

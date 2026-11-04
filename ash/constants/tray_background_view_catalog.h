@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tray background view catalog enum
+// summary: Defines the TrayBackgroundViewCatalogName enum cataloging shelf pod usages for logging, with stable values that must also be added to enums.xml.
+// ---
+
 #ifndef ASH_CONSTANTS_TRAY_BACKGROUND_VIEW_CATALOG_H_
 #define ASH_CONSTANTS_TRAY_BACKGROUND_VIEW_CATALOG_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tooltip nudge logic implementation
+// summary: Implements contextual tooltip display logic, tracking shown and success counts in profile prefs and deciding when nudges should be shown or timed out.
+// relations:
+//   - depends_on /ash/controls/contextual_tooltip.h
+// ---
+
 #include "ash/controls/contextual_tooltip.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history delete button implementation
+// summary: Implements the image button that deletes a clipboard history menu item and its clipboard data, with ink drop and accessibility styling.
+// relations:
+//   - implements /ash/clipboard/views/clipboard_history_delete_button.h
+//   - depends_on /ash/clipboard/clipboard_history_util.h
+//   - depends_on /ash/clipboard/views/clipboard_history_item_view.h
+// ---
+
 #include "ash/clipboard/views/clipboard_history_delete_button.h"
 
 #include <string>

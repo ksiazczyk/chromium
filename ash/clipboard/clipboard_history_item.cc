@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history item implementation
+// summary: Implements ClipboardHistoryItem, calculating the display format, display text, and preview image for clipboard entries.
+// relations:
+//   - implements /ash/clipboard/clipboard_history_item.h
+//   - depends_on /ash/clipboard/clipboard_history_util.h
+//   - depends_on /chromeos/ui/clipboard_history/clipboard_history_types.h
+// ---
+
 #include "ash/clipboard/clipboard_history_item.h"
 
 #include <optional>

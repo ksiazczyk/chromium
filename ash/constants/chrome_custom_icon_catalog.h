@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome custom icon catalog enum
+// summary: Defines an enum allow-list of custom icons, such as Glic, that Chrome may add to the ChromeOS status area tray.
+// ---
+
 #ifndef ASH_CONSTANTS_CHROME_CUSTOM_ICON_CATALOG_H_
 #define ASH_CONSTANTS_CHROME_CUSTOM_ICON_CATALOG_H_
 

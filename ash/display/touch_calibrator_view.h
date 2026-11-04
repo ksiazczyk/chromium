@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchCalibratorView class declaration
+// summary: Declares TouchCalibratorView, a state-machine overlay view responsible for all animations and UX during touch calibration on the device's active displays.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /cc/paint/paint_flags.h
+// ---
+
 #ifndef ASH_DISPLAY_TOUCH_CALIBRATOR_VIEW_H_
 #define ASH_DISPLAY_TOUCH_CALIBRATOR_VIEW_H_
 

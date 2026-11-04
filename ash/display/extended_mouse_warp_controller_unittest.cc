@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extended mouse warp controller unit tests
+// summary: Unit tests verifying warp region creation, indicator bounds, and cursor warping behavior of the extended mouse warp controller across multiple displays.
+// relations:
+//   - tests /ash/display/extended_mouse_warp_controller.h
+//   - depends_on /ash/display/mouse_cursor_event_filter.h
+//   - depends_on /ash/display/screen_position_controller.h
+// ---
+
 #include "ash/display/extended_mouse_warp_controller.h"
 
 #include "ash/display/mouse_cursor_event_filter.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history item builder class declaration
+// summary: Declares a fluent builder for creating ClipboardHistoryItem test objects with explicitly set clipboard data formats for Ash clipboard history tests.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/ref_counted_memory.h
+//   - depends_on /ui/base/clipboard/clipboard_format_type.h
+// ---
+
 #ifndef ASH_CLIPBOARD_TEST_SUPPORT_CLIPBOARD_HISTORY_ITEM_BUILDER_H_
 #define ASH_CLIPBOARD_TEST_SUPPORT_CLIPBOARD_HISTORY_ITEM_BUILDER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL handler D-Bus service provider
+// summary: Implements the OpenUrl D-Bus method that validates URL schemes and opens allowed URLs in a new foreground tab.
+// relations:
+//   - depends_on /ash/dbus/url_handler_service_provider.h
+//   - depends_on /ash/public/cpp/new_window_delegate.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/dbus/url_handler_service_provider.h"
 
 #include <utility>

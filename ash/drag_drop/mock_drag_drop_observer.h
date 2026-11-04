@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDragDropObserver declaration
+// summary: Declares a mock observer on drag-and-drop events with mocked callbacks for drag start, update, completion, cancellation and drop.
+// relations:
+//   - depends_on /base/scoped_observation.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+//   - depends_on /ui/aura/client/drag_drop_client_observer.h
+// ---
+
 #ifndef ASH_DRAG_DROP_MOCK_DRAG_DROP_OBSERVER_H_
 #define ASH_DRAG_DROP_MOCK_DRAG_DROP_OBSERVER_H_
 

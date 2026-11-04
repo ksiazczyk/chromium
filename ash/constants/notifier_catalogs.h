@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifier catalog enums for metrics
+// summary: Defines catalog enums registering ChromeOS notifications, toasts, and nudges for histogram metrics, kept in sync with enums.xml.
+// relations:
+//   - references /tools/metrics/histograms/enums.xml
+// ---
+
 #ifndef ASH_CONSTANTS_NOTIFIER_CATALOGS_H_
 #define ASH_CONSTANTS_NOTIFIER_CATALOGS_H_
 

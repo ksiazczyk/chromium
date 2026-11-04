@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayPrefs unit tests
+// summary: Unit tests covering storing and loading of display preferences including layout, rotation, power state, touch and port associations, calibration data, and mixed mirror mode parameters.
+// relations:
+//   - tests /ash/display/display_prefs.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/constants/ash_switches.h
+// ---
+
 #include "ash/display/display_prefs.h"
 
 #include <stdint.h>

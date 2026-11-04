@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security curtain session class declaration
+// summary: Declares the Session helper class that keeps every display fully curtained off while the security curtain is enabled, observing root window changes and muting audio, camera and input.
+// relations:
+//   - depends_on /ash/curtain/security_curtain_controller.h
+//   - depends_on /base/memory/raw_ref.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_CURTAIN_SESSION_H_
 #define ASH_CURTAIN_SESSION_H_
 

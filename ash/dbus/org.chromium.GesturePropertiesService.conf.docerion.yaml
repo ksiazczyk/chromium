@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.GesturePropertiesService.conf.
+type: config
+title: org.chromium.GesturePropertiesService D-Bus policy configuration
+summary: D-Bus bus policy that lets the chronos user own and call the org.chromium.GesturePropertiesService interface.

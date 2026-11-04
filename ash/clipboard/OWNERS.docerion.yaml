@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the ash/clipboard directory
+summary: Lists the email addresses of the reviewers responsible for changes in the clipboard history code.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color enhancement controller header
+// summary: Declares the ColorEnhancementController class and ColorVisionCorrectionType enum for applying global color enhancement options such as high contrast, greyscale, and CVD filters.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/shell_observer.h
+//   - depends_on /cc/paint/filter_operation.h
+// ---
+
 #ifndef ASH_COLOR_ENHANCEMENT_COLOR_ENHANCEMENT_CONTROLLER_H_
 #define ASH_COLOR_ENHANCEMENT_COLOR_ENHANCEMENT_CONTROLLER_H_
 

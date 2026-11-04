@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refresh rate controller implementation
+// summary: Implements display refresh rate management, including VRR state, seamless refresh rates, and throttling based on power status and game mode.
+// relations:
+//   - implements /ash/display/refresh_rate_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_switches.h
+// ---
+
 #include "ash/display/refresh_rate_controller.h"
 
 #include <string>

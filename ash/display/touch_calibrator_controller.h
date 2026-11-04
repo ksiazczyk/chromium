@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchCalibratorController class declaration
+// summary: Declares the Ash controller that manages the touchscreen calibration process, presents the calibration UX, and ensures only one calibration runs at a time.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/gtest_prod_util.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_DISPLAY_TOUCH_CALIBRATOR_CONTROLLER_H_
 #define ASH_DISPLAY_TOUCH_CALIBRATOR_CONTROLLER_H_
 

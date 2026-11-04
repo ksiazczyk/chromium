@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overscan calibrator unit tests
+// summary: Unit tests for the overscan calibrator, checking inset updates, commit behavior, and how overscan insets are rotated when the display rotates.
+// relations:
+//   - tests /ash/display/overscan_calibrator.h
+//   - depends_on /ash/display/cros_display_config.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/display/overscan_calibrator.h"
 
 #include "ash/display/cros_display_config.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayAnimator implementation
+// summary: Implements fade-out and fade-in animations over root windows during display mode changes, using an observer that runs a callback once all layer animations finish.
+// relations:
+//   - implements /ash/display/display_animator.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/display/display_animator.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refresh rate controller class declaration
+// summary: Declares the controller that manages display refresh rate features such as VRR and throttling and communicates desired state to the configurator.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/display/display_performance_mode_controller.h
+//   - depends_on /ash/system/power/power_status.h
+// ---
+
 #ifndef ASH_DISPLAY_REFRESH_RATE_CONTROLLER_H_
 #define ASH_DISPLAY_REFRESH_RATE_CONTROLLER_H_
 

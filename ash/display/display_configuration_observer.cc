@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayConfigurationObserver implementation
+// summary: Implements DisplayConfigurationObserver, which stores display preferences on configuration changes and forces mirror mode while the device is in tablet mode.
+// relations:
+//   - depends_on /ash/display/display_configuration_observer.h
+//   - implements /ash/display/display_configuration_observer.h
+//   - depends_on /ash/constants/ash_switches.h
+// ---
+
 #include "ash/display/display_configuration_observer.h"
 
 #include "ash/constants/ash_switches.h"

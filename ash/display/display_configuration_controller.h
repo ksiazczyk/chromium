@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayConfigurationController header
+// summary: Declares DisplayConfigurationController, the single interface for UI and API display configuration with animated transitions and throttled display operations.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/display/window_tree_host_manager.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_DISPLAY_DISPLAY_CONFIGURATION_CONTROLLER_H_
 #define ASH_DISPLAY_DISPLAY_CONFIGURATION_CONTROLLER_H_
 

@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for ash/edusumer
+summary: Applies the common directory metadata to ash/edusumer via a mixin reference.
+relations:
+  - references /ash/edusumer/COMMON_METADATA

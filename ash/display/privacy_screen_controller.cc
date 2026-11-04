@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy screen controller implementation
+// summary: Implements the Chrome OS privacy screen controller, managing user preferences, DLP enforcement, and hardware toggling for the internal display.
+// relations:
+//   - implements /ash/display/privacy_screen_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/display/privacy_screen_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

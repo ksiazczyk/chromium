@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root window transformer factory functions
+// summary: Declares factory functions that create root window transformers for normal, mirrored, and unified desktop displays.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_DISPLAY_ROOT_WINDOW_TRANSFORMERS_H_
 #define ASH_DISPLAY_ROOT_WINDOW_TRANSFORMERS_H_
 

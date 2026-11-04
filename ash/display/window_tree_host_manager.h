@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowTreeHostManager class declaration
+// summary: Declares WindowTreeHostManager, which owns and maintains root windows per display and exposes cursor, mirror window, and rounded-corner controllers.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/host/ash_window_tree_host_delegate.h
+//   - depends_on /base/compiler_specific.h
+// ---
+
 #ifndef ASH_DISPLAY_WINDOW_TREE_HOST_MANAGER_H_
 #define ASH_DISPLAY_WINDOW_TREE_HOST_MANAGER_H_
 

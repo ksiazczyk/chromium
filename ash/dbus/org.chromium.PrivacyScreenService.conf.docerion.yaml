@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.PrivacyScreenService.conf.
+type: config
+title: org.chromium.PrivacyScreenService D-Bus policy configuration
+summary: D-Bus bus policy that lets chronos own org.chromium.PrivacyScreenService and allows power and root users to call its interface.

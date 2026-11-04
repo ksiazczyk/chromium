@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayColorManager unit tests
+// summary: Unit tests for DisplayColorManager that verify color calibration loading and application using fake display snapshots, path overrides, and a fake statistics provider.
+// relations:
+//   - tests /ash/display/display_color_manager.h
+//   - depends_on /ash/constants/ash_paths.h
+//   - depends_on /base/files/file_util.h
+// ---
+
 #include "ash/display/display_color_manager.h"
 
 #include <memory>

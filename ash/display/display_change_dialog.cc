@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayChangeDialog implementation
+// summary: Implements the modal system dialog shown after display configuration changes, with a countdown that cancels the change if the user does not confirm in time.
+// relations:
+//   - implements /ash/display/display_change_dialog.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/display/display_change_dialog.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

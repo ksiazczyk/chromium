@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mirror window test API implementation
+// summary: Implements test helpers that expose mirroring hosts, cursor type, hot point, and cursor location from the mirror window controller for use in tests.
+// relations:
+//   - implements /ash/display/mirror_window_test_api.h
+//   - depends_on /ash/display/cursor_window_controller.h
+//   - depends_on /ash/display/mirror_window_controller.h
+// ---
+
 #include "ash/display/mirror_window_test_api.h"
 
 #include "ash/display/cursor_window_controller.h"

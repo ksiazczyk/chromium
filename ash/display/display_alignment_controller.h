@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayAlignmentController class header
+// summary: Declares the Ash DisplayAlignmentController that creates display alignment indicators when the mouse touches a screen edge or a display is dragged in display layouts.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /ui/display/manager/display_manager_observer.h
+// ---
+
 #ifndef ASH_DISPLAY_DISPLAY_ALIGNMENT_CONTROLLER_H_
 #define ASH_DISPLAY_DISPLAY_ALIGNMENT_CONTROLLER_H_
 

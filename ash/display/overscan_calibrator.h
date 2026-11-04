@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscanCalibrator class declaration
+// summary: Declares the OverscanCalibrator that shows visible feedback for overscan calibration, with methods to commit, reset, and update the display insets.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/compositor/layer_delegate.h
+//   - depends_on /ui/display/display.h
+// ---
+
 #ifndef ASH_DISPLAY_OVERSCAN_CALIBRATOR_H_
 #define ASH_DISPLAY_OVERSCAN_CALIBRATOR_H_
 

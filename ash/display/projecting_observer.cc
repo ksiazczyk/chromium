@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projecting observer implementation
+// summary: Tracks display configuration changes and casting sessions to report whether the device is projecting to the power manager.
+// relations:
+//   - implements /ash/display/projecting_observer.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/system/power/power_event_observer.h
+// ---
+
 #include "ash/display/projecting_observer.h"
 
 #include "ash/shell.h"

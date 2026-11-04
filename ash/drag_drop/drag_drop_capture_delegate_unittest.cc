@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DragDropCaptureDelegate unit tests
+// summary: Unit tests verifying that DragDropCaptureDelegate takes capture, cancels touches on the source window, and converts events back to the original target window.
+// relations:
+//   - tests /ash/drag_drop/drag_drop_capture_delegate.h
+//   - depends_on /ash/drag_drop/drag_drop_controller.h
+//   - depends_on /ash/drag_drop/toplevel_window_drag_delegate.h
+// ---
+
 #include "ash/drag_drop/drag_drop_capture_delegate.h"
 
 #include "ash/drag_drop/drag_drop_controller.h"

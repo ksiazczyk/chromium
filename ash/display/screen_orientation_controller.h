@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenOrientationController header
+// summary: Declares the Ash controller that applies and tracks screen orientation locks, handling accelerometer input, tablet mode, and window-requested rotation locks.
+// relations:
+//   - depends_on /ash/accelerometer/accelerometer_reader.h
+//   - depends_on /ash/accelerometer/accelerometer_types.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_DISPLAY_SCREEN_ORIENTATION_CONTROLLER_H_
 #define ASH_DISPLAY_SCREEN_ORIENTATION_CONTROLLER_H_
 

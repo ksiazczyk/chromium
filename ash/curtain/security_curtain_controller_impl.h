@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security curtain controller implementation header
+// summary: Declares SecurityCurtainControllerImpl, which manages the curtain session lifetime while the security curtain is enabled.
+// relations:
+//   - implements /ash/curtain/security_curtain_controller.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/curtain/session.h
+// ---
+
 #ifndef ASH_CURTAIN_SECURITY_CURTAIN_CONTROLLER_IMPL_H_
 #define ASH_CURTAIN_SECURITY_CURTAIN_CONTROLLER_IMPL_H_
 

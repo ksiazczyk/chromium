@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history class declaration
+// summary: Declares the ClipboardHistory class and observer interface for tracking, clearing, and removing recent clipboard items.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/clipboard/clipboard_history_item.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_CLIPBOARD_CLIPBOARD_HISTORY_H_
 #define ASH_CLIPBOARD_CLIPBOARD_HISTORY_H_
 

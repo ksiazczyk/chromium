@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnifiedMouseWarpController implementation
+// summary: Implements the mouse warp controller for unified display mode, computing display edge boundaries and moving the cursor between software-mirrored displays.
+// relations:
+//   - depends_on /ash/display/unified_mouse_warp_controller.h
+//   - depends_on /ash/display/display_util.h
+//   - depends_on /ash/display/mirror_window_controller.h
+// ---
+
 #include "ash/display/unified_mouse_warp_controller.h"
 
 #include <cmath>

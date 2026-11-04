@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualNudge bubble implementation
+// summary: Implements the ContextualNudge bubble dialog that shows a styled label anchored to a view, handling tap gestures and forwarding other gestures to the shelf.
+// relations:
+//   - depends_on /ash/controls/contextual_nudge.h
+// ---
+
 #include "ash/controls/contextual_nudge.h"
 
 #include "ash/public/cpp/shelf_types.h"

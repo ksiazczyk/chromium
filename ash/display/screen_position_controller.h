@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenPositionController header
+// summary: Declares the Ash ScreenPositionClient that converts points to and from screen coordinates and sets window bounds for a given display.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - implements /ui/aura/client/screen_position_client.h
+// ---
+
 #ifndef ASH_DISPLAY_SCREEN_POSITION_CONTROLLER_H_
 #define ASH_DISPLAY_SCREEN_POSITION_CONTROLLER_H_
 

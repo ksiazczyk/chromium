@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Draggable test view implementation
+// summary: Implements a simple draggable view used in tests, writing test drag data with an optional drag image and file name.
+// relations:
+//   - implements /ash/drag_drop/draggable_test_view.h
+//   - depends_on /base/files/file_path.h
+//   - depends_on /ui/base/dragdrop/drag_drop_types.h
+// ---
+
 #include "ash/drag_drop/draggable_test_view.h"
 
 #include "base/files/file_path.h"

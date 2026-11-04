@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Detachable base handler unit tests
+// summary: Tests pairing status changes, per-user last used base matching, and observer notifications using fake hammerd and power manager clients.
+// relations:
+//   - tests /ash/detachable_base/detachable_base_handler.h
+//   - depends_on /ash/detachable_base/detachable_base_observer.h
+//   - depends_on /ash/detachable_base/detachable_base_pairing_status.h
+// ---
+
 #include "ash/detachable_base/detachable_base_handler.h"
 
 #include <memory>

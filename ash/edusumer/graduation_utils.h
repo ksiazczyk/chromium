@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation utilities header
+// summary: Declares functions for detecting upcoming graduation enablement changes and checking graduation eligibility from the policy pref.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_EDUSUMER_GRADUATION_UTILS_H_
 #define ASH_EDUSUMER_GRADUATION_UTILS_H_
 

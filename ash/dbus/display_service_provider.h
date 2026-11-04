@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayServiceProvider class declaration
+// summary: Declares the service provider that implements org.chromium.DisplayService and forwards calls to the display configurator and screen dimmer.
+// relations:
+//   - depends_on /base/memory/weak_ptr.h
+//   - implements /chromeos/ash/components/dbus/services/cros_dbus_service.h
+//   - depends_on /dbus/exported_object.h
+// ---
+
 #ifndef ASH_DBUS_DISPLAY_SERVICE_PROVIDER_H_
 #define ASH_DBUS_DISPLAY_SERVICE_PROVIDER_H_
 

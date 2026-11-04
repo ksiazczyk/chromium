@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScrollViewGradientHelper
+// summary: Unit tests verifying that ScrollViewGradientHelper applies and removes gradient masks on a scroll view's layer depending on whether the contents are scrollable.
+// relations:
+//   - tests /ash/controls/scroll_view_gradient_helper.h
+//   - depends_on /ui/views/test/views_test_base.h
+//   - depends_on /ui/views/controls/scroll_view.h
+// ---
+
 #include "ash/controls/scroll_view_gradient_helper.h"
 
 #include <memory>

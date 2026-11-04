@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayServiceProvider implementation
+// summary: Implements the org.chromium.DisplayService D-Bus methods for display power, software dimming, and taking or releasing display ownership.
+// relations:
+//   - implements /ash/dbus/display_service_provider.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/wm/screen_dimmer.h
+// ---
+
 #include "ash/dbus/display_service_provider.h"
 
 #include <utility>
