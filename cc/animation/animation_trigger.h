@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationTrigger class declaration
+// summary: Declares AnimationTrigger with states and behaviors that control when associated animations play, pause, or reset.
+// ---
+
 #ifndef CC_ANIMATION_ANIMATION_TRIGGER_H_
 #define CC_ANIMATION_ANIMATION_TRIGGER_H_
 

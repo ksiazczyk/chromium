@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationTriggerDelegate interface header
+// summary: Interface for objects that want to be notified when cc AnimationTriggers are activated or deactivated.
+// ---
+
 #ifndef CC_ANIMATION_ANIMATION_TRIGGER_DELEGATE_H_
 #define CC_ANIMATION_ANIMATION_TRIGGER_DELEGATE_H_
 

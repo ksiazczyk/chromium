@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedProperty template header
+// summary: Declares a template class that resolves concurrent main-thread and impl-thread updates of shared values such as scroll offsets across pending and active trees.
+// ---
+
 #ifndef CC_BASE_SYNCED_PROPERTY_H_
 #define CC_BASE_SYNCED_PROPERTY_H_
 

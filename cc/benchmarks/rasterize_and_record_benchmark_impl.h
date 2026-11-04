@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterizeAndRecordBenchmarkImpl class declaration
+// summary: Declares the RasterizeAndRecordBenchmarkImpl class, which runs rasterization timing on the impl thread and stores rasterized pixel and layer count results.
+// ---
+
 #ifndef CC_BENCHMARKS_RASTERIZE_AND_RECORD_BENCHMARK_IMPL_H_
 #define CC_BENCHMARKS_RASTERIZE_AND_RECORD_BENCHMARK_IMPL_H_
 

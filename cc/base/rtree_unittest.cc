@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RTree unit tests
+// summary: Unit tests for RTree build and search, checking node reservation, overlapping and non-overlapping rects, sorted results, and SearchRefs consistency.
+// ---
+
 #include "cc/base/rtree.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Micro benchmark controller implementation
+// summary: Implements the controller that creates named micro benchmarks, schedules runs, delivers messages, and cleans up finished benchmarks.
+// ---
+
 #include "cc/benchmarks/micro_benchmark_controller.h"
 
 #include <algorithm>

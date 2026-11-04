@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageScaleAnimation implementation for zoom animations
+// summary: Implements the math for page scale zoom animations, interpolating scroll offset and scale over time with anchors and easing, primarily for double-tap zoom.
+// ---
+
 #include "cc/input/page_scale_animation.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worklet animation implementation
+// summary: Implements WorkletAnimation, an animation whose timing is controlled by an AnimationWorklet animator, ticking via script-provided local time on the impl thread.
+// ---
+
 #include "cc/animation/worklet_animation.h"
 
 #include <utility>

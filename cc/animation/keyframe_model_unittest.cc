@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyframeModel unit tests
+// summary: Unit tests for KeyframeModel covering iteration trimming, playback rate, run states, and timing behavior across many scenarios.
+// ---
+
 #include "cc/animation/keyframe_model.h"
 
 #include <limits>

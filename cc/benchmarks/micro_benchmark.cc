@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Micro benchmark base class implementation
+// summary: Implements the MicroBenchmark base class, covering done notification, message handling, and creation of the impl-side benchmark counterpart.
+// ---
+
 #include "cc/benchmarks/micro_benchmark.h"
 
 #include <utility>

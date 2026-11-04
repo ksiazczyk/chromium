@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor feature flag declarations
+// summary: Header declaring the cc compositor feature flags, their parameters, and the IsCCSlimmingEnabled helper used to gate compositor optimizations.
+// ---
+
 #ifndef CC_BASE_FEATURES_H_
 #define CC_BASE_FEATURES_H_
 

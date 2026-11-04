@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram timer unit tests
+// summary: Unit tests verifying that ScopedUMAHistogramAreaTimerBase computes correct time and pixels-per-millisecond values for edge cases like zero area, zero time, and very large values.
+// ---
+
 #include "cc/base/histograms.h"
 
 #include <limits>

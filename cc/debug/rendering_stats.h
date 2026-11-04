@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rendering stats struct declaration
+// summary: Declares the RenderingStats struct holding visible and approximated visible content areas for tracing.
+// ---
+
 #ifndef CC_DEBUG_RENDERING_STATS_H_
 #define CC_DEBUG_RENDERING_STATS_H_
 

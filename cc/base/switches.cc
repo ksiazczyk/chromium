@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor command-line switch definitions
+// summary: Defines string constants for cc compositor command-line switches covering raster threads, debug visualizations, frame dumping, and browser controls thresholds.
+// ---
+
 #include "cc/base/switches.h"
 
 #include "base/command_line.h"

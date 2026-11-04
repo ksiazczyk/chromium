@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollbarController implementation
+// summary: Implements compositor scrollbar interaction, including hit testing, thumb dragging, track clicks, autoscroll and thumb snapping for scrollbar layers.
+// ---
+
 #include "cc/layers/scrollbar_layer_impl_base.h"
 
 #include <algorithm>

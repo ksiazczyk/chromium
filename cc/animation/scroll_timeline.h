@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll timeline class declaration
+// summary: Declares ScrollTimeline, the compositor-side representation of the web ScrollTimeline concept, with scroll direction, offsets, and current time calculation.
+// ---
+
 #ifndef CC_ANIMATION_SCROLL_TIMELINE_H_
 #define CC_ANIMATION_SCROLL_TIMELINE_H_
 

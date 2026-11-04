@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worklet animation unit tests
+// summary: Unit tests for WorkletAnimation covering local time ticking, non-impl instance behavior, playback rate updates, and scroll timeline interaction using mocks.
+// ---
+
 #include "cc/animation/worklet_animation.h"
 
 #include <memory>

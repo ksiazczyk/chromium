@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpiralIterator implementation
+// summary: Implements spiral-order iteration over index rects around a center rect, honoring consider and ignore regions with direction switching and step counting.
+// ---
+
 #include "cc/base/spiral_iterator.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollOffsetAnimations and update declarations
+// summary: Declares ScrollOffsetAnimationUpdate and ScrollOffsetAnimations, which queue main-thread changes affecting impl-only scroll offset animations.
+// ---
+
 #ifndef CC_ANIMATION_SCROLL_OFFSET_ANIMATIONS_H_
 #define CC_ANIMATION_SCROLL_OFFSET_ANIMATIONS_H_
 

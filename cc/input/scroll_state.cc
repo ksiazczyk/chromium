@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollState implementation
+// summary: Implements ScrollState methods for consuming scroll deltas and returning either the delta or the delta hint depending on the scroll phase.
+// ---
+
 #include "cc/input/scroll_state.h"
 
 #include <utility>

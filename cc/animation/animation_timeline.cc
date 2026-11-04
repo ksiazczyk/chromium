@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationTimeline implementation
+// summary: Implements AnimationTimeline, which owns a group of animations, ticks time-linked animations, and pushes properties to the impl thread.
+// ---
+
 #include "cc/animation/animation_timeline.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollOffsetAnimations main-thread update handling
+// summary: Implements ScrollOffsetAnimations, which collects main-thread scroll offset animation updates and pushes adjustments or takeovers to the impl-side animations.
+// ---
+
 #include "cc/animation/scroll_offset_animations.h"
 
 #include "cc/animation/animation_host.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rendering stats instrumentation implementation
+// summary: Implements RenderingStatsInstrumentation, conditionally accumulating impl-thread rendering stats such as visible content area and returning them via TakeImplThreadRenderingStats.
+// ---
+
 #include "cc/debug/rendering_stats_instrumentation.h"
 
 #include <stdint.h>

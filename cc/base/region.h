@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Region class declaration
+// summary: Declares the Region class wrapping SkRegion with set operations, bounds queries and a forward iterator, plus free helper functions for region math.
+// ---
+
 #ifndef CC_BASE_REGION_H_
 #define CC_BASE_REGION_H_
 

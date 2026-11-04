@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnittestOnlyBenchmark implementation
+// summary: Implements a minimal unittest-only micro benchmark that can optionally create an impl-side benchmark and reports empty results after layer updates.
+// ---
+
 #include "cc/benchmarks/unittest_only_benchmark.h"
 
 #include <optional>

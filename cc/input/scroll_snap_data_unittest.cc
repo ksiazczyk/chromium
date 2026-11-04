@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for scroll snap position calculation
+// summary: Tests snap position calculations in SnapContainerData across start, center and end alignments and various snap selection strategies.
+// ---
+
 #include "cc/input/scroll_snap_data.h"
 
 #include <limits>

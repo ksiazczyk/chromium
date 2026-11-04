@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReverseSpiralIterator implementation
+// summary: Implements the reverse spiral iterator that walks indices in reverse spiral order around, consider, and ignore index rects.
+// ---
+
 #include "cc/base/reverse_spiral_iterator.h"
 
 #include <algorithm>

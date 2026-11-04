@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UniqueNotifier unit tests
+// summary: Unit tests verifying that multiple Schedule calls coalesce into one notification, that Cancel prevents pending runs, and that no notifications occur after destruction.
+// ---
+
 #include "cc/base/unique_notifier.h"
 #include "base/functional/bind.h"
 #include "base/functional/callback_helpers.h"

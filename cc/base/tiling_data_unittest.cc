@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TilingData unit tests
+// summary: Unit tests for the TilingData class, verifying tile counts, tile and border index lookups, tile positions and sizes across tiling configurations with parameterized offsets.
+// ---
+
 #include "cc/base/tiling_data.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerSelectionBound implementation
+// summary: Implements the LayerSelectionBound constructor, equality operators, and ToString formatting for layer-attached selection end points.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "cc/input/layer_selection_bound.h"
 

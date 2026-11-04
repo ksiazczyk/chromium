@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationDelegate interface
+// summary: Declares the AnimationDelegate interface with callbacks for animation started, finished, aborted, takeover and local time update notifications.
+// ---
+
 #ifndef CC_ANIMATION_ANIMATION_DELEGATE_H_
 #define CC_ANIMATION_ANIMATION_DELEGATE_H_
 

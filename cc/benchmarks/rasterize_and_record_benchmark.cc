@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterizeAndRecordBenchmark implementation
+// summary: Implements the rasterize and record micro benchmark that measures recording and rasterization performance across layers and reports timing and memory usage results.
+// ---
+
 #include "cc/benchmarks/rasterize_and_record_benchmark.h"
 
 #include <stddef.h>

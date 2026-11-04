@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Benchmark instrumentation declarations
+// summary: Declares benchmark trace event categories and names plus a scoped begin-frame task helper used for benchmark instrumentation.
+// ---
+
 #ifndef CC_BENCHMARKS_BENCHMARK_INSTRUMENTATION_H_
 #define CC_BENCHMARKS_BENCHMARK_INSTRUMENTATION_H_
 

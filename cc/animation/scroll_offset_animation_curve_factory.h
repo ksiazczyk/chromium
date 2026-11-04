@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll offset animation curve factory declaration
+// summary: Declares a factory providing static methods to create ease-in-out or linear scroll offset animation curves for different scroll types.
+// ---
+
 #ifndef CC_ANIMATION_SCROLL_OFFSET_ANIMATION_CURVE_FACTORY_H_
 #define CC_ANIMATION_SCROLL_OFFSET_ANIMATION_CURVE_FACTORY_H_
 

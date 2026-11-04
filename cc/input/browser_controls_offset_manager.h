@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsOffsetManager class declaration
+// summary: Declares the manager that tracks top and bottom browser controls offsets, shown ratios, min heights, and animations.
+// ---
+
 #ifndef CC_INPUT_BROWSER_CONTROLS_OFFSET_MANAGER_H_
 #define CC_INPUT_BROWSER_CONTROLS_OFFSET_MANAGER_H_
 

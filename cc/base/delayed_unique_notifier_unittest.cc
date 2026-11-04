@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DelayedUniqueNotifier
+// summary: Tests scheduling, rescheduling, cancellation, and shutdown behavior of the notifier using a test task runner and controllable clock.
+// ---
+
 #include "cc/base/delayed_unique_notifier.h"
 
 #include <utility>

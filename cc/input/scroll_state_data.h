@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollStateData struct declaration
+// summary: Declares ScrollStateData, holding scroll deltas, hints, pointer position, phase and interaction flags, and the native scrolling element used by scroll customization.
+// ---
+
 #ifndef CC_INPUT_SCROLL_STATE_DATA_H_
 #define CC_INPUT_SCROLL_STATE_DATA_H_
 

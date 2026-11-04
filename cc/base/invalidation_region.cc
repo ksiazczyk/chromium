@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InvalidationRegion implementation
+// summary: Implements deferred unioning of pending invalidation rects, capping region complexity by falling back to bounds when too many rects accumulate.
+// ---
+
 #include "cc/base/invalidation_region.h"
 
 #include "base/metrics/histogram.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsState enum
+// summary: 'Defines an enum for browser controls visibility: fully shown, minimum shown ratio, or both states permitted.'
+// ---
+
 #ifndef CC_INPUT_BROWSER_CONTROLS_STATE_H_
 #define CC_INPUT_BROWSER_CONTROLS_STATE_H_
 

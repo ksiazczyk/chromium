@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MicroBenchmarkImpl class declaration
+// summary: Declares the MicroBenchmarkImpl base class for benchmarks running on the impl thread, with done callbacks, per-layer run hooks, and completion notification helpers.
+// ---
+
 #ifndef CC_BENCHMARKS_MICRO_BENCHMARK_IMPL_H_
 #define CC_BENCHMARKS_MICRO_BENCHMARK_IMPL_H_
 

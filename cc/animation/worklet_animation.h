@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worklet animation class declaration
+// summary: Declares WorkletAnimation, with paired UI and impl thread instances, playback rate, options, effect timings, and scroll timeline current time handling.
+// ---
+
 #ifndef CC_ANIMATION_WORKLET_ANIMATION_H_
 #define CC_ANIMATION_WORKLET_ANIMATION_H_
 

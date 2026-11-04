@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsOffsetTagModifications struct
+// summary: Struct sent from browser to renderer holding offset tags and additional heights that browser controls must be offset by.
+// ---
+
 #ifndef CC_INPUT_BROWSER_CONTROLS_OFFSET_TAG_MODIFICATIONS_H_
 #define CC_INPUT_BROWSER_CONTROLS_OFFSET_TAG_MODIFICATIONS_H_
 

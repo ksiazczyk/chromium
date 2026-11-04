@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimationHost unit tests
+// summary: Unit tests verifying timeline synchronization, impl-only timelines, and worklet animation behavior in AnimationHost.
+// ---
+
 #include "cc/animation/animation_host.h"
 
 #include <limits>

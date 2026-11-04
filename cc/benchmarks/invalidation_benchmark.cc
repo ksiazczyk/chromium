@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalidation benchmark implementation
+// summary: Implements a micro benchmark that invalidates layer areas in fixed-size, layer, random, or viewport modes using a deterministic LCG random generator.
+// ---
+
 #include "cc/benchmarks/invalidation_benchmark.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScrollVelocityTracker unit tests
+// summary: Unit tests covering velocity computation, sample window expiry, and coalescing of same-timestamp samples in ScrollVelocityTracker.
+// ---
+
 #include "cc/input/scroll_velocity_tracker.h"
 
 #include <array>

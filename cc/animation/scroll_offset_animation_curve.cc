@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollOffsetAnimationCurve implementation
+// summary: Implements ScrollOffsetAnimationCurve, computing scroll offset over time with ease-in-out or linear timing and duration behaviors for programmatic, keyboard, and wheel scrolls.
+// ---
+
 #include "cc/animation/scroll_offset_animation_curve.h"
 
 #include <algorithm>

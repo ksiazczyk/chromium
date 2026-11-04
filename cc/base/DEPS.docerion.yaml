@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for cc/base
+summary: DEPS file restricting cc/base includes to its own directory, while allowing unit tests to use cc/test and fuzztest.

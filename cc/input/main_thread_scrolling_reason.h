@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main thread scrolling reason enums and text helpers
+// summary: Defines enums for repaint, hit-test and other reasons that force scrolling onto the main thread, plus helpers to format them as text and trace values.
+// ---
+
 #ifndef CC_INPUT_MAIN_THREAD_SCROLLING_REASON_H_
 #define CC_INPUT_MAIN_THREAD_SCROLLING_REASON_H_
 

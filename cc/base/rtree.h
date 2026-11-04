@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RTree template class
+// summary: Header-only R-Tree implementation bulk-loaded from bounding rectangles, supporting rect searches returning payloads and bounds.
+// ---
+
 #ifndef CC_BASE_RTREE_H_
 #define CC_BASE_RTREE_H_
 

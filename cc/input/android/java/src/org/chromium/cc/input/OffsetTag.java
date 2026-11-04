@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffsetTag
+// summary: Java counterpart to the native viz::OffsetTag, a simple value object wrapping a random or provided Token and exposing it to native code via JNI.
+// ---
+
 package org.chromium.cc.input;
 
 import com.google.errorprone.annotations.DoNotMock;

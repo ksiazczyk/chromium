@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ElementAnimations unit tests
+// summary: Extensive unit tests for ElementAnimations covering element registration, active and pending tree observers, ticking, and property animation behavior.
+// ---
+
 #include "cc/animation/element_animations.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MicroBenchmarkController unit tests
+// summary: Unit tests for the micro benchmark controller covering scheduling of unknown benchmarks, commit scheduling, and repeated benchmark execution on a fake layer tree host.
+// ---
+
 #include "cc/benchmarks/micro_benchmark_controller.h"
 
 #include <memory>

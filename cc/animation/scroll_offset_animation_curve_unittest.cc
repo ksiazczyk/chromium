@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScrollOffsetAnimationCurve unit tests
+// summary: Unit tests for ScrollOffsetAnimationCurve verifying duration computation, value interpolation, target updates, and feature-parameterized easing.
+// ---
+
 #include "cc/animation/scroll_offset_animation_curve.h"
 
 #include <utility>

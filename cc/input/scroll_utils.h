@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollUtils helper class declaration
+// summary: Declares ScrollUtils, a set of static scroll helper methods for cc and blink, including percentage-to-pixel conversion and scrollbar thumb length calculation.
+// ---
+
 #ifndef CC_INPUT_SCROLL_UTILS_H_
 #define CC_INPUT_SCROLL_UTILS_H_
 

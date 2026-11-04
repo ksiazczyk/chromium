@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReverseSpiralIterator class declaration
+// summary: Declares the CC_BASE_EXPORT ReverseSpiralIterator class that iterates in reverse spiral direction around a center rect.
+// ---
+
 #ifndef CC_BASE_REVERSE_SPIRAL_ITERATOR_H_
 #define CC_BASE_REVERSE_SPIRAL_ITERATOR_H_
 

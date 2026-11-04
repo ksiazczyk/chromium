@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpiralIterator class header
+// summary: Declares an iterator that visits indices in spiral order around a center index rect, with consider and ignore index rects.
+// ---
+
 #ifndef CC_BASE_SPIRAL_ITERATOR_H_
 #define CC_BASE_SPIRAL_ITERATOR_H_
 

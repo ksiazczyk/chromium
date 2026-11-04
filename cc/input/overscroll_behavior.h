@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscrollBehavior struct for CSS overscroll-behavior
+// summary: Declares the OverscrollBehavior struct modeling the CSS overscroll-behavior values none, auto, contain and chain with helpers for propagation and local border effects.
+// ---
+
 #ifndef CC_INPUT_OVERSCROLL_BEHAVIOR_H_
 #define CC_INPUT_OVERSCROLL_BEHAVIOR_H_
 

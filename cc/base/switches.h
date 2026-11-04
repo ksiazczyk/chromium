@@ -4,6 +4,12 @@
 
 // Defines all the "cc" command-line switches.
 
+// ---docerion
+// type: source
+// title: Compositor command-line switch declarations
+// summary: Declares exported command-line switch names for the cc compositor, including renderer, UI, raster, debug visualization, and test switches.
+// ---
+
 #ifndef CC_BASE_SWITCHES_H_
 #define CC_BASE_SWITCHES_H_
 

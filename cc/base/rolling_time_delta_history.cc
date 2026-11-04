@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RollingTimeDeltaHistory implementation
+// summary: Implements a bounded history of time delta samples with insertion, removal of the oldest sample, clearing, and percentile queries.
+// ---
+
 #include <stddef.h>
 
 #include <cmath>

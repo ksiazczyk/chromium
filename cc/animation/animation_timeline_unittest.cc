@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimationTimeline unit tests
+// summary: Tests attaching, detaching, and clearing animations on a timeline and syncing those changes to the impl thread.
+// ---
+
 #include "cc/animation/animation_timeline.h"
 
 #include "cc/animation/animation.h"

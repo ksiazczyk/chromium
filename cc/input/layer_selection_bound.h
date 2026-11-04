@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerSelectionBound struct
+// summary: Defines a selection end-point marker attached to a specific layer, including edge points, layer id, hidden state, and the LayerSelection alias.
+// ---
+
 #ifndef CC_INPUT_LAYER_SELECTION_BOUND_H_
 #define CC_INPUT_LAYER_SELECTION_BOUND_H_
 

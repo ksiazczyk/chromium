@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture debug utility declaration
+// summary: Declares PictureDebugUtil with a static SerializeAsBase64 method for encoding SkPicture objects in debug traces.
+// ---
+
 #ifndef CC_DEBUG_PICTURE_DEBUG_UTIL_H_
 #define CC_DEBUG_PICTURE_DEBUG_UTIL_H_
 

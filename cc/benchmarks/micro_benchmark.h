@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Micro benchmark base class declaration
+// summary: Declares the MicroBenchmark base class interface for running micro benchmarks against the layer tree and reporting results via a callback.
+// ---
+
 #ifndef CC_BENCHMARKS_MICRO_BENCHMARK_H_
 #define CC_BENCHMARKS_MICRO_BENCHMARK_H_
 

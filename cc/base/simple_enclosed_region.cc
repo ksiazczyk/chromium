@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleEnclosedRegion implementation
+// summary: Implements a simplified region that tracks a single largest enclosing rectangle, with union and subtract operations of bounded complexity.
+// ---
+
 #include "cc/base/simple_enclosed_region.h"
 
 #include <stddef.h>

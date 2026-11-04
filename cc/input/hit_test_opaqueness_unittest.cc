@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hit test opaqueness unit tests
+// summary: Unit tests verifying UnionHitTestOpaqueness results across combinations of transparent, opaque, and mixed rectangles.
+// ---
+
 #include "cc/input/hit_test_opaqueness.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

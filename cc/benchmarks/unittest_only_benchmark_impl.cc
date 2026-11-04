@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnittestOnlyBenchmarkImpl implementation
+// summary: Implements the UnittestOnlyBenchmarkImpl, an impl-side micro benchmark that reports completion with empty results after a commit.
+// ---
+
 #include "cc/benchmarks/unittest_only_benchmark_impl.h"
 
 #include <utility>

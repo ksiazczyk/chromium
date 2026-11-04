@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snap selection strategy implementation
+// summary: Implements factory methods and strategy classes that select valid snap positions for end-position, directional, displacement, and page scrolling gestures.
+// ---
+
 #include "cc/input/snap_selection_strategy.h"
 
 #include <cmath>

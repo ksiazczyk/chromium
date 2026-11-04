@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Impl-side micro benchmark controller implementation
+// summary: Implements the impl-thread controller that runs micro benchmarks on the layer tree host impl after each commit and removes finished ones.
+// ---
+
 #include "cc/benchmarks/micro_benchmark_controller_impl.h"
 
 #include <string>

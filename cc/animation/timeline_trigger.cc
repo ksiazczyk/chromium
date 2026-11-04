@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timeline trigger implementation
+// summary: Implements TimelineTrigger, which computes trigger state from scroll timeline current time and performs activation or deactivation of animations.
+// ---
+
 #include "cc/animation/timeline_trigger.h"
 
 #include "cc/animation/animation_host.h"

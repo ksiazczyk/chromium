@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for cc/animation
+summary: Sets DEPS include rules that restrict which cc headers the animation directory may depend on.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleScrollbarAnimationControllerThinning declaration
+// summary: Declares SingleScrollbarAnimationControllerThinning, which manages thinning and fade animations for a single overlay scrollbar orientation.
+// ---
+
 #ifndef CC_INPUT_SINGLE_SCROLLBAR_ANIMATION_CONTROLLER_THINNING_H_
 #define CC_INPUT_SINGLE_SCROLLBAR_ANIMATION_CONTROLLER_THINNING_H_
 

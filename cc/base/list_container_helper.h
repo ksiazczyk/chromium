@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListContainerHelper class declaration
+// summary: Declares ListContainerHelper, the non-templated backing logic for ListContainer, with its allocator and iterator classes exposed only to friend templates.
+// ---
+
 #ifndef CC_BASE_LIST_CONTAINER_HELPER_H_
 #define CC_BASE_LIST_CONTAINER_HELPER_H_
 

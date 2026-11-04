@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MicroBenchmarkImpl implementation
+// summary: Implements the impl-side MicroBenchmarkImpl base class, which runs benchmarks on the compositor thread and posts completion results back to the origin task runner.
+// ---
+
 #include "cc/benchmarks/micro_benchmark_impl.h"
 
 #include <utility>

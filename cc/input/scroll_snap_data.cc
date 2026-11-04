@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll snap position calculation implementation
+// summary: Implements snap position search logic for scroll snap containers, including distance calculations, candidate selection and dodging ranges per the CSS scroll snap spec.
+// ---
+
 #include "cc/input/scroll_snap_data.h"
 
 #include <algorithm>

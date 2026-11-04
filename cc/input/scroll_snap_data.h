@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll snap data structures for CSS scroll snap
+// summary: Declares data structures for CSS scroll snap, including ScrollSnapType, ScrollSnapAlign, SnapAreaData and SnapContainerData used to compute snap positions.
+// ---
+
 #ifndef CC_INPUT_SCROLL_SNAP_DATA_H_
 #define CC_INPUT_SCROLL_SNAP_DATA_H_
 

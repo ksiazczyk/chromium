@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnittestOnlyBenchmarkImpl class header
+// summary: Declares the UnittestOnlyBenchmarkImpl class, a MicroBenchmarkImpl subclass that overrides DidCompleteCommit to support unittest-only micro benchmarks in the Chromium compositor.
+// ---
+
 #ifndef CC_BENCHMARKS_UNITTEST_ONLY_BENCHMARK_IMPL_H_
 #define CC_BENCHMARKS_UNITTEST_ONLY_BENCHMARK_IMPL_H_
 

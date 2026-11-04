@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Region implementation
+// summary: Implements the Region class, a wrapper around SkRegion providing union, subtract, intersect, containment queries, tracing output and rect iteration.
+// ---
+
 #include "cc/base/region.h"
 
 #include <stddef.h>

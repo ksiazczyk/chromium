@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedUniqueNotifier implementation
+// summary: Implements scheduling, rescheduling, cancellation, and shutdown of a single delayed notification posted to a sequenced task runner.
+// ---
+
 #include "cc/base/delayed_unique_notifier.h"
 
 #include <utility>

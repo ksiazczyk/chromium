@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cc/input unit tests
+summary: Grants cc/input unit test files permission to include the overlay scrollbar constants header from ui/native_theme.

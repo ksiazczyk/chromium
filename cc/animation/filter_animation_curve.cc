@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter animation curve implementation
+// summary: Implements FilterAnimationCurve, FilterKeyframe, and KeyframedFilterAnimationCurve for ticking and blending filter operation keyframes over time.
+// ---
+
 #include "cc/animation/filter_animation_curve.h"
 
 #include "base/check_op.h"

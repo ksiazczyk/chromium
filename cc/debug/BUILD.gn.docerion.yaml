@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the cc debug component
+summary: Defines the cc_debug component target, listing its debug sources and dependencies on base and skia.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools instrumentation scoped task implementations
+// summary: Implements scoped image upload and decode tasks that emit timeline trace events and record UMA duration histograms per image format and task type.
+// ---
+
 #include "cc/base/devtools_instrumentation.h"
 
 #include <string>

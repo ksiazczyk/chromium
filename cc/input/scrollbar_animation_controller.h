@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollbarAnimationController class declaration
+// summary: Declares ScrollbarAnimationController and its client interface, which shows scrollbars on scroll and fades them out after an idle delay.
+// ---
+
 #ifndef CC_INPUT_SCROLLBAR_ANIMATION_CONTROLLER_H_
 #define CC_INPUT_SCROLLBAR_ANIMATION_CONTROLLER_H_
 

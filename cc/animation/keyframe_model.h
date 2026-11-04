@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyframeModel class declaration
+// summary: Declares the cc KeyframeModel class, a gfx::KeyframeModel subclass that tracks run state, iterations, target property, and element for keyframe animations.
+// ---
+
 #ifndef CC_ANIMATION_KEYFRAME_MODEL_H_
 #define CC_ANIMATION_KEYFRAME_MODEL_H_
 

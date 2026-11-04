@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyframeEffect class header
+// summary: Declares KeyframeEffect, which owns a group of KeyframeModels for a single target element and handles their starting, running, pausing, and ticking states.
+// ---
+
 #ifndef CC_ANIMATION_KEYFRAME_EFFECT_H_
 #define CC_ANIMATION_KEYFRAME_EFFECT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snap fling curve implementation
+// summary: Implements SnapFlingCurve, computing geometric scroll deltas and displacement estimates so fling animations end on snap positions, with platform-specific decay constants.
+// ---
+
 #include "cc/input/snap_fling_curve.h"
 
 #include <algorithm>

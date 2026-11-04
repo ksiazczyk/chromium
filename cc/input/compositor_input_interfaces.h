@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor input delegate interfaces
+// summary: Declares the two-way InputDelegateForCompositor interface that LayerTreeHostImpl uses to communicate state changes with and query the compositor InputHandler.
+// ---
+
 #ifndef CC_INPUT_COMPOSITOR_INPUT_INTERFACES_H_
 #define CC_INPUT_COMPOSITOR_INPUT_INTERFACES_H_
 
