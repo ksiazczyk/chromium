@@ -1,0 +1,4 @@
+# Docerion header of scan_done_section.html.
+type: source
+title: Scan done section template
+summary: HTML template for the scan-done-section element that shows post-scan options, including opening the saved file in Files, editing it, and the Done button.

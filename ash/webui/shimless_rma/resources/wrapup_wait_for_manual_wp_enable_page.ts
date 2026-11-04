@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wrap-up manual write protection enable page element
+// summary: Defines the wrapup-wait-for-manual-wp-enable-page element that waits for manual hardware write protection to be enabled before transitioning.
+// ---
+
 import './shimless_rma_shared.css.js';
 import './base_page.js';
 

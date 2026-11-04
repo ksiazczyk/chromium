@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut customization mojom traits header
+// summary: Declares the StructTraits template specialization that maps the SimpleAccelerator mojom data view to the ui::Accelerator type.
+// ---
+
 #ifndef ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_MOJOM_SHORTCUT_CUSTOMIZATION_MOJOM_TRAITS_H_
 #define ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_MOJOM_SHORTCUT_CUSTOMIZATION_MOJOM_TRAITS_H_
 

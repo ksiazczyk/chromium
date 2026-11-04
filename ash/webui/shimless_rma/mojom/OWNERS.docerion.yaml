@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Shimless RMA mojom directory
+summary: Requires review by IPC security owners for changes to mojom and mojom traits files in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom nav content element
+// summary: Defines the shortcuts-bottom-nav-content element exposing the keyboard settings link and the restore-all-defaults button.
+// ---
+
 import '/strings.m.js';
 import '../css/shortcut_customization_shared.css.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';

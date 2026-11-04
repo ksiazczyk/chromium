@@ -1,0 +1,4 @@
+# Docerion header of accelerator_edit_view.html.
+type: source
+title: Accelerator edit view template
+summary: HTML template for the accelerator edit view, styling a single accelerator with edit, delete, and cancel buttons, lock icon, and error or warning states.

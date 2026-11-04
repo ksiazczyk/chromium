@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External app dialog class declaration
+// summary: Declares the ExternalAppDialog class that shows external app content in a web dialog with restricted APIs, console log callbacks, and test hooks.
+// ---
+
 #ifndef ASH_WEBUI_SHIMLESS_RMA_BACKEND_EXTERNAL_APP_DIALOG_H_
 #define ASH_WEBUI_SHIMLESS_RMA_BACKEND_EXTERNAL_APP_DIALOG_H_
 

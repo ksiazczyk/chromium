@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the shortcut search directory
+summary: Lists code owners for the search directory and routes .mojom review approvals to the IPC security owners.

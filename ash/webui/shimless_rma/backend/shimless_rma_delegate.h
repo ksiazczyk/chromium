@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA delegate interface
+// summary: Declares the ShimlessRmaDelegate interface exposing //chrome browser functionality such as diagnostics apps, QR codes, and media access to the Shimless RMA UI.
+// ---
+
 #ifndef ASH_WEBUI_SHIMLESS_RMA_BACKEND_SHIMLESS_RMA_DELEGATE_H_
 #define ASH_WEBUI_SHIMLESS_RMA_BACKEND_SHIMLESS_RMA_DELEGATE_H_
 

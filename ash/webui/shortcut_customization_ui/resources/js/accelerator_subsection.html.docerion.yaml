@@ -1,0 +1,4 @@
+# Docerion header of accelerator_subsection.html.
+type: source
+title: Accelerator subsection template
+summary: HTML template for the accelerator subsection, a table with a title, optional lock icon, and repeated accelerator rows for a group of shortcuts.

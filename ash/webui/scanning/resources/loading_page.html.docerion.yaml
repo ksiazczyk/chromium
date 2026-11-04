@@ -1,0 +1,4 @@
+# Docerion header of loading_page.html.
+type: source
+title: Loading and no-scanners page template
+summary: HTML template showing a progress indicator while scanners load and a no-scanners state with learn-more and retry buttons.

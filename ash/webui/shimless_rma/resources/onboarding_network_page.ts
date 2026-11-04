@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network connection onboarding page element
+// summary: Polymer element implementing the network onboarding page, listing available networks via the CrosNetworkConfig service and handling connect and disconnect flows.
+// ---
+
 import './base_page.js';
 import './icons.html.js';
 import './shimless_rma_shared.css.js';

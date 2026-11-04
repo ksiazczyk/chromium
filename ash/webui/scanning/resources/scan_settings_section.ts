@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scan settings section element
+// summary: TypeScript that defines the scan-settings-section custom element used as a layout wrapper for scan setting rows.
+// ---
+
 import './scanning_fonts.css.js';
 import './scanning_shared.css.js';
 

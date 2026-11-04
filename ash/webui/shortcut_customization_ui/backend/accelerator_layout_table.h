@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator layout table header
+// summary: Declares layout tables and the NonConfigurableActions enum used to display accelerators in the Shortcuts app, with instructions for adding new entries.
+// ---
+
 #ifndef ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_BACKEND_ACCELERATOR_LAYOUT_TABLE_H_
 #define ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_BACKEND_ACCELERATOR_LAYOUT_TABLE_H_
 

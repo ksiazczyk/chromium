@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts page element
+// summary: Implements the shortcuts-page Polymer element that renders accelerator subsections for a category and handles navigation and scrolling.
+// ---
+
 import './accelerator_subsection.js';
 import '../css/shortcut_customization_shared.css.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of reimaging_firmware_update_page.html.
+type: source
+title: Reimaging firmware update page template
+summary: HTML template for the reimaging firmware update page showing status text, an optional warning icon, and a spinner or illustration.

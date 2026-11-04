@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: HTML template for the scanner feedback app
+summary: Template fragment that conditionally renders the mako-orca-feedback element with string source, callbacks and screenshot once a screenshot URL is available.

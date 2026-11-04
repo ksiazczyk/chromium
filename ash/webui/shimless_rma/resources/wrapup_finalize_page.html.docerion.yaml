@@ -1,0 +1,4 @@
+# Docerion header of wrapup_finalize_page.html.
+type: source
+title: Wrap-up finalize page template
+summary: HTML template for the wrap-up page that shows finalization progress and messages while device finalization completes.

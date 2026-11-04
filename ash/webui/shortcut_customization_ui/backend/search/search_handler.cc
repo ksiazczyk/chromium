@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search handler implementation for the Shortcuts app
+// summary: Implements the mojo SearchHandler for the ChromeOS Shortcuts app, querying the LocalSearchService index and converting and sorting results into SearchResult responses.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/backend/search/search_handler.h"
 
 #include <optional>

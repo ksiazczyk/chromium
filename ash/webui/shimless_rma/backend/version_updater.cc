@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA OS version updater implementation
+// summary: Implements OS update checks and updates for the Shimless RMA flow via the Update Engine client, blocking updates when the device is offline or on a metered network.
+// ---
+
 #include "ash/webui/shimless_rma/backend/version_updater.h"
 
 #include <algorithm>

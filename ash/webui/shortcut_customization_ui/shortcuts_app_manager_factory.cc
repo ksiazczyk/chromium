@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts app manager factory implementation
+// summary: Implements the BrowserContextKeyedServiceFactory that creates ShortcutsAppManager instances per browser context, including in incognito mode.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/shortcuts_app_manager_factory.h"
 #include "ash/webui/shortcut_customization_ui/shortcuts_app_manager.h"
 #include "chromeos/ash/components/local_search_service/public/cpp/local_search_service_proxy_factory.h"

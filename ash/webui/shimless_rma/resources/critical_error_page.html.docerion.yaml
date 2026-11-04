@@ -1,0 +1,4 @@
+# Docerion header of critical_error_page.html.
+type: source
+title: Critical error page template
+summary: HTML template for the critical error screen with warning message, reboot and exit-to-login buttons and an error illustration.

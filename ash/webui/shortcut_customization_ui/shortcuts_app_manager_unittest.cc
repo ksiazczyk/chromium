@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcuts app manager unit tests
+// summary: Unit tests for ShortcutsAppManager that verify search concept registration using fake accelerator configurations and a test local search service proxy.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/shortcuts_app_manager.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base page web component
+// summary: Defines the base-page Polymer element that serves as the main page layout for the Shimless RMA process modal dialog.
+// ---
+
 import './shimless_rma_shared.css.js';
 
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

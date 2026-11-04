@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator configuration provider implementation
+// summary: Implements the mojo provider that supplies, customizes and records metrics for accelerator configurations in the ChromeOS shortcut customization UI.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/backend/accelerator_configuration_provider.h"
 
 #include <algorithm>

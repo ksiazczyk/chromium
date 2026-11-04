@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchConcept struct representing a shortcut search result
+// summary: Declares the SearchConcept struct that pairs a shortcut's layout info and accelerators for indexing in the Local Search Service.
+// ---
+
 #ifndef ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_BACKEND_SEARCH_SEARCH_CONCEPT_H_
 #define ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_BACKEND_SEARCH_SEARCH_CONCEPT_H_
 

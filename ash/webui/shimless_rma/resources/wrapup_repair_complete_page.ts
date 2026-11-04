@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wrap-up repair complete page element
+// summary: Defines the wrapup-repair-complete-page element offering shutdown, reboot, diagnostics, log saving and battery cutoff actions after repair completion.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/polymer/v3_0/paper-tooltip/paper-tooltip.js';

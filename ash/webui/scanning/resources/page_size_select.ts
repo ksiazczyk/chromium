@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page size select element
+// summary: Polymer element that displays available page sizes in a dropdown, sorted alphabetically with the fit-to-scan-area option last.
+// ---
+
 import './scan_settings_section.js';
 import '/strings.m.js';
 

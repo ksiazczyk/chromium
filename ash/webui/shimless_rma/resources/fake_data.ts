@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data for the Shimless RMA service
+// summary: Provides fake states, components, Chrome versions, and RSU challenge data used to populate the fake Shimless RMA service for testing and development.
+// ---
+
 import {OncMojo} from 'chrome://resources/ash/common/network/onc_mojo.js';
 import type {NetworkStateProperties as Network} from 'chrome://resources/mojo/chromeos/services/network_config/public/mojom/cros_network_config.mojom-webui.js';
 import {NetworkType} from 'chrome://resources/mojo/chromeos/services/network_config/public/mojom/network_types.mojom-webui.js';

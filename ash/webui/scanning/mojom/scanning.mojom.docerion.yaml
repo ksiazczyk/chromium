@@ -1,0 +1,4 @@
+# Docerion header of scanning.mojom.
+type: source
+title: Mojo IPC definitions for the ChromeOS Scan app
+summary: Defines the mojom enums, structs and interfaces describing scanners, scan settings, capabilities and scan job results for the Scan app.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shimless RMA mojom GN build file
+summary: Defines the GN targets that build the shimless_rma.mojom bindings with C++ typemaps mapping mojom enums to rmad and update_engine proto types, plus a unit test target.

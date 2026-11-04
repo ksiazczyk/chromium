@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner feedback browser context data implementation
+// summary: Implements storing, retrieving and taking ScannerFeedbackInfo entries on a browser context, keyed by unguessable token IDs.
+// ---
+
 #include "ash/webui/scanner_feedback_ui/scanner_feedback_browser_context_data.h"
 
 #include <map>

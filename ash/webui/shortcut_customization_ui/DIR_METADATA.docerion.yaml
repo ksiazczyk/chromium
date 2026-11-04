@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for shortcut customization UI
+summary: Applies the common metadata file to this directory via a mixins entry.

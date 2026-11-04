@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA service implementation
+// summary: Implements the Mojo ShimlessRmaService handling RMA states, network selection, OS updates, write protect disabling, component lists, and diagnostics app flows.
+// ---
+
 #include "ash/webui/shimless_rma/backend/shimless_rma_service.h"
 
 #include <memory>

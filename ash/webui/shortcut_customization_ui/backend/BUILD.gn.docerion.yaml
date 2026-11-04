@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for shortcut customization backend
+summary: GN build definition for the shortcut customization backend static library, listing its sources and dependencies.

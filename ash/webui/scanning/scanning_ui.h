@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning WebUI controller declarations
+// summary: Declares the WebUI controller and its configuration class for the ChromeOS scanning app, including callbacks that bind the scan service and accessibility features Mojo interfaces.
+// ---
+
 #ifndef ASH_WEBUI_SCANNING_SCANNING_UI_H_
 #define ASH_WEBUI_SCANNING_SCANNING_UI_H_
 

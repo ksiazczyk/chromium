@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo trait declarations for scanning mojom types
+// summary: Declares Mojo enum and struct traits that map lorgnette protobuf types to and from the Scan app's mojom types.
+// ---
+
 #ifndef ASH_WEBUI_SCANNING_MOJOM_SCANNING_MOJOM_TRAITS_H_
 #define ASH_WEBUI_SCANNING_MOJOM_SCANNING_MOJOM_TRAITS_H_
 

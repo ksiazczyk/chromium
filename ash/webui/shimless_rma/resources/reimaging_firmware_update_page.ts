@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reimaging firmware update page
+// summary: Polymer element that displays read-only firmware update status during reimaging, reacting to USB insertion, update progress, and completion.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';
 import './shimless_rma_shared.css.js';

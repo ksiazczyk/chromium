@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchHandler class declaration
+// summary: Declares the SearchHandler class that serves search queries for the ChromeOS Shortcuts app by matching queries against SearchConcepts indexed in the LocalSearchService.
+// ---
+
 #ifndef ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_BACKEND_SEARCH_SEARCH_HANDLER_H_
 #define ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_BACKEND_SEARCH_SEARCH_HANDLER_H_
 

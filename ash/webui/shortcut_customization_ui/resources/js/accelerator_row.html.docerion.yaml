@@ -1,0 +1,4 @@
+# Docerion header of accelerator_row.html.
+type: source
+title: Accelerator row template
+summary: HTML template for the accelerator row, a table row showing a shortcut description alongside its accelerators or a no-shortcut-assigned state with an edit button.

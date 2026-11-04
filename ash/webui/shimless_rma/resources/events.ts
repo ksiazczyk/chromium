@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA UI event constants and types
+// summary: Defines custom event names and types used by Shimless RMA pages to control buttons, state transitions, calibration, hardware errors, and log dialogs.
+// ---
+
 import type {RmadErrorCode, StateResult} from './shimless_rma.mojom-webui.js';
 
 export const DISABLE_NEXT_BUTTON = 'disable-next-button';

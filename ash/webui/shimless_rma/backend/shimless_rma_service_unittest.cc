@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shimless RMA service unit tests
+// summary: Unit tests for the Shimless RMA backend service, exercising RMA state transitions, browser action metrics and network behavior with fake RMAD, diagnostics and network clients.
+// ---
+
 #include "ash/webui/shimless_rma/backend/shimless_rma_service.h"
 
 #include <map>

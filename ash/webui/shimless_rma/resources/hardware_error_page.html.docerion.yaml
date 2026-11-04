@@ -1,0 +1,4 @@
+# Docerion header of hardware_error_page.html.
+type: source
+title: Hardware error page template
+summary: HTML template for the page shown when a hardware error blocks the RMA process, displaying the error code and a shutdown button.

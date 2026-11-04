@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Shimless RMA delegate declaration
+// summary: Declares a fake ShimlessRmaDelegate with setters for test-controlled results and accessors for the last loaded diagnostics app paths.
+// ---
+
 #ifndef ASH_WEBUI_SHIMLESS_RMA_BACKEND_FAKE_SHIMLESS_RMA_DELEGATE_H_
 #define ASH_WEBUI_SHIMLESS_RMA_BACKEND_FAKE_SHIMLESS_RMA_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionUpdater class declaration for Shimless RMA
+// summary: Declares the VersionUpdater class that observes Update Engine status and reports OS update progress, version and errors through a status callback.
+// ---
+
 #ifndef ASH_WEBUI_SHIMLESS_RMA_BACKEND_VERSION_UPDATER_H_
 #define ASH_WEBUI_SHIMLESS_RMA_BACKEND_VERSION_UPDATER_H_
 

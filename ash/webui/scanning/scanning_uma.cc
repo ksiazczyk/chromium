@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scan resolution UMA enum conversion
+// summary: Implements conversion of scan resolution integer values into ScanJobSettingsResolution enum values for UMA histogram reporting.
+// ---
+
 #include "ash/webui/scanning/scanning_uma.h"
 
 #include "base/metrics/histogram_functions.h"

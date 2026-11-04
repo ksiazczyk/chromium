@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Base on flat surface illustration
+summary: SVG illustration for the Shimless RMA flow showing a laptop base on a flat surface with a downward arrow, guiding device placement.
+-->
+
 <svg width="320" height="320" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0)">
 <path d="M75.6721 50.2773H219.113C222.667 50.2773 225.792 53.1708 226.098 56.6799L234.615 159.244H78.3681L69.7899 56.7414C69.4835 53.1708 72.1182 50.2773 75.6721 50.2773Z" stroke="#1A73E8" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>

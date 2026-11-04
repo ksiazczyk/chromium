@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External app dialog implementation
+// summary: Implements the web dialog that displays external apps on the Shimless RMA screen while blocking tabs, file chooser, and other restricted APIs.
+// ---
+
 #include "ash/webui/shimless_rma/backend/external_app_dialog.h"
 
 #include <memory>

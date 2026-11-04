@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Shimless RMA service implementation
+// summary: Implements a fake version of the ShimlessRmaService mojo interface with configurable results and observables for exercising the RMA WebUI in tests.
+// ---
+
 import {assert} from 'chrome://resources/ash/common/assert.js';
 import {FakeMethodResolver} from 'chrome://resources/ash/common/fake_method_resolver.js';
 import {FakeObservables} from 'chrome://resources/ash/common/fake_observables.js';

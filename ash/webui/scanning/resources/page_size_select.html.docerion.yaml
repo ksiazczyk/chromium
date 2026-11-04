@@ -1,0 +1,4 @@
+# Docerion header of page_size_select.html.
+type: source
+title: Page size select template
+summary: HTML template for the page size dropdown within a scan settings section.

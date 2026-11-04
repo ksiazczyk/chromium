@@ -1,0 +1,4 @@
+# Docerion header of search_box.html.
+type: source
+title: Search box template
+summary: HTML template for the search box element, styling the toolbar search field and the dropdown list of results.

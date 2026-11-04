@@ -1,0 +1,4 @@
+# Docerion header of file_type_select.html.
+type: source
+title: File type dropdown template
+summary: HTML template for the file-type-select web component, offering JPG, PNG and PDF output options whose values match the Mojo FileType enum.

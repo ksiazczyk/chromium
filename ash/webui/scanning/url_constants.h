@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning app URL constant declarations
+// summary: Declares the constants for the scanning app WebUI host name and address that are defined in the matching source file.
+// ---
+
 #ifndef ASH_WEBUI_SCANNING_URL_CONSTANTS_H_
 #define ASH_WEBUI_SCANNING_URL_CONSTANTS_H_
 

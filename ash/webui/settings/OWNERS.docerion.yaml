@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Ash settings owners list
+summary: Delegates ownership of the ash settings directory to the owners file of chrome/browser/resources/ash/settings.

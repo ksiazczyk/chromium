@@ -1,0 +1,4 @@
+# Docerion header of resolution_select.html.
+type: source
+title: Resolution select template
+summary: HTML template for the scan resolution dropdown within a scan settings section.

@@ -1,0 +1,4 @@
+# Docerion header of scanner_feedback_ui.mojom.
+type: source
+title: Mojom definitions for the scanner feedback UI
+summary: Defines the FeedbackInfo struct and the PageHandler interface used by the chrome-untrusted scanner-feedback web UI to exchange feedback data with the trusted browser process.

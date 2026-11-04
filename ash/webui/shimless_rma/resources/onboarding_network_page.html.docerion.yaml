@@ -1,0 +1,4 @@
+# Docerion header of onboarding_network_page.html.
+type: source
+title: Network connection onboarding page template
+summary: HTML template for the onboarding network page with a network list and a dialog for configuring, connecting to or disconnecting from a network.

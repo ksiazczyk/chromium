@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning app metrics handler declarations
+// summary: Declares the ChromeOS Scan app WebUI metrics handler that records scan setting changes, completed scan actions, job settings, and completed scan counts.
+// ---
+
 #ifndef ASH_WEBUI_SCANNING_SCANNING_METRICS_HANDLER_H_
 #define ASH_WEBUI_SCANNING_SCANNING_METRICS_HANDLER_H_
 

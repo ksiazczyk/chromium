@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner select element logic
+// summary: TypeScript for the scanner-select custom element that sorts connected scanners and selects the last used or first available scanner.
+// ---
+
 import 'chrome://resources/mojo/mojo/public/mojom/base/big_buffer.mojom-webui.js';
 import 'chrome://resources/mojo/mojo/public/mojom/base/string16.mojom-webui.js';
 import 'chrome://resources/mojo/mojo/public/mojom/base/unguessable_token.mojom-webui.js';

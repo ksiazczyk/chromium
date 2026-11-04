@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA delegate result implementation
+// summary: Implements the constructors, assignment, and destructor of the PrepareDiagnosticsAppBrowserContextResult struct used by the Shimless RMA delegate.
+// ---
+
 #include "ash/webui/shimless_rma/backend/shimless_rma_delegate.h"
 
 #include <optional>

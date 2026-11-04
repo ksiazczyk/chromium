@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical error page web component
+// summary: Defines the critical-error-page element shown when an unexpected error blocks the RMA flow, triggering reboot or exit-to-login via the Mojo service.
+// ---
+
 import './base_page.js';
 import './shimless_rma_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

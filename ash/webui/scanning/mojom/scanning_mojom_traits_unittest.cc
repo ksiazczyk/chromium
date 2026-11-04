@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for scanning mojom traits
+// summary: Unit tests verifying the enum and struct conversions between lorgnette protobuf types and the Scan app's mojom types.
+// ---
+
 #include "ash/webui/scanning/mojom/scanning_mojom_traits.h"
 
 #include <map>

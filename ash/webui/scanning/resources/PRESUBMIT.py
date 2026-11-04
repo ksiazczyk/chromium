@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Presubmit checks for the Scanning app resources
+# summary: Runs the semantic CSS checker on changes to enforce ChromeOS-approved colors and dark-mode-friendly CSS variables at upload and commit time.
+# ---
+
 """Presubmit script for Scanning.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

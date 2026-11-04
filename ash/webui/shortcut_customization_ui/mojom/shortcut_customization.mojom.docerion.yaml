@@ -1,0 +1,4 @@
+# Docerion header of shortcut_customization.mojom.
+type: source
+title: Mojom definitions for the shortcut customization UI
+summary: Defines the Mojo structs, enums, and interfaces used by the ChromeOS shortcut customization web UI to exchange accelerator configuration and policy updates.

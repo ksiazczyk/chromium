@@ -1,0 +1,4 @@
+# Docerion header of shimless_rma.html.
+type: source
+title: Shimless RMA main template
+summary: Main HTML template of the Shimless RMA WebUI, laying out the header, content container, footer navigation buttons, and logs dialog.

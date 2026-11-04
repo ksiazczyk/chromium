@@ -1,0 +1,4 @@
+# Docerion header of accelerator_edit_dialog.html.
+type: source
+title: Accelerator edit dialog template
+summary: HTML template for the accelerator edit dialog, defining its styles and cr-dialog layout that lists existing accelerators and supports adding a new one.

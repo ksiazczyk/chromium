@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff lint configuration for shortcut customization resources
+# summary: Extends the repository-wide Ruff configuration and sets a four-space indent width for Python files in this directory.
+# ---
+
 extend = "../../../.ruff.toml"
 indent-width = 4

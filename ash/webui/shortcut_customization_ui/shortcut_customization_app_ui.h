@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut customization app WebUI controller declaration
+// summary: Declares the WebUI controller and its config class for the ChromeOS shortcut customization app, including Mojo interface binding methods and policy update handling.
+// ---
+
 #ifndef ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_SHORTCUT_CUSTOMIZATION_APP_UI_H_
 #define ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_SHORTCUT_CUSTOMIZATION_APP_UI_H_
 

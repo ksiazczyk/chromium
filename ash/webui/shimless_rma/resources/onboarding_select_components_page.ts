@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA onboarding select components page element
+// summary: Polymer element implementing the onboarding page for selecting replaced components, with keyboard navigation and click handling.
+// ---
+
 import './base_page.js';
 import './repair_component_chip.js';
 import './shimless_rma_shared.css.js';

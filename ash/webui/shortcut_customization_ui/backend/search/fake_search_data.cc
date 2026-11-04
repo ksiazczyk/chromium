@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake accelerator search data for tests
+// summary: Implements fake accelerator info, layout info, and search result lists used by tests of the shortcut search backend.
+// ---
+
 #include <vector>
 
 #include "ash/public/mojom/accelerator_info.mojom-shared.h"

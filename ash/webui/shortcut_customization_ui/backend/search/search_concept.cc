@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchConcept implementation for shortcut search
+// summary: Implements the SearchConcept constructor and ID generation that combines accelerator source and action into a unique identifier.
+// ---
+
 #include <vector>
 
 #include "ash/public/mojom/accelerator_info.mojom.h"

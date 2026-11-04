@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scanning handler unit tests
+// summary: Unit tests for ScanningHandler using a fake app delegate and a simulated select file dialog to exercise scan location and settings handling.
+// ---
+
 #include "ash/webui/scanning/scanning_handler.h"
 
 #include <memory>

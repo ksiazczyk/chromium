@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SearchConceptRegistry
+// summary: Unit tests covering adding and removing search concepts, index size updates, and observer notifications for the shortcut search registry.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/backend/search/search_concept_registry.h"
 #include <vector>
 

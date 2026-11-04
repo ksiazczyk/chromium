@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the shortcut customization UI
+summary: Specifies allowed include paths for the directory, with a special rule letting a unittest include a fake udev loader.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut customization mojom traits implementation
+// summary: Implements Mojo StructTraits that serialize and deserialize ui::Accelerator objects for the SimpleAccelerator mojom struct, masking out invalid modifiers.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/mojom/shortcut_customization_mojom_traits.h"
 
 #include "ash/webui/shortcut_customization_ui/mojom/shortcut_customization.mojom.h"

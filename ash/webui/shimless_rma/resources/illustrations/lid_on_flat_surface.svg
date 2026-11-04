@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: asset
+title: Lid on flat surface illustration
+summary: SVG illustration for the Shimless RMA flow showing a laptop lid placed on a flat surface, labeled Calibrating - Clamshell.
+-->
+
 <svg width="320px" height="320px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" jetway-hooks="{}">
     <g jetway-hook-id="F8B77ACC-9508-4B93-86DB-B07DE0C3BF55" id="Calibrating---Clamshell" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect jetway-hook-id="A59D5F1C-9873-4097-8DCC-5014DC13CE80" id="Rectangle" fill="#D2E3FC" x="9" y="68.5" width="300" height="218" rx="4"></rect>

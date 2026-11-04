@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake shortcut search handler
+// summary: Implements a fake ShortcutSearchHandler mojo interface that returns preset search results for testing.
+// ---
+
 import {FakeMethodResolver} from 'chrome://resources/ash/common/fake_method_resolver.js';
 import type {String16} from 'chrome://resources/mojo/mojo/public/mojom/base/string16.mojom-webui.js';
 

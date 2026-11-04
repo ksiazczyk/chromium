@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning app type definitions
+// summary: Defines enums and interfaces for app state, scan settings, scanner info, metrics, and multi-page scan responses used across the Scanning app.
+// ---
+
 import type {UnguessableToken} from 'chrome://resources/mojo/mojo/public/mojom/base/unguessable_token.mojom-webui.js';
 
 import type {ColorMode, FileType, MultiPageScanControllerRemote, PageSize, Scanner, ScannerCapabilities, SourceType} from './scanning.mojom-webui.js';

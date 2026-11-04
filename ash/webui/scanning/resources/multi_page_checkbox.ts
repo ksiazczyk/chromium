@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-page checkbox element
+// summary: Polymer element that displays the checkbox for starting a multi-page scan and toggles its checked state.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import './scan_settings_section.js';
 import '/strings.m.js';

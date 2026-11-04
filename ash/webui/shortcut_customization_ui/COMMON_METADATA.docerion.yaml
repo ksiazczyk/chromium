@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the shortcuts directory
+summary: Declares the ChromeOS team path and Buganizer component ID used for issues in this directory.

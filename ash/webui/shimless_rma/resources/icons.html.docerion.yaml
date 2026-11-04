@@ -1,0 +1,4 @@
+# Docerion header of icons.html.
+type: asset
+title: Shimless RMA SVG icon set
+summary: Defines the shimless-icon iron-iconset-svg with SVG icons such as info, warning, check, update, battery cutoff, and RMA log for the RMA UI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reimaging device information page
+// summary: Polymer element that lets users review and update device information such as serial number, region, SKU, custom label, and DRAM part number during reimaging.
+// ---
+
 import './shimless_rma_shared.css.js';
 import './base_page.js';
 import './icons.html.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Repair component chip element
+// summary: Custom element for a single component chip that can be toggled as replaced and notifies the owning page when it is clicked.
+// ---
+
 import './shimless_rma_shared.css.js';
 import './icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

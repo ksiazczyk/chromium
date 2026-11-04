@@ -1,0 +1,4 @@
+# Docerion header of shimless_3p_diagnostics.html.
+type: source
+title: Third-party diagnostics dialogs template
+summary: HTML template with dialogs for finding, installing, and reviewing permissions of a third-party diagnostics app, plus an error dialog.

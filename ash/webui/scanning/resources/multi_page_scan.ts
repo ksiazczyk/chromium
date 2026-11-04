@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-page scan element
+// summary: Polymer element that shows the available actions for a multi-page scan, dispatching scan-next-page, save and cancel events.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import './scanning_fonts.css.js';

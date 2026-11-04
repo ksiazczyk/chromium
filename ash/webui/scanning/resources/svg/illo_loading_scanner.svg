@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Loading scanner illustration
+summary: SVG illustration shown in the scanning WebUI while the scanner is loading, drawn with CROS theme color variables.
+-->
+
 <svg id="illo_loading_scanner" xmlns="http://www.w3.org/2000/svg" width="257" height="256" viewBox="0 0 257 256" fill="none">
 <g clip-path="url(#clip0_3_31049)">
 <path d="M95.7439 185.8H29.0439C28.5415 185.827 28.0388 185.752 27.5665 185.578C27.0943 185.404 26.6624 185.136 26.2974 184.79C25.9323 184.443 25.6417 184.026 25.4434 183.564C25.2451 183.101 25.1432 182.603 25.1439 182.1V40.6C25.1306 40.1009 25.2158 39.6042 25.3946 39.138C25.5733 38.6719 25.8422 38.2455 26.1858 37.8833C26.5294 37.5212 26.941 37.2302 27.3971 37.0272C27.8532 36.8242 28.3449 36.713 28.8439 36.7H124.944C125.971 36.6987 126.959 37.0926 127.704 37.8C128.449 38.5074 128.893 39.4742 128.944 40.5V153.9L95.7439 185.8Z" fill="var(--cros-sys-illo-color1-2)" />

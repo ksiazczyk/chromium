@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Source select element
+// summary: Custom element that displays available scanner sources in a dropdown, with alphabetical sorting and flatbed as the default option.
+// ---
+
 import './scan_settings_section.js';
 import '/strings.m.js';
 

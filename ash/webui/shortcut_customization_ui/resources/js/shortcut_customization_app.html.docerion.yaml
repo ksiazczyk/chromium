@@ -1,0 +1,4 @@
+# Docerion header of shortcut_customization_app.html.
+type: source
+title: Shortcut customization app template
+summary: HTML template for the main app shell with navigation panel, search box, policy indicator, edit dialog, and restore-all dialog.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware error page component
+// summary: Defines the hardware-error-page Polymer element that reports the blocking hardware error and shuts down the device when the user requests it.
+// ---
+
 import './base_page.js';
 import './shimless_rma_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

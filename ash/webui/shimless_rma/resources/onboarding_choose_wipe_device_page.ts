@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wipe device choice onboarding page element
+// summary: Polymer element implementing the wipe device choice onboarding page, calling setWipeDevice on the Shimless RMA service when the user selects wipe or preserve.
+// ---
+
 import './base_page.js';
 import './shimless_rma_shared.css.js';
 import '//resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';

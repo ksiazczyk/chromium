@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for shortcut search Mojo bindings
+summary: Defines the Mojo bindings build target that generates code from search.mojom for the ChromeOS shortcut customization UI.

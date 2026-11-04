@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading page element for the scanning app
+// summary: Polymer element shown while the scanning app searches for available scanners, dispatching retry and learn-more click events.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/polymer/v3_0/paper-progress/paper-progress.js';
 import '/strings.m.js';

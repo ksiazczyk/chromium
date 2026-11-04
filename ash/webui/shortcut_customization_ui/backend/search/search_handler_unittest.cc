@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Shortcuts app search handler
+// summary: Unit tests covering SearchHandler search behavior, result ranking, and results-availability notifications using fake search concepts and a fake observer.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/backend/search/search_handler.h"
 #include <string>
 

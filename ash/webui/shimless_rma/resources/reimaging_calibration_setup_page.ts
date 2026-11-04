@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reimaging calibration setup page
+// summary: Polymer element that displays instructions and illustrations for preparing the device for a calibration step, such as placing the base or lid on a flat surface.
+// ---
+
 import './shimless_rma_shared.css.js';
 import './base_page.js';
 import './icons.html.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning handler implementation
+// summary: Implements the WebUI message handler for the Scanning app, handling scan-to location selection, file validation, scan settings, and localized strings.
+// ---
+
 #include "ash/webui/scanning/scanning_handler.h"
 
 #include <utility>

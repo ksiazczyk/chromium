@@ -1,0 +1,4 @@
+# Docerion header of multi_page_scan.html.
+type: source
+title: Multi-page scan template
+summary: HTML template showing instructions, progress text and save, scan and cancel buttons for multi-page scans.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA WebUI declarations
+// summary: Declares the WebUI config and dialog UI classes plus helpers that check whether RMA is allowed on the device.
+// ---
+
 #ifndef ASH_WEBUI_SHIMLESS_RMA_SHIMLESS_RMA_H_
 #define ASH_WEBUI_SHIMLESS_RMA_SHIMLESS_RMA_H_
 

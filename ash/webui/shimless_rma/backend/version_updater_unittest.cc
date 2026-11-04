@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Version updater unit tests
+// summary: Tests the Shimless RMA version updater with a fake Update Engine client, covering update checks and status handling on online, metered and offline network setups.
+// ---
+
 #include "ash/webui/shimless_rma/backend/version_updater.h"
 
 #include <memory>

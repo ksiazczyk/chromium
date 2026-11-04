@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reimaging calibration run page
+// summary: Polymer element that runs component recalibration during reimaging and observes calibration progress until the overall calibration completes.
+// ---
+
 import './shimless_rma_shared.css.js';
 import './base_page.js';
 import './icons.html.js';

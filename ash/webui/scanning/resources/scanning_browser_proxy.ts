@@ -8,6 +8,12 @@
  * in chrome/.
  */
 
+// ---docerion
+// type: source
+// title: Scanning browser proxy
+// summary: Proxy giving the Scanning app UI access to browser-side handlers for file dialogs, saved settings, Files and Media app launches, and metrics recording.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/ash/common/cr.m.js';
 
 import type {ScanCompleteAction, ScanJobSettingsForMetrics} from './scanning_app_types.js';

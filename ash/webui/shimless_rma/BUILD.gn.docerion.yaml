@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the shimless_rma static library
+summary: Defines the shimless_rma static library with its source files and dependencies, asserting it builds only on ChromeOS.

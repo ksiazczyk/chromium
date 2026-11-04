@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RSU write protection disable code entry page element
+// summary: Polymer element implementing the RSU code entry page, fetching the RSU challenge and HWID, validating the 8-character code and showing a QR code.
+// ---
+
 import './shimless_rma_shared.css.js';
 import './base_page.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

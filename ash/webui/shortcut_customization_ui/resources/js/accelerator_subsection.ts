@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator subsection element
+// summary: Polymer element that renders a subsection of shortcuts by fetching layout info and accelerator data for a given category and subcategory.
+// ---
+
 import './accelerator_row.js';
 
 import {I18nMixin} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';

@@ -1,0 +1,4 @@
+# Docerion header of icons.html.
+type: asset
+title: Shortcut customization UI SVG icon sets
+summary: Defines iron-iconset-svg icon sets with lock, edit, delete, cancel, add, open-in-new, and plus icons used by the shortcut customization WebUI.

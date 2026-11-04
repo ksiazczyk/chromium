@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: No scanner illustration
+summary: SVG illustration for the scanning WebUI indicating that no scanner is available, styled with CROS theme color variables.
+-->
+
 <svg id="illo_no_scanner" xmlns="http://www.w3.org/2000/svg" width="257" height="256" viewBox="0 0 257 256" fill="none">
 <g clip-path="url(#clip0_2_30972)">
 <path d="M101.744 174.4C102.444 175 106.744 178.8 112.044 177.8C117.344 176.8 120.344 171.7 120.644 171.1C122.444 167.9 122.044 165.3 124.244 164.3C124.905 163.944 125.657 163.792 126.405 163.864C127.152 163.935 127.862 164.226 128.444 164.7C130.644 166.4 129.544 170.8 129.144 172.8C128.693 174.992 127.734 177.047 126.344 178.8C124.519 180.925 122.177 182.544 119.544 183.5C116.767 184.297 113.821 184.297 111.044 183.5" stroke="var(--cros-sys-illo-color1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />

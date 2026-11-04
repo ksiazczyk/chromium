@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner feedback page handler implementation
+// summary: Implements the Mojo page handler that serves feedback info and screenshot URLs and handles dialog close and send feedback actions.
+// ---
+
 #include "ash/webui/scanner_feedback_ui/scanner_feedback_page_handler.h"
 
 #include <optional>

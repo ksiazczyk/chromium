@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut search handler accessor
+// summary: Provides singleton access to the ShortcutSearchHandler mojo interface, overridable with fake implementations for testing.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {ShortcutSearchHandlerInterface} from '../shortcut_types.js';

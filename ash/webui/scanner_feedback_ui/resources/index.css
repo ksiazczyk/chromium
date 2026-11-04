@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Stylesheet for the scanner feedback UI
+summary: Minimal stylesheet that removes the default body margin for the scanner feedback WebUI page.
+*/
+
 body {
   margin: 0;
 }

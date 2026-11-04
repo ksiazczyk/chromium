@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Shimless RMA delegate implementation
+// summary: Implements a fake ShimlessRmaDelegate that returns configurable results for QR code generation and diagnostics app preparation in tests.
+// ---
+
 #include "ash/webui/shimless_rma/backend/fake_shimless_rma_delegate.h"
 
 #include <string>

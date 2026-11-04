@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner feedback app web component
+// summary: Defines the ScannerFeedbackAppElement Polymer element that fetches feedback info over Mojo, localises strings and wires up the orca feedback UI for scanner results.
+// ---
+
 import '//resources/cros_components/orca_feedback/orca-feedback.js';
 import '/strings.m.js';
 

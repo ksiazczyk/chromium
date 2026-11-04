@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for shortcut customization mojom targets
+summary: Defines the GN build targets for the shortcut customization mojom bindings, including typemaps for ui::Accelerator and a unit test source set.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text accelerator part header
+// summary: Declares TextAcceleratorPart, which represents a displayable part of a non-configurable accelerator such as a modifier, key or delimiter.
+// ---
+
 #ifndef ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_BACKEND_TEXT_ACCELERATOR_PART_H_
 #define ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_BACKEND_TEXT_ACCELERATOR_PART_H_
 

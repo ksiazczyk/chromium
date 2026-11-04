@@ -7,6 +7,12 @@
 // Currently enum tests cannot catch new states being added to the end of
 // the list in rmad.proto because protos do not generate a 'max value' enum.
 
+// ---docerion
+// type: test
+// title: Shimless RMA mojom traits unit tests
+// summary: Unit tests verifying that enums and trait mappings stay in sync between rmad.proto and shimless_rma.mojom.
+// ---
+
 #include <map>
 
 #include "ash/webui/shimless_rma/mojom/shimless_rma.mojom.h"

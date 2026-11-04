@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning metrics handler implementation
+// summary: Implements the WebUI metrics handler that records UMA histograms for scan setting changes, scan job settings, completed scans, and completion actions.
+// ---
+
 #include "ash/webui/scanning/scanning_metrics_handler.h"
 
 #include "ash/webui/scanning/mojom/scanning.mojom.h"

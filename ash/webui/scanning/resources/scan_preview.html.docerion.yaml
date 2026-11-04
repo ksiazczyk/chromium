@@ -1,0 +1,4 @@
+# Docerion header of scan_preview.html.
+type: source
+title: Scan preview template
+summary: HTML template for the scan-preview element that renders helper text, scan progress, and previews of scanned images with an action toolbar.

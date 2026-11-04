@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Downloading illustration
+summary: SVG illustration for the Shimless RMA web UI depicting a downloading state with a circular motif and downward arrows.
+-->
+
 <svg width="320" height="320" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M167.1 234.6C212.056 234.6 248.5 198.156 248.5 153.2C248.5 108.244 212.056 71.7998 167.1 71.7998C122.144 71.7998 85.7002 108.244 85.7002 153.2C85.7002 198.156 122.144 234.6 167.1 234.6Z" fill="#4285F4"/>
 <path d="M291.9 74.5004L271.3 69.0004C270.4 68.8004 269.9 67.8004 270.1 66.9004L275.6 46.3004C275.8 45.4004 276.8 44.9004 277.7 45.1004L298.3 50.6004C299.2 50.8004 299.7 51.8004 299.5 52.7004L294 73.3004C293.7 74.2004 292.8 74.7004 291.9 74.5004Z" fill="#4285F4"/>

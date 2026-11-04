@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator layout table implementation
+// summary: Defines the mapping of accelerator actions to layout details, including non-configurable browser and ambient accelerator display data.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/backend/accelerator_layout_table.h"
 
 #include <string>

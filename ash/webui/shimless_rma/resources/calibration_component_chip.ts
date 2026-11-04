@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calibration component chip web component
+// summary: Defines the calibration-component-chip element that reports the status of the last calibration attempt and can be toggled to skip a component.
+// ---
+
 import './shimless_rma_shared.css.js';
 import './icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning app delegate interface
+// summary: Declares the ScanningAppDelegate interface that exposes browser functionality from //chrome to the Scan app UI, such as file dialogs, prefs, and opening files.
+// ---
+
 #ifndef ASH_WEBUI_SCANNING_SCANNING_APP_DELEGATE_H_
 #define ASH_WEBUI_SCANNING_SCANNING_APP_DELEGATE_H_
 

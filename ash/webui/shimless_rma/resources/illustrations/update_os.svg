@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Update OS illustration
+summary: SVG illustration for the Shimless RMA flow depicting an OS update, with a device frame and update-related symbols.
+-->
+
 <svg width="320" height="320" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0)">
 <path d="M215.319 264.665C216.242 247.817 202.713 233.827 186.007 234.032C181.908 234.032 178.013 234.951 174.529 236.482C172.479 237.401 170.532 238.524 168.687 239.852L162.435 243.528C156.901 246.796 150.341 247.715 144.089 246.081C140.605 245.162 137.223 244.039 133.636 243.528C121.234 241.69 109.653 250.88 109.756 263.644" fill="#FBBC05"/>

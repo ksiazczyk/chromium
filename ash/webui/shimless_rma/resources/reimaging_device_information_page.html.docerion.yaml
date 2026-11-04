@@ -1,0 +1,4 @@
+# Docerion header of reimaging_device_information_page.html.
+type: source
+title: Reimaging device information page template
+summary: HTML template for the reimaging device information page with editable inputs for serial number, region, SKU, and other device details.

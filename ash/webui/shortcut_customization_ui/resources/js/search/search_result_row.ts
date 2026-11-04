@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result row element
+// summary: Polymer element that renders a single shortcut search result with its description, accelerators, and selection behavior.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '../text_accelerator.js';

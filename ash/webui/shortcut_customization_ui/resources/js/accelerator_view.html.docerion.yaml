@@ -1,0 +1,4 @@
+# Docerion header of accelerator_view.html.
+type: source
+title: Accelerator view template
+summary: HTML template for the accelerator view, displaying accelerator keys with lock and edit icons, or a shortcut input when in edit mode.

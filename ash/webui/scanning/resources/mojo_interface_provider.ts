@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo interface provider for the scanning app
+// summary: Provides access to the ScanService and AccessibilityFeatures Mojo interfaces, with setters used for testing.
+// ---
+
 import type {AccessibilityFeaturesInterface} from './accessibility_features.mojom-webui.js';
 import {AccessibilityFeatures} from './accessibility_features.mojom-webui.js';
 import type {ScanServiceInterface} from './scanning.mojom-webui.js';

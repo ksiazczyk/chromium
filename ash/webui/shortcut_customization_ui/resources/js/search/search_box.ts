@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search box element
+// summary: Polymer element that provides the search input field and displays the shortcut search results in a dropdown.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_toolbar/cr_toolbar_search_field.js';
 import './search_result_row.js';

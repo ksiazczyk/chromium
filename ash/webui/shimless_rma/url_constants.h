@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA URL constants header
+// summary: Declares string constants for the Shimless RMA WebUI host and URL used by the ChromeOS RMA interface.
+// ---
+
 #ifndef ASH_WEBUI_SHIMLESS_RMA_URL_CONSTANTS_H_
 #define ASH_WEBUI_SHIMLESS_RMA_URL_CONSTANTS_H_
 
