@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension controlled indicator element
+// summary: Defines the extension-controlled-indicator element that shows which extension controls a setting and opens the extensions page or disables it.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 

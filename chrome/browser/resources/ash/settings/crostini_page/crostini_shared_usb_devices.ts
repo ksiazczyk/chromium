@@ -7,6 +7,12 @@
  * shared usb devices subpage for Crostini.
  */
 
+// ---docerion
+// type: source
+// title: Crostini shared USB devices element
+// summary: Crostini-specific variant of the guest OS shared USB devices subpage, wired to the Crostini browser proxy and container info updates.
+// ---
+
 import type {ContainerInfo} from '../guest_os/guest_os_browser_proxy.js';
 import {SettingsGuestOsSharedUsbDevicesElement} from '../guest_os/guest_os_shared_usb_devices.js';
 

@@ -9,6 +9,12 @@
  * #include=cr-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the print preview destination select
+summary: CSS styling for the destination select control, covering printer icon sizing, select background, status text and throbber layout.
+*/
+
 :host {
   --printer-icon-side-padding: 4px;
   --printer-icon-size: 20px;

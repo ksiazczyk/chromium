@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print destination model for Chrome OS
+// summary: Defines the Destination class, origin and printer type enums, recent destination helpers and managed print option capability checks for the Chrome OS print preview.
+// ---
+
 import '/strings.m.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

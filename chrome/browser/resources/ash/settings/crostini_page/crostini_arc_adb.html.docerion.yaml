@@ -1,0 +1,4 @@
+# Docerion header of crostini_arc_adb.html.
+type: source
+title: Crostini ARC adb subpage template
+summary: HTML template for the ARC adb sideloading subpage with a policy-controlled toggle and a confirmation dialog.

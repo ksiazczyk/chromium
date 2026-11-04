@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview margins settings element
+// summary: Defines the print-preview-margins-settings element that manages the margins setting and disables it when multiple pages per sheet are printed.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';
 import './print_preview_shared.css.js';
 import './settings_section.js';

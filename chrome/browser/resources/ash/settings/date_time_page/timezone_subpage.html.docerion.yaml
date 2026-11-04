@@ -1,0 +1,4 @@
+# Docerion header of timezone_subpage.html.
+type: source
+title: Time zone subpage template
+summary: HTML template for the timezone subpage with auto-detect radio buttons, a resolve-method dropdown, geolocation warning text and dialog, and the timezone selector.

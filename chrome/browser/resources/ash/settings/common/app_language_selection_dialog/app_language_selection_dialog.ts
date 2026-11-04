@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App language selection dialog element
+// summary: Polymer element implementing the per-app language selection dialog, with suggested languages, search filtering, and setting the app locale via the browser proxy.
+// ---
+
 /**
  * @fileoverview 'app-language-selection-dialog' is a dialog to select
  * per-app language. The component supports suggested items, and filtering

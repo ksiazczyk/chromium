@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed print options types and conversions
+// summary: Defines managed print option interfaces and enums, plus helpers converting managed duplex and quality values to their CDD and IPP equivalents.
+// ---
+
 import {DuplexType, QualityIppValue} from './cdd.js';
 
 export interface PrintOption<OptionValueType> {

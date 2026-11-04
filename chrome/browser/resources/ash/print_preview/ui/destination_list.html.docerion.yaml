@@ -1,0 +1,4 @@
+# Docerion header of destination_list.html.
+type: source
+title: Print preview destination list template
+summary: HTML template for the print preview destination list, rendering matching destinations, a no-destinations message and a loading throbber.

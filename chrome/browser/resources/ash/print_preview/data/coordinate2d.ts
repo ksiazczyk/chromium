@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinate2d point class
+// summary: Immutable two-dimensional point class with x and y accessors and equality comparison, used for print preview geometry.
+// ---
+
 export class Coordinate2d {
   private x_: number;
   private y_: number;

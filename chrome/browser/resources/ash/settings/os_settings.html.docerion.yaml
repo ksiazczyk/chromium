@@ -1,0 +1,4 @@
+# Docerion header of os_settings.html.
+type: source
+title: ChromeOS Settings WebUI HTML entry page
+summary: HTML shell for the ChromeOS Settings WebUI that sets the page title, base href, theme stylesheets, and loads the os-settings module to render the settings UI.

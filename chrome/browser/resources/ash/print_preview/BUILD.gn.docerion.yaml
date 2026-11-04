@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ChromeOS print preview WebUI
+summary: Defines the build_webui target that compiles the print preview TypeScript, Polymer components, CSS and dependencies for ChromeOS.

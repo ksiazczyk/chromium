@@ -1,0 +1,4 @@
+# Docerion header of crostini_subpage.html.
+type: source
+title: Crostini subpage template
+summary: HTML template for the Crostini settings subpage with rows for shared paths, USB devices, export/import, ARC ADB sideloading, port forwarding, disk resize and removal.

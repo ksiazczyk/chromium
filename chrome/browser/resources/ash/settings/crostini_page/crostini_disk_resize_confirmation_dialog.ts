@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini disk resize confirmation dialog
+// summary: Dialog component warning that resizing a sparse Crostini disk cannot be undone and asking the user to confirm before starting the operation.
+// ---
+
 /**
  * @fileoverview 'settings-crostini-disk-resize-confirmation-dialog' is a
  * component warning the user that resizing a sparse disk cannot be undone.

@@ -1,0 +1,4 @@
+# Docerion header of settings_toggle_button.html.
+type: source
+title: Settings toggle button element template
+summary: HTML template for the settings-toggle-button element with label, sub-label, learn-more link, policy indicator and a preference-bound toggle.

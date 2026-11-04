@@ -6,6 +6,12 @@
  * @fileoverview Common types/interfaces used throughout ChromeOS Settings
  */
 
+// ---docerion
+// type: source
+// title: Common types for ChromeOS Settings
+// summary: Shared TypeScript types and interfaces, including the Constructor type and prefs change event types, used throughout ChromeOS Settings.
+// ---
+
 export type Constructor<T> = new (...args: any[]) => T;
 
 export interface PrefsState {

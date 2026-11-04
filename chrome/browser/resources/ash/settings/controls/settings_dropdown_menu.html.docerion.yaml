@@ -1,0 +1,4 @@
+# Docerion header of settings_dropdown_menu.html.
+type: source
+title: Settings dropdown menu template
+summary: HTML template for the settings-dropdown-menu element with a styled select, repeated options and a pref policy indicator.

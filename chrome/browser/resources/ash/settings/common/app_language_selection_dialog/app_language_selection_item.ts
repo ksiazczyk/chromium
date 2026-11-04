@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App language selection item element
+// summary: Polymer element rendering one language option row, choosing the display name and exposing the selected state for accessibility.
+// ---
+
 /**
  * @fileoverview 'app-language-selection-item' is part of app language picker
  * dialog to display language option in a single row.

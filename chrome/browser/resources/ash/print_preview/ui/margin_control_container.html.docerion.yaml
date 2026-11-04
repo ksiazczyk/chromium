@@ -1,0 +1,4 @@
+# Docerion header of margin_control_container.html.
+type: source
+title: Print preview margin control container template
+summary: Template that renders one margin control per page side with drag and text event handlers.

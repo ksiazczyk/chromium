@@ -7,6 +7,12 @@
  * #import=chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: CSS variables for ChromeOS Settings
+summary: Defines --settings-* and related CSS custom properties, including dark scheme overrides, for the ChromeOS Settings UI.
+*/
+
 /* We keep our vars in sort order, though some vars must be defined prior to
  * others. The --settings-* vars are defined explicitly prior to the --paper-*
  * and --iron-* vars.

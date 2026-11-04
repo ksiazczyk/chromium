@@ -1,0 +1,4 @@
+# Docerion header of app_management_icons.html.
+type: asset
+title: App management SVG icon set
+summary: Defines the sorted iron-iconset-svg icons such as camera, contacts and microphone used by app management pages.

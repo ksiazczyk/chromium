@@ -7,6 +7,12 @@
  * script to the DOM, which will subsequently load all subpages.
  */
 
+// ---docerion
+// type: source
+// title: Ensure lazy loading of settings subpages
+// summary: Exports ensureLazyLoaded(), which injects the lazy_load.js module script into the DOM so all ChromeOS Settings subpages load on demand.
+// ---
+
 import {getTrustedScriptURL} from 'chrome://resources/js/static_types.js';
 
 let lazyLoadPromise: Promise<void>|null = null;

@@ -1,0 +1,4 @@
+# Docerion header of print_preview.html.
+type: source
+title: Print preview HTML page shell
+summary: HTML shell for the print preview dialog that hosts the print preview app element, loads stylesheets and the entry script, and shows a light and dark mode loading placeholder.

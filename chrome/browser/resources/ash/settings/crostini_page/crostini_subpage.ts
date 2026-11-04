@@ -7,6 +7,12 @@
  * 'crostini-subpage' is the settings subpage for managing Crostini.
  */
 
+// ---docerion
+// type: source
+// title: Crostini settings subpage element
+// summary: Settings subpage element for managing Crostini, covering disk resizing, microphone permission, ARC ADB sideloading, port forwarding and removal flows.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';

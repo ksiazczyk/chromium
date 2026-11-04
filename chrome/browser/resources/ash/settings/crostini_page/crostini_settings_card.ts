@@ -7,6 +7,12 @@
  * 'crostini-settings-card' is the card element containing crostini settings.
  */
 
+// ---docerion
+// type: source
+// title: Crostini settings card element
+// summary: Polymer element implementing the Crostini settings card, handling installer status, deep links and navigation to the Crostini and Bruschetta subpages.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_indicator.js';

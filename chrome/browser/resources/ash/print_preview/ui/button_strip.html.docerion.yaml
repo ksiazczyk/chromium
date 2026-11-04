@@ -1,0 +1,4 @@
+# Docerion header of button_strip.html.
+type: source
+title: Button strip template
+summary: HTML template for the print preview button strip with cancel and print buttons and a sheets-limit error message.

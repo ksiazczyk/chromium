@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview media size settings element
+// summary: Implements the print-preview-media-size-settings element that syncs the media size setting with printer capabilities and handles borderless printing.
+// ---
+
 import './print_preview_shared.css.js';
 import './settings_section.js';
 import './settings_select.js';

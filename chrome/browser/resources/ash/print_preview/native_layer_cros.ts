@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS-specific native printing layer
+// summary: Defines and implements the NativeLayerCros interface for ChromeOS printer setup, status, EULA and print server queries over chrome.send.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 import type {Cdd} from './data/cdd.js';

@@ -7,6 +7,12 @@
  * imports all of the necessary modules and custom elements to load the page.
  */
 
+// ---docerion
+// type: source
+// title: Main entry point of the ChromeOS Settings SWA
+// summary: Main entry point importing the modules and custom elements needed to load the ChromeOS Settings page, re-exporting symbols for browser tests.
+// ---
+
 import '/strings.m.js';
 import './os_settings_ui/os_settings_ui.js';
 

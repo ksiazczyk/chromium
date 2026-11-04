@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load-time boolean getters for CrOS Settings
+// summary: Getter functions for loadTimeData booleans used across ChromeOS Settings pages, organized by page so values reload when overridden in tests.
+// ---
+
 /**
  * @fileoverview
  * Getters for loadTimeData booleans used throughout CrOS Settings.

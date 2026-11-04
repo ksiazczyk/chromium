@@ -1,0 +1,4 @@
+# Docerion header of timezone_selector.html.
+type: source
+title: Time zone selector template
+summary: HTML template for the timezone selector, rendering a dropdown bound to per-user or system timezone prefs depending on a feature flag.

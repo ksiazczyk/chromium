@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview destination settings element
+// summary: Implements the print-preview-destination-settings element that manages the current destination, recent destinations and destination state.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_lazy_render/cr_lazy_render.js';
 import 'chrome://resources/ash/common/cr_elements/cr_hidden_style.css.js';

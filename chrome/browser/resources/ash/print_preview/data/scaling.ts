@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scaling type enum
+// summary: Defines the ScalingType enum for print scaling options such as fit to page and custom, kept in sync with the C++ enum in print_job_constants.h.
+// ---
+
 /**
  * Must be kept in sync with the C++ ScalingType enum in
  * printing/print_job_constants.h.

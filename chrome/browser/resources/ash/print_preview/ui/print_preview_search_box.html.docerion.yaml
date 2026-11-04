@@ -1,0 +1,4 @@
+# Docerion header of print_preview_search_box.html.
+type: source
+title: Print preview search box template
+summary: HTML template for the print preview search box, styling a cr-input search field with a clear button.

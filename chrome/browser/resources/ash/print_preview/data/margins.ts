@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print margins model
+// summary: Margins class holding top, right, bottom and left values in points with get, set, equality and serialization support, along with margin type enums.
+// ---
+
 /**
  * Enumeration of the orientations of margins.
  */

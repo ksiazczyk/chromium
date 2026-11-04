@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print server store for ChromeOS print preview
+// summary: Data store that tracks available print servers by name, fetches their configuration through the native layer and dispatches events when servers or loading status change.
+// ---
+
 import type {NativeLayerCros, PrintServer, PrintServersConfig} from '../native_layer_cros.js';
 import {NativeLayerCrosImpl} from '../native_layer_cros.js';
 

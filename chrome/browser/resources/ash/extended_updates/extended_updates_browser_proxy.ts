@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended updates browser proxy
+// summary: Singleton browser proxy that connects the WebUI to the Mojo page handler for opting in to extended updates, closing the dialog and listing installed Android apps.
+// ---
+
 import type {App, PageHandlerInterface} from './extended_updates.mojom-webui.js';
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './extended_updates.mojom-webui.js';
 

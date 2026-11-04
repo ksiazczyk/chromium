@@ -8,6 +8,12 @@
  * Crostini.
  */
 
+// ---docerion
+// type: source
+// title: Crostini export and import subpage
+// summary: Settings subpage element for backing up and restoring Crostini containers, handling container selection and the import confirmation flow.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import './crostini_import_confirmation_dialog.js';
 import '../settings_shared.css.js';

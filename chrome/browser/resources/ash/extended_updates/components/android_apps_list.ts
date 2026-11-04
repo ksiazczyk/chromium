@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Android apps list web component
+// summary: TypeScript Polymer element that renders the list of Android apps with icons and localized singular or plural descriptions.
+// ---
+
 import '/strings.m.js';
 
 import {I18nMixin} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';

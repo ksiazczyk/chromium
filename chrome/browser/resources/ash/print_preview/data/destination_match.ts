@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Destination matching logic
+// summary: Provides a DestinationMatch class that decides whether two print destinations are the same by matching id and display name regular expressions.
+// ---
+
 
 import type {Destination} from './destination_cros.js';
 import {PrinterType} from './destination_cros.js';

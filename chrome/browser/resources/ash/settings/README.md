@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChromeOS Settings SWA
+summary: Overview of the ChromeOS Settings SWA frontend directory with pointers to browser tests, backend code and the team wiki.
+---
+
 # ChromeOS Settings SWA
 
 This directory contains the frontend code for CrOS Settings SWA.

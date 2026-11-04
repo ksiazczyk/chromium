@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled button element
+// summary: Defines the controlled-button custom element that binds a settings button to a preference and blocks clicks when the pref is policy-enforced.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/policy/cr_policy_pref_indicator.js';
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';

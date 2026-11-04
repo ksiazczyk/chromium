@@ -7,6 +7,12 @@
  * type narrowing, etc.
  */
 
+// ---docerion
+// type: source
+// title: Type assertion helper functions
+// summary: Exports TypeScript helpers for existence checks, exhaustive switch handling and type casting in OS Settings.
+// ---
+
 import {assert, assertInstanceof, assertNotReached} from 'chrome://resources/js/assert.js';
 
 /**

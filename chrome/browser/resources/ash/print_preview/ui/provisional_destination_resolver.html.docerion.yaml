@@ -1,0 +1,4 @@
+# Docerion header of provisional_destination_resolver.html.
+type: source
+title: Provisional destination resolver dialog template
+summary: HTML template for the dialog that asks the user to grant USB access to an extension-controlled print destination.

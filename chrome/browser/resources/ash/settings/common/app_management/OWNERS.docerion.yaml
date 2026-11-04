@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: App management OWNERS
+summary: Points to the shared app_management OWNERS file in cr_components for reviewer ownership.

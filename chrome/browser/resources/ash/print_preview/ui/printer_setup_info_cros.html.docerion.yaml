@@ -1,0 +1,4 @@
+# Docerion header of printer_setup_info_cros.html.
+type: source
+title: Printer setup info template
+summary: HTML template showing printer setup guidance messages with an illustration, heading, detail text, and a manage printers button.

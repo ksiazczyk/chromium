@@ -1,0 +1,4 @@
+# Docerion header of media_type_settings.html.
+type: source
+title: Print preview media type settings template
+summary: HTML template for the print preview media type setting, rendering a select control bound to printer capabilities.

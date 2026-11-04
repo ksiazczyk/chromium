@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: ChromeOS Settings presubmit style checker
+# summary: Presubmit checker that warns when ChromeOS Settings JS uses addSingletonGetter, legacy Polymer syntax or scheme-relative URLs.
+# ---
+
 
 def _TypeScriptPrepCheckNoAddSingletonGetter(file):
   """Checks that there are no uses of addSingletonGetter()

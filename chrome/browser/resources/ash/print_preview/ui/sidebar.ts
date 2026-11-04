@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview sidebar element
+// summary: Defines the print-preview-sidebar Polymer element that arranges destination and print settings sections, including the More settings expansion, in the ChromeOS print preview UI.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-collapse/iron-collapse.js';
 import 'chrome://resources/ash/common/cr_elements/cr_hidden_style.css.js';
 import './cr_scrollable.css.js';

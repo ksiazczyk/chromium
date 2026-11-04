@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini disk resize dialog
+// summary: Settings dialog element for managing the Crostini disk, such as resizing it or converting it between sparse and preallocated.
+// ---
+
 /**
  * @fileoverview
  * 'crostini-disk-resize' is a dialog for disk management e.g.

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Team metadata for ChromeOS Settings
+summary: Declares the owning team email and internal and public Buganizer components for the directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Measurement system unit conversion
+// summary: Converts point measurements to and from local units such as millimeters and inches, handling precision, rounding and number delimiters.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 /**

@@ -1,0 +1,4 @@
+# Docerion header of pin_settings.html.
+type: source
+title: Print preview PIN settings template
+summary: HTML template with a PIN checkbox and a collapsible four-digit PIN input for secure printing.

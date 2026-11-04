@@ -6,6 +6,12 @@
  * styles belong in the element's template HTML or in a shared CSS style module.
  */
 
+/*docerion
+type: source
+title: Settings base CSS styles
+summary: Defines html and body level styles for the ChromeOS settings UI and overrides shared CSS variables such as icon and text colors.
+*/
+
 /* Override default values from settings_vars.css. The :not(body) selector
  * produces higher specificity and allows the variable definitions below to
  * "win" against the shared ones. These can be overridden by setting it from a

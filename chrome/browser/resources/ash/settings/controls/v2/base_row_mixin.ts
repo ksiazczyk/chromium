@@ -9,6 +9,12 @@
  * duplicated code among the row components.
  */
 
+// ---docerion
+// type: source
+// title: BaseRowMixin for settings row components
+// summary: Mixin providing shared label, sublabel, icon, learn-more URL, and accessibility properties and APIs for all settings row components.
+// ---
+
 import {dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

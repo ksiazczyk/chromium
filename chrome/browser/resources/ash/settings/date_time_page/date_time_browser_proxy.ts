@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date and time browser proxy
+// summary: Singleton browser proxy that connects the date and time settings WebUI to the DateTimeHandler in the browser process via Mojo, with a testing hook.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote, PageRemote} from '../mojom-webui/date_time_handler.mojom-webui.js';
 
 // Communicates with the DateTimeHandler in the browser process.

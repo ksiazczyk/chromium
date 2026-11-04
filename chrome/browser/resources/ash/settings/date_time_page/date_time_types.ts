@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time zone auto-detect method enum
+// summary: Defines the TimeZoneAutoDetectMethod enum values for geolocation resolution, kept in sync with the browser's TimeZoneResolveMethod enum.
+// ---
+
 /**
  * Describes values of
  * prefs.generated.resolve_timezone_by_geolocation_method_short. Must be kept

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview UMA metrics buckets and contexts
+// summary: Defines histogram bucket enums and a MetricsContext class for recording print preview usage statistics via the native layer.
+// ---
+
 import type {NativeLayer} from './native_layer.js';
 import {NativeLayerImpl} from './native_layer.js';
 

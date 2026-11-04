@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchable drop down element for ChromeOS
+// summary: Implements the CrOS-only cr-searchable-drop-down element, a search box with a suggestions dropdown, error messaging, loading state and value validation.
+// ---
+
 /**
  * @fileoverview 'cr-searchable-drop-down' implements a search box with a
  * suggestions drop down.

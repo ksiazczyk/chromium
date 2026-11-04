@@ -1,0 +1,4 @@
+# Docerion header of destination_settings.html.
+type: source
+title: Template for the print preview destination settings section
+summary: HTML template for the destination settings section, wiring the destination select, see-more button and lazily rendered destination dialog.

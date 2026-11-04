@@ -1,0 +1,4 @@
+# Docerion header of inline_login_app.html.
+type: source
+title: Inline login app template
+summary: HTML template for the inline-login-app element, laying out welcome, policy-blocked, error and add-account views with the sign-in webview and action buttons.

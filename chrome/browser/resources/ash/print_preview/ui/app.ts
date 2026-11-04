@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview app element
+// summary: Main Polymer element for the ChromeOS print preview, wiring together model, document info, preview area, sidebar, and the native layer.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import './print_preview_vars.css.js';
 import '/strings.m.js';

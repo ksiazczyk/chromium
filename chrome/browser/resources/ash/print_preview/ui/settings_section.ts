@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings section element definition
+// summary: Defines the print-preview-settings-section element, a simple container that hosts a settings title and its controls.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import './print_preview_shared.css.js';
 

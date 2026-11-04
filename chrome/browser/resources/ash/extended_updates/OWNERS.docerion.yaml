@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Extended updates owners file
+summary: Delegates code ownership for the extended updates resources to the ash/system/extended_updates OWNERS file.

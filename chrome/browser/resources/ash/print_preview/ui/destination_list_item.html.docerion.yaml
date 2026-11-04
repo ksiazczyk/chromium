@@ -1,0 +1,4 @@
+# Docerion header of destination_list_item.html.
+type: source
+title: Print preview destination list item template
+summary: HTML template for a print preview destination list item showing the printer icon, display name, search hint and extension-controlled indicator.

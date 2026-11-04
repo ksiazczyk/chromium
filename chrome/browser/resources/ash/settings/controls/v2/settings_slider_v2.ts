@@ -56,6 +56,12 @@
  *   <settings-slider-v2>
  */
 
+// ---docerion
+// type: source
+// title: Settings slider v2 component
+// summary: Defines the settings-slider-v2 element that displays a value range with tick or scale support, working with or without prefs.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_hidden_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_slider/cr_slider.js';

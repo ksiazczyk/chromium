@@ -7,6 +7,12 @@
  * from the Url parameter.
  */
 
+// ---docerion
+// type: source
+// title: Setting ID URL parameter utility
+// summary: Utility function that retrieves the deep-linked setting ID from the URL's settingId query parameter.
+// ---
+
 import {Router} from '../router.js';
 
 const SETTING_ID_URL_PARAM_NAME = 'settingId';

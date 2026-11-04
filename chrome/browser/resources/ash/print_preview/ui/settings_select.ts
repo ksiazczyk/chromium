@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings select element implementation
+// summary: Implements the print-preview-settings-select element, binding a printer capability's options to a select and updating the corresponding setting.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';
 import './print_preview_shared.css.js';
 

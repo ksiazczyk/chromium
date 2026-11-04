@@ -1,0 +1,4 @@
+# Docerion header of more_settings.html.
+type: source
+title: Print preview more settings template
+summary: HTML template for the print preview more settings expander, showing a cr-expand-button that toggles advanced settings.

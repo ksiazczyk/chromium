@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Inline login WebUI build definition
+summary: GN build file defining the build_webui target for the ChromeOS inline login WebUI, listing web components, TypeScript files, definitions and dependencies.

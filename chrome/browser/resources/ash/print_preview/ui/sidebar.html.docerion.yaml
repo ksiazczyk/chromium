@@ -1,0 +1,4 @@
+# Docerion header of sidebar.html.
+type: source
+title: Print preview sidebar template
+summary: HTML template for the print preview sidebar, composing the header with destination, pages, copies, layout, color and additional settings sections.

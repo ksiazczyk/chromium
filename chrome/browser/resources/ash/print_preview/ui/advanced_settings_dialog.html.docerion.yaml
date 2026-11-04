@@ -1,0 +1,4 @@
+# Docerion header of advanced_settings_dialog.html.
+type: source
+title: Advanced settings dialog template
+summary: HTML template for the advanced settings dialog, listing vendor capabilities with a search box plus apply and cancel buttons.

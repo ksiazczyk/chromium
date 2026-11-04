@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Management API listener
+// summary: Initializes the App Management store with apps from the browser handler and registers listeners that dispatch actions on app changes.
+// ---
+
 import type {App} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import {browserProxyFactory} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import {createInitialState} from 'chrome://resources/cr_components/app_management/util.js';

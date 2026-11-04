@@ -7,6 +7,12 @@
  * #import=./print_preview_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print preview throbber style
+summary: CSS style that renders the small throbber loading spinner used in the ChromeOS print preview UI.
+*/
+
 .throbber {
   background: url(chrome://resources/images/throbber_small.svg) no-repeat;
   display: inline-block;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled radio button element
+// summary: Defines the controlled-radio-button custom element that ties a radio option to a preference and disables it when the pref is policy-enforced.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_radio_button/cr_radio_button_style.css.js';
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '//resources/ash/common/cr_elements/policy/cr_policy_pref_indicator.js';

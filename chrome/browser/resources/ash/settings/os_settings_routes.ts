@@ -10,6 +10,12 @@
  * the Router singleton instance, rather than imported from here.
  */
 
+// ---docerion
+// type: source
+// title: ChromeOS Settings route definitions
+// summary: Defines the Route class and the full set of navigable routes for the ChromeOS Settings app, built from loadTimeData flags.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 

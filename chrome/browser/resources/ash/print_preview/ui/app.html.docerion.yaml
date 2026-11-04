@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: Print preview app template
+summary: HTML template for the print preview app element, laying out the preview area and sidebar with state, model, and document info components.

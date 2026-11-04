@@ -1,0 +1,4 @@
+# Docerion header of signin_error_page.html.
+type: source
+title: Sign-in error page template
+summary: HTML template for the signin-error-page element displaying an alert icon with the sign-in error title and body text.

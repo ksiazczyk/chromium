@@ -1,0 +1,4 @@
+# Docerion header of header.html.
+type: source
+title: Template for the print preview header
+summary: HTML template for the print preview header showing the title, a managed-settings icon and a summary line.

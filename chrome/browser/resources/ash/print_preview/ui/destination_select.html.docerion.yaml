@@ -1,0 +1,4 @@
+# Docerion header of destination_select.html.
+type: source
+title: Print preview destination select template
+summary: HTML template for the destination select settings section, offering a dropdown of recent destinations, print-to-PDF and a no-destinations option.

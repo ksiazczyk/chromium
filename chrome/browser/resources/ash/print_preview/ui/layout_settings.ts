@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview layout settings element
+// summary: Custom element implementing the layout settings section that switches printing between portrait and landscape.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';
 import './print_preview_shared.css.js';
 import './settings_section.js';

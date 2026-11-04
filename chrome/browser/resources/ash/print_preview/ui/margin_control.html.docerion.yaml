@@ -1,0 +1,4 @@
+# Docerion header of margin_control.html.
+type: source
+title: Print preview margin control template
+summary: Template for a draggable margin control line with an input for entering a custom margin value per side.

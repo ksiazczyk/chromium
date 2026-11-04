@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata mixin reference
+summary: Points DIR_METADATA at the shared COMMON_METADATA file for ownership information.

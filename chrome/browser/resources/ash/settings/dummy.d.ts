@@ -5,3 +5,9 @@
 // Intentionally empty dummy file. This is used as a path_mapping for
 // '//nearby/nearby-share-internal-icons.m.js import URLs encountered by the TS
 // compiler, so that side-effect imports can be properly resolved.
+
+// ---docerion
+// type: source
+// title: Dummy declaration for nearby icons import
+// summary: Intentionally empty declaration file used as a path mapping so nearby-share icon import URLs resolve for the TypeScript compiler.
+// ---

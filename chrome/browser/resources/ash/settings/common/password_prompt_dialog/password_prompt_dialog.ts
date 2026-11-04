@@ -19,6 +19,12 @@
  * </settings-password-prompt-dialog>
  */
 
+// ---docerion
+// type: source
+// title: Settings password prompt dialog element
+// summary: Polymer element that shows a dialog asking for the account password, validates it via quickUnlockPrivate, and fires an authenticated event with the auth token.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

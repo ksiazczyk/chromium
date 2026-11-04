@@ -1,0 +1,4 @@
+# Docerion header of crostini_import_confirmation_dialog.html.
+type: source
+title: Crostini import confirmation dialog template
+summary: HTML template for the dialog warning that importing a container overwrites the existing one.

@@ -12,6 +12,12 @@
  * the `currentRouteChanged()` super method.
  */
 
+// ---docerion
+// type: source
+// title: Route origin mixin
+// summary: Polymer mixin extending RouteObserverMixin that focuses the element which triggered a subpage route when navigating back.
+// ---
+
 import {assertInstanceof} from 'chrome://resources/js/assert.js';
 import {focusWithoutInk} from 'chrome://resources/js/focus_without_ink.js';
 import {afterNextRender, dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

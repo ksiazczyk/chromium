@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Extended updates WebUI build configuration
+summary: GN build rules for the extended updates WebUI, listing static files, TypeScript components, Mojo bindings and build dependencies.

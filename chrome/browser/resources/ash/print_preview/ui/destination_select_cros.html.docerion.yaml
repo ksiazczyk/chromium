@@ -1,0 +1,4 @@
+# Docerion header of destination_select_cros.html.
+type: source
+title: ChromeOS print preview destination select template
+summary: HTML template for the ChromeOS destination select section, embedding the destination dropdown plus printer status text and EULA link.

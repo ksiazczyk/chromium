@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini import confirmation dialog
+// summary: Dialog element warning that importing a container overrides the existing container and starting the import when the user continues.
+// ---
+
 /**
  * @fileoverview 'settings-crostini-import-confirmation-dialog' is a component
  * warning the user that importing a container overrides the existing container.

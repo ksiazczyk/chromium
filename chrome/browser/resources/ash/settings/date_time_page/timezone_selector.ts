@@ -6,6 +6,12 @@
  * @fileoverview 'timezone-selector' is the time zone selector dropdown.
  */
 
+// ---docerion
+// type: source
+// title: Time zone selector element
+// summary: Polymer element providing the time zone dropdown, lazily fetching the time zone list from the browser and exposing the active zone display name.
+// ---
+
 import '../settings_shared.css.js';
 import '../controls/settings_dropdown_menu.js';
 

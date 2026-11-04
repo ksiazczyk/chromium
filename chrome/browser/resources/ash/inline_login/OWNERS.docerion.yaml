@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Inline login directory owners
+summary: Lists the code owners for the inline login directory, delegating to the account manager OWNERS file and achuith@chromium.org.

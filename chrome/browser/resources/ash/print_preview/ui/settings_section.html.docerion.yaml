@@ -1,0 +1,4 @@
+# Docerion header of settings_section.html.
+type: source
+title: Settings section element template
+summary: HTML template for the print preview settings section, laying out its title and controls slots with shared styling.

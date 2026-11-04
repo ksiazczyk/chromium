@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview copies settings element
+// summary: Polymer element managing the copies setting, including the maximum from printer capability, input validation, hint messages, and the collate checkbox.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import './number_settings_section.js';
 import './print_preview_shared.css.js';

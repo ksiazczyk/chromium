@@ -1,0 +1,4 @@
+# Docerion header of advanced_settings_item.html.
+type: source
+title: Advanced settings item template
+summary: HTML template for a single advanced settings item, rendering select, text input, or checkbox controls for a vendor capability.

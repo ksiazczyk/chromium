@@ -7,6 +7,12 @@
  * setting elements with deep links.
  */
 
+// ---docerion
+// type: source
+// title: Deep linking mixin for CrOS Settings
+// summary: Polymer mixin that scrolls to, focuses and indicates the settings element targeted by a deep link setting ID from the URL.
+// ---
+
 import {afterNextRender, dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

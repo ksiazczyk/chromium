@@ -7,6 +7,12 @@
  * listed in one place to document available actions and their parameters.
  */
 
+// ---docerion
+// type: source
+// title: App Management store actions
+// summary: Defines action interfaces and factory functions for adding, changing, and removing apps and updating selection in the App Management store.
+// ---
+
 import type {App} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import type {Action} from 'chrome://resources/js/store.js';
 

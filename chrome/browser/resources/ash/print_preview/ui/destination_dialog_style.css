@@ -11,6 +11,12 @@
  * #include=print-preview-shared cr-hidden-style throbber
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Destination dialog styles
+summary: Stylesheet for the print preview destination dialog covering dialog sizing, search box spacing, button layout, and RTL icon handling.
+*/
+
 :host-context([dir=rtl]) #manageIcon {
   transform: scaleX(-1);
 }

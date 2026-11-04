@@ -13,6 +13,12 @@
  * suffix.
  */
 
+// ---docerion
+// type: source
+// title: PrefControlMixinInternal for pref-backed controls
+// summary: Internal mixin adding pref read/write, policy enforcement, disabling, and validation capabilities to settings control elements.
+// ---
+
 import {CrSettingsPrefs} from '/shared/settings/prefs/prefs_types.js';
 import {assert} from 'chrome://resources/js/assert.js';
 import {dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

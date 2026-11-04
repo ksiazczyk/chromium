@@ -1,0 +1,4 @@
+# Docerion header of crostini_settings_card.html.
+type: source
+title: Crostini settings card template
+summary: HTML template for the Crostini settings card showing Linux (Crostini) and Bruschetta rows with enable buttons, subpage arrows and policy indicators.

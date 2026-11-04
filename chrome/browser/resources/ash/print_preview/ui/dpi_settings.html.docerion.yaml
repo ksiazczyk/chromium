@@ -1,0 +1,4 @@
+# Docerion header of dpi_settings.html.
+type: source
+title: Template for the print preview DPI settings section
+summary: HTML template for the DPI settings section, showing a labeled select bound to the printer's DPI capability.

@@ -1,0 +1,4 @@
+# Docerion header of copies_settings.html.
+type: source
+title: Print preview copies settings template
+summary: HTML template for the print preview copies settings section with a number input and a collate checkbox.

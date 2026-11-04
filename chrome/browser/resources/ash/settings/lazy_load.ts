@@ -14,6 +14,12 @@
  *    in the component that renders it.
  */
 
+// ---docerion
+// type: source
+// title: Lazy-load entry point for ChromeOS Settings subpages
+// summary: Entry point that imports all lazily loaded custom elements and subpage modules for the ChromeOS Settings frontend app.
+// ---
+
 import '/strings.m.js';
 /** Subpages */
 import './crostini_page/bruschetta_subpage.js';

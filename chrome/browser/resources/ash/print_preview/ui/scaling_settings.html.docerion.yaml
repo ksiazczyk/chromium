@@ -1,0 +1,4 @@
+# Docerion header of scaling_settings.html.
+type: source
+title: Scaling settings template
+summary: HTML template for the scaling setting, offering default, fit to page, fit to paper, actual size, and custom scaling options with a numeric input.

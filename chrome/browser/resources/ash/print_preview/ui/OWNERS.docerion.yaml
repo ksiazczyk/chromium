@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for print preview UI
+summary: Defines per-file code ownership for the print preview UI, assigning ChromeOS-specific files to a dedicated owner.
