@@ -1,0 +1,4 @@
+# Docerion header of IDS_DISCOVER_PIN_SETUP_TITLE2_CHILD.png.sha1.
+type: data
+title: SHA-1 checksum for IDS_DISCOVER_PIN_SETUP_TITLE2_CHILD screenshot
+summary: Stores the SHA-1 hash of the child variant of the second PIN setup title screenshot so tooling can detect image drift.
