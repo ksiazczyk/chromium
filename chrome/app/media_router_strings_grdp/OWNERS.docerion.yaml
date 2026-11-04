@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the media router strings directory
+summary: Delegates ownership of this directory to the OWNERS file in chrome/browser/media/router.

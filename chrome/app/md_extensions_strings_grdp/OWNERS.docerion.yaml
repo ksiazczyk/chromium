@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for PNG SHA-1 hash files
+summary: Defines per-file ownership rules covering the PNG SHA-1 hash files stored in this directory.

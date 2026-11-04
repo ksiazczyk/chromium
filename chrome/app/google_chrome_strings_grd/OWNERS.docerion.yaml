@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for google_chrome_strings_grd
+summary: OWNERS file with a wildcard entry that allows any reviewer to approve changes in this directory.
