@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome content verifier unit tests
+// summary: Unit tests exercising extension content verification at the Chrome layer, including case-sensitive manifest paths and enforced verification modes.
+// ---
+
 #include <algorithm>
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension blocklist factory header
+// summary: Declares BlocklistFactory, the profile-keyed service factory supplying the extension Blocklist to browser contexts.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_BLOCKLIST_FACTORY_H_
 #define CHROME_BROWSER_EXTENSIONS_BLOCKLIST_FACTORY_H_
 

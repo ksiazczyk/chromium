@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS clipboard extension helper header
+// summary: Declares the ClipboardExtensionHelper class that decodes image data and saves it on the clipboard when called from the clipboard extension API on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CLIPBOARD_EXTENSION_HELPER_CHROMEOS_H_
 #define CHROME_BROWSER_EXTENSIONS_CLIPBOARD_EXTENSION_HELPER_CHROMEOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension error UI header
+// summary: Declares the Android subclass of ExtensionErrorUI that stubs out bubble view, extensions page, and close behavior.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_ERROR_UI_ANDROID_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_ERROR_UI_ANDROID_H_
 

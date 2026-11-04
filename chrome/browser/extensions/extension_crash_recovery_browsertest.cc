@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension crash recovery browser test
+// summary: Browser tests verifying extension process crash handling, crash notifications and reload consistency after a background process is terminated.
+// ---
+
 #include <stddef.h>
 
 #include "base/run_loop.h"

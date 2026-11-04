@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension browser test utility header
+// summary: Shared utilities for extension browser tests, defining background context types, load options and extension modification helpers.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_BROWSER_TEST_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_BROWSER_TEST_UTIL_H_
 

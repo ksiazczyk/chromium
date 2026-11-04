@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension management unit tests
+// summary: Unit tests covering extension management preference parsing, installation modes, and policy-driven extension behavior.
+// ---
+
 #include "chrome/browser/extensions/extension_management.h"
 
 #include <algorithm>

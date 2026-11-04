@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension safety check utilities header
+// summary: Declares utility functions that return Safety Hub warning reasons and display strings for extensions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_SAFETY_CHECK_UTILS_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_SAFETY_CHECK_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome URL Request Utilities for Extension Resources
+// summary: Implements Chrome utilities for extension resource URL requests, including cross-renderer resource loading and serving component extension resources from the resource bundle.
+// ---
+
 #include "chrome/browser/extensions/chrome_url_request_util.h"
 
 #include <memory>

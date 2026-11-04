@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension cookies browser test
+// summary: Browser tests verifying extension cookie access across permitted hosts, subdomains and SameSite cookie attributes using an HTTPS test server.
+// ---
+
 #include <map>
 #include <memory>
 #include <string>

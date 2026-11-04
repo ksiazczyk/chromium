@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension URL override API tests
+// summary: Browser tests verifying that extensions can override Chrome pages such as history and that URL override preferences contain no duplicates.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

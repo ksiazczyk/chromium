@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension back-forward cache browser tests
+// summary: Extensive browser tests covering how extensions, content scripts and open message channels interact with back-forward cache eviction and restoration.
+// ---
+
 #include "content/public/browser/back_forward_cache.h"
 
 #include <string>

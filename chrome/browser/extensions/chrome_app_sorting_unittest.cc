@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeAppSorting unit tests
+// summary: ExtensionPrefs-based unit tests verifying app launch and page ordinal behavior of ChromeAppSorting, including non-apps, invalid IDs, and page handling.
+// ---
+
 #include "chrome/browser/extensions/chrome_app_sorting.h"
 
 #include <memory>

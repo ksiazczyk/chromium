@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAppIcon class header
+// summary: Declares ChromeAppIcon, which determines the final look of an extension app icon and updates it when extension state or external conditions change.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_APP_ICON_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_APP_ICON_H_
 

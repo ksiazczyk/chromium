@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser extensions
+summary: Dependency rules restricting which headers the extensions browser code and its tests may include, with per-file exceptions.

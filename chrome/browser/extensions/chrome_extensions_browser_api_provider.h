@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions browser API provider header
+// summary: Declares ChromeExtensionsBrowserAPIProvider, which supplies Chrome-generated extension function registrations to the browser.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSIONS_BROWSER_API_PROVIDER_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSIONS_BROWSER_API_PROVIDER_H_
 

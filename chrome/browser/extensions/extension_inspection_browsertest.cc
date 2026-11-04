@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension inspection browser tests
+// summary: Browser tests ensuring DevTools reports extension popup WebContents as page targets so the popup page is inspected rather than the service worker.
+// ---
+
 #include <memory>
 
 #include "chrome/browser/devtools/devtools_window.h"

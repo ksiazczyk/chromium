@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension migrator header
+// summary: Declares ExtensionMigrator, an ExternalLoader that provides a new extension for profiles having the old one, without removing the old.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_MIGRATOR_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_MIGRATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Test Extension Loader Implementation
+// summary: Implements a test helper that loads packed or unpacked extensions in browser and unit tests, with configurable install and permission settings.
+// ---
+
 #include "chrome/browser/extensions/chrome_test_extension_loader.h"
 
 #include <memory>

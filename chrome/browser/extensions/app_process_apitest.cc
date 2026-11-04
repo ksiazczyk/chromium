@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App process extension API tests
+// summary: API test verifying process allocation and navigation behavior for apps, including separate processes for app tabs and popup handling.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/stringprintf.h"
 #include "base/test/run_until.h"

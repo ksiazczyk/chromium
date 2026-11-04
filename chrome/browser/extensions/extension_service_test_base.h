@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension service test base header
+// summary: Declares ExtensionServiceTestBase and its initialization params for creating an ExtensionService in unit tests instead of full browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_SERVICE_TEST_BASE_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_SERVICE_TEST_BASE_H_
 

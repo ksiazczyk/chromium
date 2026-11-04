@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CWS info service unit tests
+// summary: Unit tests for CWSInfoService covering store metadata retrieval, request stats, timers, and change notifications.
+// ---
+
 #include "extensions/browser/cws_info_service.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeExtensionRegistrarDelegate
+// summary: Declares the Chrome-layer ExtensionRegistrar::Delegate that manages extension lifecycle events, reloads, and uninstall behavior for profiles.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSION_REGISTRAR_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSION_REGISTRAR_DELEGATE_H_
 

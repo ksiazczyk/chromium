@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension action runner browser tests
+// summary: Browser tests covering script injection consent, withheld permissions, and active tab permission granting behavior of ExtensionActionRunner.
+// ---
+
 #include "chrome/browser/extensions/extension_action_runner.h"
 
 #include <stddef.h>

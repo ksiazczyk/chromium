@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension action icon factory unit tests
+// summary: Unit tests verifying that ExtensionActionIconFactory produces correctly sized extension action icons and notifies observers on icon updates.
+// ---
+
 #include "extensions/browser/extension_action_icon_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install error menu item ID provider implementation
+// summary: Implements allocation and release of unique menu command IDs used by global errors for extension install failures.
+// ---
+
 #include "chrome/browser/extensions/extension_install_error_menu_item_id_provider.h"
 
 #include <bitset>

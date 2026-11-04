@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the ExtensionBrowserTest harness
+// summary: Browser tests exercising the ExtensionBrowserTest harness itself, including incognito URL opening and waiting for background pages across background types.
+// ---
+
 #include "chrome/browser/extensions/extension_browsertest.h"
 
 #include "base/strings/stringprintf.h"

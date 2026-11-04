@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension Mojo interface binders
+// summary: Registers Chrome-specific Mojo interface binders for extension frames and service workers, including ChromeOS-only services such as TTS and media perception.
+// ---
+
 #include "chrome/browser/extensions/chrome_extensions_browser_interface_binders.h"
 
 #include "base/functional/bind.h"

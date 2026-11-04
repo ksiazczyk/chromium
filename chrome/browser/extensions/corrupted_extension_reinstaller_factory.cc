@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corrupted extension reinstaller factory implementation
+// summary: Implements the profile-keyed service factory that creates CorruptedExtensionReinstaller instances per browser context, depending on ExternalProviderManager.
+// ---
+
 #include "chrome/browser/extensions/corrupted_extension_reinstaller_factory.h"
 
 #include "base/memory/ptr_util.h"

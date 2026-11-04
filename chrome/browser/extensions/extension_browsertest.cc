@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension browser test base class implementation
+// summary: Implements the cross-platform ExtensionBrowserTest base class used to load, install and exercise extensions in browser tests.
+// ---
+
 #include "chrome/browser/extensions/extension_browsertest.h"
 
 #include "base/files/file_path.h"

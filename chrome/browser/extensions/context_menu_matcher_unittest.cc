@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu matcher unit tests
+// summary: Unit tests for ContextMenuMatcher covering appending extension menu items, item visibility, and WebView-specific menu item handling with test menu managers.
+// ---
+
 #include "chrome/browser/extensions/context_menu_matcher.h"
 
 #include <string>

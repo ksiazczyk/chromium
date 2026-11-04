@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background page Sec-Fetch header browser tests
+// summary: Browser tests checking the Sec-Fetch-Site header on fetch requests made from extension background pages against an HTTPS test server.
+// ---
+
 #include "base/json/json_reader.h"
 #include "base/strings/string_util.h"
 #include "base/strings/stringprintf.h"

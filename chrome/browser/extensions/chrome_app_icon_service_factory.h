@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAppIconServiceFactory class declaration
+// summary: Declares the ProfileKeyedServiceFactory for ChromeAppIconService, with static accessors GetForBrowserContext and GetInstance.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_APP_ICON_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_APP_ICON_SERVICE_FACTORY_H_
 

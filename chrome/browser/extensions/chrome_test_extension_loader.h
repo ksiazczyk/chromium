@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Test Extension Loader Header
+// summary: Declares ChromeTestExtensionLoader, a stack-based test helper for loading packed or unpacked extensions with settings like location, permissions, and incognito access.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_TEST_EXTENSION_LOADER_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_TEST_EXTENSION_LOADER_H_
 

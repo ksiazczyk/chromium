@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension migrator unit tests
+// summary: Unit tests verifying that the ExtensionMigrator external provider installs a replacement extension only when the old extension is present in the profile.
+// ---
+
 #include "chrome/browser/extensions/extension_migrator.h"
 
 #include <memory>

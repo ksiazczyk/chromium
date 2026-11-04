@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension service implementation
+// summary: Implements the Chrome extension service that loads, updates, disables and unloads extensions, coordinating installers, blocklist checks and external providers.
+// ---
+
 #include "chrome/browser/extensions/extension_service.h"
 
 #include <stddef.h>

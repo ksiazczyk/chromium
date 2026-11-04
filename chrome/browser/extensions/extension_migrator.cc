@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension migrator implementation
+// summary: Implements an external loader that offers a replacement extension when an old extension ID is present, supporting extension migration.
+// ---
+
 #include "chrome/browser/extensions/extension_migrator.h"
 
 #include <utility>

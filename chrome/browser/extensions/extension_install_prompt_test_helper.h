@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension install prompt test helper header
+// summary: Declares ExtensionInstallPromptTestHelper, a helper for tests to capture install prompt payloads, results, and justifications via a done callback.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_INSTALL_PROMPT_TEST_HELPER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_INSTALL_PROMPT_TEST_HELPER_H_
 

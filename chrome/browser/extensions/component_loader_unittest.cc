@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Component loader unit tests
+// summary: Unit tests for ComponentLoader covering registration, loading, staged component updater updates and extension unload observation behavior.
+// ---
+
 #include "chrome/browser/extensions/component_loader.h"
 
 #include <stddef.h>

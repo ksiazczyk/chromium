@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBrowserContextLifetimeTracker implementation
+// summary: Implements a singleton tracker whose ProfileWatcher forwards profile and off-the-record profile creation and destruction events to BrowserContextLifetimeObserver.
+// ---
+
 #include "chrome/browser/extensions/chrome_browser_context_lifetime_tracker.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component loader implementation
+// summary: Implements registration, loading and unloading of component extensions per profile, including staging newer component updater versions to load on the next browser startup.
+// ---
+
 #include "chrome/browser/extensions/component_loader.h"
 
 #include <optional>

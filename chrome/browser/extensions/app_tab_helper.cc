@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppTabHelper implementation for extension app tabs
+// summary: Implements a per-tab helper that tracks which extension app a tab belongs to, updates its app icon and clears the app when the extension is unloaded.
+// ---
+
 #include "chrome/browser/extensions/app_tab_helper.h"
 
 #include <memory>

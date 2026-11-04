@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser window lookup utilities for extensions
+// summary: Declares utility functions for looking up browser windows in extensions code, with guidance that such lookups should be rare and fragile.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_BROWSER_WINDOW_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_BROWSER_WINDOW_UTIL_H_
 

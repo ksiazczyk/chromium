@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data localStorage test helper declarations
+// summary: Declares helpers to create and inspect localStorage for a storage key in a profile's default storage partition during browsing data tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_BROWSING_DATA_TEST_UTILS_H_
 #define CHROME_BROWSER_EXTENSIONS_BROWSING_DATA_TEST_UTILS_H_
 

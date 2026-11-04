@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event metrics browser tests
+// summary: Browser tests verifying that extension event dispatch timing histograms are emitted with sane values for event pages and service workers.
+// ---
+
 #include <tuple>
 
 #include "base/strings/stringprintf.h"

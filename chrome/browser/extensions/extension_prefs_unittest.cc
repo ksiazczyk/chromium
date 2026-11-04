@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension prefs unit test base implementation
+// summary: Implements the ExtensionPrefsTest base class that initializes, recreates and verifies extension preferences for preference-related unit tests.
+// ---
+
 #include "chrome/browser/extensions/extension_prefs_unittest.h"
 
 #include <algorithm>

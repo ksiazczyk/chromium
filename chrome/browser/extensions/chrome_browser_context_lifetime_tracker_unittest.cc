@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeBrowserContextLifetimeTracker unit tests
+// summary: Unit tests verifying that the tracker reports existing and newly created off-the-record profiles and primary context destruction events in the correct order.
+// ---
+
 #include "chrome/browser/extensions/chrome_browser_context_lifetime_tracker.h"
 
 #include <memory>

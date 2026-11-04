@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App window restricted API browser tests
+// summary: Browser tests checking that app windows correctly clobber restricted APIs such as onbeforeunload and document.write.
+// ---
+
 #include "chrome/browser/extensions/extension_browsertest.h"
 #include "content/public/test/browser_test.h"
 #include "extensions/test/result_catcher.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App background page extension API tests
+// summary: API test exercising app background pages and background contents lifecycle, including background mode manager and service interactions.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/functional/bind.h"
 #include "base/location.h"

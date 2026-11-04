@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component loader factory declaration
+// summary: Declares the ProfileKeyedServiceFactory that provides ComponentLoader instances for browser contexts.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_COMPONENT_LOADER_FACTORY_H_
 #define CHROME_BROWSER_EXTENSIONS_COMPONENT_LOADER_FACTORY_H_
 

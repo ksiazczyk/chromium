@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension cookies test helper implementation
+// summary: Implements shared cookie test fixtures that seed cookie stores, create child frames and fetch cookies via a controllable HTTP response pool.
+// ---
+
 #include "chrome/browser/extensions/extension_cookies_test_helper.h"
 
 #include <memory>

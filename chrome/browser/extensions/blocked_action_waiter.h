@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocked action waiter header
+// summary: Declares BlockedActionWaiter, a test helper for waiting until blocked extension actions such as pending scripts or web requests are recorded.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_BLOCKED_ACTION_WAITER_H_
 #define CHROME_BROWSER_EXTENSIONS_BLOCKED_ACTION_WAITER_H_
 

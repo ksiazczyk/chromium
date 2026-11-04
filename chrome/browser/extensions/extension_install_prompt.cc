@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install prompt implementation
+// summary: Implements the UI flow for extension installation prompts, including icon loading, prompt type selection, and showing the platform install dialog.
+// ---
+
 #include "chrome/browser/extensions/extension_install_prompt.h"
 
 #include <optional>

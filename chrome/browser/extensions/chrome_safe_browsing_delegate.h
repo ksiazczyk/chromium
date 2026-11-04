@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Safe Browsing Delegate for Extensions
+// summary: Chrome-specific safe browsing delegate that reports extension API activity such as script execution, cookies access, and declarative net request rules to telemetry services.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_SAFE_BROWSING_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_SAFE_BROWSING_DELEGATE_H_
 

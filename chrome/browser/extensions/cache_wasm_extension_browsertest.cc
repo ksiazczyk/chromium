@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAssembly code caching extension browser test
+// summary: Browser test verifying WebAssembly code cache hits and misses for extensions using the V8.WasmCodeCaching histogram and forced caching switches.
+// ---
+
 #include <array>
 #include <string_view>
 

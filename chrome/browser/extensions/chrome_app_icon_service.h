@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAppIconService class header
+// summary: Declares ChromeAppIconService, a KeyedService that creates app icons, tracks them per app ID and updates them on relevant changes.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_APP_ICON_SERVICE_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_APP_ICON_SERVICE_H_
 

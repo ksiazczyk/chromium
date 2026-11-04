@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension management test preference updater implementation
+// summary: Implements helpers for manipulating extension management preferences such as installation modes, install sources, and blocked hosts in tests.
+// ---
+
 #include "chrome/browser/extensions/extension_management_test_util.h"
 
 #include <string>

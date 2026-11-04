@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension commands global registry unit test
+// summary: Unit tests for global extension command registration using a fake global accelerator listener, covering manifest shortcut handling and sanitization.
+// ---
+
 #include "chrome/browser/extensions/extension_commands_global_registry.h"
 
 #include <memory>

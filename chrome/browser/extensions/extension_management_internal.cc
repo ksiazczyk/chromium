@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension management settings parsing
+// summary: Implements parsing of individual, per-update-url, and default extension management settings from policy preferences.
+// ---
+
 #include "chrome/browser/extensions/extension_management_internal.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppTabHelper unit tests
+// summary: Unit test verifying that AppTabHelper clears the associated extension app when the extension is unloaded.
+// ---
+
 #include "chrome/browser/extensions/app_tab_helper.h"
 
 #include "base/run_loop.h"

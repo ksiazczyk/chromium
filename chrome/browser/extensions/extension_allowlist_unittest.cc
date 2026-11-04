@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension allowlist unit tests
+// summary: Unit tests for safe browsing extension allowlist enforcement, covering malware-based disabling and Omaha attribute handling of installed extensions.
+// ---
+
 #include "extensions/browser/extension_allowlist.h"
 
 #include "base/memory/raw_ptr.h"

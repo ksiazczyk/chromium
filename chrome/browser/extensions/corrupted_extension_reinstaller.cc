@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corrupted extension reinstaller implementation
+// summary: Implements CorruptedExtensionReinstaller, which schedules reinstalls of corrupted policy-installed extensions with backoff and records UMA metrics.
+// ---
+
 #include "chrome/browser/extensions/corrupted_extension_reinstaller.h"
 
 #include "base/functional/bind.h"

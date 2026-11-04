@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install prompt header
+// summary: Declares ExtensionInstallPrompt, the client that displays extension installation UI and coordinates dialog callbacks and prompt data.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_INSTALL_PROMPT_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_INSTALL_PROMPT_H_
 

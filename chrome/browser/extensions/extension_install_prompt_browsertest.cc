@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension install prompt browser tests
+// summary: Browser tests verifying that ExtensionInstallPrompt aborts installs when the parent web contents or native window is destroyed and shows the dialog otherwise.
+// ---
+
 #include "chrome/browser/extensions/extension_install_prompt.h"
 
 #include "base/run_loop.h"

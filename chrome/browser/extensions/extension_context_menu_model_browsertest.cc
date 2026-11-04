@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension context menu model browser test
+// summary: Browser tests covering extension icon context menu behavior, including page access, visibility toggles, policy-installed extensions and metrics.
+// ---
+
 #include "chrome/browser/extensions/extension_context_menu_model.h"
 
 #include <memory>

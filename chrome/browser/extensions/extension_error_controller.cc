@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension error controller implementation
+// summary: Implements the controller that identifies blocklisted extensions needing user acknowledgment and shows the platform-specific extension error UI.
+// ---
+
 #include "chrome/browser/extensions/extension_error_controller.h"
 
 #include "chrome/browser/extensions/extension_error_controller_factory.h"

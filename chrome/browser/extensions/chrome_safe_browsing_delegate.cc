@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome safe browsing delegate implementation
+// summary: Reports extension API activity such as tabs.executeScript and declarativeNetRequest actions to the safe browsing extension telemetry service.
+// ---
+
 #include "chrome/browser/extensions/chrome_safe_browsing_delegate.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension getViews API browser tests
+// summary: Browser tests for chrome.extension.getViews, including a regression test for web-accessible extension views with the DOM automation controller disabled.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/ui/browser_tabstrip.h"

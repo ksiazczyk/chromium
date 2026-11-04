@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension management service implementation
+// summary: Implements the keyed service that tracks extension management policies, including installation modes, blocked hosts, and low-trust environment features.
+// ---
+
 #include "chrome/browser/extensions/extension_management.h"
 
 #include <algorithm>

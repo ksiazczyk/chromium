@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions browser API provider implementation
+// summary: Registers Chrome's generated extension API functions with the extension function registry.
+// ---
+
 #include "chrome/browser/extensions/chrome_extensions_browser_api_provider.h"
 
 #include "chrome/browser/extensions/api/generated_api_registration.h"

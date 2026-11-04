@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app icon delegate interface
+// summary: Defines the ChromeAppIconDelegate interface that is notified whenever an app icon image has been updated.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_APP_ICON_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_APP_ICON_DELEGATE_H_
 

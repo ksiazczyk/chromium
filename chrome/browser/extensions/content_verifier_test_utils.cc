@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content verifier test utilities
+// summary: Implements test helpers for content verifier tests, including a downloader delegate and reinstall delay tracker.
+// ---
+
 #include "chrome/browser/extensions/content_verifier_test_utils.h"
 
 #include <utility>

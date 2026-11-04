@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action runner implementation
+// summary: Implements ExtensionActionRunner, which runs extension actions, grants active tab permissions, and tracks blocked script injections per web contents.
+// ---
+
 #include "chrome/browser/extensions/extension_action_runner.h"
 
 #include <algorithm>

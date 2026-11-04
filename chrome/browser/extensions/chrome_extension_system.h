@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeExtensionSystem
+// summary: Declares ChromeExtensionSystem, the ExtensionSystem KeyedService for regular and incognito profiles with a shared services class.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSION_SYSTEM_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSION_SYSTEM_H_
 

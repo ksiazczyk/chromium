@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension bookmarklet browser test
+// summary: Browser test verifying that the chrome-extension scheme disallows running JavaScript URLs so page titles cannot be changed that way.
+// ---
+
 #include <string>
 
 #include "base/strings/utf_string_conversions.h"

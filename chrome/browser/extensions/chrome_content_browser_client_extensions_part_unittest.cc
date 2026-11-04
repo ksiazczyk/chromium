@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard access tests for extension service workers
+// summary: Unit tests checking that ClipboardHost is allowed for extension origins, refused for web origins, and gated by the clipboard-on-service-worker feature flag.
+// ---
+
 #include "chrome/browser/extensions/chrome_content_browser_client_extensions_part.h"
 
 #include "base/test/scoped_feature_list.h"

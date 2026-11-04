@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension autoplay browser tests
+// summary: Browser tests checking that autoplay is allowed for extensions, in iframes and in hosted apps under the document user activation policy.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "build/build_config.h"
 #include "build/chromeos_buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component loader factory implementation
+// summary: Implements the profile-keyed service factory that builds ComponentLoader instances shared between an incognito browser context and its original browser context.
+// ---
+
 #include "chrome/browser/extensions/component_loader_factory.h"
 
 #include "base/memory/ptr_util.h"

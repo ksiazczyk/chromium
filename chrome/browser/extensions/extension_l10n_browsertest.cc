@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension CSS localization browser test
+// summary: Browser test verifying that extension CSS files are localized using _locales message placeholders.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/threading/thread_restrictions.h"
 #include "chrome/browser/extensions/extension_apitest.h"

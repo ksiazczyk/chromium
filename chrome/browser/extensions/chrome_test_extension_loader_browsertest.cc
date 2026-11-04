@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Test Extension Loader Browser Tests
+// summary: Browser test verifying that ChromeTestExtensionLoader waits for large content scripts to be fully read and injected before continuing.
+// ---
+
 #include "chrome/browser/extensions/chrome_test_extension_loader.h"
 
 #include "base/strings/strcat.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension garbage collector factory implementation
+// summary: Profile-keyed service factory that builds the platform-appropriate extension garbage collector, choosing the ChromeOS subclass on ChromeOS.
+// ---
+
 #include "chrome/browser/extensions/extension_garbage_collector_factory.h"
 
 #include <memory>

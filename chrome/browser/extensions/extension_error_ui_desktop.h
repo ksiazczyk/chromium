@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop extension error UI header
+// summary: Declares ExtensionErrorUIDesktop, which shows a global error bubble for extension blocklist alerts on desktop profiles.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_ERROR_UI_DESKTOP_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_ERROR_UI_DESKTOP_H_
 

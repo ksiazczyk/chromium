@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionKeybindingRegistry implementation
+// summary: Implements the cross-platform registry for extension keyboard accelerators, listening for media keys and dispatching commands.onCommand events.
+// ---
+
 #include "chrome/browser/extensions/extension_keybinding_registry.h"
 
 #include <memory>

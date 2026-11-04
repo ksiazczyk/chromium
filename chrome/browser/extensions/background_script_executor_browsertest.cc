@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script executor browser tests
+// summary: Browser tests verifying that JavaScript can be executed in extension service workers and background pages via BackgroundScriptExecutor.
+// ---
+
 #include "extensions/browser/background_script_executor.h"
 
 #include "base/test/bind.h"

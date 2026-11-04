@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corrupted extension reinstaller class declaration
+// summary: Declares CorruptedExtensionReinstaller, a KeyedService that retries reinstalling corrupted extensions with backoff and defines policy reinstall reason enums.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CORRUPTED_EXTENSION_REINSTALLER_H_
 #define CHROME_BROWSER_EXTENSIONS_CORRUPTED_EXTENSION_REINSTALLER_H_
 

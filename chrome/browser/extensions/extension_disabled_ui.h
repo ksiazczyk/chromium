@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension disabled UI header
+// summary: Declares AddExtensionDisabledError, which adds a global error informing the user that an extension was disabled after a permission upgrade or remote install.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_DISABLED_UI_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_DISABLED_UI_H_
 

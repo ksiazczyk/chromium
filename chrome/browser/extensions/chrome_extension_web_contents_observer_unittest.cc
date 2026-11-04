@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome extension web contents observer unit tests
+// summary: Unit tests for ChromeExtensionWebContentsObserver, focusing on JavaScript error reporting for component extensions with a mock error report processor.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_web_contents_observer.h"
 
 #include <memory>

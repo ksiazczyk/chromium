@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension DOM shadow root browser test
+// summary: Browser tests verifying that content scripts and background pages can access open or closed shadow roots in web content.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/test/browser_test.h"
 #include "content/public/test/browser_test_utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension data deleter implementation
+// summary: Deletes an extension's data such as cookies, storage partition data, and settings when the extension is removed or uninstalled.
+// ---
+
 #include "chrome/browser/extensions/data_deleter.h"
 
 #include "base/barrier_closure.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension install prompt show params browser tests
+// summary: Browser test checking that WasParentDestroyed reports windows without a root ancestor as destroyed for install prompt show params.
+// ---
+
 #include "chrome/browser/extensions/extension_install_prompt_show_params.h"
 
 #include "chrome/browser/ui/browser_window.h"

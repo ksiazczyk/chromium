@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script matching browser test
+// summary: Browser tests verifying ScriptInjectionTracker's static content script matching across frames and URLs.
+// ---
+
 #include "base/memory/scoped_refptr.h"
 #include "base/strings/stringprintf.h"
 #include "base/threading/thread_restrictions.h"

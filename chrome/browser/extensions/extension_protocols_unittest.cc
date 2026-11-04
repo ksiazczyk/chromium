@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension protocols unit tests
+// summary: Unit tests for the browser's extension protocol handlers, covering content verification, origin handling, and origin trial token headers for extension resource requests.
+// ---
+
 #include "extensions/browser/extension_protocols.h"
 
 #include <stddef.h>

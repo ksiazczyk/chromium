@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop extension error UI implementation
+// summary: Implements the desktop global-error bubble that warns users about blocklisted or enterprise-policy-blocked extensions and apps.
+// ---
+
 #include "chrome/browser/extensions/extension_error_ui_desktop.h"
 
 #include "base/check.h"

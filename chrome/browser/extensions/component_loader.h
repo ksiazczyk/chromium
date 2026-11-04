@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component loader class declaration
+// summary: Declares the ComponentLoader keyed service that registers, loads and unloads component extensions and stages extension updates delivered by the component updater.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_COMPONENT_LOADER_H_
 #define CHROME_BROWSER_EXTENSIONS_COMPONENT_LOADER_H_
 

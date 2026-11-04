@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension management test preference updater header
+// summary: Declares ExtensionManagementPrefUpdaterBase, a base class with helpers for editing extension management preferences in tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_MANAGEMENT_TEST_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_MANAGEMENT_TEST_UTIL_H_
 

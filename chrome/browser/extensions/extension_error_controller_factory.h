@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension error controller factory header
+// summary: Declares a ProfileKeyedServiceFactory that provides ExtensionErrorController instances shared between incognito and original browser contexts.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_ERROR_CONTROLLER_FACTORY_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_ERROR_CONTROLLER_FACTORY_H_
 

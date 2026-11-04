@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension menu icon loader header
+// summary: Declares ExtensionMenuIconLoader, a wrapper around ExtensionIconManager used by the Context Menus API.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_MENU_ICON_LOADER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_MENU_ICON_LOADER_H_
 

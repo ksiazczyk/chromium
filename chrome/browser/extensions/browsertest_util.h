@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension browser test helper declarations
+// summary: Declares test helpers for extension browser tests, including app browser launch, tab addition, window controller counting, and ChromeOS cache setup.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_BROWSERTEST_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_BROWSERTEST_UTIL_H_
 

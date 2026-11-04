@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop extension disabled global error
+// summary: Implements the desktop bubble UI that warns users about disabled extensions and offers re-enabling or uninstalling them.
+// ---
+
 #include <memory>
 #include <string>
 

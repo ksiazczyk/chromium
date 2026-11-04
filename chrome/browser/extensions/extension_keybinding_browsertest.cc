@@ -5,6 +5,12 @@
 // This file contains non-UI interactive tests for the extensions commands API.
 // For UI interactive tests, see extension_keybinding_apitest.cc.
 
+// ---docerion
+// type: test
+// title: Extension keybinding browser tests
+// summary: Non-UI browser tests for the extensions commands API, covering synthesized commands, keybinding updates, and shortcut overrides across action types.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/threading/thread_restrictions.h"
 #include "chrome/browser/extensions/commands/command_service.h"

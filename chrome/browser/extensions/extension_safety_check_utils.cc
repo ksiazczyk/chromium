@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension safety check utilities
+// summary: Implements helpers that derive extension Safety Check warning reasons and strings from blocklist state, CWS info and acknowledged preferences.
+// ---
+
 #include "chrome/browser/extensions/extension_safety_check_utils.h"
 
 #include "chrome/browser/extensions/api/developer_private/developer_private_api.h"

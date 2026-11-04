@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension resource request policy API tests
+// summary: Browser tests verifying that navigations to non-web-accessible extension resources are blocked across local and remote frame scenarios.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_util.h"
 #include "base/strings/stringprintf.h"

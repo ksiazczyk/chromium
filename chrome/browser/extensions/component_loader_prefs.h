@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component loader staged update preferences declaration
+// summary: Declares helpers and the StagedComponentExtensionInfo struct for managing Local State preferences that track staged component extension updates.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_COMPONENT_LOADER_PREFS_H_
 #define CHROME_BROWSER_EXTENSIONS_COMPONENT_LOADER_PREFS_H_
 

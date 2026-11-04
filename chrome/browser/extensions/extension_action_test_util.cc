@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action test utilities
+// summary: Test helper functions that count active or total page actions for a web contents and create a ToolbarActionsModel for a profile.
+// ---
+
 #include "chrome/browser/extensions/extension_action_test_util.h"
 
 #include <memory>

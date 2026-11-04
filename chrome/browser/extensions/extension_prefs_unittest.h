@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension prefs unit test base header
+// summary: Declares the ExtensionPrefsTest base class and PrefsPrepopulatedTestBase fixture used by extension preference unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_PREFS_UNITTEST_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_PREFS_UNITTEST_H_
 

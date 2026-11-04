@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content verifier delegate implementation
+// summary: Implements Chrome's content verification delegate that chooses verification modes, signature fetch URLs, and repair actions for extension content corruption.
+// ---
+
 #include "chrome/browser/extensions/chrome_content_verifier_delegate.h"
 
 #include <algorithm>

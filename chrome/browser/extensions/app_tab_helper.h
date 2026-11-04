@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppTabHelper class declaration
+// summary: Declares AppTabHelper, a WebContents and extension registry observer that stores the app extension and icon for a tab and offers lookup helpers.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_APP_TAB_HELPER_H_
 #define CHROME_BROWSER_EXTENSIONS_APP_TAB_HELPER_H_
 

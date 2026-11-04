@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu helpers unit tests
+// summary: Unit tests verifying ExtensionContextAndPatternMatch behavior for context menu contexts and URL pattern matching, including navigation delegate handling.
+// ---
+
 #include "chrome/browser/extensions/context_menu_helpers.h"
 
 #include "content/public/browser/context_menu_params.h"

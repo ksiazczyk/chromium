@@ -4,6 +4,12 @@
 
 // Contains holistic tests of the bindings infrastructure
 
+// ---docerion
+// type: test
+// title: Extension bindings API browser tests
+// summary: Browser tests covering the extension bindings infrastructure, including unavailable bindings, handler exceptions and callback error behavior.
+// ---
+
 #include "base/run_loop.h"
 #include "build/build_config.h"
 #include "chrome/browser/extensions/extension_apitest.h"

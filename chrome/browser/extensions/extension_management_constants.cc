@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension management schema constants
+// summary: Defines constant strings for extension management policy schema values such as installation modes, permissions, and runtime host restrictions.
+// ---
+
 #include "chrome/browser/extensions/extension_management_constants.h"
 
 #include "extensions/buildflags/buildflags.h"

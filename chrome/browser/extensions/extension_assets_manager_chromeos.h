@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS extension assets manager declaration
+// summary: Declares the Chrome OS assets manager class that installs extensions to a shared location and manages shared extension preferences.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_ASSETS_MANAGER_CHROMEOS_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_ASSETS_MANAGER_CHROMEOS_H_
 

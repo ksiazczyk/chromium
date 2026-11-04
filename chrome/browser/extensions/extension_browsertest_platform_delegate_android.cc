@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android extension browser test platform delegate
+// summary: Android implementation of the extension browser test platform delegate, handling profile access and URL navigation while disallowing platform apps.
+// ---
+
 #include "chrome/browser/extensions/extension_browsertest_platform_delegate.h"
 
 #include "base/notimplemented.h"

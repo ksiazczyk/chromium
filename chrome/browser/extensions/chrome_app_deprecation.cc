@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app deprecation helpers
+// summary: Implements checks for unsupported deprecated Chrome apps and preinstalled app IDs, including testing overrides to keep Chrome apps working in tests.
+// ---
+
 #include "chrome/browser/extensions/chrome_app_deprecation.h"
 
 #include "build/build_config.h"

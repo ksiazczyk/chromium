@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install prompt show params implementation
+// summary: Implements ExtensionInstallPromptShowParams, which tracks the parent web contents or native window for install prompt dialogs and detects when the parent is destroyed.
+// ---
+
 #include "chrome/browser/extensions/extension_install_prompt_show_params.h"
 
 #include <memory>

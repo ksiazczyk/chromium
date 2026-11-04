@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeExtensionHostDelegate browser tests
+// summary: Browser tests verifying that ChromeExtensionHostDelegate::CreateTab adds foreground and background tabs using the provided web contents.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_host_delegate.h"
 
 #include "base/run_loop.h"

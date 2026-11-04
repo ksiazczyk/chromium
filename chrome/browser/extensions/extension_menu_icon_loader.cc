@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension menu icon loader implementation
+// summary: Implements a MenuIconLoader wrapper around ExtensionIconManager that loads, fetches, and removes icons for context menu items.
+// ---
+
 #include "chrome/browser/extensions/extension_menu_icon_loader.h"
 
 #include "content/public/browser/browser_context.h"

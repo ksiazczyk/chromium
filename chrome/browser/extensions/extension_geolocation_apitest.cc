@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension geolocation API browser tests
+// summary: Browser tests checking that extensions can access geolocation only when the geolocation permission is granted, using a scoped geolocation overrider.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/test/browser_test.h"
 #include "extensions/buildflags/buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions browser client for desktop Android
+// summary: Android-specific implementation of ChromeExtensionsBrowserClient that bootstraps a lightweight extensions runtime for the experimental desktop-android build.
+// ---
+
 #include "chrome/browser/extensions/chrome_extensions_browser_client.h"
 
 #include <memory>

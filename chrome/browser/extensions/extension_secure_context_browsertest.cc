@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension secure context browser tests
+// summary: Browser tests verifying that extension subframes are treated as secure contexts even inside insecure HTTP pages, including availability of secure-context-only APIs.
+// ---
+
 #include "chrome/browser/extensions/extension_browsertest.h"
 #include "content/public/browser/render_frame_host.h"
 #include "content/public/browser/web_contents.h"

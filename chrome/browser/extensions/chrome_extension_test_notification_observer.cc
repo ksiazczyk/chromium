@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension test notification observer implementation
+// summary: Implements the Chrome-specific extension test notification observer that waits for page action visibility changes and reacts to extension action updates.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_test_notification_observer.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content browser client extensions part implementation
+// summary: Implements the extensions portion of ChromeContentBrowserClient, covering effective URLs, process selection, service workers, web request handling, and renderer preferences.
+// ---
+
 #include "chrome/browser/extensions/chrome_content_browser_client_extensions_part.h"
 
 #include <stddef.h>

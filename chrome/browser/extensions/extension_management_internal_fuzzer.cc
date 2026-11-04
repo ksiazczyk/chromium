@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension management internal settings fuzzer
+// summary: Fuzzes parsing of extension management IndividualSettings from JSON input across all parsing scopes.
+// ---
+
 #include "chrome/browser/extensions/extension_management_internal.h"
 
 #include <stdint.h>

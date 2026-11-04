@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension cookies test helper header
+// summary: Declares shared cookie test helpers with host, permission pattern and SameSite cookie fixtures backed by a controllable HTTP response pool.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_COOKIES_TEST_HELPER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_COOKIES_TEST_HELPER_H_
 

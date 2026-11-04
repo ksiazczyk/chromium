@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension safety check utils unit tests
+// summary: Unit tests for extension safety check utilities, mocking the CWS info service to verify verdicts such as malware, policy violations, missing privacy practices and unpublished extensions.
+// ---
+
 #include "chrome/browser/extensions/extension_safety_check_utils.h"
 
 #include "base/strings/string_util.h"

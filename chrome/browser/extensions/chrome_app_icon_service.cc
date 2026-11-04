@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app icon service
+// summary: Implements a keyed service that creates and tracks ChromeAppIcon instances and refreshes them when extensions load, unload or otherwise change.
+// ---
+
 #include "chrome/browser/extensions/chrome_app_icon_service.h"
 
 #include "base/functional/bind.h"

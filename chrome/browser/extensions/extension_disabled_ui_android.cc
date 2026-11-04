@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension disabled error stub
+// summary: Android implementation of the extension disabled error that is currently not implemented and logs a TODO for a special Android error UI.
+// ---
+
 #include "chrome/browser/extensions/extension_disabled_ui.h"
 
 #include "base/logging.h"
