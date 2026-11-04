@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default search extension controlled controller header
+// summary: Declares the controller managing confirmation UI for extension-controlled default search engines, used by omnibox interception.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_ENGINES_DEFAULT_SEARCH_EXTENSION_CONTROLLED_CONTROLLER_H_
 #define CHROME_BROWSER_UI_SEARCH_ENGINES_DEFAULT_SEARCH_EXTENSION_CONTROLLED_CONTROLLER_H_
 

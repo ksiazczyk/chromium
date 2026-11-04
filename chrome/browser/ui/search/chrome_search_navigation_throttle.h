@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome search navigation throttle class declaration
+// summary: Declares the navigation throttle enforcing that only instant processes can commit chrome-search URLs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_CHROME_SEARCH_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_UI_SEARCH_CHROME_SEARCH_NAVIGATION_THROTTLE_H_
 

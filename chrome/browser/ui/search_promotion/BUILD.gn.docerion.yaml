@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search promotion build targets
+summary: Defines GN source sets for the register search promotion task, the search promotion manager components, and their unit tests.

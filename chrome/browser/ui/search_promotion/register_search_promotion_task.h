@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register search promotion task header
+// summary: Declares the RegisterSearchPromotionTask delegated task and the SearchPromotionExitCode enum used for registration outcome reporting.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_PROMOTION_REGISTER_SEARCH_PROMOTION_TASK_H_
 #define CHROME_BROWSER_UI_SEARCH_PROMOTION_REGISTER_SEARCH_PROMOTION_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop shortcut eligibility checks
+// summary: Implements CanCreateDesktopShortcut, which allows shortcuts only for valid HTTP(S) or extension URLs on non-guest, non-OTR profiles without crashes or error pages.
+// ---
+
 #include "chrome/browser/ui/shortcuts/desktop_shortcuts_utils.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP user data types
+// summary: Defines enums for New Tab Page background and shortcut customization availability, features and user actions used for metrics reporting.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_NTP_USER_DATA_TYPES_H_
 #define CHROME_BROWSER_UI_SEARCH_NTP_USER_DATA_TYPES_H_
 

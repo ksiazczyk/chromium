@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page navigation throttle implementation
+// summary: Redirects new tab page navigations to the local NTP when the remote page fails or returns an error response.
+// ---
+
 #include "chrome/browser/ui/search/new_tab_page_navigation_throttle.h"
 
 #include <utility>

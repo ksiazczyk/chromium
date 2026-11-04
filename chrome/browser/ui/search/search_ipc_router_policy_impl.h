@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search IPC router policy header
+// summary: Declares SearchIPCRouterPolicyImpl, the SearchIPCRouter::Policy implementation gating omnibox, theme and most visited IPC messages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_SEARCH_IPC_ROUTER_POLICY_IMPL_H_
 #define CHROME_BROWSER_UI_SEARCH_SEARCH_IPC_ROUTER_POLICY_IMPL_H_
 

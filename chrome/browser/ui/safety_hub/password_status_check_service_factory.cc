@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password status check service factory implementation
+// summary: Implements the ProfileKeyedServiceFactory that builds PasswordStatusCheckService per profile and wires password store and leak check dependencies.
+// ---
+
 #include "chrome/browser/ui/safety_hub/password_status_check_service_factory.h"
 
 #include "base/feature_list.h"

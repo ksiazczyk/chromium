@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial chooser controller implementation
+// summary: Implements the serial port chooser controller that filters available ports, tracks Bluetooth adapter state, and drives the Serial API permission prompt.
+// ---
+
 #include "chrome/browser/ui/serial/serial_chooser_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search IPC router implementation
+// summary: Implements SearchIPCRouter and the embedded search client factory that route Mojo IPC messages between the browser and the Instant page.
+// ---
+
 #include "chrome/browser/ui/search/search_ipc_router.h"
 
 #include <utility>

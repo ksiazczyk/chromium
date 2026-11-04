@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Send Tab to Self UI directory metadata
+summary: Points the directory metadata to the shared mixins in components/send_tab_to_self.

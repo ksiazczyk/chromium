@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search IPC router header
+// summary: Declares SearchIPCRouter with its delegate and policy interfaces for deciding which messages are processed or sent to the Instant page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_SEARCH_IPC_ROUTER_H_
 #define CHROME_BROWSER_UI_SEARCH_SEARCH_IPC_ROUTER_H_
 

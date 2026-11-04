@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Hub extensions result unit tests
+// summary: Unit tests for SafetyHubExtensionsResult covering cloning, result computation with mock extensions, and unpublished-extension triggers.
+// ---
+
 #include "chrome/browser/ui/safety_hub/extensions_result.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search promotion manager implementation
+// summary: Implements the Windows-only manager that checks PEH binary eligibility, engagement cohorts, and triggers search promotion promos on Google Search visits.
+// ---
+
 #include "chrome/browser/ui/search_promotion/search_promotion_manager.h"
 
 #include <memory>

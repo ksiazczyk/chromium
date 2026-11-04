@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edit search engine controller implementation
+// summary: Implements validation and acceptance logic for adding or editing a search engine in the Edit Search Engine dialog.
+// ---
+
 #include "chrome/browser/ui/search_engines/edit_search_engine_controller.h"
 
 #include "base/memory/ptr_util.h"

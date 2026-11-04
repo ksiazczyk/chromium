@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub HaTS service factory class
+// summary: Declares the ProfileKeyedServiceFactory that provides per-profile SafetyHubHatsService instances.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_SAFETY_HUB_HATS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_SAFETY_HUB_HATS_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Revoked permissions OS notification display manager factory implementation
+// summary: Implements the ProfileKeyedServiceFactory that builds the notification display manager, using the Android notification wrapper on Android.
+// ---
+
 #include "chrome/browser/ui/safety_hub/revoked_permissions_os_notification_display_manager_factory.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

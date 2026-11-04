@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Abusive notification permissions manager unit tests
+// summary: Unit tests for the abusive notification permissions manager covering revocation behavior, Safe Browsing checks and metrics.
+// ---
+
 #include "chrome/browser/ui/safety_hub/abusive_notification_permissions_manager.h"
 
 #include "base/memory/scoped_refptr.h"

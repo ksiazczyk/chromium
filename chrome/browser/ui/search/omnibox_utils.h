@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox utilities header
+// summary: Declares search namespace helpers for retrieving the omnibox controller, focusing the omnibox and checking whether omnibox input is in progress.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_OMNIBOX_UTILS_H_
 #define CHROME_BROWSER_UI_SEARCH_OMNIBOX_UTILS_H_
 

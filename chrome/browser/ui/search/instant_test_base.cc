@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant test base implementation
+// summary: Implements SetupInstant to configure a default search provider with a custom NTP URL and an on-demand HTTPS test server for Instant tests.
+// ---
+
 #include "chrome/browser/ui/search/instant_test_base.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub extensions result implementation
+// summary: Implements SafetyHubExtensionsResult, which collects extensions that trigger a Safety Hub review and updates the set when extensions are kept or uninstalled.
+// ---
+
 #include "chrome/browser/ui/safety_hub/extensions_result.h"
 
 #include <algorithm>

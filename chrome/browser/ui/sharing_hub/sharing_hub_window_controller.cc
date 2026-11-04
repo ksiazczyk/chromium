@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing Hub window controller implementation
+// summary: Implements SharingHubWindowController, creating and showing the Sharing Hub bubble and the screenshot captured bubble anchored to the browser toolbar.
+// ---
+
 #include "chrome/browser/ui/sharing_hub/sharing_hub_window_controller.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP user data logger unit tests
+// summary: Unit tests verifying that the NTP user data logger records tile counts, impressions and other New Tab Page histograms correctly.
+// ---
+
 #include "chrome/browser/ui/search/ntp_user_data_logger.h"
 
 #include <memory>

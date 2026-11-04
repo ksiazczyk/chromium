@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Revoked permissions OS notification display manager unit tests
+// summary: Unit tests for the manager that shows OS notifications about revoked site permissions, using a mocked notification wrapper and test profiles.
+// ---
+
 #include "chrome/browser/ui/safety_hub/revoked_permissions_os_notification_display_manager.h"
 
 #include "base/test/scoped_feature_list.h"

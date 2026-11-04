@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome search navigation throttle implementation
+// summary: Implements a navigation throttle that blocks renderer-initiated chrome-search navigations from non-instant processes.
+// ---
+
 #include "chrome/browser/ui/search/chrome_search_navigation_throttle.h"
 
 #include "chrome/browser/profiles/profile.h"

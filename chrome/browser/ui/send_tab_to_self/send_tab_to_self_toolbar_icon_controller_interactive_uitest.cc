@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self toolbar icon controller interactive UI tests
+// summary: Interactive UI tests for the toolbar icon controller, checking automatic tab opening and toast interactions when receiving sent tabs.
+// ---
+
 #include "chrome/browser/ui/send_tab_to_self/send_tab_to_self_toolbar_icon_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

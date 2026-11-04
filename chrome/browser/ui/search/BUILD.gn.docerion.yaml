@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for browser search UI
+summary: Defines GN source sets for the search UI code with conditional WebUI NTP sources, dependencies, and interactive UI test targets.

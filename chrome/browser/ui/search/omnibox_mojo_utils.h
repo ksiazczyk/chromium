@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Mojo utilities
+// summary: Declares helpers that convert autocomplete results into search Mojo types and lists icon resource name constants for omnibox matches.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_OMNIBOX_MOJO_UTILS_H_
 #define CHROME_BROWSER_UI_SEARCH_OMNIBOX_MOJO_UTILS_H_
 

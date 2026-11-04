@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Select file policy build targets
+summary: GN build file defining the select_file_policy source set and its unit tests, including platform-dependent dependencies for Android and desktop.

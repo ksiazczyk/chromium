@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self toolbar icon controller implementation
+// summary: Implements the desktop receiving UI handler that opens incoming sent tabs, shows toasts, and manages toolbar icon state.
+// ---
+
 #include "chrome/browser/ui/send_tab_to_self/send_tab_to_self_toolbar_icon_controller.h"
 
 #include "base/i18n/message_formatter.h"

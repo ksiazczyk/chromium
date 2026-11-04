@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search promotion manager factory implementation
+// summary: Builds the per-profile SearchPromotionManager when the kIPHSearchPromotionFeature flag is enabled, initializing eagerly to cache segmentation results.
+// ---
+
 #include "chrome/browser/ui/search_promotion/search_promotion_manager_factory.h"
 
 #include <memory>

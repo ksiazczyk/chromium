@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub service base class
+// summary: Declares the KeyedService base class that runs periodic Safety Hub updates via background and UI tasks and notifies observers of new results.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_SAFETY_HUB_SERVICE_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_SAFETY_HUB_SERVICE_H_
 

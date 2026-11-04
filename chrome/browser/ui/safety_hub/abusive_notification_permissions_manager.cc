@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abusive notification permissions manager implementation
+// summary: Implements detection and auto-revocation of abusive notification permissions using Safe Browsing data, with metrics logging.
+// ---
+
 #include "chrome/browser/ui/safety_hub/abusive_notification_permissions_manager.h"
 
 #include <utility>

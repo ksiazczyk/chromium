@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub shared constants and enums
+// summary: Declares shared Safety Hub dictionary keys, the SafetyHubCardState and SafetyHubModuleType enums, and timing constants.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_SAFETY_HUB_CONSTANTS_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_SAFETY_HUB_CONSTANTS_H_
 

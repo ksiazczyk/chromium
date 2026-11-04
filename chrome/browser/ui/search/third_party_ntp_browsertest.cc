@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Third-party NTP browser tests
+// summary: Browser tests verifying that third-party New Tab Pages can embed the most visited iframe and are treated as Instant processes, with and without spare renderers.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/strcat.h"
 #include "chrome/browser/profiles/profile.h"

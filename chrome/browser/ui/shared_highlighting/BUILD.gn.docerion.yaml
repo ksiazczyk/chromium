@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for shared_highlighting
+summary: Defines the shared_highlighting source set with its sources and dependencies, asserting the build targets desktop platforms.

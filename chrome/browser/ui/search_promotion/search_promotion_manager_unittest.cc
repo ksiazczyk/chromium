@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search promotion manager unit tests
+// summary: Unit tests covering promo eligibility, engagement tiers, PEH binary checks, and promo acceptance using mock task runners, launchers, and histogram testers.
+// ---
+
 #include "chrome/browser/ui/search_promotion/search_promotion_manager.h"
 
 #include <memory>

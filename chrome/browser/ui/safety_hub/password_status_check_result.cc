@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password status check result implementation
+// summary: Implements the password status check result that tracks compromised password origins and usernames and decides when Safety Hub menu notifications should be shown.
+// ---
+
 #include "chrome/browser/ui/safety_hub/password_status_check_result.h"
 
 #include "base/json/values_util.h"

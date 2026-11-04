@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Hub HaTS service unit tests
+// summary: Unit tests for the Safety Hub HaTS service, exercising survey triggering and overall module state computation with test profiles and stores.
+// ---
+
 #include "chrome/browser/ui/safety_hub/safety_hub_hats_service.h"
 
 #include <memory>

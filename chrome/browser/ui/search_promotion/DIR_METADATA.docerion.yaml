@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Search promotion directory metadata
+summary: Maps the search_promotion directory to Buganizer component 1457234 for issue tracking.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword editor controller implementation
+// summary: Implements add, modify, remove, activate and default-selection operations on the TemplateURLService for the search engine keyword editor.
+// ---
+
 #include "chrome/browser/ui/search_engines/keyword_editor_controller.h"
 
 #include "base/metrics/user_metrics.h"

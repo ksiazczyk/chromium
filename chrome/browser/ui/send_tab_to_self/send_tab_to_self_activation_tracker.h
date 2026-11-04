@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self activation tracker header
+// summary: Declares a WebContents observer that records the activation entry point for tabs opened in the background by Send Tab to Self.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_ACTIVATION_TRACKER_H_
 #define CHROME_BROWSER_UI_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_ACTIVATION_TRACKER_H_
 

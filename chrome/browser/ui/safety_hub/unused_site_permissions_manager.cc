@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unused site permissions manager implementation
+// summary: Implements the UnusedSitePermissionsManager that tracks site last visits, revokes permissions of unused sites after a threshold, and handles regranting and metrics.
+// ---
+
 #include "chrome/browser/ui/safety_hub/unused_site_permissions_manager.h"
 
 #include <memory>

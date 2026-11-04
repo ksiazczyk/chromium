@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template URL table model implementation
+// summary: Implements the table model that groups TemplateURL entries into default, active, other, and extension search engines for the settings UI.
+// ---
+
 #include "chrome/browser/ui/search_engines/template_url_table_model.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedHighlightingPromo implementation
+// summary: Implements SharedHighlightingPromo, which checks loaded URLs for a text fragment and triggers the desktop shared highlighting feature promo when selectors exist.
+// ---
+
 #include "chrome/browser/ui/shared_highlighting/shared_highlighting_promo.h"
 
 #include <memory>

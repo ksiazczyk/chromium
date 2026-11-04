@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Hub test utilities implementation
+// summary: Implements test helpers for Safety Hub, including mock extension CWS info services, password status check services, and observer utilities.
+// ---
+
 #include "chrome/browser/ui/safety_hub/safety_hub_test_util.h"
 
 #include <memory>

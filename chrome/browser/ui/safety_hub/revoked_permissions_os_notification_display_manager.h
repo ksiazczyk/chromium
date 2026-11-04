@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Revoked permissions OS notification display manager class
+// summary: Declares the KeyedService that manages OS notifications shown when notification permissions are revoked, with a platform notification wrapper interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_REVOKED_PERMISSIONS_OS_NOTIFICATION_DISPLAY_MANAGER_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_REVOKED_PERMISSIONS_OS_NOTIFICATION_DISPLAY_MANAGER_H_
 

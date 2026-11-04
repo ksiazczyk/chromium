@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot captured bubble controller implementation
+// summary: Implements the controller that starts the screenshot capture flow, copies the captured image to the clipboard, and shows the screenshot captured bubble.
+// ---
+
 #include "chrome/browser/ui/sharing_hub/screenshot/screenshot_captured_bubble_controller.h"
 
 #include "base/feature_list.h"

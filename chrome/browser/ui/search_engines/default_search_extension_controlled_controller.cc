@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default search extension controlled controller implementation
+// summary: Implements the confirmation dialog logic shown before navigation when an extension controls the default search engine.
+// ---
+
 #include "chrome/browser/ui/search_engines/default_search_extension_controlled_controller.h"
 
 #include <utility>

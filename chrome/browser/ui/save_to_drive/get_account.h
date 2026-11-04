@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountChooser interface for Save to Drive account selection
+// summary: Declares the AccountChooser class that launches the account chooser flow and returns the selected AccountInfo, or nullopt if canceled, via callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAVE_TO_DRIVE_GET_ACCOUNT_H_
 #define CHROME_BROWSER_UI_SAVE_TO_DRIVE_GET_ACCOUNT_H_
 

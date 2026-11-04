@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search tab helper implementation
+// summary: Implements the browser-side per-tab embeddedSearch API, classifying and logging concrete New Tab Page types and routing IPC through SearchIPCRouter.
+// ---
+
 #include "chrome/browser/ui/search/search_tab_helper.h"
 
 #include <memory>

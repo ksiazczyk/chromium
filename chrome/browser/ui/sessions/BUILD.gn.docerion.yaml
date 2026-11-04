@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the sessions source set
+summary: Defines the sessions source set with its public header, sources and build dependencies for the Chrome browser UI session helper.

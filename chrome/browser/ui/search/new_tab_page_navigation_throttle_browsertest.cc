@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page navigation throttle browser tests
+// summary: Browser tests for the NTP navigation throttle, covering remote NTP failures and feature-flagged browser-initiated link behavior.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/search/search.h"
 #include "chrome/browser/search_engines/template_url_service_factory.h"

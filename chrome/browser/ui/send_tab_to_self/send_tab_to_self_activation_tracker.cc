@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self activation tracker implementation
+// summary: Implements the tracker that records whether a background Send Tab to Self tab was activated via toast or tab strip and persists its GUID across restarts.
+// ---
+
 #include "chrome/browser/ui/send_tab_to_self/send_tab_to_self_activation_tracker.h"
 
 #include "base/check.h"

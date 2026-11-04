@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Revoked permissions service unit tests
+// summary: Extensive unit tests for RevokedPermissionsService covering revocation of unused, abusive and disruptive notification permissions, metrics and UKM.
+// ---
+
 #include "chrome/browser/ui/safety_hub/revoked_permissions_service.h"
 
 #include <algorithm>

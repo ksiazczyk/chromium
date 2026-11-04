@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search promotion navigation observer class declaration
+// summary: Declares the tab-scoped navigation observer class that detects Google Search visits and forwards them to the search promotion manager.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_PROMOTION_SEARCH_PROMOTION_NAVIGATION_OBSERVER_H_
 #define CHROME_BROWSER_UI_SEARCH_PROMOTION_SEARCH_PROMOTION_NAVIGATION_OBSERVER_H_
 

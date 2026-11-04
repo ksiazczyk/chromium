@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant controller implementation
+// summary: Implements active-tab tracking that updates NTP theme and most visited info when a tab becomes an NTP.
+// ---
+
 #include "chrome/browser/ui/search/instant_controller.h"
 
 #include <stddef.h>

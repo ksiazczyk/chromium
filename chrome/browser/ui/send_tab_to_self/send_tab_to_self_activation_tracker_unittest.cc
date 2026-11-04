@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self activation tracker unit tests
+// summary: Unit tests checking that the activation tracker records tab strip and toast activations exactly once and handles destroyed tabs.
+// ---
+
 #include "chrome/browser/ui/send_tab_to_self/send_tab_to_self_activation_tracker.h"
 
 #include <memory>

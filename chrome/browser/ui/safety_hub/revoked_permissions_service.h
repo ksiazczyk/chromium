@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Revoked permissions service header
+// summary: Declares RevokedPermissionsService and its tab helper, which track revoked permissions and update last-visit data on navigations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_REVOKED_PERMISSIONS_SERVICE_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_REVOKED_PERMISSIONS_SERVICE_H_
 

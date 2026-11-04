@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most visited metrics logger interface
+// summary: Declares an interface and base implementation for logging most visited tile metrics across surfaces such as the NTP and third-party NTPs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_MOST_VISITED_METRICS_LOGGER_H_
 #define CHROME_BROWSER_UI_SEARCH_MOST_VISITED_METRICS_LOGGER_H_
 

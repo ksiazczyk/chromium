@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub utility declarations
+// summary: Declares the safety_hub_util namespace with helpers for revoked permission checks, cleanup thresholds, version card data, and menu notification metrics logging.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_SAFETY_HUB_UTIL_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_SAFETY_HUB_UTIL_H_
 

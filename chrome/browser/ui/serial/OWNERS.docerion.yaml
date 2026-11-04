@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Serial UI code owners
+summary: Delegates ownership reviews of the serial UI code to the owners listed in content/browser/serial/OWNERS.

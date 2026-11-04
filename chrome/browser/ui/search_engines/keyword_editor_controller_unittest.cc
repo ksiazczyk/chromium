@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyword editor controller unit tests
+// summary: Unit tests for the keyword editor controller, covering table model updates and managed or recommended default search engine behavior.
+// ---
+
 #include "chrome/browser/ui/search_engines/keyword_editor_controller.h"
 
 #include <algorithm>

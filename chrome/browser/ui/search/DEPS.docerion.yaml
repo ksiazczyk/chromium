@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the search UI directory
+summary: Restricts includes so Instant and WebUI NTP code stay independent of chrome/browser/new_tab_page.

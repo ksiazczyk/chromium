@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Safe Browsing database manager header
+// summary: Declares a mock Safe Browsing database manager with configurable per-URL threat types and an option to simulate safe synchronous responses in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_MOCK_SAFE_BROWSING_DATABASE_MANAGER_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_MOCK_SAFE_BROWSING_DATABASE_MANAGER_H_
 

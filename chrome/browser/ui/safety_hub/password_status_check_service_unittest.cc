@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password status check service unit tests
+// summary: Unit tests for the password status check service covering leaked, weak, and reused credential detection and notification behavior.
+// ---
+
 #include "chrome/browser/ui/safety_hub/password_status_check_service.h"
 
 #include <string>

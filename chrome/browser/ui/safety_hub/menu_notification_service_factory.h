@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub menu notification service factory declaration
+// summary: Declares SafetyHubMenuNotificationServiceFactory, a ProfileKeyedServiceFactory that provides the menu notification service for each profile.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_MENU_NOTIFICATION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_MENU_NOTIFICATION_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search IPC router unit tests
+// summary: Unit tests for SearchIPCRouter using mock delegates, policies and embedded search clients to verify IPC message routing and handling.
+// ---
+
 #include "chrome/browser/ui/search/search_ipc_router.h"
 
 #include <stdint.h>

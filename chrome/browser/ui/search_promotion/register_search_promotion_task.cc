@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register search promotion task implementation
+// summary: Implements the delegated task that serializes post-install URL, extension ID, and escape hatch switches for the out-of-process platform experience helper.
+// ---
+
 #include "chrome/browser/ui/search_promotion/register_search_promotion_task.h"
 
 #include <memory>

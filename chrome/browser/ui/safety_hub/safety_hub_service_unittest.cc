@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Hub service unit tests
+// summary: Unit tests for the periodic update flow of SafetyHubService using a mock service, mock results, and a mock observer.
+// ---
+
 #include "chrome/browser/ui/safety_hub/safety_hub_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSelectFilePolicy implementation
+// summary: Implements ChromeSelectFilePolicy, which checks the kAllowFileSelectionDialogs preference and shows an infobar or toast when file selection dialogs are denied.
+// ---
+
 #include "chrome/browser/ui/select_file_policy/chrome_select_file_policy.h"
 
 #include "base/check.h"

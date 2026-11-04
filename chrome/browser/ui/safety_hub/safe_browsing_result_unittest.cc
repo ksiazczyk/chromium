@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing result unit tests
+// summary: Unit tests verifying Safe Browsing state detection across user, admin, and extension prefs, plus notification triggers and result cloning.
+// ---
+
 #include "chrome/browser/ui/safety_hub/safe_browsing_result.h"
 
 #include <memory>

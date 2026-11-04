@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sharing hub bubble controller implementation
+// summary: Implements the test fake controller that returns configurable first-party actions and tracks callback invocations for tests.
+// ---
+
 #include "chrome/browser/ui/sharing_hub/fake_sharing_hub_bubble_controller.h"
 
 namespace sharing_hub {

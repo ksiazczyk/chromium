@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP test utilities implementation
+// summary: Provides test helpers to set a default search provider with a custom NTP URL and to resolve the final new tab page URL in browser tests.
+// ---
+
 #include "chrome/browser/ui/search/ntp_test_utils.h"
 
 #include "base/strings/utf_string_conversions.h"

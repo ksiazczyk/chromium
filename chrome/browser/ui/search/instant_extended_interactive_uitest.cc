@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive browser tests for instant extended NTP
+// summary: In-process browser tests covering omnibox interaction and most-visited change event behavior on the instant extended new tab page.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "build/build_config.h"
 #include "chrome/browser/profiles/profile.h"

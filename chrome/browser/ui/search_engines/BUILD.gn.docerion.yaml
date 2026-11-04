@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the search engines UI
+summary: Defines the search_engines source set plus its unit test and browser test targets, with platform-conditional sources and dependencies.

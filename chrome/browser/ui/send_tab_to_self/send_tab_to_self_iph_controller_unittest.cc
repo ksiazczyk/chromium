@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self IPH controller unit tests
+// summary: Unit tests for the Send Tab to Self in-product help controller, using stub sync services and mock user education interfaces to verify promo display behavior.
+// ---
+
 #include "chrome/browser/ui/send_tab_to_self/send_tab_to_self_iph_controller.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Serial UI directory metadata
+summary: Points the serial UI directory to the shared serial metadata mixins used for directory metadata and review tracking.

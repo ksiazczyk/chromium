@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing Hub window controller header
+// summary: Declares SharingHubWindowController, which manages the Sharing Hub and screenshot bubbles for a browser window as unowned user data.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SHARING_HUB_SHARING_HUB_WINDOW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_SHARING_HUB_SHARING_HUB_WINDOW_CONTROLLER_H_
 

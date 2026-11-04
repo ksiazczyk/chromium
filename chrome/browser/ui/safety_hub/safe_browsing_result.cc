@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing result implementation for Safety Hub
+// summary: Implements the Safety Hub Safe Browsing result, deriving the Safe Browsing state from preferences and building card data for the desktop UI.
+// ---
+
 #include "chrome/browser/ui/safety_hub/safe_browsing_result.h"
 
 #include <memory>
