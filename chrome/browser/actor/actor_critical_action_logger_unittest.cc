@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor critical action logger unit tests
+// summary: Unit tests checking that critical actor actions like login attempts, OTP filling, and form fills are logged to the CriticalActionService.
+// ---
+
 #include "chrome/browser/actor/actor_critical_action_logger.h"
 
 #include <memory>

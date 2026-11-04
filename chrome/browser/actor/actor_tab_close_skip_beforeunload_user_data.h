@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTabCloseSkipBeforeUnloadUserData header
+// summary: Declares a WebContents tag indicating the user confirmed tab closure, letting UnloadController skip beforeunload dialogs and close directly.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_TAB_CLOSE_SKIP_BEFOREUNLOAD_USER_DATA_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_TAB_CLOSE_SKIP_BEFOREUNLOAD_USER_DATA_H_
 

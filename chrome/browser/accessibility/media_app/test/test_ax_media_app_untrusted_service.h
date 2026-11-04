@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAXMediaAppUntrustedService class declaration
+// summary: Declares a test subclass of AXMediaAppUntrustedService that exposes internal state, OCR fakes, and execution controls for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_MEDIA_APP_TEST_TEST_AX_MEDIA_APP_UNTRUSTED_SERVICE_H_
 #define CHROME_BROWSER_ACCESSIBILITY_MEDIA_APP_TEST_TEST_AX_MEDIA_APP_UNTRUSTED_SERVICE_H_
 

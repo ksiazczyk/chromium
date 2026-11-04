@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the actor component
+summary: Declares the issue tracker component, team email, and Buganizer component associated with the actor directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX tree fixing screenshotter implementation
+// summary: Implements full-page screenshot capture of WebContents using paint preview recordings and the paint preview compositor, returning bitmaps through a delegate.
+// ---
+
 #include "chrome/browser/accessibility/tree_fixing/internal/ax_tree_fixing_screenshotter.h"
 
 #include <string>

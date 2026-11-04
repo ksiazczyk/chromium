@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeAXMediaApp class declaration
+// summary: Declares FakeAXMediaApp, a test double of AXMediaApp that implements only the API used by the accessibility layer.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_MEDIA_APP_TEST_FAKE_AX_MEDIA_APP_H_
 #define CHROME_BROWSER_ACCESSIBILITY_MEDIA_APP_TEST_FAKE_AX_MEDIA_APP_H_
 

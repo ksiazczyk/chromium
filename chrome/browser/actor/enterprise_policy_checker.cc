@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Null enterprise policy checker implementation
+// summary: Implements the permissive null enterprise policy checker that allows all URLs and content, plus a shared instance accessor.
+// ---
+
 #include "chrome/browser/actor/enterprise_policy_checker.h"
 
 #include <utility>

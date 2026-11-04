@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorTaskMetadata unit tests
+// summary: Unit tests verifying that ActorTaskMetadata extracts added writable mainframe origins and agent container configuration from actions protos.
+// ---
+
 #include "chrome/browser/actor/actor_task_metadata.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

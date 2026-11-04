@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility labels service factory implementation
+// summary: Implements the profile-keyed factory that creates and returns AccessibilityLabelsService instances for browser contexts.
+// ---
+
 #include "chrome/browser/accessibility/accessibility_labels_service_factory.h"
 
 #include "chrome/browser/accessibility/accessibility_labels_service.h"

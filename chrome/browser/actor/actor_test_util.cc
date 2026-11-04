@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor test utilities
+// summary: Provides helpers for actor tests that build tool requests and actions protos for click, scroll, navigation, tab management, and other actor tools.
+// ---
+
 #include "chrome/browser/actor/actor_test_util.h"
 
 #include <memory>

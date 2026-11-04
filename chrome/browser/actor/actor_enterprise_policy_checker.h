@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor enterprise policy checker class declaration
+// summary: Declares the enterprise policy checker that evaluates URL allowlists, blocklists, and content protection policies for actor tasks.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_ENTERPRISE_POLICY_CHECKER_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_ENTERPRISE_POLICY_CHECKER_H_
 

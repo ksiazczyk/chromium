@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dependency parser model loader browser tests
+// summary: Browser tests verifying model loader behavior with the phrase highlighting feature disabled and enabled, including model availability and histogram recording.
+// ---
+
 #include "chrome/browser/accessibility/phrase_segmentation/dependency_parser_model_loader.h"
 
 #include "base/base_paths.h"

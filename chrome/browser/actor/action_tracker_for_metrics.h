@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action tracker for UMA metrics class declaration
+// summary: Declares ActionTrackerForMetrics, a helper that tracks tool actions within an actor task for the purpose of recording UMA metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTION_TRACKER_FOR_METRICS_H_
 #define CHROME_BROWSER_ACTOR_ACTION_TRACKER_FOR_METRICS_H_
 

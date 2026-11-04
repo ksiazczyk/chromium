@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor site policy declarations
+// summary: Declares actor action blocklist initialization, URL blocking checks via the Optimization Guide, and the MayActOnUrlBlockReason enum with result code mapping.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_SITE_POLICY_H_
 #define CHROME_BROWSER_ACTOR_SITE_POLICY_H_
 

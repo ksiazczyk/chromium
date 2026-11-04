@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Caption unavailability notifier header
+// summary: Declares LiveCaptionUnavailabilityNotifier, a DocumentService that observes Media Foundation renderers and reports unsupported Live Caption errors.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_LIVE_CAPTION_LIVE_CAPTION_UNAVAILABILITY_NOTIFIER_H_
 #define CHROME_BROWSER_ACCESSIBILITY_LIVE_CAPTION_LIVE_CAPTION_UNAVAILABILITY_NOTIFIER_H_
 

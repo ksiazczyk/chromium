@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor keyed service implementation
+// summary: Implements the profile-keyed actor service that manages actor tasks, surfaces, execution engine access, and journal serialization.
+// ---
+
 #include "chrome/browser/actor/actor_keyed_service.h"
 
 #include <optional>

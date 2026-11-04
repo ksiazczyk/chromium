@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAXMediaAppUntrustedService implementation
+// summary: Implements test hooks for the AXMediaApp untrusted service, including a fake OCR recognizer, dirty page controls, and tree inspection helpers.
+// ---
+
 #include "chrome/browser/accessibility/media_app/test/test_ax_media_app_untrusted_service.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor enterprise policy checker unit tests
+// summary: Unit tests covering URL blocklist and allowlist evaluation and managed-browser actuation policy behavior of the actor enterprise policy checker.
+// ---
+
 #include "chrome/browser/actor/actor_enterprise_policy_checker.h"
 
 #include <utility>

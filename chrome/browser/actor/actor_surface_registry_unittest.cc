@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorSurfaceRegistry unit tests
+// summary: Unit tests verifying creation, lookup, destruction and tab promotion behavior of ActorSurfaceRegistry for headless and tab-backed actor surfaces.
+// ---
+
 #include "chrome/browser/actor/actor_surface_registry.h"
 
 #include <memory>

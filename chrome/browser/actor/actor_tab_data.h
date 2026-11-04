@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTabData header
+// summary: Declares per-tab data for the actor service, including last observed AnnotatedPageContent, DOM node geometry and renderer-resolved target coordinates.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_TAB_DATA_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_TAB_DATA_H_
 

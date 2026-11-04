@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dependency parser model loader factory implementation
+// summary: Implements the profile-keyed service factory that creates DependencyParserModelLoader instances when the read aloud phrase highlighting feature is enabled.
+// ---
+
 #include "chrome/browser/accessibility/phrase_segmentation/dependency_parser_model_loader_factory.h"
 
 #include <utility>

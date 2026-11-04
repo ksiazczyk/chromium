@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX tree fixing optimization guide service implementation
+// summary: Implements the tree fixing optimization guide service for headings identification, currently holding TODO stubs for the Optimization Guide connection.
+// ---
+
 #include "chrome/browser/accessibility/tree_fixing/internal/ax_tree_fixing_optimization_guide_service.h"
 
 #include "base/check.h"

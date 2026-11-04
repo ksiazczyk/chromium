@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interstitial accessibility browser test
+// summary: Browser test verifying accessibility focus lands on the SSL interstitial privacy error page and moves to the real page after proceeding through the certificate error.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/interstitials/security_interstitial_page_test_utils.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

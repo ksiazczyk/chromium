@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dependency parser model loader implementation
+// summary: Implements the DependencyParserModelLoader keyed service that loads, unloads, and tracks the dependency parser model file delivered via the Optimization Guide.
+// ---
+
 #include "chrome/browser/accessibility/phrase_segmentation/dependency_parser_model_loader.h"
 
 #include "base/files/file_path.h"

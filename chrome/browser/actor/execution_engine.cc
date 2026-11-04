@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Execution engine implementation
+// summary: Implements the engine that coordinates multi-step actor task execution, driving tool invocation, UI events, navigation gating, and result metrics.
+// ---
+
 #include "chrome/browser/actor/execution_engine.h"
 
 #include <algorithm>

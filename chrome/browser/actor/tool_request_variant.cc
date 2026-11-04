@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool request variant implementation
+// summary: Implements conversion of polymorphic actor tool request objects into the type-safe ToolRequestVariant union via a visitor functor covering all tool request types.
+// ---
+
 #include "chrome/browser/actor/tool_request_variant.h"
 
 #include <optional>

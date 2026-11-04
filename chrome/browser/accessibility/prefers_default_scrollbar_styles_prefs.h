@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default scrollbar styles preference declaration
+// summary: Declares RegisterPrefersDefaultScrollbarStylesPrefs, which registers the default scrollbar styles preference.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_PREFERS_DEFAULT_SCROLLBAR_STYLES_PREFS_H_
 #define CHROME_BROWSER_ACCESSIBILITY_PREFERS_DEFAULT_SCROLLBAR_STYLES_PREFS_H_
 

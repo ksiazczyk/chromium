@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab observation controller implementation
+// summary: Coordinates tab and window observations after actor actions, including reloading crashed tabs, fetching page content and screenshots, and retrying failures.
+// ---
+
 #include "chrome/browser/actor/tab_observation_controller.h"
 
 #include "base/barrier_closure.h"

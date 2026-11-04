@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorSurface interface
+// summary: Defines the ActorSurface interface for an actuation surface backed by a visible browser tab or an unparented headless WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_SURFACE_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_SURFACE_H_
 

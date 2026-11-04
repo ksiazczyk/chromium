@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account setting service factory implementation
+// summary: Implements the AccountSettingServiceFactory keyed service factory, building the account setting service with a sync bridge when the sync account settings feature is enabled.
+// ---
+
 #include "chrome/browser/account_settings/account_setting_service_factory.h"
 
 #include <memory>

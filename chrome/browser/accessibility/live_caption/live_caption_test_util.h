@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Live Caption browser test utility header
+// summary: Declares LiveCaptionBrowserTest, an InProcessBrowserTest base class with helpers to enable Live Caption and Live Translate in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_LIVE_CAPTION_LIVE_CAPTION_TEST_UTIL_H_
 #define CHROME_BROWSER_ACCESSIBILITY_LIVE_CAPTION_LIVE_CAPTION_TEST_UTIL_H_
 

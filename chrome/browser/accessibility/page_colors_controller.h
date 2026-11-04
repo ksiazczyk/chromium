@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page colors controller header
+// summary: Declares the PageColors enum and the keyed service that manages overriding the web theme's forced colors from profile preferences.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_PAGE_COLORS_CONTROLLER_H_
 #define CHROME_BROWSER_ACCESSIBILITY_PAGE_COLORS_CONTROLLER_H_
 

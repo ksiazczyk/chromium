@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab annotation manager implementation
+// summary: Implements text highlighting and scroll-to-annotation on a tab's WebContents by driving blink annotation agents and reporting highlight success to callers.
+// ---
+
 #include "chrome/browser/actor/tab_annotation_manager.h"
 
 #include <utility>

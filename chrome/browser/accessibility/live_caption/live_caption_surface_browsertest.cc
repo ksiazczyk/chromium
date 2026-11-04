@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Live Caption surface browser tests
+// summary: Browser tests for the Live Caption surface, exercising fullscreen media sessions and the speech recognition surface client bindings.
+// ---
+
 #include "chrome/browser/accessibility/live_caption/live_caption_surface.h"
 
 #include <optional>

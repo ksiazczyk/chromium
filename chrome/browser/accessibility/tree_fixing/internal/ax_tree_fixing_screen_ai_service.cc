@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX tree fixing ScreenAI service implementation
+// summary: Implements main node identification via the ScreenAI service, handling initialization retries, mojo binding, disconnects, and request type histograms.
+// ---
+
 #include "chrome/browser/accessibility/tree_fixing/internal/ax_tree_fixing_screen_ai_service.h"
 
 #include <utility>

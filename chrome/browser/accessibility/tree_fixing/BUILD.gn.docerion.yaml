@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the AX tree fixing service
+summary: Defines the service, prefs, and internal source sets for the accessibility tree fixing feature along with their build dependencies.

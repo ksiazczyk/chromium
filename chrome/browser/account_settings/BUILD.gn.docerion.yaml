@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for account_settings
+summary: Defines the account_settings static library target with its source files and dependencies on base, profiles, sync, and account_settings components.

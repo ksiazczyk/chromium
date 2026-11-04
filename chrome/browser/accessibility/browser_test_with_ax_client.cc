@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test base with accessibility client
+// summary: Implements a browser test base class that launches, initializes, and shuts down an external accessibility client for testing.
+// ---
+
 #include "chrome/browser/accessibility/browser_test_with_ax_client.h"
 
 #include <stdint.h>

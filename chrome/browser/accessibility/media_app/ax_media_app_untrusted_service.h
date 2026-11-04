@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXMediaAppUntrustedService header
+// summary: Declares the untrusted OCR service class, page metadata struct, and accessibility tree handling for the media app.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_MEDIA_APP_AX_MEDIA_APP_UNTRUSTED_SERVICE_H_
 #define CHROME_BROWSER_ACCESSIBILITY_MEDIA_APP_AX_MEDIA_APP_UNTRUSTED_SERVICE_H_
 

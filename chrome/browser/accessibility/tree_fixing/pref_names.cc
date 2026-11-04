@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tree fixing preference initialization implementation
+// summary: Disables the accessibility tree fixing preference for incognito profiles so no server-side tree fixing is used there.
+// ---
+
 #include "chrome/browser/accessibility/tree_fixing/pref_names.h"
 
 #include "base/check.h"

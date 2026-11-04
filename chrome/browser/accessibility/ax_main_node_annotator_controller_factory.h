@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX main node annotator controller factory header
+// summary: Declares the factory that provides AXMainNodeAnnotatorController instances per profile.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_AX_MAIN_NODE_ANNOTATOR_CONTROLLER_FACTORY_H_
 #define CHROME_BROWSER_ACCESSIBILITY_AX_MAIN_NODE_ANNOTATOR_CONTROLLER_FACTORY_H_
 

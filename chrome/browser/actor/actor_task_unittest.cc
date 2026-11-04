@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorTask unit tests
+// summary: Unit tests covering ActorTask state handling and its interaction with the actor keyed service, fake tools, and a mocked UI event dispatcher.
+// ---
+
 #include "chrome/browser/actor/actor_task.h"
 
 #include <memory>

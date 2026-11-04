@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool result data implementation
+// summary: Implements the ToolResultData destructor and the ToolError constructors, assignment operators, and destructor for tool execution results.
+// ---
+
 #include "chrome/browser/actor/tool_result_data.h"
 
 #include <optional>

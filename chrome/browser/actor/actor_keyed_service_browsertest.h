@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorKeyedService browser test fixture
+// summary: Declares the browser test fixture that configures features and helpers for actor service tests.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_KEYED_SERVICE_BROWSERTEST_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_KEYED_SERVICE_BROWSERTEST_H_
 #include "base/files/scoped_temp_dir.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF OCR accessibility metrics
+// summary: Records UMA histograms reporting whether PDF OCR is enabled when a PDF is opened with a screen reader or Select-to-Speak active.
+// ---
+
 #include "chrome/browser/accessibility/pdf_ocr_metrics.h"
 
 #include "base/metrics/histogram_macros.h"

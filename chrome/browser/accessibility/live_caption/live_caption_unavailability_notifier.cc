@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Caption unavailability notifier
+// summary: Notifies the browser when a Media Foundation renderer does not support Live Caption and shows or silences the caption bubble error per origin.
+// ---
+
 #include "chrome/browser/accessibility/live_caption/live_caption_unavailability_notifier.h"
 
 #include <memory>

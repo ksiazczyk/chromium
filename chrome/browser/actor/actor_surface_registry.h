@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorSurfaceRegistry class
+// summary: Declares the per-profile registry that owns actor surfaces and reconciles state when surfaces move between tabs and headless backing.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_SURFACE_REGISTRY_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_SURFACE_REGISTRY_H_
 

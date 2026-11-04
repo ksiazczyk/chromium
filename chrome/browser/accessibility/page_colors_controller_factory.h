@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page colors controller factory header
+// summary: Declares the profile keyed service factory that provides PageColorsController instances for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_PAGE_COLORS_CONTROLLER_FACTORY_H_
 #define CHROME_BROWSER_ACCESSIBILITY_PAGE_COLORS_CONTROLLER_FACTORY_H_
 

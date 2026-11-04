@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for bug tracking
+summary: Maps the directory to the ChromeOS accessibility machine intelligence Buganizer component for issue routing.

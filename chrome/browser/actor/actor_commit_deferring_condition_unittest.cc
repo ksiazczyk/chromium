@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor commit deferring condition unit tests
+// summary: Unit tests verifying when the actor commit deferring condition is created and how navigation deferral and confirmation decisions behave.
+// ---
+
 #include "chrome/browser/actor/actor_commit_deferring_condition.h"
 
 #include <memory>

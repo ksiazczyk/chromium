@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility prefs controller header
+// summary: Declares AccessibilityPrefsController, which manages accessibility-related browser prefs and observes profile manager changes.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_ACCESSIBILITY_PREFS_ANDROID_ACCESSIBILITY_PREFS_CONTROLLER_H_
 #define CHROME_BROWSER_ACCESSIBILITY_ACCESSIBILITY_PREFS_ANDROID_ACCESSIBILITY_PREFS_CONTROLLER_H_
 

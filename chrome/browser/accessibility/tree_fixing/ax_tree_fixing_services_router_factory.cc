@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX tree fixing services router factory implementation
+// summary: Implements the profile-keyed service factory that builds the router and registers the syncable tree fixing preference.
+// ---
+
 #include "chrome/browser/accessibility/tree_fixing/ax_tree_fixing_services_router_factory.h"
 
 #include "chrome/browser/accessibility/tree_fixing/ax_tree_fixing_services_router.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX tree fixing ScreenAI service header
+// summary: Declares the ScreenAI service for tree fixing, covering initialization states, main node identification, and the delegate interface for results and readiness.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_TREE_FIXING_INTERNAL_AX_TREE_FIXING_SCREEN_AI_SERVICE_H_
 #define CHROME_BROWSER_ACCESSIBILITY_TREE_FIXING_INTERNAL_AX_TREE_FIXING_SCREEN_AI_SERVICE_H_
 

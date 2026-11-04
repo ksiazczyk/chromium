@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account setting service factory header
+// summary: Declares the AccountSettingServiceFactory class that provides per-profile access to the account setting service managing syncer::ACCOUNT_SETTING data.
+// ---
+
 #ifndef CHROME_BROWSER_ACCOUNT_SETTINGS_ACCOUNT_SETTING_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ACCOUNT_SETTINGS_ACCOUNT_SETTING_SERVICE_FACTORY_H_
 

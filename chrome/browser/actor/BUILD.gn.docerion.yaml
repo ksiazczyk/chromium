@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the browser actor component
+summary: Defines the source sets, public headers, and dependencies for the browser actor component, including Android Java enum generation.

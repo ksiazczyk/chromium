@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page colors controller implementation
+// summary: Implements the profile-scoped controller that registers, migrates and applies page colors preferences and notifies the web NativeTheme when they change.
+// ---
+
 #include "chrome/browser/accessibility/page_colors_controller.h"
 
 #include <utility>

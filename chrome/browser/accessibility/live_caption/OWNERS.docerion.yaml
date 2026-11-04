@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Live Caption OWNERS file
+summary: Delegates code ownership to the shared OWNERS file in components/live_caption.

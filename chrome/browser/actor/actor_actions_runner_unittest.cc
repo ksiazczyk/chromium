@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the actor actions runner
+// summary: Unit tests for ActorActionsRunner that verify wait action execution, result handling, and tab ID injection into proto actions.
+// ---
+
 #include "chrome/browser/actor/actor_actions_runner.h"
 
 #include <memory>

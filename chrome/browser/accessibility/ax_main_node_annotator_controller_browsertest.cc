@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AX main node annotator controller browser test
+// summary: Browser tests for the main node annotator controller, covering ChromeOS and non-ChromeOS screen reader setups.
+// ---
+
 #include "chrome/browser/accessibility/ax_main_node_annotator_controller.h"
 
 #include "base/test/scoped_feature_list.h"

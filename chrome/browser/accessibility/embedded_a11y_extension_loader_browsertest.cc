@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded accessibility extension loader browser tests
+// summary: Browser tests verifying that the embedded accessibility extension loader installs, removes, and reinstalls the helper extension on single and multiple profiles.
+// ---
+
 #include "chrome/browser/accessibility/embedded_a11y_extension_loader.h"
 
 #include "base/path_service.h"

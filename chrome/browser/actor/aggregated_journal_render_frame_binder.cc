@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregated journal render frame binder implementation
+// summary: Implements binding of JournalClient Mojo receivers to render frames so journal entries emitted by the renderer are routed into the aggregated journal.
+// ---
+
 #include "chrome/browser/actor/aggregated_journal_render_frame_binder.h"
 
 #include <map>

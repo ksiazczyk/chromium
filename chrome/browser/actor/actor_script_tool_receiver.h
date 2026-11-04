@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor script tool receiver class
+// summary: Declares the DocumentService-based receiver for the ScriptToolHost mojo interface used to pause actor script execution.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_SCRIPT_TOOL_RECEIVER_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_SCRIPT_TOOL_RECEIVER_H_
 

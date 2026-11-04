@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor navigation throttle implementation
+// summary: Implements a navigation throttle that defers or blocks navigations in actor-controlled tabs to enforce safety policies.
+// ---
+
 #include "chrome/browser/actor/actor_navigation_throttle.h"
 
 #include "base/types/pass_key.h"

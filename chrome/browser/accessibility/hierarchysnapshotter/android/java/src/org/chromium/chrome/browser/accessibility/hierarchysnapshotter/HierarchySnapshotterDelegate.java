@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HierarchySnapshotterDelegate
+// summary: Base class defining methods where downstream targets can supply different HierarchySnapshotter behavior, with an empty initialize() implementation as the default.
+// ---
+
 package org.chromium.chrome.browser.accessibility.hierarchysnapshotter;
 
 import org.chromium.build.annotations.NullMarked;

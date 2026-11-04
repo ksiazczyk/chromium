@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor utility implementations
+// summary: Implements actor helpers that resolve Glic instances for tasks, detect active and background actor tasks, and encode screenshots with iframe bounding boxes.
+// ---
+
 #include "chrome/browser/actor/actor_util.h"
 
 #include <optional>

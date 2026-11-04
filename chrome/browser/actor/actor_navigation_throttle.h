@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor navigation throttle declarations
+// summary: Declares the navigation throttle class and its delegate interface for confirming or canceling navigations in actor-controlled tabs.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_NAVIGATION_THROTTLE_H_
 

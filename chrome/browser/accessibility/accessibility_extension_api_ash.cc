@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash accessibilityPrivate extension API implementation
+// summary: Implements ChromeOS accessibilityPrivate extension functions such as screen darkening, live caption, dictation hints, and display bounds.
+// ---
+
 #include "chrome/browser/accessibility/accessibility_extension_api_ash.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dependency parser model loader service header
+// summary: Declares the DependencyParserModelLoader keyed service that manages the dependency parser model file and notifies requesters when it becomes available.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_PHRASE_SEGMENTATION_DEPENDENCY_PARSER_MODEL_LOADER_H_
 #define CHROME_BROWSER_ACCESSIBILITY_PHRASE_SEGMENTATION_DEPENDENCY_PARSER_MODEL_LOADER_H_
 

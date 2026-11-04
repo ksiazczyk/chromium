@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor surface handle implementation
+// summary: Implements the process-wide lookup table that resolves actor surface handles to live surfaces and tracks recently destroyed tabs.
+// ---
+
 #include "chrome/browser/actor/actor_surface_handle.h"
 
 #include <cstdint>

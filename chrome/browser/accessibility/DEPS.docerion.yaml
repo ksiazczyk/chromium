@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the accessibility directory
+summary: Sets allowed include dependencies for the accessibility folder, with extra rules for accessibility_extension_api_ash.cc.

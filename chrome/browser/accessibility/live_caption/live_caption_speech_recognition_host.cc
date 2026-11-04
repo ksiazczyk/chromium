@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Caption speech recognition host implementation
+// summary: Implements the per-render-frame Mojo client that processes speech results, language identification, and translation dispatch.
+// ---
+
 #include "chrome/browser/accessibility/live_caption/live_caption_speech_recognition_host.h"
 
 #include <algorithm>

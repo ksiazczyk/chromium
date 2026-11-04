@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor enterprise policy checker implementation
+// summary: Implements enterprise policy checks for actor tasks, including URL allowlist and blocklist evaluation and content protection validation.
+// ---
+
 #include "chrome/browser/actor/actor_enterprise_policy_checker.h"
 
 #include <utility>

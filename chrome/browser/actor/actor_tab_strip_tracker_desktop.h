@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTabStripTrackerDesktop class declaration
+// summary: Declares the desktop tab strip tracker that observes tab strip changes and notifies ActorKeyedService about tab insertions and removals.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_TAB_STRIP_TRACKER_DESKTOP_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_TAB_STRIP_TRACKER_DESKTOP_H_
 

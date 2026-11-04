@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorSurfaceTabHelper browser tests
+// summary: Browser tests checking that tabs get actor surfaces on creation, surfaces are destroyed on tab close, and tab discard preserves the surface.
+// ---
+
 #include "chrome/browser/actor/actor_surface_tab_helper.h"
 
 #include <memory>

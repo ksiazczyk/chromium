@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Live Caption language identification browser test
+// summary: Browser tests checking that confident language identification events extend the language pack uninstallation timer.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/bind.h"
 #include "chrome/browser/accessibility/live_caption/live_caption_speech_recognition_host_browsertest.h"

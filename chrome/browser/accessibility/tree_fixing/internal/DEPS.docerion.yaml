@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tree fixing screenshotter
+summary: Grants ax_tree_fixing_screenshotter sources access to paint preview recording map and compositor service headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Caption controller factory header
+// summary: Declares the ProfileKeyedServiceFactory that provides LiveCaptionController instances for profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_LIVE_CAPTION_LIVE_CAPTION_CONTROLLER_FACTORY_H_
 #define CHROME_BROWSER_ACCESSIBILITY_LIVE_CAPTION_LIVE_CAPTION_CONTROLLER_FACTORY_H_
 

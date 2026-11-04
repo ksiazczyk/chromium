@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Live Caption BUILD.gn build file
+summary: Defines source sets, dependencies, and unit and browser test targets for the Live Caption browser code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab observation strategy header
+// summary: Declares ScreenshotPolicy and PageContentExtractionPolicy enums plus TabObservationStrategy, which tallies tool votes into final observation decisions.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TAB_OBSERVATION_STRATEGY_H_
 #define CHROME_BROWSER_ACTOR_TAB_OBSERVATION_STRATEGY_H_
 

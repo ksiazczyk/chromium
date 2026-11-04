@@ -1,3 +1,9 @@
+---
+type: readme
+title: Actor component key classes and flags
+summary: Explains the lifetime and ownership relations between key actor classes and the glic UI, and lists relevant feature flags.
+---
+
 # Key classes
 
 Below is a diagram that shows lifetime and ownership relations between some

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX tree fixing optimization guide service header
+// summary: Declares the optimization guide service for accessibility tree fixing, including the headings identification delegate and request ID pass-through contract.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_TREE_FIXING_INTERNAL_AX_TREE_FIXING_OPTIMIZATION_GUIDE_SERVICE_H_
 #define CHROME_BROWSER_ACCESSIBILITY_TREE_FIXING_INTERNAL_AX_TREE_FIXING_OPTIMIZATION_GUIDE_SERVICE_H_
 

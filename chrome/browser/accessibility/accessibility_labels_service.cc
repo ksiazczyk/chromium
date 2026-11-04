@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility labels service implementation
+// summary: Implements the per-profile service that enables automatic image labels, binding to the image annotation service and updating accessibility mode.
+// ---
+
 #include "chrome/browser/accessibility/accessibility_labels_service.h"
 
 #include "base/memory/raw_ptr.h"

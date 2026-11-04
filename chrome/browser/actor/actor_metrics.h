@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor metrics declarations
+// summary: Declares functions and histogram name constants for recording actor task, action result, and page context metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_METRICS_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_METRICS_H_
 

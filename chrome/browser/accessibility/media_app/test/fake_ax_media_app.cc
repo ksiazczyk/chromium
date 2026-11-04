@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeAXMediaApp implementation
+// summary: Implements the fake Media App used in tests, recording OCR and accessibility state and returning a fake bitmap for requested pages.
+// ---
+
 #include "chrome/browser/accessibility/media_app/test/fake_ax_media_app.h"
 
 #include <utility>

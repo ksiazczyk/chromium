@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility prefs controller implementation
+// summary: Implements the controller that registers accessibility prefs, observes profile and pref changes, and updates the browser accessibility state.
+// ---
+
 #include "chrome/browser/accessibility/accessibility_prefs/android/accessibility_prefs_controller.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTabData implementation
+// summary: Implements per-tab actor data storing last observed page content, DOM node geometry and renderer-resolved targets, with APC comparison metrics.
+// ---
+
 #include "chrome/browser/actor/actor_tab_data.h"
 
 #include <algorithm>

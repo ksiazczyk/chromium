@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Live Caption speech recognition host unit tests
+// summary: Unit tests for the Live Caption speech recognition host using mock caption bubble, controller delegate and translate controllers.
+// ---
+
 #include "chrome/browser/accessibility/live_caption/live_caption_speech_recognition_host.h"
 
 #include <memory>
