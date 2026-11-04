@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless mode command-line switches
+// summary: Declares command-line switch names for headless mode, covering access to Chrome-internal scheme pages and enabling hardware GPU support.
+// ---
+
 #ifndef CHROME_BROWSER_HEADLESS_HEADLESS_MODE_SWITCHES_H_
 #define CHROME_BROWSER_HEADLESS_HEADLESS_MODE_SWITCHES_H_
 

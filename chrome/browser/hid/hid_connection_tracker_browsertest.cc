@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID connection tracker browser tests
+// summary: Browser tests verifying device connection tracking for extension origins, whitelisted gnubbyd extensions, and system tray icon behavior.
+// ---
+
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/device_notifications/device_connection_tracker_test_base.h"
 #include "chrome/browser/hid/hid_connection_tracker_factory.h"

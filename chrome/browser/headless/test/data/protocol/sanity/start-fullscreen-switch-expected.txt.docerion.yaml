@@ -1,0 +1,4 @@
+# Docerion header of start-fullscreen-switch-expected.txt.
+type: test
+title: Start fullscreen switch expected output
+summary: Expected output for the --start-fullscreen protocol test, recording matching screen and outer window sizes of 1600x1200.

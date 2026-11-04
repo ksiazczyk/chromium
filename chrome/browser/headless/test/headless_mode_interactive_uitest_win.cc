@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows interactive UI tests for headless mode
+// summary: Windows-specific interactive UI tests that initialize headless mode and verify rendering through screen captures against a blank full-screen window baseline.
+// ---
+
 #include <windows.h>
 
 #include <dwmapi.h>

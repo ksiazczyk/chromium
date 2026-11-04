@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeavyAdServiceFactory implementation
+// summary: Implements a profile-keyed service factory that builds and returns a HeavyAdService instance for each browser context.
+// ---
+
 #include "chrome/browser/heavy_ad_intervention/heavy_ad_service_factory.h"
 
 #include "components/heavy_ad_intervention/heavy_ad_service.h"

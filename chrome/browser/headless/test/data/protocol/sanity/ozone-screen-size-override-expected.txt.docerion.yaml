@@ -1,0 +1,4 @@
+# Docerion header of ozone-screen-size-override-expected.txt.
+type: test
+title: Ozone screen size override expected output
+summary: Expected output for the Ozone screen size override protocol test, recording a screen size of 1234x5678.

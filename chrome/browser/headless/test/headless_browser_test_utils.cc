@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless browser test utilities implementation
+// summary: Implements helpers that send DevTools commands synchronously via a nested run loop for headless browser tests.
+// ---
+
 #include "chrome/browser/headless/test/headless_browser_test_utils.h"
 
 #include "base/functional/bind.h"

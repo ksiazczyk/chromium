@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History Clusters tab helper class declaration
+// summary: Declares the WebContents-attached helper that tracks navigations, handles omnibox URL copy and share events, and completes annotated visits for History Clusters.
+// ---
+
 #ifndef CHROME_BROWSER_HISTORY_CLUSTERS_HISTORY_CLUSTERS_TAB_HELPER_H_
 #define CHROME_BROWSER_HISTORY_CLUSTERS_HISTORY_CLUSTERS_TAB_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID connection tracker profile factory header
+// summary: Declares HidConnectionTrackerFactory, the profile-keyed service factory for per-profile HID connection trackers.
+// ---
+
 #ifndef CHROME_BROWSER_HID_HID_CONNECTION_TRACKER_FACTORY_H_
 #define CHROME_BROWSER_HID_HID_CONNECTION_TRACKER_FACTORY_H_
 

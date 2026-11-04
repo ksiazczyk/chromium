@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID status icon class declaration
+// summary: Declares HidStatusIcon, a HidSystemTrayIcon subclass that shows HID device status in the system tray.
+// ---
+
 #ifndef CHROME_BROWSER_HID_HID_STATUS_ICON_H_
 #define CHROME_BROWSER_HID_HID_STATUS_ICON_H_
 

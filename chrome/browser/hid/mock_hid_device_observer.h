@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock HID device observer declaration
+// summary: Declares a gmock observer that mocks HID device added, removed, changed, and connection error notifications for tests.
+// ---
+
 #ifndef CHROME_BROWSER_HID_MOCK_HID_DEVICE_OBSERVER_H_
 #define CHROME_BROWSER_HID_MOCK_HID_DEVICE_OBSERVER_H_
 

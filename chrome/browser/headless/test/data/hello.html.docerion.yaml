@@ -1,0 +1,4 @@
+# Docerion header of hello.html.
+type: test
+title: Hello headless world test page
+summary: Minimal HTML fixture page showing a hello headless world heading, used as a simple fixture in headless browser tests.

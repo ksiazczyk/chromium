@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless mode browser test base declarations
+// summary: Declares the HeadlessModeBrowserTest base classes and a parameterized variant for normal, maximized and fullscreen start window modes.
+// ---
+
 #ifndef CHROME_BROWSER_HEADLESS_TEST_HEADLESS_MODE_BROWSERTEST_H_
 #define CHROME_BROWSER_HEADLESS_TEST_HEADLESS_MODE_BROWSERTEST_H_
 

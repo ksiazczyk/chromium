@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoryTabHelper unit tests
+// summary: Tests HistoryTabHelper behavior such as building history add-page args with opener chains and updating history for navigations.
+// ---
+
 #include "chrome/browser/history/history_tab_helper.h"
 
 #include <memory>

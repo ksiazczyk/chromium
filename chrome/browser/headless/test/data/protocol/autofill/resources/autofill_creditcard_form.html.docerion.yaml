@@ -1,0 +1,4 @@
+# Docerion header of autofill_creditcard_form.html.
+type: test
+title: Autofill Credit Card Test Form
+summary: HTML credit card form used as test data for testing Autofill preferences in headless browser protocol tests.

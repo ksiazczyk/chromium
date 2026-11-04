@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless action metrics implementation
+// summary: Reports a UMA histogram of headless actions such as remote debugging, dump DOM, screenshot and print to PDF based on command-line switches.
+// ---
+
 #include "chrome/browser/headless/headless_mode_metrics.h"
 
 #include "base/command_line.h"

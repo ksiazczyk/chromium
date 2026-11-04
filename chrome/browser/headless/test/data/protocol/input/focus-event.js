@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus event test
+// summary: Headless protocol test that creates an input, focuses it, and reports whether a focus event was fired.
+// ---
+
 (async function(testRunner) {
   const {session} = await testRunner.startBlank('Tests focus event.');
 

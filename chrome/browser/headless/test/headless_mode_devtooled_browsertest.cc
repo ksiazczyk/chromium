@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless mode DevTools browser test implementation
+// summary: Implements the DevTools-enabled headless browser test base that attaches DevTools clients, creates web contents, and runs async tests, including a Page.navigate navigation test.
+// ---
+
 #include "chrome/browser/headless/test/headless_mode_devtooled_browsertest.h"
 
 #include "base/functional/bind.h"

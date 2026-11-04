@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM.focus test
+// summary: Headless protocol test that focuses a second input via the DOM.focus command and logs the active element before and after.
+// ---
+
 (async function(testRunner) {
   const html = `<input></input>
     <input id='second'></input>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryServiceFactory implementation
+// summary: Implements the profile-keyed factory that builds and provides HistoryService instances, honoring the disabled-history preference and channel-specific database params.
+// ---
+
 #include "chrome/browser/history/history_service_factory.h"
 
 #include "chrome/browser/bookmarks/bookmark_model_factory.h"

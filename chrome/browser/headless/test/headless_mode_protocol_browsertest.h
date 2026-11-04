@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless mode DevTools protocol test base class header
+// summary: Declares HeadlessModeProtocolBrowserTest for running DevTools protocol test scripts, with macros that bind test names to script files.
+// ---
+
 #ifndef CHROME_BROWSER_HEADLESS_TEST_HEADLESS_MODE_PROTOCOL_BROWSERTEST_H_
 #define CHROME_BROWSER_HEADLESS_TEST_HEADLESS_MODE_PROTOCOL_BROWSERTEST_H_
 

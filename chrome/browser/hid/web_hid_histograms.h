@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebHID chooser closure enum and histogram API
+// summary: Defines the WebHidChooserClosed enum of chooser closure dispositions and declares the function that records it in histograms.
+// ---
+
 #ifndef CHROME_BROWSER_HID_WEB_HID_HISTOGRAMS_H_
 #define CHROME_BROWSER_HID_WEB_HID_HISTOGRAMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome HID delegate
+// summary: Unit tests for ChromeHidDelegate covering permission grants, revocation, service workers, extensions, and ChromeOS-specific behavior.
+// ---
+
 #include "chrome/browser/hid/chrome_hid_delegate.h"
 
 #include <memory>

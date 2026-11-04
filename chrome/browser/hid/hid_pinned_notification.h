@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID pinned notification class declaration
+// summary: Declares HidPinnedNotification, a HidSystemTrayIcon subclass that pins a system tray notification for HID device access.
+// ---
+
 #ifndef CHROME_BROWSER_HID_HID_PINNED_NOTIFICATION_H_
 #define CHROME_BROWSER_HID_HID_PINNED_NOTIFICATION_H_
 

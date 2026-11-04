@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for heavy ad intervention
+summary: Points the directory's metadata at the shared COMMON_METADATA of the components heavy_ad_intervention component.

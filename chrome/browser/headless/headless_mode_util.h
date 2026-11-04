@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless mode utility declarations
+// summary: Declares helpers that report whether Chrome headless mode is active and whether access to Chrome-internal scheme pages is allowed.
+// ---
+
 #ifndef CHROME_BROWSER_HEADLESS_HEADLESS_MODE_UTIL_H_
 #define CHROME_BROWSER_HEADLESS_HEADLESS_MODE_UTIL_H_
 

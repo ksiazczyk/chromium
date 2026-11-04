@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the headless directory
+summary: Delegates code ownership to the reviewers listed in //headless/OWNERS.

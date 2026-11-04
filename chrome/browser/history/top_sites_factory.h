@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopSites factory class declaration
+// summary: Declares the refcounted profile-keyed factory used to create and fetch the per-profile TopSites service instance.
+// ---
+
 #ifndef CHROME_BROWSER_HISTORY_TOP_SITES_FACTORY_H_
 #define CHROME_BROWSER_HISTORY_TOP_SITES_FACTORY_H_
 

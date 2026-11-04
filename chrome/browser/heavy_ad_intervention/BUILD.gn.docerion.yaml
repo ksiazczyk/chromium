@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the heavy ad intervention browser code
+summary: GN build file defining the heavy_ad_intervention source set and a non-Android browser_tests target for the heavy ad helper test.

@@ -7,6 +7,12 @@
 // here might indicate that WebKit changed the calls our glue layer gets in
 // the case of redirects. It may also mean problems with the history system.
 
+// ---docerion
+// type: test
+// title: Browser tests for redirect recording in history
+// summary: Browser tests verifying that server and client redirects are correctly reflected in the history database via redirect queries.
+// ---
+
 #include <memory>
 #include <string>
 

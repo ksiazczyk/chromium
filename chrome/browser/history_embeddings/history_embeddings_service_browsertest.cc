@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History embeddings service browser tests
+// summary: Browser tests for the history embeddings service, using mock answerer and intent classifier plus passage embeddings test utilities.
+// ---
+
 #include "components/history_embeddings/content/history_embeddings_service.h"
 
 #include <algorithm>

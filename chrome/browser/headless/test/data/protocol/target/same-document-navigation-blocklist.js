@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Same-document navigation blocklist test
+// summary: Inspector protocol test verifying that same-document navigation to a blocklisted URL detaches both tab and page targets.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {tabTargetSession} = await testRunner.startBlankWithTabTarget(
       'Tests that same-document navigation to a blocklisted URL detaches ' +

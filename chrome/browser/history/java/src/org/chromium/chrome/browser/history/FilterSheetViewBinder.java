@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterSheetViewBinder
+// summary: Binder that applies filter sheet property model changes to views, setting icons, labels, selection checkmarks and click listeners.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import android.view.View;

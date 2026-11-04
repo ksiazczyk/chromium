@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters service factory implementation
+// summary: Implements the profile-keyed service factory that builds HistoryClustersService with history, site engagement, search engine and optimization guide dependencies.
+// ---
+
 #include "chrome/browser/history_clusters/history_clusters_service_factory.h"
 
 #include "base/no_destructor.h"

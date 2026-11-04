@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History browser tests
+// summary: Browser tests covering history service behavior, including URL visits, navigation history updates, redirects, and history service observer notifications.
+// ---
+
 #include <utility>
 #include <vector>
 

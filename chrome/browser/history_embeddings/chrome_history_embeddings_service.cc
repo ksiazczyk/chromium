@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome history embeddings service implementation
+// summary: Implements the Chrome-specific history embeddings service, including answerer permission checks and quality log entry creation.
+// ---
+
 #include "chrome/browser/history_embeddings/chrome_history_embeddings_service.h"
 
 #include <memory>

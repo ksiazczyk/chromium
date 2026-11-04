@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History embeddings service factory implementation
+// summary: Builds the profile-keyed history embeddings service and skips construction when the feature is off or the profile is kiosk or ephemeral.
+// ---
+
 #include "chrome/browser/history_embeddings/history_embeddings_service_factory.h"
 
 #include "build/build_config.h"

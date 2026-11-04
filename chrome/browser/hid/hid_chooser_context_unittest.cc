@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID chooser context unit tests
+// summary: Unit tests covering HID chooser context permissions, device observation, blocklist and profile behavior across platforms including ChromeOS.
+// ---
+
 #include "chrome/browser/hid/hid_chooser_context.h"
 
 #include <array>

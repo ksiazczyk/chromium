@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOPIF same-document navigation blocklist test
+// summary: Inspector protocol test verifying that same-document navigation to a blocklisted URL in an OOPIF detaches only the OOPIF target.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const mainUrl = `http://a.test:${
       window.location.port}/protocol/inspector-protocol-page.html`;

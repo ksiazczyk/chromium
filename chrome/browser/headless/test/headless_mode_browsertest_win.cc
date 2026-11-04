@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows headless mode browser tests
+// summary: Runs Windows-specific headless mode tests covering HWND visibility, DWM cloaking, frame thickness and window bounds.
+// ---
+
 #include "chrome/browser/headless/test/headless_mode_browsertest.h"
 
 #include <windows.h>

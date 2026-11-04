@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: History directory issue tracking metadata
+summary: Routes bugs for the history directory to the UI>Browser>History monorail component and Buganizer component 1456716.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters side panel support utilities
+// summary: Implements IsSidePanelSupported, which checks whether the History Clusters side panel is available for a given profile.
+// ---
+
 #include "chrome/browser/history_clusters/history_clusters_side_panel_utils.h"
 
 #include "chrome/browser/history_clusters/history_clusters_service_factory.h"

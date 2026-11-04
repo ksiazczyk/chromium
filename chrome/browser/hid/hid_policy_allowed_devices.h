@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID policy allowed devices class declaration
+// summary: Declares HidPolicyAllowedDevices, a keyed service that maintains WebHID allow policies and checks device permission.
+// ---
+
 #ifndef CHROME_BROWSER_HID_HID_POLICY_ALLOWED_DEVICES_H_
 #define CHROME_BROWSER_HID_HID_POLICY_ALLOWED_DEVICES_H_
 

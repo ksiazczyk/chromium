@@ -5,6 +5,13 @@
 // META: --screen-info={1600x1200}
 // META: --start-fullscreen
 //
+
+// ---docerion
+// type: test
+// title: Start fullscreen switch protocol test
+// summary: Headless protocol sanity test that verifies the --start-fullscreen switch resizes the window to fullscreen and logs screen and outer dimensions.
+// ---
+
 (async function(testRunner) {
   const {session} =
       await testRunner.startBlank('Tests --start-fullscreen switch.');

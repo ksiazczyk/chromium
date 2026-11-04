@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile-based browsing history driver class declaration
+// summary: Declares a base class implementing the non-interface half of BrowsingHistoryDriver backed by a Profile, with a virtual GetProfile for subclasses.
+// ---
+
 #ifndef CHROME_BROWSER_HISTORY_PROFILE_BASED_BROWSING_HISTORY_DRIVER_H_
 #define CHROME_BROWSER_HISTORY_PROFILE_BASED_BROWSING_HISTORY_DRIVER_H_
 

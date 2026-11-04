@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless action metrics declarations
+// summary: Declares ReportHeadlessActionMetrics, which reports headless actions like remote debugging, screenshot and print to PDF.
+// ---
+
 #ifndef CHROME_BROWSER_HEADLESS_HEADLESS_MODE_METRICS_H_
 #define CHROME_BROWSER_HEADLESS_HEADLESS_MODE_METRICS_H_
 

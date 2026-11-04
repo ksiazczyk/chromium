@@ -1,0 +1,4 @@
+# Docerion header of start-fullscreen-switch-scaled-expected.txt.
+type: test
+title: Start fullscreen switch scaled expected output
+summary: Expected output for the scaled --start-fullscreen protocol test, recording screen and outer sizes of 1500x1000 with pixel scaling.

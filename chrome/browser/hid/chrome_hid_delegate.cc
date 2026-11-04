@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome HID delegate implementation
+// summary: Implements the Chrome content::HidDelegate, running the HID chooser and managing device permissions, observers, and connection counts.
+// ---
+
 #include "chrome/browser/hid/chrome_hid_delegate.h"
 
 #include <cstddef>

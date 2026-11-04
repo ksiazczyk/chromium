@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoryUtils unit tests
+// summary: Verifies that CanAddURLToHistory accepts normal web URLs and rejects invalid, javascript, chrome, view-source, and isolated-app URLs.
+// ---
+
 #include "chrome/browser/history/history_utils.h"
 
 #include "build/build_config.h"

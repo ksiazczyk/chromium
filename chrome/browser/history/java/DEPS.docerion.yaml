@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for history Java directory
+summary: Defines allowed include dependencies for the chrome/browser/history/java directory, permitting bottomsheet and ui/android components.

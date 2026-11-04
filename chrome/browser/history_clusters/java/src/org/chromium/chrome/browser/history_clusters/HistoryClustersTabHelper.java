@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryClustersTabHelper JNI bridge
+// summary: Java side of the JNI bridge that notifies the native Memories service when the current tab's URL is copied or shared.
+// ---
+
 package org.chromium.chrome.browser.history_clusters;
 
 import org.jni_zero.NativeMethods;

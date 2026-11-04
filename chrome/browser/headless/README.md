@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chromium's new Headless mode
+summary: Explains the new Headless implementation shared with //chrome and links to the mailing list and bug tracker resources.
+---
+
 # Chromium’s new Headless mode
 
 Headless Chromium allows running Chromium in a headless/server environment.

@@ -5,6 +5,13 @@
 // META: --screen-info={3000x2000 devicePixelRatio=2.0}
 // META: --start-fullscreen
 //
+
+// ---docerion
+// type: test
+// title: Start fullscreen switch scaled protocol test
+// summary: Headless protocol sanity test that checks the --start-fullscreen switch under a 2.0 device pixel ratio, waiting for the fullscreen resize before logging dimensions.
+// ---
+
 (async function(testRunner) {
   const {session} = await testRunner.startBlank(
       'Tests --start-fullscreen switch with pixel scaling.');

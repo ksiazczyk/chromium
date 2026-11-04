@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History Clusters tab helper implementation
+// summary: Implements the per-tab helper that annotates history visits with context such as bookmarks and tab groups and records page-end metrics for the History Clusters service.
+// ---
+
 #include "chrome/browser/history_clusters/history_clusters_tab_helper.h"
 
 #include <functional>

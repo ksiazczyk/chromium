@@ -1,0 +1,4 @@
+# Docerion header of before_unload_prevent_default.html.
+type: test
+title: Before unload prevent default test page
+summary: HTML fixture page whose beforeunload handler calls preventDefault, used to test unload interception in headless browser tests.

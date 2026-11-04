@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters service factory declarations
+// summary: Declares HistoryClustersServiceFactory, the browser-context keyed factory for the service that clusters Chrome history into Journeys.
+// ---
+
 #ifndef CHROME_BROWSER_HISTORY_CLUSTERS_HISTORY_CLUSTERS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_HISTORY_CLUSTERS_HISTORY_CLUSTERS_SERVICE_FACTORY_H_
 

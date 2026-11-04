@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the headless directory
+summary: Restricts includes to chrome/browser/headless and components/headless, with specific exceptions for init and extra parts headers.

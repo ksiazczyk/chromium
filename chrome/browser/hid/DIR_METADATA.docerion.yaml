@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA pointing to blink HID common metadata
+summary: Points the chrome/browser/hid directory metadata to the shared blink renderer HID module common metadata mixins.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID connection tracker profile factory implementation
+// summary: Implements the profile-keyed factory that builds HidConnectionTracker instances and depends on the host content settings map.
+// ---
+
 #include "chrome/browser/hid/hid_connection_tracker_factory.h"
 
 #include "base/no_destructor.h"

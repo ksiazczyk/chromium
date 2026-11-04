@@ -1,0 +1,4 @@
+# Docerion header of headless_mode_browsertest_mac.mm.
+type: test
+title: Mac headless mode browser tests
+summary: Runs macOS-specific headless mode tests covering NSWindow visibility, fullscreen toggling and minimized window states.

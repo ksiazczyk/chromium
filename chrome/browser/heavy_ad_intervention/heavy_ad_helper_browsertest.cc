@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the heavy ad error page
+// summary: In-process browser tests checking that the heavy ad error page shows no console errors and renders the localized heavy ad strings.
+// ---
+
 #include "components/heavy_ad_intervention/heavy_ad_helper.h"
 
 #include "chrome/browser/browser_process.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to blink HID module owners
+summary: Delegates ownership reviews for this directory to the blink renderer HID module OWNERS file.

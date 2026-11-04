@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID chooser context profile factory implementation
+// summary: Implements the profile-keyed factory that creates and provides HidChooserContext service instances for browser profiles.
+// ---
+
 #include "chrome/browser/hid/hid_chooser_context_factory.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryTabHelper
+// summary: Tab user data helper that configures native WebContents with the app ID for history, including view intent handling and JNI bindings.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import org.jni_zero.JniType;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless browser main extra parts implementation
+// summary: Sets the platform-independent headless clipboard before browser start when headless mode is active.
+// ---
+
 #include "chrome/browser/headless/chrome_browser_main_extra_parts_headless.h"
 
 #include "chrome/browser/headless/headless_mode_util.h"

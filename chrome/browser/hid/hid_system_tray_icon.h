@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID system tray icon class declaration
+// summary: Declares HidSystemTrayIcon, a DeviceSystemTrayIcon subclass that provides the tray icon, labels, and connection tracker access for HID devices.
+// ---
+
 #ifndef CHROME_BROWSER_HID_HID_SYSTEM_TRAY_ICON_H_
 #define CHROME_BROWSER_HID_HID_SYSTEM_TRAY_ICON_H_
 

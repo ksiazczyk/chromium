@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless mode initialization
+// summary: Declares InitHeadlessMode, which starts headless mode and returns a handle that cleans up state on destruction or reports an error message.
+// ---
+
 #ifndef CHROME_BROWSER_HEADLESS_HEADLESS_MODE_INIT_H_
 #define CHROME_BROWSER_HEADLESS_HEADLESS_MODE_INIT_H_
 

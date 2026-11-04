@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryServiceFactory class declaration
+// summary: Declares the singleton ProfileKeyedServiceFactory that associates HistoryService instances with profiles and offers access and test shutdown helpers.
+// ---
+
 #ifndef CHROME_BROWSER_HISTORY_HISTORY_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_HISTORY_HISTORY_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless mode DevTools browser test base class header
+// summary: Declares HeadlessModeDevTooledBrowserTest, a base class for headless tests that use a DevTools client, together with macros for registering DevTools browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_HEADLESS_TEST_HEADLESS_MODE_DEVTOOLED_BROWSERTEST_H_
 #define CHROME_BROWSER_HEADLESS_TEST_HEADLESS_MODE_DEVTOOLED_BROWSERTEST_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for history clusters
+summary: Lists code owners for the directory, inheriting the component owners and allowing any owner for BUILD.gn file changes.

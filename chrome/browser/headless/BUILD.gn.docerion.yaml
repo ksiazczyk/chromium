@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for headless mode sources and tests
+summary: Defines GN source sets for headless utilities, initialization, metrics, command processing, browser extra parts and browser tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History URL filtering utilities
+// summary: Implements CanAddURLToHistory, which rejects URLs with schemes such as javascript, chrome, view-source, and isolated-app from being recorded in history.
+// ---
+
 #include "chrome/browser/history/history_utils.h"
 
 #include "build/build_config.h"

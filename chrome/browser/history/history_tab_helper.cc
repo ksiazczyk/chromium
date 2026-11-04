@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryTabHelper implementation
+// summary: Records tab navigations, titles, and loads into the history service, including Android feed handling and NTP most-visited considerations.
+// ---
+
 #include "chrome/browser/history/history_tab_helper.h"
 
 #include <optional>

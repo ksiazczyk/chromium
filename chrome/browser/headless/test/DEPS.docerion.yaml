@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for headless browser tests
+summary: Defines allowed include dependencies for the headless browser test directory, with a special rule for the command browser test.

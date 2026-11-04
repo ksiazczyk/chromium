@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: History embeddings owners file
+summary: Points to the owners file of components/history_embeddings, delegating directory ownership.
