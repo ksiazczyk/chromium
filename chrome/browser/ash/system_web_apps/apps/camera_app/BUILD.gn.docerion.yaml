@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Camera app GN build definition
+summary: Defines the camera_app static library sources and dependencies plus the browser_tests source set for the camera app integration tests.

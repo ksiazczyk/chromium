@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print Management system web app delegate implementation
+// summary: Implements PrintManagementSystemAppDelegate, defining the Print Management app's start URL, title, icons, theme colors, display mode, launcher visibility, and minimum window size.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/print_management_web_app_info.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App service log source implementation
+// summary: Collects information about installed and running apps from App Service into the app_service system log entry.
+// ---
+
 #include "chrome/browser/ash/system_logs/app_service_log_source.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy.h"

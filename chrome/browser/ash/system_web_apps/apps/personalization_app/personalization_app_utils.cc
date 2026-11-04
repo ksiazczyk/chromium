@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app utilities implementation
+// summary: Implements helpers that create the personalization app WebUI controller and gate SeaPen and wallpaper features by user, age, country and managed policy.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_utils.h"
 
 #include <memory>

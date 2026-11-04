@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug daemon log source header
+// summary: Declares the DebugDaemonLogSource class and helpers for reading user log files when gathering log data from the Debug Daemon.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_LOGS_DEBUG_DAEMON_LOG_SOURCE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_LOGS_DEBUG_DAEMON_LOG_SOURCE_H_
 

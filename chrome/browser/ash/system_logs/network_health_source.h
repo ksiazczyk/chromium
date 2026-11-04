@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network health log source header
+// summary: Declares NetworkHealthSource, which fetches network health snapshots and diagnostic results for feedback logs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_LOGS_NETWORK_HEALTH_SOURCE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_LOGS_NETWORK_HEALTH_SOURCE_H_
 

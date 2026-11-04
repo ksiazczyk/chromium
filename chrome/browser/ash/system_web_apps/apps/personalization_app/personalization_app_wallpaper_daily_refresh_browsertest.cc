@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper daily refresh browsertest
+// summary: Browser test verifying daily wallpaper refresh scheduling for the personalization app using fake clocks and fake wallpaper handlers.
+// ---
+
 #include <stdint.h>
 
 #include <algorithm>

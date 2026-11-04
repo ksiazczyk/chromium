@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test system web app manager implementation
+// summary: Implements the test SystemWebAppManager for unit tests plus a creator hook that installs it into testing profiles.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/test_support/test_system_web_app_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sample system web app integration browser test
+// summary: Browser test verifying that the Sample system web app installs and launches correctly, with spot checks on its manifest.
+// ---
+
 #include "ash/webui/sample_system_web_app_ui/url_constants.h"
 #include "chrome/browser/ash/system_web_apps/test_support/system_web_app_integration_test.h"
 #include "chromeos/ash/components/system_web_apps/system_web_app_type.h"

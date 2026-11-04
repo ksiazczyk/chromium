@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI config enablement check for system web apps
+// summary: Implements BaseSystemWebAppUIConfig::IsWebUIEnabled by asking the profile's SystemWebAppManager whether the app is enabled.
+// ---
+
 #include "ash/webui/system_apps/public/system_web_app_ui_config.h"
 #include "chrome/browser/ash/system_web_apps/system_web_app_manager.h"
 

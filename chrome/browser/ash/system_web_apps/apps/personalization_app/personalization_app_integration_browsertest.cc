@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization app integration browser tests
+// summary: Browser integration tests verifying Personalization app window behavior such as transparency, fullscreen rendering, and pixel diffs on ChromeOS.
+// ---
+
 #include "ash/public/cpp/test/shell_test_api.h"
 #include "ash/public/cpp/window_backdrop.h"
 #include "ash/shell.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media App guest UI delegate implementation
+// summary: Implements ChromeMediaAppGuestUIDelegate with profile pref registration, Photos integration and Lens in Gallery checks, and OCR and Mahi untrusted service binding.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/media_app/media_app_guest_ui_config.h"
 
 #include <memory>

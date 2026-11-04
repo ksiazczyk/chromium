@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Projector app integration browser tests
+// summary: Browser integration tests verifying the Projector system web app is valid and that its annotator ink loading and capture session flows work.
+// ---
+
 #include "ash/annotator/annotator_controller.h"
 #include "ash/capture_mode/capture_mode_controller.h"
 #include "ash/projector/projector_controller_impl.h"

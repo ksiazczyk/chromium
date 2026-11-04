@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for vc_background_ui
+summary: Defines the vc_background_ui static library and its browser test source set, listing sources and GN dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the media_app folder
+summary: Delegates code ownership of this directory to the OWNERS file of ash/webui/media_app_ui.

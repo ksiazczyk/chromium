@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app system web app delegate implementation
+// summary: Implements the Help system web app delegate, providing install info, default and minimum window sizes, search terms, and launch metrics.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/help_app/help_app_web_app_info.h"
 
 #include <memory>

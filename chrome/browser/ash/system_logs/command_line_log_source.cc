@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line log source implementation
+// summary: Runs diagnostic commands such as audio mixer, CRAS and disk usage tools on a thread pool and records their output in system logs.
+// ---
+
 #include "chrome/browser/ash/system_logs/command_line_log_source.h"
 
 #include <stddef.h>

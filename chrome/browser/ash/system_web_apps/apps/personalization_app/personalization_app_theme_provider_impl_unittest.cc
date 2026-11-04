@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme provider unit tests
+// summary: Unit tests for the personalization app theme provider, covering dark mode, auto scheduling, color schemes, static color and geolocation notifications.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_theme_provider_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device data manager input devices log source unit tests
+// summary: Unit tests verifying the log source output for keyboards, mice, touchscreens, and touchpads using the DeviceDataManager test API.
+// ---
+
 #include <string>
 #include <tuple>
 #include <vector>

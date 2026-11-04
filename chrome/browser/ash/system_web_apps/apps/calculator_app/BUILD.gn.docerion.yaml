@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the calculator app
+summary: Defines the calculator_app static library, listing the utility sources and their dependencies on profiles, web applications, and extensions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome camera app UI delegate header
+// summary: Declares ChromeCameraAppUIDelegate, which provides ash camera app code with chrome-only functions, including dialog, file monitor, and storage monitor classes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CAMERA_APP_CHROME_CAMERA_APP_UI_DELEGATE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CAMERA_APP_CHROME_CAMERA_APP_UI_DELEGATE_H_
 

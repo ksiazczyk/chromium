@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mall app integration tests
+// summary: Browser integration tests checking that the Mall system web app installs, launches, and embeds the discover.apps.chrome iframe with context or deep links.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/webui/mall/url_constants.h"
 #include "base/test/scoped_feature_list.h"

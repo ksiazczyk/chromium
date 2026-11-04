@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System Web App Manager factory implementation
+// summary: Builds per-profile SystemWebAppManager instances, registers system web app preferences and skips creation for kiosk sessions.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/system_web_app_manager_factory.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Terminal web content source header
+// summary: Declares TerminalSource, a URLDataSource that provides web content for the crostini Terminal and crosh from the rootfs, with factory methods for each variant.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_TERMINAL_SOURCE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_TERMINAL_SOURCE_H_
 

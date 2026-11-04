@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for ChromeOS system logs
+summary: Defines the system_logs static library and unit test targets, listing all ChromeOS system log sources and their build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug log writer header
+// summary: Declares StoreLogs, which saves debug logs collected from debugd as a .tgz archive and reports the resulting file path via callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_LOGS_DEBUG_LOG_WRITER_H_
 #define CHROME_BROWSER_ASH_SYSTEM_LOGS_DEBUG_LOG_WRITER_H_
 

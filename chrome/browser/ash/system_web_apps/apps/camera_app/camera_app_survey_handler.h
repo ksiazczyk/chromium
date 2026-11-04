@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app survey handler header
+// summary: Declares the singleton CameraAppSurveyHandler class that shows a happiness tracking survey when the camera app sends a trigger event.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CAMERA_APP_CAMERA_APP_SURVEY_HANDLER_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CAMERA_APP_CAMERA_APP_SURVEY_HANDLER_H_
 

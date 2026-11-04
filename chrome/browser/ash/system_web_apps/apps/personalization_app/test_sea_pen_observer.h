@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Sea Pen observer header
+// summary: Declares TestSeaPenObserver, a test SeaPenObserver implementation that records selected image IDs, update counts, and text query history entries.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_PERSONALIZATION_APP_TEST_SEA_PEN_OBSERVER_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_PERSONALIZATION_APP_TEST_SEA_PEN_OBSERVER_H_
 

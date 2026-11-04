@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Camera app DEPS include rules
+summary: Grants per-file include permissions letting the integration test and the save and UI delegate files use SkyVault and browser view headers.

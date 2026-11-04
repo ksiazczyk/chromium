@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crosh UI WebUI controller header
+// summary: Declares CroshUIConfig and CroshUI, the untrusted WebUI controller that loads the data source for Crosh, the Chromium OS shell.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CROSH_UI_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CROSH_UI_H_
 

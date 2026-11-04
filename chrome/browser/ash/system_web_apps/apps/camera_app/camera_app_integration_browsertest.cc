@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera app integration browser tests
+// summary: Runs parameterized browser tests verifying camera app URL navigation and that the private JavaScript APIs the app relies on stay available.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/test_support/system_web_app_browsertest_base.h"
 #include "chrome/browser/ash/system_web_apps/test_support/system_web_app_integration_test.h"
 #include "chrome/browser/ui/browser_window/public/global_browser_collection.h"

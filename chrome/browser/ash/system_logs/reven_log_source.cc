@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Flex hardware log source implementation
+// summary: Implements a system log source that collects ChromeOS Flex hardware, GPU, and TPM telemetry via cros_healthd.
+// ---
+
 #include "chrome/browser/ash/system_logs/reven_log_source.h"
 
 #include <string_view>

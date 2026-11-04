@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app untrusted UI config header
+// summary: Declares CameraAppUntrustedUIConfig, the WebUI config class for the camera app's untrusted UI.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CAMERA_APP_CAMERA_APP_UNTRUSTED_UI_CONFIG_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CAMERA_APP_CAMERA_APP_UNTRUSTED_UI_CONFIG_H_
 

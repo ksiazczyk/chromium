@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Personalization app DEPS include rules
+summary: Allows unit tests in this directory to include the Chrome-side keyed service provider for singleton setup.

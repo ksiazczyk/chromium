@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firmware Update system web app delegate implementation
+// summary: Implements the Firmware Update system web app delegate with a fixed-size window, install info, and restrictions on resizing and launcher visibility.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/firmware_update_system_web_app_info.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boca system web app delegate unit tests
+// summary: Unit tests verifying Boca system web app visibility, launcher display, and enablement by feature flags, user affiliation, and policy preferences.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/boca_web_app_info.h"
 
 #include "ash/constants/ash_features.h"

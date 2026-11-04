@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo Mode app integration browser test
+// summary: Integration browser tests that set up the Demo Mode system web app and verify it installs, launches, and cannot run outside of Demo Mode.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/display/screen_orientation_controller.h"
 #include "ash/shell.h"

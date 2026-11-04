@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File Manager system web app delegate header
+// summary: Declares the FileManagerSystemAppDelegate class that configures the Files system web app's install info, window behavior, and app replacement.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_FILE_MANAGER_WEB_APP_INFO_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_FILE_MANAGER_WEB_APP_INFO_H_
 

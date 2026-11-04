@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Recorder app UI delegate implementation
+// summary: Implements the RecorderAppUIDelegate interface, supplying Chrome-only capabilities such as feedback dialogs, identity checks, and consent auditing to the ash Recorder app.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/recorder_app/chrome_recorder_app_ui_delegate.h"
 
 #include "ash/constants/generative_ai_country_restrictions.h"

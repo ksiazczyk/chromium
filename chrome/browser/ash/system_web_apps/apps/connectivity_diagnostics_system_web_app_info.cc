@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectivity diagnostics system web app info
+// summary: Defines the app delegate that installs the Connectivity Diagnostics system web app with icons, colors, and standalone display mode.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/connectivity_diagnostics_system_web_app_info.h"
 
 #include <memory>

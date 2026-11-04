@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ambient provider implementation
+// summary: Unit tests covering ambient mode settings, themes, albums, observers, screensaver duration, and geolocation behavior of the Personalization app ambient provider.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_ambient_provider_impl.h"
 
 #include <algorithm>

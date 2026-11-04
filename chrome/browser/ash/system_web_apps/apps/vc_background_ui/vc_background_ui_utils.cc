@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VC background UI factory utilities
+// summary: Creates the VC background WebUI controller wired with the SeaPen provider and wallpaper fetcher delegate.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/vc_background_ui/vc_background_ui_utils.h"
 
 #include <memory>

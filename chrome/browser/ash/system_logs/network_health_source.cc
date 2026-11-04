@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network health log source implementation
+// summary: Implements a system log source that formats network health state and diagnostics results, with optional PII scrubbing.
+// ---
+
 #include "chrome/browser/ash/system_logs/network_health_source.h"
 
 #include <sstream>

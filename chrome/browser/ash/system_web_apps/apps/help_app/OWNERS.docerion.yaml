@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Help app OWNERS file
+summary: Delegates directory ownership to the OWNERS file of the Help app UI in ash.

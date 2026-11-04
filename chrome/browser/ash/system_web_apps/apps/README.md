@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for the ChromeOS system web apps directory
+summary: Explains that the directory holds configuration for pre-installed ChromeOS web applications, including system web app delegates and WebUI configs.
+---
+
 This directory contains configuration for web applications that come
 pre-installed on ChromeOS. This includes:
   * System web applications (e.g. files app). The logic primarily comes in the

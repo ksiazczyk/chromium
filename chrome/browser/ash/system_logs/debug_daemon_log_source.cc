@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug daemon log source implementation
+// summary: Fetches feedback logs from the ChromeOS debug daemon over D-Bus and reads Chrome-generated user log files, with optional scrubbing.
+// ---
+
 #include "chrome/browser/ash/system_logs/debug_daemon_log_source.h"
 
 #include <stddef.h>

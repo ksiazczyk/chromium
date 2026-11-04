@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Files internals UI delegate implementation
+// summary: Implements the Chrome-side Files internals delegate, gathering debug JSON, Downloads folder listings, file tasks, and Office move-confirmation preferences.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/files_internals_ui_delegate.h"
 
 #include "ash/constants/ash_pref_names.h"

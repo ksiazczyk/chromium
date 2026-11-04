@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for system web app test support
+summary: Restricts //chrome includes for the directory and lists the specific dependencies that system web app test support code may use.

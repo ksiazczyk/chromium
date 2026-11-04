@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test system web app WebUI controller factory implementation
+// summary: Implements a WebUIControllerFactory that creates a controller serving a test system web app page with manifest and icon for matching chrome-untrusted source URLs.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/test_support/test_system_web_app_web_ui_controller_factory.h"
 
 #include "base/memory/ref_counted_memory.h"

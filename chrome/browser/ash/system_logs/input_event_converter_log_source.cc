@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input event converter log source implementation
+// summary: Implements a system logs source that fetches the ozone input controller's description of evdev input event converters.
+// ---
+
 #include "chrome/browser/ash/system_logs/input_event_converter_log_source.h"
 
 #include "content/public/browser/browser_thread.h"

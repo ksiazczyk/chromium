@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Os Flags system web app delegate implementation
+// summary: Implements the delegate for the Os Flags system web app, providing install info such as start URL, title, icons and theme colors, plus behavior like capturing navigations and hiding from launcher and shelf.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/os_flags_system_web_app_info.h"
 
 #include "ash/constants/chrome_webui_url_constants.h"

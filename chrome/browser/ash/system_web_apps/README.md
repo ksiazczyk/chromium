@@ -1,3 +1,10 @@
+---
+type: readme
+title: System Web Apps
+summary: Explains the ChromeOS system web app platform, covering background, distribution, installation, resource serving, launching, UI, offline behavior and OS integrations.
+relations:
+  - references /chrome/browser/ash/system_web_apps/apps/sample_system_web_app_info.h
+---
 
 # System Web Apps
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device data manager input devices log source implementation
+// summary: Implements a system logs source that records input device state, device counts, and touch display calibration data from the UI DeviceDataManager.
+// ---
+
 #include "chrome/browser/ash/system_logs/device_data_manager_input_devices_log_source.h"
 
 #include "ash/shell.h"

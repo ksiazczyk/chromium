@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app untrusted UI config implementation
+// summary: Implements the WebUI configuration for the Help app untrusted page, populating load-time data and gating the Cros Switcher feature by country.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/help_app/help_app_untrusted_ui_config.h"
 
 #include <memory>

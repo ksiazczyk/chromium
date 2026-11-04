@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media system web app info implementation
+// summary: Defines file handler MIME and extension configurations for images, video, audio and PDF, and builds the WebAppInstallInfo for the Media App system web app.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/media_app/media_web_app_info.h"
 
 #include <memory>

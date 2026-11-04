@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line log source header
+// summary: Declares the CommandLineLogSource class that gathers log data from command line tools not accessible via the Debug Daemon.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_LOGS_COMMAND_LINE_LOG_SOURCE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_LOGS_COMMAND_LINE_LOG_SOURCE_H_
 

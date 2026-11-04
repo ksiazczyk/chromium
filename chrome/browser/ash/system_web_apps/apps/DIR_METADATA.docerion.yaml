@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the apps directory
+summary: Records the owning team email and Buganizer component for the directory.

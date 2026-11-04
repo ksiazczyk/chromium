@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut customization system web app delegate implementation
+// summary: Implements the app delegate that installs and configures the ChromeOS shortcut customization system web app, including icons, theme colors, and minimum window size.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/shortcut_customization_system_web_app_info.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics system web app delegate header
+// summary: Declares DiagnosticsSystemAppDelegate, the system web app delegate for the ChromeOS Diagnostics app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_DIAGNOSTICS_SYSTEM_WEB_APP_INFO_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_DIAGNOSTICS_SYSTEM_WEB_APP_INFO_H_
 

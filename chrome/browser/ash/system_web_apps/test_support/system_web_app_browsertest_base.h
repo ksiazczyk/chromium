@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web app browser test base class declaration
+// summary: Declares the browser test base class with helpers to install system web apps, build launch params, and launch apps in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_TEST_SUPPORT_SYSTEM_WEB_APP_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_TEST_SUPPORT_SYSTEM_WEB_APP_BROWSERTEST_BASE_H_
 

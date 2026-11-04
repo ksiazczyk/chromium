@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app manager factory implementation
+// summary: Implements the ProfileKeyedServiceFactory that builds the PersonalizationAppManager per profile, with profile selection rules for guests and system profiles.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_manager_factory.h"
 
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_manager.h"

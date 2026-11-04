@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for system web apps dependencies
+summary: Restricts which //chrome headers this directory may include, with extra allowances for test files and specific sources.

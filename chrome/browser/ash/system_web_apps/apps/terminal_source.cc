@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Terminal and crosh web content source
+// summary: Serves the HTML, JS, and CSS content for the crostini Terminal and crosh system web apps from /usr/share/chromeos-assets/crosh_builtin, with gzip fallback and file system provider mounting.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/terminal_source.h"
 
 #include <optional>

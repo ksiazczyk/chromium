@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System theme color helpers implementation
+// summary: Fetches the OS theme and background colors from the color provider for use by system web apps.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/color_helpers.h"
 #include "ui/chromeos/styles/cros_tokens_color_mappings.h"
 #include "ui/color/color_provider.h"

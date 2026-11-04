@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual keyboard log source implementation
+// summary: Gathers virtual keyboard diagnostics such as touchscreen and keyboard device IDs, internal and external keyboard states, and keyboard enable flags.
+// ---
+
 #include "chrome/browser/ash/system_logs/virtual_keyboard_log_source.h"
 
 #include <memory>

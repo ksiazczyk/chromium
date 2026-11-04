@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization app utils unit tests
+// summary: Unit tests for personalization app utility functions covering SeaPen eligibility, managed SeaPen settings, supported languages and country restrictions.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_utils.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crosh WebUI config and controller
+// summary: Implements the Crosh untrusted WebUI configuration and controller that adds the terminal data source for the crosh page.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/crosh_ui.h"
 
 #include "ash/constants/webui_url_constants.h"

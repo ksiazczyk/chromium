@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill network log source implementation
+// summary: Implements a system log source that gathers Shill network device and service properties, masking PII when scrubbing is enabled.
+// ---
+
 #include "chrome/browser/ash/system_logs/shill_log_source.h"
 
 #include "base/functional/bind.h"

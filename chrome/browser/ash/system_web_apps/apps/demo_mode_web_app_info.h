@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo Mode system web app delegate header
+// summary: Declares DemoModeSystemAppDelegate, the system web app delegate for the ChromeOS Demo Mode app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_DEMO_MODE_WEB_APP_INFO_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_DEMO_MODE_WEB_APP_INFO_H_
 

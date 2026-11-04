@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scanning app integration browser tests
+// summary: Browser tests verifying that the Scanning system web app installs and launches correctly and is disabled via the SystemFeaturesDisableList policy.
+// ---
+
 #include "ash/webui/scanning/url_constants.h"
 #include "base/values.h"
 #include "chrome/browser/ash/system_web_apps/system_web_app_manager.h"

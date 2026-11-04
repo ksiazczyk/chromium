@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calculator app utils implementation
+// summary: Implements GetInstalledCalculatorAppId, which returns the installed calculator app extension ID or falls back to the ash system web app ID.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/calculator_app/calculator_app_utils.h"
 
 #include "ash/constants/web_app_id_constants.h"

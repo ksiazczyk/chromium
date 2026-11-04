@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mall system web app delegate
+// summary: Implements the Mall system web app delegate, defining install info, unmanaged-user enablement rules, app replacement, and minimum window size.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/mall_system_web_app_info.h"
 
 #include "ash/constants/ash_switches.h"

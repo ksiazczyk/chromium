@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File Manager system web app delegate implementation
+// summary: Implements the Files system web app delegate, defining install info, icons, minimum window size, and file handlers for opening archives, documents, and media.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/file_manager_web_app_info.h"
 
 #include <string>

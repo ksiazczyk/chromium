@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System Web App Manager unit tests
+// summary: Unit tests for SystemWebAppManager covering update policies, install retries, locale handling and app enablement.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/system_web_app_manager.h"
 
 #include <memory>

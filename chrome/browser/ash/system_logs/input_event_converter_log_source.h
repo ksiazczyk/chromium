@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input event converter log source header
+// summary: Declares a system logs source that fetches the description of the global ozone input controller for system logs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_LOGS_INPUT_EVENT_CONVERTER_LOG_SOURCE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_LOGS_INPUT_EVENT_CONVERTER_LOG_SOURCE_H_
 

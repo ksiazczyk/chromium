@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted Projector WebUI config implementation
+// summary: Implements the chrome-untrusted Projector WebUI config and delegate that populate load-time feature flags, channel, and locale data.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/projector_app/untrusted_projector_ui_config.h"
 
 #include "ash/constants/ash_features.h"

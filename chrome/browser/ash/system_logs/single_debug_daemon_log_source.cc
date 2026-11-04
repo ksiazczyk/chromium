@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single debug daemon log source implementation
+// summary: Implements SingleDebugDaemonLogSource, which fetches a single debugd log such as modetest, lsusb, lspci, ifconfig or uptime via the DebugDaemonClient.
+// ---
+
 #include "chrome/browser/ash/system_logs/single_debug_daemon_log_source.h"
 
 #include <memory>

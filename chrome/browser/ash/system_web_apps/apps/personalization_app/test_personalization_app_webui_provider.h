@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test personalization app WebUI provider header
+// summary: Declares TestPersonalizationAppWebUIProvider, a WebUI provider that mixes fake network fetchers and fake Mojo providers for personalization app browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_PERSONALIZATION_APP_TEST_PERSONALIZATION_APP_WEBUI_PROVIDER_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_PERSONALIZATION_APP_TEST_PERSONALIZATION_APP_WEBUI_PROVIDER_H_
 

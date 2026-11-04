@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: Crosh integration test metadata
+# summary: YAML test metadata for the Crosh AshIntegrationTest, defining the crosier harness, owners, hardware-agnostic tags, and test case criteria.
+# ---
+
 # Schema can be found at: platform/dev/test/gtest/gtest_schema.yaml
 ---
 name: "AshIntegrationTest"

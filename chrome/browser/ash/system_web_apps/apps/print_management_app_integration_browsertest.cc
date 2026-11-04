@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print Management app integration browser test
+// summary: Browser test verifying that the Print Management system web app installs and launches correctly, with spot checks on its manifest.
+// ---
+
 #include "ash/webui/print_management/url_constants.h"
 #include "chrome/browser/ash/system_web_apps/test_support/system_web_app_integration_test.h"
 #include "content/public/test/browser_test.h"

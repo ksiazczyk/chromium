@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Os Flags system web app delegate declaration
+// summary: Declares the OsFlagsSystemWebAppDelegate class, a system web app delegate that serves Ash's flags page as a web application reachable via the os scheme.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_OS_FLAGS_SYSTEM_WEB_APP_INFO_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_OS_FLAGS_SYSTEM_WEB_APP_INFO_H_
 

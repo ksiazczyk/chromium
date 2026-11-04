@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization system web app delegate
+// summary: Defines the system web app delegate for the Personalization app, providing install info, icons, window bounds, and launcher and search visibility rules.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_system_app_delegate.h"
 
 #include <memory>

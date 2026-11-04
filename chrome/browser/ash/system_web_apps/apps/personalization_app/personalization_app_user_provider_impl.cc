@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app user provider implementation
+// summary: Implements the UserProvider mojo interface that handles user info, default and profile images, camera photos and image selection for the personalization app.
+// ---
+
 
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_user_provider_impl.h"
 

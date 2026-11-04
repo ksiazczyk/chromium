@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crosh system web app info header
+// summary: Declares the CroshSystemAppDelegate class overriding web app install info, visibility, window handling, and theme color behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CROSH_SYSTEM_WEB_APP_INFO_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CROSH_SYSTEM_WEB_APP_INFO_H_
 

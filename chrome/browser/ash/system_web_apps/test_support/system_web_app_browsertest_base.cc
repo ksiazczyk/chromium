@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web app browser test base implementation
+// summary: Implements the base browser test fixture that installs, launches, and inspects ChromeOS system web apps during browser tests.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/test_support/system_web_app_browsertest_base.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firmware Update system web app delegate header
+// summary: Declares the FirmwareUpdateSystemAppDelegate class that defines the Firmware Update system web app's install info and window behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_FIRMWARE_UPDATE_SYSTEM_WEB_APP_INFO_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_FIRMWARE_UPDATE_SYSTEM_WEB_APP_INFO_H_
 

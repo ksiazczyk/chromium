@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill PII identifier map
+// summary: Defines a fixed map of Shill network properties to PII types used to mask sensitive values in feedback logs.
+// ---
+
 #include "chrome/browser/ash/system_logs/shill_log_pii_identifiers.h"
 
 #include <string_view>

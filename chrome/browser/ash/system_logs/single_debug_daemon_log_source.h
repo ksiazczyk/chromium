@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single debug daemon log source header
+// summary: Declares SingleDebugDaemonLogSource, a system logs source that gathers one debugd log type through DebugDaemonClient.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_LOGS_SINGLE_DEBUG_DAEMON_LOG_SOURCE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_LOGS_SINGLE_DEBUG_DAEMON_LOG_SOURCE_H_
 

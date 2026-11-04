@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Time of day wallpaper browsertest
+// summary: Browser test verifying scheduled time-of-day wallpaper switching driven by fake geolocation data and the wallpaper time-of-day scheduler.
+// ---
+
 #include <stdint.h>
 
 #include <algorithm>

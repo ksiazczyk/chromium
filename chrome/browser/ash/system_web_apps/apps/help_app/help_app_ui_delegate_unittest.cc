@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help app UI delegate unit tests
+// summary: Unit tests for ChromeHelpAppUIDelegate covering device info and Borealis/Steam permission behavior.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/help_app/help_app_ui_delegate.h"
 
 #include <memory>

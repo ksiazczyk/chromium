@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the apps directory
+summary: Lists code owners for the directory with per-file ownership rules delegating to component-specific OWNERS files.

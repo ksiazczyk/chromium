@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single log file log source implementation
+// summary: Implements SingleLogFileLogSource, which reads system log files such as /var/log/messages incrementally with size limits and rotation handling.
+// ---
+
 #include "chrome/browser/ash/system_logs/single_log_file_log_source.h"
 
 #include "base/compiler_specific.h"

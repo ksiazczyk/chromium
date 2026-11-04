@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the app service log source
+// summary: Verifies that the app service log source reports installed and running apps correctly in a test user session.
+// ---
+
 #include "chrome/browser/ash/system_logs/app_service_log_source.h"
 
 #include <memory>

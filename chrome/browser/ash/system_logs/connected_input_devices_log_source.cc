@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connected input devices log source implementation
+// summary: Collects vendor and product IDs of internal touchpads and touchscreens, plus driver and library names, into ChromeOS system log responses.
+// ---
+
 #include "chrome/browser/ash/system_logs/connected_input_devices_log_source.h"
 
 #include <functional>

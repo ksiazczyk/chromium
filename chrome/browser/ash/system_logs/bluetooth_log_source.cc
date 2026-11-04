@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth log source implementation
+// summary: Reports whether the Floss Bluetooth stack is enabled or disabled in the ChromeOS Bluetooth system log entry.
+// ---
+
 #include "chrome/browser/ash/system_logs/bluetooth_log_source.h"
 
 #include "content/public/browser/browser_thread.h"

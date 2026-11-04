@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test system web app installation implementation
+// summary: Implements test delegates and installation helpers that register fake system web apps and their WebUI data sources for tests.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/test_support/test_system_web_app_installation.h"
 
 #include <memory>
