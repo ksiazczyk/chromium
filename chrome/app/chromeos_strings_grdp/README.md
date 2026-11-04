@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChromeOS strings screenshot hash directory README
+summary: Explains that this directory stores image SHA-1 hashes used as context screenshots to improve translations of ChromeOS UI strings.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 
