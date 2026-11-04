@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History tool request declarations
+// summary: Declares the history back, forward, and reload page tool requests with model-facing names and tool schema definitions.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_HISTORY_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_HISTORY_TOOL_REQUEST_H_
 

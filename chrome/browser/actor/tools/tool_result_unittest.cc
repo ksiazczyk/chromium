@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tool result unit tests
+// summary: Unit tests covering ToolResult success, error, typed data serialization, and clone behavior.
+// ---
+
 #include "chrome/browser/actor/tools/tool_result.h"
 
 #include <memory>

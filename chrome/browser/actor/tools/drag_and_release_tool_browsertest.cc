@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the drag and release actor tool
+// summary: Browser tests exercising the drag and release tool on range sliders and event logging pages to verify mouse down, move, and up event sequences.
+// ---
+
 #include "base/strings/strcat.h"
 #include "base/test/test_future.h"
 #include "build/build_config.h"

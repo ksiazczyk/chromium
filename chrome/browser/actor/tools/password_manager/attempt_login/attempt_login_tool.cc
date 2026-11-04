@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attempt login tool implementation
+// summary: Implements the actor tool that attempts website logins using saved credentials or social sign-in buttons, including credential selection, icon fetching, and quality logging.
+// ---
+
 #include "chrome/browser/actor/tools/password_manager/attempt_login/attempt_login_tool.h"
 
 #include "base/barrier_closure.h"

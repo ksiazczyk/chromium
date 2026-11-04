@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwitchTabToolRequest class declaration
+// summary: Declares the SwitchTabToolRequest that models the switch_tab action, identifying an open background tab by a fuzzy query instead of a tab handle.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_SWITCH_TAB_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_SWITCH_TAB_TOOL_REQUEST_H_
 

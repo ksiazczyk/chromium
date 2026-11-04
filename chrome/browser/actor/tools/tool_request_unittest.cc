@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tool request unit tests
+// summary: Unit tests for actor tool request base classes, covering actor surface handles, tab scoping, and tool creation across request types.
+// ---
+
 #include "chrome/browser/actor/tools/tool_request.h"
 
 #include <memory>

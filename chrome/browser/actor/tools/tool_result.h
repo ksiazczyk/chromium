@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool result class
+// summary: Declares ToolResult, the result type for tool executions that carries success status, error details, and typed result data.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_TOOL_RESULT_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_TOOL_RESULT_H_
 

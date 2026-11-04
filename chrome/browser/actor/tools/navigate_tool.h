@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigate tool class declaration
+// summary: Declares NavigateTool, which navigates the primary main frame of a WebContents to a given URL and tracks the pending navigation.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_NAVIGATE_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_NAVIGATE_TOOL_H_
 

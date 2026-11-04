@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor UI interactive browser test fixture header
+// summary: Declares the ActorUiInteractiveBrowserTest fixture with helpers to start acting on a tab, pause tasks, complete tasks and access the actor keyed service and task id.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_ACTOR_UI_INTERACTIVE_BROWSER_TEST_H_
 #define CHROME_BROWSER_ACTOR_UI_ACTOR_UI_INTERACTIVE_BROWSER_TEST_H_
 

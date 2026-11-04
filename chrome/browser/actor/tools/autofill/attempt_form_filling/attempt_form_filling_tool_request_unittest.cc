@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AttemptFormFillingToolRequest unit tests
+// summary: Unit tests verifying the request's name, journal event, and journal details across section label feature flag states.
+// ---
+
 #include "chrome/browser/actor/tools/autofill/attempt_form_filling/attempt_form_filling_tool_request.h"
 
 #include <optional>

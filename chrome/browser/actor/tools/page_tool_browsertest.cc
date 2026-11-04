@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page tool browser tests
+// summary: Browser tests covering PageTool behavior such as time-of-use validation of removed elements and magic cursor and split validate-execute feature variations.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

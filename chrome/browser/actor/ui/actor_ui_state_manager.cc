@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor UI state manager implementation
+// summary: Implements the per-profile ActorUiStateManager that tracks actor task state, maps tasks to tab UI states, shows background toasts and handles navigation confirmation for actor tasks.
+// ---
+
 #include "chrome/browser/actor/ui/actor_ui_state_manager.h"
 
 #include "base/logging.h"

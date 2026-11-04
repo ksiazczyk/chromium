@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load and extract content tool implementation
+// summary: Implements the actor tool that opens tabs for a list of URLs, waits for page stability, extracts page content, and closes the tabs.
+// ---
+
 #include "chrome/browser/actor/tools/load_and_extract_content_tool.h"
 
 #include <cstddef>

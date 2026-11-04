@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find and highlight tool browser tests
+// summary: Browser tests for the find and highlight tool covering successful highlighting, text not found, empty query, missing tab, and scrolling behavior on a scrollable page.
+// ---
+
 #include "chrome/browser/actor/tools/find_and_highlight_tool.h"
 
 #include <memory>

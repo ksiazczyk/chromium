@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslatePageToolRequest class declaration
+// summary: Declares the TranslatePageToolRequest class for translating a tab's page to a target language, including its model-facing name and schema definition.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_TRANSLATE_PAGE_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_TRANSLATE_PAGE_TOOL_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor UI event implementations
+// summary: Implements constructors for the UI event variant structs that describe actor task lifecycle changes and mouse activity on tabs.
+// ---
+
 #include "chrome/browser/actor/ui/ui_event.h"
 
 #include <utility>

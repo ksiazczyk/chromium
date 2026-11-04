@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page tool request implementation
+// summary: Implements PageToolRequest, converting page targets into Mojo types and creating PageTool instances for tab-scoped page actions.
+// ---
+
 #include "chrome/browser/actor/tools/page_tool_request.h"
 
 #include <optional>

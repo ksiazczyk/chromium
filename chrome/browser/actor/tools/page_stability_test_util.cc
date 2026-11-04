@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page stability test base class
+// summary: Test support that enables actor features and creates page stability monitors for actor browser tests.
+// ---
+
 #include "chrome/browser/actor/tools/page_stability_test_util.h"
 
 #include "chrome/browser/ui/ui_features.h"

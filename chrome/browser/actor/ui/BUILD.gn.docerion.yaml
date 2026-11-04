@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Actor UI BUILD.gn build targets
+summary: Defines GN source sets, mojo bindings and dependencies for the Chrome Actor UI components, including states, metrics, overlay views and test support.

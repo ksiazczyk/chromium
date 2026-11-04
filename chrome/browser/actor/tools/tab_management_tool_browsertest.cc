@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab management tool browser tests
+// summary: Browser tests covering foreground and background tab creation, tab activation, and tab closing, including scenarios with incognito browser windows.
+// ---
+
 #include "base/test/test_future.h"
 #include "build/build_config.h"
 #include "chrome/browser/actor/actor_keyed_service.h"

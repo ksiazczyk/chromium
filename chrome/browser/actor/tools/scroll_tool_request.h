@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll tool request declarations
+// summary: Declares ScrollToolRequest and ScrollPageToolRequest, actor tool requests that scroll an element or viewport by a distance or by page or document granularity.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_SCROLL_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_SCROLL_TOOL_REQUEST_H_
 

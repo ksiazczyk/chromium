@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change password tool request implementation
+// summary: Implements the ChangePassword tool request, creating the tool for a live actor surface or returning a tab-went-away error when the surface is gone.
+// ---
+
 #include "chrome/browser/actor/tools/password_manager/change_password/change_password_tool_request.h"
 
 #include <memory>

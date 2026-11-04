@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select tool request implementation
+// summary: Implements SelectToolRequest, including its tool schema definition, visitor application, and conversion to a Mojo select action.
+// ---
+
 #include "chrome/browser/actor/tools/select_tool_request.h"
 
 #include <optional>

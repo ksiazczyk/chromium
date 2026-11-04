@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini panel tool request implementation
+// summary: Implements the prompt and close Gemini panel tool requests, including model-facing tool definitions and tool creation.
+// ---
+
 #include "chrome/browser/actor/tools/gemini_panel_tool_request.h"
 
 #include <memory>

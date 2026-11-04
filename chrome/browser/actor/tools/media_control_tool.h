@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaControlTool class declaration
+// summary: Declares the MediaControlTool class supporting play, pause, and seek media actions on an actor surface.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_MEDIA_CONTROL_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_MEDIA_CONTROL_TOOL_H_
 

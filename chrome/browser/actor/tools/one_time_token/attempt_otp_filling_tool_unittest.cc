@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AttemptOtpFillingTool unit tests
+// summary: Unit tests for the OTP filling tool that mock the one-time token filling service and verify form filling context validation, login flow handling, and related metrics.
+// ---
+
 #include "chrome/browser/actor/tools/one_time_token/attempt_otp_filling_tool.h"
 
 #include <memory>

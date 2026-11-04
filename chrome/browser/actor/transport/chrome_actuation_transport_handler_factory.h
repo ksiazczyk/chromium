@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeActuationTransportHandlerFactory class declaration
+// summary: Declares the Chrome transport handler factory that supports the actuation payload type and builds handlers for remote actuation sessions.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TRANSPORT_CHROME_ACTUATION_TRANSPORT_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_ACTOR_TRANSPORT_CHROME_ACTUATION_TRANSPORT_HANDLER_FACTORY_H_
 

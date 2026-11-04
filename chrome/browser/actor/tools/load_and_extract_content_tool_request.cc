@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load and extract content tool request implementation
+// summary: Implements the load_and_extract_content tool request, including its schema definition and creation of the corresponding tool.
+// ---
+
 #include "chrome/browser/actor/tools/load_and_extract_content_tool_request.h"
 
 #include <memory>

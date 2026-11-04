@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tool definition test matchers declaration
+// summary: Declares gmock matchers for checking declared and required parameters in ToolDefinition JSON schemas during tests.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_REGISTRY_TOOL_DEFINITION_TEST_UTIL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_REGISTRY_TOOL_DEFINITION_TEST_UTIL_H_
 

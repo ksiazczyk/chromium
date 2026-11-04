@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observation delay metrics implementation
+// summary: Records histogram metrics for observation delay state durations, timeouts, navigations and LCP delays.
+// ---
+
 #include "chrome/browser/actor/tools/observation_delay_metrics.h"
 
 #include "base/check.h"

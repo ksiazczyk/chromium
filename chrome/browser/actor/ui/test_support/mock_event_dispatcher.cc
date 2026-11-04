@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock UI event dispatcher implementation
+// summary: Implements MockUiEventDispatcher constructors and a NewMockUiEventDispatcher factory returning a NiceMock instance for tests.
+// ---
+
 #include "chrome/browser/actor/ui/test_support/mock_event_dispatcher.h"
 
 namespace actor::ui {

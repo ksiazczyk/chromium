@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Perform search tool browser tests
+// summary: Browser tests for the perform_search tool, covering successful searches in the current tab with a configured default search provider.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

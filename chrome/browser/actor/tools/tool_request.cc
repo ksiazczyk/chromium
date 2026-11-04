@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool request base implementation
+// summary: Implements the ToolRequest base class and TabToolRequest subclass, including journal URLs, actor surface handles, and follow-up request flags.
+// ---
+
 #include "chrome/browser/actor/tools/tool_request.h"
 
 #include <optional>

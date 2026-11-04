@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttemptFormFillingToolRequest class declaration
+// summary: Declares the tool request class with form filling request parameters, the credit card opaque token, and the tool schema definition.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_AUTOFILL_ATTEMPT_FORM_FILLING_ATTEMPT_FORM_FILLING_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_AUTOFILL_ATTEMPT_FORM_FILLING_ATTEMPT_FORM_FILLING_TOOL_REQUEST_H_
 

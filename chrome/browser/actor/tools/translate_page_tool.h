@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate page tool
+// summary: Declares TranslatePageTool, an actor tool that starts page translation and observes translation progress via the translate driver.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_TRANSLATE_PAGE_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_TRANSLATE_PAGE_TOOL_H_
 

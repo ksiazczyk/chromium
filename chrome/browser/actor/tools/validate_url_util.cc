@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL validation utility implementation
+// summary: Implements validation that a URL is valid and an acceptable navigation destination for actor tools, reporting the outcome via callback.
+// ---
+
 #include "chrome/browser/actor/tools/validate_url_util.h"
 
 #include "chrome/browser/actor/site_policy.h"

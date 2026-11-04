@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI event debug string header
+// summary: Declares DebugString helpers and UI event name lookups that are kept in sync with actor histogram definitions.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_UI_EVENT_DEBUGSTRING_H_
 #define CHROME_BROWSER_ACTOR_UI_UI_EVENT_DEBUGSTRING_H_
 

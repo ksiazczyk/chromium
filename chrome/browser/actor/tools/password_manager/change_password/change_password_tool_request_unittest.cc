@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Change password tool request unit tests
+// summary: Unit tests for ChangePasswordToolRequest covering its name, stored field targets, and tool creation for valid and missing tabs.
+// ---
+
 #include "chrome/browser/actor/tools/password_manager/change_password/change_password_tool_request.h"
 
 #include <optional>

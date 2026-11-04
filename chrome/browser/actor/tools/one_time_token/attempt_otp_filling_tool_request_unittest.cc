@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AttemptOtpFillingToolRequest unit tests
+// summary: Unit tests verifying that AttemptOtpFillingToolRequest instances are built from proto actions with the correct name, sign-in flag, predicted OTP type, and trigger field parameters.
+// ---
+
 #include "chrome/browser/actor/tools/one_time_token/attempt_otp_filling_tool_request.h"
 
 #include <memory>

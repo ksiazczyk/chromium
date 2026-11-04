@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observation delay controller browser tests
+// summary: Browser tests covering the observation delay controller's page stability waits, state transitions and navigation handling.
+// ---
+
 #include "chrome/browser/actor/tools/observation_delay_controller.h"
 
 #include <string>

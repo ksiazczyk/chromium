@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observation delay test utilities header
+// summary: Declares test helpers for observation delay tests, such as a deferred page navigator and a controllable test controller.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_OBSERVATION_DELAY_TEST_UTIL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_OBSERVATION_DELAY_TEST_UTIL_H_
 

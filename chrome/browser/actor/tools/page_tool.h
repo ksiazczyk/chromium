@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page tool class header
+// summary: Declares the PageTool base class shared by renderer-executed tools, covering validation, invocation, cancellation, timeouts, and journal reporting.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_PAGE_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_PAGE_TOOL_H_
 

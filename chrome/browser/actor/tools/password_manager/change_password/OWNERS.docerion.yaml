@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the change_password actor tool directory
+summary: Delegates code ownership of the change_password actor tool directory to the owners of the password_change directory.

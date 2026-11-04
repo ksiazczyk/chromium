@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skeleton implementation of the file upload actor tool
+// summary: Implements FileUploadTool as a skeleton that will validate allowed files, run time-of-use checks, and inject files via a file picker interceptor.
+// ---
+
 #include "chrome/browser/actor/tools/file_upload_tool.h"
 
 #include <utility>

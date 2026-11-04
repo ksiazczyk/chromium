@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wait tool request implementation
+// summary: Implements WaitToolRequest, defining the wait tool schema with a wait_time_ms parameter and creating the WaitTool instance.
+// ---
+
 #include "chrome/browser/actor/tools/wait_tool_request.h"
 
 #include <optional>

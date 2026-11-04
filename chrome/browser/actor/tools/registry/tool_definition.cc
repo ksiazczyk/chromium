@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolDefinition implementation
+// summary: Implements ToolDefinition constructors, move semantics and cloning for actor tool metadata and parameter schemas.
+// ---
+
 #include "chrome/browser/actor/tools/registry/tool_definition.h"
 
 #include <utility>

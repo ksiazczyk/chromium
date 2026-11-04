@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page target utility browser tests
+// summary: Browser tests verifying page target resolution security, including that spoofed popup windows in annotated page content cannot redirect targets across processes.
+// ---
+
 #include "chrome/browser/actor/tools/page_target_util.h"
 
 #include <string>

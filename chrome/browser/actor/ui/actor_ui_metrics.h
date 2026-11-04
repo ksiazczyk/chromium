@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor UI metrics logging declarations
+// summary: Declares functions for recording Actor UI user actions, histograms and errors, including handoff button clicks, task nudge impressions, DOM node results and UI event durations.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_ACTOR_UI_METRICS_H_
 #define CHROME_BROWSER_ACTOR_UI_ACTOR_UI_METRICS_H_
 

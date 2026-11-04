@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor task unload handler header
+// summary: Declares the ActorTaskTabCloseConfirmDialog and ActorTaskUnloadHandler classes that confirm closing tabs with active actor tasks, plus test hooks.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_ACTOR_TASK_UNLOAD_HANDLER_H_
 #define CHROME_BROWSER_ACTOR_UI_ACTOR_TASK_UNLOAD_HANDLER_H_
 

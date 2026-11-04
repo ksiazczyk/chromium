@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attempt form filling tool metrics
+// summary: Records histograms tracking the tool's funnel from invocation through suggestion retrieval and presentation to user confirmation.
+// ---
+
 #include "chrome/browser/actor/tools/autofill/attempt_form_filling/attempt_form_filling_tool_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

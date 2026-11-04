@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perform search tool request implementation
+// summary: Implements the perform_search tool request, resolving search URLs from the profile's default search engine and defining the tool schema.
+// ---
+
 #include "chrome/browser/actor/tools/perform_search_tool_request.h"
 
 #include <memory>

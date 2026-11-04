@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Actor UI state manager unit tests
+// summary: Unit tests for the actor UI state manager covering UI events, task pause and resume, and handoff button states.
+// ---
+
 #include "chrome/browser/actor/ui/actor_ui_state_manager.h"
 
 #include "base/test/bind.h"

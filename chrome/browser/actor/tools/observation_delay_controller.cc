@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observation delay controller implementation
+// summary: Coordinates delays after tool actions until pages settle, using page stability monitoring, load metrics, and autofill prediction timeouts.
+// ---
+
 #include "chrome/browser/actor/tools/observation_delay_controller.h"
 
 #include <memory>

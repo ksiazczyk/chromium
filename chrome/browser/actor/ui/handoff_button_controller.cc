@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handoff button controller implementation
+// summary: Implements the floating handoff button widget that lets users take over an actor task or give control back, with gradient styling, shadow, and hover cursor behavior.
+// ---
+
 #include "chrome/browser/actor/ui/handoff_button_controller.h"
 
 #include "base/feature_list.h"

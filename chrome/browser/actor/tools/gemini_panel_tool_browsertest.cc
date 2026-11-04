@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gemini panel tool browser tests
+// summary: Browser tests for the Gemini panel tool covering prompt and close actions, empty prompts, and stale tab handles.
+// ---
+
 #include "chrome/browser/actor/tools/gemini_panel_tool.h"
 
 #include <memory>

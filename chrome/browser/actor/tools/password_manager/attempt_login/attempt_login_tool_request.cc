@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attempt login tool request implementation
+// summary: Implements the AttemptLogin tool request, providing the tool schema definition, tool creation, and login observation page stability configuration.
+// ---
+
 #include "chrome/browser/actor/tools/password_manager/attempt_login/attempt_login_tool_request.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Type tool request unit tests
+// summary: Unit tests verifying the TypeToolRequest observation page stability configuration under default, feature-enabled, and feature-disabled settings.
+// ---
+
 #include "chrome/browser/actor/tools/type_tool_request.h"
 
 #include <cstdint>

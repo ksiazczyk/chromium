@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find and highlight tool request implementation
+// summary: Implements the find and highlight tool request, building its tool schema definition and creating the tool after validating the query and actor surface.
+// ---
+
 #include "chrome/browser/actor/tools/find_and_highlight_tool_request.h"
 
 #include <optional>

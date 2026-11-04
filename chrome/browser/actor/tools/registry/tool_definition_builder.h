@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolDefinitionBuilder declaration
+// summary: Declares a fluent builder for ToolDefinition with optional JSON Schema parameter setup and single-use Build.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_REGISTRY_TOOL_DEFINITION_BUILDER_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_REGISTRY_TOOL_DEFINITION_BUILDER_H_
 

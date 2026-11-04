@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observation delay metrics browser tests
+// summary: Browser tests verifying the histograms recorded by the observation delay metrics in various loading scenarios.
+// ---
+
 #include "chrome/browser/actor/tools/observation_delay_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

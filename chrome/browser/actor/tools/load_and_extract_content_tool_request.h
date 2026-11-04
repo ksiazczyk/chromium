@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadAndExtractContentToolRequest class declaration
+// summary: Declares the request class for the load_and_extract_content tool, which loads a set of URLs and extracts their content.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_LOAD_AND_EXTRACT_CONTENT_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_LOAD_AND_EXTRACT_CONTENT_TOOL_REQUEST_H_
 

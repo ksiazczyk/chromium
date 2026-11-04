@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Switch tab tool browser tests
+// summary: Browser tests covering the switch_tab tool's matching by title and URL, handling of no-match and ambiguous-match cases, and tab activation behavior.
+// ---
+
 #include <memory>
 
 #include "base/test/run_until.h"

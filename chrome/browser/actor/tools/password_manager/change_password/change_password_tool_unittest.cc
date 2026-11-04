@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Change password tool unit tests
+// summary: Unit tests for ChangePasswordTool covering validation of DOM password field targets, invocation, and debug string and journal properties.
+// ---
+
 #include "chrome/browser/actor/tools/password_manager/change_password/change_password_tool.h"
 
 #include <optional>

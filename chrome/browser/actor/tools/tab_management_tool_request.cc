@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab management tool request implementations
+// summary: Implements the create_tab, activate_tab, and close_current_tab tool requests, including their schema definitions and tool creation logic.
+// ---
+
 #include "chrome/browser/actor/tools/tab_management_tool_request.h"
 
 #include <memory>

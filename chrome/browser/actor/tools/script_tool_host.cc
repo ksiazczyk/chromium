@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script tool host implementation
+// summary: Implements ScriptToolHost, which manages execution of WebMCP script tools in the renderer, including timeouts and cross-document result handling.
+// ---
+
 #include "chrome/browser/actor/tools/script_tool_host.h"
 
 #include <set>

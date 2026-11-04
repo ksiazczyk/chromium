@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor UI event definitions
+// summary: Defines the UI event variant structs dispatched to the actor UI state manager for task start, stop, state changes, progress, and mouse actions.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_UI_EVENT_H_
 #define CHROME_BROWSER_ACTOR_UI_UI_EVENT_H_
 

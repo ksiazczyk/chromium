@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor UI window controller unit tests
+// summary: Unit tests for the actor UI window controller, covering overlay state DCHECK death checks and null window lookups.
+// ---
+
 #include "chrome/browser/actor/ui/actor_ui_window_controller.h"
 
 #include <memory>

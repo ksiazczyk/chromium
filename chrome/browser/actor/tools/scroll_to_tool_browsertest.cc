@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll-to tool browser tests
+// summary: Browser tests for the scroll_to tool, verifying scrolling to valid DOM nodes and failure on invalid node IDs.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "base/test/test_future.h"
 #include "chrome/browser/actor/actor_test_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tool definition test util unit tests
+// summary: Unit tests verifying the HasParamOfType and RequiresParam matchers against tool definitions built with ToolDefinitionBuilder and ToolSchemaBuilder.
+// ---
+
 #include "chrome/browser/actor/tools/registry/tool_definition_test_util.h"
 
 #include "chrome/browser/actor/tools/registry/tool_definition.h"

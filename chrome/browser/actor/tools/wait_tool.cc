@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wait tool implementation
+// summary: Implements the Wait actor tool that delays for a configured duration before completing, with an option to skip the delay in tests.
+// ---
+
 #include "chrome/browser/actor/tools/wait_tool.h"
 
 #include <utility>

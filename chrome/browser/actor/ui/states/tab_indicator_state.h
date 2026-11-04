@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab indicator status enum header
+// summary: Defines the TabIndicatorStatus enum describing whether the tab indicator icon or spinner is visible next to the tab title.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_STATES_TAB_INDICATOR_STATE_H_
 #define CHROME_BROWSER_ACTOR_UI_STATES_TAB_INDICATOR_STATE_H_
 

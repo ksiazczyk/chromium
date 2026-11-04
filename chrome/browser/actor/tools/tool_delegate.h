@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool delegate interface
+// summary: Declares the ToolDelegate interface supplying tools with profile, journal, login, form filling, favicon, and enterprise policy services from the invoking code.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_TOOL_DELEGATE_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_TOOL_DELEGATE_H_
 

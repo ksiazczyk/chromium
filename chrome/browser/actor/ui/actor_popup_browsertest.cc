@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor popup browser tests
+// summary: Browser tests for actor popup interception, checking that sandboxed iframes open popups instead of same-tab navigation while an actor task is active.
+// ---
+
 #include "base/run_loop.h"
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"

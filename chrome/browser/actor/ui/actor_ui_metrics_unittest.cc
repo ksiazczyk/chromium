@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor UI metrics unit test
+// summary: Unit test verifying that the Actor.Ui.TaskNudge action variants match the ActorTaskNudgeState text values recorded by the metrics code.
+// ---
+
 #include "base/test/metrics/action_variants_reader.h"
 #include "chrome/browser/actor/ui/states/actor_task_nudge_state.h"
 #include "testing/gtest/include/gtest/gtest.h"

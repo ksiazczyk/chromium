@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay web view
+// summary: Implements a transparent WebView that hosts the actor overlay WebContents, suppresses input events on the underlying tab, and forwards updates to the WebUI.
+// ---
+
 #include "chrome/browser/actor/ui/actor_overlay_web_view.h"
 
 #include "chrome/browser/profiles/profile.h"

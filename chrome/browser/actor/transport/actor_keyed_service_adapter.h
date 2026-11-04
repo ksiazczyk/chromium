@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorKeyedServiceAdapter class declaration
+// summary: Declares ActorKeyedServiceAdapter, which adapts ActorKeyedService to the ActuationDelegate interface used by ActuationTransportHandler.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TRANSPORT_ACTOR_KEYED_SERVICE_ADAPTER_H_
 #define CHROME_BROWSER_ACTOR_TRANSPORT_ACTOR_KEYED_SERVICE_ADAPTER_H_
 

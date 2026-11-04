@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor UI tab controller implementation
+// summary: Implements per-tab actor UI updates, overlay and handoff button visibility, scrim handling, and navigation confirmation dialogs.
+// ---
+
 #include "chrome/browser/actor/ui/actor_ui_tab_controller.h"
 
 #include "base/check_op.h"

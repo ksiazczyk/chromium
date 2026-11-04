@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor UI tab controller unit tests
+// summary: Unit tests for the actor UI tab controller using mock tabs, web contents, and handoff button controllers.
+// ---
+
 #include "chrome/browser/actor/ui/actor_ui_tab_controller.h"
 
 #include <memory>

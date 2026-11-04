@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor border view controller unit tests
+// summary: Unit tests verifying glow change notifications and null-window lookup behavior of the actor border view controller.
+// ---
+
 #include "chrome/browser/actor/ui/actor_border_view_controller.h"
 
 #include "chrome/browser/ui/browser_window/test/mock_browser_window_interface.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Click tool request header for the actor tool framework
+// summary: Declares ClickToolRequest, a page tool request modeling click actions with click type, count, and page stability configuration, plus its tool schema definition.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_CLICK_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_CLICK_TOOL_REQUEST_H_
 

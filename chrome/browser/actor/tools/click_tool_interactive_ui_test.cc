@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Click tool interactive UI tests
+// summary: Interactive UI tests for the actor click tool in PDF documents, parameterized over guest view terms-of-use validation.
+// ---
+
 #include <optional>
 #include <string>
 

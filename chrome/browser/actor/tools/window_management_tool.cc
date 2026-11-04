@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window management tool implementation
+// summary: Implements the WindowManagementTool for creating, activating, closing, and toggling fullscreen on browser windows, with platform-specific Android and desktop paths.
+// ---
+
 #include "chrome/browser/actor/tools/window_management_tool.h"
 
 #include "base/functional/bind.h"

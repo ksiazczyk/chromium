@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI event debug string unit tests
+// summary: Unit tests verifying the debug string output for every actor UI event type and target source value.
+// ---
+
 #include "chrome/browser/actor/ui/ui_event_debugstring.h"
 
 #include "chrome/browser/actor/ui/ui_event.h"

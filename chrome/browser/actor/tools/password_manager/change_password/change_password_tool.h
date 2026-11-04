@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChangePasswordTool class declaration
+// summary: Declares the ChangePasswordTool class, an actor tool that stores current, new, and confirm password field targets for a password change action.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_PASSWORD_MANAGER_CHANGE_PASSWORD_CHANGE_PASSWORD_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_PASSWORD_MANAGER_CHANGE_PASSWORD_CHANGE_PASSWORD_TOOL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor tool base class implementation
+// summary: Implements the base actor Tool class with default validation, cancellation, journaling, task update, and browser window lookup helpers shared by all tools.
+// ---
+
 #include "chrome/browser/actor/tools/tool.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wait tool browser tests
+// summary: Browser tests verifying the wait tool succeeds, does not record the tab as acted on, and is blocked on remote HTTP URLs by scheme safety checks.
+// ---
+
 #include "chrome/browser/actor/tools/wait_tool.h"
 
 #include "base/test/test_future.h"

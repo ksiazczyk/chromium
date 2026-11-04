@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay UI state header
+// summary: Defines the ActorOverlayState struct holding tab-scoped overlay UI state such as activity, border glow visibility, and magic mouse click target.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_STATES_ACTOR_OVERLAY_STATE_H_
 #define CHROME_BROWSER_ACTOR_UI_STATES_ACTOR_OVERLAY_STATE_H_
 

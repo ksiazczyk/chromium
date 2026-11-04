@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadAndExtractContentTool class declaration
+// summary: Declares the LoadAndExtractContentTool class, which loads URLs in new tabs, waits for stability, extracts their content, and closes the tabs.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_LOAD_AND_EXTRACT_CONTENT_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_LOAD_AND_EXTRACT_CONTENT_TOOL_H_
 

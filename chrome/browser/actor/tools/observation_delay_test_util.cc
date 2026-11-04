@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observation delay test utilities implementation
+// summary: Implements test helpers including a deferred-page navigation helper and a state-inspectable observation delay controller.
+// ---
+
 #include "chrome/browser/actor/tools/observation_delay_test_util.h"
 
 #include <memory>

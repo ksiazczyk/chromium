@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attempt login tool request declaration
+// summary: Declares the AttemptLoginToolRequest that builds the attempt_login tool from optional password button and Google sign-in button page targets.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_PASSWORD_MANAGER_ATTEMPT_LOGIN_ATTEMPT_LOGIN_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_PASSWORD_MANAGER_ATTEMPT_LOGIN_ATTEMPT_LOGIN_TOOL_REQUEST_H_
 

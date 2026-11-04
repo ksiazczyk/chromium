@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Actor UI directory include rules
+summary: Allows the actor UI directory to include headers from content/test for testing purposes.

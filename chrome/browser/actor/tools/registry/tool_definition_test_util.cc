@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tool definition test matchers implementation
+// summary: Implements the gmock matchers HasParamOfType and RequiresParam for asserting tool definition parameter schemas.
+// ---
+
 #include "chrome/browser/actor/tools/registry/tool_definition_test_util.h"
 
 #include <string_view>

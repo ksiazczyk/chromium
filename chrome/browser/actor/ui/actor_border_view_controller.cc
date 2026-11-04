@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor border view controller implementation
+// summary: Implements the controller that tracks actor border glow state per tab and notifies registered callbacks via browser window unowned user data.
+// ---
+
 #include "chrome/browser/actor/ui/actor_border_view_controller.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM node geometry class declaration
+// summary: Declares DomNodeGeometry, which resolves DOM nodes to their center point coordinates from page content data.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_DOM_NODE_GEOMETRY_H_
 #define CHROME_BROWSER_ACTOR_UI_DOM_NODE_GEOMETRY_H_
 

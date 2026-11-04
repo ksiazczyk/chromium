@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perform search tool request header
+// summary: Declares PerformSearchToolRequest, which navigates a tab to a search URL built from a query and the profile's default search engine.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_PERFORM_SEARCH_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_PERFORM_SEARCH_TOOL_REQUEST_H_
 

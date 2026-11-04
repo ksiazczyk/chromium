@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type tool request implementation
+// summary: Implements the type actor tool request, its tool schema, Mojo action conversion, and page stability configuration for typing text into page elements.
+// ---
+
 #include "chrome/browser/actor/tools/type_tool_request.h"
 
 #include <optional>

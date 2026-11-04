@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site-based search tool declarations
+// summary: Declares SiteBasedSearchTool, which executes an on-page search by finding a search input in cached AnnotatedPageContent and typing the query.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_SITE_BASED_SEARCH_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_SITE_BASED_SEARCH_TOOL_H_
 

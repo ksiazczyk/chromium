@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenKnownPageToolRequest class declaration
+// summary: Declares the actor tool request that opens a page matching a query by searching open tabs, browsing history, and bookmarks in the active window.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_OPEN_KNOWN_PAGE_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_OPEN_KNOWN_PAGE_TOOL_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay web view header
+// summary: Declares a WebView subclass that displays the actor overlay WebContents and forwards background, border glow, cursor, and click animation updates to the WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_ACTOR_OVERLAY_WEB_VIEW_H_
 #define CHROME_BROWSER_ACTOR_UI_ACTOR_OVERLAY_WEB_VIEW_H_
 

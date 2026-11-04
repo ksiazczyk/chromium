@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigate tool implementation
+// summary: Implements the navigate tool that loads a URL in the active tab, validating the destination and observing navigation completion.
+// ---
+
 #include "chrome/browser/actor/tools/navigate_tool.h"
 
 #include "base/feature_list.h"

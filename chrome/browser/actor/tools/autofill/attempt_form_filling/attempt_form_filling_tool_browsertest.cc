@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AttemptFormFillingTool browser tests
+// summary: Browser tests covering the form filling tool's interaction with the autofill service, suggestion dialogs, and metrics using a mock service.
+// ---
+
 #include "chrome/browser/actor/tools/autofill/attempt_form_filling/attempt_form_filling_tool.h"
 
 #include <string>

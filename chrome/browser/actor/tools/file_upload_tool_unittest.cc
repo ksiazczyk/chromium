@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File upload tool unit tests
+// summary: Unit tests for the FileUploadTool covering validation, time-of-use validation, invocation success, and PII-free debug string output.
+// ---
+
 #include "chrome/browser/actor/tools/file_upload_tool.h"
 
 #include <memory>

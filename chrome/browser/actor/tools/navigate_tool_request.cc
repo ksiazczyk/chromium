@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigate tool request implementation
+// summary: Implements the navigate tool request, providing its tool schema, tool creation, and origin grant for the destination URL.
+// ---
+
 #include "chrome/browser/actor/tools/navigate_tool_request.h"
 
 #include <optional>

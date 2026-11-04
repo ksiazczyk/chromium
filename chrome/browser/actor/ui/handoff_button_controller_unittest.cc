@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Handoff button controller unit tests
+// summary: Unit tests for handoff button state updates, hover and focus handling, button clicks, and related user action metrics using mock tab and window interfaces.
+// ---
+
 #include "chrome/browser/actor/ui/handoff_button_controller.h"
 
 #include <memory>

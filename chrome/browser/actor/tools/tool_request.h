@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool request base interface
+// summary: Declares the ToolRequest base class for all actor tool requests and TabToolRequest for tab-scoped tools, with tool creation and validation hooks.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_TOOL_REQUEST_H_
 

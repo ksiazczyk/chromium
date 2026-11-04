@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock actor UI tab controller implementation
+// summary: Sets default ON_CALL behavior for the mock tab controller and provides SetupDefaultBrowserWindow to wire a mock tab to a mock browser window.
+// ---
+
 #include "chrome/browser/actor/ui/test_support/mock_actor_ui_tab_controller.h"
 
 #include <utility>

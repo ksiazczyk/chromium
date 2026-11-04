@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini panel tool request declarations
+// summary: Declares the prompt and close Gemini panel tool requests with their model-facing names and tool schema definitions.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_GEMINI_PANEL_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_GEMINI_PANEL_TOOL_REQUEST_H_
 

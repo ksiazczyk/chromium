@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select tool request declarations
+// summary: Declares SelectToolRequest, an actor tool request that selects an option in a page's select element by its value attribute.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_SELECT_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_SELECT_TOOL_REQUEST_H_
 

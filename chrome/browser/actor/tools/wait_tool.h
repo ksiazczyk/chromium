@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wait tool header
+// summary: Declares the actor WaitTool class that pauses for a page to settle before other tools continue, with a testing hook to skip the delay.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_WAIT_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_WAIT_TOOL_H_
 

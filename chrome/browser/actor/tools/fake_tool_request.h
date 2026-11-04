@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake tool request header
+// summary: Declares FakeToolRequest, a tool request that creates a FakeTool with test-controlled invoke and destroy callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_FAKE_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_FAKE_TOOL_REQUEST_H_
 

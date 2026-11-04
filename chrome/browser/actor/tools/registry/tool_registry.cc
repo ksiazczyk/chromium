@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolRegistry implementation
+// summary: Implements ToolRegistry by building a static tool catalog from ToolRequestVariant types with name-to-ID and ID-to-name lookup maps.
+// ---
+
 #include "chrome/browser/actor/tools/registry/tool_registry.h"
 
 #include <optional>

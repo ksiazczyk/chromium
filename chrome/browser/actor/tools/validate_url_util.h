@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL validation utility declaration
+// summary: Declares the helper that validates whether a URL is valid and acceptable to navigate to, invoking a callback with the result.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_VALIDATE_URL_UTIL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_VALIDATE_URL_UTIL_H_
 

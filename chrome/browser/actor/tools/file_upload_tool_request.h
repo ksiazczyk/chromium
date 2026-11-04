@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File upload tool request header
+// summary: Declares the FileUploadToolRequest class and FileUploadSource struct, including tool name constants and JSON argument keys for the file upload tool.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_FILE_UPLOAD_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_FILE_UPLOAD_TOOL_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolSchemaBuilder class header
+// summary: Declares ToolSchemaBuilder, a helper that builds required-parameter JSON Schema dictionaries for Actor tool definitions.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_REGISTRY_TOOL_SCHEMA_BUILDER_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_REGISTRY_TOOL_SCHEMA_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script tool request implementation
+// summary: Implements ScriptToolRequest, defining the script tool schema and creating a ScriptToolHost when the WebMCP feature is enabled.
+// ---
+
 #include "chrome/browser/actor/tools/script_tool_request.h"
 
 #include <optional>

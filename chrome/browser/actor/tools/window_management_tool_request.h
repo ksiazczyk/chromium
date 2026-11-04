@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window management tool request header
+// summary: Declares the window management tool request classes for creating, activating, closing, and toggling fullscreen on browser windows.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_WINDOW_MANAGEMENT_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_WINDOW_MANAGEMENT_TOOL_REQUEST_H_
 

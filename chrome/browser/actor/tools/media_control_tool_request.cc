@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media control tool request implementation
+// summary: Implements play, pause, and seek media tool requests with their model-facing schemas and tool creation.
+// ---
+
 #include "chrome/browser/actor/tools/media_control_tool_request.h"
 
 #include <memory>

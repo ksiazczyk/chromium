@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolRegistry class header
+// summary: Declares the ToolRegistry class that resolves model-facing tool names to ToolIds and returns registered Actor browser tool definitions.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_REGISTRY_TOOL_REGISTRY_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_REGISTRY_TOOL_REGISTRY_H_
 

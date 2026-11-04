@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Attempt login OWNERS
+summary: Ownership file that delegates review ownership of the attempt login tool directory to the actor_login component's OWNERS file.

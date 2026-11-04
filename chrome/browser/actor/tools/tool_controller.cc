@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool controller implementation
+// summary: Implements the ToolController state machine that creates, validates, invokes, and completes actor tool requests with journal logging.
+// ---
+
 #include "chrome/browser/actor/tools/tool_controller.h"
 
 #include <memory>

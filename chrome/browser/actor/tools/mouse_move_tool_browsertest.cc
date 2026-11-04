@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse move tool browser tests
+// summary: Browser tests verifying the mouse move tool, including errors for non-existent nodes, generated mouse events, and scrolling to offscreen targets.
+// ---
+
 #include "base/test/test_future.h"
 #include "build/build_config.h"
 #include "chrome/browser/actor/actor_test_util.h"

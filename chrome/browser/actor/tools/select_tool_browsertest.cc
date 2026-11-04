@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select tool browser tests
+// summary: Browser tests verifying the actor Select tool chooses options in select elements, including offscreen selects and TOCTOU validation scenarios.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "base/test/test_future.h"
 #include "chrome/browser/actor/actor_test_util.h"

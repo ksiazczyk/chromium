@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll tool request implementation
+// summary: Implements ScrollToolRequest, defining the scroll and scroll_page tool schemas with direction, distance, and granularity parameters.
+// ---
+
 #include "chrome/browser/actor/tools/scroll_tool_request.h"
 
 #include <optional>

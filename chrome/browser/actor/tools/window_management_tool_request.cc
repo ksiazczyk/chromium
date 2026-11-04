@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window management tool request implementation
+// summary: Implements the create, activate, close, enter fullscreen, and exit fullscreen window tool requests, including their model-facing schema definitions.
+// ---
+
 #include "chrome/browser/actor/tools/window_management_tool_request.h"
 
 #include <memory>

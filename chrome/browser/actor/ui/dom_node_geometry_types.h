@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM node geometry result types
+// summary: Defines the GetDomNodeResult enum of success and error codes that is persisted in UMA logs.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_DOM_NODE_GEOMETRY_TYPES_H_
 #define CHROME_BROWSER_ACTOR_UI_DOM_NODE_GEOMETRY_TYPES_H_
 

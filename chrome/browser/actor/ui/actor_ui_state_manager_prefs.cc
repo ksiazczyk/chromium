@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor UI state manager profile prefs registration
+// summary: Registers the profile preference that counts how many times the actor closing toast has been shown.
+// ---
+
 #include "chrome/browser/actor/ui/actor_ui_state_manager_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

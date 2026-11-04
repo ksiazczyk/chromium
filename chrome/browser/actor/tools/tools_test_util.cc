@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor tools test utilities
+// summary: Implements mock tool delegates, actor login service mocks, and credential helpers shared by actor tool browser tests.
+// ---
+
 #include "chrome/browser/actor/tools/tools_test_util.h"
 
 #include "base/run_loop.h"

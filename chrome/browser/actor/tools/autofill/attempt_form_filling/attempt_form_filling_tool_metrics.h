@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attempt form filling tool metrics header
+// summary: Declares the tool event enum and the functions for recording autofill form filling metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_AUTOFILL_ATTEMPT_FORM_FILLING_ATTEMPT_FORM_FILLING_TOOL_METRICS_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_AUTOFILL_ATTEMPT_FORM_FILLING_ATTEMPT_FORM_FILLING_TOOL_METRICS_H_
 

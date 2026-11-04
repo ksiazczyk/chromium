@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page target hit testing utilities
+// summary: Implements resolution of actor action targets to page nodes via hit testing against annotated page content.
+// ---
+
 #include "chrome/browser/actor/tools/page_target_util.h"
 
 #include <variant>

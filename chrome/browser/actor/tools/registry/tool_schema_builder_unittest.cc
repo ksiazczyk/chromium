@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolSchemaBuilder unit tests
+// summary: Unit tests verifying that ToolSchemaBuilder produces the expected JSON Schema object for string, enum, integer, number and other property types.
+// ---
+
 #include "chrome/browser/actor/tools/registry/tool_schema_builder.h"
 
 #include <string_view>
