@@ -4,6 +4,13 @@ Copyright 2016 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Legacy sync promo view layout
+summary: Android layout for the legacy sync promo card with title, description, sign-in button, and an empty state view stub.
+-->
+
 <org.chromium.chrome.browser.signin.LegacySyncPromoView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

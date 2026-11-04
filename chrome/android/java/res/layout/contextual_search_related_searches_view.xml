@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Contextual Search related searches view layout
+summary: Android layout container that hosts dynamically added chip views for Related Searches in the overlay panel bar.
+-->
+
 <!-- Displays Related Searches suggestions in the Bar of the Overlay Panel. -->
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/contextual_search_related_searches_view_id"

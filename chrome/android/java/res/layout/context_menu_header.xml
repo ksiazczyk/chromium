@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Context menu header layout
+summary: Header layout for the context menu showing a favicon or monogram image plus the included title and URL text.
+-->
+
 <!-- We used nested LinearLayouts here because it was harder to align the text vertically with
      the center of the image using a single RelativeLayout. A ConstraintLayout could be a better
      choice here, but it isn't available to us, yet. -->

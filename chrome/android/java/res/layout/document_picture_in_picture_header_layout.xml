@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Document picture-in-picture header layout
+summary: Android layout for the document picture-in-picture header with a security icon, an anti-spoofing URL bar and a back-to-tab button.
+-->
+
 <!--
 Height, visibility and background color of this node are set programmatically
 by DocumentPictureInPictureHeaderViewBinder.

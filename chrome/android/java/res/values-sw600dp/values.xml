@@ -4,6 +4,13 @@ Copyright 2011 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Tablet values for top controls thresholds and thumbnail cache sizes
+summary: Supplies tablet-specific float thresholds for showing and hiding top controls, thumbnail cache and queue size integers, and a boolean for compositor tab title fake bold text.
+-->
+
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Full Screen Constants -->
     <!-- These constants were chosen empirically for their visually pleasant behavior.

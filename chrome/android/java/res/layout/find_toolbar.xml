@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Find toolbar wrapper layout
+summary: Android layout that wraps the find-in-page toolbar in a FindToolbarPhone view intended for ViewStub inflation.
+-->
+
 <!-- Width and height are 0 because things inflated from a ViewStub inherit the ViewStub's
      LayoutParams.  Making these 0 so that it's explicit that setting these does nothing. -->
 <org.chromium.chrome.browser.findinpage.FindToolbarPhone

@@ -1,0 +1,4 @@
+# Docerion header of privacy_preferences.xml.
+type: config
+title: Privacy preferences screen
+summary: Preference screen for privacy and security settings including clear browsing data, cookies, do not track, Safe Browsing, incognito lock, and HTTPS-First Mode.

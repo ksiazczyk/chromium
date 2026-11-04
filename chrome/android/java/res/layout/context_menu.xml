@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Context menu layout
+summary: Layout for the context menu popup, wrapping a ContextMenuListView in a shadowed frame with menu margins.
+-->
+
 <!-- We need an extra FrameLayout around the menu for the background because it is a 9-patch and has
      extra padding automatically. The ListView's clipToPadding is false to avoid the items being cut
      off by the bottom padding. However, the FrameLayout's clipToPadding is true to keep the items

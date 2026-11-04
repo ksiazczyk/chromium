@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Custom tab toolbar layout
+summary: Android layout for the custom tab toolbar, containing the title and URL bar, security icon, and an incognito icon stub.
+-->
+
 <org.chromium.chrome.browser.customtabs.features.toolbar.CustomTabToolbar
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Tab switcher action menu layout
+summary: Android layout for the tab switcher action menu, hosting a touch-tracking list view of menu items inside a frame layout.
+-->
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:paddingTop="@dimen/tab_switcher_menu_vertical_padding"

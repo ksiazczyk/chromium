@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: App-specific history manager menu
+summary: Android menu XML defining the app-specific history manager toolbar items, including info and search actions plus selection-mode delete, open in tab or incognito, and copy link options.
+-->
+
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto" >
 

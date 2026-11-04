@@ -11,6 +11,12 @@ found in the LICENSE file.
           +................................................................+
 -->
 
+<!--docerion
+type: source
+title: Search widget template layout
+summary: Android layout template for the home screen search widget text box, showing a hint string next to a microphone icon.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/text_container"
         android:layout_width="match_parent"

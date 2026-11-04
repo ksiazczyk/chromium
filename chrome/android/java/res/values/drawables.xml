@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Drawable aliases
+summary: Maps drawable names such as btn_back, btn_forward, and ic_new_tab_button to the underlying drawable resources they reference.
+-->
+
 <resources>
     <drawable name="shared_clipboard_zero_state">
         @drawable/shared_clipboard_zero_state_light

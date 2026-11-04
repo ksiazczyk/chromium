@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Default browser promo first run centered portrait layout
+summary: Centered portrait variant of the first-run layout promoting Chrome as the default browser, with illustration, instruction rows and buttons.
+-->
+
 <org.chromium.chrome.browser.firstrun.DefaultBrowserPromoFirstRunView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

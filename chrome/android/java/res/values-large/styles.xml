@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Large-screen dialog theme style override
+summary: Defines the Theme.Chromium.DialogWhenLarge style for large screens, making the dialog window translucent.
+-->
+
 <resources>
     <style name="Theme.Chromium.DialogWhenLarge"
         parent="Base.Theme.Chromium.DialogWhenLarge">

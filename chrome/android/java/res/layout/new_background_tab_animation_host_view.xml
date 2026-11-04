@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: New background tab animation host layout
+summary: Android layout hosting the animation shown when a link opens a new background tab, including a link icon and an included fake tab switcher icon.
+-->
+
 <org.chromium.chrome.browser.compositor.layouts.phone.NewBackgroundTabAnimationHostView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

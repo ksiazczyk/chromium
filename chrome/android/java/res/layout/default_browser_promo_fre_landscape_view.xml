@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Default browser promo first run landscape layout
+summary: Landscape layout for the first-run view promoting Chrome as the default browser, with illustration, instruction rows and action buttons.
+-->
+
 <org.chromium.chrome.browser.firstrun.DefaultBrowserPromoFirstRunView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

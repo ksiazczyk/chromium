@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Distilled page preferences view layout
+summary: Android layout for the reader mode preferences view, offering light, dark and sepia theme radio buttons plus font family and font size controls.
+-->
+
 <org.chromium.chrome.browser.dom_distiller.DistilledPagePrefsView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

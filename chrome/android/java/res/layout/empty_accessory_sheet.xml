@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Empty accessory sheet layout
+summary: Empty Android layout placeholder that, according to its comment, is mainly used in tests.
+-->
+
 <!-- This Layout is mainly used in tests. Therefore use possible UnusedResource warnings. -->
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Landscape style overrides for gesture user education
+summary: Defines the GestureUserEducationIphDismissText style with end-aligned vertical centering for landscape layouts in Chrome for Android.
+-->
+
 <resources>
     <style name="GestureUserEducationIphDismissText">
         <item name="android:layout_gravity">end|center_vertical</item>

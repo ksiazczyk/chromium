@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android network security config
+summary: Android network security configuration that permits cleartext traffic and trusts user and system certificates to keep HLS playback via Android MediaPlayer working.
+-->
+
 <network-security-config>
     <!-- We delegate the handling of HLS videos to Android MediaPlayer. Starting
     with Android P, the default value of isCleartextTrafficPermitted() is false.

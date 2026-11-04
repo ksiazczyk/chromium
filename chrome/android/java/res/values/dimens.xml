@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Dimension values for Chrome Android UI
+summary: Defines dp and sp dimension resources for toolbars, overlay panels, contextual search, autofill prompts, keyboard accessory, and password manager dialogs.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- TabSwitcher - The space between tabs in the toolbar swiping transition. -->
     <dimen name="toolbar_swipe_space_between_tabs">30dp</dimen>

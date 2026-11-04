@@ -8,6 +8,12 @@ found in the LICENSE file.
 <!-- The attributes in this XML file provide configuration information -->
 <!-- for the ContentProvider. -->
 
+<!--docerion
+type: config
+title: ContentProvider file paths configuration
+summary: Defines the file and cache paths exposed through a ContentProvider for sharing images, net exports, passwords, PDFs, traces, WebAPKs, offline archives and downloads.
+-->
+
 <paths xmlns:android="http://schemas.android.com/apk/res/android">
     <files-path name="images" path="images/"/>
     <cache-path name="cache" path="net-export/"/>

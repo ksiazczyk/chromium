@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Settings search lens fade transition resource
+summary: Android XML resource defining a short fade transition with fast-out-slow-in easing targeting the search lens button in settings search.
+-->
+
 <fade
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:duration="@android:integer/config_shortAnimTime"

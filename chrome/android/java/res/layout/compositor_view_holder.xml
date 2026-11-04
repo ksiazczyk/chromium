@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Compositor view holder layout
+summary: Android layout that hosts the CompositorViewHolder view, merged into its parent and excluded from accessibility.
+-->
+
 
 <merge
     xmlns:android="http://schemas.android.com/apk/res/android"

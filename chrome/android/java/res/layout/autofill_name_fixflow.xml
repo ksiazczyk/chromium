@@ -4,6 +4,13 @@ Copyright 2018 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Autofill cardholder name fix flow layout
+summary: Android layout with a cardholder name input field and a learn-more tooltip icon for the card name fix flow.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

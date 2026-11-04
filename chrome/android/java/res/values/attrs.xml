@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Custom styleable attributes for Chrome Android views
+summary: Declares custom styleable attributes and view states, such as HyperlinkPreference's url and HubToolbarView's newTabButtonStyle, used by Chrome's Android UI.
+-->
+
 <resources>
     <declare-styleable name="HyperlinkPreference">
         <!-- The URL to load when the preference is clicked -->

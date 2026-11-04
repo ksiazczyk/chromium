@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Google Wallet icon layout
+summary: Android layout showing a Google Wallet icon for the Autofill AI settings preference entry, with an accessibility label.
+-->
+
 <!-- Layout for Google Wallet icon displayed on the Autofill AI
 settings preference entry. -->
 <ImageView

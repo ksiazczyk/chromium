@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: OS version unsupported text layout
+summary: Android layout for a text view that displays the deprecation warning shown when the OS version is unsupported.
+-->
+
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/PreferenceSummary"
     android:layout_width="wrap_content"

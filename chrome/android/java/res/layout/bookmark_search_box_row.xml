@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bookmark search box row layout
+summary: Android layout for the bookmarks search row containing a shared search box view and a shopping filter chip container.
+-->
+
 <org.chromium.chrome.browser.bookmarks.BookmarkSearchBoxRow
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -4,6 +4,13 @@ Copyright 2020 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Android string resource for the manage space activity
+summary: Declares the non-translatable manage_space_activity string resource that names the Chromium ManageSpaceActivity class used by Android settings.
+-->
+
 <resources>
     <string translatable="false" name="manage_space_activity">org.chromium.chrome.browser.site_settings.ManageSpaceActivity</string>
 </resources>

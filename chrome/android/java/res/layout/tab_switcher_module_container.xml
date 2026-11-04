@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Tab switcher module container layout
+summary: Android layout providing a hidden frame container for a tab switcher module on the Start Surface and New Tab Page.
+-->
+
 <!-- A tab switcher module in Start Surface and New Tab Page. -->
 <!-- We added the "app:layout_scrollFlags="scroll" in order to make the
 single tab card module scroll off instead of sticking at the top when we

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Clear browsing data button layout
+summary: Android layout for the filled Clear data delete button shown in the clear browsing data interface.
+-->
+
 <org.chromium.ui.widget.ButtonCompat xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/clear_button"
     style="@style/FilledButton"

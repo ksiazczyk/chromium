@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tablet theme style overrides for Chrome Android
+summary: Overrides Chromium theme styles for tablet layouts, setting the status bar color and making navigation bar dividers transparent for tabbed mode, window animation, dialog and fullscreen themes.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="Theme.Chromium.TabbedMode" parent="Base.Theme.Chromium.TabbedMode">
         <item name="android:statusBarColor">?attr/colorSurfaceContainerHighest</item>

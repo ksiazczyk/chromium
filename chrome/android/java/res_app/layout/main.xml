@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Chrome for Android main layout (main.xml)
+summary: Android layout for Chrome's main activity, defining the coordinator with compositor view, AR view holder, capture overlay, and view stubs for the custom tab handle, keyboard accessory, bottom bar, and tab modal dialogs.
+-->
+
 <!-- LINT.IfChange -->
 <merge
     xmlns:android="http://schemas.android.com/apk/res/android"

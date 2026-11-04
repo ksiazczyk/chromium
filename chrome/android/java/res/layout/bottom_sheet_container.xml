@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!-- Container for a bottom sheet in Activity layout. -->
+
+<!--docerion
+type: source
+title: Bottom sheet container layout
+summary: Android layout defining a full-size FrameLayout container that hosts a bottom sheet within an activity.
+-->
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

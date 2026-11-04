@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Bookmark bar dimensions for 600dp screens
+summary: Defines minimum and maximum bookmark bar item widths used by Chrome for Android on 600dp-wide screens.
+-->
+
 <resources>
     <!-- Bookmark bar -->
     <dimen name="bookmark_bar_item_min_width">84dp</dimen>

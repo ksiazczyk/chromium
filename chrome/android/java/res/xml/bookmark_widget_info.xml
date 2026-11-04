@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Bookmark widget metadata
+summary: AppWidget provider XML describing the resizable bookmark list widget's minimum sizes, preview, initial layout and daily update period.
+-->
+
 <!-- Resizable widget displaying the user's bookmarks as a list with favicons. -->
 <appwidget-provider
     xmlns:android="http://schemas.android.com/apk/res/android"

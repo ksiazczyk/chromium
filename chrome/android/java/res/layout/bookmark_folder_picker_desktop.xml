@@ -4,6 +4,13 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Desktop bookmark folder picker layout
+summary: Android layout for the desktop-style bookmark folder picker with back and close buttons, a folder list, and a new folder action.
+-->
+
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

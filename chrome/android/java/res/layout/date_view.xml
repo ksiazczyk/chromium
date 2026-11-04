@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Date view layout
+summary: Minimal Android layout for a styled date TextView marked as an accessibility heading.
+-->
+
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/DateView"
     android:accessibilityHeading="true" />

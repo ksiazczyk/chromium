@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Color and color macro resources
+summary: Defines color values and macros for Chrome Android UI areas including menus, sign-in, find-in-page, settings, tab strip, and bookmark widgets.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Please see src/ui/android/java/res/values/colors.xml for the shared common colors. -->
 

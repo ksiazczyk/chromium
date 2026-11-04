@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android v33 text appearance styles
+summary: Defines TextAppearance styles for Android API 33+ in the Chrome resource overlay, setting the default font family and font feature settings.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!-- This style fully replaces, rather than merges with, the base
        TextAppearance in ui/android, so every item must be repeated here. -->

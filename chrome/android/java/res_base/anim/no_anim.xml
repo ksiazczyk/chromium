@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: No-anim translate animation resource
+summary: Defines a 250 ms Android translate animation with zero delta that performs no visible movement, used as a placeholder animation resource.
+-->
+
 <translate
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:fromXDelta="0"

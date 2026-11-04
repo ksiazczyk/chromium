@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Chrome adaptive launcher icon definition
+summary: Android adaptive icon XML that sets a white background, the layered app icon foreground, and a themed monochrome icon for the launcher.
+-->
+
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android" >
     <background android:drawable="@android:color/white"/>
     <foreground android:drawable="@mipmap/layered_app_icon"/>

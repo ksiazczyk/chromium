@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Themes and styles for Chrome Android
+summary: Defines application and activity themes, including window animations, status and navigation bar colors, fullscreen and translucent variants.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- TODO(huayinz): Move themes to another xml file. -->
     <!-- Application themes -->

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Google services preferences screen
+summary: Android preference screen defining Google Services settings toggles such as Chrome sign-in, usage and crash reports, URL-keyed data, search suggestions, and price tracking.
+-->
+
 <!-- Note: If a synced pref is added/removed from this file, the method
      |GetSyncedServicePrefNames| in
      chrome/browser/unified_consent/unified_consent_service_factory.cc has to be

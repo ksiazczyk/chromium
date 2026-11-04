@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Unit tests for the Android Java presubmit checks
+summary: Verifies the notification builder, alert dialog builder, and BundleUtils presubmit checks using mock input and output APIs to cover true and false positives.

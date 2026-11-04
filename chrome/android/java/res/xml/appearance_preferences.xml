@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Appearance preferences screen
+summary: Android preference screen XML for appearance settings covering theme, address bar, toolbar shortcut, bottom bar, bookmark bar, homepage and tab position.
+-->
+
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android">
 

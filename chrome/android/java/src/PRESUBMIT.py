@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for Android Java code
+# summary: Runs presubmit checks that ban new Notification.Builder and CompatibleAlertDialogBuilder usage and restrict BundleUtils.getIdentifierName calls in Android Java changes.
+# ---
+
 """Presubmit script for Android Java code.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

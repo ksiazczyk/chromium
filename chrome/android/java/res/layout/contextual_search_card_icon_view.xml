@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Contextual Search card icon view layout
+summary: Android layout defining an ImageView that displays the Contextual Search card icon in the search bar.
+-->
+
 <!-- Contextual Search image view to display a Contextual Card icon. -->
 <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/contextual_search_card_icon_view"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Improved bookmark folder view layout
+summary: Layout for the bookmark folder view with placeholder and preview images plus a child count badge container.
+-->
+
 <org.chromium.chrome.browser.bookmarks.ImprovedBookmarkFolderView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

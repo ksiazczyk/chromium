@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Night mode color resources for Chrome Android
+summary: Defines dark-theme color overrides for history navigation, scrollbar, settings search, and tab strip alert UI in Chrome for Android.
+-->
+
 <resources>
     <!-- History Navigation UI colors -->
     <color name="navigation_bubble_arrow">@android:color/white</color>

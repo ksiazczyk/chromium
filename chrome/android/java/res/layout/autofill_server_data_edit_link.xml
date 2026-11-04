@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Autofill Wallet data edit link layout
+summary: Android layout for a link that takes the user to manage their Wallet data from autofill settings.
+-->
+
 <!-- Layout for link that takes user to manage their Wallet data. -->
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/preference_click_target"
