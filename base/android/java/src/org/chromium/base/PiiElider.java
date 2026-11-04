@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PiiElider for eliding PII in log output
+// summary: Detects and elides sensitive data such as email addresses, URLs, intents, IP and MAC addresses in log messages using regex patterns.
+// ---
+
 package org.chromium.base;
 
 import android.text.TextUtils;

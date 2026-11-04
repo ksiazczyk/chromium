@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runnable that can be canceled
+// summary: Implements a Runnable that becomes a no-op after cancellation, not threadsafe and meant for canceling on the running thread only.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.BuildConfig;

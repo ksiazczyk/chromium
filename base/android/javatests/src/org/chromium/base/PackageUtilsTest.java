@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PackageUtilsTest
+// summary: Tests PackageUtils helpers, checking byte array to hex string conversion and SHA-256 certificate fingerprint retrieval for the current package.
+// ---
+
 package org.chromium.base;
 
 import static com.google.common.truth.Truth.assertThat;

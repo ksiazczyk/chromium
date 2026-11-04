@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mutable feature flag with safe default
+// summary: Feature flag that returns a safe default before native initialization and switches to the cached native value once it is loaded.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

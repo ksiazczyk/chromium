@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ValuesReturned: cached flag value tracking'
+// summary: Abstract Java class that caches values returned for cached flags and field trial parameters in synchronized maps, supports clearing for tests, and can dump values to SharedPreferences.
+// ---
+
 package org.chromium.base.cached_flags;
 
 import android.content.SharedPreferences;

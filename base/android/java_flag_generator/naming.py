@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Java naming utilities for the flag generator
+# summary: Parses fully-qualified Java class names, derives the FeatureMap class for each parsed source, and validates generated class and nested class names for clashes and reserved type shadowing.
+# ---
+
 """Java naming: class_name parsing, FeatureMap derivation, clash checks."""
 
 import re

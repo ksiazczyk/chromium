@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenStateReceiver broadcast receiver for screen on and off
+// summary: Singleton BroadcastReceiver that notifies registered observers about screen on and off events and registers itself asynchronously on a task runner.
+// ---
+
 package org.chromium.base;
 
 import android.content.BroadcastReceiver;

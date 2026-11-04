@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileUtils helpers for file operations
+// summary: Helper methods for recursive file deletion, directory sizes, stream copying and atomic file writes, with some JNI support.
+// ---
+
 package org.chromium.base;
 
 import android.content.ContentResolver;

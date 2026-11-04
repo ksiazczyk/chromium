@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BinderCallsListenerTest
+// summary: Verifies that BinderCallsListener can be installed and observes framework binder transactions, reporting onTransactStarted and onTransactEnded actions.
+// ---
+
 package org.chromium.base;
 
 import android.app.ActivityManager;

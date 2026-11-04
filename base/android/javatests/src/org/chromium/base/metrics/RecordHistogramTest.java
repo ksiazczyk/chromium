@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecordHistogramTest
+// summary: JUnit tests for the Java API for recording UMA histograms, covering boolean, enumerated, and count histogram recording via HistogramDelta checks.
+// ---
+
 package org.chromium.base.metrics;
 
 import androidx.test.filters.SmallTest;

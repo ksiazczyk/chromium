@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java command line implementation mirroring base/command_line.h
+// summary: Simulates command line arguments on Android by reading a file at startup, starting with a Java map and switching to a native JNI implementation.
+// ---
+
 package org.chromium.base;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

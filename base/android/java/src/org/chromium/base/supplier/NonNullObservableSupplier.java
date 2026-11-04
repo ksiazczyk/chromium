@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NonNullObservableSupplier
+// summary: Interface for an observable supplier whose value is never null, extending MonotonicObservableSupplier with non-null observer convenience defaults.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.Callback;

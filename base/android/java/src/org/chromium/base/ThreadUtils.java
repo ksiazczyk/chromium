@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadUtils threading helpers and thread checker
+// summary: Helper class for threading tasks, including a ThreadChecker for asserting calls happen on the constructing thread and UI thread handler management.
+// ---
+
 package org.chromium.base;
 
 import android.os.Handler;

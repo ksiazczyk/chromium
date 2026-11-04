@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EarlyTraceEventTest
+// summary: Tests EarlyTraceEvent recording of synchronous and asynchronous trace events, including begin/end pairs, try-with-resources usage and event timing data.
+// ---
+
 package org.chromium.base;
 
 import android.os.Process;

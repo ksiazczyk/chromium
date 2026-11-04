@@ -1,0 +1,4 @@
+# Docerion header of IChildProcessArgs.aidl.
+type: source
+title: IChildProcessArgs.aidl child process arguments parcelable
+summary: AIDL parcelable carrying the arguments used to set up a child process, such as command line, file descriptors, and device information.

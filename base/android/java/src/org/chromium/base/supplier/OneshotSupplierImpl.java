@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneshotSupplierImpl
+// summary: Concrete OneshotSupplier implementation backed by a Promise that supplies a single value once and notifies registered callbacks, with thread checks enforced.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.Callback;

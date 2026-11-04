@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password echo setting delegate interface
+// summary: Delegate interface for password echo settings that exposes physical and touch keyboard settings and registers change callbacks.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

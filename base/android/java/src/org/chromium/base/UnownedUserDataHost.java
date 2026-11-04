@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnownedUserDataHost weak container
+// summary: Type-safe heterogeneous container that holds UnownedUserData values via weak references, keyed by UnownedUserDataKey, with destroy support and single-thread usage requirements.
+// ---
+
 package org.chromium.base;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

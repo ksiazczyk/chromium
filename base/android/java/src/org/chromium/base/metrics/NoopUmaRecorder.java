@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'NoopUmaRecorder: empty UMA recorder'
+// summary: Empty UmaRecorder implementation that discards all recorded metrics and returns zero counts or empty sample lists.
+// ---
+
 package org.chromium.base.metrics;
 
 import org.chromium.base.Callback;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChainedTasksTest
+// summary: JUnit tests for ChainedTasks covering coalesced and asynchronous chained task execution on the UI thread, including ordering and non-blocking behavior.
+// ---
+
 package org.chromium.base.task;
 
 import androidx.test.filters.SmallTest;

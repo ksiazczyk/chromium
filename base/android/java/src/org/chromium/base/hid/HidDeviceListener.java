@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HidDeviceListener intermediary interface for Android HID API
+// summary: Declares an intermediary Java interface wrapping android.hardware.hid.HidDeviceListener with callbacks for HID device addition and removal.
+// ---
+
 package org.chromium.base.hid;
 
 import org.chromium.build.annotations.NullMarked;

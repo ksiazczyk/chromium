@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerMonitor Java integration for power status
+// summary: Integrates the native PowerMonitor with Java, tracking battery and external power status and collecting system health power readings.
+// ---
+
 package org.chromium.base;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

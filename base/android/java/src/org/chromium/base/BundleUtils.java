@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for Android app bundles and split APKs
+// summary: Provides helpers for working with Android app bundles, including split installation checks, split APK paths, and isolated split class loaders.
+// ---
+
 package org.chromium.base;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaExceptionReporter
+// summary: Uncaught exception handler that reports Java crashes and sanitized stack traces as minidumps through the native crash reporting pipeline.
+// ---
+
 package org.chromium.base;
 
 import android.os.DeadSystemException;

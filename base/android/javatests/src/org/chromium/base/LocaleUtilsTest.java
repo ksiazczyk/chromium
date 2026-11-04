@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocaleUtilsTest
+// summary: Tests LocaleUtils language and locale mapping between Chromium and Android conventions, such as updating iw to he, in to id and tl to fil.
+// ---
+
 package org.chromium.base;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'UmaRecorder: interface for recording UMA metrics'
+// summary: Common interface for recording UMA histograms and user actions, including testing methods for histogram counts, samples and user action callbacks.
+// ---
+
 package org.chromium.base.metrics;
 
 import com.google.errorprone.annotations.DoNotMock;

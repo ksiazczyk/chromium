@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection between the browser and a child service
+// summary: Manages a connection between the browser activity and a child service, with callbacks for process start, connection setup and process death.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

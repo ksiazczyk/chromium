@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Queue batching Android service binding requests
+// summary: Singleton queue that batches rebind and unbind requests and flushes them through Context.updateServiceBindings to improve performance.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import android.content.Context;

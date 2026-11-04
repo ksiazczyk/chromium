@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'LoaderErrors: library loader failure codes'
+// summary: IntDef annotation defining the possible LibraryLoader failure codes, from normal completion to JNI registration, load, version, and startup failures.
+// ---
+
 package org.chromium.base.library_loader;
 
 import androidx.annotation.IntDef;

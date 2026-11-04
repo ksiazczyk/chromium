@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnguessableToken Parcelable value class
+// summary: Final value class mirroring native unguessable_token.h that wraps two longs, implements Parcelable for binder transfer, and refuses empty tokens when unparceled.
+// ---
+
 package org.chromium.base;
 
 import android.os.Parcel;

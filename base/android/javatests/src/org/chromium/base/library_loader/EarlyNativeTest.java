@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Early JNI initialization tests
+// summary: JUnit tests verifying early JNI initialization, including LibraryLoader ensureInitialized and resetForTesting behavior in Chromium's base library loader.
+// ---
+
 package org.chromium.base.library_loader;
 
 import androidx.test.filters.SmallTest;

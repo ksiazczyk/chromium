@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneshotSupplier
+// summary: Interface for a supplier wrapping an asynchronously provided non-null object, notifying observers a single time when the dependency becomes available.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.Callback;

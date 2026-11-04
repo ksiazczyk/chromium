@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Generator Shared Data and Error Types
+# summary: Defines the shared dataclasses and the GeneratorError type used across the java_flag_generator stages.
+# ---
+
 """Data and error types shared by the java_flag_generator stages."""
 
 import dataclasses

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenBase abstract class for token types
+// summary: Abstract base class for Token and UnguessableToken that stores high and low long values and provides equality and hashing, with JNI accessors for serialization.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildServiceConnectionImpl service binding implementation
+// summary: Implementation of ChildServiceConnection that actually binds and unbinds an Android service, including group importance updates and rebinding.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import android.content.ComponentName;

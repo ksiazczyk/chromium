@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Two-argument callback interface
+// summary: Defines a functional interface for callbacks that receive two results, with a JNI helper for native invocation.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.CalledByNative;

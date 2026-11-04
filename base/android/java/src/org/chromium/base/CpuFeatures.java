@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU feature queries via JNI
+// summary: Wraps the native NDK cpufeatures library so Java can read the CPU core count and feature mask, since sandboxed renderer processes cannot query /proc themselves.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.JNINamespace;

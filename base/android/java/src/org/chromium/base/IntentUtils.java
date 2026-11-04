@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentUtils
+// summary: Utilities for safely reading Intent and Bundle extras without unparceling exceptions, plus helpers for building common intents and referrer handling.
+// ---
+
 package org.chromium.base;
 
 import android.app.PendingIntent;

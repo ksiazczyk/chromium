@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadioUtils for device radio information
+// summary: Exposes radio information such as Wi-Fi connectivity and cell signal level to native code after checking the required network permissions.
+// ---
+
 package org.chromium.base;
 
 import android.Manifest;

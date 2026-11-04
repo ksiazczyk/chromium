@@ -1,0 +1,4 @@
+# Docerion header of java_flag_generator.pydeps.
+type: config
+title: Java Flag Generator Python Dependencies
+summary: Lists the Python module dependencies of the generator script for the build's pydeps checking.

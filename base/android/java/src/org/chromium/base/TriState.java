@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TriState IntDef annotation
+// summary: IntDef annotation defining tri-state boolean constants NOT_SET, FALSE, and TRUE as a type-safe replacement for nullable Boolean values.
+// ---
+
 package org.chromium.base;
 
 import androidx.annotation.IntDef;

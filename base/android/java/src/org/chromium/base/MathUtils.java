@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'MathUtils: math helpers for Chrome mobile'
+// summary: Supplies math utilities such as clamping, positive modulo, interpolation, and smoothstep easing used throughout Chrome mobile.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

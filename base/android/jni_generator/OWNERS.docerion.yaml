@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS list for jni_generator
+summary: Lists the Chromium developers who own and review changes to the jni_generator directory.

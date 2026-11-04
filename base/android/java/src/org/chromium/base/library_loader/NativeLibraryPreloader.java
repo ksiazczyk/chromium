@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeLibraryPreloader
+// summary: Abstract interface for preloading the native library via dlopen before the Chromium command line is known, without running Chromium code.
+// ---
+
 package org.chromium.base.library_loader;
 
 import org.chromium.build.annotations.NullMarked;

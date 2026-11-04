@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileProviderUtils for content URI access
+// summary: Utility that translates files into content provider URIs through a pluggable FileProviderUtil implementation.
+// ---
+
 package org.chromium.base;
 
 import android.net.Uri;

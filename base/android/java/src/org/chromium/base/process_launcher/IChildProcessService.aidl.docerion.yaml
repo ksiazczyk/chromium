@@ -1,0 +1,4 @@
+# Docerion header of IChildProcessService.aidl.
+type: source
+title: IChildProcessService.aidl child process service interface
+summary: AIDL interface for the child process service covering bindToCaller, connection setup, force kill, self freeze, stack dumps, and RELRO info.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UmaRecorderHolder
+// summary: Holds the CachingUmaRecorder used by RecordHistogram and manages switching between non-native delegates and the native UMA recorder on library load.
+// ---
+
 package org.chromium.base.metrics;
 
 import org.chromium.build.annotations.NullMarked;

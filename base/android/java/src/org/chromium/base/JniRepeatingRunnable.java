@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JniRepeatingRunnable interface
+// summary: Interface combining Runnable and Destroyable for a repeating JNI callback that must be destroyed when done to avoid a native leak.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.base.lifetime.Destroyable;

@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: C++ Lexing Helpers
+# summary: Provides minimal C++ lexing helpers that produce code and structure views of a file with comments and string literal contents blanked out.
+# ---
+
 """Minimal C++ lexing helpers."""
 
 import re

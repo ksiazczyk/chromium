@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for a connection to an Android service
+// summary: Package-private interface representing a connection to an Android service, supporting bind, unbind, group importance updates and rebinds, mockable in tests.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import org.chromium.build.annotations.NullMarked;

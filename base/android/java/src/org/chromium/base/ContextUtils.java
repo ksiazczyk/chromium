@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android application context utilities
+// summary: Holds the application-wide Android context and offers helpers for shared preferences, context unwrapping, and initialization during startup.
+// ---
+
 package org.chromium.base;
 
 import android.app.Activity;

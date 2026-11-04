@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line initialization utility for Android
+// summary: Initializes the Chromium command line on Android, choosing between a protected system path and a debug-app path depending on ADB state, build type, and embedder overrides.
+// ---
+
 package org.chromium.base;
 
 import android.content.Context;

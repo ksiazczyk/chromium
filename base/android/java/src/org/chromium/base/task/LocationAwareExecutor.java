@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Executor interface aware of the task call-site location
+// summary: Defines an Executor variant whose execute method accepts a Location so submitted work can be attributed to the code that initiated it.
+// ---
+
 package org.chromium.base.task;
 
 import org.chromium.build.annotations.NullMarked;

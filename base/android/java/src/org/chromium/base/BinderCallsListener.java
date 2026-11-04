@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binder calls listener for UI thread tracing
+// summary: Installs a listener for all UI thread Binder calls and adds a TraceEvent for each, relying on undocumented Android APIs.
+// ---
+
 package org.chromium.base;
 
 import android.os.Binder;

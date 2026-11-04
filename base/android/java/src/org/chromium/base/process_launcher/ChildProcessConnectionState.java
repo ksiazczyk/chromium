@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Detailed service binding connection state
+// summary: Value object holding detailed service binding flags such as waived, not perceptible, visible and strong, for debugging and metrics purposes.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import org.chromium.build.annotations.NullMarked;

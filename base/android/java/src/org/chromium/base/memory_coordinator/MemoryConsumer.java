@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumer interface for memory pressure callbacks
+// summary: Java interface that components implement to receive memory limit updates and to release memory exceeding their assigned limit when the coordinator requests it.
+// ---
+
 package org.chromium.base.memory_coordinator;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AssertsTest
+// summary: Checks that Java asserts behave correctly depending on the BuildConfig.ENABLE_ASSERTS setting, throwing AssertionErrors when enabled and being removed when disabled.
+// ---
+
 package org.chromium.base;
 
 import androidx.test.filters.SmallTest;

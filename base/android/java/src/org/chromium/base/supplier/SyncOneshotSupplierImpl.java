@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncOneshotSupplierImpl
+// summary: Concrete SyncOneshotSupplier implementation that invokes pending callbacks synchronously when the value is set, with single-thread access checks.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.Callback;

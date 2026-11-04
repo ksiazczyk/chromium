@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PostTaskTest
+// summary: JUnit tests for PostTask covering pre-native task posting, creation of sequenced and shared task runners, and synchronous and asynchronous exception handling.
+// ---
+
 package org.chromium.base.task;
 
 import static org.hamcrest.MatcherAssert.assertThat;

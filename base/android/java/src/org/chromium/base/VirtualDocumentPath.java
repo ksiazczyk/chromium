@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualDocumentPath
+// summary: Represents and operates on virtual paths for Android's Storage Access Framework, parsing and resolving SAF tree URIs with JNI-exposed results for native code.
+// ---
+
 package org.chromium.base;
 
 import android.content.ContentResolver;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for child process services
+// summary: Base class for child services that loads native libraries and runs the child main entry point, with manifest-declared subclasses per process.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

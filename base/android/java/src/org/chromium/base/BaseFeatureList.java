@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseFeatureList
+// summary: Defines static flags and parameters for base-level features such as service rebinding and virtual keyboard fixes, backed by the BaseFeatureMap singleton.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

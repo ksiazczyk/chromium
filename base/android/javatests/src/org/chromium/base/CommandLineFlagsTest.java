@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommandLineFlagsTest
+// summary: Tests the CommandLineFlags test annotation, checking that flags and feature switches added or removed at class and method level are reflected in the command line.
+// ---
+
 package org.chromium.base;
 
 import androidx.test.filters.SmallTest;

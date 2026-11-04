@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TriStateUtils conversion helpers
+// summary: Utility class with static methods for converting between primitive boolean, boxed Boolean, and TriState int values.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

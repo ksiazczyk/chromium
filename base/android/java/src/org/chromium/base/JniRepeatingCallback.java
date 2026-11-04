@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JniRepeatingCallback interface
+// summary: Interface for a repeating JNI callback wrapping a native base::RepeatingCallback that must be manually destroyed when no longer used.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.base.lifetime.Destroyable;

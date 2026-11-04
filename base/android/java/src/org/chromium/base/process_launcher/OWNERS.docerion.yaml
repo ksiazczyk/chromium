@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the code owners for the process_launcher directory and routes AIDL file reviews to the IPC security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flag base class for Java feature flags
+// summary: Abstract base class defining a feature flag in Java, with duplicate detection and test reset support for subclasses like CachedFlag.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.BuildConfig;

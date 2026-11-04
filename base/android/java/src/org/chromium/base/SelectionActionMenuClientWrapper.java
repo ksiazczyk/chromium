@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectionActionMenuClientWrapper interface for text selection menus
+// summary: Interface allowing clients to customize the text selection menu, including default item order, additional items, and filtering of text processing activities.
+// ---
+
 package org.chromium.base;
 
 import static java.lang.annotation.ElementType.TYPE_USE;

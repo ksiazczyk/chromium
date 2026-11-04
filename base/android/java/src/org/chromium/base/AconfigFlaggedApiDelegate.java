@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AconfigFlaggedApiDelegate
+// summary: Interface for calling unreleased Android APIs guarded by aconfig flags, with default no-op implementations for HID, content restriction, WebView zygote, and strict occlusion features.
+// ---
+
 package org.chromium.base;
 
 import android.content.ClipDescription;

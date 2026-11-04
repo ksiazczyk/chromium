@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserDataHost type-safe container
+// summary: Type-safe heterogeneous container that associates UserData objects with class tokens using strong references, enforcing single-thread access and clearing entries on destroy.
+// ---
+
 package org.chromium.base;
 
 import android.util.ArrayMap;

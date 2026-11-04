@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseObservableSupplierImpl
+// summary: Base class for singleton suppliers in ObservableSuppliers, implementing a stateless MonotonicObservableSupplier without observer support.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.Callback;

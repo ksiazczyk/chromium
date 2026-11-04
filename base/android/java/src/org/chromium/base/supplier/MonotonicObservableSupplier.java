@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MonotonicObservableSupplier
+// summary: Interface for an observable supplier that starts as null and is never set back to null, defining observer notification behaviors and transitive supplier helpers.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.Callback;

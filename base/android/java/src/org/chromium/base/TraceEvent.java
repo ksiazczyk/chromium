@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceEvent Java tracing API
+// summary: Java mirror of Chrome's trace event API that emits scoped and toplevel trace events via JNI, including Looper-based monitoring and early tracing before native library load.
+// ---
+
 package org.chromium.base;
 
 import android.app.Activity;

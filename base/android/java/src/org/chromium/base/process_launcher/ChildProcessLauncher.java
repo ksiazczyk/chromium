@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launcher that starts child processes via ChildProcessService
+// summary: Starts a child process by connecting to a ChildProcessService, with a delegate hook for customizing connection allocation and setup.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

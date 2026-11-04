@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ScopedSysTraceEvent: system trace sections before native init'
+// summary: AutoCloseable wrapper around android.os.Trace for tracing event sections before native initialization, truncating overlong section names to avoid crashes.
+// ---
+
 package org.chromium.base.metrics;
 
 import android.os.Trace;

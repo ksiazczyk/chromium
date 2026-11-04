@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Destroyable
+// summary: Interface for items that require a controlled clean up, declaring a destroy method to release held resources.
+// ---
+
 package org.chromium.base.lifetime;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LibraryPrefetcher
+// summary: Java entry point that triggers native library page prefetching for WebView by calling into the native prefetcher hooks.
+// ---
+
 package org.chromium.base.library_loader;
 
 import org.jni_zero.JNINamespace;

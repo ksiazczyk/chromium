@@ -1,0 +1,4 @@
+# Docerion header of java_flag_generator.py.
+type: source
+title: Java Flag Generator Main Script
+summary: Entry point that parses C++ feature lists, resolves feature definitions, and writes a srcjar containing the generated Java feature accessor class.

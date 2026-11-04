@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LifetimeAssert
+// summary: Asserts that clean-up logic has run before an object is garbage-collected, using phantom references and a reference queue to detect missed destruction.
+// ---
+
 package org.chromium.base.lifetime;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumerTraits describing consumer behavior
+// summary: Immutable traits object describing how a MemoryConsumer behaves, with factory methods for passive traits and packing of all trait enums into a 32-bit integer for JNI transfer.
+// ---
+
 package org.chromium.base.memory_coordinator;
 
 import org.jni_zero.CalledByNative;

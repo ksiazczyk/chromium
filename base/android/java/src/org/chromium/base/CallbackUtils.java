@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for working with callbacks
+// summary: Offers shared callback helpers such as a singleton no-op callback, an empty runnable, and adapting a runnable into a callback.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

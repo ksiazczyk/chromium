@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommandLineTest
+// summary: Tests command line parsing and mutation, including init switches, quoted values, appended switches and arguments, and the Java to native command line transition.
+// ---
+
 package org.chromium.base;
 
 import androidx.test.filters.MediumTest;

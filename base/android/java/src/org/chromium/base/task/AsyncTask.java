@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium version of android.os.AsyncTask
+// summary: Implements a Chromium variant of Android's AsyncTask for running background work and delivering results, with parallel and serial executors.
+// ---
+
 package org.chromium.base.task;
 
 import android.os.Binder;

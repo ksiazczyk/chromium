@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'RecordUserAction: Java API for UMA user actions'
+// summary: Static Java API for recording UMA user actions, requiring string literal action names documented in actions.xml.
+// ---
+
 package org.chromium.base.metrics;
 
 import org.chromium.base.TimeUtils;

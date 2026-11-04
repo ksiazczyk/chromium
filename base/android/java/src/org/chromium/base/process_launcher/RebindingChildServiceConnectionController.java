@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RebindingChildServiceConnectionController
+// summary: Controller that manages a ChildProcessConnection's bindings with a single service connection and the rebindService API on newer Android versions.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import android.content.Context;

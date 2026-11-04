@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Java Flag Generator OWNERS
+summary: Lists the owners responsible for reviewing changes to the java_flag_generator directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaUtils
+// summary: Utility offering throwUnchecked to rethrow checked exceptions without wrapping, reducing try/catch boilerplate and keeping stack traces clear.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

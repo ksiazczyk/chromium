@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for cached_flags
+summary: Directory metadata assigning the cached_flags package to the Internals>Flags monorail component, the clank-commons team, Android OS, and a Buganizer component.

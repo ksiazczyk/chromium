@@ -1,0 +1,4 @@
+# Docerion header of IRelroLibInfo.aidl.
+type: source
+title: IRelroLibInfo AIDL parcelable
+summary: Defines an AIDL parcelable carrying RELRO sharing data such as library path, load address and size, RELRO range, and an optional file descriptor.

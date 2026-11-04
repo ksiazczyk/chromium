@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObservableSuppliers
+// summary: Factory class providing methods to create nullable, monotonic and non-null observable suppliers plus convenience constants such as alwaysTrue and alwaysNull.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.build.annotations.NullMarked;

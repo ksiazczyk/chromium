@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnownedUserDataListener interface
+// summary: Interface whose onDetachedFromHost callback notifies values asynchronously when they are detached from an UnownedUserDataHost, for example on host destruction.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

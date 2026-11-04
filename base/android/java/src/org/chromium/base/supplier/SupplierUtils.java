@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupplierUtils
+// summary: Utility class for suppliers, including a barrier helper that runs a callback on the UI thread once all given suppliers have values.
+// ---
+
 package org.chromium.base.supplier;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRunnerImpl
+// summary: Core implementation of TaskRunner that buffers pre-native tasks, tracks pending tasks in Java to avoid overflowing the JNI global ref table, and migrates queued work to the native task runner when available.
+// ---
+
 package org.chromium.base.task;
 
 import static org.chromium.build.NullUtil.assumeNonNull;
