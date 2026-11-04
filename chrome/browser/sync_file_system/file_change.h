@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileChange and FileChangeList declarations
+// summary: Declares the FileChange class and FileChangeList that represent add-or-update and delete changes to synced files.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_FILE_CHANGE_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_FILE_CHANGE_H_
 

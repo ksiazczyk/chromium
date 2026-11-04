@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncAction enum
+// summary: Defines the SyncAction enum describing sync operations on files and directories, together with a helper returning its string form.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_ACTION_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_ACTION_H_
 

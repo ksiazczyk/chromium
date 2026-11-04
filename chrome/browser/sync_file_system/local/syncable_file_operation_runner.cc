@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syncable file operation runner implementation
+// summary: Queues pending file system operations and runs them when the sync status marks their target paths writable.
+// ---
+
 #include "chrome/browser/sync_file_system/local/syncable_file_operation_runner.h"
 
 #include <stddef.h>

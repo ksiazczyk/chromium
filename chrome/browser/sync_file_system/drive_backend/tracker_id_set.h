@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackerIDSet class for file tracker IDs
+// summary: Declares TrackerIDSet, a set of file tracker IDs that keeps one active tracker and supports insert, erase, activate and deactivate operations.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_DRIVE_BACKEND_TRACKER_ID_SET_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_DRIVE_BACKEND_TRACKER_ID_SET_H_
 

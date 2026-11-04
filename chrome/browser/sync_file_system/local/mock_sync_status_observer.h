@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSyncStatusObserver header
+// summary: Defines a gmock mock of LocalFileSyncStatus::Observer that records OnSyncEnabled and OnWriteEnabled callbacks for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_LOCAL_MOCK_SYNC_STATUS_OBSERVER_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_LOCAL_MOCK_SYNC_STATUS_OBSERVER_H_
 

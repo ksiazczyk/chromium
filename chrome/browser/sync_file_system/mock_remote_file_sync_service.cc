@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock remote file sync service implementation
+// summary: Implements stub behaviors for the mock remote file sync service, including origin registration and state handling.
+// ---
+
 #include "chrome/browser/sync_file_system/mock_remote_file_sync_service.h"
 
 #include <string>

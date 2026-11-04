@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AbortHelper implementation for CallbackTracker
+// summary: Implements the internal AbortHelper class, including weak pointer access and ownership transfer used by CallbackTracker.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/callback_tracker_internal.h"
 
 #include "chrome/browser/sync_file_system/drive_backend/callback_tracker.h"

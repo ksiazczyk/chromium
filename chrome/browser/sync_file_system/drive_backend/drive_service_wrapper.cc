@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveServiceWrapper implementation
+// summary: Implements DriveServiceWrapper, forwarding Drive service API calls to an underlying DriveServiceInterface with sequence checks.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/drive_service_wrapper.h"
 
 #include <string>

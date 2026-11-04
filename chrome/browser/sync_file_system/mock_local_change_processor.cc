@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock local change processor implementation
+// summary: Implements the gmock local change processor whose stub asynchronously posts a SYNC_STATUS_OK callback.
+// ---
+
 #include "chrome/browser/sync_file_system/mock_local_change_processor.h"
 
 #include "base/functional/bind.h"

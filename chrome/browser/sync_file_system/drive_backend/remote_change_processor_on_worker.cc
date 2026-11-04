@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote change processor on worker implementation
+// summary: Implements RemoteChangeProcessorOnWorker, which forwards remote change processing calls from the worker thread to RemoteChangeProcessorWrapper on the UI thread.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/remote_change_processor_on_worker.h"
 
 #include "base/functional/bind.h"

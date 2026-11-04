@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for bug tracking and team contact
+summary: Maps the directory to the Blink>Storage>FileSystem component, the storage-dev team email and a Buganizer component ID.

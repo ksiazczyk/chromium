@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local file change tracker implementation
+// summary: Implements tracking of local file changes for cloud-backed file systems in a LevelDB database.
+// ---
+
 #include "chrome/browser/sync_file_system/local/local_file_change_tracker.h"
 
 #include <stddef.h>

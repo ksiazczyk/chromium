@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncTaskManager unit tests
+// summary: Tests task scheduling, priority ordering, idle scheduling and background task limits of SyncTaskManager.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/sync_task_manager.h"
 
 #include <stdint.h>

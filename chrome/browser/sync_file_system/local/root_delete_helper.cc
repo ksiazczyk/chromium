@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootDeleteHelper implementation
+// summary: Implements RootDeleteHelper, which deletes a sync file system root, resets the change tracker, and reopens the file system.
+// ---
+
 #include "chrome/browser/sync_file_system/local/root_delete_helper.h"
 
 #include "base/functional/bind.h"

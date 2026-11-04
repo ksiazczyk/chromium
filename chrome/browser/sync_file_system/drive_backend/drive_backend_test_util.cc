@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive backend test utilities
+// summary: Implements test helpers that compare file details, metadata, and trackers, and create folder and file metadata for Drive backend tests.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/drive_backend_test_util.h"
 
 #include <set>

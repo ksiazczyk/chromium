@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UninstallAppTask implementation
+// summary: Implements the exclusive task that uninstalls an app by deleting its app root folder from Drive and unregistering it from the metadata database.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/uninstall_app_task.h"
 
 #include "base/functional/bind.h"

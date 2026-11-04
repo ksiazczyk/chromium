@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Register app task unit tests
+// summary: Unit tests for RegisterAppTask, using a fake Drive service to exercise app root folder creation and registration flows.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/register_app_task.h"
 
 #include <stddef.h>

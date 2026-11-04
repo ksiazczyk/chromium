@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register app task implementation
+// summary: Implements RegisterAppTask, an exclusive sync task that finds or creates an app root folder in Drive and registers it in the metadata database.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/register_app_task.h"
 
 #include <stdint.h>

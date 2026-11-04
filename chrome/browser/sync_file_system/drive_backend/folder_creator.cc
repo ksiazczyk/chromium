@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder creator implementation
+// summary: Creates a Drive folder under a parent, then searches and returns the oldest matching non-trashed folder ID while updating the metadata database.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/folder_creator.h"
 
 #include <stddef.h>

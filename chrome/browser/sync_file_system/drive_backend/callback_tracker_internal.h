@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal helpers for CallbackTracker
+// summary: Header declaring the internal AbortHelper and InvokeAndInvalidateHelper templates that support exactly-once callback invocation.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_DRIVE_BACKEND_CALLBACK_TRACKER_INTERNAL_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_DRIVE_BACKEND_CALLBACK_TRACKER_INTERNAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncServiceState enum
+// summary: Declares the SyncServiceState enum describing whether the sync service is running, needs authentication, is temporarily unavailable, or is disabled.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_SERVICE_STATE_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_SERVICE_STATE_H_
 

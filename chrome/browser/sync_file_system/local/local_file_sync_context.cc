@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local file sync context implementation
+// summary: Implements the shared context that bridges the local sync service with per-partition file system contexts and coordinates syncing.
+// ---
+
 #include "chrome/browser/sync_file_system/local/local_file_sync_context.h"
 
 #include <memory>

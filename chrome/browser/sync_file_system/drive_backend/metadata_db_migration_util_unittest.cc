@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metadata database migration utility unit tests
+// summary: Unit tests for the database migration utility, verifying the version 4 to 3 rollback keeps shared entries and removes version-4-only keys.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/metadata_db_migration_util.h"
 
 #include <memory>

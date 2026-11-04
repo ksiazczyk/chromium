@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Canned syncable file system implementation
+// summary: Implements a self-contained syncable file system with its own quota manager and file system context for use in tests.
+// ---
+
 #include "chrome/browser/sync_file_system/local/canned_syncable_file_system.h"
 
 #include <stddef.h>

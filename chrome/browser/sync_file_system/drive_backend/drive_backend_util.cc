@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive backend utility functions
+// summary: Implements Drive backend utilities for writing service metadata, file metadata, and trackers to the LevelDB database, and for mapping API error codes to sync status codes.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/drive_backend_util.h"
 
 #include <memory>

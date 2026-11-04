@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncAction to string conversion
+// summary: Converts SyncAction enum values such as none, added, updated and deleted into their string representations.
+// ---
+
 #include "chrome/browser/sync_file_system/sync_action.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDriveServiceWrapper and FakeDriveUploader implementation
+// summary: Implements FakeDriveServiceWrapper and FakeDriveUploader test doubles that can simulate directory and file conflicts.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/fake_drive_uploader.h"
 
 #include "base/check.h"

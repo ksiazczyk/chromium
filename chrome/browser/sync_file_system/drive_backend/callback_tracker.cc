@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallbackTracker implementation
+// summary: Implements CallbackTracker's AbortAll and PassAbortHelper, aborting pending callbacks when the tracker is destroyed.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/callback_tracker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracker ID set implementation
+// summary: Implements TrackerIDSet, a set of file tracker IDs that tracks the single active tracker and supports insert, erase, activate and deactivate operations.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/tracker_id_set.h"
 
 #include "base/check_op.h"

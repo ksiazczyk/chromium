@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the sync_file_system directory
+summary: Lists the reviewers responsible for changes in this directory, including an emeritus owner as last resort suggestion.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncStatusCode enum
+// summary: Declares the SyncStatusCode enum covering file, database and sync-specific error codes, with conversion helper declarations.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_STATUS_CODE_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_STATUS_CODE_H_
 

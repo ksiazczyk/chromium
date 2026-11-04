@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubtreeSet container header
+// summary: Declares SubtreeSet, a container of disjoint subtrees of a directory tree with operations to test disjointness, insert and erase subtrees.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_SUBTREE_SET_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_SUBTREE_SET_H_
 

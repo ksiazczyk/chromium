@@ -4,6 +4,12 @@
 //
 // Protocol buffer definitions for Drive backend of Syncable FileSystem.
 
+// ---docerion
+// type: source
+// title: Metadata database protocol buffer definitions
+// summary: Defines the protobuf messages ServiceMetadata, FileDetails, FileMetadata, and FileTracker used by the Drive backend of Syncable FileSystem.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

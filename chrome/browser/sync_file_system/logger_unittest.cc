@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Logger unit tests
+// summary: Tests that the sync file system log history records events per severity and that ClearLog empties it.
+// ---
+
 #include "chrome/browser/sync_file_system/logger.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metadata database on-disk index unit tests
+// summary: Unit tests for the on-disk MetadataDatabase index, exercising tracker and metadata lookups against an in-memory LevelDB environment.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/metadata_database_index_on_disk.h"
 
 #include <stdint.h>

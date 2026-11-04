@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Local sync file system dependency rules
+summary: DEPS rule that blocks the local sync backend from including the remote drive backend.

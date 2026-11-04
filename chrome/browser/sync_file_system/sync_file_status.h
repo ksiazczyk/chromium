@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncFileStatus enum for file sync states
+// summary: Defines the SyncFileStatus enum with unknown, synced, pending-changes, and conflicting states for files in the sync file system.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_FILE_STATUS_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_FILE_STATUS_H_
 

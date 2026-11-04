@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the sync_file_system target
+summary: Defines the sync_file_system source set, listing its public headers and source files for the Chrome sync file system implementation.

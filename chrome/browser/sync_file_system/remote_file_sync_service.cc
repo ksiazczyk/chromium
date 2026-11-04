@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteFileSyncService factory implementation
+// summary: Creates the drive backend SyncEngine as the RemoteFileSyncService for a browser context and appends its dependent keyed service factories.
+// ---
+
 #include "chrome/browser/sync_file_system/remote_file_sync_service.h"
 
 #include "chrome/browser/sync_file_system/drive_backend/sync_engine.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConflictResolutionPolicy enum for sync file conflicts
+// summary: Declares the ConflictResolutionPolicy enum with unknown, last-write-wins and manual resolution options for sync file system conflicts.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_CONFLICT_RESOLUTION_POLICY_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_CONFLICT_RESOLUTION_POLICY_H_
 

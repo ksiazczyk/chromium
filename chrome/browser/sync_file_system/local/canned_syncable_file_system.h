@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CannedSyncableFileSystem test helper header
+// summary: Declares the canned syncable file system test helper with setup, teardown and file operation routines.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_LOCAL_CANNED_SYNCABLE_FILE_SYSTEM_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_LOCAL_CANNED_SYNCABLE_FILE_SYSTEM_H_
 

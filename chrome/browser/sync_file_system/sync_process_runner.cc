@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncProcessRunner implementation
+// summary: Implements sync scheduling with state-dependent delays, throttling and exponential backoff based on pending changes and service state.
+// ---
+
 #include "chrome/browser/sync_file_system/sync_process_runner.h"
 
 #include <memory>

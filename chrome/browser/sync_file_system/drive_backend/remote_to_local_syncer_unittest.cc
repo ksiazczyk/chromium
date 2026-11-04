@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote to local syncer unit tests
+// summary: Unit tests for RemoteToLocalSyncer using a fake Drive service, fake remote change processor and an in-memory metadata database.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/remote_to_local_syncer.h"
 
 #include <map>

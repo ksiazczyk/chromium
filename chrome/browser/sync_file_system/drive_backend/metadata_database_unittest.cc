@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metadata database unit tests
+// summary: Unit tests for MetadataDatabase, covering metadata and tracker storage, service metadata, and both in-memory and on-disk index implementations.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/metadata_database.h"
 
 #include <stdint.h>

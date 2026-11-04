@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubtreeSet implementation
+// summary: Implements the SubtreeSet container that stores disjoint directory subtrees with insert, erase, size and disjointness checks over normalized file paths.
+// ---
+
 #include "chrome/browser/sync_file_system/subtree_set.h"
 
 #include "base/check_op.h"

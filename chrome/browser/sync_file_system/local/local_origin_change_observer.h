@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalOriginChangeObserver interface
+// summary: Declares the LocalOriginChangeObserver interface that is notified when local changes become available in one or more origins.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_LOCAL_LOCAL_ORIGIN_CHANGE_OBSERVER_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_LOCAL_LOCAL_ORIGIN_CHANGE_OBSERVER_H_
 

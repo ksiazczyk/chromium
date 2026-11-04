@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync status code helpers
+// summary: Implements string conversion for sync status codes and mappings between LevelDB statuses, base file errors, and sync status codes.
+// ---
+
 #include "chrome/browser/sync_file_system/sync_status_code.h"
 
 #include "base/notreached.h"

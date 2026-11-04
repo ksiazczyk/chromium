@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncFileSystemBackend unit tests
+// summary: Parameterized tests verifying that only chrome-extension origins may open the syncable file system and create file system operations.
+// ---
+
 #include "chrome/browser/sync_file_system/local/sync_file_system_backend.h"
 
 #include <memory>

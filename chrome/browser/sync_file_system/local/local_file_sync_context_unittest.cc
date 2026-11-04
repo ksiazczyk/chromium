@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local file sync context unit tests
+// summary: Tests LocalFileSyncContext behavior in multi-thread and multi-file-system-context environments.
+// ---
+
 #include "chrome/browser/sync_file_system/local/local_file_sync_context.h"
 
 #include <stdint.h>

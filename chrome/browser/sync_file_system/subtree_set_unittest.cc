@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SubtreeSet unit tests
+// summary: Unit tests verifying insert, erase and size behavior of the SubtreeSet container when managing disjoint directory subtrees.
+// ---
+
 #include "chrome/browser/sync_file_system/subtree_set.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

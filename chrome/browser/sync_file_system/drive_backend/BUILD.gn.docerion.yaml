@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the drive backend sync file system
+summary: GN build file defining the sync_file_system_drive_proto protobuf library target for metadata_database.proto.

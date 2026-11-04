@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncDirection enum for file synchronization
+// summary: Defines the SyncDirection enum with none, local-to-remote, and remote-to-local values used by the sync file system code.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_DIRECTION_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_DIRECTION_H_
 

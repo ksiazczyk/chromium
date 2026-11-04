@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote change processor wrapper implementation
+// summary: Implements RemoteChangeProcessorWrapper, delegating remote change operations to the underlying RemoteChangeProcessor.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/remote_change_processor_wrapper.h"
 
 #include "base/functional/callback.h"

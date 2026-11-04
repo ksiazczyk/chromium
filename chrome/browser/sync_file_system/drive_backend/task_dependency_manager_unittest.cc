@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task dependency manager unit tests
+// summary: Unit tests verifying TaskDependencyManager conflict detection for ancestor and descendant paths, exclusive tasks and permissive null blockers.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/task_dependency_manager.h"
 
 #include "base/files/file_path.h"

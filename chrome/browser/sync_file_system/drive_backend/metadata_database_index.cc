@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory metadata database index
+// summary: Implements the in-memory variant of the metadata database index, reading and indexing LevelDB contents for fast lookups.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/metadata_database_index.h"
 
 #include <tuple>

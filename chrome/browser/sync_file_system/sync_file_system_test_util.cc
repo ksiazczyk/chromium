@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync file system test utilities
+// summary: Provides test helper callbacks that assign results and quit run loops for sync status codes and API error codes in sync file system tests.
+// ---
+
 #include "chrome/browser/sync_file_system/sync_file_system_test_util.h"
 
 #include <memory>

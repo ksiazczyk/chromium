@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync file system backend implementation
+// summary: Implements the syncable file system backend for Chrome profiles, restricting access to extension origins and wiring up change tracking and the sync context.
+// ---
+
 #include "chrome/browser/sync_file_system/local/sync_file_system_backend.h"
 
 #include <string>
