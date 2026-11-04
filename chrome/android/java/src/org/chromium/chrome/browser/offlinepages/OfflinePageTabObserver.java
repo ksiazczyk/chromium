@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageTabObserver
+// summary: Tab and network observer that watches tabs showing offline pages and shows a reload snackbar when connectivity returns.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import static org.chromium.build.NullUtil.assertNonNull;

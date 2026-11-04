@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionBlockedDialog
+// summary: Android modal dialog shown from the manage button of the quiet permission prompt, guiding users to site settings for notifications and geolocation.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import static org.chromium.build.NullUtil.assertNonNull;

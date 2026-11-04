@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PaymentUiService: coordinator of the Android payment request UI'
+// summary: Implements the service that drives the Chrome Android payment request UI, coordinating autofill profiles, payment apps, sections, editors, metrics, and UI lifecycle.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import static org.chromium.build.NullUtil.assertNonNull;

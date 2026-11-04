@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler view binder
+// summary: Stateless binder that maps payment handler property model changes, like content height and back press callback, to the corresponding view updates.
+// ---
+
 package org.chromium.chrome.browser.payments.handler;
 
 import org.chromium.build.annotations.NullMarked;

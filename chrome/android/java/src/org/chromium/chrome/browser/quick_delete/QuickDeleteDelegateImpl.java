@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickDeleteDelegateImpl
+// summary: Chrome implementation of the quick delete delegate that clears browsing data and triggers the tab switcher delete animation.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import org.chromium.build.annotations.NullMarked;

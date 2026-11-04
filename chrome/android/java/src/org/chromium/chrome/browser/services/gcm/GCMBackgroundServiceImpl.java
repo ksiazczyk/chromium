@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCMBackgroundServiceImpl
+// summary: Background service implementation that validates and dispatches high-priority GCM messages to the GCM Driver, launched even when Chrome is not running.
+// ---
+
 package org.chromium.chrome.browser.services.gcm;
 
 import android.content.Intent;

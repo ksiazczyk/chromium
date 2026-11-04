@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main settings fragment
+// summary: Builds the top-level Chrome Android settings preference list, handling sign-in, sync, search indexing, and related entries.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsPrinter
+// summary: Printable wrapper around WebContents that initiates, executes, and finishes printing through JNI, with support for printing only the current selection.
+// ---
+
 package org.chromium.chrome.browser.printing;
 
 import android.text.TextUtils;

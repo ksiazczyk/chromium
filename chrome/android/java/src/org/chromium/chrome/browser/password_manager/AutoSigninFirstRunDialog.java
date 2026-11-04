@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto sign-in first run experience dialog
+// summary: Shows a first-run dialog explaining the auto sign-in feature, letting the user continue or turn the feature off, instead of the usual snackbar.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

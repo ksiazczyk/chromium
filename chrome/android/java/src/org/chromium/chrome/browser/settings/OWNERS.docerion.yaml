@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the settings directory
+summary: Lists default and fallback reviewers for code changes in the Chrome Android settings directory.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the status indicator folder
+summary: Points to the shared COMMON_METADATA mixin so the status indicator directory inherits its tracking and ownership metadata.

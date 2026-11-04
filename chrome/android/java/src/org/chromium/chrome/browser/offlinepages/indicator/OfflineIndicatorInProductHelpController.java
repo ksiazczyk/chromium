@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineIndicatorInProductHelpController
+// summary: Java controller that shows in-product help for the offline indicator after its show animation, anchoring a bubble to the menu button and highlighting the downloads item.
+// ---
+
 package org.chromium.chrome.browser.offlinepages.indicator;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacySyncPromoView
+// summary: Android view that shows the next step a user must complete to start syncing data such as Recent Tabs or Bookmarks.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import static org.chromium.build.NullUtil.assertNonNull;

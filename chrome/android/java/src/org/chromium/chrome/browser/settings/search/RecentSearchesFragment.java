@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent searches fragment for Settings Search
+// summary: Fragment that displays recently searched and chosen settings entries with a delete action.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

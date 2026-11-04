@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PdfPageIphController: PDF page in-product-help controller'
+// summary: Manages in-product-help messages for PDF pages, showing download IPH anchored to the toolbar menu button when PDFs open inline.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

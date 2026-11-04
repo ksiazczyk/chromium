@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabPrinter
+// summary: Printable wrapper around a Tab that provides printing functionality, including selection-only printing, and bridges to the native printing layer via JNI.
+// ---
+
 package org.chromium.chrome.browser.printing;
 
 import static org.chromium.components.embedder_support.util.UrlConstants.CONTENT_SCHEME;

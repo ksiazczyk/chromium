@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto sign-in snackbar controller
+// summary: Displays the auto sign-in snackbar after a Credential Management API request and dismisses it when the tab is hidden, destroyed or crashes.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PublishPageCallback
+// summary: Callback invoked when offline page publishing completes, updating the page's file path and continuing the sharing flow.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import org.jni_zero.CalledByNative;

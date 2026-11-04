@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeThinWebViewPrintingController
+// summary: Chrome implementation of ThinWebViewPrintingController that checks whether printing is supported for web contents and starts the print flow via the printing controller.
+// ---
+
 package org.chromium.chrome.browser.printing;
 
 import android.app.Activity;

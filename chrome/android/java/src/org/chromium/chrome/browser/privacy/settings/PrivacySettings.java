@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy and security settings fragment
+// summary: Main Android settings fragment for the Privacy and Security page, wiring preferences like Safe Browsing, secure DNS, cookies, incognito lock, and Safety Hub.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

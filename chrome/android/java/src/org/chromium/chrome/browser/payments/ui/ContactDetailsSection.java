@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact details section data for the payment request UI
+// summary: Builds the contact details section of the payment request UI from autofill profiles and keeps its contact items and selection up to date.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import android.content.Context;

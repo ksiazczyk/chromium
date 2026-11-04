@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the provider directory
+summary: Chromium DEPS rule file restricting PageContentProviderImpl and its unit test to the PageContentProtoProviderBridge dependency.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self share target activity
+// summary: Translucent Android activity that handles the Send Tab to Self direct share target intent by asynchronously initializing the native library, delegating the intent to OtherDevicesShortcutController, and finishing.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import android.content.Intent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account chooser dialog for saved credentials
+// summary: Android dialog that lets the user pick one of several saved credentials to sign in to a site and reports the choice to the native counterpart.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

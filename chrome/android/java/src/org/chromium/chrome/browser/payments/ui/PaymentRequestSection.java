@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base section view of the payment request UI
+// summary: Abstract linear layout for a single payment request section that flips between normal, expandable and focused display states and hosts main content, logo and chevron.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

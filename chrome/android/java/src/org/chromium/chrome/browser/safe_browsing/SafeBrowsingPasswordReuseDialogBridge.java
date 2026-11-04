@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Safe Browsing password reuse dialog bridge
+// summary: JNI bridge between native and Java code that shows the password reuse dialog on Android.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import static org.chromium.build.NullUtil.assertNonNull;

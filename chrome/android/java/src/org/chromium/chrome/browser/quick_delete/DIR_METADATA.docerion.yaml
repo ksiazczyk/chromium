@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Quick delete DIR_METADATA
+summary: Directory metadata file that applies the common quick delete metadata mixin to this folder.

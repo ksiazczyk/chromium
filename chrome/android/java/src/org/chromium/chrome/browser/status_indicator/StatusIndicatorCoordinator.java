@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status indicator coordinator
+// summary: Coordinates the persistent status indicator shown below the status bar, such as an offline notice, and implements the TopControlLayer interface.
+// ---
+
 package org.chromium.chrome.browser.status_indicator;
 
 import android.app.Activity;

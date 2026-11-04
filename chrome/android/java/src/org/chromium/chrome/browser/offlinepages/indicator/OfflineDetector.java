@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineDetector
+// summary: Java class that detects when the network is offline and waits for the connection to stabilize before notifying observers, with tunable wait durations.
+// ---
+
 package org.chromium.chrome.browser.offlinepages.indicator;
 
 import android.content.Context;

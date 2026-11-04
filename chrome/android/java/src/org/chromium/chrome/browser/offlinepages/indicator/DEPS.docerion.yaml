@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Defines include rules for the offline pages indicator directory, allowing dependencies on the Chrome user education Java sources.

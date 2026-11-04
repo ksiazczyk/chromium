@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Contents model for password manager modal dialogs
+// summary: Holds the title, details, illustration, button texts and callbacks that customize a password manager modal dialog.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 

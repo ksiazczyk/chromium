@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome-specific PaymentRequest service implementation
+// summary: Implements the Clank-specific parts of the PaymentRequest API, handling payment apps, Secure Payment Confirmation, metrics, and payment UI delegation.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static org.chromium.build.NullUtil.assertNonNull;

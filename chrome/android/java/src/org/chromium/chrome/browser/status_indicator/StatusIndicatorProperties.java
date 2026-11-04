@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status indicator properties
+// summary: Defines the PropertyModel property keys for the status indicator, covering text, icon, visibility, colors, height, and obscured state.
+// ---
+
 package org.chromium.chrome.browser.status_indicator;
 
 import android.graphics.drawable.Drawable;

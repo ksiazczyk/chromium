@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePageInfo
+// summary: Helper class that shows the page info dialog for Chrome on Android, wiring suppliers for dialogs, ephemeral tabs and tab creation.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import android.app.Activity;

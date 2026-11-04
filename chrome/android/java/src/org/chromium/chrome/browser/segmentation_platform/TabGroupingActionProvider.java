@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupingActionProvider
+// summary: Action provider that supplies the tab grouping signal for the adaptive toolbar and notifies the group suggestions button controller, skipping tablet UI.
+// ---
+
 package org.chromium.chrome.browser.segmentation_platform;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

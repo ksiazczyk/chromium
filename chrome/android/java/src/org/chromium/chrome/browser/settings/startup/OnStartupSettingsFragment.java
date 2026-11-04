@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnStartupSettingsFragment
+// summary: Android settings fragment that lets users configure Chrome's on-startup behavior, including startup type and startup page URLs.
+// ---
+
 package org.chromium.chrome.browser.settings.startup;
 
 import static org.chromium.build.NullUtil.assertNonNull;

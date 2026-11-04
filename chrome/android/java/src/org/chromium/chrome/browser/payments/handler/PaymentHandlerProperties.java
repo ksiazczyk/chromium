@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler UI properties
+// summary: Defines the property keys that fully describe the payment handler UI state, such as visible content height and the back press callback.
+// ---
+
 package org.chromium.chrome.browser.payments.handler;
 
 import org.chromium.build.annotations.NullMarked;

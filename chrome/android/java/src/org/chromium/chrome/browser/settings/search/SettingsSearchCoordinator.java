@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings Search coordinator
+// summary: Coordinator managing the Settings Search UI, including the search box, transitions, fragment navigation, and result handling.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import static androidx.annotation.VisibleForTesting.PRIVATE;

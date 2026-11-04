@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome custom share action
+// summary: Defines a custom action with key, icon, label and runnable that providers can supply to the Android share sheet via ShareHelper.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import android.graphics.drawable.Icon;

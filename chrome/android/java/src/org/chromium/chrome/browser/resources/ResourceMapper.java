@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceMapper JNI wrapper for ResourceId
+// summary: Java wrapper around the generated ResourceId class that exposes its resource ID list to native code through a @CalledByNative JNI method.
+// ---
+
 package org.chromium.chrome.browser.resources;
 
 import org.jni_zero.CalledByNative;

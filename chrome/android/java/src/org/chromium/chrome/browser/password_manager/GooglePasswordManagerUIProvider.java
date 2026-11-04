@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Google Password Manager UI provider interface
+// summary: Interface for launching the Google Password Manager UI and Password Checkup from an activity when the platform supports it.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 

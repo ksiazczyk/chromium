@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Safe Browsing Android directory metadata
+summary: Metadata for the Safe Browsing Android directory, mapping it to the Services>SafeBrowsing monorail component and a Buganizer component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar share button controller
+// summary: Controls when the share button appears on the toolbar and handles clicks, metrics and in-product help.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import android.content.Context;

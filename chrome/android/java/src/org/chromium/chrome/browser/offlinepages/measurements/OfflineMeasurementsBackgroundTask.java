@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineMeasurementsBackgroundTask
+// summary: Java class that clears persisted offline measurements data, such as probe URLs and timing keys, from Chrome's shared preferences.
+// ---
+
 package org.chromium.chrome.browser.offlinepages.measurements;
 
 import org.chromium.base.shared_preferences.SharedPreferencesManager;

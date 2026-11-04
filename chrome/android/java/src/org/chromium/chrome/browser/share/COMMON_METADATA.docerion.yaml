@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the share directory
+summary: Declares the Monorail component UI>Browser>Sharing and a Buganizer component ID used for issues in the share directory.

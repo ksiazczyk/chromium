@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS – owners file for the offline pages directory
+summary: Delegates code ownership for this directory to the owners of components/offline_pages.

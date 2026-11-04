@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings page fragment delegate implementation
+// summary: Implements the SettingsPage fragment delegate, managing fragment transactions, toolbar, search, snackbars, and other dependencies for settings pages.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.chromium.build.NullUtil.assertNonNull;

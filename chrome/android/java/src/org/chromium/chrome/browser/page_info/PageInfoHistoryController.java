@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageInfoHistoryController
+// summary: Controls the page info history subpage that lists the user's visits to the current site's host.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

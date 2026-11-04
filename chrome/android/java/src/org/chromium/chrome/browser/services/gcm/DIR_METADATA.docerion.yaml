@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Chromium directory metadata assigning this folder to the Services>CloudMessaging monorail component and Buganizer component 1456167.

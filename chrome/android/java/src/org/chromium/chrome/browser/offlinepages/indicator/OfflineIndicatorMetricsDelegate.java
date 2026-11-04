@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineIndicatorMetricsDelegate
+// summary: Java class that tracks how long the offline indicator is shown, persisting metric state in preferences so tracking survives Chrome being killed.
+// ---
+
 package org.chromium.chrome.browser.offlinepages.indicator;
 
 import org.chromium.base.ResettersForTesting;

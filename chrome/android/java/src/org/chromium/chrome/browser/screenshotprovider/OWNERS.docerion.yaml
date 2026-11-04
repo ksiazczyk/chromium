@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the screenshot provider package
+summary: Lists per-file owners responsible for reviewing the screenshot provider Java sources.

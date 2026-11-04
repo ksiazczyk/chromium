@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comparator ranking payment apps in the payment request UI
+// summary: Ranks payment apps for the payment request UI by completeness, shipping and contact handling, preselectability and use count and recency.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import org.chromium.build.annotations.NullMarked;

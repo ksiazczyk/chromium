@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Points to the shared OWNERS file for stylus handwriting, defining who owns this directory's code.

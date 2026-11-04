@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageArchivePublisherBridge
+// summary: Java bridge called from C++ to publish offline page archives through Android's DownloadManager, including addCompletedDownload handling.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import android.app.DownloadManager;

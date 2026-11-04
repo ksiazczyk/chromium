@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler toolbar mediator
+// summary: Observes web contents load and navigation events, manages progress bar timing and security icon state, and forwards events to the coordinator delegate.
+// ---
+
 package org.chromium.chrome.browser.payments.handler.toolbar;
 
 import android.os.Handler;

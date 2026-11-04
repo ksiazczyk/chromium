@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Detailed pane search controller
+// summary: Controls the fragment-scoped search button and SearchView in the detailed pane title when Chrome Android Settings runs in a tab.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;

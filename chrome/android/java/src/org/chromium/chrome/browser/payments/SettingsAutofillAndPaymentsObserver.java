@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observer for autofill and payments settings changes
+// summary: Singleton that lets observers register for notifications when addresses are updated or deleted in the Autofill and payments settings.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import org.chromium.base.ThreadUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager error message helper bridge
+// summary: JNI bridge for the password manager sign-in error UI, throttling repeated prompts and handling trusted vault key retrieval and sync error flows.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.app.Activity;

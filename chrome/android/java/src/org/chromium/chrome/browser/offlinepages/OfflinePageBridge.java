@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageBridge
+// summary: Java access gate to the C++ offline pages model, exposing save, delete, and observer functionality per profile.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import android.text.TextUtils;

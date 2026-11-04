@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the sharing directory
+summary: Delegates code ownership for the Android sharing directory to the shared OWNERS file in chrome/browser/sharing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchColumns
+// summary: Defines column name constants for user search terms and search dates, mirroring android.provider.Browser.SearchColumns.
+// ---
+
 package org.chromium.chrome.browser.provider;
 
 import org.chromium.build.annotations.NullMarked;

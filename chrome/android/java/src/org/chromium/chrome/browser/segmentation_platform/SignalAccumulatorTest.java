@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SignalAccumulatorTest
+// summary: Unit tests for SignalAccumulator covering signal collection when all providers respond before timeout and behavior when the timeout fires first.
+// ---
+
 package org.chromium.chrome.browser.segmentation_platform;
 
 import static org.mockito.ArgumentMatchers.any;

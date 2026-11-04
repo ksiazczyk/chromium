@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Chrome Android PDF package
+summary: Lists the code owners (shuyng@google.com, skavuluru@google.com) responsible for the pdf package.

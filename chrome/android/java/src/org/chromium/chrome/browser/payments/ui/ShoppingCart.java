@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ShoppingCart: total and line items for the payment UI'
+// summary: Models the shopping cart shown in the payment request UI, holding the total price plus base and payment-app-dependent additional line items.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import org.chromium.build.annotations.NullMarked;

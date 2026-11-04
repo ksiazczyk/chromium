@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy preferences manager implementation
+// summary: Singleton managing privacy preferences such as metrics and crash reporting permissions, prerendering, and network prediction, with policy observer support.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import android.annotation.SuppressLint;

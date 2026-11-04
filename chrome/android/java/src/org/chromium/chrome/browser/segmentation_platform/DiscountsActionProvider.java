@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discounts action provider
+// summary: Action provider that supplies the discounts signal for showing a contextual page action for a given tab.
+// ---
+
 package org.chromium.chrome.browser.segmentation_platform;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

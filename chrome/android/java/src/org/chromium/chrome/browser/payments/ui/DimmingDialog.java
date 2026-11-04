@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dimming dialog for payment request overlays
+// summary: Shows a fullscreen semitransparent dialog that dims Chrome behind payment bottom sheets and alert dialogs, with animated show, hide and dismiss behaviour.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings navigation implementation
+// summary: Implements settings navigation by mapping settings page keys to fragment classes and building intents to open Chrome settings pages.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.app.Activity;

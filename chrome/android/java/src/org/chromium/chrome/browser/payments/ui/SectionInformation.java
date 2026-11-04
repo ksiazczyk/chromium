@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SectionInformation: selectable options for a payment UI section'
+// summary: Holds the items and selection state for a single payment request UI section, such as a shipping address or payment method list.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import android.text.TextUtils;

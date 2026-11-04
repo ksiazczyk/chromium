@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab launcher for settings URLs
+// summary: Implements SettingsCustomTabLauncher to open URLs from settings in a Chrome custom tab with trusted intent extras.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.content.Context;

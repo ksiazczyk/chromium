@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot invocation state
+// summary: Holds metadata for a screenshot invocation, such as the invoked URL, scroll position, invocation ID, and content URI.
+// ---
+
 package org.chromium.chrome.browser.screenshotprovider;
 
 import android.content.ContentResolver;

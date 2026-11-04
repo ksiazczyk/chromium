@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PdfFragmentViewTrackerImpl: tracker for misplaced PDF fragment views'
+// summary: Implements PdfFragmentViewTracker to detect, track, and relocate misplaced PdfViewerFragment views into the correct PDF page container as tabs change.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

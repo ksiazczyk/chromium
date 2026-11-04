@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password protection broadcast receiver
+// summary: Listens for Android sign-in events and stores account identifier, salt and hashed password in shared preferences for password phishing protection.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import android.content.BroadcastReceiver;

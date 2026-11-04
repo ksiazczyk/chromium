@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings containment styling and highlight helper
+// summary: Helper that manages containment styling and preference highlighting for settings fragments, shared by the settings activity and page fragment delegate.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

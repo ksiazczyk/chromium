@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientId – client identifier for an offline page
+// summary: Holds a namespace and id that together identify an offline page client, with helpers for wrapping bookmark ids and generating UUID-based ids.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import org.chromium.build.annotations.NullMarked;

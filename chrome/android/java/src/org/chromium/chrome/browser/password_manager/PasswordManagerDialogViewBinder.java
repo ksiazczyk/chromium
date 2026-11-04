@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager dialog view binder
+// summary: Binds the password manager dialog property model to the view by mapping each property key to the corresponding view update.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.chromium.chrome.browser.password_manager.PasswordManagerDialogProperties.DETAILS;

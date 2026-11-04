@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode action provider
+// summary: Action provider that supplies the reader mode signal based on tab distillability for showing a contextual page action.
+// ---
+
 package org.chromium.chrome.browser.segmentation_platform;
 
 import android.os.Handler;

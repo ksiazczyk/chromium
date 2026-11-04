@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helper for building PaymentResponse objects
+// summary: Constructs and prepares a PaymentResponse, normalizing shipping addresses and payer contact data before the response is returned to the merchant.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import org.chromium.build.annotations.NullMarked;

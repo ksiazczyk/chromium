@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageItem
+// summary: Data class representing a saved offline page with its URL, title, file path, size, client ID, and access statistics.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import org.chromium.build.annotations.NullMarked;

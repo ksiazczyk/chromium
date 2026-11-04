@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for password manager settings
+summary: Points the directory to the COMMON_METADATA mixin so the shared bug tracking component settings apply to this folder.

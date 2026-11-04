@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty state fragment for Settings Search
+// summary: Fragment that clears the settings screen and shows zero-state or no-match guidance, with a link to the help center.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import android.app.Activity;

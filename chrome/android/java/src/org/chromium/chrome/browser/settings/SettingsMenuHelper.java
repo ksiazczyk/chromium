@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared settings options menu helper
+// summary: Helper that shares options menu creation, search view handling, and help and feedback actions between SettingsActivity and SettingsPageFragmentDelegateImpl.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

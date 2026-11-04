@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment preferences utility
+// summary: Utility class that reads and writes payment preferences such as the payment-complete-once flag and payment app use counts and last use dates.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import org.chromium.build.annotations.NullMarked;

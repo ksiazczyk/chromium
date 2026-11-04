@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler toolbar view binder
+// summary: Statelessly binds toolbar model properties to view widgets, formatting the origin and wiring progress, security icon, and close button behavior.
+// ---
+
 package org.chromium.chrome.browser.payments.handler.toolbar;
 
 import android.view.View;

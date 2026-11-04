@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request UI controller for Chrome on Android
+// summary: Main view class for the payment request dialog, coordinating its sections, dimming dialog, animations, editor launches and user interactions.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

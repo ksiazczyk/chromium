@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password echo setting handler factory
+// summary: Provides per-profile instances of PasswordEchoSettingHandler through a profile-keyed map of destroyables.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import org.chromium.build.annotations.NullMarked;

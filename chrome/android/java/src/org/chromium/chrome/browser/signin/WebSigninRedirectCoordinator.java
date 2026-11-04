@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSigninRedirectCoordinator
+// summary: Coordinator for the web sign-in redirect that waits for cookies to be built and shows a loading dialog when the wait exceeds a delay, recording wait outcomes in histograms.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import android.os.SystemClock;

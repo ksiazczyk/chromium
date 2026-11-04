@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalAccumulator
+// summary: Wrapper that collects contextual page action signals from action providers and invokes a completion callback once all backends respond or a timeout occurs.
+// ---
+
 package org.chromium.chrome.browser.segmentation_platform;
 
 import android.os.Handler;

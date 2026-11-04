@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintHelper
+// summary: Helper class that triggers the print flow for a tab, checking policy preferences, activity state, and native page restrictions before starting the print job.
+// ---
+
 package org.chromium.chrome.browser.printing;
 
 import android.app.Activity;

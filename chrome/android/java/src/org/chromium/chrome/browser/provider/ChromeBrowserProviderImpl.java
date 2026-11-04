@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBrowserProviderImpl content provider for Chrome bookmarks and searches
+// summary: Content provider implementation that exposes Chrome bookmarks, history and searches through Android URIs to support the android.provider.Browser contract.
+// ---
+
 package org.chromium.chrome.browser.provider;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

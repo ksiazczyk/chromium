@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric unit tests for PageContentProviderImpl
+// summary: Robolectric unit tests covering PageContentProviderImpl behavior, including URI handling, JSON output, metrics and feature flags.
+// ---
+
 package org.chromium.chrome.browser.provider;
 
 import static org.junit.Assert.assertArrayEquals;

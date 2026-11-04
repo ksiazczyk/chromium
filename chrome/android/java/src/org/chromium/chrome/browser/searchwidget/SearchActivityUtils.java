@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchActivityUtils helpers for search intents
+// summary: Utility class for reading trusted intent data and resolving omnibox requests when interacting with SearchActivity.
+// ---
+
 package org.chromium.chrome.browser.searchwidget;
 
 import android.app.Activity;

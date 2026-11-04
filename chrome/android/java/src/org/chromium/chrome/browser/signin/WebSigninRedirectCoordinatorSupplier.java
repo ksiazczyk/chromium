@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSigninRedirectCoordinatorSupplier
+// summary: Manages the supplier and UnownedUserData attachment that provides access to a WebSigninRedirectCoordinator for a window.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import org.chromium.base.UnownedUserDataHost;

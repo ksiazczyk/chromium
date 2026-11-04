@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager launcher
+// summary: Bridge between Java and native password manager code that launches the password settings UI with the right profile, account and referrer.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.chromium.build.NullUtil.assertNonNull;

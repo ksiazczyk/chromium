@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page evaluation bridge for Android testing tools
+// summary: Java bridge class for offline page evaluation testing tools, exposing the offline page model, save page requests, and observer events to Android via JNI bindings to native code.
+// ---
+
 package org.chromium.chrome.browser.offlinepages.evaluation;
 
 import org.jni_zero.CalledByNative;

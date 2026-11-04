@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-column title updater
+// summary: Observes multi-column settings events and updates the activity title and breadcrumb-style detailed pane titles.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;

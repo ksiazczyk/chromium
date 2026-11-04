@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageDownloadBridge
+// summary: Java bridge connecting the Android Download Home UI with offline page items, exposing native-backed operations such as opening saved offline page snapshots.
+// ---
+
 package org.chromium.chrome.browser.offlinepages.downloads;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot content provider metrics
+// summary: Defines event enums and records histograms for screenshot content provider and URI provider requests.
+// ---
+
 package org.chromium.chrome.browser.screenshotprovider;
 
 import androidx.annotation.IntDef;

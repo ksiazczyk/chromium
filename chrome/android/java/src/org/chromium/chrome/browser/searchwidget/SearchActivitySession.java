@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchActivitySession model for a single search
+// summary: Immutable model of a single search served by SearchActivity, holding intent origin, search type, request type and initial query.
+// ---
+
 package org.chromium.chrome.browser.searchwidget;
 
 import org.chromium.build.annotations.NullMarked;

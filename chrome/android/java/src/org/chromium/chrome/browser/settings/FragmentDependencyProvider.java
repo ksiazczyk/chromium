@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fragment dependency provider for settings
+// summary: Supplies dependencies such as coordinators, delegates, and managers to settings fragments via fragment lifecycle callbacks.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.app.Activity;

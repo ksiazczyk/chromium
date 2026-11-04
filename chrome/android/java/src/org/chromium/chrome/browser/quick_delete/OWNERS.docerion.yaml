@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Quick delete OWNERS
+summary: OWNERS file that defers review ownership to the shared chrome/browser/quick_delete/OWNERS file.

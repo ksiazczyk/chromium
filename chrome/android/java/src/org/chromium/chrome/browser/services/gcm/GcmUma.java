@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GcmUma
+// summary: Helper class for GCM UMA collection that records the WebPushReceived.DeviceState enumerated histogram based on idle and priority state.
+// ---
+
 package org.chromium.chrome.browser.services.gcm;
 
 import androidx.annotation.IntDef;

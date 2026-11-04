@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share eligibility helpers
+// summary: Provides helpers that decide whether a tab can be shared and how sharing applies to custom tabs on automotive devices.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import org.chromium.base.DeviceInfo;

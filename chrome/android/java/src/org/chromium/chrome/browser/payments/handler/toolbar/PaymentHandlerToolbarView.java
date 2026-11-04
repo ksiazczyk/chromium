@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler toolbar view
+// summary: Inflates the sheet tab toolbar layout and exposes its origin, title, progress bar, security icon, and close button views for the component.
+// ---
+
 package org.chromium.chrome.browser.payments.handler.toolbar;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact information editor
+// summary: Editor controller for payer contact details that validates and saves name, phone number, and email address into autofill profiles during checkout.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static org.chromium.chrome.browser.autofill.editors.address.EditorProperties.ALLOW_DELETE;

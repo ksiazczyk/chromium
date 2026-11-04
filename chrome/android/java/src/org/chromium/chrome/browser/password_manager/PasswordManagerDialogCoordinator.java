@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager dialog coordinator
+// summary: Coordinates the password manager illustration modal dialog on Android, building the property model and wiring the mediator, view and binder together.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.chromium.chrome.browser.password_manager.PasswordManagerDialogProperties.DETAILS;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Android password manager UI
+summary: Lists the owners responsible for reviewing changes in this directory and includes the shared password manager owners file.

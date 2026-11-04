@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address editor for Chrome payment requests
+// summary: Android editor controller for creating and editing autofill address profiles during the Payment Request flow, with field validation and editor UI properties.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

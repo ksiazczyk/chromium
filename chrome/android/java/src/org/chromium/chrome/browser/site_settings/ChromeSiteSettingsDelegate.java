@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSiteSettingsDelegate
+// summary: Implements the SiteSettingsDelegate interface with Chrome-specific site settings logic for Android, covering preferences, permissions, favicons and snackbar helpers.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import android.app.Activity;

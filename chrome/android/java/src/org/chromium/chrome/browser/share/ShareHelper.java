@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System share sheet helper
+// summary: Shares content through the Android system share sheet, supporting custom actions and remembering the last used share target.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

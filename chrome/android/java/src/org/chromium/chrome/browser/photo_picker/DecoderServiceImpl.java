@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderServiceImpl
+// summary: Implementation of the photo picker decoder service that initializes the native library and binds an ImageDecoder to decode image file contents.
+// ---
+
 package org.chromium.chrome.browser.photo_picker;
 
 import android.content.Intent;

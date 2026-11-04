@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the share directory
+summary: Lists code owners for the directory with per-file ownership delegations for send-tab-to-self and Lens files.

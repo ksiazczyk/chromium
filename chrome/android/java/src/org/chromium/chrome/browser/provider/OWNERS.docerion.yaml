@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file with per-file owners for PageContentProvider
+summary: Lists per-file owners for the PageContentProvider Java files in this directory.

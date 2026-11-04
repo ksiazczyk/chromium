@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Safety check directory metadata
+summary: Declares the monorail component, Buganizer component, and owning team email for the Safety check Android code directory.

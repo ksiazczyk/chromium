@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler toolbar coordinator
+// summary: Coordinates the payment handler toolbar component by creating and wiring its model, mediator, and view, and supplies security state to the mediator.
+// ---
+
 package org.chromium.chrome.browser.payments.handler.toolbar;
 
 import android.app.Activity;

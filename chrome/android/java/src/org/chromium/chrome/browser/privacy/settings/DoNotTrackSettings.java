@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Do Not Track settings fragment
+// summary: Android settings fragment that manages the Do Not Track preference switch, updates its title and summary under a feature flag, and supports settings search.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import android.os.Bundle;

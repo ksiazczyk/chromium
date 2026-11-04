@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundSchedulerProcessor – mockable scheduled processing wrapper
+// summary: Singleton wrapper around BackgroundSchedulerBridge that allows mocking out calls which start or stop scheduled processing of background requests.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import org.chromium.base.Callback;

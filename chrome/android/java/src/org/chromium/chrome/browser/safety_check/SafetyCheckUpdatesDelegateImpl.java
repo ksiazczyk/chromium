@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety check updates delegate implementation
+// summary: Android glue class that queries OmahaService for the browser update status, converts it to a Safety check UpdatesState, and reports results back on the UI thread.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import org.chromium.base.Callback;

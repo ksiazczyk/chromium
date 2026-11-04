@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeGcmListenerService
+// summary: Split-compatible GCM listener service stub for Chrome on Android that delegates to ChromeGcmListenerServiceImpl and suppresses linting for the base-class token refresh.
+// ---
+
 package org.chromium.chrome.browser.services.gcm;
 
 import android.annotation.SuppressLint;

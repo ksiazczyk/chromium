@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry of Chrome settings fragments
+// summary: Registry that maps settings fragment classes to settings URLs and enum identifiers, covering pages such as autofill, privacy, language, and downloads.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.content.Context;

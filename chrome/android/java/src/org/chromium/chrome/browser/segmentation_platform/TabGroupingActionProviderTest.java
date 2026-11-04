@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupingActionProviderTest
+// summary: Robolectric unit tests for TabGroupingActionProvider, checking signal computation per window and that the action is not shown on tablets.
+// ---
+
 package org.chromium.chrome.browser.segmentation_platform;
 
 import static org.junit.Assert.assertFalse;

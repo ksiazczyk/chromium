@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InvalidationGcmUpstreamSender
+// summary: Legacy, now-empty intent service that once sent invalidation upstream messages via GCM, kept only because it is still listed in AndroidManifest.xml.
+// ---
+
 package org.chromium.chrome.browser.services.gcm;
 
 import android.app.IntentService;

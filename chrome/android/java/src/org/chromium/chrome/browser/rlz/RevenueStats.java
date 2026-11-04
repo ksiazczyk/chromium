@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RevenueStats
+// summary: Singleton utility class for managing revenue sharing information, storing RLZ notification state and passing search client and RLZ values to native code via JNI.
+// ---
+
 package org.chromium.chrome.browser.rlz;
 
 import androidx.annotation.VisibleForTesting;

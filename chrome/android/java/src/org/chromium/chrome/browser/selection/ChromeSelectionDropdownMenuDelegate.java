@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSelectionDropdownMenuDelegate
+// summary: Chrome implementation of the text selection dropdown context menu built on BasicListMenu and AnchoredPopupWindow, with optional Ask Gemini click tracking.
+// ---
+
 package org.chromium.chrome.browser.selection;
 
 import android.content.Context;

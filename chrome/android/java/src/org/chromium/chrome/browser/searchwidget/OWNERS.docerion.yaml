@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the search widget directory
+summary: Sets code owners for the directory by referencing the omnibox Android OWNERS file.

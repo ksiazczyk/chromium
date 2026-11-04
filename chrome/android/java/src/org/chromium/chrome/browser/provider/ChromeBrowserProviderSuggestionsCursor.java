@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions cursor wrapper for global search bookmark and history results
+// summary: Wraps a bookmark or history cursor in the column format that Android global search expects for search suggestions.
+// ---
+
 package org.chromium.chrome.browser.provider;
 
 import android.app.SearchManager;

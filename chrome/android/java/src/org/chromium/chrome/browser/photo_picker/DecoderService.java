@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderService
+// summary: Android service entry point for the photo picker that wires the split-compatible service to its DecoderServiceImpl implementation class.
+// ---
+
 package org.chromium.chrome.browser.photo_picker;
 
 import org.chromium.base.SplitCompatService;

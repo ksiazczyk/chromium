@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wide display padding applier
+// summary: Fragment lifecycle callback that applies wide display padding to settings fragments once when their views are created.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.content.Context;

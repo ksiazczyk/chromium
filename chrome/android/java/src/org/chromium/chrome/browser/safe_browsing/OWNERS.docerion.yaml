@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Safe Browsing Android code owners
+summary: Lists code owners for the Safe Browsing Android directory, with per-file owners for the suspicious site dialog bridge.

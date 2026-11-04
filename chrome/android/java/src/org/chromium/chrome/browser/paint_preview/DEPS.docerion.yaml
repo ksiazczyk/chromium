@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Paint preview DEPS include rules
+summary: Defines include rules allowing this directory to depend on the paint preview browser and player Android components.

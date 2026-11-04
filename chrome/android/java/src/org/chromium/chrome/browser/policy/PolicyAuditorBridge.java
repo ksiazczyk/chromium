@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyAuditorBridge exposing navigation audit events to native
+// summary: Bridge class that lets native code retrieve the PolicyAuditor instance and report navigation audit events such as URL success, failure, and administrator-blocked navigations.
+// ---
+
 package org.chromium.chrome.browser.policy;
 
 import org.jni_zero.CalledByNative;

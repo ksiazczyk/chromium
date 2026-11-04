@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA for the settings directory
+summary: Defines the bug tracker component, team email, and Buganizer component used for the Chrome Android settings directory.
