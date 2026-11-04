@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page-specific content settings unit tests
+// summary: Unit tests verifying permission usage histograms for geolocation, microphone, and camera content settings.
+// ---
+
 #include "components/content_settings/browser/page_specific_content_settings.h"
 
 #include "base/metrics/histogram_base.h"

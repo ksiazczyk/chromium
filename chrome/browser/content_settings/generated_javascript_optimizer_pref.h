@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated JavaScript optimizer pref header
+// summary: Declares the generated preference class representing the JavaScript optimizer setting for the settings WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_CONTENT_SETTINGS_GENERATED_JAVASCRIPT_OPTIMIZER_PREF_H_
 #define CHROME_BROWSER_CONTENT_SETTINGS_GENERATED_JAVASCRIPT_OPTIMIZER_PREF_H_
 

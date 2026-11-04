@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PKI metadata component installer policy
+// summary: Declares the component installer policy for the PKIMetadata component, which delivers dynamically updatable data for PKI policy enforcement.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_PKI_METADATA_COMPONENT_INSTALLER_POLICY_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_PKI_METADATA_COMPONENT_INSTALLER_POLICY_H_
 

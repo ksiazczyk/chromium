@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Real-time URL checks allowlist component installer unit tests
+// summary: Unit tests verifying component registration and that ComponentReady populates the real-time URL checks allowlist from disk.
+// ---
+
 #include "chrome/browser/component_updater/real_time_url_checks_allowlist_component_installer.h"
 
 #include "base/files/scoped_temp_dir.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated cookie prefs unit tests
+// summary: Tests the generated cookie preference objects, verifying value mapping, type mismatch handling and enforcement states.
+// ---
+
 #include "chrome/browser/content_settings/generated_cookie_prefs.h"
 
 #include <algorithm>

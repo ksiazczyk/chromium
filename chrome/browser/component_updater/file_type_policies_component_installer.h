@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File Type Policies component installer header
+// summary: Declares the File Type Policies component installer policy and the startup function that registers the component with the update service.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_FILE_TYPE_POLICIES_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_FILE_TYPE_POLICIES_COMPONENT_INSTALLER_H_
 

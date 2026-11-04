@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Dim component installer
+// summary: Implements the installer policy for the Smart Dim ML component that loads model, preprocessor, and metadata files for ChromeOS adaptive dimming.
+// ---
+
 #include "chrome/browser/component_updater/smart_dim_component_installer.h"
 
 #include <stdint.h>

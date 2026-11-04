@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings pref provider unit tests
+// summary: Unit tests for the content settings preference provider, including deadlock checks and pattern-based content setting behavior.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_pref_provider.h"
 
 #include <memory>

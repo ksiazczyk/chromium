@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA key distribution component registration
+// summary: Registers the Isolated Web Apps key distribution component with the component updater, gated by platform and feature flags, and queues on-demand updates when supported.
+// ---
+
 #include "chrome/browser/component_updater/iwa_key_distribution_component_installer.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose optimization guide proto
+// summary: Defines the proto2 enum and message for Compose feature hints from the optimization guide, including the nudge decision and nudge segmentation model parameters.
+// ---
+
 syntax = "proto2";
 
 package compose;

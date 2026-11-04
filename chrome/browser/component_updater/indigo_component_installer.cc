@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo component installer
+// summary: Implements the Indigo component installer policy that verifies the content script, tracks the install directory, and notifies ready callbacks.
+// ---
+
 #include "chrome/browser/component_updater/indigo_component_installer.h"
 
 #include <stdint.h>

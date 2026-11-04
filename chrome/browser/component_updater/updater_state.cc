@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater state reader implementation
+// summary: Reads the state of the installed updater, such as Keystone, Omaha, or ChromiumUpdater, to build attributes describing updater name, version, and check times.
+// ---
+
 #include "chrome/browser/component_updater/updater_state.h"
 
 #include <map>

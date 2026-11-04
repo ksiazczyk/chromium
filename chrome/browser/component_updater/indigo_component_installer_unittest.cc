@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indigo component installer unit tests
+// summary: Unit tests for the Indigo component installer policy, covering installation verification, install directory and content script paths, installer attributes, and feature-gated registration.
+// ---
+
 #include "chrome/browser/component_updater/indigo_component_installer.h"
 
 #include <memory>

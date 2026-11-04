@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time URL checks allowlist component installer header
+// summary: Declares the installer policy class for the Safe Browsing real-time URL checks allowlist component and its startup registration function.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_REAL_TIME_URL_CHECKS_ALLOWLIST_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_REAL_TIME_URL_CHECKS_ALLOWLIST_COMPONENT_INSTALLER_H_
 

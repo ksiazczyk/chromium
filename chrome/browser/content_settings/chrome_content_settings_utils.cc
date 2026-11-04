@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content settings utils implementation
+// summary: Implements Chrome content settings utilities that record popup action UMA metrics and refresh content setting icons in the location bar, PiP windows, and floating surfaces.
+// ---
+
 #include "chrome/browser/content_settings/chrome_content_settings_utils.h"
 
 #include "base/metrics/histogram_macros.h"

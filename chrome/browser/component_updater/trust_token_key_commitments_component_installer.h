@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Token key commitments component registration declarations
+// summary: Declares the function that registers the Trust Token Key Commitments component when Trust Tokens are enabled.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_TRUST_TOKEN_KEY_COMMITMENTS_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_TRUST_TOKEN_KEY_COMMITMENTS_COMPONENT_INSTALLER_H_
 

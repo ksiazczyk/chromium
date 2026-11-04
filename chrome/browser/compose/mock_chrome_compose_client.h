@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Chrome compose client interface
+// summary: Declares MockChromeComposeClient, a gmock subclass of ChromeComposeClient that stubs ShouldTriggerContextMenu for tests.
+// ---
+
 #ifndef CHROME_BROWSER_COMPOSE_MOCK_CHROME_COMPOSE_CLIENT_H_
 #define CHROME_BROWSER_COMPOSE_MOCK_CHROME_COMPOSE_CLIENT_H_
 

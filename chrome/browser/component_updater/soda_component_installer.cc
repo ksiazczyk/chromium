@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA component installer
+// summary: Implements the installer policy for the SODA speech recognition library used by Live Caption, including on-demand updates and component directory permissions.
+// ---
+
 #include "chrome/browser/component_updater/soda_component_installer.h"
 
 #include <stdint.h>

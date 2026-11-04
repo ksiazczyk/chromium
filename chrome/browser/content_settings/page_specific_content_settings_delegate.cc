@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page-specific content settings delegate
+// summary: Implements the Chrome delegate supplying prefs, the settings map, media capture state, and content allowed or blocked notifications.
+// ---
+
 #include "chrome/browser/content_settings/page_specific_content_settings_delegate.h"
 
 #include "base/feature_list.h"

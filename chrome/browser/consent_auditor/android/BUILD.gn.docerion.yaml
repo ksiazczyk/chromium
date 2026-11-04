@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Consent auditor Android build configuration
+summary: GN build file that generates JNI headers for ConsentAuditorBridge and defines the Android Java library with its dependencies.

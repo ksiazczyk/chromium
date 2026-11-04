@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Sandbox attestations installer test utilities
+// summary: Provides helper functions that write and install fake Privacy Sandbox attestations components and manifests for use in tests.
+// ---
+
 #include "chrome/browser/component_updater/privacy_sandbox_attestations_component_installer_test_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox attestations component installer
+// summary: Implements the installer policy that delivers the Privacy Sandbox attestations file and invokes a callback when new attestations are ready.
+// ---
+
 #include "chrome/browser/component_updater/privacy_sandbox_attestations_component_installer.h"
 
 #include <stdint.h>

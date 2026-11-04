@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JavaScript optimizer provider declarations
+// summary: Declares JavascriptOptimizerProviderAndroid, a provider supplying the JavaScript optimizer default based on advanced protection status.
+// ---
+
 #ifndef CHROME_BROWSER_CONTENT_SETTINGS_JAVASCRIPT_OPTIMIZER_PROVIDER_ANDROID_H_
 #define CHROME_BROWSER_CONTENT_SETTINGS_JAVASCRIPT_OPTIMIZER_PROVIDER_ANDROID_H_
 

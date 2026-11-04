@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS component updater metadata table
+// summary: Tracks installed components per ChromeOS user in preferences, supporting deletion for the current user and lookup of components across users.
+// ---
+
 #include "chrome/browser/component_updater/metadata_table_chromeos.h"
 
 #include <stddef.h>

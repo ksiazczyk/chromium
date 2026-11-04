@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Composeplate view beside MVT layout
+summary: Android layout resource for the Composeplate view showing a vertical AI mode entrypoint button with a 48dp icon and label styled to match most-visited-tile (MVT) tiles.
+-->
+
 <org.chromium.chrome.browser.composeplate.ComposeplateView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

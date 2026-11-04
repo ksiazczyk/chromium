@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform Runtime component installer
+// summary: Implements the Platform Runtime component installer, including Windows-specific installation handling, staleness detection, and UMA metrics.
+// ---
+
 #include "chrome/browser/component_updater/platform_runtime_component_installer.h"
 
 #include <stdint.h>

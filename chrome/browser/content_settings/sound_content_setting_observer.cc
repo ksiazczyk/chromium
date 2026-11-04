@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sound content setting observer
+// summary: Implements a per-tab observer that applies sound content settings, grants autoplay exceptions for user-set site exceptions, mutes or unmutes tabs, and logs SiteMuted UKM events.
+// ---
+
 #include "chrome/browser/content_settings/sound_content_setting_observer.h"
 
 #include "base/functional/bind.h"

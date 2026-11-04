@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Chrome component updater
+summary: Defines GN source_set targets and platform-conditional headers and dependencies for the Chrome component updater installers.

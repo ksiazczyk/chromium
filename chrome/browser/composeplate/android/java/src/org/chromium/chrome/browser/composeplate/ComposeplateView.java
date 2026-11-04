@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeplateView
+// summary: Custom LinearLayout shown below the fake search box on the New Tab Page, managing the AI Mode, optional and incognito buttons.
+// ---
+
 package org.chromium.chrome.browser.composeplate;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose text usage logger unit tests
+// summary: Unit tests for ComposeTextUsageLogger that simulate typing in form fields and verify the logged Compose.TextElementUsage UKM entries.
+// ---
+
 #include "chrome/browser/compose/compose_text_usage_logger.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zxcvbn data component installer
+// summary: Implements the installer policy for the zxcvbn password-strength dictionary component, including memory-mapped ranked dictionaries.
+// ---
+
 #include "chrome/browser/component_updater/zxcvbn_data_component_installer.h"
 
 #include <stdint.h>

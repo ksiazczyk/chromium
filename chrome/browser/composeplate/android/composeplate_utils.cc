@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composeplate JNI utilities
+// summary: C++ JNI implementation exposing checks for AIM entrypoint eligibility and policy-based enablement of the composeplate feature to Java.
+// ---
+
 #include "base/android/jni_android.h"
 #include "chrome/browser/autocomplete/aim_eligibility_service_factory.h"
 #include "chrome/browser/flags/android/chrome_feature_list.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content extraction build configuration
+summary: Defines the content_extraction source set and its browser test target, including dependencies and Android-specific sources.

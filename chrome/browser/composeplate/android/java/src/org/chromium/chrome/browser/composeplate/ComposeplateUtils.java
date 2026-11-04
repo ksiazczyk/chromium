@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeplateUtils
+// summary: Utility class with eligibility and policy checks for the composeplate plus helpers that apply search box and button backgrounds.
+// ---
+
 package org.chromium.chrome.browser.composeplate;
 
 import android.content.Context;

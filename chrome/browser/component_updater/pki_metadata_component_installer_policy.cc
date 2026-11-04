@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PKI metadata component installer policy
+// summary: Implements the component installer policy for the PKI Metadata component, defining its install directory, public key hash and readiness handling.
+// ---
+
 #include "chrome/browser/component_updater/pki_metadata_component_installer_policy.h"
 
 #include <stdint.h>

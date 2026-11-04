@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Sandbox attestations component installer unit tests
+// summary: Unit tests covering registration, feature gating, and deletion of existing files for the Privacy Sandbox attestations component installer.
+// ---
+
 #include "chrome/browser/component_updater/privacy_sandbox_attestations_component_installer.h"
 
 #include <string>

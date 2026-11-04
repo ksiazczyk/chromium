@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetInnerHtml API header
+// summary: Declares the GetInnerHtml function and callback type, documenting failure behavior and that the returned inner HTML is untrustworthy.
+// ---
+
 #ifndef CHROME_BROWSER_CONTENT_EXTRACTION_INNER_HTML_H_
 #define CHROME_BROWSER_CONTENT_EXTRACTION_INNER_HTML_H_
 

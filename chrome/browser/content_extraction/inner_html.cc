@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetInnerHtml implementation via Mojo handler
+// summary: Implements GetInnerHtml by requesting inner HTML from a render frame through a Mojo agent, logging timing, size and validity histograms.
+// ---
+
 #include "chrome/browser/content_extraction/inner_html.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS component installer implementation
+// summary: Implements installation and management of downloadable ChromeOS components such as cros-termina, demo-mode resources, and growth campaigns.
+// ---
+
 #include "chrome/browser/component_updater/cros_component_installer_chromeos.h"
 
 #include <stdint.h>

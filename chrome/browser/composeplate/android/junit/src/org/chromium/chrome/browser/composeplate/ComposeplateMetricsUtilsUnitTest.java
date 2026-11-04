@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composeplate metrics utils unit tests
+// summary: Robolectric unit tests verifying that ComposeplateMetricsUtils records composeplate clicks, impressions, and fake search box impressions to the correct histograms.
+// ---
+
 package org.chromium.chrome.browser.composeplate;
 
 import org.junit.Test;

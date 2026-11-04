@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeplateViewBinder
+// summary: View binder that maps composeplate property model changes to updates on the ComposeplateView.
+// ---
+
 package org.chromium.chrome.browser.composeplate;
 
 import static org.chromium.chrome.browser.composeplate.ComposeplateProperties.AI_MODE_BUTTON_ICON;

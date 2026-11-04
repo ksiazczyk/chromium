@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings default provider unit tests
+// summary: Unit tests for the default content settings provider, verifying default values, permission settings, and migration preferences such as geolocation and local network access.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_default_provider.h"
 
 #include <memory>

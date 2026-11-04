@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component installer error enums
+// summary: Defines enum classes for installer-specific errors, currently covering the Flash installer.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_COMPONENT_INSTALLER_ERRORS_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_COMPONENT_INSTALLER_ERRORS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform Runtime component installer declaration
+// summary: Declares the Platform Runtime component installer policy, its local state preferences, feature flag, and install trigger and result enums.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_PLATFORM_RUNTIME_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_PLATFORM_RUNTIME_COMPONENT_INSTALLER_H_
 

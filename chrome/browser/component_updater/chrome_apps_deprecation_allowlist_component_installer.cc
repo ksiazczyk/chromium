@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome apps deprecation allowlist component installer
+// summary: Implements the installer policy that delivers the Chrome app deprecation allowlist proto file and notifies a ready callback.
+// ---
+
 #include "chrome/browser/component_updater/chrome_apps_deprecation_allowlist_component_installer.h"
 
 #include <stdint.h>

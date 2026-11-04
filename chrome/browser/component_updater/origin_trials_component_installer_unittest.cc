@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Origin Trials component installer tests
+// summary: Tests the Chrome Origin Trials component installer policy, including resetting the origin trial public key pref when the manifest override is missing.
+// ---
+
 #include <utility>
 
 #include "base/files/scoped_temp_dir.h"

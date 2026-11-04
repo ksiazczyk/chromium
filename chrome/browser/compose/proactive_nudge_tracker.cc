@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proactive nudge tracker implementation
+// summary: Implements ProactiveNudgeTracker, building segmentation platform input context from form field signals to decide when to show the Compose proactive nudge.
+// ---
+
 #include "chrome/browser/compose/proactive_nudge_tracker.h"
 
 #include <memory>

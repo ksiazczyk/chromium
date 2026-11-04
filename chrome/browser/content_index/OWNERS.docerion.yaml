@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Content Index owners file
+summary: Delegates code ownership for this directory to the OWNERS file of content/browser/content_index.

@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Composeplate landscape dimension values
+summary: Defines landscape-mode dimension values such as margins and padding for the composeplate view in Chrome for Android.
+-->
+
 <resources>
     <dimen name="composeplate_view_lateral_margin">32dp</dimen>
     <dimen name="composeplate_view_optional_button_margin">12dp</dimen>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI component installer
+// summary: Implements the installer policy for the Screen AI library component, including registration management, install verification, and component deletion.
+// ---
+
 #include "chrome/browser/component_updater/screen_ai_component_installer.h"
 
 #include <stdint.h>

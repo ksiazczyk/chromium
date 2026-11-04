@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consent auditor factory implementation
+// summary: Implements the profile-keyed factory that builds ConsentAuditorImpl with a consent sync bridge, sync store factory, locale, and default clock.
+// ---
+
 #include "chrome/browser/consent_auditor/consent_auditor_factory.h"
 
 #include <memory>

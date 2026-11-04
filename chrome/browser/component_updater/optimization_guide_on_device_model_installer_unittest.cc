@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization Guide on-device model installer tests
+// summary: Tests that the manifest asset manager delegate reports installed legacy and manifest-based model assets with the expected versions.
+// ---
+
 #include "chrome/browser/component_updater/optimization_guide_on_device_model_installer.h"
 
 #include <string>

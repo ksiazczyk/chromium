@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WASM TTS engine component installer
+// summary: Implements the installer policy for the WASM text-to-speech engine component, managing its install directory and on-demand updates.
+// ---
+
 #include "chrome/browser/component_updater/wasm_tts_engine_component_installer.h"
 
 #include <stdint.h>

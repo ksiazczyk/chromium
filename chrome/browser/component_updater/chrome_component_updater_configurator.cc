@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome component updater configurator
+// summary: Implements the Chrome-specific update client configurator with update URLs, check delays, downloaders, and pref-backed settings.
+// ---
+
 #include "chrome/browser/component_updater/chrome_component_updater_configurator.h"
 
 #include <memory>

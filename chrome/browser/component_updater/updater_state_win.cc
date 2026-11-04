@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater state for Omaha on Windows
+// summary: Windows implementation of UpdaterState that reads Google Update (Omaha) version, timestamps, and update policy from the registry.
+// ---
+
 #include "chrome/browser/component_updater/updater_state.h"
 
 #include <string>

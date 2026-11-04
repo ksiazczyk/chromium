@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater preferences registration
+// summary: Registers local preferences for the component updater, including the platform runtime and WASM TTS engine component policies.
+// ---
+
 #include "chrome/browser/component_updater/component_updater_prefs.h"
 
 #include "build/build_config.h"

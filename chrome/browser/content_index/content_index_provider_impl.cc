@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Index provider implementation
+// summary: Implements the browser-side Content Index provider that surfaces entries as offline items and handles opening and removal.
+// ---
+
 #include "chrome/browser/content_index/content_index_provider_impl.h"
 
 #include <memory>

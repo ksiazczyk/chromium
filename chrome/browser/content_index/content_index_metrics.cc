@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Index metrics implementation
+// summary: Records UKM events for Content Index entries being added, opened, and deleted by users.
+// ---
+
 #include "chrome/browser/content_index/content_index_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

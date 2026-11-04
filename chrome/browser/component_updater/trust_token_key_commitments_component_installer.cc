@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Token key commitments component registration
+// summary: Registers the Trust Token Key Commitments component with the component updater and passes ready commitments to the network service.
+// ---
+
 #include "chrome/browser/component_updater/trust_token_key_commitments_component_installer.h"
 
 #include <memory>

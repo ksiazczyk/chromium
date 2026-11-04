@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the component updater directory
+summary: Lists allowed include dependencies for the directory, with special rules for the PKI metadata unit test.

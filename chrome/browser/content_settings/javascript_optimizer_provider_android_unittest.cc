@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android JavaScript optimizer provider unit tests
+// summary: Unit tests for the Android JavaScript optimizer provider, verifying rules with and without advanced protection enrollment and recorded metrics.
+// ---
+
 #include "chrome/browser/content_settings/javascript_optimizer_provider_android.h"
 
 #include <memory>

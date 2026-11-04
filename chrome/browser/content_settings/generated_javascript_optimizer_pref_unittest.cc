@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated JavaScript optimizer pref unit tests
+// summary: Unit tests for the generated JavaScript optimizer preference, covering pref object values and set-pref behavior when the related feature is enabled.
+// ---
+
 #include "chrome/browser/content_settings/generated_javascript_optimizer_pref.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose enabling browser tests
+// summary: Browser tests verifying ComposeEnabling conditions such as user country, sign-in, MSBB consent and optimization guide preference opt-in.
+// ---
+
 #include "chrome/browser/compose/compose_enabling.h"
 
 #include <vector>

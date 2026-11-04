@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PKI metadata fastpush component installer policy
+// summary: Declares the installer policy for the PKIMetadataFastpush component, a companion to the PKIMetadata component with lower update latency.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_PKI_METADATA_FASTPUSH_COMPONENT_INSTALLER_POLICY_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_PKI_METADATA_FASTPUSH_COMPONENT_INSTALLER_POLICY_H_
 

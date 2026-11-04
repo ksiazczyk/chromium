@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the component updater directory
+summary: Declares the Monorail component, team email and Buganizer component ID used for issues in this directory.

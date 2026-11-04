@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widevine CDM component installer
+// summary: Implements installation, verification, and registration of the Widevine CDM component with Chrome across platforms.
+// ---
+
 #include "chrome/browser/component_updater/widevine_cdm_component_installer.h"
 
 #include <stdint.h>

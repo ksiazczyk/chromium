@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time permission provider
+// summary: Implements a content settings provider storing one-time permission grants that expire on tab closure, backgrounding, or timeout.
+// ---
+
 #include "chrome/browser/content_settings/one_time_permission_provider.h"
 
 #include <algorithm>

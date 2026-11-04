@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zxcvbn data component installer unit tests
+// summary: Unit tests verifying installation checks and ranked dictionary loading for text and memory-mapped zxcvbn component versions.
+// ---
+
 #include "chrome/browser/component_updater/zxcvbn_data_component_installer.h"
 
 #include <stdint.h>

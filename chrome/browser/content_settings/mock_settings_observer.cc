@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock content settings observer implementation
+// summary: Implements a mock observer that forwards HostContentSettingsMap change notifications and checks observer calls for tests.
+// ---
+
 #include "chrome/browser/content_settings/mock_settings_observer.h"
 
 #include "url/gurl.h"

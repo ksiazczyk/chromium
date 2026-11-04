@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error assistant component installer policy header
+// summary: Declares the installer policy and registration function for the SSL error assistant component updater integration.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_SSL_ERROR_ASSISTANT_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_SSL_ERROR_ASSISTANT_COMPONENT_INSTALLER_H_
 

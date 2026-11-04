@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetadataTable unit tests
+// summary: Unit tests verifying adding, deleting and querying component usage items in the ChromeOS MetadataTable.
+// ---
+
 #include "chrome/browser/component_updater/metadata_table_chromeos.h"
 
 #include "content/public/test/browser_task_environment.h"

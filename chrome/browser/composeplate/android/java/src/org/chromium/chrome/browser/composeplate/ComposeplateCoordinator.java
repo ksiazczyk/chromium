@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeplateCoordinator
+// summary: Coordinator that wires the composeplate UI on the New Tab Page, building the property model, binding it to the view and recording visibility and button impressions.
+// ---
+
 package org.chromium.chrome.browser.composeplate;
 
 import android.content.res.ColorStateList;

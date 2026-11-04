@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dynamic patch component installer unit tests
+// summary: Unit tests for the dynamic patch component installer policy, covering registration, installation verification, and install callback behavior for inner CRX patches.
+// ---
+
 #include "chrome/browser/component_updater/dynamic_patch_component_installer.h"
 
 #include <windows.h>

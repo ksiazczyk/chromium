@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome origin trials component installer
+// summary: Registers the origin trials component and populates local state with the configuration read from its manifest.
+// ---
+
 #include "chrome/browser/component_updater/chrome_origin_trials_component_installer.h"
 
 #include <utility>

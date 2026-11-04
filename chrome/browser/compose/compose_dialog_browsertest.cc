@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose dialog browser tests
+// summary: Interactive browser tests for the Compose dialog bubble lifecycle, context menu entry points and related feedback flows.
+// ---
+
 #include <optional>
 
 #include "base/test/metrics/user_action_tester.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Compose BUILD.gn build definitions
+summary: GN build rules for the Chrome Compose browser code, defining compose, impl, test_support and unit_tests source sets with their dependencies.

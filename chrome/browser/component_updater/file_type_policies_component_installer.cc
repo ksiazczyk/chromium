@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File Type Policies component installer
+// summary: Implements the installer policy that loads download file type policies from a component-updated protobuf into the Safe Browsing FileTypePolicies instance.
+// ---
+
 #include "chrome/browser/component_updater/file_type_policies_component_installer.h"
 
 #include <stdint.h>

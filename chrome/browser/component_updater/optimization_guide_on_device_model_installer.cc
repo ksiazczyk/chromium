@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide on-device model component installer
+// summary: Implements installation and on-demand updates of Optimization Guide on-device model components, covering legacy and manifest-based model assets.
+// ---
+
 #include "chrome/browser/component_updater/optimization_guide_on_device_model_installer.h"
 
 #include <stdint.h>

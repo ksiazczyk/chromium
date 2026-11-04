@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Compose OWNERS
+summary: Delegates reviewer ownership of the Chrome Compose browser directory to the shared OWNERS file in components/compose.

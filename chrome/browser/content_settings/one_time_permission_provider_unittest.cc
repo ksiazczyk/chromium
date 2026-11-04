@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: One-time permission provider unit tests
+// summary: Unit tests covering setting, retrieving, renewing, and expiry of one-time permission grants with mock time.
+// ---
+
 #include "chrome/browser/content_settings/one_time_permission_provider.h"
 
 #include <memory>

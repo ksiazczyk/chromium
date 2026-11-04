@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Dim component installer header
+// summary: Declares the Smart Dim component installer policy, which requests an exact expected component version, and its registration function.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_SMART_DIM_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_SMART_DIM_COMPONENT_INSTALLER_H_
 

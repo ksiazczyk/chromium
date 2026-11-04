@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captcha provider component installer header
+// summary: Declares the captcha provider component installer policy class and the function to register the component with the update service.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_CAPTCHA_PROVIDER_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_CAPTCHA_PROVIDER_COMPONENT_INSTALLER_H_
 

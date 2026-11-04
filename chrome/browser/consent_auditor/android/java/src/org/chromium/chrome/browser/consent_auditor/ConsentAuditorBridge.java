@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsentAuditorBridge
+// summary: Singleton Java bridge that records user consent from the Android UI and forwards it to the native C++ consent_auditor component via JNI.
+// ---
+
 package org.chromium.chrome.browser.consent_auditor;
 
 import androidx.annotation.StringRes;

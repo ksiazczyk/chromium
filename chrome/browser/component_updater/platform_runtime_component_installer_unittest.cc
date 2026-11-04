@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform Runtime component installer unit tests
+// summary: Unit tests for the Platform Runtime component installer, covering registration, update triggers, and Windows installation behavior.
+// ---
+
 #include "chrome/browser/component_updater/platform_runtime_component_installer.h"
 
 #include <stdint.h>

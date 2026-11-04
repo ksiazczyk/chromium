@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated cookie prefs implementation
+// summary: Implements generated preferences that expose the default cookie content setting and third-party cookie blocking setting to the settings WebUI.
+// ---
+
 #include "chrome/browser/content_settings/generated_cookie_prefs.h"
 
 #include "base/notreached.h"

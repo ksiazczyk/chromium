@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the AI Embeddings component installer
+// summary: Tests installation verification, component readiness and model path handling for the AI Embeddings installer using a mock update service.
+// ---
+
 #include "chrome/browser/component_updater/ai_embeddings_component_installer.h"
 
 #include <stdint.h>

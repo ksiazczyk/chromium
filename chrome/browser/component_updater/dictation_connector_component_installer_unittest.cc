@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation Connector component installer unit tests
+// summary: Unit tests verifying async directory callbacks, component hash matching the extension ID, and installer attributes from feature parameters.
+// ---
+
 #include "chrome/browser/component_updater/dictation_connector_component_installer.h"
 
 #include <stdint.h>

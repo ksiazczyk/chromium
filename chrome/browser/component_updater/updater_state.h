@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater state reader declarations
+// summary: Declares the UpdaterState class and its platform-specific state readers that expose the updater state for update checks.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_UPDATER_STATE_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_UPDATER_STATE_H_
 

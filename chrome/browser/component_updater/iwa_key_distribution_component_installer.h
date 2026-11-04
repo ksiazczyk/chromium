@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA key distribution component installer header
+// summary: Declares the Mac and Linux feature flag and the startup registration function for the IWA key distribution component.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_IWA_KEY_DISTRIBUTION_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_IWA_KEY_DISTRIBUTION_COMPONENT_INSTALLER_H_
 

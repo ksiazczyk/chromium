@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InnerTextBridge
+// summary: Java JNI bridge that forwards requests for a frame's inner text from the browser to the native content extraction implementation via a callback.
+// ---
+
 package org.chromium.chrome.browser.content_extraction;
 
 import org.jni_zero.NativeMethods;

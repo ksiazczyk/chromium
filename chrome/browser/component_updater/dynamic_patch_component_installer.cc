@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dynamic patch component installer
+// summary: Implements the installer policy for browser dynamic patch components, verifying patch versions and installing the inner CRX into the modules directory.
+// ---
+
 #include "chrome/browser/component_updater/dynamic_patch_component_installer.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater utilities implementation
+// summary: Implements IsPerUserInstall, which reports whether Chrome is installed per user or machine-wide on Windows.
+// ---
+
 #include "chrome/browser/component_updater/component_updater_utils.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA language pack component installer policy header
+// summary: Declares the installer policy and registration function for SODA speech language pack components managed by the component updater.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_SODA_LANGUAGE_PACK_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_SODA_LANGUAGE_PACK_COMPONENT_INSTALLER_H_
 

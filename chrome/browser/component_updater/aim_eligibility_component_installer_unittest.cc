@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AIM eligibility component installer unit tests
+// summary: Unit tests for the AIM eligibility component installer policy, covering installation verification and staged extension handling in preferences.
+// ---
+
 #include "chrome/browser/component_updater/aim_eligibility_component_installer.h"
 
 #include <memory>

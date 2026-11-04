@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI Embeddings component installer implementation
+// summary: Implements the installer policy that verifies and delivers the AI Embeddings model and tokenizer files to the passage embeddings service.
+// ---
+
 #include "chrome/browser/component_updater/ai_embeddings_component_installer.h"
 
 #include <stdint.h>

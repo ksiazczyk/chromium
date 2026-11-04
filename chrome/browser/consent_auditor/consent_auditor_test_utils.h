@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake consent auditor test helper declaration
+// summary: Declares BuildFakeConsentAuditor, a helper returning a fake consent auditor keyed service for browser contexts in tests.
+// ---
+
 #ifndef CHROME_BROWSER_CONSENT_AUDITOR_CONSENT_AUDITOR_TEST_UTILS_H_
 #define CHROME_BROWSER_CONSENT_AUDITOR_CONSENT_AUDITOR_TEST_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Composeplate Android build targets
+summary: GN build file defining the composeplate Android library, JNI headers, resources, and Robolectric unit test targets with their dependencies.

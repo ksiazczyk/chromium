@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose enabling header
+// summary: Declares ComposeEnabling and nudge deny reasons, with checks for popup, saved state and context menu triggers plus scoped overrides for testing.
+// ---
+
 #ifndef CHROME_BROWSER_COMPOSE_COMPOSE_ENABLING_H_
 #define CHROME_BROWSER_COMPOSE_COMPOSE_ENABLING_H_
 

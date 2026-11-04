@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose text usage logger interface
+// summary: Declares ComposeTextUsageLogger, a per-document autofill observer that logs UKM for text writing usage on web pages.
+// ---
+
 #ifndef CHROME_BROWSER_COMPOSE_COMPOSE_TEXT_USAGE_LOGGER_H_
 #define CHROME_BROWSER_COMPOSE_COMPOSE_TEXT_USAGE_LOGGER_H_
 
