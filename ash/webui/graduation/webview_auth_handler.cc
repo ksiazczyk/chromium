@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webview authentication handler implementation
+// summary: Implements webview authentication for the graduation UI by setting account cookies in a dedicated storage partition, with retry backoff and histogram logging.
+// ---
+
 #include "ash/webui/graduation/webview_auth_handler.h"
 
 #include <memory>

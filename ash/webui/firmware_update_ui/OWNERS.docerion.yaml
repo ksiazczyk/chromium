@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the firmware update UI
+summary: Lists jimmyxgong@chromium.org as the primary owner for code reviews in this directory.

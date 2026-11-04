@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche app preference name declarations
+// summary: Declares the preference name constant for the apps access status.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_PREF_NAMES_H_
 #define ASH_WEBUI_ECHE_APP_UI_PREF_NAMES_H_
 

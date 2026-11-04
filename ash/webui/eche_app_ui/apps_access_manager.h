@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apps access manager class declaration
+// summary: Declares AppsAccessManager, which tracks whether the user granted apps access on their phone and defines the onboarding user action metrics enum.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_APPS_ACCESS_MANAGER_H_
 #define ASH_WEBUI_ECHE_APP_UI_APPS_ACCESS_MANAGER_H_
 

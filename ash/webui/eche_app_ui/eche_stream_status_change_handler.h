@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche stream status change handler header
+// summary: Declares EcheStreamStatusChangeHandler, which implements the DisplayStreamHandler mojo interface to sync video streaming status with the Eche WebUI.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_STREAM_STATUS_CHANGE_HANDLER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_STREAM_STATUS_CHANGE_HANDLER_H_
 

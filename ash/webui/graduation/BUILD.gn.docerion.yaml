@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Graduation WebUI build targets (BUILD.gn)
+summary: Defines the Graduation static library, the url_constants source set, and the unit_tests target for the ChromeOS-only Graduation app.

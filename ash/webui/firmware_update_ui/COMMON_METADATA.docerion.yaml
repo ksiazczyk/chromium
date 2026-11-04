@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the firmware update UI
+summary: Declares the ChromeOS team path and Buganizer component ID 1150862 shared by metadata files in this directory.

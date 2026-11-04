@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility provider class declaration
+// summary: Declares AccessibilityProvider and its proxy interface for exposing streamed Android accessibility trees and handling accessibility actions in the Eche App UI.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ACCESSIBILITY_PROVIDER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ACCESSIBILITY_PROVIDER_H_
 

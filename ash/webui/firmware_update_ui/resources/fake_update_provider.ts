@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake update provider implementation
+// summary: Implements a fake version of the UpdateProvider Mojo interface that serves mock firmware update lists and in-flight updates.
+// ---
+
 import {FakeObservables} from 'chrome://resources/ash/common/fake_observables.js';
 
 import type {FirmwareUpdate, InstallControllerRemote, UpdateObserverRemote} from './firmware_update.mojom-webui.js';

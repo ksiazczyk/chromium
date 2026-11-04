@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Welcome illustration for graduation web UI
+summary: SVG vector illustration used as the welcome image in the Chrome OS graduation web UI, with colors driven by cros-sys CSS variables.
+-->
+
 <svg id="welcomeSvg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="464" height="464" viewBox="0 0 464 464" fill="none">
 <g clip-path="url(#clip0_2510_30062)">
 <path d="M215.038 375.766C215.038 382.089 209.912 387.215 203.589 387.215C197.266 387.215 192.14 382.089 192.14 375.766C192.14 369.442 197.266 364.316 203.589 364.316C209.912 364.316 215.038 369.442 215.038 375.766Z" fill="var(--cros-sys-illo-color1-1)" stroke="var(--cros-sys-illo-color1)" stroke-width="3"/>

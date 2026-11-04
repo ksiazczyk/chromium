@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch app helper class declaration
+// summary: Declares LaunchAppHelper with notification info types and callbacks for launching or closing the Eche app.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_LAUNCH_APP_HELPER_H_
 #define ASH_WEBUI_ECHE_APP_UI_LAUNCH_APP_HELPER_H_
 

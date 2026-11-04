@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation state tracker declaration
+// summary: Declares GraduationStateTracker with the FlowState enum used for the Ash.ContentTransfer.FlowState metric.
+// ---
+
 #ifndef ASH_WEBUI_GRADUATION_GRADUATION_STATE_TRACKER_H_
 #define ASH_WEBUI_GRADUATION_GRADUATION_STATE_TRACKER_H_
 

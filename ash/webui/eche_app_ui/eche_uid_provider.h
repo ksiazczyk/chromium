@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche UID provider header
+// summary: Declares EcheUidProvider, which generates and caches an Eche App UID from an ED25519 seed stored in PrefService and exposes it via the UidGenerator mojo interface.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_UID_PROVIDER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_UID_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenBacklightState mojom traits header
+// summary: Declares the Mojo EnumTraits specialization mapping ash::ScreenBacklightState to the Eche App mojom enum.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_MOJOM_TYPES_MOJOM_TRAITS_H_
 #define ASH_WEBUI_ECHE_APP_UI_MOJOM_TYPES_MOJOM_TRAITS_H_
 

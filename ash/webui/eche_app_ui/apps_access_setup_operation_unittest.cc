@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppsAccessSetupOperation unit tests
+// summary: Unit tests verifying status change notifications to the delegate and final-status detection for AppsAccessSetupOperation.
+// ---
+
 #include "ash/webui/eche_app_ui/apps_access_setup_operation.h"
 
 #include <ostream>

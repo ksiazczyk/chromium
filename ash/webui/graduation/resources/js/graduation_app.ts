@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation app screen controller
+// summary: Polymer app element that authenticates the webview and switches between the welcome, Takeout, error, and offline screens based on events.
+// ---
+
 import './graduation_error.js';
 import './graduation_offline.js';
 import './graduation_takeout_ui.js';

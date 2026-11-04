@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake apps access manager implementation
+// summary: Implements a fake apps access manager that returns a preset access status and grants access when the setup operation completes successfully, for use in tests.
+// ---
+
 #include "ash/webui/eche_app_ui/fake_apps_access_manager.h"
 #include "chromeos/ash/components/phonehub/multidevice_feature_access_manager.h"
 

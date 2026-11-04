@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche message receiver implementation
+// summary: Implements EcheMessageReceiver, notifying observers about apps access, setup, status change, and policy messages received from the remote phone.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_message_receiver.h"
 
 #include "ash/webui/eche_app_ui/proto/exo_messages.pb.h"

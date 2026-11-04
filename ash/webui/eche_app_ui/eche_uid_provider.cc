@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche UID provider implementation
+// summary: Implements the UID provider that generates an ED25519 keypair-based UID for Eche App, persisting the seed in preferences and exposing it over mojo.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_uid_provider.h"
 
 #include <openssl/base64.h>

@@ -1,0 +1,4 @@
+# Docerion header of focus_mode.mojom.
+type: source
+title: Focus Mode media player Mojom interfaces
+summary: Defines the Mojom structs, enum, and interfaces used by the Focus Mode WebUI and Ash to exchange track definitions and playback status.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager page handler implementation
+// summary: Implements the Mojo page handler that binds the file manager WebUI page to its browser-side controller.
+// ---
+
 #include "ash/webui/file_manager/file_manager_page_handler.h"
 
 #include "ash/webui/file_manager/file_manager_ui.h"

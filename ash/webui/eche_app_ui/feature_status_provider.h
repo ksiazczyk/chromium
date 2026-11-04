@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature status provider interface
+// summary: Declares the FeatureStatusProvider interface that exposes the current Eche feature status to observers.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_FEATURE_STATUS_PROVIDER_H_
 #define ASH_WEBUI_ECHE_APP_UI_FEATURE_STATUS_PROVIDER_H_
 

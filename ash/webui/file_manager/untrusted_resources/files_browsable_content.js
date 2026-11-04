@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller for the browsable preview iframe
+// summary: Listens for Files app messages, sets the iframe source from URL or blob data, and applies text CSS except for PDF content.
+// ---
+
 /**
  * @type {string} Type of the source file to preview.
  */

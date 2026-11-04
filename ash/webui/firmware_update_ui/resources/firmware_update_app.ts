@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firmware update app element
+// summary: Defines the firmware-update-app custom element, the main landing page of the firmware update WebUI, with color change handling.
+// ---
+
 import './firmware_shared.css.js';
 import './firmware_shared_fonts.css.js';
 import './firmware_confirmation_dialog.js';

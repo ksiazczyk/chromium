@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode media playback app logic
+// summary: TypeScript module implementing the MediaClient and TrackProvider Mojo interfaces, validating and reporting playback status for the Focus Mode player.
+// ---
+
 import type {MediaClientInterface, TrackDefinition, TrackProviderInterface} from './focus_mode.mojom-webui.js';
 import {MediaClientReceiver, PlaybackState, TrackProvider} from './focus_mode.mojom-webui.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EcheSignaler unit tests
+// summary: Unit tests for EcheSignaler covering signaling message exchange, teardown, and failure reasons such as timeouts and differing Wi-Fi networks.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_signaler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Eche connection status handler
+// summary: Tests connection status change notifications, UI status updates, and background connection requests using a fake observer.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_connection_status_handler.h"
 
 #include "ash/constants/ash_features.h"

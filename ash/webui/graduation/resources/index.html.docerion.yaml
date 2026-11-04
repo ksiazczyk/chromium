@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Graduation WebUI entry page
+summary: HTML entry point for the ChromeOS Graduation WebUI that loads the app module and renders the graduation-app element with themed styling.

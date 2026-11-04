@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for file manager untrusted resources
+summary: GN build rules that generate a GRD resource list and grit outputs packaging the ChromeOS Files app's untrusted web UI resources.

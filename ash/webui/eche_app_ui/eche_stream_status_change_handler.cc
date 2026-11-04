@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche stream status change handler implementation
+// summary: Implements the stream status change handler that notifies observers of Eche video streaming status changes and records UMA metrics by launch entry point.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_stream_status_change_handler.h"
 
 #include "ash/webui/eche_app_ui/apps_launch_info_provider.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the firmware update UI
+summary: Restricts includes in this directory to the fwupd component, ui/chromeos, and ui/resources.

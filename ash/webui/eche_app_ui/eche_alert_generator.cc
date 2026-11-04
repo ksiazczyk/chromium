@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EcheAlertGenerator implementation
+// summary: Generates notifications and toasts for the Eche App, handling screen lock, retry connection, inactivity, and network settings alerts.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_alert_generator.h"
 
 #include "ash/constants/ash_pref_names.h"

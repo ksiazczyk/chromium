@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager WebUI controller implementation
+// summary: Implements the file manager WebUI controller and config, including kiosk session detection, trusted data source setup, and window instance counting.
+// ---
+
 
 #include "ash/webui/file_manager/file_manager_ui.h"
 

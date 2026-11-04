@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EcheSignaler implementation
+// summary: Implements EcheSignaler, which exchanges WebRTC signaling messages with the phone over the Eche connection and records signaling timeouts and failure reasons.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_signaler.h"
 
 #include "ash/root_window_controller.h"

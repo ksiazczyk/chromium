@@ -1,0 +1,4 @@
+# Docerion header of graduation_error.html.
+type: source
+title: Graduation error screen template
+summary: HTML template for the error screen showing a Google logo with localized error title and description text.

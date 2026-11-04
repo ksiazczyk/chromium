@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Focus Mode WebUI library
+summary: Defines the focus_mode static library, listing its C++ sources and dependencies for the ChromeOS-only Focus Mode WebUI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Eche connector for tests
+// summary: Header declaring a fake EcheConnector that records counts of setup, access state, and nearby connection requests for tests.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_FAKE_ECHE_CONNECTOR_H_
 #define ASH_WEBUI_ECHE_APP_UI_FAKE_ECHE_CONNECTOR_H_
 

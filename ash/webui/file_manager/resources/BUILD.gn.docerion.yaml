@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Files app resources GN build file
+summary: Defines GN targets that build the Files app web UI labs TypeScript code and generate grit resource bundles for the file_manager_swa.

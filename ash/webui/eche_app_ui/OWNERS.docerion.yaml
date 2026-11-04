@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS of eche_app_ui
+summary: Lists the code owners of the eche_app_ui directory and references the internal component used for review routing.

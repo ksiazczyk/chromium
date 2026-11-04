@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus mode media player script
+// summary: TypeScript logic for the untrusted focus mode media player, exchanging postMessage commands with the trusted parent page to load tracks, report playback status, and handle media session actions.
+// ---
+
 const TRUSTED_ORIGIN = 'chrome://focus-mode-media';
 
 interface Track {

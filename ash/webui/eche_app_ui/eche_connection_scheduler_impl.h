@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche connection scheduler implementation declarations
+// summary: Declares EcheConnectionSchedulerImpl, which drives ConnectionManager calls with backoff while observing feature and connection status.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_CONNECTION_SCHEDULER_IMPL_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_CONNECTION_SCHEDULER_IMPL_H_
 

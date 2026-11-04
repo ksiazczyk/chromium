@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Growth internals page handler implementation
+// summary: Implements the Mojo PageHandler by returning logs from CampaignsLogger and clearing events via CampaignsManager.
+// ---
+
 #include "ash/webui/growth_internals/growth_internals_page_handler.h"
 
 #include "ash/webui/growth_internals/growth_internals.mojom.h"

@@ -8,6 +8,12 @@
  * #include=
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Firmware update shared font styles
+summary: Shared CSS font styles for the firmware update UI, defining font family, size, weight and line height custom properties and font classes.
+*/
+
 :host {
   /** Fonts */
   --firmware-google-sans-font-family: 'Google Sans', sans-serif;

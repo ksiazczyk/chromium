@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Files Internals mojom
+summary: GN build file defining the mojom target for files_internals.mojom with the webui module path, restricted to ChromeOS builds.

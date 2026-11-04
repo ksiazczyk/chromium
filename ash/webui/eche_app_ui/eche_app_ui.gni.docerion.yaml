@@ -1,0 +1,4 @@
+# Docerion header of eche_app_ui.gni.
+type: config
+title: Eche app build flag definition
+summary: GN import file defining the enable_cros_eche_app build argument that selects between the real branded Eche app and a mock app for testing.

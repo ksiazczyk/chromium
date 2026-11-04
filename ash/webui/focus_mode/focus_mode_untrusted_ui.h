@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted focus mode player WebUI declarations
+// summary: Declares the untrusted WebUI controller and its configuration class for the focus mode player page.
+// ---
+
 #ifndef ASH_WEBUI_FOCUS_MODE_FOCUS_MODE_UNTRUSTED_UI_H_
 #define ASH_WEBUI_FOCUS_MODE_FOCUS_MODE_UNTRUSTED_UI_H_
 

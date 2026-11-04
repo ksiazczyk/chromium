@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePipe for privileged and unprivileged frame communication
+// summary: Implements the MessagePipe class with message data structures, error serialization, reserved response and error message types, and handlers for sending and receiving messages between Eche frames.
+// ---
+
 /** The data structure the message pipe sends and receives. */
 class MessageData {
   constructor() {

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff lint configuration for firmware update UI resources
+# summary: Extends the repository root Ruff configuration and sets a four-space indent width for this directory.
+# ---
+
 extend = "../../../.ruff.toml"
 indent-width = 4

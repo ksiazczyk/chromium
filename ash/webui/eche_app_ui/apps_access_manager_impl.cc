@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppsAccessManagerImpl implementation
+// summary: Implements the apps access manager for the Eche App, persisting access status in prefs and handling setup requests, connection changes, and onboarding metrics.
+// ---
+
 #include "ash/webui/eche_app_ui/apps_access_manager_impl.h"
 
 #include "ash/constants/ash_features.h"

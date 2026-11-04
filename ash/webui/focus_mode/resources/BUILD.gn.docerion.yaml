@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Focus Mode WebUI resources
+summary: Defines the build_webui target that compiles the Focus Mode WebUI TypeScript, static HTML and Mojo dependencies into grit-packaged resources.

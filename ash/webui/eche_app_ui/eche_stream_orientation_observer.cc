@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EcheStreamOrientationObserver implementation
+// summary: Implements EcheStreamOrientationObserver, which forwards stream orientation changes to the Eche tray when the Eche SWA feature is enabled.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_stream_orientation_observer.h"
 
 #include "ash/constants/ash_features.h"

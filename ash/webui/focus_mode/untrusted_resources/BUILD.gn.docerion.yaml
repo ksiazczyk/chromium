@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Focus mode player WebUI build definition
+summary: Defines the GN build for the untrusted focus mode audio player, bundling player.html and player.ts with its TypeScript dependencies.

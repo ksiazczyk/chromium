@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Mojom Directory Owners
+summary: Sets per-file review ownership for mojom files, delegating approval to the IPC security owners.

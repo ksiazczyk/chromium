@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Graduation directory (DEPS)
+summary: Restricts which Chromium headers files in this directory may include, with per-file exceptions for the unit tests and webview auth handler.

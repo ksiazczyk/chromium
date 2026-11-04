@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche connection metrics recorder implementation
+// summary: Records Eche connection results, failure reasons, latency, and duration to UMA histograms.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_connection_metrics_recorder.h"
 #include "base/metrics/histogram_functions.h"
 #include "chromeos/ash/services/secure_channel/public/mojom/secure_channel.mojom.h"

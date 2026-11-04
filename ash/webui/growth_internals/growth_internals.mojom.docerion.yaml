@@ -1,0 +1,4 @@
+# Docerion header of growth_internals.mojom.
+type: source
+title: Mojo interface for the growth internals page
+summary: Defines the PageHandler Mojo interface for fetching growth campaign logs and clearing feature engagement events.

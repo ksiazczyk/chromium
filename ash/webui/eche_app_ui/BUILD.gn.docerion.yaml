@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Eche App UI
+summary: Defines GN build targets, sources and dependencies for the ChromeOS Eche App UI, including static libraries for preferences, feature status and connection handling.

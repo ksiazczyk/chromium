@@ -1,0 +1,4 @@
+# Docerion header of graduation_ui.mojom.
+type: source
+title: Graduation UI Mojom Interface Definitions
+summary: Defines the structs, enums, and GraduationUiHandler interface used to integrate ChromeOS with the Content Transfer System Web App, including webview authentication and profile info.

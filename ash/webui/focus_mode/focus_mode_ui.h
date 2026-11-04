@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus mode WebUI controller declarations
+// summary: Declares the trusted WebUI controller and its configuration class for the focus mode media page, including the track provider interface binding.
+// ---
+
 #ifndef ASH_WEBUI_FOCUS_MODE_FOCUS_MODE_UI_H_
 #define ASH_WEBUI_FOCUS_MODE_FOCUS_MODE_UI_H_
 

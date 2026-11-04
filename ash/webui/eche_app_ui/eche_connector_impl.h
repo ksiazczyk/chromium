@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche connector implementation header
+// summary: Declares EcheConnectorImpl, which queues messages until the connection is ready and flushes them on status changes.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_CONNECTOR_IMPL_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_CONNECTOR_IMPL_H_
 

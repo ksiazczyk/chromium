@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche feature status provider implementation
+// summary: Computes the Eche feature status from Phone Hub, multi-device setup, and secure channel connection states.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_feature_status_provider.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the firmware update UI mojom target
+summary: Defines the mojom build target for the firmware update UI, using firmware_update.mojom as its source and depending on Mojo base mojoms.

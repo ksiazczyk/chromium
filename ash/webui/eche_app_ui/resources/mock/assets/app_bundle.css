@@ -2,4 +2,10 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Mock app bundle stylesheet for eche app UI
+summary: Minimal CSS stylesheet in the mock assets folder that underlines h1 headings, used as a mock app bundle style for the eche app UI.
+*/
+
 h1 {text-decoration:underline;}

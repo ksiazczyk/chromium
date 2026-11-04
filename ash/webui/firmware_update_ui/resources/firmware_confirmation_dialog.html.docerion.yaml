@@ -1,0 +1,4 @@
+# Docerion header of firmware_confirmation_dialog.html.
+type: source
+title: Firmware confirmation dialog template
+summary: HTML template for the confirmation dialog showing update details, a warning disclaimer, and cancel or next buttons.

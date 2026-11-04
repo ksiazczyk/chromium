@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche App URL constants
+// summary: Defines string constants for the Eche App WebUI host names and their trusted and untrusted scheme addresses.
+// ---
+
 #include "ash/webui/eche_app_ui/url_constants.h"
 
 namespace ash {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation UI controller and config declarations
+// summary: Declares GraduationUI, a MojoWebUIController, and its ChromeOSWebUIConfig for the Graduation app host.
+// ---
+
 #ifndef ASH_WEBUI_GRADUATION_GRADUATION_UI_H_
 #define ASH_WEBUI_GRADUATION_GRADUATION_UI_H_
 

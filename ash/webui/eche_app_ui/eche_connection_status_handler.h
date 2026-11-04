@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche connection status handler declarations
+// summary: Declares a ConnectionStatusObserver implementation that tracks connection status for the UI and notifies registered observers.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_CONNECTION_STATUS_HANDLER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_CONNECTION_STATUS_HANDLER_H_
 

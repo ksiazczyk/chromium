@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EcheRecentAppClickHandler header
+// summary: Declares EcheRecentAppClickHandler, which handles recent app and notification clicks from Phone Hub and starts app streaming for the chosen app.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_RECENT_APP_CLICK_HANDLER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_RECENT_APP_CLICK_HANDLER_H_
 

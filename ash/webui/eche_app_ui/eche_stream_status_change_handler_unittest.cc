@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Eche stream status change handler unit tests
+// summary: Unit tests for the stream status change handler, using fake observers to verify streaming start, status notifications, and stream action callbacks.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_stream_status_change_handler.h"
 #include <memory>
 

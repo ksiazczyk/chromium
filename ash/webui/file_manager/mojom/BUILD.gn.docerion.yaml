@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for file manager Mojom bindings
+summary: Defines a mojom build target for file_manager.mojom and asserts the file manager is ChromeOS only.

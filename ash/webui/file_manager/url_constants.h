@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File Manager URL constants header
+// summary: Defines string constants naming the trusted and untrusted file manager WebUI hosts and their base addresses.
+// ---
+
 #ifndef ASH_WEBUI_FILE_MANAGER_URL_CONSTANTS_H_
 #define ASH_WEBUI_FILE_MANAGER_URL_CONSTANTS_H_
 

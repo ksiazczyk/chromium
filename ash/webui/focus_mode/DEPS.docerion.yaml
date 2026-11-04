@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for focus_mode
+summary: Sets include rules for the directory, allowing blink web preferences includes while forbidding direct chrome dependencies in favor of delegates.

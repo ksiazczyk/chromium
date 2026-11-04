@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the firmware update UI
+summary: Defines the firmware_update_ui static library and the url_constants source set with their sources and dependencies for the ChromeOS firmware update WebUI.

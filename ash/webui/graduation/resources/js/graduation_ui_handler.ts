@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation UI handler accessor
+// summary: TypeScript singleton that provides access to the Mojo GraduationUiHandler remote, with helpers to set or reset it for testing.
+// ---
+
 import type {GraduationUiHandlerInterface} from '../mojom/graduation_ui.mojom-webui.js';
 import {GraduationUiHandler} from '../mojom/graduation_ui.mojom-webui.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata (DIR_METADATA)
+summary: Points this directory to the shared COMMON_METADATA mixins under ash/edusumer.

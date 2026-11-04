@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Eche message receiver implementation
+// summary: Implements a fake EcheMessageReceiver that emits fabricated access state, setup, status change, and policy change notifications.
+// ---
+
 #include "ash/webui/eche_app_ui/fake_eche_message_receiver.h"
 
 namespace ash {

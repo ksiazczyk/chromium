@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfo class implementation
+// summary: Implements the SystemInfo class and its builder, which stores device name, board name, Gaia ID, device type, OS version, and release channel for the Eche app.
+// ---
+
 #include "ash/webui/eche_app_ui/system_info.h"
 
 #include "base/memory/ptr_util.h"

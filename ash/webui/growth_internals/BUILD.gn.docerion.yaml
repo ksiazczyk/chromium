@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Growth Internals WebUI
+summary: Defines the static library, mojom bindings and WebUI resources build targets for the growth internals page.

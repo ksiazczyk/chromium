@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake launch app helper implementation
+// summary: Implements a fake LaunchAppHelper that returns a configurable app launch prohibited reason instead of real checks.
+// ---
+
 #include "ash/webui/eche_app_ui/fake_launch_app_helper.h"
 
 namespace ash {

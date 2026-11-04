@@ -1,0 +1,4 @@
+# Docerion header of labs.html.
+type: source
+title: Files app Labs widget demo page
+summary: Demo page for the Files app that showcases breadcrumb, tree, and icon widgets in both the legacy and Refresh23 themes.

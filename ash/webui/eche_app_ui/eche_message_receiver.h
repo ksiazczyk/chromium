@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche message receiver class and observer interface
+// summary: Declares EcheMessageReceiver and its observer interface for apps access state, setup responses, status changes, and app policy changes.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_MESSAGE_RECEIVER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_MESSAGE_RECEIVER_H_
 

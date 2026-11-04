@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted focus mode player WebUI implementation
+// summary: Implements the untrusted WebUI controller for the focus mode player, configuring its data source, content security policies, and allowed frame ancestor.
+// ---
+
 
 #include "ash/webui/focus_mode/focus_mode_untrusted_ui.h"
 

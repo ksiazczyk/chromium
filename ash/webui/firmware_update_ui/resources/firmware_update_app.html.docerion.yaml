@@ -1,0 +1,4 @@
+# Docerion header of firmware_update_app.html.
+type: source
+title: Firmware update app template
+summary: HTML template for the firmware-update-app element, showing the app title and hosting the updates list and the update and confirmation dialogs.

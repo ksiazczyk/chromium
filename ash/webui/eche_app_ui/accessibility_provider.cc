@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility provider implementation
+// summary: Implements the accessibility provider that tracks the Eche web view, builds an Android accessibility tree source and forwards accessibility events and actions.
+// ---
+
 #include "ash/webui/eche_app_ui/accessibility_provider.h"
 
 #include <cstddef>

@@ -6,6 +6,12 @@
  * @fileoverview Test suite for chrome://eche-app.
  */
 
+// ---docerion
+// type: test
+// title: Eche App UI Mocha test suite (TypeScript)
+// summary: TypeScript Mocha suite asserting the Eche App page shows the expected title and origin and that its guest iframe loads the untrusted index page.
+// ---
+
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';
 
 const HOST_ORIGIN = 'chrome://eche-app';

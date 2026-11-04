@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppsLaunchInfoProvider header
+// summary: Declares AppsLaunchInfoProvider, a class that stores the app stream entry point and the last connection status.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_APPS_LAUNCH_INFO_PROVIDER_H_
 #define ASH_WEBUI_ECHE_APP_UI_APPS_LAUNCH_INFO_PROVIDER_H_
 

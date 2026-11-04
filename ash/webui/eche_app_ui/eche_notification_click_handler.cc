@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handler for Phone Hub notification clicks launching the Eche app
+// summary: Handles Phone Hub notification clicks by launching the Eche app or showing a screen-lock notification, depending on prohibited launch reasons.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_notification_click_handler.h"
 
 #include "ash/root_window_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EcheStreamOrientationObserver unit tests
+// summary: Unit tests for EcheStreamOrientationObserver verifying that orientation changes update the Eche tray and are ignored when the Eche SWA flag is disabled.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_stream_orientation_observer.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the image preview content page
+summary: Centers the image element, adds a checkerboard background and dark mode handling for the untrusted image preview.
+*/
+
 #content {
   bottom: 0;
   left: 0;

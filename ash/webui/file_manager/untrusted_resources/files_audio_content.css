@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the audio preview content page
+summary: Positions the audio element, adds checkerboard backgrounds, focus outlines and dark mode styling for the untrusted audio preview.
+*/
+
 #content {
   bottom: 0;
   left: 0;

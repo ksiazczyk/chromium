@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the file manager folder
+summary: Points to the shared metadata mixins defined in ui/file_manager/COMMON_METADATA.

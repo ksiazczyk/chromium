@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche app preference name constants
+// summary: Defines the preference name that stores the apps access status reported by the phone.
+// ---
+
 #include "ash/webui/eche_app_ui/pref_names.h"
 
 namespace ash {

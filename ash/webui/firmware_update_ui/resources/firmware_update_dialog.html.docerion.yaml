@@ -1,0 +1,4 @@
+# Docerion header of firmware_update_dialog.html.
+type: source
+title: Firmware update dialog template
+summary: HTML template for the firmware-update-dialog element with title, body, installation progress bar and restart or close buttons.

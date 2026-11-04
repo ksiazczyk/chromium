@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfoProvider implementation
+// summary: Implements the mojom SystemInfoProvider that exposes device and board details, tablet mode, WiFi connection state, and debug flags to the Eche app web UI.
+// ---
+
 #include "ash/webui/eche_app_ui/system_info_provider.h"
 
 #include <string_view>

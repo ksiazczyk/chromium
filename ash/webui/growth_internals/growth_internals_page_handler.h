@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Growth internals page handler declaration
+// summary: Declares the ash PageHandler class that binds the growth internals Mojo interface for the WebUI.
+// ---
+
 #ifndef ASH_WEBUI_GROWTH_INTERNALS_GROWTH_INTERNALS_PAGE_HANDLER_H_
 #define ASH_WEBUI_GROWTH_INTERNALS_GROWTH_INTERNALS_PAGE_HANDLER_H_
 

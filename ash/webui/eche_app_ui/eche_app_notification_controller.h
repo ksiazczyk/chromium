@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EcheAppNotificationController class header
+// summary: Declares the controller responsible for showing and closing Eche app notifications, including screen lock, connection error, and WebUI-generated notices.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_APP_NOTIFICATION_CONTROLLER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_APP_NOTIFICATION_CONTROLLER_H_
 

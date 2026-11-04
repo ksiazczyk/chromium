@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Eche connector implementation unit tests
+// summary: Unit tests for EcheConnectorImpl covering message queuing and sending across feature and connection statuses.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_connector_impl.h"
 #include "ash/webui/eche_app_ui/fake_eche_connection_scheduler.h"
 #include "ash/webui/eche_app_ui/fake_feature_status_provider.h"

@@ -11,6 +11,12 @@
  * #include=cr-shared-style cros-color-overrides
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for firmware update dialogs
+summary: Shared CSS defining dialog corner radius and dark mode background colors for the firmware update UI.
+*/
+
 :host-context(body.jelly-enabled) cr-dialog::part(dialog) {
   border-radius: 20px;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche presence manager implementation
+// summary: Controls presence monitoring and keepalive sending while the app stream runs, terminating the connection when the device is not seen recently.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_presence_manager.h"
 
 #include "ash/constants/ash_features.h"

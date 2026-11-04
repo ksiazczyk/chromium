@@ -1,0 +1,4 @@
+# Docerion header of eche_app.mojom.
+type: source
+title: Eche App mojom interface definitions
+summary: Defines Mojo interfaces for the Eche App SWA covering WebRTC signaling, system info, screen backlight, tablet mode, network, and accessibility messaging with the browser process.

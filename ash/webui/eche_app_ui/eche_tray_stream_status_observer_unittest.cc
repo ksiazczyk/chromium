@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Eche tray stream status observer unit tests
+// summary: Ash test suite verifying that the tray stream status observer launches, updates, and gracefully closes the Eche bubble across stream and feature status changes.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_tray_stream_status_observer.h"
 #include <memory>
 

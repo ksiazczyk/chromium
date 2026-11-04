@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager WebUI controller declarations
+// summary: Declares the WebUI config and controller classes for the file manager system web app, including Mojo interface binding and instance counters.
+// ---
+
 #ifndef ASH_WEBUI_FILE_MANAGER_FILE_MANAGER_UI_H_
 #define ASH_WEBUI_FILE_MANAGER_FILE_MANAGER_UI_H_
 
