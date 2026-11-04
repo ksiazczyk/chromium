@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabsIntentTestUtils test helpers
+// summary: Test utility that builds minimal and customizable custom tab intents, including incognito variants, plus a helper for verifying pending intents in tests.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.app.PendingIntent;

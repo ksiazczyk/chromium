@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screenshot capture tests
+// summary: Parameterized tests verifying that navigation screenshots are captured correctly, including render test comparisons.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import static androidx.test.espresso.Espresso.onView;

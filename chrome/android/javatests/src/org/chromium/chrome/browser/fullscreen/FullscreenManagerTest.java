@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenManagerTest
+// summary: Android instrumented test suite verifying Chrome fullscreen behavior, including browser controls hiding, scrolling, and back press handling.
+// ---
+
 package org.chromium.chrome.browser.fullscreen;
 
 import static android.view.Display.INVALID_DISPLAY;

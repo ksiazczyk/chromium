@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationBar instrumentation tests
+// summary: Android instrumentation tests for the Chrome location bar, covering visibility, voice input, locale handling, and template URL service behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static androidx.test.espresso.Espresso.onView;

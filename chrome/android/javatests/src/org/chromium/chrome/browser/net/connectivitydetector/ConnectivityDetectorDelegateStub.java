@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectivityDetectorDelegateStub
+// summary: Stub implementation of ConnectivityDetector.Delegate that provides a configurable connection state and HTTP probe skipping for use in tests.
+// ---
+
 package org.chromium.chrome.browser.net.connectivitydetector;
 
 /** Stub of ConnectivityDetector.Delegate for testing purpose. */

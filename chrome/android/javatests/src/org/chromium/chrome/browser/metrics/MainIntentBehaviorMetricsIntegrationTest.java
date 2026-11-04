@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main intent behavior metrics integration tests
+// summary: Integration tests verifying metrics recorded for main intent behaviors across cold and warm process lifecycles and background durations.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'LauncherActivityTest: tests for launching Chrome'
+// summary: Android instrumentation tests verifying that ChromeLauncherActivity handles launch intents correctly, including URLs without a scheme, malformed parcels, and VIEW intents without a URI.
+// ---
+
 package org.chromium.chrome.browser.document;
 
 import android.annotation.SuppressLint;

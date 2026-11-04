@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser promo First Run fragment render tests
+// summary: Render tests for the default browser promo First Run fragment, parameterized over night mode and device orientation on phone form factors.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

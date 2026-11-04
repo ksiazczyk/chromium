@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base partner browser customization integration test rule
+// summary: JUnit rule that sets up a test partner customization provider for partner customization integration tests.
+// ---
+
 package org.chromium.chrome.browser.partnercustomizations;
 
 import org.junit.rules.ExternalResource;

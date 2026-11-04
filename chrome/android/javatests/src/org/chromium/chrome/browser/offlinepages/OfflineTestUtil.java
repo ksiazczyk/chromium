@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflineTestUtil
+// summary: Test utility class giving Java offline pages tests access to the request queue, saved pages and request coordinator state via JNI.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import androidx.annotation.Nullable;

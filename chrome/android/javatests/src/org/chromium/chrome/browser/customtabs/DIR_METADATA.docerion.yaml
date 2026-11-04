@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Customtabs directory metadata
+summary: Chromium metadata file linking this test directory to the shared COMMON_METADATA mixins of the customtabs source folder.

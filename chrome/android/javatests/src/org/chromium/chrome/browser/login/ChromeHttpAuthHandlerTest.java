@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome HTTP auth handler tests
+// summary: Instrumented Android tests verifying the HTTP authentication dialog, including its display and dismissal on navigation, tab switching, and tab closing.
+// ---
+
 package org.chromium.chrome.browser.login;
 
 import android.view.View;

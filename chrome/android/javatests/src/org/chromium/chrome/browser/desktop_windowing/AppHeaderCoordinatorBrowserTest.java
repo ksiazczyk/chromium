@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App header coordinator browser test for desktop windowing
+// summary: Browser tests for the AppHeaderCoordinator in Chrome Android desktop windowing mode, covering insets, toolbar, tab strip, and bottom sheet interactions.
+// ---
+
 package org.chromium.chrome.browser.desktop_windowing;
 
 import static org.junit.Assert.assertEquals;

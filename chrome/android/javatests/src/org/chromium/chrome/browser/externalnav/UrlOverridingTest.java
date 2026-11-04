@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlOverridingTest
+// summary: Large instrumentation test suite for URL overriding and external navigation behavior in Chrome on Android, including custom tabs, intent resolution, and activity monitoring.
+// ---
+
 package org.chromium.chrome.browser.externalnav;
 
 import static androidx.test.espresso.action.ViewActions.click;

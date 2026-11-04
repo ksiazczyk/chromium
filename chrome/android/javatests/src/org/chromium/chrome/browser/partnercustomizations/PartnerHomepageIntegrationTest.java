@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Partner homepage integration tests
+// summary: Integration test suite for the partner-provided homepage, covering startup loading and homepage settings.
+// ---
+
 package org.chromium.chrome.browser.partnercustomizations;
 
 import android.net.Uri;

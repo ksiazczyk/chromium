@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeFeedbackCollectorTest
+// summary: JUnit test verifying that ChromeFeedbackCollector includes FamilyInfoFeedbackSource for regular profiles but omits it for incognito profiles.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.app.Activity;

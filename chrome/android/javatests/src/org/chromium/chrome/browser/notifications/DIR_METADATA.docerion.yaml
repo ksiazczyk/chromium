@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for notifications tests
+summary: Chromium DIR_METADATA entry that inherits the shared notifications metadata through a mixin for this test directory.

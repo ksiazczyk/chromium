@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History feature tests
+// summary: Instrumented tests for the Android history feature, covering the history list UI, favicons, sync integration, and clearing browsing data.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static androidx.test.espresso.matcher.ViewMatchers.hasDescendant;

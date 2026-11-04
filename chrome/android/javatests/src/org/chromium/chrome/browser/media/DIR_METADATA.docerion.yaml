@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Media test directory metadata
+summary: Declares the issue tracker component, team email, and Buganizer component for the media UI test directory.

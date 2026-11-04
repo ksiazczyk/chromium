@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevToolsActivity instrumentation test
+// summary: Instrumentation test verifying that opening DevTools for an inspected tab launches DevToolsActivity and that the activity is closed when the inspected tab is closed.
+// ---
+
 package org.chromium.chrome.browser.devtools;
 
 import static org.junit.Assert.assertTrue;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HomepageSettings render tests
+// summary: Render tests for the Chrome homepage settings screen, also covering ChromeSwitchPreference and RadioButtonGroupHomepagePreference across day and night modes.
+// ---
+
 package org.chromium.chrome.browser.homepage.settings;
 
 import android.app.Activity;

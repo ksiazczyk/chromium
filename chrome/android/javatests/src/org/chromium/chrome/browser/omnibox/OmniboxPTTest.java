@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox public transit tests
+// summary: Public transit tests for omnibox open, type, and delete flows from web pages and the new tab page on phone, tablet, and desktop form factors.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import androidx.test.espresso.Espresso;

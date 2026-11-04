@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox instrumentation tests
+// summary: Instrumentation tests of the Chrome omnibox covering suggestion display, capabilities, keyboard interactions, and feature flags.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline page request tests
+// summary: Instrumentation tests verifying that offline copies are served for page loads on a disconnected network, including URL fragments.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import androidx.test.core.app.ApplicationProvider;

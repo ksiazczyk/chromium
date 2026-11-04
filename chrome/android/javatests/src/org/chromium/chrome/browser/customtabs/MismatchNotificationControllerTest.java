@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mismatch notification controller tests
+// summary: Android instrumentation tests for the custom tab account mismatch notification, verifying message display and close behavior with signin and device lock test rules.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.test.espresso.Espresso.onView;

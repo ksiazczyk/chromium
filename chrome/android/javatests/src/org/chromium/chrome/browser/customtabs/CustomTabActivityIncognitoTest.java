@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito Custom Tab activity tests
+// summary: Instrumentation tests for incognito Custom Tab behavior, including toolbar, action buttons, and incognito reauth.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.test.espresso.Espresso.onView;

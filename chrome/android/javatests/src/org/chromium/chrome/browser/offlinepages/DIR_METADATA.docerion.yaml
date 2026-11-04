@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Offline pages javatests DIR_METADATA
+summary: Metadata file pointing the offline pages test directory to the shared COMMON_METADATA mixin of the source directory.

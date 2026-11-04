@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectivityTaskTest
+// summary: JUnit tests verifying ConnectivityTask gathers connection results and timeout data across Chrome and system HTTP and HTTPS checks.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import static org.chromium.chrome.browser.feedback.ConnectivityCheckerTestRule.TIMEOUT_MS;

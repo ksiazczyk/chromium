@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Homepage policy integration test for Chrome on Android
+// summary: Integration test verifying that the HomepageLocation policy is enforced and drives HomepageSettings and home button behavior in Chrome on Android.
+// ---
+
 package org.chromium.chrome.browser.homepage;
 
 import static org.junit.Assert.assertEquals;

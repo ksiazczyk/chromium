@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native page reparenting integration tests
+// summary: Integration tests verifying that native page tabs such as the NTP keep their tab ID and are recreated correctly when the Activity is recreated and tabs are reparented.
+// ---
+
 package org.chromium.chrome.browser.native_page;
 
 import android.content.res.Configuration;

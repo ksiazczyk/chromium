@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito download dialog tests
+// summary: Instrumentation tests verifying the duplicate download dialog behavior for incognito and regular profiles in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.download.dialogs;
 
 import static androidx.test.espresso.Espresso.onView;

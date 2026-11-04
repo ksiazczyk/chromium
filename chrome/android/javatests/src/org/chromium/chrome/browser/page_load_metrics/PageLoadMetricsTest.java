@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageLoadMetricsTest
+// summary: Instrumented JUnit tests for Chrome for Android page load metrics, loading pages via an embedded test server and waiting for paint and metric callbacks.
+// ---
+
 package org.chromium.chrome.browser.page_load_metrics;
 
 import androidx.test.filters.SmallTest;

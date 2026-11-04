@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome modal dialog test utilities
+// summary: Utility class for modal dialog tests that checks whether browser controls, toolbar and tab obscured state are set correctly.
+// ---
+
 package org.chromium.chrome.browser.modaldialog;
 
 import android.view.View;

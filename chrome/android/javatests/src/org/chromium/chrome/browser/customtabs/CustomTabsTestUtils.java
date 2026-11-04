@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabsTestUtils test helpers
+// summary: Test utility offering convenience calls for custom tabs testing such as setting up the connection, binding clients with callbacks and cleaning up sessions.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.junit.Assert.assertEquals;

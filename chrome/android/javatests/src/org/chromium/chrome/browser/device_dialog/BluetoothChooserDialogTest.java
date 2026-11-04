@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth chooser dialog tests
+// summary: Instrumentation tests for the Android Bluetooth chooser dialog, covering device selection, location permissions and dialog finish events.
+// ---
+
 package org.chromium.chrome.browser.device_dialog;
 
 import static org.mockito.Mockito.mock;

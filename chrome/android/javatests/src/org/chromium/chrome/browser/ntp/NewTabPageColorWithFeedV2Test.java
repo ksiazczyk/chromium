@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page color tests with Feed V2
+// summary: Tests that UI components of the native Android new tab page use the expected colors when the Feed V2 is loaded.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalNativeNtpUrl;

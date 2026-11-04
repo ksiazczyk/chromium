@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership for the Android homepage tests directory to the OWNERS file of the corresponding homepage source directory.

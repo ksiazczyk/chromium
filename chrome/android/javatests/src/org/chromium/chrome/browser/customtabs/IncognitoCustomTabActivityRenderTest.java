@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoCustomTabActivity render tests
+// summary: Parameterized render tests capturing the incognito custom tab toolbar UI over HTTP and HTTPS in different screen orientations.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.Intent;

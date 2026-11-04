@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Voice Search Public Transit tests
+// summary: Android instrumented test class that verifies Chrome's voice search flow, stubbing speech recognition intents and the template URL service to check omnibox voice query behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox.voice;
 
 import static androidx.test.espresso.intent.Intents.intending;

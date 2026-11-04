@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab activity test rule
+// summary: JUnit test rule that launches CustomTabActivity, assigns custom tab IDs, and waits for tab initialization and first frame.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.Intent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigationHandler gesture navigation tests
+// summary: Instrumentation tests for back and forward navigation triggered by edge swipe overscroll history navigation.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalNativeNtpUrl;

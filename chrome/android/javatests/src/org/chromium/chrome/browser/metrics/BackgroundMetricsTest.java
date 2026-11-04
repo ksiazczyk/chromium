@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background metrics UMA tests
+// summary: Instrumentation tests verifying UMA background session histograms are recorded when Chrome is backgrounded and foregrounded.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import androidx.test.filters.MediumTest;

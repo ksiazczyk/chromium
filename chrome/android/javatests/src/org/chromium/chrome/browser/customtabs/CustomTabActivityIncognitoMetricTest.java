@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito Custom Tab metric tests
+// summary: Instrumentation tests verifying histograms recorded for incognito Custom Tabs by caller identity and trust level.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.Intent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page navigation tests
+// summary: Android instrumentation tests for loading the new tab page and navigating between it, web pages, and the tab switcher.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalNativeNtpUrl;

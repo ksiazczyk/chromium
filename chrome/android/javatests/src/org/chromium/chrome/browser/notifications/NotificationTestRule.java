@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test rule for Web Notification instrumentation tests
+// summary: JUnit test rule that sets up Chrome tabbed activity tests with a mock notification manager and helpers for configuring notification permissions.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalNativeNtpUrl;

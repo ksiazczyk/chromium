@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManifestHWATest
+// summary: Instrumentation test asserting that every activity derived from ChromeActivity disables hardware acceleration in the Android manifest.
+// ---
+
 package org.chromium.chrome.browser.hardware_acceleration;
 
 import android.content.pm.ActivityInfo;

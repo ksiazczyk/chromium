@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Inherits the code owners for this test directory from the partnercustomizations OWNERS file.

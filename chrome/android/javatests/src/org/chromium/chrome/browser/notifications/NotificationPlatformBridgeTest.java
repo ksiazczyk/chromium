@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationPlatformBridge instrumentation tests
+// summary: Large instrumentation test suite for the notification platform bridge covering notification display, permissions, channels and suspicious notification warning metrics.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

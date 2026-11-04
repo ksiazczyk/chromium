@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoDataTestUtils
+// summary: Test helpers that launch URLs in incognito or regular tabs and custom tabs and provide activity-pair parameters for the incognito leakage tests.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflinePageUtils tests
+// summary: Instrumentation tests for OfflinePageUtils helpers, including sharing of offline pages and URI handling.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import android.app.Activity;

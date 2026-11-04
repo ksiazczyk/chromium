@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab post message test
+// summary: Integration test for custom tab post message support, covering message channel exchange between the client app and web content across session stages.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.hamcrest.Matchers.is;

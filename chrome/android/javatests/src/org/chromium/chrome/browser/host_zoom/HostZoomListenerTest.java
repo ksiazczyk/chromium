@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostZoomListenerTest
+// summary: Integration tests verifying that HostZoomListener registers a native observer and notifies observers of per-host zoom level changes in Chrome on Android.
+// ---
+
 package org.chromium.chrome.browser.host_zoom;
 
 import static org.junit.Assert.assertEquals;

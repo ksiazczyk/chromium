@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag and drop launcher activity tests
+// summary: Android instrumentation tests verifying that DragAndDropLauncherActivity opens dragged link intents in new Chrome windows and records metrics.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import static org.chromium.chrome.test.util.ChromeTabUtils.getTabCountOnUiThread;

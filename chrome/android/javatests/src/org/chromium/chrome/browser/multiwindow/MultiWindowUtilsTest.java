@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiWindowUtils tests
+// summary: Tests for MultiWindowUtils, verifying which tabbed activity class handles intents in multi-instance and multi-window scenarios.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.chromium.chrome.browser.multiwindow.MultiWindowTestHelper.createSecondChromeTabbedActivity;

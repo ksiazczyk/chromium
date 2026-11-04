@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First Run experience integration tests
+// summary: Instrumented integration tests covering the Chrome Android first-run experience, including page sequences, terms of service and partner customizations.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static androidx.test.espresso.Espresso.onView;

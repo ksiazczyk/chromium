@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab from Chrome external navigation test
+// summary: Instrumentation test verifying that custom tabs launched by Chrome use the standard external navigation handler instead of the custom tab navigation delegate.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.Intent;

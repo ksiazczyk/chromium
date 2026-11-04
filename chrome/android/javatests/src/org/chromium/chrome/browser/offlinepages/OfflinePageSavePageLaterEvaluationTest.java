@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflinePageSavePageLater evaluation tests
+// summary: Manual evaluation test that runs SavePageLater over batches of URLs and records failure rates and timing metrics to external storage.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import android.app.NotificationManager;

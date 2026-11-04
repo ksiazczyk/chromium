@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoHistoryLeakageTest
+// summary: Parameterized instrumentation test checking that browsing and navigation history do not leak from incognito to regular mode across activity types.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import static org.junit.Assert.assertEquals;

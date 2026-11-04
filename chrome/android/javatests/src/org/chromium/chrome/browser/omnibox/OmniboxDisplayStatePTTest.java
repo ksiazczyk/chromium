@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox display state public transit tests
+// summary: Public transit integration tests verifying visual display state transitions when opening, typing in, and leaving the omnibox suggestions.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import androidx.test.filters.MediumTest;

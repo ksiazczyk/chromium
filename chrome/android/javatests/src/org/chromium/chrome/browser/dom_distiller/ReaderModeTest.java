@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader Mode end-to-end tests
+// summary: End-to-end phone tests for Reader Mode covering themes, font sizes, and bottom sheet interactions.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import static androidx.test.espresso.action.ViewActions.swipeLeft;

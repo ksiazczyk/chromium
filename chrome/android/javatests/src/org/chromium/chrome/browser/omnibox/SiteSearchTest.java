@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site search instrumentation tests
+// summary: Instrumentation tests for omnibox site search keyword triggering on Android tablets and desktop form factors.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static androidx.test.espresso.assertion.ViewAssertions.matches;

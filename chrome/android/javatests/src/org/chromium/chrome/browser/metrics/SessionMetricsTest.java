@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session metrics tests
+// summary: Instrumentation tests checking the histogram that records whether a tabbed session contained a Google search results page.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import android.content.Context;

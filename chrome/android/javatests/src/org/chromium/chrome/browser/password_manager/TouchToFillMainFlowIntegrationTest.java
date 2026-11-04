@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch to Fill main flow integration test
+// summary: Integration tests checking the main password filling flow using the Touch to Fill component.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

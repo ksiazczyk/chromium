@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: DeviceLockActivityTest
+// summary: Instrumentation tests checking that DeviceLockActivity finishes with OK or CANCELED results and forwards activity results to WindowAndroid.
+// ---
+
 package org.chromium.chrome.browser.device_lock;
 
 import static androidx.test.espresso.Espresso.onView;

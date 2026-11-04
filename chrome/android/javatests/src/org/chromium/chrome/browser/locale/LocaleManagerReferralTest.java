@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocaleManagerReferralTest
+// summary: JUnit tests verifying that Yandex referral IDs (clid parameter) are appended to search engine URLs depending on the locale.
+// ---
+
 package org.chromium.chrome.browser.locale;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

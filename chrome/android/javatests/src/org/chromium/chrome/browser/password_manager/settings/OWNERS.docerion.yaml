@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for password manager settings tests
+summary: Delegates reviewer ownership to the OWNERS file of the corresponding password manager settings source directory.

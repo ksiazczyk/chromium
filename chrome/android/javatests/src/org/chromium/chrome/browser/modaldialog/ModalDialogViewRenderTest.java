@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Modal dialog view render tests
+// summary: Parameterized render tests that capture ModalDialogView screenshots in day and night mode to detect visual regressions.
+// ---
+
 package org.chromium.chrome.browser.modaldialog;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation sheet tests
+// summary: Tests for the gesture navigation history sheet, covering navigation entries and bottom sheet behavior.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalNativeHistoryUrl;

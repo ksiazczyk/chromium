@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestCoordinatorBridgeTest
+// summary: Instrumentation tests for RequestCoordinatorBridge, covering the save page request queue such as listing, adding and removing queued requests per profile.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import androidx.test.filters.MediumTest;

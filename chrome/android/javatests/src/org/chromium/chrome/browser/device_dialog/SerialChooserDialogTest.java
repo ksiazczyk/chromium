@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial chooser dialog tests
+// summary: Instrumentation tests for the serial chooser dialog, covering device listing, selection, cancellation and help page navigation.
+// ---
+
 package org.chromium.chrome.browser.device_dialog;
 
 import static org.mockito.Mockito.mock;

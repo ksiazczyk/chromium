@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JUnit rule to disable the First-Run flow in tests
+// summary: JUnit 4 rule that marks the First-Run flow as complete so tests run without the first-run experience interfering.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import org.junit.rules.ExternalResource;

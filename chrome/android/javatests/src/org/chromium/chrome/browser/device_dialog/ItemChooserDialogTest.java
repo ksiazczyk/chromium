@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Item chooser dialog tests
+// summary: Instrumentation tests for the item chooser dialog, covering item selection callbacks, drawables, search status and dialog state handling.
+// ---
+
 package org.chromium.chrome.browser.device_dialog;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageTest
+// summary: Integration test for the Message banner in Chrome for Android, using Espresso and transit test rules to verify message display and accessibility behavior.
+// ---
+
 package org.chromium.chrome.browser.messages;
 
 import static androidx.test.espresso.Espresso.onView;

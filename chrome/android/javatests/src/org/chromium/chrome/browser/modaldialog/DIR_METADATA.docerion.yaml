@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Chromium DIR_METADATA issue tracking config
+summary: Chromium metadata file assigning the folder's issues to the UI>Browser>Mobile monorail component and a Buganizer component.

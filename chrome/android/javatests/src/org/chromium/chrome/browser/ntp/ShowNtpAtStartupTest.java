@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Show NTP at startup tests
+// summary: Integration tests verifying that the new tab page with start surface UI is shown at Chrome startup on phones and tablets.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isDescendantOfA;

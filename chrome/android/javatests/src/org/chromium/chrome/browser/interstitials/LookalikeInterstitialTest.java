@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lookalike interstitial tests
+// summary: Android instrumentation tests verifying that the lookalike URL (confusables) interstitial is shown, using an embedded test server with a punycode hostname.
+// ---
+
 package org.chromium.chrome.browser.interstitials;
 
 import androidx.test.filters.MediumTest;

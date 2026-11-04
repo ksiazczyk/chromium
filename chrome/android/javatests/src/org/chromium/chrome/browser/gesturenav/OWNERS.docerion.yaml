@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for gesture navigation tests
+summary: Lists code owners for the gesture navigation test directory, with per-file owners for NavigationTransitionsTest.

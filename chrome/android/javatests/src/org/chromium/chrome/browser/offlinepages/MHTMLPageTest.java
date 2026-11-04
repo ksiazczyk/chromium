@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MHTML page tests
+// summary: Android instrumentation tests for downloading and opening MHTML pages and observing the resulting offline item updates.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import androidx.test.core.app.ApplicationProvider;

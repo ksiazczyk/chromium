@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth scanning permission dialog tests
+// summary: Instrumentation tests for the Bluetooth scanning permission dialog, checking the device list and Allow and Block button behavior.
+// ---
+
 package org.chromium.chrome.browser.device_dialog;
 
 import android.app.Dialog;

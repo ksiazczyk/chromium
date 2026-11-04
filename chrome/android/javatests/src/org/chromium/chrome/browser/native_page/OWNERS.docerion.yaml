@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for native_page tests
+summary: Includes the OWNERS file from the main native_page source directory, delegating code ownership and reviewer assignment for this test directory.

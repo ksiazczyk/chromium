@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Device dialog tests OWNERS
+summary: Points to the OWNERS file of the device_dialog source directory to define code ownership for these tests.

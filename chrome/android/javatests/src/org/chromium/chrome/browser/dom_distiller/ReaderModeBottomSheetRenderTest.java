@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader Mode bottom sheet render tests
+// summary: Render tests for the Reader Mode bottom sheet, parameterized across light and night mode themes.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import static org.mockito.Mockito.verify;

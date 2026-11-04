@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auth Tab instrumentation tests
+// summary: Instrumentation tests verifying Auth Tab launch, custom scheme redirects, and auth result callbacks such as success and cancellation.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hardware acceleration test utilities
+// summary: Shared helper class for the hardware acceleration tests that asserts acceleration state of activities and child windows and checks for the absence of a RenderThread.
+// ---
+
 package org.chromium.chrome.browser.hardware_acceleration;
 
 import android.app.Dialog;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the NTP javatests directory
+summary: Lists code owners for the directory, with per-file owners for recent tabs tests and new tab page sign-in promo tests.

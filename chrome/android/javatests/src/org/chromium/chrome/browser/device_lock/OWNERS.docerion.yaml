@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership for this directory to the device_lock UI OWNERS file in chrome/browser/ui/android.

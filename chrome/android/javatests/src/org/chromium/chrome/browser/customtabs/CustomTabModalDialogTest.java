@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab modal dialog test
+// summary: Instrumentation test for the CCT tab modal dialog feature, covering dialog display and dismissal inside custom tab activities.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.test.platform.app.InstrumentationRegistry.getInstrumentation;

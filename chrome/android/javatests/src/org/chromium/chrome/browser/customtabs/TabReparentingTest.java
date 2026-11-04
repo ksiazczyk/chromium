@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab reparenting tests
+// summary: Tests the open-in-Chrome flow that reparents a tab from a CustomTabActivity to a ChromeTabbedActivity, including launch cause metrics and select popup handling.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.hamcrest.Matchers.is;

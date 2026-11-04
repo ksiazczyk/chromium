@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiInstanceManagerApi31 integration tests
+// summary: Integration tests for MultiInstanceManagerApi31 covering creation, destruction and management of multiple Chrome windows on Android 12 (API 31).
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.hamcrest.CoreMatchers.is;

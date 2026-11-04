@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download test rule
+// summary: JUnit test rule wrapping the download test helper for tests that need to download files and check outcomes.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import org.junit.rules.ExternalResource;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Incognito tests DIR_METADATA
+summary: Metadata for the incognito test directory, assigning it to the Privacy>Incognito monorail component, the chrome-privacy-core team and a Buganizer component.

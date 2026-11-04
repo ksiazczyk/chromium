@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabObserverRegistrarTest
+// summary: Android instrumentation tests verifying that TabObserverRegistrar switches registered tab observers when the active Custom Tab changes and tracks URL load requests.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static org.junit.Assert.assertEquals;

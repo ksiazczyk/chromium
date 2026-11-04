@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Identity Disc controller tests
+// summary: Instrumented Espresso and Mockito tests covering the behavior of the identity disc toolbar button controller in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.identity_disc;
 
 import static androidx.test.espresso.Espresso.onView;

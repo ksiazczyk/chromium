@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download location dialog UI tests
+// summary: Instrumentation tests verifying the UI elements of the Chrome for Android download location dialog.
+// ---
+
 package org.chromium.chrome.browser.download.dialogs;
 
 import static androidx.test.espresso.Espresso.onView;

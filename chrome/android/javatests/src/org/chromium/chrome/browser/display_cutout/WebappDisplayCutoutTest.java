@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app display cutout tests
+// summary: JUnit tests verifying display cutout safe area behavior for web apps across undefined, fullscreen, minimal UI, and standalone display modes.
+// ---
+
 package org.chromium.chrome.browser.display_cutout;
 
 import android.os.Build;

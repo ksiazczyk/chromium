@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageInfoView tests
+// summary: Large instrumented test suite for the page info dialog, covering permissions, cookie controls, and related UI behavior.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import static androidx.test.espresso.Espresso.onView;

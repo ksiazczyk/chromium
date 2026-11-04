@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaSessionTest
+// summary: Instrumented tests checking that media playback pauses when the headset is unplugged and related media session notification behavior in Chrome.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

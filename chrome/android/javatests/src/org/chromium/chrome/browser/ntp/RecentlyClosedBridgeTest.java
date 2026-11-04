@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recently closed bridge tests
+// summary: Tests for RecentlyClosedBridge and the native tab restore service, covering recently closed entries, undo, and sync data types.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static com.google.common.truth.Truth.assertThat;

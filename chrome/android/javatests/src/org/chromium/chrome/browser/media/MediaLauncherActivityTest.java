@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaLauncherActivity integration tests
+// summary: Integration tests verifying that video, audio, image, and file intents are routed to the media launcher activity.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.content.ComponentName;

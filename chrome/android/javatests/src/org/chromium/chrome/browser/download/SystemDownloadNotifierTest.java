@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System download notifier tests
+// summary: JUnit tests for SystemDownloadNotifier covering single and merged consecutive download progress notifications; currently disabled per a tracked bug.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.os.Looper;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Partial Custom Tab activity render tests
+// summary: Parameterized render tests for partial custom tab modes, capturing screenshots in light and dark color schemes with night mode enabled and disabled.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.browser.customtabs.CustomTabsIntent.COLOR_SCHEME_DARK;

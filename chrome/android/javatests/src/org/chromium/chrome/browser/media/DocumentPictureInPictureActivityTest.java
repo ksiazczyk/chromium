@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DocumentPictureInPictureActivity tests
+// summary: Instrumented tests for the Document Picture-in-Picture activity, covering startup and exit on tab or contents close.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.content.Intent;

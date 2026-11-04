@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file pointing to site_engagement owners
+summary: Delegates code ownership for the engagement browser tests to the owners listed in components/site_engagement/OWNERS.

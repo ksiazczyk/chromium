@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoStorageLeakageTest
+// summary: Parameterized instrumentation test verifying that site storage such as local storage, service workers and IndexedDB does not leak between activity types.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import static org.junit.Assert.assertEquals;

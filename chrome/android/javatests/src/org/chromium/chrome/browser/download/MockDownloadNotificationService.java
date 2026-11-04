@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock download notification service
+// summary: Mock of DownloadNotificationService that records notification calls and state for use in download tests.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.chromium.chrome.browser.notifications.NotificationConstants.DEFAULT_NOTIFICATION_ID;

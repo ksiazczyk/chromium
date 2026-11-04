@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Custom tabs test directory owners
+summary: Defines code owners for the custom tabs test directory, delegating per-file ownership of the modal dialog test to the modal dialog owners.

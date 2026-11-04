@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download location change end-to-end tests
+// summary: End-to-end tests verifying the download flow when the download location dialog is used to change the target directory.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static androidx.test.espresso.Espresso.onData;

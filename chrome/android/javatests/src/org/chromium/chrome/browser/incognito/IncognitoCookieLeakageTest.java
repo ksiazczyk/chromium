@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoCookieLeakageTest
+// summary: Parameterized Android instrumentation test verifying that cookies do not leak between pairs of regular and incognito tab and custom tab activities.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import static org.junit.Assert.assertEquals;

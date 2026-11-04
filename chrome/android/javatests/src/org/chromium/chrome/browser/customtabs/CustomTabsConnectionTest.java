@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabsConnection tests
+// summary: Instrumentation tests for CustomTabsConnection covering session creation, warmup, may-launch behavior, prefetch settings and origin verification.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.ComponentName;
