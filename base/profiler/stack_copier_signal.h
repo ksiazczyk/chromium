@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackCopierSignal class declaration
+// summary: Declares StackCopierSignal, a StackCopier implementation that copies a profiled thread's stack from a signal handler on platforms requiring signal delivery.
+// ---
+
 #ifndef BASE_PROFILER_STACK_COPIER_SIGNAL_H_
 #define BASE_PROFILER_STACK_COPIER_SIGNAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stack sampling profiler unit tests
+// summary: Unit tests for the stack sampling profiler, covering sampling, unwinding and metadata recording on supported platforms.
+// ---
+
 #include "base/profiler/stack_sampling_profiler.h"
 
 #include <stddef.h>

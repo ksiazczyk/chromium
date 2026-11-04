@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String view to Rust conversions
+// summary: Header with inline helpers converting between std::string_view and Rust str or byte slices via the CXX bridge.
+// ---
+
 #ifndef BASE_STRINGS_STRING_VIEW_RUST_H_
 #define BASE_STRINGS_STRING_VIEW_RUST_H_
 

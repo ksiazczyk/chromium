@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for UTF string conversions
+// summary: LibFuzzer entry point that feeds arbitrary byte inputs through the UTF conversion functions to uncover crashes and conversion bugs.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ostream operators for wide and UTF-16 strings
+// summary: Declares std::ostream insertion operators for wide and UTF-16 strings and views, intended for logging non-ASCII strings as UTF-8.
+// ---
+
 #ifndef BASE_STRINGS_UTF_OSTREAM_OPERATORS_H_
 #define BASE_STRINGS_UTF_OSTREAM_OPERATORS_H_
 

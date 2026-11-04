@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ThreadDelegatePosix stack base address handling
+// summary: Unit tests verifying that ThreadDelegatePosix obtains correct stack base addresses for current and main threads, with platform-specific cases disabled where unsupported.
+// ---
+
 #include "base/profiler/thread_delegate_posix.h"
 
 #include "base/numerics/clamped_math.h"

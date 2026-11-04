@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SpanPrintf
+// summary: Unit tests verifying SpanPrintf output when the buffer fits and when the output is truncated.
+// ---
+
 #include "base/strings/span_printf.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

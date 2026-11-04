@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SamplingHeapProfiler class declaration
+// summary: Declares the SamplingHeapProfiler class and its Sample type for sampling native heap allocations and retrieving recorded samples.
+// ---
+
 #ifndef BASE_SAMPLING_HEAP_PROFILER_SAMPLING_HEAP_PROFILER_H_
 #define BASE_SAMPLING_HEAP_PROFILER_SAMPLING_HEAP_PROFILER_H_
 

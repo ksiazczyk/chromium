@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Win32StackFrameUnwinder unit tests
+// summary: Unit tests for Win32StackFrameUnwinder that use a fake UnwindFunctions implementation to verify frame unwinding behavior across Windows architectures.
+// ---
+
 #include "base/profiler/win32_stack_frame_unwinder.h"
 
 #include <memory>

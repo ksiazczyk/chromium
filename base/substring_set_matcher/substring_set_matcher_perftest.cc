@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SubstringSetMatcher performance test
+// summary: Performance test measuring build time, match time, and memory usage for 20000 random patterns against a 500-character string.
+// ---
+
 #include "base/substring_set_matcher/substring_set_matcher.h"
 
 #include <limits>

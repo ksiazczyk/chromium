@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffsetAdjuster implementation for UTF conversions
+// summary: Implements OffsetAdjuster methods that map character offsets between original and converted strings and merge sequential adjustments.
+// ---
+
 #include "base/strings/utf_offset_string_conversions.h"
 
 #include <stdint.h>

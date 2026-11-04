@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame pointer unwinder implementation
+// summary: Implements frame-pointer-based stack unwinding with Apple pointer authentication support, stack bounds checks, and handling of non-native V8 frames.
+// ---
+
 #include "base/profiler/frame_pointer_unwinder.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitableEvent Apple implementation
+// summary: Implements base::WaitableEvent on Apple platforms using Mach ports and mach_msg, including timed waits, signal estimation, and kqueue-based multi-event waiting.
+// ---
+
 #include "base/synchronization/waitable_event.h"
 
 #include <mach/mach.h>

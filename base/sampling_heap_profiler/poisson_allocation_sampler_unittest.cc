@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PoissonAllocationSampler unit tests
+// summary: Unit tests for observer management, sample muting, deterministic sampling and multithreaded behavior of the Poisson allocation sampler.
+// ---
+
 #include "base/sampling_heap_profiler/poisson_allocation_sampler.h"
 
 #include <stdlib.h>

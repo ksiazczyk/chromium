@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubstringSetMatcher class declaration
+// summary: Declares SubstringSetMatcher, which stores a set of string patterns and finds which of them occur in a text using an Aho-Corasick tree.
+// ---
+
 
 #ifndef BASE_SUBSTRING_SET_MATCHER_SUBSTRING_SET_MATCHER_H_
 #define BASE_SUBSTRING_SET_MATCHER_SUBSTRING_SET_MATCHER_H_

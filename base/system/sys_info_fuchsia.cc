@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia SysInfo implementation
+// summary: Implements SysInfo for Fuchsia using Zircon syscalls and FIDL services for memory, CPU count, OS info, and disk space including soft-quota handling.
+// ---
+
 #include "base/system/sys_info.h"
 
 #include <fidl/fuchsia.buildinfo/cpp/fidl.h>

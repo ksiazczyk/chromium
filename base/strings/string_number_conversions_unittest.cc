@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String number conversions unit tests
+// summary: Unit tests for base's number-to-string and string-to-number conversion helpers, covering integers, unsigned types, size_t, and floating point edge cases.
+// ---
+
 #include "base/strings/string_number_conversions.h"
 
 #include <errno.h>

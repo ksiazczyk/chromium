@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Profiler directory metadata
+summary: Maps the base/profiler directory to the Sampling Profiler monorail and Buganizer components for issue tracking.

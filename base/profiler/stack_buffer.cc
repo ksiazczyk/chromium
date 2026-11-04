@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack buffer implementation
+// summary: Implements the StackBuffer constructor and, on ChromeOS, page-aligned allocation plus madvise-based discarding of unneeded buffer contents to limit memory use.
+// ---
+
 #include "base/profiler/stack_buffer.h"
 
 #include <bit>

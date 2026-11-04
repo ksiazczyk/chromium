@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Java test support declarations
+// summary: Declares callWithJavaFunction, a wrapper that invokes a Java test function from native code and returns the resulting function address range.
+// ---
+
 #ifndef BASE_PROFILER_STACK_SAMPLING_PROFILER_JAVA_TEST_UTIL_H_
 #define BASE_PROFILER_STACK_SAMPLING_PROFILER_JAVA_TEST_UTIL_H_
 

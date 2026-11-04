@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SamplingHeapProfiler implementation
+// summary: Implements the SamplingHeapProfiler, which aggregates heap allocations via PoissonAllocationSampler and records samples that can be retrieved.
+// ---
+
 #include "base/sampling_heap_profiler/sampling_heap_profiler.h"
 
 #include <algorithm>

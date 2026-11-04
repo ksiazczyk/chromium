@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionVariable Windows implementation
+// summary: Implements the base::ConditionVariable class on Windows using Win32 condition variables with SRW locks, supporting wait, timed wait, signal, and broadcast.
+// ---
+
 #include "base/synchronization/condition_variable.h"
 
 #include <windows.h>

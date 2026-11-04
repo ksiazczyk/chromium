@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome unwind info parsing for 32-bit Android
+// summary: Parses the binary Chrome unwind info resource into its page, function, offset, and unwind instruction tables for 32-bit Android.
+// ---
+
 #include "base/profiler/chrome_unwind_info_android_32.h"
 
 #include "base/containers/buffer_iterator.h"

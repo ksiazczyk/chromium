@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Periodic sampling scheduler unit tests
+// summary: Unit tests verifying collection scheduling with controlled random values and correct behavior when the tick clock jumps discontinuously.
+// ---
+
 #include "base/profiler/periodic_sampling_scheduler.h"
 
 #include "base/test/bind.h"

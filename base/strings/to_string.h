@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToString helpers for arbitrary types
+// summary: Declares base::ToString with template helpers that stringify booleans, streamables, enums, tuples, functions, and types with a ToString member.
+// ---
+
 #ifndef BASE_STRINGS_TO_STRING_H_
 #define BASE_STRINGS_TO_STRING_H_
 

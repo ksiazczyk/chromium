@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Opaque memory regions map interface
+// summary: Opaque interface that hides libunwindstack Maps and Memory types so Chrome code can pass them around without depending on libunwindstack.
+// ---
+
 #ifndef BASE_PROFILER_NATIVE_UNWINDER_ANDROID_MEMORY_REGIONS_MAP_H_
 #define BASE_PROFILER_NATIVE_UNWINDER_ANDROID_MEMORY_REGIONS_MAP_H_
 

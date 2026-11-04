@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows string utility implementations
+// summary: Windows implementation of string utility functions for wide strings, including ASCII checks, trimming, replacement, and prefix handling.
+// ---
+
 #include "base/strings/string_util_win.h"
 
 #include <algorithm>

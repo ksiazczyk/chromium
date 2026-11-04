@@ -1,0 +1,4 @@
+# Docerion header of sys_string_conversions_apple.mm.
+type: source
+title: Apple system string conversions implementation
+summary: Implements the Apple variants of system string conversions between C++ strings and CFStringRef or NSString via CoreFoundation encoding helpers.

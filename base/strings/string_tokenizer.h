@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String tokenizer class
+// summary: Defines StringTokenizerT, an iterator-like tokenizer that splits input on delimiters with options for quotes, returned delimiters, empty tokens, and whitespace handling.
+// ---
+
 #ifndef BASE_STRINGS_STRING_TOKENIZER_H_
 #define BASE_STRINGS_STRING_TOKENIZER_H_
 

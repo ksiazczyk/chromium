@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SamplingHeapProfiler unit tests
+// summary: Unit tests for the sampling heap profiler covering sample observers, session start and stop, and sample collection behavior.
+// ---
+
 #include "base/sampling_heap_profiler/sampling_heap_profiler.h"
 
 #include <stdlib.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToString implementation for string views
+// summary: Implements base::ToString overloads that convert std::string_view, UTF-16, and wide string views into UTF-8 std::string values.
+// ---
+
 #include "base/strings/to_string.h"
 
 #include <string>

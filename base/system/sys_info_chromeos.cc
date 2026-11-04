@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS SysInfo implementation
+// summary: Implements SysInfo for ChromeOS by parsing lsb-release data from environment variables or /etc/lsb-release to provide version numbers and ChromeOS detection.
+// ---
+
 #include "base/system/sys_info.h"
 
 #include <stddef.h>

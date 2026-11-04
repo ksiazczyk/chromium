@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StrCat unit tests
+// summary: Unit tests covering StrCat and StrAppend for 8-bit and 16-bit strings, including destination capacity growth behavior.
+// ---
+
 #include "base/strings/strcat.h"
 
 #include "base/strings/utf_string_conversions.h"

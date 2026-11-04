@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Whitespace character constants
+// summary: Defines null-terminated whitespace character arrays for wide, UTF-16, and ASCII encodings, plus the UTF-8 byte order mark constant.
+// ---
+
 #ifndef BASE_STRINGS_WHITESPACE_CONSTANTS_H_
 #define BASE_STRINGS_WHITESPACE_CONSTANTS_H_
 

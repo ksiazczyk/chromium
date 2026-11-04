@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockMetricsRecorder header
+// summary: Declares the thread-local LockMetricsRecorder class that samples lock acquisition times without allocating or locking and flushes them to UMA histograms.
+// ---
+
 #ifndef BASE_SYNCHRONIZATION_LOCK_METRICS_RECORDER_H_
 #define BASE_SYNCHRONIZATION_LOCK_METRICS_RECORDER_H_
 

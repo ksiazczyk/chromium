@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows core unwinders factory
+// summary: Creates the Windows stack sampling unwinder list using the native Windows unwinder on x86_64 and ARM64 architectures.
+// ---
+
 #include "base/profiler/core_unwinders.h"
 
 #include <memory>

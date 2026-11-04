@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows wide string number conversions
+// summary: Implements wstring-based NumberToWString and StringTo* conversion functions for Windows, delegating to shared internal conversion templates.
+// ---
+
 #include "base/strings/string_number_conversions_win.h"
 
 #include <string>

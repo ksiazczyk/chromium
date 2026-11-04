@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple module cache implementation
+// summary: Implements ModuleCache for Apple platforms, reading Mach-O UUID load commands and text segment sizes to create MacModule instances with build IDs.
+// ---
+
 #include "base/profiler/module_cache.h"
 
 #include <dlfcn.h>

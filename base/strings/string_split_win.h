@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wide string split overloads for Windows
+// summary: Declares cross-platform string splitting API overloads for std::wstring and std::wstring_view in the base namespace.
+// ---
+
 #ifndef BASE_STRINGS_STRING_SPLIT_WIN_H_
 #define BASE_STRINGS_STRING_SPLIT_WIN_H_
 

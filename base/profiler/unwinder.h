@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unwinder interface for stack frame unwinding in the sampling profiler
+// summary: Declares the Unwinder interface and UnwindResult enum used by StackSamplingProfiler to unwind stack frames, covering module updates, frame recognition, and unwind attempts.
+// ---
+
 #ifndef BASE_PROFILER_UNWINDER_H_
 #define BASE_PROFILER_UNWINDER_H_
 

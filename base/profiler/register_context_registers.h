@@ -5,6 +5,12 @@
 // This file provides functions that provide access to key registers in the
 // native register context.
 
+// ---docerion
+// type: source
+// title: Register context register access helpers
+// summary: Provides inline functions to read and set the stack, frame, and instruction pointers in the platform-specific register context across supported architectures.
+// ---
+
 #ifndef BASE_PROFILER_REGISTER_CONTEXT_REGISTERS_H_
 #define BASE_PROFILER_REGISTER_CONTEXT_REGISTERS_H_
 

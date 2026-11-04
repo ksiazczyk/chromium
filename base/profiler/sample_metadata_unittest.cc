@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sample metadata unit tests
+// summary: Unit tests verifying that SampleMetadata and ScopedSampleMetadata correctly set and remove keyed and unkeyed items in the metadata recorder.
+// ---
+
 #include "base/profiler/sample_metadata.h"
 
 #include "base/metrics/metrics_hashes.h"

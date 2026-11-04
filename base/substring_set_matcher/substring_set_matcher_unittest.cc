@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SubstringSetMatcher unit tests
+// summary: Unit tests covering single, overlapping, sub, empty, and too-long patterns to verify SubstringSetMatcher matching behavior.
+// ---
+
 #include "base/substring_set_matcher/substring_set_matcher.h"
 
 #include <stddef.h>

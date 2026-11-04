@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Libunwindstack unwinder for Android
+// summary: Declares LibunwindstackUnwinderAndroid, a base::Unwinder that wraps libunwindstack to unwind sampled stacks on Android, including JIT and dex file handling.
+// ---
+
 #ifndef BASE_PROFILER_LIBUNWINDSTACK_UNWINDER_ANDROID_H_
 #define BASE_PROFILER_LIBUNWINDSTACK_UNWINDER_ANDROID_H_
 

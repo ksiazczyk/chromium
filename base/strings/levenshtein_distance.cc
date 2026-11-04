@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Levenshtein distance implementation
+// summary: Implements Levenshtein distance computation for strings with an optional maximum distance bound for efficiency.
+// ---
+
 #include "base/strings/levenshtein_distance.h"
 
 #include <stddef.h>

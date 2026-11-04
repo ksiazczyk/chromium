@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackSampler implementation
+// summary: Implements StackSampler, coordinating stack copying, unwinder notification, metadata recording, and thread pool usage while avoiding heap allocation during suspension.
+// ---
+
 #include "base/profiler/stack_sampler.h"
 
 #include <algorithm>

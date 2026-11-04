@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of SafeSPrintf
+// summary: Implements the async-signal-safe SafeSPrintf formatting engine, which avoids memory allocation, library calls, and errno access.
+// ---
+
 #include "base/strings/safe_sprintf.h"
 
 #include <errno.h>

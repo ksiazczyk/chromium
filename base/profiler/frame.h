@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame struct header
+// summary: Declares the Frame struct representing a sampled stack frame with instruction pointer, module, and an optional function name for Android Java frames.
+// ---
+
 #ifndef BASE_PROFILER_FRAME_H_
 #define BASE_PROFILER_FRAME_H_
 

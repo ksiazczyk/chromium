@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UTF conversion utilities
+// summary: Tests CountUnicodeCharacters on ASCII, multibyte, and invalid UTF-8 inputs with various limits.
+// ---
+
 #include "base/strings/utf_string_conversion_utils.h"
 
 #include <string>

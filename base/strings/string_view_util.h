@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String view creation helpers
+// summary: Header providing helpers to build string views from string literals with internal NULs and from byte-like spans.
+// ---
+
 #ifndef BASE_STRINGS_STRING_VIEW_UTIL_H_
 #define BASE_STRINGS_STRING_VIEW_UTIL_H_
 

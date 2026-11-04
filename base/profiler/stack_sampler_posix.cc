@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX stack sampler implementation
+// summary: Implements StackSampler::Create for ChromeOS POSIX platforms using signal-based stack copying and computes the default stack buffer size.
+// ---
+
 #include "base/profiler/stack_sampler.h"
 
 #include <pthread.h>

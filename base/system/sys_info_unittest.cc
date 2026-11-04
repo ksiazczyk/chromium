@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SysInfo
+// summary: Cross-platform unit tests for SysInfo covering processor counts, physical and virtual memory, disk space, OS version, and platform-specific behaviors.
+// ---
+
 #include "base/system/sys_info.h"
 
 #include <stdint.h>

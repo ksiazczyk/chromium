@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low-level UTF conversion utilities header
+// summary: Declares low-level helpers for validating, reading, and writing Unicode code points in UTF-8, UTF-16, and UTF-32 strings.
+// ---
+
 #ifndef BASE_STRINGS_UTF_STRING_CONVERSION_UTILS_H_
 #define BASE_STRINGS_UTF_STRING_CONVERSION_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitableEvent POSIX implementation
+// summary: Implements base::WaitableEvent on POSIX with a lock-protected wait-list supporting synchronous, asynchronous, and multi-event waits via condition variables.
+// ---
+
 #include "base/synchronization/waitable_event.h"
 
 #include <stddef.h>

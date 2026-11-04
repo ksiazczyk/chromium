@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal ASCII case and comparison helpers
+// summary: Internal header providing constexpr ASCII tolower and case-insensitive comparison templates used by base string utilities.
+// ---
+
 #ifndef BASE_STRINGS_STRING_UTIL_INTERNAL_H_
 #define BASE_STRINGS_STRING_UTIL_INTERNAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MatchPattern header for wildcard string matching
+// summary: Declares base::MatchPattern overloads that test whether a string matches a pattern containing * and ? wildcards with backslash escaping.
+// ---
+
 #ifndef BASE_STRINGS_PATTERN_H_
 #define BASE_STRINGS_PATTERN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackUnwindData class declaration
+// summary: Declares StackUnwindData, a ref-counted helper of StackSamplingProfiler holding the profile builder, unwinders and module cache.
+// ---
+
 #ifndef BASE_PROFILER_STACK_UNWIND_DATA_H_
 #define BASE_PROFILER_STACK_UNWIND_DATA_H_
 

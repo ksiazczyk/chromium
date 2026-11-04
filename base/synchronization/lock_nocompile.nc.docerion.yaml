@@ -1,0 +1,4 @@
+# Docerion header of lock_nocompile.nc.
+type: test
+title: Lock no-compile tests
+summary: No-compile test suite that checks thread-annotation and type errors for incorrect lock usage, such as ignoring AutoLock temporaries or mismatched lock types.

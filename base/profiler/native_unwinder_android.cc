@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android native unwinder using libunwindstack
+// summary: Implements native stack unwinding on Android via libunwindstack, including ARM/ARM64 register context conversion and non-ELF module handling.
+// ---
+
 #include "base/profiler/native_unwinder_android.h"
 
 #include <sys/mman.h>

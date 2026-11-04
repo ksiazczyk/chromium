@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitableEvent implementation
+// summary: Implements WaitableEvent's Signal, Wait, TimedWait, and WaitMany with blocking-call scoping and perfetto flow tracing.
+// ---
+
 #include "base/synchronization/waitable_event.h"
 
 #include "base/check.h"

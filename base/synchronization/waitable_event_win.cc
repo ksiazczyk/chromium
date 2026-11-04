@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitableEvent Windows implementation
+// summary: Implements base::WaitableEvent on Windows using Win32 event handles, with crash keys for wait failures and retry logic for timed waits.
+// ---
+
 #include "base/synchronization/waitable_event.h"
 
 #include <windows.h>

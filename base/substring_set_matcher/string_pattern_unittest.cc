@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MatcherStringPattern unit tests
+// summary: Unit tests verifying the pattern and ID accessors and the comparison ordering of MatcherStringPattern instances.
+// ---
+
 #include <string>
 
 #include "base/substring_set_matcher/matcher_string_pattern.h"

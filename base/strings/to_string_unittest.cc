@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ToString
+// summary: Verifies ToString output for booleans, streamables, scoped enums, tuples, function pointers, and types with custom ToString methods.
+// ---
+
 #include "base/strings/to_string.h"
 
 #include <ios>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stack buffer unit tests
+// summary: Unit tests checking StackBuffer allocation, alignment, and writability, plus ChromeOS behavior of discarding upper buffer contents via MarkUpperBufferContentsAsUnneeded.
+// ---
+
 #include "base/profiler/stack_buffer.h"
 
 #include "base/compiler_specific.h"

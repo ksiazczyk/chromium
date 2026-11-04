@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadGroupProfiler implementation for thread pool worker sampling
+// summary: Implements ThreadGroupProfiler, which periodically samples active thread pool worker threads and manages profiling sessions, new-thread sampling, and shutdown behavior.
+// ---
+
 #include "base/profiler/thread_group_profiler.h"
 
 #include <memory>

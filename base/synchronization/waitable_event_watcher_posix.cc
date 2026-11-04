@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitableEventWatcher POSIX implementation
+// summary: Implements WaitableEventWatcher on POSIX by adding asynchronous waiters to the event's wait-list and posting callbacks to a SequencedTaskRunner with cancellation support.
+// ---
+
 #include "base/synchronization/waitable_event_watcher.h"
 
 #include <utility>

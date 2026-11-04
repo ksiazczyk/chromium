@@ -5,6 +5,12 @@
 // Note: there is intentionally no header file associated with this library so
 // we don't risk implicitly demand loading it by accessing a symbol.
 
+// ---docerion
+// type: test
+// title: Profiler test support library
+// summary: Exports an extern C callback invocation function used by profiler tests to exercise unwinding across a shared library boundary.
+// ---
+
 #include "build/build_config.h"
 
 #if BUILDFLAG(IS_WIN)

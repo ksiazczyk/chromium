@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile builder interface
+// summary: Defines the ProfileBuilder interface that receives completed samples and metadata during stack profiling so profiles can be recorded in arbitrary formats.
+// ---
+
 #ifndef BASE_PROFILER_PROFILE_BUILDER_H_
 #define BASE_PROFILER_PROFILE_BUILDER_H_
 

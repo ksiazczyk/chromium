@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module cache declaration
+// summary: Declares ModuleCache, a cached lookup of binary modules by address range, defining the Module interface and AuxiliaryModuleProvider for lazy module creation.
+// ---
+
 #ifndef BASE_PROFILER_MODULE_CACHE_H_
 #define BASE_PROFILER_MODULE_CACHE_H_
 

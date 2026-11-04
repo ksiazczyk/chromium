@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows native unwinder implementation
+// summary: Unwinds Windows stacks via Win32StackFrameUnwinder, validating stack pointers and reporting unrecognized or aborted frames appropriately.
+// ---
+
 #include "base/profiler/native_unwinder_win.h"
 
 #include <windows.h>

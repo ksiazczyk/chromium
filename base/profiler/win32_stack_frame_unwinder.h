@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32StackFrameUnwinder class header
+// summary: Declares the Win32StackFrameUnwinder class that unwinds stack frames on Windows via Win32 unwind APIs, with an UnwindFunctions interface seam for testing.
+// ---
+
 #ifndef BASE_PROFILER_WIN32_STACK_FRAME_UNWINDER_H_
 #define BASE_PROFILER_WIN32_STACK_FRAME_UNWINDER_H_
 

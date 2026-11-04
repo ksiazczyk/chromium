@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for 32-bit Android Chrome unwind info
+// summary: Verifies that CreateChromeUnwindInfoAndroid32 correctly parses table offsets and contents from binary unwind info data.
+// ---
+
 #include "base/profiler/chrome_unwind_info_android_32.h"
 
 #include <tuple>

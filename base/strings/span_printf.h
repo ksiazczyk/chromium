@@ -5,6 +5,12 @@
 // This file defines printf-like functions for working with span-based
 // buffers.
 
+// ---docerion
+// type: source
+// title: SpanPrintf helpers for span-based buffers
+// summary: Defines inline SpanPrintf and VSpanPrintf functions that format printf-style output into a base::span char buffer.
+// ---
+
 #ifndef BASE_STRINGS_SPAN_PRINTF_H_
 #define BASE_STRINGS_SPAN_PRINTF_H_
 

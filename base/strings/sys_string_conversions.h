@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System string conversions header
+// summary: Declares system-dependent conversions between wide, UTF-8, native multi-byte, CFStringRef and NSString string representations for Windows and Apple platforms.
+// ---
+
 #ifndef BASE_STRINGS_SYS_STRING_CONVERSIONS_H_
 #define BASE_STRINGS_SYS_STRING_CONVERSIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CancelableEvent default platform implementation
+// summary: Fallback CancelableEvent implementation that delegates Signal and TimedWait to WaitableEvent, with Cancel always failing.
+// ---
+
 #include "base/notreached.h"
 #include "base/synchronization/cancelable_event.h"
 #include "base/synchronization/waitable_event.h"

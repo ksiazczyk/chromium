@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread delegate interface
+// summary: Declares the ThreadDelegate interface providing platform-specific thread and stack manipulation for stack copy implementations.
+// ---
+
 #ifndef BASE_PROFILER_THREAD_DELEGATE_H_
 #define BASE_PROFILER_THREAD_DELEGATE_H_
 

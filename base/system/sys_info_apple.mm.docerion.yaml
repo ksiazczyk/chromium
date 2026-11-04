@@ -1,0 +1,4 @@
+# Docerion header of sys_info_apple.mm.
+type: source
+title: Apple SysInfo implementation
+summary: Implements SysInfo for Apple platforms via sysctl, counting efficiency cores from performance levels and querying total physical memory and OS build version.

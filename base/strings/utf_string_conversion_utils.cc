@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unicode character read and write helpers
+// summary: Implements helpers to read, validate, count, and write Unicode code points across UTF-8, UTF-16, and wide strings using ICU macros.
+// ---
+
 #include "base/strings/utf_string_conversion_utils.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SystemMonitor
+// summary: Unit tests verifying that SystemMonitor delivers device change notifications to multiple observers in order using mock observers.
+// ---
+
 #include "base/system/system_monitor.h"
 
 #include <array>

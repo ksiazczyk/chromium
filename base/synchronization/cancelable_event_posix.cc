@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CancelableEvent POSIX implementation
+// summary: Implements CancelableEvent on POSIX systems using POSIX semaphores, including timed waits converted to absolute timespec values.
+// ---
+
 #include "base/synchronization/cancelable_event.h"
 
 #include <errno.h>

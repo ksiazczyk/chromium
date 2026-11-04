@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String view Rust interop unit tests
+// summary: Tests round-trip conversion between std::string_view and Rust rust::Str and byte slices via StringViewToRustStrUTF8 and related helpers.
+// ---
+
 #include <string_view>
 
 #include "base/strings/string_view_rust.h"

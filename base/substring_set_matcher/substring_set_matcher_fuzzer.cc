@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SubstringSetMatcher fuzzer
+// summary: Fuzz test that builds a SubstringSetMatcher from random patterns and matches random text against it to find crashes.
+// ---
+
 #include "base/substring_set_matcher/substring_set_matcher.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

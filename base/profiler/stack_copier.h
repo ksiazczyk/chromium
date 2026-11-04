@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack copier interface
+// summary: Defines the abstract StackCopier interface for suspending a thread and copying its stack and register context, with a delegate callback and pointer-rewriting helpers.
+// ---
+
 #ifndef BASE_PROFILER_STACK_COPIER_H_
 #define BASE_PROFILER_STACK_COPIER_H_
 

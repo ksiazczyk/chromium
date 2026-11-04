@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadGroupProfilerClient interface for embedder profiling control
+// summary: Defines the ThreadGroupProfilerClient interface that embedders implement to supply sampling parameters, profile builders, schedulers, unwinders, and enablement for thread pool profiling.
+// ---
+
 #ifndef BASE_PROFILER_THREAD_GROUP_PROFILER_CLIENT_H_
 #define BASE_PROFILER_THREAD_GROUP_PROFILER_CLIENT_H_
 

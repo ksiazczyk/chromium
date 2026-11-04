@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System string conversions fuzzer
+// summary: Fuzz target that exercises the system string conversion functions with random inputs, including Windows code page conversions.
+// ---
+
 #include "base/strings/sys_string_conversions.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

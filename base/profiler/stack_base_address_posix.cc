@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX stack base address implementation
+// summary: Implements GetThreadStackBaseAddress for POSIX platforms, reading /proc/self/maps on Android and using pthread attributes or __libc_stack_end elsewhere, returning nullopt on Linux.
+// ---
+
 #include "base/profiler/stack_base_address_posix.h"
 
 #include "base/check_op.h"

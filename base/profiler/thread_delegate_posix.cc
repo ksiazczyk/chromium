@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadDelegatePosix implementation for POSIX stack sampling
+// summary: Implements the POSIX thread delegate for the sampling profiler, providing thread ID, stack base address, and architecture-specific callee-save register access.
+// ---
+
 #include "base/profiler/thread_delegate_posix.h"
 
 #include <inttypes.h>

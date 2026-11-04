@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Levenshtein distance API
+// summary: Declares LevenshteinDistance for string and u16string views with an optional maximum distance parameter.
+// ---
+
 #ifndef BASE_STRINGS_LEVENSHTEIN_DISTANCE_H_
 #define BASE_STRINGS_LEVENSHTEIN_DISTANCE_H_
 

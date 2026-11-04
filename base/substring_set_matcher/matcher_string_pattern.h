@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MatcherStringPattern class declaration
+// summary: Declares MatcherStringPattern, a pattern string with an identifier used by substring and regex matchers to report which patterns matched.
+// ---
+
 #ifndef BASE_SUBSTRING_SET_MATCHER_MATCHER_STRING_PATTERN_H_
 #define BASE_SUBSTRING_SET_MATCHER_MATCHER_STRING_PATTERN_H_
 

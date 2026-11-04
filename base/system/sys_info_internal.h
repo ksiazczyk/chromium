@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SysInfo internal helpers header
+// summary: Internal header providing the LazySysInfoValue caching template plus Mac and Apple helpers for processor counts and sysctl integer lookups.
+// ---
+
 #ifndef BASE_SYSTEM_SYS_INFO_INTERNAL_H_
 #define BASE_SYSTEM_SYS_INFO_INTERNAL_H_
 

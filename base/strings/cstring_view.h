@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cstring_view safe C-string view
+// summary: Defines basic_cstring_view and per-char-type aliases providing a non-owning, bounds-safe view of NUL-terminated C strings.
+// ---
+
 #ifndef BASE_STRINGS_CSTRING_VIEW_H_
 #define BASE_STRINGS_CSTRING_VIEW_H_
 

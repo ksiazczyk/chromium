@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX stack base address API
+// summary: Declares GetThreadStackBaseAddress, which returns the base address of a thread's stack on POSIX platforms and documents sandbox and platform-specific limitations.
+// ---
+
 #ifndef BASE_PROFILER_STACK_BASE_ADDRESS_POSIX_H_
 #define BASE_PROFILER_STACK_BASE_ADDRESS_POSIX_H_
 

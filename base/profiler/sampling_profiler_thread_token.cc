@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling profiler thread token implementation
+// summary: Implements creation and cloning of thread tokens carrying thread IDs, pthread handles, stack base addresses, or Windows thread handles for the sampling profiler.
+// ---
+
 #include "base/profiler/sampling_profiler_thread_token.h"
 
 #include "base/check_op.h"

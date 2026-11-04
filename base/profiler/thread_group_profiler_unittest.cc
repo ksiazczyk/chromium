@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ThreadGroupProfiler with mock clients and profilers
+// summary: Unit tests for ThreadGroupProfiler using mock schedulers, profile builders, clients, and profilers to verify worker thread sampling session behavior.
+// ---
+
 #include "base/profiler/thread_group_profiler.h"
 
 #include <map>

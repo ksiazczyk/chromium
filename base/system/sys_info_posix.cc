@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX implementation of SysInfo
+// summary: Shared POSIX implementation of SysInfo providing processor counts, memory amounts, disk space, and kernel version for Linux, Mac, Android, and other POSIX platforms.
+// ---
+
 #include "base/system/sys_info.h"
 
 #include <errno.h>

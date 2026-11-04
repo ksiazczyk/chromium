@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stack base address unit tests
+// summary: Unit tests verifying GetThreadStackBaseAddress returns a plausible stack base for the current thread and, on Android and ChromeOS, for the main thread.
+// ---
+
 #include "base/profiler/stack_base_address_posix.h"
 
 #include "base/numerics/clamped_math.h"

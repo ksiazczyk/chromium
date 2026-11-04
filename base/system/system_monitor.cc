@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMonitor implementation
+// summary: Implements the SystemMonitor singleton that tracks device changes and notifies registered DevicesChangedObserver instances.
+// ---
+
 #include "base/system/system_monitor.h"
 
 #include <utility>

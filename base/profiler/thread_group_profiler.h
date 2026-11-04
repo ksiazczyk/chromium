@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadGroupProfiler class for periodic worker thread sampling
+// summary: Declares ThreadGroupProfiler, which schedules periodic sampling sessions for worker threads in a thread group and defines its Profiler abstraction and Delegate interface.
+// ---
+
 #ifndef BASE_PROFILER_THREAD_GROUP_PROFILER_H_
 #define BASE_PROFILER_THREAD_GROUP_PROFILER_H_
 

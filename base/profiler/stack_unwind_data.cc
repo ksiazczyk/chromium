@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack unwind data implementation
+// summary: Implements StackUnwindData, which stores unwinders and the module cache so stacks can be unwound off the sampling thread.
+// ---
+
 #include "base/profiler/stack_unwind_data.h"
 
 #include <algorithm>

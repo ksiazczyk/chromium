@@ -59,6 +59,12 @@
 // may improve performance, as the selected thread may have a greater chance of
 // having some of its stack data in various CPU caches.
 
+// ---docerion
+// type: source
+// title: ConditionVariable class declaration
+// summary: Declares a condition variable wrapping pthreads or a Windows simulation, with usage notes on spurious signals and Broadcast performance.
+// ---
+
 #ifndef BASE_SYNCHRONIZATION_CONDITION_VARIABLE_H_
 #define BASE_SYNCHRONIZATION_CONDITION_VARIABLE_H_
 

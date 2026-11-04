@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackCopierSuspend implementation
+// summary: Implements stack copying by suspending the profiled thread, capturing stack contents, registers, and timestamp, and rewriting stack pointers without heap allocations.
+// ---
+
 #include "base/profiler/stack_copier_suspend.h"
 
 #include "base/profiler/register_context_registers.h"

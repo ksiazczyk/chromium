@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: DurableStringView strong alias
+// summary: Defines DurableStringView, a strong alias of std::string_view promising the underlying storage will not be deallocated.
+// ---
+
 #ifndef BASE_STRINGS_DURABLE_STRING_VIEW_H_
 #define BASE_STRINGS_DURABLE_STRING_VIEW_H_
 

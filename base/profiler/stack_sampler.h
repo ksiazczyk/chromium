@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackSampler class declaration
+// summary: Declares StackSampler, an implementation detail of StackSamplingProfiler that abstracts native stack frame recording and delegates copying to platform-specific StackCopiers.
+// ---
+
 #ifndef BASE_PROFILER_STACK_SAMPLER_H_
 #define BASE_PROFILER_STACK_SAMPLER_H_
 

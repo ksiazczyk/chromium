@@ -6,6 +6,12 @@
 // variable, e.g.:
 // $ CHROME_PATH=~/chromium/src/out/Release/chrome node benchmark-octane.js
 
+// ---docerion
+// type: script
+// title: Octane benchmark script for heap profiler sampling rates
+// summary: Node script that runs the Octane benchmark in Chrome via Puppeteer at various heap sampling rates to measure profiler overhead.
+// ---
+
 const puppeteer = require('puppeteer');
 
 async function runOctane(samplingRate) {

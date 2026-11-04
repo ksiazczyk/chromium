@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtomicFlag unit tests
+// summary: Tests single-threaded set and read, cross-thread visibility of the flag, reset for testing, and death tests for Set() from another sequence.
+// ---
+
 #include "base/synchronization/atomic_flag.h"
 
 #include "base/check_op.h"

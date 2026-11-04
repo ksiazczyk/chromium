@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitableEvent declaration
+// summary: Declares the WaitableEvent synchronization primitive with reset policy and initial state options, plus platform-specific storage for Windows, Apple, and POSIX.
+// ---
+
 #ifndef BASE_SYNCHRONIZATION_WAITABLE_EVENT_H_
 #define BASE_SYNCHRONIZATION_WAITABLE_EVENT_H_
 

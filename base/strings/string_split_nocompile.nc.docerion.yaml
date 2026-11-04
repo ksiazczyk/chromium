@@ -1,0 +1,4 @@
+# Docerion header of string_split_nocompile.nc.
+type: test
+title: String split no-compile tests
+summary: No-compile test suite asserting that split functions reject dangling string_view arguments from temporary strings with expected compile errors.

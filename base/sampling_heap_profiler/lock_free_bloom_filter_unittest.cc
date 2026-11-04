@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LockFreeBloomFilter unit tests
+// summary: Unit tests verifying hashing, add and maybe-contains behavior plus concurrent writer access for the lock-free Bloom filter.
+// ---
+
 #include "base/sampling_heap_profiler/lock_free_bloom_filter.h"
 
 #include <math.h>

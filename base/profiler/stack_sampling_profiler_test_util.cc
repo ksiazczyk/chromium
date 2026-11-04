@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stack sampling profiler test utilities
+// summary: Implements test helpers for profiler tests, including unwind scenarios, target threads, test profile builders, and Android native unwinder test support.
+// ---
+
 #include "base/profiler/stack_sampling_profiler_test_util.h"
 
 #include <string_view>

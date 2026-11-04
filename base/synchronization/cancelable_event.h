@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CancelableEvent class declaration
+// summary: Declares a 0-1 semaphore that can be signaled, canceled on supported platforms, and waited on with an optional timeout.
+// ---
+
 #ifndef BASE_SYNCHRONIZATION_CANCELABLE_EVENT_H_
 #define BASE_SYNCHRONIZATION_CANCELABLE_EVENT_H_
 

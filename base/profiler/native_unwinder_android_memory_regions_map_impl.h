@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory regions map implementation header
+// summary: Declares the concrete memory regions map exposing libunwindstack Maps and Memory accessors plus a test hook for swapping maps.
+// ---
+
 #ifndef BASE_PROFILER_NATIVE_UNWINDER_ANDROID_MEMORY_REGIONS_MAP_IMPL_H_
 #define BASE_PROFILER_NATIVE_UNWINDER_ANDROID_MEMORY_REGIONS_MAP_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subtle lock tracking and yield helpers
+// summary: Internal lock helpers providing DCHECK-only lock tracking and an architecture-specific YieldProcessor instruction for busy-wait loops.
+// ---
+
 #ifndef BASE_SYNCHRONIZATION_LOCK_SUBTLE_H_
 #define BASE_SYNCHRONIZATION_LOCK_SUBTLE_H_
 

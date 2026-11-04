@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac suspendable thread delegate implementation
+// summary: Implements thread suspension and register context retrieval on macOS and iOS for suspension-based stack copying.
+// ---
+
 #include "base/profiler/suspendable_thread_delegate_mac.h"
 
 #include <mach/mach.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Abseil 128-bit string number conversions unit tests
+// summary: Unit tests for StringToUint128 and HexStringToUInt128 covering valid, invalid, and boundary 128-bit inputs adapted from the 64-bit conversion tests.
+// ---
+
 #include "base/strings/abseil_string_number_conversions.h"
 
 #include <stdint.h>

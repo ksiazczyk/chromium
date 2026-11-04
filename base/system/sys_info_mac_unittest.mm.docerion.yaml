@@ -1,0 +1,4 @@
+# Docerion header of sys_info_mac_unittest.mm.
+type: test
+title: Unit tests for Mac SysInfo hardware model splitting
+summary: Unit tests verifying that SysInfo::SplitHardwareModelNameDoNotUse parses Mac hardware model names such as MacPro4,1 into category, model, and variant.

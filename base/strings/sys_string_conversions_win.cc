@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system string conversions implementation
+// summary: Implements Windows system string conversions using MultiByteToWideChar and WideCharToMultiByte with UTF-8, ANSI and custom code pages.
+// ---
+
 #include "base/strings/sys_string_conversions.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String tokenizer fuzzer
+// summary: LibFuzzer entry point that exercises base::StringTokenizer with varied patterns, options, and quote characters to uncover tokenizer bugs.
+// ---
+
 #include "base/strings/string_tokenizer.h"
 
 #include <stddef.h>

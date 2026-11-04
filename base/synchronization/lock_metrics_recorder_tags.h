@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockMetricTag and LockMetricTagList definitions
+// summary: Defines constexpr LockMetricTag and LockMetricTagList types used to identify lock types and categories when recording lock acquisition metrics.
+// ---
+
 #ifndef BASE_SYNCHRONIZATION_LOCK_METRICS_RECORDER_TAGS_H_
 #define BASE_SYNCHRONIZATION_LOCK_METRICS_RECORDER_TAGS_H_
 

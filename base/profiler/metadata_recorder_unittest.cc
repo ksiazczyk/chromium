@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metadata recorder unit tests
+// summary: Tests MetadataRecorder behavior for setting, updating, removing, and re-adding metadata items, including slot reuse and limits past the maximum count.
+// ---
+
 #include "base/profiler/metadata_recorder.h"
 
 #include <algorithm>

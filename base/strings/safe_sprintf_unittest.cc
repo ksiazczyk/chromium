@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SafeSPrintf
+// summary: Unit tests for SafeSPrintf and SafeSNPrintf covering buffer sizes, format specifiers, edge cases, and death tests.
+// ---
+
 #include "base/strings/safe_sprintf.h"
 
 #include <stddef.h>

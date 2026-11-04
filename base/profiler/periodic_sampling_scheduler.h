@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Periodic sampling scheduler class declaration
+// summary: Declares the PeriodicSamplingScheduler class, which splits execution time into periods and schedules random sampling collections covering a set fraction of each period.
+// ---
+
 #ifndef BASE_PROFILER_PERIODIC_SAMPLING_SCHEDULER_H_
 #define BASE_PROFILER_PERIODIC_SAMPLING_SCHEDULER_H_
 

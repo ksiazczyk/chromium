@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the 32-bit Android Chrome unwinder
+// summary: Tests unwind instruction execution, table lookups, and unwinding behavior for 32-bit ARM Android.
+// ---
+
 #include "base/profiler/chrome_unwinder_android_32.h"
 
 #include <algorithm>

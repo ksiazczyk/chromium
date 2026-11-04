@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome unwind info tables for 32-bit Android
+// summary: Defines the header and table structures that map instruction addresses to ARM compact unwind instructions on 32-bit Android.
+// ---
+
 #ifndef BASE_PROFILER_CHROME_UNWIND_INFO_ANDROID_32_H_
 #define BASE_PROFILER_CHROME_UNWIND_INFO_ANDROID_32_H_
 

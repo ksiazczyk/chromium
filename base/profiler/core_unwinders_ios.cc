@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS core unwinders factory
+// summary: Creates the iOS stack sampling unwinder list, returning a frame pointer unwinder when the iOS stack profiler build flag is enabled.
+// ---
+
 #include "base/profiler/core_unwinders.h"
 
 #include <memory>

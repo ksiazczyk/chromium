@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String number conversions fuzzer
+// summary: LibFuzzer harness that checks number-to-string and string-to-number conversions round-trip correctly for many numeric types.
+// ---
+
 #include "base/strings/string_number_conversions.h"
 
 #include <stddef.h>

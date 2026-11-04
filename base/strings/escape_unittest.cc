@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for string escaping
+// summary: Unit tests for URL, form and HTML escaping functions declared in base/strings/escape.h.
+// ---
+
 #include "base/strings/escape.h"
 
 #include <algorithm>

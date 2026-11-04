@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Poisson allocation sampler implementation
+// summary: Implements Poisson-distributed sampling of allocations, thread-local accounting and observer notifications for the heap profiler.
+// ---
+
 #include "base/sampling_heap_profiler/poisson_allocation_sampler.h"
 
 #include <algorithm>

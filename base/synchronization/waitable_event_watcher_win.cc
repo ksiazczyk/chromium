@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitableEventWatcher Windows implementation
+// summary: Implements WaitableEventWatcher on Windows by duplicating the event handle and using base::win::ObjectWatcher to invoke the callback on signal.
+// ---
+
 #include "base/synchronization/waitable_event_watcher.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspendable thread delegate interface
+// summary: Declares the SuspendableThreadDelegate interface for suspending target threads and copying their stacks during profiling.
+// ---
+
 #ifndef BASE_PROFILER_SUSPENDABLE_THREAD_DELEGATE_H_
 #define BASE_PROFILER_SUSPENDABLE_THREAD_DELEGATE_H_
 
