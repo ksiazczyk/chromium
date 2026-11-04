@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS approval rules for translation image hashes
+summary: Lets any Chromium committer approve the PNG SHA-1 hashes that support string translation.
