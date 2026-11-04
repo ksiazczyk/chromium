@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser shutdown browser tests
+// summary: Browser tests verifying shutdown histograms, shutdown types, and quit behavior when closing browser windows or exiting Chrome.
+// ---
+
 #include "chrome/browser/lifetime/browser_shutdown.h"
 
 #include "base/run_loop.h"

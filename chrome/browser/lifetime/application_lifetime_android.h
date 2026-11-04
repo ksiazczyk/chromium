@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android application lifetime header
+// summary: Declares TerminateAndroid for shutting down Chrome on Android via JNI.
+// ---
+
 #ifndef CHROME_BROWSER_LIFETIME_APPLICATION_LIFETIME_ANDROID_H_
 #define CHROME_BROWSER_LIFETIME_APPLICATION_LIFETIME_ANDROID_H_
 

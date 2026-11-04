@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser shutdown interface
+// summary: Declares shutdown types, restart modes, and functions for coordinating browser shutdown, recording shutdown metrics, and managing quit behavior.
+// ---
+
 #ifndef CHROME_BROWSER_LIFETIME_BROWSER_SHUTDOWN_H_
 #define CHROME_BROWSER_LIFETIME_BROWSER_SHUTDOWN_H_
 

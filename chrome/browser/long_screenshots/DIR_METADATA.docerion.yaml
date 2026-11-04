@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Long screenshots directory metadata (DIR_METADATA)
+summary: Maps the directory to the UI>Browser>Sharing Monorail component and Buganizer component 1457306 for issue tracking.

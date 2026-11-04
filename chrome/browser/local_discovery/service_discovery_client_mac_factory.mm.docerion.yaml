@@ -1,0 +1,4 @@
+# Docerion header of service_discovery_client_mac_factory.mm.
+type: source
+title: macOS service discovery client factory implementation
+summary: Creates and returns a ServiceDiscoveryClientMac instance as the shared macOS service discovery client.

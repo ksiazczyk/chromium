@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login detection tab helper implementation
+// summary: Implements a WebContents observer that detects OAuth logins during navigations and records histogram and UKM login detection metrics.
+// ---
+
 #include "chrome/browser/login_detection/login_detection_tab_helper.h"
 
 #include "base/metrics/histogram_functions.h"

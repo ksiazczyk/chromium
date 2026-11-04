@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodeSignCloneManager class declaration
+// summary: Declares a manager that creates temporary APFS clones of the app bundle with a hard-linked main executable to keep code signatures valid after staged updates.
+// ---
+
 #ifndef CHROME_BROWSER_MAC_CODE_SIGN_CLONE_MANAGER_H_
 #define CHROME_BROWSER_MAC_CODE_SIGN_CLONE_MANAGER_H_
 

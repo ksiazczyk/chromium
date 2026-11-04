@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadingModalDialogCoordinator
+// summary: Coordinator for the Android loading modal dialog that defines its states and observer interface and proxies communication to the mediator.
+// ---
+
 package org.chromium.chrome.browser.loading_modal;
 
 import android.content.Context;

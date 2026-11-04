@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart restart manager browser tests
+// summary: Browser tests covering smart restart triggers, blockers, and metrics across lock screen and zero-window scenarios.
+// ---
+
 #include "chrome/browser/lifetime/smart_restart_manager.h"
 
 #include "base/test/metrics/histogram_tester.h"

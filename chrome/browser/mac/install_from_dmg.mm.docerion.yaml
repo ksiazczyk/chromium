@@ -1,0 +1,4 @@
+# Docerion header of install_from_dmg.mm.
+type: source
+title: Install from disk image implementation
+summary: Implements detection of running from a read-only disk image via IOKit, prompts the user to install to the hard drive, and ejects and trashes the disk image afterwards.

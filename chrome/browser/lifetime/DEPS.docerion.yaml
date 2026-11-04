@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the lifetime directory
+summary: Defines per-file include rules allowing ash and dbus headers for specific lifetime sources.

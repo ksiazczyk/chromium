@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observer for navigations and keepalive requests from Google search pages
+// summary: Implements a WebContentsObserver that tracks navigations and fetch keepalive requests initiated from Google search result pages for UKM beacon leakage logging.
+// ---
+
 #include "chrome/browser/loader/from_gws_navigation_and_keep_alive_request_observer.h"
 
 #include "chrome/browser/loader/from_gws_navigation_and_keep_alive_request_tracker.h"

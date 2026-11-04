@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationLifetime
+// summary: Java class that notifies registered observers when Chrome is told to terminate or restart, and tracks whether a locale switch should trigger a restart.
+// ---
+
 package org.chromium.chrome.browser.lifetime;
 
 import org.jni_zero.CalledByNative;

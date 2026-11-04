@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleManagerDelegate
+// summary: Base delegate class for locale-specific behavior overridden by downstream targets, implementing search engine promo dialogs, snackbars, and metrics for special locales.
+// ---
+
 package org.chromium.chrome.browser.locale;
 
 import android.app.Activity;

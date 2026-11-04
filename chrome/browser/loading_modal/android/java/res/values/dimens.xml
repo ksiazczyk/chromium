@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Loading modal dimension resources
+summary: Android values resource that defines the 60dp size of the loading indicator displayed in the loading modal.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <dimen name="loading_modal_loading_indicator_size">60dp</dimen>
 </resources>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service discovery device lister unit tests
+// summary: Unit tests for ServiceDiscoveryDeviceLister using mock client, watcher and resolver objects to verify device added, removed, cache flushed and permission rejected handling.
+// ---
+
 #include "chrome/browser/local_discovery/service_discovery_device_lister.h"
 
 #include "chrome/browser/local_discovery/service_discovery_client_test_helpers.h"

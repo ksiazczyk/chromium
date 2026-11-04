@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared base implementation for Local Network Access browser tests
+// summary: Implements the shared test base with HTTPS test servers, feature setup, permission prompt factory and use counter histogram helpers.
+// ---
+
 #include "chrome/browser/local_network_access/local_network_access_browsertest_base.h"
 
 #include "base/command_line.h"

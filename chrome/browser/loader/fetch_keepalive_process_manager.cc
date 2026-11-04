@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the fetch keepalive process manager
+// summary: Implements process-wide and per-profile keep-alive holds while fetch keepalive or fetchLater loaders are in flight and records hold duration and concurrency histograms.
+// ---
+
 #include "chrome/browser/loader/fetch_keepalive_process_manager.h"
 
 #include "base/check.h"

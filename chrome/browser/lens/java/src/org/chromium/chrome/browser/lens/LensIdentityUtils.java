@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensIdentityUtils for Lens account matching
+// summary: Static utility returning the profile's account name, or null for incognito or signed-out profiles, to support Lens identity matching.
+// ---
+
 package org.chromium.chrome.browser.lens;
 
 import org.chromium.build.annotations.NullMarked;

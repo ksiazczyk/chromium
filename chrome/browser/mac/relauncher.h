@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac relauncher interface
+// summary: Declares the mac_relauncher API for relaunching Chrome on macOS through an intermediate helper process, using a pipe handshake to avoid duplicate Dock icons and races.
+// ---
+
 #ifndef CHROME_BROWSER_MAC_RELAUNCHER_H_
 #define CHROME_BROWSER_MAC_RELAUNCHER_H_
 

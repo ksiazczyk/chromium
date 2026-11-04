@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Objective-C exception preprocessor interface
+// summary: Declares installation of an Objective-C exception preprocessor that records crash keys for NSException objects.
+// ---
+
 #ifndef CHROME_BROWSER_MAC_EXCEPTION_PROCESSOR_H_
 #define CHROME_BROWSER_MAC_EXCEPTION_PROCESSOR_H_
 

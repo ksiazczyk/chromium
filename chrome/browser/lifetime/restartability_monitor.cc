@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restartability monitor implementation
+// summary: Implements monitoring of browser state to determine whether a smart restart would be disruptive, classifying blockers by disruption level.
+// ---
+
 #include "chrome/browser/lifetime/restartability_monitor.h"
 
 #include <algorithm>

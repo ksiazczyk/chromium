@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduled restart test utils header
+// summary: Declares FakeUpgradeDetector for scheduled restart tests, exposing control over upgrade detection state, timestamps, and notification stages.
+// ---
+
 #ifndef CHROME_BROWSER_LIFETIME_SCHEDULED_RESTART_TEST_UTILS_H_
 #define CHROME_BROWSER_LIFETIME_SCHEDULED_RESTART_TEST_UTILS_H_
 

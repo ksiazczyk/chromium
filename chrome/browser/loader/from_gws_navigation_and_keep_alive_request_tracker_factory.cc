@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: From GWS navigation and keepalive request tracker factory
+// summary: Implements the profile-keyed service factory that creates the tracker only when the BeaconLeakageLogging feature is enabled.
+// ---
+
 #include "chrome/browser/loader/from_gws_navigation_and_keep_alive_request_tracker_factory.h"
 
 #include "chrome/browser/loader/from_gws_navigation_and_keep_alive_request_tracker.h"

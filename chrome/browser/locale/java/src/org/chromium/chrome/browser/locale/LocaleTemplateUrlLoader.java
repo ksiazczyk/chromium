@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleTemplateUrlLoader
+// summary: JNI bridge that loads, removes, and overrides locale-specific template URLs for the default search provider and must be destroyed after use.
+// ---
+
 package org.chromium.chrome.browser.locale;
 
 import org.jni_zero.JniType;

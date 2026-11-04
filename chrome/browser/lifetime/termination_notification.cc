@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App termination notification implementation
+// summary: Implements a callback list that notifies registered listeners exactly once when the Chrome application is terminating.
+// ---
+
 #include "chrome/browser/lifetime/termination_notification.h"
 
 #include "base/no_destructor.h"

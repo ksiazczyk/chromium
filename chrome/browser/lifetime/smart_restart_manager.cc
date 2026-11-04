@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart restart manager implementation
+// summary: Implements SmartRestartManager, which triggers background relaunches on upgrade recommendations during lock screen or zero-window states.
+// ---
+
 #include "chrome/browser/lifetime/smart_restart_manager.h"
 
 #include "base/command_line.h"

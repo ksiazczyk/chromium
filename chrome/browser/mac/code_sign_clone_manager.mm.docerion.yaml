@@ -1,0 +1,4 @@
+# Docerion header of code_sign_clone_manager.mm.
+type: source
+title: Code sign clone manager implementation
+summary: Implements cloning the macOS app bundle to a temporary translocation directory so the cloned copy can be code signed.

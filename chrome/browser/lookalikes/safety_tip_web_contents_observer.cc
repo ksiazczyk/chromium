@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety tip web contents observer implementation
+// summary: Observes navigations and visibility to trigger safety tip warnings for lookalike sites and records interaction metrics and UKM data.
+// ---
+
 #include "chrome/browser/lookalikes/safety_tip_web_contents_observer.h"
 
 #include <optional>

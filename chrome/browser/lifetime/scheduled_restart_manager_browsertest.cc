@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduled restart manager browser tests
+// summary: Browser tests verifying scheduled restart scheduling, cancellation, and idle-triggered relaunch behavior using a fake upgrade detector.
+// ---
+
 #include "chrome/browser/lifetime/scheduled_restart_manager.h"
 
 #include <memory>

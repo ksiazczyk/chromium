@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SAPISID hash generation
+// summary: Golden-value test verifying the GenerateSapisidHash output and the timing histogram for Lens identity delegation.
+// ---
+
 #include "chrome/browser/lens/lens_sapisid_generator.h"
 
 #include <optional>

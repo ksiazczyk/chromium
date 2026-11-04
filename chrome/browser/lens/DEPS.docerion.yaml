@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Lens browser directory
+summary: Lists the Android and components paths that files in chrome/browser/lens are allowed to include.

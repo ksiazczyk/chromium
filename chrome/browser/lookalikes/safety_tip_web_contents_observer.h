@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety tip web contents observer header
+// summary: Declares the web contents observer that checks navigations for lookalike sites and shows safety tip warnings, with test hooks.
+// ---
+
 #ifndef CHROME_BROWSER_LOOKALIKES_SAFETY_TIP_WEB_CONTENTS_OBSERVER_H_
 #define CHROME_BROWSER_LOOKALIKES_SAFETY_TIP_WEB_CONTENTS_OBSERVER_H_
 

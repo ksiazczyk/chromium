@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch utilities for autorestart
+// summary: Removes command-line switches, plus the Windows prefetch switch, that should not be passed through when a background Chrome instance restarts itself for an update.
+// ---
+
 #include "chrome/browser/lifetime/switch_utils.h"
 
 #include <stddef.h>

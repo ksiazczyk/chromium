@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keepalive request browser test utilities header
+// summary: Declares the shared browser test base and constants used by Chrome browser tests for fetch keepalive requests.
+// ---
+
 #ifndef CHROME_BROWSER_LOADER_KEEP_ALIVE_REQUEST_BROWSERTEST_UTIL_H_
 #define CHROME_BROWSER_LOADER_KEEP_ALIVE_REQUEST_BROWSERTEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth login detector header
+// summary: Declares the OAuthLoginDetector class that recognizes OAuth login start and completion from navigation query parameters, including popup flows.
+// ---
+
 #ifndef CHROME_BROWSER_LOGIN_DETECTION_OAUTH_LOGIN_DETECTOR_H_
 #define CHROME_BROWSER_LOGIN_DETECTION_OAUTH_LOGIN_DETECTOR_H_
 

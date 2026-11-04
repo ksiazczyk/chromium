@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the loader keepalive code
+summary: Defines source sets for keepalive request tracking headers and implementations plus browser and unit test targets, with desktop-only keepalive sources excluded on Android.

@@ -1,0 +1,4 @@
+# Docerion header of aperitif_unittest.mm.
+type: test
+title: Aperitif helper unit test
+summary: Verifies that the Aperitif helper app launches under a Seatbelt sandbox and that its initializers load in order on macOS 14 and later.

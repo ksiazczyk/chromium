@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login detection utility implementation
+// summary: Implements the login detection feature flag and helpers for site names, OAuth query parameters, and field trial settings.
+// ---
+
 #include "chrome/browser/login_detection/login_detection_util.h"
 
 #include "base/metrics/field_trial_params.h"

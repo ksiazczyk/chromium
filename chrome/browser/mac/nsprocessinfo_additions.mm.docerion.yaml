@@ -1,0 +1,4 @@
+# Docerion header of nsprocessinfo_additions.mm.
+type: source
+title: NSProcessInfo Chrome additions
+summary: Objective-C category on NSProcessInfo that reports whether the current process is the main browser or a test process by checking the process-type command line switch.

@@ -1,0 +1,4 @@
+# Docerion header of initial_prefs.mm.
+type: source
+title: Initial preferences path implementation
+summary: Resolves the initial preferences file location in user data or system directories for Chrome and Chromium builds.

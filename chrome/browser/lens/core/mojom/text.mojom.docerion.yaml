@@ -1,0 +1,4 @@
+# Docerion header of text.mojom.
+type: source
+title: 'text.mojom: Lens text and translation structs'
+summary: Defines structs and enums for detected and translated Lens overlay text, including paragraphs, lines, words, geometry, writing direction, and background image data for rendering.

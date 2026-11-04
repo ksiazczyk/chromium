@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduled restart test utils implementation
+// summary: Implements FakeUpgradeDetector, a test double that lets scheduled restart tests simulate upgrade availability and notification stages.
+// ---
+
 #include "chrome/browser/lifetime/scheduled_restart_test_utils.h"
 
 #include "base/time/default_clock.h"

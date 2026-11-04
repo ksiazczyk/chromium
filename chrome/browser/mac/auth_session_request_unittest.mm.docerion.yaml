@@ -1,0 +1,4 @@
+# Docerion header of auth_session_request_unittest.mm.
+type: test
+title: AuthSessionRequest scheme canonicalization unit test
+summary: Unit tests for AuthSessionRequest::CanonicalizeScheme, checking lowercase normalization and rejection of non-ASCII schemes.

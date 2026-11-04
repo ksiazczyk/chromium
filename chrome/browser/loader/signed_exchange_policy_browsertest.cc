@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for signed exchange URL blocklist policy
+// summary: Browser tests verifying that the URLBlocklist enterprise policy blocks signed exchange navigations and shows the error page.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "base/values.h"
 #include "build/build_config.h"

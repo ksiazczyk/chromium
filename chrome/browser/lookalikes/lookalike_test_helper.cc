@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike test helper implementation
+// summary: Implements test helpers that swap in test top-domain lists and assert on safety tip and interstitial UKM metrics.
+// ---
+
 #include "chrome/browser/lookalikes/lookalike_test_helper.h"
 
 #include "base/memory/raw_ptr.h"

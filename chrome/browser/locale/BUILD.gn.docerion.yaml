@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Chrome locale module
+summary: Defines Android Java library targets and JNI header generation for the browser locale code, including LocaleManager and LocaleTemplateUrlLoader.

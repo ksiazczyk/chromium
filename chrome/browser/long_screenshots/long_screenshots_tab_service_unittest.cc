@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Long screenshots tab service unit tests
+// summary: Unit tests for LongScreenshotsTabService covering capture behavior, AMP URL detection, and file handling using a mock PaintPreviewRecorder.
+// ---
+
 #include "chrome/browser/long_screenshots/long_screenshots_tab_service.h"
 
 #include <memory>

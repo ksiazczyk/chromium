@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS application lifetime browser tests
+// summary: Browser tests verifying restart in place, reboot after pending update and session stop behavior on ChromeOS using fake DBus clients.
+// ---
+
 #include "chrome/browser/lifetime/application_lifetime.h"
 
 #include <optional>

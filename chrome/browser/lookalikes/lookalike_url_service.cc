@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL service implementation
+// summary: Implements a per-profile keyed service that computes and caches the engaged sites list used for lookalike and safety tip checks.
+// ---
+
 #include "chrome/browser/lookalikes/lookalike_url_service.h"
 
 #include <algorithm>

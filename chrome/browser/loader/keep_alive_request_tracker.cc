@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome keepalive request tracker
+// summary: Implements the Chrome keepalive request tracker that records stage metrics and logs UKM events for fetch keepalive and fetchLater requests.
+// ---
+
 #include "chrome/browser/loader/keep_alive_request_tracker.h"
 
 #include <stdint.h>

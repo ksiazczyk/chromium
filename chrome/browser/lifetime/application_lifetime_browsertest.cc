@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for restart and relaunch behavior
+// summary: In-process browser tests verifying restart and relaunch behavior with incognito, guest and unload-handler scenarios.
+// ---
+
 #include "chrome/browser/lifetime/application_lifetime.h"
 
 #include <algorithm>

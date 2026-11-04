@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Switch utilities unit test
+// summary: Unit tests verifying that one-time switches and the Windows prefetch switch are removed from the command line before an autorestart.
+// ---
+
 #include "chrome/browser/lifetime/switch_utils.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensControllerDelegate base class for target-specific Lens behavior
+// summary: Base class defining Lens controller methods that downstream targets override, with the implementation chosen at compile time via ServiceLoaderUtil.
+// ---
+
 package org.chromium.chrome.browser.lens;
 
 import android.content.Context;

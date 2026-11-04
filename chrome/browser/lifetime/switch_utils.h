@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch utilities header
+// summary: Declares RemoveSwitchesForAutostart, which strips command-line switches that should not persist across a Chrome restart.
+// ---
+
 #ifndef CHROME_BROWSER_LIFETIME_SWITCH_UTILS_H_
 #define CHROME_BROWSER_LIFETIME_SWITCH_UTILS_H_
 

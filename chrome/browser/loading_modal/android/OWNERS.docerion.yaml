@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Loading modal Android OWNERS
+summary: Delegates code ownership of the loading modal Android directory to the password manager Android OWNERS file.

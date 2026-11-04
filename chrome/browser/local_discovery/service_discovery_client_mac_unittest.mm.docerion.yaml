@@ -1,0 +1,4 @@
+# Docerion header of service_discovery_client_mac_unittest.mm.
+type: test
+title: macOS service discovery client unit tests
+summary: Unit tests for the macOS service discovery client covering watcher updates, resolver behavior and object cleanup after start.

@@ -1,0 +1,4 @@
+# Docerion header of exception_processor.mm.
+type: source
+title: Objective-C exception preprocessor implementation
+summary: Installs an exception preprocessor that records first and last NSException details and stack traces as crash keys.

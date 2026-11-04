@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login detection browser tests
+// summary: Browser tests verifying OAuth login detection types and the Login.PageLoad.DetectionType histogram during navigations.
+// ---
+
 #include "base/feature_list.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"

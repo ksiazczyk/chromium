@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the GWS navigation and keepalive request observer
+// summary: Tests observer creation and tracking behavior with the BeaconLeakageLogging feature enabled or disabled, using a mock tracker and test UKM recorder.
+// ---
+
 #include "chrome/browser/loader/from_gws_navigation_and_keep_alive_request_observer.h"
 
 #include <cstdint>

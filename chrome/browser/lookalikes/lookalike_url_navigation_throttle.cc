@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL navigation throttle implementation
+// summary: Implements a navigation throttle that detects lookalike domains during navigation and shows blocking interstitials, including engaged-site checks and latency metrics.
+// ---
+
 #include "chrome/browser/lookalikes/lookalike_url_navigation_throttle.h"
 
 #include <map>

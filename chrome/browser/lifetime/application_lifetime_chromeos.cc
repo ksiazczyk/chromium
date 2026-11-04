@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS application lifetime implementation
+// summary: Implements ChromeOS-specific shutdown behavior, including session duration UMA reporting, logout markers and locale handling for the next start.
+// ---
+
 #include "chrome/browser/lifetime/application_lifetime_chromeos.h"
 
 #include "ash/constants/ash_pref_names.h"

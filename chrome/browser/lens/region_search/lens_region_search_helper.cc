@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens region search helper implementation
+// summary: Implements checks for whether Lens region search is enabled based on feature flags, search provider support, preferences, and the current URL.
+// ---
+
 #include "chrome/browser/lens/region_search/lens_region_search_helper.h"
 
 #include "base/feature_list.h"

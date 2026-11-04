@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Login detection directory metadata
+summary: Routes bugs for this directory to the DataUse component in Monorail and Buganizer.

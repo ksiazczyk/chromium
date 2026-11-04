@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Lens suggestion tool
+// summary: Tests tool ID, service registration lifecycle, and suggestion creation edge cases using mock tab and controller objects.
+// ---
+
 #include "chrome/browser/lens/lens_suggestion_tool.h"
 
 #include <memory>

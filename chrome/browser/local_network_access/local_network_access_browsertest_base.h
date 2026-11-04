@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared base class header for Local Network Access browser tests
+// summary: Declares the browser test base class providing test servers, permission helpers and histogram checking utilities.
+// ---
+
 #ifndef CHROME_BROWSER_LOCAL_NETWORK_ACCESS_LOCAL_NETWORK_ACCESS_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_LOCAL_NETWORK_ACCESS_LOCAL_NETWORK_ACCESS_BROWSERTEST_BASE_H_
 

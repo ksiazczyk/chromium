@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduled restart manager unit tests
+// summary: Unit tests for scheduled restart preferences, lull window parsing, and restart execution outcomes using a mock clock and fake upgrade detector.
+// ---
+
 #include "chrome/browser/lifetime/scheduled_restart_manager.h"
 
 #include <string_view>

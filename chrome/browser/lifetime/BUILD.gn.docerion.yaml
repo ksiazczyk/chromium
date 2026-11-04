@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for browser lifetime sources
+summary: GN build file defining source sets and platform-conditional sources and dependencies for the browser lifetime module.

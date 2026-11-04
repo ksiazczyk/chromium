@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL tab storage header
+// summary: Declares LookalikeUrlTabStorage, short-lived per-tab storage holding parameters of the currently shown lookalike interstitial.
+// ---
+
 #ifndef CHROME_BROWSER_LOOKALIKES_LOOKALIKE_URL_TAB_STORAGE_H_
 #define CHROME_BROWSER_LOOKALIKES_LOOKALIKE_URL_TAB_STORAGE_H_
 

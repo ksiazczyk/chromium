@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners and review restrictions for locale code
+summary: Sets a noparent review restriction and defers approval to compliance owners because of regulatory requirements.

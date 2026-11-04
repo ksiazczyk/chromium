@@ -1,0 +1,4 @@
+# Docerion header of lens_side_panel.mojom.
+type: source
+title: 'lens_side_panel.mojom: side panel WebUI Mojo interfaces'
+summary: Defines the Mojo interfaces for the Lens side panel WebUI, covering query history, results loading, upload progress, error page states, and AIM message handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL navigation throttle unit tests
+// summary: Unit tests verifying that spoofy IDN hostnames are blocked or allowed by the navigation throttle based on spoof check results.
+// ---
+
 #include "chrome/browser/lookalikes/lookalike_url_navigation_throttle.h"
 
 #include "chrome/test/base/chrome_render_view_host_test_harness.h"

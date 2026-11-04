@@ -1,0 +1,4 @@
+# Docerion header of dock_unittest.mm.
+type: test
+title: Dock plist rewrite unit tests
+summary: Tests Dock plist rewriting for missing keys, already-present icons, and swapping DMG tiles for installed applications.

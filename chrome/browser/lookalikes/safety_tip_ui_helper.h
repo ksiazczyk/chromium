@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety tip UI helper interface
+// summary: Declares helpers for leaving a site, opening the help center, and building safety tip titles, descriptions, and button strings.
+// ---
+
 #ifndef CHROME_BROWSER_LOOKALIKES_SAFETY_TIP_UI_HELPER_H_
 #define CHROME_BROWSER_LOOKALIKES_SAFETY_TIP_UI_HELPER_H_
 

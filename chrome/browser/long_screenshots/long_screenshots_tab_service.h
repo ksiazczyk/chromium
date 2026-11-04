@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long screenshots tab service header
+// summary: Declares the LongScreenshotsTabService class, its capture status enum, and the CaptureTab API for capturing long screenshots of tabs using PaintPreview.
+// ---
+
 #ifndef CHROME_BROWSER_LONG_SCREENSHOTS_LONG_SCREENSHOTS_TAB_SERVICE_H_
 #define CHROME_BROWSER_LONG_SCREENSHOTS_LONG_SCREENSHOTS_TAB_SERVICE_H_
 

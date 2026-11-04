@@ -1,0 +1,4 @@
+# Docerion header of overlay_object.mojom.
+type: source
+title: 'overlay_object.mojom: Lens overlay object struct'
+summary: Defines the OverlayObject struct with an id and geometry, converted from the Lens overlay server proto for detected objects.

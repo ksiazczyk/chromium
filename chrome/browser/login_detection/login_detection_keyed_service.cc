@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login detection keyed service implementation
+// summary: Applies Site Isolation to previously saved OAuth signed-in sites when the profile's login detection service is created.
+// ---
+
 #include "chrome/browser/login_detection/login_detection_keyed_service.h"
 
 #include "chrome/browser/login_detection/login_detection_prefs.h"

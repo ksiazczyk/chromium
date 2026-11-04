@@ -1,0 +1,4 @@
+# Docerion header of metrics.mm.
+type: source
+title: Mac UMA metrics implementation
+summary: Records Mac.AppFileSystemType via getattrlist and Mac.AppUpgradeCodeSignatureValidationStatus by validating code signatures on a background thread after an upgrade is recommended.

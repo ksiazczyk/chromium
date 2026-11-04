@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety tip message delegate for Android implementation
+// summary: Displays safety tip prompts as Android messages and handles leave-site, learn-more, and dismiss interactions.
+// ---
+
 #include "chrome/browser/lookalikes/safety_tip_message_delegate_android.h"
 
 #include "chrome/browser/android/android_theme_resources.h"

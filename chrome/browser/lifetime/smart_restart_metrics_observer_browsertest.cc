@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart restart metrics observer browser test
+// summary: In-process browser test verifying the Session.ZeroWindowDuration histograms emitted by SmartRestartMetricsObserver, using a fake UpgradeDetector to simulate pending updates.
+// ---
+
 #include "chrome/browser/lifetime/smart_restart_metrics_observer.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux session end listener unit tests
+// summary: Unit tests for SessionEndListenerLinux using mock D-Bus buses and proxies to verify shutdown inhibition and signal handling behavior.
+// ---
+
 #include "chrome/browser/lifetime/session_end_listener_linux.h"
 
 #include <fcntl.h>

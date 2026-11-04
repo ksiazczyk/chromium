@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application lifetime API declarations
+// summary: Declares functions for user-initiated exit, restart, relaunch and shutdown that ignores unload handlers.
+// ---
+
 #ifndef CHROME_BROWSER_LIFETIME_APPLICATION_LIFETIME_H_
 #define CHROME_BROWSER_LIFETIME_APPLICATION_LIFETIME_H_
 

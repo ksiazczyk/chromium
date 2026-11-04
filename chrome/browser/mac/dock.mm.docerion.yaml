@@ -1,0 +1,4 @@
+# Docerion header of dock.mm.
+type: source
+title: Dock icon management implementation
+summary: Implements Dock plist rewriting to add or replace Chrome icons and restart the Dock process so changes become visible.

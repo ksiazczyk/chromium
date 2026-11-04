@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart restart policy implementation
+// summary: Implements SmartRestartPolicy checks that decide whether a smart restart may proceed, honoring browser state, tab and disruption thresholds, and enterprise relaunch policies.
+// ---
+
 #include "chrome/browser/lifetime/smart_restart_policy.h"
 
 #include <optional>

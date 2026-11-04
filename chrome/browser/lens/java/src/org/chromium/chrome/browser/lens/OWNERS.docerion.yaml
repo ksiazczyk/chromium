@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Lens directory OWNERS file
+summary: Lists the code owner for the Chrome Lens browser directory and references the shared components/lens OWNERS file.

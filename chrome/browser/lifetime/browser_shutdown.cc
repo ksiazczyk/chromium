@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser shutdown implementation
+// summary: Implements Chrome browser shutdown handling, including shutdown type tracking, shutdown metrics, prefs registration, and restart decisions during exit.
+// ---
+
 #include "chrome/browser/lifetime/browser_shutdown.h"
 
 #include <stdint.h>

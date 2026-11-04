@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long screenshots tab service implementation
+// summary: Implements LongScreenshotsTabService, capturing tab paint previews via PaintPreview with AMP and Google News URL handling, memory management, and Android JNI bindings.
+// ---
+
 #include "chrome/browser/long_screenshots/long_screenshots_tab_service.h"
 
 #include <utility>

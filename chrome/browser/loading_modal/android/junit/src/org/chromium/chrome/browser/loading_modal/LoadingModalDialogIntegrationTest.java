@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadingModalDialogIntegrationTest
+// summary: Robolectric integration tests verifying that the loading modal dialog is shown, dismissed and cancelled correctly via the ModalDialogManager.
+// ---
+
 package org.chromium.chrome.browser.loading_modal;
 
 import static org.hamcrest.MatcherAssert.assertThat;

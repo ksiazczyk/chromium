@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the fetch keepalive process manager
+// summary: Declares FetchKeepAliveProcessManager, a desktop-only class holding ScopedKeepAlive and ScopedProfileKeepAlive while keepalive loaders are in flight.
+// ---
+
 #ifndef CHROME_BROWSER_LOADER_FETCH_KEEPALIVE_PROCESS_MANAGER_H_
 #define CHROME_BROWSER_LOADER_FETCH_KEEPALIVE_PROCESS_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key window notifier implementation
+// summary: Implements observer registration and removal for KeyWindowNotifier and dispatches the no-key-window notification to registered observers.
+// ---
+
 #include "chrome/browser/mac/key_window_notifier.h"
 
 KeyWindowNotifier::KeyWindowNotifier() = default;

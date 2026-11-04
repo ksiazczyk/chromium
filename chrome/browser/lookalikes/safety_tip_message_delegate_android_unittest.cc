@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android safety tip message delegate
+// summary: Tests safety tip message display, dismissal, and button actions on Android using a mock message dispatcher bridge.
+// ---
+
 #include "chrome/browser/lookalikes/safety_tip_message_delegate_android.h"
 
 #include "base/android/jni_android.h"

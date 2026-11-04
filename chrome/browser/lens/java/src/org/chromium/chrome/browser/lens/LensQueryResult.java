@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensQueryResult wrapper for Lens Prime SDK query results
+// summary: Wrapper for the Lens Prime SDK image query result, exposing shoppy and translate intents, intent type, session and query IDs.
+// ---
+
 package org.chromium.chrome.browser.lens;
 
 import android.text.TextUtils;

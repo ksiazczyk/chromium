@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS application lifetime unit test
+// summary: Unit test checking that UpdatePending returns false when the DBus thread manager is not initialized.
+// ---
+
 #include "chrome/browser/lifetime/application_lifetime_chromeos.h"
 
 #include "chromeos/ash/components/dbus/dbus_thread_manager.h"

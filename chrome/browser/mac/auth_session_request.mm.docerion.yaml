@@ -1,0 +1,4 @@
+# Docerion header of auth_session_request.mm.
+type: source
+title: AuthSessionRequest implementation
+summary: Implements macOS authentication session handling, using navigation throttles to detect matching callback URLs and complete or cancel the session.

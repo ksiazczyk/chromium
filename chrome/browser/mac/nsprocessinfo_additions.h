@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSProcessInfo Chrome additions category
+// summary: Declares a cr_isMainBrowserOrTestProcess method on NSProcessInfo to detect the main browser or test process when command line checks are not possible, such as in +load methods.
+// ---
+
 #ifndef CHROME_BROWSER_MAC_NSPROCESSINFO_ADDITIONS_H_
 #define CHROME_BROWSER_MAC_NSPROCESSINFO_ADDITIONS_H_
 

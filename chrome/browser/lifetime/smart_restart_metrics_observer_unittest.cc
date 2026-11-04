@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart restart metrics observer unit test
+// summary: Unit tests verifying that SmartRestartMetricsObserver records zero-window duration histograms correctly, with and without a pending update, using mock time and a fake UpgradeDetector.
+// ---
+
 #include "chrome/browser/lifetime/smart_restart_metrics_observer.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for lookalike warnings and safety tips
+summary: Defines the GN source sets for the lookalikes browser code, including implementation, test support, and unit test targets.

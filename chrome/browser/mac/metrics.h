@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac UMA metrics declarations
+// summary: Declares the mac_metrics Metrics class, which records the file system type of the Chrome installation and code signature validation status after upgrades as UMA metrics.
+// ---
+
 #ifndef CHROME_BROWSER_MAC_METRICS_H_
 #define CHROME_BROWSER_MAC_METRICS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of service_discovery_client_mac_util.mm.
+type: source
+title: macOS service discovery parsing utility implementation
+summary: Parses Bonjour service names into instance, type and domain, and converts TXT records and NSNetService data into service descriptions.

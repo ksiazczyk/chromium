@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Long screenshots directory owners (OWNERS)
+summary: Lists code owners for the directory, inheriting send_tab_to_self owners and adding ckitagawa@chromium.org for paint preview context.

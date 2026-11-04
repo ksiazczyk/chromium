@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the GWS navigation and keepalive request observer
+// summary: Declares the WebContentsObserver that records eligible navigations and keepalive requests from Google search result pages, gated by the BeaconLeakageLogging feature.
+// ---
+
 #ifndef CHROME_BROWSER_LOADER_FROM_GWS_NAVIGATION_AND_KEEP_ALIVE_REQUEST_OBSERVER_H_
 #define CHROME_BROWSER_LOADER_FROM_GWS_NAVIGATION_AND_KEEP_ALIVE_REQUEST_OBSERVER_H_
 

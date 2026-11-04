@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Lens tips promo handler
+// summary: Implements the TipsPromoHandler for the Google Lens tip, supplying bottom sheet promo content and launching Lens with metrics and incognito handling when accepted.
+// ---
+
 package org.chromium.chrome.browser.lens.tips;
 
 import android.content.Context;

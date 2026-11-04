@@ -1,0 +1,4 @@
+# Docerion header of translate.mojom.
+type: source
+title: Lens translate Mojom language struct
+summary: Defines a Language struct for Lens translate that pairs a supported language code, such as an ISO 639-1 identifier, with its full language name.

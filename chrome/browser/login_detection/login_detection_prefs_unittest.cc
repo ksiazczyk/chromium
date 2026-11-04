@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login detection prefs unit tests
+// summary: Unit tests verifying saving, querying, clearing, and size capping of the OAuth signed-in sites preference list.
+// ---
+
 #include "chrome/browser/login_detection/login_detection_prefs.h"
 
 #include "base/test/scoped_feature_list.h"

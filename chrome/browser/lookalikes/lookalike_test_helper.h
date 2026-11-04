@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike test helper class
+// summary: Declares a helper class for lookalike browser tests that installs test parameters and checks recorded UKM events.
+// ---
+
 #ifndef CHROME_BROWSER_LOOKALIKES_LOOKALIKE_TEST_HELPER_H_
 #define CHROME_BROWSER_LOOKALIKES_LOOKALIKE_TEST_HELPER_H_
 

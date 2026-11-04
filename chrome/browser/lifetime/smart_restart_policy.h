@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart restart policy header
+// summary: Declares the SmartRestartPolicy class with static restart decision methods and the ExecutionOutcome and ExtendedExecutionOutcome enums used for smart restart outcomes.
+// ---
+
 #ifndef CHROME_BROWSER_LIFETIME_SMART_RESTART_POLICY_H_
 #define CHROME_BROWSER_LIFETIME_SMART_RESTART_POLICY_H_
 

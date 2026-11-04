@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Loading modal Android build targets
+summary: Defines the android_library, android_resources, and robolectric test targets for the Chrome loading modal dialog on Android.
