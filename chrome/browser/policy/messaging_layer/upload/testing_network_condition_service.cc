@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestingNetworkConditionService implementation
+// summary: Implements a test double that detaches the network quality tracker observer and lets tests set a fixed upload rate.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/testing_network_condition_service.h"
 
 #include <cstddef>

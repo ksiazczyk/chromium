@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual test heartbeat event header
+// summary: Declares ManualTestHeartbeatEvent, a manual-testing-only KeyedService that starts heartbeat uploads and observes managed session logins on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_MANUAL_TEST_HEARTBEAT_EVENT_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_MANUAL_TEST_HEARTBEAT_EVENT_H_
 

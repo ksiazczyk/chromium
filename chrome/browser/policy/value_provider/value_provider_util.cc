@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value provider utility implementation
+// summary: Provides the GetPolicyService helper that returns the policy service associated with a given profile.
+// ---
+
 #include "chrome/browser/policy/value_provider/value_provider_util.h"
 
 #include <utility>

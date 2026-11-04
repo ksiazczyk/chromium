@@ -4,6 +4,12 @@
 
 // Test support library for request payloads.
 
+// ---docerion
+// type: test
+// title: Request payload test matchers declaration
+// summary: Declares gtest matcher interfaces and classes used to verify the validity of encrypted reporting upload request payloads in tests.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_TEST_REQUEST_PAYLOAD_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_TEST_REQUEST_PAYLOAD_H_
 

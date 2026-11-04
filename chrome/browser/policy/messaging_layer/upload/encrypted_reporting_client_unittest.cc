@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encrypted reporting client unit tests
+// summary: Unit tests for EncryptedReportingClient covering upload requests, response parsing, and interaction with the device management service.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/encrypted_reporting_client.h"
 
 #include <memory>

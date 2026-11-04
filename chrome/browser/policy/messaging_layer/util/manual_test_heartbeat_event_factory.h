@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual test heartbeat event factory header
+// summary: Declares ManualTestHeartbeatEventFactory, a ProfileKeyedServiceFactory used only for manual-testing heartbeat events.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_MANUAL_TEST_HEARTBEAT_EVENT_FACTORY_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_MANUAL_TEST_HEARTBEAT_EVENT_FACTORY_H_
 

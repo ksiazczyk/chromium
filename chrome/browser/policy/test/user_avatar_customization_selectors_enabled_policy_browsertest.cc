@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User avatar customization policy browser tests
+// summary: Browser tests verifying the UserAvatarCustomizationSelectorsEnabled policy restricts saving custom local images, image files, and profile images on ChromeOS.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/path_service.h"
 #include "chrome/browser/ash/login/users/avatar/user_image_manager_impl.h"

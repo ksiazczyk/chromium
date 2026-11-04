@@ -4,6 +4,12 @@
 
 // Events related to adding and removing users from Chrome.
 
+// ---docerion
+// type: source
+// title: User add and remove event protos
+// summary: Defines protobuf messages and removal reasons for reporting when users are added to or removed from Chrome.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

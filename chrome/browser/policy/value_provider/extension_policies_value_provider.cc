@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension policies value provider implementation
+// summary: Implements retrieval of per-extension policy values and names for user and ChromeOS signin extension domains, updating on extension and policy changes.
+// ---
+
 #include "chrome/browser/policy/value_provider/extension_policies_value_provider.h"
 
 #include <memory>

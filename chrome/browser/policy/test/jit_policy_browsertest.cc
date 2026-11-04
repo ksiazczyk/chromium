@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript JIT policy browser test
+// summary: Parameterized browser tests verifying that default JavaScript JIT settings and per-site JIT blocked and allowed lists disable or enable JIT for rendered sites.
+// ---
+
 #include <vector>
 
 #include "base/values.h"

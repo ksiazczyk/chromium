@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate transparency policy browser test
+// summary: Browser test verifying that CertificateTransparencyEnforcementDisabledForUrls exempts hosts from CT enforcement, including after network service crashes.
+// ---
+
 #include "base/memory/scoped_refptr.h"
 #include "base/strings/utf_string_conversions.h"
 #include "base/values.h"

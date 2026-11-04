@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File upload job header
+// summary: Declares FileUploadJob, a restartable chunky upload framework with a Delegate interface and a Manager that tracks in-progress jobs.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_FILE_UPLOAD_JOB_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_FILE_UPLOAD_JOB_H_
 

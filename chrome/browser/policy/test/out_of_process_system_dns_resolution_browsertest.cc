@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Out-of-process system DNS resolution policy browser test
+// summary: Parameterized browser test verifying that the OutOfProcessSystemDnsResolutionEnabled policy is respected when enabled, disabled, or unset.
+// ---
+
 #include "base/values.h"
 #include "build/build_config.h"
 #include "chrome/browser/chrome_content_browser_client.h"

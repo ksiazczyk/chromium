@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SwiftShader enabled policy browser test
+// summary: Browser test verifying that the EnableUnsafeSwiftShader policy makes WebGL available regardless of GPU hardware acceleration.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/common/pref_names.h"
 #include "chrome/test/base/chrome_test_utils.h"

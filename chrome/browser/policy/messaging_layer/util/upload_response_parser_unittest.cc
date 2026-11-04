@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UploadResponseParser unit tests
+// summary: Unit tests covering parsing of upload responses, including sequencing info, encryption settings, configuration files, and response flags.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/upload_response_parser.h"
 
 #include <cstddef>

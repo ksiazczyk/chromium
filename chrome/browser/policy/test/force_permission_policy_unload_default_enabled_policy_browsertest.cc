@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Force permission policy unload default enabled browser tests
+// summary: Parameterized browser tests verifying that the ForcePermissionPolicyUnloadDefaultEnabled policy keeps unload events firing during unload deprecation.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/policy/policy_test_utils.h"
 #include "components/policy/policy_constants.h"

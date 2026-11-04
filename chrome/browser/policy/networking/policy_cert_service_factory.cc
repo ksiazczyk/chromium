@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy certificate service factory implementation
+// summary: Creates PolicyCertService instances per profile, selecting certificate providers for signin, lock screen, and regular profiles with trust anchor rules.
+// ---
+
 #include "chrome/browser/policy/networking/policy_cert_service_factory.h"
 
 #include "base/check.h"

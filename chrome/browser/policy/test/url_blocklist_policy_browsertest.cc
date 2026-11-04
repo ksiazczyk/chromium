@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL blocklist policy browser tests
+// summary: Browser tests verifying the URLBlocklist policy blocks URLs, supports exceptions, and covers view-source navigation and JavaScript-blocklistable pages.
+// ---
+
 #include <array>
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back/forward cache policy browser tests
+// summary: Parameterized browser tests verifying the AllowBackForwardCacheForCacheControlNoStorePageEnabled policy for pages served with Cache-Control:no-store.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device network configuration updater for Ash
+// summary: Applies the ONC device policy on ChromeOS Ash, handling data roaming settings, device asset ID fetching, and network and certificate policy application.
+// ---
+
 #include "chrome/browser/policy/networking/device_network_configuration_updater_ash.h"
 
 #include "ash/constants/ash_features.h"

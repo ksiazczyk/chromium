@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UploadClient unit tests
+// summary: Unit tests for UploadClient verifying upload enqueueing, encryption key delivery and server response handling across platforms.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/upload_client.h"
 
 #include <list>

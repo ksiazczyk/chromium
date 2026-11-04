@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy value provider interface
+// summary: Defines the PolicyValueProvider interface for querying policy names and values, refreshing them and observing value changes.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_VALUE_PROVIDER_POLICY_VALUE_PROVIDER_H_
 #define CHROME_BROWSER_POLICY_VALUE_PROVIDER_POLICY_VALUE_PROVIDER_H_
 

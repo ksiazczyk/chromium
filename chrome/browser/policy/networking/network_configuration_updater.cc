@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network configuration updater implementation
+// summary: Implements the shared logic for tracking OpenNetworkConfiguration policies and propagating server and authority certificates to the network service.
+// ---
+
 #include "chrome/browser/policy/networking/network_configuration_updater.h"
 
 #include "base/functional/bind.h"

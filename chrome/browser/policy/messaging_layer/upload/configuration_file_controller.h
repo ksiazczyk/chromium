@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configuration file controller header
+// summary: Declares ConfigurationFileController, which validates signed configuration files from the server and forwards blocked destination lists to missive.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_CONFIGURATION_FILE_CONTROLLER_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_CONFIGURATION_FILE_CONTROLLER_H_
 

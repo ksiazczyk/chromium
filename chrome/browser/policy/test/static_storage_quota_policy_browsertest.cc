@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Static storage quota policy browser test
+// summary: Browser test verifying reported storage quota values with the static storage quota feature enabled or disabled, including in Incognito sessions.
+// ---
+
 #include <cstdint>
 
 #include "base/path_service.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status provider utility functions declaration
+// summary: Declares shared helpers for policy status providers, including domain extraction, user affiliation status, profile ID and ChromeOS off-hours utilities.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_STATUS_PROVIDER_STATUS_PROVIDER_UTIL_H_
 #define CHROME_BROWSER_POLICY_STATUS_PROVIDER_STATUS_PROVIDER_UTIL_H_
 

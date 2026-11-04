@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload callback declarations
+// summary: Declares shared callback types for report uploads, including enqueued upload, successful upload, encryption key and configuration file callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_UPLOAD_DECLARATIONS_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_UPLOAD_DECLARATIONS_H_
 

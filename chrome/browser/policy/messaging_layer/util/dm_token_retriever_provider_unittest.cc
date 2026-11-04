@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DM token retriever provider unit tests
+// summary: Unit tests verifying that the provider returns user and empty DM token retrievers for matching event types and unique instances across calls.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/dm_token_retriever_provider.h"
 
 #include <memory>

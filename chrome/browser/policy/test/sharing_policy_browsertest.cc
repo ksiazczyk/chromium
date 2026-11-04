@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group sharing policy browser test
+// summary: Browser test verifying that the TabGroupSharingSettings policy disables shared tab groups and updates the collaboration service status for signed-in accounts.
+// ---
+
 #include "chrome/browser/collaboration/collaboration_service_factory.h"
 #include "chrome/browser/policy/policy_test_utils.h"
 #include "chrome/browser/profiles/profile.h"

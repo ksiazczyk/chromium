@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default sensors setting policy handler browser tests
+// summary: Parameterized browser tests verifying that DefaultSensorsSettingPolicyHandler translates the sensors policy correctly with and without a feature flag.
+// ---
+
 #include "chrome/browser/policy/default_sensors_setting_policy_handler.h"
 
 #include <optional>

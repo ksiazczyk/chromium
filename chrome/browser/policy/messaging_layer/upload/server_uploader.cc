@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server uploader implementation
+// summary: Implements ServerUploader, validating and processing encrypted records in order before handing them to the record handler for upload.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/server_uploader.h"
 
 #include <algorithm>

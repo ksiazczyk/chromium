@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printing LPAC sandbox enabled policy browser tests
+// summary: Windows browser tests verifying the PrintingLPACSandboxEnabled policy controls the LPAC sandbox for the print compositor.
+// ---
+
 #include "base/values.h"
 #include "build/build_config.h"
 #include "chrome/browser/chrome_content_browser_client.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake upload client implementation
+// summary: Provides a fake UploadClient implementation that enqueues encrypted reports via ReportingServerConnector for use in tests.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/fake_upload_client.h"
 
 #include <optional>

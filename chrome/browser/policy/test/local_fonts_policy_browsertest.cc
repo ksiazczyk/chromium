@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local fonts policy browser test
+// summary: Browser tests verifying that the DefaultLocalFontsSetting and LocalFontsAllowedForUrls policies control the local fonts permission and content settings.
+// ---
+
 #include "base/command_line.h"
 #include "base/values.h"
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

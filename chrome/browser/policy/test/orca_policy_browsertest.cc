@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Orca Help Me Write policy browser test
+// summary: Browser test verifying that the HelpMeWriteSettings policy controls ChromeOS Help Me Write availability and feedback access for managed users.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_pref_names.h"
 #include "chrome/browser/ash/input_method/editor_geolocation_mock_provider.h"

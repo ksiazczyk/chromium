@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unified desktop policy browser test
+// summary: ChromeOS browser test verifying that the UnifiedDesktopEnabledByDefault policy toggles unified desktop mode in the display manager.
+// ---
+
 #include "ash/public/cpp/test/shell_test_api.h"
 #include "base/values.h"
 #include "chrome/browser/policy/policy_test_utils.h"

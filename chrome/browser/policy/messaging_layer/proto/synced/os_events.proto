@@ -4,6 +4,12 @@
 
 // Events related to the OS of a device.
 
+// ---docerion
+// type: source
+// title: Chrome OS update, rollback and powerwash event protos
+// summary: Defines protobuf messages for reporting Chrome OS update, rollback and powerwash events with version and channel details.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

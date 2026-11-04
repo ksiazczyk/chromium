@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Power bookmarks build configuration
+summary: Defines the power_bookmarks source set with its sources and dependencies for the Chrome browser build.

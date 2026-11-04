@@ -4,6 +4,12 @@
 
 // Events related to the locking and unlocking of the screen.
 
+// ---docerion
+// type: source
+// title: Screen lock and unlock event protos
+// summary: Defines protobuf messages for reporting screen lock and unlock events, including unlock types and affiliated user details.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

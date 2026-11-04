@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process isolation enabled policy browser tests
+// summary: Windows browser tests verifying the ProcessIsolationEnabled policy applies to the isolation backend and overrides a disabling field trial.
+// ---
+
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/test/test_reg_util_win.h"

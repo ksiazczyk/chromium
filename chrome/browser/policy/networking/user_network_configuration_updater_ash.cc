@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash user network configuration updater implementation
+// summary: Implements ChromeOS Ash handling of user ONC policies, including Web-trusted authority certificates and client certificate import via NSS.
+// ---
+
 #include "chrome/browser/policy/networking/user_network_configuration_updater_ash.h"
 
 #include <utility>

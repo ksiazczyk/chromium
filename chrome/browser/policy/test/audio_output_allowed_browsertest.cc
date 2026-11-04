@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioOutputAllowed policy browser test
+// summary: Browser test verifying that the AudioOutputAllowed policy mutes audio output and prevents manual unmute changes on ChromeOS.
+// ---
+
 #include "base/values.h"
 #include "chrome/browser/policy/policy_test_utils.h"
 #include "chromeos/ash/components/audio/cras_audio_handler.h"

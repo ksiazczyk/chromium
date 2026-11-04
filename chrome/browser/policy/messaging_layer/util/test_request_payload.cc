@@ -4,6 +4,12 @@
 
 // Test support library for request payloads.
 
+// ---docerion
+// type: test
+// title: Request payload test matchers implementation
+// summary: Implements gtest matchers that validate fields of encrypted reporting upload request payloads, such as encryption settings and record lists.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/test_request_payload.h"
 
 #include <algorithm>

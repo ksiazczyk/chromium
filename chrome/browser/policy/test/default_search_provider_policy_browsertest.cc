@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default search provider policy browser tests
+// summary: Browser tests verifying that default search provider policies configure the search engine, alternate URLs, and can disable default search.
+// ---
+
 #include <string>
 
 #include "base/strings/utf_string_conversions.h"

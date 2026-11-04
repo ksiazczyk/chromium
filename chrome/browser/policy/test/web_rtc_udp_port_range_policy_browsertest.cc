@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC UDP port range policy browser test
+// summary: Browser test verifying that the WebRtcUdpPortRange policy sets the WebRTC UDP port range preference when enabled and leaves it empty when disabled.
+// ---
+
 #include "base/values.h"
 
 #include "chrome/browser/policy/policy_test_utils.h"

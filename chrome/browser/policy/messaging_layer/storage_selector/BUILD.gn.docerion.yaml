@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for storage selector
+summary: Defines the static_library target for the storage selector, which picks local storage or the missived daemon depending on the platform.

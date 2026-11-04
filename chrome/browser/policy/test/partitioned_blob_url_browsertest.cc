@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Partitioned blob URL usage policy browser test
+// summary: Browser test verifying that the PartitionedBlobUrlUsage policy controls cross-partition blob URL fetching and navigation behavior.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "base/values.h"
 #include "chrome/browser/content_settings/cookie_settings_factory.h"

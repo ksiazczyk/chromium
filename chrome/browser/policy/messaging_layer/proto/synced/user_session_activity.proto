@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User session activity protos
+// summary: Defines protobuf messages capturing user session start and end events plus periodic active and idle states during a session.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

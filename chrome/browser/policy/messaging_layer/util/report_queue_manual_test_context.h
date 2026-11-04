@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report queue manual test context header
+// summary: Declares ReportQueueManualTestContext, a manual test fixture that uploads incrementing records at a set period to a given destination.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_REPORT_QUEUE_MANUAL_TEST_CONTEXT_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_REPORT_QUEUE_MANUAL_TEST_CONTEXT_H_
 

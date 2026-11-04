@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encrypted reporting client header
+// summary: Declares EncryptedReportingClient and its delegate, which handle record uploads to the device management service and hourly payload size UMA reporting.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_ENCRYPTED_REPORTING_CLIENT_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_ENCRYPTED_REPORTING_CLIENT_H_
 

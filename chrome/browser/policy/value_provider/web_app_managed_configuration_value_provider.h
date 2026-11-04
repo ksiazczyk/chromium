@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app managed configuration value provider header
+// summary: Declares the WebAppManagedConfigurationValueProvider class, which observes web app installs and managed configuration changes to supply policy values and names.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_VALUE_PROVIDER_WEB_APP_MANAGED_CONFIGURATION_VALUE_PROVIDER_H_
 #define CHROME_BROWSER_POLICY_VALUE_PROVIDER_WEB_APP_MANAGED_CONFIGURATION_VALUE_PROVIDER_H_
 

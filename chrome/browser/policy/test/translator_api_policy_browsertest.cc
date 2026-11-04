@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translator API policy browser test
+// summary: Browser test verifying that the TranslatorAPIAllowed policy enables or blocks the on-device Translator API with mock translation components.
+// ---
+
 #include "chrome/browser/on_device_translation/service_controller_manager_factory.h"
 #include "chrome/browser/on_device_translation/test/test_util.h"
 #include "chrome/browser/policy/policy_test_utils.h"

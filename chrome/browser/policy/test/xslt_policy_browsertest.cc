@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XSLT policy browser test
+// summary: Parameterized browser test verifying the XSLTEnabled policy across feature states and origin trial presence, including the XSLT warning banner behavior.
+// ---
+
 #include <tuple>
 
 #include "base/strings/strcat.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app managed configuration value provider implementation
+// summary: Implements a policy value provider that exposes per-origin managed configuration values for web apps, including policy metadata, and updates on installs and configuration changes.
+// ---
+
 #include "chrome/browser/policy/value_provider/web_app_managed_configuration_value_provider.h"
 
 #include <utility>

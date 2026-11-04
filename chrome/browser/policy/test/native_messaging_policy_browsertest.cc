@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging policy browser test
+// summary: Browser test verifying native messaging host allowlist and blocklist policies, including wildcard and selective blocking behavior.
+// ---
+
 #include "base/values.h"
 #include "chrome/browser/extensions/api/chrome_extensions_api_client.h"
 #include "chrome/browser/policy/policy_test_utils.h"

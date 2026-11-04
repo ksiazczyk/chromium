@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Power bookmarks include rules
+summary: Grants the power_bookmarks directory include access to components/power_bookmarks.

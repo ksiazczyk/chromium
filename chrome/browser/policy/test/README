@@ -1,3 +1,9 @@
+---
+type: readme
+title: Policy browser tests directory overview
+summary: Explains that the directory holds browser tests extending PolicyTest, split out of policy_browsertest.cc into per-area files and later moved here.
+---
+
 This directory contains tests which extend PolicyTest class.
 //chrome/browser/policy/test/policy_browsertest.cc file used to contain browser tests related to different
 policies. These tests were split (crbug.com/40098168) into specialized browser test files testing one area each.

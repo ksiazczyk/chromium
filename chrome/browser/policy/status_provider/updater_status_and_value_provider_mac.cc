@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac implementation of the updater status provider
+// summary: Supplies the macOS updater app ID and initializes the updater status provider on Mac.
+// ---
+
 #include "chrome/browser/policy/status_provider/updater_status_and_value_provider.h"
 
 #include "base/apple/foundation_util.h"

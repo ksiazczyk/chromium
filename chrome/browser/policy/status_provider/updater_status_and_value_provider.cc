@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater status and value provider implementation
+// summary: Implements status and policy value reporting for Google Updater policies consumed by the policy WebUI.
+// ---
+
 #include "chrome/browser/policy/status_provider/updater_status_and_value_provider.h"
 
 #include <algorithm>

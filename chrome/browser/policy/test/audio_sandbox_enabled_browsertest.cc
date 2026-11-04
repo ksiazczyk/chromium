@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioSandboxEnabled policy browser test
+// summary: Parameterized browser tests verifying that the AudioSandboxEnabled policy controls whether the audio service runs sandboxed.
+// ---
+
 #include <optional>
 
 #include "base/feature_list.h"

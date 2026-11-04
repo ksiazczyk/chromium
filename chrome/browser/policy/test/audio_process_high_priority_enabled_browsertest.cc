@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioProcessHighPriorityEnabled policy browser test
+// summary: Parameterized browser tests verifying that the AudioProcessHighPriorityEnabled policy controls the audio service's high-priority state.
+// ---
+
 #include <optional>
 
 #include "base/feature_list.h"

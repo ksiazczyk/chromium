@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserDMTokenRetriever unit tests
+// summary: Unit tests verifying user DM token retrieval for valid, repeated, and invalid token cases using testing profiles.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/user_dm_token_retriever.h"
 
 #include <memory>

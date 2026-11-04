@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network time policy browser test
+// summary: Browser test verifying that the BrowserNetworkTimeQueriesEnabled policy controls network time queries when navigating to pages with certificate errors.
+// ---
+
 #include <map>
 #include <memory>
 #include <string>

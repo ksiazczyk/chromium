@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL-keyed anonymized data collection policy tests
+// summary: Browser tests checking that the UrlKeyedAnonymizedDataCollectionEnabled and UrlKeyedMetricsAllowed policies manage the corresponding preferences.
+// ---
+
 #include "base/values.h"
 #include "chrome/browser/policy/policy_test_utils.h"
 #include "chrome/browser/profiles/profile.h"

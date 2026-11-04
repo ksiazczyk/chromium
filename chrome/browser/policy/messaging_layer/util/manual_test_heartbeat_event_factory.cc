@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual test heartbeat event factory implementation
+// summary: Implements the profile-keyed service factory that creates ManualTestHeartbeatEvent instances for browser contexts.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/manual_test_heartbeat_event_factory.h"
 
 #include "chrome/browser/policy/messaging_layer/util/manual_test_heartbeat_event.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServerUploader header
+// summary: Declares ServerUploader, which uploads encrypted records to the reporting server and processes them through a record handler.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_SERVER_UPLOADER_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_SERVER_UPLOADER_H_
 

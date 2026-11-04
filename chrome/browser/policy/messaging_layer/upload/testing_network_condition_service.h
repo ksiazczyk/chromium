@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestingNetworkConditionService header
+// summary: Declares a test helper that exposes NetworkConditionService internals so tests can set the upload rate directly.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_TESTING_NETWORK_CONDITION_SERVICE_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_TESTING_NETWORK_CONDITION_SERVICE_H_
 

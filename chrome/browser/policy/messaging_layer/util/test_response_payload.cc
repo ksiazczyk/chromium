@@ -4,6 +4,12 @@
 
 // Test support library for response payloads.
 
+// ---docerion
+// type: test
+// title: Response payload test builder implementation
+// summary: Implements ResponseBuilder, which constructs fake reporting server responses including sequence information and encryption settings for tests.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/test_response_payload.h"
 
 #include "base/base64.h"

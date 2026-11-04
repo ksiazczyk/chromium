@@ -18,6 +18,12 @@
 // complicated and requires custom policy handler, we recommend to test the
 // handler separately.
 
+// ---docerion
+// type: test
+// title: Legacy multi-policy browser tests
+// summary: Browser tests covering many Chrome policies in one file; the header notes it is in maintenance mode and new tests should live with their policy implementations.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "base/run_loop.h"
 #include "base/time/time.h"

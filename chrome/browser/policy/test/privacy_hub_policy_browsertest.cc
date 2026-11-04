@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Hub geolocation policy browser tests
+// summary: Parameterized browser tests checking that the GoogleLocationServicesEnabled policy maps to the user geolocation access level pref.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "ash/constants/geolocation_access_level.h"
 #include "chrome/browser/ash/policy/handlers/configuration_policy_handler_ash.h"

@@ -1,0 +1,4 @@
+# Docerion header of ad_hoc_code_signing_for_pwas_enabled_mac_browsertest.mm.
+type: test
+title: Ad-hoc code signing for PWAs policy browser tests (macOS)
+summary: Parameterized macOS browser tests checking that the AdHocCodeSigningForPWAsEnabled policy controls ad-hoc signing of web app shims when the feature is enabled.

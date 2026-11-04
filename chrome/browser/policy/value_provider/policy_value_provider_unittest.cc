@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy value provider unit tests
+// summary: Unit tests for the Chrome, extension install, extension and web app managed configuration policy value providers using testing profiles and mock policy services.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

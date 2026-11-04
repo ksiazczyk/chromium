@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Record handler implementation unit tests
+// summary: Unit tests for RecordHandlerImpl covering record handling, upload responses, and mocked file upload delegate interactions.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/record_handler_impl.h"
 
 #include <cstddef>

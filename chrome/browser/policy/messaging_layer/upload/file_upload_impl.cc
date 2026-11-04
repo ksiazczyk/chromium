@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File upload implementation via resumable upload protocol
+// summary: Implements FileUploadDelegate, uploading files to Google endpoints with OAuth2 tokens and the X-Goog-Upload resumable protocol.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/file_upload_impl.h"
 
 #include <string>

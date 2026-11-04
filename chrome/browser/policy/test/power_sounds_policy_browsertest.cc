@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power sounds policy browser tests
+// summary: Browser tests verifying that device charging sounds and low battery sound policies force-manage their corresponding prefs on ChromeOS.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/policy/policy_test_utils.h"

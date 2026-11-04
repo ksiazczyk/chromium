@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Record handler implementation
+// summary: Implements RecordHandlerImpl, queuing report requests and processing LOG_UPLOAD file upload events before records are sent to the server.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/record_handler_impl.h"
 
 #include <cstddef>

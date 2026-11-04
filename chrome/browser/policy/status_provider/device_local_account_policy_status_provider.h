@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device local account policy status provider declaration
+// summary: Declares DeviceLocalAccountPolicyStatusProvider, which reports policy status for a device-local account identified by user ID at construction time.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_STATUS_PROVIDER_DEVICE_LOCAL_ACCOUNT_POLICY_STATUS_PROVIDER_H_
 #define CHROME_BROWSER_POLICY_STATUS_PROVIDER_DEVICE_LOCAL_ACCOUNT_POLICY_STATUS_PROVIDER_H_
 

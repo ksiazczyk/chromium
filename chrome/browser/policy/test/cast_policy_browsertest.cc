@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast and media router policy browser tests
+// summary: Browser tests verifying the EnableMediaRouter, ShowCastIconInToolbar, and MediaRouterCastAllowAllIPs policies control Cast and media router behavior.
+// ---
+
 #include "base/values.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/media/router/media_router_feature.h"

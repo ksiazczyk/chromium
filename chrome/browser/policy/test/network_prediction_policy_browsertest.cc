@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network prediction policy browser test
+// summary: Browser test verifying that the NetworkPredictionOptions policy enables and disables preloading eligibility.
+// ---
+
 #include "base/values.h"
 #include "chrome/browser/policy/policy_test_utils.h"
 #include "chrome/browser/preloading/preloading_prefs.h"

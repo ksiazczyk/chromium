@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google SafeSearch and YouTube restrict policy browser tests
+// summary: Browser tests checking that SafeSearch and YouTube restrict policies set the expected headers on Google and YouTube requests, including in incognito.
+// ---
+
 #include <map>
 #include <optional>
 #include <string>

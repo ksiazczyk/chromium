@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy certificate service class declaration
+// summary: Declares PolicyCertService, a keyed service that provides policy-provided certificates and trust anchors for a profile and observes certificate changes.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_NETWORKING_POLICY_CERT_SERVICE_H_
 #define CHROME_BROWSER_POLICY_NETWORKING_POLICY_CERT_SERVICE_H_
 

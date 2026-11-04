@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device local account policy status provider unit tests
+// summary: Unit tests for DeviceLocalAccountPolicyStatusProvider that set up a public session device-local account and verify status reporting.
+// ---
+
 #include "chrome/browser/policy/status_provider/device_local_account_policy_status_provider.h"
 
 #include <memory>

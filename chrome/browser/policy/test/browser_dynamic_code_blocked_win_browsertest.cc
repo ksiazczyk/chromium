@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows browser dynamic code blocked policy test
+// summary: Windows browser tests checking that the DynamicCodeSettings policy blocks executable memory in the browser process, verified via VirtualProtect.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "base/values.h"
 #include "base/win/windows_version.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark bar enabled policy browser test
+// summary: Browser test verifying that the BookmarkBarEnabled policy forces the bookmarks bar to always show or stay hidden.
+// ---
+
 #include "base/values.h"
 #include "chrome/browser/policy/policy_test_utils.h"
 #include "chrome/browser/ui/bookmarks/bookmark_bar.h"

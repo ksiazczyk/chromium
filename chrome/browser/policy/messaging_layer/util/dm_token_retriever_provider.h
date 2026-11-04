@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DM token retriever provider header
+// summary: Declares DMTokenRetrieverProvider, which selects an appropriate DM token retriever for a given event type and offers a testing callback hook.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_DM_TOKEN_RETRIEVER_PROVIDER_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_DM_TOKEN_RETRIEVER_PROVIDER_H_
 

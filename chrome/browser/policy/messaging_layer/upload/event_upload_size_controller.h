@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event upload size controller header
+// summary: Declares EventUploadSizeController, which limits upload size based on network conditions and accounts for the size of uploaded records.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_EVENT_UPLOAD_SIZE_CONTROLLER_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_EVENT_UPLOAD_SIZE_CONTROLLER_H_
 

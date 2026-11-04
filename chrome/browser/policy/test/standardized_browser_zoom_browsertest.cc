@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Standardized browser zoom policy browser test
+// summary: Parameterized browser test verifying the StandardizedBrowserZoomEnabled policy and that the DisableStandardizedBrowserZoom origin trial can override it.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/policy/policy_test_utils.h"
 #include "components/policy/policy_constants.h"

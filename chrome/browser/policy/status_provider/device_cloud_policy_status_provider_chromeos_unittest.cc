@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS device cloud policy status provider unit tests
+// summary: Unit tests for DeviceCloudPolicyStatusProviderChromeOS that install managed device policy and verify the reported status.
+// ---
+
 #include "chrome/browser/policy/status_provider/device_cloud_policy_status_provider_chromeos.h"
 
 #include <memory>

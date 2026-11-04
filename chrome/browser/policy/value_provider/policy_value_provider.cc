@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy value provider base class implementation
+// summary: Implements the PolicyValueProvider base with observer management, change notification and default empty mojo value and name getters.
+// ---
+
 #include "chrome/browser/policy/value_provider/policy_value_provider.h"
 
 #include <utility>

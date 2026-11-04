@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device local account policy status provider implementation
+// summary: Implements a status provider that reads policy status from the core of a device-local account, reporting a bad state error when the account is gone.
+// ---
+
 #include "chrome/browser/policy/status_provider/device_local_account_policy_status_provider.h"
 
 #include "base/strings/utf_string_conversions.h"

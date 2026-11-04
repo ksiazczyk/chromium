@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud policy core status provider implementation
+// summary: Implements CloudPolicyCoreStatusProvider, observing cloud policy stores and the extension install policy service to report policy status changes.
+// ---
+
 #include "chrome/browser/policy/status_provider/cloud_policy_core_status_provider.h"
 
 #include "chrome/browser/profiles/profile.h"

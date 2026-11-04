@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GenAI VC background policy browser tests
+// summary: Browser tests verifying that the GenAIVcBackgroundSettings policy enables or disables managed SeaPen video conference backgrounds on ChromeOS.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_pref_names.h"
 #include "chrome/browser/ash/policy/handlers/configuration_policy_handler_ash.h"
