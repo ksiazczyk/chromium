@@ -1,0 +1,4 @@
+# Docerion header of IDS_EXTENSIONS_CANT_INSTALL_MV2_EXTENSION.png.sha1.
+type: asset
+title: SHA-1 checksum for MV2 extension install warning image
+summary: Holds the SHA-1 checksum of the PNG image used for the warning shown when a Manifest V2 extension cannot be installed in the extensions UI.
