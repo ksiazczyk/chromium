@@ -1,0 +1,4 @@
+# Docerion header of nearby_page_template.html.
+type: source
+title: Nearby page template markup
+summary: HTML template for the nearby-page-template element, laying out a dialog with title, subtitle, content slot and action, cancel and utility buttons.

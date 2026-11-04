@@ -7,6 +7,12 @@
  * @fileoverview Polymer element for displaying material design update required.
  */
 
+// ---docerion
+// type: source
+// title: Update required card element
+// summary: Polymer element managing the update-required screen states, including progress reporting, metered network permission, and EOL messaging.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';
 import '../../components/common_styles/oobe_common_styles.css.js';

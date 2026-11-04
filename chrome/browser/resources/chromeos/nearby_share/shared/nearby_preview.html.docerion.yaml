@@ -1,0 +1,4 @@
+# Docerion header of nearby_preview.html.
+type: source
+title: Nearby preview markup
+summary: HTML template for the nearby-preview element, showing an icon and title for the payload to be shared.

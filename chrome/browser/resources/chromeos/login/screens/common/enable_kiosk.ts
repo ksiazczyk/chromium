@@ -6,6 +6,12 @@
  * screen.
  */
 
+// ---docerion
+// type: source
+// title: Enable kiosk screen Polymer element
+// summary: Polymer element for the enable kiosk screen, showing confirm, success, and error dialog states and forwarding enable and close user actions.
+// ---
+
 import '//resources/ash/common/cr_elements/icons.html.js';
 import '../../components/buttons/oobe_text_button.js';
 import '../../components/common_styles/oobe_dialog_host_styles.css.js';

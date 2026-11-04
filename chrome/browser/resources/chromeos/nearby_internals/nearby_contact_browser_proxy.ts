@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the contacts tab
+// summary: Browser proxy that lets the contacts tab initialize the native WebUI handler and trigger downloading the user's contact list from the Nearby Share server.
+// ---
+
 /**
  * JavaScript hooks into the native WebUI handler to pass Contacts to the
  * Contacts tab.

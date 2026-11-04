@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini intro screen implementation
+// summary: Implements the Gemini intro OOBE login screen, wiring back and next button clicks to the browser through a Mojo handler.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_illo_icons.html.js';

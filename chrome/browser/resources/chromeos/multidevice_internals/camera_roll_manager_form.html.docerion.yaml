@@ -1,0 +1,4 @@
+# Docerion header of camera_roll_manager_form.html.
+type: source
+title: Camera roll manager form template
+summary: Polymer template with toggles and selectors for faking camera roll status such as thumbnails, file type and download results.

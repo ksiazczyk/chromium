@@ -1,0 +1,4 @@
+# Docerion header of hid_detection.html.
+type: source
+title: HID detection screen template
+summary: HTML template for the HID detection OOBE screen showing touchscreen, mouse, and keyboard detection and pairing status.

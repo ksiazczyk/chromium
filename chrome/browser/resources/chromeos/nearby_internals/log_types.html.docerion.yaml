@@ -1,0 +1,4 @@
+# Docerion header of log_types.html.
+type: source
+title: Log types template
+summary: Template with checkboxes that let users toggle logging for Nearby Infra, Nearby Share and Fast Pair.

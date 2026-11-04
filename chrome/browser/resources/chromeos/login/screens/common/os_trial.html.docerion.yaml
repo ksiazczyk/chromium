@@ -1,0 +1,4 @@
+# Docerion header of os_trial.html.
+type: source
+title: OS trial screen template
+summary: HTML template for the OS trial screen, offering card-style radio choices between installing the OS or trying it.

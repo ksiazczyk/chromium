@@ -5,6 +5,12 @@
  * @fileoverview Polymer element for perosonalized recommend apps screen.
  */
 
+// ---docerion
+// type: source
+// title: Personalized recommended apps screen element
+// summary: Polymer element implementing the personalized recommended apps screen with loading and overview steps and skip, next and back actions.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/dialogs/oobe_loading_dialog.js';
 import '../../components/oobe_personalized_apps_list.js';

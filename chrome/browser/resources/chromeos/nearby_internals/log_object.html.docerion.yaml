@@ -1,0 +1,4 @@
+# Docerion header of log_object.html.
+type: source
+title: Log object template
+summary: Template for a single log entry showing the message text, time and source file, with background colors that vary by severity level.

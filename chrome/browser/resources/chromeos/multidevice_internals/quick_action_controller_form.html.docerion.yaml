@@ -1,0 +1,4 @@
+# Docerion header of quick_action_controller_form.html.
+type: source
+title: Quick action controller form element
+summary: HTML template for toggling Do Not Disturb and selecting Find My Device and tether statuses for quick actions.

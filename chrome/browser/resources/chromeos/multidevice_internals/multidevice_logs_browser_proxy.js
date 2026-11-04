@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice logs browser proxy
+// summary: Singleton browser proxy that fetches multidevice log messages from the native WebUI handler for the logging tab.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/ash/common/cr.m.js';
 import {LogMessage} from './types.js';
 

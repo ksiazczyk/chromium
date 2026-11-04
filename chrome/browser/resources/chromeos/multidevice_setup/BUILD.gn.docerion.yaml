@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Multidevice setup BUILD.gn build rules
+summary: GN build file defining preprocessing, WebUI optimization, and resource generation targets for the multidevice setup dialog.

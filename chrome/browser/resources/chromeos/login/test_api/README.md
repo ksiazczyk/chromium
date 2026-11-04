@@ -1,3 +1,9 @@
+---
+type: readme
+title: OOBE Test API
+summary: Explains the API for automating OOBE and login in tests and lists the Catapult telemetry, Autotest and Tast suites that use it.
+---
+
 # OOBE Test API
 
 This directory contains is a API for automating OOBE and login process in

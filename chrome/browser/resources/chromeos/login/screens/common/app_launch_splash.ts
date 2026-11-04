@@ -6,6 +6,12 @@
  * @fileoverview App install/launch splash screen implementation.
  */
 
+// ---docerion
+// type: source
+// title: App launch splash screen implementation
+// summary: TypeScript Polymer element implementing the app install and launch splash screen, showing app info, launch messages, and throbber state during kiosk launches.
+// ---
+
 import '//resources/js/action_link.js';
 import '../../components/throbber_notice.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP tab element
+// summary: Implements the http-tab element that triggers Nearby Share RPCs through the browser proxy and displays HTTP messages pushed from the C++ WebUI handler.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_expand_button/cr_expand_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/polymer/v3_0/iron-collapse/iron-collapse.js';

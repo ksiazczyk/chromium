@@ -1,0 +1,4 @@
+# Docerion header of oobe_network.html.
+type: source
+title: OOBE network screen template
+summary: HTML template for the network selection OOBE dialog, including the Quick Start Wi-Fi connecting step.

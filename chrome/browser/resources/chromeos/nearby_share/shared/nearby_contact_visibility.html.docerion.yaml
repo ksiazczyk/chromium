@@ -1,0 +1,4 @@
+# Docerion header of nearby_contact_visibility.html.
+type: source
+title: Contact visibility component template
+summary: Polymer template and CSS for the nearby-contact-visibility element, covering visibility radio cards, contact list rows and zero, pending and failed contact states.

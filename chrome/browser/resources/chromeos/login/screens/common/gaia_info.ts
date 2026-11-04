@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia info screen implementation
+// summary: Implements the Gaia info OOBE screen, letting users pick between manual and quick start sign-in flows and showing the quick start button when enabled.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_radio_button/cr_card_radio_button.js';
 import '//resources/ash/common/cr_elements/cr_radio_group/cr_radio_group.js';

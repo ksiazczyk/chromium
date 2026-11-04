@@ -1,0 +1,4 @@
+# Docerion header of network_metrics_ui.html.
+type: source
+title: Network metrics tab template
+summary: Polymer template for the WiFi metrics tab with buttons to render, start and stop uPlot signal-strength graphs.

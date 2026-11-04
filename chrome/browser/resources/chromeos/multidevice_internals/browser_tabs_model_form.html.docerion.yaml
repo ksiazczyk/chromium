@@ -1,0 +1,4 @@
+# Docerion header of browser_tabs_model_form.html.
+type: source
+title: Browser tabs model form template
+summary: Polymer template with a tab sync toggle and two browser tab metadata forms used to fake browser tabs.

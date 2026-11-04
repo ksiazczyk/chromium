@@ -6,6 +6,12 @@
  * @fileoverview Offline message screen implementation.
  */
 
+// ---docerion
+// type: source
+// title: Error message screen Polymer element
+// summary: Polymer element implementing the offline error message screen, managing UI and error states, guest signin and offline login options, and network connection handling.
+// ---
+
 import '//resources/js/action_link.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/polymer/v3_0/iron-iconset-svg/iron-iconset-svg.js';

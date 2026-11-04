@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post-OOBE setup delegate
+// summary: Delegate implementing MultiDeviceSetupDelegate to set the host device with an auth token via Mojo for the post-OOBE setup flow.
+// ---
+
 import {MojoInterfaceProviderImpl} from 'chrome://resources/ash/common/multidevice_setup/mojo_api.js';
 import {MultiDeviceSetupDelegate} from 'chrome://resources/ash/common/multidevice_setup/multidevice_setup_delegate.js';
 import {I18nBehavior} from 'chrome://resources/ash/common/i18n_behavior.js';

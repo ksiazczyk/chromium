@@ -1,0 +1,4 @@
+# Docerion header of fjord_fw_update.html.
+type: source
+title: Fjord firmware update screen template
+summary: HTML template showing a loading dialog with title and subtitle for the Fjord firmware update step.

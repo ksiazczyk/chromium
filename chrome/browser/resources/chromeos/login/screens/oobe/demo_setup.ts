@@ -7,6 +7,12 @@
  * screen.
  */
 
+// ---docerion
+// type: source
+// title: Demo setup screen element
+// summary: Polymer element implementing the demo mode setup screen with progress and error UI states and external API callbacks.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';
 import '../../components/buttons/oobe_back_button.js';

@@ -7,6 +7,12 @@
  * screen.
  */
 
+// ---docerion
+// type: source
+// title: HID detection screen element
+// summary: TypeScript Polymer element implementing the HID detection OOBE screen, including Bluetooth keyboard PIN pairing.
+// ---
+
 import '//resources/ash/common/bluetooth/bluetooth_pairing_enter_code_page.js';
 import '../../components/hd_iron_icon.js';
 import '../../components/oobe_icons.html.js';

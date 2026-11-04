@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAML password confirmation screen element
+// summary: Polymer element implementing the SAML password confirmation screen of the Gaia login flow, handling password entry, retries and submission.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';

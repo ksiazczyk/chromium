@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging tab element
+// summary: Implements the logging tab element that displays, saves to a downloaded file, and clears multidevice log messages received via the browser proxy.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';

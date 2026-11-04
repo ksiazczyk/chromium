@@ -1,0 +1,4 @@
+# Docerion header of nearby_device_icon.html.
+type: source
+title: Nearby device icon template
+summary: Small template with styles for the nearby-device-icon element, showing a circular icon for a share target.

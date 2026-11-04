@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhoneHub browser proxy
+// summary: Browser proxy that sends PhoneHub debug commands such as fake manager toggles, notifications, and status updates to the native WebUI handler.
+// ---
+
 
 import {BrowserTabsModel, CameraRollManager, FeatureStatus, FindMyDeviceStatus, Notification, PhoneStatusModel, TetherStatus} from './types.js';
 

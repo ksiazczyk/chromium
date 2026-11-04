@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for drive pinning screen.
  */
 
+// ---docerion
+// type: source
+// title: Drive pinning screen Polymer element
+// summary: Polymer element for the drive pinning screen that connects to the browser via Mojo, tracks free and required disk space, and handles the pinning toggle and user actions.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/polymer/v3_0/iron-iconset-svg/iron-iconset-svg.js';
 import '../../components/buttons/oobe_next_button.js';

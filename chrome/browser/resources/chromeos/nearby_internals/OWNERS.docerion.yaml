@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the nearby_internals directory
+summary: Lists the code owners for the directory, inheriting the nearby_sharing owners and adding two individual owners.

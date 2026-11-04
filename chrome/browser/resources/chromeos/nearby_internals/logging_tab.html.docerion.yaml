@@ -1,0 +1,4 @@
+# Docerion header of logging_tab.html.
+type: source
+title: Logging tab template
+summary: Template for the logging tab with log type, search and minimum level filters, save and clear buttons, and an iron-list of log entries.

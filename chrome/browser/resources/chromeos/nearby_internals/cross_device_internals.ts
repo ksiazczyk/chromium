@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross Device Internals element logic
+// summary: Implements the cross-device-internals element handling log filtering and saving plus actions for Nearby Infra, Nearby Share and Fast Pair.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import './shared_style.css.js';

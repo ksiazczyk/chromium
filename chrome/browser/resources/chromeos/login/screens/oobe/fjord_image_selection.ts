@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord image selection screen element
+// summary: TypeScript Polymer element letting users pick a Meet or Zoom image during Fjord setup and reporting the choice via a Mojo handler.
+// ---
+
 import '../../components/buttons/oobe_text_button.js';
 
 import type {PolymerElementProperties} from '//resources/polymer/v3_0/polymer/interfaces.js';

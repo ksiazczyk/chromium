@@ -6,6 +6,12 @@
  * @fileoverview Oobe signin screen implementation.
  */
 
+// ---docerion
+// type: source
+// title: Gaia sign-in screen implementation
+// summary: Implements the OOBE Gaia sign-in screen, handling GAIA authentication, SAML redirects, security token PIN entry, loading timeouts, and enrollment nudges.
+// ---
+
 import '//resources/ash/common/cr_elements/icons.html.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/security_token_pin.js';

@@ -12,6 +12,12 @@
  * dialog via chrome://nearby.
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share visibility page element
+// summary: Defines the nearby-visibility-page custom element that lets users set visibility during Nearby Share onboarding and logs onboarding metrics.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icons.css.js';
 import './nearby_contact_visibility.js';

@@ -6,6 +6,12 @@
  * @fileoverview Oobe signin screen implementation.
  */
 
+// ---docerion
+// type: source
+// title: User allowlist check screen implementation
+// summary: TypeScript element implementing the ChromeOS OOBE allowlist error screen, selecting the error message based on enterprise management and Family Link status.
+// ---
+
 
 import '../../components/notification_card.js';
 

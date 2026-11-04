@@ -1,0 +1,4 @@
+# Docerion header of error_message.html.
+type: source
+title: Error message screen template
+summary: HTML template for the network error screen, displaying offline, captive portal, proxy, and kiosk messages with a network selector and connecting indicator.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share internals main element
+// summary: Defines the nearby-internals custom element that hosts the page tabs and maps URL paths to the currently selected tab.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_tabs/cr_tabs.js';
 import 'chrome://resources/polymer/v3_0/iron-location/iron-location.js';
 import 'chrome://resources/polymer/v3_0/iron-pages/iron-pages.js';

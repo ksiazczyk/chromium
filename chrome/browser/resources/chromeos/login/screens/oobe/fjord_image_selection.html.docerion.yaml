@@ -1,0 +1,4 @@
+# Docerion header of fjord_image_selection.html.
+type: source
+title: Fjord image selection screen template
+summary: HTML template with Meet and Zoom radio card choices, error message area, and a next button for the Fjord image selection step.

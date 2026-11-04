@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDevice setup screen for login and OOBE
+// summary: OOBE screen that wraps the MultiDevice setup flow during Chromebook onboarding, with a delegate that sets the host device without prompting for a password.
+// ---
+
 /**
  * @fileoverview MultiDevice setup screen for login/OOBE.
  */

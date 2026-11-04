@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone status model form element
+// summary: Polymer element that lets users configure and propagate fake phone status values to the PhoneHub manager.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

@@ -7,6 +7,12 @@
  * screen.
  */
 
+// ---docerion
+// type: source
+// title: App downloading screen element
+// summary: Polymer element for the app downloading screen, playing the Lottie animation while shown and notifying the browser when the user continues.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_cr_lottie.js';

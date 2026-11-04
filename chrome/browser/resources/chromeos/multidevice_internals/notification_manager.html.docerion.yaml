@@ -1,0 +1,4 @@
+# Docerion header of notification_manager.html.
+type: source
+title: Notification manager element
+summary: HTML template for the notification manager that adds, lists and removes fake PhoneHub notifications.

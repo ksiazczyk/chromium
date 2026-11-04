@@ -6,6 +6,12 @@
  * @fileoverview Enable developer features screen implementation.
  */
 
+// ---docerion
+// type: source
+// title: Enable debugging screen element
+// summary: Polymer element implementing the enable developer features screen, managing UI states and password matching for debug mode setup.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/action_link.css.js';
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';

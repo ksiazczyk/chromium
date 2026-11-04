@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Nearby internals page HTML entry point
+summary: HTML entry point for the ChromeOS nearby internals page that sets the base path, hosts the cross-device-internals element and loads its module script.

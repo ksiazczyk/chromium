@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for Packaged License screen.
  */
 
+// ---docerion
+// type: source
+// title: Packaged license screen element
+// summary: TypeScript Polymer element implementing the packaged license OOBE screen with enroll and don't-enroll actions.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';

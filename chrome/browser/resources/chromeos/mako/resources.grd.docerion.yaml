@@ -1,0 +1,4 @@
+# Docerion header of resources.grd.
+type: config
+title: Mako orca resource definitions
+summary: Grit resource list bundling orca HTML, JavaScript and per-locale translation files for the mako web UI.

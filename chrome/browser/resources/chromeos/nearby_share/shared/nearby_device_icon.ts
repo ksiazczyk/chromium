@@ -8,6 +8,12 @@
  * type.
  */
 
+// ---docerion
+// type: source
+// title: Nearby device icon component
+// summary: Implements the nearby-device-icon element that picks a generic icon for a share target based on its device type.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icons.css.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';

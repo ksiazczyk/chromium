@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared enums and typedefs for multidevice internals
+// summary: Exports enums and typedefs such as FeatureStatus, phone status, and notification importance that mirror Phone Hub C++ types for the multidevice internals UI.
+// ---
+
 /**
  * Severity enum based on LogMessage format. Needs to stay in sync with the
  * MultideviceInternalsLogsHandler.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for nearby_internals
+summary: Maps the directory to a Buganizer component and the ChromeOS cross-device engineering team.

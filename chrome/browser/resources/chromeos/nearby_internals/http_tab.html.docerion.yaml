@@ -1,0 +1,4 @@
+# Docerion header of http_tab.html.
+type: source
+title: HTTP tab template
+summary: Template for the HTTP tab with buttons to trigger Nearby Share RPCs, clear messages, and a repeating list of captured HTTP message objects.

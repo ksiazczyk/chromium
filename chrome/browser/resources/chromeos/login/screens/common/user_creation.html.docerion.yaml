@@ -1,0 +1,4 @@
+# Docerion header of user_creation.html.
+type: source
+title: User creation screen template
+summary: HTML template for the ChromeOS OOBE user creation dialog offering personal, child, and enrollment choices plus enroll triage and child setup steps.

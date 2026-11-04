@@ -1,0 +1,4 @@
+# Docerion header of fjord_touch_controller.html.
+type: source
+title: Fjord touch controller screen template
+summary: HTML template for the Fjord touch controller OOBE screen, embedding a setup webview and a done button.

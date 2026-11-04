@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE welcome dialog element
+// summary: TypeScript Polymer element for the OOBE welcome dialog, handling language, timezone, debugging, Quick Start, boot animation and device requisition behavior.
+// ---
+
 import '//resources/js/action_link.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '../../components/oobe_icons.html.js';

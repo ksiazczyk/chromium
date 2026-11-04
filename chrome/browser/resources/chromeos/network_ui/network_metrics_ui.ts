@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network metrics UI element
+// summary: Polymer element that samples WiFi signal strength into circular buffers and renders it as a uPlot time series graph.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

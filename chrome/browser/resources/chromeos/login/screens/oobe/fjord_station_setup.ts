@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord station setup screen element
+// summary: TypeScript Polymer element hosting the codec station setup webview, filtering requests to allowed origins, and handling setup completion.
+// ---
+
 import '../../components/buttons/oobe_text_button.js';
 
 import {assert} from '//resources/js/assert.js';

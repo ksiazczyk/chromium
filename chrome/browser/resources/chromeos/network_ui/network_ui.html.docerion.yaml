@@ -1,0 +1,4 @@
+# Docerion header of network_ui.html.
+type: source
+title: Network UI main template
+summary: Main Polymer template with tabs for general controls, network health and diagnostics, logs, state and network selection.

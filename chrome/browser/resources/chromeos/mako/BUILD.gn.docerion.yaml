@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mako resources build target
+summary: GN build rules defining the grit target that packages mako orca HTML, JavaScript and translation resources into a pak archive.

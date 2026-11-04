@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared types and enums for Nearby internals
+// summary: Defines enums and interfaces such as log messages, HTTP messages, share targets and status codes shared by the Nearby internals WebUI components.
+// ---
+
 /**
  * Enum of values to use for the feature select dropdown. If a new feature is
  * added, add it here.

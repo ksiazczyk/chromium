@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Multidevice setup directory metadata
+summary: Directory metadata assigning the multidevice setup code to a Buganizer component and the ChromeOS cross-device engineering team.

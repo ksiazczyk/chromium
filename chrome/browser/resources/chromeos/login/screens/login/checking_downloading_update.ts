@@ -35,6 +35,12 @@
  *                    message.
  */
 
+// ---docerion
+// type: source
+// title: Checking and downloading update screen element
+// summary: Polymer element implementing the ChromeOS OOBE screen that displays update checking and download progress with estimated time and cancel hints.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/polymer/v3_0/paper-progress/paper-progress.js';
 import '../../components/oobe_icons.html.js';

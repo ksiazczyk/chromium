@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby internals logging tab element
+// summary: Implements the logging tab of the Nearby internals WebUI, with log providers for Nearby Share and Quick Pair, severity filtering, and formatting of log messages for saved download files.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';

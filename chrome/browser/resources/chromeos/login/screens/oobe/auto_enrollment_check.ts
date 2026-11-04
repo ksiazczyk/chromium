@@ -6,6 +6,12 @@
  * @fileoverview Oobe Auto-enrollment check screen implementation.
  */
 
+// ---docerion
+// type: source
+// title: Auto-enrollment check screen element
+// summary: Polymer element implementing the OOBE auto-enrollment check screen, choosing the loading title based on whether software update is enabled.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/dialogs/oobe_loading_dialog.js';
 

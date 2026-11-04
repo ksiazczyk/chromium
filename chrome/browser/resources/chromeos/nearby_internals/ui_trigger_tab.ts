@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI trigger tab logic
+// summary: Implements the ui-trigger-tab element, wiring buttons to browser proxies for Nearby Share surface registration, share target tracking, and Fast Pair notifications.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import './ui_trigger_list_object.js';

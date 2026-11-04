@@ -1,0 +1,4 @@
+# Docerion header of enterprise_enrollment.html.
+type: source
+title: Enterprise enrollment screen template
+summary: HTML template for the enterprise enrollment OOBE screen with GAIA sign-in, loading, TPM check, and error dialogs.

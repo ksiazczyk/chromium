@@ -1,0 +1,4 @@
+# Docerion header of phonehub_tab.html.
+type: source
+title: PhoneHub tab element
+summary: HTML template for the PhoneHub tab with toggles and controls for the fake PhoneHub manager, feature status and onboarding resets.

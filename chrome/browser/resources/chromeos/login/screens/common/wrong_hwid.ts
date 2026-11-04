@@ -6,6 +6,12 @@
  * @fileoverview wrong HWID screen implementation.
  */
 
+// ---docerion
+// type: source
+// title: Wrong HWID screen implementation
+// summary: TypeScript element implementing the ChromeOS OOBE wrong HWID warning screen and forwarding the skip action.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';
 import '../../components/common_styles/oobe_common_styles.css.js';

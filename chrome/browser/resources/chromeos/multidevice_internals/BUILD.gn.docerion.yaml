@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for multidevice_internals WebUI resources
+summary: GN build file that generates GRD/GRDP resource bundles and Polymer HTML/CSS wrappers for the multidevice_internals WebUI.

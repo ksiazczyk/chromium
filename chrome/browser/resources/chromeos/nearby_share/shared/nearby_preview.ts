@@ -7,6 +7,12 @@
  * sent to a remote device. The data might be some plain text, a URL or a file.
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share payload preview component
+// summary: Polymer element that previews the data to be sent to a remote device, choosing an icon and title based on the payload share type.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icons.css.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';

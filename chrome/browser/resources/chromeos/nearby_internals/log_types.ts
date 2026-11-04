@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log types element
+// summary: Implements the log-types element that maintains the list of enabled log feature types based on the checkbox selections.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import './shared_style.css.js';
 import 'chrome://resources/polymer/v3_0/iron-location/iron-location.js';

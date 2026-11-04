@@ -1,0 +1,4 @@
+# Docerion header of nearby_device.html.
+type: source
+title: Nearby device component template
+summary: Template and styles for the nearby-device element that renders a share target row with icon, profile image, name and selection checkmark.

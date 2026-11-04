@@ -1,0 +1,4 @@
+# Docerion header of browser_tabs_metadata_form.html.
+type: source
+title: Browser tabs metadata form template
+summary: Polymer template with validated inputs for URL, title, last-accessed timestamp and favicon of a fake browser tab.

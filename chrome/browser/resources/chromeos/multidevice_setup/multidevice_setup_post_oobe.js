@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post-OOBE multidevice setup flow element
+// summary: Polymer element implementing the multi-device setup flow shown after OOBE, handling navigation buttons, window resizing, and page metrics.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '/strings.m.js';
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';

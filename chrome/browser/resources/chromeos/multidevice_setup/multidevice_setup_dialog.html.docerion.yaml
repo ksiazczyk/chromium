@@ -1,0 +1,4 @@
+# Docerion header of multidevice_setup_dialog.html.
+type: source
+title: Multidevice setup dialog HTML shell
+summary: HTML shell for the ChromeOS multidevice setup dialog that sets up styles and the accessibility title and loads the post-OoBE setup element with its module script.

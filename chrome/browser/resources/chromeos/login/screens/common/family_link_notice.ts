@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for Family Link Notice screen.
  */
 
+// ---docerion
+// type: source
+// title: Family Link notice screen Polymer element
+// summary: Polymer element for the Family Link notice screen that displays eligibility messages based on email, domain, and account status and handles the continue action.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';

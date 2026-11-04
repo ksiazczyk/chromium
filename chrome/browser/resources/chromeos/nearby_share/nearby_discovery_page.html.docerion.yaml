@@ -1,0 +1,4 @@
+# Docerion header of nearby_discovery_page.html.
+type: source
+title: Nearby Share discovery page template
+summary: HTML template for the discovery screen that lists nearby share targets with device lists, help text, error section and animation.

@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for displaying material design OOBE.
  */
 
+// ---docerion
+// type: source
+// title: OOBE welcome screen element
+// summary: TypeScript Polymer element implementing the ChromeOS OOBE welcome screen with language, keyboard, accessibility, timezone and advanced options steps.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';

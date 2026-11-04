@@ -7,6 +7,12 @@
  * screen.
  */
 
+// ---docerion
+// type: source
+// title: Sync consent screen element
+// summary: Polymer element implementing the sync consent screen, including minor mode handling and loading and ash-sync UI steps.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/polymer/v3_0/paper-tooltip/paper-tooltip.js';

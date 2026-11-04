@@ -7,6 +7,12 @@
  * screen.
  */
 
+// ---docerion
+// type: source
+// title: Managed terms of service screen element
+// summary: Polymer element implementing the managed Terms of Service screen with loading, loaded, and error steps plus accept, back, and retry actions.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';
 import '../../components/buttons/oobe_back_button.js';

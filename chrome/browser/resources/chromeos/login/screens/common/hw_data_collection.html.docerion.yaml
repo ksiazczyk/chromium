@@ -1,0 +1,4 @@
+# Docerion header of hw_data_collection.html.
+type: source
+title: Hardware data collection screen template
+summary: HTML template for the hardware data collection OOBE dialog with a data usage opt-in checkbox and an accept button.

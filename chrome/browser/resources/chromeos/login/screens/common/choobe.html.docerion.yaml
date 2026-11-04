@@ -1,0 +1,4 @@
+# Docerion header of choobe.html.
+type: source
+title: CHOOBE screen template
+summary: HTML template for the CHOOBE screen that lets users pick which OOBE screens to revisit during setup.

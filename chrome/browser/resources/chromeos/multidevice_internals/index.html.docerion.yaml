@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Multidevice internals WebUI entry page
+summary: HTML shell for the multidevice internals debug page that sets the base path, hosts the multidevice-internals element and loads its JavaScript module.

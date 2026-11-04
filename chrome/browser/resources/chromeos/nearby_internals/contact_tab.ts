@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact tab element logic
+// summary: Implements the contact-tab element that listens for contact updates, downloads contacts and clears the displayed message list.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_expand_button/cr_expand_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/polymer/v3_0/iron-collapse/iron-collapse.js';

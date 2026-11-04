@@ -1,0 +1,4 @@
+# Docerion header of perks_discovery.html.
+type: source
+title: Perks discovery screen template
+summary: HTML template for the OOBE perks discovery screen, rendering perk icons, illustrations, subtitles and back or interest buttons.

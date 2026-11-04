@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for smart privacy protection screen.
  */
 
+// ---docerion
+// type: source
+// title: Smart privacy protection screen element
+// summary: Polymer element implementing the smart privacy protection login screen, tracking minor mode and reporting whether the feature is turned on or off.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/polymer/v3_0/iron-iconset-svg/iron-iconset-svg.js';
 import '../../components/oobe_icons.html.js';

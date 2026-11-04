@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN setup screen logic
+// summary: Polymer element implementing the ChromeOS PIN setup screen, including setup, confirmation and recovery reset flows via quickUnlockPrivate.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';

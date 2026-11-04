@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for Enterprise Enrollment screen.
  */
 
+// ---docerion
+// type: source
+// title: Enterprise enrollment screen element
+// summary: TypeScript Polymer element implementing the enterprise enrollment OOBE screen, including screen data, license types, and error handling.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';
 import '//resources/js/action_link.js';

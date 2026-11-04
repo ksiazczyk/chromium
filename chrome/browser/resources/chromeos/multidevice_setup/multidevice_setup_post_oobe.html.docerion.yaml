@@ -1,0 +1,4 @@
+# Docerion header of multidevice_setup_post_oobe.html.
+type: source
+title: Post-OOBE setup element template
+summary: HTML template for the multidevice-setup-post-oobe element, laying out the setup flow with backward, cancel, and forward buttons.
