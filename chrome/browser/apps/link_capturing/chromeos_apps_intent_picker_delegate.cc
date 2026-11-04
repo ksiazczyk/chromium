@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS intent picker delegate implementation
+// summary: Implements the ChromeOS intent picker delegate using App Service to find apps for URLs, load icons, launch apps and record metrics.
+// ---
+
 #include "chrome/browser/apps/link_capturing/chromeos_apps_intent_picker_delegate.h"
 
 #include <memory>

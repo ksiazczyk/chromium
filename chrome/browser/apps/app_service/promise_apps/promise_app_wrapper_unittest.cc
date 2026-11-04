@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Promise app wrapper unit tests
+// summary: Unit tests verifying conversion of PromiseAppResponse protos into wrappers, covering empty fields, invalid package IDs and missing icon width.
+// ---
+
 #include "chrome/browser/apps/app_service/promise_apps/promise_app_wrapper.h"
 
 #include "chrome/browser/apps/app_service/promise_apps/proto/promise_app.pb.h"

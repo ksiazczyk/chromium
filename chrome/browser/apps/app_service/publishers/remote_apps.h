@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteApps class declaration
+// summary: Declares the RemoteApps publisher and its Delegate interface for supplying app info, icons, launching, and menus for remote apps.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_REMOTE_APPS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_REMOTE_APPS_H_
 

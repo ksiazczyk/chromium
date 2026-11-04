@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for app service metrics
+summary: Grants extra include permissions to specific source files in the app service metrics directory, such as Ash test and user education headers.

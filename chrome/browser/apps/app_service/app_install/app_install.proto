@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install Almanac endpoint proto definitions
+// summary: Defines protobuf messages for app install requests and responses, mirrored from the server code base at go/app-install-proto.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

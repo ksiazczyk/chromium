@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppIconFactory unit tests
+// summary: Tests app icon factory helpers, including loading icons from files with fallback behavior and icon conversion and encoding utilities.
+// ---
+
 #include "chrome/browser/apps/app_service/app_icon/app_icon_factory.h"
 
 #include <string_view>

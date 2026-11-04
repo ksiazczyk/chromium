@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents instance ID utilities header
+// summary: Declares GetInstanceAppIdForWebContents, which returns the ID of the app running in a WebContents as used by the instance registry and shelf.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_BROWSER_INSTANCE_WEB_CONTENTS_INSTANCE_ID_UTILS_H_
 #define CHROME_BROWSER_APPS_BROWSER_INSTANCE_WEB_CONTENTS_INSTANCE_ID_UTILS_H_
 

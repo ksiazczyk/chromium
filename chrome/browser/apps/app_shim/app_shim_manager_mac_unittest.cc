@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppShimManager unit tests
+// summary: Unit tests for AppShimManager that use a mock delegate and testing profiles to exercise shim launching, termination, and profile handling logic.
+// ---
+
 #include "chrome/browser/apps/app_shim/app_shim_manager_mac.h"
 
 #include <unistd.h>

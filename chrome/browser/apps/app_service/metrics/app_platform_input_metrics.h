@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App platform input metrics class declaration
+// summary: Declares AppPlatformInputMetrics, which records input events for app windows and reports them as AppKM every two hours.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_METRICS_APP_PLATFORM_INPUT_METRICS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_METRICS_APP_PLATFORM_INPUT_METRICS_H_
 

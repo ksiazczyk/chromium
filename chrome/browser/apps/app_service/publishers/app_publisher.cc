@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App publisher base class implementation
+// summary: Implements the AppPublisher base class with default publisher behavior such as app creation, icon loading, launching and uninstall handling.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/app_publisher.h"
 
 #include "base/logging.h"

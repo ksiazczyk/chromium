@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC activity adaptive icon declaration
+// summary: Declares ArcActivityAdaptiveIconImpl, an ARC adaptive icon delegate that generates adaptive icons from raw icon images.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_ARC_ACTIVITY_ADAPTIVE_ICON_IMPL_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_ARC_ACTIVITY_ADAPTIVE_ICON_IMPL_H_
 

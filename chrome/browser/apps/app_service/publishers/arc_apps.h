@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app publisher class declaration
+// summary: Declares ArcApps, the App Service publisher for ARC++ apps, as a keyed service observing ARC session, app list and intent helper events.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_ARC_APPS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_ARC_APPS_H_
 

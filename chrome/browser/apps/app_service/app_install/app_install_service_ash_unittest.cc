@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App install service Ash unit tests
+// summary: Unit tests for the ChromeOS Ash app install service, using a fake Play Store app and mocked Almanac responses to exercise app install flows.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/app_install_service_ash.h"
 
 #include <memory>

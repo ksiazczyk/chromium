@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser instance build configuration
+summary: Defines the browser_instance source_set with its sources, dependencies, and a circular include allowance for the ash shelf.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS App Service proxy implementation
+// summary: Implements the per-profile App Service proxy for Chrome OS, wiring app registration, icons, installs, uninstall dialogs, metrics and pause support.
+// ---
+
 #include "chrome/browser/apps/app_service/app_service_proxy_ash.h"
 
 #include <memory>

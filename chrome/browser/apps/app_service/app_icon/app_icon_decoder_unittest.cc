@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppIconDecoder unit tests
+// summary: Tests AppIconDecoder decoding of non-maskable, maskable, and adaptive foreground and background icons from stored solid-color PNG files.
+// ---
+
 #include "chrome/browser/apps/app_service/app_icon/app_icon_decoder.h"
 
 #include "base/files/file_path.h"

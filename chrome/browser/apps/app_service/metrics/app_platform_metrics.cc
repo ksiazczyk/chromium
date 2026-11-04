@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App platform metrics implementation
+// summary: Implements recording of app counts, running duration, activation counts, usage time and launch metrics for installed apps on Chrome OS.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/app_platform_metrics.h"
 
 #include <memory>

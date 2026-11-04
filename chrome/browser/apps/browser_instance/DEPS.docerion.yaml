@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules
+summary: Bans includes from chrome/browser/apps/app_service in this folder, with exceptions for the browser app instance tracker browsertest.

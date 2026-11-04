@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App shim listener interface
+// summary: Declares AppShimListener, which accepts app shim connections via a Mach bootstrap namespace entry.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SHIM_APP_SHIM_LISTENER_H_
 #define CHROME_BROWSER_APPS_APP_SHIM_APP_SHIM_LISTENER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentHandlingMetrics class and UMA enums
+// summary: Declares the IntentHandlingMetrics class with append-only enums for picker actions, destination platforms, and link capturing events used in UMA histograms.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_LINK_CAPTURING_METRICS_INTENT_HANDLING_METRICS_H_
 #define CHROME_BROWSER_APPS_LINK_CAPTURING_METRICS_INTENT_HANDLING_METRICS_H_
 

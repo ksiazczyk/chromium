@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestOSApps base class declaration
+// summary: Declares GuestOSApps, the KeyedService base class that guest OS app publishers like CrostiniApps and BruschettaApps inherit to publish apps through the App Service.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_GUEST_OS_APPS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_GUEST_OS_APPS_H_
 

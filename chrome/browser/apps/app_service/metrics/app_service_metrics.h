@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App service metrics header
+// summary: Declares the DefaultAppName and BuiltInAppName enums for launch metrics plus functions that convert app IDs to these names and record app launches.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_METRICS_APP_SERVICE_METRICS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_METRICS_APP_SERVICE_METRICS_H_
 

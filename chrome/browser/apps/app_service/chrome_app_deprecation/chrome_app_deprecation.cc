@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Apps deprecation implementation
+// summary: Implements staged Chrome Apps deprecation checks with static and component-updater allowlists, feature flags, notifications and launch metrics.
+// ---
+
 #include "chrome/browser/apps/app_service/chrome_app_deprecation/chrome_app_deprecation.h"
 
 #include <cstddef>

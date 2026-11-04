@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC activity adaptive icon implementation
+// summary: Generates adaptive icons from ARC activity icons by converting them to ImageSkia images.
+// ---
+
 #include "chrome/browser/apps/app_service/app_icon/arc_activity_adaptive_icon_impl.h"
 
 #include <utility>

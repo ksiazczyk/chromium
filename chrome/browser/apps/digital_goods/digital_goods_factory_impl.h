@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital goods factory class header
+// summary: Declares DigitalGoodsFactoryImpl, a per-document Mojo receiver that creates DigitalGoods bindings for trusted payment methods.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_DIGITAL_GOODS_DIGITAL_GOODS_FACTORY_IMPL_H_
 #define CHROME_BROWSER_APPS_DIGITAL_GOODS_DIGITAL_GOODS_FACTORY_IMPL_H_
 

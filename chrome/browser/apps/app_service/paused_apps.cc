@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paused apps tracking implementation
+// summary: Implements tracking of paused apps, letting callers add, remove and query which apps cannot be launched until unpaused.
+// ---
+
 #include "chrome/browser/apps/app_service/paused_apps.h"
 
 

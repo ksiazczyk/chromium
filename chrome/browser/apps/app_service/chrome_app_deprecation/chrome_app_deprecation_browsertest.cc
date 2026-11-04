@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for user-installed Chrome App launches
+// summary: Verifies that non-allowlisted user-installed Chrome Apps are blocked without notifications while allowlisted apps launch.
+// ---
+
 #include "chrome/browser/apps/app_service/chrome_app_deprecation/chrome_app_deprecation.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy.h"

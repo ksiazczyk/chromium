@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App platform metrics service implementation
+// summary: Implements the per-profile service that starts app, input, website and discovery metric recorders and manages daily and periodic reporting timers.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/app_platform_metrics_service.h"
 
 #include "base/check_deref.h"

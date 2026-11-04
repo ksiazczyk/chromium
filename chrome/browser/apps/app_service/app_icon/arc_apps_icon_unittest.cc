@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC apps icon unit tests
+// summary: Unit tests verifying that compressed ARC app icon data is loaded and matches raw icon data through the app service icon factory.
+// ---
+
 #include <utility>
 
 #include "base/containers/flat_map.h"

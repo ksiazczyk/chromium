@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital goods class header
+// summary: Declares DigitalGoodsImpl, the per-document payments::mojom::DigitalGoods implementation backed by the ARC digital goods bridge.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_DIGITAL_GOODS_DIGITAL_GOODS_IMPL_H_
 #define CHROME_BROWSER_APPS_DIGITAL_GOODS_DIGITAL_GOODS_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS navigation capturing throttle implementation
+// summary: Implements the ChromeOS navigation throttle that captures navigations for ARC apps, System Web Apps such as the Projector app and ChromeOS web app experiments.
+// ---
+
 #include "chrome/browser/apps/link_capturing/chromeos_reimpl_navigation_capturing_throttle.h"
 
 #include <algorithm>

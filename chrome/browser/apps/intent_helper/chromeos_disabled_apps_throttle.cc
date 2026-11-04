@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS disabled apps navigation throttle implementation
+// summary: Implements a navigation throttle that blocks navigations to policy-disabled apps and shows the disabled app error page.
+// ---
+
 #include "chrome/browser/apps/intent_helper/chromeos_disabled_apps_throttle.h"
 
 #include <cstddef>

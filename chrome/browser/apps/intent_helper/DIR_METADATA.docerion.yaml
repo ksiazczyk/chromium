@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for intent_helper
+summary: Maps the directory to ChromeOS and a Buganizer component for issue and review routing.

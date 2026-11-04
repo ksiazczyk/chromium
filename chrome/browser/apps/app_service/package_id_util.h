@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Package ID utility interface
+// summary: Declares helpers to generate a package ID for an app from its metadata and to look up an installed app by its package ID.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PACKAGE_ID_UTIL_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PACKAGE_ID_UTIL_H_
 

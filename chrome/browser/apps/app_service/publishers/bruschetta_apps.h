@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta apps publisher class declaration
+// summary: Declares the BruschettaApps class, an App Service publisher for apps running in Bruschetta third-party VMs.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_BRUSCHETTA_APPS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_BRUSCHETTA_APPS_H_
 

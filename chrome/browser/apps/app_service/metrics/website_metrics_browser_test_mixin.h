@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebsiteMetrics browser test mixin declaration
+// summary: Declares a browser test mixin that sets up WebsiteMetrics for the primary profile and offers helpers for browser creation and navigation in tests.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_METRICS_WEBSITE_METRICS_BROWSER_TEST_MIXIN_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_METRICS_WEBSITE_METRICS_BROWSER_TEST_MIXIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent handling metrics implementation
+// summary: Implements UMA histogram recording for ChromeOS intent picker actions, destination platforms, and link capturing events in the link capturing flow.
+// ---
+
 #include "chrome/browser/apps/link_capturing/metrics/intent_handling_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

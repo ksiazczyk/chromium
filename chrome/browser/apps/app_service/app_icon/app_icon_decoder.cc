@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppIconDecoder implementation
+// summary: Implements AppIconDecoder, which reads icon files from disk and decodes them in a sandboxed process into uncompressed ImageSkia icons, including adaptive icons.
+// ---
+
 #include "chrome/browser/apps/app_service/app_icon/app_icon_decoder.h"
 
 #include <functional>

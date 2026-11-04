@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteMetrics implementation
+// summary: Implements the WebsiteMetrics component that tracks browser windows and tabs to record website usage time and installability metrics via UKM.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/website_metrics.h"
 
 #include <random>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PublisherHostImpl implementation
+// summary: Initializes and owns the App Service publishers, creating guest OS, Chrome app, extension, and web app publishers depending on the platform and session type.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/publisher_host_impl.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy.h"

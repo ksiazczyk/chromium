@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app icon test helper implementation
+// summary: Implements helpers that write, generate, and register web app icons so icon factory tests can compare expected icon output.
+// ---
+
 #include "chrome/browser/apps/app_service/app_icon/web_app_icon_test_helper.h"
 
 #include <algorithm>

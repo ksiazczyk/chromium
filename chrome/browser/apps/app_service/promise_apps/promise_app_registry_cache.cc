@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app registry cache implementation
+// summary: Implements PromiseAppRegistryCache, which stores promise apps, merges incoming deltas, notifies observers, removes completed apps, and records lifecycle metrics.
+// ---
+
 #include "chrome/browser/apps/app_service/promise_apps/promise_app_registry_cache.h"
 
 #include "chrome/browser/apps/app_service/promise_apps/promise_app.h"

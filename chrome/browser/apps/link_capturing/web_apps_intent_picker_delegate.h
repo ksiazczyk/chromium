@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Apps Intent Picker Delegate Header
+// summary: Declares the WebAppsIntentPickerDelegate class, an AppsIntentPickerDelegate subclass that resolves apps for a URL, manages icons and preferences, and launches apps, with Mac-specific universal link caching.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_LINK_CAPTURING_WEB_APPS_INTENT_PICKER_DELEGATE_H_
 #define CHROME_BROWSER_APPS_LINK_CAPTURING_WEB_APPS_INTENT_PICKER_DELEGATE_H_
 

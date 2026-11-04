@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebsiteMetrics browser test mixin implementation
+// summary: Implements a browser test mixin that initializes the WebsiteMetrics component and provides helpers for creating browsers and navigating URLs in tests.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/website_metrics_browser_test_mixin.h"
 
 #include <utility>

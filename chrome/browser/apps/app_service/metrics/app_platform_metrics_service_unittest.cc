@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App platform metrics service unit tests
+// summary: Unit tests covering app platform metrics service behavior, including app usage time, instance states, suspend and resume, guest and kiosk sessions, and UKM reporting.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/app_platform_metrics_service.h"
 
 #include <map>

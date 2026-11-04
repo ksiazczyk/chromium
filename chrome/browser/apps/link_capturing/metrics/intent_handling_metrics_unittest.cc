@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intent handling metrics unit tests
+// summary: Unit tests verifying that intent picker metrics record the expected histogram buckets for app selections, preferred app link clicks, and link capturing events.
+// ---
+
 #include "chrome/browser/apps/link_capturing/metrics/intent_handling_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

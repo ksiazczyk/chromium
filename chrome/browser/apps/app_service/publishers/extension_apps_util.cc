@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension apps uninstall reason utility
+// summary: Maps App Service uninstall sources to extension uninstall reasons, treating unknown sources as user-initiated.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/extension_apps_util.h"
 
 namespace apps {

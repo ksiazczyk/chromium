@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Installer Header
+// summary: Declares the WebAppInstaller class that manages web app installation through the web apps system, including the WebAppInstallResult enum and installed callback.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_INSTALL_WEB_APP_INSTALLER_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_INSTALL_WEB_APP_INSTALLER_H_
 

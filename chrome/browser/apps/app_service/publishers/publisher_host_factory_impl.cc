@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PublisherHostFactoryImpl implementation
+// summary: Implements the PublisherHostFactory interface by creating a PublisherHostImpl for the App Service proxy.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/publisher_host_factory_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App registry cache waiter classes
+// summary: Declares helper classes that block until an App Service app type is initialized or an app in the App Registry Cache matches a readiness, scope or window mode condition.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_REGISTRY_CACHE_WAITER_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_REGISTRY_CACHE_WAITER_H_
 

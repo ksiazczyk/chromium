@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS extension apps publisher implementation
+// summary: Implements ExtensionAppsChromeOs, handling launching, menus, notifications, paused apps, and ARC integration for extension-backed apps on ChromeOS.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/extension_apps_chromeos.h"
 
 #include <cstddef>

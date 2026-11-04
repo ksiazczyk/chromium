@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MachBootstrapAcceptor implementation
+// summary: Implements the Mach bootstrap acceptor that listens on a named Mach port, validates bootstrap messages, and forwards connected shim client endpoints to its delegate.
+// ---
+
 #include "chrome/browser/apps/app_shim/mach_bootstrap_acceptor.h"
 
 #include <bsm/libbsm.h>

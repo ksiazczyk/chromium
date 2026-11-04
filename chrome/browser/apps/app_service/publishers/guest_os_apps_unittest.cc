@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GuestOSApps unit tests
+// summary: Unit tests for the GuestOSApps publisher using a test subclass to verify app registration, updates, and launch behavior against the guest OS registry.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/guest_os_apps.h"
 
 #include <memory>

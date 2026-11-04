@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Almanac connector declarations
+// summary: Declares PromiseAppAlmanacConnector, which builds requests to and converts responses from the Almanac Promise App API for a given package ID.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PROMISE_APPS_PROMISE_APP_ALMANAC_CONNECTOR_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PROMISE_APPS_PROMISE_APP_ALMANAC_CONNECTOR_H_
 

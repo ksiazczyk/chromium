@@ -1,0 +1,4 @@
+# Docerion header of app_shim_listener_browsertest.mm.
+type: test
+title: AppShimListener browser tests
+summary: Browser tests that use a test shim client to connect to the AppShimListener over Mojo and verify app shim launch and connection behavior.

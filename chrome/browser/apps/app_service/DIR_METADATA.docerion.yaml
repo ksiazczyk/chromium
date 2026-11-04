@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: App Service directory metadata
+summary: Points to the shared COMMON_METADATA file of the app service components for this directory.

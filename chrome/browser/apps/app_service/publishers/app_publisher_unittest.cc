@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App publisher unit tests
+// summary: Unit tests verifying that capability access updates publish to the AppCapabilityAccessCache and that resetting clears apps of a given type.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/app_publisher.h"
 
 #include <memory>

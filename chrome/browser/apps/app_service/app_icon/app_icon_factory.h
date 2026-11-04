@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App icon factory header
+// summary: Declares helpers for converting compressed icon data to bitmaps and ImageSkia, PNG encoding, mask loading, ARC icon conversion, and applying icon effects.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_APP_ICON_FACTORY_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_APP_ICON_FACTORY_H_
 

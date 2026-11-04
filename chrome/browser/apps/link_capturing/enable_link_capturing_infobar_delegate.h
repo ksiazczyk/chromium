@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enable link capturing infobar delegate declaration
+// summary: Declares the confirm infobar delegate that offers to enable link capturing for an app on non-ChromeOS platforms.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_LINK_CAPTURING_ENABLE_LINK_CAPTURING_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_APPS_LINK_CAPTURING_ENABLE_LINK_CAPTURING_INFOBAR_DELEGATE_H_
 

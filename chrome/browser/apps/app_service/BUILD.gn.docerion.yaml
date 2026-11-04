@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App Service GN build definition
+summary: Defines the app_service source set with its sources and platform-conditional dependencies for ChromeOS and extensions.

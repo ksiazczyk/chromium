@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppShimListenerTestApi implementation for Mac
+// summary: Implements the test API that exposes AppShimListener internals, such as its Mach bootstrap acceptor and temporary directory path, to tests.
+// ---
+
 #include "chrome/browser/apps/app_shim/test/app_shim_listener_test_api_mac.h"
 
 #include "apps/app_lifetime_monitor_factory.h"

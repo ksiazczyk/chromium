@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App install navigation throttle browser tests
+// summary: Browser tests verifying that install-app URIs trigger the full app installation flow, including JavaScript-triggered installations with auto-accepted dialogs.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/app_install_navigation_throttle.h"
 
 #include "base/functional/callback.h"

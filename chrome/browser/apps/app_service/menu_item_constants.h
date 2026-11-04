@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu item icon size constant
+// summary: Defines the constant for the square shortcut menu item icon size in dip used by app context menus.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_MENU_ITEM_CONSTANTS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_MENU_ITEM_CONSTANTS_H_
 

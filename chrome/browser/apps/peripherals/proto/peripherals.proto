@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peripherals endpoint proto definitions
+// summary: Proto2 definitions of the Peripherals endpoint request and response messages, mirrored from the server code base at go/peripherals-proto.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

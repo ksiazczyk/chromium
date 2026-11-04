@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App icon factory implementation
+// summary: Implements helpers for creating, resizing, encoding, and masking app icons, including ARC adaptive icon padding handling and icon effect application.
+// ---
+
 #include "chrome/browser/apps/app_service/app_icon/app_icon_factory.h"
 
 #include <memory>

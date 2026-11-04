@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser app launcher implementation
+// summary: Launches browser apps by routing app launch parameters to extensions or the web app launch command, including ChromeOS full restore handling and app launch metrics.
+// ---
+
 #include "chrome/browser/apps/app_service/browser_app_launcher.h"
 
 #include <memory>

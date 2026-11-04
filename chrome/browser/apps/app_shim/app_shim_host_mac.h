@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App shim host interface for Mac
+// summary: Declares AppShimHost, the browser-side counterpart of the app shim controller handling shim events.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SHIM_APP_SHIM_HOST_MAC_H_
 #define CHROME_BROWSER_APPS_APP_SHIM_APP_SHIM_HOST_MAC_H_
 

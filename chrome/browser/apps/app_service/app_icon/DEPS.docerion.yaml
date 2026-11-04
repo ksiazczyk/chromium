@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the app_icon directory
+summary: Restricts includes to the app_icon directory and grants specific test and utility files access to app service proxy and publisher headers.

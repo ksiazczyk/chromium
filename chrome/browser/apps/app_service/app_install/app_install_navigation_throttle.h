@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install navigation throttle header
+// summary: Declares the AppInstallNavigationThrottle class that matches install-app URIs and triggers app installation using Almanac app metadata on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_INSTALL_APP_INSTALL_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_INSTALL_APP_INSTALL_NAVIGATION_THROTTLE_H_
 

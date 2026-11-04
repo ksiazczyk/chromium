@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app service implementation
+// summary: Implements PromiseAppService, which registers promise apps, queries the Almanac API for app info, downloads promise icons, and updates ARC install priority.
+// ---
+
 #include "chrome/browser/apps/app_service/promise_apps/promise_app_service.h"
 
 #include <memory>

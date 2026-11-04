@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents app ID utilities
+// summary: Declares helpers to get and set the app ID associated with a WebContents and to check whether an app is installed, with guidance on which getter to use.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_WEB_CONTENTS_APP_ID_UTILS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_WEB_CONTENTS_APP_ID_UTILS_H_
 

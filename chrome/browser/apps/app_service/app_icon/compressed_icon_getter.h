@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compressed icon getter interface
+// summary: Defines the interface publishers implement to return compressed icon data for an app or shortcut by id, size, and scale factor.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_COMPRESSED_ICON_GETTER_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_COMPRESSED_ICON_GETTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app install server
+// summary: Declares TestAppInstallServer, a test helper that stubs the app install endpoint with configurable responses for web apps, websites and install URLs.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_INSTALL_TEST_APP_INSTALL_SERVER_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_INSTALL_TEST_APP_INSTALL_SERVER_H_
 

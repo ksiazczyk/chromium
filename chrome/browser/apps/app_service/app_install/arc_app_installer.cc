@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app installer implementation
+// summary: Implements ArcAppInstaller, which installs Android apps through the ARC fast app reinstall flow and records install result metrics.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/arc_app_installer.h"
 
 #include <variant>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIP and pixel conversion utility declarations
+// summary: Declares utility functions for converting between DIP and physical pixel sizes and for getting the primary display UI scale factor.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_DIP_PX_UTIL_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_DIP_PX_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppIconLoader implementation
+// summary: Implements AppIconLoader, which loads icons for extensions, web apps, favicons, and ARC or guest OS apps and applies effects such as badging and desaturation.
+// ---
+
 #include "chrome/browser/apps/app_service/app_icon/app_icon_loader.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of mac_intent_picker_helpers.mm.
+type: source
+title: Mac intent picker helpers implementation
+summary: Implements macOS app lookup for a URL using SafariServices universal links and launches the matching native app.

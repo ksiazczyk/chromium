@@ -1,3 +1,9 @@
+---
+type: readme
+title: Browser instance folder overview
+summary: Explains that this folder tracks browser app instances, tabs logically part of an app, a ChromeOS-only feature for tabbed apps UX.
+---
+
 This folder contains the functionality for tracking browser app instances, that
 is, tabs opened in Chrome (and are part of the tabbed browser) that are
 logically considered part of an app. This functionality is only used on

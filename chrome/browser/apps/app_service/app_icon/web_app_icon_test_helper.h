@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app icon test helper declarations
+// summary: Declares helpers for writing, generating, and registering web app icons used by app icon unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_WEB_APP_ICON_TEST_HELPER_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_WEB_APP_ICON_TEST_HELPER_H_
 

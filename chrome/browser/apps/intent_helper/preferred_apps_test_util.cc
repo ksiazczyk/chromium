@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preferred apps test utilities implementation
+// summary: Implements waiters that block until preferred apps list changes or initialization completes, plus helpers to set link preferences.
+// ---
+
 #include "chrome/browser/apps/intent_helper/preferred_apps_test_util.h"
 
 #include "base/check_deref.h"

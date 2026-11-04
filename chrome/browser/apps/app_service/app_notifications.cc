@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App notification tracking implementation
+// summary: Implements bidirectional mappings between app IDs and notification IDs used to track badge status per app.
+// ---
+
 #include "chrome/browser/apps/app_service/app_notifications.h"
 
 

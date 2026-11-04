@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for digital goods
+summary: Defines the digital_goods and impl source sets with their public headers, sources and ChromeOS dependencies.

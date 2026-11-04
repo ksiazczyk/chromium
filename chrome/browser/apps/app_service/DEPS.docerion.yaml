@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App Service include rules
+summary: Sets allowed include directories for the folder, with special rules for notification browser tests and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install navigation throttle implementation
+// summary: Implements a navigation throttle that matches install-app URIs, extracts package ID and source query parameters, and triggers app installation on ChromeOS.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/app_install_navigation_throttle.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Service test helper header
+// summary: Declares the AppServiceTest helper class used to set up App Service in unit tests, including synchronous icon loading, app uninstall, and icon comparison helpers.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_SERVICE_TEST_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_SERVICE_TEST_H_
 

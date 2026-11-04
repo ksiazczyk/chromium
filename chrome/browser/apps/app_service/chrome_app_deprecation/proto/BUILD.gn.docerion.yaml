@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Chrome app deprecation proto
+summary: Defines the proto_library build target for the Chrome app deprecation protobuf, building chrome_app_deprecation.proto with lite runtime code generation.

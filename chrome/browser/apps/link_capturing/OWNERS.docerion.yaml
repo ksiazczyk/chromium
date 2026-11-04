@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the link capturing directory
+summary: Lists the code owners for the directory and delegates ownership of ChromeOS files to the App Service owners.

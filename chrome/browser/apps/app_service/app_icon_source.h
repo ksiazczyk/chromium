@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App icon URL data source header
+// summary: Declares the AppIconSource class that serves app icons for installed apps through the AppServiceProxy, with the request format and icon fallback order documented in comments.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_SOURCE_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_SOURCE_H_
 

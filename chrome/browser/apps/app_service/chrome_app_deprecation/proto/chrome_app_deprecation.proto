@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ChromeAppDeprecation proto definition
+// summary: Protobuf schema defining the DynamicAllowlists message with common, user-installed, and kiosk session allowlist fields for Chrome app deprecation.
+// ---
+
 edition = "2023";
 
 package ChromeAppDeprecation;

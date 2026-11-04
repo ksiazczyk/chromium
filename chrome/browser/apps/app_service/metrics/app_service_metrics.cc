@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App service metrics implementation
+// summary: Records default and built-in app launch metrics by launch source, mapping app IDs to DefaultAppName histogram entries.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/app_service_metrics.h"
 
 #include "ash/constants/web_app_id_constants.h"

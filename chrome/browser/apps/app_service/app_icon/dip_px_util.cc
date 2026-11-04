@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIP and pixel conversion utilities
+// summary: Implements conversions between device-independent pixels and physical pixels using the primary display scale factor.
+// ---
+
 #include "chrome/browser/apps/app_service/app_icon/dip_px_util.h"
 
 #include "base/check_op.h"

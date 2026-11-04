@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Promise app update unit tests
+// summary: Unit tests verifying PromiseAppUpdate behavior with null state, null delta, both present, and equality comparisons between updates.
+// ---
+
 #include "chrome/browser/apps/app_service/promise_apps/promise_app_update.h"
 
 #include "chrome/browser/apps/app_service/promise_apps/promise_app.h"

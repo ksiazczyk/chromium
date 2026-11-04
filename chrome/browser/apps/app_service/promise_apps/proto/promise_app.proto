@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app protobuf message definitions
+// summary: Protobuf schema defining PromiseAppRequest and PromiseAppResponse messages for the promise app server endpoint, mirrored from the server code base.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

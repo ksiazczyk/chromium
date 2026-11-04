@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu utility helpers for app service menus
+// summary: Declares helpers to add command, shortcut and launch-new menu items, convert menu types to strings and build browser menus for apps.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_MENU_UTIL_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_MENU_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOsReimplNavigationCapturingThrottle declaration
+// summary: Declares a ChromeOS navigation throttle implementing link capturing for cases not handled by NavigationCapturingProcess, such as ARC apps and System Web Apps.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_LINK_CAPTURING_CHROMEOS_REIMPL_NAVIGATION_CAPTURING_THROTTLE_H_
 #define CHROME_BROWSER_APPS_LINK_CAPTURING_CHROMEOS_REIMPL_NAVIGATION_CAPTURING_THROTTLE_H_
 

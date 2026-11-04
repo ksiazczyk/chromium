@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppsIntentPickerDelegate interface
+// summary: Declares the abstract delegate interface for finding apps for a URL, loading icons, launching apps, persisting preferences and recording intent picker metrics.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_LINK_CAPTURING_APPS_INTENT_PICKER_DELEGATE_H_
 #define CHROME_BROWSER_APPS_LINK_CAPTURING_APPS_INTENT_PICKER_DELEGATE_H_
 

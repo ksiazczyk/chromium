@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PublisherHostImpl class declaration
+// summary: Declares PublisherHostImpl, which stores the publishers created by AppServiceProxy, plus a scoped test helper to omit Borealis apps.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_PUBLISHER_HOST_IMPL_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_PUBLISHER_HOST_IMPL_H_
 

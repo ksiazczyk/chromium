@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File utilities unit tests
+// summary: 'Unit tests for the App Service file utilities, verifying conversion between file paths, filesystem: URLs, and FileSystemURLs using a testing profile and mount points.'
+// ---
+
 #include "chrome/browser/apps/app_service/file_utils.h"
 
 #include <memory>

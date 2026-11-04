@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppShimTerminationManager interface
+// summary: Declares the AppShimTerminationManager interface for terminating Chrome after app shims quit and deciding whether browser sessions should be restored.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SHIM_APP_SHIM_TERMINATION_MANAGER_H_
 #define CHROME_BROWSER_APPS_APP_SHIM_APP_SHIM_TERMINATION_MANAGER_H_
 

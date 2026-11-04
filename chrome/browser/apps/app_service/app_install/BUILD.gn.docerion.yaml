@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App Install Service build targets
+summary: Defines GN build targets for the App Install Service, including the proto library, source sets, navigation throttle, and unit and browser test targets.

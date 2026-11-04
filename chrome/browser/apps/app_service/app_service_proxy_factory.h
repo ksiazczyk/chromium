@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service proxy factory header
+// summary: Declares AppServiceProxyFactory, a singleton BrowserContextKeyedServiceFactory owning AppServiceProxy instances and per-profile availability checks.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_SERVICE_PROXY_FACTORY_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_SERVICE_PROXY_FACTORY_H_
 

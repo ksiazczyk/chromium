@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension apps publisher implementation
+// summary: Implements the App Service publisher for Chrome extension apps, filtering deprecated apps and creating app objects with icon effects.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/extension_apps.h"
 
 #include <memory>

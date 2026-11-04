@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app installer unit tests
+// summary: Unit tests for ArcAppInstaller verifying the fast app reinstall request and the install result histogram metrics.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/arc_app_installer.h"
 
 #include "base/test/metrics/histogram_tester.h"

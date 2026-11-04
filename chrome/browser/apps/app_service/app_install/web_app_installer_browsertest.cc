@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Installer Browser Tests
+// summary: Browser tests for WebAppInstaller that verify web app installation from AppInstallData, serving manifests via an embedded test server and checking install result metrics.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/web_app_installer.h"
 
 #include <variant>

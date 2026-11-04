@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent chip display preferences implementation
+// summary: Tracks per-origin intent chip display counts in content settings and decides whether the chip shows expanded or collapsed.
+// ---
+
 #include "chrome/browser/apps/intent_helper/intent_chip_display_prefs.h"
 
 #include "base/values.h"

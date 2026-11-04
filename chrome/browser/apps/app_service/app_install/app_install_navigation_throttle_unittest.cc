@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App install navigation throttle unit tests
+// summary: Unit tests covering parsing of package_id and source query parameters by ExtractQueryParams, including malformed, duplicated, and URL-encoded inputs.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/app_install_navigation_throttle.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta apps publisher implementation
+// summary: Implements the App Service publisher for Bruschetta VM apps, including launching with path sharing, shelf spinners and context menus.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/bruschetta_apps.h"
 
 #include <string>

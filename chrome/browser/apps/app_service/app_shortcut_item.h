@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App shortcut item header
+// summary: Declares the AppShortcutItem struct describing an Android app shortcut, with shortcut ID, short label, icon, category type, and rank fields.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_SHORTCUT_ITEM_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_SHORTCUT_ITEM_H_
 

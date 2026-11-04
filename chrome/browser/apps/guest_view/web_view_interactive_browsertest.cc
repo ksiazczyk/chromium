@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView interactive browser tests
+// summary: Interactive browser tests for WebView covering keyboard and IME input, touch selection, popups, focus, and fullscreen behavior.
+// ---
+
 #include <stddef.h>
 
 #include <limits>

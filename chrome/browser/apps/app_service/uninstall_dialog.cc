@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App uninstall dialog implementation
+// summary: Implements the uninstall dialog controller that loads the app icon, tracks the parent window, and reports the user's uninstall decision via callback.
+// ---
+
 #include "chrome/browser/apps/app_service/uninstall_dialog.h"
 
 #include "base/functional/bind.h"

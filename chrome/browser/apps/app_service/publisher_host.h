@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Publisher host interface
+// summary: Declares an interface that hosts and manages publisher instances, with ChromeOS-specific registration, shutdown and testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHER_HOST_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHER_HOST_H_
 

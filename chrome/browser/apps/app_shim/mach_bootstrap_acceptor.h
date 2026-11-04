@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MachBootstrapAcceptor class header for macOS app shim connections
+// summary: Declares a Mach message server published in the bootstrap namespace that accepts app shim client connections and hands Mojo IPC channel endpoints to a delegate.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SHIM_MACH_BOOTSTRAP_ACCEPTOR_H_
 #define CHROME_BROWSER_APPS_APP_SHIM_MACH_BOOTSTRAP_ACCEPTOR_H_
 

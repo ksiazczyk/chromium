@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for app media access
+// summary: Browser tests verifying camera and microphone access tracking for apps using fake media capture devices and the App Service capability access cache.
+// ---
+
 #include <memory>
 
 #include "base/functional/callback.h"

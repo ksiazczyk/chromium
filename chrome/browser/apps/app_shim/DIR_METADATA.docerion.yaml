@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for app_shim
+summary: Points the directory to the shared metadata mixins of chrome/app_shim.

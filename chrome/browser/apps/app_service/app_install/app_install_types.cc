@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install types implementation
+// summary: Implements stream output operators and validity checks for app install data types such as install surfaces, icons, screenshots and per-app-type data.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/app_install_types.h"
 
 #include <ostream>

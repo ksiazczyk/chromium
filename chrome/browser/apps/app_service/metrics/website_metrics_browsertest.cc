@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebsiteMetrics browser tests
+// summary: Contains browser tests verifying website usage time metric recording, URL open and close events, and installable web app checks.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/website_metrics.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app install server implementation
+// summary: Implements an embedded test server that fakes the Almanac app install endpoint, serving configurable AppInstallResponse payloads for tests.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/test_app_install_server.h"
 
 #include "chrome/browser/apps/almanac_api_client/almanac_api_util.h"

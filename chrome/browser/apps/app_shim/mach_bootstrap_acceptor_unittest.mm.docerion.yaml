@@ -1,0 +1,4 @@
+# Docerion header of mach_bootstrap_acceptor_unittest.mm.
+type: test
+title: MachBootstrapAcceptor unit tests
+summary: Unit tests verifying that the Mach bootstrap acceptor registers its server, connects clients with the expected endpoint and pid, and reports errors when registration fails.

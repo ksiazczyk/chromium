@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac intent picker helpers declaration
+// summary: Declares helpers to find and launch native macOS apps that own a URL, plus testing overrides for the app lookup.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_LINK_CAPTURING_MAC_INTENT_PICKER_HELPERS_H_
 #define CHROME_BROWSER_APPS_LINK_CAPTURING_MAC_INTENT_PICKER_HELPERS_H_
 

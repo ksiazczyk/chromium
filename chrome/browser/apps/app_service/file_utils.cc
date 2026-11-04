@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service file utilities implementation
+// summary: 'Converts between absolute file paths, filesystem: scheme URLs, and storage FileSystemURLs using the ChromeOS Files app file system context.'
+// ---
+
 #include "chrome/browser/apps/app_service/file_utils.h"
 
 #include "base/files/file_path.h"

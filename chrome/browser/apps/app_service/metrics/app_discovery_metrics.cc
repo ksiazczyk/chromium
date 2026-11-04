@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App discovery metrics implementation
+// summary: Implements recording of app discovery, install, launch, uninstall and usage state metrics for Chrome OS profiles, gated on app sync.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/app_discovery_metrics.h"
 
 #include <utility>

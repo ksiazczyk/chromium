@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the promise app proto library
+summary: GN build file that defines a proto_library target compiling promise_app.proto in the App Service promise apps directory.
