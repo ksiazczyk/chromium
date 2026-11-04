@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate manager WebUI controller header
+// summary: Declares CertificateManagerUI and its WebUIConfig, using a dialog UI on ChromeOS and a WebUI controller elsewhere.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CERTIFICATE_MANAGER_CERTIFICATE_MANAGER_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_CERTIFICATE_MANAGER_CERTIFICATE_MANAGER_UI_H_
 

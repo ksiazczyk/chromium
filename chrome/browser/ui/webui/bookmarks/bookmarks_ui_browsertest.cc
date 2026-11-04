@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks page browser tests
+// summary: Browser tests treating the bookmarks manager page as a black box, verifying folder selection and navigation through the accessibility tree as a screen reader would.
+// ---
+
 #include <optional>
 #include <string>
 #include <string_view>

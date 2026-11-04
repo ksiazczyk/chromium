@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping insights side panel UI header
+// summary: Declares the shopping insights side panel WebUI controller and its config, with interface factories for shopping service, price tracking, and price insights handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_COMMERCE_SHOPPING_INSIGHTS_SIDE_PANEL_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_COMMERCE_SHOPPING_INSIGHTS_SIDE_PANEL_UI_H_
 

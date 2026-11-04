@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the fake OS settings sections collection
+// summary: Creates a fake section for every settings section and fills them with randomly shuffled subpages and settings for test coverage.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/test_support/fake_os_settings_sections.h"
 
 #include <optional>

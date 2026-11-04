@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Components page controller implementation
+// summary: Implements the WebUI controller that registers the message handler and sets up the HTML data source with localized strings and resources for the components page.
+// ---
+
 #include "chrome/browser/ui/webui/components/components_ui.h"
 
 #include <stddef.h>

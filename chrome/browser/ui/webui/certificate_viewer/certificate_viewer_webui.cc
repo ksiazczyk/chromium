@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate viewer dialog implementation
+// summary: Implements the desktop certificate viewer dialog, including certificate trust handling, CIDR constraint checks, and WebUI message handling.
+// ---
+
 #include "chrome/browser/ui/webui/certificate_viewer/certificate_viewer_webui.h"
 
 #include <memory>

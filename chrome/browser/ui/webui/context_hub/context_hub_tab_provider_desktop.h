@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context hub desktop tab provider header
+// summary: Declares the ContextHubTabProviderDesktop class that supplies tabs and tab group actions to the context hub page handler.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CONTEXT_HUB_CONTEXT_HUB_TAB_PROVIDER_DESKTOP_H_
 #define CHROME_BROWSER_UI_WEBUI_CONTEXT_HUB_CONTEXT_HUB_TAB_PROVIDER_DESKTOP_H_
 

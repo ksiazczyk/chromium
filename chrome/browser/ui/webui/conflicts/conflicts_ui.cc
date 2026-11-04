@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConflictsUI controller implementation
+// summary: Implements the WebUI controller that registers the message handler and adds the HTML data source for the conflicts page.
+// ---
+
 #include "chrome/browser/ui/webui/conflicts/conflicts_ui.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the settings_manager directory
+summary: Restricts and allows includes for the directory, listing permitted ChromeOS and Chrome dependencies and per-file exceptions.

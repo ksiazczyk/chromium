@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price insights handler implementation
+// summary: Implements the Mojo handler that shows the shopping insights side panel and opens a price insights feedback page.
+// ---
+
 #include "chrome/browser/ui/webui/commerce/price_insights_handler.h"
 
 #include "chrome/browser/feedback/public/feedback_source.h"

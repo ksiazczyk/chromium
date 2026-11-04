@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Commerce WebUI build targets (BUILD.gn)
+summary: Defines GN source sets for the commerce WebUI, including the internals UI config, side panel handlers, and browser test targets.

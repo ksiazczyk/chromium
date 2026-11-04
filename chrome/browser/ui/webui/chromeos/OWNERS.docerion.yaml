@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS redirect to ash WebUI
+summary: Points code ownership for this directory to the OWNERS file of chrome/browser/ui/webui/ash.

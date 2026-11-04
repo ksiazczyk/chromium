@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser Switcher WebUI implementation
+// summary: Implements the Browser Switcher WebUI page, exposing sitelist and greylist rules, preferences, and logic for navigating tabs to an alternative browser.
+// ---
+
 #include "chrome/browser/ui/webui/browser_switch/browser_switch_ui.h"
 
 #include <memory>

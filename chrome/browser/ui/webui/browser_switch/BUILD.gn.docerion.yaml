@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the browser switch WebUI
+summary: Defines the browser_switch source set and its unit test target with their dependencies for desktop platforms.

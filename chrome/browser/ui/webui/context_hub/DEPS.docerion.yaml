@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Context Hub DEPS include rules
+summary: Grants the directory an include rule allowing headers from components/personal_context/proto.

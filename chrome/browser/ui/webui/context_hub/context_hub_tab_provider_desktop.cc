@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context hub desktop tab provider implementation
+// summary: Implements the desktop tab provider for the context hub WebUI, locating tabs across browser windows and handling switching, closing and tab group operations.
+// ---
+
 #include "chrome/browser/ui/webui/context_hub/context_hub_tab_provider_desktop.h"
 
 #include <algorithm>

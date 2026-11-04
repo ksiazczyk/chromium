@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the certificate viewer
+summary: Maps the directory to the chrome-secure-web-and-net team and a Buganizer component for issue routing.

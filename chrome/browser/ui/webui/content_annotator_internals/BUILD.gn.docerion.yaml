@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for content annotator internals
+summary: GN build rules defining the content annotator internals WebUI source set and its unit tests, listing sources and dependencies on accessibility annotator components, Mojo bindings, and test support.

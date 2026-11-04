@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slow trace WebUI class declarations
+// summary: Declares the URL data source, WebUI config, and controller classes that provide the slow trace page serving dynamically generated trace data.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SLOW_SLOW_TRACE_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SLOW_SLOW_TRACE_UI_H_
 

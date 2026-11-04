@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OsSettingsManagerFactory implementation
+// summary: Builds the per-profile OsSettingsManager KeyedService, wiring the dependent service factories it requires.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/services/settings_manager/os_settings_manager_factory.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeURLDisabledUI WebUI controller header
+// summary: Declares the WebUI controller and its configuration class for the error page shown when Chrome URLs are disabled by admin policy.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CHROMEOS_CHROME_URL_DISABLED_CHROME_URL_DISABLED_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_CHROMEOS_CHROME_URL_DISABLED_CHROME_URL_DISABLED_UI_H_
 

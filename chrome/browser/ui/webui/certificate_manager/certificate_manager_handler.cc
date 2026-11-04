@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate manager page handler implementation
+// summary: Implements the Mojo handler that gathers certificate management metadata and dispatches certificate operations to the appropriate certificate sources.
+// ---
+
 #include "chrome/browser/ui/webui/certificate_manager/certificate_manager_handler.h"
 
 #include <memory>

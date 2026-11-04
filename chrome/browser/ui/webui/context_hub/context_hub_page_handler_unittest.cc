@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context Hub page handler unit tests
+// summary: Unit tests for the Context Hub page handler covering auto todos, memory bank, topics and tab provider behavior.
+// ---
+
 #include "chrome/browser/ui/webui/context_hub/context_hub_page_handler.h"
 
 #include <memory>

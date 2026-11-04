@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose untrusted WebUI controller implementation
+// summary: Implements the chrome-untrusted Compose WebUI, setting up the data source, localized strings, feature registration, and Mojo interface bindings.
+// ---
+
 #include "chrome/browser/ui/webui/compose/compose_untrusted_ui.h"
 
 #include <string>

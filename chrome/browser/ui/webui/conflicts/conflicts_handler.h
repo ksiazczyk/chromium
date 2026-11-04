@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConflictsHandler class declaration
+// summary: Declares the WebUI message handler that responds to module list requests by returning data fetched from the ModuleDatabase.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CONFLICTS_CONFLICTS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_CONFLICTS_CONFLICTS_HANDLER_H_
 

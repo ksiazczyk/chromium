@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_internals.mojom.
+type: source
+title: Bluetooth internals Mojo interface definitions
+summary: Defines the Mojo interfaces for the Bluetooth internals page, covering adapter access, debug log toggling, Android permission checks, and btsnoop capture control.

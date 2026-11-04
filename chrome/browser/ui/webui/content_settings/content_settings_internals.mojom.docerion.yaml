@@ -1,0 +1,4 @@
+# Docerion header of content_settings_internals.mojom.
+type: source
+title: Mojo interface definitions for content settings internals
+summary: Defines the Mojo interfaces for reading content settings from the profile and converting patterns between strings and pattern objects.

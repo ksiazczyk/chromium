@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload promo handler class header
+// summary: Declares the BatchUploadPromoHandler class, a Mojo PageHandler and SyncServiceObserver that serves the batch upload promo WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BATCH_UPLOAD_PROMO_BATCH_UPLOAD_PROMO_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_BATCH_UPLOAD_PROMO_BATCH_UPLOAD_PROMO_HANDLER_H_
 

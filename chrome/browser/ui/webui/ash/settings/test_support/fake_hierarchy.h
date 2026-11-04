@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeHierarchy test double of the settings search hierarchy
+// summary: Declares FakeHierarchy, a test double of Hierarchy that lets tests add subpage and setting metadata without alternate-location support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_TEST_SUPPORT_FAKE_HIERARCHY_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_TEST_SUPPORT_FAKE_HIERARCHY_H_
 

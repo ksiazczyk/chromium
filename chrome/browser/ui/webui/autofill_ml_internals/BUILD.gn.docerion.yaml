@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the autofill ML internals WebUI
+summary: GN build file defining the autofill_ml_internals source set and a browser test target with their dependencies.

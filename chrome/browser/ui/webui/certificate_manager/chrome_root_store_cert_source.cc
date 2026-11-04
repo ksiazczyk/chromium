@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Root Store certificate source
+// summary: Lists, views and exports Chrome Root Store certificates by querying the cert verifier service for the certificate manager UI.
+// ---
+
 #include "chrome/browser/ui/webui/certificate_manager/chrome_root_store_cert_source.h"
 
 #include <vector>

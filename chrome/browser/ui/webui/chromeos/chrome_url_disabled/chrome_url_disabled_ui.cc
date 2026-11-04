@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeURLDisabledUI WebUI controller implementation
+// summary: Implements the WebUI controller that registers the data source and localized strings for the page shown when Chrome URLs are disabled by admin policy.
+// ---
+
 #include "chrome/browser/ui/webui/chromeos/chrome_url_disabled/chrome_url_disabled_ui.h"
 
 #include "ash/constants/webui_url_constants.h"

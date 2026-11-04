@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for shortcut customization integration tests
+summary: Sets include rules restricting dependencies for the shortcut customization integration tests, limiting //chrome dependencies per ChromeOS policy.

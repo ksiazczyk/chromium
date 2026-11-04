@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Components page message handler implementation
+// summary: Implements the WebUI message handler that serves component data, triggers update checks, handles uninstall commands, and reports component update events.
+// ---
+
 #include "chrome/browser/ui/webui/components/components_handler.h"
 
 #include <utility>

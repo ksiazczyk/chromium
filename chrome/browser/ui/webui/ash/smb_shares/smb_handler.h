@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB WebUI message handler header
+// summary: Declares the WebUI message handler class for SMB mount, discovery, and credential operations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SMB_SHARES_SMB_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SMB_SHARES_SMB_HANDLER_H_
 

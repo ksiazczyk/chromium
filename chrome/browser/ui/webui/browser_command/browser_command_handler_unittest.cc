@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserCommandHandler unit tests
+// summary: Unit tests for BrowserCommandHandler covering supported commands, command execution and tutorial and settings behaviors with navigation stubbed out.
+// ---
+
 #include "chrome/browser/ui/webui/browser_command/browser_command_handler.h"
 
 #include <memory>

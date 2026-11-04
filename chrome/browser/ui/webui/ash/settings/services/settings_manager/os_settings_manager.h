@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OsSettingsManager class header
+// summary: Declares the KeyedService manager for the Chrome OS settings page covering search indexing, loadTimeData, and WebUI message handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SERVICES_SETTINGS_MANAGER_OS_SETTINGS_MANAGER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SERVICES_SETTINGS_MANAGER_OS_SETTINGS_MANAGER_H_
 

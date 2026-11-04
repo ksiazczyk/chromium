@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the fake settings hierarchy for tests
+// summary: Implements FakeHierarchy methods that register fake subpage and setting metadata and rewrite search result URLs for settings tests.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/test_support/fake_hierarchy.h"
 
 #include <utility>

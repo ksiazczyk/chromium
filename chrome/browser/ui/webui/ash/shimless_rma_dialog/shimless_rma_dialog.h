@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShimlessRmaDialog class declaration
+// summary: Declares the ShimlessRmaDialog class, a system web dialog delegate and display observer that presents the shimless RMA UI as a non-closable fullscreen dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SHIMLESS_RMA_DIALOG_SHIMLESS_RMA_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SHIMLESS_RMA_DIALOG_SHIMLESS_RMA_DIALOG_H_
 

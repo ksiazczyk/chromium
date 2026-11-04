@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web dialog delegate implementation
+// summary: Implements instance tracking, dialog sizing for internal screens, modal type by session state, and widget parameters for Ash system web dialogs.
+// ---
+
 #include "chrome/browser/ui/webui/ash/system_web_dialog/system_web_dialog_delegate.h"
 
 #include <algorithm>

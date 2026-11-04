@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings WebUI Mojo handler implementation
+// summary: Implements the Mojo page handler that reads content settings from the HostContentSettingsMap and converts content settings patterns to and from strings.
+// ---
+
 #include "chrome/browser/ui/webui/content_settings/content_settings_handler.h"
 
 #include <utility>

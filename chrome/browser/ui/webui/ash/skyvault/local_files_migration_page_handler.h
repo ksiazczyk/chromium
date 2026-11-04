@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local files migration page handler class declaration
+// summary: Declares the Mojo PageHandler that handles communication and logic for the local files migration WebUI page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SKYVAULT_LOCAL_FILES_MIGRATION_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SKYVAULT_LOCAL_FILES_MIGRATION_PAGE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context Hub WebUI controller implementation
+// summary: Implements the Context Hub WebUI controller, setting up its data source, resource paths, feature flags and desktop favicon and image sources.
+// ---
+
 #include "chrome/browser/ui/webui/context_hub/context_hub_ui.h"
 
 #include <memory>

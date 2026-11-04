@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the content settings WebUI
+summary: GN build file defining the Mojo bindings target, the content settings WebUI source set, and its unit and browser test targets.

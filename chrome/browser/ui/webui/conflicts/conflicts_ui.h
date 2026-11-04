@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConflictsUI controller declaration
+// summary: Declares the WebUI controller and its configuration class for the browser's conflicts diagnostics page, including favicon resource handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CONFLICTS_CONFLICTS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_CONFLICTS_CONFLICTS_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the settings search handler
+// summary: Declares the SearchHandler Mojo service that answers settings search queries from the settings UI and Launcher search.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SEARCH_SEARCH_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SEARCH_SEARCH_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill ML internals page handler browser test
+// summary: Test verifying that the page handler registers and unregisters receivers with the ML log router.
+// ---
+
 #include "chrome/browser/ui/webui/autofill_ml_internals/autofill_ml_internals_page_handler.h"
 
 #include "components/autofill/core/browser/ml_model/logging/ml_log_router.h"

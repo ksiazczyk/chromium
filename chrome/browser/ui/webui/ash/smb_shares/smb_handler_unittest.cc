@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SMB handler unit tests
+// summary: Unit tests verifying the has-any-SMB-mounted-before WebUI response with and without an SMB service.
+// ---
+
 #include "chrome/browser/ui/webui/ash/smb_shares/smb_handler.h"
 
 #include "base/test/simple_test_tick_clock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks side panel preference registration
+// summary: Registers profile preferences for the bookmarks side panel sort order and view type with sensible defaults.
+// ---
+
 #include "chrome/browser/ui/webui/bookmarks/bookmark_prefs.h"
 
 #include "chrome/browser/ui/webui/side_panel/bookmarks/bookmarks.mojom.h"

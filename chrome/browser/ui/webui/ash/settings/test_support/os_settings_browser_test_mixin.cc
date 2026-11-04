@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the OS settings browser test mixin
+// summary: Implements the browser test mixin that hosts the OS settings WebUI, binds its Mojo test API, and loads WebUI test data sources.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/test_support/os_settings_browser_test_mixin.h"
 
 #include <memory>

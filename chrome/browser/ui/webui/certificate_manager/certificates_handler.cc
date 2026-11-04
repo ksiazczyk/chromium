@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificates handler profile preference registration
+// summary: Registers the profile preference that controls whether users may manage client certificates by default, a value that enterprise policy can override.
+// ---
+
 #include "chrome/browser/ui/webui/certificate_manager/certificates_handler.h"
 
 #include "chrome/common/pref_names.h"

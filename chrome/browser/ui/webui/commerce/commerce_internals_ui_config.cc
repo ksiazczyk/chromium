@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce internals WebUI config implementation
+// summary: Implements the WebUI configuration that creates a CommerceInternalsUI controller wired to the profile's shopping service.
+// ---
+
 #include "chrome/browser/ui/webui/commerce/commerce_internals_ui_config.h"
 
 #include "chrome/browser/commerce/shopping_service_factory.h"

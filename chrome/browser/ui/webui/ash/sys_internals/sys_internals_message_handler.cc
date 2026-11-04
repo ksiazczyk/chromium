@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sys-internals message handler implementation
+// summary: Implements the getSysInfo handler that collects CPU, memory, swap and zram metrics and returns them to the WebUI frontend.
+// ---
+
 #include "chrome/browser/ui/webui/ash/sys_internals/sys_internals_message_handler.h"
 
 #include <inttypes.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash settings services
+summary: Defines dependency rules for the ash settings services directory, disallowing //chrome includes and noting an effort to remove existing //chrome dependencies.

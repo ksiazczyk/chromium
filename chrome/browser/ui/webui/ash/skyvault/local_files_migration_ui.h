@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local files migration WebUI controller header
+// summary: Declares the WebUI config and MojoWebDialogUI controller that host the local files migration dialog, bind its page handler factory, and pass initial migration parameters.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SKYVAULT_LOCAL_FILES_MIGRATION_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SKYVAULT_LOCAL_FILES_MIGRATION_UI_H_
 

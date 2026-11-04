@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price insights handler browser test
+// summary: Browser test verifying that ShowFeedback opens the feedback dialog with the price_insights category tag.
+// ---
+
 #include "chrome/browser/ui/webui/commerce/price_insights_handler.h"
 
 #include "base/json/json_reader.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks side panel preferences header
+// summary: Declares the preference name constants and the profile preference registration function for the bookmarks side panel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BOOKMARKS_BOOKMARK_PREFS_H_
 #define CHROME_BROWSER_UI_WEBUI_BOOKMARKS_BOOKMARK_PREFS_H_
 

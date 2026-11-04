@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: settings_user_action_tracker.cc
+// summary: Implements the Mojo UserActionRecorder that delegates to a per-session tracker and logs setting change metrics per section.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/services/metrics/settings_user_action_tracker.h"
 
 #include <memory>

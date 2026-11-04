@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: settings_user_action_tracker_unittest.cc
+// summary: Unit tests for SettingsUserActionTracker using fake hierarchy and sections to verify setting change metric logging.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/services/metrics/settings_user_action_tracker.h"
 
 #include "ash/webui/settings/public/constants/setting.mojom.h"

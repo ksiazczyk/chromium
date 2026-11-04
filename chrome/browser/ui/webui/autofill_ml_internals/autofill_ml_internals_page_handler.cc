@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill ML internals page handler implementation
+// summary: Implements the Mojo page handler that forwards autofill ML prediction logs from the log router to the WebUI page.
+// ---
+
 #include "chrome/browser/ui/webui/autofill_ml_internals/autofill_ml_internals_page_handler.h"
 
 #include "base/memory/raw_ptr.h"

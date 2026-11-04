@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the browser command handler
+summary: Defines the browser_command source set and its unit_tests target, listing the sources and dependencies for the desktop browser command WebUI code.

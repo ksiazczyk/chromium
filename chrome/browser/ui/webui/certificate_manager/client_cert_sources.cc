@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate sources
+// summary: Implements platform, provisioned and extension client certificate sources with import, delete and management policy handling across Windows, Mac, Linux and ChromeOS.
+// ---
+
 #include "chrome/browser/ui/webui/certificate_manager/client_cert_sources.h"
 
 #include <map>

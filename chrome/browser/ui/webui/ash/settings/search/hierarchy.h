@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the OS settings hierarchy
+// summary: Declares the Hierarchy class that tracks where sections, subpages and settings reside and generates search results for them.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SEARCH_HIERARCHY_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SEARCH_HIERARCHY_H_
 

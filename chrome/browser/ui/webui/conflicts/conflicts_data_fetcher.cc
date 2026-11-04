@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conflicts data fetcher implementation
+// summary: Implements ConflictsDataFetcher, which collects loaded module details from the ModuleDatabase and formats them for the conflicts WebUI page.
+// ---
+
 #include "chrome/browser/ui/webui/conflicts/conflicts_data_fetcher.h"
 
 #include <string>

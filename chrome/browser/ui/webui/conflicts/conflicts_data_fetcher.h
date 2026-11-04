@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConflictsDataFetcher class declaration
+// summary: Declares the fetcher that gathers the module list and third-party feature state on the ModuleDatabase task runner for the conflicts page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CONFLICTS_CONFLICTS_DATA_FETCHER_H_
 #define CHROME_BROWSER_UI_WEBUI_CONFLICTS_CONFLICTS_DATA_FETCHER_H_
 

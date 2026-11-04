@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: System web dialog GN build targets
+summary: Defines the system_web_dialog static library and its browser test source set with their sources and dependencies.

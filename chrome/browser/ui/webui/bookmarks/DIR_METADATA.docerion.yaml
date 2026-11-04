@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bookmarks WebUI issue tracker metadata
+summary: Maps the directory to the UI>Browser>Bookmarks monorail component and a Buganizer component for issue routing.

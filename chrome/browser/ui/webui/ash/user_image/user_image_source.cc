@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User image WebUI data source implementation
+// summary: Implements the ChromeOS user image data source, parsing account and frame parameters from requests and serving the matching user image bytes from resources.
+// ---
+
 #include "chrome/browser/ui/webui/ash/user_image/user_image_source.h"
 
 #include "ash/constants/ash_features.h"

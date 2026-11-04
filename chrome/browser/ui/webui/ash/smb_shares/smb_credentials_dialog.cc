@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB credentials dialog implementation
+// summary: Implements the ChromeOS system dialog that collects username and password for mounting SMB shares, including singleton handling, localized strings, dialog arguments, and the WebUI controller that serves its resources.
+// ---
+
 #include "chrome/browser/ui/webui/ash/smb_shares/smb_credentials_dialog.h"
 
 #include <utility>

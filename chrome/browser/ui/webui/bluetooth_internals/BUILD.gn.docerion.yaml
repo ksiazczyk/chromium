@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bluetooth internals WebUI build targets
+summary: Defines the bluetooth_internals source set and Mojo bindings targets with their platform-specific dependencies.

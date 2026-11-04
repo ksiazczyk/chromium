@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android bookmarks favicon declarations
+// summary: Declares the Android BookmarksUI class exposing the favicon resource accessor.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BOOKMARKS_BOOKMARKS_UI_ANDROID_H_
 #define CHROME_BROWSER_UI_WEBUI_BOOKMARKS_BOOKMARKS_UI_ANDROID_H_
 

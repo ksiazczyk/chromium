@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Writable client certificate sources unit tests
+// summary: Tests writable client certificate operations such as import and delete against NSS key slots, using fake dialogs and test profiles on ChromeOS and Linux.
+// ---
+
 #include <pk11pub.h>
 #include <secmodt.h>
 

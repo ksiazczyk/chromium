@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User certificate source for the certificate manager
+// summary: Implements listing, viewing, exporting, importing and deleting user-managed certificates backed by the server certificate database.
+// ---
+
 #include "chrome/browser/ui/webui/certificate_manager/user_cert_sources.h"
 
 #include <vector>

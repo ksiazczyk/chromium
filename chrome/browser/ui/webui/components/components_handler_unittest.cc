@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the components page handler
+// summary: Uses a mock component updater service and test WebUI to verify the handler adds and removes its observer when handling component data requests.
+// ---
+
 #include "chrome/browser/ui/webui/components/components_handler.h"
 
 #include "components/component_updater/mock_component_updater_service.h"

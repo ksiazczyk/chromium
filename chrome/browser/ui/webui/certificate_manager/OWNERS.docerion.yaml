@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Certificate manager directory owners
+summary: Delegates code ownership of this directory to the owners listed in net/cert/OWNERS.

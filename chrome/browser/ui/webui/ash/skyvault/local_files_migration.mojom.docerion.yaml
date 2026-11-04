@@ -1,0 +1,4 @@
+# Docerion header of local_files_migration.mojom.
+type: source
+title: Mojo interfaces for the local files migration dialog
+summary: Defines Mojo enums, structs and Page, PageHandler and PageHandlerFactory interfaces for the migration WebUI.

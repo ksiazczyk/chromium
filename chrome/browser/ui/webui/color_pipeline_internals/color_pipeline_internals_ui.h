@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color pipeline internals WebUI controller header
+// summary: Declares the ColorPipelineInternalsUI WebUI controller class and its internal WebUI config class for the color pipeline internals page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_COLOR_PIPELINE_INTERNALS_COLOR_PIPELINE_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_COLOR_PIPELINE_INTERNALS_COLOR_PIPELINE_INTERNALS_UI_H_
 

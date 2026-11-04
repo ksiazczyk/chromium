@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the local files migration WebUI
+summary: Defines GN build targets for the local files migration Mojo bindings, static library and browser tests.

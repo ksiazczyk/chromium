@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web dialog view implementation
+// summary: Implements UpdateWindowRoundedCorners so the dialog webview corners match the frame kind and bubble frame decorations.
+// ---
+
 #include "chrome/browser/ui/webui/ash/system_web_dialog/system_web_dialog_view.h"
 
 #include "base/check_op.h"

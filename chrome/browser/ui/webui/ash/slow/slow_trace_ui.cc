@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slow trace WebUI data source implementation
+// summary: Implements the URL data source and controller that fetch performance trace data from the tracing manager and serve it as zip archives for the slow trace page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/slow/slow_trace_ui.h"
 
 #include <stddef.h>

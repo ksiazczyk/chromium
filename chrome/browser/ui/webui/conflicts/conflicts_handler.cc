@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConflictsHandler implementation
+// summary: Implements the WebUI message handler that answers requestModuleList by fetching module data and resolving the JavaScript callback.
+// ---
+
 #include "chrome/browser/ui/webui/conflicts/conflicts_handler.h"
 
 #include <utility>

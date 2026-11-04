@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for color_pipeline_internals
+summary: Owners file that delegates to ui/color/OWNERS and lists dfried@chromium.org as an owner for this directory.

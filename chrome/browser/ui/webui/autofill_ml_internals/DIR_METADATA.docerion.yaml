@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for autofill_ml_internals
+summary: Chromium metadata file that inherits the common metadata settings from components/autofill.

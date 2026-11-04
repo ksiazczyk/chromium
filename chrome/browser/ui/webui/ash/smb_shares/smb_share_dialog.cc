@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB share dialog implementation
+// summary: Implements the system dialog for adding SMB shares, setting up its WebUI data source, localized strings, Kerberos and guest flags, and message handler.
+// ---
+
 #include "chrome/browser/ui/webui/ash/smb_shares/smb_share_dialog.h"
 
 #include "ash/constants/webui_url_constants.h"

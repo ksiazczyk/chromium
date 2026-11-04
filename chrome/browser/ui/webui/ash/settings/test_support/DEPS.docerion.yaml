@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the settings test support folder
+summary: Restricts //chrome includes for ChromeOS settings test support code and grants targeted exceptions for test bases and the browser test mixin.

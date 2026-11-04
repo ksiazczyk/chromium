@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the settings search library
+summary: Defines the static library and unit test targets for the ChromeOS settings search code, listing sources and build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB WebUI message handler implementation
+// summary: Implements WebUI message handling for mounting shares, network share discovery, and credential updates.
+// ---
+
 #include "chrome/browser/ui/webui/ash/smb_shares/smb_handler.h"
 
 #include <string>

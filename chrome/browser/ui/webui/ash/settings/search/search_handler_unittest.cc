@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the settings search handler
+// summary: Tests search result generation, observer notifications and result comparison using fake hierarchy and registry data.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/search/search_handler.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: os_settings_metrics_provider.h
+// summary: Declares OsSettingsMetricsProvider, a metrics provider reporting session data for ChromeOS Settings usage.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SERVICES_METRICS_OS_SETTINGS_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SERVICES_METRICS_OS_SETTINGS_METRICS_PROVIDER_H_
 

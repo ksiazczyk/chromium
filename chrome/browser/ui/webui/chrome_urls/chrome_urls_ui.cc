@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome URLs WebUI controller implementation
+// summary: Implements the ChromeUrlsUI WebUI controller, adding the HTML data source and binding the page handler factory.
+// ---
+
 #include "chrome/browser/ui/webui/chrome_urls/chrome_urls_ui.h"
 
 #include "base/feature_list.h"

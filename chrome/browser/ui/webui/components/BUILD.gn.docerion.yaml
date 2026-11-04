@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Components WebUI build definition
+summary: GN build rules that define the components WebUI source set, its dependencies, and the unit test target.

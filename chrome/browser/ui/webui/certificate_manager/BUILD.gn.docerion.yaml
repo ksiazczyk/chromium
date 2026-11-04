@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Certificate manager GN build configuration
+summary: Defines the certificate_manager source set and unit tests, listing sources, public headers, and platform-conditional dependencies for the certificate manager WebUI.

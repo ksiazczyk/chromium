@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SysInternalsUI controller implementation
+// summary: Implements the WebUI controller for the sys-internals page, adding the message handler, the data source with its resources and content security policy, and recording a usage metric on open.
+// ---
+
 #include "chrome/browser/ui/webui/ash/sys_internals/sys_internals_ui.h"
 
 #include <memory>

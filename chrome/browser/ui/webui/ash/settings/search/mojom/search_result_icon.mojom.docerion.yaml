@@ -1,0 +1,4 @@
+# Docerion header of search_result_icon.mojom.
+type: source
+title: Mojom enum of settings search result icons
+summary: Defines the SearchResultIcon enum listing the icon types that can be shown for a settings search result.

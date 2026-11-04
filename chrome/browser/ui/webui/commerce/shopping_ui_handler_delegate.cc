@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping UI handler delegate implementation
+// summary: Implements the delegate used by shopping WebUI handlers to read the active tab URL, create or reuse shopping bookmarks, and open or switch browser tabs.
+// ---
+
 #include "chrome/browser/ui/webui/commerce/shopping_ui_handler_delegate.h"
 
 #include "base/memory/raw_ptr.h"

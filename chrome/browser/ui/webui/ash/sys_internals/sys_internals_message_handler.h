@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sys-internals message handler declaration
+// summary: Declares the SysInternalsMessageHandler class that registers and handles the getSysInfo message and replies with system information.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SYS_INTERNALS_SYS_INTERNALS_MESSAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SYS_INTERNALS_SYS_INTERNALS_MESSAGE_HANDLER_H_
 

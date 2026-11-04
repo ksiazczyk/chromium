@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: shimless_rma_dialog build target
+summary: Defines the shimless_rma_dialog static library target with its sources and dependencies for the ChromeOS build.

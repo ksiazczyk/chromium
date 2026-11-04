@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: per_session_settings_user_action_tracker_unittest.cc
+// summary: Unit tests for the per-session settings user action tracker using fake user manager, profiles and metrics service.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/services/metrics/per_session_settings_user_action_tracker.h"
 
 #include "ash/constants/ash_login_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Root Store certificate source header
+// summary: Declares the ChromeRootStoreCertSource class implementing the certificate source interface for Chrome Root Store certificates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CERTIFICATE_MANAGER_CHROME_ROOT_STORE_CERT_SOURCE_H_
 #define CHROME_BROWSER_UI_WEBUI_CERTIFICATE_MANAGER_CHROME_ROOT_STORE_CERT_SOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shopping UI handler delegate browser tests
+// summary: Browser tests for the shopping UI handler delegate covering current tab URL retrieval, bookmark creation, and tab navigation with signed-in and syncing profiles.
+// ---
+
 #include "chrome/browser/ui/webui/commerce/shopping_ui_handler_delegate.h"
 
 #include "base/json/json_reader.h"

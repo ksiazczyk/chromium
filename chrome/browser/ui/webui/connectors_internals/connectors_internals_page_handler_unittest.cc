@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connectors internals page handler unit tests
+// summary: Unit tests for the page handler covering provisioning domain state and refresh behavior, using a testing profile and mocked enterprise proxy services.
+// ---
+
 #include "chrome/browser/ui/webui/connectors_internals/connectors_internals_page_handler.h"
 
 #include <memory>

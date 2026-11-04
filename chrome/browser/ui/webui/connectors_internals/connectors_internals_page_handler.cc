@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectors internals page handler implementation
+// summary: Implements the Mojo page handler that reports Device Trust state, key info, client certificate state, signals reporting and provisioning domain state to the internals page.
+// ---
+
 #include "chrome/browser/ui/webui/connectors_internals/connectors_internals_page_handler.h"
 
 #include "base/check.h"

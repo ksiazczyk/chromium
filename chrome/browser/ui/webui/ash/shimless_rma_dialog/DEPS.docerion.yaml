@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for shimless_rma_dialog
+summary: Sets include rules that let this //chrome directory include its own files and the ash system web dialog despite the ChromeOS no-//chrome dependency rule.

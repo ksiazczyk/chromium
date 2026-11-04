@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShimlessRmaDialog implementation
+// summary: Implements the ShimlessRmaDialog system web dialog that shows the shimless RMA web UI fullscreen over OOBE and login screens and resizes with display changes.
+// ---
+
 #include "chrome/browser/ui/webui/ash/shimless_rma_dialog/shimless_rma_dialog.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local files migration WebUI controller
+// summary: Implements the WebUI controller for the Skyvault local files migration dialog, registering the data source, localized strings, theme resources, and Mojo page handler bindings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/skyvault/local_files_migration_ui.h"
 
 #include "ash/constants/ash_features.h"

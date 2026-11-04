@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared internals WebUI handler implementation
+// summary: Implements the shared WebUI message handler and HTML source setup used by both the autofill and password manager internals pages, including log routing and feature state.
+// ---
+
 #include "chrome/browser/ui/webui/autofill_and_password_manager_internals/internals_ui_handler.h"
 
 #include <stdint.h>

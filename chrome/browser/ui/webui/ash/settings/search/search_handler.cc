@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the settings search handler
+// summary: Implements query handling against the LocalSearchService index, ranking results and adding parent section and subpage results.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/search/search_handler.h"
 
 #include <algorithm>

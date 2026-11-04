@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the chrome-urls WebUI
+summary: Defines the chrome_urls source set and its unit test target, listing sources and build dependencies for the Chrome build.

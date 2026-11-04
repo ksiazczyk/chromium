@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSSettingsLockScreenBrowserTestBase fixture header
+// summary: Header declaring the browser test base fixture that creates a user and provides navigation and authentication helpers for the lock screen settings section.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_TEST_SUPPORT_OS_SETTINGS_LOCK_SCREEN_BROWSER_TEST_BASE_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_TEST_SUPPORT_OS_SETTINGS_LOCK_SCREEN_BROWSER_TEST_BASE_H_
 

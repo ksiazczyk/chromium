@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB share dialog header
+// summary: Declares the SMB share system dialog, its WebUI controller class, and the WebUI config that registers the dialog's host.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SMB_SHARES_SMB_SHARE_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SMB_SHARES_SMB_SHARE_DIALOG_H_
 

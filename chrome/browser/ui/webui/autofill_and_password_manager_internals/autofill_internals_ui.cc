@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill internals WebUI controller implementation
+// summary: Implements the WebUI controller for the autofill internals page, registering its HTML source and message handler and passing current autofill feature flag states.
+// ---
+
 #include "chrome/browser/ui/webui/autofill_and_password_manager_internals/autofill_internals_ui.h"
 
 #include "base/functional/bind.h"

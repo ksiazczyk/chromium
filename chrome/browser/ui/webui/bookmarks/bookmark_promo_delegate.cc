@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark promo delegate implementations
+// summary: Implements batch upload and account-aware sign-in promo delegates that decide eligibility and build promo card data.
+// ---
+
 #include "chrome/browser/ui/webui/bookmarks/bookmark_promo_delegate.h"
 
 #include <algorithm>

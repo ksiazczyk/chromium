@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shopping list context menu controller unit tests
+// summary: Unit tests for the shopping list context menu controller verifying menu item creation and command execution with a mocked price tracking handler and shopping service.
+// ---
+
 #include "chrome/browser/ui/webui/commerce/shopping_list_context_menu_controller.h"
 
 #include <memory>

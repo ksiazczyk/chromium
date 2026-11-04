@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothInternalsHandler implementation
+// summary: Implements the browser-side Mojo handler serving adapter, debug log, permission, restart, and btsnoop requests from the page.
+// ---
+
 #include "chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_handler.h"
 
 #include <fcntl.h>

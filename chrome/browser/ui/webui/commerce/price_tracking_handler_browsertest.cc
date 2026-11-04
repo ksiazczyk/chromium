@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price tracking handler browser tests
+// summary: Browser tests for the commerce price tracking WebUI handler, exercising price tracking and untracking of product bookmarks with mock shopping services and bookmark models.
+// ---
+
 #include "chrome/browser/ui/webui/commerce/price_tracking_handler.h"
 
 #include "base/test/bind.h"

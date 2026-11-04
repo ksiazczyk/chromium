@@ -1,3 +1,13 @@
+---
+type: readme
+title: sys-internals WebUI README
+summary: Describes the sys-internals WebUI page, points to its backend, frontend and test code, and explains the development workflow including commands for building and running its browser tests locally.
+relations:
+  - references /testing/run_with_dummy_home.py
+  - references /testing/xvfb.py
+  - documents /chrome/browser/ui/webui/ash/sys_internals/sys_internals_message_handler.cc
+---
+
 # sys-internals WebUI
 
 The `chrome://sys-internals` URL provides an overview of system internals in

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill ML internals WebUI controller header
+// summary: Declares the WebUI controller and its internal WebUI config class for the autofill ML internals debug page, including Mojo interface bindings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_AUTOFILL_ML_INTERNALS_AUTOFILL_ML_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_AUTOFILL_ML_INTERNALS_AUTOFILL_ML_INTERNALS_UI_H_
 
