@@ -7,6 +7,12 @@
  * in the tutorial.
  */
 
+// ---docerion
+// type: source
+// title: Navigation buttons Polymer component
+// summary: Defines the navigation-buttons custom element that fires events for lesson, menu, restart and exit actions and hides buttons based on screen state.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';

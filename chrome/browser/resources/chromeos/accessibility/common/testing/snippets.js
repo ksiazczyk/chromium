@@ -6,6 +6,12 @@
  * @fileoverview Contains html snippets shared by multiple tests.
  */
 
+// ---docerion
+// type: test
+// title: HTML snippets shared by tests
+// summary: Provides HTML snippet functions, such as toolbar and heading documents, that are shared by multiple accessibility tests.
+// ---
+
 function toolbarDoc() {
   return `
    <div tabindex=0 role="toolbar">

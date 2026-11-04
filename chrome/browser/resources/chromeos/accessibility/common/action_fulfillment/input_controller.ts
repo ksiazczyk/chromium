@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract InputController for accessibility input fields
+// summary: Declares an abstract InputController class with methods for committing text, deleting and replacing phrases, moving the caret, and selecting text in editable fields for ChromeOS accessibility features.
+// ---
+
 type AutomationNode = chrome.automation.AutomationNode;
 
 export interface EditableNodeData {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension runtime utilities
+// summary: Provides utilities for the extension runtime, including validation that message senders originate from within the extension.
+// ---
+
 /**
  * @fileoverview Utilities for extension runtime.
  */

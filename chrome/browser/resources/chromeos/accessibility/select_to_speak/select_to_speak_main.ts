@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak main entry point
+// summary: Entry point that instantiates the Select-to-Speak controller, keeps the service worker alive, and exports it for testing.
+// ---
+
 // Needed for testing.
 import '/common/async_util.js';
 import '/common/event_generator.js';

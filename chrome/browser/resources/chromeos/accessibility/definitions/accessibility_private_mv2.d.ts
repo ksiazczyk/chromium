@@ -13,6 +13,12 @@
  * ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.accessibilityPrivate API type definitions (MV2)
+// summary: TypeScript declarations for the chrome.accessibilityPrivate API, MV2 variant, partially generated from the extension API schema with gestures, magnifier and Switch Access types.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

@@ -4,6 +4,12 @@
 
 /** @fileoverview File containing test framework helper functions. */
 
+// ---docerion
+// type: test
+// title: Test framework helper functions
+// summary: Provides the AX_TEST_F test generation macro plus helpers for detecting service workers, keeping them alive, and importing module exports onto window.
+// ---
+
 /**
  * Similar to |TEST_F|. Generates a test for the given |testFixture|,
  * |testName|, and |testFunction|.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select-to-Speak enhanced voices tests
+// summary: Browser tests for Select-to-Speak's enhanced network TTS voices, covering the confirmation dialog and policy-based enabling or disabling.
+// ---
+
 GEN_INCLUDE(['select_to_speak_e2e_test_base.js']);
 GEN_INCLUDE(['../common/testing/mock_tts.js']);
 

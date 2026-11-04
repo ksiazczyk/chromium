@@ -7,6 +7,12 @@
  * tutorial.
  */
 
+// ---docerion
+// type: source
+// title: Lesson menu component
+// summary: Defines the LessonMenu Polymer component that lists lessons for a curriculum and fires button-clicked events when a lesson is chosen.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

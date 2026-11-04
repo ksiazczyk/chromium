@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse click macros
+// summary: Implements macros that send synthetic single, double, and triple mouse clicks at a given screen location.
+// ---
+
 import {EventGenerator} from '../../event_generator.js';
 
 import type {CheckContextResult, RunMacroResult} from './macro.js';

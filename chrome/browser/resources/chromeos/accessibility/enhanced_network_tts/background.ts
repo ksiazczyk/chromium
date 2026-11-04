@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background service worker entry script
+// summary: Instantiates the EnhancedNetworkTts class in the service worker, closes extra instances, and exports it for testing.
+// ---
+
 import '/common/testing/test_import_manager.js';
 
 import {InstanceChecker} from '/common/mv3/instance_checker.js';

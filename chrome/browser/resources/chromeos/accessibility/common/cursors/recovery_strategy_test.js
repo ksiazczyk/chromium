@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recovery strategy test fixture
+// summary: E2E test fixture verifying that ancestry and tree-path recovery strategies still resolve nodes after reparenting in the automation tree.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../testing/common_e2e_test_base.js']);
 

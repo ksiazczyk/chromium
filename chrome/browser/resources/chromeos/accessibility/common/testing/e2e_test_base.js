@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: End-to-end test base fixture
+// summary: Base fixture for accessibility extension end-to-end tests running in the background page context, generating C++ setup, extension loading, and console error checks.
+// ---
+
 GEN_INCLUDE([
   'accessibility_test_base.js',
   'assert_additions.js',

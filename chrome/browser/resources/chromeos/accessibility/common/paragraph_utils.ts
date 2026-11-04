@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParagraphUtils for node grouping
+// summary: Utilities that group automation nodes into paragraphs and node groups for Select-to-Speak, with block detection, whitespace checks and word clipping.
+// ---
+
 import {TestImportManager} from './testing/test_import_manager.js';
 import {WordUtils} from './word_utils.js';
 

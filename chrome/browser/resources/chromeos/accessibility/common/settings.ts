@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings preferences manager
+// summary: Settings class that fetches, caches, reads and writes Chrome preferences and notifies listeners when tracked pref values change.
+// ---
+
 /**
  * @fileoverview Class to handle accessing/storing/caching prefs data.
  */

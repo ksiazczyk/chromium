@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Node navigation utilities
+// summary: Utilities for sentence and paragraph navigation over the automation tree, built on NodeUtils, ParagraphUtils and SentenceUtils.
+// ---
+
 import {AutomationUtil} from './automation_util.js';
 import {constants} from './constants.js';
 import {NodeUtils} from './node_utils.js';

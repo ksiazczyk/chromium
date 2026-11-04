@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RectUtil tests
+// summary: Test fixture for RectUtil that checks adjacency, closeness and other rectangle operations against many coordinate cases.
+// ---
+
 GEN_INCLUDE(['testing/common_e2e_test_base.js']);
 
 /** Test fixture for rect_util.js. */

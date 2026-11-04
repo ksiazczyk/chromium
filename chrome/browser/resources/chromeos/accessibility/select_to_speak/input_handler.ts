@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak input handler
+// summary: Handles mouse, keyboard, and clipboard input events that drive Select-to-Speak selection and speech.
+// ---
+
 import {RectUtil} from '/common/rect_util.js';
 import {ExtensionUtil} from '/common/extension_util.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mocked Mojo Private and TTS APIs for tests
+// summary: Mocks the chrome.mojoPrivate and ash.enhanced_network_tts APIs so tests can register modules and queue TTS responses.
+// ---
+
 /*
  * A mocked chrome.mojoPrivate API for tests.
  */

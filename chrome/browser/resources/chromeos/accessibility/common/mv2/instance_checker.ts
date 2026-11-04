@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstanceChecker
+// summary: TypeScript helper that detects and closes duplicate instances of the ChromeOS accessibility extension running in split incognito mode.
+// ---
+
 /**
  * Used to prevent multiple instances of the extension from running
  * simultaneously.

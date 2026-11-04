@@ -9,6 +9,12 @@
 // This file exists because MV3 supports promises and MV2 does not.
 // TODO(b/260590502): Delete this after MV3 migration.
 
+// ---docerion
+// type: source
+// title: chrome.accessibilityFeatures API type definitions (MV2)
+// summary: TypeScript declarations for the chrome.accessibilityFeatures API, MV2 variant with callback-based ChromeSetting access to accessibility features.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

@@ -7,6 +7,12 @@
  * tutorial.
  */
 
+// ---docerion
+// type: source
+// title: Main menu Polymer component for the tutorial
+// summary: Defines the main-menu custom element that shows the tutorial header and buttons filtered by interaction medium, firing button-clicked events.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

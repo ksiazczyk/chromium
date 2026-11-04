@@ -9,6 +9,12 @@
  * extensions/common/api/metrics_private.json -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.metricsPrivate API TypeScript definitions
+// summary: Generated TypeScript declarations for the chrome.metricsPrivate API, providing histogram access and recording of user actions, counts, times, and enumeration metrics.
+// ---
+
 
 
 declare namespace chrome {

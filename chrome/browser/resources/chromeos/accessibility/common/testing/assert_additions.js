@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extra assertion helpers for tests
+// summary: Adds assertion functions such as assertUndefined, assertException, and assertEqualsDOM for checking values, arrays, JSON, ArrayBuffers, and DOM in tests.
+// ---
+
 /**
  * Asserts that a given argument's value is undefined.
  * @param {object} a The argument to check.

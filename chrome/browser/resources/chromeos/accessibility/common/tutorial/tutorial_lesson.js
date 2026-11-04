@@ -7,6 +7,12 @@
  * ChromeVox interactive tutorial.
  */
 
+// ---docerion
+// type: source
+// title: Tutorial lesson Polymer component
+// summary: Defines the tutorial-lesson custom element that manages lesson visibility, focus and practice area content loaded from practice area files.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';

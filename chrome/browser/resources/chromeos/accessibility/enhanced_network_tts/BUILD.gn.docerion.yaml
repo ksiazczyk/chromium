@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for Enhanced Network TTS
+summary: Defines GN targets that compile the TypeScript sources, bundle and minify the JS, copy HTML sources, and wire up the extension browser tests.

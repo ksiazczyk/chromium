@@ -7,6 +7,12 @@
 // TODO(b/260590502): Delete this after MV3 migration.
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: chrome.settingsPrivate API definitions for Manifest V2
+// summary: Declares callback-based types and functions for the chrome.settingsPrivate API, kept for Manifest V2 until the MV3 migration removes the need.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

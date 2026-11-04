@@ -6,6 +6,12 @@
  * @fileoverview Utilities for the automation extension API.
  */
 
+// ---docerion
+// type: source
+// title: AutomationUtil utilities for the automation API
+// summary: Provides utilities for traversing and inspecting automation tree nodes, including pre- and post-order searches and attribute checks.
+// ---
+
 import {AutomationPredicate} from './automation_predicate.js';
 import {constants} from './constants.js';
 import {TestImportManager} from './testing/test_import_manager.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RepeatedEventHandler class
+// summary: Automation event handler that processes only the most recent of repeated events, with options for exact match, capture and ancestor listeners.
+// ---
+
 import {TestImportManager} from './testing/test_import_manager.js';
 
 type AutomationNode = chrome.automation.AutomationNode;

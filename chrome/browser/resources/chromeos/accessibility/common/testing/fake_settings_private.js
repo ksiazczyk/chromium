@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake settingsPrivate API
+// summary: Fake of the chrome.settingsPrivate API for tests that manages prefs, sends change notifications, and can simulate setPref failures; noted as deprecated.
+// ---
+
 /**
  * @fileoverview Fake implementation of chrome.settingsPrivate for testing.
  * Note: This file is deprecated and is no longer maintained by the browser

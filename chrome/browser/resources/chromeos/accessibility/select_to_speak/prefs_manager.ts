@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak preferences manager
+// summary: Loads and stores Select-to-Speak user preferences such as voices, speech rate, and highlighting options.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 import type {SelectToSpeakConstants} from './select_to_speak_constants.js';

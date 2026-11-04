@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offscreen document audio decoding handler
+// summary: Implements the offscreen document that receives decode requests from the service worker and decodes TTS audio via AudioContext.
+// ---
+
 import {OffscreenCommand, ServiceWorkerCommand} from './commands.js';
 import {ExtensionUtil} from '/common/extension_util.js';
 

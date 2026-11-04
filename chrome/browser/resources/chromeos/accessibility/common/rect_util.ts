@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RectUtil helpers
+// summary: Collection of helper functions for screen rectangles, providing adjacency, containment, difference and other geometry operations.
+// ---
+
 import {TestImportManager} from './testing/test_import_manager.js';
 
 type ScreenRect = chrome.accessibilityPrivate.ScreenRect;

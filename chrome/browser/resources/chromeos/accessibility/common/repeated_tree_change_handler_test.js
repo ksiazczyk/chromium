@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Repeated tree change handler tests
+// summary: E2E test fixture verifying RepeatedTreeChangeHandler invokes its callback once for repeated tree changes and supports filtering changes with a predicate.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['testing/e2e_test_base.js']);
 

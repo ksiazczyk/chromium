@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NodeUtils unit tests
+// summary: Unit tests for NodeUtils that verify node visibility state detection using fake automation node trees, including invisible windows and iframes.
+// ---
+
 GEN_INCLUDE(['../select_to_speak/select_to_speak_e2e_test_base.js']);
 
 /**

@@ -12,6 +12,12 @@
  * ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.brailleDisplayPrivate API type definitions (MV2)
+// summary: TypeScript declarations for the chrome.brailleDisplayPrivate API, MV2 variant, for braille display state, writing dots and key events.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

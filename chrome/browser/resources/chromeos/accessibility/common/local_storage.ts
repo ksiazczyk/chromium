@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local storage manager
+// summary: Singleton wrapper around chrome.storage that caches, reads, writes and migrates local and session storage values.
+// ---
+
 /**
  * @fileoverview Class to handle accessing/storing/caching local storage data.
  */

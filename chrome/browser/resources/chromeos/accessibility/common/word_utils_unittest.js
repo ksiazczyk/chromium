@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Word utils unit tests
+// summary: Unit tests for WordUtils covering next word start and end lookups with and without inline text word boundaries and start char offsets.
+// ---
+
 GEN_INCLUDE(['../select_to_speak/select_to_speak_e2e_test_base.js']);
 
 /**

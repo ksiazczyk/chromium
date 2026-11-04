@@ -6,6 +6,12 @@
  * @fileoverview Defines constants used throughout the tutorial.
  */
 
+// ---docerion
+// type: source
+// title: ChromeVox tutorial constants
+// summary: Defines enums and typedefs such as Curriculum, InteractionMedium, Screen and LessonData used throughout the tutorial.
+// ---
+
 /**
  * The various curriculums for the ChromeVox tutorial.
  * @enum {string}

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock input.ime API for tests
+// summary: Mocks the chrome.input.ime API with focus, blur, composition and commit tracking plus helpers to trigger events in tests.
+// ---
+
 /**
  * @typedef {{
  *   contextID: number,

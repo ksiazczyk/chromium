@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key press macro
+// summary: Implements a macro that sends synthetic key events, handling keydown, keyup, and repeated key events while held.
+// ---
+
 import {EventGenerator} from '../../event_generator.js';
 import type {KeyCode} from '../../key_code.js';
 

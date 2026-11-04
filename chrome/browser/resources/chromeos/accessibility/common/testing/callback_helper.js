@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Callback helper for test completion
+// summary: Wraps test callbacks and calls testDone once all wrapped callbacks have run, supporting promise-returning callbacks and detecting duplicate calls.
+// ---
+
 /**
  * Creates wrappers for callbacks and calls testDone() when all callbacks
  * have been invoked. Callbacks may return a promise to defer completion and

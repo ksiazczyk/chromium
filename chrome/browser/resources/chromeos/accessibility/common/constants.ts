@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility extension constants
+// summary: Defines shared constants for the accessibility extensions, including traversal directions, voice identifiers and focus ring colors.
+// ---
+
 /**
  * @fileoverview Constants used throughout the accessibility extensions.
  */

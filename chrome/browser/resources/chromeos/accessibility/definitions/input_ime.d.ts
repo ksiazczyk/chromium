@@ -9,6 +9,12 @@
  * chrome/common/extensions/api/input_ime.json -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.input.ime API TypeScript definitions
+// summary: Generated TypeScript declarations for the chrome.input.ime API, defining keyboard events, input contexts, composition handling, menus, and candidate window controls.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

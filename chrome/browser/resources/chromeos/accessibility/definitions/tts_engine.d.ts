@@ -10,6 +10,12 @@
  * regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.ttsEngine API TypeScript definitions
+// summary: Declares types and events for the chrome.ttsEngine API, generated from its JSON schema so engines can handle speak requests and audio streams.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

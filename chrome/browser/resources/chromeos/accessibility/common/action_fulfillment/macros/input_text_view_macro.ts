@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input text and new line macros
+// summary: Implements macros that commit text at the current cursor position, including a macro that types a new line character.
+// ---
+
 import {ContextChecker} from '../context_checker.js';
 import type {InputController} from '../input_controller.js';
 

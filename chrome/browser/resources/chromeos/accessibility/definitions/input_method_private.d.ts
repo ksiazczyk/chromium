@@ -11,6 +11,12 @@
  * ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.inputMethodPrivate API TypeScript definitions
+// summary: Generated TypeScript declarations for the chrome.inputMethodPrivate API, covering input contexts, Japanese input settings, language pack status, and input method events.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock storage API for tests
+// summary: Mocks the chrome.storage API with local and sync areas, change notifications and helpers to clear state in tests.
+// ---
+
 /*
  * A mock chrome.storage API for tests.
  */

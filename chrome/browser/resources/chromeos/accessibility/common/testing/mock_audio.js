@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock audio API for tests
+// summary: Mocks the chrome.audio API with mute get and set support for use in tests.
+// ---
+
 /** A mock audio API for tests. */
 class MockAudio {
   constructor() {

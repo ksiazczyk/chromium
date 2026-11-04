@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.i18n API TypeScript definitions
+// summary: Hand-written TypeScript declarations for the chrome.i18n API, providing accepted language detection, message lookup, and UI language functions for accessibility code.
+// ---
+
 /** @fileoverview Definitions for chrome.i18n API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 declare namespace chrome {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select-to-Speak unit test fixture
+// summary: Unit tests for Select-to-Speak, including detection of Google Workspace app roots from focused nodes.
+// ---
+
 GEN_INCLUDE(['select_to_speak_e2e_test_base.js']);
 
 /**

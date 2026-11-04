@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart delete phrase macro
+// summary: Implements a macro that deletes a provided word or phrase from an editable text area via the input controller.
+// ---
+
 import {Context, ContextChecker} from '../context_checker.js';
 import type {InputController} from '../input_controller.js';
 

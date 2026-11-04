@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak UI manager
+// summary: Manages Select-to-Speak UI elements such as the focus ring, floating control panel, tray button, and word highlighting.
+// ---
+
 import {AutomationUtil} from '/common/automation_util.js';
 import {ParagraphUtils} from '/common/paragraph_utils.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';

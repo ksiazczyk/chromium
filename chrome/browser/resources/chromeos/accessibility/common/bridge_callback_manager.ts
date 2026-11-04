@@ -7,6 +7,12 @@
  *     them with BridgeCallbackIds.
  */
 
+// ---docerion
+// type: source
+// title: Bridge callback manager
+// summary: Manages callbacks across extension contexts by storing them and replacing them with BridgeCallbackIds for message passing.
+// ---
+
 import type {ActionType, TargetType} from './bridge_helper.js';
 import {BridgeHelper} from './bridge_helper.js';
 

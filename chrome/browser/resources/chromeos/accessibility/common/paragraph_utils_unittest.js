@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParagraphUtils unit tests
+// summary: Unit tests for ParagraphUtils covering block ancestors, same-paragraph checks, SVG roots and node group building with fake node trees.
+// ---
+
 GEN_INCLUDE(['../select_to_speak/select_to_speak_e2e_test_base.js']);
 
 /**

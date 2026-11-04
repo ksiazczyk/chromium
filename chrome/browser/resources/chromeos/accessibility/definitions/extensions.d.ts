@@ -9,6 +9,12 @@
  * chrome/common/extensions/api/extension.json -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.extension API TypeScript definitions
+// summary: Generated TypeScript declarations for the chrome.extension API, covering extension views, URL resolution, incognito and file scheme access checks, and request events.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

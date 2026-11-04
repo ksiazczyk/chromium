@@ -7,6 +7,12 @@
  * creation.
  */
 
+// ---docerion
+// type: test
+// title: Reusable HTML document fragments
+// summary: Collection of HTML and ARIA document fragments such as buttons, tabs, tables, and a WAI-ARIA tablist example to simplify building test pages.
+// ---
+
 const Documents = {
   application: `<div role="application" id="application">application</div>`,
   banner: `<div role="banner" id="banner">banner</div>`,

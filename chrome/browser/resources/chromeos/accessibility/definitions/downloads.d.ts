@@ -12,6 +12,12 @@
  * ChromeEvent path, the search function signature and this comment.
  */
 
+// ---docerion
+// type: source
+// title: chrome.downloads API type definitions
+// summary: Generated TypeScript declarations for the chrome.downloads API covering download options, states, danger and interrupt reasons and events.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

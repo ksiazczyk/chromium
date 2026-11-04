@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutomationTestSupport helper for C++ tests
+// summary: JavaScript class that lets C++ tests wait for pages, find automation nodes, get bounds, set focus, and perform default actions.
+// ---
+
 /**
  * A class that provides test support for C++ tests of HTML pages.
  * The C++ end is implemented in ash::AutomationTestUtils.

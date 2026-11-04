@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sentence navigation macros
+// summary: Implements macros that move the text caret to the next or previous sentence in an editable text area.
+// ---
+
 import {Context, ContextChecker} from '../context_checker.js';
 import type {InputController} from '../input_controller.js';
 

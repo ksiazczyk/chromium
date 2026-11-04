@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sentence utils unit tests
+// summary: Unit tests for SentenceUtils covering next and previous sentence start lookups in single-node and multi-node node groups.
+// ---
+
 GEN_INCLUDE(['../select_to_speak/select_to_speak_e2e_test_base.js']);
 
 /**

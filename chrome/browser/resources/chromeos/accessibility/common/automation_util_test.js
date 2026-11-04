@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: E2E tests for AutomationUtil
+// summary: E2E tests covering AutomationUtil ancestor lookup, divergence, and unique ancestor helpers on loaded trees.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE([
   'testing/assert_additions.js',

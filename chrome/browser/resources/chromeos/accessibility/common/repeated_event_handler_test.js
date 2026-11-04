@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RepeatedEventHandler tests
+// summary: Tests for RepeatedEventHandler run via the Switch Access extension, verifying repeated events are handled once and stopped handlers do nothing.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['testing/e2e_test_base.js']);
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextChecker for action fulfillment contexts
+// summary: Defines a Context enum and a ContextChecker class that validates conditions such as inactive input controller, empty editable field, or missing selection before fulfilling accessibility actions.
+// ---
+
 import {TestImportManager} from '../testing/test_import_manager.js';
 
 import type {InputController} from './input_controller.js';

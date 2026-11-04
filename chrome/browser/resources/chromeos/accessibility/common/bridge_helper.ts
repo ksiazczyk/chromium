@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bridge helper for message passing between renderers
+// summary: Provides functions to send messages to targets and register handlers over chrome.runtime messaging between renderers.
+// ---
+
 /**
  * @fileoverview A collection of functions and behaviors helpful for message
  * passing between renderers.

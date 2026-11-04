@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sentence utilities for node groups
+// summary: SentenceUtils class that finds sentence starts within node groups and node group items, searching forward or backward from a given character index.
+// ---
+
 import {constants} from './constants.js';
 import type {ParagraphUtils} from './paragraph_utils.js';
 import {TestImportManager} from './testing/test_import_manager.js';

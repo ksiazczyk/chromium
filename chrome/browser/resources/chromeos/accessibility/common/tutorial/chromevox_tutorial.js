@@ -7,6 +7,12 @@
  * interactive tutorial engine.
  */
 
+// ---docerion
+// type: source
+// title: ChromeVox interactive tutorial engine
+// summary: Defines the ChromeVoxTutorial Polymer component that drives the interactive tutorial, including its curriculums and lesson data.
+// ---
+
 import {html, mixinBehaviors, PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 import {BackgroundBridge} from '../../../chromevox/mv2/common/background_bridge.js';
