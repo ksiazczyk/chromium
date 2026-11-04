@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Organizer list section header styles
+summary: Styles for the section header element covering hover and active backgrounds, the expand button, and the overflow menu button appearance.
+*/
+
 :host {
   align-items: center;
   display: flex;

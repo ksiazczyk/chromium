@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel app element
+// summary: Lit element wiring search, section delegates, context menu, visibility handling, and the browser Mojo proxy for the organizer panel.
+// ---
+
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/cr_elements/cr_toolbar/cr_toolbar_search_field.js';
 import './organizer_list.js';

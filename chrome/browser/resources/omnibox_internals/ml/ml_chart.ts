@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML chart custom element
+// summary: Custom element that draws interactive line plots of ML scores on a canvas with mouse panning and zooming.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 
 import type {Signals} from '../omnibox_internals.mojom-webui.js';

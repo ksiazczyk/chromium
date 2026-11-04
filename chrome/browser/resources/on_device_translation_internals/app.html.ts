@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for on device translation internals app
+// summary: Renders the Lit HTML template that lists language packages in a table with their status and an install or uninstall button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OnDeviceTranslationInternalsAppElement} from './app.js';

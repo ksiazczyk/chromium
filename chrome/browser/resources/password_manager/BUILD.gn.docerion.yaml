@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password manager WebUI BUILD.gn build file
+summary: GN build rules bundling static images, web components and TypeScript sources for the password manager UI, with Chrome-branded variants.

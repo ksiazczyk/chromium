@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript configuration for omnibox_internals
+summary: Extends the Chromium TypeScript base configuration and disables strict property initialization for this directory.

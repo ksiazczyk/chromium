@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel public exports
+// summary: Barrel module that re-exports the organizer panel's elements, delegates, search utilities, and Mojom proxy types.
+// ---
+
 import './app.js';
 
 export type {Range} from '/tab_group_shared/search.js';

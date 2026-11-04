@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the omnibox_internals WebUI
+summary: Defines the GN targets that build and package the omnibox_internals WebUI, listing its TypeScript, CSS, HTML, static assets, and Mojo dependencies.

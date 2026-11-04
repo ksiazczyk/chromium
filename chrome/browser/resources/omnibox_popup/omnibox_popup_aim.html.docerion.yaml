@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_aim.html.
+type: source
+title: Omnibox popup AIM WebUI page
+summary: HTML entry page for the AIM variant of the WebUI omnibox popup that hosts the omnibox-aim-app element and loads the full popup module.

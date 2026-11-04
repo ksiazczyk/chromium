@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxInput web component
+// summary: Defines the OmniboxInput element that collects query and display inputs, imports and exports results, and dispatches events for the debug page.
+// ---
+
 import {PageClassification} from './omnibox.mojom-webui.js';
 import {OmniboxElement} from './omnibox_element.js';
 import sheet from './omnibox_input.css' with {type : 'css'};

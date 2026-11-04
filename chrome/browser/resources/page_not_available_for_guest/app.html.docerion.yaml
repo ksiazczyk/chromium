@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: Guest page not available WebUI HTML
+summary: HTML template for the Chrome page shown to guest users when a page is unavailable, with localized title and heading and Material Design styling.

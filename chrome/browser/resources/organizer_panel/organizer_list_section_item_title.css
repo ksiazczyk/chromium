@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Organizer list section item title styles
+summary: Styles the title parts of organizer list section items, including separators and text elision.
+*/
+
 :host {
   display: flex;
   min-width: 0;

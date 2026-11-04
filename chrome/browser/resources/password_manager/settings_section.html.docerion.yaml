@@ -1,0 +1,4 @@
+# Docerion header of settings_section.html.
+type: source
+title: Settings section template
+summary: HTML template for the password manager settings section with preference toggles, blocked sites and actor login permissions.

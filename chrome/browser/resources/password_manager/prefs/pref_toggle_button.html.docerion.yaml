@@ -1,0 +1,4 @@
+# Docerion header of pref_toggle_button.html.
+type: source
+title: Pref toggle button template
+summary: HTML template and styles for the pref-toggle-button element, laying out the label, optional sub-labels, policy indicator and toggle control.

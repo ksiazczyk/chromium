@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: AIM Eligibility component extension manifest
+summary: Extension manifest declaring the name, version, public key, host permissions, and content security policy for the component extension.

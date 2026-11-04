@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox composebox Lit template
+// summary: Lit HTML template for the omnibox composebox, rendering the animated glow, voice search file carousel, tool chips, error scrim and composebox input with drag-and-drop handling.
+// ---
+
 import {hasAllowedInputs} from '//resources/cr_components/composebox/common.js';
 import {ToolMode} from '//resources/cr_components/composebox/composebox_query.mojom-webui.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';

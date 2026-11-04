@@ -1,0 +1,4 @@
+# Docerion header of checkup_details_section.html.
+type: source
+title: Checkup details section template
+summary: HTML template for the password checkup details page, listing compromised, weak and reused credentials with action menus.

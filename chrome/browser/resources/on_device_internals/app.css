@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the On-Device Internals app shell
+summary: Defines the Lit styles for the app shell, including heading, tab bar layout and dark mode colors.
+*/
+
 h1 {
   margin-bottom: 20px;
   margin-top: 0;

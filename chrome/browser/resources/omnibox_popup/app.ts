@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup app element
+// summary: Lit element that displays autocomplete matches in the WebUI omnibox popup, handling selection, secondary side and debug mode.
+// ---
+
 import '//resources/cr_components/searchbox/searchbox_dropdown.js';
 import '//resources/cr_elements/icons.html.js';
 import './omnibox_popup_contextual_entrypoint.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup contextual entrypoint element
+// summary: Lit element rendering the contextual entrypoint in the WebUI omnibox popup, coordinating Lens search, current tab chip and context button visibility.
+// ---
+
 import '//resources/cr_components/composebox/composebox_lens_search.js';
 import '//resources/cr_components/composebox/current_tab_chip.js';
 import './omnibox_popup_contextual_entrypoint_button.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification cards browser proxy
+// summary: Browser proxy interface and implementation for fetching the available notification card and recording dismissals or sign-in actions.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface NotificationCard {

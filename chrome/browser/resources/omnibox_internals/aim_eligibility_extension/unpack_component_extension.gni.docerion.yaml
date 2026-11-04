@@ -1,0 +1,4 @@
+# Docerion header of unpack_component_extension.gni.
+type: config
+title: GN template for unpacking component extension resources
+summary: Defines the unpack_component_extension GN template that unpacks a build_webui-generated .grd file into a standalone extension directory.

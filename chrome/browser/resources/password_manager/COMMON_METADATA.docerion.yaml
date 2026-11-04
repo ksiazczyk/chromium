@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Password manager component metadata
+summary: Maps the directory to the UI>Browser>Passwords monorail component and a public Buganizer component ID.

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Stacked favicons styles
+summary: Styles the stacked-favicons element, including the clip-path cutout that creates a transparent gap where the second favicon overlaps the first.
+*/
+
 :host {
   display: flex;
 }

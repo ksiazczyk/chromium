@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find shortcut mixin for Polymer elements
+// summary: TypeScript mixin that registers Polymer elements as find shortcut listeners and delegates shortcut handling to subclasses.
+// ---
+
 import {FindShortcutManager} from 'chrome://resources/cr_elements/find_shortcut_manager.js';
 import type {FindShortcutListener} from 'chrome://resources/cr_elements/find_shortcut_manager.js';
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';

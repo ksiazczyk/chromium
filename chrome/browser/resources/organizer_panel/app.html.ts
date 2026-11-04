@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the organizer panel app element
+// summary: Lit template rendering the toolbar search field, organizer list, expand and collapse action menu, and drag region.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OrganizerPanelAppElement} from './app.js';

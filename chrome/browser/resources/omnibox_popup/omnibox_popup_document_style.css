@@ -6,6 +6,12 @@
  * These target 'html' and 'body', so they cannot live in
  * omnibox_popup_shared_style.css, which is included into shadow roots. */
 
+/*docerion
+type: source
+title: Document-level styles for WebUI omnibox popups
+summary: Shared document-level CSS for the AIM and full WebUI omnibox popups, styling html and body including the popup shadow margin.
+*/
+
 html {
   height: auto;
   overflow: hidden;

@@ -1,0 +1,4 @@
+# Docerion header of full_data_reset.html.
+type: source
+title: Full data reset dialog template
+summary: HTML template for the delete-all confirmation dialog showing password and passkey counts, a warning, and success toast.

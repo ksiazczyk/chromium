@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Not a family member dialog element
+// summary: Custom element for the dialog shown when the user is not in a family group, recording interaction metrics and closing events.
+// ---
+
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import './metrics_utils.js';

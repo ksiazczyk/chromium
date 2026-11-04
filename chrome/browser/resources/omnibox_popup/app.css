@@ -10,6 +10,12 @@
  * #include=composebox-shared-style omnibox-popup-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Omnibox popup app styles
+summary: Lit style sheet setting searchbox sizing, spacing and debug-mode layout for the popup app element.
+*/
+
 :host {
   --cr-searchbox-min-width: 75%;
   --cr-searchbox-results-margin-bottom: 0;

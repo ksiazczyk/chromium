@@ -7,6 +7,12 @@
  * #scheme=chrome
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the AIM eligibility page
+summary: Defines styling for eligibility check items, pass and fail states, response input, buttons and footer, including dark mode color support.
+*/
+
 :host {
   --fail-color: var(--color-sys-error, var(--google-red-700));
   --pass-color: var(--color-sys-primary, var(--google-green-700));

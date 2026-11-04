@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup app Lit template
+// summary: Lit HTML template rendering the searchbox dropdown and contextual entrypoint inside the popup app element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OmniboxPopupAppElement} from './app.js';

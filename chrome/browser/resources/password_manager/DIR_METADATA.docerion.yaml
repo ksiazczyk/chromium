@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata mixin reference
+summary: Points the directory's metadata at the shared password_manager COMMON_METADATA file via a mixin.

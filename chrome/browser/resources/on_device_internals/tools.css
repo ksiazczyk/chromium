@@ -12,6 +12,12 @@
  * #include=cr-shared-style-lit cr-hidden-style-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tools page styles for On-device Internals
+summary: Styles the tools section of the On-device Internals page, covering model inputs, session controls, response bubbles, error states, and dark mode.
+*/
+
 :host {
   display: block;
   margin: auto;

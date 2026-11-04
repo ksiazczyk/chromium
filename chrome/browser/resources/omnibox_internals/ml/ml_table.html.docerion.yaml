@@ -1,0 +1,4 @@
+# Docerion header of ml_table.html.
+type: source
+title: ML table template
+summary: HTML template for the ML scoring table with columns for input, provider, relevance and ML model output, plus ML and traditional scoring sections.

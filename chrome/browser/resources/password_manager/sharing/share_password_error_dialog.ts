@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share password error dialog element
+// summary: Polymer element implementing the error dialog that records user actions and dispatches a restart event when the user retries sharing.
+// ---
+
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import './metrics_utils.js';

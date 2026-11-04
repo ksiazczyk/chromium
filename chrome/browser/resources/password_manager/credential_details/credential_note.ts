@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential note element
+// summary: Polymer element that displays a credential note, expands it fully via the show-more link, and shows a placeholder for empty notes.
+// ---
+
 import 'chrome://resources/cr_elements/cr_shared_style.css.js';
 import '../cr_input_style.css.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the On-Device Internals WebUI
+summary: GN build rules that assemble the on_device_internals WebUI from its TypeScript, CSS, static HTML and generated Mojo files.

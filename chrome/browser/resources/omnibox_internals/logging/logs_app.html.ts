@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the Omnibox Debug Logs table
+// summary: Renders the log message table with time, tag, source location, message and proto columns plus per-column filter dropdowns.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {LogsAppElement} from './logs_app.js';

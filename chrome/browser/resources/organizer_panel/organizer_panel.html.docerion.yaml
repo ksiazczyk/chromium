@@ -1,0 +1,4 @@
+# Docerion header of organizer_panel.html.
+type: source
+title: Organizer panel WebUI entry page
+summary: HTML entry page for the organizer panel WebUI that loads theme styles and hosts the organizer-panel-app element.

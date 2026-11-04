@@ -1,0 +1,4 @@
+# Docerion header of chrome_branded_manifest.webmanifest.
+type: config
+title: Chrome-branded Password Manager web app manifest
+summary: Web app manifest for the Chrome-branded Password Manager PWA, defining its localized name and description, icon, standalone display mode, start URL and app scope.

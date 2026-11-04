@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the organizer panel app element
+summary: Defines layout and theming styles for the app element, covering the search field, scrollable list, and drag region.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

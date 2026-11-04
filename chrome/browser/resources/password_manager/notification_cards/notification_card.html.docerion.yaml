@@ -1,0 +1,4 @@
+# Docerion header of notification_card.html.
+type: source
+title: Notification card HTML template
+summary: HTML template for the password manager notification card, defining its banner image, title, description, action button and close button with styling.

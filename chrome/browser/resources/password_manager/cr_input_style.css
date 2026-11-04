@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-input element
+summary: Defines CSS custom properties and styling for the cr-input text field, covering label, focus, error, hover, and underline states.
+*/
+
 :host {
   --cr-input-background-color: var(--color-textfield-filled-background,
       var(--cr-fallback-color-surface-variant));

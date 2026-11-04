@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main TypeScript logic for the omnibox debug page
+// summary: Connects the debug page to the browser's autocomplete controller via Mojo and renders returned omnibox responses.
+// ---
+
 import '/strings.m.js';
 import './omnibox_input.js';
 import './omnibox_output.js';

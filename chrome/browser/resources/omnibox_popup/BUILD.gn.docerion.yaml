@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omnibox popup WebUI build configuration
+summary: GN build target that compiles the omnibox popup WebUI, listing its TypeScript, CSS and static files plus Lit, Mojo and composebox dependencies.

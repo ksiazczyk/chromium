@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tools HTML template
+// summary: Lit HTML template for the on-device-internals-tools element with model loading, context options, top-K and temperature settings, and image or audio inputs.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ToolsElement} from './tools.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI Mode popup app Lit template
+// summary: Lit HTML template that renders the composebox element for the standalone AI Mode popup app.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OmniboxAimAppElement} from './aim_app.js';

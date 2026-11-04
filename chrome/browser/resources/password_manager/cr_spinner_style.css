@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Spinner styles
+summary: Styles a small spinner using a throbber mask image with configurable size and light or dark mode colors.
+*/
+
 .spinner {
   --cr-spinner-size: 28px;
   mask-image: url(//resources/images/throbber_small.svg);

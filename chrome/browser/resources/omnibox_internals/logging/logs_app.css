@@ -11,6 +11,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Omnibox Debug Logs UI
+summary: CSS for the logs-app element, styling the log table, filter dropdowns and dark mode appearance.
+*/
+
 :host {
   display: block;
   margin: auto;

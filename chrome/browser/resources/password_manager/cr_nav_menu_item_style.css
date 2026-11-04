@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-nav-menu-item element
+summary: Styles navigation menu items with selected, hover, focus, dark mode, and forced colors variants for WebUI side navigation.
+*/
+
 .cr-nav-menu-item {
   /* cr-nav-menu-item CSS inputs */
   --cr-nav-menu-item-color: var(--google-grey-900);

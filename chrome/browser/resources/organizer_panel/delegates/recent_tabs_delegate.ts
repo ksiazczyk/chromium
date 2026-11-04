@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently closed tabs delegate for the organizer panel
+// summary: Supplies the recently closed section of the organizer panel with tabs, tab groups, and split views, keeping items in sync and reopening entries on click.
+// ---
+
 import '../organizer_zero_state.js';
 
 import {assert} from '//resources/js/assert.js';

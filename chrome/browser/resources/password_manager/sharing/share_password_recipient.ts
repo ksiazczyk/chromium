@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share password recipient UI element
+// summary: Polymer custom element that renders a single password sharing recipient with avatar, name, email and a selectable checkbox in the Chrome password manager sharing dialog.
+// ---
+
 import 'chrome://resources/cr_elements/cr_auto_img/cr_auto_img.js';
 import 'chrome://resources/cr_elements/policy/cr_tooltip_icon.js';
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';

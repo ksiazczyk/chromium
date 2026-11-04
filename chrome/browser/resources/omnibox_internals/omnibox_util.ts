@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared utilities for the omnibox internals UI
+// summary: Provides DOM helpers, the scoring signal name list, clamping and clipboard formatting utilities used across the omnibox internals page.
+// ---
+
 import type {Signals} from './omnibox_internals.mojom-webui.js';
 
 export function clearChildren(element: Element) {

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared style variables for omnibox popups
+summary: Shared CSS custom properties mapping omnibox colors to searchbox and composebox styling used across the popup shadow roots.
+*/
+
 :host {
   /* TODO(b/524320143): omnibox_composebox.css has different definitions for
    * the following colors. We should reconcile these, so that all popups use

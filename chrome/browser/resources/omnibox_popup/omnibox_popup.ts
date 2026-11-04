@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup module exports
+// summary: Barrel module that imports the popup app variants and re-exports omnibox popup elements, Mojom proxies and textfield model utilities for the WebUI bundle.
+// ---
+
 import './aim_app.js';
 import './app.js';
 import './full_app.js';

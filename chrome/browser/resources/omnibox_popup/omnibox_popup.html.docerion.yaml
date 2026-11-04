@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup.html.
+type: source
+title: Omnibox popup WebUI page
+summary: HTML entry page for the classic WebUI omnibox popup that hosts the omnibox-popup-app element and loads the classic popup module.

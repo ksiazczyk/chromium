@@ -10,6 +10,12 @@
  * #include=cr-icons-lit omnibox-popup-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Searchbox styles for the WebUI omnibox popup
+summary: CSS defining the searchbox appearance, layout variables, shadows and focus states for the WebUI omnibox popup.
+*/
+
 :host {
   --cr-searchbox-icon-top-position: 0;
   --cr-searchbox-border-radius: calc(0.5 * var(--cr-searchbox-height));

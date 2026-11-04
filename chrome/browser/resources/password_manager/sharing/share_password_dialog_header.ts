@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share password dialog header element
+// summary: Polymer element for the dialog header that records help button clicks and opens the learn-more or troubleshooting URL.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import './metrics_utils.js';
 import '../shared_style.css.js';

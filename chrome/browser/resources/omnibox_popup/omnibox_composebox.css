@@ -12,6 +12,12 @@
  * #include=cr-icons-lit composebox composebox-shared-style omnibox-popup-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Omnibox composebox styles
+summary: Lit CSS that customizes the cr-composebox appearance inside the omnibox popup, setting colors, spacing, sizes and animation variables for the composebox UI.
+*/
+
 :host {
   --composebox-cancel-button-top: var(--cr-composebox-cancel-button-top, 12px);
   --color-composebox-ghost-card-background:

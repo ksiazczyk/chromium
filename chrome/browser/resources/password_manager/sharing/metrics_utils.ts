@@ -6,6 +6,12 @@
  * @fileoverview Utility functions and enums for password sharing metrics.
  */
 
+// ---docerion
+// type: source
+// title: Password sharing metrics utilities
+// summary: Utility enums and functions for recording password sharing and move-to-account-store user actions via Chrome metrics histograms.
+// ---
+
 /**
  * These values are persisted to logs. Entries should not be renumbered and
  * numeric values should never be reused.

@@ -1,0 +1,4 @@
+# Docerion header of logs.html.
+type: source
+title: Omnibox Debug Logs entry page
+summary: HTML shell for the omnibox logging page that loads the logs-app element together with Material Design base styles.

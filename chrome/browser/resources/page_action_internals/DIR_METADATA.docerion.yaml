@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Page action internals directory metadata
+summary: Directory metadata that inherits the shared page action COMMON_METADATA mixins for ownership and review context.

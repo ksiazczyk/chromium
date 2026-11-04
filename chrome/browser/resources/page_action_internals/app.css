@@ -10,6 +10,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the page action internals app
+summary: Lit CSS styles for the internals app, covering form groups, drawer item rows and action sections.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   display: block;

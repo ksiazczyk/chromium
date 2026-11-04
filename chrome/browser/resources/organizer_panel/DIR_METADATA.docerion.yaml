@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the organizer panel
+summary: Points to shared directory metadata mixins under the tabs views directory for the organizer panel resources.

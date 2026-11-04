@@ -8,6 +8,12 @@
  * testing. The chrome.passwordsPrivate API is being migrated to use Mojo.
  */
 
+// ---docerion
+// type: source
+// title: Password manager browser proxy
+// summary: Abstraction over the chrome.passwordsPrivate API and a Mojo remote that exposes listeners, enums, and interfaces for the password manager UI.
+// ---
+
 import {assertNotReached} from 'chrome://resources/js/assert.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 

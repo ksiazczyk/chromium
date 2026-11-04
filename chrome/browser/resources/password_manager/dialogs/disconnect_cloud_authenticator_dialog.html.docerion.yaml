@@ -1,0 +1,4 @@
+# Docerion header of disconnect_cloud_authenticator_dialog.html.
+type: source
+title: Disconnect cloud authenticator dialog template
+summary: HTML template for the confirmation dialog to disconnect the cloud authenticator, with cancel and confirm buttons.

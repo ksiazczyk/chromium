@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Organizer list section item description styles
+summary: Styles the description parts of organizer list section items, including separators, prefixes, and start or end text elision.
+*/
+
 :host {
   display: flex;
   min-width: 0;

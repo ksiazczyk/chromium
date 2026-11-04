@@ -1,3 +1,11 @@
+---
+type: readme
+title: WebUI Omnibox Popup experiment README
+summary: README for the WebUI Omnibox Popup experiment explaining how to debug the popup in a tab using a debug flag and how to inspect the real popup directly with DevTools.
+relations:
+  - references /docs/webui/webui_in_chrome.md
+---
+
 # WebUI Omnibox Popup experiment
 
 ## Debug instructions

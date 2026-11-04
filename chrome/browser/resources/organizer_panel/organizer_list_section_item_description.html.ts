@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer list section item description Lit template
+// summary: Lit HTML template that renders the description parts of an organizer list section item with separators and optional prefix elements.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OrganizerListSectionItemDescriptionElement} from './organizer_list_section_item_description.js';

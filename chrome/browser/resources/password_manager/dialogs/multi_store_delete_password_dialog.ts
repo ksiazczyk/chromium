@@ -8,6 +8,12 @@
  * is stored both on the device and in the account.
  */
 
+// ---docerion
+// type: source
+// title: Multi-store delete password dialog element
+// summary: Polymer element implementing the dialog to remove a duplicated password from the chosen stores and notify listeners of the removal.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';

@@ -40,6 +40,12 @@
  *     the dialog resets the state machine back to `NO_DIALOG`.
  */
 
+// ---docerion
+// type: source
+// title: Passwords importer element
+// summary: Implements the CSV password import flow as a state machine with store picking, file processing, conflict handling, and error dialogs.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';

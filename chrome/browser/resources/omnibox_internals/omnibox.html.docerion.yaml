@@ -1,0 +1,4 @@
+# Docerion header of omnibox.html.
+type: source
+title: Omnibox debug page markup
+summary: Main HTML page of the omnibox debug UI, providing the input controls, autocomplete parameter checkboxes, and templates for rendering results.

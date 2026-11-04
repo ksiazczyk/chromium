@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the omnibox debug page
+summary: Defines the base layout, colors, and spacing of the omnibox debug page, including styling for the omnibox input element.
+*/
+
 html {
   height: 100%;
 }

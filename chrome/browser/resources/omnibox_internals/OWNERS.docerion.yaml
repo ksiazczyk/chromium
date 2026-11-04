@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to components/omnibox
+summary: Delegates ownership reviews to the owners list of components/omnibox.

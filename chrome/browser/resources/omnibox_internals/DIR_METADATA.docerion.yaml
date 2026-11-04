@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the omnibox_internals folder
+summary: Points the directory metadata at the shared omnibox component metadata via mixins.

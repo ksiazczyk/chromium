@@ -1,0 +1,4 @@
+# Docerion header of auth_timed_out_dialog.html.
+type: source
+title: Authentication timed out dialog template
+summary: HTML template for the dialog informing the user that local password manager authentication timed out, with a single Got It button.

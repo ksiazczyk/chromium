@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the page action internals app
+// summary: Lit HTML template rendering the debug UI for configuring page action icons, chips and anchored messages.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PageActionInternalsAppElement} from './app.js';

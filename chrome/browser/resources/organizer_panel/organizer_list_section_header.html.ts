@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer list section header template
+// summary: Lit HTML template rendering the expand button, overflow menu button, and the show some or show all action menu for a section header.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OrganizerListSectionHeaderElement} from './organizer_list_section_header.js';

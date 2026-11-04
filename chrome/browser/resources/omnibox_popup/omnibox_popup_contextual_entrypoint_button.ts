@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual entrypoint button element
+// summary: Lit element wrapping the composebox contextual entrypoint button, handling context menu opening, popup events and virtual focus announcements.
+// ---
+
 import '//resources/cr_components/composebox/contextual_entrypoint_button.js';
 
 import type {ContextualEntrypointButtonElement} from '//resources/cr_components/composebox/contextual_entrypoint_button.js';

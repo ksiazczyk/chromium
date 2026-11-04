@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox composebox element
+// summary: Lit element implementing the cr-omnibox-composebox component, wiring composebox input, dropdown, voice search, file attachments and contextual suggestions for the omnibox popup.
+// ---
+
 import '//resources/cr_components/composebox/composebox_dropdown.js';
 import '//resources/cr_components/composebox/composebox_input.js';
 import '//resources/cr_components/composebox/composebox_submit.js';

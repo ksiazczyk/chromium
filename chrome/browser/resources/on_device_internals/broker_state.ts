@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker state page element for model broker debugging
+// summary: Implements the broker state element that fetches ModelBrokerDebug state, tracks asset download progress and supports resetting the model crash count.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

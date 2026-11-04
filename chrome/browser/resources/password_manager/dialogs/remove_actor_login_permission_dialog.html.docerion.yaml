@@ -1,0 +1,4 @@
+# Docerion header of remove_actor_login_permission_dialog.html.
+type: source
+title: Remove actor login permission dialog template
+summary: HTML template for the dialog confirming removal of an actor's login permission for a site, with cancel and disconnect buttons.

@@ -8,6 +8,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared CSS styles
+summary: Shared style classes for cards, page titles, text eliding and password input fonts used across the password manager UI.
+*/
+
 .card {
   background-color: var(--cr-card-background-color);
   border-radius: var(--cr-card-border-radius);
