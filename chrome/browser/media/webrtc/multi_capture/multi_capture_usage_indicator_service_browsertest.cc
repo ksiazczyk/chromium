@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-capture usage indicator service browser tests
+// summary: Browser tests checking that privacy indicator notifications appear for installed and allowlisted isolated web apps before and during multi-capture.
+// ---
+
 #include "chrome/browser/media/webrtc/multi_capture/multi_capture_usage_indicator_service.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gallery watch manager header
+// summary: Declares GalleryWatchManager, which tracks gallery watch requests per extension and browser context.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_GALLERY_WATCH_MANAGER_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_GALLERY_WATCH_MANAGER_H_
 

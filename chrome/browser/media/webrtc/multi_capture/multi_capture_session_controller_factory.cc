@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-capture session controller factory implementation
+// summary: Implements the browser context service factory that builds the multi-capture session controller instance for each browser context.
+// ---
+
 #include "chrome/browser/media/webrtc/multi_capture/multi_capture_session_controller_factory.h"
 
 #include "chrome/browser/media/webrtc/multi_capture/multi_capture_session_controller.h"

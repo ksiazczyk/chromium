@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTPDeviceAsyncDelegate ReadBytesRequest implementation
+// summary: Implements the constructors and destructor of the ReadBytesRequest struct used for MTP device read requests.
+// ---
+
 #include "chrome/browser/media_galleries/fileapi/mtp_device_async_delegate.h"
 
 #include "net/base/io_buffer.h"

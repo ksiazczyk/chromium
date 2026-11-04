@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRtcRtpDumpHandler implementation
+// summary: Implements starting, stopping, and releasing incoming and outgoing RTP dumps with a browser-wide limit on ongoing dumps.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_rtp_dump_handler.h"
 
 #include <utility>

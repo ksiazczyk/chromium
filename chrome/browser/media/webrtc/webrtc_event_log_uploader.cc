@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC event log uploader implementation
+// summary: Implements the uploader that sends WebRTC event logs to the Crash report endpoint via multipart HTTP uploads and deletes the logs afterwards.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_event_log_uploader.h"
 
 #include <optional>

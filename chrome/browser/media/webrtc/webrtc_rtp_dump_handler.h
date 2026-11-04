@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRtcRtpDumpHandler header
+// summary: Declares the handler that manages RTP dump state, file paths, packet writing, and cleanup on the browser IO thread.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_RTP_DUMP_HANDLER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_RTP_DUMP_HANDLER_H_
 

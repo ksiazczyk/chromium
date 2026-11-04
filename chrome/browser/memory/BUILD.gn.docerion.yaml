@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for browser memory components
+summary: Defines memory, impl, and unit_tests source sets with platform-conditional sources and dependencies for the browser memory code.

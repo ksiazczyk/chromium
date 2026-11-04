@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for memory component
+summary: Maps the directory to the Blink>MemoryAllocator component and the catan team email for bug routing.

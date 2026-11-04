@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRtcRtpDumpWriter implementation
+// summary: Implements gzip-compressed writing of RTP dump files in rtpplay format on a background task runner.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_rtp_dump_writer.h"
 
 #include <string.h>

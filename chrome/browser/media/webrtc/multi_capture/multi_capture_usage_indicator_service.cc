@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-capture usage indicator service implementation
+// summary: Implements privacy indicator notifications that tell users which allowlisted apps may capture or are currently capturing screens via getAllScreensMedia.
+// ---
+
 #include "chrome/browser/media/webrtc/multi_capture/multi_capture_usage_indicator_service.h"
 
 #include <algorithm>

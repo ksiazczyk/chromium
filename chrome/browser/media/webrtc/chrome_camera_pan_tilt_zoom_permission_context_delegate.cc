@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome camera pan-tilt-zoom permission context delegate
+// summary: Implements the Chrome delegate for camera pan-tilt-zoom permission, auto-granting on Android and for kiosk extensions with video capture permission on ChromeOS.
+// ---
+
 #include "chrome/browser/media/webrtc/chrome_camera_pan_tilt_zoom_permission_context_delegate.h"
 
 #include "build/build_config.h"

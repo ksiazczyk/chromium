@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capture devices dispatcher header
+// summary: Declares the MediaCaptureDevicesDispatcher singleton, its observer interface, and methods for processing media access, permission, and audio output requests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_MEDIA_CAPTURE_DEVICES_DISPATCHER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_MEDIA_CAPTURE_DEVICES_DISPATCHER_H_
 

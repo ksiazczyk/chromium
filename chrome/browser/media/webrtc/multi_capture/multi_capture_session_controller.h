@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-capture session controller header
+// summary: Declares the session controller that tracks active multi-capture stop callbacks and stops them on session state changes such as user switching or screen locking.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_MULTI_CAPTURE_MULTI_CAPTURE_SESSION_CONTROLLER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_MULTI_CAPTURE_MULTI_CAPTURE_SESSION_CONTROLLER_H_
 

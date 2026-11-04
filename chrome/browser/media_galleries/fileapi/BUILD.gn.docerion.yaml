@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for media galleries fileapi
+summary: Defines GN source sets for the media galleries fileapi interface, implementation, unit tests and browser tests with their dependencies.

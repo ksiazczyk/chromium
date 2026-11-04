@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake desktop media list header
+// summary: Declares FakeDesktopMediaList, a DesktopMediaList test double that records sources, focus state, and delegated list selection counts for media picker tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_FAKE_DESKTOP_MEDIA_LIST_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_FAKE_DESKTOP_MEDIA_LIST_H_
 

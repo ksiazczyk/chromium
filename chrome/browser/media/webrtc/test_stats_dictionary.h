@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC stats dictionary test helper declarations
+// summary: Declares TestStatsReportDictionary and TestStatsDictionary for typed, checked access to WebRTC stats reports during testing.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_TEST_STATS_DICTIONARY_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_TEST_STATS_DICTIONARY_H_
 

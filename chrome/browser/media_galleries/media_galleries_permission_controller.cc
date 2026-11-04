@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media galleries permission controller implementation
+// summary: Implements the controller that shows the media galleries permission dialog, sorts gallery entries and manages permissions for extensions.
+// ---
+
 #include "chrome/browser/media_galleries/media_galleries_permission_controller.h"
 
 #include "base/base_paths.h"

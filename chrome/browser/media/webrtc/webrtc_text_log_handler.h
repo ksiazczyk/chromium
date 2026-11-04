@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC text log handler header
+// summary: Declares WebRtcTextLogHandler, which manages WebRTC text log states from start through stop, upload, or discard.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_TEXT_LOG_HANDLER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_TEXT_LOG_HANDLER_H_
 

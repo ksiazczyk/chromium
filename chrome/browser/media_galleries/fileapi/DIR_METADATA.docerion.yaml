@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker components
+summary: Declares the Chromium issue tracker components used for bugs in the media galleries fileapi directory.

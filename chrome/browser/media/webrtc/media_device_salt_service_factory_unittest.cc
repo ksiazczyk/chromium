@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media device salt service factory unit tests
+// summary: Unit test verifying the factory returns a MediaDeviceSaltService that yields a non-empty salt for a given storage key.
+// ---
+
 #include "chrome/browser/media/webrtc/media_device_salt_service_factory.h"
 
 #include "base/test/test_future.h"

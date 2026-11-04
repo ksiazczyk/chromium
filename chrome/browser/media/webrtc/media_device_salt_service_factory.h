@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media device salt service factory
+// summary: Declares a profile-keyed service factory that provides the MediaDeviceSaltService used to obtain per-browser-context salts for media device IDs.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_MEDIA_DEVICE_SALT_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_MEDIA_DEVICE_SALT_SERVICE_FACTORY_H_
 

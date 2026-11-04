@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP device task helper map service
+// summary: Declares a singleton manager that maps storage names and read-only flags to MTP device task helper instances.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_MTP_DEVICE_TASK_HELPER_MAP_SERVICE_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_MTP_DEVICE_TASK_HELPER_MAP_SERVICE_H_
 

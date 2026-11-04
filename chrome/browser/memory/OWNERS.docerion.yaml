@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the memory directory
+summary: Inherits resource_coordinator owners and assigns vovoy@chromium.org for memory kills and OOM monitoring files.

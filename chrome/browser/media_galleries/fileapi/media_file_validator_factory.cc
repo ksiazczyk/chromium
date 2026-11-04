@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media file validator factory implementation
+// summary: Creates copy or move file validators that accept supported image and audio video types and reject all other media files.
+// ---
+
 #include "chrome/browser/media_galleries/fileapi/media_file_validator_factory.h"
 
 #include "base/files/file_path.h"

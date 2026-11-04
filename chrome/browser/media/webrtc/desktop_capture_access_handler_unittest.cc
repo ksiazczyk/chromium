@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop capture access handler unit tests
+// summary: Unit tests for DesktopCaptureAccessHandler that exercise stream request processing using a fake desktop media picker factory.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_capture_access_handler.h"
 
 #include <memory>

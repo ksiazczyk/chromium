@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection tab capture handler implementation
+// summary: Implements DataProtectionTabCaptureHandler, which pauses or resumes tab capture media streams when enterprise screenshot protection policy changes.
+// ---
+
 #include "chrome/browser/media/webrtc/data_protection_tab_capture_handler.h"
 
 #include <utility>

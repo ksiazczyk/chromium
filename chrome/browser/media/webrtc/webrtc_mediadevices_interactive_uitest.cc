@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC media devices enumeration UI test
+// summary: Interactive browser test verifying enumerateDevices output and device label visibility depending on granted media access.
+// ---
+
 #include <algorithm>
 
 #include "base/command_line.h"

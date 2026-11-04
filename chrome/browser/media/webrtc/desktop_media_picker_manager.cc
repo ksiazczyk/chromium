@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media picker manager implementation
+// summary: Implements the DesktopMediaPickerManager singleton that notifies registered dialog observers when media picker dialogs open or close.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_media_picker_manager.h"
 
 #include "base/no_destructor.h"

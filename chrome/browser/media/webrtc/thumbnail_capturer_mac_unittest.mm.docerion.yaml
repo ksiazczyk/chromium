@@ -1,0 +1,4 @@
+# Docerion header of thumbnail_capturer_mac_unittest.mm.
+type: test
+title: Unit tests for the macOS thumbnail capturer
+summary: Tests the ScreenCaptureKit thumbnail capturer by swizzling ScreenCaptureKit classes to simulate windows, displays and captured images.

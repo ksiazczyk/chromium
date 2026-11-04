@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-capture session controller factory header
+// summary: Declares the factory that instantiates the profile-keyed session controller managing stop callbacks for the getAllScreensMedia API.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_MULTI_CAPTURE_MULTI_CAPTURE_SESSION_CONTROLLER_FACTORY_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_MULTI_CAPTURE_MULTI_CAPTURE_SESSION_CONTROLLER_FACTORY_H_
 

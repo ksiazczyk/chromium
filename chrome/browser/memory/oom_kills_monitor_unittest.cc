@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOMKillsMonitor unit tests
+// summary: Unit tests verifying that OOMKillsMonitor records system and ARCVM OOM kills into count and daily histograms using a testing pref service.
+// ---
+
 #include "chrome/browser/memory/oom_kills_monitor.h"
 
 #include "base/metrics/histogram_base.h"

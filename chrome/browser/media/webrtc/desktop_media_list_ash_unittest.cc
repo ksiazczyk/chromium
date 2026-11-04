@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop media list Ash unit tests
+// summary: Unit tests verifying screen and window enumeration, thumbnail capture and source add and remove notifications in DesktopMediaListAsh.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_media_list_ash.h"
 
 #include <memory>

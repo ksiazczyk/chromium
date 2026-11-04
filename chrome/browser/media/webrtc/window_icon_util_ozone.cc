@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone window icon utility implementation
+// summary: Implements GetWindowIcon on Ozone platforms by delegating to the Ozone platform utils' native window icon lookup.
+// ---
+
 #include "base/notimplemented.h"
 #include "chrome/browser/media/webrtc/window_icon_util.h"
 #include "content/public/browser/desktop_media_id.h"

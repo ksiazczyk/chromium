@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC interactive UI tests
+// summary: Interactive browser tests that run end-to-end WebRTC audio and video calls between two tabs using fake devices.
+// ---
+
 #include "base/command_line.h"
 #include "base/memory/raw_ptr.h"
 #include "base/task/deferred_sequenced_task_runner.h"

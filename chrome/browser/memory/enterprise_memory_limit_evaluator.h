@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise memory limit evaluator header
+// summary: Declares EnterpriseMemoryLimitEvaluator and its GraphObserver, which monitor total RSS against an enterprise policy limit and vote on memory pressure.
+// ---
+
 #ifndef CHROME_BROWSER_MEMORY_ENTERPRISE_MEMORY_LIMIT_EVALUATOR_H_
 #define CHROME_BROWSER_MEMORY_ENTERPRISE_MEMORY_LIMIT_EVALUATOR_H_
 

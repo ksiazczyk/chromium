@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop capture application process ID helper header
+// summary: Declares GetAppMainProcessId, which finds the root process of an application's process tree from a window handle for audio capture on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_DESKTOP_CAPTURE_DEVICES_UTIL_WIN_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_DESKTOP_CAPTURE_DEVICES_UTIL_WIN_H_
 

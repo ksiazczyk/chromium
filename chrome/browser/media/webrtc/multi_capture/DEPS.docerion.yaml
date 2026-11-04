@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for multi-capture
+summary: Configures extra include permissions for the directory's browser tests, such as ash/shell.h and signed web bundle test key headers.

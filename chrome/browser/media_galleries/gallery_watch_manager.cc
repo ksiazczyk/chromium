@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gallery watch manager implementation
+// summary: Implements file path watchers for media galleries and relays change events to observers on the UI thread.
+// ---
+
 #include "chrome/browser/media_galleries/gallery_watch_manager.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media galleries permission controller
+// summary: Declares MediaGalleriesPermissionController and GalleryDialogId, mapping preference IDs to dialog IDs while the permission dialog is open.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_MEDIA_GALLERIES_PERMISSION_CONTROLLER_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_MEDIA_GALLERIES_PERMISSION_CONTROLLER_H_
 

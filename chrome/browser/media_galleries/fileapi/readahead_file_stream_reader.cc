@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadaheadFileStreamReader implementation
+// summary: Implements a file stream reader that wraps a source reader with a readahead buffer to keep one buffer ahead and reduce transaction costs.
+// ---
+
 #include "chrome/browser/media_galleries/fileapi/readahead_file_stream_reader.h"
 
 #include <stddef.h>

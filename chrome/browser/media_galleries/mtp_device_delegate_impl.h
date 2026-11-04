@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP device delegate class declaration
+// summary: Declares MTPDeviceDelegateImpl, a per-storage delegate that runs MTP file system operations asynchronously, living on the IO thread.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_MTP_DEVICE_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_MTP_DEVICE_DELEGATE_IMPL_H_
 

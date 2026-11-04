@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream device permission context implementation
+// summary: Implements the permission context for microphone and camera access, combining content settings, permissions policy and enterprise capture policies.
+// ---
+
 #include "chrome/browser/media/webrtc/media_stream_device_permission_context.h"
 
 #include "base/command_line.h"

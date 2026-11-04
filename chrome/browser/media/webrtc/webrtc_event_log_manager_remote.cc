@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC remote event log manager implementation
+// summary: Implements WebRtcRemoteEventLogManager, which stores remote-bound WebRTC event logs per profile, prunes history and schedules uploads over suitable connections.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_event_log_manager_remote.h"
 
 #include <algorithm>

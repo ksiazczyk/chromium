@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab capture access handler unit tests
+// summary: Unit tests for the TabCapture access handler covering media stream request processing and results.
+// ---
+
 #include "chrome/browser/media/webrtc/tab_capture_access_handler.h"
 
 #include <memory>

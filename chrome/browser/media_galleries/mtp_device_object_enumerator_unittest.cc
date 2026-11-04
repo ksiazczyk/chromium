@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MTP device object enumerator unit tests
+// summary: Unit tests verifying traversal, size, directory type and modification time behavior of the MTP device object enumerator.
+// ---
+
 #include "chrome/browser/media_galleries/mtp_device_object_enumerator.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for capture handles in app windows
+// summary: Browser tests verifying capture handle configuration and observation when capturing app windows and isolated web apps.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/path_service.h"
 #include "base/process/process_handle.h"

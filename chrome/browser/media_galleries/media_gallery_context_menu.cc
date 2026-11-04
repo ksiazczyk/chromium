@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media gallery context menu implementation
+// summary: Implements a simple context menu offering a delete option that invokes a callback to forget a media gallery.
+// ---
+
 #include "chrome/browser/media_galleries/media_gallery_context_menu.h"
 #include "chrome/grit/generated_resources.h"
 #include "ui/base/l10n/l10n_util.h"

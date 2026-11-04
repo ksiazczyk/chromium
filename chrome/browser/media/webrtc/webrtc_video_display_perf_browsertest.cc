@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC video display performance browser test
+// summary: Browser test that measures remote video rendering performance by analyzing trace events for frame render, enqueue, and swap timings.
+// ---
+
 #include <algorithm>
 #include <string>
 #include <tuple>

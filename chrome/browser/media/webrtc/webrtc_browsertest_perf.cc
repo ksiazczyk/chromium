@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC browser test performance metrics
+// summary: Prints WebRTC peer connection statistics such as audio and video send and receive metrics as perf results for dashboard tracking.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_browsertest_perf.h"
 
 #include <stddef.h>

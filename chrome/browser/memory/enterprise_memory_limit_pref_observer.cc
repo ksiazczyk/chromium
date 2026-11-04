@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise memory limit pref observer implementation
+// summary: Observes the managed total memory limit preference and starts or stops the enterprise memory limit evaluator accordingly on supported platforms.
+// ---
+
 #include "chrome/browser/memory/enterprise_memory_limit_pref_observer.h"
 
 #include "base/functional/bind.h"

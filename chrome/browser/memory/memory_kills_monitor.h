@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryKillsMonitor class header
+// summary: Declares MemoryKillsMonitor, a per-user-session logger for kernel OOM kill events and Chrome tab manager low memory kill events on the browser UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_MEMORY_MEMORY_KILLS_MONITOR_H_
 #define CHROME_BROWSER_MEMORY_MEMORY_KILLS_MONITOR_H_
 

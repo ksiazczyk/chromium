@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media picker factory implementation
+// summary: Implements the picker factory, creating platform-specific pickers and media lists for screen, window and tab capture sources.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_media_picker_factory_impl.h"
 
 #include <algorithm>

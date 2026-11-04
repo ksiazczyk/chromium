@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeMediaFileUtil unit tests
+// summary: Unit tests for NativeMediaFileUtil covering media file filtering and file system operations such as reading directories and file metadata.
+// ---
+
 #include <array>
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedImageTypeValidator class declaration
+// summary: Declares a copy-or-move file validator that uses ImageDecoder to confirm image files decode without error.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_FILEAPI_SUPPORTED_IMAGE_TYPE_VALIDATOR_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_FILEAPI_SUPPORTED_IMAGE_TYPE_VALIDATOR_H_
 

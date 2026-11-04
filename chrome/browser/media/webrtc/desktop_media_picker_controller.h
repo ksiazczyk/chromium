@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopMediaPickerController entry point header
+// summary: Header for the main entry point of the desktop picker dialog, covering system audio capture support checks and the Show method contract.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_DESKTOP_MEDIA_PICKER_CONTROLLER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_DESKTOP_MEDIA_PICKER_CONTROLLER_H_
 

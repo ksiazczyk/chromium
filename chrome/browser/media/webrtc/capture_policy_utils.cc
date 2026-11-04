@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen capture policy enforcement implementation
+// summary: Implements enterprise policy checks that restrict allowed screen capture levels and origin lists for capture requests.
+// ---
+
 #include "chrome/browser/media/webrtc/capture_policy_utils.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for multi-capture
+summary: Points to the isolated web apps platform owners list responsible for reviewing changes in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OomMemoryDetails class header
+// summary: Declares OomMemoryDetails, which logs details about all Chrome processes during an out-of-memory event in an attempt to identify the culprit.
+// ---
+
 #ifndef CHROME_BROWSER_MEMORY_OOM_MEMORY_DETAILS_H_
 #define CHROME_BROWSER_MEMORY_OOM_MEMORY_DETAILS_H_
 

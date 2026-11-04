@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media picker utilities header
+// summary: Declares bitmap scaling and media source type conversion helpers shared by the desktop media picker code.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_DESKTOP_MEDIA_PICKER_UTILS_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_DESKTOP_MEDIA_PICKER_UTILS_H_
 

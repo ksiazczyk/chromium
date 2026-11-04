@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC log utility
+// summary: Utility that schedules deletion of old WebRTC log files across all browser profiles.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_log_util.h"
 
 #include <vector>

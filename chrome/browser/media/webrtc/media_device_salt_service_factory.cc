@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media device salt service factory
+// summary: Profile-keyed service factory that builds the media device salt service, which stores per-profile salts used to obfuscate media device IDs.
+// ---
+
 #include "chrome/browser/media/webrtc/media_device_salt_service_factory.h"
 
 #include "base/files/file_path.h"

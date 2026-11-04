@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device media async file util implementation
+// summary: Implements asynchronous file operations for device media file systems, applying media file validation and delegating MTP device access.
+// ---
+
 #include "chrome/browser/media_galleries/fileapi/device_media_async_file_util.h"
 
 #include <stddef.h>

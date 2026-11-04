@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream device policy
+// summary: Declares the MediaStreamDevicePolicy enum and the GetDevicePolicy helper that determines device access policy for a profile and origin.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_MEDIA_STREAM_DEVICE_PERMISSIONS_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_MEDIA_STREAM_DEVICE_PERMISSIONS_H_
 

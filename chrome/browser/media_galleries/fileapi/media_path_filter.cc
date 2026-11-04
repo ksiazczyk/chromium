@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPathFilter implementation
+// summary: Implements the media path filter with supported audio, video and RAW image extensions and skipping of hidden or system files.
+// ---
+
 #include "chrome/browser/media_galleries/fileapi/media_path_filter.h"
 
 #include <algorithm>

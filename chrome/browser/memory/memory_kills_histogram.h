@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory kills histogram macro
+// summary: Defines a UMA histogram macro for reporting the elapsed time since the last low memory kill event, with a 30-second maximum interval.
+// ---
+
 #ifndef CHROME_BROWSER_MEMORY_MEMORY_KILLS_HISTOGRAM_H_
 #define CHROME_BROWSER_MEMORY_MEMORY_KILLS_HISTOGRAM_H_
 

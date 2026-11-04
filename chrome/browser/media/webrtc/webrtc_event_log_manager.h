@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC event log manager class declaration
+// summary: Declares the WebRtcEventLogManager singleton that coordinates local and remote WebRTC event log capture, storage, pruning and upload.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_EVENT_LOG_MANAGER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_EVENT_LOG_MANAGER_H_
 

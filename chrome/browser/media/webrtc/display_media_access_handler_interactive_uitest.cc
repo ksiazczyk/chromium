@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display media access handler interactive UI test
+// summary: Interactive UI tests verifying that the desktop media picker dialog opens in the correct window for getDisplayMedia requests, including picture-in-picture scenarios.
+// ---
+
 #include "chrome/browser/media/webrtc/display_media_access_handler.h"
 
 #include "base/run_loop.h"

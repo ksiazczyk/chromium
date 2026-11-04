@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select audio output picker interface
+// summary: Declares the interface for showing audio output selection pickers in response to selectAudioOutput requests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_SELECT_AUDIO_OUTPUT_PICKER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_SELECT_AUDIO_OUTPUT_PICKER_H_
 

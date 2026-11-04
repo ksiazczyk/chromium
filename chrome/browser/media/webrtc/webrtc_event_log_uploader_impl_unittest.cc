@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC event log uploader implementation unit tests
+// summary: Unit tests for the WebRTC event log uploader implementation, exercising uploads through a test URL loader factory and checking file permission handling.
+// ---
+
 #include <memory>
 #include <string>
 

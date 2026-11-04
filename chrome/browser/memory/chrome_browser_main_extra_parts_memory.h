@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser main extra parts memory header
+// summary: Declares ChromeBrowserMainExtraPartsMemory, which owns and initializes browser memory-related extra parts including the ChromeOS pressure evaluator.
+// ---
+
 #ifndef CHROME_BROWSER_MEMORY_CHROME_BROWSER_MAIN_EXTRA_PARTS_MEMORY_H_
 #define CHROME_BROWSER_MEMORY_CHROME_BROWSER_MAIN_EXTRA_PARTS_MEMORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedAudioVideoChecker class declaration
+// summary: Declares a copy-or-move file validator that checks supported audio and video files using SafeAudioVideoChecker.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_FILEAPI_SUPPORTED_AUDIO_VIDEO_CHECKER_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_FILEAPI_SUPPORTED_AUDIO_VIDEO_CHECKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC event log uploader
+// summary: Declares the WebRtcEventLogUploader interface and its implementation that uploads log files to a remote server and reports success or failure.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_EVENT_LOG_UPLOADER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_EVENT_LOG_UPLOADER_H_
 

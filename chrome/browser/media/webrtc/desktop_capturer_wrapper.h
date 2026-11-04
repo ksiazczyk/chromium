@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop capturer wrapper for thumbnail capture
+// summary: Declares DesktopCapturerWrapper, an adapter that lets a webrtc::DesktopCapturer be used as a ThumbnailCapturer in NativeDesktopMediaList.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_DESKTOP_CAPTURER_WRAPPER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_DESKTOP_CAPTURER_WRAPPER_H_
 

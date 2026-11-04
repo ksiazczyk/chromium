@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopMediaPickerController unit tests
+// summary: Unit tests using mock pickers, media lists, and factories to exercise the desktop media picker controller behavior.
+// ---
+
 #include <memory>
 #include <tuple>
 #include <utility>

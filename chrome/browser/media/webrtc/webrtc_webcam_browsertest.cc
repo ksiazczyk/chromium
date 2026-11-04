@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC webcam browser test
+// summary: Manual browser test that verifies WebRTC can acquire and reacquire real webcams at multiple resolutions on desktop platforms.
+// ---
+
 #include "base/command_line.h"
 #include "build/build_config.h"
 #include "chrome/browser/media/webrtc/webrtc_browsertest_base.h"

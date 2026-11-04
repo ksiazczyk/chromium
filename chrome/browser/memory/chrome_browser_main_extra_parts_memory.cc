@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser main extra parts memory implementation
+// summary: Implements browser startup hooks that bind heap snapshot controllers to child processes and create the ChromeOS system memory pressure evaluator.
+// ---
+
 #include "chrome/browser/memory/chrome_browser_main_extra_parts_memory.h"
 
 #include <utility>

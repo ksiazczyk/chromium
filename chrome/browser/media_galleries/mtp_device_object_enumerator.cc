@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP device object enumerator implementation
+// summary: Implements enumeration of MTP device file entries, exposing name, size, directory flag, modification time and entry ID.
+// ---
+
 #include "chrome/browser/media_galleries/mtp_device_object_enumerator.h"
 
 #include <utility>

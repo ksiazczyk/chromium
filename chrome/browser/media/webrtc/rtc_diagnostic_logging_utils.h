@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RTC diagnostic logging utilities API
+// summary: Declares functions to start, finish, and cancel RTC diagnostic logging sessions, with optional upload of the log when logging stops.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_RTC_DIAGNOSTIC_LOGGING_UTILS_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_RTC_DIAGNOSTIC_LOGGING_UTILS_H_
 

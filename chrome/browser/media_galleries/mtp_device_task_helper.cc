@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP device task helper implementation
+// summary: Implements dispatch of MTP device operations such as open storage, file info and directory reads to the media transfer protocol manager.
+// ---
+
 #include "chrome/browser/media_galleries/mtp_device_task_helper.h"
 
 #include <algorithm>

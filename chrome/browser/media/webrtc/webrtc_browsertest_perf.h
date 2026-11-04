@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC browser test performance metrics header
+// summary: Declares functions that print bandwidth estimation and stream metrics from peer connection stats for performance dashboards.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_BROWSERTEST_PERF_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_BROWSERTEST_PERF_H_
 

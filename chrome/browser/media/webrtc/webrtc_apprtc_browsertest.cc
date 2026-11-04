@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC AppRTC browser test
+// summary: Browser test that launches a local AppRTC instance and verifies a WebRTC call connects between two tabs, requiring a real webcam and microphone.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_util.h"
 #include "base/path_service.h"

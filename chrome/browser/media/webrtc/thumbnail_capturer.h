@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailCapturer interface for desktop media thumbnails
+// summary: Defines the ThumbnailCapturer interface for producing desktop media thumbnails with on-request or recurrent multi-source frame delivery.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_THUMBNAIL_CAPTURER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_THUMBNAIL_CAPTURER_H_
 

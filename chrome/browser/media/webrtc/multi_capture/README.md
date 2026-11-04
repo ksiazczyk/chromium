@@ -1,3 +1,13 @@
+---
+type: readme
+title: Multi-Capture Browser Services README
+summary: Describes the ChromeOS browser-side services that verify policy, track capture sessions, and show privacy indicators for the getAllScreensMedia API restricted to allowlisted Isolated Web Apps.
+relations:
+  - references /chrome/browser/web_applications/isolated_web_apps/README.md
+  - references /components/webapps/isolated_web_apps/README.md
+  - documents /chrome/browser/media/webrtc/multi_capture/multi_capture_data_service.cc
+---
+
 # Multi-Capture Browser Services (`chrome/browser/media/webrtc/multi_capture`)
 
 This directory implements ChromeOS browser-side policy verification, session

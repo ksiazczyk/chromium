@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the browser WebRTC media directory
+summary: Sets directory-wide and per-file include rules permitting WebRTC, libyuv, audio service, and Ash dependencies.

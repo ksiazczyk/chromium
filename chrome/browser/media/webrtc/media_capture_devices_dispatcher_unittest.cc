@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media capture devices dispatcher unit tests
+// summary: Unit tests for MediaCaptureDevicesDispatcher that use mock media access handlers to verify device preference ranking and request dispatch behavior.
+// ---
+
 #include "chrome/browser/media/webrtc/media_capture_devices_dispatcher.h"
 
 #include <memory>

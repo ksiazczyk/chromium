@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC pan-tilt-zoom browser tests
+// summary: Parameterized browser tests covering pan, tilt, and zoom permission states and track constraint behavior for camera capture.
+// ---
+
 #include <string>
 
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC event log manager keyed service factory
+// summary: Profile-keyed service factory that builds the WebRTC event log manager keyed service for regular, guest and Ash internals browser contexts.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_event_log_manager_keyed_service_factory.h"
 
 #include "base/check.h"

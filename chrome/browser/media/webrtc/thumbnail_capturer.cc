@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail capturer default method implementations
+// summary: Provides default NOTREACHED implementations for optional ThumbnailCapturer methods such as frame rate limits and source selection.
+// ---
+
 #include "chrome/browser/media/webrtc/thumbnail_capturer.h"
 
 #include "base/notreached.h"

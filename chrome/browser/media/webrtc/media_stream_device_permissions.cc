@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream device policy lookup
+// summary: Implements GetDevicePolicy, which resolves allowed-URL pref lists and capture policy prefs into a MediaStreamDevicePolicy value for an origin.
+// ---
+
 #include "chrome/browser/media/webrtc/media_stream_device_permissions.h"
 
 #include <stddef.h>

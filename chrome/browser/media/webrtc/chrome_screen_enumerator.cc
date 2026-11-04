@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome screen enumerator implementation
+// summary: Enumerates capturable screens for media streams on ChromeOS and Linux, building a stream device set from root windows or desktop capturer sources.
+// ---
+
 #include "chrome/browser/media/webrtc/chrome_screen_enumerator.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen capture policy utilities interface
+// summary: Declares AllowedScreenCaptureLevel and helpers for applying capture restriction policies and filtering media lists.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_CAPTURE_POLICY_UTILS_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_CAPTURE_POLICY_UTILS_H_
 

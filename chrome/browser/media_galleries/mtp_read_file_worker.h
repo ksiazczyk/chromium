@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP read file worker header
+// summary: Declares the MTPReadFileWorker class that copies the contents of an MTP device file into a given snapshot file, with callbacks for read and write completion.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_MTP_READ_FILE_WORKER_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_MTP_READ_FILE_WORKER_H_
 

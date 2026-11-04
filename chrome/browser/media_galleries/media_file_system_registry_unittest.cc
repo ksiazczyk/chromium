@@ -4,6 +4,12 @@
 
 // MediaFileSystemRegistry unit tests.
 
+// ---docerion
+// type: test
+// title: Media file system registry unit tests
+// summary: Unit tests for MediaFileSystemRegistry using a test media filesystem context and storage monitor to verify gallery registration and extension access.
+// ---
+
 #include "chrome/browser/media_galleries/media_file_system_registry.h"
 
 #include <stddef.h>

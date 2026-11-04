@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab capture access handler
+// summary: Handles TabCapture API media stream requests and enforces same-origin, extension, and ChromeOS DLP capture policies.
+// ---
+
 #include "chrome/browser/media/webrtc/tab_capture_access_handler.h"
 
 #include <memory>

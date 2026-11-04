@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaStreamFocusDelegate implementation
+// summary: Implements the delegate that focuses a captured tab or window during capture start, within a limited window of opportunity.
+// ---
+
 #include "chrome/browser/media/webrtc/media_stream_focus_delegate.h"
 
 #include "build/build_config.h"

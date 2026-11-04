@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise memory limit evaluator unit tests
+// summary: Tests that RSS samples above and below the configured limit produce correct memory pressure votes and dispatch callbacks.
+// ---
+
 #include "chrome/browser/memory/enterprise_memory_limit_evaluator.h"
 
 #include "base/test/mock_callback.h"

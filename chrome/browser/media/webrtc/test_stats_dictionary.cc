@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC stats dictionary test helper implementation
+// summary: Implements wrappers that iterate, filter and read typed values from WebRTC stats report dictionaries in browser tests.
+// ---
+
 #include "chrome/browser/media/webrtc/test_stats_dictionary.h"
 
 #include <memory>

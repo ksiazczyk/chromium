@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiCaptureDataService header
+// summary: Declares the MultiCaptureDataService keyed service and its observer interface, exposing multi-capture allowlist data, app lists, and icons to consumers.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_MULTI_CAPTURE_MULTI_CAPTURE_DATA_SERVICE_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_MULTI_CAPTURE_MULTI_CAPTURE_DATA_SERVICE_H_
 

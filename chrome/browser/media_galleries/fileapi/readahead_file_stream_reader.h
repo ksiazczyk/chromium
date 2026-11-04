@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadaheadFileStreamReader class declaration
+// summary: Declares ReadaheadFileStreamReader, which wraps a source FileStreamReader with a queue of prefetched readahead buffers.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_FILEAPI_READAHEAD_FILE_STREAM_READER_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_FILEAPI_READAHEAD_FILE_STREAM_READER_H_
 

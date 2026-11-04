@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Current tab desktop media list implementation
+// summary: Implements a desktop media list that tracks only the current tab, periodically capturing frames and scaling new thumbnails off the UI thread.
+// ---
+
 #include "chrome/browser/media/webrtc/current_tab_desktop_media_list.h"
 
 #include "base/compiler_specific.h"

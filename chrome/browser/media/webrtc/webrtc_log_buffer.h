@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC log buffer header
+// summary: Declares WebRtcLogBuffer, a fixed-size circular buffer for WebRTC log messages with read-only completion semantics.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_LOG_BUFFER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_LOG_BUFFER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC video quality browser test
+// summary: Browser test that captures WebRTC video output and compares it against reference files using frame analyzer and barcode decoder tools.
+// ---
+
 #include <stddef.h>
 
 #include "base/base64.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC log uploader header
+// summary: Declares the WebRtcLogUploader singleton that compresses and uploads WebRTC logs, enforces log count limits and records upload metadata.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_LOG_UPLOADER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_LOG_UPLOADER_H_
 

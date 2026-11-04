@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gallery watch manager observer interface
+// summary: Declares callbacks for gallery content changes and unexpectedly dropped gallery watches.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_GALLERY_WATCH_MANAGER_OBSERVER_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_GALLERY_WATCH_MANAGER_OBSERVER_H_
 

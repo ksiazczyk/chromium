@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream capture indicator implementation
+// summary: Implements tracking of WebContents capturing media streams, driving tab strip and status icon indicators and keeping capturing tabs from being discarded.
+// ---
+
 #include "chrome/browser/media/webrtc/media_stream_capture_indicator.h"
 
 #include <stddef.h>

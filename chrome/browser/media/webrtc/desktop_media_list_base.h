@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopMediaListBase shared media list logic
+// summary: Header for the DesktopMediaListBase class that keeps the current list of desktop capture sources, updates thumbnails, and notifies observers when the list changes.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_DESKTOP_MEDIA_LIST_BASE_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_DESKTOP_MEDIA_LIST_BASE_H_
 

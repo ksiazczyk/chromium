@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTPFileStreamReader implementation
+// summary: Implements a stream reader that reads media files from MTP devices and validates media headers before reading.
+// ---
+
 #include "chrome/browser/media_galleries/fileapi/mtp_file_stream_reader.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows window icon utility implementation
+// summary: Implements GetWindowIcon on Windows by querying WM_GETICON and class icon handles and converting the HICON into an ImageSkia.
+// ---
+
 #include "chrome/browser/media/webrtc/window_icon_util.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC browser test common utilities
+// summary: Provides shared helpers for WebRTC browser tests, including reference video file lookup, platform tool paths, and JavaScript polling waits.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_browsertest_common.h"
 
 #include "base/files/file_util.h"

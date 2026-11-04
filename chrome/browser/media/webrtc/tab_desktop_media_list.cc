@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab desktop media list implementation
+// summary: Implements the desktop media list of tabs and WebContents with periodic thumbnail and preview updates for the capture picker.
+// ---
+
 #include "chrome/browser/media/webrtc/tab_desktop_media_list.h"
 
 #include <ranges>

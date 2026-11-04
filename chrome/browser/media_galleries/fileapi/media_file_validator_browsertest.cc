@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media file validator browser tests
+// summary: Browser tests verifying that copying or moving files into a media file system only succeeds for supported image, audio and video files.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media stream permission interactive UI tests
+// summary: Interactive UI tests checking permission prompts for microphone and camera and the effect of denied permissions on active streams.
+// ---
+
 #include "base/command_line.h"
 #include "base/run_loop.h"
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

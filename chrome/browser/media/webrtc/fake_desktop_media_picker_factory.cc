@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake desktop media picker factory implementation
+// summary: Implements a fake DesktopMediaPicker and factory that assert expected picker behavior in tests and return configurable or cancelled picker results.
+// ---
+
 #include "chrome/browser/media/webrtc/fake_desktop_media_picker_factory.h"
 
 #include <utility>

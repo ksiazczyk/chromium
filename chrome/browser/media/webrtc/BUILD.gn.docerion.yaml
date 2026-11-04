@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for browser WebRTC media code
+summary: Defines GN source sets and dependencies for the Chrome browser WebRTC media capture, picker, and logging code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegated source list capturer header
+// summary: Declares DelegatedSourceListCapturer, a DesktopCapturer that delegates source picking to a device-specific native picker.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_DELEGATED_SOURCE_LIST_CAPTURER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_DELEGATED_SOURCE_LIST_CAPTURER_H_
 

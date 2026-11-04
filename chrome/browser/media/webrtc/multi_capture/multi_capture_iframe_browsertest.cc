@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-capture iframe browser tests
+// summary: Browser tests checking that cross-origin iframes inside allowlisted isolated web apps cannot reach multi-capture media dispatch interfaces via Mojo under the allowlist policy.
+// ---
+
 #include "chrome/browser/media/webrtc/capture_policy_utils.h"
 #include "chrome/browser/media/webrtc/webrtc_browsertest_base.h"
 #include "chrome/browser/policy/policy_test_utils.h"

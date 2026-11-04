@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media galleries dialog test utility implementation
+// summary: Implements MockMediaGalleriesDialog, which counts gallery update calls and reports the count through a callback when destroyed.
+// ---
+
 #include "chrome/browser/media_galleries/media_galleries_dialog_controller_test_util.h"
 
 MockMediaGalleriesDialog::MockMediaGalleriesDialog(

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRtcLoggingController unit tests
+// summary: Unit tests for the WebRTC logging controller using a fake logging agent, test profiles, and a test URL loader factory.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_logging_controller.h"
 
 #include <list>

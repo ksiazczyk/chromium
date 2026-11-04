@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeMediaFileUtil implementation
+// summary: Implements native file system operations for media galleries, including media header sniffing and path filtering.
+// ---
+
 #include "chrome/browser/media_galleries/fileapi/native_media_file_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeDesktopMediaList implementation
+// summary: Implements a desktop media list of native screens and windows, refreshing sources and thumbnails on a background worker thread.
+// ---
+
 #include "chrome/browser/media/webrtc/native_desktop_media_list.h"
 
 #include <algorithm>

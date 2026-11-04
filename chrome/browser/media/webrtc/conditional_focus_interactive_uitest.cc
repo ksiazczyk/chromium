@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Conditional focus interactive UI test
+// summary: Interactive browser test exercising the Conditional Focus capture behavior between a capturing tab and a captured tab with different focus values.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

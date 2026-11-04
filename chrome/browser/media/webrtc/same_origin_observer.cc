@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Same origin observer implementation
+// summary: Implements the observer that fires a callback when the observed WebContents origin starts or stops matching a reference origin.
+// ---
+
 #include "chrome/browser/media/webrtc/same_origin_observer.h"
 
 #include "content/public/browser/page.h"

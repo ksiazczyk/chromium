@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake desktop media picker factory header
+// summary: Declares FakeDesktopMediaPickerFactory and FakeDesktopMediaPicker, test doubles that supply configurable fake pickers and source lists for media request tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_FAKE_DESKTOP_MEDIA_PICKER_FACTORY_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_FAKE_DESKTOP_MEDIA_PICKER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for tab capture handle behavior
+// summary: Browser tests covering capture handle exposure, permitted origins, and cross-origin behavior when capturing tabs.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

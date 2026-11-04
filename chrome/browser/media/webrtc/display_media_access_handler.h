@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display media access handler header
+// summary: Declares DisplayMediaAccessHandler, the media access handler implementing the getDisplayMedia screen capture API.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_DISPLAY_MEDIA_ACCESS_HANDLER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_DISPLAY_MEDIA_ACCESS_HANDLER_H_
 

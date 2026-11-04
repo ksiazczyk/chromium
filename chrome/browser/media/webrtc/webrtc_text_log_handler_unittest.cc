@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC text log handler unit tests
+// summary: Unit tests for WebRtcTextLogHandler covering logging state transitions and log message callback behavior.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_text_log_handler.h"
 
 #include <memory>

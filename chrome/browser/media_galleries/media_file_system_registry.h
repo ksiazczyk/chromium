@@ -5,6 +5,12 @@
 // MediaFileSystemRegistry registers pictures directories and media devices as
 // File API filesystems and keeps track of the path to filesystem ID mappings.
 
+// ---docerion
+// type: source
+// title: Media file system registry
+// summary: Declares MediaFileSystemRegistry, which registers picture directories and media devices as File API filesystems and tracks path to filesystem ID mappings.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_MEDIA_FILE_SYSTEM_REGISTRY_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_MEDIA_FILE_SYSTEM_REGISTRY_H_
 

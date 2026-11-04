@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopMediaListBase unit tests
+// summary: Unit tests verifying that updating sources propagates the sharing-blocked flag and notifies the observer while preserving source identity.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_media_list_base.h"
 
 #include "base/time/time.h"

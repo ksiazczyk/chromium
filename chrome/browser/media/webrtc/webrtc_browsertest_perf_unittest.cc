@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC browser test performance unit test
+// summary: Unit tests verifying that compare-videos output is parsed into histograms, including failure cases for bad labels, values, and ordering.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_browsertest_perf.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

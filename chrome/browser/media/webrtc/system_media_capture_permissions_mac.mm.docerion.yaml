@@ -1,0 +1,4 @@
+# Docerion header of system_media_capture_permissions_mac.mm.
+type: source
+title: macOS system screen capture permission implementation
+summary: Implements macOS system screen capture permission checks, logging the result and handling the native picker exemption on macOS 15.

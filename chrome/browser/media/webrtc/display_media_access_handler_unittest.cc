@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display media access handler unit tests
+// summary: Unit tests for DisplayMediaAccessHandler covering screen, window, tab, and current-tab capture requests using a fake media picker factory across platforms.
+// ---
+
 #include "chrome/browser/media/webrtc/display_media_access_handler.h"
 
 #include <array>

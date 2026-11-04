@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: getDisplayMedia browser tests
+// summary: Browser tests for the getDisplayMedia screen capture API, covering permission prompts, policies, tab sharing and captured surface control.
+// ---
+
 #include <optional>
 #include <string>
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio debug recordings handler implementation
+// summary: Implements starting and stopping audio debug recordings, including AEC dumps, per render process in the browser.
+// ---
+
 #include "chrome/browser/media/webrtc/audio_debug_recordings_handler.h"
 
 #include <string>

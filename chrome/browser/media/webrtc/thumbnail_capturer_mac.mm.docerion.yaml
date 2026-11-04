@@ -1,0 +1,4 @@
+# Docerion header of thumbnail_capturer_mac.mm.
+type: source
+title: ScreenCaptureKit thumbnail capturer for macOS
+summary: Implements macOS thumbnail capture for the getDisplayMedia picker using ScreenCaptureKit, with feature flags, refresh timers and PiP window exclusion.

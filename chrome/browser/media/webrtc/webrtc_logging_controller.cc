@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRtcLoggingController implementation
+// summary: Implements the browser-side controller that manages WebRTC text logging, event logs, and RTP dump uploads per render process.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_logging_controller.h"
 
 #include <memory>
