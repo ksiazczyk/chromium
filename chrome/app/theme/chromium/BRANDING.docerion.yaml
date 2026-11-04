@@ -1,0 +1,4 @@
+# Docerion header of BRANDING.
+type: config
+title: Chromium branding constants
+summary: Defines branding values for Chromium, including company and product names, copyright line, and Mac bundle identifier and creator code.

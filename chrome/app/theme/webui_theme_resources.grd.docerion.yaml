@@ -1,0 +1,4 @@
+# Docerion header of webui_theme_resources.grd.
+type: config
+title: WebUI theme resource manifest
+summary: GRD manifest listing WebUI theme images such as profile avatars for grit packaging.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the skills strings resources
+summary: Points to chrome/browser/skills/OWNERS to define the code owners for this directory.

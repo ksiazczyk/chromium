@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for theme resource packs
+summary: Defines grit targets that compile theme, WebUI, and unscaled resources into pak files and headers.

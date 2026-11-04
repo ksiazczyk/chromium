@@ -1,0 +1,4 @@
+# Docerion header of icon.json.
+type: config
+title: Chromium macOS app icon definition
+summary: Defines the layers, fills, shadows, and default and tinted appearance variants of the Chromium macOS app icon in the AppIcon.icon asset folder.

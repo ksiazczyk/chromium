@@ -1,0 +1,4 @@
+# Docerion header of chrome_unscaled_resources.grd.
+type: config
+title: Unscaled theme resource manifest
+summary: GRD manifest listing unscaled branding images such as product logos for grit packaging.

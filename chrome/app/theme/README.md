@@ -1,3 +1,12 @@
+---
+type: readme
+title: Branded and Trademarked Assets
+summary: Explains how to add branded or trademarked assets and how to optimize PNG and ICO images.
+relations:
+  - references /docs/google_chrome_branded_builds.md
+  - references /tools/resources/optimize-png-files.sh
+---
+
 Branded and Trademarked Assets
 ==============================
 

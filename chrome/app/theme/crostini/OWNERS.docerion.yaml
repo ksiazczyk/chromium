@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Crostini theme OWNERS
+summary: Points to the OWNERS file in chrome/browser/ash/crostini to inherit its reviewers for this theme directory.
