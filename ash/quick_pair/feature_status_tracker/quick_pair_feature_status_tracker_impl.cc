@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureStatusTracker implementation
+// summary: Implements FeatureStatusTracker by composing Fast Pair and scanning enabled providers and notifying observers when Fast Pair availability changes.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/quick_pair_feature_status_tracker_impl.h
+//   - depends_on /ash/quick_pair/feature_status_tracker/battery_saver_active_provider.h
+//   - depends_on /ash/quick_pair/feature_status_tracker/bluetooth_enabled_provider.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/quick_pair_feature_status_tracker_impl.h"
 
 #include <memory>

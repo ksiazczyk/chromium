@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastPairPairerImpl implementation
+// summary: Implements the Fast Pair pairing procedure, handling key-based pairing, passkey exchange, bond creation, login-status gating, and metrics for a single device.
+// relations:
+//   - implements /ash/quick_pair/pairing/fast_pair/fast_pair_pairer_impl.h
+// ---
+
 #include "ash/quick_pair/pairing/fast_pair/fast_pair_pairer_impl.h"
 
 #include <memory>

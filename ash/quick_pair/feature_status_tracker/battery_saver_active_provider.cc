@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatterySaverActiveProvider implementation
+// summary: Implements a provider that reports whether battery saver mode is active by observing the PowerStatus and updating its enabled state on power changes.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/battery_saver_active_provider.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/battery_saver_active_provider.h"
 
 namespace ash {

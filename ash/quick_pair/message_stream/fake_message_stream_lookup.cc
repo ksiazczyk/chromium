@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake message stream lookup implementation for tests
+// summary: Implements a fake MessageStreamLookup that stores streams per device address and can notify observers of connected streams.
+// relations:
+//   - implements /ash/quick_pair/message_stream/fake_message_stream_lookup.h
+// ---
+
 #include "ash/quick_pair/message_stream/fake_message_stream_lookup.h"
 
 namespace ash {

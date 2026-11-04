@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastPairPrefEnabledProvider implementation
+// summary: Implements a provider that registers the kFastPairEnabled pref and observes the active user's pref service to track whether the Fast Pair pref is enabled.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/fast_pair_pref_enabled_provider.h
+//   - references /ash/constants/ash_pref_names.h
+//   - references /ash/shell.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/fast_pair_pref_enabled_provider.h"
 
 #include "ash/constants/ash_pref_names.h"

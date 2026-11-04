@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair repository base class implementation
+// summary: Implements the FastPairRepository singleton access, test instance override, and SHA256 generation over an account key and MAC address.
+// relations:
+//   - depends_on /ash/quick_pair/repository/fast_pair_repository.h
+//   - depends_on /base/strings/string_view_util.h
+//   - depends_on /crypto/hash.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair_repository.h"
 
 #include "ash/quick_pair/common/logging.h"

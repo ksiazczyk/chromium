@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake footprints fetcher header
+// summary: Declares FakeFootprintsFetcher, an in-memory test double for FootprintsFetcher with settable responses for reading, adding and deleting devices.
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_FAKE_FOOTPRINTS_FETCHER_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_FAKE_FOOTPRINTS_FETCHER_H_
 

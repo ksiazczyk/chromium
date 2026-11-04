@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair service data decoder header
+// summary: Declares the Fast Pair service data decoder API, including version, flags, model ID, and extra field accessor functions.
+// relations:
+//   - references /base/component_export.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_FAST_PAIR_FAST_PAIR_DECODER_H_
 #define ASH_QUICK_PAIR_COMMON_FAST_PAIR_FAST_PAIR_DECODER_H_
 

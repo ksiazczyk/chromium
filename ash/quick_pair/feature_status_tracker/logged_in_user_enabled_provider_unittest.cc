@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logged in user enabled provider unit tests
+// summary: Unit tests covering the logged in user provider across login states such as locked, kiosk, regular, guest, public account, and child users.
+// relations:
+//   - tests /ash/quick_pair/feature_status_tracker/logged_in_user_enabled_provider.h
+//   - references /ash/test/ash_test_base.h
+//   - references /components/user_manager/user_type.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/logged_in_user_enabled_provider.h"
 
 #include <memory>

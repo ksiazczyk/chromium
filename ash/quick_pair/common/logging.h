@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair logging header with QP_LOG macro
+// summary: Declares the QP_LOG macro plus ScopedLogMessage and ScopedDisableLoggingForTesting classes that send Quick Pair log messages to the standard logging system and a log buffer shown in the debug WebUI.
+// relations:
+//   - depends_on /base/component_export.h
+//   - depends_on /base/logging.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_LOGGING_H_
 #define ASH_QUICK_PAIR_COMMON_LOGGING_H_
 

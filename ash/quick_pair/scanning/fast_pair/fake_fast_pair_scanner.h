@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Fast Pair scanner header
+// summary: Declares FakeFastPairScanner, a fake implementation of FastPairScanner that keeps an observer list and lets tests simulate device found and lost events.
+// relations:
+//   - implements /ash/quick_pair/scanning/fast_pair/fast_pair_scanner.h
+//   - references /base/observer_list.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_SCANNING_FAST_PAIR_FAKE_FAST_PAIR_SCANNER_H_
 #define ASH_QUICK_PAIR_SCANNING_FAST_PAIR_FAKE_FAST_PAIR_SCANNER_H_
 

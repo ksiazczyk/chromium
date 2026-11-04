@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannerBroker interface
+// summary: Defines the ScannerBroker interface, the entry point of the Quick Pair scanning component that routes start/stop scanning calls and exposes observers for device found and lost events.
+// ---
+
 #ifndef ASH_QUICK_PAIR_SCANNING_SCANNER_BROKER_H_
 #define ASH_QUICK_PAIR_SCANNING_SCANNER_BROKER_H_
 

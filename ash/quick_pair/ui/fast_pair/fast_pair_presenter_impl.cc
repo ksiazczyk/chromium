@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair presenter implementation
+// summary: Implements FastPairPresenter by retrieving device metadata and driving Fast Pair notifications for discovery, pairing, errors, account association, and companion app flows.
+// relations:
+//   - implements /ash/quick_pair/ui/fast_pair/fast_pair_presenter_impl.h
+//   - depends_on /ash/quick_pair/ui/fast_pair/fast_pair_notification_controller.cc
+//   - depends_on /ash/quick_pair/repository/fast_pair_repository.h
+// ---
+
 #include "ash/quick_pair/ui/fast_pair/fast_pair_presenter_impl.h"
 
 #include <optional>

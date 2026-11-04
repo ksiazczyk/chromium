@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair Bluetooth config delegate implementation
+// summary: Implements FastPairBluetoothConfigDelegate, which supplies device images, nickname updates, and device removal to the CrosBluetoothConfig system.
+// relations:
+//   - implemented_by /ash/quick_pair/keyed_service/fast_pair_bluetooth_config_delegate.h
+//   - depends_on /ash/quick_pair/repository/fast_pair_repository.h
+// ---
+
 #include "ash/quick_pair/keyed_service/fast_pair_bluetooth_config_delegate.h"
 
 #include "ash/quick_pair/repository/fast_pair_repository.h"

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseEnabledProvider base class declaration
+// summary: Declares the BaseEnabledProvider base class exposing is_enabled() and a callback pattern so subclasses only implement the state determination logic.
+// relations:
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_BASE_ENABLED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_BASE_ENABLED_PROVIDER_H_
 

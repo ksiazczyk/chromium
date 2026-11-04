@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryUpdateMessageHandler class header
+// summary: Declares BatteryUpdateMessageHandler, an observer that forwards battery update messages from MessageStreams to Bluetooth devices via the adapter.
+// relations:
+//   - references /ash/quick_pair/message_stream/message_stream.h
+//   - references /ash/quick_pair/message_stream/message_stream_lookup.h
+//   - references /base/containers/flat_map.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_KEYED_SERVICE_BATTERY_UPDATE_MESSAGE_HANDLER_H_
 #define ASH_QUICK_PAIR_KEYED_SERVICE_BATTERY_UPDATE_MESSAGE_HANDLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair data encryptor interface
+// summary: Declares the FastPairDataEncryptor interface that holds a device secret key and provides methods to encrypt bytes, decrypt responses and passkeys, and build or verify additional data packets.
+// relations:
+//   - references /base/functional/callback.h
+//   - references /chromeos/ash/services/quick_pair/public/cpp/decrypted_passkey.h
+//   - references /chromeos/ash/services/quick_pair/public/cpp/decrypted_response.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_DATA_ENCRYPTOR_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_DATA_ENCRYPTOR_H_
 

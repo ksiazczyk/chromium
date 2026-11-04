@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompanionAppBroker interface
+// summary: Declares the broker interface and observer API for showing, installing, and launching companion apps for Fast Pair devices.
+// relations:
+//   - references /ash/quick_pair/common/device.h
+//   - references /base/memory/scoped_refptr.h
+//   - references /base/observer_list_types.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMPANION_APP_COMPANION_APP_BROKER_H_
 #define ASH_QUICK_PAIR_COMPANION_APP_COMPANION_APP_BROKER_H_
 

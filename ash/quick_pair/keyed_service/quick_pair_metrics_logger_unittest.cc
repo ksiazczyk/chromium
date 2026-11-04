@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Pair metrics logger unit tests
+// summary: Unit tests verifying that Fast Pair engagement funnel, pairing time, pairing method and failure metrics are recorded with the expected histogram values.
+// relations:
+//   - tests /ash/quick_pair/keyed_service/quick_pair_metrics_logger.h
+// ---
+
 #include "ash/quick_pair/keyed_service/quick_pair_metrics_logger.h"
 
 #include <memory>

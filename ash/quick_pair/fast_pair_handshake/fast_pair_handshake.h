@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair handshake base class header
+// summary: Declares FastPairHandshake, which runs the Fast Pair handshake steps and exposes the data encryptor and GATT service client used during pairing.
+// relations:
+//   - references /ash/quick_pair/common/pair_failure.h
+//   - references /base/functional/callback.h
+//   - references /base/memory/scoped_refptr.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_HANDSHAKE_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_HANDSHAKE_H_
 

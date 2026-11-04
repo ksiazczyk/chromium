@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen state enabled provider implementation
+// summary: Implements the screen state enabled provider, observing display configuration changes to report whether any display's screen is currently on.
+// relations:
+//   - references /ash/quick_pair/feature_status_tracker/screen_state_enabled_provider.h
+//   - references /ash/shell.h
+//   - references /ui/display/types/display_mode.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/screen_state_enabled_provider.h"
 
 #include "ash/shell.h"

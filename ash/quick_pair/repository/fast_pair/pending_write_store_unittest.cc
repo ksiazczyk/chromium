@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pending write store unit tests
+// summary: Unit tests covering writing, retrieving, and clearing pending Fast Pair device writes and deletes using a test pref service.
+// relations:
+//   - tests /ash/quick_pair/repository/fast_pair/pending_write_store.h
+//   - depends_on /ash/quick_pair/common/mock_quick_pair_browser_delegate.h
+//   - depends_on /components/prefs/testing_pref_service.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/pending_write_store.h"
 
 #include <array>

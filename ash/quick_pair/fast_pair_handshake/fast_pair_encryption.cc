@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair encryption primitives
+// summary: Implements Fast Pair cryptographic operations including ECDH key agreement with the anti-spoofing key, AES byte encryption, HMAC-SHA256 generation, and AES-CTR additional data encryption using BoringSSL.
+// relations:
+//   - implements /ash/quick_pair/fast_pair_handshake/fast_pair_encryption.h
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_key_pair.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_encryption.h"
 
 #include <algorithm>

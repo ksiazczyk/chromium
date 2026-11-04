@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Fast Pair scanner implementation
+// summary: Implements the FakeFastPairScanner test double that manages observers and provides NotifyDeviceFound and NotifyDeviceLost hooks for Fast Pair scanning tests.
+// relations:
+//   - implements /ash/quick_pair/scanning/fast_pair/fake_fast_pair_scanner.h
+//   - references /ash/quick_pair/common/device.h
+// ---
+
 #include "ash/quick_pair/scanning/fast_pair/fake_fast_pair_scanner.h"
 
 #include "ash/quick_pair/common/device.h"

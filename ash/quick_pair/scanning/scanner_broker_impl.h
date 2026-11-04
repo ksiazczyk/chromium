@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannerBrokerImpl class declaration
+// summary: Declares ScannerBrokerImpl, which brokers scanning calls by protocol, observes login status changes, and manages Fast Pair scanner instances and Bluetooth adapter access.
+// relations:
+//   - implements /ash/quick_pair/scanning/scanner_broker.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /ash/public/cpp/session/session_controller.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_SCANNING_SCANNER_BROKER_IMPL_H_
 #define ASH_QUICK_PAIR_SCANNING_SCANNER_BROKER_IMPL_H_
 

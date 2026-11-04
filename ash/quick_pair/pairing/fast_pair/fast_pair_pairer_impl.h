@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastPairPairerImpl class declaration
+// summary: Declares the FastPairPairerImpl class and its testing factory, covering the V2 pairing flows via BluetoothAdapter ConnectDevice and BluetoothDevice Pair with passkey handling.
+// ---
+
 #ifndef ASH_QUICK_PAIR_PAIRING_FAST_PAIR_FAST_PAIR_PAIRER_IMPL_H_
 #define ASH_QUICK_PAIR_PAIRING_FAST_PAIR_FAST_PAIR_PAIRER_IMPL_H_
 

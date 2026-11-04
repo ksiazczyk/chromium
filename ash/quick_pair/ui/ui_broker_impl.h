@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIBrokerImpl class declaration
+// summary: Declares UIBrokerImpl, the concrete UIBroker that delegates to a FastPairPresenter and manages observers and weak pointers.
+// relations:
+//   - implements /ash/quick_pair/ui/ui_broker.h
+//   - references /ash/quick_pair/ui/actions.h
+//   - references /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_UI_UI_BROKER_IMPL_H_
 #define ASH_QUICK_PAIR_UI_UI_BROKER_IMPL_H_
 

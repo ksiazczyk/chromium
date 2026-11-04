@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastPairPrefEnabledProvider class declaration
+// summary: Declares a BaseEnabledProvider and SessionObserver that watches the Fast Pair boolean pref and updates its enabled state whenever the pref changes.
+// relations:
+//   - references /ash/public/cpp/session/session_observer.h
+//   - references /ash/quick_pair/feature_status_tracker/base_enabled_provider.h
+//   - references /ash/session/session_controller_impl.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_FAST_PAIR_PREF_ENABLED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_FAST_PAIR_PREF_ENABLED_PROVIDER_H_
 

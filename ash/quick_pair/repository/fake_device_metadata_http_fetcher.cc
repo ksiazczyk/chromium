@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake device metadata HTTP fetcher implementation
+// summary: Implements a fake HTTP fetcher for tests that returns a canned base64-encoded device metadata response and can simulate network errors.
+// relations:
+//   - implements /ash/quick_pair/repository/fake_device_metadata_http_fetcher.h
+//   - references /base/base64.h
+//   - references /chromeos/ash/services/bluetooth_config/public/cpp/device_image_info.h
+// ---
+
 #include "ash/quick_pair/repository/fake_device_metadata_http_fetcher.h"
 
 #include "ash/quick_pair/proto/fastpair.pb.h"

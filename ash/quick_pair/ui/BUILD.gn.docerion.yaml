@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Pair UI build configuration
+summary: Defines the source set, test support library, and unit test targets for the ash Quick Pair UI component with its dependencies.
+relations:
+  - configures /ash/quick_pair/ui/actions.cc
+  - configures /ash/quick_pair/ui/actions.h
+  - configures /ash/quick_pair/ui/fast_pair/fast_pair_notification_controller.cc

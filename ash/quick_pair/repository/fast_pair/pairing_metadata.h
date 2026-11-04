@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pairing metadata for paired Fast Pair devices
+// summary: Defines a struct that wraps the decoded device metadata and account key of an already paired Fast Pair device.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_PAIRING_METADATA_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_PAIRING_METADATA_H_
 

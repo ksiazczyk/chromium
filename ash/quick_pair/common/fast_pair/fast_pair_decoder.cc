@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair service data decoder implementation
+// summary: Implements decoding of Fast Pair BLE advertisement service data, extracting version, flags, and model ID for the 2018 and 2022 formats.
+// relations:
+//   - implements /ash/quick_pair/common/fast_pair/fast_pair_decoder.h
+//   - references /ash/constants/ash_features.h
+// ---
+
 #include "ash/quick_pair/common/fast_pair/fast_pair_decoder.h"
 
 #include <optional>

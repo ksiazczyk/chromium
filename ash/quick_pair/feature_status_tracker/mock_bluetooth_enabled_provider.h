@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockBluetoothEnabledProvider header
+// summary: Declares a gmock mock of BluetoothEnabledProvider that stubs is_enabled and SetCallback for use in Quick Pair unit tests.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/bluetooth_enabled_provider.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_BLUETOOTH_ENABLED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_BLUETOOTH_ENABLED_PROVIDER_H_
 

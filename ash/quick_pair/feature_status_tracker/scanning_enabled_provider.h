@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScanningEnabledProvider class declaration
+// summary: Declares the ScanningEnabledProvider class, its SoftwareScanningStatus enum, pref registration, and the subproviders used to determine scanning availability.
+// relations:
+//   - references /base/memory/weak_ptr.h
+//   - references /components/prefs/pref_change_registrar.h
+//   - references /components/prefs/pref_registry_simple.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_SCANNING_ENABLED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_SCANNING_ENABLED_PROVIDER_H_
 

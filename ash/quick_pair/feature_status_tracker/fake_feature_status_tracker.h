@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeFeatureStatusTracker class declaration
+// summary: Declares a fake FeatureStatusTracker subclass with observer management and a setter for the Fast Pair enabled state, standing in for the real tracker in tests.
+// relations:
+//   - depends_on /ash/quick_pair/feature_status_tracker/quick_pair_feature_status_tracker.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_FAKE_FEATURE_STATUS_TRACKER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_FAKE_FEATURE_STATUS_TRACKER_H_
 

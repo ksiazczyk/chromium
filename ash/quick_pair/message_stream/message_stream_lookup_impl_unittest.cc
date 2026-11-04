@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageStreamLookupImpl unit tests
+// summary: Unit tests for MessageStreamLookupImpl, covering Bluetooth service connection, retry cooldowns, error handling and Fast Pair metrics.
+// relations:
+//   - tests /ash/quick_pair/message_stream/message_stream_lookup_impl.h
+// ---
+
 #include "ash/quick_pair/message_stream/message_stream_lookup_impl.h"
 
 #include <array>

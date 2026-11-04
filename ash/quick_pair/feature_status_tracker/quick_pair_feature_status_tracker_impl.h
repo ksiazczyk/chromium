@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureStatusTrackerImpl class declaration
+// summary: Declares the concrete FeatureStatusTrackerImpl class, which wires together the enabled providers and manages the observer list for Fast Pair status.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/quick_pair_feature_status_tracker.h
+//   - depends_on /ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_QUICK_PAIR_FEATURE_STATUS_TRACKER_IMPL_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_QUICK_PAIR_FEATURE_STATUS_TRACKER_IMPL_H_
 

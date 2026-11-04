@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair feature usage metrics logger header
+// summary: Declares the logger class that tracks Fast Pair feature usage for the Standard Feature Usage Logging framework.
+// relations:
+//   - references /base/component_export.h
+//   - references /base/memory/scoped_refptr.h
+//   - references /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_FAST_PAIR_FAST_PAIR_FEATURE_USAGE_METRICS_LOGGER_H_
 #define ASH_QUICK_PAIR_COMMON_FAST_PAIR_FAST_PAIR_FEATURE_USAGE_METRICS_LOGGER_H_
 

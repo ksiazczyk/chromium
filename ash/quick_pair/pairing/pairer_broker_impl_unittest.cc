@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PairerBrokerImpl
+// summary: Tests the pairer broker's pairing flows, retry behavior, BLE address rotation and metrics using fake handshakes, pairers and a mock Bluetooth adapter.
+// relations:
+//   - references /ash/constants/ash_features.h
+//   - references /ash/quick_pair/common/account_key_failure.h
+//   - references /ash/quick_pair/common/device.h
+// ---
+
 #include "ash/quick_pair/pairing/pairer_broker_impl.h"
 #include "ash/constants/ash_features.h"
 #include "ash/quick_pair/common/account_key_failure.h"

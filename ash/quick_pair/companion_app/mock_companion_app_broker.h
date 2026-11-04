@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockCompanionAppBroker class declaration
+// summary: Declares a gmock mock of CompanionAppBroker with mocked install, launch, and action methods for use in tests.
+// relations:
+//   - implements /ash/quick_pair/companion_app/companion_app_broker.h
+//   - references /base/observer_list.h
+//   - references /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMPANION_APP_MOCK_COMPANION_APP_BROKER_H_
 #define ASH_QUICK_PAIR_COMPANION_APP_MOCK_COMPANION_APP_BROKER_H_
 

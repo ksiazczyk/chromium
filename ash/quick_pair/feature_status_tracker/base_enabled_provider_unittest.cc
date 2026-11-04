@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseEnabledProvider unit tests
+// summary: Unit tests for BaseEnabledProvider covering the initial disabled state, callback invocation on changes, repeated toggles, and callback replacement.
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/base_enabled_provider.h"
 
 #include <memory>

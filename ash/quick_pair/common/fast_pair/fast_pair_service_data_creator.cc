@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair service data creator implementation
+// summary: Implements the FastPairServiceDataCreator builder, assembling byte arrays for Fast Pair Service Data from a header byte, hex model ID, and extra fields.
+// relations:
+//   - implements /ash/quick_pair/common/fast_pair/fast_pair_service_data_creator.h
+//   - depends_on /base/check_op.h
+//   - depends_on /base/strings/string_number_conversions.h
+// ---
+
 #include "ash/quick_pair/common/fast_pair/fast_pair_service_data_creator.h"
 
 #include <cstdint>

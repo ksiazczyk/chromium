@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pairer broker implementation for Fast Pair devices
+// summary: Implements PairerBrokerImpl, handling Fast Pair pairing flows including handshake creation, retries, BLE address rotation and observer notifications.
+// relations:
+//   - implements /ash/quick_pair/pairing/pairer_broker_impl.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/quick_pair/common/account_key_failure.h
+// ---
+
 #include "ash/quick_pair/pairing/pairer_broker_impl.h"
 
 #include <memory>

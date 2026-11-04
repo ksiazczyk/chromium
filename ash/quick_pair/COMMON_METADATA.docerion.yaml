@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Quick Pair common metadata
+summary: Declares the Buganizer component ID and owning team email address for the Quick Pair directory.

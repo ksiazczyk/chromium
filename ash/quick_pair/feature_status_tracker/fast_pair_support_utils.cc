@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair support utilities
+// summary: Implements HasHardwareSupport, which checks the cross-device feature flag, adapter presence and power, and LE scan hardware offloading support for Fast Pair.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/fast_pair_support_utils.h
+//   - references /ash/constants/ash_features.h
+//   - references /base/functional/bind.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/fast_pair_support_utils.h"
 
 #include "ash/constants/ash_features.h"

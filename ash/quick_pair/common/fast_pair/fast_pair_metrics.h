@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair metrics enums and logging declarations
+// summary: Declares enums for Fast Pair engagement flow, retroactive engagement, and success funnel events persisted to histograms, kept in sync with enums.xml for metrics logging.
+// relations:
+//   - references /ash/quick_pair/common/account_key_failure.h
+//   - references /ash/quick_pair/common/fast_pair/fast_pair_http_result.h
+//   - references /ash/quick_pair/common/pair_failure.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_FAST_PAIR_FAST_PAIR_METRICS_H_
 #define ASH_QUICK_PAIR_COMMON_FAST_PAIR_FAST_PAIR_METRICS_H_
 

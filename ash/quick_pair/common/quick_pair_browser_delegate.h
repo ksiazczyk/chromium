@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickPairBrowserDelegate interface
+// summary: Declares the interface that supplies browser dependencies such as the active profile's URL loader factory, prefs, image fetching and Play Store access to Quick Pair code in ash.
+// relations:
+//   - references /base/component_export.h
+//   - references /base/memory/scoped_refptr.h
+//   - references /mojo/public/cpp/bindings/pending_receiver.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_QUICK_PAIR_BROWSER_DELEGATE_H_
 #define ASH_QUICK_PAIR_COMMON_QUICK_PAIR_BROWSER_DELEGATE_H_
 

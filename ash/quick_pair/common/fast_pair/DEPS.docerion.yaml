@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Fast Pair DEPS include rules
+summary: Configures allowed include dependencies for the Fast Pair common directory, permitting Chromium structured metrics headers.

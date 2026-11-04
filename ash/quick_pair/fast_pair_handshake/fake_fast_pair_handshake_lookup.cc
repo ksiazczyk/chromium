@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fast Pair handshake lookup implementation
+// summary: Implements a singleton fake lookup that creates, stores, finds and erases fake handshakes keyed by device or address.
+// relations:
+//   - implements /ash/quick_pair/fast_pair_handshake/fake_fast_pair_handshake_lookup.h
+//   - references /ash/quick_pair/common/device.h
+//   - references /ash/quick_pair/common/fast_pair/fast_pair_metrics.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fake_fast_pair_handshake_lookup.h"
 
 #include <memory>

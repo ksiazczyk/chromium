@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair scanner implementation
+// summary: Implements the Fast Pair scanner by building a Bluetooth Low Energy scan filter for the Fast Pair service data pattern and starting background scan sessions.
+// relations:
+//   - implements /ash/quick_pair/scanning/fast_pair/fast_pair_scanner_impl.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/quick_pair/common/constants.h
+// ---
+
 #include "ash/quick_pair/scanning/fast_pair/fast_pair_scanner_impl.h"
 
 #include "ash/constants/ash_features.h"

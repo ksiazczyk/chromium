@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth HTTP fetcher implementation
+// summary: Implements OAuth-authenticated HTTP GET, POST, and DELETE requests for Fast Pair by fetching a primary account access token and issuing the network call.
+// ---
+
 #include "ash/quick_pair/repository/oauth_http_fetcher.h"
 
 #include "ash/quick_pair/common/fast_pair/fast_pair_http_result.h"

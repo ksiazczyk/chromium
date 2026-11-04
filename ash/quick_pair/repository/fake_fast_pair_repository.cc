@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fast Pair repository implementation for tests
+// summary: Implements a fake FastPairRepository that keeps test metadata, account keys, display names, and opt-in status in memory for unit tests.
+// relations:
+//   - implements /ash/quick_pair/repository/fake_fast_pair_repository.h
+//   - references /ash/quick_pair/common/logging.h
+//   - references /base/base64.h
+// ---
+
 #include "ash/quick_pair/repository/fake_fast_pair_repository.h"
 
 #include "ash/quick_pair/common/logging.h"

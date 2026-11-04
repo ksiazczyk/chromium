@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fast Pair handshake GN build targets
+summary: Defines the fast_pair_handshake source set, test support library, unit tests and an encryption fuzzer target for the Fast Pair handshake code.
+relations:
+  - references /testing/libfuzzer/fuzzer_test.gni
+  - has_part /ash/quick_pair/fast_pair_handshake/fake_fast_pair_handshake.cc
+  - has_part /ash/quick_pair/fast_pair_handshake/fake_fast_pair_handshake.h

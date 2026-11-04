@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceMetadata implementation
+// summary: Implements the DeviceMetadata wrapper, including inference of the Fast Pair version from the anti-spoofing key.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/device_metadata.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/device_metadata.h"
 
 namespace ash {

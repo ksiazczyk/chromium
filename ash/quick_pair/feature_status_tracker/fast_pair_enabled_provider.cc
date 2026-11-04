@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastPairEnabledProvider implementation
+// summary: Implements the Fast Pair enabled provider, combining Bluetooth, pref, login, screen state, API key and scanning sub-providers to compute and observe Fast Pair availability.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/quick_pair/feature_status_tracker/base_enabled_provider.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.h"
 
 #include "ash/constants/ash_features.h"

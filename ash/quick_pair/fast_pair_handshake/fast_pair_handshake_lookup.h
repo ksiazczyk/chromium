@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair handshake lookup interface
+// summary: Declares the FastPairHandshakeLookup interface that creates, retrieves, erases and clears FastPairHandshake instances for devices.
+// relations:
+//   - references /ash/quick_pair/common/device.h
+//   - references /ash/quick_pair/common/pair_failure.h
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_handshake.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_HANDSHAKE_LOOKUP_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_HANDSHAKE_LOOKUP_H_
 

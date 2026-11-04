@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair mediator class declaration
+// summary: Declares the Mediator class that coordinates the Quick Pair scanning, pairing, UI, companion app and repository brokers as a keyed service.
+// relations:
+//   - depends_on /ash/quick_pair/companion_app/companion_app_broker.h
+//   - depends_on /ash/quick_pair/keyed_service/fast_pair_bluetooth_config_delegate.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_KEYED_SERVICE_QUICK_PAIR_MEDIATOR_H_
 #define ASH_QUICK_PAIR_KEYED_SERVICE_QUICK_PAIR_MEDIATOR_H_
 

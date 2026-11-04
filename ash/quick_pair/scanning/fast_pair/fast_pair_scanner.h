@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair scanner interface
+// summary: Defines the FastPairScanner interface that registers a Bluetooth Low Energy scanner and exposes Fast Pair device found and lost events to observers.
+// relations:
+//   - references /base/memory/ref_counted.h
+//   - references /base/memory/scoped_refptr.h
+//   - references /base/observer_list_types.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_SCANNING_FAST_PAIR_FAST_PAIR_SCANNER_H_
 #define ASH_QUICK_PAIR_SCANNING_FAST_PAIR_FAST_PAIR_SCANNER_H_
 

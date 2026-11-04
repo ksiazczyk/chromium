@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock feature status tracker header
+// summary: Declares MockFeatureStatusTracker, a GMock stub of FeatureStatusTracker mocking observer registration and IsFastPairEnabled.
+// relations:
+//   - depends_on /ash/quick_pair/feature_status_tracker/quick_pair_feature_status_tracker.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_QUICK_PAIR_FEATURE_STATUS_TRACKER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_QUICK_PAIR_FEATURE_STATUS_TRACKER_H_
 

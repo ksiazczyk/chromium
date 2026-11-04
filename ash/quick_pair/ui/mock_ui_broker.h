@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock UI broker for Quick Pair tests
+// summary: Declares a gmock-based MockUIBroker implementing the UIBroker interface for use in Quick Pair tests.
+// relations:
+//   - references /ash/quick_pair/ui/actions.h
+//   - references /ash/quick_pair/ui/ui_broker.h
+//   - references /base/observer_list.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_UI_MOCK_UI_BROKER_H_
 #define ASH_QUICK_PAIR_UI_MOCK_UI_BROKER_H_
 

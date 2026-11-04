@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Pair common build configuration (BUILD.gn)
+summary: Defines the quick_pair_common component, its test support library, and unit test targets with their sources and dependencies.
+relations:
+  - configures /ash/quick_pair/common/account_key_failure.cc
+  - configures /ash/quick_pair/common/account_key_failure.h
+  - configures /ash/quick_pair/common/constants.h

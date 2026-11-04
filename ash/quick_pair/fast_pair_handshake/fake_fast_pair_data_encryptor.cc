@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fast Pair data encryptor implementation
+// summary: Implements FakeFastPairDataEncryptor, a test double that returns preset encrypted bytes, keys, responses and passkeys.
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fake_fast_pair_data_encryptor.h"
 
 namespace ash {

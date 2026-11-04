@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Quick Pair mediator factory header
+// summary: Declares FakeQuickPairMediatorFactory, a Mediator factory that builds an instance backed by a fake repository for tests.
+// relations:
+//   - depends_on /ash/quick_pair/keyed_service/quick_pair_mediator.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_KEYED_SERVICE_FAKE_QUICK_PAIR_MEDIATOR_FACTORY_H_
 #define ASH_QUICK_PAIR_KEYED_SERVICE_FAKE_QUICK_PAIR_MEDIATOR_FACTORY_H_
 

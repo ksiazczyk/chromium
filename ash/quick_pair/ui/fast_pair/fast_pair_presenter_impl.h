@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair presenter implementation header
+// summary: Declares FastPairPresenterImpl and its test factory, which translate Fast Pair device events into notification controller calls.
+// relations:
+//   - depends_on /ash/quick_pair/common/protocol.h
+//   - depends_on /ash/quick_pair/ui/actions.h
+//   - depends_on /ash/quick_pair/ui/fast_pair/fast_pair_notification_controller.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_UI_FAST_PAIR_FAST_PAIR_PRESENTER_IMPL_H_
 #define ASH_QUICK_PAIR_UI_FAST_PAIR_FAST_PAIR_PRESENTER_IMPL_H_
 

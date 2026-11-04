@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Pair scanning build targets
+summary: GN build file defining the scanning source set, a test support library with fakes and mocks, and the unit test targets for the Quick Pair scanning component.

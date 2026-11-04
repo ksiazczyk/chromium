@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bluetooth socket implementation for tests
+// summary: Implements a fake Bluetooth socket that lets tests supply bytes, set error reasons, and trigger receive callbacks on demand.
+// relations:
+//   - implements /ash/quick_pair/message_stream/fake_bluetooth_socket.h
+// ---
+
 #include "ash/quick_pair/message_stream/fake_bluetooth_socket.h"
 
 #include <utility>

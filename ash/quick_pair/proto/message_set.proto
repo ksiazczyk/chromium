@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageSet protobuf definition
+// summary: Proto2 MessageSet message with extension wire format that serves as the extensible base for messages such as FastPairInfo.
+// ---
+
 syntax = "proto2";
 // option optimize_for = LITE_RUNTIME;
 package proto2.bridge;

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIBroker interface for Quick Pair UI
+// summary: Defines the UIBroker interface, the entry point that routes show-UI calls to presenters and exposes user actions from Quick Pair notifications.
+// relations:
+//   - references /ash/quick_pair/ui/actions.h
+//   - references /base/observer_list_types.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_UI_UI_BROKER_H_
 #define ASH_QUICK_PAIR_UI_UI_BROKER_H_
 

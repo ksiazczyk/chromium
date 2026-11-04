@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair decoder unit tests
+// summary: Unit tests for the Fast Pair service data decoder, covering model ID parsing with the 2025 advertising format feature enabled and disabled.
+// relations:
+//   - tests /ash/quick_pair/common/fast_pair/fast_pair_decoder.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/quick_pair/common/fast_pair/fast_pair_service_data_creator.h
+// ---
+
 #include "ash/quick_pair/common/fast_pair/fast_pair_decoder.h"
 
 #include <cstdint>

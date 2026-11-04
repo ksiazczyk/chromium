@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockHttpFetcher test double header
+// summary: Declares MockHttpFetcher, a GMock subclass of HttpFetcher that mocks GET requests for use in tests.
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_MOCK_HTTP_FETCHER_H_
 #define ASH_QUICK_PAIR_REPOSITORY_MOCK_HTTP_FETCHER_H_
 

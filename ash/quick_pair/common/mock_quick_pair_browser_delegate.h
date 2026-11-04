@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Quick Pair browser delegate
+// summary: Declares a gmock-based QuickPairBrowserDelegate mock with mocked methods for URL loading, prefs, service requests and companion app actions.
+// relations:
+//   - implements /ash/quick_pair/common/quick_pair_browser_delegate.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_MOCK_QUICK_PAIR_BROWSER_DELEGATE_H_
 #define ASH_QUICK_PAIR_COMMON_MOCK_QUICK_PAIR_BROWSER_DELEGATE_H_
 

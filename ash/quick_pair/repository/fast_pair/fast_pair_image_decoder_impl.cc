@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair image decoder implementation
+// summary: Implements Fast Pair notification image decoding, fetching images by URL and resizing bitmaps to fit the maximum notification height.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/fast_pair_image_decoder_impl.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/fast_pair_image_decoder_impl.h"
 
 #include "ash/quick_pair/common/quick_pair_browser_delegate.h"

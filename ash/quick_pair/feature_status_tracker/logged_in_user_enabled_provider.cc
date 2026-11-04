@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logged in user enabled provider implementation
+// summary: Implements a provider that enables status tracking when a regular, guest, or child user is logged in, excluding locked and kiosk sessions.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/logged_in_user_enabled_provider.h
+//   - references /ash/session/session_controller_impl.h
+//   - references /ash/shell.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/logged_in_user_enabled_provider.h"
 
 #include "ash/session/session_controller_impl.h"

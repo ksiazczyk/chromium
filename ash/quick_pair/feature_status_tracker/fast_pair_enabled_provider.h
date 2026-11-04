@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastPairEnabledProvider class declaration
+// summary: Declares the FastPairEnabledProvider that exposes is_enabled and a callback to query and observe when the Fast Pair feature is enabled or disabled.
+// relations:
+//   - depends_on /ash/quick_pair/feature_status_tracker/base_enabled_provider.h
+//   - depends_on /ash/quick_pair/feature_status_tracker/bluetooth_enabled_provider.h
+//   - depends_on /ash/quick_pair/feature_status_tracker/fast_pair_pref_enabled_provider.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_FAST_PAIR_ENABLED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_FAST_PAIR_ENABLED_PROVIDER_H_
 

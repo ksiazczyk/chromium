@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair feature usage metrics logger implementation
+// summary: Implements Fast Pair feature usage logging, determining eligibility from Bluetooth hardware offloading and accessibility from enterprise policy.
+// relations:
+//   - implements /ash/quick_pair/common/fast_pair/fast_pair_feature_usage_metrics_logger.h
+//   - references /ash/constants/ash_pref_names.h
+//   - references /ash/quick_pair/common/quick_pair_browser_delegate.h
+// ---
+
 #include "ash/quick_pair/common/fast_pair/fast_pair_feature_usage_metrics_logger.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FastPairEnabledProvider unit tests
+// summary: Unit tests verifying that the Fast Pair enabled provider invokes its callback on Bluetooth changes and reports the expected enabled state from its sub-providers.
+// relations:
+//   - tests /ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/quick_pair/common/fake_bluetooth_adapter.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.h"
 
 #include <memory>

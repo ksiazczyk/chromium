@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware offloading supported provider header
+// summary: Declares HardwareOffloadingSupportedProvider, which observes the Bluetooth adapter and reports hardware offloading support for BLE scan sessions.
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_HARDWARE_OFFLOADING_SUPPORTED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_HARDWARE_OFFLOADING_SUPPORTED_PROVIDER_H_
 

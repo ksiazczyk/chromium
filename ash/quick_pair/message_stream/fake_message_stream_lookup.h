@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake message stream lookup declaration for tests
+// summary: Declares a fake MessageStreamLookup for tests that exposes, adds, and removes MessageStream instances per device address.
+// relations:
+//   - depends_on /ash/quick_pair/message_stream/message_stream_lookup.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_MESSAGE_STREAM_FAKE_MESSAGE_STREAM_LOOKUP_H_
 #define ASH_QUICK_PAIR_MESSAGE_STREAM_FAKE_MESSAGE_STREAM_LOOKUP_H_
 

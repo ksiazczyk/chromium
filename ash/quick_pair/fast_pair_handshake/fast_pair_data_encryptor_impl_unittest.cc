@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair data encryptor unit tests
+// summary: Unit tests for FastPairDataEncryptorImpl covering encryptor creation via key exchange and account key protocols, missing metadata failures, and encryption and decryption behavior.
+// relations:
+//   - tests /ash/quick_pair/fast_pair_handshake/fast_pair_data_encryptor_impl.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_data_encryptor_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceImageStore implementation
+// summary: Implements fetching, decoding, persisting and eviction of Fast Pair device images keyed by model ID in local state prefs.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/device_image_store.h
+//   - references /ash/quick_pair/repository/fast_pair/fast_pair_image_decoder.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/device_image_store.h"
 
 #include "ash/quick_pair/proto/fastpair.pb.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair logging implementation
+// summary: Implements ScopedLogMessage, which sends QP_LOG output to the LogBuffer and the standard logging system, plus a scoped helper that disables logging in tests.
+// relations:
+//   - implements /ash/quick_pair/common/logging.h
+//   - depends_on /ash/quick_pair/common/log_buffer.h
+//   - depends_on /base/time/time.h
+// ---
+
 #include "ash/quick_pair/common/logging.h"
 
 #include "ash/quick_pair/common/log_buffer.h"

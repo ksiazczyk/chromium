@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair not discoverable scanner interface
+// summary: Defines the FastPairNotDiscoverableScanner interface for detecting Fast Pair not discoverable advertisements and reporting found and lost devices through callbacks.
+// relations:
+//   - references /ash/quick_pair/scanning/fast_pair/fast_pair_scanner.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_SCANNING_FAST_PAIR_FAST_PAIR_NOT_DISCOVERABLE_SCANNER_H_
 #define ASH_QUICK_PAIR_SCANNING_FAST_PAIR_FAST_PAIR_NOT_DISCOVERABLE_SCANNER_H_
 

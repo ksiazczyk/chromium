@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceMetadataFetcher implementation
+// summary: Implements fetching Fast Pair device metadata from the nearbydevices Google API by device ID, in release or debug mode.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/device_metadata_fetcher.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/quick_pair/repository/unauthenticated_http_fetcher.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/device_metadata_fetcher.h"
 
 #include "ash/constants/ash_features.h"

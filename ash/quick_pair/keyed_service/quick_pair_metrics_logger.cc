@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair metrics logger implementation
+// summary: Implements the Quick Pair metrics logger, recording Fast Pair engagement funnel and pairing metrics from scanner, pairer, UI and Bluetooth adapter events.
+// relations:
+//   - implements /ash/quick_pair/keyed_service/quick_pair_metrics_logger.h
+// ---
+
 #include "ash/quick_pair/keyed_service/quick_pair_metrics_logger.h"
 
 #include "ash/quick_pair/common/device.h"

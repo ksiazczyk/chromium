@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothEnabledProvider unit tests
+// summary: Unit tests for BluetoothEnabledProvider using a fake Bluetooth adapter to verify behavior across powered, present, and hardware offloading state changes.
+// relations:
+//   - tests /ash/quick_pair/feature_status_tracker/bluetooth_enabled_provider.h
+//   - depends_on /ash/quick_pair/common/fake_bluetooth_adapter.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/bluetooth_enabled_provider.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Pair GN build targets
+summary: Defines the Quick Pair group target aggregating its subcomponent dependencies and a unit_tests group collecting all unit test targets.

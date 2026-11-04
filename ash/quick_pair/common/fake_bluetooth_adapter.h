@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bluetooth adapter declaration for tests
+// summary: Declares a fake Bluetooth adapter extending the mock adapter with controls for power, offloading, connect failures, and test notifications.
+// relations:
+//   - depends_on /device/bluetooth/test/mock_bluetooth_adapter.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_FAKE_BLUETOOTH_ADAPTER_H_
 #define ASH_QUICK_PAIR_COMMON_FAKE_BLUETOOTH_ADAPTER_H_
 

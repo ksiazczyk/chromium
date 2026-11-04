@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpFetcher interface for HTTP requests
+// summary: Defines the HttpFetcher interface for performing GET, POST, and DELETE requests and returning responses via a FetchCompleteCallback.
+// relations:
+//   - references /ash/quick_pair/common/fast_pair/fast_pair_http_result.h
+//   - references /base/functional/callback.h
+//   - references /net/traffic_annotation/network_traffic_annotation.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_HTTP_FETCHER_H_
 #define ASH_QUICK_PAIR_REPOSITORY_HTTP_FETCHER_H_
 

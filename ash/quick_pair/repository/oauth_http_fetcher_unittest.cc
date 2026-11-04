@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OAuth HTTP fetcher unit tests
+// summary: Unit tests for OAuthHttpFetcher that exercise authenticated GET requests using fake identity, session, and URL loader environments, covering token issuance and response handling.
+// ---
+
 #include "ash/quick_pair/repository/oauth_http_fetcher.h"
 
 #include "ash/quick_pair/common/mock_quick_pair_browser_delegate.h"

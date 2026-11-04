@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending write store implementation
+// summary: Implements storage of pending Fast Pair device writes and deletes in user prefs, keyed by Bluetooth MAC address.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/pending_write_store.h
+//   - depends_on /ash/quick_pair/common/quick_pair_browser_delegate.h
+//   - depends_on /base/base64.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/pending_write_store.h"
 
 #include "ash/quick_pair/common/quick_pair_browser_delegate.h"

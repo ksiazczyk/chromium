@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PairFailure enum of Fast Pair pairing failure reasons
+// summary: Defines the PairFailure enum of Fast Pair pairing failure reasons, which is persisted to histogram logs and must stay in sync with the FastPairPairFailure enum in enums.xml.
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_PAIR_FAILURE_H_
 #define ASH_QUICK_PAIR_COMMON_PAIR_FAILURE_H_
 

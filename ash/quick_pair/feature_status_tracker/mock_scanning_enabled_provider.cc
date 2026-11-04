@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock scanning enabled provider implementation
+// summary: Implements MockScanningEnabledProvider, constructing the base scanning enabled provider with null dependencies for test use.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/mock_scanning_enabled_provider.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/mock_scanning_enabled_provider.h"
 
 namespace ash::quick_pair {

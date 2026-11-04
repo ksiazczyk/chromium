@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fast Pair message stream build targets
+summary: Defines the message_stream source set, the test_support static library with fakes, and the unit_tests target for the Fast Pair message stream.
+relations:
+  - has_part /ash/quick_pair/message_stream/message_stream.cc
+  - has_part /ash/quick_pair/message_stream/message_stream.h
+  - has_part /ash/quick_pair/message_stream/message_stream_lookup.h

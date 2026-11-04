@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery update message handler implementation
+// summary: Implements BatteryUpdateMessageHandler, which observes MessageStreams and applies battery update messages to the corresponding Bluetooth devices.
+// relations:
+//   - implements /ash/quick_pair/keyed_service/battery_update_message_handler.h
+//   - references /base/functional/bind.h
+//   - references /base/functional/callback.h
+// ---
+
 #include "ash/quick_pair/keyed_service/battery_update_message_handler.h"
 
 #include <ranges>

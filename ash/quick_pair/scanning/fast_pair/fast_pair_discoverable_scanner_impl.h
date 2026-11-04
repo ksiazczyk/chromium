@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair discoverable scanner implementation header
+// summary: Declares FastPairDiscoverableScannerImpl, which observes the Fast Pair scanner and network state to track pending and notified devices, with a factory for testing.
+// relations:
+//   - implements /ash/quick_pair/scanning/fast_pair/fast_pair_discoverable_scanner.h
+//   - references /chromeos/ash/components/network/network_state_handler_observer.h
+//   - references /chromeos/ash/services/quick_pair/quick_pair_process_manager.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_SCANNING_FAST_PAIR_FAST_PAIR_DISCOVERABLE_SCANNER_IMPL_H_
 #define ASH_QUICK_PAIR_SCANNING_FAST_PAIR_FAST_PAIR_DISCOVERABLE_SCANNER_IMPL_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageStream unit tests
+// summary: Unit tests for the MessageStream class, covering parsing and handling of Fast Pair messages such as model ID, battery updates and silence mode.
+// relations:
+//   - tests /ash/quick_pair/message_stream/message_stream.h
+// ---
+
 #include "ash/quick_pair/message_stream/message_stream.h"
 
 #include <memory>

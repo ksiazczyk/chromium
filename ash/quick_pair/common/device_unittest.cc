@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device unit tests
+// summary: Unit tests for the Quick Pair Device class covering account key and display name getters and setters.
+// relations:
+//   - tested_by /ash/quick_pair/common/device.h
+//   - references /ash/quick_pair/common/protocol.h
+// ---
+
 #include "ash/quick_pair/common/device.h"
 
 #include <cstdint>

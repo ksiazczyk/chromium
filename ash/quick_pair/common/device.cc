@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device stream output implementation
+// summary: Implements stream output for Quick Pair Device objects, logging metadata ID and protocol, with addresses and names only in verbose logs.
+// relations:
+//   - implements /ash/quick_pair/common/device.h
+//   - references /ash/quick_pair/common/protocol.h
+//   - references /base/logging.h
+// ---
+
 #include "ash/quick_pair/common/device.h"
 
 #include <ostream>

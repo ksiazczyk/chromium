@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureStatusTracker interface
+// summary: Interface exposing APIs to query and track the status of Quick Pair implementations such as Fast Pair, with observer registration and enabled-change notifications.
+// relations:
+//   - depends_on /base/observer_list.h
+//   - depends_on /base/observer_list_types.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_QUICK_PAIR_FEATURE_STATUS_TRACKER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_QUICK_PAIR_FEATURE_STATUS_TRACKER_H_
 

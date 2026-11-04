@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logged in user enabled provider header
+// summary: Declares LoggedInUserEnabledProvider, a BaseEnabledProvider and SessionObserver that tracks whether a user is logged in.
+// relations:
+//   - references /ash/public/cpp/session/session_controller.h
+//   - references /ash/public/cpp/session/session_observer.h
+//   - references /ash/quick_pair/feature_status_tracker/base_enabled_provider.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_LOGGED_IN_USER_ENABLED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_LOGGED_IN_USER_ENABLED_PROVIDER_H_
 

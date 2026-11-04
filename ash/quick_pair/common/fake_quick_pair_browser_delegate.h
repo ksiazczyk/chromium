@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Quick Pair browser delegate for tests
+// summary: Declares a fake QuickPairBrowserDelegate used in tests, with configurable companion app install state and stubbed access to prefs, URL loading and image fetching.
+// relations:
+//   - depends_on /ash/quick_pair/common/quick_pair_browser_delegate.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_FAKE_QUICK_PAIR_BROWSER_DELEGATE_H_
 #define ASH_QUICK_PAIR_COMMON_FAKE_QUICK_PAIR_BROWSER_DELEGATE_H_
 

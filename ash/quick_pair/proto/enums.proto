@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair enum definitions
+// summary: Protobuf enums for the nearby.fastpair package covering notification and interaction types, opt-in status, nearby item types, and Fast Pair device features.
+// ---
+
 syntax = "proto3";
 
 package nearby.fastpair;

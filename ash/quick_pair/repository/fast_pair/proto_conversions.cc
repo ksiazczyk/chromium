@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair protobuf conversion helpers
+// summary: Builds FastPairInfo protobuf messages from device metadata, account keys, MAC addresses, and opt-in status for Footprints sync.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/proto_conversions.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/quick_pair/repository/fast_pair/device_metadata.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/proto_conversions.h"
 
 #include "ash/constants/ash_features.h"

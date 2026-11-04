@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair key pair constructors
+// summary: Implements the copy and move constructors for the KeyPair struct that holds Fast Pair private and public keys.
+// relations:
+//   - implements /ash/quick_pair/fast_pair_handshake/fast_pair_key_pair.h
+// ---
+
 #include "ash/quick_pair/fast_pair_handshake/fast_pair_key_pair.h"
 
 namespace ash {

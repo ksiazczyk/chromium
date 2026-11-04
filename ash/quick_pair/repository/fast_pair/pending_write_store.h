@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending write store for Fast Pair account keys
+// summary: Declares a store that persists pending Fast Pair writes and deletes for paired devices in user prefs until they are synced to Footprints.
+// relations:
+//   - depends_on /base/values.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_PENDING_WRITE_STORE_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_PENDING_WRITE_STORE_H_
 

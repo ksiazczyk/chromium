@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bluetooth adapter implementation for tests
+// summary: Implements a fake Bluetooth adapter that simulates power state, pairing, and GATT notifications for Quick Pair tests.
+// relations:
+//   - implemented_by /ash/quick_pair/common/fake_bluetooth_adapter.h
+// ---
+
 #include "ash/quick_pair/common/fake_bluetooth_adapter.h"
 
 namespace {

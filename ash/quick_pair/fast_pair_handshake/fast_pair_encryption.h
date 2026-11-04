@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair encryption header
+// summary: Declares Fast Pair encryption helpers for generating keys via ECDH key agreement, encrypting bytes, generating HMAC-SHA256, and encrypting additional data per the Fast Pair specification.
+// relations:
+//   - references /ash/quick_pair/fast_pair_handshake/fast_pair_key_pair.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_ENCRYPTION_H_
 #define ASH_QUICK_PAIR_FAST_PAIR_HANDSHAKE_FAST_PAIR_ENCRYPTION_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock scanner broker class declaration
+// summary: Declares MockScannerBroker, a gmock mock of ScannerBroker with mocked start/stop scanning methods and helpers to trigger device found and lost notifications.
+// relations:
+//   - implements /ash/quick_pair/scanning/scanner_broker.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_SCANNING_MOCK_SCANNER_BROKER_H_
 #define ASH_QUICK_PAIR_SCANNING_MOCK_SCANNER_BROKER_H_
 

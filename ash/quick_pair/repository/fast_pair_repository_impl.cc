@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair repository production implementation
+// summary: Implements the production FastPairRepository, handling metadata fetching, Footprints account key writes, forget patterns, and device image caching.
+// relations:
+//   - depends_on /ash/quick_pair/repository/fast_pair_repository_impl.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair_repository_impl.h"
 
 #include <string_view>

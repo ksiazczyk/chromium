@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the pairing directory
+summary: Grants the pairing directory access to OpenSSL utility and BoringSSL headers needed for cryptographic operations.

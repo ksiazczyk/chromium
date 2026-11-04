@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair notification controller implementation
+// summary: Implements FastPairNotificationController, which creates and manages message center notifications for Fast Pair discovery, pairing, errors, companion app, account association, and passkey events.
+// relations:
+//   - implements /ash/quick_pair/ui/fast_pair/fast_pair_notification_controller.h
+// ---
+
 #include "ash/quick_pair/ui/fast_pair/fast_pair_notification_controller.h"
 
 #include "ash/constants/notifier_catalogs.h"

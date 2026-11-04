@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompanionAppBroker implementation
+// summary: Implements companion app actions by checking device model IDs, install and Play Store URIs, and login status to trigger install or launch notifications.
+// relations:
+//   - references /ash/quick_pair/companion_app/companion_app_broker_impl.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/login_status.h
+// ---
+
 #include "ash/quick_pair/companion_app/companion_app_broker_impl.h"
 
 #include <algorithm>

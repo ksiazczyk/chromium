@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockHardwareOffloadingSupportedProvider header
+// summary: Declares a gmock mock of HardwareOffloadingSupportedProvider that stubs is_enabled for use in Quick Pair unit tests.
+// relations:
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+//   - implements /ash/quick_pair/feature_status_tracker/hardware_offloading_supported_provider.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_HARDWARE_OFFLOADING_SUPPORTED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_HARDWARE_OFFLOADING_SUPPORTED_PROVIDER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BatteryUpdateMessageHandler
+// summary: Unit tests verifying battery update handling in BatteryUpdateMessageHandler using fake adapters, message streams, and mock Bluetooth devices.
+// relations:
+//   - references /ash/quick_pair/keyed_service/battery_update_message_handler.h
+//   - references /ash/quick_pair/common/fake_bluetooth_adapter.h
+//   - references /ash/quick_pair/message_stream/fake_bluetooth_socket.h
+// ---
+
 #include "ash/quick_pair/keyed_service/battery_update_message_handler.h"
 
 #include <memory>

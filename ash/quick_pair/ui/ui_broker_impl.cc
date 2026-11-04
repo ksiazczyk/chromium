@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIBroker implementation for Quick Pair UI
+// summary: Implements UIBrokerImpl, dispatching show-UI calls to the Fast Pair presenter based on device protocol and notifying observers of user actions.
+// relations:
+//   - implements /ash/quick_pair/ui/ui_broker_impl.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/quick_pair/common/device.h
+// ---
+
 #include "ash/quick_pair/ui/ui_broker_impl.h"
 
 #include <memory>

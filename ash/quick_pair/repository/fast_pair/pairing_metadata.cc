@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pairing metadata implementation
+// summary: Implements the constructors and destructor of the PairingMetadata struct that pairs device metadata with an account key.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/pairing_metadata.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/pairing_metadata.h"
 
 namespace ash {

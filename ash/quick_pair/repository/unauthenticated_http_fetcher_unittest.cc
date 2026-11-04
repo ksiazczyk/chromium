@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unauthenticated HTTP fetcher unit tests
+// summary: Unit tests for UnauthenticatedHttpFetcher covering successful GET requests, HTTP error responses, and behavior when no URL loader factory is available.
+// relations:
+//   - tests /ash/quick_pair/repository/unauthenticated_http_fetcher.h
+//   - references /ash/quick_pair/common/mock_quick_pair_browser_delegate.h
+// ---
+
 #include "ash/quick_pair/repository/unauthenticated_http_fetcher.h"
 
 #include "ash/quick_pair/common/mock_quick_pair_browser_delegate.h"

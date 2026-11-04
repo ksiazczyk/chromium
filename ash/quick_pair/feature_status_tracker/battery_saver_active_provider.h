@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatterySaverActiveProvider declaration
+// summary: Declares BatterySaverActiveProvider, a BaseEnabledProvider that observes PowerStatus to expose the current battery saver state.
+// relations:
+//   - depends_on /ash/quick_pair/feature_status_tracker/base_enabled_provider.h
+//   - depends_on /ash/system/power/power_status.h
+//   - tested_by /ash/quick_pair/feature_status_tracker/battery_saver_active_provider_unittest.cc
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_BATTERY_SAVER_ACTIVE_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_BATTERY_SAVER_ACTIVE_PROVIDER_H_
 

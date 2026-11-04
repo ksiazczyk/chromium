@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair Device class declaration
+// summary: Declares the ref-counted Device class used by higher level Quick Pair components, holding metadata ID, addresses, account key, and protocol.
+// relations:
+//   - references /ash/quick_pair/common/protocol.h
+//   - references /base/component_export.h
+//   - references /base/containers/flat_map.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_COMMON_DEVICE_H_
 #define ASH_QUICK_PAIR_COMMON_DEVICE_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake footprints fetcher implementation
+// summary: Fake FootprintsFetcher that keeps Fast Pair device info in memory and returns configurable responses and results for use in tests.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/fake_footprints_fetcher.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair/fake_footprints_fetcher.h"
 
 #include "ash/quick_pair/common/logging.h"

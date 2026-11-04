@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RetroactivePairingDetector interface header
+// summary: Declares the RetroactivePairingDetector interface that detects Fast Pair devices eligible for retroactive pairing and notifies registered observers.
+// relations:
+//   - references /base/memory/scoped_refptr.h
+//   - references /base/observer_list_types.h
+//   - references /device/bluetooth/bluetooth_adapter.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_PAIRING_RETROACTIVE_PAIRING_DETECTOR_H_
 #define ASH_QUICK_PAIR_PAIRING_RETROACTIVE_PAIRING_DETECTOR_H_
 

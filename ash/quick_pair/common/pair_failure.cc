@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pair failure to string conversion
+// summary: Implements the stream output operator that maps PairFailure enum values to human-readable descriptions of Fast Pair pairing failures such as GATT and timeout errors.
+// relations:
+//   - implements /ash/quick_pair/common/pair_failure.h
+// ---
+
 #include "ash/quick_pair/common/pair_failure.h"
 
 namespace ash::quick_pair {

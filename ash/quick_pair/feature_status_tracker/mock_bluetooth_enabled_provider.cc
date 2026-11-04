@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockBluetoothEnabledProvider implementation
+// summary: Defines the default constructor and destructor for the MockBluetoothEnabledProvider test double used in Quick Pair status tracker tests.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/mock_bluetooth_enabled_provider.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/mock_bluetooth_enabled_provider.h"
 
 namespace ash {

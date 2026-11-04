@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair discoverable scanner unit tests
+// summary: Unit tests for FastPairDiscoverableScannerImpl using a fake scanner, repository and process manager plus mock Bluetooth adapters to verify discoverable scanning behavior.
+// relations:
+//   - tests /ash/quick_pair/scanning/fast_pair/fast_pair_discoverable_scanner_impl.h
+// ---
+
 #include "ash/quick_pair/scanning/fast_pair/fast_pair_discoverable_scanner_impl.h"
 
 #include <memory>

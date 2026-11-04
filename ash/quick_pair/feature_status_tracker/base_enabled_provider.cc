@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseEnabledProvider implementation
+// summary: Implements the BaseEnabledProvider class that stores an enabled flag and invokes a registered callback whenever the enabled state changes.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/base_enabled_provider.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #include "ash/quick_pair/feature_status_tracker/base_enabled_provider.h"
 
 #include "base/functional/callback.h"

@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Fast Pair repository
+summary: Defines the GN build targets for the Fast Pair repository source set, a test_support static library with fakes and mocks, and the unit_tests target.
+relations:
+  - references /ash/quick_pair/repository/fast_pair_repository.cc
+  - references /ash/quick_pair/repository/fast_pair_repository.h
+  - references /ash/quick_pair/repository/fast_pair_repository_impl.cc

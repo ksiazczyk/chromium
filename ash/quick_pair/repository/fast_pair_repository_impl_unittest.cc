@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair repository implementation unit tests
+// summary: Unit tests for FastPairRepositoryImpl covering device metadata, saved devices, footprints, opt-in status, device images, and related Fast Pair metrics.
+// relations:
+//   - tests /ash/quick_pair/repository/fast_pair_repository_impl.h
+// ---
+
 #include "ash/quick_pair/repository/fast_pair_repository_impl.h"
 
 #include <array>

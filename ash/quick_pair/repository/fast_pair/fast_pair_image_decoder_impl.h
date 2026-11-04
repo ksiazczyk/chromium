@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair image decoder implementation header
+// summary: Declares FastPairImageDecoderImpl, which decodes device images from URLs or bytes using the image fetcher and data decoder services.
+// relations:
+//   - implements /ash/quick_pair/repository/fast_pair/fast_pair_image_decoder.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_FAST_PAIR_IMAGE_DECODER_IMPL_H_
 #define ASH_QUICK_PAIR_REPOSITORY_FAST_PAIR_FAST_PAIR_IMAGE_DECODER_IMPL_H_
 

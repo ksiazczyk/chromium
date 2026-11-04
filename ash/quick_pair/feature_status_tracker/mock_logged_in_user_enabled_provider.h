@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockLoggedInUserEnabledProvider header
+// summary: Declares a gmock mock of LoggedInUserEnabledProvider that stubs is_enabled for use in Quick Pair unit tests.
+// relations:
+//   - implements /ash/quick_pair/feature_status_tracker/logged_in_user_enabled_provider.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_LOGGED_IN_USER_ENABLED_PROVIDER_H_
 #define ASH_QUICK_PAIR_FEATURE_STATUS_TRACKER_MOCK_LOGGED_IN_USER_ENABLED_PROVIDER_H_
 
