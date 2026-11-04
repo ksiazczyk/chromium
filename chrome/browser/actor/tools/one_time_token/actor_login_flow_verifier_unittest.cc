@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor login flow verifier unit tests
+// summary: Unit tests covering verifier outcomes such as missing login context, frames outside the context, and origin match results.
+// ---
+
 #include "chrome/browser/actor/tools/one_time_token/actor_login_flow_verifier.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor UI interactive browser test base implementation
+// summary: Implements the ActorUiInteractiveBrowserTest fixture that enables Glic switches and provides helpers to start acting on a tab, pause and complete actor tasks in interactive browser tests.
+// ---
+
 #include "chrome/browser/actor/ui/actor_ui_interactive_browser_test.h"
 
 #include "chrome/browser/actor/actor_task_metadata.h"

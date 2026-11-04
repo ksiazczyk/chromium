@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwitchTabTool implementation
+// summary: Implements the actor tool that fuzzy-matches a query against tab titles and URLs, validates the match, and delegates activation of the chosen background tab to a TabManagementTool.
+// ---
+
 #include "chrome/browser/actor/tools/switch_tab_tool.h"
 
 #include <memory>

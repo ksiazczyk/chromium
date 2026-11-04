@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attempt OTP filling tool header
+// summary: Declares the AttemptOtpFillingTool class that retrieves and fills one-time passwords into specified trigger fields on a page.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_ONE_TIME_TOKEN_ATTEMPT_OTP_FILLING_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_ONE_TIME_TOKEN_ATTEMPT_OTP_FILLING_TOOL_H_
 

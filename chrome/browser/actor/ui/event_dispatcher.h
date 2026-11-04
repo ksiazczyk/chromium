@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI event dispatcher interface
+// summary: Declares the UiEventDispatcher interface for pre- and post-tool UI events and actor task change notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_EVENT_DISPATCHER_H_
 #define CHROME_BROWSER_ACTOR_UI_EVENT_DISPATCHER_H_
 

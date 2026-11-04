@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake tool header for actor tool tests
+// summary: Declares FakeTool, a fake tool that lets tests control the timing of validation and invocation callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_FAKE_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_FAKE_TOOL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page search utility declarations
+// summary: Declares tab, history, and bookmark search helpers, URL match filters, and match structs used by actor page search.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_PAGE_SEARCH_UTILS_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_PAGE_SEARCH_UTILS_H_
 

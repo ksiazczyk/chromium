@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site-based search tool request declarations
+// summary: Declares SiteBasedSearchToolRequest, which searches the active website using its OpenSearch template or a discoverable DOM search input.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_SITE_BASED_SEARCH_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_SITE_BASED_SEARCH_TOOL_REQUEST_H_
 

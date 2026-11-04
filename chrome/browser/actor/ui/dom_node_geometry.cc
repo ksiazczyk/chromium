@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM node geometry implementation
+// summary: Builds a map of DOM nodes to their geometry from annotated page content and resolves nodes to center points.
+// ---
+
 #include "chrome/browser/actor/ui/dom_node_geometry.h"
 
 #include "base/trace_event/trace_event.h"

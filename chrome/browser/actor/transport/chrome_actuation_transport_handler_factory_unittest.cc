@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeActuationTransportHandlerFactory unit tests
+// summary: Unit tests for the Chrome actuation transport handler factory, using a fake transport session to exercise handler creation and messaging.
+// ---
+
 #include "chrome/browser/actor/transport/chrome_actuation_transport_handler_factory.h"
 
 #include <memory>

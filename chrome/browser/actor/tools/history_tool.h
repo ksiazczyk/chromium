@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryTool class declaration
+// summary: Declares the HistoryTool class that performs back, forward, and reload navigations in a WebContents and tracks pending navigations.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_HISTORY_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_HISTORY_TOOL_H_
 

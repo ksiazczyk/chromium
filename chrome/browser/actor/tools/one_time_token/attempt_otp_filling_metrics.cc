@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTP filling metrics recording
+// summary: Implements functions that record histogram and UKM metrics for OTP filling tool events, opt-in cards, dialogs, and login flow verification.
+// ---
+
 #include "chrome/browser/actor/tools/one_time_token/attempt_otp_filling_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History tool request implementation
+// summary: Implements the history back, forward, and reload tool requests with their tool definitions and HistoryTool creation.
+// ---
+
 #include "chrome/browser/actor/tools/history_tool_request.h"
 
 #include <memory>

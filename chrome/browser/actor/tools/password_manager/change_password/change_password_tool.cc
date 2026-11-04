@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change password tool implementation
+// summary: Implements the ChangePassword actor tool, validating that password field targets are DOM nodes and providing debug, journal, and page stability hooks.
+// ---
+
 #include "chrome/browser/actor/tools/password_manager/change_password/change_password_tool.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolRegistry unit tests
+// summary: Extensive unit tests verifying tool definitions for Actor tools such as navigate, click and switch tab, including parameter schemas and registry lookups.
+// ---
+
 #include "chrome/browser/actor/tools/registry/tool_registry.h"
 
 #include <algorithm>

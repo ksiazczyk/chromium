@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find and highlight tool header
+// summary: Declares the FindAndHighlightTool class that highlights matching text in a tab and scrolls it into view, with Tool interface overrides and a query accessor.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_FIND_AND_HIGHLIGHT_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_FIND_AND_HIGHLIGHT_TOOL_H_
 

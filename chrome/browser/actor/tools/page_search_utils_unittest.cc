@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page search utilities unit tests
+// summary: Unit tests covering tab, history, and bookmark matching behavior of the actor page search utilities.
+// ---
+
 #include "chrome/browser/actor/tools/page_search_utils.h"
 
 #include <memory>

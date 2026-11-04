@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media control tool browser tests
+// summary: Browser tests verifying pause, play, and seek media actions, including error handling when no media is present.
+// ---
+
 #include "chrome/browser/actor/tools/media_control_tool.h"
 
 #include "chrome/browser/actor/actor_test_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the fake tool request
+// summary: Implements FakeToolRequest, which creates a FakeTool instance and applies a zero-duration wait when visited.
+// ---
+
 #include "chrome/browser/actor/tools/fake_tool_request.h"
 
 #include "chrome/browser/actor/actor_surface_handle.h"

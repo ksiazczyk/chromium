@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigate tool request class declaration
+// summary: Declares NavigateToolRequest, a tab tool request that navigates a specified tab to a given URL.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_NAVIGATE_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_NAVIGATE_TOOL_REQUEST_H_
 

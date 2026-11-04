@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark management tool browser tests
+// summary: Browser tests covering adding and removing bookmarks via the actor tool and error handling for invalid URLs.
+// ---
+
 #include "chrome/browser/actor/tools/bookmark_management_tool.h"
 
 #include <memory>

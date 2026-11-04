@@ -1,0 +1,4 @@
+# Docerion header of actor_overlay.mojom.
+type: source
+title: Actor overlay Mojo interface definitions
+summary: Defines Mojo interfaces and theme structs for communication between the browser and the Actor Overlay WebUI, including cursor, scrim and glow controls.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page target utility for actor tools
+// summary: Declares helpers that resolve a PageTarget to a RenderFrameHost, hit-test node info, and an autofill field ID using the last observed annotated page content.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_PAGE_TARGET_UTIL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_PAGE_TARGET_UTIL_H_
 

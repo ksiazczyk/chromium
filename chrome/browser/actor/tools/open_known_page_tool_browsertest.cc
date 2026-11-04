@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Open known page tool browser tests
+// summary: Browser tests for the open known page tool covering tab, history and bookmark matching and the resulting navigation behavior.
+// ---
+
 #include <memory>
 #include <string>
 

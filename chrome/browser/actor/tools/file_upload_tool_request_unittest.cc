@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File upload tool request unit tests
+// summary: Unit tests for the file upload tool request covering request properties, URL redaction in stream output, and tool creation error cases such as empty or unauthorized file lists.
+// ---
+
 #include "chrome/browser/actor/tools/file_upload_tool_request.h"
 
 #include <memory>

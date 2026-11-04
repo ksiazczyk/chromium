@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark management tool header
+// summary: Declares the BookmarkManagementTool class with add and remove actions for managing profile bookmarks.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_BOOKMARK_MANAGEMENT_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_BOOKMARK_MANAGEMENT_TOOL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttemptFormFillingTool class declaration
+// summary: Declares the tool class that drives autofill suggestion retrieval, selection dialog handling, and form filling within the actor framework.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_AUTOFILL_ATTEMPT_FORM_FILLING_ATTEMPT_FORM_FILLING_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_AUTOFILL_ATTEMPT_FORM_FILLING_ATTEMPT_FORM_FILLING_TOOL_H_
 

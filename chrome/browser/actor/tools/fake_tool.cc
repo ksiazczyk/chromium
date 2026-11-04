@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the fake actor tool for tests
+// summary: Implements FakeTool, a test stub whose validate and invoke callbacks are controlled by tests and which reports no observation delay.
+// ---
+
 #include "chrome/browser/actor/tools/fake_tool.h"
 
 #include "chrome/common/actor/action_result.h"

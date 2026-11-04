@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark tool request declarations
+// summary: Declares the add and remove bookmark tool request classes with their parameter names and tool schema accessors.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_BOOKMARK_MANAGEMENT_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_BOOKMARK_MANAGEMENT_TOOL_REQUEST_H_
 

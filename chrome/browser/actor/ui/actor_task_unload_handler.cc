@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor task unload handler
+// summary: Implements the tab-modal confirmation dialog and unload handler shown when closing a tab that has an active actor task.
+// ---
+
 #include "chrome/browser/actor/ui/actor_task_unload_handler.h"
 
 #include <memory>

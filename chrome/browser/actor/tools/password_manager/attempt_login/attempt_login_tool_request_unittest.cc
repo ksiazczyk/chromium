@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Attempt login tool request unit tests
+// summary: Unit tests verifying proto-to-request conversion and the observation page stability configuration for the attempt login request.
+// ---
+
 #include "chrome/browser/actor/tools/password_manager/attempt_login/attempt_login_tool_request.h"
 
 #include "base/test/scoped_feature_list.h"

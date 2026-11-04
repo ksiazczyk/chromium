@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor overlay web view unit tests
+// summary: Unit tests verifying that the overlay web view forwards background, border glow, cursor, and chip updates to the WebUI and handles a missing WebUI safely.
+// ---
+
 #include "chrome/browser/actor/ui/actor_overlay_web_view.h"
 
 #include <memory>

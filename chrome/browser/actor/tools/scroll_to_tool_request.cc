@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll-to tool request implementation
+// summary: Implements ScrollToToolRequest, defining the scroll_to tool schema that scrolls a specific element into view.
+// ---
+
 #include "chrome/browser/actor/tools/scroll_to_tool_request.h"
 
 #include <optional>

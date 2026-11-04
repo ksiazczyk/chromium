@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History tool browser tests
+// summary: Browser tests for the history tool covering back, forward, and reload navigation scenarios, including BFCache behavior.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/test/test_future.h"

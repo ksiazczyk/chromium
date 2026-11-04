@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action tracker for metrics browser tests
+// summary: Browser tests verifying that ActionTrackerForMetrics records subsequent-wait histogram metrics after actor actions such as clicks and navigation.
+// ---
+
 #include "chrome/browser/actor/action_tracker_for_metrics.h"
 
 #include <memory>

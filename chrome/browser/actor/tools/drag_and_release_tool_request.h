@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and release tool request header
+// summary: Declares DragAndReleaseToolRequest, which simulates a mouse press, move, and release sequence between two page targets within a local subtree.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_DRAG_AND_RELEASE_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_DRAG_AND_RELEASE_TOOL_REQUEST_H_
 

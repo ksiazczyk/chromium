@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wait tool request header
+// summary: Declares WaitToolRequest, which carries a wait duration and optional actor surface to observe, and exposes the wait tool schema definition.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_WAIT_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_WAIT_TOOL_REQUEST_H_
 

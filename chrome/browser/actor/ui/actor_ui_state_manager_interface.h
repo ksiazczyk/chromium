@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor UI state manager interface
+// summary: Defines the ActorUiStateManagerInterface with methods for handling synchronous and asynchronous UI events, lazy tab tracker initialization and navigation delegate access.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_ACTOR_UI_STATE_MANAGER_INTERFACE_H_
 #define CHROME_BROWSER_ACTOR_UI_ACTOR_UI_STATE_MANAGER_INTERFACE_H_
 

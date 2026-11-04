@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolSchemaBuilder implementation
+// summary: Implements ToolSchemaBuilder methods that assemble a JSON Schema object dictionary with typed, required tool parameter properties.
+// ---
+
 #include "chrome/browser/actor/tools/registry/tool_schema_builder.h"
 
 #include <ostream>

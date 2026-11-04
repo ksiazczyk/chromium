@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolDefinitionBuilder unit tests
+// summary: Verifies builder id, name and description, default empty schema, required parameter ordering and crashes on empty inputs.
+// ---
+
 #include "chrome/browser/actor/tools/registry/tool_definition_builder.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Attempt login tool browser tests
+// summary: Browser tests covering the attempt login tool's credential selection dialog, login flows, and model quality log uploading.
+// ---
+
 #include "chrome/browser/actor/tools/password_manager/attempt_login/attempt_login_tool.h"
 
 #include "base/strings/utf_string_conversions.h"

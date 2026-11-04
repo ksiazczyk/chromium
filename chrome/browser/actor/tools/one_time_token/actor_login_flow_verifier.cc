@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login flow verifier implementation
+// summary: Implements verification that an OTP filling attempt belongs to a valid actor login flow using domain relation and origin match checks.
+// ---
+
 #include "chrome/browser/actor/tools/one_time_token/actor_login_flow_verifier.h"
 
 #include <algorithm>

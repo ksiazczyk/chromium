@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor tools test utility declarations
+// summary: Declares mock tool delegates, actor login service mocks, and test credential helpers used by actor tool tests.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_TOOLS_TEST_UTIL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_TOOLS_TEST_UTIL_H_
 

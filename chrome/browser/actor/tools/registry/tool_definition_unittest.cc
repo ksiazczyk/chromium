@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolDefinition unit tests
+// summary: Unit tests covering ToolDefinition name storage and Clone preservation of id, name, description and parameters JSON schema.
+// ---
+
 #include "chrome/browser/actor/tools/registry/tool_definition.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

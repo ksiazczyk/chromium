@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Actor UI directory owners
+summary: Lists code owners for the actor UI directory, with special review rules for mojom files and the handoff button controller.

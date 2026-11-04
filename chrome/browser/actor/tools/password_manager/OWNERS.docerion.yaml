@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Password manager actor tools OWNERS
+summary: Delegates code ownership of the actor password manager tools directory to the owners of the password_manager component.

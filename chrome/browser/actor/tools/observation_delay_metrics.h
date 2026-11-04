@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observation delay metrics header
+// summary: Declares the metrics class and histogram name constants that track durations of observation delay controller states.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_OBSERVATION_DELAY_METRICS_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_OBSERVATION_DELAY_METRICS_H_
 

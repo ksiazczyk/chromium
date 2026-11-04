@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeActuationTransportHandlerFactory implementation
+// summary: Implements the Chrome factory that creates ActuationTransportHandler instances with an ActorKeyedServiceAdapter for new transport sessions.
+// ---
+
 #include "chrome/browser/actor/transport/chrome_actuation_transport_handler_factory.h"
 
 #include "base/check.h"

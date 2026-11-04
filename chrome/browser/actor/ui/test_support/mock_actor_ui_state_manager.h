@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock actor UI state manager header
+// summary: Declares a gmock mock of ActorUiStateManagerInterface with mocked UI event, tab tracker, and navigation delegate methods for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_TEST_SUPPORT_MOCK_ACTOR_UI_STATE_MANAGER_H_
 #define CHROME_BROWSER_ACTOR_UI_TEST_SUPPORT_MOCK_ACTOR_UI_STATE_MANAGER_H_
 

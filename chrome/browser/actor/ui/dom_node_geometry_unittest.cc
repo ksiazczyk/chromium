@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM node geometry unit tests
+// summary: Unit tests for DomNodeGeometry covering error cases such as missing nodes, missing geometry, and off-screen boxes.
+// ---
+
 #include "chrome/browser/actor/ui/dom_node_geometry.h"
 
 #include "base/test/gmock_expected_support.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay WebUI controller header
+// summary: Declares the ActorOverlayUI Mojo WebUI controller and its config, with methods for overlay background, border glow, cursor movement, and click animations.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_ACTOR_OVERLAY_UI_H_
 #define CHROME_BROWSER_ACTOR_UI_ACTOR_OVERLAY_UI_H_
 

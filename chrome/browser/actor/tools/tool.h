@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor tool interface
+// summary: Declares the Tool interface that all actor tools implement, covering validation, invocation, cancellation, pausing, journaling, and observation delay hooks.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_TOOL_H_
 

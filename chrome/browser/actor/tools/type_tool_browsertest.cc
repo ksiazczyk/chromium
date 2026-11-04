@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Type tool browser tests
+// summary: Browser tests for the actor Type tool, covering composition and AltGr character input and TOCTOU validation scenarios.
+// ---
+
 #include <sstream>
 #include <string>
 #include <string_view>

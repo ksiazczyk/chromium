@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handoff button controller header
+// summary: Declares the HandoffButtonController and its widget classes that create, position, and track hover and focus state for the actor handoff button.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_HANDOFF_BUTTON_CONTROLLER_H_
 #define CHROME_BROWSER_ACTOR_UI_HANDOFF_BUTTON_CONTROLLER_H_
 

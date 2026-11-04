@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media control tool request unit tests
+// summary: Unit tests for SeekMediaToolRequest timecode parsing, covering valid formats like 1:02:15 and invalid inputs such as out-of-range, malformed, or negative values.
+// ---
+
 #include "chrome/browser/actor/tools/media_control_tool_request.h"
 
 #include <optional>

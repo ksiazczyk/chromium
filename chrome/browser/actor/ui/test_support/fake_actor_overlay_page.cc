@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake actor overlay page implementation
+// summary: Implements the FakeActorOverlayPage test double that binds the ActorOverlayPage mojo interface, simulates WebUI replies, and counts calls for actor UI tests.
+// ---
+
 #include "chrome/browser/actor/ui/test_support/fake_actor_overlay_page.h"
 
 namespace actor::ui {

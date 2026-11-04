@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attempt login tool class declaration
+// summary: Declares the AttemptLoginTool class that drives credential selection dialogs, icon fetching, tab and window activation handling, and login attempts on the actor surface.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_PASSWORD_MANAGER_ATTEMPT_LOGIN_ATTEMPT_LOGIN_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_PASSWORD_MANAGER_ATTEMPT_LOGIN_ATTEMPT_LOGIN_TOOL_H_
 

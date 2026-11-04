@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page search utilities for actor tools
+// summary: Implements case-insensitive matching of a query against open tabs, history, and bookmarks with URL category filtering for actor tools.
+// ---
+
 #include "chrome/browser/actor/tools/page_search_utils.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Actor tool registry GN build targets
+summary: Defines source_set targets for the registry public headers, implementation, test support and unit tests with their dependencies.

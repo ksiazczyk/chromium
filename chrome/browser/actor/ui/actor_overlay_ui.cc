@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay WebUI controller implementation
+// summary: Implements the Mojo WebUI controller for the actor overlay, setting up its data source, feature flags, magic cursor settings, and the page handler binding.
+// ---
+
 #include "chrome/browser/actor/ui/actor_overlay_ui.h"
 
 #include "chrome/browser/actor/resources/grit/actor_browser_resources.h"

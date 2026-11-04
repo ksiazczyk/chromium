@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page stability metrics browser tests
+// summary: Browser tests verifying the histograms recorded for page stability during actor tool actions.
+// ---
+
 #include <stddef.h>
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open known page tool implementation
+// summary: Implements a tool that opens a page matching a query by searching open tabs, then history, then bookmarks, activating or navigating as needed.
+// ---
+
 #include "chrome/browser/actor/tools/open_known_page_tool.h"
 
 #include <memory>

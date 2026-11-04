@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttemptFormFillingToolRequest implementation
+// summary: Implements the tool request, including the model-facing tool schema definition and creation of the form filling tool.
+// ---
+
 #include "chrome/browser/actor/tools/autofill/attempt_form_filling/attempt_form_filling_tool_request.h"
 
 #include <optional>

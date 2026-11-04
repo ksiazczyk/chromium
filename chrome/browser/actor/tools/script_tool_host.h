@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script tool host class declaration
+// summary: Declares ScriptToolHost, a Tool and WebContentsObserver that manages execution of WebMCP script tools in the renderer.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_SCRIPT_TOOL_HOST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_SCRIPT_TOOL_HOST_H_
 

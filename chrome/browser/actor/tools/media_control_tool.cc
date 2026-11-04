@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media control tool implementation
+// summary: Implements the media control tool that plays, pauses, or seeks media through a tab's media session.
+// ---
+
 #include "chrome/browser/actor/tools/media_control_tool.h"
 
 #include <memory>

@@ -1,3 +1,12 @@
+---
+type: readme
+title: actor::ToolRegistry
+summary: Documents the tool registry architecture, core classes, the steps to register a new browser tool, and exemplar changes.
+relations:
+  - references /agents/skills/actor-tool-registration/SKILL.md
+  - references /agents/skills/setup.py
+---
+
 # actor::ToolRegistry
 
 ## Overview & Purpose

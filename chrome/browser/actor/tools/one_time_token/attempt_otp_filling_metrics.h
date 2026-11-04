@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTP filling metrics declarations
+// summary: Declares metric enums, histogram names, and recording functions for AttemptOtpFilling tool events and Gmail OTP user interactions.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_ONE_TIME_TOKEN_ATTEMPT_OTP_FILLING_METRICS_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_ONE_TIME_TOKEN_ATTEMPT_OTP_FILLING_METRICS_H_
 

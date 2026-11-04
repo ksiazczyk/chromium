@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI event debug string implementation
+// summary: Implements DebugString helpers that format actor UI events and target sources into readable strings for logging and diagnostics.
+// ---
+
 #include "chrome/browser/actor/ui/ui_event_debugstring.h"
 
 #include <string>

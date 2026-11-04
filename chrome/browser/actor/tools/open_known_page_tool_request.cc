@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenKnownPageToolRequest implementation
+// summary: Implements the open_known_page actor tool request, including its model-facing schema, query validation, and creation of the OpenKnownPageTool.
+// ---
+
 #include "chrome/browser/actor/tools/open_known_page_tool_request.h"
 
 #include <memory>

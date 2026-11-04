@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Click tool request implementation
+// summary: Implements the click tool request, including its tool definition schema, mojo action conversion and page stability configuration.
+// ---
+
 #include "chrome/browser/actor/tools/click_tool_request.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handoff button UI state header
+// summary: Defines the HandoffButtonState struct describing handoff button visibility and whether the client or the actor controls the tab.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_STATES_HANDOFF_BUTTON_STATE_H_
 #define CHROME_BROWSER_ACTOR_UI_STATES_HANDOFF_BUTTON_STATE_H_
 

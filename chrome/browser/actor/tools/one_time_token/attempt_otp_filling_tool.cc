@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attempt OTP filling tool implementation
+// summary: Implements the actor tool that retrieves a one-time password and fills it into page fields, including consent, opt-in, and confirmation handling.
+// ---
+
 #include "chrome/browser/actor/tools/one_time_token/attempt_otp_filling_tool.h"
 
 #include <algorithm>

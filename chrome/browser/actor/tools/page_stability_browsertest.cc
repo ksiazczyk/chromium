@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor page stability browser tests
+// summary: Browser tests verifying that the actor page stability monitor delays tool completion until the page is ready for observation.
+// ---
+
 #include <utility>
 
 #include "base/test/bind.h"

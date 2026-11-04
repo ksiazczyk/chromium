@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the drag and release tool request
+// summary: Implements DragAndReleaseToolRequest, including its tool schema definition and conversion of drag source and drop targets into Mojo tool actions.
+// ---
+
 #include "chrome/browser/actor/tools/drag_and_release_tool_request.h"
 
 #include <optional>

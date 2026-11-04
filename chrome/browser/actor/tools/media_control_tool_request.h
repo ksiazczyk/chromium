@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media control tool request declarations
+// summary: Declares request classes for the play_video, pause_video, and seek_to_timestamp tools, including timecode parsing.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_MEDIA_CONTROL_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_MEDIA_CONTROL_TOOL_REQUEST_H_
 

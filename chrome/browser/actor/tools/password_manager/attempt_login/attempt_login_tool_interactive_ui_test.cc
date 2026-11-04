@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Attempt login tool interactive UI tests
+// summary: Interactive UI tests exercising the select-credential dialog flow in the Glic surface during attempt login.
+// ---
+
 #include <utility>
 
 #include "base/strings/strcat.h"

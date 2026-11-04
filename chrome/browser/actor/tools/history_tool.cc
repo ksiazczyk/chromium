@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryTool implementation
+// summary: Implements the history navigation tool supporting back, forward, reload, and cache-bypassing reload with validation and navigation tracking.
+// ---
+
 #include "chrome/browser/actor/tools/history_tool.h"
 
 #include "base/time/time.h"

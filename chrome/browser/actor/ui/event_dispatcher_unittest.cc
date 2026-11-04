@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI event dispatcher unit tests
+// summary: Unit tests for the UI event dispatcher verifying event dispatch, mouse move and click behavior, and histograms.
+// ---
+
 #include "chrome/browser/actor/ui/event_dispatcher.h"
 
 #include <memory>

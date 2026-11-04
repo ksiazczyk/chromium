@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeToolRequest class declaration
+// summary: Declares the TypeToolRequest class for typing text into page elements, with replace, prepend, and append modes and an optional Enter key press.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_TYPE_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_TYPE_TOOL_REQUEST_H_
 

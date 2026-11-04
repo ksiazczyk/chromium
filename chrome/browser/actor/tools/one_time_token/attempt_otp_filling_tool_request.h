@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttemptOtpFillingToolRequest declaration
+// summary: Declares the Actor tool request class that attempts one-time password (OTP) filling on a tab, including its OtpType enum, JSON parameter keys, and tool schema accessor.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_ONE_TIME_TOKEN_ATTEMPT_OTP_FILLING_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_ONE_TIME_TOKEN_ATTEMPT_OTP_FILLING_TOOL_REQUEST_H_
 

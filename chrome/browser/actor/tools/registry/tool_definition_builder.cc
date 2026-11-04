@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolDefinitionBuilder implementation
+// summary: Implements the fluent builder that assembles ToolDefinition instances, defaulting to an empty object schema.
+// ---
+
 #include "chrome/browser/actor/tools/registry/tool_definition_builder.h"
 
 #include <utility>

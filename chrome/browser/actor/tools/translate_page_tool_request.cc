@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate page tool request implementation
+// summary: Implements the translate_page actor tool request, defining its LLM-facing tool schema and creating the tool that translates the current tab's page.
+// ---
+
 #include "chrome/browser/actor/tools/translate_page_tool_request.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate page tool implementation
+// summary: Implements the actor tool that initiates translation of a tab's active document to a target language and reports completion.
+// ---
+
 #include "chrome/browser/actor/tools/translate_page_tool.h"
 
 #include <optional>

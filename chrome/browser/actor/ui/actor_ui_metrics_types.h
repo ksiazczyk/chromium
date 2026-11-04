@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor UI metrics enum definitions
+// summary: Defines enums for Actor UI metrics such as tab controller errors, computed and renderer-resolved target results, model page target types and task icon errors, kept in sync with histograms metadata.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_ACTOR_UI_METRICS_TYPES_H_
 #define CHROME_BROWSER_ACTOR_UI_ACTOR_UI_METRICS_TYPES_H_
 

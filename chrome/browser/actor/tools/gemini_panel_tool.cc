@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeminiPanelTool implementation
+// summary: Implements the actor tool that prompts or closes the Gemini side panel in Chrome, validating the prompt, tab surface, and Glic service availability.
+// ---
+
 #include "chrome/browser/actor/tools/gemini_panel_tool.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor overlay UI browser tests
+// summary: In-process browser tests verifying that overlay background and cursor chip updates queue and replay, and that calls crash when the handler is missing.
+// ---
+
 #include "chrome/browser/actor/ui/actor_overlay_ui.h"
 
 #include <memory>

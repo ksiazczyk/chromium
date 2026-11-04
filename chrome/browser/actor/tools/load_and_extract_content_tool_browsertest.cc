@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Load and extract content tool browser tests
+// summary: Browser tests covering URL loading, content extraction, and navigation safety list behavior of the load and extract content tool.
+// ---
+
 #include <algorithm>
 #include <iterator>
 #include <memory>

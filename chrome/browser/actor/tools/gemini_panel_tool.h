@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeminiPanelTool class declaration
+// summary: Declares the GeminiPanelTool class that prompts or closes the Gemini side panel for a target actor surface.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_GEMINI_PANEL_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_GEMINI_PANEL_TOOL_H_
 

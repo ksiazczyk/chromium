@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabManagementTool implementation
+// summary: Implements the actor tool that creates, activates, or closes tabs in a browser window, observing tab list changes and window close events to detect completion.
+// ---
+
 #include "chrome/browser/actor/tools/tab_management_tool.h"
 
 #include "base/notimplemented.h"

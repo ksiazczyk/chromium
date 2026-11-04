@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock handoff button controller header
+// summary: Declares a gmock mock of HandoffButtonController with mocked UpdateState, IsHovering, and IsFocused methods for actor UI tests.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_TEST_SUPPORT_MOCK_HANDOFF_BUTTON_CONTROLLER_H_
 #define CHROME_BROWSER_ACTOR_UI_TEST_SUPPORT_MOCK_HANDOFF_BUTTON_CONTROLLER_H_
 

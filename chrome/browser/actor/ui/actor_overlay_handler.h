@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay handler header
+// summary: Declares the actor overlay Mojo page handler, which observes theme changes and forwards scrim, glow and cursor commands to the WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_ACTOR_OVERLAY_HANDLER_H_
 #define CHROME_BROWSER_ACTOR_UI_ACTOR_OVERLAY_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolId enum and ToolDefinition declaration
+// summary: Declares the append-only ToolId enum of shared browser tools and the ToolDefinition metadata struct with its JSON schema.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_REGISTRY_TOOL_DEFINITION_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_REGISTRY_TOOL_DEFINITION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window management tool header
+// summary: Declares the WindowManagementTool class and its Action enum covering window create, activate, close, and fullscreen operations.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_WINDOW_MANAGEMENT_TOOL_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_WINDOW_MANAGEMENT_TOOL_H_
 

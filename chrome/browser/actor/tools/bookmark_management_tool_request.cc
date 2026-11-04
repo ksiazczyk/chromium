@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark tool request implementations
+// summary: Implements the add and remove bookmark tool requests, including their model-facing tool definitions and parameter schemas.
+// ---
+
 #include "chrome/browser/actor/tools/bookmark_management_tool_request.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor UI window controller implementation
+// summary: Implements window-level actor UI management, coordinating the overlay web view and handoff button for each contents container.
+// ---
+
 #include "chrome/browser/actor/ui/actor_ui_window_controller.h"
 
 #include "chrome/browser/actor/actor_keyed_service.h"

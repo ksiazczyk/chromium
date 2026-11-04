@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse target computation for the event dispatcher
+// summary: Computes mouse target points from page targets using renderer-resolved points or annotated page content geometry.
+// ---
+
 #include "base/metrics/histogram_functions.h"
 #include "chrome/browser/actor/actor_tab_data.h"
 #include "chrome/browser/actor/ui/actor_ui_metrics.h"

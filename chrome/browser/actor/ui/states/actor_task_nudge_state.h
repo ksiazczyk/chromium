@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor task nudge UI state header
+// summary: Defines the ActorTaskNudgeState struct with a text enum for task nudge labels and a ToString helper kept in sync with histogram enum metadata.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_STATES_ACTOR_TASK_NUDGE_STATE_H_
 #define CHROME_BROWSER_ACTOR_UI_STATES_ACTOR_TASK_NUDGE_STATE_H_
 

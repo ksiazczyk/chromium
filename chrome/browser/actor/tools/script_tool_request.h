@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script tool request class declaration
+// summary: Declares ScriptToolRequest, which executes a named script tool in a target document and defines its tool schema parameters.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_SCRIPT_TOOL_REQUEST_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_SCRIPT_TOOL_REQUEST_H_
 

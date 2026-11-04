@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tool-agnostic actor browser tests
+// summary: Browser tests for tool framework behavior independent of any specific tool, such as invoking tools in inactive frames and handling unload dialogs.
+// ---
+
 #include "base/run_loop.h"
 #include "base/task/single_thread_task_runner.h"
 #include "base/test/bind.h"

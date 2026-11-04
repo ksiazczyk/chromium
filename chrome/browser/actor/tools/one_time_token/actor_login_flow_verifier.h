@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login flow verifier header
+// summary: Declares the ActorLoginFlowVerifier class and its result enum used to decide whether OTP filling can skip the confirmation UI.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOLS_ONE_TIME_TOKEN_ACTOR_LOGIN_FLOW_VERIFIER_H_
 #define CHROME_BROWSER_ACTOR_TOOLS_ONE_TIME_TOKEN_ACTOR_LOGIN_FLOW_VERIFIER_H_
 

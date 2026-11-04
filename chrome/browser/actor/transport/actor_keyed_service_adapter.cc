@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorKeyedServiceAdapter implementation
+// summary: Implements the adapter that forwards actuation transport requests such as StartTask, StopTask and Act to the browser's ActorKeyedService.
+// ---
+
 #include "chrome/browser/actor/transport/actor_keyed_service_adapter.h"
 
 #include <optional>

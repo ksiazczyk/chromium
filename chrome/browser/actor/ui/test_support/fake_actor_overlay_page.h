@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake actor overlay page header
+// summary: Declares the FakeActorOverlayPage class, a fake mojom::ActorOverlayPage implementation with test accessors, call counters, and a ResetCounters helper.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_TEST_SUPPORT_FAKE_ACTOR_OVERLAY_PAGE_H_
 #define CHROME_BROWSER_ACTOR_UI_TEST_SUPPORT_FAKE_ACTOR_OVERLAY_PAGE_H_
 

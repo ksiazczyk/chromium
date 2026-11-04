@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock actor UI tab controller header
+// summary: Declares a gmock mock of ActorUiTabControllerInterface covering tab state changes, navigation deferral, handoff button, and overlay registration methods.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_TEST_SUPPORT_MOCK_ACTOR_UI_TAB_CONTROLLER_H_
 #define CHROME_BROWSER_ACTOR_UI_TEST_SUPPORT_MOCK_ACTOR_UI_TAB_CONTROLLER_H_
 

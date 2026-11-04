@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor overlay handler unit tests
+// summary: Unit tests for the actor overlay WebUI handler, covering hover status changes and border glow visibility queries against a mocked tab controller.
+// ---
+
 #include "chrome/browser/actor/ui/actor_overlay_handler.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attempt OTP filling tool request
+// summary: Implements the tool request that defines the AttemptOtpFilling tool schema and creates the tool instance for actor tasks.
+// ---
+
 #include "chrome/browser/actor/tools/one_time_token/attempt_otp_filling_tool_request.h"
 
 #include <memory>

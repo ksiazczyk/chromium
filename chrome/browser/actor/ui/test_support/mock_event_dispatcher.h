@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock UI event dispatcher header
+// summary: Declares a gmock mock of UiEventDispatcher with mocked pre- and post-tool and actor task change handlers, plus the NewMockUiEventDispatcher factory.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_TEST_SUPPORT_MOCK_EVENT_DISPATCHER_H_
 #define CHROME_BROWSER_ACTOR_UI_TEST_SUPPORT_MOCK_EVENT_DISPATCHER_H_
 

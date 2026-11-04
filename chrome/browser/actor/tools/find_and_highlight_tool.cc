@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find and highlight tool implementation
+// summary: Implements the FindAndHighlightTool that highlights matching text in a tab via the tab annotation manager and scrolls it into view, reporting errors when text is not found.
+// ---
+
 #include "chrome/browser/actor/tools/find_and_highlight_tool.h"
 
 #include <utility>

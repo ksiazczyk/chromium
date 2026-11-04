@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for actor tools directory
+summary: Sets per-file review ownership for actor tool request definitions, schemas and their unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwitchTabToolRequest implementation
+// summary: Implements the switch_tab tool request, defining its model-facing schema and creating a SwitchTabTool that targets the profile's most recently active browser window.
+// ---
+
 #include "chrome/browser/actor/tools/switch_tab_tool_request.h"
 
 #include <memory>

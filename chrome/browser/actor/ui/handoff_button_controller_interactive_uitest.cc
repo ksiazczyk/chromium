@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Handoff button controller interactive UI tests
+// summary: Interactive browser tests covering handoff button widget creation, visibility, hover, focus, and behavior across browser UI states and feature flags.
+// ---
+
 #include "chrome/browser/actor/ui/handoff_button_controller.h"
 
 #include "base/test/run_until.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ClickToolRequest
+// summary: Unit tests verifying proto-to-request conversion for click types and target validation policies such as RequiresTargetInLastApc for occluded clicks.
+// ---
+
 #include "chrome/browser/actor/tools/click_tool_request.h"
 
 #include <cstdint>

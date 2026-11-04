@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorKeyedServiceAdapter unit tests
+// summary: Unit tests verifying that the adapter creates browser actuator tasks, stops existing tasks and rejects unknown tasks or invalid actions.
+// ---
+
 #include "chrome/browser/actor/transport/actor_keyed_service_adapter.h"
 
 #include <memory>

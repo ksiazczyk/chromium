@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select tool dropdown close interactive UI test
+// summary: Interactive UI test verifying that the select tool closes the select dropdown popup after making a selection.
+// ---
+
 #include "base/test/run_until.h"
 #include "chrome/browser/actor/actor_test_util.h"
 #include "chrome/browser/actor/tools/tool_request.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttemptFormFillingTool implementation
+// summary: Implements the actor tool that retrieves autofill suggestions and fills web forms, mapping service errors to action results.
+// ---
+
 #include "chrome/browser/actor/tools/autofill/attempt_form_filling/attempt_form_filling_tool.h"
 
 #include <sstream>

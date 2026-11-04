@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay handler implementation
+// summary: Implements the browser-side Mojo handler that forwards overlay hover, glow, theme and cursor updates between the tab controller and the WebUI.
+// ---
+
 #include "chrome/browser/actor/ui/actor_overlay_handler.h"
 
 #include "chrome/browser/actor/ui/actor_ui_tab_controller_interface.h"

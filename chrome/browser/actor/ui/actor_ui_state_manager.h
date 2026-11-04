@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor UI state manager class header
+// summary: Declares the ActorUiStateManager class with callbacks for task state changes and stops, lookups of task titles and last acted tabs, toast display and navigation throttle delegation.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_UI_ACTOR_UI_STATE_MANAGER_H_
 #define CHROME_BROWSER_ACTOR_UI_ACTOR_UI_STATE_MANAGER_H_
 

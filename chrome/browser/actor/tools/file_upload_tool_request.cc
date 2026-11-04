@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File upload tool request implementation
+// summary: Implements the file upload tool request, defining its tool schema, parameter descriptions, and validation rules that restrict uploads to non-localhost http/https URLs.
+// ---
+
 #include "chrome/browser/actor/tools/file_upload_tool_request.h"
 
 #include <optional>

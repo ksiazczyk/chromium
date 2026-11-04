@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark management tool implementation
+// summary: Implements the actor tool that adds a bookmark for a URL under Other Bookmarks or removes all bookmarks matching a URL.
+// ---
+
 #include "chrome/browser/actor/tools/bookmark_management_tool.h"
 
 #include <memory>
