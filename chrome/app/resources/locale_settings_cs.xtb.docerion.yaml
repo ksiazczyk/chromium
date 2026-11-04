@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cs.xtb.
+type: data
+title: Czech locale settings (cs)
+summary: Czech translation bundle defining dialog dimensions, the spellcheck dictionary and preferred character encodings for the UI.

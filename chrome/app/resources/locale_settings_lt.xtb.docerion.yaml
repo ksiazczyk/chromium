@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_lt.xtb.
+type: data
+title: Lithuanian locale settings translation bundle
+summary: Lithuanian translation bundle defining locale-specific Chromium UI settings such as dialog sizes, spellcheck dictionary, and default encodings.

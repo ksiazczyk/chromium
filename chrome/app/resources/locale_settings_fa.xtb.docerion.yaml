@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_fa.xtb.
+type: data
+title: Persian locale settings translation bundle
+summary: Translation bundle holding Persian UI locale settings, including dialog dimensions, spellcheck dictionary and the static encoding list.

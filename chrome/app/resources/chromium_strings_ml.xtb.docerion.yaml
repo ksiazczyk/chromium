@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_ml.xtb.
+type: data
+title: Chromium strings translation bundle (Malayalam)
+summary: Malayalam XTB translation bundle holding localized Chromium UI strings as XML translation entries.

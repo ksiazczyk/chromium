@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac.grd.
+type: config
+title: Mac platform locale settings GRIT resource definition
+summary: GRIT resource definition that builds per-language platform_locale_settings .pak data packages for the Mac platform.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_fr-CA.xtb.
+type: data
+title: Chromium strings for French (Canada)
+summary: Canadian French XTB translation bundle holding localized Chromium UI strings for the fr-CA locale.

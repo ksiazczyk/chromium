@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_lv.xtb.
+type: data
+title: Chromium strings in Latvian
+summary: Latvian translation bundle providing localized Chromium interface strings for the lv locale.

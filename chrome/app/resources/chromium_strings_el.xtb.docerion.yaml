@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_el.xtb.
+type: data
+title: Chromium strings in Greek
+summary: Greek translation bundle holding localized Chromium interface strings in the XTB XML format.

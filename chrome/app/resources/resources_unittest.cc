@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resources unit test for locale pak messages
+// summary: Unit test that loads locale .pak files and verifies critical messages such as IDS_APP_SHORTCUTS_SUBDIR_NAME contain no extra whitespace.
+// ---
+
 #include <string>
 
 #include "base/files/file_enumerator.h"

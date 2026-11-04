@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_hi.xtb.
+type: data
+title: Hindi locale settings translation bundle
+summary: Translation bundle with Hindi locale settings for Chrome, covering dialog dimensions, spellcheck dictionary and character encodings.

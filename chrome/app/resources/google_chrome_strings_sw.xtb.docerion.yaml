@@ -1,0 +1,4 @@
+# Docerion header of google_chrome_strings_sw.xtb.
+type: data
+title: Google Chrome strings for Swahili
+summary: Translation bundle providing Swahili localized UI strings for Google Chrome, covering installer, settings, and browser messages.

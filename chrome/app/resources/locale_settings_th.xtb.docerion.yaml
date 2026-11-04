@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_th.xtb.
+type: data
+title: Thai locale settings translation bundle
+summary: Thai translation bundle defining locale-specific UI settings such as dialog sizes, spellcheck dictionary and default encodings for Chromium.

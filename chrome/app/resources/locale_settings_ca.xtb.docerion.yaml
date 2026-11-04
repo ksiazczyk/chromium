@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_ca.xtb.
+type: data
+title: Catalan locale settings (ca)
+summary: Catalan translation bundle defining dialog dimensions, the spellcheck dictionary and preferred character encodings for the UI.

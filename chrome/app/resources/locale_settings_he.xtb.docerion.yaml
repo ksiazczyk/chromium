@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_he.xtb.
+type: data
+title: Hebrew locale settings translation bundle
+summary: Translation bundle with Hebrew locale settings for Chrome, covering dialog dimensions, spellcheck dictionary and character encodings.

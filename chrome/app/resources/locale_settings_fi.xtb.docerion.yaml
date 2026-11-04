@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_fi.xtb.
+type: data
+title: Finnish locale settings translation bundle
+summary: Translation bundle holding Finnish UI locale settings, including dialog dimensions, spellcheck dictionary and the static encoding list.

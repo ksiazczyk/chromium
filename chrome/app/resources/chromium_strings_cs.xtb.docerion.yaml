@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_cs.xtb.
+type: data
+title: Chromium strings in Czech
+summary: Czech translation bundle holding localized Chromium interface strings in the XTB XML format.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_iw.xtb.
+type: data
+title: Chromium strings in Hebrew (chromium_strings_iw.xtb)
+summary: Hebrew translation bundle supplying localized Chromium UI strings as XML translation entries.

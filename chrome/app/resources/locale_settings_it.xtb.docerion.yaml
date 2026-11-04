@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_it.xtb.
+type: data
+title: Italian locale settings translation bundle
+summary: Translation bundle with Italian locale settings for Chrome, covering dialog dimensions, spellcheck dictionary and character encodings.

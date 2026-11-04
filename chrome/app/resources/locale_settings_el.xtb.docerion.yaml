@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_el.xtb.
+type: data
+title: Greek locale settings (el)
+summary: Greek translation bundle defining dialog dimensions, the spellcheck dictionary and preferred character encodings for the UI.

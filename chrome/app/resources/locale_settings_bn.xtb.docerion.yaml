@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_bn.xtb.
+type: data
+title: Bengali locale settings (bn)
+summary: Bengali translation bundle defining dialog dimensions, the spellcheck dictionary and preferred character encodings for the UI.

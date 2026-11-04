@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_am.xtb.
+type: data
+title: 'Locale settings: Amharic (am)'
+summary: Amharic locale settings bundle with dialog dimensions, spellcheck dictionary, and encoding list used by Chrome's UI.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_hr.xtb.
+type: data
+title: Chromium strings in Croatian (chromium_strings_hr.xtb)
+summary: Croatian translation bundle supplying localized Chromium UI strings as XML translation entries.

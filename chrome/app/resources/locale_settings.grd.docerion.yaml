@@ -1,0 +1,4 @@
+# Docerion header of locale_settings.grd.
+type: data
+title: Locale settings GRIT resource definition
+summary: GRIT resource definition that packages per-locale locale_settings data into .pak files and generates headers for Chrome's locale-specific UI settings.

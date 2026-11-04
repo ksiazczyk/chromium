@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_vi.xtb.
+type: data
+title: Chromium strings translation bundle for Vietnamese
+summary: Vietnamese translations of Chromium product UI strings in the XTB translation bundle format, used for localizing the browser.

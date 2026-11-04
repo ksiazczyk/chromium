@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_da.xtb.
+type: data
+title: Danish locale settings (da)
+summary: Danish translation bundle defining dialog dimensions, the spellcheck dictionary and preferred character encodings for the UI.

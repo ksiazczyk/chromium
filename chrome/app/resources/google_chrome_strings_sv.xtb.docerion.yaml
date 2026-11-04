@@ -1,0 +1,4 @@
+# Docerion header of google_chrome_strings_sv.xtb.
+type: data
+title: Google Chrome strings for Swedish
+summary: Translation bundle providing Swedish localized UI strings for Google Chrome, covering installer, settings, and browser messages.

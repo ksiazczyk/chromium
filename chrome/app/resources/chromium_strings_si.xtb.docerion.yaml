@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_si.xtb.
+type: data
+title: 'Chromium strings: Sinhala (si)'
+summary: Sinhala translation bundle with localized Chromium interface strings covering installation, settings, privacy, and update messages.

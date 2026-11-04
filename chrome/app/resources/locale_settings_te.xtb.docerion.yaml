@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_te.xtb.
+type: data
+title: Telugu locale settings translation bundle
+summary: XML translation bundle with Telugu dialog dimensions, spellcheck dictionary and default encoding list for Chromium's locale-specific UI settings.

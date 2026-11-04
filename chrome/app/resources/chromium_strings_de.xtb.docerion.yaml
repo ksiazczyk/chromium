@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_de.xtb.
+type: data
+title: Chromium strings in German
+summary: German translation bundle holding localized Chromium interface strings in the XTB XML format.

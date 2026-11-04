@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_ar-XB.xtb.
+type: data
+title: ar-XB pseudo-locale settings bundle
+summary: Minimal translation bundle for the ar-XB pseudo-locale that sets the spellcheck dictionary to en-US.

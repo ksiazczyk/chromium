@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_hu.xtb.
+type: data
+title: Hungarian locale settings translation bundle
+summary: Translation bundle with Hungarian locale settings for Chrome, covering dialog dimensions, spellcheck dictionary and character encodings.

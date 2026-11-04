@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_nl.xtb.
+type: data
+title: Dutch locale settings translation bundle
+summary: Dutch translation bundle defining locale-specific Chromium UI settings such as dialog sizes, spellcheck dictionary, and default encodings.

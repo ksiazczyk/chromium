@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_ja.xtb.
+type: data
+title: Chromium strings in Japanese (chromium_strings_ja.xtb)
+summary: Japanese translation bundle supplying localized Chromium UI strings as XML translation entries.

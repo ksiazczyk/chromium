@@ -1,0 +1,4 @@
+# Docerion header of google_chrome_strings_tr.xtb.
+type: data
+title: Google Chrome strings for Turkish
+summary: Translation bundle providing Turkish localized UI strings for Google Chrome, covering installer, settings, and browser messages.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_sw.xtb.
+type: data
+title: Chromium strings translation bundle for Swahili
+summary: Swahili translations of Chromium user interface strings in the XTB translation bundle format, used for localizing the browser.

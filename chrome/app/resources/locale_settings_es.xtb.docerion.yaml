@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_es.xtb.
+type: data
+title: Spanish locale settings translation bundle
+summary: Translation bundle holding Spanish UI locale settings, including dialog dimensions, spellcheck dictionary and the static encoding list.

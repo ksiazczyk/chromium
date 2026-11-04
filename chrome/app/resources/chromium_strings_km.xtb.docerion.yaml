@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_km.xtb.
+type: data
+title: Chromium strings in Khmer
+summary: Khmer translation bundle providing localized Chromium interface strings for the km locale.

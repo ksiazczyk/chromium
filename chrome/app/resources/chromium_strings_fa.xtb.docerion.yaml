@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_fa.xtb.
+type: data
+title: Chromium strings for Persian
+summary: Persian XTB translation bundle holding localized Chromium UI strings for the fa locale.

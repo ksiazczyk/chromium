@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_de.xtb.
+type: data
+title: German locale settings (de)
+summary: German translation bundle defining dialog dimensions, the spellcheck dictionary and preferred character encodings for the UI.

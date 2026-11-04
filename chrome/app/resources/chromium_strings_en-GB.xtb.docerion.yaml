@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_en-GB.xtb.
+type: data
+title: Chromium strings in British English
+summary: British English translation bundle holding localized Chromium interface strings in the XTB XML format.

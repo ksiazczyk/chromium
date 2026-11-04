@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_sk.xtb.
+type: data
+title: 'Chromium strings: Slovak (sk)'
+summary: Slovak translation bundle with localized Chromium interface strings covering installation, settings, privacy, and update messages.

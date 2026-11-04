@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_chromiumos.grd.
+type: config
+title: Chrome OS platform locale settings GRIT definition
+summary: GRIT resource definition that compiles Chrome OS platform locale settings into per-language .pak output files.

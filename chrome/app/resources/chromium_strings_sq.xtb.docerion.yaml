@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_sq.xtb.
+type: data
+title: 'Chromium strings: Albanian (sq)'
+summary: Albanian translation bundle with localized Chromium interface strings covering installation, settings, privacy, and update messages.

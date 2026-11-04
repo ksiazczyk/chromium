@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_sr.xtb.
+type: data
+title: Chromium strings translation bundle for Serbian
+summary: Serbian translations of Chromium user interface strings in the XTB translation bundle format, used for localizing the browser.

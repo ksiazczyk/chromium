@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_fi.xtb.
+type: data
+title: Chromium strings for Finnish
+summary: Finnish XTB translation bundle holding localized Chromium UI strings for the fi locale.

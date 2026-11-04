@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_id.xtb.
+type: data
+title: Indonesian locale settings translation bundle
+summary: Translation bundle with Indonesian locale settings for Chrome, covering dialog dimensions, spellcheck dictionary and character encodings.

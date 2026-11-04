@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_lv.xtb.
+type: data
+title: Latvian locale settings translation bundle
+summary: Latvian translation bundle defining locale-specific Chromium UI settings such as dialog sizes, spellcheck dictionary, and default encodings.
