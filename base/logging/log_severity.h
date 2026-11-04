@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log severity constants
+// summary: C++ header defining the logging::LogSeverity integer type and constants for verbose, info, warning, error, fatal, and DCHECK-dependent dfatal levels.
+// ---
+
 #ifndef BASE_LOGGING_LOG_SEVERITY_H_
 #define BASE_LOGGING_LOG_SEVERITY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageTag to base::Value converters implementation
+// summary: Implements conversions between LanguageTag and base::Value, validating BCP 47 tags and their subtags before accepting them.
+// ---
+
 #include "base/i18n/language_tag_value_converters.h"
 
 #include <optional>

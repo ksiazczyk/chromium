@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BCP47 language tag extension classes
+// summary: Declares classes for parsing and representing BCP47 extension subtags, including generic singletons, private-use subtags, and structured Unicode extensions.
+// ---
+
 #ifndef BASE_I18N_BCP47_EXTENSIONS_H_
 #define BASE_I18N_BCP47_EXTENSIONS_H_
 

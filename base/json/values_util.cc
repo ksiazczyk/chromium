@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value conversion helpers implementation
+// summary: Implements conversions between base::Value and int64_t, TimeDelta, Time, FilePath, and UnguessableToken, using stable string representations suitable for persistent storage.
+// ---
+
 #include "base/json/values_util.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU UnicodeString to u16string conversion helper
+// summary: Provides an inline helper converting icu::UnicodeString to std::u16string, handling ICU version differences from version 59 onward.
+// ---
+
 #ifndef BASE_I18N_ICUBRIDGE_ICU_BRIDGE_HELPERS_H_
 #define BASE_I18N_ICUBRIDGE_ICU_BRIDGE_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Time formatting unit tests
+// summary: Unit tests verifying locale-aware time and duration formatting outputs, including time zone display names and feature-flagged i18n optimizations.
+// ---
+
 #include "base/i18n/time_formatting.h"
 
 #include <memory>

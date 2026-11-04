@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Codepage constants declarations
+// summary: Declares exported codepage name constants for encodings understood by ICU, such as ISO-8859-1 and UTF-8.
+// ---
+
 #ifndef BASE_I18N_I18N_CONSTANTS_H_
 #define BASE_I18N_I18N_CONSTANTS_H_
 

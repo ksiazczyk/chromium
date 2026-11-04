@@ -1,0 +1,4 @@
+# Docerion header of scoped_sending_event_unittest.mm.
+type: test
+title: ScopedSendingEvent unit tests
+summary: Unit tests verifying that ScopedSendingEvent sets and restores the send-event handling flag, including correct behavior for nested scopes.

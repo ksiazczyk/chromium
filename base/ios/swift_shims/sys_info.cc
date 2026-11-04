@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ implementation of the OS build version Swift shim
+// summary: Implements a base::swift wrapper that exposes the operating system build version from base::SysInfo for Swift interop.
+// ---
+
 #include "base/ios/swift_shims/sys_info.h"
 
 #include "base/system/sys_info.h"

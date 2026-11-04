@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Case conversion API declaration
+// summary: Declares ToLower, ToUpper, and FoldCase helpers and explains when to use locale-sensitive versus canonical case conversion.
+// ---
+
 #ifndef BASE_I18N_CASE_CONVERSION_H_
 #define BASE_I18N_CASE_CONVERSION_H_
 

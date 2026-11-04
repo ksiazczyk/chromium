@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language tag matcher unit tests
+// summary: Unit tests covering exact, fallback, macro-region, and script affinity matching behavior of the language tag matcher.
+// ---
+
 #include "base/i18n/language_tag_matcher.h"
 
 #include <optional>

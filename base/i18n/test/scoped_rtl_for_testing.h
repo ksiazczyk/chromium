@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the scoped RTL test helper
+// summary: Declares ScopedRTLForTesting, the preferred RAII wrapper for setting and automatically restoring RTL state in tests.
+// ---
+
 #ifndef BASE_I18N_TEST_SCOPED_RTL_FOR_TESTING_H_
 #define BASE_I18N_TEST_SCOPED_RTL_FOR_TESTING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of launch_application_unittest.mm.
+type: source
+title: Application launching unit tests
+summary: Tests LaunchApplication using a generated helper app bundle that reports launch events through a named pipe.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for base/logging
+summary: GN build file defining the log_severity source set and a Rust bindgen target that exposes the log severity header to the rust_logger component.

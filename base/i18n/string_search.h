@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String search API declarations
+// summary: Declares string search functions and classes for locating patterns in UTF-16 strings, with reusable fixed-pattern and repeating search helpers.
+// ---
+
 #ifndef BASE_I18N_STRING_SEARCH_H_
 #define BASE_I18N_STRING_SEARCH_H_
 

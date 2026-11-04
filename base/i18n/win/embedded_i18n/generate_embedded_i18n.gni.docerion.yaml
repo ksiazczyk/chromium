@@ -1,0 +1,4 @@
+# Docerion header of generate_embedded_i18n.gni.
+type: config
+title: GN template for generating embedded i18n resources
+summary: Defines the generate_embedded_i18n GN template that runs create_string_rc.py to produce localized .rc and .h files embedded directly into libraries or executables.

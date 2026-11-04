@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BCP47 subtag type classification and reader
+// summary: Header defining the SubtagType enum and a compile-time parser and reader that validate and consume subtags according to RFC 5646 grammar rules.
+// ---
+
 #ifndef BASE_I18N_INTERNAL_BCP47_SUBTAGS_READER_H_
 #define BASE_I18N_INTERNAL_BCP47_SUBTAGS_READER_H_
 

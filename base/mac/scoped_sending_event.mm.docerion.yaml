@@ -1,0 +1,4 @@
+# Docerion header of scoped_sending_event.mm.
+type: source
+title: ScopedSendingEvent Mac implementation
+summary: Implements ScopedSendingEvent, a scoped helper that sets and restores the NSApp handling-send-event flag through the CrAppControlProtocol.

@@ -1,0 +1,4 @@
+# Docerion header of launch_application_test_helper_main.m.
+type: test
+title: Launch application test helper main
+summary: Objective-C main for a helper application that records launch events to a named pipe so launch_application_unittest.mm can verify the helper was launched correctly.

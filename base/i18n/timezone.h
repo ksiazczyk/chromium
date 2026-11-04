@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time zone wrapper class header
+// summary: Declares base::i18n::TimeZone, a PIMPL value-type wrapper for icu::TimeZone with factory methods, display name options, and offset accessors.
+// ---
+
 #ifndef BASE_I18N_TIMEZONE_H_
 #define BASE_I18N_TIMEZONE_H_
 

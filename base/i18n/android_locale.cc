@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android default locale retrieval
+// summary: Implements JNI-based helpers that return the Android device's default country code and default locale as a LanguageTag, with fallbacks for ill-formed Java locales.
+// ---
+
 #include "base/i18n/android_locale.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text direction and RTL implementation
+// summary: Implements text direction detection, RTL checks and locale handling with ICU, including forced direction command-line switches.
+// ---
+
 #include "base/i18n/rtl.h"
 
 #include <stddef.h>

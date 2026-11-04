@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IcuBridge normalizer interface
+// summary: Defines the Normalizer interface supporting NFC, NFD, and NFKC forms, with factories for ICU4X and ICU4C implementations.
+// ---
+
 #ifndef BASE_I18N_ICUBRIDGE_NORMALIZER_H_
 #define BASE_I18N_ICUBRIDGE_NORMALIZER_H_
 

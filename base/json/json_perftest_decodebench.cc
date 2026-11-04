@@ -17,6 +17,12 @@
 // building and running this program before and after a particular commit can
 // work well with the 'ministat' tool: https://github.com/thorduri/ministat
 
+// ---docerion
+// type: test
+// title: JSON decode benchmark tool
+// summary: Standalone command-line tool that measures the time taken to decode given JSON files over multiple iterations, intended for manual benchmarking.
+// ---
+
 #include <inttypes.h>
 
 #include <iomanip>

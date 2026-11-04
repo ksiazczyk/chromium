@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedCriticalAction header for iOS background tasks
+// summary: Declares ScopedCriticalAction, which requests background running time from iOS so critical tasks can finish after the app is backgrounded.
+// ---
+
 #ifndef BASE_IOS_SCOPED_CRITICAL_ACTION_H_
 #define BASE_IOS_SCOPED_CRITICAL_ACTION_H_
 

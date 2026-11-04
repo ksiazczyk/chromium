@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported ICU locales set implementation
+// summary: Builds a cached set of BCP47 locales supported by the loaded ICU data, filtering out locales lacking display names and non-country region codes.
+// ---
+
 #include "base/i18n/icubridge/supported_locales.h"
 
 #include <ranges>

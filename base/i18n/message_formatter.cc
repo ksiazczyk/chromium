@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message formatter implementation
+// summary: Implements ICU MessageFormat-based formatting of messages with numbered and named arguments supporting strings, numbers, and times.
+// ---
+
 #include "base/i18n/message_formatter.h"
 
 #include <string_view>

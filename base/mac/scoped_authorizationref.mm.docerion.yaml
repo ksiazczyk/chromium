@@ -1,0 +1,4 @@
+# Docerion header of scoped_authorizationref.mm.
+type: source
+title: ScopedAuthorizationRef free implementation
+summary: Implements ScopedAuthorizationRef::FreeInternal, which calls AuthorizationFree to destroy authorization rights.

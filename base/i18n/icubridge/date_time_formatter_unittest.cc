@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for date and time formatting
+// summary: Runs exact-match formatting tests across many locales and option combinations, with platform-specific locale skips for iOS, Android, and ChromeOS ICU data.
+// ---
+
 #include "base/i18n/icubridge/date_time_formatter.h"
 
 #include <optional>

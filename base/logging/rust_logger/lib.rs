@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust logging integration entry point
+// summary: Crate root exposing init_rust_logging and update_rust_log_level over CXX FFI to bridge Rust logging with base/logging.h.
+// ---
+
 mod custom_panic_hook;
 mod log_crate_integration;
 mod print_rust_log;

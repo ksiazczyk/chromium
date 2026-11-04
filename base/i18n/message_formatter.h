@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message formatter declarations
+// summary: Declares MessageFormatter and MessageArg for locale-sensitive ICU message formatting with plural, gender, and selector support.
+// ---
+
 #ifndef BASE_I18N_MESSAGE_FORMATTER_H_
 #define BASE_I18N_MESSAGE_FORMATTER_H_
 

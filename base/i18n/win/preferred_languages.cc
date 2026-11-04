@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preferred languages implementation for Windows
+// summary: Implements retrieval of user- and thread-preferred UI languages via the Windows MUI API, returning them as a list of LanguageTag values.
+// ---
+
 #include "base/i18n/win/preferred_languages.h"
 
 #include <windows.h>

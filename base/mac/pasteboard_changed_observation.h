@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'pasteboard_changed_observation.h: pasteboard callback API'
+// summary: Declares RegisterPasteboardChangedCallback, which invokes a callback on the main thread whenever the general pasteboard changes.
+// ---
+
 #ifndef BASE_MAC_PASTEBOARD_CHANGED_OBSERVATION_H_
 #define BASE_MAC_PASTEBOARD_CHANGED_OBSERVATION_H_
 

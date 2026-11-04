@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale holder declarations
+// summary: Declares ThreadSafeLocaleHolder and SequenceCheckedLocaleHolder containers for a LanguageTag with thread-safe reads and locked or sequence-checked writes.
+// ---
+
 #ifndef BASE_I18N_LOCALE_HOLDER_H_
 #define BASE_I18N_LOCALE_HOLDER_H_
 

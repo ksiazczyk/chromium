@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BASE_REMOVE_PARENS macro
+// summary: Header defining the BASE_REMOVE_PARENS macro, which strips at most one outer set of parentheses from its arguments and leaves them unchanged otherwise.
+// ---
+
 #ifndef BASE_MACROS_REMOVE_PARENS_H_
 #define BASE_MACROS_REMOVE_PARENS_H_
 

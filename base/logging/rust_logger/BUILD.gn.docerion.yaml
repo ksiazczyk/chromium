@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Rust logger build configuration
+summary: GN build rules defining the rust_logger static library, its test support crate, and the C++ unit test target.

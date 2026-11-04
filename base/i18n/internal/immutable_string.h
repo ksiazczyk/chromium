@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immutable string with SSO and consteval support
+// summary: Header declaring ImmutableString, a memory-optimized immutable string using a small stack buffer with heap fallback and a consteval constructor for string literals.
+// ---
+
 #ifndef BASE_I18N_INTERNAL_IMMUTABLE_STRING_H_
 #define BASE_I18N_INTERNAL_IMMUTABLE_STRING_H_
 

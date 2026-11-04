@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Value conversion helpers
+// summary: GTest cases checking round trips for int64_t limits, TimeDelta, Time, non-ASCII file paths, and UnguessableToken, plus rejection of invalid Value inputs.
+// ---
+
 #include "base/json/values_util.h"
 
 #include <limits>

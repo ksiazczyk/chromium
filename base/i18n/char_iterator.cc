@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UTF-8 and UTF-16 character iterators
+// summary: Implements iterators that walk UTF-8 and UTF-16 strings one Unicode character at a time, with lower and upper bound helpers for UTF-16.
+// ---
+
 #include "base/i18n/char_iterator.h"
 
 #include <string_view>

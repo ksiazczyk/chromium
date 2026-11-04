@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar week information via ICU
+// summary: Implements IcuBridge::Calendar::GetWeekInformation, using ICU calendar data to return the first weekday and weekend days for the default locale with fallback values.
+// ---
+
 #include "base/i18n/icubridge/calendar.h"
 
 #include <memory>

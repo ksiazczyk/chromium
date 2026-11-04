@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging settings types
+// summary: C++ header defining the LoggingSettings struct and enums for log destinations, file locking, old file handling, and platform-specific log formats.
+// ---
+
 #ifndef BASE_LOGGING_LOGGING_SETTINGS_H_
 #define BASE_LOGGING_LOGGING_SETTINGS_H_
 

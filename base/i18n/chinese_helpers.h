@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chinese language tag helper API
+// summary: Declares functions that test whether a language tag represents Chinese, Simplified Chinese, or Traditional Chinese.
+// ---
+
 #ifndef BASE_I18N_CHINESE_HELPERS_H_
 #define BASE_I18N_CHINESE_HELPERS_H_
 

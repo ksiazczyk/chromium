@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom ICU transliterator construction from rules or locale
+// summary: Implements factory functions that build ICU4X transliterators from custom rule strings or locales, registering rule collections for lowercase, Latin-ASCII and custom transformations.
+// ---
+
 use core::any::TypeId;
 use icu_casemap::CaseMapper;
 use icu_casemap::CaseMapperBorrowed;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: csops SPI declarations for code signing
+// summary: Declares the private csops function and constants for querying a process's code signing status, team ID, and validation category.
+// ---
+
 #ifndef BASE_MAC_CODE_SIGNATURE_SPI_H_
 #define BASE_MAC_CODE_SIGNATURE_SPI_H_
 

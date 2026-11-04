@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of base/i18n
+summary: Lists the directory owners danft@google.com and jshin@chromium.org for review routing.

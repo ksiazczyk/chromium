@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSONValueConverter for mapping JSON to C++ structs
+// summary: Declares the JSONValueConverter template that maps JSON values into C++ structs using registered converters for ints, strings, nested and repeated fields, and custom types.
+// ---
+
 #ifndef BASE_JSON_JSON_VALUE_CONVERTER_H_
 #define BASE_JSON_JSON_VALUE_CONVERTER_H_
 

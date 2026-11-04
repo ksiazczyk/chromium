@@ -4,6 +4,12 @@
 
 // File utilities that use the ICU library go in this file.
 
+// ---docerion
+// type: source
+// title: ICU file utilities implementation
+// summary: Implements filename sanitization with ICU, replacing illegal characters and providing locale-aware filename comparison, including Windows 8.3 short-name checks.
+// ---
+
 #include "base/i18n/file_util_icu.h"
 
 #include <stdint.h>

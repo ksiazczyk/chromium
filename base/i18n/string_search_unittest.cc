@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String search unit tests
+// summary: Unit tests covering ICU-based string search for case sensitivity, accent handling, and forward or backward matching with expected match positions and lengths.
+// ---
+
 #include "base/i18n/string_search.h"
 
 #include <stddef.h>

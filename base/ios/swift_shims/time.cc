@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ implementation of the TimeDelta Swift shim
+// summary: Implements the base::swift TimeDelta wrapper class that delegates construction and duration conversions to base::TimeDelta.
+// ---
+
 #include "base/ios/swift_shims/time.h"
 
 #include "base/time/time.h"

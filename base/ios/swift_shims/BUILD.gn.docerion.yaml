@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for iOS Swift shims
+summary: Defines the GN build targets for the iOS Swift shims source set and the Swift C++ imports for the sys_info, time and user_metrics headers.

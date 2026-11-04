@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAuthorizationRef owner for Security authorization references
+// summary: Declares ScopedAuthorizationRef, a unique_ptr-style owner of an AuthorizationRef that frees the authorization on destruction or reset.
+// ---
+
 #ifndef BASE_MAC_SCOPED_AUTHORIZATIONREF_H_
 #define BASE_MAC_SCOPED_AUTHORIZATIONREF_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: launchd job messaging implementation
+// summary: Sends messages to launchd to look up job PIDs, distinguishing running, loaded-but-idle, and unloaded jobs.
+// ---
+
 #include "base/mac/launchd.h"
 
 #include <errno.h>

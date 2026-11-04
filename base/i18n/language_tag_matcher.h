@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language tag matcher declaration
+// summary: Declares matcher classes that find the best supported locale for a preferred language tag using ICU fallback rules and precomputed distances.
+// ---
+
 #ifndef BASE_I18N_LANGUAGE_TAG_MATCHER_H_
 #define BASE_I18N_LANGUAGE_TAG_MATCHER_H_
 

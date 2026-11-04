@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSON value serializer unit tests
+// summary: Unit tests for the string and file JSON serializers, checking round-trip serialization, trailing commas, padded input, and error reporting.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

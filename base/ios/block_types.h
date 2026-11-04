@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Objective-C block type definitions
+// summary: Defines typedefs for common Objective-C block signatures, a procedural block taking no arguments and a condition block returning a bool.
+// ---
+
 #ifndef BASE_IOS_BLOCK_TYPES_H_
 #define BASE_IOS_BLOCK_TYPES_H_
 

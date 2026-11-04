@@ -6,6 +6,12 @@
 // character-at-a-time processing, whereas byte-at-a-time processing is easier
 // with streaming input.
 
+// ---docerion
+// type: source
+// title: Streaming UTF-8 validator implementation
+// summary: Implements a byte-at-a-time streaming UTF-8 validator using table-driven state transitions without ICU.
+// ---
+
 #include "base/i18n/streaming_utf8_validator.h"
 
 #include "base/containers/span.h"

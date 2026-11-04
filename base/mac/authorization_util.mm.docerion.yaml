@@ -1,0 +1,4 @@
+# Docerion header of authorization_util.mm.
+type: source
+title: macOS authorization utility implementation
+summary: Implements the authorization helpers, including user prompting, icon setup, and running tools as root with PID tracking.

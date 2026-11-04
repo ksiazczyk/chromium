@@ -7,6 +7,12 @@
 // embedded into the executable / library instead of stored in external
 // .pak files.
 
+// ---docerion
+// type: source
+// title: LanguageSelector implementation for embedded i18n
+// summary: Implements a helper class that selects a supported language from candidates, including alias and wildcard handling, for strings embedded in the executable instead of .pak files.
+// ---
+
 #include "base/i18n/win/embedded_i18n/language_selector.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON reader implementation
+// summary: Implements JSONReader by delegating parsing to the Rust serde_json_lenient decoder and bridging values into base::Value via FFI callback functions.
+// ---
+
 #include "base/json/json_reader.h"
 
 #include <string_view>

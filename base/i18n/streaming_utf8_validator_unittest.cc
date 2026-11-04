@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Streaming UTF-8 validator unit tests
+// summary: Unit tests for StreamingUtf8Validator that compare incremental UTF-8 validation against ICU-based validation, including a disabled exhaustive test over all 4-byte sequences.
+// ---
+
 #include "base/i18n/streaming_utf8_validator.h"
 
 #include <stddef.h>

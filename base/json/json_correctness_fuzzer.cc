@@ -6,6 +6,12 @@
 // The fuzzer input is passed through parsing twice,
 // so that presumably valid json is parsed/written again.
 
+// ---docerion
+// type: test
+// title: JSON parser and writer correctness fuzzer
+// summary: libFuzzer harness that parses JSON input twice through reader and writer to verify round-trip consistency of the parser and writer.
+// ---
+
 #include <stdint.h>
 
 #include <string>

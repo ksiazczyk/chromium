@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for base/i18n
+summary: DEPS file allowing includes of the icu_capi-v2 Rust bindings used by the language tag code.

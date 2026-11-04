@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON file value serializer implementation
+// summary: Implements serializing base::Value to a JSON file and deserializing JSON files, with file-specific error codes for access, locking and missing files.
+// ---
+
 #include "base/json/json_file_value_serializer.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android locale helper declarations
+// summary: Declares GetAndroidDefaultCountryCode and GetAndroidDefaultLocale, which expose the device's default locale settings as strings and LanguageTags.
+// ---
+
 #ifndef BASE_I18N_ANDROID_LOCALE_H_
 #define BASE_I18N_ANDROID_LOCALE_H_
 

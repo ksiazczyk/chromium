@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSONWriter declarations and WriteJson helpers
+// summary: Declares the JSONWriter class, JsonOptions flags, and WriteJson helpers that convert base::Value trees into JSON strings with depth and binary value handling.
+// ---
+
 #ifndef BASE_JSON_JSON_WRITER_H_
 #define BASE_JSON_JSON_WRITER_H_
 

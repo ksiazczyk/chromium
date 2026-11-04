@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header shims for iOS simulator SDK headers
+// summary: Declares Mach bootstrap and proc functions and constants missing from the iOS public SDK to support multiprocess and memory instrumentation.
+// ---
+
 #ifndef BASE_IOS_SIM_HEADER_SHIMS_H_
 #define BASE_IOS_SIM_HEADER_SHIMS_H_
 

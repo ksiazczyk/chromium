@@ -5,6 +5,12 @@
 // Basic time formatting methods.  Most methods format based on the current
 // locale. *TimeFormatWithPattern() are special; see comments there.
 
+// ---docerion
+// type: source
+// title: Locale-aware time formatting declarations
+// summary: Declares functions for formatting times and dates according to the current locale, including ISO 8601, RFC 7231 HTTP dates, and duration formats.
+// ---
+
 #ifndef BASE_I18N_TIME_FORMATTING_H_
 #define BASE_I18N_TIME_FORMATTING_H_
 

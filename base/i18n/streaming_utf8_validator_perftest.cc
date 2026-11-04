@@ -10,6 +10,12 @@
 // result in a connection failure, so is unlikely to become a source of
 // performance issues.
 
+// ---docerion
+// type: test
+// title: Streaming UTF-8 validator performance tests
+// summary: Benchmarks the streaming UTF-8 validator over ranges of valid UTF-8 sequences of varying lengths and string sizes.
+// ---
+
 #include "base/i18n/streaming_utf8_validator.h"
 
 #include <stddef.h>

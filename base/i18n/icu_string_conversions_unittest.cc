@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ICU string conversions
+// summary: Unit tests covering codepage conversions to and from UTF-16 across encodings like Big5, ISO-8859-6, GB2312 and GB18030 with various error modes.
+// ---
+
 #include "base/i18n/icu_string_conversions.h"
 
 #include <math.h>

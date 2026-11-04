@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BreakIterator implementation
+// summary: Implements BreakIterator on top of ICU, with caching of default-locale break iterators for character, word, sentence, and line breaking.
+// ---
+
 #include "base/i18n/break_iterator.h"
 
 #include <stdint.h>

@@ -4,6 +4,12 @@
 
 // This file contains unit tests for Windows internationalization funcs.
 
+// ---docerion
+// type: test
+// title: Preferred languages unit tests
+// summary: Unit tests verifying that the user- and thread-preferred UI language lists on Windows are non-empty and contain non-empty language tags.
+// ---
+
 #include "base/i18n/win/preferred_languages.h"
 
 #include <stddef.h>

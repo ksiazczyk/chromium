@@ -1,0 +1,4 @@
+# Docerion header of info_plist_data.mm.
+type: source
+title: Outer bundle Info.plist data implementation
+summary: Serializes NSBundle's cached Info.plist dictionary, removing injected keys so the data matches the running app's code signature.

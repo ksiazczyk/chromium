@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageTag to base::Value converter declarations
+// summary: Declares functions that convert a LanguageTag to a string base::Value and parse a LanguageTag from a base::Value, returning nullopt for invalid input.
+// ---
+
 #ifndef BASE_I18N_LANGUAGE_TAG_VALUE_CONVERTERS_H_
 #define BASE_I18N_LANGUAGE_TAG_VALUE_CONVERTERS_H_
 

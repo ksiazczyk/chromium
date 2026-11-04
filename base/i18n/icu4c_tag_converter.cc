@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language tag to ICU locale converter implementation
+// summary: Implements a singleton converter that maps type-safe BCP 47 language tags to icu::Locale objects and back, caching canonical locales.
+// ---
+
 #include "base/i18n/icu4c_tag_converter.h"
 
 #include <iterator>

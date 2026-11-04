@@ -1,0 +1,4 @@
+# Docerion header of crb_protocol_observers_unittest.mm.
+type: test
+title: CRBProtocolObservers unit tests
+summary: Tests adding and removing observers and forwarding of required and optional protocol methods, including mutation during dispatch.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom panic hook routing Rust panics to LOG(FATAL)
+// summary: Installs a Rust panic hook that forwards panic messages and locations to Chromium's LOG(FATAL) via print_rust_log.
+// ---
+
 use crate::print_rust_log;
 use std::panic::PanicHookInfo;
 

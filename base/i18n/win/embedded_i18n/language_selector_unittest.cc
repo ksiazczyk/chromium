@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LanguageSelector
+// summary: Tests language selection behavior for exact, alias, wildcard, and fallback matches using parameterized candidate language sets.
+// ---
+
 #include "base/i18n/win/embedded_i18n/language_selector.h"
 
 #include <string>

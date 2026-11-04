@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BASE_IF compile-time conditional macro
+// summary: Header defining the BASE_IF macro that selects between _Then and _Else arguments based on a condition that must be exactly 0, 1, true or false.
+// ---
+
 #ifndef BASE_MACROS_IF_H_
 #define BASE_MACROS_IF_H_
 

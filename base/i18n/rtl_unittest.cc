@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RTL text direction unit tests
+// summary: Unit tests for text direction detection, first and last strong character direction, and RTL string adjustment helpers.
+// ---
+
 #include "base/i18n/rtl.h"
 
 #include <stddef.h>

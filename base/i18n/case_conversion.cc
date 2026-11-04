@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Case conversion implementation
+// summary: Implements locale-aware ToLower and ToUpper plus locale-independent FoldCase for UTF-16 strings on top of ICU case mapping functions.
+// ---
+
 #include "base/i18n/case_conversion.h"
 
 #include <stdint.h>

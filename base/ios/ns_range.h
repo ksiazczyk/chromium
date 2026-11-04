@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSRange equality operator header
+// summary: Defines an inline equality operator that compares two NSRange values by location and length.
+// ---
+
 #ifndef BASE_IOS_NS_RANGE_H_
 #define BASE_IOS_NS_RANGE_H_
 

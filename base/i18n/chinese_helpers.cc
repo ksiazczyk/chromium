@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chinese language tag helpers
+// summary: Implements IsChinese, IsSimplifiedChinese, and IsTraditionalChinese checks for language tags using language tag matchers for zh-Hans and zh-Hant.
+// ---
+
 #include "base/i18n/chinese_helpers.h"
 
 #include "base/i18n/language_tag.h"

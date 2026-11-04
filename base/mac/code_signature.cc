@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS code signature validation implementation
+// summary: Validates that processes have valid code signatures meeting a SecRequirement, using audit tokens or PIDs and optional Info.plist data.
+// ---
+
 #include "base/mac/code_signature.h"
 
 #include <variant>

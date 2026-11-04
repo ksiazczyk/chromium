@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BCP 47 extension parsing
+// summary: Implements parsing and canonicalization of BCP 47 extensions, including Unicode extension attributes and keywords per RFC 6067 rules.
+// ---
+
 #include "base/i18n/bcp47_extensions.h"
 
 #include <algorithm>

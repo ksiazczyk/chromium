@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageTag class declaration
+// summary: Declares LanguageTag, a type-safe wrapper for BCP47 language tags with subtag access, extension support, and Mojo and Blink integration.
+// ---
+
 #ifndef BASE_I18N_LANGUAGE_TAG_H_
 #define BASE_I18N_LANGUAGE_TAG_H_
 

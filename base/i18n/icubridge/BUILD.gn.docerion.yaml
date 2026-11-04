@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the icubridge target
+summary: Defines the icubridge source set and its unittests target, listing sources, defines, dependencies on base, ICU, and icu_capi, and visibility restrictions.

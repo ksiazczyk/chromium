@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the BCP47 parser
+// summary: Tests parsing of language tags with variants, extensions, and private-use subtags, plus constexpr and known-subtag validation behavior.
+// ---
+
 #include "base/i18n/internal/bcp47_parser.h"
 
 #include <optional>

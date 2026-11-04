@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: i18n command-line switch constants
+// summary: Defines switch constants for forcing UI and text direction, namely force-ui-direction and force-text-direction with ltr and rtl values.
+// ---
+
 #include "base/i18n/base_i18n_switches.h"
 
 namespace switches {

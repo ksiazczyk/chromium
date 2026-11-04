@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust transliterator bridge
+// summary: Rust cxx bridge exposing ICU4X-based transliterator creation from locale or rules and transliteration to C++.
+// ---
+
 use icu_experimental::transliterate::Transliterator;
 
 #[path = "translit/mod.rs"]

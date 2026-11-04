@@ -1,0 +1,4 @@
+# Docerion header of base_unittests-Info.plist.
+type: config
+title: Info.plist for base_unittests
+summary: Property list that names base_unittests as the bundle executable and sets the Info.plist dictionary version.

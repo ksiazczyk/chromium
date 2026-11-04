@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMachMsgDestroy guard for Mach messages
+// summary: Declares ScopedMachMsgDestroy, which calls mach_msg_destroy on a Mach message header when the object goes out of scope unless disarmed.
+// ---
+
 #ifndef BASE_MAC_SCOPED_MACH_MSG_DESTROY_H_
 #define BASE_MAC_SCOPED_MACH_MSG_DESTROY_H_
 

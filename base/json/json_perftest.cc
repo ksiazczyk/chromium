@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSON read and write performance tests
+// summary: gtest-based performance test measuring JSONReader and JSONWriter timings on simple and layered dictionary values of varying breadth and depth.
+// ---
+
 #include "base/json/json_reader.h"
 #include "base/json/json_writer.h"
 #include "base/memory/ptr_util.h"

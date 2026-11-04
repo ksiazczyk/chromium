@@ -1,0 +1,4 @@
+# Docerion header of pasteboard_changed_observation_unittest.mm.
+type: test
+title: 'pasteboard_changed_observation_unittest.mm: pasteboard callback tests'
+summary: Verifies that registered callbacks fire when the pasteboard changes and that no spurious callbacks occur when it does not.

@@ -5,6 +5,12 @@
 // This file declares a helper class for selecting a supported language from a
 // set of candidates.
 
+// ---docerion
+// type: source
+// title: LanguageSelector class declaration
+// summary: Declares the LanguageSelector class that picks a language from available translations based on the user's preferred language list, exposing the matched offset and language tags.
+// ---
+
 #ifndef BASE_I18N_WIN_EMBEDDED_I18N_LANGUAGE_SELECTOR_H_
 #define BASE_I18N_WIN_EMBEDDED_I18N_LANGUAGE_SELECTOR_H_
 

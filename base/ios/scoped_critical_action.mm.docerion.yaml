@@ -1,0 +1,4 @@
+# Docerion header of scoped_critical_action.mm.
+type: source
+title: ScopedCriticalAction implementation for iOS background tasks
+summary: Implements ScopedCriticalAction background task start and end via UIApplication, including task reuse and shutdown skipping behavior.

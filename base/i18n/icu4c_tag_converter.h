@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language tag to ICU locale converter header
+// summary: Declares the IcuLocaleConverter singleton for converting between BCP 47 LanguageTag values and legacy ICU icu::Locale objects.
+// ---
+
 #ifndef BASE_I18N_ICU4C_TAG_CONVERTER_H_
 #define BASE_I18N_ICU4C_TAG_CONVERTER_H_
 

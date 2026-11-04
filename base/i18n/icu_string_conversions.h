@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU string encoding conversion declarations
+// summary: Declares functions for converting between UTF-16 and codepage encodings with configurable error handling, plus normalized UTF-8 conversion.
+// ---
+
 #ifndef BASE_I18N_ICU_STRING_CONVERSIONS_H_
 #define BASE_I18N_ICU_STRING_CONVERSIONS_H_
 

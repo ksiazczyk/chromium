@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ FFI implementation for Rust log emission
+// summary: Implements print_rust_log and LogMessageRustWrapper, forwarding Rust log lines and verbosity checks into base logging.
+// ---
+
 #include "base/logging/rust_logger/print_rust_log_ffi.h"
 
 #include <stdint.h>

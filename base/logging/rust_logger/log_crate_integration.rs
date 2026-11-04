@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log crate integration mapping Rust levels to Chromium severities
+// summary: 'Implements a log crate logger that routes log:: macros to Chromium LOG macros with dynamic minimum level filtering.'
+// ---
+
 use crate::print_rust_log;
 use std::ffi::{CStr, CString};
 use std::sync::atomic::{AtomicI32, Ordering};

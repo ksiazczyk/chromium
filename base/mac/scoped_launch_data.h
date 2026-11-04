@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedLaunchData owner for deprecated launchd data
+// summary: Defines ScopedLaunchData, a unique_ptr-like wrapper that frees launch_data_t objects, with deprecation warnings suppressed.
+// ---
+
 #ifndef BASE_MAC_SCOPED_LAUNCH_DATA_H_
 #define BASE_MAC_SCOPED_LAUNCH_DATA_H_
 

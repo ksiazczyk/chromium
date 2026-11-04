@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language tag converter implementation
+// summary: Implements LanguageTagConverter, parsing and canonicalizing BCP 47 language tags via Rust ICU4X, with legacy code conversion and Windows-specific Chinese locale mappings.
+// ---
+
 #include "base/i18n/tag_converters.h"
 
 #include <algorithm>

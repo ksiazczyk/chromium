@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON string value serializer implementation
+// summary: Implements JSONStringValueSerializer and JSONStringValueDeserializer, which serialize base::Value trees to JSON strings and parse them back via JSONReader and JSONWriter.
+// ---
+
 #include "base/json/json_string_value_serializer.h"
 
 #include <string_view>

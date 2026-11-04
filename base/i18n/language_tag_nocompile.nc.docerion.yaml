@@ -1,0 +1,4 @@
+# Docerion header of language_tag_nocompile.nc.
+type: test
+title: Language tag no-compile tests
+summary: No-compile test verifying that GetKnownLanguageTag fails at compile time for tags outside the known canonical tag list.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Basic value converter implementations for JSONValueConverter
+// summary: Implements internal BasicValueConverter specializations that copy int, string, u16string, double, and bool values from base::Value into C++ struct fields.
+// ---
+
 #include "base/json/json_value_converter.h"
 
 #include "base/strings/utf_string_conversions.h"

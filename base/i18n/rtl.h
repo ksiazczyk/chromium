@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text direction and RTL API header
+// summary: Declares the text direction API, including IsRTL, string directionality helpers and Unicode bidi formatting marks.
+// ---
+
 #ifndef BASE_I18N_RTL_H_
 #define BASE_I18N_RTL_H_
 

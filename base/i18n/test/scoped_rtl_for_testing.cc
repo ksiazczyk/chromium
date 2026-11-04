@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped RTL state test helper
+// summary: Implements ScopedRTLForTesting, which sets RTL or LTR state in tests via a scoped Hebrew or English locale and restores the prior state.
+// ---
+
 #include "base/i18n/test/scoped_rtl_for_testing.h"
 
 #include <memory>

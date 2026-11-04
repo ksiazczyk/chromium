@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Normalizer unit tests
+// summary: Parameterized tests verifying NFC, NFD, and NFKC normalization through both the ICU4X and ICU4C backends via the IcuBridge.
+// ---
+
 #include "base/i18n/icubridge/normalizer.h"
 
 #include "base/i18n/icu_util.h"

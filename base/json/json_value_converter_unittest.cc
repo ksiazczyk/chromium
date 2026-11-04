@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSONValueConverter unit tests
+// summary: Unit tests for JSONValueConverter verifying parsing of simple and nested messages, enums, repeated fields, and custom value conversions from JSON.
+// ---
+
 #include "base/json/json_value_converter.h"
 
 #include <memory>

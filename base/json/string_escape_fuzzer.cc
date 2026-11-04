@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LibFuzzer test for JSON string escaping
+// summary: LibFuzzer entry point that exercises base::EscapeJSONString with arbitrary UTF-8 and UTF-16 inputs to detect crashes and overflows.
+// ---
+
 #include "base/json/string_escape.h"
 
 #include <string_view>

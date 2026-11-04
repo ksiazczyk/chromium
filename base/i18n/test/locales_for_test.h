@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the test locales list
+// summary: Declares GetLocalesForTest, which returns a comprehensive list of locales to be used in tests.
+// ---
+
 #ifndef BASE_I18N_TEST_LOCALES_FOR_TEST_H_
 #define BASE_I18N_TEST_LOCALES_FOR_TEST_H_
 
