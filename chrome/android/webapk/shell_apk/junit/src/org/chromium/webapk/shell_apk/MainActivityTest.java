@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MainActivityTest
+// summary: Robolectric unit tests for MainActivity verifying that out-of-scope intent URLs are rewritten using the manifest start URL and logged intent URL parameter.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import static org.robolectric.Shadows.shadowOf;

@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_ar.xtb.
+type: data
+title: Arabic WebAPK strings translation bundle
+summary: Arabic XTB translation bundle providing localized Android WebAPK UI strings, including install and close buttons, site settings and unsupported browser messages.

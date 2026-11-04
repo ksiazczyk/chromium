@@ -1,2 +1,8 @@
+---
+type: readme
+title: WebAPK common library README
+summary: Briefly states that this directory contains code shared between the WebAPK shell APK and Chrome.
+---
+
 Contains code which is shared between //chrome/android/webapk/shell_apk) and
 Chrome

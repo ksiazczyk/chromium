@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: is_splash_icon_maskable_bool
+summary: Defines the xhdpi boolean resource is_splash_icon_maskable as false, indicating the WebAPK shell splash icon is not maskable at this density.
+-->
+
 <resources>
     <bool name="is_splash_icon_maskable">false</bool>
 </resources>

@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_ko.xtb.
+type: data
+title: Korean WebAPK string translations
+summary: Korean translation bundle with localized Android WebAPK UI strings such as install, close, and site settings prompts.

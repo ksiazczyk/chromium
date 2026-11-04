@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkMetaDataUtils
+// summary: Utility for extracting long values from a WebAPK's Android meta data, reading string values terminated with 'L' and falling back to a default on failure.
+// ---
+
 package org.chromium.webapk.lib.common;
 import org.chromium.build.annotations.NullMarked;
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'H2OTransparentLauncherActivity: UI-less host browser launcher'
+// summary: UI-less activity that selects the host browser, relaunches itself to switch the MAIN intent handler, and routes to SplashActivity or the browser.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import android.content.ComponentName;

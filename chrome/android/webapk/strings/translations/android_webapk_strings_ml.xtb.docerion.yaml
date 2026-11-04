@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_ml.xtb.
+type: data
+title: Malayalam WebAPK string translations
+summary: Malayalam translation bundle with localized Android WebAPK UI strings such as install, close, and site settings prompts.

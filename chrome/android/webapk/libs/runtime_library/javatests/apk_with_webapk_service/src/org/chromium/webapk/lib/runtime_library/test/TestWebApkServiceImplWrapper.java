@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWebApkServiceImplWrapper
+// summary: Test Android service that binds a WebApkServiceImpl instance with icon ID and host browser UID extras for use in WebAPK runtime library tests.
+// ---
+
 package org.chromium.webapk.lib.runtime_library.test;
 
 import android.app.Service;

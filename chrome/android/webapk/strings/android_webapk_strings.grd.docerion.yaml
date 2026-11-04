@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings.grd.
+type: data
+title: Android WebAPK localized strings resource
+summary: GRIT resource file defining the localized UI strings for the Android WebAPK feature, with per-language Android string outputs for many locales.

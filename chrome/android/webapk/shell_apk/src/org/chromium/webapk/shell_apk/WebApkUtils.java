@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkUtils helpers for interacting with WebAPKs
+// summary: Utility methods for interacting with WebAPKs, including manifest metadata reading, intent URL rewriting and install state checks.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.annotation.SuppressLint;

@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: WebAPK presubmit script tests
+summary: Unit tests for the presubmit checks, using mock input and output APIs to verify version bump and resource naming rules.

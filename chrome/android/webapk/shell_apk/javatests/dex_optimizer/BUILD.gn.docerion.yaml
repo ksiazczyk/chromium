@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for the dex optimizer test APK
+summary: GN build definition for the dex_optimizer_apk target, pointing to the test Android manifest and depending on canary dex assets.

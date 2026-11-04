@@ -1,0 +1,4 @@
+# Docerion header of runtime_library.proguard.flags.
+type: config
+title: ProGuard keep rules for the runtime library
+summary: ProGuard flags file that keeps all org.chromium classes when the WebAPK runtime library dex is built.

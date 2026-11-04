@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'H2OLauncher: host browser launch helpers for WebAPK splash'
+// summary: Utility class with methods to launch the host browser in WebAPK mode, switch enabled components, copy intent extras, and track relaunch requests.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import android.app.Activity;

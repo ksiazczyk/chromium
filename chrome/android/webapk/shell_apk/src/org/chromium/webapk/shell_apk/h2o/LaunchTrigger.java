@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'LaunchTrigger: one-shot launch condition coordinator'
+// summary: Small helper that runs a callback once splash screen readiness, launch intent, and host browser selection have all been signaled, with reset support.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import org.chromium.build.annotations.NullMarked;

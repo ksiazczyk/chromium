@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBrowserInstaller
+// summary: Test helper providing utility methods to install, uninstall, and version mock browsers via Robolectric's ShadowPackageManager for WebAPK JUnit tests.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.content.pm.ActivityInfo;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkNavigationClient
+// summary: Provides an API to create an intent that launches a WebAPK, optionally forcing navigation to a URL or bringing an already-running WebAPK to the foreground.
+// ---
+
 package org.chromium.webapk.lib.client;
 import org.chromium.build.annotations.NullMarked;
 

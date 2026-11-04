@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'H2OMainActivity: MAIN intent handler for older host browsers'
+// summary: Activity handling android.intent.action.MAIN when the host browser lacks transparent WebAPK-mode support, requesting relaunches and switching components.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import android.content.ComponentName;

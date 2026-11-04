@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkServiceConnectionManagerTest
+// summary: Robolectric unit tests for WebApkServiceConnectionManager covering connection reuse, callback delivery, and connecting while a bind is still being established.
+// ---
+
 package org.chromium.webapk.lib.client;
 
 import android.content.ComponentName;

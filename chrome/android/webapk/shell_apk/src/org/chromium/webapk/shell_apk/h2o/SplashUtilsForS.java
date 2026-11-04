@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SplashUtilsForS: Android S splash screen utilities'
+// summary: Utilities using Android S APIs to listen for the system splash screen exit and produce a screenshot bitmap for a seamless shell-to-Chrome transition.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_cs.xtb.
+type: data
+title: Czech WebAPK strings translation bundle
+summary: Czech translations for Android WebAPK UI strings such as install, close, site settings and browser support messages.

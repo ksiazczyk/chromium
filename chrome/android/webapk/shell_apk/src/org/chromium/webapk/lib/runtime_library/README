@@ -1,3 +1,9 @@
+---
+type: readme
+title: WebAPK runtime library fallback copy README
+summary: Explains why the directory keeps a pre-compiled fallback copy of the WebAPK runtime library for Android O notification channels and lists the commands to regenerate and update it.
+---
+
 This directory contains a pre-compiled / fallback copy of the runtime library.
 It was necessary for WebAPKs to switch to supporting Android O because as soon
 as the app targets Android O a notification channel was necessary for the

@@ -1,0 +1,4 @@
+# Docerion header of javatest_manifest_config_delta.json.
+type: config
+title: Java test WebAPK manifest config delta
+summary: Manifest config delta overriding WebAPK fields for pwa-directory.appspot.com, used by Java tests to derive a test manifest configuration.

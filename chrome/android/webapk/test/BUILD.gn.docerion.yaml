@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebAPk test Robolectric support build file
+summary: Defines the junit_test_support Robolectric library containing WebApkTestHelper, with dependencies on webapk common code and Mockito.

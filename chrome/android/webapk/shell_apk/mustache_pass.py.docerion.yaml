@@ -1,0 +1,4 @@
+# Docerion header of mustache_pass.py.
+type: script
+title: Mustache template expansion script
+summary: Build tool that expands a Mustache template using variables from JSON config files, a delta config file, and extra variables passed as a GN list.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SplashContentProvider: serves cached splash screenshots'
+// summary: Content provider that temporarily caches and vends the splash screen screenshot to the host browser, expiring cached data after a short delay.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

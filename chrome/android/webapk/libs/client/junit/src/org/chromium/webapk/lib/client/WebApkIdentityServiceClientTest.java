@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkIdentityServiceClientTest
+// summary: Robolectric unit tests for WebApkIdentityServiceClient verifying the backs-WebAPK check against runtime host metadata and shell APK version thresholds.
+// ---
+
 package org.chromium.webapk.lib.client;
 
 import android.content.ComponentName;

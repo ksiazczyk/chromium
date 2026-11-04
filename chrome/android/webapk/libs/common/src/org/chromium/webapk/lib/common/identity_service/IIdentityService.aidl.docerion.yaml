@@ -1,0 +1,4 @@
+# Docerion header of IIdentityService.aidl.
+type: source
+title: IIdentityService AIDL interface
+summary: Defines the AIDL interface that lets browsers query WebAPK information, such as the package name of its runtime host browser.

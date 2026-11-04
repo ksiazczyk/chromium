@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'SplashActivityTest: SplashActivity Robolectric tests'
+// summary: Robolectric tests for SplashActivity covering host browser selection and splash activity lifecycle behavior.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import static org.junit.Assert.assertEquals;

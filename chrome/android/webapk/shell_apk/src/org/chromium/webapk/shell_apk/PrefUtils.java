@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefUtils helper for application-level SharedPreferences
+// summary: Provides consistent access to application-level SharedPreferences and tracks whether notification permission has been requested.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.content.Context;

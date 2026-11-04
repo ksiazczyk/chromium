@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebAPK shell splash theme styles for Android API 17+
+summary: Defines the SplashTheme style for the WebAPK shell APK on Android API 17 and higher, hiding the action bar and title and setting a non-empty window background.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <style name="SplashTheme" parent="@android:style/Theme.Holo.Light">
     <item name="android:windowActionBar">false</item>

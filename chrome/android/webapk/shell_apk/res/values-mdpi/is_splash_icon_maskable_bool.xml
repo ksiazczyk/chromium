@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: is_splash_icon_maskable_bool.xml
+summary: Android resource XML for mdpi screens that defines the boolean is_splash_icon_maskable as false, controlling whether the WebAPK splash icon is maskable.
+-->
+
 <resources>
     <bool name="is_splash_icon_maskable">false</bool>
 </resources>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for WebAPK shell APK upload directory preparation
+summary: GN build file that copies WebAPK shell APK resources and templates into an upload_to_build_bucket directory for upload to the build bucket.

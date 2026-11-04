@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebAPK splash icon maskable flag for xxxhdpi
+summary: Android resource boolean that marks the WebAPK splash icon as non-maskable for xxxhdpi screen densities.
+-->
+
 <resources>
     <bool name="is_splash_icon_maskable">false</bool>
 </resources>

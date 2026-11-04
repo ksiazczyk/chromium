@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Night mode splash and permission request themes
+summary: Defines night-mode Android 12+ themes for the WebAPK shell, including a splash screen theme with a dark background and a floating permission request theme.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <style name="SplashTheme" parent="@android:style/Theme.Holo">
     <item name="android:windowActionBar">false</item>

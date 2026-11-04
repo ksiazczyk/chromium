@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the runtime library directory
+summary: DEPS file that permits includes from chrome/android/webapk/libs/common within the runtime library directory.

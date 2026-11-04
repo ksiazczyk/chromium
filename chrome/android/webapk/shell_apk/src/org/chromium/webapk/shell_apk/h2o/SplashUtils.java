@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SplashUtils: splash screen view and bitmap utilities'
+// summary: Utility methods to build the splash view, screenshot and downscale it, and choose PNG or JPEG encoding based on bitmap size.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import android.content.Context;

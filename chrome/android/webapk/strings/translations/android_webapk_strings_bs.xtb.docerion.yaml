@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_bs.xtb.
+type: data
+title: Bosnian WebAPK strings translation bundle
+summary: Bosnian XTB translation bundle providing localized Android WebAPK UI strings, including install and close buttons, site settings and unsupported browser messages.

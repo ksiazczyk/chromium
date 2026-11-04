@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: WebAPK shell splash screen layout for Android 12
+summary: Defines the API 31 splash screen layout for the WebAPK shell APK, centering a splash icon image view over a non-empty background color.
+-->
+
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"

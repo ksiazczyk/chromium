@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_zh-CN.xtb.
+type: data
+title: Simplified Chinese WebAPK strings translation bundle
+summary: Simplified Chinese translations of Android WebAPK UI strings, covering site settings, browser support messages, and install and close prompts.

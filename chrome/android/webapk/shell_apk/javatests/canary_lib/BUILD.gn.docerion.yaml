@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for canary_lib test dex targets
+summary: Defines android_library, dist_dex, and android_assets targets that build canary dex files used to test ClassLoader creation from dex in a remote APK.

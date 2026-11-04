@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_mk.xtb.
+type: data
+title: Macedonian WebAPK string translations
+summary: Macedonian translation bundle with localized Android WebAPK UI strings such as install, close, and site settings prompts.

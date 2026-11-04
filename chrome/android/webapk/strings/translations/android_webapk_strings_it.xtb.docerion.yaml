@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_it.xtb.
+type: data
+title: Italian WebAPK strings translation bundle
+summary: Italian translations of Android WebAPK UI strings, covering install, close, site settings, and browser selection messages.

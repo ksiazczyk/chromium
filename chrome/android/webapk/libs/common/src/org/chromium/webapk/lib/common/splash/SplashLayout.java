@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SplashLayout: WebAPK splash screen layout utilities'
+// summary: Utility class for building Android splash screens for WebAPKs and home screen shortcuts, selecting the layout and icon display based on icon suitability.
+// ---
+
 package org.chromium.webapk.lib.common.splash;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SplashUtilsTest
+// summary: JUnit tests for SplashUtils that verify createAndImmediatelyScreenshotSplashView returns a non-blank bitmap with the requested splash screen dimensions.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import android.graphics.Bitmap;

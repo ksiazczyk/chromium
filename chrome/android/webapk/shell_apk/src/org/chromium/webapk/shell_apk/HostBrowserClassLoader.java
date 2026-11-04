@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostBrowserClassLoader
+// summary: Creates and reuses the ClassLoader for the WebAPK runtime dex stored in the host browser's assets, invalidating it when the host browser is upgraded.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.content.Context;

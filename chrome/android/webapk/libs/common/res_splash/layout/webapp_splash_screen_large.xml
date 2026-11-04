@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: WebAPK splash screen layout with icon
+summary: Android layout for the WebAPK splash screen that centers the app icon and places the app name near the bottom, using dimension offsets to match the spec for different device types.
+-->
+
 <!-- The spec offsets the center of the ImageView from the center of the screen by either 16 or
      24dp, depending on the device type.  That's implemented here by adding a bottom margin of twice
      that amount to the RelativeLayout, which effectively moves its center upward by the desired dp.

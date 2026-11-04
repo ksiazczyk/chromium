@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkTestHelper
+// summary: Helper class for WebAPK JUnit tests that registers WebAPKs with mock package manager data and creates launch intents using Robolectric and Mockito.
+// ---
+
 package org.chromium.webapk.test;
 
 import android.content.Intent;

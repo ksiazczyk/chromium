@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionStatus IntDef annotation for WebAPK service permission states
+// summary: Defines an IntDef annotation with ALLOW, BLOCK and ASK values representing the permission state in WebAPK service calls.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import androidx.annotation.IntDef;

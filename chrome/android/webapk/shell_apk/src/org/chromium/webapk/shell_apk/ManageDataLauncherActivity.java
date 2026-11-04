@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManageDataLauncherActivity
+// summary: Activity that handles WebAPK site settings shortcuts by launching the browser's site settings for the WebAPK's start URL.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;

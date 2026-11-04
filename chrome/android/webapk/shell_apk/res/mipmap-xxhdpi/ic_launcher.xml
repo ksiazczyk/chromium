@@ -5,5 +5,11 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebAPK shell launcher icon bitmap drawable
+summary: Android bitmap drawable XML that points the xxhdpi launcher icon of the WebAPK shell APK to the app_icon_xxhdpi mipmap resource.
+-->
+
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
     android:src="@mipmap/app_icon_xxhdpi"/>

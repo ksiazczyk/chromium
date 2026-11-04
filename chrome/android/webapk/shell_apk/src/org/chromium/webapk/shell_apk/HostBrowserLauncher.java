@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostBrowserLauncher
+// summary: Launches the host browser in WebAPK mode when supported, otherwise in tabbed mode, assembling the launch intent with WebAPK extras and flags.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.app.Activity;

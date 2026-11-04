@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for WebAPK shell_apk javatests
+summary: Defines the allowed include directories for tests in the WebAPK shell_apk javatests folder, covering base, WebAPK client and common libraries, and content public test APIs.

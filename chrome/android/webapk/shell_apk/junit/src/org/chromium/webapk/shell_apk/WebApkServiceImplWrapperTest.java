@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkServiceImplWrapperTest
+// summary: Robolectric tests for WebApkServiceImplWrapper checking that notification calls are routed to the wrapper or the delegated service depending on the transaction.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.app.Notification;

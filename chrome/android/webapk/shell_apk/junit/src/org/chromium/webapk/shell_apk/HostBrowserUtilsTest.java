@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostBrowserUtilsTest
+// summary: Parameterized Robolectric tests for HostBrowserUtils that verify host browser package and component selection for bound and unbound WebAPKs.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.content.ComponentName;

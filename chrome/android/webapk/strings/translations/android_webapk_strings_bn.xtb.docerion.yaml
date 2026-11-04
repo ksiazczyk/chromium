@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_bn.xtb.
+type: data
+title: Bengali WebAPK strings translation bundle
+summary: Bengali XTB translation bundle providing localized Android WebAPK UI strings, including install and close buttons, site settings and unsupported browser messages.

@@ -1,0 +1,4 @@
+# Docerion header of IWebApkApi.aidl.
+type: source
+title: IWebApkApi AIDL interface
+summary: Defines the Android AIDL interface used for communication between a WebAPK service and Chrome, covering notification display, cancellation, permission checks and task removal.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallHostBrowserDialog
+// summary: Shows an alert dialog prompting the user to install the host browser needed to launch the WebAPK, notifying a listener of the choice.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.app.AlertDialog;

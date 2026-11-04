@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: WebAPK presubmit checks
+# summary: Presubmit script enforcing shell APK version bumps, standalone request-update CLs, and unique resource file names across res directories.
+# ---
+
 """Presubmit script for changes affecting chrome/android/webapk/shell_apk:webapk
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

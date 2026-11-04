@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebAPK shell background color resource template
+summary: Android resource template defining normal and dark background colors for the WebAPK shell APK, with placeholders filled in at build time.
+-->
+
 <resources>
   <color name="background_color_non_empty">{{{background_color_xml}}}</color>
   <color name="dark_background_color_non_empty">{{{dark_background_color_xml}}}</color>

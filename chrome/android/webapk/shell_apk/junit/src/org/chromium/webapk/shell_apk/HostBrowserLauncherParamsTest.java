@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostBrowserLauncherParamsTest
+// summary: Robolectric tests for HostBrowserLauncherParams's WebShareTarget parsing, checking GET Web Share target URI string creation with various parameter cases.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.content.Intent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkUtilsTest
+// summary: Robolectric tests for WebApkUtils covering intent URL rewriting based on WebAPK metadata scope and other utility behavior.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkCommonUtils
+// summary: Utility methods shared by ShellAPK and Chrome, such as building the runtime Dex asset name and the splash screen content provider authority and URI for a WebAPK.
+// ---
+
 package org.chromium.webapk.lib.common;
 import org.chromium.build.annotations.NullMarked;
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebAPk test DEPS include rules
+summary: Grants the WebAPk test directory include access to chrome/android/webapk/libs/common.

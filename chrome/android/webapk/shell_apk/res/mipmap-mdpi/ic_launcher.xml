@@ -5,5 +5,11 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: MDPI launcher icon bitmap resource
+summary: Android bitmap XML resource for the WebAPK shell APK that sets the mdpi launcher icon to the app_icon_mdpi mipmap.
+-->
+
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
     android:src="@mipmap/app_icon_mdpi"/>
