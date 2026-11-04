@@ -2,6 +2,9 @@
 name: general/no-breaking-error-return-when-replacing-notreached
 rubric: correctness
 severity: should_fix
+type: reference
+title: No breaking error return when replacing NOTREACHED
+summary: Rule against replacing legacy NOTREACHED() with error returns in parsers of external data; log a warning and continue best-effort unless all callers handle failure.
 ---
 
 **Rule.** When replacing legacy NOTREACHED() assertions in parsers or handlers

@@ -2,6 +2,9 @@
 name: general/do-not-hyphenate-phrasal-verbs-in-ui-action-strings
 rubric: readability
 severity: should_fix
+type: guide
+title: Do not hyphenate phrasal verbs in UI action strings
+summary: Rule to keep phrasal verbs such as 'sign in' and 'set up' unhyphenated in UI action strings, reserving compound forms like 'sign-in' for noun or adjective usage.
 ---
 
 **Rule.** In user-facing UI strings, titles, and button labels (in .grd and

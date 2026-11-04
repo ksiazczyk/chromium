@@ -2,6 +2,9 @@
 name: general/use-unchecked-tag-for-known-valid-span-construction
 rubric: safety
 severity: should_fix
+type: guide
+title: Use the base::unchecked tag for known-valid span construction
+summary: Coding rule recommending the base::unchecked tag when constructing base::span from known-valid references or provably safe buffers to elide redundant PartitionAlloc bounds checks.
 ---
 
 **Rule.** When constructing a base::span from a known-valid C++ reference or

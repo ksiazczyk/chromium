@@ -2,6 +2,9 @@
 name: general/prefer-ascii-to-utf16-for-ascii-strings
 rubric: safety
 severity: should_fix
+type: reference
+title: Prefer ASCIIToUTF16 for ASCII strings
+summary: Rule to convert known 7-bit ASCII strings with base::ASCIIToUTF16 or ASCIIToWide instead of UTF8ToUTF16 or UTF8ToWide, avoiding full UTF-8 decoding overhead.
 ---
 
 **Rule.** When converting strings that are guaranteed to contain only 7-bit

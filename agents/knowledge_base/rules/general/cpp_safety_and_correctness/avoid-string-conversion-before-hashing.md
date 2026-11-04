@@ -2,6 +2,9 @@
 name: general/avoid-string-conversion-before-hashing
 rubric: safety
 severity: should_fix
+type: reference
+title: Avoid string conversion before hashing
+summary: Coding rule to hash raw byte spans of binary-backed objects directly instead of formatting or transcoding them into intermediate std::string values before hashing.
 ---
 
 **Rule.** When hashing objects, containers, or strings that have an underlying

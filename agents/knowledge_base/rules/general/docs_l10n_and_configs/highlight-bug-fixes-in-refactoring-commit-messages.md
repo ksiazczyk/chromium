@@ -2,6 +2,11 @@
 name: general/highlight-bug-fixes-in-refactoring-commit-messages
 rubric: readability
 severity: should_fix
+type: guide
+title: Highlight bug fixes in refactoring commit messages
+summary: Rule requiring functional bug fixes bundled with mechanical refactorings to be explicitly described in the commit subject and body rather than hidden as refactoring.
+relations:
+  - references /testing/libfuzzer/fuzzers/libyuv_scale_fuzzer.cc
 ---
 
 **Rule.** When fixing a functional bug or pre-existing logic defect alongside

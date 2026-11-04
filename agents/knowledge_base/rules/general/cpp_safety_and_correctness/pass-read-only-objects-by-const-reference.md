@@ -2,6 +2,9 @@
 name: general/pass-read-only-objects-by-const-reference
 rubric: safety
 severity: should_fix
+type: reference
+title: Pass read-only objects by const reference
+summary: Rule to pass non-primitive, container, string, and generic range parameters by const reference or view when read-only, reserving by-value for scalars or ownership transfer.
 ---
 
 **Rule.** Pass read-only non-primitive class, struct, container, string, or

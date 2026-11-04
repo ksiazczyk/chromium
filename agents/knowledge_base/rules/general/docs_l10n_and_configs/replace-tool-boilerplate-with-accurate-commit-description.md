@@ -2,6 +2,11 @@
 name: general/replace-tool-boilerplate-with-accurate-commit-description
 rubric: readability
 severity: should_fix
+type: guide
+title: Replace tool boilerplate with accurate commit description
+summary: Rule to remove automated tool boilerplate, batch IDs, and scratchpad notes from commit messages and write a cohesive description of the change.
+relations:
+  - references /base/metrics/histogram.cc
 ---
 
 **Rule.** Ensure the commit message description accurately and clearly explains

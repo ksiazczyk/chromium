@@ -2,6 +2,9 @@
 name: general/avoid-explicit-template-arg-on-make-checked-num
 rubric: correctness
 severity: nit
+type: reference
+title: Avoid explicit template arguments on MakeCheckedNum
+summary: Coding rule against base::MakeCheckedNum<T>(val) with an explicit template argument, favoring CheckedNumeric constructors or Cast to detect out-of-range values.
 ---
 
 **Rule.** Do not use `base::MakeCheckedNum<T>(val)` with an explicit template

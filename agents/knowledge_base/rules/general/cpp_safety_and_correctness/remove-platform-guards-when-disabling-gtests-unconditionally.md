@@ -2,6 +2,9 @@
 name: general/remove-platform-guards-when-disabling-gtests-unconditionally
 rubric: correctness
 severity: blocking
+type: reference
+title: Remove platform guards when disabling gtests unconditionally
+summary: Coding rule requiring full removal of platform preprocessor guards when a GoogleTest case is disabled unconditionally with the DISABLED_ prefix.
 ---
 
 **Rule.** When disabling a GoogleTest test case unconditionally across all

@@ -2,6 +2,9 @@
 name: general/enforce-unsupported-gn-build-configurations
 rubric: correctness
 severity: should_fix
+type: reference
+title: Enforce unsupported GN build configurations with assert()
+summary: Rule requiring GN assert() calls in .gni or BUILD.gn files to enforce constraints for unsupported build configurations instead of relying on compile failures.
 ---
 
 **Rule.** When a feature, build argument, or config combination is unsupported

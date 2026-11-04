@@ -2,6 +2,9 @@
 name: general/use-current-feature-flag-names-in-commit-messages
 rubric: readability
 severity: should_fix
+type: reference
+title: Use current feature flag names in commit messages
+summary: Rule requiring commit messages to use exact feature flag identifiers, state defaults and operational details, and document flag removal readiness with bake time.
 ---
 
 **Rule.** When referencing, introducing, or configuring a feature flag, field

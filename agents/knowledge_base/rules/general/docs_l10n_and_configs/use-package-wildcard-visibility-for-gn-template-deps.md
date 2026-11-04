@@ -2,6 +2,9 @@
 name: general/use-package-wildcard-visibility-for-gn-template-deps
 rubric: design
 severity: should_fix
+type: reference
+title: Use package wildcard visibility for GN template deps
+summary: Rule for GN build files to restrict internal helper target visibility with package wildcards so templates can still resolve their generated subtargets.
 ---
 
 **Rule.** When defining internal helper targets (such as C++ shims, bridge

@@ -2,6 +2,9 @@
 name: general/format-code-identifiers-in-backticks-in-markdown
 rubric: readability
 severity: nit
+type: reference
+title: Format code identifiers in backticks in Markdown
+summary: Rule to format code identifiers, symbols, and Web API types in inline backticks with exact official names in Markdown documentation and public changelogs.
 ---
 
 **Rule.** In Markdown documentation and public changelogs, format code

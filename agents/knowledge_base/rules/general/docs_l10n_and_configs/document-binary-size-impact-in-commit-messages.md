@@ -2,6 +2,9 @@
 name: general/document-binary-size-impact-in-commit-messages
 rubric: readability
 severity: optional
+type: reference
+title: Document binary size impact in commit messages
+summary: Rule requiring commit messages for size-affecting changes to state the official binary size delta and justification rather than intermediate compile artifact growth, with bad and good examples.
 ---
 
 **Rule.** When authoring a CL that causes noticeable binary size or compile-time

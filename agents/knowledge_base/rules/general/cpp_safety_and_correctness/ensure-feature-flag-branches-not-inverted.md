@@ -2,6 +2,9 @@
 name: general/ensure-feature-flag-branches-not-inverted
 rubric: correctness
 severity: should_fix
+type: guide
+title: Ensure Feature Flag Branches Are Not Inverted
+summary: Coding rule requiring that feature flag branches keep the enabled path on the experimental code and the disabled path on baseline behavior, so A/B metrics and default users are not affected.
 ---
 
 **Rule.** When branching on a feature flag or experiment predicate (such as

@@ -2,6 +2,11 @@
 name: general/refer-to-planned-changes-as-follow-up-cl-in-commit-messages
 rubric: readability
 severity: should_fix
+type: guide
+title: Refer to planned changes as follow-up CL in commit messages
+summary: Rule to avoid speculative follow-up claims in commit messages and phrase confirmed ones as 'a follow-up CL' in third person.
+relations:
+  - references /base/win/scoped_handle.h
 ---
 
 **Rule.** Do not include tentative, speculative, or unconfirmed follow-up work

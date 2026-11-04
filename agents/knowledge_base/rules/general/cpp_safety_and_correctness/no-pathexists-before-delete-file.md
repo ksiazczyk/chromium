@@ -2,6 +2,9 @@
 name: general/no-pathexists-before-delete-file
 rubric: safety
 severity: should_fix
+type: reference
+title: No PathExists check before DeleteFile
+summary: Rule to call base::DeleteFile or DeletePathRecursively directly instead of checking existence first, avoiding a redundant query and a TOCTOU race.
 ---
 
 **Rule.** Do not call `base::PathExists()` to check for file or directory

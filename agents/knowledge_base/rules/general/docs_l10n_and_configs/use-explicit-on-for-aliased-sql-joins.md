@@ -2,6 +2,9 @@
 name: general/use-explicit-on-for-aliased-sql-joins
 rubric: readability
 severity: should_fix
+type: reference
+title: Use explicit ON for aliased SQL joins
+summary: Rule for SQL and PerfettoSQL queries to alias generic tables with role-specific names and use explicit ON join conditions instead of USING.
 ---
 
 **Rule.** In SQL and PerfettoSQL queries, when joining generic entity tables

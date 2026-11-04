@@ -2,6 +2,9 @@
 name: general/verify-shutdown-or-cleanup-in-destructor
 rubric: correctness
 severity: nit
+type: guide
+title: Verify shutdown or cleanup in destructor
+summary: Coding rule requiring destructors to assert via CHECK or DCHECK that required explicit shutdown or cleanup ran, instead of leaving them defaulted or empty.
 ---
 
 **Rule.** When a class requires an explicit cleanup or Shutdown() method to be

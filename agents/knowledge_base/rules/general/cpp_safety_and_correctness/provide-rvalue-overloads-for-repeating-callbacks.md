@@ -2,6 +2,9 @@
 name: general/provide-rvalue-overloads-for-repeating-callbacks
 rubric: safety
 severity: should_fix
+type: reference
+title: Provide rvalue overloads for repeating callbacks
+summary: Coding rule to provide rvalue reference overloads alongside const lvalue overloads for functions capturing base::RepeatingCallback, enabling zero-copy moves.
 ---
 
 **Rule.** When designing functions or bridging utilities that take a

@@ -2,6 +2,9 @@
 name: general/avoid-grd-strings-for-developer-ui
 rubric: testing
 severity: should_fix
+type: reference
+title: Avoid .grd string resources for developer-only UI
+summary: Rule telling developers to hardcode strings for internal debug or diagnostic UI in Java or C++ code rather than defining non-translatable resources in grd or grdp files.
 ---
 
 **Rule.** Do not define UI string resources in .grd or .grdp files for internal

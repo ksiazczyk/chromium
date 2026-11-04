@@ -2,6 +2,9 @@
 name: general/require-ux-and-product-approval-for-ui-strings
 rubric: design
 severity: should_fix
+type: guide
+title: Require UX and product approval for UI strings
+summary: Rule to obtain explicit UX and Product approval before modifying user-facing copy in .grd or .grdp resource files.
 ---
 
 **Rule.** Do not modify or adjust user-facing UI copy or message text in `.grd`

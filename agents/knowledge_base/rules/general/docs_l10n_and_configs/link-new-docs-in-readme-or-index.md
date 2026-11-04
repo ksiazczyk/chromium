@@ -2,6 +2,13 @@
 name: general/link-new-docs-in-readme-or-index
 rubric: readability
 severity: optional
+type: guide
+title: Link new docs in README or index
+summary: Rule requiring new documentation files to be linked from the directory README.md or document index with context so readers can discover them.
+relations:
+  - references /docs/README.md
+  - references /testing/libfuzzer/blackbox_coverage.md
+  - references /testing/libfuzzer/README.md
 ---
 
 **Rule.** When adding a new documentation file or standalone guide in a

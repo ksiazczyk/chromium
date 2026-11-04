@@ -2,6 +2,9 @@
 name: general/use-short-product-name-in-ui-copy
 rubric: readability
 severity: nit
+type: reference
+title: Use short product name in UI copy
+summary: Rule requiring conversational UI copy to use the short product name Chrome, reserving Google Chrome for formal contexts like legal notices and installers.
 ---
 
 **Rule.** In user-facing UI copy (such as bubble, prompt, infobar, settings, and

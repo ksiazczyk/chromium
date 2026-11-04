@@ -2,6 +2,9 @@
 name: general/reserve-zeroth-protobuf-enum-value-for-unspecified
 rubric: readability
 severity: should_fix
+type: guide
+title: Reserve zeroth protobuf enum value for unspecified
+summary: Rule to define the first protobuf enum value as 0 with an _UNSPECIFIED or _UNKNOWN suffix so unset fields do not alias valid states.
 ---
 
 **Rule.** In Protocol Buffer schemas (.proto), define the first enum value with

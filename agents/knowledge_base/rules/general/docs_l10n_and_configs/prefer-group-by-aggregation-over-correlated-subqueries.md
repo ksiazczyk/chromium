@@ -2,6 +2,9 @@
 name: general/prefer-group-by-aggregation-over-correlated-subqueries
 rubric: safety
 severity: should_fix
+type: guide
+title: Prefer GROUP BY aggregation over correlated subqueries
+summary: Rule preferring LEFT JOIN with GROUP BY aggregation over correlated scalar subqueries in SQL and PerfettoSQL queries to avoid per-row N+1 execution overhead.
 ---
 
 **Rule.** In SQL queries and PerfettoSQL stdlib modules, prefer using a LEFT

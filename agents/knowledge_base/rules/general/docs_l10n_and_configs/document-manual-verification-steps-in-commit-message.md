@@ -2,6 +2,9 @@
 name: general/document-manual-verification-steps-in-commit-message
 rubric: readability
 severity: nit
+type: reference
+title: Document manual verification steps in commit message
+summary: 'Rule requiring commit messages to document how manually verified or untestable changes were identified and verified, using concise narrative or Test: footers, with examples.'
 ---
 
 **Rule.** When a change is verified manually, relies on observed runtime values,

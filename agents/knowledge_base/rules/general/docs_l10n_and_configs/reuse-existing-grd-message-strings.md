@@ -2,6 +2,11 @@
 name: general/reuse-existing-grd-message-strings
 rubric: testing
 severity: should_fix
+type: guide
+title: Reuse existing GRD message strings
+summary: Rule to reuse shared string IDs like IDS_CANCEL in .grd files instead of defining duplicate message entries that waste localization resources.
+relations:
+  - references /components/components_strings.grd
 ---
 
 **Rule.** In `.grd` and `.grdp` resource files, do not define duplicate

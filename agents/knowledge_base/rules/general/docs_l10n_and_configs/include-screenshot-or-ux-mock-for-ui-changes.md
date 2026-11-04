@@ -2,6 +2,11 @@
 name: general/include-screenshot-or-ux-mock-for-ui-changes
 rubric: readability
 severity: should_fix
+type: guide
+title: Include screenshot or UX mock for UI changes
+summary: Rule requiring CL descriptions for user-facing UI changes to link light and dark mode screenshots or mocks, kept synchronized across review iterations.
+relations:
+  - references /chrome/app/profiles_strings.grdp
 ---
 
 **Rule.** When introducing or modifying user-facing UI (such as dialogs,

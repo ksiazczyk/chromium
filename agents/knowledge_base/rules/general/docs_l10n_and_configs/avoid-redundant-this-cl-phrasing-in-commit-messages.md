@@ -2,6 +2,9 @@
 name: general/avoid-redundant-this-cl-phrasing-in-commit-messages
 rubric: readability
 severity: nit
+type: guide
+title: Avoid redundant This CL phrasing in commit messages
+summary: Commit message rule to drop filler phrases like 'This CL adds' and write descriptions in the imperative mood for concise git logs.
 ---
 
 **Rule.** In CL descriptions and commit messages, avoid redundant filler phrases

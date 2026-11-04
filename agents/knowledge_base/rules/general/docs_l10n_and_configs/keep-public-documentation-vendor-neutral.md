@@ -2,6 +2,9 @@
 name: general/keep-public-documentation-vendor-neutral
 rubric: readability
 severity: optional
+type: guide
+title: Keep public documentation vendor neutral
+summary: Rule asking public documentation to describe tools and workflows in vendor-neutral terms, naming proprietary tools only as optional examples.
 ---
 
 **Rule.** In public documentation and markdown guides, describe tools, agents,

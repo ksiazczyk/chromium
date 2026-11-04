@@ -2,6 +2,13 @@
 name: general/avoid-component-imports-in-build-configs
 rubric: design
 severity: should_fix
+type: reference
+title: Keep component imports out of //build configurations
+summary: Rule keeping //build independent of higher layers by forbidding component-specific .gni imports there and gating shared configs in the consuming targets instead.
+relations:
+  - references /build/config/sanitizers/BUILD.gn
+  - references /base/allocator/partition_allocator/partition_alloc.gni
+  - references /base/allocator/partition_allocator/src/partition_alloc/BUILD.gn
 ---
 
 **Rule.** Do not import component-specific `.gni` files or evaluate

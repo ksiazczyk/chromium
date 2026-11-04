@@ -2,6 +2,9 @@
 name: general/preview-vector-icon-definitions
 rubric: readability
 severity: should_fix
+type: guide
+title: Preview vector icon definitions
+summary: Rule to source standardized .icon vector definitions from official repositories and preview rendered icons to catch visual defects before landing.
 ---
 
 **Rule.** When creating or updating .icon vector icon definitions, source

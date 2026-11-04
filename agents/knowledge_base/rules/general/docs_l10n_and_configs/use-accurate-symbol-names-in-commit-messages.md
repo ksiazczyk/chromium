@@ -2,6 +2,9 @@
 name: general/use-accurate-symbol-names-in-commit-messages
 rubric: readability
 severity: should_fix
+type: guide
+title: Use Accurate Symbol Names in Commit Messages
+summary: Commit message rule requiring precise technical descriptions, exact symbol names and casing, and descriptions kept in sync across review iterations.
 ---
 
 **Rule.** Ensure commit message titles and descriptions accurately and precisely

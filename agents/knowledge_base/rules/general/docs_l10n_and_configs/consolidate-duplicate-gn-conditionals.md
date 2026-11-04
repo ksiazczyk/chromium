@@ -2,6 +2,9 @@
 name: general/consolidate-duplicate-gn-conditionals
 rubric: readability
 severity: should_fix
+type: guide
+title: Consolidate duplicate GN conditionals
+summary: Rule to merge duplicate conditional blocks for the same condition in GN build files, consolidating sources, deps, and configs additions into one block for readability.
 ---
 
 **Rule.** In GN build files (`.gn`, `.gni`), do not introduce duplicate

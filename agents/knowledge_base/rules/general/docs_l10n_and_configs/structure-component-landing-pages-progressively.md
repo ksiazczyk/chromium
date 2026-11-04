@@ -2,6 +2,9 @@
 name: general/structure-component-landing-pages-progressively
 rubric: readability
 severity: nit
+type: guide
+title: Structure Component Landing Pages Progressively
+summary: Documentation rule advising progressive structure for subsystem README landing pages, from plain-language purpose to getting started, advanced topics, and support channels.
 ---
 
 **Rule.** Structure subsystem and component landing pages (`README.md`)

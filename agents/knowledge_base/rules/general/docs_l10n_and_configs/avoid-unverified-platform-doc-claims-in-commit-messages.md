@@ -2,6 +2,9 @@
 name: general/avoid-unverified-platform-doc-claims-in-commit-messages
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid unverified platform doc claims in commit messages
+summary: Commit message rule against unverified claims about external or platform documentation, requiring verification against the specific API's contract.
 ---
 
 **Rule.** Do not include unverified claims about external or platform

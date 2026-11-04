@@ -2,6 +2,9 @@
 name: general/make-one-shot-priming-state-consumable-via-optional
 rubric: correctness
 severity: should_fix
+type: reference
+title: Make one-shot priming state consumable via optional
+summary: 'Coding rule for one-shot priming state: store it in std::optional, assert it is unset in the SetNext setter, and consume it with std::exchange on first access to prevent leakage across operations.'
 ---
 
 **Rule.** When using an out-of-band setter to prime or configure a single

@@ -2,6 +2,13 @@
 name: general/remove-sanitizer-suppressions-when-fixing-defects
 rubric: correctness
 severity: should_fix
+type: reference
+title: Remove sanitizer suppressions when fixing defects
+summary: Coding rule requiring sanitizer suppression or ignorelist entries to be deleted in the same change that fixes the underlying defect they silenced.
+relations:
+  - references /tools/ubsan/ignorelist.txt
+  - references /tools/msan/ignorelist.txt
+  - references /tools/cfi/ignores.txt
 ---
 
 **Rule.** When modifying code to resolve undefined behavior, alignment faults,

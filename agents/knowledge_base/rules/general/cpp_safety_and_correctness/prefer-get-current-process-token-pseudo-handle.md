@@ -2,6 +2,9 @@
 name: general/prefer-get-current-process-token-pseudo-handle
 rubric: correctness
 severity: should_fix
+type: reference
+title: Prefer GetCurrentProcessToken pseudo-handle
+summary: Rule to pass the GetCurrentProcessToken() pseudo-handle directly for current-process token queries and avoid inaccurate fallback heuristics like IsUserAnAdmin().
 ---
 
 **Rule.** When querying or inspecting Windows access token properties for the

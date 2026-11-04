@@ -2,6 +2,12 @@
 name: general/update-counterpart-platform-implementations-for-cross-platfo
 rubric: correctness
 severity: should_fix
+type: guide
+title: Update counterpart platform implementations for cross-platform fixes
+summary: Rule to apply bug fixes and edge-case handling to all sibling platform-specific implementations of a cross-platform API, so counterpart platforms are not left with unpatched or divergent logic.
+relations:
+  - references /base/files/file_util_posix.cc
+  - references /base/files/file_util_apple.mm
 ---
 
 **Rule.** When fixing a bug, handling an edge case, or updating logic in a

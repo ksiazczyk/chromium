@@ -2,6 +2,9 @@
 name: general/invoke-plog-or-save-errno-immediately
 rubric: correctness
 severity: should_fix
+type: reference
+title: Invoke PLOG or save errno immediately
+summary: Coding rule requiring PLOG logging or errno/GetLastError capture immediately after a failed system call, since intervening operations can clobber thread-local error state.
 ---
 
 **Rule.** When logging failed system calls or platform APIs with PLOG, DPLOG,

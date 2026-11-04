@@ -2,6 +2,9 @@
 name: general/distinguish-specific-context-in-grd-descriptions
 rubric: readability
 severity: should_fix
+type: guide
+title: Distinguish specific context in GRD descriptions
+summary: Rule requiring accurate, specific, and concise desc attributes in .grd and .grdp string definitions so translators understand the feature, UI context, and technical scope.
 ---
 
 **Rule.** In `.grd` and `.grdp` string definitions, formulate translation

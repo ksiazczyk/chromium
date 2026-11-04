@@ -2,6 +2,9 @@
 name: general/provide-matching-deduction-guides-for-class-template-constru
 rubric: correctness
 severity: should_fix
+type: reference
+title: Provide matching deduction guides for class template constructors
+summary: Coding rule to add matching CTAD deduction guides whenever new constructor overloads are added to class templates that use explicit deduction guides.
 ---
 
 **Rule.** When adding constructor overloads (such as tag-disambiguated

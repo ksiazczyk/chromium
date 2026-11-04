@@ -2,6 +2,9 @@
 name: general/do-not-post-to-inherited-thread-type-runner-from-higher-prio
 rubric: correctness
 severity: should_fix
+type: guide
+title: Do Not Post Tasks to InheritThreadType Runners from Higher-Priority Contexts
+summary: Coding rule forbidding task posts to SequencedTaskRunner or SingleThreadTaskRunner created with base::InheritThreadType() from a higher-priority context, since the runner's thread type is fixed at creation.
 ---
 
 **Rule.** Do not post tasks to a SequencedTaskRunner or SingleThreadTaskRunner

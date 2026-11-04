@@ -2,6 +2,13 @@
 name: general/exclude-symbol-definition-files-from-presubmit-reference-ban
 rubric: correctness
 severity: should_fix
+type: reference
+title: Exclude symbol definition files from presubmit reference bans
+summary: Rule to exempt symbol declaration files, wrapper implementations, and presubmit test files from presubmit checks that ban direct references to a symbol.
+relations:
+  - references /chrome/browser/ui/side_panel/android/java/src/org/chromium/chrome/browser/ui/side_panel/AndroidSidePanelEnabledFn.java
+  - references /PRESUBMIT.py
+  - references /PRESUBMIT_test.py
 ---
 
 **Rule.** When writing or updating presubmit checks that ban direct references

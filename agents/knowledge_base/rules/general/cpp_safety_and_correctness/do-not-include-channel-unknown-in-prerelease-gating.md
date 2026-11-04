@@ -2,6 +2,9 @@
 name: general/do-not-include-channel-unknown-in-prerelease-gating
 rubric: correctness
 severity: should_fix
+type: guide
+title: Do Not Treat Channel UNKNOWN as a Pre-release Channel
+summary: Coding rule that pre-release channel gating must check only targeted channels such as Canary or Dev, never version_info::Channel::UNKNOWN, which covers unbranded or corrupted builds.
 ---
 
 **Rule.** When restricting an experiment, synthetic field trial, diagnostic

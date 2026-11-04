@@ -2,6 +2,9 @@
 name: general/name-protobuf-fields-after-semantic-concepts
 rubric: readability
 severity: nit
+type: guide
+title: Name protobuf fields after semantic concepts
+summary: Rule recommending protobuf field names based on the semantic data they convey rather than platform-specific types or APIs, with platform constraints documented in comments.
 ---
 
 **Rule.** Name protobuf fields after the semantic data or concept they convey

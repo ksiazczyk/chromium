@@ -2,6 +2,9 @@
 name: general/store-offsets-for-parsed-sub-slices-to-preserve-sso
 rubric: safety
 severity: should_fix
+type: guide
+title: Store offsets for parsed sub-slices to preserve SSO
+summary: Rule to store relative offsets and lengths instead of string views or vectors in movable classes owning string buffers, preserving Small String Optimization while keeping moves safe from dangling pointers.
 ---
 
 **Rule.** When designing a movable class that owns a string buffer and

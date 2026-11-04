@@ -1,0 +1,8 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA agentic review capability mapping
+summary: Maps capability groups and path expressions to the C++ safety and correctness rules that agentic review applies.
+relations:
+  - references /agents/knowledge_base/rules/general/cpp_safety_and_correctness/run-official-trybots-for-branded-builds.md
+  - references /agents/knowledge_base/rules/general/cpp_safety_and_correctness/assert-associative-container-erasure-count.md
+  - references /agents/knowledge_base/rules/general/cpp_safety_and_correctness/assert-delimiters-when-slicing-packed-buffers.md

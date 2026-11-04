@@ -2,6 +2,9 @@
 name: general/include-exception-examples-in-presubmit-error-messages
 rubric: readability
 severity: optional
+type: guide
+title: Include exception examples in presubmit error messages
+summary: Rule asking presubmit checks that restrict APIs or patterns to include concrete examples of legitimate exceptions in their diagnostic messages.
 ---
 
 **Rule.** When authoring or modifying presubmit checks that restrict or disallow

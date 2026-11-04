@@ -2,6 +2,11 @@
 name: general/reuse-existing-protobuf-messages
 rubric: design
 severity: should_fix
+type: guide
+title: Reuse Existing Protobuf Messages
+summary: Coding rule advising developers to reuse or extend existing protobuf message types instead of declaring duplicate schemas, with bad and good examples from Chromium trace protos.
+relations:
+  - references /base/tracing/protos/chrome_track_event.proto
 ---
 
 **Rule.** When defining fields or submessages in protobuf schemas (`.proto`),

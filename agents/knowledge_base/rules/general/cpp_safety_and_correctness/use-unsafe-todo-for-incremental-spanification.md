@@ -2,6 +2,9 @@
 name: general/use-unsafe-todo-for-incremental-spanification
 rubric: safety
 severity: should_fix
+type: guide
+title: Use UNSAFE_TODO for incremental spanification
+summary: Coding rule against file-level allow_unsafe_buffers pragmas, directing temporary migration debt to UNSAFE_TODO and permanent audited exemptions to UNSAFE_BUFFERS with a SAFETY comment.
 ---
 
 **Rule.** Do not add or retain file-level `#pragma allow_unsafe_buffers`; remove

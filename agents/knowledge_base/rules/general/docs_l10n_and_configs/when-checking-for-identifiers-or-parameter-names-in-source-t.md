@@ -2,6 +2,9 @@
 name: general/when-checking-for-identifiers-or-parameter-names-in-source-t
 rubric: correctness
 severity: should_fix
+type: reference
+title: Match identifiers with delimiters or word boundaries in tooling checks
+summary: Rule telling presubmit and tooling scripts to match identifiers using delimiters, word boundaries, or parsing instead of unconstrained substring checks.
 ---
 
 **Rule.** When checking whether an identifier, token, or parameter name appears

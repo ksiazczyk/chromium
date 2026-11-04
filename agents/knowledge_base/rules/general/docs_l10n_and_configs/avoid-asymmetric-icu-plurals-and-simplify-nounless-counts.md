@@ -2,6 +2,9 @@
 name: general/avoid-asymmetric-icu-plurals-and-simplify-nounless-counts
 rubric: testing
 severity: should_fix
+type: reference
+title: Use ICU plurals consistently and simplify nounless counts in .grd files
+summary: 'Rule for grd and grdp resources: use ICU plural format for quantities, avoid asymmetric plural branches, and prefer a simple placeholder when the count appears without a noun.'
 ---
 
 **Rule.** In .grd and .grdp resource files, use ICU plural format

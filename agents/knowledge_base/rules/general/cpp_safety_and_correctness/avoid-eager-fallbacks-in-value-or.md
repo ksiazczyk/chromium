@@ -2,6 +2,9 @@
 name: general/avoid-eager-fallbacks-in-value-or
 rubric: safety
 severity: should_fix
+type: reference
+title: Avoid eager fallbacks in value_or
+summary: Coding rule against passing side-effecting, non-trivial, or allocating expressions to std::optional::value_or, recommending lazy conditional fallback evaluation instead.
 ---
 
 **Rule.** Do not pass expressions with side effects, non-trivial function calls,

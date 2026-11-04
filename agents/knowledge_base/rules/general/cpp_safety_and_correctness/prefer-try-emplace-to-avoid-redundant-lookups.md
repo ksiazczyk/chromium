@@ -2,6 +2,9 @@
 name: general/prefer-try-emplace-to-avoid-redundant-lookups
 rubric: safety
 severity: optional
+type: reference
+title: Prefer try_emplace to avoid redundant lookups
+summary: Coding rule to use try_emplace or emplace for conditional insertion into associative containers, unpacking the iterator and flag instead of separate find and insert calls.
 ---
 
 **Rule.** When inserting an element into an associative container (such as

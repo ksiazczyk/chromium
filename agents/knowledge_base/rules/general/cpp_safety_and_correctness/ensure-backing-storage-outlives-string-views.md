@@ -2,6 +2,9 @@
 name: general/ensure-backing-storage-outlives-string-views
 rubric: safety
 severity: should_fix
+type: guide
+title: Ensure Backing Storage Outlives String Views and Spans
+summary: Coding rule requiring that backing storage for string_view, cstring_view, or span outlives every use of the view, forbidding assignment from locals or temporaries that die before the view is consumed.
 ---
 
 **Rule.** Ensure the backing storage of a std::string_view, base::cstring_view,

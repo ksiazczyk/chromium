@@ -2,6 +2,9 @@
 name: general/avoid-duplicate-inline-urls-in-markdown-with-reference-links
 rubric: readability
 severity: nit
+type: reference
+title: Avoid duplicate inline URLs in Markdown using reference links
+summary: 'Rule keeping Markdown reference link definitions in sync with citations: use reference syntax instead of repeating URLs inline and delete orphaned definitions.'
 ---
 
 **Rule.** In Markdown documents that maintain reference-style link definitions

@@ -2,6 +2,9 @@
 name: general/explain-hypothesis-and-rationale-in-speculative-fix-commit-m
 rubric: readability
 severity: should_fix
+type: reference
+title: Explain hypothesis and rationale in speculative fix commit messages
+summary: Rule requiring commit message bodies for speculative fixes, deflaking changes, and non-obvious resolutions to state the suspected root cause and fix hypothesis.
 ---
 
 **Rule.** When authoring speculative bug fixes, test deflaking changes, or

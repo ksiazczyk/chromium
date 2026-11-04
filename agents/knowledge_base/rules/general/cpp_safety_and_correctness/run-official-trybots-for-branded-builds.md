@@ -2,6 +2,9 @@
 name: general/run-official-trybots-for-branded-builds
 rubric: correctness
 severity: should_fix
+type: guide
+title: Run official trybots for branded builds
+summary: Rule requiring explicit selection and running of official build trybots when touching branded-build code or internal repositories, since default CQ trybots never compile branded configurations.
 ---
 
 **Rule.** When modifying build files, dependencies, assets, or code guarded by

@@ -2,6 +2,12 @@
 name: general/match-platform-buildflag-guards-between-features-and-apis
 rubric: correctness
 severity: should_fix
+type: reference
+title: Match platform buildflag guards between features and APIs
+summary: Coding rule requiring platform BUILDFLAG guards to stay consistent between base::Feature declarations, API declarations, and implementations to avoid undefined symbols on secondary platforms.
+relations:
+  - references /base/features.h
+  - references /base/synchronization/lock_impl.h
 ---
 
 **Rule.** Keep platform buildflag guards (`#if BUILDFLAG(...)`) consistent

@@ -2,6 +2,9 @@
 name: general/capitalize-gn-when-referring-to-build-tool
 rubric: readability
 severity: nit
+type: guide
+title: Capitalize GN when referring to the build tool
+summary: Documentation rule to capitalize GN for the build tool name and reserve lowercase gn for CLI commands and file extensions.
 ---
 
 **Rule.** When referring to the build tool by name in documentation, prose, or

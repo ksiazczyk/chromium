@@ -2,6 +2,9 @@
 name: general/pair-anomaly-reasons-with-severity-metrics-in-protos
 rubric: testing
 severity: optional
+type: guide
+title: Pair anomaly reasons with severity metrics in protos
+summary: Rule for pairing categorical performance anomaly reasons with quantitative severity metrics in Protocol Buffer schemas so telemetry can filter and aggregate by magnitude.
 ---
 
 **Rule.** When defining Protocol Buffer schemas or telemetry event data

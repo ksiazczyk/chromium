@@ -2,6 +2,9 @@
 name: general/prefer-cstring-view-for-null-terminated-c-api-strings
 rubric: safety
 severity: should_fix
+type: reference
+title: Prefer cstring_view for null-terminated C API strings
+summary: Rule to use base::cstring_view by value for NUL-terminated string parameters and call .c_str() rather than .data() when passing to C-style APIs.
 ---
 
 **Rule.** Use `base::cstring_view` (or `base::wcstring_view`,

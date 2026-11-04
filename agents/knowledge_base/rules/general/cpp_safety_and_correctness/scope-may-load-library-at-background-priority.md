@@ -2,6 +2,9 @@
 name: general/scope-may-load-library-at-background-priority
 rubric: safety
 severity: should_fix
+type: guide
+title: Scope may-load-library at background priority
+summary: Rule to annotate background-thread DLL loads and loading system APIs with SCOPED_MAY_LOAD_LIBRARY_AT_BACKGROUND_PRIORITY, scoped tightly inside the helper, to avoid Windows loader-lock priority inversions.
 ---
 
 **Rule.** When loading DLLs explicitly (e.g. LoadLibrary, ScopedNativeLibrary)

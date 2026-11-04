@@ -2,6 +2,9 @@
 name: general/use-xml-entities-for-grit-message-newlines
 rubric: readability
 severity: nit
+type: reference
+title: Use XML entities for GRIT message newlines
+summary: Rule for GRIT resource files to encode line breaks in translatable message elements with XML numeric character entities instead of raw multiline breaks.
 ---
 
 **Rule.** In GRIT resource files (.grd and .grdp), use XML numeric character

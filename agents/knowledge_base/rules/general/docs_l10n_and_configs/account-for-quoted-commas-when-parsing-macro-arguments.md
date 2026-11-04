@@ -2,6 +2,9 @@
 name: general/account-for-quoted-commas-when-parsing-macro-arguments
 rubric: correctness
 severity: should_fix
+type: reference
+title: Handle quoted commas when parsing macro arguments in presubmit checks
+summary: 'Rule for Python presubmit parsers: use escape-aware regexes that respect commas inside quoted strings, nested parentheses, and template angle brackets instead of naively splitting C/C++ macro arguments on commas.'
 ---
 
 **Rule.** When parsing C/C++ macro invocations or function call arguments in

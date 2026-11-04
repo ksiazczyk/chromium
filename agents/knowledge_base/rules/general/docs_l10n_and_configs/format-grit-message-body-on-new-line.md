@@ -2,6 +2,9 @@
 name: general/format-grit-message-body-on-new-line
 rubric: readability
 severity: nit
+type: reference
+title: Format GRIT message body on a new line
+summary: Rule to place translatable string content on a new indented line inside <message> tags in GRIT .grd and .grdp resource files.
 ---
 
 **Rule.** In GRIT resource files (`.grd` and `.grdp`), place the translatable

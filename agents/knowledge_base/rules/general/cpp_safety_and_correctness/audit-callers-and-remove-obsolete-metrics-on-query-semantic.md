@@ -2,6 +2,13 @@
 name: general/audit-callers-and-remove-obsolete-metrics-on-query-semantic
 rubric: correctness
 severity: should_fix
+type: reference
+title: Audit callers and remove obsolete metrics on query semantic changes
+summary: Rule to audit downstream callers and remove obsolete workaround metrics and histogram entries when query API semantics change.
+relations:
+  - references /base/system/sys_info_mac.mm
+  - references /chrome/browser/performance_manager/metrics/metrics_provider_common.cc
+  - references /tools/metrics/histograms/metadata/memory/histograms.xml
 ---
 
 **Rule.** When changing the calculation or return semantics of a query API (such

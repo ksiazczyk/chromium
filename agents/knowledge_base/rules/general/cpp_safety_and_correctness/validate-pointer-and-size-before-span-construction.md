@@ -2,6 +2,9 @@
 name: general/validate-pointer-and-size-before-span-construction
 rubric: safety
 severity: should_fix
+type: guide
+title: Validate pointer and size before span construction
+summary: Coding rule requiring CHECK assertions on pointer validity, non-null arguments, and size overflow before constructing base::span from raw buffers or legacy APIs.
 ---
 
 **Rule.** When constructing `base::span` from raw buffer pointers, computed byte

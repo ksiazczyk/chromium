@@ -2,6 +2,9 @@
 name: general/specify-units-in-protobuf-field-names-or-comments
 rubric: readability
 severity: optional
+type: guide
+title: Specify Units in Protobuf Field Names or Comments
+summary: Coding rule advising explicit unit suffixes or doc comments for protobuf fields representing physical, temporal, or capacity quantities to prevent unit misinterpretation.
 ---
 
 **Rule.** When defining Protocol Buffer (`.proto`) fields that represent

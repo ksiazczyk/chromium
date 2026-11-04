@@ -2,6 +2,13 @@
 name: general/place-feature-ui-strings-in-dedicated-grdp-files
 rubric: design
 severity: should_fix
+type: guide
+title: Place feature UI strings in dedicated grdp files
+summary: Rule for placing UI strings in the .grd or .grdp resource file matching their UI surface or feature, with matching message ID prefixes and translation screenshot directories.
+relations:
+  - references /chrome/app/glic_strings.grdp
+  - references /chrome/app/actor_strings.grdp
+  - references /chrome/app/generated_resources.grd
 ---
 
 **Rule.** Define UI strings in the .grd or .grdp resource file matching the UI

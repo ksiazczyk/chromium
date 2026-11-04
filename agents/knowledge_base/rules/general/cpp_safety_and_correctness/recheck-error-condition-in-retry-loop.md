@@ -2,6 +2,9 @@
 name: general/recheck-error-condition-in-retry-loop
 rubric: correctness
 severity: should_fix
+type: reference
+title: Recheck error condition in retry loop
+summary: Coding rule to re-check the error condition after each failed attempt in a retry loop and stop early on unexpected or unrecoverable errors.
 ---
 
 **Rule.** When retrying an operation conditioned on a specific recoverable or

@@ -2,6 +2,9 @@
 name: general/reset-span-reader-on-failure-for-sticky-exhaustion
 rubric: correctness
 severity: should_fix
+type: reference
+title: Reset span reader on failure for sticky exhaustion
+summary: Coding rule requiring base::SpanReader wrappers to reset the reader on read failure so parsers with sticky exhaustion semantics cannot read leftover bytes.
 ---
 
 **Rule.** When wrapping or adapting base::SpanReader in stream iterators,

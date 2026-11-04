@@ -2,6 +2,9 @@
 name: general/document-ratcheting-rollout-plan-in-migration-commit-message
 rubric: readability
 severity: should_fix
+type: reference
+title: Document ratcheting rollout plan in migration commit message
+summary: Rule requiring commit messages for multi-step safety migrations to describe a ratcheting rollout plan of allowlisting, default switching, and triage instead of opt-in, with examples.
 ---
 
 **Rule.** In commit messages for multi-step migrations tightening safety checks,

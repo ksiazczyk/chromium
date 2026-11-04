@@ -2,6 +2,9 @@
 name: general/cache-expensive-function-results-in-local-variable
 rubric: safety
 severity: should_fix
+type: guide
+title: Cache expensive function results in a local variable
+summary: Coding rule advising caching results of expensive function calls in a local variable when they are reused across multiple conditions or statements in the same scope.
 ---
 
 **Rule.** Cache the result of non-trivial or expensive function calls (such as

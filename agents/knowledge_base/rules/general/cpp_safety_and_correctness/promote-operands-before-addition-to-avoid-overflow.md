@@ -2,6 +2,9 @@
 name: general/promote-operands-before-addition-to-avoid-overflow
 rubric: correctness
 severity: should_fix
+type: reference
+title: Promote operands before addition to avoid overflow
+summary: Coding rule to promote or cast at least one operand before adding narrow 32-bit integers into wider types, preventing silent wraparound before widening.
 ---
 
 **Rule.** When adding or accumulating 32-bit (or narrower) integers into a wide

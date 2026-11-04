@@ -2,6 +2,9 @@
 name: general/short-circuit-expensive-operations
 rubric: safety
 severity: should_fix
+type: guide
+title: Short-circuit expensive operations
+summary: Rule to inline expensive operations into compound conditionals after cheaper preconditions so boolean short-circuiting skips unnecessary disk I/O, IPC, string work, and allocations.
 ---
 
 **Rule.** Do not eagerly compute expensive operations (such as disk I/O, IPC,

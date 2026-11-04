@@ -2,6 +2,9 @@
 name: general/check-validity-in-comparison-operators
 rubric: correctness
 severity: should_fix
+type: guide
+title: Check validity in comparison operators and hash functions
+summary: Coding rule requiring comparison operators and hash functions for validity-tracking value types to include explicit validity checks so invalid instances never equal or collide with valid ones.
 ---
 
 **Rule.** When implementing comparison operators (operator==, operator\<=>) or

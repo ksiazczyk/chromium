@@ -2,6 +2,13 @@
 name: general/update-in-repo-third-party-callers-for-deprecated-apis
 rubric: correctness
 severity: should_fix
+type: guide
+title: Update in-repo third-party callers for deprecated APIs
+summary: Rule to migrate vendored third-party callers and regenerate patch files in the same CL when removing deprecated base APIs, with third_party OWNERS approval, instead of keeping obsolete overloads.
+relations:
+  - references /base/strings/utf_string_conversion_utils.h
+  - references /third_party/zxcvbn-cpp/native-src/zxcvbn/util.cpp
+  - references /third_party/zxcvbn-cpp/google.patch
 ---
 
 **Rule.** Do not retain obsolete or deprecated base APIs solely to accommodate

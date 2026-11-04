@@ -2,6 +2,9 @@
 name: general/sync-grd-platform-guards-and-descriptions
 rubric: readability
 severity: should_fix
+type: guide
+title: Sync GRD Platform Guards and Descriptions
+summary: Resource rule requiring accurate platform lists in GRD message descriptions and mutually exclusive platform conditional guards across platform-specific string variants.
 ---
 
 **Rule.** When expanding or modifying platform coverage for localized <message>

@@ -2,6 +2,9 @@
 name: general/wrap-pointer-and-size-into-span-at-boundary
 rubric: safety
 severity: nit
+type: guide
+title: Wrap pointer and size into span at boundary
+summary: Coding rule requiring raw C-style pointer-and-size pairs to be wrapped once into a base::span at the entry boundary rather than annotating each unsafe access.
 ---
 
 **Rule.** When receiving raw C-style pointer-and-size pairs (such as main(int

@@ -2,6 +2,9 @@
 name: general/teardown-in-inverse-order-of-construction
 rubric: safety
 severity: nit
+type: guide
+title: Teardown in inverse order of construction
+summary: Rule to perform destruction, teardown, resetting, and unregistration in exact inverse order of construction, declaring longer-lived dependencies first so observed objects outlive their observers.
 ---
 
 **Rule.** Perform destruction, teardown, resetting, and unregistration steps in

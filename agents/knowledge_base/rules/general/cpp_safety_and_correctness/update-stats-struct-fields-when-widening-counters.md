@@ -2,6 +2,12 @@
 name: general/update-stats-struct-fields-when-widening-counters
 rubric: correctness
 severity: nit
+type: guide
+title: Update stats struct fields when widening counters
+summary: Rule to widen matching fields in data transfer, stats, and telemetry structs whenever an internal counter's integer type is widened, preventing silent truncation of metric values.
+relations:
+  - references /base/allocator/partition_allocator/src/partition_alloc/partition_root.h
+  - references /base/allocator/partition_allocator/src/partition_alloc/partition_stats.h
 ---
 
 **Rule.** When widening the integer type of an internal counter, accumulator, or

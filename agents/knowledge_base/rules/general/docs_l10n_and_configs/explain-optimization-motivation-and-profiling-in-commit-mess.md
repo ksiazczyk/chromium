@@ -2,6 +2,9 @@
 name: general/explain-optimization-motivation-and-profiling-in-commit-mess
 rubric: readability
 severity: nit
+type: reference
+title: Explain optimization motivation and profiling in commit messages
+summary: Rule requiring descriptive commit message bodies for performance, memory, or resource optimizations, covering motivation, context, and profiling observations.
 ---
 
 **Rule.** When authoring or updating changes for performance, memory, or

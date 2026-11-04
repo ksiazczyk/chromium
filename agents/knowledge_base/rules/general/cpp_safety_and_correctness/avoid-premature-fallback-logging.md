@@ -2,6 +2,9 @@
 name: general/avoid-premature-fallback-logging
 rubric: correctness
 severity: should_fix
+type: reference
+title: Avoid premature fallback logging
+summary: Coding rule requiring fallback log messages only inside the branch where the fallback actually executes, so diagnostics are not misleading when the controlling condition fails.
 ---
 
 **Rule.** Do not log that a fallback action or alternative path is occurring

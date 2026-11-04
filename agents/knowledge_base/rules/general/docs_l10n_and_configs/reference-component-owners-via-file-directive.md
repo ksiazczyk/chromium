@@ -2,6 +2,12 @@
 name: general/reference-component-owners-via-file-directive
 rubric: readability
 severity: optional
+type: reference
+title: Reference component owners via file directive in OWNERS files
+summary: Recommends delegating ownership of subsystem resources, strings, or directories in OWNERS files by referencing the component's OWNERS file instead of hardcoding individual emails, keeping review permissions in sync as teams change.
+relations:
+  - references /chrome/browser/actor/OWNERS
+  - references /chrome/browser/glic/android/OWNERS
 ---
 
 **Rule.** In OWNERS files, delegate ownership of subsystem resources, strings,

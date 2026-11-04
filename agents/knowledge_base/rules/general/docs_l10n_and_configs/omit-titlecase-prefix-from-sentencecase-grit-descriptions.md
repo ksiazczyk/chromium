@@ -2,6 +2,9 @@
 name: general/omit-titlecase-prefix-from-sentencecase-grit-descriptions
 rubric: testing
 severity: should_fix
+type: guide
+title: Omit title-case prefix from sentence-case GRIT descriptions
+summary: 'Rule on branching visible GRIT UI strings with use_titlecase conditions, applying the In Title Case: prefix only to title-case variants and defining accessibility strings unconditionally.'
 ---
 
 **Rule.** When defining UI strings in .grd or .grdp resource files that require

@@ -2,6 +2,9 @@
 name: general/restrict-span-reinterpretation-to-raw-bytes
 rubric: safety
 severity: should_fix
+type: reference
+title: Restrict span reinterpretation to raw bytes
+summary: Coding rule limiting base::subtle::reinterpret_span to viewing raw byte buffers as trivially copyable types, with base::bit_cast for value-level type punning.
 ---
 
 **Rule.** Do not use `base::subtle::reinterpret_span` (or chain

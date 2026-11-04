@@ -2,6 +2,9 @@
 name: general/avoid-intermediate-string-when-parsing-hex-bytes
 rubric: safety
 severity: should_fix
+type: reference
+title: Avoid intermediate strings when parsing hex bytes
+summary: Coding rule against building temporary std::string accumulators in hex parsing loops, recommending direct digit decoding or span-based conversion helpers for zero-allocation parsing.
 ---
 
 **Rule.** Do not construct, append to, or reset intermediate std::string

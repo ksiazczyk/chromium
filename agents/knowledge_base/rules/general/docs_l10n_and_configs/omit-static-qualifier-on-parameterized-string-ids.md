@@ -2,6 +2,9 @@
 name: general/omit-static-qualifier-on-parameterized-string-ids
 rubric: readability
 severity: should_fix
+type: guide
+title: Omit static qualifier on parameterized string IDs
+summary: Rule against keeping _STATIC or static qualifiers in GRD message IDs when the string contains dynamic placeholders, since the qualifier misleads callers about argument formatting.
 ---
 
 **Rule.** In GRD and GRDP resource files (.grd, .grdp), do not retain '_STATIC'

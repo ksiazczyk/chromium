@@ -2,6 +2,9 @@
 name: general/avoid-count-or-sentinel-entries-in-protobuf-enums
 rubric: readability
 severity: should_fix
+type: reference
+title: Avoid count or sentinel entries in protobuf enums
+summary: Rule barring sentinel enumerators such as COUNT, kMaxValue, and NUM_ENTRIES from .proto enums, since they are not valid domain values and break wire compatibility when entries are added.
 ---
 
 **Rule.** Do not include count or sentinel enumerators (such as COUNT,

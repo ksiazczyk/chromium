@@ -2,6 +2,9 @@
 name: general/prefer-weakptr-over-unretained-for-posted-tasks
 rubric: safety
 severity: should_fix
+type: reference
+title: Prefer WeakPtr over Unretained for posted tasks
+summary: Coding rule to bind posted or delayed task callbacks with base::WeakPtr or SafeRef instead of Unretained, so callbacks drop safely when the target object is destroyed.
 ---
 
 **Rule.** Do not use `base::Unretained(this)` or raw pointers when binding

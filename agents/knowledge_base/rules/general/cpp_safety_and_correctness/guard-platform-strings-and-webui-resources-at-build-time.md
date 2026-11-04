@@ -2,6 +2,9 @@
 name: general/guard-platform-strings-and-webui-resources-at-build-time
 rubric: safety
 severity: should_fix
+type: reference
+title: Guard platform strings and WebUI resources at build time
+summary: Coding rule requiring platform-specific .grd strings and WebUI resources to be wrapped in build-time platform conditions to avoid translation bloat and dead code in unsupported builds.
 ---
 
 **Rule.** Guard platform-specific UI strings in .grd/.grdp files, WebUI

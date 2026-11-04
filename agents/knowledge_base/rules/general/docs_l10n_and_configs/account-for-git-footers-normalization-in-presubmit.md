@@ -2,6 +2,9 @@
 name: general/account-for-git-footers-normalization-in-presubmit
 rubric: correctness
 severity: nit
+type: reference
+title: Hyphenate custom Git footer keys in PRESUBMIT checks
+summary: Rule requiring PRESUBMIT checks to hyphenate custom Git footer keys so lookups match the Title-Casing normalization that depot_tools' git_footers.py applies to footer names.
 ---
 
 **Rule.** In PRESUBMIT checks reading

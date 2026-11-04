@@ -2,6 +2,9 @@
 name: general/compare-posix-threads-with-pthread-equal
 rubric: correctness
 severity: should_fix
+type: guide
+title: Compare POSIX threads with pthread_equal
+summary: Coding rule requiring pthread_equal() instead of operator== for comparing POSIX pthread_t handles, since pthread_t is an opaque type not guaranteed to be arithmetic.
 ---
 
 **Rule.** Do not compare POSIX thread handles (pthread_t) directly using

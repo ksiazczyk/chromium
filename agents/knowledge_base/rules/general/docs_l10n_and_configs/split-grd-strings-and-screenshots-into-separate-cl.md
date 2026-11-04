@@ -2,6 +2,13 @@
 name: general/split-grd-strings-and-screenshots-into-separate-cl
 rubric: change_scope
 severity: nit
+type: guide
+title: Split GRD Strings and Screenshots Into a Separate CL
+summary: Coding rule advising that translatable GRD string changes and their screenshot hash files go into a dedicated precursor CL separate from functional code changes.
+relations:
+  - references /tools/translation/upload_screenshots.py
+  - references /chrome/app/generated_resources.grd
+  - references /chrome/app/generated_resources_grd/IDS_NTP_SEARCH_BOX_DYNAMIC_PLACEHOLDER_CANVAS.png.sha1
 ---
 
 **Rule.** When adding or modifying translatable UI strings in `.grd` or `.grdp`
