@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts app manager factory header
+// summary: Declares the ShortcutsAppManagerFactory class responsible for creating ShortcutsAppManager keyed services for browser contexts.
+// ---
+
 #ifndef ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_SHORTCUTS_APP_MANAGER_FACTORY_H_
 #define ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_SHORTCUTS_APP_MANAGER_FACTORY_H_
 

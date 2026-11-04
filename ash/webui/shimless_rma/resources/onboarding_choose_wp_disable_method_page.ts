@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Write protection disable method choice page element
+// summary: Polymer element implementing the write protection disable method choice page, forwarding the manual or RSU selection to the Shimless RMA service.
+// ---
+
 import './shimless_rma_shared.css.js';
 import './base_page.js';
 

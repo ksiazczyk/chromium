@@ -1,0 +1,4 @@
+# Docerion header of source_select.html.
+type: source
+title: Source select template
+summary: Template for the scanner source dropdown, listing available sources inside the scan settings section with a default option fallback.

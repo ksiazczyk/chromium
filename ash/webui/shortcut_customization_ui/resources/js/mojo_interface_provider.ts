@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo interface provider
+// summary: Grants singleton access to the shortcut mojo interfaces and supports overriding them with fake implementations for testing and debugging.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {AcceleratorConfigurationProviderRemote, AcceleratorResultData, AcceleratorsUpdatedObserverRemote, EditDialogCompletedActions, PolicyUpdatedObserverRemote, Subactions, UserAction} from '../mojom-webui/shortcut_customization.mojom-webui.js';

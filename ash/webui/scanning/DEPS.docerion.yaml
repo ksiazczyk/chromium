@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules
+summary: Defines the allowed include rules for the scanning directory, covering ChromeOS strings and UI dependencies.

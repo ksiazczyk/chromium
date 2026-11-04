@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the Shimless RMA directory
+summary: Declares the ChromeOS team and Buganizer component ID used for issues in the Shimless RMA directory.

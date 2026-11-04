@@ -1,0 +1,4 @@
+# Docerion header of scanner_select.html.
+type: source
+title: Scanner select template
+summary: HTML template for the scanner-select dropdown that lists connected scanners in the ChromeOS scanning app.

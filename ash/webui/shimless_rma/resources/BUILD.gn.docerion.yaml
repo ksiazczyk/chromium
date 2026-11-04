@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Shimless RMA web UI resources
+summary: Defines the build_webui target bundling static files, CSS, web components, TypeScript helpers and Mojo bindings for the Shimless RMA UI.

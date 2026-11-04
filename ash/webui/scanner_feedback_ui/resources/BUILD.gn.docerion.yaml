@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the scanner feedback UI resources
+summary: Defines the build_webui target bundling the scanner feedback WebUI, listing static files, the app web component, generated Mojo bindings and TypeScript dependencies.

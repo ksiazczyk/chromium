@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator layout table unit tests
+// summary: Unit tests verifying that every Ash accelerator has a layout entry or is listed in the accelerators-without-layout exception set.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/backend/accelerator_layout_table.h"
 
 #include <cstddef>

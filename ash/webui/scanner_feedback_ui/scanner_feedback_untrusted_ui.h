@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner feedback untrusted WebUI controller header
+// summary: Declares the WebUI config and WebDialogUI controller for the untrusted scanner feedback dialog.
+// ---
+
 #ifndef ASH_WEBUI_SCANNER_FEEDBACK_UI_SCANNER_FEEDBACK_UNTRUSTED_UI_H_
 #define ASH_WEBUI_SCANNER_FEEDBACK_UI_SCANNER_FEEDBACK_UNTRUSTED_UI_H_
 

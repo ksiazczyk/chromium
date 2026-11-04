@@ -1,0 +1,4 @@
+# Docerion header of splash_screen.html.
+type: source
+title: Shimless RMA splash screen template
+summary: HTML template for the splash screen shown while the Shimless RMA app waits for the first state to be fetched.

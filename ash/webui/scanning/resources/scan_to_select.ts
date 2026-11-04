@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scan to select element logic
+// summary: TypeScript for the scan-to-select custom element that opens a folder picker and updates the selected save location for scans.
+// ---
+
 import './scan_settings_section.js';
 import '/strings.m.js';
 

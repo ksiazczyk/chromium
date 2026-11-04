@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning handler class declaration
+// summary: Declares the ChromeOS Scanning app WebUI message handler, including select file dialog callbacks and message handlers for scan settings and paths.
+// ---
+
 #ifndef ASH_WEBUI_SCANNING_SCANNING_HANDLER_H_
 #define ASH_WEBUI_SCANNING_SCANNING_HANDLER_H_
 

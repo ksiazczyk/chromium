@@ -1,3 +1,11 @@
+---
+type: readme
+title: CIPD hosting of Project Simon strings
+summary: Explains that Project Simon strings are kept private in CIPD for chrome-branded checkouts and how to publish a new package version and update DEPS.
+relations:
+  - references /ash/webui/shimless_rma/resources/cipd_project_simon_strings.yaml
+---
+
 The project_simon resources cannot be made public until after the feature has
 been launched. Thus, they are currently hosted in CIPD and downloaded to this
 directory only if an internal chrome-branded checkout is being used. To update

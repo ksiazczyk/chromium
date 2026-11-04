@@ -1,0 +1,4 @@
+# Docerion header of onboarding_choose_destination_page.html.
+type: source
+title: Choose destination page template
+summary: HTML template for the onboarding step where the user chooses whether the repaired device returns to its original owner or goes to a new owner.

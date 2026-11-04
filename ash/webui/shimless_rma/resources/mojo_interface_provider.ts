@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo interface provider for Shimless RMA
+// summary: Provides singleton access to the Shimless RMA and network config mojo interfaces and can substitute a fake service populated with test data.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {CrosNetworkConfigInterface as NetworkConfigServiceInterface} from 'chrome://resources/mojo/chromeos/services/network_config/public/mojom/cros_network_config.mojom-webui.js';
 import {CrosNetworkConfig} from 'chrome://resources/mojo/chromeos/services/network_config/public/mojom/cros_network_config.mojom-webui.js';

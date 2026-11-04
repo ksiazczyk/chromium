@@ -1,0 +1,4 @@
+# Docerion header of onboarding_choose_wp_disable_method_page.html.
+type: source
+title: Write protection disable method choice page template
+summary: HTML template for the onboarding page where the user selects between manual and RSU write protection disable methods.

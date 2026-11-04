@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scan preview element logic
+// summary: TypeScript for the scan-preview custom element that manages scanned image previews, progress and canceling states, multi-page scanning, and rescan or remove-page dialogs.
+// ---
+
 import './action_toolbar.js';
 import './scanning_fonts.css.js';
 import './scanning_shared.css.js';

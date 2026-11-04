@@ -1,0 +1,4 @@
+# Docerion header of bottom_nav_content.html.
+type: source
+title: Bottom nav content template
+summary: HTML template for the bottom navigation content with a restore-all-defaults button and a keyboard settings link.

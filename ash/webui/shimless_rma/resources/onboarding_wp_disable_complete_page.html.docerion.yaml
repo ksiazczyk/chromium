@@ -1,0 +1,4 @@
+# Docerion header of onboarding_wp_disable_complete_page.html.
+type: source
+title: Shimless RMA write protection disable complete page template
+summary: HTML template for the page confirming successful write protection disable and showing the next required action.

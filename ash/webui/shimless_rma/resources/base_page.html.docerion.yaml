@@ -1,0 +1,4 @@
+# Docerion header of base_page.html.
+type: source
+title: Base page two-pane layout template
+summary: HTML template for the base-page element providing left and right pane slots with configurable pane widths.

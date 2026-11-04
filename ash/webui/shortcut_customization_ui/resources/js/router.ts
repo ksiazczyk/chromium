@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Router
+// summary: Singleton router that navigates via history state and notifies registered route observers about URL changes.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {SHORTCUTS_APP_URL} from './shortcut_utils.js';

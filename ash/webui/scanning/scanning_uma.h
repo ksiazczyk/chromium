@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scan app UMA histogram enums
+// summary: Defines UMA histogram enums for scan completion actions, multi-page toolbar actions, job failure reasons, and job settings resolutions used by the Scan app.
+// ---
+
 #ifndef ASH_WEBUI_SCANNING_SCANNING_UMA_H_
 #define ASH_WEBUI_SCANNING_SCANNING_UMA_H_
 

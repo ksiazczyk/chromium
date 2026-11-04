@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners
+summary: Lists the primary and backup OWNERS responsible for reviewing changes in the scanning directory.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Scanner feedback UI build configuration
+summary: Defines the scanner_feedback_ui static library target with its sources and dependencies for the ChromeOS scanner feedback WebUI.

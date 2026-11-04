@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut customization WebUI URL constants
+// summary: Defines string constants for the shortcut customization WebUI, including the app host name, its chrome scheme address, and a learn-more support page link.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/url_constants.h"
 
 namespace ash {

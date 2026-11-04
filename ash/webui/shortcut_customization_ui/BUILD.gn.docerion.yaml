@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the shortcut customization UI
+summary: Defines the static library, the url_constants source set, and the unit test targets for the ChromeOS shortcut customization WebUI.

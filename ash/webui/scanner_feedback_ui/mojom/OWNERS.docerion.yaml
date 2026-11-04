@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for scanner feedback UI mojom
+summary: Assigns IPC security owners as required reviewers for all mojom files in this directory.

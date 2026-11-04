@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CIPD package definition for Project Simon strings
+# summary: CIPD package definition bundling the project_simon_strings directory for the Shimless RMA app.
+# ---
+
 package: chromeos_internal/ash/peripherals-and-serviceability/shimless-rma-project-simon-strings
 description: Project Simon strings for the Shimless RMA app.
 data:

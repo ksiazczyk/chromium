@@ -1,0 +1,4 @@
+# Docerion header of reimaging_calibration_failed_page.html.
+type: source
+title: Reimaging calibration failed page template
+summary: HTML template for the reimaging calibration failed page that lists failed calibration components and offers skip or retry options in a dialog.

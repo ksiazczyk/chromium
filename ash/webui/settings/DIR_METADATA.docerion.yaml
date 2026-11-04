@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Ash settings directory metadata
+summary: Declares metadata mixins for the ash settings web UI directory, pointing to the common metadata of the Chrome ash settings resources.

@@ -1,0 +1,4 @@
+# Docerion header of scan_settings_section.html.
+type: source
+title: Scan settings section template
+summary: HTML template for the scan-settings-section element that lays out a labeled settings row with an optional error slot.

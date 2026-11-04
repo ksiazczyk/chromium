@@ -11,6 +11,12 @@
  * #include=cr-shared-style md-select
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shimless RMA shared styles
+summary: Shared CSS custom properties and common styles for fonts, colors, spacing, and icons used across Shimless RMA pages.
+*/
+
 :host {
   --cr-dialog-width: 320px;
   --cr-dialog-button-container-padding-horizontal: 24px;

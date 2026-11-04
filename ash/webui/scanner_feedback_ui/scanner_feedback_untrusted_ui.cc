@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner feedback untrusted WebUI controller implementation
+// summary: Implements the chrome-untrusted WebUI controller for the scanner feedback dialog, including request handling that serves feedback screenshots.
+// ---
+
 #include "ash/webui/scanner_feedback_ui/scanner_feedback_untrusted_ui.h"
 
 #include <cstddef>

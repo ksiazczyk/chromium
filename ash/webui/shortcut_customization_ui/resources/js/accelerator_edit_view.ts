@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator edit view element
+// summary: Polymer element wrapping one accelerator, responsible for showing its edit and remove buttons and displaying context, error, and warning strings.
+// ---
+
 import '../common/icons.html.js';
 import '../css/shortcut_customization_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

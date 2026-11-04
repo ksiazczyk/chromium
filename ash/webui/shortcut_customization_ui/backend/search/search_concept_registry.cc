@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchConcept registry implementation for the Local Search Service
+// summary: Implements registration of search concepts with the Local Search Service index, including conversion to LSS data and observer notification.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/backend/search/search_concept_registry.h"
 
 #include <string>

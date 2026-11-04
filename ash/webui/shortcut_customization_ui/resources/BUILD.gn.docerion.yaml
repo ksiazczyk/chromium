@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the shortcut customization WebUI
+summary: Defines the build_webui target that bundles static files, web components, TypeScript sources, CSS, and Mojo bindings for the ChromeOS shortcut customization app.

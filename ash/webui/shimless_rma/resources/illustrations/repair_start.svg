@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Repair start illustration
+summary: SVG illustration for the Shimless RMA web UI depicting the start of a repair, with gears, tools and device parts on a workbench.
+-->
+
 <svg width="320" height="320" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0)">
 <path d="M80.6495 217.55L13.4416 79.6322C11.2954 75.34 13.1027 70.1441 17.5079 67.9979L155.425 0.902978C159.718 -1.24316 164.913 0.564115 167.06 4.96934L234.155 142.887C236.301 147.179 234.493 152.375 230.088 154.521L92.2838 221.503C87.8786 223.649 82.6826 221.842 80.6495 217.55Z" fill="#E8F0FE"/>

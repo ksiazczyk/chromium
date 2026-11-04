@@ -1,0 +1,4 @@
+# Docerion header of onboarding_wait_for_manual_wp_disable_page.html.
+type: source
+title: Shimless RMA onboarding manual write protection disable wait page template
+summary: HTML template for the page that waits for the manual hardware write protection disable to be completed.

@@ -1,0 +1,4 @@
+# Docerion header of onboarding_update_page.html.
+type: source
+title: Shimless RMA onboarding OS update page template
+summary: HTML template for the onboarding page that lets the user install a pending ChromeOS update before the RMA process.

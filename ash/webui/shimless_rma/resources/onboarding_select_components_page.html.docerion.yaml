@@ -1,0 +1,4 @@
+# Docerion header of onboarding_select_components_page.html.
+type: source
+title: Shimless RMA onboarding select components page template
+summary: HTML template for the onboarding page where the user selects the components that were replaced during repair.

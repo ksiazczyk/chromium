@@ -1,0 +1,4 @@
+# Docerion header of scan_to_select.html.
+type: source
+title: Scan to select template
+summary: HTML template for the scan-to-select dropdown that shows the folder where completed scans are saved.

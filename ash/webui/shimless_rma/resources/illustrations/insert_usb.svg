@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Insert USB illustration
+summary: SVG illustration for the Shimless RMA flow showing a USB drive being inserted into a device, labeled Insert-Firmware.
+-->
+
 <svg width="320px" height="320px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" jetway-hooks="{}">
 <g jetway-hook-id="D459EF5B-E5B7-43C7-B957-9C8E566D8D56" id="Insert-Firmware" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 <path d="M151,91 L427,91 L427,268 C427,270.209139 425.209139,272 423,272 L155,272 C152.790861,272 151,270.209139 151,268 L151,91 L151,91 Z" jetway-hook-id="071562A0-07F9-40F1-A048-7BF12C874C2F" id="Rectangle" stroke="#D2E3FC" stroke-width="4"></path>

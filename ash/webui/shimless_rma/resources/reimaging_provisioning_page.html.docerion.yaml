@@ -1,0 +1,4 @@
+# Docerion header of reimaging_provisioning_page.html.
+type: source
+title: Reimaging provisioning page template
+summary: HTML template for the reimaging provisioning page, showing a progress spinner and a dialog shown when write protection is still enabled.

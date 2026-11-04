@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select mixin for scan settings
+// summary: Reusable Polymer mixin providing common option sorting, default selection, and disabled-state behavior for select-based scan setting elements.
+// ---
+
 import {assert} from 'chrome://resources/ash/common/assert.js';
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

@@ -5,6 +5,12 @@
 // TODO(cambickel): Move this code into a shared location, and update Settings
 // search code to use it.
 
+// ---docerion
+// type: source
+// title: Search result bolding utilities
+// summary: Utility functions that wrap query-matching parts of search result descriptions in bold tags across different languages.
+// ---
+
 import {sanitizeInnerHtml} from 'chrome://resources/js/parse_html_subset.js';
 
 /**

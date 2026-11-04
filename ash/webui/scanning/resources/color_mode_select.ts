@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color mode select web component
+// summary: Defines the color-mode-select Polymer element that lists, sorts and applies the default for available scanner color modes in a dropdown.
+// ---
+
 import './scan_settings_section.js';
 import '/strings.m.js';
 

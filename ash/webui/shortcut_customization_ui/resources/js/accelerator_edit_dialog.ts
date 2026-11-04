@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator edit dialog element
+// summary: Polymer element implementing the accelerator edit dialog that lets users view, add, edit, remove, and restore accelerators for a shortcut, with a maximum of five accelerators.
+// ---
+
 import './accelerator_edit_view.js';
 import '../css/shortcut_customization_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

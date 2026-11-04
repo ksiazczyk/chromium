@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Scanning app WebUI resources
+summary: Defines the webui build target, listing static files, CSS, web components, TypeScript files, Mojo dependencies and build settings for the scanning app.

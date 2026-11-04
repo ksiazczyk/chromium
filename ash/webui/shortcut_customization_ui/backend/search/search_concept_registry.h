@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchConcept registry class declarations
+// summary: Declares the SearchConceptRegistry class that manages search concepts, registers them with the Local Search Service, and notifies observers.
+// ---
+
 #ifndef ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_BACKEND_SEARCH_SEARCH_CONCEPT_REGISTRY_H_
 #define ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_BACKEND_SEARCH_SEARCH_CONCEPT_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut input mojo interface provider
+// summary: Provides singleton access to the shortcut input mojo interface with an override hook for testing.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {ShortcutInputProviderInterface} from '../mojom-webui/shortcut_input_provider.mojom-webui.js';

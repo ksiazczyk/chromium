@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner feedback browser context data header
+// summary: Declares functions to set, get and take ScannerFeedbackInfo on a browser context, keyed by an unguessable token ID.
+// ---
+
 #ifndef ASH_WEBUI_SCANNER_FEEDBACK_UI_SCANNER_FEEDBACK_BROWSER_CONTEXT_DATA_H_
 #define ASH_WEBUI_SCANNER_FEEDBACK_UI_SCANNER_FEEDBACK_BROWSER_CONTEXT_DATA_H_
 

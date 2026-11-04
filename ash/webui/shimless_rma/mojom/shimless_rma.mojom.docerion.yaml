@@ -1,0 +1,4 @@
+# Docerion header of shimless_rma.mojom.
+type: source
+title: Shimless RMA mojo interface definitions
+summary: Defines the mojo enums, structs and interfaces for the shimless RMA WebUI, which must stay in sync with the rmad D-Bus proto definitions.

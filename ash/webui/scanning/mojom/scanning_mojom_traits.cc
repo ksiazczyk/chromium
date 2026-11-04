@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits converting lorgnette protobufs to scanning mojom types
+// summary: Implements conversions between lorgnette protobuf types and the Scan app's mojom types, including page size and scan region handling.
+// ---
+
 #include "ash/webui/scanning/mojom/scanning_mojom_traits.h"
 
 #include <utility>

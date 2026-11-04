@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA onboarding manual write protection disable wait page element
+// summary: Polymer element that observes hardware write protection state and shows instructions while waiting for the manual disable to finish.
+// ---
+
 import './shimless_rma_shared.css.js';
 import './base_page.js';
 

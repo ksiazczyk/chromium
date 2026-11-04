@@ -1,0 +1,4 @@
+# Docerion header of search.mojom.
+type: source
+title: Mojo definitions for shortcut search results and handler
+summary: Defines the SearchResult struct, SearchHandler interface, and availability observer used by the Shortcuts app to query shortcut search results.

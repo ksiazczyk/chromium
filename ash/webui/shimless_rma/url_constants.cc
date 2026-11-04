@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA URL constants
+// summary: Defines the host name and address string constants used to identify the Shimless RMA WebUI.
+// ---
+
 #include "ash/webui/shimless_rma/url_constants.h"
 
 namespace ash {

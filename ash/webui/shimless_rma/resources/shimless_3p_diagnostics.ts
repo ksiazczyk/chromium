@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Third-party diagnostics controller
+// summary: Polymer element that manages dialogs to install and launch the third-party diagnostics app during the Shimless RMA flow.
+// ---
+
 import './shimless_rma_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator configuration provider unit tests
+// summary: Unit tests for the accelerator configuration provider, covering customization flows, keyboard layouts and metrics using fake devices.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/backend/accelerator_configuration_provider.h"
 
 #include <algorithm>

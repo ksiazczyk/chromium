@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator view element
+// summary: Polymer element wrapping an accelerator, maintaining its read-only and editable states and handling shortcut input capture, errors, and announcements.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 import 'chrome://resources/ash/common/shortcut_input_ui/shortcut_input_key.js';
 import 'chrome://resources/ash/common/shortcut_input_ui/shortcut_input.js';

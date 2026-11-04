@@ -1,0 +1,4 @@
+# Docerion header of color_mode_select.html.
+type: source
+title: Color mode dropdown template
+summary: HTML template for the color-mode-select web component, rendering a dropdown of scanner color modes inside a scan settings section.

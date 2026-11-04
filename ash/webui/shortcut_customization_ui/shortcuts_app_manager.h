@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts app manager header
+// summary: Declares the KeyedService manager that initializes search classes and feeds accelerator data into the local search service index.
+// ---
+
 #ifndef ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_SHORTCUTS_APP_MANAGER_H_
 #define ASH_WEBUI_SHORTCUT_CUSTOMIZATION_UI_SHORTCUTS_APP_MANAGER_H_
 

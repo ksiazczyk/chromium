@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA mojom traits implementation
+// summary: Implements the mojo EnumTraits and StructTraits conversion functions between shimless RMA mojom types and the rmad and update_engine proto types.
+// ---
+
 #include "ash/webui/shimless_rma/mojom/shimless_rma_mojom_traits.h"
 
 #include <string>

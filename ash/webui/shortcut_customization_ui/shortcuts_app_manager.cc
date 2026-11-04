@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts app manager implementation
+// summary: Implements the KeyedService that wires up the search handler, search concept registry, accelerator configuration provider, and shortcut input provider.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/shortcuts_app_manager.h"
 
 #include <memory>

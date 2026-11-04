@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shimless RMA 3p diagnostics unit tests
+// summary: Unit tests for the third-party diagnostics app flow in ShimlessRmaService using fake delegates, fake cros_healthd, and a mocked external app dialog.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

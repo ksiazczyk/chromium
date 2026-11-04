@@ -1,0 +1,4 @@
+# Docerion header of calibration_component_chip.html.
+type: source
+title: Calibration component chip template
+summary: HTML template for the calibration-component-chip button showing component name, ID, info and check icons with checked and disabled styling.

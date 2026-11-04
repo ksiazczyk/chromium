@@ -1,0 +1,4 @@
+# Docerion header of scanning_app.html.
+type: source
+title: Scanning app HTML template
+summary: Polymer template for the ChromeOS Scanning app, defining its layout, styling, dialogs, toast, and help link UI.

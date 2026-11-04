@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the scanning mojom bindings
+summary: GN build file that defines the mojom bindings target for the Scan app and the unit test source set for its Mojo traits.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut customization app element
+// summary: Main landing page element of the shortcut customization app, coordinating navigation, search, dialogs, and mojo observers.
+// ---
+
 import './accelerator_edit_dialog.js';
 import './bottom_nav_content.js';
 import './shortcuts_page.js';

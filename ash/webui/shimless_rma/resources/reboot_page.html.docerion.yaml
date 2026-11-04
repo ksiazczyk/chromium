@@ -1,0 +1,4 @@
+# Docerion header of reboot_page.html.
+type: source
+title: Shimless RMA reboot page template
+summary: HTML template for the page shown while waiting for a reboot or shutdown, with a spinner illustration.

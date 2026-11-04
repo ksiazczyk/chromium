@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA WebUI implementation
+// summary: Implements the Shimless RMA WebUI in ash, setting up the data source with resource paths, test loader files, and localized strings for the repair flow.
+// ---
+
 
 #include "ash/webui/shimless_rma/shimless_rma.h"
 

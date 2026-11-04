@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA reboot page element
+// summary: Polymer element displayed while waiting for a reboot or shutdown, choosing title and message based on the error code.
+// ---
+
 import 'chrome://resources/polymer/v3_0/paper-spinner/paper-spinner-lite.js';
 import './base_page.js';
 import './shimless_rma_shared.css.js';

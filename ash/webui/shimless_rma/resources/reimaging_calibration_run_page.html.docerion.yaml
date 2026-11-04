@@ -1,0 +1,4 @@
+# Docerion header of reimaging_calibration_run_page.html.
+type: source
+title: Reimaging calibration run page template
+summary: HTML template for the reimaging calibration run page showing a spinner or success illustration while component calibration runs.

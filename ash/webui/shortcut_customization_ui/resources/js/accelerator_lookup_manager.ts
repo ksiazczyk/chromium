@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator lookup manager
+// summary: Singleton class that sanitizes Mojo accelerator data into app types and maintains lookup and reverse-lookup maps for accelerators, layout info, and conflict detection.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {Accelerator, AcceleratorId, AcceleratorSubcategory, LayoutInfo, MojoAcceleratorConfig, MojoAcceleratorInfo, MojoLayoutInfo, StandardAcceleratorInfo, TextAcceleratorInfo} from './shortcut_types.js';

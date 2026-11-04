@@ -9,6 +9,12 @@
  * #include=cros-color-overrides
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shortcut customization shared CSS styles
+summary: Shared stylesheet for the ChromeOS shortcut customization UI that defines font and color custom properties, lock and edit icon styles, and dialog and button styling for the jelly-enabled theme.
+*/
+
 :host {
   --shortcuts-font-weight-regular: 400;
   --shortcuts-font-weight-medium: 500;

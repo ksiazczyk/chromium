@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut utility helpers
+// summary: Provides utility functions and lookup maps for key codes, icons, and accelerator info type checks in the shortcut customization UI.
+// ---
+
 import '/strings.m.js';
 
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';

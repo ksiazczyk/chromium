@@ -1,0 +1,4 @@
+# Docerion header of action_toolbar.html.
+type: source
+title: Action toolbar template for post-scan page controls
+summary: HTML template for the action-toolbar web component, showing page numbers with buttons to remove or rescan the current scanned page.

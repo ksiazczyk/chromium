@@ -12,6 +12,12 @@
  * #include=cr-shared-style md-select scanning-fonts cros-color-overrides
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Scanning app shared styles
+summary: Shared stylesheet with layout variables, select and dialog styling, progress bar colors, and scrollbar rules for the Scanning app.
+*/
+
 :host {
   --scanning-progress-bar: var(--google-blue-600);
   --scanning-progress-bar-track: rgba(

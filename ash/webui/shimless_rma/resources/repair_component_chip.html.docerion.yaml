@@ -1,0 +1,4 @@
+# Docerion header of repair_component_chip.html.
+type: source
+title: Repair component chip template
+summary: HTML template for a selectable chip representing a hardware component to mark as replaced, with checked, disabled, and tooltip states.

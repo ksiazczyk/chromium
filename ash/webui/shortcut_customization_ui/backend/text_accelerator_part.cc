@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text accelerator part implementation
+// summary: Implements TextAcceleratorPart constructors that map modifiers, keycodes, delimiters and plain text into displayable shortcut parts.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/backend/text_accelerator_part.h"
 
 #include <optional>

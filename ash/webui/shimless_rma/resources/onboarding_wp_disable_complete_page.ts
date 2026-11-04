@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA write protection disable complete page element
+// summary: Polymer element notifying the user that manual hardware write protection disable succeeded and what steps must be taken next.
+// ---
+
 import './shimless_rma_shared.css.js';
 import './base_page.js';
 

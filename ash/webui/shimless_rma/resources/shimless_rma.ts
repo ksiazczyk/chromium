@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA main controller
+// summary: Central controller that registers all RMA pages and routes state transitions, button events, and errors through the Mojo service.
+// ---
+
 import './critical_error_page.js';
 import './hardware_error_page.js';
 import './onboarding_choose_destination_page.js';

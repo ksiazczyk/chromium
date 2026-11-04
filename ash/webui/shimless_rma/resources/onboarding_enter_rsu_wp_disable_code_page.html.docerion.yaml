@@ -1,0 +1,4 @@
+# Docerion header of onboarding_enter_rsu_wp_disable_code_page.html.
+type: source
+title: RSU write protection disable code entry page template
+summary: HTML template for the onboarding page where the user enters the RSU disable code, with validation hints, a QR code pane and a challenge dialog.

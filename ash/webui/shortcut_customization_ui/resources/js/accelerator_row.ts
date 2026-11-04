@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator row element
+// summary: Polymer element for one shortcut row that displays its description and list of accelerators and dispatches an event to open the edit dialog.
+// ---
+
 import './accelerator_view.js';
 import './text_accelerator.js';
 import '/strings.m.js';

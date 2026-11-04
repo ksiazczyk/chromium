@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for shortcut customization resources
+# summary: Runs the shared semantic CSS checker on uploaded and committed changes to enforce ChromeOS-approved colors and dark-mode-friendly variables.
+# ---
+
 """Presubmit script for Shortcut Customization.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

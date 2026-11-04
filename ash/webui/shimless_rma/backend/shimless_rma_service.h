@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA service class declaration
+// summary: Declares ShimlessRmaService, the Mojo service implementing the Shimless RMA UI backend against the rmad daemon, update engine, and cros_healthd.
+// ---
+
 #ifndef ASH_WEBUI_SHIMLESS_RMA_BACKEND_SHIMLESS_RMA_SERVICE_H_
 #define ASH_WEBUI_SHIMLESS_RMA_BACKEND_SHIMLESS_RMA_SERVICE_H_
 

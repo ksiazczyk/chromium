@@ -1,0 +1,4 @@
+# Docerion header of search_result_row.html.
+type: source
+title: Search result row template
+summary: HTML template for a search result row, showing the bolded description and its accelerator keys.

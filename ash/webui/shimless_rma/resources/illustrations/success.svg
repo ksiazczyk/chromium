@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Success illustration
+summary: SVG illustration for the Shimless RMA web UI showing a success state with a white checkmark inside a blue circle.
+-->
+
 <svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M167.4 234.8C212.356 234.8 248.8 198.356 248.8 153.4C248.8 108.444 212.356 72 167.4 72C122.444 72 86 108.444 86 153.4C86 198.356 122.444 234.8 167.4 234.8Z" fill="#4285F4"/>
 <path d="M291.9 74.5004L271.3 69.0004C270.4 68.8004 269.9 67.8004 270.1 66.9004L275.6 46.3004C275.8 45.4004 276.8 44.9004 277.7 45.1004L298.3 50.6004C299.2 50.8004 299.7 51.8004 299.5 52.7004L294 73.3004C293.7 74.2004 292.8 74.7004 291.9 74.5004Z" fill="#4285F4"/>

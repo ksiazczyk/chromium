@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component type to string ID mapping
+// summary: Maps Shimless RMA Mojo ComponentType enum values to the UI string identifiers used for hardware components.
+// ---
+
 import {ComponentType} from './shimless_rma.mojom-webui.js';
 
 export const ComponentTypeToId: {[key in ComponentType]: string} = {

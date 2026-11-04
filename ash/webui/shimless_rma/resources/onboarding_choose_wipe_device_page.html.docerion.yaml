@@ -1,0 +1,4 @@
+# Docerion header of onboarding_choose_wipe_device_page.html.
+type: source
+title: Wipe device choice onboarding page template
+summary: HTML template for the onboarding page where the user chooses between wiping all device data or preserving it at the end of the RMA process.

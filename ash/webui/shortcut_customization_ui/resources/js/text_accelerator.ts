@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text accelerator element
+// summary: Implements the text-accelerator Polymer element that displays text-based shortcut parts with styled keys and a lock icon.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';
 
 import type {ShortcutInputKeyElement} from 'chrome://resources/ash/common/shortcut_input_ui/shortcut_input_key.js';

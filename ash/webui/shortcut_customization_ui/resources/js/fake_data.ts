@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Fake accelerator data
+// summary: Fake accelerator configuration and layout data used to exercise the shortcuts UI in tests and developer debugging.
+// ---
+
 import type {TimeTicks} from 'chrome://resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';
 
 import type {Accelerator, MojoAcceleratorConfig, MojoAcceleratorInfo, MojoLayoutInfo, MojoSearchResult} from './shortcut_types.js';

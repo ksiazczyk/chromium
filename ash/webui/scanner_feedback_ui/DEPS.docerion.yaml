@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Scanner feedback UI include rules
+summary: Grants the scanner feedback UI directory permission to include headers from ui/web_dialogs.

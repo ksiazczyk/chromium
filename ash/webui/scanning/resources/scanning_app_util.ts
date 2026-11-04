@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning app utility functions
+// summary: Helper functions converting between scanner mojo enums and localized display strings for color mode, file type, page size, and source type.
+// ---
+
 import {assertNotReached} from 'chrome://resources/ash/common/assert.js';
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';
 
