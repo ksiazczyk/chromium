@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SolidSourceBackground implementation
+// summary: Implements a views background that paints a solid color with SkBlendMode::kSrc, optionally rounding the top corners with an arc path.
+// relations:
+//   - implements /ash/hud_display/solid_source_background.h
+//   - depends_on /cc/paint/paint_flags.h
+//   - depends_on /ui/gfx/canvas.h
+// ---
+
 #include "ash/hud_display/solid_source_background.h"
 
 #include "cc/paint/paint_flags.h"

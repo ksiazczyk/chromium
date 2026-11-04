@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesTasksView class header for the Google Tasks glanceables bubble
+// summary: Declares the GlanceablesTasksView class that renders and manages the glanceables bubble UI for interacting with Google Tasks, including task list switching, task completion, and update cancellation.
+// relations:
+//   - depends_on /ash/api/tasks/tasks_client.h
+//   - depends_on /ash/api/tasks/tasks_types.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_GLANCEABLES_TASKS_GLANCEABLES_TASKS_VIEW_H_
 #define ASH_GLANCEABLES_TASKS_GLANCEABLES_TASKS_VIEW_H_
 

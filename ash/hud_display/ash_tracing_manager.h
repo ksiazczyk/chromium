@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshTracingManager class declaration
+// summary: Declares the AshTracingManager singleton with an observer interface for tracing status changes and methods to start, stop, and query tracing state.
+// relations:
+//   - depends_on /ash/hud_display/ash_tracing_request.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_ASH_TRACING_MANAGER_H_
 #define ASH_HUD_DISPLAY_ASH_TRACING_MANAGER_H_
 

@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory Metadata for In-Session Auth
+summary: Points the directory metadata to the shared login lock metadata mixins.
+relations:
+  - references /ash/login/LOGIN_LOCK_METADATA

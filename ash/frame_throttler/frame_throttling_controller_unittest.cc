@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameThrottlingController unit tests
+// summary: Unit tests verifying manual and default frame throttling behavior with a fake frame sink manager, Ash test base, and browser test windows.
+// relations:
+//   - tests /ash/frame_throttler/frame_throttling_controller.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ash/test/ash_test_helper.h
+// ---
+
 #include "ash/frame_throttler/frame_throttling_controller.h"
 
 #include <utility>

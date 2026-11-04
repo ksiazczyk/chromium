@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME switch type enum for histograms
+// summary: Defines the ImeSwitchType enum used for histograms to record whether an IME switch came from the tray, an accelerator, or the mode change key.
+// relations:
+//   - references /tools/metrics/histograms/enums.xml
+// ---
+
 #ifndef ASH_IME_IME_SWITCH_TYPE_H_
 #define ASH_IME_IME_SWITCH_TYPE_H_
 

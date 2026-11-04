@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTreeHostRootView implementation
+// summary: Implements a root view that schedules paints and creates compositor frames directly via the frame factory, supporting overlay candidacy.
+// relations:
+//   - implements /ash/fast_ink/view_tree_host_root_view.h
+//   - depends_on /ash/fast_ink/view_tree_host_root_view_frame_factory.h
+// ---
+
 #include "ash/fast_ink/view_tree_host_root_view.h"
 
 #include <memory>

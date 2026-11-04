@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesTasksView implementation
+// summary: Implements the main tasks glanceable view with task list combobox, expand and collapse animations, footer link, and animation smoothness metrics.
+// relations:
+//   - implements /ash/glanceables/tasks/glanceables_tasks_view.h
+//   - depends_on /ash/api/tasks/tasks_client.h
+//   - depends_on /ash/api/tasks/tasks_types.h
+// ---
+
 #include "ash/glanceables/tasks/glanceables_tasks_view.h"
 
 #include <memory>

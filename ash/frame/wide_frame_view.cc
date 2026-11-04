@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WideFrameView implementation
+// summary: Implements the wide frame view that places a full-width caption header atop maximized or fullscreen widgets, including immersive-mode hit testing, caption button models, and frame context menus.
+// relations:
+//   - implements /ash/frame/wide_frame_view.h
+//   - depends_on /ash/frame/frame_view_ash.h
+//   - depends_on /ash/public/cpp/window_properties.h
+// ---
+
 #include "ash/frame/wide_frame_view.h"
 
 #include <memory>

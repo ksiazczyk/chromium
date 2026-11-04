@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth Dialog Contents View Header
+// summary: Declares the AuthDialogContentsView class, its auth method flags, metadata and test API.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/login_types.h
+//   - depends_on /ash/public/cpp/session/user_info.h
+// ---
+
 #ifndef ASH_IN_SESSION_AUTH_AUTH_DIALOG_CONTENTS_VIEW_H_
 #define ASH_IN_SESSION_AUTH_AUTH_DIALOG_CONTENTS_VIEW_H_
 

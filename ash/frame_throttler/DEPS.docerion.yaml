@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Frame throttler DEPS include rules
+summary: Configures test-only include permissions for the frame throttler directory, allowing test files to use viz test utilities and privileged compositing mojoms.

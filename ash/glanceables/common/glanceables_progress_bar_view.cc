@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesProgressBarView implementation
+// summary: Implements a container for an infinite views::ProgressBar used in glanceables bubbles, with visibility updates that keep a constant container height.
+// relations:
+//   - implements /ash/glanceables/common/glanceables_progress_bar_view.h
+//   - depends_on /ash/glanceables/common/glanceables_view_id.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/glanceables/common/glanceables_progress_bar_view.h"
 
 #include <memory>

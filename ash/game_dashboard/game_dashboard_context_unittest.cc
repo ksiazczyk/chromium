@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Game Dashboard context unit tests
+// summary: Unit tests for GameDashboardContext covering main menu toggling, toolbar, recording, welcome dialog, battery and network views, and related metrics.
+// relations:
+//   - tests /ash/game_dashboard/game_dashboard_context.h
+//   - depends_on /ash/accelerators/accelerator_commands.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_context.h"
 
 #include <cstdint>

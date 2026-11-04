@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard metrics implementation
+// summary: Records Game Dashboard usage as UMA histograms and UKM events for menu toggles, toolbar state, recording, and screenshots.
+// relations:
+//   - implements /ash/game_dashboard/game_dashboard_metrics.h
+//   - depends_on /ash/game_dashboard/game_dashboard_controller.h
+//   - depends_on /base/metrics/histogram_functions.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_metrics.h"
 
 #include <cstdint>

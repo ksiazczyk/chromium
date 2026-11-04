@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransformerHelper implementation
+// summary: Implements TransformerHelper, which manages root window transforms such as rotation and UI zooming, including a simple transformer without host insets.
+// relations:
+//   - implements /ash/host/transformer_helper.h
+//   - depends_on /ash/host/ash_window_tree_host.h
+//   - depends_on /ash/host/root_window_transformer.h
+// ---
+
 #include "ash/host/transformer_helper.h"
 
 #include <utility>

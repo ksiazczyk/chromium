@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-session auth dialog contents view unit tests
+// summary: Unit tests for the in-session auth dialog contents view, exercising password and PIN authentication with mocked auth hub and cryptohome components.
+// relations:
+//   - tests /ash/in_session_auth/in_session_auth_dialog_contents_view.h
+//   - depends_on /ash/public/cpp/in_session_auth_token_provider.h
+//   - depends_on /ash/public/cpp/test/mock_in_session_auth_token_provider.h
+// ---
+
 #include "ash/in_session_auth/in_session_auth_dialog_contents_view.h"
 
 #include <memory>

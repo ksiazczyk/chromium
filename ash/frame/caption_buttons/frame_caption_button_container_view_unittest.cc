@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame caption button container view unit tests
+// summary: Unit tests for the Ash frame caption button container view, covering button visibility, sizing, layout at container edges, and window maximize, minimize and close behaviors.
+// relations:
+//   - tests /chromeos/ui/frame/caption_buttons/frame_caption_button_container_view.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ui/gfx/geometry/rect.h
+// ---
+
 #include "chromeos/ui/frame/caption_buttons/frame_caption_button_container_view.h"
 
 #include "ash/constants/ash_switches.h"

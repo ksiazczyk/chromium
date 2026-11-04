@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HUD tab strip implementation
+// summary: Implements HUDTabButton and HUDTabStrip, drawing tab outlines with Skia arcs and handling tab activation for HUD display modes.
+// relations:
+//   - implements /ash/hud_display/tab_strip.h
+//   - depends_on /ash/hud_display/hud_display.h
+//   - depends_on /ash/hud_display/hud_properties.h
+// ---
+
 #include "ash/hud_display/tab_strip.h"
 
 #include <cmath>

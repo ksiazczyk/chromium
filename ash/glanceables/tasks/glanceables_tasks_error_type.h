@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesTasksErrorType enum
+// summary: Defines error types shown in the tasks glanceable for failures to load, update, or complete tasks, including offline cases.
+// ---
+
 #ifndef ASH_GLANCEABLES_TASKS_GLANCEABLES_TASKS_ERROR_TYPE_H_
 #define ASH_GLANCEABLES_TASKS_GLANCEABLES_TASKS_ERROR_TYPE_H_
 

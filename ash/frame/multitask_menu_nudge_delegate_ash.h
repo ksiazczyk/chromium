@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash multitask menu nudge delegate declaration
+// summary: Declares the Ash implementation of the multitask menu nudge controller delegate for accessing nudge preferences and tablet nudge offsets.
+// relations:
+//   - implements /chromeos/ui/frame/multitask_menu/multitask_menu_nudge_controller.h
+// ---
+
 #ifndef ASH_FRAME_MULTITASK_MENU_NUDGE_DELEGATE_ASH_H_
 #define ASH_FRAME_MULTITASK_MENU_NUDGE_DELEGATE_ASH_H_
 

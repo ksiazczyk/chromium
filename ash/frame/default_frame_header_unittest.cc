@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default frame header unit tests
+// summary: Unit tests for the ChromeOS default frame header, covering title and icon alignment, back button behavior, frame colors and layer cleanup.
+// relations:
+//   - tests /chromeos/ui/frame/default_frame_header.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /chromeos/ui/frame/caption_buttons/frame_caption_button_container_view.h
+// ---
+
 #include "chromeos/ui/frame/default_frame_header.h"
 
 #include <memory>

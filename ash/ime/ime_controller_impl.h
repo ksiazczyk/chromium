@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash IME controller class declaration
+// summary: Declares ImeControllerImpl, which connects ash IME users such as the system tray to the IME implementation living in Chrome browser or a Mojo service.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/keyboard/keyboard_controller_impl.h
+//   - implements /ash/public/cpp/ime_controller.h
+// ---
+
 #ifndef ASH_IME_IME_CONTROLLER_IMPL_H_
 #define ASH_IME_IME_CONTROLLER_IMPL_H_
 

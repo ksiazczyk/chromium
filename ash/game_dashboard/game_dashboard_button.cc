@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard button implementation
+// summary: Implements the main Game Dashboard button with gamepad icon, title label, arrow icon, and default versus recording styling.
+// relations:
+//   - implements /ash/game_dashboard/game_dashboard_button.h
+//   - depends_on /ash/bubble/bubble_utils.h
+//   - depends_on /ash/game_dashboard/game_dashboard_context.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_button.h"
 
 #include <memory>

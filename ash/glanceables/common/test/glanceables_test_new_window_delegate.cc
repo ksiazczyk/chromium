@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glanceables test new window delegate implementation
+// summary: Implements the Glanceables test new window delegate, using a fake TestNewWindowDelegate that records the last URL passed to OpenUrl for verification in tests.
+// relations:
+//   - implements /ash/glanceables/common/test/glanceables_test_new_window_delegate.h
+//   - depends_on /ash/public/cpp/test/test_new_window_delegate.h
+//   - implements /ash/public/cpp/test/test_new_window_delegate.h
+// ---
+
 #include "ash/glanceables/common/test/glanceables_test_new_window_delegate.h"
 
 #include <memory>

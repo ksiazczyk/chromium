@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLayerTreeFrameSink implementation
+// summary: Implements a stub LayerTreeFrameSink that records submitted frames, skipped-frame reasons, and resources in use for tests.
+// relations:
+//   - implements /ash/frame_sink/test/test_layer_tree_frame_sink.h
+// ---
+
 #include "ash/frame_sink/test/test_layer_tree_frame_sink.h"
 
 #include <optional>

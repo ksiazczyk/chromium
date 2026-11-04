@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash focus manager factory header
+// summary: Declares AshFocusManagerFactory, a factory class for creating custom focus manager objects that support Ash shortcuts.
+// relations:
+//   - depends_on /ui/views/focus/focus_manager_factory.h
+//   - implemented_by /ash/focus/ash_focus_manager_factory.cc
+// ---
+
 #ifndef ASH_FOCUS_ASH_FOCUS_MANAGER_FACTORY_H_
 #define ASH_FOCUS_ASH_FOCUS_MANAGER_FACTORY_H_
 

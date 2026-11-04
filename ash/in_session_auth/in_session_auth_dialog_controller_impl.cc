@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-session auth dialog controller implementation
+// summary: Implements the in-session auth dialog controller, which creates and shows the authentication dialog for password manager, settings, and autofill purposes.
+// relations:
+//   - implements /ash/in_session_auth/in_session_auth_dialog_controller_impl.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/in_session_auth/in_session_auth_dialog_contents_view.h
+// ---
+
 #include "ash/in_session_auth/in_session_auth_dialog_controller_impl.h"
 
 #include <memory>

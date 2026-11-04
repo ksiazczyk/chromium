@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WideFrameView class declaration
+// summary: Declares WideFrameView, a view providing a full-width frame header for widgets whose maximized or fullscreen bounds do not cover the whole display, with immersive fullscreen and context menu support.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/wm/overview/overview_observer.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_FRAME_WIDE_FRAME_VIEW_H_
 #define ASH_FRAME_WIDE_FRAME_VIEW_H_
 

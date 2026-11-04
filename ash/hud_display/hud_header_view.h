@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HUD header view declaration
+// summary: Declares HUDHeaderView, the view that renders the HUD header with buttons and tabs.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/views/layout/box_layout_view.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_HUD_HEADER_VIEW_H_
 #define ASH_HUD_DISPLAY_HUD_HEADER_VIEW_H_
 

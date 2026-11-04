@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShutdownFocusRules class header
+// summary: Declares the AshFocusRules subclass used during shutdown, which makes nothing activatable or focusable while the Ash shell is shutting down.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/focus/ash_focus_rules.h
+//   - implemented_by /ash/focus/shutdown_focus_rules.cc
+// ---
+
 #ifndef ASH_FOCUS_SHUTDOWN_FOCUS_RULES_H_
 #define ASH_FOCUS_SHUTDOWN_FOCUS_RULES_H_
 

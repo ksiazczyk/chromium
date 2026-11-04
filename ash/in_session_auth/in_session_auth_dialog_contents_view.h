@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-session auth dialog contents view header
+// summary: Declares the parent view for in-session auth dialogs, which hosts the AuthPanel along with the avatar, title, prompt, and close button.
+// relations:
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_IN_SESSION_AUTH_IN_SESSION_AUTH_DIALOG_CONTENTS_VIEW_H_
 #define ASH_IN_SESSION_AUTH_IN_SESSION_AUTH_DIALOG_CONTENTS_VIEW_H_
 

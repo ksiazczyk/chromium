@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshWindowTreeHost base class and factory
+// summary: Implements the AshWindowTreeHost base class, located event translation, and a factory that creates platform, unified, or mirroring-unified hosts.
+// relations:
+//   - implements /ash/host/ash_window_tree_host.h
+//   - depends_on /ash/constants/ash_switches.h
+//   - depends_on /ash/host/ash_window_tree_host_init_params.h
+// ---
+
 #include "ash/host/ash_window_tree_host.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard context header
+// summary: Declares the GameDashboardContext class that manages Game Dashboard UI widgets and behavior for a given aura::Window game window, owned by GameDashboardController.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/game_dashboard/game_dashboard_metrics.h
+//   - depends_on /ash/wm/window_state_observer.h
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_CONTEXT_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_CONTEXT_H_
 

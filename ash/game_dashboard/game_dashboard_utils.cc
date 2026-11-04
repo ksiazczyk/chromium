@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard utility functions implementation
+// summary: Implements Game Dashboard helpers for Game Controls flag handling, feature availability, widget focus cycling, and preference updates.
+// relations:
+//   - depends_on /ash/game_dashboard/game_dashboard_utils.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/public/cpp/app_types_util.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_utils.h"
 
 #include "ash/constants/ash_pref_names.h"

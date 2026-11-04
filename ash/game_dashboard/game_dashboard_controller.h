@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard controller header
+// summary: Declares GameDashboardController, which controls Game Dashboard behavior on supported windows, registers preferences, and manages capture sessions and contexts.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_observer.h
+//   - depends_on /ash/game_dashboard/game_dashboard_context.h
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_CONTROLLER_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_CONTROLLER_H_
 

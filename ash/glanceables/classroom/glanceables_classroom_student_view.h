@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceables Classroom student view header
+// summary: Declares GlanceablesClassroomStudentView and the StudentAssignmentsListType enum, plus profile prefs registration and cancellation of pending assignment updates.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/glanceables/common/glanceables_time_management_bubble_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_GLANCEABLES_CLASSROOM_GLANCEABLES_CLASSROOM_STUDENT_VIEW_H_
 #define ASH_GLANCEABLES_CLASSROOM_GLANCEABLES_CLASSROOM_STUDENT_VIEW_H_
 

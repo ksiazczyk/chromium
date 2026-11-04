@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastInkHost class for low-latency rendering
+// summary: Declares FastInkHost and its ScopedPaint helper, supporting flicker-free painting and auto-refresh mode with hardware overlays.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/frame_sink/frame_sink_host.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_FAST_INK_FAST_INK_HOST_H_
 #define ASH_FAST_INK_FAST_INK_HOST_H_
 

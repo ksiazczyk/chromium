@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshWindowTreeHostPlatform implementation
+// summary: Implements the platform-based Ash window tree host with cursor confinement, transformer support, cursor configuration, and event dispatching.
+// relations:
+//   - implements /ash/host/ash_window_tree_host_platform.h
+//   - depends_on /ash/host/ash_window_tree_host_delegate.h
+//   - depends_on /ash/host/root_window_transformer.h
+// ---
+
 #include "ash/host/ash_window_tree_host_platform.h"
 
 #include <utility>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesTaskView class declaration
+// summary: Declares the FlexLayoutView showing one task's metadata, with callbacks for marking completion, saving edits, and reporting errors.
+// relations:
+//   - depends_on /ash/api/tasks/tasks_client.h
+//   - depends_on /ash/api/tasks/tasks_types.h
+//   - depends_on /ash/glanceables/tasks/glanceables_tasks_error_type.h
+// ---
+
 #ifndef ASH_GLANCEABLES_TASKS_GLANCEABLES_TASK_VIEW_H_
 #define ASH_GLANCEABLES_TASKS_GLANCEABLES_TASK_VIEW_H_
 

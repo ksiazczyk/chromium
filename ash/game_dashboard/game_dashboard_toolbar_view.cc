@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard toolbar view implementation
+// summary: Implements the movable Game Dashboard toolbar, including icon buttons and snap location calculation within the game window.
+// relations:
+//   - depends_on /ash/game_dashboard/game_dashboard_toolbar_view.h
+//   - depends_on /ash/app_list/app_list_util.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_toolbar_view.h"
 
 #include <memory>

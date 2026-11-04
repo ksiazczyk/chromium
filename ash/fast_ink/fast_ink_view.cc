@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastInkView implementation
+// summary: Implements FastInkView, creating a frameless translucent overlay widget and updating the FastInkHost surface content and damage rectangles.
+// relations:
+//   - implements /ash/fast_ink/fast_ink_view.h
+//   - depends_on /ui/gfx/geometry/rect.h
+//   - depends_on /ui/views/widget/widget.h
+// ---
+
 #include "ash/fast_ink/fast_ink_view.h"
 
 #include <memory>

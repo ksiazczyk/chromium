@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesListFooterView implementation
+// summary: Implements the glanceables list footer view, showing a title label and a See all button used in the classroom and tasks bubbles.
+// relations:
+//   - implements /ash/glanceables/common/glanceables_list_footer_view.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/glanceables/common/glanceables_view_id.h
+// ---
+
 #include "ash/glanceables/common/glanceables_list_footer_view.h"
 
 #include <algorithm>

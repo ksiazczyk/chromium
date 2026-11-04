@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceables Classroom client interface
+// summary: Defines the GlanceablesClassroomClient interface used to fetch student assignments by due-date filters and report admin-disabled or student-role state.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_GLANCEABLES_CLASSROOM_GLANCEABLES_CLASSROOM_CLIENT_H_
 #define ASH_GLANCEABLES_CLASSROOM_GLANCEABLES_CLASSROOM_CLIENT_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrerewrittenEventForwarder unit tests
+// summary: Unit tests verifying that observers receive raw key events and that forwarded events pass through the rewriter unchanged.
+// relations:
+//   - tests /ash/events/prerewritten_event_forwarder.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ui/base/ui_base_features.h
+// ---
+
 #include "ash/events/prerewritten_event_forwarder.h"
 
 #include <memory>

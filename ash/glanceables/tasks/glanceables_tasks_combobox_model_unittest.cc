@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlanceablesTasksComboboxModel unit tests
+// summary: Unit tests verifying default task list selection and persistence of the last selected list in user prefs.
+// relations:
+//   - tests /ash/glanceables/tasks/glanceables_tasks_combobox_model.h
+//   - depends_on /ash/api/tasks/tasks_types.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/glanceables/tasks/glanceables_tasks_combobox_model.h"
 
 #include <memory>

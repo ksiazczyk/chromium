@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame throttling controller implementation
+// summary: Implements the Ash controller that throttles frame rates of browser windows by collecting frame sink IDs and driving throttling through the viz host frame sink manager.
+// relations:
+//   - implements /ash/frame_throttler/frame_throttling_controller.h
+//   - depends_on /ash/public/cpp/window_properties.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/frame_throttler/frame_throttling_controller.h"
 
 #include <algorithm>

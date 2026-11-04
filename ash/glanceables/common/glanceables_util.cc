@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesUtil implementation
+// summary: Implements glanceables_util with IsNetworkConnected checking the default network state, plus a test-only override of the connected state.
+// relations:
+//   - implements /ash/glanceables/common/glanceables_util.h
+//   - depends_on /chromeos/ash/components/network/network_handler.h
+//   - depends_on /chromeos/ash/components/network/network_state_handler.h
+// ---
+
 #include "ash/glanceables/common/glanceables_util.h"
 
 #include "chromeos/ash/components/network/network_handler.h"

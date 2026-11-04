@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorView implementation for low-latency cursor drawing
+// summary: Implements the CursorView class that draws and animates cursor images on a FastInk widget with minimal latency, handling device scaling, hotspot, location updates, animation frames and stationary state.
+// relations:
+//   - depends_on /ash/fast_ink/cursor/cursor_view.h
+//   - depends_on /base/functional/bind.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #include "ash/fast_ink/cursor/cursor_view.h"
 
 #include <memory>

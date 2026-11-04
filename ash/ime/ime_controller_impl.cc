@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash IME controller implementation
+// summary: Implements the Ash IME controller that tracks available input methods, delegates IME switching to its client, handles accelerator-based switching, and shows the mode indicator.
+// relations:
+//   - implements /ash/ime/ime_controller_impl.h
+//   - depends_on /ash/ime/ime_mode_indicator_view.h
+//   - depends_on /ash/ime/ime_switch_type.h
+// ---
+
 #include "ash/ime/ime_controller_impl.h"
 
 #include <algorithm>

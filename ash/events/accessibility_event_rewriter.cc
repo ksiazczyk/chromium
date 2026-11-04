@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility event rewriter implementation
+// summary: Implements the event rewriter that sends key events to accessibility extensions such as ChromeVox and Switch Access and continues dispatch of unhandled events.
+// relations:
+//   - implements /ash/events/accessibility_event_rewriter.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/magnifier/docked_magnifier_controller.h
+// ---
+
 #include "ash/events/accessibility_event_rewriter.h"
 
 #include "ash/accessibility/accessibility_controller.h"

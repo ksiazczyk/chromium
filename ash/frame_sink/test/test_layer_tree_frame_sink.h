@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLayerTreeFrameSink header
+// summary: Declares a stub LayerTreeFrameSink test double that tracks submitted frames and resources to test display compositor interactions.
+// relations:
+//   - depends_on /cc/trees/layer_tree_frame_sink.h
+//   - depends_on /cc/trees/layer_tree_frame_sink_client.h
+//   - depends_on /components/viz/common/quads/compositor_frame.h
+// ---
+
 #ifndef ASH_FRAME_SINK_TEST_TEST_LAYER_TREE_FRAME_SINK_H_
 #define ASH_FRAME_SINK_TEST_TEST_LAYER_TREE_FRAME_SINK_H_
 

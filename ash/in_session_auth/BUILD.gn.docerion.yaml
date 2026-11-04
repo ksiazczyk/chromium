@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: In-Session Auth Build Configuration
+summary: GN build file defining the in_session_auth source set, its source files and dependencies.
+relations:
+  - depends_on /build/config/ui.gni
+  - configures /ash/in_session_auth/auth_dialog_contents_view.cc
+  - configures /ash/in_session_auth/auth_dialog_contents_view.h

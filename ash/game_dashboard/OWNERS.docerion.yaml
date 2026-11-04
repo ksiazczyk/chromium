@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Game Dashboard owners list
+summary: Lists the code owner responsible for reviewing changes in the game_dashboard directory.

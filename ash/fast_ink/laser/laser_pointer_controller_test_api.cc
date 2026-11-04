@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Laser pointer controller test API implementation
+// summary: Implements the test API for LaserPointerController, exposing internal state such as laser points, fade status, and palette tray access for use in tests.
+// relations:
+//   - implements /ash/fast_ink/laser/laser_pointer_controller_test_api.h
+//   - depends_on /ash/fast_ink/fast_ink_points.h
+//   - depends_on /ash/fast_ink/laser/laser_pointer_controller.h
+// ---
+
 #include "ash/fast_ink/laser/laser_pointer_controller_test_api.h"
 
 #include "ash/fast_ink/fast_ink_points.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash SnapControllerImpl header
+// summary: Declares SnapControllerImpl, the Ash-only implementation of the ChromeOS snap controller that checks snap eligibility, shows snap previews, and commits snaps using a PhantomWindowController.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /chromeos/ui/frame/caption_buttons/snap_controller.h
+// ---
+
 #ifndef ASH_FRAME_SNAP_CONTROLLER_IMPL_H_
 #define ASH_FRAME_SNAP_CONTROLLER_IMPL_H_
 

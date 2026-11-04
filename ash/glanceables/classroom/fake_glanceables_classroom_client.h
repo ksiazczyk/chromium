@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Glanceables Classroom client header
+// summary: Declares FakeGlanceablesClassroomClient, a test double of the classroom client that serves a configurable number of fake assignments.
+// relations:
+//   - implements /ash/glanceables/classroom/glanceables_classroom_client.h
+// ---
+
 #ifndef ASH_GLANCEABLES_CLASSROOM_FAKE_GLANCEABLES_CLASSROOM_CLIENT_H_
 #define ASH_GLANCEABLES_CLASSROOM_FAKE_GLANCEABLES_CLASSROOM_CLIENT_H_
 

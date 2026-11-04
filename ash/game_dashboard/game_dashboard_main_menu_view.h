@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard main menu view header
+// summary: Declares the bubble menu view attached to the game dashboard button, including recording, screenshot, and settings callbacks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/unified/feature_tile.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_MAIN_MENU_VIEW_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_MAIN_MENU_VIEW_H_
 

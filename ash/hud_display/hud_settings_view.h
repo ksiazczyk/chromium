@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HUD settings view class declaration
+// summary: Declares HUDSettingsView, a settings panel that observes tracing status changes and manages tracing, UI DevTools and cursor position controls.
+// relations:
+//   - depends_on /ash/hud_display/ash_tracing_manager.h
+//   - depends_on /ash/hud_display/hud_constants.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_HUD_SETTINGS_VIEW_H_
 #define ASH_HUD_DISPLAY_HUD_SETTINGS_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn request registrar class declaration
+// summary: Declares the Ash WebAuthnRequestRegistrarImpl class, which issues request ID callbacks for windows and looks up the window associated with a given request ID.
+// relations:
+//   - depends_on /base/sequence_checker.h
+//   - implements /chromeos/components/webauthn/webauthn_request_registrar.h
+//   - depends_on /ui/aura/window_tracker.h
+// ---
+
 #ifndef ASH_IN_SESSION_AUTH_WEBAUTHN_REQUEST_REGISTRAR_IMPL_H_
 #define ASH_IN_SESSION_AUTH_WEBAUTHN_REQUEST_REGISTRAR_IMPL_H_
 

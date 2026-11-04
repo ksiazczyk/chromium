@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multitask menu nudge controller unit tests
+// summary: Tests the multitask menu nudge controller in clamshell and tablet modes, including nudge bounds, dismissal timers and shown-count preferences.
+// relations:
+//   - tests /chromeos/ui/frame/multitask_menu/multitask_menu_nudge_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "chromeos/ui/frame/multitask_menu/multitask_menu_nudge_controller.h"
 
 #include "ash/constants/ash_features.h"

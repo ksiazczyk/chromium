@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HUD display view implementation
+// summary: Implements HUDDisplayView, which creates, toggles and destroys the HUD overlay widget and handles hit testing and layout of its parts.
+// relations:
+//   - depends_on /ash/hud_display/hud_display.h
+//   - implements /ash/hud_display/hud_display.h
+//   - depends_on /ash/fast_ink/view_tree_host_root_view.h
+// ---
+
 #include "ash/hud_display/hud_display.h"
 
 #include "ash/fast_ink/view_tree_host_root_view.h"

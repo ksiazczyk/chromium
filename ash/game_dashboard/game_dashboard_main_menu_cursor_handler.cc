@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard main menu cursor handler implementation
+// summary: Implements GameDashboardMainMenuCursorHandler, which locks and restores the cursor while the main menu is open and stops mouse events outside the frame header.
+// relations:
+//   - depends_on /ash/game_dashboard/game_dashboard_main_menu_cursor_handler.h
+//   - depends_on /ash/game_dashboard/game_dashboard_context.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_main_menu_cursor_handler.h"
 
 #include "ash/game_dashboard/game_dashboard_context.h"

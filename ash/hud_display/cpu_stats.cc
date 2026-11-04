@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU stats parsing from /proc/stat
+// summary: Implements reading and parsing of the aggregate CPU line from /proc/stat into a CpuStats structure for the HUD display.
+// relations:
+//   - implements /ash/hud_display/cpu_stats.h
+//   - depends_on /base/check.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #include "ash/hud_display/cpu_stats.h"
 
 #include <array>

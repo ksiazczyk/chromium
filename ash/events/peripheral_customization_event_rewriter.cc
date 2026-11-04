@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peripheral customization event rewriter implementation
+// summary: Implements event rewriting for mouse and graphics tablet button remapping, mapping buttons to customizable shortcut actions.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/events/event_rewriter_controller_impl.h
+// ---
+
 #include <linux/input.h>
 
 #include <algorithm>

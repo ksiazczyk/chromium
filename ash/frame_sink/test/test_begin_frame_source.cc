@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBeginFrameSource implementation
+// summary: Implements a fake viz BeginFrameSource holding a single observer and a helper that creates valid BeginFrameArgs for tests.
+// relations:
+//   - implements /ash/frame_sink/test/test_begin_frame_source.h
+//   - depends_on /base/check.h
+//   - depends_on /components/viz/common/frame_sinks/begin_frame_source.h
+// ---
+
 #include "ash/frame_sink/test/test_begin_frame_source.h"
 #include "base/check.h"
 #include "components/viz/common/frame_sinks/begin_frame_source.h"

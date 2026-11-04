@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerewrittenEventForwarder header
+// summary: Declares an event rewriter that supplies raw key events to observer clients before any subsequent event rewrites occur.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/observer_list.h
+//   - depends_on /ui/events/event.h
+// ---
+
 #ifndef ASH_EVENTS_PREREWRITTEN_EVENT_FORWARDER_H_
 #define ASH_EVENTS_PREREWRITTEN_EVENT_FORWARDER_H_
 

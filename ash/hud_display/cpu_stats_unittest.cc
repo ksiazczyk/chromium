@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CpuStats unit test
+// summary: Unit test verifying that ReadProcStatCPU correctly parses an aggregate CPU line from a temporary proc stat file.
+// relations:
+//   - tests /ash/hud_display/cpu_stats.h
+//   - depends_on /base/files/file_path.h
+//   - depends_on /base/files/file_util.h
+// ---
+
 #include "ash/hud_display/cpu_stats.h"
 
 #include <string_view>

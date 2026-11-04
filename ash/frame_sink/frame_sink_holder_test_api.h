@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameSinkHolder test API declaration
+// summary: Declares FrameSinkHolderTestApi, giving unit tests read access to FrameSinkHolder internals like pending frames and exported resources.
+// relations:
+//   - depends_on /base/containers/flat_set.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /components/viz/common/resources/resource_id.h
+// ---
+
 #ifndef ASH_FRAME_SINK_FRAME_SINK_HOLDER_TEST_API_H_
 #define ASH_FRAME_SINK_FRAME_SINK_HOLDER_TEST_API_H_
 

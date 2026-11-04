@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test app window example header
+// summary: Declares OpenTestAppWindow, which opens a test window with modifiable capabilities and optional client-controlled state similar to ARC++.
+// ---
+
 #ifndef ASH_EXAMPLES_TEST_APP_WINDOW_H_
 #define ASH_EXAMPLES_TEST_APP_WINDOW_H_
 

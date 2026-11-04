@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HUD header view implementation
+// summary: Implements the HUD header, drawing rounded backgrounds, the tab strip and the underlined settings button.
+// relations:
+//   - depends_on /ash/hud_display/hud_header_view.h
+//   - depends_on /ash/hud_display/hud_constants.h
+//   - depends_on /ash/hud_display/hud_display.h
+// ---
+
 #include "ash/hud_display/hud_header_view.h"
 
 #include <utility>

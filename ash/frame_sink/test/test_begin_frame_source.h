@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBeginFrameSource header
+// summary: Declares a fake BeginFrameSource test helper for asynchronously requesting frames in FrameSinkHost tests, with usage examples.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /components/viz/common/display/display_scheduler_draw_result.h
+//   - depends_on /components/viz/common/frame_sinks/begin_frame_args.h
+// ---
+
 #ifndef ASH_FRAME_SINK_TEST_TEST_BEGIN_FRAME_SOURCE_H_
 #define ASH_FRAME_SINK_TEST_TEST_BEGIN_FRAME_SOURCE_H_
 

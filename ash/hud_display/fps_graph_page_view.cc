@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FPS graph page view implementation
+// summary: Implements the HUD page that draws frame rate and refresh rate graphs from compositor presentation feedback with legend entries.
+// relations:
+//   - implements /ash/hud_display/fps_graph_page_view.h
+//   - depends_on /ash/hud_display/hud_constants.h
+//   - depends_on /ash/hud_display/reference_lines.h
+// ---
+
 #include "ash/hud_display/fps_graph_page_view.h"
 
 #include <algorithm>

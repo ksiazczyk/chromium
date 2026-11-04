@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash frame sink utilities implementation
+// summary: Implements Ash frame sink helpers that get the shared raster context provider, acquire pooled SharedImage-backed resources, and export them into compositor frames.
+// relations:
+//   - implements /ash/frame_sink/frame_sink_utils.h
+//   - depends_on /components/viz/common/gpu/raster_context_provider.h
+// ---
+
 #include "ash/frame_sink/frame_sink_utils.h"
 
 #include <string_view>

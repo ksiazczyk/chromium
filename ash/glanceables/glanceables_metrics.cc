@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceables metrics recording implementation
+// summary: Implements histogram and user action recording for tasks and classroom glanceables, including show times and user interactions.
+// relations:
+//   - implements /ash/glanceables/glanceables_metrics.h
+//   - depends_on /ash/glanceables/classroom/glanceables_classroom_student_view.h
+//   - depends_on /base/metrics/histogram_functions.h
+// ---
+
 #include "ash/glanceables/glanceables_metrics.h"
 
 #include <string>

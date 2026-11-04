@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graphs container view implementation
+// summary: Implements the view hosting the memory, CPU and FPS graph pages and refreshes their data from a DataSource snapshot every 500 ms on a thread pool.
+// relations:
+//   - depends_on /ash/hud_display/graphs_container_view.h
+//   - depends_on /ash/hud_display/cpu_graph_page_view.h
+//   - depends_on /ash/hud_display/fps_graph_page_view.h
+// ---
+
 #include "ash/hud_display/graphs_container_view.h"
 
 #include <numeric>

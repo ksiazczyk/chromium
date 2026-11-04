@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventCapturer implementation
+// summary: Implements a test event handler that records key, mouse, touch and wheel events for inspection in ash unit tests, with loop guards.
+// relations:
+//   - implements /ash/events/test_event_capturer.h
+//   - depends_on /base/logging.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/events/test_event_capturer.h"
 
 #include "base/logging.h"

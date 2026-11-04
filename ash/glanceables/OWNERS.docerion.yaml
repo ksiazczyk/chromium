@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the glanceables directory
+summary: Lists the owners responsible for reviewing changes in the ash glanceables directory.

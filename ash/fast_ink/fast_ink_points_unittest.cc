@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastInkPoints unit tests
+// summary: Unit tests verifying the FastInkPoints collection, covering point addition, bounding boxes, gaps, undo, expiration and point prediction behavior.
+// relations:
+//   - tests /ash/fast_ink/fast_ink_points.h
+//   - depends_on /base/time/time.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/fast_ink/fast_ink_points.h"
 #include "base/time/time.h"
 #include "testing/gtest/include/gtest/gtest.h"

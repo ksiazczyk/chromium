@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory status implementation
+// summary: Reads /proc and cgroup files to collect total, free, browser, renderer, ARC and GPU memory counters for the HUD display.
+// relations:
+//   - implements /ash/hud_display/memory_status.h
+//   - depends_on /base/files/file_util.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/hud_display/memory_status.h"
 
 #include <unistd.h>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Laser pointer controller header
+// summary: Declares the LaserPointerController class and LaserPointerObserver interface for enabling, disabling, and observing the laser pointer feature in Ash.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/fast_ink/fast_ink_pointer_controller.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_FAST_INK_LASER_LASER_POINTER_CONTROLLER_H_
 #define ASH_FAST_INK_LASER_LASER_POINTER_CONTROLLER_H_
 

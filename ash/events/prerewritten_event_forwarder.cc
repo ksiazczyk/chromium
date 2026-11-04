@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerewrittenEventForwarder implementation
+// summary: Implements an event rewriter that notifies observers of non-repeat key events before any subsequent rewrites and forwards the event unchanged.
+// relations:
+//   - implements /ash/events/prerewritten_event_forwarder.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /base/check.h
+// ---
+
 #include "ash/events/prerewritten_event_forwarder.h"
 
 #include "ash/constants/ash_features.h"

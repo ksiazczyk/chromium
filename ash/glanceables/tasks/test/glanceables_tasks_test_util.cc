@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glanceables tasks test utility implementation
+// summary: Implements InitializeFakeTasksClient, which builds a FakeTasksClient preloaded with sample task lists and tasks for use in Glanceables tests.
+// relations:
+//   - implements /ash/glanceables/tasks/test/glanceables_tasks_test_util.h
+//   - depends_on /ash/api/tasks/fake_tasks_client.h
+//   - depends_on /ash/api/tasks/tasks_types.h
+// ---
+
 #include "ash/glanceables/tasks/test/glanceables_tasks_test_util.h"
 
 #include <memory>

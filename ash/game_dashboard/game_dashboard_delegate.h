@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard delegate interface
+// summary: Declares the GameDashboardDelegate interface through which GameDashboardController communicates with the browser for game checks, app names, UKM ids, and menus.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /services/metrics/public/cpp/ukm_source_id.h
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_DELEGATE_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_DELEGATE_H_
 

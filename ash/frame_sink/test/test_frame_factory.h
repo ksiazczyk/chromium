@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFrameFactory header
+// summary: Declares a test factory that creates compositor frames with configurable metadata and resources for frame sink tests.
+// relations:
+//   - depends_on /components/viz/common/frame_sinks/begin_frame_args.h
+//   - depends_on /components/viz/common/resources/resource_id.h
+//   - depends_on /ui/gfx/geometry/size.h
+// ---
+
 #ifndef ASH_FRAME_SINK_TEST_TEST_FRAME_FACTORY_H_
 #define ASH_FRAME_SINK_TEST_TEST_FRAME_FACTORY_H_
 

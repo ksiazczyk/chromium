@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlanceablesTaskView unit tests
+// summary: Unit tests for the task view, including due date formatting across time zones and strike-through styling after marking a task complete.
+// relations:
+//   - tests /ash/glanceables/tasks/glanceables_task_view.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ash/api/tasks/tasks_types.h
+// ---
+
 #include "ash/glanceables/tasks/glanceables_task_view.h"
 
 #include <memory>

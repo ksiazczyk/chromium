@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshWindowTreeHostPlatform class
+// summary: Declares the platform Ash window tree host and a scoped Ozone helper that enables unadjusted mouse events.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/host/ash_window_tree_host.h
+//   - depends_on /ash/host/transformer_helper.h
+// ---
+
 #ifndef ASH_HOST_ASH_WINDOW_TREE_HOST_PLATFORM_H_
 #define ASH_HOST_ASH_WINDOW_TREE_HOST_PLATFORM_H_
 

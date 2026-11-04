@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CpuGraphPageView class declaration
+// summary: Declares CpuGraphPageView, a graph page that renders stacked CPU usage graphs and updates them from data source snapshots.
+// relations:
+//   - depends_on /ash/hud_display/graph.h
+//   - depends_on /ash/hud_display/graph_page_view_base.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_CPU_GRAPH_PAGE_VIEW_H_
 #define ASH_HUD_DISPLAY_CPU_GRAPH_PAGE_VIEW_H_
 

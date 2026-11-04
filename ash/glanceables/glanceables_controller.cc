@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceables controller implementation
+// summary: Implements the root glanceables controller, managing client registration, user profile prefs, session changes, and bubble show metrics.
+// relations:
+//   - implements /ash/glanceables/glanceables_controller.h
+//   - depends_on /ash/api/tasks/tasks_client.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/glanceables/glanceables_controller.h"
 
 #include <utility>

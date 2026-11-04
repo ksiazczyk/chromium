@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectToSpeakEventHandler implementation
+// summary: Implements the event handler that captures and forwards touch, mouse and key events to the Select-to-Speak extension when it is enabled.
+// relations:
+//   - implements /ash/events/select_to_speak_event_handler.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/accessibility_event_handler_manager.h
+// ---
+
 #include "ash/events/select_to_speak_event_handler.h"
 
 #include "ash/accessibility/accessibility_controller.h"

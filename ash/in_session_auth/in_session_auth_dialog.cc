@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-Session Auth Dialog Implementation
+// summary: Creates and positions the frameless authentication dialog widget over the parent window for anti-spoofing.
+// relations:
+//   - implements /ash/in_session_auth/in_session_auth_dialog.h
+//   - depends_on /ash/in_session_auth/auth_dialog_contents_view.h
+// ---
+
 #include "ash/in_session_auth/in_session_auth_dialog.h"
 
 #include <cstdint>

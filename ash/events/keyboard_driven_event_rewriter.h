@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard driven event rewriter class declaration
+// summary: Declares the rewriter that removes modifier flags from Shift+arrow, Enter, and F6 key events on the login screen.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ui/events/event_rewriter.h
+// ---
+
 #ifndef ASH_EVENTS_KEYBOARD_DRIVEN_EVENT_REWRITER_H_
 #define ASH_EVENTS_KEYBOARD_DRIVEN_EVENT_REWRITER_H_
 

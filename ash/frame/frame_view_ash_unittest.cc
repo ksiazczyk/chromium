@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameViewAsh unit tests
+// summary: Unit tests for FrameViewAsh covering immersive fullscreen, frame colors, window constraints, overview and split view interactions.
+// relations:
+//   - tests /ash/frame/frame_view_ash.h
+//   - depends_on /chromeos/ui/frame/default_frame_header.h
+//   - depends_on /chromeos/ui/frame/immersive/immersive_fullscreen_controller.h
+// ---
+
 #include "ash/frame/frame_view_ash.h"
 
 #include <memory>

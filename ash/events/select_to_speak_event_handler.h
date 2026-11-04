@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectToSpeakEventHandler header
+// summary: Declares the event handler that sends touch, mouse and key events to the Select-to-Speak extension via its delegate, with its capture state machine.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/events/event.h
+// ---
+
 #ifndef ASH_EVENTS_SELECT_TO_SPEAK_EVENT_HANDLER_H_
 #define ASH_EVENTS_SELECT_TO_SPEAK_EVENT_HANDLER_H_
 

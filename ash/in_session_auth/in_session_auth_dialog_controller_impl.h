@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-session auth dialog controller header
+// summary: Declares the in-session auth dialog controller implementation, which shows the auth dialog and reports authentication success, failure, and cancellation to callers.
+// relations:
+//   - depends_on /ash/in_session_auth/in_session_auth_dialog_contents_view.h
+//   - implements /ash/public/cpp/in_session_auth_dialog_controller.h
+//   - depends_on /ash/public/cpp/in_session_auth_token_provider.h
+// ---
+
 #ifndef ASH_IN_SESSION_AUTH_IN_SESSION_AUTH_DIALOG_CONTROLLER_IMPL_H_
 #define ASH_IN_SESSION_AUTH_IN_SESSION_AUTH_DIALOG_CONTROLLER_IMPL_H_
 

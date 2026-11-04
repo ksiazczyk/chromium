@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesContentsScrollView implementation
+// summary: Implements the scroll view for glanceables bubble contents, with a rounded scrollbar, overscroll detection per tasks or classroom context, and scroll locking after overscroll.
+// relations:
+//   - implements /ash/glanceables/common/glanceables_contents_scroll_view.h
+//   - depends_on /ash/controls/rounded_scroll_bar.h
+//   - depends_on /ash/glanceables/common/glanceables_time_management_bubble_view.h
+// ---
+
 #include "ash/glanceables/common/glanceables_contents_scroll_view.h"
 
 #include <limits>

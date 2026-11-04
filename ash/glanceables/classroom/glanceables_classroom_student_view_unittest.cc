@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glanceables Classroom student view unit tests
+// summary: Unit tests for the student view covering assignment list rendering, list switching, metrics, and footer behavior using a mocked classroom client.
+// relations:
+//   - tests /ash/glanceables/classroom/glanceables_classroom_student_view.h
+//   - depends_on /ash/glanceables/classroom/glanceables_classroom_client.h
+//   - depends_on /ash/glanceables/classroom/glanceables_classroom_types.h
+// ---
+
 #include "ash/glanceables/classroom/glanceables_classroom_student_view.h"
 
 #include <memory>

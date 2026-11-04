@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Laser pointer controller implementation
+// summary: Implements the Ash laser pointer controller that enables and disables the laser pointer, manages the pointer view lifecycle, hides and locks the cursor during gestures, and handles display changes.
+// relations:
+//   - implements /ash/fast_ink/laser/laser_pointer_controller.h
+//   - depends_on /ash/fast_ink/fast_ink_pointer_controller.h
+//   - depends_on /ash/fast_ink/laser/laser_pointer_view.h
+// ---
+
 #include "ash/fast_ink/laser/laser_pointer_controller.h"
 
 #include <memory>

@@ -1,3 +1,9 @@
+---
+type: readme
+title: In-Session User Authentication Dialog
+summary: Explains the Ash in-session authentication dialog, its WebAuthn use case, reuse goals and controller-based design.
+---
+
 # In-Session User Authentication Dialog
 
 This Ash dialog is for authenticating the user during a user session. The

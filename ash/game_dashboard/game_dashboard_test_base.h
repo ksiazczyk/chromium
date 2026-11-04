@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Game Dashboard test base header
+// summary: Declares the common AshTestBase-derived fixture and a window property observer used by Game Dashboard unittests.
+// relations:
+//   - depends_on /ash/game_dashboard/game_dashboard_context.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_TEST_BASE_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_TEST_BASE_H_
 

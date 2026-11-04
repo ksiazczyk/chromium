@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlanceablesTaskView pixel tests
+// summary: Parameterized pixel tests covering permutations of task view UI states such as RTL, due date, subtasks, notes, completion, edit state, and system blur.
+// relations:
+//   - tests /ash/glanceables/tasks/glanceables_task_view.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ash/api/tasks/tasks_types.h
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

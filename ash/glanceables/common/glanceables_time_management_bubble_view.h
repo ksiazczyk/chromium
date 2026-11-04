@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesTimeManagementBubbleView header
+// summary: Declares GlanceablesTimeManagementBubbleView, the bubble container for tasks and classroom glanceables with expand state, observers, and animation delegate handling.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/counter_expand_button.h
+//   - depends_on /ash/style/error_message_toast.h
+// ---
+
 #ifndef ASH_GLANCEABLES_COMMON_GLANCEABLES_TIME_MANAGEMENT_BUBBLE_VIEW_H_
 #define ASH_GLANCEABLES_COMMON_GLANCEABLES_TIME_MANAGEMENT_BUBBLE_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FPSGraphPageView class declaration
+// summary: Declares the FPS graph page that tracks presented frames per second and display refresh rate for HUD graphs.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ash/hud_display/graph.h
+//   - depends_on /ash/hud_display/graph_page_view_base.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_FPS_GRAPH_PAGE_VIEW_H_
 #define ASH_HUD_DISPLAY_FPS_GRAPH_PAGE_VIEW_H_
 

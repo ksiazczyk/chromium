@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped arrow key traversal controller header
+// summary: Declares a scoped template to enable or disable arrow key focus traversal, plus a query for whether traversal is enabled.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/auto_reset.h
+//   - depends_on /ui/views/focus/focus_manager_factory.h
+// ---
+
 #ifndef ASH_FOCUS_SCOPED_ARROW_KEY_TRAVERSAL_CONTROLLER_H_
 #define ASH_FOCUS_SCOPED_ARROW_KEY_TRAVERSAL_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash focus rules implementation
+// summary: Implements window activation and focus rules for the Ash shell, covering activatable containers, desks, lock screen, modal, minimized, and floated windows.
+// relations:
+//   - depends_on /ash/focus/ash_focus_rules.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/public/cpp/window_properties.h
+// ---
+
 #include "ash/focus/ash_focus_rules.h"
 
 #include <algorithm>

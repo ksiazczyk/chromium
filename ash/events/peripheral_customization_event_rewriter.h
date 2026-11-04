@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PeripheralCustomizationEventRewriter header
+// summary: Declares an event rewriter that recognizes mouse and graphics tablet events and rewrites them into user-configured key events for peripheral customization.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_metrics_manager.h
+//   - depends_on /base/containers/flat_map.h
+// ---
+
 #ifndef ASH_EVENTS_PERIPHERAL_CUSTOMIZATION_EVENT_REWRITER_H_
 #define ASH_EVENTS_PERIPHERAL_CUSTOMIZATION_EVENT_REWRITER_H_
 

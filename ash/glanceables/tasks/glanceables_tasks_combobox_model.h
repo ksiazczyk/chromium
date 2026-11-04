@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesTasksComboboxModel class declaration
+// summary: Declares the data model backing the tasks combobox used to switch between available task lists in the glanceable.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/models/combobox_model.h
+// ---
+
 #ifndef ASH_GLANCEABLES_TASKS_GLANCEABLES_TASKS_COMBOBOX_MODEL_H_
 #define ASH_GLANCEABLES_TASKS_GLANCEABLES_TASKS_COMBOBOX_MODEL_H_
 

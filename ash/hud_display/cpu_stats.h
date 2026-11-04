@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CpuStats struct and parsing API
+// summary: Declares the CpuStats struct with per-mode CPU time fields from /proc/stat and functions to read and parse the aggregate CPU line.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_CPU_STATS_H_
 #define ASH_HUD_DISPLAY_CPU_STATS_H_
 

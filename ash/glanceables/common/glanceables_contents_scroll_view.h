@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesContentsScrollView header
+// summary: Declares GlanceablesContentsScrollView, a views::ScrollView subclass with overscroll callbacks, scroll locking, and test hooks for glanceables bubbles.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/glanceables/common/glanceables_time_management_bubble_view.h
+//   - depends_on /ui/views/controls/scroll_view.h
+// ---
+
 #ifndef ASH_GLANCEABLES_COMMON_GLANCEABLES_CONTENTS_SCROLL_VIEW_H_
 #define ASH_GLANCEABLES_COMMON_GLANCEABLES_CONTENTS_SCROLL_VIEW_H_
 

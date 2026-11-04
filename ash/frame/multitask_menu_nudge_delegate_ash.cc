@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash multitask menu nudge delegate implementation
+// summary: Implements the Ash delegate that reads and writes multitask menu nudge shown counts and last shown times from the active profile's preferences.
+// relations:
+//   - implements /ash/frame/multitask_menu_nudge_delegate_ash.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/frame/multitask_menu_nudge_delegate_ash.h"
 
 #include "ash/constants/ash_pref_names.h"

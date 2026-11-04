@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory status class declaration
+// summary: Declares MemoryStatus, which aggregates per-process RSS and shared RSS counters matched by command-line flag or cgroup membership.
+// relations:
+//   - depends_on /base/containers/flat_set.h
+//   - depends_on /base/process/process_handle.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_MEMORY_STATUS_H_
 #define ASH_HUD_DISPLAY_MEMORY_STATUS_H_
 

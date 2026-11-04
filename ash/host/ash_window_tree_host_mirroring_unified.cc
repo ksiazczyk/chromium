@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshWindowTreeHostMirroringUnified implementation
+// summary: Implements the window tree host for mirroring displays in unified desktop mode, adjusting root transforms for local coordinate conversion.
+// relations:
+//   - implements /ash/host/ash_window_tree_host_mirroring_unified.h
+//   - depends_on /ash/host/ash_window_tree_host_delegate.h
+//   - depends_on /ui/gfx/geometry/point3_f.h
+// ---
+
 #include "ash/host/ash_window_tree_host_mirroring_unified.h"
 
 #include "ash/host/ash_window_tree_host_delegate.h"

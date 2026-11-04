@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard battery view implementation
+// summary: Implements the battery icon view that observes PowerStatus and updates its image, visibility, and accessibility name.
+// relations:
+//   - implements /ash/game_dashboard/game_dashboard_battery_view.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/style/ash_color_id.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_battery_view.h"
 
 #include <string>

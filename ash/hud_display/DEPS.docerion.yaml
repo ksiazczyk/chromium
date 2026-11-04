@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the hud_display directory
+summary: Defines allowed include paths for the ash/hud_display directory, permitting the tracing public APIs and Perfetto tracing headers.

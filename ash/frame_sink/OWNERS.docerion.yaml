@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the frame_sink directory
+summary: Lists the Chromium developers responsible for reviewing changes in the ash/frame_sink directory.

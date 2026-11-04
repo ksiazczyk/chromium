@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the glanceables directory
+summary: Defines include rules allowing the glanceables directory to depend on chromeos/ash/components/settings.

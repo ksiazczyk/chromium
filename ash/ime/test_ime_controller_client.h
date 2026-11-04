@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake IME controller client declaration
+// summary: Declares TestImeControllerClient, a test double of ImeControllerClient that records calls and exposes counters for test assertions.
+// relations:
+//   - implements /ash/public/cpp/ime_controller_client.h
+// ---
+
 #ifndef ASH_IME_TEST_IME_CONTROLLER_CLIENT_H_
 #define ASH_IME_TEST_IME_CONTROLLER_CLIENT_H_
 

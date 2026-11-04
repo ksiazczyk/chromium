@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the fast_ink directory
+summary: Restricts includes in ash/fast_ink to cc, viz, and gpu command buffer dependencies.

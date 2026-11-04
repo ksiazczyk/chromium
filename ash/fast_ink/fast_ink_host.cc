@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastInkHost implementation for low-latency rendering
+// summary: Implements FastInkHost, managing GPU shared image buffers, scoped painting, and compositor frame submission for low-latency updates.
+// relations:
+//   - depends_on /ash/fast_ink/fast_ink_host.h
+//   - depends_on /ash/fast_ink/fast_ink_host_frame_utils.h
+//   - depends_on /ash/frame_sink/frame_sink_utils.h
+// ---
+
 #include "ash/fast_ink/fast_ink_host.h"
 
 #include <algorithm>

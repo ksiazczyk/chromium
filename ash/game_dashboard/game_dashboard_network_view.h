@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard network view header
+// summary: Declares an image view that observes network state and icon animation to show the current connection status.
+// relations:
+//   - depends_on /ash/system/network/network_icon_animation_observer.h
+//   - depends_on /ash/system/network/tray_network_state_observer.h
+//   - depends_on /ui/views/controls/image_view.h
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_NETWORK_VIEW_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_NETWORK_VIEW_H_
 

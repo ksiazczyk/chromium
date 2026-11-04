@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FastInkHost frame submission
+// summary: Parameterized tests verifying that FastInkHost submits correct texture quads to the layer tree frame sink in auto-update and manual modes.
+// relations:
+//   - tests /ash/fast_ink/fast_ink_host.h
+//   - depends_on /ash/fast_ink/fast_ink_host_test_api.h
+//   - depends_on /ash/frame_sink/test/frame_sink_host_test_base.h
+// ---
+
 #include "ash/fast_ink/fast_ink_host.h"
 
 #include <memory>

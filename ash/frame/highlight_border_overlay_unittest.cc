@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Highlight border overlay unit tests
+// summary: Verifies highlight border overlay visibility in clamshell and tablet modes, including fullscreen, floated and picture-in-picture windows.
+// relations:
+//   - tests /chromeos/ui/frame/highlight_border_overlay.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ash/wm/tablet_mode/tablet_mode_controller_test_api.h
+// ---
+
 #include "chromeos/ui/frame/highlight_border_overlay.h"
 
 #include <memory>

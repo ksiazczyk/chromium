@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastInkPoints header
+// summary: Declares the FastInkPoints helper class that stores points representing trajectory segments for displaying low-latency palette tools.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/circular_deque.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_FAST_INK_FAST_INK_POINTS_H_
 #define ASH_FAST_INK_FAST_INK_POINTS_H_
 

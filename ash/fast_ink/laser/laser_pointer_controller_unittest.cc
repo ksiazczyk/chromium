@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Laser pointer controller unit tests
+// summary: Unit tests for the laser pointer controller verifying touch and mouse gesture behavior, point tracking, fade out, and enable and disable state changes.
+// relations:
+//   - tests /ash/fast_ink/laser/laser_pointer_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/constants/ash_switches.h
+// ---
+
 #include "ash/fast_ink/laser/laser_pointer_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

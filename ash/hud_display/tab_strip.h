@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HUD tab strip class declarations
+// summary: Declares HUDTabButton, a styled label button for HUD display modes, and HUDTabStrip, which manages and activates the tab buttons.
+// relations:
+//   - depends_on /ash/hud_display/hud_constants.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_TAB_STRIP_H_
 #define ASH_HUD_DISPLAY_TAB_STRIP_H_
 

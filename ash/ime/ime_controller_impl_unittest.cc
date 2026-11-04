@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Ash IME controller
+// summary: Unit tests covering IME list refresh, observer notifications, caps lock and keyboard layout state, and accelerator-based IME switching in ImeControllerImpl.
+// relations:
+//   - tests /ash/ime/ime_controller_impl.h
+//   - depends_on /ash/ime/mode_indicator_observer.h
+//   - depends_on /ash/ime/test_ime_controller_client.h
+// ---
+
 #include "ash/ime/ime_controller_impl.h"
 
 #include <vector>

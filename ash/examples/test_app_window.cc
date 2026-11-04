@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test app window example implementation
+// summary: Implements a test window whose capabilities such as app type, resizability and pinning can be modified, including an optional client-controlled state mode.
+// relations:
+//   - implements /ash/examples/test_app_window.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/utility/client_controlled_state_util.h
+// ---
+
 #include "ash/examples/test_app_window.h"
 
 #include <memory>

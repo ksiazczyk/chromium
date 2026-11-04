@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Glanceables Classroom client implementation
+// summary: Implements a fake classroom client that returns configurable fake student assignments for exercising the glanceables UI in tests.
+// relations:
+//   - implements /ash/glanceables/classroom/fake_glanceables_classroom_client.h
+//   - depends_on /ash/glanceables/classroom/glanceables_classroom_types.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #include "ash/glanceables/classroom/fake_glanceables_classroom_client.h"
 
 #include <string>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake IME controller client for tests
+// summary: Provides a stub ImeControllerClient that counts IME switch, caps lock, keyset override, and mode indicator calls for use in tests.
+// relations:
+//   - depends_on /ash/ime/test_ime_controller_client.h
+// ---
+
 #include "ash/ime/test_ime_controller_client.h"
 
 #include <memory>
