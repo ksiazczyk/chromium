@@ -1,0 +1,4 @@
+# Docerion header of split_scene_right.icon.
+type: source
+title: Split scene right vector icon
+summary: Defines vector path data for the split-scene right layout glyph on a 24dp canvas used in Chromium's UI.

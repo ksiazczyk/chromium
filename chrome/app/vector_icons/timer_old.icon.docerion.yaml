@@ -1,0 +1,4 @@
+# Docerion header of timer_old.icon.
+type: asset
+title: Timer icon (old variant)
+summary: Vector icon definition that draws the older timer glyph on a 16dp canvas.

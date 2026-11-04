@@ -1,0 +1,4 @@
+# Docerion header of app_shim_application.mm.
+type: source
+title: AppShimApplication implementation
+summary: Implements the app shim application class, tracking VoiceOver and accessibility changes to notify the browser process.

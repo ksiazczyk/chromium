@@ -1,0 +1,4 @@
+# Docerion header of zoom_out_map.icon.
+type: source
+title: Zoom out map vector icon
+summary: Defines the path data for the zoom-out map vector icon with inward-pointing corner arrows on a 20dp canvas.

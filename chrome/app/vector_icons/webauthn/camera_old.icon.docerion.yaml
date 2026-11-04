@@ -1,0 +1,4 @@
+# Docerion header of camera_old.icon.
+type: asset
+title: Legacy camera vector icon
+summary: Older camera icon definition kept alongside the current WebAuthn vector icons.

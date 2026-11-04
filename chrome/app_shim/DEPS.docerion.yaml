@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App shim include rules
+summary: Lists the header include dependencies allowed for code in the app_shim directory, with extra rules for browser tests.

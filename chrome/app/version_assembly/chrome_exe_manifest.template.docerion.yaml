@@ -1,0 +1,4 @@
+# Docerion header of chrome_exe_manifest.template.
+type: config
+title: Chrome exe manifest template
+summary: XML manifest template declaring chrome.exe's dependency on the versioned assembly, with @MAJOR@-style placeholders filled in at build time.

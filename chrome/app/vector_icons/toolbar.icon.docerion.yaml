@@ -1,0 +1,4 @@
+# Docerion header of toolbar.icon.
+type: asset
+title: Toolbar icon
+summary: Vector icon definition that draws a toolbar glyph on a 16dp canvas.

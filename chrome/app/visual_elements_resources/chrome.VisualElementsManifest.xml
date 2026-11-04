@@ -1,3 +1,9 @@
+<!--docerion
+type: config
+title: Chrome Visual Elements Manifest
+summary: Windows Visual Elements manifest copied by chrome.exe in developer builds, defining Start menu tile background color, text style, and logo images.
+-->
+
 <!-- This is only meant to be copied by chrome.exe in developer builds. -->
 <Application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <VisualElements

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chrome Version Assembly
+summary: Explains how Chrome's version directory is turned into a private Windows assembly so chrome.exe can load DLLs such as chrome_elf.dll from it.
+---
+
 Chrome Version Assembly
 
 The chrome version assembly makes it possible for load-time dependencies of

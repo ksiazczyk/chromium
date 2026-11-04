@@ -1,0 +1,4 @@
+# Docerion header of app_shim_delegate.mm.
+type: source
+title: AppShimDelegate implementation
+summary: Implements handling of app launch, file and URL opening, dock menus, command dispatch, and termination events for the app shim.

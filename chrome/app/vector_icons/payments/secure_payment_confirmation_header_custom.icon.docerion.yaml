@@ -1,0 +1,4 @@
+# Docerion header of secure_payment_confirmation_header_custom.icon.
+type: asset
+title: Secure payment confirmation header icon, custom color
+summary: Defines the vector paths, canvas dimensions, and light-theme colors for the secure payment confirmation header illustration used in Chromium's payment UI.

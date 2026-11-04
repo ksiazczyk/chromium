@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: App shim common metadata
+summary: Sets the Monorail component, team email, and public Buganizer component used for issues in this directory.

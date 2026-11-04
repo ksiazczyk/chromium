@@ -1,0 +1,4 @@
+# Docerion header of passkey_fingerprint_custom.icon.
+type: asset
+title: Passkey fingerprint icon (light theme)
+summary: Vector icon definition of a fingerprint graphic for the passkey UI, drawn with Chromium icon path commands in light theme colors.

@@ -1,0 +1,4 @@
+# Docerion header of zoom_out.icon.
+type: source
+title: Zoom out vector icon
+summary: Defines the path data for the zoom-out magnifier vector icon on a 24dp canvas used in Chromium UI.

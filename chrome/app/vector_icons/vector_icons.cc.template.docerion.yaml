@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.cc.template.
+type: source
+title: Template for generating vector_icons.cc
+summary: C++ template used to generate vector_icons.cc, declaring vector command aliases and a placeholder for icon definitions.

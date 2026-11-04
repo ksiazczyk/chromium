@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppShimRenderWidgetHostViewMacDelegate header
+// summary: Declares the render widget host view delegate that the app shim installs for renderer view event handling.
+// ---
+
 #ifndef CHROME_APP_SHIM_APP_SHIM_RENDER_WIDGET_HOST_VIEW_MAC_DELEGATE_H_
 #define CHROME_APP_SHIM_APP_SHIM_RENDER_WIDGET_HOST_VIEW_MAC_DELEGATE_H_
 

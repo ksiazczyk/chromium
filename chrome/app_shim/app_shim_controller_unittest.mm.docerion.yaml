@@ -1,0 +1,4 @@
+# Docerion header of app_shim_controller_unittest.mm.
+type: test
+title: AppShimController unit tests
+summary: Unit tests covering early feature state initialization from the command line and from persisted feature state files.

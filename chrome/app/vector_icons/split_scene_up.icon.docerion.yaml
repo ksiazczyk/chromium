@@ -1,0 +1,4 @@
+# Docerion header of split_scene_up.icon.
+type: source
+title: Split scene up vector icon
+summary: Defines vector path data for the split-scene up layout glyph on a 24dp canvas used in Chromium's UI.
