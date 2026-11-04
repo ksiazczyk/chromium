@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spell check panel host implementation
+// summary: Implements the browser-side SpellCheckPanelHost Mojo interface that shows the spelling panel and updates it with the misspelled word, with a test-overridable binder.
+// ---
+
 #include "chrome/browser/spellchecker/spell_check_panel_host_impl.h"
 
 #include "base/functional/bind.h"

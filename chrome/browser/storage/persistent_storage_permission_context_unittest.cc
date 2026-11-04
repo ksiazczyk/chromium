@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the persistent storage permission context
+// summary: Unit tests covering persistent storage permission decisions, including bookmarked, important and non-bookmarked origins, using a test harness profile.
+// ---
+
 #include "chrome/browser/storage/persistent_storage_permission_context.h"
 
 #include <memory>

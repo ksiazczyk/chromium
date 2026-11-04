@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage notification service factory
+// summary: Profile-keyed service factory that builds and provides the storage notification service implementation per browser context.
+// ---
+
 #include "chrome/browser/storage/storage_notification_service_factory.h"
 
 #include "chrome/common/chrome_features.h"

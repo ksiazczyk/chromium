@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition browser tests
+// summary: Browser tests for Chrome speech recognition that inject a fake speech recognition manager and verify render frame checks and recognition behavior.
+// ---
+
 #include <memory>
 
 #include "base/strings/utf_string_conversions.h"

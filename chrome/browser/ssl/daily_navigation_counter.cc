@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Daily navigation counter implementation
+// summary: Implements a rolling-window counter of daily navigations that persists counts to a backing dictionary for HTTPS-First Mode heuristics.
+// ---
+
 #include "chrome/browser/ssl/daily_navigation_counter.h"
 
 #include "base/strings/stringprintf.h"

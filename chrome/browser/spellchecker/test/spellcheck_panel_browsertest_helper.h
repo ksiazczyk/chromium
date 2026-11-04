@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spellcheck panel browser test helper declaration
+// summary: Declares a browser test helper that redirects SpellCheckPanelHost bindings to mock hosts and can wait until a binding occurs.
+// ---
+
 #ifndef CHROME_BROWSER_SPELLCHECKER_TEST_SPELLCHECK_PANEL_BROWSERTEST_HELPER_H_
 #define CHROME_BROWSER_SPELLCHECKER_TEST_SPELLCHECK_PANEL_BROWSERTEST_HELPER_H_
 

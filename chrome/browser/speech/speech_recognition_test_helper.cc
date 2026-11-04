@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition test helper implementation
+// summary: Implements test infrastructure that sets up fake network or on-device speech recognition and waits for recognition start, stop, results and errors.
+// ---
+
 #include "chrome/browser/speech/speech_recognition_test_helper.h"
 
 #include "ash/constants/ash_features.h"

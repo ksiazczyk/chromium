@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cert verifier platform browser test base implementation
+// summary: Implements the platform-agnostic browser test base that wires a mock certificate verifier into command line and browser test fixture setup and teardown.
+// ---
+
 #include "chrome/browser/ssl/cert_verifier_platform_browser_test.h"
 
 CertVerifierPlatformBrowserTest::CertVerifierPlatformBrowserTest() = default;

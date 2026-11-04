@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for persistent storage permissions
+// summary: Browser tests verifying persistent storage permission queries, requests and grants for bookmarked and non-bookmarked pages.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

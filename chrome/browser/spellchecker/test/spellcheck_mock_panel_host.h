@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock spellcheck panel host declaration
+// summary: Declares a mock SpellCheckPanelHost Mojo receiver that tracks spelling panel visibility and binds receivers for renderer processes in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SPELLCHECKER_TEST_SPELLCHECK_MOCK_PANEL_HOST_H_
 #define CHROME_BROWSER_SPELLCHECKER_TEST_SPELLCHECK_MOCK_PANEL_HOST_H_
 

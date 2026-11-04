@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-First Mode variant radio preference
+// summary: Radio button group preference shown when HTTPS-First Mode is enabled, letting users choose between Balanced and Strict modes.
+// ---
+
 package org.chromium.chrome.browser.ssl;
 
 import android.content.Context;

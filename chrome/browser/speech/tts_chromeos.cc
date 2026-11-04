@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS TTS platform implementation
+// summary: Implements the Chrome OS text-to-speech platform, routing speech through ARC and extension-based voices with SSML parsing and voice handling.
+// ---
+
 #include "chrome/browser/speech/tts_chromeos.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hunspell dictionary implementation
+// summary: Implements browser-side Hunspell dictionary loading, saving, and downloading of dictionary files, with platform checker fallback support.
+// ---
+
 #include "chrome/browser/spellchecker/spellcheck_hunspell_dictionary.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CRLSet revocation browser tests
+// summary: Browser tests checking that CRLSets block revoked certificates and that MITM interception certificates trigger the known interception interstitial.
+// ---
+
 #include "base/containers/span.h"
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"

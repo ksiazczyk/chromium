@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCT Reporting Service Factory
+// summary: Profile-keyed service factory that creates the SCTReportingService instance tied to the Safe Browsing service.
+// ---
+
 #include "chrome/browser/ssl/sct_reporting_service_factory.h"
 
 #include "base/functional/callback_helpers.h"

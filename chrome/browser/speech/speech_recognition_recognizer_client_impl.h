@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition recognizer client header
+// summary: Declares the SpeechRecognizer wrapper that simplifies using on-device speech recognition from the browser process on Ash Chrome.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_SPEECH_RECOGNITION_RECOGNIZER_CLIENT_IMPL_H_
 #define CHROME_BROWSER_SPEECH_SPEECH_RECOGNITION_RECOGNIZER_CLIENT_IMPL_H_
 

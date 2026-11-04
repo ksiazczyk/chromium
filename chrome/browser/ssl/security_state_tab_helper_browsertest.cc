@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security state tab helper browser tests
+// summary: Browser test suite exercising Chrome's security state tab helper, covering certificate errors, interstitials and HTTPS upgrade behavior.
+// ---
+
 #include <algorithm>
 #include <optional>
 

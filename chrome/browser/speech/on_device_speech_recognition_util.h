@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device speech recognition utility declarations
+// summary: Declares synchronous and asynchronous helpers that return the on-device speech recognition availability status for a language code and quality in the browser process.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_ON_DEVICE_SPEECH_RECOGNITION_UTIL_H_
 #define CHROME_BROWSER_SPEECH_ON_DEVICE_SPEECH_RECOGNITION_UTIL_H_
 

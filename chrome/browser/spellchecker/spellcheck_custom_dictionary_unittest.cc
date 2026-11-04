@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom spellcheck dictionary unit tests
+// summary: Unit tests covering custom dictionary file loading and updating, word validation, metrics, and sync behavior.
+// ---
+
 #include "chrome/browser/spellchecker/spellcheck_custom_dictionary.h"
 
 #include <stddef.h>

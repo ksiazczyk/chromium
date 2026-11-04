@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDeviceLiveCaptionRecognizer implementation
+// summary: Implements the browser-side Live Caption recognizer that validates and forwards renderer audio to the on-device model service and delivers transcription results back to the client.
+// ---
+
 #include "chrome/browser/speech/on_device_live_caption_recognizer.h"
 
 #include <algorithm>

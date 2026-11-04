@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows browser test for SpellCheckHostChromeImpl
+// summary: In-process browser test verifying dictionary initialization, spell check results, and suggestion lists through SpellCheckHostChromeImpl on Windows.
+// ---
+
 #include "chrome/browser/spellchecker/spell_check_host_chrome_impl.h"
 
 #include <memory>

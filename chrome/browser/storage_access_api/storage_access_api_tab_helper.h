@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage Access API tab helper header
+// summary: Declares StorageAccessAPITabHelper, a WebContentsObserver that forwards subframe user activation events to the Storage Access API service for grant renewal.
+// ---
+
 #ifndef CHROME_BROWSER_STORAGE_ACCESS_API_STORAGE_ACCESS_API_TAB_HELPER_H_
 #define CHROME_BROWSER_STORAGE_ACCESS_API_STORAGE_ACCESS_API_TAB_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the speech extension API folder
+summary: Points the directory metadata at the ChromeOS TTS services mixins for team and component routing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage Access grant permission context unit tests
+// summary: Unit tests covering permission decision logic, first-party set and implicit grants, prompt outcomes, and DWA metrics for the Storage Access API permission context.
+// ---
+
 #include "chrome/browser/storage_access_api/storage_access_grant_permission_context.h"
 
 #include <memory>

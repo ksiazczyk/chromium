@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopNotificationBalloon implementation
+// summary: Implements DisplayBalloon, showing status icon notifications through the profile's notification display service with unique prefixed ids.
+// ---
+
 #include "chrome/browser/status_icons/desktop_notification_balloon.h"
 
 #include <stddef.h>

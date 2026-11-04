@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cert verifier platform browser test header
+// summary: Declares a platform-agnostic browser test class letting tests force certificate verification results via a mock cert verifier in browser_tests and android_browsertests.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_CERT_VERIFIER_PLATFORM_BROWSER_TEST_H_
 #define CHROME_BROWSER_SSL_CERT_VERIFIER_PLATFORM_BROWSER_TEST_H_
 

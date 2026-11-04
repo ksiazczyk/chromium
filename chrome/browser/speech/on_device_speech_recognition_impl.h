@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDeviceSpeechRecognitionImpl class declaration
+// summary: Declares the DocumentUserData-backed OnDeviceSpeechRecognition Mojo service that reports language availability, installs language packs and observes SODA installer events.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_ON_DEVICE_SPEECH_RECOGNITION_IMPL_H_
 #define CHROME_BROWSER_SPEECH_ON_DEVICE_SPEECH_RECOGNITION_IMPL_H_
 

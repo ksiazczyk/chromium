@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error controller client implementation
+// summary: Implements Chrome-specific actions for SSL interstitial pages, such as proceeding, going back, and opening the certificate viewer.
+// ---
+
 #include "chrome/browser/ssl/ssl_error_controller_client.h"
 
 #include <string>

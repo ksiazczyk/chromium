@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition service factory unit tests
+// summary: Unit test verifying that the speech recognition service factory provides a non-null service for incognito profiles, with ChromeOS feature setup.
+// ---
+
 #include "chrome/browser/speech/speech_recognition_service_factory.h"
 
 #include "build/build_config.h"

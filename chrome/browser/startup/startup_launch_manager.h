@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup launch manager interface
+// summary: Declares the StartupLaunchManager class, its client API and the launch reason enum used to register Chrome with the OS for startup launch.
+// ---
+
 #ifndef CHROME_BROWSER_STARTUP_STARTUP_LAUNCH_MANAGER_H_
 #define CHROME_BROWSER_STARTUP_STARTUP_LAUNCH_MANAGER_H_
 

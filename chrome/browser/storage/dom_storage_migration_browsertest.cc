@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for DOM storage LevelDB to SQLite migration
+// summary: End-to-end browser test exercising the DOM storage migration from LevelDB to SQLite for local and session storage across browser restarts.
+// ---
+
 #include <string>
 #include <string_view>
 #include <vector>

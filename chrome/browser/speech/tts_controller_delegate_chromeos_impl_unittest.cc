@@ -4,6 +4,12 @@
 
 // Unit tests for the TTS Controller.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome OS TTS controller delegate
+// summary: Unit tests verifying utterance default handling and preferred voice resolution in the Chrome OS TTS controller delegate.
+// ---
+
 #include "chrome/browser/speech/tts_controller_delegate_chromeos_impl.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS TTS engine extension observer browser test
+// summary: Browser test verifying the ChromeOS TTS engine extension observer using a stub TTS service and audio stream fakes.
+// ---
+
 #include "chrome/browser/speech/extension_api/tts_engine_extension_observer_chromeos.h"
 
 #include <optional>

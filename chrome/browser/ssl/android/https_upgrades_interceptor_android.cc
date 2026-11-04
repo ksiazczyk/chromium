@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS upgrades interceptor Android JNI bindings
+// summary: JNI bindings exposing test-only HTTP and HTTPS port overrides of the HTTPS upgrades interceptor to Java code.
+// ---
+
 #include "chrome/browser/ssl/https_upgrades_interceptor.h"
 
 #include <stdint.h>

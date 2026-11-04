@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage Access API tab helper unit tests
+// summary: Unit tests with a mocked service verifying grant renewal is triggered for subframe activations but not for main frames, opaque origins, or credentialless frames.
+// ---
+
 #include "chrome/browser/storage_access_api/storage_access_api_tab_helper.h"
 
 #include "base/test/metrics/histogram_tester.h"

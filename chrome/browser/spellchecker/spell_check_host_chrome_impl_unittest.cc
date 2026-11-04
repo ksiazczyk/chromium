@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for custom word result filtering
+// summary: Unit tests verifying that corrections for custom dictionary words are filtered out of remote spelling service results while other corrections are retained.
+// ---
+
 #include "chrome/browser/spellchecker/spell_check_host_chrome_impl.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeSpeechRecognitionService header
+// summary: Declares FakeSpeechRecognitionService, a test double speech recognition service that creates FakeSpeechRecognizers and offers an observer interface for session assertions.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_FAKE_SPEECH_RECOGNITION_SERVICE_H_
 #define CHROME_BROWSER_SPEECH_FAKE_SPEECH_RECOGNITION_SERVICE_H_
 

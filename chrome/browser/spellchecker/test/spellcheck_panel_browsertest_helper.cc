@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spellcheck panel browser test helper implementation
+// summary: Implements a browser test helper that overrides the SpellCheckPanelHost binder for testing and creates mock panel hosts per renderer process.
+// ---
+
 #include "chrome/browser/spellchecker/test/spellcheck_panel_browsertest_helper.h"
 
 #include "base/functional/bind.h"

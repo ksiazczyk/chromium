@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition service factory implementation
+// summary: Implements the profile-keyed factory that builds a ChromeSpeechRecognitionService for each browser profile, including incognito, guest and Ash internals profiles.
+// ---
+
 #include "chrome/browser/speech/speech_recognition_service_factory.h"
 
 #include "base/no_destructor.h"

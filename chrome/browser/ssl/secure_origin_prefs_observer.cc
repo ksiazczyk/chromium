@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure origin prefs observer implementation
+// summary: Watches the insecure-origin-as-secure preference and updates the network secure origin allowlist, logging rejected patterns.
+// ---
+
 #include "chrome/browser/ssl/secure_origin_prefs_observer.h"
 
 #include <string>

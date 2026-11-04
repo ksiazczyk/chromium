@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the DOM storage migration browser test
+summary: Grants the DOM storage migration browser test an include exception for the DOM storage database header.

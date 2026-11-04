@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ask-before-HTTP dialog controller interactive UI tests
+// summary: Interactive browser tests covering the Ask-before-HTTP dialog across HTTPS-First Mode variants such as incognito, balanced mode, and isolated mode.
+// ---
+
 #include "chrome/browser/ssl/ask_before_http_dialog_controller.h"
 
 #include <algorithm>

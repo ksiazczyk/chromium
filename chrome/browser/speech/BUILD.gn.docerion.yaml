@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for Chrome browser speech recognition code
+summary: Defines source sets and conditional dependencies for the browser speech recognition and text-to-speech code.

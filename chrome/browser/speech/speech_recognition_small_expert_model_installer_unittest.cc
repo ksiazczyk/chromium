@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition small expert model installer unit tests
+// summary: Unit tests covering initial state, install progress, errors, retries and uninstall behavior of the speech recognition small expert model installer.
+// ---
+
 #include "chrome/browser/speech/speech_recognition_small_expert_model_installer.h"
 
 #include <memory>

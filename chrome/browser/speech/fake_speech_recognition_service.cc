@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeSpeechRecognitionService implementation
+// summary: Implements FakeSpeechRecognitionService, a test double that binds fake recognizers as self-owned receivers and notifies observers so tests can inspect recognition sessions.
+// ---
+
 #include "chrome/browser/speech/fake_speech_recognition_service.h"
 
 #include <memory>

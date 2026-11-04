@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome speech recognition service implementation
+// summary: Implements the browser-side mojo endpoint that launches and initializes the sandboxed speech recognition service, observing SODA installs.
+// ---
+
 #include "chrome/browser/speech/chrome_speech_recognition_service.h"
 
 #include <string>

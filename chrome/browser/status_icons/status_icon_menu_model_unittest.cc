@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StatusIconMenuModel unit tests
+// summary: Unit tests verifying toggling of checked, enabled and visible properties plus accelerator, label and icon changes with menu state change counts.
+// ---
+
 #include "chrome/browser/status_icons/status_icon_menu_model.h"
 
 #include "base/compiler_specific.h"

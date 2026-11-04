@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome speech recognition manager delegate implementation
+// summary: Implements Chrome's delegate for the content speech recognition manager, checking whether recognition is allowed for a session.
+// ---
+
 #include "chrome/browser/speech/chrome_speech_recognition_manager_delegate.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS TTS platform class header
+// summary: Declares TtsPlatformImplChromeOs, the Chrome OS TTS platform class that combines extension-based voices with native ARC text-to-speech.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_TTS_CHROMEOS_H_
 #define CHROME_BROWSER_SPEECH_TTS_CHROMEOS_H_
 

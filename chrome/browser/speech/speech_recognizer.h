@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognizer interface
+// summary: Defines the SpeechRecognizer interface for microphone-based speech recognition from the browser process, with Start and Stop methods reporting via a delegate.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_SPEECH_RECOGNIZER_H_
 #define CHROME_BROWSER_SPEECH_SPEECH_RECOGNIZER_H_
 

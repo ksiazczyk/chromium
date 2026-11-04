@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client certificate selector interface
+// summary: Declares ShowSSLClientCertificateSelector to open the client certificate dialog plus a test hook to substitute it.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_SSL_CLIENT_CERTIFICATE_SELECTOR_H_
 #define CHROME_BROWSER_SSL_SSL_CLIENT_CERTIFICATE_SELECTOR_H_
 

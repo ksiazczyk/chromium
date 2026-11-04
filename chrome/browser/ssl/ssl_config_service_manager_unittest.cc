@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL config service manager unit tests
+// summary: Unit tests covering SSL config construction from preferences, compliance settings, and trust anchor ID updates.
+// ---
+
 #include "chrome/browser/ssl/ssl_config_service_manager.h"
 
 #include <memory>

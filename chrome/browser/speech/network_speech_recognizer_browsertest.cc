@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkSpeechRecognizer browser tests
+// summary: Browser tests that verify NetworkSpeechRecognizer state transitions and recognition results using a fake speech recognition manager and a mock delegate.
+// ---
+
 #include "chrome/browser/speech/network_speech_recognizer.h"
 
 #include <stdint.h>

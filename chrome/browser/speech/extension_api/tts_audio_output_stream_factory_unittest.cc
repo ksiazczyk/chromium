@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTS audio output stream factory unit tests
+// summary: Unit tests verifying that output stream creation is forwarded to the audio service and unsupported requests report bad Mojo messages.
+// ---
+
 #include "chrome/browser/speech/extension_api/tts_audio_output_stream_factory.h"
 
 #include <memory>

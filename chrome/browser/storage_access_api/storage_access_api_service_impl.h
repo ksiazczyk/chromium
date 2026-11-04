@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage Access API service header
+// summary: Declares StorageAccessAPIServiceImpl, a KeyedService that renews Storage Access API permission grants and periodically clears the updated-grant cache.
+// ---
+
 #ifndef CHROME_BROWSER_STORAGE_ACCESS_API_STORAGE_ACCESS_API_SERVICE_IMPL_H_
 #define CHROME_BROWSER_STORAGE_ACCESS_API_STORAGE_ACCESS_API_SERVICE_IMPL_H_
 

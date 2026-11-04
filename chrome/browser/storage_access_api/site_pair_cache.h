@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SitePairCache class declaration
+// summary: Declares a cache of schemeful site pairs designed to avoid repeated origin-to-site conversions.
+// ---
+
 #ifndef CHROME_BROWSER_STORAGE_ACCESS_API_SITE_PAIR_CACHE_H_
 #define CHROME_BROWSER_STORAGE_ACCESS_API_SITE_PAIR_CACHE_H_
 

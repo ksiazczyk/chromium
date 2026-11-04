@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to the component owners
+summary: Points reviewers to components/strike_database/OWNERS so that directory inherits its ownership rules.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security state event observer implementation
+// summary: Records UKM for HTTPS form submissions and shows the known-interception disclosure dialog when a page loads with an intercepted certificate.
+// ---
+
 #include "chrome/browser/ssl/security_state_event_observer.h"
 
 #include "chrome/browser/ssl/chrome_security_state_util.h"

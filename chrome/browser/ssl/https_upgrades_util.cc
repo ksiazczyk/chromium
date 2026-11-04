@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS upgrades utilities implementation
+// summary: Implements helpers for the HTTP allowlist enterprise policy, interstitial state computation, and HTTPS-First Mode heuristics.
+// ---
+
 #include "chrome/browser/ssl/https_upgrades_util.h"
 
 #include "base/feature_list.h"

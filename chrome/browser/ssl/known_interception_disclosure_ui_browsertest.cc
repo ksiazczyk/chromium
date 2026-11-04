@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Known interception disclosure UI browser test
+// summary: Browser test verifying that the known interception disclosure WebUI page shows the expected tab title and body strings.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

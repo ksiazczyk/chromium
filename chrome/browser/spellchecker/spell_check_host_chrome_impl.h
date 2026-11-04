@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellCheckHostChromeImpl class declaration
+// summary: Declares the Chrome-specific SpellCheckHost Mojo implementation with platform-conditional APIs for the spelling service, dictionary initialization, and result filtering.
+// ---
+
 #ifndef CHROME_BROWSER_SPELLCHECKER_SPELL_CHECK_HOST_CHROME_IMPL_H_
 #define CHROME_BROWSER_SPELLCHECKER_SPELL_CHECK_HOST_CHROME_IMPL_H_
 

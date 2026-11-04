@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spellcheck service browser tests
+// summary: Browser tests exercising SpellcheckService initialization, dictionary handling and spellcheck behavior across platforms and feature flags.
+// ---
+
 #include "chrome/browser/spellchecker/spellcheck_service.h"
 
 #include <map>

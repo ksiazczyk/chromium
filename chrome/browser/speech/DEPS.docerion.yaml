@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Speech directory include rules
+summary: Declares allowed include paths for code in the chrome/browser/speech directory.

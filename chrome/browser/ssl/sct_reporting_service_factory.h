@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCT reporting service factory
+// summary: Declares SCTReportingServiceFactory, a profile-keyed service factory that provides the SCT reporting service for each browser context.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_SCT_REPORTING_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SSL_SCT_REPORTING_SERVICE_FACTORY_H_
 

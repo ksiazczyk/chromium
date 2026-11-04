@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS upgrades interceptor implementation
+// summary: Implements the URL loader interceptor that rewrites HTTP navigations to HTTPS and falls back to HTTP when the upgraded request fails.
+// ---
+
 #include "chrome/browser/ssl/https_upgrades_interceptor.h"
 
 #include "base/functional/bind.h"

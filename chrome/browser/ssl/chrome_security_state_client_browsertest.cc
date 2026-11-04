@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome security state client browser test
+// summary: Android browser test checking that the security state client creates a delegate whose security level and malicious content status match Chrome's security state utilities.
+// ---
+
 #include <memory>
 
 #include "chrome/browser/ssl/chrome_security_state_model_delegate.h"

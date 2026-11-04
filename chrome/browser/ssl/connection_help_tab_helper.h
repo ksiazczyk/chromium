@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection help tab helper header
+// summary: Declares a tab helper that redirects certificate error interstitials on the help center connection help page to the bundled connection help page.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_CONNECTION_HELP_TAB_HELPER_H_
 #define CHROME_BROWSER_SSL_CONNECTION_HELP_TAB_HELPER_H_
 

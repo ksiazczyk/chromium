@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage Access API service implementation
+// summary: Implements the profile-keyed Storage Access API service that renews STORAGE_ACCESS content setting grants for HTTPS origin pairs on a daily timer.
+// ---
+
 #include "chrome/browser/storage_access_api/storage_access_api_service_impl.h"
 
 #include <optional>

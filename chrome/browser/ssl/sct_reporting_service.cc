@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCT Reporting Service (implementation)
+// summary: Implements the SCT auditing service that uploads Signed Certificate Timestamp reports to Safe Browsing for opted-in users, with traffic annotations.
+// ---
+
 #include "chrome/browser/ssl/sct_reporting_service.h"
 
 #include <optional>

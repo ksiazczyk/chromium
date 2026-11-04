@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-defaulted navigation callback declarations
+// summary: Declares ShouldIgnoreSslInterstitialBecauseNavigationDefaultedToHttps, used to skip SSL error pages for HTTPS-defaulted navigations.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_HTTPS_DEFAULTED_CALLBACKS_H_
 #define CHROME_BROWSER_SSL_HTTPS_DEFAULTED_CALLBACKS_H_
 

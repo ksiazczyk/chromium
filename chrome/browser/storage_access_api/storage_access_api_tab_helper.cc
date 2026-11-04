@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage Access API tab helper implementation
+// summary: Implements a WebContentsObserver that renews Storage Access API grants when subframes receive user activation, skipping main frames, guests, and opaque origins.
+// ---
+
 #include "chrome/browser/storage_access_api/storage_access_api_tab_helper.h"
 
 #include "base/metrics/histogram_functions.h"

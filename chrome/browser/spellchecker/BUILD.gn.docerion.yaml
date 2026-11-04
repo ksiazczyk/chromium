@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Spellchecker BUILD.gn build targets
+summary: Defines GN source sets, public headers, and dependencies for the Chrome browser spellchecker, its test support, and unit tests.

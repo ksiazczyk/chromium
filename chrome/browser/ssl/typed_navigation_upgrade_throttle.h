@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typed navigation HTTPS upgrade throttle class declaration
+// summary: Declares the navigation throttle class that observes HTTPS-defaulted typed navigations, handles fallback to HTTP, and exposes test hooks for HTTPS and HTTP ports.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_TYPED_NAVIGATION_UPGRADE_THROTTLE_H_
 #define CHROME_BROWSER_SSL_TYPED_NAVIGATION_UPGRADE_THROTTLE_H_
 

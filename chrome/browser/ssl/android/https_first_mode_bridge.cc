@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-First Mode JNI bridge
+// summary: Native JNI bridge letting Android Java code read the current HTTPS-First Mode setting, update its preferences and check if the mode is managed.
+// ---
+
 #include "base/android/jni_string.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ssl/https_first_mode_settings_tracker.h"

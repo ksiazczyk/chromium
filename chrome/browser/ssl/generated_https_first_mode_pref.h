@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated HTTPS-First Mode preference header
+// summary: Declares the GeneratedHttpsFirstModePref class that exposes the HTTPS-First Mode setting to the security settings UI and reacts to source pref and Advanced Protection changes.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_GENERATED_HTTPS_FIRST_MODE_PREF_H_
 #define CHROME_BROWSER_SSL_GENERATED_HTTPS_FIRST_MODE_PREF_H_
 

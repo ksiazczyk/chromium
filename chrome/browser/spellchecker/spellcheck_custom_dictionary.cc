@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom spellcheck dictionary implementation
+// summary: Implements the user's custom spellcheck dictionary with file persistence, checksum validation, word sanitation, and sync integration.
+// ---
+
 #include "chrome/browser/spellchecker/spellcheck_custom_dictionary.h"
 
 #include <stddef.h>

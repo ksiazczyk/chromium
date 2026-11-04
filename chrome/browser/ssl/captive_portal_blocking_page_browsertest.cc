@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captive portal blocking page browser tests
+// summary: Browser tests verifying the captive portal interstitial, including WiFi SSID and login URL display behavior.
+// ---
+
 #include "components/security_interstitials/content/captive_portal_blocking_page.h"
 
 #include <memory>

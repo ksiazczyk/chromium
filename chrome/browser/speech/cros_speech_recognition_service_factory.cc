@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosSpeechRecognitionServiceFactory implementation
+// summary: Implements the profile-keyed factory that builds a CrosSpeechRecognitionService for each browser profile, giving regular, incognito, and guest profiles their own instances.
+// ---
+
 #include "chrome/browser/speech/cros_speech_recognition_service_factory.h"
 
 #include "base/no_destructor.h"

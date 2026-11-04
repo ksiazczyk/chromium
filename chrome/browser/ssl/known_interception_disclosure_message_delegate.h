@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Known Interception Disclosure Message Delegate (header)
+// summary: Declares the Android WebContents-user-data delegate that shows the known interception disclosure message if it has not been shown yet.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_KNOWN_INTERCEPTION_DISCLOSURE_MESSAGE_DELEGATE_H_
 #define CHROME_BROWSER_SSL_KNOWN_INTERCEPTION_DISCLOSURE_MESSAGE_DELEGATE_H_
 

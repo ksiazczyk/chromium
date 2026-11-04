@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDeviceSpeechRecognitionImpl implementation
+// summary: Implements the per-document on-device speech recognition service, handling language availability, SODA installs, microphone permissions and per-origin masking of availability.
+// ---
+
 #include "chrome/browser/speech/on_device_speech_recognition_impl.h"
 
 #include <algorithm>

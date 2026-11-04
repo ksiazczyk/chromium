@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Known Interception Disclosure Message Delegate (implementation)
+// summary: Implements the Android message delegate that enqueues the known interception disclosure message and activates its cooldown on dismissal or primary action.
+// ---
+
 #include "chrome/browser/ssl/known_interception_disclosure_message_delegate.h"
 
 #include "base/memory/singleton.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-First Mode settings fragment
+// summary: Android settings fragment managing the HTTPS-First Mode preference with a toggle switch, a variant preference, and enforcement handling for managed or advanced protection states.
+// ---
+
 package org.chromium.chrome.browser.ssl;
 
 import android.content.Context;

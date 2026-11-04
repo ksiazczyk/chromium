@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error controller client interface
+// summary: Declares the embedder-specific controller client that handles user commands on SSL error interstitials.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_SSL_ERROR_CONTROLLER_CLIENT_H_
 #define CHROME_BROWSER_SSL_SSL_ERROR_CONTROLLER_CLIENT_H_
 

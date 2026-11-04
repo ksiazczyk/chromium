@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellingRequest class header
+// summary: Declares the SpellingRequest class, owned by SpellCheckHostChromeImpl, which coordinates remote and local spell checks and combines their results for the renderer.
+// ---
+
 #ifndef CHROME_BROWSER_SPELLCHECKER_SPELLING_REQUEST_H_
 #define CHROME_BROWSER_SPELLCHECKER_SPELLING_REQUEST_H_
 

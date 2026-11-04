@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spelling request implementation
+// summary: Implements SpellingRequest, which runs local and remote spellchecks for text and combines their results into a single response.
+// ---
+
 #include "chrome/browser/spellchecker/spelling_request.h"
 
 #include "base/barrier_closure.h"

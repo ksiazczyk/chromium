@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-First Mode JNI bridge
+// summary: Java bridge giving access to native HTTPS-First Mode data for a profile, including reading and updating the setting and checking whether it is managed.
+// ---
+
 package org.chromium.chrome.browser.ssl;
 
 import androidx.annotation.VisibleForTesting;

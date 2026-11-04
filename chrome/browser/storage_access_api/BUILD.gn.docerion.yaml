@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Storage Access API build targets
+summary: Defines the storage_access_api source set plus unit test and browser test targets and their dependencies for the directory.

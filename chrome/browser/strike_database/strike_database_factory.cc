@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StrikeDatabaseFactory implementation
+// summary: Implements the per-profile factory that returns the StrikeDatabase keyed service, building it with the profile's ProtoDatabaseProvider and storage path.
+// ---
+
 #include "chrome/browser/strike_database/strike_database_factory.h"
 
 #include "base/no_destructor.h"

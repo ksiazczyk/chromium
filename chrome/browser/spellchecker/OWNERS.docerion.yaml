@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Spellchecker directory owners
+summary: Delegates code ownership of the browser spellchecker directory to the components/spellcheck OWNERS file.

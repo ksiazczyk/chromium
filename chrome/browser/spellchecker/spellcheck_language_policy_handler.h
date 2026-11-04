@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck language policy handler header
+// summary: Declares the SpellcheckLanguagePolicyHandler class that applies the SpellcheckLanguage policy to spellcheck preferences.
+// ---
+
 #ifndef CHROME_BROWSER_SPELLCHECKER_SPELLCHECK_LANGUAGE_POLICY_HANDLER_H_
 #define CHROME_BROWSER_SPELLCHECKER_SPELLCHECK_LANGUAGE_POLICY_HANDLER_H_
 

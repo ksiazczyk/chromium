@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosSpeechRecognitionService header
+// summary: Declares CrosSpeechRecognitionService, a browser-side Mojo endpoint that binds recognizers and audio source fetchers for ChromeOS on-device speech recognition via ML Service.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_CROS_SPEECH_RECOGNITION_SERVICE_H_
 #define CHROME_BROWSER_SPEECH_CROS_SPEECH_RECOGNITION_SERVICE_H_
 

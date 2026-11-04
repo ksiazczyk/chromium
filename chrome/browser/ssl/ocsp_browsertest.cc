@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OCSP Browser Tests
+// summary: Browser tests covering OCSP revocation checking, managed certificate policies, and SSL error handling behavior in Chrome.
+// ---
+
 #include <memory>
 #include <string_view>
 

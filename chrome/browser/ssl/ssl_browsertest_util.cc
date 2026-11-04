@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL browser test security state check utilities
+// summary: Implements helpers that verify certificate errors, security levels and authentication states of tabs in SSL browser tests.
+// ---
+
 #include "chrome/browser/ssl/ssl_browsertest_util.h"
 
 #include "base/feature_list.h"

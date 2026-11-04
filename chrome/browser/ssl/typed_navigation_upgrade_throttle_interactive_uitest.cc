@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Typed navigation HTTPS upgrade interactive UI tests
+// summary: Interactive browser tests covering HTTPS upgrades of omnibox-typed navigations, including successful loads, SSL errors, timeouts, redirects, and fallback behavior to HTTP.
+// ---
+
 #include "chrome/browser/ssl/typed_navigation_upgrade_throttle.h"
 
 #include <algorithm>

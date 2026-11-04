@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client auth observer class header
+// summary: Declares SSLClientAuthObserver, a base class coordinating client certificate selection across dialogs in the same BrowserContext.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_SSL_CLIENT_AUTH_OBSERVER_H_
 #define CHROME_BROWSER_SSL_SSL_CLIENT_AUTH_OBSERVER_H_
 

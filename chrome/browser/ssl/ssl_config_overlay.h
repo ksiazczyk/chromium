@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL config overlay class header
+// summary: Declares SSLConfigOverlay, which intercepts the SSLConfigClient Mojo pipe to apply per-NetworkContext SSL config overrides.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_SSL_CONFIG_OVERLAY_H_
 #define CHROME_BROWSER_SSL_SSL_CONFIG_OVERLAY_H_
 

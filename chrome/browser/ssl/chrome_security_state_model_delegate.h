@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome security state model delegate header
+// summary: Declares the Chrome security state model delegate overriding getters for security level, malicious content status and visible security state.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_CHROME_SECURITY_STATE_MODEL_DELEGATE_H_
 #define CHROME_BROWSER_SSL_CHROME_SECURITY_STATE_MODEL_DELEGATE_H_
 

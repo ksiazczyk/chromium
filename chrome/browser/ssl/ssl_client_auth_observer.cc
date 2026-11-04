@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client auth observer implementation
+// summary: Implements SSLClientAuthObserver, which links client certificate selection dialogs so matching observers act on one selection.
+// ---
+
 #include "chrome/browser/ssl/ssl_client_auth_observer.h"
 
 #include "base/logging.h"

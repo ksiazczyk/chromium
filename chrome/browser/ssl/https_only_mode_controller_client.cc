@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only Mode interstitial controller client
+// summary: Implements the interstitial controller client for HTTPS-Only Mode warnings, handling proceed and back actions and recording HTTP exceptions.
+// ---
+
 #include "chrome/browser/ssl/https_only_mode_controller_client.h"
 
 #include "chrome/browser/browser_process.h"

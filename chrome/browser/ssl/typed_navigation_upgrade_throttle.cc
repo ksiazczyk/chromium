@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typed navigation HTTPS upgrade throttle implementation
+// summary: Implements a navigation throttle that watches omnibox-typed navigations defaulted to HTTPS and starts a fallback to the HTTP URL when the HTTPS load fails or times out.
+// ---
+
 #include "chrome/browser/ssl/typed_navigation_upgrade_throttle.h"
 
 #include "base/check_op.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android SSL Java build targets
+summary: GN build file defining JNI headers, Java libraries, resources, enum generation and Java tests for HTTPS-First Mode on Android.

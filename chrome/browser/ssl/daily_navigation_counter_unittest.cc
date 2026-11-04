@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Daily navigation counter unit tests
+// summary: Unit tests covering loading counts from a dictionary, rolling window expiry and save interval behavior of the daily navigation counter.
+// ---
+
 #include "chrome/browser/ssl/daily_navigation_counter.h"
 
 #include "base/test/simple_test_clock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure form interstitial controller client header
+// summary: Declares the InsecureFormControllerClient class that drives the insecure form interstitial's back and proceed actions.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_INSECURE_FORM_INSECURE_FORM_CONTROLLER_CLIENT_H_
 #define CHROME_BROWSER_SSL_INSECURE_FORM_INSECURE_FORM_CONTROLLER_CLIENT_H_
 

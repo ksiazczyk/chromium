@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac browser test for SpellCheckHostChromeImpl
+// summary: In-process browser test verifying that a text check request through SpellCheckHostChromeImpl returns the expected spelling marker on Mac.
+// ---
+
 #include "chrome/browser/spellchecker/spell_check_host_chrome_impl.h"
 
 #include <memory>
