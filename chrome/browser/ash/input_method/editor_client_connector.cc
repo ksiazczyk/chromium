@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor client connector implementation
+// summary: Implements the connector that binds editor client Mojo receivers to the orca editor service remote.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_client_connector.h"
 
 #include "base/strings/utf_string_conversions.h"

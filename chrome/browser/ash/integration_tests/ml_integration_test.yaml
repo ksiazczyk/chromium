@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: Test metadata for MLIntegrationTest
+# summary: Declares the harness, owners, criteria, and Bootstrap case for the machine learning service integration test.
+# ---
+
 # Schema can be found at: platform/dev/test/gtest/gtest_schema.yaml
 ---
 name: "MLIntegrationTest"

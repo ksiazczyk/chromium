@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion enums
+// summary: Defines enums for assistive suggestion types, statuses, disabled reasons, and multi-word suggestion states that match metrics enums.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_SUGGESTION_ENUMS_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_SUGGESTION_ENUMS_H_
 

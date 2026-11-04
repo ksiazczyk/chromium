@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor text query from memory implementation
+// summary: Implements EditorTextQueryFromMemory, a MantaProvider that returns canned responses held in memory for editor text queries.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_text_query_from_memory.h"
 
 #include <map>

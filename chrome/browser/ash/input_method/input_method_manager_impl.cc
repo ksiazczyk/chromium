@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method manager implementation
+// summary: Implements the ChromeOS Ash input method manager that tracks enabled input methods, handles switching, and coordinates candidate and assistive window controllers.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_manager_impl.h"
 
 #include <stdint.h>

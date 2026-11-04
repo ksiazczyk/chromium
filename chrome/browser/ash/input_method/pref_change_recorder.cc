@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pref change recorder implementation
+// summary: Implements tracking of autocorrect preference changes in input method settings and records the preference state transitions as histogram metrics.
+// ---
+
 #include "chrome/browser/ash/input_method/pref_change_recorder.h"
 
 #include <string>

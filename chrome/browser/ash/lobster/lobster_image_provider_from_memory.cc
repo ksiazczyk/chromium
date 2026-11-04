@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory lobster image provider implementation
+// summary: Fake provider that generates magenta JPEG test image candidates in memory and returns them after simulated delays for preview and full-size requests.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_image_provider_from_memory.h"
 
 #include "ash/public/cpp/lobster/lobster_image_candidate.h"

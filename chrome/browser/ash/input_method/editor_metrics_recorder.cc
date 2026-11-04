@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor metrics recorder implementation
+// summary: Implements the editor metrics recorder, mapping tones, opportunity modes, languages and states to histogram and UKM metrics.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_metrics_recorder.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Editor panel manager unit tests
+// summary: Unit tests for the editor panel manager using fake delegates, clients and contexts to verify panel context and editing flow behavior.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_panel_manager.h"
 
 #include <optional>

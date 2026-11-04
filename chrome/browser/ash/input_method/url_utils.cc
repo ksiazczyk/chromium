@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL utility functions
+// summary: Implements helpers that check whether a URL is a subdomain of a given domain, optionally with a path prefix, or has a matching file extension.
+// ---
+
 #include "chrome/browser/ash/input_method/url_utils.h"
 
 #include <optional>

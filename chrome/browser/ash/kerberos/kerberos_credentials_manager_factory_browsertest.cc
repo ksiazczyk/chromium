@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kerberos credentials manager factory browser tests
+// summary: Browser tests verifying that the factory returns a manager for the primary profile and nullptr for incognito and other non-primary profiles.
+// ---
+
 #include "chrome/browser/ash/kerberos/kerberos_credentials_manager_factory.h"
 
 #include <memory>

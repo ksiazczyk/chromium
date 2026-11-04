@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the kcer directory
+summary: Restricts ChromeOS includes of //chrome and whitelists the specific //chrome dependencies allowed for this directory and its tests.

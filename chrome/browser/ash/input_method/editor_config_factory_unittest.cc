@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Editor config factory unit tests
+// summary: Tests that built editor configurations contain the correct preset query types for English and internationalized locales under various feature flags.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_config_factory.h"
 
 #include "ash/constants/ash_features.h"

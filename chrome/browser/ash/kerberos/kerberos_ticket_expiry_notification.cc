@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos ticket expiry notification implementation
+// summary: Shows a system warning notification that a Kerberos ticket is expiring, with a button that invokes a callback carrying the principal name.
+// ---
+
 #include "chrome/browser/ash/kerberos/kerberos_ticket_expiry_notification.h"
 
 #include <string>

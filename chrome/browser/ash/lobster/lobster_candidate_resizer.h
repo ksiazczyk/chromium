@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LobsterCandidateResizer class declaration
+// summary: Declares a resizer that uses a LobsterImageFetcher to inflate image candidates to full size.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_CANDIDATE_RESIZER_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_CANDIDATE_RESIZER_H_
 

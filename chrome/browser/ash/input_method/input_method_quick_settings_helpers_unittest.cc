@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input method quick settings helpers unit tests
+// summary: Unit tests verifying creation and toggling of Chinese and Japanese quick settings menu items.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_quick_settings_helpers.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

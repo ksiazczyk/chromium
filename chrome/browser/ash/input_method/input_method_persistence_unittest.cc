@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input method persistence unit tests
+// summary: Unit tests verifying input method persistence writes the expected user and system preferences across login, normal, and lock UI styles.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_persistence.h"
 
 #include "ash/constants/ash_pref_names.h"

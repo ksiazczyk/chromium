@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method options observer
+// summary: Registers a pref change registrar so a callback fires whenever input method specific options preferences change.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_options_observer.h"
 
 #include "ash/constants/ash_pref_names.h"

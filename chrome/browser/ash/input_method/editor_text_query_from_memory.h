@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor text query from memory header
+// summary: Declares EditorTextQueryFromMemory, a MantaProvider serving predefined responses for editor text query calls.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_TEXT_QUERY_FROM_MEMORY_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_TEXT_QUERY_FROM_MEMORY_H_
 

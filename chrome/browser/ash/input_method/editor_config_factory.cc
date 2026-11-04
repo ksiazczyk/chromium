@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor config factory implementation
+// summary: Builds orca editor configurations per language category, gating preset text query types such as proofread and rephrase behind feature flags.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_config_factory.h"
 
 #include <string>

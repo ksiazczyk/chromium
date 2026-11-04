@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions service client implementation
+// summary: Implements a client that requests multi-word suggestions from the ChromeOS machine learning service and records related usage metrics.
+// ---
+
 #include "chrome/browser/ash/input_method/suggestions_service_client.h"
 
 #include <optional>

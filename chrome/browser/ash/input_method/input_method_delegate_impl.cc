@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method delegate implementation
+// summary: Implements the input method delegate that reads the hardware keyboard layout from local state and provides localized strings.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_delegate_impl.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser context keyed service factories implementation
+// summary: Includes and instantiates every BrowserContextKeyedServiceFactory provided by Chrome OS so the services exist for browser contexts.
+// ---
+
 #include "chrome/browser/ash/keyed_service/browser_context_keyed_service_factories.h"
 
 #include "ash/webui/help_app_ui/help_app_manager_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method engine implementation
+// summary: Implements the IME engine handling composition, candidate windows, key events, suggestions, and screen projection changes for extension input methods.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_engine.h"
 
 #include <algorithm>

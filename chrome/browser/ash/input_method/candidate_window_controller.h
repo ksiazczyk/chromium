@@ -4,6 +4,12 @@
 //
 // This file implements the input method candidate window used on Chrome OS.
 
+// ---docerion
+// type: source
+// title: Candidate window controller interface
+// summary: Defines the interface for controlling the input method candidate window, including observer notifications for open, close and click events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_CANDIDATE_WINDOW_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_CANDIDATE_WINDOW_CONTROLLER_H_
 

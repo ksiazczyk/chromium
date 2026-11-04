@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssistiveWindowController header
+// summary: Declares the controller that manages IME assistive windows such as suggestion, undo, grammar, and announcement views.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_ASSISTIVE_WINDOW_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_ASSISTIVE_WINDOW_CONTROLLER_H_
 

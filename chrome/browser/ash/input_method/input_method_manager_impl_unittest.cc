@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input method manager implementation unit tests
+// summary: Unit tests for InputMethodManagerImpl covering input method enabling, switching, extension handling, and observer notifications with mock managers and profiles.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_manager_impl.h"
 
 #include <stddef.h>

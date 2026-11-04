@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster image fetcher interface
+// summary: Defines the LobsterImageFetcher interface and its Provider abstraction for requesting image candidates by query and full-size images by query and seed.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_IMAGE_FETCHER_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_IMAGE_FETCHER_H_
 

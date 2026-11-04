@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data pipe utilities implementation
+// summary: Creates a local non-blocking pipe, writes the given data to it and returns the reading end as a scoped file descriptor.
+// ---
+
 #include "chrome/browser/ash/kerberos/data_pipe_utils.h"
 
 #include "base/files/file_util.h"

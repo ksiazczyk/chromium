@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preference helpers for assistive input features
+// summary: Implements functions that read and update preferences for predictive writing, long-press diacritics, and capped assistive feature counters.
+// ---
+
 #include "chrome/browser/ash/input_method/assistive_prefs.h"
 
 #include <optional>

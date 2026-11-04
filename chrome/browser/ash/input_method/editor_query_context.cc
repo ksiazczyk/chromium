@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor query context implementation
+// summary: Implements the EditorQueryContext struct that stores an optional preset query ID or freeform text for editor requests.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_query_context.h"
 
 #include <optional>

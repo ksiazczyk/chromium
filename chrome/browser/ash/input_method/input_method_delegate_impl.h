@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method delegate class declaration
+// summary: Declares InputMethodDelegateImpl, which accesses hardware keyboard layout and application locale from BrowserProcess.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_DELEGATE_IMPL_H_
 

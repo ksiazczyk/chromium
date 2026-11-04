@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssistiveWindowProperties implementation
+// summary: Implements construction, copying, and equality comparison for the assistive window properties struct.
+// ---
+
 #include "chrome/browser/ash/input_method/assistive_window_properties.h"
 
 namespace ash {

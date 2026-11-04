@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method quick settings helpers header
+// summary: Declares helpers that convert input method quick settings into shelf menu items and apply menu item toggles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_QUICK_SETTINGS_HELPERS_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_QUICK_SETTINGS_HELPERS_H_
 

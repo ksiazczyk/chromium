@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the AssistiveInputDenylist class
+// summary: Declares a class that determines whether assistive input features should be disabled for a given URL.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_ASSISTIVE_INPUT_DENYLIST_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_ASSISTIVE_INPUT_DENYLIST_H_
 

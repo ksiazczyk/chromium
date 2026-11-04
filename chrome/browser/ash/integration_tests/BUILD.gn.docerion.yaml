@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for Ash integration tests
+summary: Defines the Crosier integration_tests build target with its test sources, YAML metadata files, and dependencies for ChromeOS device builds.

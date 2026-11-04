@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster event sink interface
+// summary: Declares the LobsterEventSink abstract interface with an OnFocus callback for reporting focus events to the lobster feature.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_EVENT_SINK_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_EVENT_SINK_H_
 

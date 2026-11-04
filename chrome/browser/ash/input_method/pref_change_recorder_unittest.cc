@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pref change recorder unit tests
+// summary: Parameterized unit tests verifying that autocorrect preference changes are recorded with the correct histogram metrics for physical and virtual keyboards.
+// ---
+
 #include "chrome/browser/ash/input_method/pref_change_recorder.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA pointing to shared Ash IME metadata
+summary: Directory metadata file that inherits the common metadata mixins from //ui/base/ime/ash/COMMON_METADATA.

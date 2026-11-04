@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input method settings unit tests
+// summary: Unit tests for creating input method settings from preferences across Latin, Japanese, Korean, Chinese and Vietnamese engines.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_settings.h"
 
 #include "ash/constants/ash_features.h"

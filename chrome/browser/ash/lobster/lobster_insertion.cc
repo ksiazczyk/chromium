@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster image insertion implementation
+// summary: Implements LobsterInsertion, which inserts a pending image into the focused text field or copies it to the clipboard within a one-second timeout.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_insertion.h"
 
 #include "ash/lobster/lobster_image_insert_or_copy_actuator.h"

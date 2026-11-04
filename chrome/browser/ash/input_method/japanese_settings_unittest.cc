@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Japanese input method settings unit tests
+// summary: Tests conversion of preference dictionaries to mojom Japanese settings, default values for unset prefs, and metrics recording.
+// ---
+
 #include "chrome/browser/ash/input_method/japanese_settings.h"
 
 #include "base/test/metrics/histogram_tester.h"

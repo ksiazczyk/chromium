@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the language packs font service
+summary: GN build file defining the language_packs static library and its unit test target, listing sources, dependencies and build configs.

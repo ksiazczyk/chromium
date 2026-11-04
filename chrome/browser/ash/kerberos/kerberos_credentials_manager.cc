@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos credentials manager implementation
+// summary: Implements Kerberos account management for ChromeOS, including principal normalization, policy-driven accounts, krb5.conf handling and retry backoff.
+// ---
+
 #include "chrome/browser/ash/kerberos/kerberos_credentials_manager.h"
 
 #include <algorithm>

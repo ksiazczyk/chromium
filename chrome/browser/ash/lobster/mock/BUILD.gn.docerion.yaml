@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Lobster mock test support library
+summary: Defines the testonly static_library test_support that compiles the mock SnapperProvider sources with gmock and manta dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Grammar service client header
+// summary: Declares GrammarServiceClient, a class that sends grammar check requests to the Chrome OS ML service and returns grammar fragments via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_GRAMMAR_SERVICE_CLIENT_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_GRAMMAR_SERVICE_CLIENT_H_
 

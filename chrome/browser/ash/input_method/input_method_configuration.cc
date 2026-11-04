@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method configuration implementation
+// summary: Implements initialization, testing setup, extension loading control, and shutdown of the Ash input method manager.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_configuration.h"
 
 #include <memory>

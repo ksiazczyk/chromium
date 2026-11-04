@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component extension IME manager delegate implementation
+// summary: Lists and loads component extension input methods such as xkb, m17n, Pinyin, Zhuyin, Cangjie, Mozc, Hangul and Braille for Chrome OS.
+// ---
+
 #include "chrome/browser/ash/input_method/component_extension_ime_manager_delegate_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocorrect metrics enums
+// summary: Defines enums for autocorrect actions, compatibility summaries, internal states, and preferences used in metrics logging.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_AUTOCORRECT_ENUMS_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_AUTOCORRECT_ENUMS_H_
 

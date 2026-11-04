@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor feedback sender implementation
+// summary: Implements SendEditorFeedback, which queues Editor feature feedback through the Chrome feedback uploader for a profile.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_feedback.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diacritics-insensitive string comparator implementation
+// summary: Implements a comparator that strips Latin-script diacritics via ICU transliteration so accented and unaccented strings compare as equal.
+// ---
+
 #include "chrome/browser/ash/input_method/diacritics_insensitive_string_comparator.h"
 
 #include "base/check_op.h"

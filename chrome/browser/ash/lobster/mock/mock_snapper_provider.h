@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSnapperProvider class header
+// summary: Declares MockSnapperProvider, a gmock mock of manta::SnapperProvider whose Call method is mocked for test use.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_MOCK_MOCK_SNAPPER_PROVIDER_H_
 #define CHROME_BROWSER_ASH_LOBSTER_MOCK_MOCK_SNAPPER_PROVIDER_H_
 

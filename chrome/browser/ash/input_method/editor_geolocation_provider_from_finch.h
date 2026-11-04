@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finch-based editor geolocation provider header
+// summary: Declares EditorGeolocationProviderFromFinch, which sources the editor country code from the Finch variations service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_GEOLOCATION_PROVIDER_FROM_FINCH_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_GEOLOCATION_PROVIDER_FROM_FINCH_H_
 

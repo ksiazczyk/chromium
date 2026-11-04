@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the ash keyed_service directory
+summary: Lists rsult@google.com as the owner responsible for the ash keyed_service directory.

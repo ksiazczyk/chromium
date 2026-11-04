@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data pipe utilities header
+// summary: Declares GetDataReadPipe, which writes data to a pipe and returns the reading end.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_KERBEROS_DATA_PIPE_UTILS_H_
 #define CHROME_BROWSER_ASH_KERBEROS_DATA_PIPE_UTILS_H_
 

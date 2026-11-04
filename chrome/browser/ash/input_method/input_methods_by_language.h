@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input methods by language header
+// summary: Declares the language category enum and per-language input method accessor functions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHODS_BY_LANGUAGE_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHODS_BY_LANGUAGE_H_
 

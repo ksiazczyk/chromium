@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long-press diacritics suggester implementation
+// summary: Shows accented character candidates when keys are long-pressed on US English physical keyboards, with nudges and usage metrics.
+// ---
+
 #include "chrome/browser/ash/input_method/longpress_diacritics_suggester.h"
 
 #include <optional>

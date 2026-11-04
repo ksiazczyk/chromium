@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EditorSwitch unit tests
+// summary: Parameterized unit tests covering EditorSwitch availability with and without enterprise policies, country restrictions, feature flags and input contexts.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_switch.h"
 
 #include <string>

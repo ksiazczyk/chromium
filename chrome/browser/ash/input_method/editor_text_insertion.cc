@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorTextInsertion implementation
+// summary: Commits pending Editor text into the focused text input, either as multiple paragraphs or concatenated, and cancels the insertion after a timeout.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_text_insertion.h"
 
 #include "base/memory/weak_ptr.h"

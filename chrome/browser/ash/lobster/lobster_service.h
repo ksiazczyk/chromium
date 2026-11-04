@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster service header
+// summary: Declares LobsterService, a keyed service managing Lobster sessions, candidate requests, image insertion, and UI lifecycle.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_SERVICE_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_SERVICE_H_
 

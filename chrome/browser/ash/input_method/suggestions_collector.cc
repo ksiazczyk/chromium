@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions collector implementation
+// summary: Implements gathering of text suggestions by combining assistive suggester results with results from the system suggestions service.
+// ---
+
 #include "chrome/browser/ash/input_method/suggestions_collector.h"
 
 #include "base/functional/callback.h"

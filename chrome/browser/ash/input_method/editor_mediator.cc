@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor mediator implementation
+// summary: Implements the central Orca editor connector, brokering client bindings, context building, panel management, geolocation and metrics plumbing.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_mediator.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Featured feature flag integration test
+// summary: Parameterized Crosier test that simulates Finch experiments and verifies feature enablement, parameters, and the feature state reported by a helper binary.
+// ---
+
 #include <optional>
 #include <string>
 #include <vector>

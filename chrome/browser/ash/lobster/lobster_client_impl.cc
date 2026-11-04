@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LobsterClientImpl implementation
+// summary: Implements the ash LobsterClient interface by delegating session, candidate, UI and insertion calls to the browser-side Lobster service.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_client_impl.h"
 
 #include <string>

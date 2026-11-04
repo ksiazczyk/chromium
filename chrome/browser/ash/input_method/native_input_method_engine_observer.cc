@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native input method engine observer implementation
+// summary: Implements the ChromeOS Ash native input method engine observer, routing engine events and handling autocorrect, suggestions and input settings across keyboard engines.
+// ---
+
 #include "chrome/browser/ash/input_method/native_input_method_engine_observer.h"
 
 #include <algorithm>

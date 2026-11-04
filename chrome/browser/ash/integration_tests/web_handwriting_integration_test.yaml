@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: Web handwriting integration test harness configuration
+# summary: Crosier test harness configuration for WebHandwritingIntegrationTest, declaring owners, hardware-agnostic status, test criteria and case tags.
+# ---
+
 # Schema can be found at: platform/dev/test/gtest/gtest_schema.yaml
 ---
 name: "WebHandwritingIntegrationTest"

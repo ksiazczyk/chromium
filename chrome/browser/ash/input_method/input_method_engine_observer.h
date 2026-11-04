@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method engine observer interface
+// summary: Declares the observer interface for IME engine events such as activation, focus, key events, candidate clicks, and assistive window changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_ENGINE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_ENGINE_OBSERVER_H_
 

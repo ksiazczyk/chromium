@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method settings pref name constants
+// summary: Defines preference name constants for Japanese, Korean, Pinyin, Zhuyin and Vietnamese input method settings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_SETTINGS_CONSTS_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_SETTINGS_CONSTS_H_
 

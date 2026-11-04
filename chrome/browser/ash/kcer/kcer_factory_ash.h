@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerFactoryAsh class declaration
+// summary: Declares the profile-keyed Kcer factory for Ash, including the kKcerWithoutNss feature flag, token maps, and testing helpers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_KCER_KCER_FACTORY_ASH_H_
 #define CHROME_BROWSER_ASH_KCER_KCER_FACTORY_ASH_H_
 

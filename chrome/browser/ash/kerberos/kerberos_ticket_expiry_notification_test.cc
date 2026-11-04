@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kerberos ticket expiry notification tests
+// summary: Unit tests verifying that the ticket expiry notification is shown with the principal name, closed correctly, and reports user clicks.
+// ---
+
 #include "chrome/browser/ash/kerberos/kerberos_ticket_expiry_notification.h"
 
 #include "ash/public/cpp/notification_utils.h"

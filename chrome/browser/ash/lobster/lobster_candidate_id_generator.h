@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LobsterCandidateIdGenerator class declaration
+// summary: Declares a generator that hands out incrementing 32-bit identifiers for Lobster image candidates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_CANDIDATE_ID_GENERATOR_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_CANDIDATE_ID_GENERATOR_H_
 

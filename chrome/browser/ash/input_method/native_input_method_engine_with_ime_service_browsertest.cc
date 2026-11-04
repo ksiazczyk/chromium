@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native input method engine browser tests with IME service
+// summary: In-process browser tests exercising the native input method engine with the IME service enabled, focusing on m17n key event handling.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "base/values.h"
 #include "chrome/browser/ash/input_method/native_input_method_engine.h"

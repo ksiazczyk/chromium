@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorServiceConnector implementation
+// summary: Launches the Orca Editor service process and binds editor client, event sink, system actuator and text query provider Mojo interfaces with a language-based config.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_service_connector.h"
 
 #include <vector>

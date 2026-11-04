@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistive suggester client filter implementation
+// summary: Implements context-based filtering of assistive suggestions using allow and deny lists of URLs, domains, and apps for emoji, multi-word, and diacritics.
+// ---
+
 #include "chrome/browser/ash/input_method/assistive_suggester_client_filter.h"
 
 #include <algorithm>

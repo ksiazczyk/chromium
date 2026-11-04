@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for KcerFactoryAsh without NSS
+// summary: In-process browser tests verifying Kcer instances, tokens, and profile redirection when the kKcerWithoutNss feature is enabled.
+// ---
+
 #include <memory>
 
 #include "ash/constants/ash_switches.h"

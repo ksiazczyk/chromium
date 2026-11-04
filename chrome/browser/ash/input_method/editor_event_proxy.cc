@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorEventProxy implementation
+// summary: Implements EditorEventProxy, which forwards surrounding text context updates to the orca EditorEventSink Mojo remote.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_event_proxy.h"
 
 #include "chromeos/ash/services/orca/public/mojom/orca_service.mojom.h"

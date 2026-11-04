@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kerberos credentials manager unit tests
+// summary: Unit tests covering Kerberos account management, principal validation, password and config handling, failure backoff, and account-change notifications.
+// ---
+
 #include "chrome/browser/ash/kerberos/kerberos_credentials_manager.h"
 
 #include <memory>

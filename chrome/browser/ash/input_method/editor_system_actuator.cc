@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorSystemActuator implementation
+// summary: Implements the SystemActuator Mojo interface to insert Editor text, handle consent, open allowed URLs, show or close UI, submit feedback and emit metrics.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_system_actuator.h"
 
 #include <memory>

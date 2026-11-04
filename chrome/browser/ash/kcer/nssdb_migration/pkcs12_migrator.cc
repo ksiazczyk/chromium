@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PKCS#12 certificate migrator implementation
+// summary: Implements the profile-keyed migrator that exports NSS public slot client certificates and imports them into the Chaps private slot, recording UMA events.
+// ---
+
 
 #include "chrome/browser/ash/kcer/nssdb_migration/pkcs12_migrator.h"
 

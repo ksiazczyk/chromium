@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ash keyed_service directory
+summary: Grants include access to the ash keyed_service directory and to the many Chrome OS components whose keyed service factories it instantiates.

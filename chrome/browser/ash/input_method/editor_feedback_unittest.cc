@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Editor feedback unit tests
+// summary: Unit tests verifying that editor feedback reports are sent without the user email and with redacted descriptions, using a mock feedback uploader.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_feedback.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User file permissions security integration test
+// summary: Checks ownership and POSIX permissions of /home/chronos user files after login to validate the security of user data directories.
+// ---
+
 #include <grp.h>
 #include <pwd.h>
 #include <sys/stat.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorContext implementation
+// summary: Implements EditorContext, which tracks input method, text selection, app, URL, tablet mode, and geolocation context for the Editor feature.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_context.h"
 
 #include <optional>

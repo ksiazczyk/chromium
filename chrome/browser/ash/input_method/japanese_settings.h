@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Japanese input method settings header
+// summary: Declares histogram enums for Japanese input settings plus functions to convert prefs to mojom settings and record metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_JAPANESE_SETTINGS_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_JAPANESE_SETTINGS_H_
 #include "chromeos/ash/services/ime/public/mojom/input_method.mojom.h"

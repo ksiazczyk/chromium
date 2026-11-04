@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Assistive suggester client filter unit tests
+// summary: Parameterized unit tests verifying which assistive suggestions are enabled per URL, app, and input context, including password fields.
+// ---
+
 #include "chrome/browser/ash/input_method/assistive_suggester_client_filter.h"
 
 #include "base/functional/callback.h"

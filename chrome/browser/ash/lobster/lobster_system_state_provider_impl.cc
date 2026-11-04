@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster system state provider implementation
+// summary: Computes Lobster availability from consent status, feature flags, IME and input-type allowlists, connectivity, and tablet or demo mode.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_system_state_provider_impl.h"
 
 #include <array>

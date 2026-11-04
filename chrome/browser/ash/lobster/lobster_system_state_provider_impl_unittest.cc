@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lobster system state provider unit tests
+// summary: Unit tests covering Lobster system state outcomes across consent, feature flags, IME allowlists, network, and tablet mode conditions.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_system_state_provider_impl.h"
 
 #include <memory>

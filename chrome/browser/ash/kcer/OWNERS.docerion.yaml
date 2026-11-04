@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for the kcer Ash directory
+summary: Delegates code ownership to the OWNERS file of chromeos/ash/components/kcer.

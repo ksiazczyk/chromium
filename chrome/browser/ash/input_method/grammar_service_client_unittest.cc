@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Grammar service client unit tests
+// summary: Unit tests for GrammarServiceClient verifying empty results when spellcheck is disabled, result parsing and bad word filtering with a fake ML service connection.
+// ---
+
 #include "chrome/browser/ash/input_method/grammar_service_client.h"
 
 #include <vector>

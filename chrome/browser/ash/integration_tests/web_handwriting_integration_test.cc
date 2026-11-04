@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web handwriting integration test
+// summary: ChromeOS browser integration test that verifies on-device web handwriting recognition by loading the appropriate test page and checking that its result promise resolves.
+// ---
+
 #include <vector>
 
 #include "base/files/file_path.h"

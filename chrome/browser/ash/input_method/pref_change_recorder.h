@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefChangeRecorder class declaration
+// summary: Declares a recorder that observes input method option changes to detect and log autocorrect preference updates for virtual and physical keyboards.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_PREF_CHANGE_RECORDER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_PREF_CHANGE_RECORDER_H_
 

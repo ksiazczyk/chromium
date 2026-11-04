@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the language packs directory
+summary: Restricts //chrome dependencies for this ChromeOS directory while allowing the specific includes needed by the service and its unit tests.

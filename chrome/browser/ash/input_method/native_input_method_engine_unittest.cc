@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native input method engine unit tests
+// summary: Unit tests covering native input method engine behavior, including autocorrect preferences, Japanese settings migration and Mojo IME service interactions.
+// ---
+
 #include "chrome/browser/ash/input_method/native_input_method_engine.h"
 
 #include "ash/constants/ash_features.h"

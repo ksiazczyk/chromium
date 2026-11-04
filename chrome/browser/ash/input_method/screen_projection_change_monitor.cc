@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen projection change monitor implementation
+// summary: Monitors display mirroring, casting and screen access state and invokes a callback whenever the projection state changes.
+// ---
+
 #include "chrome/browser/ash/input_method/screen_projection_change_monitor.h"
 
 #include "ash/public/cpp/cast_config_controller.h"

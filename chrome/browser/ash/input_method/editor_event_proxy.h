@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorEventProxy header
+// summary: Declares EditorEventProxy, which sends surrounding text context updates to the orca EditorEventSink Mojo remote.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_EVENT_PROXY_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_EVENT_PROXY_H_
 

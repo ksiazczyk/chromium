@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EditorConsentStore unit tests
+// summary: Unit tests verifying EditorConsentStore consent approval, decline, promo card actions, and reset behavior using testing profiles and mock providers.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_consent_store.h"
 
 #include <optional>

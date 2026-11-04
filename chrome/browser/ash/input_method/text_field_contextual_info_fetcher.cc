@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text field contextual info fetcher implementation
+// summary: Retrieves the app type, app key and tab URL of the active text field for input method features.
+// ---
+
 #include "chrome/browser/ash/input_method/text_field_contextual_info_fetcher.h"
 
 #include "ash/public/cpp/window_properties.h"

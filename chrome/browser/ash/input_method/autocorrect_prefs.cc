@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocorrect preference helpers
+// summary: Reads and writes per-input-method autocorrect preferences for physical and virtual keyboards.
+// ---
+
 #include "chrome/browser/ash/input_method/autocorrect_prefs.h"
 
 #include <string>

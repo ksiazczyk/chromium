@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos files handler header
+// summary: Declares the handler that asynchronously updates and deletes the Kerberos credential cache and config files used by Chrome for Kerberos authentication.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_KERBEROS_KERBEROS_FILES_HANDLER_H_
 #define CHROME_BROWSER_ASH_KERBEROS_KERBEROS_FILES_HANDLER_H_
 

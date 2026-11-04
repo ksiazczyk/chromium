@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ML service bootstrap integration test
+// summary: Verifies the ml-service daemon starts on demand and successfully loads a built-in test model over Mojo.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/ash_integration_test.h"
 #include "chrome/test/base/chromeos/crosier/upstart.h"
 #include "chromeos/services/machine_learning/public/cpp/service_connection.h"

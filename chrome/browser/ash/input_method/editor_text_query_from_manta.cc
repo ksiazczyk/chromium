@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor text query from Manta implementation
+// summary: Implements EditorTextQueryFromManta, forwarding editor text query calls to the Manta Orca provider and reporting a backend failure when the service is unavailable.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_text_query_from_manta.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor live region announcer implementation
+// summary: Implements the announcer that triggers ChromeVox announcements through a live region announcement view attached to the active root window.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_announcer.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

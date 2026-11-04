@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LanguagePackFontService unit tests
+// summary: Tests font pack installation and fontconfig registration behaviour using a fake DLC service client, testing profile and a mocked font directory callback.
+// ---
+
 #include "chrome/browser/ash/language_packs/language_pack_font_service.h"
 
 #include <memory>

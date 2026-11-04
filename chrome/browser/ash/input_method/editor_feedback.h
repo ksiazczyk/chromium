@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor feedback sender header
+// summary: Declares SendEditorFeedback, which queues Editor feature feedback for a profile and reports whether submission succeeded.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_FEEDBACK_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_FEEDBACK_H_
 

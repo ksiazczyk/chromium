@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock candidate window controller header
+// summary: Declares a mock CandidateWindowController implementation used for testing, with counters and observer notification helpers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_MOCK_CANDIDATE_WINDOW_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_MOCK_CANDIDATE_WINDOW_CONTROLLER_H_
 

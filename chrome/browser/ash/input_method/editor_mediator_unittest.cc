@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Editor mediator unit tests
+// summary: Unit tests for the EditorMediator class verifying that surrounding text changes and cached context update the editor opportunity mode.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_mediator.h"
 
 #include "base/test/scoped_feature_list.h"

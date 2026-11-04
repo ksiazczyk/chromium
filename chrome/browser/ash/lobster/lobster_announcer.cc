@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LobsterLiveRegionAnnouncer implementation
+// summary: Implements the announcer that creates and manages a live region view for triggering ChromeVox announcements.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_announcer.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

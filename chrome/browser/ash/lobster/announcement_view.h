@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnouncementView class header
+// summary: Declares an empty bubble view holding an accessibility label for assistive feature announcements.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_ANNOUNCEMENT_VIEW_H_
 #define CHROME_BROWSER_ASH_LOBSTER_ANNOUNCEMENT_VIEW_H_
 

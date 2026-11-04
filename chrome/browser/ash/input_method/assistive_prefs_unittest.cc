@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Assistive prefs unit tests
+// summary: Unit tests verifying predictive writing preference defaults and admin policy handling for physical keyboards.
+// ---
+
 #include "chrome/browser/ash/input_method/assistive_prefs.h"
 
 #include "ash/constants/ash_pref_names.h"

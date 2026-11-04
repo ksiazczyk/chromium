@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lobster test utilities header
+// summary: Declares shared Lobster test helpers for creating test bitmaps, building fake Manta requests and responses, and matching Lobster image candidates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_TEST_UTILS_H_
 

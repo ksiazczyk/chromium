@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Editor metrics recorder unit tests
+// summary: Unit tests for the editor metrics recorder checking histogram and UKM logging of editor states, tones and blocked reasons.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_metrics_recorder.h"
 
 #include <optional>

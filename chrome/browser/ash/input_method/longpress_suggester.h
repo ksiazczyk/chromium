@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LongpressSuggester header
+// summary: Declares the LongpressSuggester class that forwards long-press assistive suggestions to the suggestion handler and tracks focus state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_LONGPRESS_SUGGESTER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_LONGPRESS_SUGGESTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapper-based lobster image provider header
+// summary: Declares LobsterImageProviderFromSnapper, which implements the image fetcher provider on top of manta's SnapperProvider.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_IMAGE_PROVIDER_FROM_SNAPPER_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_IMAGE_PROVIDER_FROM_SNAPPER_H_
 

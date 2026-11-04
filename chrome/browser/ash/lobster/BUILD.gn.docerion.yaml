@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Lobster ChromeOS library
+summary: Defines the Lobster static library, test support, and unit test targets with their sources and dependencies.

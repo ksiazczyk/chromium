@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the kcer Ash factory
+summary: Defines the kcer static library and its browser test targets, listing sources and build dependencies for the Ash Kcer factory.

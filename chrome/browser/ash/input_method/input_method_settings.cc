@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method settings implementation
+// summary: Builds input method settings objects from preferences for various keyboard engines and records usage metrics.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_settings.h"
 
 #include <string_view>
