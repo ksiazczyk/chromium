@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserMetricsAction struct header
+// summary: Defines a constexpr struct that standardizes string-literal parameters for recording user metrics actions so tooling can extract action names from source code.
+// ---
+
 #ifndef BASE_METRICS_USER_METRICS_ACTION_H_
 #define BASE_METRICS_USER_METRICS_ACTION_H_
 

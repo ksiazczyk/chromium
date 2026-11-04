@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the numerics library
+summary: Defines the header-only numerics source set and its unit test target, guarding against accidental external dependencies.

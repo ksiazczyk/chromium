@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenBSD process handle implementation
+// summary: Implements parent process ID lookup and executable path retrieval on OpenBSD via sysctl kernel process queries.
+// ---
+
 #include "base/process/process_handle.h"
 
 #include <stddef.h>

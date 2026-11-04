@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS power monitor device source implementation
+// summary: Implements the ChromeOS power monitor source, exposing static entry points for powerd events to update battery, suspend, resume, and thermal state.
+// ---
+
 #include "base/power_monitor/power_monitor_device_source.h"
 
 #include "base/power_monitor/power_monitor.h"

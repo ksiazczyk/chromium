@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling event source interface
+// summary: Declares the abstract SamplingEventSource interface that starts sampling events, delivers them via a callback, and reports the expected sample interval.
+// ---
+
 #ifndef BASE_POWER_MONITOR_SAMPLING_EVENT_SOURCE_H_
 #define BASE_POWER_MONITOR_SAMPLING_EVENT_SOURCE_H_
 

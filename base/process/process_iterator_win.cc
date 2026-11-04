@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows process iterator implementation
+// summary: Implements ProcessIterator for Windows using a Toolhelp32 process snapshot and case-insensitive executable name matching.
+// ---
+
 #include "base/process/process_iterator.h"
 
 #include "base/strings/string_util.h"

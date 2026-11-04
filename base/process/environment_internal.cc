@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Environment block internals implementation
+// summary: Implements reading, setting and altering the process environment block for POSIX, Fuchsia and Windows platforms.
+// ---
+
 #include "base/process/environment_internal.h"
 
 #include <stddef.h>

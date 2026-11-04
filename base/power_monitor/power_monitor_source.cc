@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power monitor source implementation
+// summary: Implements PowerMonitorSource by dispatching power, suspend, resume, thermal, and speed limit events to the PowerMonitor and its observers.
+// ---
+
 #include "base/power_monitor/power_monitor_source.h"
 
 #include "base/notreached.h"

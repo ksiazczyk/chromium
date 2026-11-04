@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows process termination status implementation
+// summary: Implements GetTerminationStatus on Windows by mapping exit codes to TerminationStatus, and provides WaitForProcessesToExit and CleanupProcesses.
+// ---
+
 #include "base/process/kill.h"
 
 #include <windows.h>

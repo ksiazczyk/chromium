@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clamped math implementation details
+// summary: Internal wrappers and operation templates for saturating arithmetic, including SaturatedNegWrapper, SaturatedAbsWrapper, and clamped add, subtract, and multiply ops.
+// ---
+
 #ifndef BASE_NUMERICS_CLAMPED_MATH_IMPL_H_
 #define BASE_NUMERICS_CLAMPED_MATH_IMPL_H_
 

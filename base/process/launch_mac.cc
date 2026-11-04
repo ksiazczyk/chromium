@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS process launch implementation (launch_mac.cc)
+// summary: Implements LaunchProcess on macOS with posix_spawn, including tvOS simulator availability workarounds and Mach port rendezvous support.
+// ---
+
 #include "build/build_config.h"
 
 #if BUILDFLAG(IS_IOS_TVOS)

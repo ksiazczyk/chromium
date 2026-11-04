@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenBSD process iterator implementation
+// summary: Implements ProcessIterator for OpenBSD, using sysctl to list processes and extract executable names and command-line arguments.
+// ---
+
 #include "base/process/process_iterator.h"
 
 #include <errno.h>

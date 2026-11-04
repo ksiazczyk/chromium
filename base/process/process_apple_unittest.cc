@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for Apple process creation time
+// summary: Verifies that Process::CreationTime returns a valid, non-null time not in the future for the current process on Apple platforms.
+// ---
+
 #include "base/process/process.h"
 
 #include "base/time/time.h"

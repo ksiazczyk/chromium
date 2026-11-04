@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dispatch layer for optimized safe math operations
+// summary: Internal header that selects optimized safe math implementations per platform and supplies non-functional fallbacks that fail compilation when unsupported.
+// ---
+
 #ifndef BASE_NUMERICS_SAFE_MATH_SHARED_IMPL_H_
 #define BASE_NUMERICS_SAFE_MATH_SHARED_IMPL_H_
 

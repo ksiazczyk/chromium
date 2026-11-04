@@ -5,6 +5,12 @@
 // This file contains internal routines that are called by other files in
 // base/process/.
 
+// ---docerion
+// type: source
+// title: AIX /proc process stats helper declarations
+// summary: Declares internal routines and field enums for reading process statistics from AIX /proc psinfo files.
+// ---
+
 #ifndef BASE_PROCESS_INTERNAL_AIX_H_
 #define BASE_PROCESS_INTERNAL_AIX_H_
 

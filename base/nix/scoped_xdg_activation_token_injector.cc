@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped XDG activation token injector implementation
+// summary: Implements a scoped helper that temporarily adds the XDG activation token switch to a command line and removes it on destruction.
+// ---
+
 #include "base/nix/scoped_xdg_activation_token_injector.h"
 
 #include "base/command_line.h"

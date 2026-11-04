@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple process creation time implementation
+// summary: Implements Process::CreationTime on Apple platforms by reading the process start time through a sysctl query for the given PID.
+// ---
+
 #include "base/process/process.h"
 
 #include <sys/sysctl.h>

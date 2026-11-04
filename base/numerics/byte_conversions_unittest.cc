@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Byte conversions unit tests
+// summary: Unit tests for base/numerics/byte_conversions.h, verifying native, little, and big endian byte conversions across a wide range of integer, floating point, and enum types.
+// ---
+
 #include "base/numerics/byte_conversions.h"
 
 #include <algorithm>

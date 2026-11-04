@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BucketRanges unit tests
+// summary: Unit tests covering BucketRanges setup, equality, checksum behavior, and validation of ranges built from data.
+// ---
+
 #include "base/metrics/bucket_ranges.h"
 
 #include <stdint.h>

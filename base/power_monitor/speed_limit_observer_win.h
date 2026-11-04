@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows CPU speed limit observer
+// summary: Declares the Windows observer that periodically computes a CPU speed-limit metric with a moving-average filter and routes new values to PowerMonitorSource.
+// ---
+
 #ifndef BASE_POWER_MONITOR_SPEED_LIMIT_OBSERVER_WIN_H_
 #define BASE_POWER_MONITOR_SPEED_LIMIT_OBSERVER_WIN_H_
 

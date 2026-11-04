@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric name hashing implementation
+// summary: Implements MD5-based hashing of metric names and SHA1-based hashing of field trial names for metrics reporting.
+// ---
+
 #include "base/metrics/metrics_hashes.h"
 
 #include <string.h>

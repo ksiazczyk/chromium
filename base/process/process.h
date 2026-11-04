@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::Process class declaration
+// summary: Declares the move-only base::Process class for opening, inspecting, prioritizing, duplicating, and terminating processes across platforms in Chromium's base library.
+// ---
+
 #ifndef BASE_PROCESS_PROCESS_H_
 #define BASE_PROCESS_PROCESS_H_
 

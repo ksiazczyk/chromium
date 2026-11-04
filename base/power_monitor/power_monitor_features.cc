@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power monitor feature definitions
+// summary: Defines the kRemoveIOSPowerEventNotifications feature flag that disables iOS suspend and resume power event notifications.
+// ---
+
 #include "base/power_monitor/power_monitor_features.h"
 
 #include "base/feature_list.h"

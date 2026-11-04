@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CurrentProcess class declaration
+// summary: Declares the CurrentProcess class that provides access-controlled access to the current process type and name for metrics and tracing.
+// ---
+
 #ifndef BASE_PROCESS_CURRENT_PROCESS_H_
 #define BASE_PROCESS_CURRENT_PROCESS_H_
 

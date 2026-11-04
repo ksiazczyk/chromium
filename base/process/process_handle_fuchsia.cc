@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia process handle implementation
+// summary: Implements process handle and ID lookups for Fuchsia using the zx self handle and koids.
+// ---
+
 #include "base/process/process_handle.h"
 
 #include <lib/zx/process.h>

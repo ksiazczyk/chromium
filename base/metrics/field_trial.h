@@ -64,6 +64,12 @@
 
 //------------------------------------------------------------------------------
 
+// ---docerion
+// type: source
+// title: FieldTrial class declaration and documentation
+// summary: Declares the FieldTrial class for running statistical experiments in the field, with usage documentation and examples for group assignment and synthetic trials.
+// ---
+
 #ifndef BASE_METRICS_FIELD_TRIAL_H_
 #define BASE_METRICS_FIELD_TRIAL_H_
 

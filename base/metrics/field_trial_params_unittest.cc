@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field trial params unit tests
+// summary: Unit tests covering association, lookup, and parsing of field trial parameters, including failure cases and trial activation behavior.
+// ---
+
 #include "base/metrics/field_trial_params.h"
 
 #include <memory>

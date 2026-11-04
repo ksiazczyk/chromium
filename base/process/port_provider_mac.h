@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac port provider interface
+// summary: Declares PortProvider, an abstract mapping from process handles to Mach task ports, with observer notification support.
+// ---
+
 #ifndef BASE_PROCESS_PORT_PROVIDER_MAC_H_
 #define BASE_PROCESS_PORT_PROVIDER_MAC_H_
 

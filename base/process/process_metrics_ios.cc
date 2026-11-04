@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS process metrics implementation
+// summary: Provides the minimal iOS ProcessMetrics constructor and factory, with the actual metrics logic shared with the Apple implementation.
+// ---
+
 #include "base/process/process_metrics.h"
 
 #include <malloc/malloc.h>

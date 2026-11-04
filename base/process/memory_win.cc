@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows memory management for base processes
+// summary: Implements out-of-memory termination and unchecked allocation on Windows, using the allocator shim when available.
+// ---
+
 #include "base/process/memory.h"
 
 #include "partition_alloc/buildflags.h"

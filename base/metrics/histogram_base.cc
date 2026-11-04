@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistogramBase implementation
+// summary: Implements HistogramBase, including histogram type names, JSON serialization, deserialization dispatch, and flag management.
+// ---
+
 #include "base/metrics/histogram_base.h"
 
 #include <limits.h>

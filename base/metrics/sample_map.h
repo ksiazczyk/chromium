@@ -5,6 +5,12 @@
 // SampleMap implements HistogramSamples interface. It is used by the
 // SparseHistogram class to store samples.
 
+// ---docerion
+// type: source
+// title: SampleMap header for sparse histogram sample storage
+// summary: Declares SampleMap, a HistogramSamples implementation used by SparseHistogram to store sample counts in a local map.
+// ---
+
 #ifndef BASE_METRICS_SAMPLE_MAP_H_
 #define BASE_METRICS_SAMPLE_MAP_H_
 

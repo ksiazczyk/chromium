@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sysctl string value helpers implementation
+// summary: Implements base::StringSysctl and base::StringSysctlByName, wrapping sysctl and sysctlbyname to read kernel values as strings returned via std::optional.
+// ---
+
 #include "base/posix/sysctl.h"
 
 #include <sys/sysctl.h>

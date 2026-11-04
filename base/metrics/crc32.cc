@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRC-32 implementation
+// summary: Implements the Crc32 function using zlib's crc32_z for fast, non-secure data integrity checks.
+// ---
+
 #include "base/metrics/crc32.h"
 #include "third_party/zlib/zlib.h"
 

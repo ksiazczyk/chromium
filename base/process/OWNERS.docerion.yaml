@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for base/process
+summary: Defines code owners for the process directory and routes launch_fuchsia files to the Fuchsia sandbox security owners.

@@ -1,0 +1,4 @@
+# Docerion header of thermal_state_observer_mac.mm.
+type: source
+title: Mac thermal state observer implementation
+summary: macOS implementation that maps NSProcessInfo thermal states to DeviceThermalState and fetches the CPU speed limit via IOKit power status APIs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram delta serialization implementation
+// summary: Implements HistogramDeltaSerialization, which serializes histogram deltas into Pickles and deserializes them to add samples, distinguishing IPC-sourced histograms.
+// ---
+
 #include "base/metrics/histogram_delta_serialization.h"
 
 #include "base/containers/span.h"

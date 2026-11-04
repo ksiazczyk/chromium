@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows process info implementation
+// summary: Implements Windows integrity level, elevation, and App Container checks using access tokens.
+// ---
+
 #include "base/process/process_info.h"
 
 #include <windows.h>

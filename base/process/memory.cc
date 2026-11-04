@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process memory utilities implementation (memory.cc)
+// summary: Implements internal ReleaseAddressSpaceReservation via PartitionAlloc and pulls in platform and allocator shim support for process memory utilities.
+// ---
+
 #include "base/process/memory.h"
 
 #include <string.h>

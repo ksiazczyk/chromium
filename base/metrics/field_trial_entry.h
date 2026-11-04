@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialEntry struct declaration
+// summary: Declares the FieldTrialEntry struct representing a field trial in shared memory, with accessors for its pickled trial name, group, and parameters.
+// ---
+
 #ifndef BASE_METRICS_FIELD_TRIAL_ENTRY_H_
 #define BASE_METRICS_FIELD_TRIAL_ENTRY_H_
 

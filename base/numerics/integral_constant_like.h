@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntegralConstantLike concept
+// summary: Defines the IntegralConstantLike C++ concept that matches types behaving like integral constants, mirroring the exposition-only concept from the span standard header.
+// ---
+
 #ifndef BASE_NUMERICS_INTEGRAL_CONSTANT_LIKE_H_
 #define BASE_NUMERICS_INTEGRAL_CONSTANT_LIKE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRC-32 function declaration
+// summary: Declares the Crc32 helper for simple, fast CRC-32 integrity checks over byte spans.
+// ---
+
 #ifndef BASE_METRICS_CRC32_H_
 #define BASE_METRICS_CRC32_H_
 

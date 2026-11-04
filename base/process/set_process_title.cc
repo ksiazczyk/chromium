@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set process title from command line
+// summary: Sets the OS process title from the command line on POSIX platforms, resolving /proc/self/exe on Linux so process listings show a meaningful name instead of exe.
+// ---
+
 #include "build/build_config.h"
 
 // Define _GNU_SOURCE to ensure that <errno.h> defines

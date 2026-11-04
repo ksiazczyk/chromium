@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram samples class declarations
+// summary: Declares the HistogramSamples container that stores histogram samples with atomic single-sample support for 32/64-bit interoperability.
+// ---
+
 #ifndef BASE_METRICS_HISTOGRAM_SAMPLES_H_
 #define BASE_METRICS_HISTOGRAM_SAMPLES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistogramDeltaSerialization class declaration
+// summary: Declares HistogramDeltaSerialization, a snapshot manager that computes and serializes histogram deltas and restores them, with an optional name mapper callback.
+// ---
+
 #ifndef BASE_METRICS_HISTOGRAM_DELTA_SERIALIZATION_H_
 #define BASE_METRICS_HISTOGRAM_DELTA_SERIALIZATION_H_
 

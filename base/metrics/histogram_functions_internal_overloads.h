@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal string and char* overloads for histogram functions
+// summary: Internal header providing std::string and char* overloads of the UmaHistogram functions to save binary size; not intended to be included directly.
+// ---
+
 #ifndef BASE_METRICS_HISTOGRAM_FUNCTIONS_INTERNAL_OVERLOADS_H_
 #define BASE_METRICS_HISTOGRAM_FUNCTIONS_INTERNAL_OVERLOADS_H_
 

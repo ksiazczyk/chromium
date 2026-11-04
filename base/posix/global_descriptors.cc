@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalDescriptors singleton implementation
+// summary: Implements the GlobalDescriptors singleton that maps abstract keys to file descriptors and optional memory regions, with get, set, take, and reset operations.
+// ---
+
 #include "base/posix/global_descriptors.h"
 
 #include <utility>

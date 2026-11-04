@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia Process class implementation
+// summary: Implements the Process class for Fuchsia, locating processes in the default job tree and managing zx process handles for open, duplicate, release, and termination operations.
+// ---
+
 #include "base/process/process.h"
 
 #include <lib/zx/process.h>

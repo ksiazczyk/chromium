@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checked math implementation details
+// summary: Internal templates implementing checked arithmetic operations such as CheckedAddOp, including promotion rules and overflow detection used by checked_math.h.
+// ---
+
 #ifndef BASE_NUMERICS_CHECKED_MATH_IMPL_H_
 #define BASE_NUMERICS_CHECKED_MATH_IMPL_H_
 

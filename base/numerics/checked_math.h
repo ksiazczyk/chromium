@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckedNumeric checked arithmetic header
+// summary: Defines the CheckedNumeric class, which tracks validity of arithmetic results and offers APIs like IsValid, AssignIfValid, and ValueOrDie to detect overflow and underflow.
+// ---
+
 #ifndef BASE_NUMERICS_CHECKED_MATH_H_
 #define BASE_NUMERICS_CHECKED_MATH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessPriorityDelegate interface
+// summary: Declares an interface that intercepts process priority changes so they can be applied through another process, such as resourced on ChromeOS.
+// ---
+
 #ifndef BASE_PROCESS_PROCESS_PRIORITY_DELEGATE_H_
 #define BASE_PROCESS_PROCESS_PRIORITY_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent histogram storage header
+// summary: Declares PersistentHistogramStorage, a process-wide holder that persists recorded histograms into a base directory on destruction, with options to disable storage or reuse an existing directory.
+// ---
+
 #ifndef BASE_METRICS_PERSISTENT_HISTOGRAM_STORAGE_H_
 #define BASE_METRICS_PERSISTENT_HISTOGRAM_STORAGE_H_
 

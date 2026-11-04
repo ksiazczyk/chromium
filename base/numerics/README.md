@@ -1,3 +1,13 @@
+---
+type: readme
+title: base/numerics library documentation
+summary: Explains the safe numeric library's checked, clamped, and strict conversion APIs with common usage patterns and examples.
+relations:
+  - documents /base/numerics/checked_math.h
+  - documents /base/numerics/clamped_math.h
+  - documents /base/numerics/safe_conversions.h
+---
+
 # `base/numerics`
 
 This directory contains a dependency-free, header-only library of templates

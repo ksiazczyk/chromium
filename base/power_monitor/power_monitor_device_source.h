@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power monitor device source declaration
+// summary: Declares the device-specific power monitor source, including ChromeOS static event entry points and Windows message window and Mac IOKit platform members.
+// ---
+
 #ifndef BASE_POWER_MONITOR_POWER_MONITOR_DEVICE_SOURCE_H_
 #define BASE_POWER_MONITOR_POWER_MONITOR_DEVICE_SOURCE_H_
 

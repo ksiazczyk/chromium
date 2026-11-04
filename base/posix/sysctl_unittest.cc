@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for sysctl string value helpers
+// summary: Unit tests verifying StringSysctl and StringSysctlByName succeed for valid MIBs and names and return nullopt for invalid ones.
+// ---
+
 #include "base/posix/sysctl.h"
 
 #include <sys/sysctl.h>

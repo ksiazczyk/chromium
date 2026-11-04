@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Environment internals unit tests
+// summary: Unit tests for AlterEnvironment covering environment block changes on Windows and POSIX-style environments.
+// ---
+
 #include "base/process/environment_internal.h"
 
 #include <memory>

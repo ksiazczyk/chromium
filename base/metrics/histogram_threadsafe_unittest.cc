@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread-safe histogram tests
+// summary: Checks that histogram emission and snapshotting are thread-safe by comparing samples emitted across multiple threads with those captured in snapshots.
+// ---
+
 #include <array>
 #include <memory>
 #include <string>

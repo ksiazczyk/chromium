@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram functions unit tests
+// summary: Tests the UmaHistogram helper functions for exact linear, enumeration, boolean, percentage, and counts histograms using HistogramTester.
+// ---
+
 #include "base/metrics/histogram_functions.h"
 
 #include "base/metrics/histogram_macros.h"

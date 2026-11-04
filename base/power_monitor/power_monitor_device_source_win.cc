@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows power monitor device source
+// summary: Windows implementation of PowerMonitorDeviceSource that maps WM_POWERBROADCAST messages and GetSystemPowerStatus to power events and manages a hidden message window.
+// ---
+
 #include "base/power_monitor/power_monitor_device_source.h"
 
 #include <string>

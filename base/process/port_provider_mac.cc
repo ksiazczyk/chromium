@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac port provider implementation
+// summary: Implements PortProvider observer management and SelfPortProvider, which returns the current process's Mach task port.
+// ---
+
 #include "base/process/port_provider_mac.h"
 
 #include "base/process/process.h"

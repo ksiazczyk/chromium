@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram snapshot manager implementation
+// summary: Implements preparation of histogram snapshots and deltas, validating samples for corruption before recording them.
+// ---
+
 #include "base/metrics/histogram_snapshot_manager.h"
 
 #include <memory>

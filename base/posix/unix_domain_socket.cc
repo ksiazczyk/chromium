@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unix domain socket messaging implementation
+// summary: Implements Unix domain socket helpers including socket pair creation, sendmsg/recvmsg with SCM_RIGHTS file descriptor passing, and optional sender PID reception.
+// ---
+
 #include "base/posix/unix_domain_socket.h"
 
 #include <errno.h>

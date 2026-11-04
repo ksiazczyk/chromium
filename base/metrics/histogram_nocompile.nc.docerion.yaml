@@ -1,0 +1,4 @@
+# Docerion header of histogram_nocompile.nc.
+type: test
+title: Histogram no-compile tests
+summary: No-compile test suite asserting expected compile errors for invalid histogram macro and function usage such as mismatched enums and out-of-range boundaries.

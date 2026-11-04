@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentSampleMap implementation
+// summary: Implements the HistogramSamples interface on top of persistent memory so sparse histogram sample counts can be shared between processes or survive restarts.
+// ---
+
 #include "base/metrics/persistent_sample_map.h"
 
 #include <stddef.h>

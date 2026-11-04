@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX implementation of base::Process
+// summary: Implements the base::Process class on POSIX platforms, including timed exit waiting via waitpid and, on Linux, ChromeOS and Android, pidfd_open with ppoll.
+// ---
+
 #include "base/process/process.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File descriptor shuffle API
+// summary: Declares InjectionDelegate, InjectionArc, and ShuffleFileDescriptors for applying an injective multimap of file descriptor moves, handling cycles and swaps correctly.
+// ---
+
 #ifndef BASE_POSIX_FILE_DESCRIPTOR_SHUFFLE_H_
 #define BASE_POSIX_FILE_DESCRIPTOR_SHUFFLE_H_
 

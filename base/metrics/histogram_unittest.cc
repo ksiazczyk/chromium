@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram unit tests
+// summary: Tests Histogram behavior including construction, sample recording, bucket counts, persistent memory allocation, and corruption detection.
+// ---
+
 #include "base/metrics/histogram.h"
 
 #include <limits.h>

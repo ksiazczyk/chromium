@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU frequency estimation utilities header
+// summary: Declares structs and functions for estimating CPU frequency and throughput and for reporting per-core frequency, core type, and active core counts, currently implemented for Windows.
+// ---
+
 #ifndef BASE_POWER_MONITOR_CPU_FREQUENCY_UTILS_H_
 #define BASE_POWER_MONITOR_CPU_FREQUENCY_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe numeric conversions
+// summary: Provides checked_cast, saturated_cast, and IsValueInRangeForNumericType for range-checked numeric conversions, with optimized paths for ARM.
+// ---
+
 #ifndef BASE_NUMERICS_SAFE_CONVERSIONS_H_
 #define BASE_NUMERICS_SAFE_CONVERSIONS_H_
 

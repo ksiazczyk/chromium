@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules enforcing dependency-free numerics
+summary: Restricts includes to base/numerics only, protecting the header-only library from accidental dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timer-based sampling event source
+// summary: Declares a SamplingEventSource implementation that generates sampling events at regular time intervals using a repeating timer.
+// ---
+
 #ifndef BASE_POWER_MONITOR_TIMER_SAMPLING_EVENT_SOURCE_H_
 #define BASE_POWER_MONITOR_TIMER_SAMPLING_EVENT_SOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub implementations of base::Process
+// summary: Provides no-op stub Process methods for platforms without real process support, using a sentinel handle for the current process and crashing on immediate termination.
+// ---
+
 #include "base/process/process.h"
 
 #include <limits>

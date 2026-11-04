@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Degree and radian conversion helpers
+// summary: Provides constexpr DegToRad and RadToDeg templates for converting between degrees and radians for floating-point types.
+// ---
+
 #ifndef BASE_NUMERICS_ANGLE_CONVERSIONS_H_
 #define BASE_NUMERICS_ANGLE_CONVERSIONS_H_
 

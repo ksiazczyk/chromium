@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power monitor source interface
+// summary: Declares the PowerMonitorSource interface with power event types and virtual methods for battery power status, thermal state, and speed limit.
+// ---
+
 #ifndef BASE_POWER_MONITOR_POWER_MONITOR_SOURCE_H_
 #define BASE_POWER_MONITOR_POWER_MONITOR_SOURCE_H_
 

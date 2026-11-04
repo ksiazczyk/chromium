@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal histogram macro helpers
+// summary: Internal header for base/metrics defining helper traits and macros that construct or find histograms on first use, not intended for use outside the directory.
+// ---
+
 #ifndef BASE_METRICS_HISTOGRAM_MACROS_INTERNAL_H_
 #define BASE_METRICS_HISTOGRAM_MACROS_INTERNAL_H_
 

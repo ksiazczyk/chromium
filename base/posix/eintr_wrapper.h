@@ -14,6 +14,12 @@
 // Don't wrap close calls in HANDLE_EINTR. Use IGNORE_EINTR if the return
 // value of close is significant. See http://crbug.com/269623.
 
+// ---docerion
+// type: source
+// title: EINTR retry macros for system calls
+// summary: Defines HANDLE_EINTR and IGNORE_EINTR macros that retry or ignore system calls interrupted by signals, with a retry cap in debug builds.
+// ---
+
 #ifndef BASE_POSIX_EINTR_WRAPPER_H_
 #define BASE_POSIX_EINTR_WRAPPER_H_
 

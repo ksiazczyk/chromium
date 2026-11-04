@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared process metrics implementation
+// summary: Platform-independent parts of ProcessMetrics, including CPU usage calculation, idle wakeup rates, and system metrics sampling across platforms.
+// ---
+
 #include "base/process/process_metrics.h"
 
 #include <utility>

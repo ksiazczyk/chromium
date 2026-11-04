@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for base/nix
+summary: Lists the code owner of the base/nix directory for review routing.

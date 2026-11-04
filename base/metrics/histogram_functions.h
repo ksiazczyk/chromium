@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA histogram recording function declarations
+// summary: Declares base functions for recording UMA metrics, including enumeration, linear, boolean, percentage, and counts histograms, with usage guidance.
+// ---
+
 #ifndef BASE_METRICS_HISTOGRAM_FUNCTIONS_H_
 #define BASE_METRICS_HISTOGRAM_FUNCTIONS_H_
 

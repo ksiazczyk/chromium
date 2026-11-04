@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketRanges implementation
+// summary: Implements the BucketRanges class, including checksum calculation, validation, and equality checks for histogram bucket boundaries.
+// ---
+
 #include "base/metrics/bucket_ranges.h"
 
 #include <algorithm>

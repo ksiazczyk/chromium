@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android process priority and creation time implementation
+// summary: Implements Process priority and creation-time queries for Android, reporting fixed priorities and deriving creation time from /proc/self stats because hidepid hides other PIDs.
+// ---
+
 #include "base/process/process.h"
 
 #include "base/notimplemented.h"

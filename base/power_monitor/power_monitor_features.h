@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power monitor feature declarations
+// summary: Declares the kRemoveIOSPowerEventNotifications feature that stops the iOS power monitor from posting background and foreground power events.
+// ---
+
 #ifndef BASE_POWER_MONITOR_POWER_MONITOR_FEATURES_H_
 #define BASE_POWER_MONITOR_POWER_MONITOR_FEATURES_H_
 

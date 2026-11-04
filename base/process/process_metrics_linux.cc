@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux process metrics implementation
+// summary: Implements ProcessMetrics on Linux and ChromeOS by parsing /proc statistics for CPU usage, memory info, and per-thread metrics.
+// ---
+
 #include "base/process/process_metrics.h"
 
 #include <dirent.h>

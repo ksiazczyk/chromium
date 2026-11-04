@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux /proc process stats helpers
+// summary: Implements reading and parsing Linux /proc stat and status files to obtain process information fields.
+// ---
+
 #include "base/process/internal_linux.h"
 
 #include <limits.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialParamAssociator class declaration
+// summary: Declares the FieldTrialParamAssociator singleton that keeps track of field trial parameters and provides thread-safe access to them.
+// ---
+
 #ifndef BASE_METRICS_FIELD_TRIAL_PARAM_ASSOCIATOR_H_
 #define BASE_METRICS_FIELD_TRIAL_PARAM_ASSOCIATOR_H_
 

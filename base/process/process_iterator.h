@@ -4,6 +4,12 @@
 
 // This file contains methods to iterate over processes on the system.
 
+// ---docerion
+// type: source
+// title: Process iterator header
+// summary: Declares ProcessEntry, ProcessFilter, ProcessIterator, and NamedProcessIterator for enumerating system processes across platforms.
+// ---
+
 #ifndef BASE_PROCESS_PROCESS_ITERATOR_H_
 #define BASE_PROCESS_PROCESS_ITERATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CurrentProcess implementation
+// summary: Implements the CurrentProcess singleton, mapping process types such as browser, renderer and various services to their display names.
+// ---
+
 #include "base/process/current_process.h"
 
 namespace base {

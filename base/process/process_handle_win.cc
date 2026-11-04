@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows process handle implementation
+// summary: Implements process ID, handle, and parent ID lookups on Windows using Win32 APIs and NtQueryInformationProcess.
+// ---
+
 #include "base/process/process_handle.h"
 
 #include <windows.h>

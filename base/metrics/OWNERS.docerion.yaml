@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for metrics infrastructure
+summary: Sets the chromium-metrics-reviews review alias as owner and references METRICS_OWNERS as a fallback.

@@ -1,0 +1,4 @@
+# Docerion header of memory_mac.mm.
+type: source
+title: Mac memory management for base processes
+summary: Implements out-of-memory termination and unchecked allocation on macOS via PartitionAlloc and the allocator shim.

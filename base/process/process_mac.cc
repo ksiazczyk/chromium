@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS process control implementation
+// summary: Implements the Process class on macOS using Mach task category and suppression policies to manage backgrounding and App Nap behavior.
+// ---
+
 #include "base/process/process.h"
 
 #include <mach/mach.h>

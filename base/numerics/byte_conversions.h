@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Endian byte conversion functions
+// summary: Offers constexpr functions to convert scalar values to and from byte arrays in little, big, and native endian encodings.
+// ---
+
 #ifndef BASE_NUMERICS_BYTE_CONVERSIONS_H_
 #define BASE_NUMERICS_BYTE_CONVERSIONS_H_
 

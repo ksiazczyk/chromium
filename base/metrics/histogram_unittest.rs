@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rust histogram unit tests
+// summary: Rust tests verifying UMA histogram recording from Rust, covering boolean, exact linear, enumeration, percentage, sparse, and custom counts histograms.
+// ---
+
 chromium::import! {
     "//base:histogram";
     "//base/test:histogram_tester";

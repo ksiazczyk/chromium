@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power, suspend, and thermal observer interfaces
+// summary: Defines observer interfaces for system suspend/resume, battery power status changes, and device thermal state and CPU speed limit changes in Chromium's base library.
+// ---
+
 #ifndef BASE_POWER_MONITOR_POWER_OBSERVER_H_
 #define BASE_POWER_MONITOR_POWER_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram shared memory helper header
+// summary: Declares a helper for creating histogram shared memory regions and persistent allocators, including passing them to child processes via launch parameters.
+// ---
+
 #ifndef BASE_METRICS_HISTOGRAM_SHARED_MEMORY_H_
 #define BASE_METRICS_HISTOGRAM_SHARED_MEMORY_H_
 

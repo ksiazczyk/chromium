@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CurrentProcess test helper
+// summary: Provides the CurrentProcessForTest helper so tests can read the current process type and name without access controls.
+// ---
+
 #ifndef BASE_PROCESS_CURRENT_PROCESS_TEST_H_
 #define BASE_PROCESS_CURRENT_PROCESS_TEST_H_
 

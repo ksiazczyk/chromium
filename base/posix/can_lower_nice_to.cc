@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CanLowerNiceTo implementation for POSIX nice limits
+// summary: Implements CanLowerNiceTo, which checks whether a process may lower a nice value to a target based on root status and the RLIMIT_NICE resource limit.
+// ---
+
 #include "base/posix/can_lower_nice_to.h"
 
 #include <limits.h>

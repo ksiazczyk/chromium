@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process metrics unit tests
+// summary: Unit tests for ProcessMetrics covering cumulative CPU usage, memory info, and system metrics, including multiprocess test helpers across platforms.
+// ---
+
 #include "base/process/process_metrics.h"
 
 #include <stddef.h>

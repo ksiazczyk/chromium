@@ -5,6 +5,12 @@
 // This file contains internal routines that are called by other files in
 // base/process/.
 
+// ---docerion
+// type: source
+// title: Internal Linux process routines header
+// summary: Declares internal helpers in base/process for reading and parsing /proc files on Linux, including process stat field enums and status field extraction.
+// ---
+
 #ifndef BASE_PROCESS_INTERNAL_LINUX_H_
 #define BASE_PROCESS_INTERNAL_LINUX_H_
 

@@ -6,6 +6,12 @@
 // by the SparseHistogram class to store samples in persistent memory which
 // allows it to be shared between processes or live across restarts.
 
+// ---docerion
+// type: source
+// title: PersistentSampleMap header
+// summary: Declares the PersistentSampleMap class that stores histogram sample counts in persistent memory via a PersistentHistogramAllocator for cross-process sharing.
+// ---
+
 #ifndef BASE_METRICS_PERSISTENT_SAMPLE_MAP_H_
 #define BASE_METRICS_PERSISTENT_SAMPLE_MAP_H_
 

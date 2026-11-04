@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for SetProcessTitleFromCommandLine
+// summary: Declares SetProcessTitleFromCommandLine, which sets OS-specific process title information from main's argv and does nothing where unsupported.
+// ---
+
 #ifndef BASE_PROCESS_SET_PROCESS_TITLE_H_
 #define BASE_PROCESS_SET_PROCESS_TITLE_H_
 

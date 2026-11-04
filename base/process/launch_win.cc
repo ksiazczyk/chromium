@@ -1,6 +1,13 @@
 // Copyright 2012 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Windows process launch implementation (launch_win.cc)
+// summary: Implements LaunchProcess and GetAppOutput helpers on Windows using CreatePipe and CreateProcess, with timeout handling and partial output callbacks.
+// ---
+
 #include "base/process/launch.h"
 
 #include <fcntl.h>

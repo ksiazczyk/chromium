@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS process termination implementation
+// summary: Implements EnsureProcessTerminated on iOS, waiting briefly for child processes to exit before terminating them, with special handling for content processes.
+// ---
+
 #include "base/process/kill.h"
 
 #include "base/task/thread_pool.h"

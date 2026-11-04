@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process unique ID and handle helpers implementation
+// summary: Implements process ID helpers, including unique process IDs for logging and PID namespace support on Linux, ChromeOS, and AIX.
+// ---
+
 #include "base/process/process_handle.h"
 
 #include <stdint.h>

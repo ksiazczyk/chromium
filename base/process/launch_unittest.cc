@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GetAppOutput with missing executables (launch_unittest.cc)
+// summary: Tests that GetAppOutput and GetAppOutputWithExitCode fail as expected when the executable does not exist, with platform-specific exit code checks.
+// ---
+
 #include "base/process/launch.h"
 
 #include <string>

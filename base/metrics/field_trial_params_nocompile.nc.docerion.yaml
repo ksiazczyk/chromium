@@ -1,0 +1,4 @@
+# Docerion header of field_trial_params_nocompile.nc.
+type: test
+title: Field trial params no-compile tests
+summary: No-compile test suite verifying that invalid FeatureParam template instantiations, such as unsupported types or null options, fail to compile.

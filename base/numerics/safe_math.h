@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Umbrella header for the safe math library
+// summary: Umbrella header that re-exports the checked math, clamped math, and safe conversions public headers as a single safe math include.
+// ---
+
 #ifndef BASE_NUMERICS_SAFE_MATH_H_
 #define BASE_NUMERICS_SAFE_MATH_H_
 

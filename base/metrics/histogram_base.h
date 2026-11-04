@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistogramBase class declaration
+// summary: Declares the HistogramBase interface, HistogramType enum, flags, and shared sample types used by all histogram subclasses.
+// ---
+
 #ifndef BASE_METRICS_HISTOGRAM_BASE_H_
 #define BASE_METRICS_HISTOGRAM_BASE_H_
 

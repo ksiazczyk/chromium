@@ -5,6 +5,12 @@
 // SampleVector implements HistogramSamples interface. It is used by all
 // Histogram based classes to store samples.
 
+// ---docerion
+// type: source
+// title: SampleVector header for histogram sample storage
+// summary: Declares SampleVectorBase, a HistogramSamples implementation storing per-bucket counts against shared BucketRanges for histogram classes.
+// ---
+
 #ifndef BASE_METRICS_SAMPLE_VECTOR_H_
 #define BASE_METRICS_SAMPLE_VECTOR_H_
 

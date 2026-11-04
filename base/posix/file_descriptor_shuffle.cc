@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File descriptor shuffle implementation
+// summary: Implements PerformInjectiveMultimap and FileDescriptorTableInjection to safely rearrange, duplicate, and close file descriptors when forking subprocesses.
+// ---
+
 #include "base/posix/file_descriptor_shuffle.h"
 
 #include <stddef.h>
