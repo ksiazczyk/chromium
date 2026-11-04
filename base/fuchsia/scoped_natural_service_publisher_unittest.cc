@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedNaturalServicePublisher
+// summary: Unit tests verifying ScopedNaturalServicePublisher publishes natural FIDL services in the outgoing directory and pseudo dirs, and stops new connections after destruction.
+// ---
+
 #include <fidl/base.testfidl/cpp/fidl.h>
 #include <fuchsia/io/cpp/fidl.h>
 #include <lib/async/default.h>

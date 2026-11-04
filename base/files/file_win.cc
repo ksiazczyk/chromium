@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows File class implementation
+// summary: Windows implementation of the File class providing handle management, seek, read and write operations through Win32 APIs with blocking call tracking and file tracing.
+// ---
+
 #include "base/files/file.h"
 
 #include <windows.h>

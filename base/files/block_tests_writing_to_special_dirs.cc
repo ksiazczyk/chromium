@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Block tests writing to special dirs implementation
+// summary: Implements BlockTestsWritingToSpecialDirs, letting production code check whether tests are blocked from writing to special directories while still allowing temp directory paths.
+// ---
+
 #include "base/files/block_tests_writing_to_special_dirs.h"
 
 #include <utility>

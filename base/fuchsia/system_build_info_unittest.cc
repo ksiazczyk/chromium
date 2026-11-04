@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for cached Fuchsia build info
+// summary: Tests that GetCachedBuildInfo DCHECKs when system info was not fetched and verifies cached build info fields are populated after fetching.
+// ---
+
 #include <fidl/fuchsia.buildinfo/cpp/fidl.h>
 
 #include "base/fuchsia/system_info.h"

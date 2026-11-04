@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia file utilities implementation
+// summary: Implements opening read-only or writable Fuchsia directory handles and defines standard directory path constants.
+// ---
+
 #include "base/fuchsia/file_utils.h"
 
 #include <fcntl.h>

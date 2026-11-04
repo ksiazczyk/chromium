@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust shim implementation for FilePath
+// summary: Implements conversion functions between C++ FilePath and Rust byte or wide-character slices for the Rust FFI on each platform.
+// ---
+
 #include "base/files/file_path_rust_shim.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File class header
+// summary: Declares base::File, a thin wrapper around an OS-level file, defining open flags, error enums and read, write, info and platform-handle APIs.
+// ---
+
 #ifndef BASE_FILES_FILE_H_
 #define BASE_FILES_FILE_H_
 

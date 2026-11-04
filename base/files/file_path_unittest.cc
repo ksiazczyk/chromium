@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilePath unit tests
+// summary: Unit tests covering FilePath behavior such as DirName, BaseName, extensions, drive letters, and separators across platforms.
+// ---
+
 #include "base/files/file_path.h"
 
 #include <stddef.h>

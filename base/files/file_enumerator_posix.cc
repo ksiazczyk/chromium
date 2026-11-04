@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileEnumerator POSIX implementation
+// summary: Implements FileEnumerator for POSIX systems, including Android content URI support, symlink handling and directory traversal via dirent APIs.
+// ---
+
 #include "base/files/file_enumerator.h"
 
 #include <dirent.h>

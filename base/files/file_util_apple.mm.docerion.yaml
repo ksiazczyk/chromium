@@ -1,0 +1,4 @@
+# Docerion header of file_util_apple.mm.
+type: source
+title: Apple file utility implementation
+summary: Apple-specific file utility functions such as CopyFile, temp and home directory lookup honoring MAC_CHROMIUM_TMPDIR, and canonicalized Darwin user directory resolution on macOS.

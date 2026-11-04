@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intl profile watcher unit tests
+// summary: Tests the intl profile watcher using fake PropertyProvider implementations covering time zone and locale change notifications.
+// ---
+
 #include "base/fuchsia/intl_profile_watcher.h"
 
 #include <fuchsia/intl/cpp/fidl_test_base.h>

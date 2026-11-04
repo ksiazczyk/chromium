@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal implementation of the Bind system
+// summary: Implements the internal machinery behind Bind, including functor and storage traits, invokers, bind state, and unretained pointer wrappers.
+// ---
+
 #ifndef BASE_FUNCTIONAL_BIND_INTERNAL_H_
 #define BASE_FUNCTIONAL_BIND_INTERNAL_H_
 

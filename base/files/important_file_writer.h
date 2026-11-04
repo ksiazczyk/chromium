@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Atomic file writer class declaration
+// summary: Declares ImportantFileWriter, a helper that writes files atomically so they survive application crashes, including serializer interfaces, scheduled saves and missing-file restoration.
+// ---
+
 #ifndef BASE_FILES_IMPORTANT_FILE_WRITER_H_
 #define BASE_FILES_IMPORTANT_FILE_WRITER_H_
 

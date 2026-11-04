@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust shim for base::File
+// summary: Implements conversion functions between raw Windows handles or POSIX file descriptors and base::File objects for Rust interoperability.
+// ---
+
 #include "base/files/file_rust_shim.h"
 
 namespace base::rust::file {

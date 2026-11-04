@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File utility implementation
+// summary: Implements shared filesystem utility functions, including stream-based reads into spans with platform-specific size handling and asynchronous helpers.
+// ---
+
 #include "base/files/file_util.h"
 
 #include <algorithm>

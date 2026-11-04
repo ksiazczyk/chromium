@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia file utilities API
+// summary: Declares Fuchsia directory path constants and functions to open read-only or writable directory handles.
+// ---
+
 #ifndef BASE_FUCHSIA_FILE_UTILS_H_
 #define BASE_FUCHSIA_FILE_UTILS_H_
 

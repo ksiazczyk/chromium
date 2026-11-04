@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File class implementation
+// summary: Implements the cross-platform base::File wrapper with constructors, move semantics, span-based Read and Write helpers, tracing hooks and error handling.
+// ---
+
 #include "base/files/file.h"
 
 #include <utility>

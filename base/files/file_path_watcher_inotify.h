@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inotify watcher limit helpers
+// summary: Declares helpers to query the maximum number of inotify watches and to override that limit in tests.
+// ---
+
 #ifndef BASE_FILES_FILE_PATH_WATCHER_INOTIFY_H_
 #define BASE_FILES_FILE_PATH_WATCHER_INOTIFY_H_
 

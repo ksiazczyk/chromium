@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia memory buffer utility declarations
+// summary: Declares helpers to create, read, and clone Fuchsia VMOs and fuchsia.mem buffers from strings and files.
+// ---
+
 #ifndef BASE_FUCHSIA_MEM_BUFFER_UTIL_H_
 #define BASE_FUCHSIA_MEM_BUFFER_UTIL_H_
 

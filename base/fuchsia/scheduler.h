@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia scheduler role configuration
+// summary: Defines the SchedulerRoles mode enum, the audio scheduling period, and setters for how Fuchsia scheduler thread roles are applied.
+// ---
+
 #ifndef BASE_FUCHSIA_SCHEDULER_H_
 #define BASE_FUCHSIA_SCHEDULER_H_
 

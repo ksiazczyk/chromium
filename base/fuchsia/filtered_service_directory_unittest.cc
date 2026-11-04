@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilteredServiceDirectory unit tests
+// summary: Unit tests verifying connection to allowed services, blocking of non-allowed services, and handling of missing or destroyed underlying service directories.
+// ---
+
 #include "base/fuchsia/filtered_service_directory.h"
 
 #include <lib/sys/cpp/component_context.h>

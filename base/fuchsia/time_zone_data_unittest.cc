@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Time zone data unit tests
+// summary: Unit tests verifying that the ICU time zone data revision matches the system configuration and that a known tzdata format still loads, crashing on invalid paths.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/i18n/icu_util.h"
 #include "base/logging.h"

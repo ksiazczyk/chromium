@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory-mapped file class declaration
+// summary: Declares base::MemoryMappedFile with access modes, region support, and helpers for mapping files into memory.
+// ---
+
 #ifndef BASE_FILES_MEMORY_MAPPED_FILE_H_
 #define BASE_FILES_MEMORY_MAPPED_FILE_H_
 

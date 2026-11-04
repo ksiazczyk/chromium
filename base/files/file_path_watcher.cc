@@ -5,6 +5,12 @@
 // Cross platform methods for FilePathWatcher. See the various platform
 // specific implementation files, too.
 
+// ---docerion
+// type: source
+// title: FilePathWatcher cross-platform implementation
+// summary: Implements the cross-platform parts of FilePathWatcher, delegating watch requests to platform-specific delegates.
+// ---
+
 #include "base/files/file_path_watcher.h"
 
 #include <memory>

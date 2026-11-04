@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: base::File unit tests
+// summary: Unit tests for base::File covering create, open, read, write, locking, delete-on-close and Android virtual document path behaviors across platforms.
+// ---
+
 #include "base/files/file.h"
 
 #include <stdint.h>

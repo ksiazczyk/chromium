@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Important file writer implementation
+// summary: Implements atomic file writes via create, flush and rename, with Windows ReplaceFile retries, histogram metrics and restoration of missing files from leftover temporary files.
+// ---
+
 #include "base/files/important_file_writer.h"
 
 #include <stddef.h>

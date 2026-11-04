@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilePath implementation
+// summary: Implements the base::FilePath class for cross-platform pathname manipulation, including drive letters, separators, extensions, and Pickle serialization.
+// ---
+
 #include "base/files/file_path.h"
 
 #include <string.h>

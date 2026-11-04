@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Posix directory reader
+// summary: Tests that DirReaderPosix enumerates files in a temporary directory, including dot entries, skipping the check when the fallback implementation is active.
+// ---
+
 #include "base/files/dir_reader_posix.h"
 
 #include <fcntl.h>

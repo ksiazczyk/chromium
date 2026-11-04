@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileEnumerator Windows implementation
+// summary: Implements FileEnumerator for Windows using Win32 find APIs, building search filters and exposing file attributes, sizes and modification times.
+// ---
+
 #include "base/files/file_enumerator.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileProxy implementation
+// summary: Implements FileProxy helper classes that run file operations on a TaskRunner and report results back, enabling asynchronous access to base::File.
+// ---
+
 #include "base/files/file_proxy.h"
 
 #include <memory>

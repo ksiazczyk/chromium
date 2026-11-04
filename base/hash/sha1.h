@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SHA-1 hashing header for base
+// summary: Declares base::SHA1Hash and base::SHA1HashString, which compute 20-byte SHA-1 digests of byte spans and strings.
+// ---
+
 #ifndef BASE_HASH_SHA1_H_
 #define BASE_HASH_SHA1_H_
 

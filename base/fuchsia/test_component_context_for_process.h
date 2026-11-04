@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test component context for process
+// summary: Declares TestComponentContextForProcess, which swaps in a configurable component context for tests and documents service injection and publication usage.
+// ---
+
 #ifndef BASE_FUCHSIA_TEST_COMPONENT_CONTEXT_FOR_PROCESS_H_
 #define BASE_FUCHSIA_TEST_COMPONENT_CONTEXT_FOR_PROCESS_H_
 

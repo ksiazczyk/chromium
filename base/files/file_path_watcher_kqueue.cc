@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kqueue-based file path watcher for macOS
+// summary: Implements non-recursive file path watching on macOS using kqueue vnode events, tracking each path component with file descriptors.
+// ---
+
 #include "base/files/file_path_watcher_kqueue.h"
 
 #include <fcntl.h>

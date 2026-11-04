@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FunctionRef non-owning invocable reference header
+// summary: Declares base::FunctionRef, a non-owning, allocation-free reference to any invocable, intended for synchronous visitor-style function arguments.
+// ---
+
 #ifndef BASE_FUNCTIONAL_FUNCTION_REF_H_
 #define BASE_FUNCTIONAL_FUNCTION_REF_H_
 

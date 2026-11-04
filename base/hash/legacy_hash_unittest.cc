@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for legacy CityHash
+// summary: Checks that legacy CityHash64 and CityHash64WithSeed produce fixed expected values for sample inputs, with and without a seed.
+// ---
+
 #include "base/hash/legacy_hash.h"
 
 #include <stdint.h>

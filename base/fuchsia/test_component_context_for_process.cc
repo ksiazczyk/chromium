@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test component context implementation
+// summary: Implements a test replacement for the process-global Fuchsia component context, backed by a filtered service directory with optional service cloning.
+// ---
+
 #include "base/fuchsia/test_component_context_for_process.h"
 
 #include <fidl/fuchsia.io/cpp/hlcpp_conversion.h>

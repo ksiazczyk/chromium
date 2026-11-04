@@ -6,6 +6,12 @@
 // file paths. This includes Unix systems that don't have the inotify headers
 // and thus cannot build file_watcher_inotify.cc.
 
+// ---docerion
+// type: source
+// title: Stub FilePathWatcher for unsupported systems
+// summary: Provides a no-op FilePathWatcher implementation for platforms without file path watching support, always failing to watch.
+// ---
+
 #include "base/files/file_path_watcher.h"
 
 #include <memory>

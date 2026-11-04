@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SafeBaseName
+// summary: Unit tests verifying SafeBaseName creation, handling of roots and separators, and rejection of parent directory references on Windows and POSIX paths.
+// ---
+
 #include "base/files/safe_base_name.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

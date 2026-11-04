@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilePath Rust unit tests
+// summary: Rust gtest tests verifying conversion between Rust paths and base::FilePath, including non-UTF-8 Unix bytes and Windows wide strings.
+// ---
+
 use rust_gtest_interop::prelude::*;
 use std::path::Path;
 

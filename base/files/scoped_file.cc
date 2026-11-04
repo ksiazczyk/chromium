@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped file descriptor close implementation
+// summary: Implements ScopedFDCloseTraits::Free for POSIX and Fuchsia, closing file descriptors and crashing on close errors to preserve security guarantees.
+// ---
+
 #include "base/files/scoped_file.h"
 
 #include "base/check.h"

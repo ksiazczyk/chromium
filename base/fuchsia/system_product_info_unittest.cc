@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Product info retrieval unit tests
+// summary: Unit tests for GetProductInfo using a fake fuchsia.hwinfo.Product service, a test component context, and a separate retrieval thread.
+// ---
+
 #include <fidl/fuchsia.buildinfo/cpp/fidl.h>
 #include <fidl/fuchsia.hwinfo/cpp/fidl.h>
 #include <lib/async/default.h>

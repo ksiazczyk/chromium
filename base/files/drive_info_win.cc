@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows drive info implementation
+// summary: Implements GetFileDriveInfo on Windows using DeviceIoControl storage queries for seek penalty, USB bus type, removability, sector size and partition length.
+// ---
+
 #include "base/files/drive_info.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia test log listener declarations
+// summary: Declares TestLogListenerSafe and SimpleTestLogListener, test helpers that receive Fuchsia logger messages and run the message loop until an expected message arrives.
+// ---
+
 #ifndef BASE_FUCHSIA_TEST_LOG_LISTENER_SAFE_H_
 #define BASE_FUCHSIA_TEST_LOG_LISTENER_SAFE_H_
 

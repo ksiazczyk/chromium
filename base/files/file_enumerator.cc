@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileEnumerator core implementation
+// summary: Implements platform-independent parts of FileEnumerator, including FileInfo copy and move operations, dot-entry skipping, type matching and ForEach iteration.
+// ---
+
 #include "base/files/file_enumerator.h"
 
 #include "base/functional/function_ref.h"

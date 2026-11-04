@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kqueue file path watcher header
+// summary: Declares FilePathWatcherKQueue, the macOS kqueue-based platform delegate for FilePathWatcher that cannot detect file modifications in watched directories.
+// ---
+
 #ifndef BASE_FILES_FILE_PATH_WATCHER_KQUEUE_H_
 #define BASE_FILES_FILE_PATH_WATCHER_KQUEUE_H_
 

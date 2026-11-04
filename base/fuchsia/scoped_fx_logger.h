@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFxLogger class for Fuchsia logging
+// summary: Declares a thread-safe ScopedFxLogger that emits log messages to a Fuchsia LogSink, with factory methods for the process LogSink or a supplied sink.
+// ---
+
 #ifndef BASE_FUCHSIA_SCOPED_FX_LOGGER_H_
 #define BASE_FUCHSIA_SCOPED_FX_LOGGER_H_
 

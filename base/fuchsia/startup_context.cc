@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupContext implementation
+// summary: Implements unpacking of Fuchsia component start info to build a ComponentContext with incoming services and to serve the outgoing directory on demand.
+// ---
+
 #include "base/fuchsia/startup_context.h"
 
 #include <fuchsia/io/cpp/fidl.h>

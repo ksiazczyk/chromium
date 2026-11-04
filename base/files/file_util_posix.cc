@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX file utility implementation
+// summary: POSIX implementation of the base file utility API covering temporary file creation, directory traversal, path ownership verification and other file operations for Linux, macOS and related platforms.
+// ---
+
 #include "base/files/file_util.h"
 
 #include <dirent.h>

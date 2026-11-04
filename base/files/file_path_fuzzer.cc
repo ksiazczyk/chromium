@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilePath fuzzer
+// summary: Fuzzes FilePath getters, extension operations, and path combinations with random inputs and verifies Pickle roundtrip decoding.
+// ---
+
 #include "base/files/file_path.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

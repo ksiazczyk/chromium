@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Koid helpers implementation
+// summary: Implements GetKoid and GetRelatedKoid, which retrieve koid information from Zircon object handles via zx_object_get_info.
+// ---
+
 #include "base/fuchsia/koid.h"
 
 #include "base/fuchsia/fuchsia_logging.h"

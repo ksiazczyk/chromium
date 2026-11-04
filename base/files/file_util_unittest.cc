@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for file utility functions
+// summary: Extensive unit tests for the base file utility API across Windows, POSIX, macOS and Android, covering copying, moving, permissions, temporary directories and path handling.
+// ---
+
 #include "base/files/file_util.h"
 
 #include <stddef.h>

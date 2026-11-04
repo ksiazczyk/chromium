@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileErrorOr unit tests
+// summary: Unit tests verifying that FileErrorOr exposes its value or error correctly and that accessing the wrong side terminates the process.
+// ---
+
 #include "base/files/file_error_or.h"
 
 #include "base/test/gmock_expected_support.h"

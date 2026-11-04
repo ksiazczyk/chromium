@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConcurrentClosures implementation
+// summary: Implements ConcurrentClosures, which creates pending closures and posts a done closure once all previously created closures have run.
+// ---
+
 #include "base/functional/concurrent_closures.h"
 
 #include "base/functional/bind.h"

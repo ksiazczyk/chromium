@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android file utility implementation
+// summary: Android-specific file utility functions, including shared memory temp directory lookup, resolution between content URIs and virtual document paths, and copying files to the Downloads collection via JNI.
+// ---
+
 #include "base/files/file_util.h"
 
 #include "base/android/jni_string.h"

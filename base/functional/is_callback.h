@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsBaseCallback concept header
+// summary: Defines the IsBaseCallback concept, satisfied exactly by base::OnceCallback and base::RepeatingCallback instantiations.
+// ---
+
 #ifndef BASE_FUNCTIONAL_IS_CALLBACK_H_
 #define BASE_FUNCTIONAL_IS_CALLBACK_H_
 

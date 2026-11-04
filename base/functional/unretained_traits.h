@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unretained support traits header
+// summary: Defines concepts and traits deciding which types may be used with base::Unretained(), including an allowlist of opaque system types.
+// ---
+
 #ifndef BASE_FUNCTIONAL_UNRETAINED_TRAITS_H_
 #define BASE_FUNCTIONAL_UNRETAINED_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Fuchsia job implementation
+// summary: Implements accessors for the default Zircon job used to create and look up child processes, with a test-scoped override.
+// ---
+
 #include "base/fuchsia/default_job.h"
 
 #include <zircon/types.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedTempFile unit tests
+// summary: Unit tests covering ScopedTempFile creation, deletion, move construction and assignment, destruction, Reset, and boolean conversion behavior.
+// ---
+
 #include "base/files/scoped_temp_file.h"
 
 #include <utility>

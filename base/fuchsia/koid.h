@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia kernel object ID helpers
+// summary: Declares base::GetKoid and GetRelatedKoid, which return the kernel object identifiers of a Fuchsia handle and of its peer.
+// ---
+
 #ifndef BASE_FUCHSIA_KOID_H_
 #define BASE_FUCHSIA_KOID_H_
 

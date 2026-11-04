@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust shim header for FilePath
+// summary: Declares the conversion functions that bridge C++ FilePath with Rust byte and wide-character slices.
+// ---
+
 #ifndef BASE_FILES_FILE_PATH_RUST_SHIM_H_
 #define BASE_FILES_FILE_PATH_RUST_SHIM_H_
 

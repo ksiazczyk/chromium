@@ -4,6 +4,12 @@
 
 // This module provides a way to monitor a file or directory for changes.
 
+// ---docerion
+// type: source
+// title: FilePathWatcher declaration
+// summary: Declares FilePathWatcher for monitoring files or directories for changes, with change info details and recursive watch options.
+// ---
+
 #ifndef BASE_FILES_FILE_PATH_WATCHER_H_
 #define BASE_FILES_FILE_PATH_WATCHER_H_
 

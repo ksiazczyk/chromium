@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android content URI file opening
+// summary: Implements OpenAndroidFile for Android, resolving content URIs and virtual document paths to file descriptors together with Java ParcelFileDescriptor ownership.
+// ---
+
 #include "base/files/file_android.h"
 
 #include "base/android/content_uri_utils.h"

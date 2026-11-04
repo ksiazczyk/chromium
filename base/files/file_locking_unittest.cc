@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File locking multiprocess tests
+// summary: Multiprocess unit tests for file locking, checking shared and exclusive locks across parent and child processes with unlock via explicit unlock, close or exit.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file.h"
 #include "base/files/file_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SHA-1 hashing helpers
+// summary: Provides SHA1Hash and SHA1HashString wrappers around BoringSSL's SHA-1 implementation, returning fixed-length digests.
+// ---
+
 #include "base/hash/sha1.h"
 
 #include <cstdint>

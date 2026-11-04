@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy CityHash v1.0.3 interface
+// summary: Declares base::legacy CityHash64 and CityHash64WithSeed, fixed forever at CityHash v1.0.3 so outputs never change.
+// ---
+
 #ifndef BASE_HASH_LEGACY_HASH_H_
 #define BASE_HASH_LEGACY_HASH_H_
 

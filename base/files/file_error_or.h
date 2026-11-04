@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileErrorOr result type helper
+// summary: Defines the FileErrorOr alias, an expected type that holds either a file operation result value or a base::File error for filesystem methods.
+// ---
+
 #ifndef BASE_FILES_FILE_ERROR_OR_H_
 #define BASE_FILES_FILE_ERROR_OR_H_
 

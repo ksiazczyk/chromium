@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX drive info implementation
+// summary: Implements GetFileDriveInfo on POSIX systems, reading sysfs block device attributes to report rotational, removable and size characteristics, with special handling for tmpfs.
+// ---
+
 #include "base/files/drive_info.h"
 
 #include <sys/stat.h>

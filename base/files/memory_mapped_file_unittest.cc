@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory-mapped file unit tests
+// summary: Unit tests verifying whole-file and partial-region memory mapping, buffer contents, and access modes.
+// ---
+
 
 #include "base/files/memory_mapped_file.h"
 

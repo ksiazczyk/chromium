@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forward declarations for callback types
+// summary: Forward declares OnceCallback and RepeatingCallback and provides OnceClosure and RepeatingClosure aliases for lightweight inclusion.
+// ---
+
 #ifndef BASE_FUNCTIONAL_CALLBACK_FORWARD_H_
 #define BASE_FUNCTIONAL_CALLBACK_FORWARD_H_
 
