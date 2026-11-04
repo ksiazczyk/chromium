@@ -1,0 +1,4 @@
+# Docerion header of app_window_native_widget_mac.mm.
+type: source
+title: AppWindowNativeWidgetMac implementation for macOS
+summary: Creates frameless NSWindow subclasses and adds titlebar background colors for Chrome app windows on macOS.

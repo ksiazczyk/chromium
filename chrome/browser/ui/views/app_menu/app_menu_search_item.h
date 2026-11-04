@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu search item interface
+// summary: Declares AppMenuSearchItem, a lightweight adapter bridging an actions::BaseAction to the FuzzySearchItem interface used by the app menu fuzzy finder.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_SEARCH_ITEM_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_SEARCH_ITEM_H_
 

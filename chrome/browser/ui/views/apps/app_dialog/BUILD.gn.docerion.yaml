@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App dialog GN build definition
+summary: Defines the app_dialog source set and testonly browser_tests target with their sources, public headers and dependencies.

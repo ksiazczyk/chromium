@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App block dialog view class declaration
+// summary: Declares AppBlockDialogView, the dialog notifying the user that a blocked app cannot be launched.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APPS_APP_DIALOG_APP_BLOCK_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_APPS_APP_DIALOG_APP_BLOCK_DIALOG_VIEW_H_
 

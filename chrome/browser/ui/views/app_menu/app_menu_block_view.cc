@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuBlockView implementation
+// summary: Implements a horizontal row view that lays out block-style buttons for child actions and computes preferred sizes for the app menu.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_block_view.h"
 
 #include <memory>

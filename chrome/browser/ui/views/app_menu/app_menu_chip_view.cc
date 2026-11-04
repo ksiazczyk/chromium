@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuChipView implementation
+// summary: Implements the status chip view attached to menu row items, updating chip colors on selection and setting accessible names.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_chip_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self dynamic menu implementation
+// summary: Implements the Send Tab to Self submenu in the app menu, listing target devices and handling sign-in, reauth, and device selection.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/send_tab_to_self_dynamic_menu.h"
 
 #include <string>

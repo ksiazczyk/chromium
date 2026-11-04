@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App info dialog panel base implementation
+// summary: Implements AppInfoPanel, the base class for app info dialog panels, with helpers for links, headings, and layout stacks.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_info_dialog/app_info_panel.h"
 
 #include "chrome/browser/ui/navigator/browser_navigator.h"

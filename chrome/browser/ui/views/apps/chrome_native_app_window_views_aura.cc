@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura-specific Chrome native app window implementation
+// summary: Implements Aura app window behavior such as restorable show states, shape updates, Linux WM_CLASS setup and easy resize and shaped window targeters.
+// ---
+
 #include "chrome/browser/ui/views/apps/chrome_native_app_window_views_aura.h"
 
 #include <utility>

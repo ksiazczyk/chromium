@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App info dialog permissions panel implementation
+// summary: Implements the permissions panel of the app info dialog, listing active and retained file and device permissions with revoke buttons.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_info_dialog/app_info_permissions_panel.h"
 
 #include <string>

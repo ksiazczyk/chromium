@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group dynamic menu implementation
+// summary: Builds the tab group submenu actions for the app menu, including saved tab group items, icons, and group commands.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/tab_group_dynamic_menu.h"
 
 #include <memory>

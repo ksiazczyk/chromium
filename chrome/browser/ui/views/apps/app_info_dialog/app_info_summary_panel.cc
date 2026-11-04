@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App info dialog summary panel implementation
+// summary: Implements the summary panel of the app info dialog, including a combobox model for hosted app launch options.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.h"
 
 #include <stddef.h>

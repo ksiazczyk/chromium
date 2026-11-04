@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActionAppMenuTestBase header
+// summary: Declares the ActionAppMenuTestBase fixture and a mock drag-and-drop host used by action app menu tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_ACTION_APP_MENU_TEST_BASE_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_ACTION_APP_MENU_TEST_BASE_H_
 

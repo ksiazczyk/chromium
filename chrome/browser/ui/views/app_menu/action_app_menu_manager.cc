@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionAppMenuManager implementation
+// summary: Builds the app menu action hierarchy, wiring notifications, sections, footer actions, and dynamic submenus for the browser.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/action_app_menu_manager.h"
 
 #include <cstddef>

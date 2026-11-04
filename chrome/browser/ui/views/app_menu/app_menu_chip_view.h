@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuChipView header
+// summary: Declares AppMenuChipView, a status chip view that can be attached to an action app menu row item.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_CHIP_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_CHIP_VIEW_H_
 

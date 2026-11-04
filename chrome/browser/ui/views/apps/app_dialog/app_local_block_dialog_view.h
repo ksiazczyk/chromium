@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App local block dialog view class declaration
+// summary: Declares AppLocalBlockDialogView, the blocking dialog for apps blocked by local on-device settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APPS_APP_DIALOG_APP_LOCAL_BLOCK_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_APPS_APP_DIALOG_APP_LOCAL_BLOCK_DIALOG_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App uninstall dialog view browser tests
+// summary: Browser tests verifying the app uninstall dialog UI, title text, button behavior and uninstall flow across app types.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_dialog/app_uninstall_dialog_view.h"
 
 #include <memory>

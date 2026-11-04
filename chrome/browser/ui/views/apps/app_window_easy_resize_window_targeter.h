@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window easy resize window targeter class declaration
+// summary: Declares an EasyResizeWindowTargeter subclass whose hit test behavior depends on the state of the native app window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APPS_APP_WINDOW_EASY_RESIZE_WINDOW_TARGETER_H_
 #define CHROME_BROWSER_UI_VIEWS_APPS_APP_WINDOW_EASY_RESIZE_WINDOW_TARGETER_H_
 

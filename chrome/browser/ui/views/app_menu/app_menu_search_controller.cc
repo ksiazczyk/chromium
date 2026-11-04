@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu search controller implementation
+// summary: Implements AppMenuSearchController, which indexes app menu items and runs fuzzy search to build categorized result trees.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_search_controller.h"
 
 #include <optional>

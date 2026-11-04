@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks dynamic menu implementation
+// summary: Implements the dynamic bookmarks submenu for the app menu, including building bookmark actions, drag-and-drop handling and observing bookmark model changes.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/bookmarks_dynamic_menu.h"
 
 #include <memory>

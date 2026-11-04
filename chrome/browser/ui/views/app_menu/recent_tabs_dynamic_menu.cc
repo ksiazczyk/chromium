@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent tabs dynamic menu implementation
+// summary: Builds the recent tabs submenu actions for the app menu, handling favicon fetching, tab restore, and cross-device tab entries.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/recent_tabs_dynamic_menu.h"
 
 #include <algorithm>

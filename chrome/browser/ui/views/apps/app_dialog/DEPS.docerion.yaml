@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App dialog include dependency rules
+summary: Chromium DEPS rule granting app_uninstall_dialog_view.cc an include exception for ash/strings headers.

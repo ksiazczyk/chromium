@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuActionItem header
+// summary: Declares display types, item heights, action parameters, and factory functions shared by app menu action items.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_ACTION_ITEM_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_ACTION_ITEM_H_
 

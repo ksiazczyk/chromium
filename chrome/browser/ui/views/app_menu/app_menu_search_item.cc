@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu search item implementation
+// summary: Implements AppMenuSearchItem and its builder, adapting an actions::BaseAction or ActionItem into a fuzzy search entry with title, secondary text and icon override.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_search_item.h"
 
 #include <memory>

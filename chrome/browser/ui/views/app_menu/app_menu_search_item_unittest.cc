@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu search item unit tests
+// summary: Tests AppMenuSearchItem builder behavior, including basic properties, default secondary text and synonyms, and the different item types such as action, bookmark and tab group.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_search_item.h"
 
 #include <memory>

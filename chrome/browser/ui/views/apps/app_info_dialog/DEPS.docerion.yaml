@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App info dialog include rules
+summary: Dependency allowlist letting app_info_footer_panel.cc include ash string headers.

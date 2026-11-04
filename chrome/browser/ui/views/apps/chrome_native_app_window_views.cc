@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome native app window views implementation
+// summary: Implements shared ChromeNativeAppWindowViews behavior including window accelerators, kiosk-mode zoom and DevTools shortcuts, app icons and frame handling.
+// ---
+
 #include "chrome/browser/ui/views/apps/chrome_native_app_window_views.h"
 
 #include <stddef.h>

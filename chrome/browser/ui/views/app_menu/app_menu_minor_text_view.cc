@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu minor text view implementation
+// summary: Implements AppMenuMinorTextView, a secondary text label attached to menu rows such as the upgrade notification row.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_minor_text_view.h"
 
 #include <memory>

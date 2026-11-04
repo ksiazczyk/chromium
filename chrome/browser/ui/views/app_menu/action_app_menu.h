@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionAppMenu class declaration
+// summary: Declares the ActionAppMenu coordinator for the Block Style ChroMenu, including menu delegate and drag-and-drop interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_ACTION_APP_MENU_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_ACTION_APP_MENU_H_
 

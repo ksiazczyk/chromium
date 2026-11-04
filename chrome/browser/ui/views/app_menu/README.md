@@ -1,3 +1,13 @@
+---
+type: readme
+title: App menu architecture and extension guide
+summary: Documents the architecture of the action-based Chrome app menu, its components, rules for extending it, and testing.
+relations:
+  - documents /chrome/browser/ui/browser_actions.cc
+  - documents /chrome/browser/ui/views/app_menu/app_menu_action_item.h
+  - documents /chrome/browser/ui/views/app_menu/action_app_menu.h
+---
+
 # App Menu
 
 This directory contains the Views implementation of the redesigned, action-based Chrome Application Menu ("Block Style ChroMenu")

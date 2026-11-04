@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shaped app window targeter header
+// summary: Declares ShapedAppWindowTargeter, an Aura WindowTargeter that applies custom shape rects for hit testing of shaped app windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APPS_SHAPED_APP_WINDOW_TARGETER_H_
 #define CHROME_BROWSER_UI_VIEWS_APPS_SHAPED_APP_WINDOW_TARGETER_H_
 

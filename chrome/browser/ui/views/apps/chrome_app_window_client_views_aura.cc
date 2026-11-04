@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura native app window factory for ChromeAppWindowClient
+// summary: Implements CreateNativeAppWindowImpl to construct ChromeNativeAppWindowViewsAura app windows on Aura platforms.
+// ---
+
 #include <memory>
 
 #include "chrome/browser/ui/apps/chrome_app_window_client.h"

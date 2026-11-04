@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu minor text view header
+// summary: Declares AppMenuMinorTextView, which attaches secondary text to menu items without using the accelerator column.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_MINOR_TEXT_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_MINOR_TEXT_VIEW_H_
 

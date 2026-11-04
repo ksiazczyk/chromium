@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App uninstall dialog view implementation
+// summary: Implements the unified app uninstall dialog, building views per app type and notifying App Service to uninstall on confirmation.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_dialog/app_uninstall_dialog_view.h"
 
 #include <string>

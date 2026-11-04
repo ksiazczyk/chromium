@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuFooterButton header
+// summary: Declares AppMenuFooterButton, the button representing footer-style menu items such as Settings, Help and Exit in the action app menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_FOOTER_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_FOOTER_BUTTON_H_
 

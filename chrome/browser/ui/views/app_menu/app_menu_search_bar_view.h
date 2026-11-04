@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu search bar header
+// summary: Declares AppMenuSearchBarView, a textfield handling search input, back navigation and key events in the app menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_SEARCH_BAR_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_SEARCH_BAR_VIEW_H_
 

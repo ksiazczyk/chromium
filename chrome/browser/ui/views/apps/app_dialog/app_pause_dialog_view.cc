@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App pause dialog view implementation
+// summary: Implements the dialog shown when an app is paused, displaying the remaining pause duration and a close callback.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_dialog/app_pause_dialog_view.h"
 
 #include "base/strings/utf_string_conversions.h"

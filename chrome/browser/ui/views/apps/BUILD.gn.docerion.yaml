@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for app window views source sets
+summary: Defines GN source sets with platform-conditional public headers, sources and dependencies for Chrome's native app window views.

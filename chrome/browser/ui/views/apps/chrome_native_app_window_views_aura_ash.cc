@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash-specific native app window views implementation
+// summary: Implements the Ash/ChromeOS-specific behavior of Chrome native app windows, including frame views, immersive fullscreen, tablet mode and context menus.
+// ---
+
 #include "chrome/browser/ui/views/apps/chrome_native_app_window_views_aura_ash.h"
 
 #include <optional>

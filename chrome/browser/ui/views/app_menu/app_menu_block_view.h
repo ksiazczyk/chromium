@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuBlockView header
+// summary: Declares AppMenuBlockView, a box-layout view that renders block-style section buttons such as New Tab, New Window and New Incognito in the action app menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_BLOCK_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_BLOCK_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chrome_native_app_window_views_mac.mm.
+type: source
+title: Mac native app window views implementation
+summary: Implements macOS-specific app window behavior, observing NSWindow live resize and fullscreen transitions to track bounds for restore and maximize.

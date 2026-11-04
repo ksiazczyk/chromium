@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu search bar implementation
+// summary: Implements AppMenuSearchBarView, the search textfield shown at the top of the block-style app menu with search and back icons.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_search_bar_view.h"
 
 #include <memory>

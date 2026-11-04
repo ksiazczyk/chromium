@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu search bar unit tests
+// summary: Unit tests covering the search bar's initial properties, mouse and keyboard interactions, and leading icon switching.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_search_bar_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu zoom view interface
+// summary: Declares AppMenuZoomView, a custom horizontal BoxLayoutView container for zoom controls in the action app menu, with accessors for testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_ZOOM_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_ZOOM_VIEW_H_
 

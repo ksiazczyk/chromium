@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks dynamic menu interface
+// summary: Declares BookmarksDynamicMenu, which builds bookmark menu actions and implements drag-and-drop delegate and bookmark service observer behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_BOOKMARKS_DYNAMIC_MENU_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_BOOKMARKS_DYNAMIC_MENU_H_
 

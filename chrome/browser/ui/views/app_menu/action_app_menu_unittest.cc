@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActionAppMenu unit tests
+// summary: Unit tests for the action app menu covering menu items, metrics, block buttons, chips, footer views, zoom controls, and related behaviors.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/action_app_menu.h"
 
 #include <memory>

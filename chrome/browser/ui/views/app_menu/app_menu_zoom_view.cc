@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu zoom view implementation
+// summary: Implements the horizontal zoom controls row of the action app menu, building minus, percent label, plus and fullscreen buttons with zoom controller integration.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_zoom_view.h"
 
 #include <cmath>

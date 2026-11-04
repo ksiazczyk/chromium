@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuBlockButton header
+// summary: Declares AppMenuBlockButton, the block-style menu item button used in the ChroMenu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_BLOCK_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_BLOCK_BUTTON_H_
 
