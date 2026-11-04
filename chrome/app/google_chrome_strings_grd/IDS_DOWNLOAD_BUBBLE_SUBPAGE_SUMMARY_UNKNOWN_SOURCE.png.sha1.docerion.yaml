@@ -1,0 +1,4 @@
+# Docerion header of IDS_DOWNLOAD_BUBBLE_SUBPAGE_SUMMARY_UNKNOWN_SOURCE.png.sha1.
+type: data
+title: IDS_DOWNLOAD_BUBBLE_SUBPAGE_SUMMARY_UNKNOWN_SOURCE.png.sha1
+summary: Stores the SHA1 hash of the unknown source download summary PNG so its integrity can be verified in the Chrome strings resource folder.

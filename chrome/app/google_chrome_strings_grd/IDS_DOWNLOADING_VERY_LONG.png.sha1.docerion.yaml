@@ -1,0 +1,4 @@
+# Docerion header of IDS_DOWNLOADING_VERY_LONG.png.sha1.
+type: data
+title: IDS_DOWNLOADING_VERY_LONG.png.sha1
+summary: Stores the SHA1 hash of the IDS_DOWNLOADING_VERY_LONG.png image so its integrity can be verified in the Chrome strings resource folder.

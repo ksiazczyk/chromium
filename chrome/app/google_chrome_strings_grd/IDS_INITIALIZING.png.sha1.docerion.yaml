@@ -1,0 +1,4 @@
+# Docerion header of IDS_INITIALIZING.png.sha1.
+type: data
+title: IDS_INITIALIZING image SHA-1 checksum
+summary: Stores the SHA-1 hash of the PNG image associated with the IDS_INITIALIZING string in Chrome's translated string resources.
