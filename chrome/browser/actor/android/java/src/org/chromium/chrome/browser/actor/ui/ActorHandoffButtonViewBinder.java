@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorHandoffButtonViewBinder
+// summary: Binds ActorOverlayProperties model keys such as visibility, click listener, and top margin to the handoff button view.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.view.View;

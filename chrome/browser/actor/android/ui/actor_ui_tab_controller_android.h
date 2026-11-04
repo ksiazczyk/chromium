@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorUiTabControllerAndroid class declaration
+// summary: Declares the Android implementation of the actor UI tab controller interface with JNI-backed state updates and test hooks for suppressing navigation dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ANDROID_UI_ACTOR_UI_TAB_CONTROLLER_ANDROID_H_
 #define CHROME_BROWSER_ACTOR_ANDROID_UI_ACTOR_UI_TAB_CONTROLLER_ANDROID_H_
 

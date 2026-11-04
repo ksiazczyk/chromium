@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor task Android bridge header
+// summary: Declares ActorTaskAndroid, a per-task JNI bridge for inspecting and controlling an actor task from Java.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ANDROID_ACTOR_TASK_ANDROID_H_
 #define CHROME_BROWSER_ACTOR_ANDROID_ACTOR_TASK_ANDROID_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for actor Android UI
+summary: Grants this directory include access to chrome/browser/actor/ui via Chromium DEPS rules.

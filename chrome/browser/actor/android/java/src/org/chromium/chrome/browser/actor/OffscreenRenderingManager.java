@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffscreenRenderingManager
+// summary: Singleton manager that maintains an offscreen window and compositor for rendering tabs and WebContents without an Activity.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.content.pm.PackageManager;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor overlay view render tests
+// summary: Render tests verifying the visual output of ActorOverlayView, including take-over button alignment with browser controls.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import static org.mockito.Mockito.verify;

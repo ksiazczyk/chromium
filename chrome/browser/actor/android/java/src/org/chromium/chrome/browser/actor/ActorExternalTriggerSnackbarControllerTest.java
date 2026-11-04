@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor external trigger snackbar controller tests
+// summary: Robolectric unit tests for the external trigger snackbar controller, covering pending task snackbars, error states, and lifecycle behavior.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.junit.Assert.assertEquals;

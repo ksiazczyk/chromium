@@ -1,0 +1,4 @@
+# Docerion header of common_resources.grd.
+type: config
+title: GRIT resource list for actor common resources
+summary: GRIT XML declaring the actor common resources header and pak outputs, with no resources currently listed.

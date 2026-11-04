@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTask
+// summary: Java wrapper around the native ActorTask that exposes task state, title, pause and resume controls, and associated tab IDs.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import androidx.annotation.VisibleForTesting;

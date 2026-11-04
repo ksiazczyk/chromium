@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorHandoffButtonView
+// summary: FrameLayout container for the Actor take-over-task handoff button that draws a custom glow shadow anchored to the toolbar.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.annotation.SuppressLint;

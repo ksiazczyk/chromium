@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor picture-in-picture overlay coordinator tests
+// summary: Robolectric tests verifying that the PiP overlay attaches its view, updates title and status text per task state, and removes the view on destroy.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import static org.junit.Assert.assertEquals;

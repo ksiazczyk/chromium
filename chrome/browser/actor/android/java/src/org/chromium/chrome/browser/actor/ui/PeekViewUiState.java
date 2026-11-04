@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peek view UI state
+// summary: Immutable model of the Glic/Actor Peek View visual state, mapping state types like acting, paused, and waiting to icon, text, and button resources.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.content.res.Resources;

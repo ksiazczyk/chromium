@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorNavigationConfirmationDialog
+// summary: Shows a modal confirmation dialog when navigation or another action would stop an active Actor task.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.content.Context;

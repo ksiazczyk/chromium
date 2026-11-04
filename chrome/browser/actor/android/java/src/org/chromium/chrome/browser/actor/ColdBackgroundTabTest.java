@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColdBackgroundTabTest
+// summary: Robolectric unit tests for ColdBackgroundTab covering getters and attaching frozen tabs while destroying placeholder state.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.junit.Assert.assertEquals;

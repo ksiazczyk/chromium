@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorControlStateTracker
+// summary: Tracks Actor task and GLIC instance state per profile and tab to determine the peek view UI state and notify observers.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import org.chromium.base.Callback;

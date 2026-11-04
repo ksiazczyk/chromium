@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor picture-in-picture controller unit tests
+// summary: Unit tests for ActorPictureInPictureController verifying PiP entry, exit, and related callbacks with mocked dependencies.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.junit.Assert.assertEquals;

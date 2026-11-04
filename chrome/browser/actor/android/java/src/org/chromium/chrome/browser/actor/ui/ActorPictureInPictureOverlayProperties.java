@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor picture-in-picture overlay properties
+// summary: 'Defines the property model keys for the Actor Picture-in-Picture overlay: task title, status text, and visibility.'
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import org.chromium.build.annotations.NullMarked;

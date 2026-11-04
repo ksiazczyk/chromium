@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Actor notification factory
+// summary: Builds all types of notifications for Actor tasks, including live notifications with categories like running, paused, and success.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.app.Notification;

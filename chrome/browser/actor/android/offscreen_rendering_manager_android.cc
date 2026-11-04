@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offscreen rendering manager Android implementation
+// summary: Implements an offscreen compositor that renders WebContents outside the view hierarchy for background actor tasks.
+// ---
+
 #include "chrome/browser/actor/android/offscreen_rendering_manager_android.h"
 
 #include "base/android/jni_android.h"

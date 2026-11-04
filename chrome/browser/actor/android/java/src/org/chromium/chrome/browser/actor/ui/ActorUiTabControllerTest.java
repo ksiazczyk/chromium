@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor UI tab controller tests
+// summary: Robolectric and Mockito tests covering ActorUiTabController behavior, including the task abort confirmation dialog when the actor is active or inactive.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import static org.junit.Assert.assertFalse;

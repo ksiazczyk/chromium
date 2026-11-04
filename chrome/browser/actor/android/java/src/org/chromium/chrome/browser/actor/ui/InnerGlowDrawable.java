@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inner glow drawable
+// summary: Custom Android drawable that renders a two-layer inner glow effect with configurable blur, spread, and opacity for actor UI boundaries.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.content.Context;

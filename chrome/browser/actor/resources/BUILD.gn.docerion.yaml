@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for actor resources
+summary: Defines grit and source_set targets that package actor UI resources into pak files, switching sources for branded builds.

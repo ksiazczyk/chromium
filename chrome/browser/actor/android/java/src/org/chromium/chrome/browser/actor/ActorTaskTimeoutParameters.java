@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTaskTimeoutParameters
+// summary: Provides Finch-configurable timeout durations for actor task states such as running, paused, needs user input, and warning.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import org.chromium.build.annotations.NullMarked;

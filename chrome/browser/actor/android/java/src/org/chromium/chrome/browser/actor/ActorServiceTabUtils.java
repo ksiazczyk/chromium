@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor service tab utilities
+// summary: Utility methods for finding ongoing Actor tasks on tabs and stopping them for a profile.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor metrics
+// summary: Helper for recording Actor-related UMA histograms covering background actuation, notifications, task stops, and picture-in-picture interactions.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.content.Intent;

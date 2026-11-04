@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor foreground service manager
+// summary: Profile-scoped manager that starts and stops the Actor foreground service based on active and pending Actor tasks.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor UI tab controller
+// summary: Java-side counterpart of the native ActorUiTabControllerAndroid that tracks per-tab actor UI state such as overlays, handoff button, and border glow.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.content.Context;

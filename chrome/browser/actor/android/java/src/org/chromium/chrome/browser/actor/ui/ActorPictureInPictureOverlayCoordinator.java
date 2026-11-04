@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor picture-in-picture overlay coordinator
+// summary: Coordinator that builds the Actor Picture-in-Picture overlay, wires its model and mediator, and exposes title, status, and visibility updates.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.content.Context;

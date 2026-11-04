@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor task Android JNI bridge implementation
+// summary: Implements the native bridge exposing actor task state, tabs and pause or resume controls to Java on Android.
+// ---
+
 #include "chrome/browser/actor/android/actor_task_android.h"
 
 #include <vector>

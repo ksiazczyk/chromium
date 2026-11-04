@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor picture-in-picture integration tests
+// summary: Integration tests for ActorPictureInPictureController and OffscreenRenderingManager covering PiP transitions in a real activity.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.junit.Assert.assertEquals;

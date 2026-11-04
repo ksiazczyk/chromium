@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor keyed service factory
+// summary: Factory providing the profile-scoped ActorKeyedService instance, delegating creation to native code via JNI.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import org.jni_zero.JniType;

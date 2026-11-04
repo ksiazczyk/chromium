@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor foreground service controller interface
+// summary: Interface for starting, binding, and updating the Actor foreground service and transitioning active tasks between foreground and background rendering.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.app.Notification;

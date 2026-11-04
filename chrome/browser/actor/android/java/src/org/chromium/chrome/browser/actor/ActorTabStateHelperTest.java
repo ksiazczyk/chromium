@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorTabStateHelperTest
+// summary: Robolectric unit tests covering ActorTabStateHelper's tab detachment, placeholder insertion, and background session handling.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.junit.Assert.assertEquals;
