@@ -1,0 +1,4 @@
+# Docerion header of browsercrapplication+applescript.mm.
+type: source
+title: Application AppleScript category implementation
+summary: Implements the top-level AppleScript application object, enumerating windows and providing access to the bookmarks bar and other bookmarks folders.

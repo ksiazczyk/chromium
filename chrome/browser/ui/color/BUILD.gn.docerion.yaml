@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Chrome UI color mixers
+summary: GN build file defining source sets for Chrome color headers, color mixers, unit tests, browser tests, and the dump_colors tool.

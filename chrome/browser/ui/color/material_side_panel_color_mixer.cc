@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material Side Panel color mixer implementation
+// summary: Defines Material design color recipes for side panel UI, covering content areas, dialogs, badges, filter chips, bookmarks and other side panel components.
+// ---
+
 #include "chrome/browser/ui/color/material_side_panel_color_mixer.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

@@ -1,0 +1,4 @@
+# Docerion header of cocoa_test_helper.mm.
+type: test
+title: Cocoa test helper implementation
+summary: Implements BootstrapCocoa, which sets the override framework bundle path so AppKit-based tests locate Chrome resources.

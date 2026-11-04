@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMenuBarLock header
+// summary: Declares a scoped helper that locks the macOS menu bar in its current visible or hidden state and keeps lock and unlock calls balanced.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_SCOPED_MENU_BAR_LOCK_H_
 #define CHROME_BROWSER_UI_COCOA_SCOPED_MENU_BAR_LOCK_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of l10n_util.mm.
+type: source
+title: Cocoa localization utility implementation
+summary: Implements tooltip string generation and sets NSUserDefaults keys so AppKit honors Chrome's forced left-to-right or right-to-left direction.

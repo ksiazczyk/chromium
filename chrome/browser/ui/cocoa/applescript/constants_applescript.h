@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppleScript property constants interface
+// summary: Declares string constants naming the AppleScript scriptable properties such as windows, tabs and bookmark folders.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_APPLESCRIPT_CONSTANTS_APPLESCRIPT_H_
 #define CHROME_BROWSER_UI_COCOA_APPLESCRIPT_CONSTANTS_APPLESCRIPT_H_
 

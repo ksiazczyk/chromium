@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_menubar_tracker.mm.
+type: source
+title: Fullscreen menubar tracker implementation
+summary: Implements menubar tracking with a Carbon event handler that reports menubar show, hide and reveal progress to the fullscreen toolbar controller.

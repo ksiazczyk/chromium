@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Context highlight build targets (BUILD.gn)
+summary: Defines the context_highlight static library and its unit_tests source set with sources and dependencies for non-Android builds.

@@ -1,0 +1,4 @@
+# Docerion header of tab_manipulation.applescript.
+type: script
+title: Tab manipulation AppleScript example
+summary: Example AppleScript showing common tab commands such as creating and switching tabs, checking loading state, and edit and navigation commands.

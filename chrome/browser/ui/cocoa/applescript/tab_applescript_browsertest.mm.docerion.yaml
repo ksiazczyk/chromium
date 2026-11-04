@@ -1,0 +1,4 @@
+# Docerion header of tab_applescript_browsertest.mm.
+type: test
+title: TabAppleScript browser tests
+summary: Browser tests verifying tab creation and the view source and JavaScript commands, including DevTools and JavaScript policy error paths.

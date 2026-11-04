@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab contextualization controller implementation
+// summary: Implements the per-tab controller that checks page context eligibility, extracts page content, and captures downscaled tab screenshots for Lens contextual search.
+// ---
+
 #include "chrome/browser/ui/contextual_search/tab_contextualization_controller.h"
 
 #include <algorithm>

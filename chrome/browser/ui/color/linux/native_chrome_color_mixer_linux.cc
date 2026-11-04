@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native Chrome color mixer for Linux
+// summary: Implements the Linux-specific native Chrome color mixer, defining transforms such as UseIfNonzeroAlpha and UseNativeIfPaletteMismatch to reconcile GTK/Qt toolkit menu colors with Chrome's light/dark theme settings.
+// ---
+
 #include "chrome/browser/ui/color/native_chrome_color_mixer.h"
 
 #include <utility>

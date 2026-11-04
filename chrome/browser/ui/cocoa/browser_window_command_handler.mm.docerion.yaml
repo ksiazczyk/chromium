@@ -1,0 +1,4 @@
+# Docerion header of browser_window_command_handler.mm.
+type: source
+title: BrowserWindowCommandHandler implementation
+summary: Implements validation and dispatch of Chrome commands from Mac UI items, routing them through the remote Cocoa NSWindow bridge.

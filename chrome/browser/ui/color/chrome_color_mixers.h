@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome color mixers header
+// summary: Declares AddChromeColorMixers, which adds all chrome/-side color mixers to a color provider.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COLOR_CHROME_COLOR_MIXERS_H_
 #define CHROME_BROWSER_UI_COLOR_CHROME_COLOR_MIXERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome color provider utilities implementation
+// summary: Implements color ID to name and CSS variable mappings, theme tint lookup, and toolbar top separator color computation.
+// ---
+
 #include "chrome/browser/ui/color/chrome_color_provider_utils.h"
 
 #include <string>

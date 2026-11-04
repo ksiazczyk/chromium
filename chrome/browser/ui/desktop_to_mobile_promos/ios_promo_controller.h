@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSPromoController class declaration
+// summary: Declares the controller responsible for showing iOS promos for a specific browser window, held as unowned user data.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DESKTOP_TO_MOBILE_PROMOS_IOS_PROMO_CONTROLLER_H_
 #define CHROME_BROWSER_UI_DESKTOP_TO_MOBILE_PROMOS_IOS_PROMO_CONTROLLER_H_
 

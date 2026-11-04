@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce page action controller implementation
+// summary: Implements the base page action controller, posting host update callbacks when commerce page action state changes.
+// ---
+
 #include "chrome/browser/ui/commerce/commerce_page_action_controller.h"
 
 #include "base/task/sequenced_task_runner.h"

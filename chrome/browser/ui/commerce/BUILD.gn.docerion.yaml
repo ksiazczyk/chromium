@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the commerce UI directory
+summary: GN build file defining the commerce, impl, test_support and unit_tests source sets and their dependencies for the browser commerce UI.

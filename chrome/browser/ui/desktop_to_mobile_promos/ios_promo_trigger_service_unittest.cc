@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS promo trigger service unit tests
+// summary: Unit tests for the iOS promo trigger service, using fake device info sync and mock sharing services to verify promo triggering behavior.
+// ---
+
 #include "chrome/browser/ui/desktop_to_mobile_promos/ios_promo_trigger_service.h"
 
 #include <memory>

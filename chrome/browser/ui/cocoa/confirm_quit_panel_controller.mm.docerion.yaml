@@ -1,0 +1,4 @@
+# Docerion header of confirm_quit_panel_controller.mm.
+type: source
+title: Confirm quit panel controller implementation
+summary: Implements the confirm-to-quit HUD panel with a custom drawn frame and runs the hold or double-tap quit loop based on keyboard state.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native Chrome color mixer header
+// summary: Declares AddNativeChromeColorMixer, a per-platform hook that can override the default Chrome colors in a color provider.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COLOR_NATIVE_CHROME_COLOR_MIXER_H_
 #define CHROME_BROWSER_UI_COLOR_NATIVE_CHROME_COLOR_MIXER_H_
 

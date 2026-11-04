@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop query contextualizer delegate unit tests
+// summary: Unit tests for DesktopQueryContextualizerDelegate using mock services, tab interfaces, and browser window interfaces.
+// ---
+
 #include "chrome/browser/ui/contextual_search/desktop_query_contextualizer_delegate.h"
 
 #include <memory>

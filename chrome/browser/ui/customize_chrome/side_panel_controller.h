@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelController interface for the Customize Chrome side panel
+// summary: Declares the interface for checking availability, observing state changes and opening or closing the Customize Chrome side panel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CUSTOMIZE_CHROME_SIDE_PANEL_CONTROLLER_H_
 #define CHROME_BROWSER_UI_CUSTOMIZE_CHROME_SIDE_PANEL_CONTROLLER_H_
 

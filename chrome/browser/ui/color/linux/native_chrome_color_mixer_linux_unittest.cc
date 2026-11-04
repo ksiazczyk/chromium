@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native Chrome color mixer Linux unit tests
+// summary: Unit tests for the Linux native Chrome color mixer that simulate dark and light GTK/Qt toolkit palettes and verify app menu color handling when the toolkit palette mismatches Chrome's color mode.
+// ---
+
 #include "chrome/browser/ui/color/native_chrome_color_mixer.h"
 
 #include <memory>

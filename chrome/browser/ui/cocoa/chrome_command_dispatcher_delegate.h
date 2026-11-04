@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome command dispatcher delegate interface
+// summary: Declares a Cocoa delegate that intercepts browser window keyboard shortcuts and executes them as Chrome commands.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_CHROME_COMMAND_DISPATCHER_DELEGATE_H_
 #define CHROME_BROWSER_UI_COCOA_CHROME_COMMAND_DISPATCHER_DELEGATE_H_
 

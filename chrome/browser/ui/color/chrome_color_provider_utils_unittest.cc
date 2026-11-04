@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome color provider utils unit tests
+// summary: Unit test verifying that ChromeColorIdName returns the expected name for a toolbar color ID.
+// ---
+
 #include "chrome_color_provider_utils.h"
 
 #include "base/test/gtest_util.h"

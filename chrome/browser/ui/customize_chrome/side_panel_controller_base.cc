@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared base implementation of the Customize Chrome side panel controller
+// summary: Implements platform-independent side panel logic such as entry availability, showing state, callbacks and explicit close tracking.
+// ---
+
 #include "chrome/browser/ui/customize_chrome/side_panel_controller_base.h"
 
 #include <memory>

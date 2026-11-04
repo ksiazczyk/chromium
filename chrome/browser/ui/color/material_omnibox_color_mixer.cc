@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material Omnibox color mixer implementation
+// summary: Defines Material design color overrides for omnibox colors such as the location bar clear-all button icon and the subtle toolbar emphasis background.
+// ---
+
 #include "chrome/browser/ui/color/material_omnibox_color_mixer.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

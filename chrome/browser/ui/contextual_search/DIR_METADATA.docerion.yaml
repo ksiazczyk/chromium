@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata mixins
+summary: Points the directory metadata at the shared components/contextual_search COMMON_METADATA mixins.

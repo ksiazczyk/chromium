@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm quit panel controller interface
+// summary: Declares the controller for the Hold Cmd+Q to Quit HUD window, including the confirm quit loop, a mockable key-state hook, and dismissal callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_CONFIRM_QUIT_PANEL_CONTROLLER_H_
 #define CHROME_BROWSER_UI_COCOA_CONFIRM_QUIT_PANEL_CONTROLLER_H_
 

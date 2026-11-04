@@ -1,3 +1,9 @@
+---
+type: readme
+title: Status icons directory README
+summary: Explains that this directory contains macOS menu bar extra support, currently used for the legacy System Indicator API.
+---
+
 # //chrome/browser/ui/cocoa/status_icons
 
 This directory contains code to support [macOS menu bar extras](https://developer.apple.com/design/human-interface-guidelines/components/system-experiences/the-menu-bar/#menu-bar-extras).

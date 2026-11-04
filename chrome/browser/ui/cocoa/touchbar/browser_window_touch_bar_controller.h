@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWindowTouchBarController class header
+// summary: Declares the controller that creates and invalidates the touch bar for the browser window, with accessors exposed for testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_TOUCHBAR_BROWSER_WINDOW_TOUCH_BAR_CONTROLLER_H_
 #define CHROME_BROWSER_UI_COCOA_TOUCHBAR_BROWSER_WINDOW_TOUCH_BAR_CONTROLLER_H_
 

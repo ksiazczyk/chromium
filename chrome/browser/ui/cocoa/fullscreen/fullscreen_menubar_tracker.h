@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen menubar tracker interface
+// summary: Declares the FullscreenMenubarTracker class and menubar state enum used to track the macOS menubar's shown fraction during fullscreen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_FULLSCREEN_FULLSCREEN_MENUBAR_TRACKER_H_
 #define CHROME_BROWSER_UI_COCOA_FULLSCREEN_FULLSCREEN_MENUBAR_TRACKER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of history_menu_cocoa_controller_unittest.mm.
+type: test
+title: History menu Cocoa controller unit tests
+summary: Unit tests for the history menu Cocoa controller verifying URL opening and safe no-op behavior after the bridge is destroyed.

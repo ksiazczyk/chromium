@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm quit metrics and preferences
+// summary: Records UMA histograms for confirm-to-quit outcomes and registers the ConfirmToQuitEnabled local state preference.
+// ---
+
 #include "chrome/browser/ui/cocoa/confirm_quit.h"
 
 #include "base/metrics/histogram_macros.h"

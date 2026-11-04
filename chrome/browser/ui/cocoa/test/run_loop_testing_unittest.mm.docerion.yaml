@@ -1,0 +1,4 @@
+# Docerion header of run_loop_testing_unittest.mm.
+type: test
+title: Run loop testing unit tests
+summary: gtest unit tests verifying that NSRunLoopRunAllPending processes pending and nested delayed selectors on the run loop.

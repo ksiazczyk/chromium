@@ -1,0 +1,4 @@
+# Docerion header of status_tray_mac.mm.
+type: source
+title: StatusTrayMac implementation
+summary: Implements the macOS status tray factory that creates and configures StatusIconMac instances.

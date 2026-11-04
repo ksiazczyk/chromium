@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareMenuController header
+// summary: Declares a menu delegate that populates a menu with macOS sharing service items, performs chosen share actions and opens the sharing services preference pane.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_SHARE_MENU_CONTROLLER_H_
 #define CHROME_BROWSER_UI_COCOA_SHARE_MENU_CONTROLLER_H_
 

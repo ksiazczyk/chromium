@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content setting image model unit tests
+// summary: Unit tests covering visibility, icons, tooltips, promos and permission-related behavior of content setting image models across content types.
+// ---
+
 #include "chrome/browser/ui/content_settings/content_setting_image_model.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of profile_menu_controller.mm.
+type: source
+title: ProfileMenuController implementation
+summary: Implements the macOS profiles menu controller, rebuilding the menu and updating its title in response to browser activation and profile list changes.

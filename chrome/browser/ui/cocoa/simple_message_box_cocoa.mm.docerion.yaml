@@ -1,0 +1,4 @@
+# Docerion header of simple_message_box_cocoa.mm.
+type: source
+title: Simple message box Cocoa implementation
+summary: Shows NSAlert-based message boxes on macOS, with Yes/No buttons for questions and an optional checkbox, returning the user's choice.

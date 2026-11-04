@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab contextualization controller class header
+// summary: Declares the TabContextualizationController class, its callback types, and methods for page context retrieval, eligibility updates, and screenshot capture.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CONTEXTUAL_SEARCH_TAB_CONTEXTUALIZATION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_CONTEXTUAL_SEARCH_TAB_CONTEXTUALIZATION_CONTROLLER_H_
 

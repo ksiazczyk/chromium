@@ -1,0 +1,4 @@
+# Docerion header of open_tabs_from_bookmark_folder.applescript.
+type: script
+title: Open tabs from bookmark folder AppleScript example
+summary: Example AppleScript that opens a new tab for each bookmark stored in a bookmarks bar folder.

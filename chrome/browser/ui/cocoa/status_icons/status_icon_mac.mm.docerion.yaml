@@ -1,0 +1,4 @@
+# Docerion header of status_icon_mac.mm.
+type: source
+title: StatusIconMac implementation
+summary: Implements the macOS status item, including a StatusItemController that swizzles right-click handling and hides icons in fullscreen on macOS 26.

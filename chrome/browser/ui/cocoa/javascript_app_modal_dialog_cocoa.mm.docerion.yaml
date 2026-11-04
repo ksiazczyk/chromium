@@ -1,0 +1,4 @@
+# Docerion header of javascript_app_modal_dialog_cocoa.mm.
+type: source
+title: JavaScript app modal dialog Cocoa implementation
+summary: Implements native JavaScript alert, confirm and prompt dialogs on macOS, mapping dialog types to buttons and handling alert dispositions via Mojo.

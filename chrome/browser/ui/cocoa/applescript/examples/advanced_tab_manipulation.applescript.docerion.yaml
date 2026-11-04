@@ -1,0 +1,4 @@
+# Docerion header of advanced_tab_manipulation.applescript.
+type: script
+title: Advanced tab manipulation AppleScript example
+summary: Example AppleScript demonstrating printing, saving a tab as HTML or MHTML, and viewing a tab's source in Chromium.

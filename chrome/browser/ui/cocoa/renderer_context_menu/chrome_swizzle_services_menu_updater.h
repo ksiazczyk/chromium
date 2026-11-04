@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSwizzleServicesMenuUpdater interface
+// summary: Declares ChromeSwizzleServicesMenuUpdater, which filters macOS Services menu items via swizzling and provides a hook to capture filtered entries for testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_RENDERER_CONTEXT_MENU_CHROME_SWIZZLE_SERVICES_MENU_UPDATER_H_
 #define CHROME_BROWSER_UI_COCOA_RENDERER_CONTEXT_MENU_CHROME_SWIZZLE_SERVICES_MENU_UPDATER_H_
 

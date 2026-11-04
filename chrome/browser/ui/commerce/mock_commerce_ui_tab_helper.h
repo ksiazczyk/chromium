@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Commerce UI tab helper declaration
+// summary: Declares a GMock subclass of CommerceUiTabHelper that stubs discount, price tracking, and price insights behavior for use in browser UI tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COMMERCE_MOCK_COMMERCE_UI_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_COMMERCE_MOCK_COMMERCE_UI_TAB_HELPER_H_
 

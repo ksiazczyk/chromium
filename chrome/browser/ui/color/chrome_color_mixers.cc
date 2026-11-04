@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome color mixers aggregator
+// summary: Registers all Chrome color mixers on the color provider in order and installs the color provider utils callbacks.
+// ---
+
 #include "chrome/browser/ui/color/chrome_color_mixers.h"
 
 #include <memory>

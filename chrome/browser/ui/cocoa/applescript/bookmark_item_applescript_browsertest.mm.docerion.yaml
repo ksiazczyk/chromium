@@ -1,0 +1,4 @@
+# Docerion header of bookmark_item_applescript_browsertest.mm.
+type: test
+title: Bookmark item AppleScript browser tests
+summary: Browser tests verifying AppleScript access to bookmark item titles and URLs, including invalid and JavaScript URL handling.

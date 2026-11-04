@@ -1,0 +1,4 @@
+# Docerion header of web_textfield_touch_bar_controller.mm.
+type: source
+title: Web textfield Touch Bar controller implementation
+summary: Implements the macOS Touch Bar controller for web text fields, delegating to the credit card autofill Touch Bar controller when autofill suggestions are shown.

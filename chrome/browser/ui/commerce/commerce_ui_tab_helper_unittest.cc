@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Commerce UI tab helper unit tests
+// summary: Unit tests covering the commerce tab helper's icon visibility, price insights and price tracking behavior across sync configurations.
+// ---
+
 #include "chrome/browser/ui/commerce/commerce_ui_tab_helper.h"
 
 #include <memory>

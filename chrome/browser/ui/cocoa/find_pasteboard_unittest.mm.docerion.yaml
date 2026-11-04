@@ -1,0 +1,4 @@
+# Docerion header of find_pasteboard_unittest.mm.
+type: source
+title: Find pasteboard unit tests
+summary: Unit tests verifying that the find pasteboard syncs text with the pasteboard and sends change notifications on updates.

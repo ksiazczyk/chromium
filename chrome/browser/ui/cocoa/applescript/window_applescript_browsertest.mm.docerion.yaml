@@ -1,0 +1,4 @@
+# Docerion header of window_applescript_browsertest.mm.
+type: test
+title: Window AppleScript browser tests
+summary: In-process browser tests verifying WindowAppleScript behavior, including window creation with profiles and browsers, tab listing, and inserting tabs at positions.

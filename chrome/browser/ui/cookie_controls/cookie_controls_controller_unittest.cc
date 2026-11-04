@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie controls controller unit tests
+// summary: C++ unit tests for the cookie controls controller covering status changes, enforcement modes, and user bypass behavior.
+// ---
+
 #include "components/content_settings/browser/ui/cookie_controls_controller.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of chrome_swizzle_services_menu_updater.mm.
+type: source
+title: ChromeSwizzleServicesMenuUpdater implementation
+summary: Swizzles private AppKit Services menu methods to remove redundant Safari and SystemUIServer entries and fix contextual menu appearance mismatches on macOS 14+.

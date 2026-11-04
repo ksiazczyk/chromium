@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Customize Chrome side panel targets
+summary: Defines GN source sets and dependencies for the Customize Chrome side panel controllers, including Android variants and browser tests.

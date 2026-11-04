@@ -1,0 +1,4 @@
+# Docerion header of run_loop_testing.mm.
+type: test
+title: Run loop testing implementation
+summary: Implements NSRunLoopRunAllPending using a MessagePumpNSRunLoop and a delayed quit task to drain pending Cocoa work queues.

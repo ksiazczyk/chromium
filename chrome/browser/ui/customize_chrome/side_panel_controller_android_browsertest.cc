@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Android Customize Chrome side panel
+// summary: Browser tests verifying the Android Customize Chrome side panel hosted in a ThinWebView, including showing state and keyboard event handling.
+// ---
+
 #include "chrome/browser/ui/customize_chrome/side_panel_controller_android.h"
 
 #include <android/input.h>

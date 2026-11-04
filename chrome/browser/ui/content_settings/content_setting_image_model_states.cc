@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingImageModelStates implementation
+// summary: Implements per-tab state tracking for content setting image models, storing flags for animations, accessibility notifications, auto-opened bubbles, promos and icon metrics.
+// ---
+
 
 #include "chrome/browser/ui/content_settings/content_setting_image_model_states.h"
 

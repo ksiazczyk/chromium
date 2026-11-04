@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group color constants
+// summary: Defines constexpr SkColor values for tab group colors such as blue, red and green in light and dark modes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COLOR_TAB_GROUP_COLOR_IDS_H_
 #define CHROME_BROWSER_UI_COLOR_TAB_GROUP_COLOR_IDS_H_
 

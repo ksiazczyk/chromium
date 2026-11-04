@@ -1,0 +1,4 @@
+# Docerion header of tab_group_menu_bridge.mm.
+type: source
+title: Tab group menu bridge implementation
+summary: Builds the dynamic tab groups menu items, loads favicons, and updates the menu in response to saved tab group changes on macOS.

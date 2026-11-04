@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory OWNERS file
+summary: Delegates code ownership for this directory to the shared components/contextual_search OWNERS file.

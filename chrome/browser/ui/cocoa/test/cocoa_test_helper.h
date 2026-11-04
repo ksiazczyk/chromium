@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cocoa test helper header
+// summary: Declares CocoaTestHelper and CocoaTest base classes that set up the AppKit environment and paths for Cocoa-dependent unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_TEST_COCOA_TEST_HELPER_H_
 #define CHROME_BROWSER_UI_COCOA_TEST_COCOA_TEST_HELPER_H_
 

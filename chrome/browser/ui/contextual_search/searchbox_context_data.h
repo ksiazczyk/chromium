@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox context data header
+// summary: Declares a class that temporarily stores search context such as text, files, mode, and invocation source while moving between UI surfaces.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CONTEXTUAL_SEARCH_SEARCHBOX_CONTEXT_DATA_H_
 #define CHROME_BROWSER_UI_CONTEXTUAL_SEARCH_SEARCHBOX_CONTEXT_DATA_H_
 

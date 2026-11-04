@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSPromoTriggerService implementation
+// summary: Implements the keyed service that observes tab and browser events, selects a synced iOS device and notifies when a promo should be shown.
+// ---
+
 #include "chrome/browser/ui/desktop_to_mobile_promos/ios_promo_trigger_service.h"
 
 #include "base/functional/callback_helpers.h"

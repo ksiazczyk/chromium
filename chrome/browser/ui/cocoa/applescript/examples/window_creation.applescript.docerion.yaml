@@ -1,0 +1,4 @@
+# Docerion header of window_creation.applescript.
+type: script
+title: Window Creation AppleScript Example
+summary: Example AppleScript that creates a normal and an incognito Chromium window and counts the open windows.

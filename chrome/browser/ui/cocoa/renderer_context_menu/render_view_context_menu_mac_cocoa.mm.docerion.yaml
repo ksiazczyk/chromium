@@ -1,0 +1,4 @@
+# Docerion header of render_view_context_menu_mac_cocoa.mm.
+type: source
+title: RenderViewContextMenuMacCocoa implementation
+summary: Implements showing, cancelling, and updating the Cocoa context menu via MenuControllerCocoa, including locating menu items by command id.

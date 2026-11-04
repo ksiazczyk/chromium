@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keystone promotion infobar delegate header
+// summary: Declares the KeystonePromotionInfoBarDelegate class that adds a confirm infobar promoting the system updater to a web contents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_KEYSTONE_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_UI_COCOA_KEYSTONE_INFOBAR_DELEGATE_H_
 

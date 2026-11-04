@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual search BUILD.gn targets
+summary: Defines the contextual_search source set plus unit and browser test targets, with platform-conditional sources and dependencies for the contextual search UI.

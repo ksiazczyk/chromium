@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab menu bridge interface
+// summary: Declares TabMenuBridge, which connects the browser's tab strip model to the dynamic part of the macOS Tab menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_TAB_MENU_BRIDGE_H_
 #define CHROME_BROWSER_UI_COCOA_TAB_MENU_BRIDGE_H_
 

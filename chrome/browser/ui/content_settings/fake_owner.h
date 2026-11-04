@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeOwner test double declaration
+// summary: Declares FakeOwner, a test double of ContentSettingBubbleModel::Owner that tracks the selected radio option and bubble closure.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CONTENT_SETTINGS_FAKE_OWNER_H_
 #define CHROME_BROWSER_UI_CONTENT_SETTINGS_FAKE_OWNER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of browser_window_default_touch_bar_browsertest.mm.
+type: test
+title: Browser window default touch bar browser tests
+summary: Browser tests verifying that historic and current touch bar item identifiers still resolve so users' customized Touch Bars keep working.

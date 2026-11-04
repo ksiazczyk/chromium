@@ -1,0 +1,4 @@
+# Docerion header of group_menu_util.mm.
+type: source
+title: Group menu utility implementation
+summary: Implements the tab group menu indicator by rendering a vector icon image and attaching it to the menu item's attributed title.

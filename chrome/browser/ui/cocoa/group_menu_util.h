@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group menu utility header for tab group indicators
+// summary: Declares a helper that appends or removes a tab group color indicator on the right side of a Cocoa menu item.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_GROUP_MENU_UTIL_H_
 #define CHROME_BROWSER_UI_COCOA_GROUP_MENU_UTIL_H_
 

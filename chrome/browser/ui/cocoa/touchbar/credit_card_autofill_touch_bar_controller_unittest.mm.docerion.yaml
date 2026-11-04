@@ -1,0 +1,4 @@
+# Docerion header of credit_card_autofill_touch_bar_controller_unittest.mm.
+type: test
+title: CreditCardAutofillTouchBarController unit tests
+summary: Unit tests checking that the credit card autofill touch bar appears only for card popups and limits displayed items to three.

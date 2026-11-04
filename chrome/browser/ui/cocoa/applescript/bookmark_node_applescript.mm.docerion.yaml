@@ -1,0 +1,4 @@
+# Docerion header of bookmark_node_applescript.mm.
+type: source
+title: Bookmark node AppleScript object implementation
+summary: Implements shared bookmark node scripting behavior, mapping AppleScript title and index operations onto the bookmark model.

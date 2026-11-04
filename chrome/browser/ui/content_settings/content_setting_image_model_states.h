@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingImageModelStates class declaration
+// summary: Declares ContentSettingImageModelStates, a WebContentsUserData that keeps per-image-type flags such as animation run, promo shown and icon shown recorded.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CONTENT_SETTINGS_CONTENT_SETTING_IMAGE_MODEL_STATES_H_
 #define CHROME_BROWSER_UI_CONTENT_SETTINGS_CONTENT_SETTING_IMAGE_MODEL_STATES_H_
 

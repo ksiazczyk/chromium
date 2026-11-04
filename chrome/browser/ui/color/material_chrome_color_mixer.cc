@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material Chrome color mixer implementation
+// summary: Defines Material design color recipes for browser UI colors such as the toolbar, bookmarks bar and downloads bar, overriding the classic Chrome mixers where the Material spec requires.
+// ---
+
 #include "chrome/browser/ui/color/material_chrome_color_mixer.h"
 
 #include "base/feature_list.h"

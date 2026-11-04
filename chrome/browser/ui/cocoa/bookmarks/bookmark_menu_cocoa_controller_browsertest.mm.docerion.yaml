@@ -1,0 +1,4 @@
+# Docerion header of bookmark_menu_cocoa_controller_browsertest.mm.
+type: test
+title: BookmarkMenuCocoaController browser tests
+summary: In-process browser tests verifying that bookmark menu items open correctly after the bookmark model loads.

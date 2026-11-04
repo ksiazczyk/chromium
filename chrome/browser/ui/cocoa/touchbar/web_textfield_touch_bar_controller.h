@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTextfieldTouchBarController class header
+// summary: Declares the touch bar controller for web text fields, including methods to show and hide the credit card autofill touch bar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_TOUCHBAR_WEB_TEXTFIELD_TOUCH_BAR_CONTROLLER_H_
 #define CHROME_BROWSER_UI_COCOA_TOUCHBAR_WEB_TEXTFIELD_TOUCH_BAR_CONTROLLER_H_
 

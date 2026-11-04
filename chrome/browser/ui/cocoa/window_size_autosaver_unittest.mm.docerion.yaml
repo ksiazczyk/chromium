@@ -1,0 +1,4 @@
+# Docerion header of window_size_autosaver_unittest.mm.
+type: test
+title: Window size autosaver unit tests
+summary: Cocoa unit tests verifying that WindowSizeAutosaver restores and stores window position and size correctly through the preferences service.

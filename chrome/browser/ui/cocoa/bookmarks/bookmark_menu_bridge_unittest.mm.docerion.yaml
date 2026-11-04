@@ -1,0 +1,4 @@
+# Docerion header of bookmark_menu_bridge_unittest.mm.
+type: test
+title: BookmarkMenuBridge unit tests
+summary: Unit tests covering menu building, invalidation, and node-to-item mapping for the macOS bookmark menu bridge.

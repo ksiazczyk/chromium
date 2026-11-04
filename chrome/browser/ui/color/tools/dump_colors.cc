@@ -5,6 +5,12 @@
 // This command-line program dumps the computed values of all color IDs to
 // stdout.
 
+// ---docerion
+// type: source
+// title: dump_colors.cc
+// summary: Command-line program that dumps the computed values of all Chrome color IDs to stdout across light, dark, and high-contrast color modes.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <iomanip>

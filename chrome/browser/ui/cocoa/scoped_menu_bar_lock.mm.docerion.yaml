@@ -1,0 +1,4 @@
+# Docerion header of scoped_menu_bar_lock.mm.
+type: source
+title: ScopedMenuBarLock implementation
+summary: Implements ScopedMenuBarLock by calling private NSMenu lock and unlock position APIs for the lifetime of the object.

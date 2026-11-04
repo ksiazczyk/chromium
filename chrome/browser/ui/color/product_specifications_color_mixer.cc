@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Product specifications color mixer implementation
+// summary: Defines color recipes for the product specifications UI, mapping its color IDs to system surface, container and state colors.
+// ---
+
 #include "chrome/browser/ui/color/product_specifications_color_mixer.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

@@ -1,0 +1,4 @@
+# Docerion header of accelerators_cocoa.mm.
+type: source
+title: AcceleratorsCocoa implementation
+summary: Implements the AcceleratorsCocoa singleton with a table of command ID, modifier, and key code mappings for toolbar and main menu shortcuts.

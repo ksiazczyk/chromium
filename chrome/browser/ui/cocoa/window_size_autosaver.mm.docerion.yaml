@@ -1,0 +1,4 @@
+# Docerion header of window_size_autosaver.mm.
+type: source
+title: Window size autosaver for Mac
+summary: Objective-C++ class that saves an NSWindow's frame to profile preferences and restores it, guarding against restoring windows that are too small.

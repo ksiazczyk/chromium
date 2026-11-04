@@ -1,0 +1,4 @@
+# Docerion header of apple_event_util.mm.
+type: source
+title: Apple Event value conversion utilities
+summary: Converts base::Value objects into NSAppleEventDescriptor instances, wrapping dictionaries as AERecords, and reads the JavaScript Apple Events preference.

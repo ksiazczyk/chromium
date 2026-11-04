@@ -1,0 +1,4 @@
+# Docerion header of history_overlay_controller_unittest.mm.
+type: test
+title: History overlay controller unit tests
+summary: Verifies that the overlay view is added to the test view when shown and removed immediately after dismiss, even while fading out.

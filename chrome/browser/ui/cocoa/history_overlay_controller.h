@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History overlay controller header
+// summary: Declares a Cocoa controller that shows an overlay shield atop web contents to give visual feedback during history navigation gestures.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_HISTORY_OVERLAY_CONTROLLER_H_
 #define CHROME_BROWSER_UI_COCOA_HISTORY_OVERLAY_CONTROLLER_H_
 

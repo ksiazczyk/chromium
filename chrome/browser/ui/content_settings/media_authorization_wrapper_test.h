@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaAuthorizationWrapperTest test double
+// summary: Declares a test double of the macOS media authorization wrapper that returns a mockable AVAuthorizationStatus for requested media types.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CONTENT_SETTINGS_MEDIA_AUTHORIZATION_WRAPPER_TEST_H_
 #define CHROME_BROWSER_UI_CONTENT_SETTINGS_MEDIA_AUTHORIZATION_WRAPPER_TEST_H_
 

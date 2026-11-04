@@ -1,0 +1,4 @@
+# Docerion header of share_menu_controller_browsertest.mm.
+type: test
+title: Browser tests for the share menu controller
+summary: Browser tests exercising share menu population and share actions with a mock sharing service, including histogram reporting of shared items.

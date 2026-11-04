@@ -1,0 +1,4 @@
+# Docerion header of credit_card_autofill_touch_bar_controller.mm.
+type: source
+title: CreditCardAutofillTouchBarController implementation
+summary: Implements the credit card autofill touch bar, showing up to three card suggestions with appropriate card icons.

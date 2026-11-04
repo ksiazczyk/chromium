@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Windows native Chrome color mixer
+// summary: Browser tests verifying that window header colors track the Windows accent color when DWM frame colors and device theme are enabled.
+// ---
+
 #include <optional>
 
 #include "chrome/browser/themes/theme_service.h"

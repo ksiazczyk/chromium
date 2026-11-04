@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handoff observer header
+// summary: Declares HandoffObserver, which tracks the visible URL of the selected tab in the most recently focused browser window for macOS Handoff.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_HANDOFF_OBSERVER_H_
 #define CHROME_BROWSER_UI_COCOA_HANDOFF_OBSERVER_H_
 

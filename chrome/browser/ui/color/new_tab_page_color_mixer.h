@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page color mixer header
+// summary: Declares AddNewTabPageColorMixer for NewTabPage color recipes and AddWebThemeNewTabPageColors for GTK+ light-theme overrides.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COLOR_NEW_TAB_PAGE_COLOR_MIXER_H_
 #define CHROME_BROWSER_UI_COLOR_NEW_TAB_PAGE_COLOR_MIXER_H_
 

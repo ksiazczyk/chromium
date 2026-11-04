@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discounts page action controller unit tests
+// summary: Unit tests verifying when the discounts page action icon should appear during navigations, using a mock shopping service and configurable auto-popup feature parameters.
+// ---
+
 #include "chrome/browser/ui/commerce/discounts_page_action_controller.h"
 
 #include "base/run_loop.h"

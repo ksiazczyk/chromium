@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS promos utilities unit tests
+// summary: Unit tests for iOS promos utility functions, exercising cross-device pref tracking and fake device info to validate user activity checks.
+// ---
+
 #include "chrome/browser/ui/desktop_to_mobile_promos/ios_promos_utils.h"
 
 #include "base/json/values_util.h"

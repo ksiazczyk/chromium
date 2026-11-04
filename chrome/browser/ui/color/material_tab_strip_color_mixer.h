@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material tab strip color mixer header
+// summary: Declares AddMaterialTabStripColorMixer, which adds recipes for tab strip colors to a color provider with the given key.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COLOR_MATERIAL_TAB_STRIP_COLOR_MIXER_H_
 #define CHROME_BROWSER_UI_COLOR_MATERIAL_TAB_STRIP_COLOR_MIXER_H_
 

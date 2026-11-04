@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keystone promotion infobar delegate
+// summary: Creates and manages the infobar that promotes installing the system updater, expiring on navigation after a short delay.
+// ---
+
 #include "chrome/browser/ui/cocoa/keystone_infobar_delegate.h"
 
 #include <string>

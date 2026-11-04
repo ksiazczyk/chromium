@@ -1,0 +1,4 @@
+# Docerion header of error_applescript.mm.
+type: source
+title: AppleScript error reporting implementation
+summary: Maps AppleScript error codes to localized error messages set on the currently executing script command.

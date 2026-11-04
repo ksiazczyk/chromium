@@ -1,0 +1,4 @@
+# Docerion header of main_menu_builder_unittest.mm.
+type: test
+title: Unit tests for the main menu builder
+summary: Unit tests verifying menu item construction, separators, tags, actions, key equivalents, submenus, localized strings and conditional removal in the main menu builder.

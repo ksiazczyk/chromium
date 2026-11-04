@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group menu bridge interface
+// summary: Declares TabGroupMenuBridge, which builds and keeps the macOS saved tab groups menu in sync with the tab group sync service.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_TAB_GROUP_MENU_BRIDGE_H_
 #define CHROME_BROWSER_UI_COCOA_TAB_GROUP_MENU_BRIDGE_H_
 

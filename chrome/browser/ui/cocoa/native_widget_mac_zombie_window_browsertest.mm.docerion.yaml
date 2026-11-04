@@ -1,0 +1,4 @@
+# Docerion header of native_widget_mac_zombie_window_browsertest.mm.
+type: test
+title: Browser test guarding the zombie proxy window fix
+summary: 'Browser test verifying that orderFront: and orderWindow: calls cannot make the invisible browser-side proxy window visible, preventing a DumpWithoutCrashing.'

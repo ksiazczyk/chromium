@@ -1,0 +1,4 @@
+# Docerion header of confirm_quit_panel_controller_interactive_uitest.mm.
+type: source
+title: Confirm quit panel controller interactive UI tests
+summary: Interactive browser tests verifying that a single Cmd+Q tap shows the HUD without quitting and a sustained hold fades the browser window and quits.

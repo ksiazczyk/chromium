@@ -1,0 +1,4 @@
+# Docerion header of delete_bookmarks.applescript.
+type: script
+title: Delete bookmarks AppleScript example
+summary: Example AppleScript that deletes every bookmark item and subfolder inside a chosen bookmarks bar folder.

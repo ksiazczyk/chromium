@@ -1,0 +1,4 @@
+# Docerion header of dock_icon.mm.
+type: source
+title: Dock icon implementation
+summary: Implements the dock tile view that draws the app icon with a download progress badge, including shadows and a progress arc.

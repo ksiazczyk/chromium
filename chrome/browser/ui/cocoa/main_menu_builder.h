@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main menu builder header
+// summary: Declares the main menu bar builder and a fluent MenuItemBuilder helper used to construct the macOS main menu in code instead of a NIB.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_MAIN_MENU_BUILDER_H_
 #define CHROME_BROWSER_UI_COCOA_MAIN_MENU_BUILDER_H_
 

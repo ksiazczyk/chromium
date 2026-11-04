@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material Chrome color mixer header
+// summary: Declares AddMaterialChromeColorMixer, which adds Material recipes for Chrome browser colors to a color provider.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COLOR_MATERIAL_CHROME_COLOR_MIXER_H_
 #define CHROME_BROWSER_UI_COLOR_MATERIAL_CHROME_COLOR_MIXER_H_
 

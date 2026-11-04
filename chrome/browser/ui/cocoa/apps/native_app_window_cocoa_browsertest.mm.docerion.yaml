@@ -1,0 +1,4 @@
+# Docerion header of native_app_window_cocoa_browsertest.mm.
+type: test
+title: Native app window Cocoa browser tests
+summary: Browser tests for macOS native app windows, covering hide and show interactions, window levels, and fullscreen behavior.

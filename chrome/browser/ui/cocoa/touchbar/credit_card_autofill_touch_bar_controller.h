@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreditCardAutofillTouchBarController class header
+// summary: Declares the touch bar controller that presents credit card autofill suggestions from the autofill popup, with testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_TOUCHBAR_CREDIT_CARD_AUTOFILL_TOUCH_BAR_CONTROLLER_H_
 #define CHROME_BROWSER_UI_COCOA_TOUCHBAR_CREDIT_CARD_AUTOFILL_TOUCH_BAR_CONTROLLER_H_
 

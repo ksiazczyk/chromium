@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen toolbar mouse tracker interface
+// summary: Declares a tracker that manages a Cocoa tracking area to keep the fullscreen toolbar visible while the mouse hovers over it.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_FULLSCREEN_FULLSCREEN_TOOLBAR_MOUSE_TRACKER_H_
 #define CHROME_BROWSER_UI_COCOA_FULLSCREEN_FULLSCREEN_TOOLBAR_MOUSE_TRACKER_H_
 

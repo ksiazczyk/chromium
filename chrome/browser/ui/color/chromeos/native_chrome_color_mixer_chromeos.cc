@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native Chrome color mixer for ChromeOS
+// summary: Defines the native ChromeOS color mixer that assigns concrete colors to Chrome UI color IDs such as the Borealis splash screen, caption foreground, and vertical tabs caption buttons.
+// ---
+
 #include "chrome/browser/ui/color/native_chrome_color_mixer.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen toolbar controller interface
+// summary: Declares the fullscreen toolbar controller, its toolbar style enum, and a context delegate protocol for managing toolbar visibility in fullscreen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_FULLSCREEN_FULLSCREEN_TOOLBAR_CONTROLLER_H_
 #define CHROME_BROWSER_UI_COCOA_FULLSCREEN_FULLSCREEN_TOOLBAR_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Tab contents bug tracking metadata
+summary: Maps the tab contents directory to the UI>Browser>TabContents Monorail component and a Buganizer component for issue routing.

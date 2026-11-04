@@ -1,0 +1,4 @@
+# Docerion header of render_view_context_menu_mac_remote_cocoa.mm.
+type: source
+title: RenderViewContextMenuMacRemoteCocoa implementation
+summary: Implements showing, cancelling, and updating the context menu through MenuRunnerImplRemoteCocoa using the target view id and bounds.

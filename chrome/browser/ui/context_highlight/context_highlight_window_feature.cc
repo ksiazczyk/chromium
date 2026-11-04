@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context highlight window feature implementation
+// summary: Implements the window-scoped feature that lazily creates the overlay view and updates its visibility on active tab changes.
+// ---
+
 #include "chrome/browser/ui/context_highlight/context_highlight_window_feature.h"
 
 #include "base/functional/bind.h"

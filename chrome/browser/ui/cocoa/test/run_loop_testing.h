@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Run loop testing header
+// summary: Declares NSRunLoopRunAllPending, which pumps all pending delayed selectors from the Cocoa event queue to make such objects testable.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_TEST_RUN_LOOP_TESTING_H_
 #define CHROME_BROWSER_UI_COCOA_TEST_RUN_LOOP_TESTING_H_
 

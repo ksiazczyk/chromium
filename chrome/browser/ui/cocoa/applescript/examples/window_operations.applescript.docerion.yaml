@@ -1,0 +1,4 @@
+# Docerion header of window_operations.applescript.
+type: script
+title: Window Operations AppleScript Example
+summary: Example AppleScript demonstrating common Chromium window operations such as reading the active tab URL, minimizing, hiding, tab selection, and presentation mode.

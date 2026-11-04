@@ -1,0 +1,4 @@
+# Docerion header of history_overlay_controller.mm.
+type: source
+title: History overlay controller implementation
+summary: Implements the history navigation overlay, drawing a semicircular shield with an arrow whose appearance follows trackpad gesture progress.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome color mixer implementation
+// summary: Defines default color recipes for Chrome color IDs, including dark-mode selection and custom theme handling, before native overrides apply.
+// ---
+
 #include "chrome/browser/ui/color/chrome_color_mixer.h"
 
 #include <optional>

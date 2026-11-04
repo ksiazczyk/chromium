@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSPromoTriggerServiceFactory implementation
+// summary: Implements the profile-keyed service factory that creates IOSPromoTriggerService when the mobile promo on desktop feature is enabled.
+// ---
+
 #include "chrome/browser/ui/desktop_to_mobile_promos/ios_promo_trigger_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

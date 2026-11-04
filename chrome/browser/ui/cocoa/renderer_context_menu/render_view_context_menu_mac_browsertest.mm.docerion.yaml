@@ -1,0 +1,4 @@
+# Docerion header of render_view_context_menu_mac_browsertest.mm.
+type: test
+title: RenderViewContextMenuMac browser tests
+summary: Browser tests verifying that the Remove from Dictionary and Look Up commands appear in the Mac context menu, execute correctly, and record UMA metrics.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS promos utilities header
+// summary: Declares ios_promos_utils functions for verifying iOS promo eligibility, overriding card confirmation bubbles and checking user activity on iOS devices.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DESKTOP_TO_MOBILE_PROMOS_IOS_PROMOS_UTILS_H_
 #define CHROME_BROWSER_UI_DESKTOP_TO_MOBILE_PROMOS_IOS_PROMOS_UTILS_H_
 

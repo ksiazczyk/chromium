@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileMenuController interface
+// summary: Declares the Objective-C controller that manages the Profiles item and submenu in the macOS system menu bar, updating it as the active browser changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_PROFILES_PROFILE_MENU_CONTROLLER_H_
 #define CHROME_BROWSER_UI_COCOA_PROFILES_PROFILE_MENU_CONTROLLER_H_
 

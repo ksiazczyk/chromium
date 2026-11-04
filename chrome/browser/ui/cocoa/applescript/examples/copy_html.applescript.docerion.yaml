@@ -1,0 +1,4 @@
+# Docerion header of copy_html.applescript.
+type: script
+title: Copy tab HTML AppleScript example
+summary: Example AppleScript that copies a tab's HTML source into a TextEdit document via the clipboard.

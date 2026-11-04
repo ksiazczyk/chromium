@@ -1,0 +1,4 @@
+# Docerion header of accelerators_cocoa_browsertest.mm.
+type: test
+title: AcceleratorsCocoa browser tests
+summary: Browser tests verifying that main menu items have matching accelerators in the mapping, including an RTL layout variant.

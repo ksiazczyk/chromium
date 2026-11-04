@@ -1,0 +1,4 @@
+# Docerion header of titlebar_background_view.mm.
+type: source
+title: Titlebar background view implementation
+summary: Implements the titlebar background view that adds itself to an NSWindow and draws rounded solid colors based on key and main window status.

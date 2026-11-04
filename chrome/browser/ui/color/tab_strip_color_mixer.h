@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip color mixer header
+// summary: Declares AddTabStripColorMixer, which adds a color mixer with recipes for tab strip colors to a ui::ColorProvider based on the given ColorProviderKey.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COLOR_TAB_STRIP_COLOR_MIXER_H_
 #define CHROME_BROWSER_UI_COLOR_TAB_STRIP_COLOR_MIXER_H_
 

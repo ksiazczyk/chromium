@@ -1,0 +1,4 @@
+# Docerion header of bookmark_item_applescript.mm.
+type: source
+title: Bookmark item AppleScript object implementation
+summary: Implements getting and setting a bookmark item's URL via AppleScript, including URL validation and the JavaScript URL preference check.
