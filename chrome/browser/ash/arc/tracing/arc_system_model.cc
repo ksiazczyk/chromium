@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: arc_system_model.cc
+// summary: Implements the ARC system model, including serialization, loading, timestamp-based trimming of CPU and memory events, and thread info handling.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_system_model.h"
 
 #include <optional>

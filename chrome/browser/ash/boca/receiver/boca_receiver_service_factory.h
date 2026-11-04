@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca receiver service factory declaration
+// summary: Declares BocaReceiverServiceFactory, a singleton ProfileKeyedServiceFactory that vends BocaReceiverService for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_RECEIVER_BOCA_RECEIVER_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_BOCA_RECEIVER_BOCA_RECEIVER_SERVICE_FACTORY_H_
 

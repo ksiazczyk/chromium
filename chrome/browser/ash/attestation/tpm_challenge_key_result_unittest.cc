@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TpmChallengeKeyResult unit tests
+// summary: Unit tests verifying the TpmChallengeKeyResult factory methods, error messages and equality operators.
+// ---
+
 #include "chrome/browser/ash/attestation/tpm_challenge_key_result.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

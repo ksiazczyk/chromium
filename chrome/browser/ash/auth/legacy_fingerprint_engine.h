@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy fingerprint engine class declaration
+// summary: Declares LegacyFingerprintEngine, which manages fingerprint authentication availability and auth factor operations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_AUTH_LEGACY_FINGERPRINT_ENGINE_H_
 #define CHROME_BROWSER_ASH_AUTH_LEGACY_FINGERPRINT_ENGINE_H_
 

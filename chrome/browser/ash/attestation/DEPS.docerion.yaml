@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for attestation directory dependencies
+summary: Restricts //chrome includes for ChromeOS code and lists the allowed dependencies and test-specific exceptions.

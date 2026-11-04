@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locked session window tracker factory implementation
+// summary: Implements the browser-context keyed service factory that builds LockedSessionWindowTracker instances with an OnTask URL blocklist manager.
+// ---
+
 #include "chrome/browser/ash/boca/on_task/locked_session_window_tracker_factory.h"
 
 #include "chrome/browser/ash/boca/boca_manager_factory.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for ARC user session browser tests
+summary: Defines the browser_tests source set that compiles arc_user_session_service_browsertest.cc together with its Chromium and ARC test dependencies.

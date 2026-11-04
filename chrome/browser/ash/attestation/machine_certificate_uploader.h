@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine certificate uploader interface
+// summary: Defines the abstract MachineCertificateUploader interface for checking, obtaining and uploading enterprise machine certificates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_MACHINE_CERTIFICATE_UPLOADER_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_MACHINE_CERTIFICATE_UPLOADER_H_
 

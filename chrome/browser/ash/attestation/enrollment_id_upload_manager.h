@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment ID upload manager header
+// summary: Declares EnrollmentIdUploadManager, which watches policy changes and triggers enrollment certificate or enrollment ID upload through CloudPolicyClient.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_ENROLLMENT_ID_UPLOAD_MANAGER_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_ENROLLMENT_ID_UPLOAD_MANAGER_H_
 

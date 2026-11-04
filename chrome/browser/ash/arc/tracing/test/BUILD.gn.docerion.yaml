@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for ARC tracing test support library
+summary: Defines the testonly static_library test_support with the ARC app performance and overview tracing test helpers and their build dependencies.

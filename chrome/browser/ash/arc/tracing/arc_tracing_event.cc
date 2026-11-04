@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcTracingEvent implementation
+// summary: Implements a hierarchical wrapper over trace event dictionaries with accessors for pid, timestamps, arguments and child events.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_tracing_event.h"
 
 #include <inttypes.h>

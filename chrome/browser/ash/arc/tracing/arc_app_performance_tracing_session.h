@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app performance tracing session header
+// summary: Declares ArcAppPerformanceTracingSession and PerfTraceResult for scheduling and finishing surface commit traces on a window.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_APP_PERFORMANCE_TRACING_SESSION_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_APP_PERFORMANCE_TRACING_SESSION_H_
 

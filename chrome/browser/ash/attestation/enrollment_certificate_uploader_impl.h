@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment certificate uploader implementation header
+// summary: Declares EnrollmentCertificateUploaderImpl, which uploads enterprise enrollment certificates with configurable retry limits and test hooks for the attestation flow.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_ENROLLMENT_CERTIFICATE_UPLOADER_IMPL_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_ENROLLMENT_CERTIFICATE_UPLOADER_IMPL_H_
 

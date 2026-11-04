@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CrasAudioHandlerDelegateImpl
+// summary: Verifies that OpenSettingsAudioPage opens the Settings audio subpage URL through a test settings window manager.
+// ---
+
 #include "chrome/browser/ash/audio/cras_audio_handler_delegate_impl.h"
 
 #include "ash/webui/settings/public/constants/routes.mojom.h"

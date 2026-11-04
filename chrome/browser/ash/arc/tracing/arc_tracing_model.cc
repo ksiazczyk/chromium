@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcTracingModel implementation
+// summary: Implements the base tracing model that builds hierarchical events from Chrome tracing and system kernel trace data.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_tracing_model.h"
 
 #include <inttypes.h>

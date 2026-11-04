@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the ash audio directory
+summary: Restricts //chrome includes and whitelists the allowed dependencies for this directory and specific test files.

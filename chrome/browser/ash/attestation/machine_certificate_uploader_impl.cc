@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine certificate uploader implementation
+// summary: Implements enterprise machine certificate obtention and upload to the policy server, including expiry checks and retry handling.
+// ---
+
 #include "chrome/browser/ash/attestation/machine_certificate_uploader_impl.h"
 
 #include <memory>

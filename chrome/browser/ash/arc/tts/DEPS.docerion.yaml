@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ARC TTS directory
+summary: Restricts Chrome dependencies for the directory, allowing only the speech and TTS controller headers plus test-only includes.

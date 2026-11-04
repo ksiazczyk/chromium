@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcTracingBridge class declaration
+// summary: Declares ArcTracingBridge, the interface to trigger tracing in the ARC container with start, stop and category query methods.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_TRACING_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_TRACING_BRIDGE_H_
 

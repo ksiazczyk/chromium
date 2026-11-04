@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DebugLogsManager unit tests
+// summary: Unit tests for DebugLogsManager covering debug log state changes using fake BlueZ and Floss DBus clients and feature flag configurations.
+// ---
+
 #include "chrome/browser/ash/bluetooth/debug_logs_manager.h"
 
 #include <memory>

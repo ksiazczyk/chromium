@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app performance tracing session implementation
+// summary: Implements surface commit tracing for a target window, computing FPS, vsync error, jank counts and related metrics.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_app_performance_tracing_session.h"
 
 #include <optional>

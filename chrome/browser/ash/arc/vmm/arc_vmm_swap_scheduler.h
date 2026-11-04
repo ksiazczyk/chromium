@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcVmmSwapScheduler header
+// summary: Declares the scheduler that periodically enables or disables ARCVM vmm swap based on peace duration and throttle intervals.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_VMM_ARC_VMM_SWAP_SCHEDULER_H_
 #define CHROME_BROWSER_ASH_ARC_VMM_ARC_VMM_SWAP_SCHEDULER_H_
 

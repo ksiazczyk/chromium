@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC wallpaper service implementation
+// summary: Implements ArcWallpaperService, decoding wallpaper images sent from Android and applying them through the Ash wallpaper controller.
+// ---
+
 #include "chrome/browser/ash/arc/wallpaper/arc_wallpaper_service.h"
 
 #include <stdlib.h>

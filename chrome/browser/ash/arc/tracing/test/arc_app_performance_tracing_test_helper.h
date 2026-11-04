@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app performance tracing test helper header
+// summary: Declares the helper class shared by browser and unit tests for ArcAppPerformanceTracing, including frame sequences, timer control and app sync disabling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_TEST_ARC_APP_PERFORMANCE_TRACING_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_TEST_ARC_APP_PERFORMANCE_TRACING_TEST_HELPER_H_
 

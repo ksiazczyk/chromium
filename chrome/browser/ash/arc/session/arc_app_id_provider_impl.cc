@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppIdProviderImpl implementation
+// summary: Implements ArcAppIdProvider by looking up the Chrome app ID for an Android package name through ArcAppListPrefs.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_app_id_provider_impl.h"
 
 #include "chrome/browser/ash/app_list/arc/arc_app_list_prefs.h"

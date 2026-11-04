@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrca speech recognizer implementation header
+// summary: Declares the BabelOrcaSpeechRecognizerImpl class, which combines BabelOrcaSpeechRecognizer and SystemLiveCaptionService for microphone-based captioning.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_BABELORCA_BABEL_ORCA_SPEECH_RECOGNIZER_IMPL_H_
 #define CHROME_BROWSER_ASH_BOCA_BABELORCA_BABEL_ORCA_SPEECH_RECOGNIZER_IMPL_H_
 

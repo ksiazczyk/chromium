@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ash Bluetooth browser code
+summary: Defines the Bluetooth static library, unit test, and Crosier integration test build targets for the directory.

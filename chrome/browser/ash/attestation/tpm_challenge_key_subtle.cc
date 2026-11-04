@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TpmChallengeKeySubtle implementation
+// summary: Implements TpmChallengeKeySubtle, the detailed flow for preparing keys, signing challenges and registering keys, including enterprise and consent checks.
+// ---
+
 #include "chrome/browser/ash/attestation/tpm_challenge_key_subtle.h"
 
 #include <stdint.h>

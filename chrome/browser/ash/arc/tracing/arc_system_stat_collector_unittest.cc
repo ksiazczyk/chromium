@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: arc_system_stat_collector_unittest.cc
+// summary: Unit tests for the system stat collector checking stat file parsing against test data and JSON serialization round-trips.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_system_stat_collector.h"
 
 #include <fcntl.h>

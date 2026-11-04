@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC provisioning result unit tests
+// summary: Unit tests verifying ArcProvisioningResult behavior for sign-in, check-in, and cloud provision errors, success, stop reasons, and timeouts.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_provisioning_result.h"
 
 #include "chrome/browser/ash/arc/arc_optin_uma.h"

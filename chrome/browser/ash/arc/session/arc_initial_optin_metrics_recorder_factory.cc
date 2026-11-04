@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC initial opt-in metrics recorder factory implementation
+// summary: Implements the profile-keyed service factory that creates an ArcInitialOptInMetricsRecorder instance for each browser context.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_initial_optin_metrics_recorder_factory.h"
 
 #include "chrome/browser/ash/arc/session/arc_initial_optin_metrics_recorder.h"

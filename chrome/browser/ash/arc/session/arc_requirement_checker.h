@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC requirement checker header
+// summary: Declares ArcRequirementChecker, which performs terms-of-service and Android management checks for opt-in and background ARC startup flows.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_SESSION_ARC_REQUIREMENT_CHECKER_H_
 #define CHROME_BROWSER_ASH_ARC_SESSION_ARC_REQUIREMENT_CHECKER_H_
 

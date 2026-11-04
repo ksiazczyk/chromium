@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TpmChallengeKeySubtle detailed API
+// summary: Declares TpmChallengeKeySubtle, a stepwise API for Verified Access challenge responses covering key preparation, challenge signing and key registration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_TPM_CHALLENGE_KEY_SUBTLE_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_TPM_CHALLENGE_KEY_SUBTLE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the arc_test_support library
+summary: GN build file defining the testonly arc_test_support static library with its sources, public configs, and dependencies.

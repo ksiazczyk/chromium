@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrca speech recognizer client header
+// summary: Declares the BabelOrcaSpeechRecognizerClient class, which implements BabelOrcaSpeechRecognizer and SpeechRecognizerDelegate to manage recognition lifecycle and observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_BABELORCA_BABEL_ORCA_SPEECH_RECOGNIZER_CLIENT_H_
 #define CHROME_BROWSER_ASH_BOCA_BABELORCA_BABEL_ORCA_SPEECH_RECOGNIZER_CLIENT_H_
 

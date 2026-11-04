@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: arc_system_model_unittest.cc
+// summary: Unit tests for the ARC system model verifying trimming of CPU and memory events by timestamp and range closing for value events.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_system_model.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ARC session DEPS include rules
+summary: Lists allowed include dependencies for the ARC session directory, restricting ChromeOS dependencies on //chrome with per-file exceptions.

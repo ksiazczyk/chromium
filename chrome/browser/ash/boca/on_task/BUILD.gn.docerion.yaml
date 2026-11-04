@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: OnTask BUILD.gn build targets
+summary: Defines the GN build targets for the OnTask static library plus its unit test and browser test source sets, listing sources and dependencies.

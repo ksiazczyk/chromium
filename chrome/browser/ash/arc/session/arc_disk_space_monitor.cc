@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC disk space monitor implementation
+// summary: Implements periodic free disk space checks while ARC is running, stopping ARC and showing warning notifications when free space falls below thresholds.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_disk_space_monitor.h"
 
 #include "ash/public/cpp/notification_utils.h"

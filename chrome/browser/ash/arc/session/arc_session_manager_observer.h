@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSessionManagerObserver interface header
+// summary: Defines the observer interface that lets services outside ARC receive ARC session events such as start, stop, restart, Play Store enablement changes, and error display requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_SESSION_ARC_SESSION_MANAGER_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_SESSION_ARC_SESSION_MANAGER_OBSERVER_H_
 

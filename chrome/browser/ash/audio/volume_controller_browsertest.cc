@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for volume key handling
+// summary: In-process browser tests that check volume up, down and mute key behavior against CrasAudioHandler.
+// ---
+
 #include <map>
 #include <memory>
 #include <optional>

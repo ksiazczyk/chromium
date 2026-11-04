@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca app client implementation
+// summary: Implements BocaAppClient by providing the device ID, launching the Boca system web app, counting app instances, opening feedback, and creating shared CRD session wrappers.
+// ---
+
 #include "chrome/browser/ash/boca/boca_app_client_impl.h"
 
 #include "chrome/browser/ash/boca/shared_crd_session_wrapper_impl.h"

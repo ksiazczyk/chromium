@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Soft bind attestation flow implementation
+// summary: Implements soft-bind certificate generation, including local certificate chain construction, ASN.1 extensions, expiry checks and renewal.
+// ---
+
 #include "chrome/browser/ash/attestation/soft_bind_attestation_flow_impl.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the ARC sharesheet library
+summary: Defines the sharesheet static library and its unit_tests source_set, listing sources and dependencies for the ARC sharesheet bridge.

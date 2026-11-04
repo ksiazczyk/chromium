@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: Test metadata for BluetoothIntegrationTest
+# summary: Declares the Crosier harness, owners, and demo suite test cases for the Bluetooth integration tests.
+# ---
+
 # Schema can be found at: platform/dev/test/gtest/gtest_schema.yaml
 ---
 name: "BluetoothIntegrationTest"

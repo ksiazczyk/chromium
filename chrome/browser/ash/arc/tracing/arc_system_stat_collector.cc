@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: arc_system_stat_collector.cc
+// summary: Implements the system stat collector that periodically reads zram, memory, GPU, CPU frequency, temperature, and energy stats for the system model.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_system_stat_collector.h"
 
 #include <fcntl.h>

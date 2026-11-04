@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask locked session navigation throttle header
+// summary: Declares the OnTaskLockedSessionNavigationThrottle class that restricts navigations in the OnTask system web app according to locked session rules.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_ON_TASK_ON_TASK_LOCKED_SESSION_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_ASH_BOCA_ON_TASK_ON_TASK_LOCKED_SESSION_NAVIGATION_THROTTLE_H_
 

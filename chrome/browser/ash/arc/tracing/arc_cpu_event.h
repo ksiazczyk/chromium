@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC CPU event types and helpers header
+// summary: Declares the ArcCpuEvent structure and helpers to add, serialize and load CPU events for single and all CPUs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_CPU_EVENT_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_CPU_EVENT_H_
 

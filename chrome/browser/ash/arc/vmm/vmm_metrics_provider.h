@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VmmMetricsProvider header
+// summary: Declares VmmMetricsProvider, which observes Concierge VM start, stop and swapping events and reports ARC VM running and swap-out status as UMA metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_VMM_VMM_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_ASH_ARC_VMM_VMM_METRICS_PROVIDER_H_
 

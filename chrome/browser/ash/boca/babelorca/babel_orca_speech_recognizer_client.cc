@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrca speech recognizer client implementation
+// summary: Implements BabelOrcaSpeechRecognizerClient, which installs SODA, drives speech recognition, and notifies observers of transcription results and language identification events.
+// ---
+
 #include "chrome/browser/ash/boca/babelorca/babel_orca_speech_recognizer_client.h"
 
 #include <memory>

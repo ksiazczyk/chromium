@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC provisioning result implementation
+// summary: Implements ArcProvisioningResult, which encapsulates ARC provisioning outcomes such as sign-in errors, stop reasons, and provisioning timeouts.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_provisioning_result.h"
 
 #include <variant>

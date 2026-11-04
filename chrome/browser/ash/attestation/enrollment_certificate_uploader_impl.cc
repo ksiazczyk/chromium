@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment certificate uploader implementation
+// summary: Implements enrollment certificate fetching and upload via the attestation flow and CloudPolicyClient, with retry logic for fetch and upload failures.
+// ---
+
 #include "chrome/browser/ash/attestation/enrollment_certificate_uploader_impl.h"
 
 #include <memory>

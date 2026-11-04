@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcVmmSwapScheduler implementation
+// summary: Implements periodic swappable-state checks, swapout throttling, and swap-out time recording for ARCVM vmm swap.
+// ---
+
 #include "chrome/browser/ash/arc/vmm/arc_vmm_swap_scheduler.h"
 
 #include <memory>

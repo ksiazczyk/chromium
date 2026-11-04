@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Spotlight library
+summary: Defines the spotlight static library and browser_tests source set with their sources and dependencies for the ChromeOS Ash Boca Spotlight feature.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the window_predictor directory
+summary: Restricts dependencies on //chrome for ChromeOS code while allowing the specific includes this directory needs.

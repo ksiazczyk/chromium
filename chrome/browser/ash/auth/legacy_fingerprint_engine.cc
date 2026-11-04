@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy fingerprint engine implementation
+// summary: Implements fingerprint policy checks, availability queries and legacy fingerprint auth factor preparation for quick unlock purposes.
+// ---
+
 #include "chrome/browser/ash/auth/legacy_fingerprint_engine.h"
 
 #include "ash/constants/ash_features.h"

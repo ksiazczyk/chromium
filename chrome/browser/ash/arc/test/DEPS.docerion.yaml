@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ARC test support
+summary: DEPS file restricting //chrome includes and allowing the specific dependencies needed by the ARC test support directory.

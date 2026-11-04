@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC CPU event handling implementation
+// summary: Implements validation, addition and serialization of CPU events used by the ARC tracing models.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_cpu_event.h"
 
 #include <utility>

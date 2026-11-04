@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app performance tracing service implementation
+// summary: Implements the browser-context keyed service that monitors ARC++ apps and reports performance and jankiness metrics for predefined apps.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_app_performance_tracing.h"
 
 #include "ash/constants/ash_features.h"

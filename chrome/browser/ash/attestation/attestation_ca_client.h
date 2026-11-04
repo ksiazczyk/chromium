@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation CA client header
+// summary: Declares AttestationCAClient, the ServerProxy implementation that posts attestation requests to the CA.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_ATTESTATION_CA_CLIENT_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_ATTESTATION_CA_CLIENT_H_
 

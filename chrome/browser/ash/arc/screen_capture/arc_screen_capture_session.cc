@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC screen capture session implementation
+// summary: Implements ArcScreenCaptureSession, copying desktop capture frames into GPU shared buffers while managing frame queues, notifications, and display changes.
+// ---
+
 #include "chrome/browser/ash/arc/screen_capture/arc_screen_capture_session.h"
 
 #include <utility>

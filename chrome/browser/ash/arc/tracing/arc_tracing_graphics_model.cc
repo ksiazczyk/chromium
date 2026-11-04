@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcTracingGraphicsModel implementation
+// summary: Builds the graphics buffer event model from generic trace events, mapping Android and Chrome graphics events per view and buffer.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_tracing_graphics_model.h"
 
 #include <inttypes.h>

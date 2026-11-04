@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate expiry utility declarations
+// summary: Declares CertificateExpiryStatus and CheckCertificateExpiry to classify PEM certificate chains as valid, expiring soon, expired, or invalid in ChromeOS attestation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_CERTIFICATE_UTIL_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_CERTIFICATE_UTIL_H_
 

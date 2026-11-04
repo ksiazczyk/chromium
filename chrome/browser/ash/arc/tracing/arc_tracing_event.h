@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcTracingEvent class declaration
+// summary: Declares ArcTracingEvent, a hierarchical representation of Chrome trace events with position classification, validation and dumping.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_TRACING_EVENT_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_TRACING_EVENT_H_
 

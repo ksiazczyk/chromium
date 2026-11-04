@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PresentFramesTracer implementation
+// summary: Implements recording of surface commit and frame presentation timestamps used for perceived FPS measurement.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/present_frames_tracer.h"
 
 #include "components/exo/surface.h"

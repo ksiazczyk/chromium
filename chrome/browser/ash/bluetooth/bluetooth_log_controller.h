@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLogController header
+// summary: Declares a UserManager observer class that controls the bluetoothlog upstart job.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BLUETOOTH_BLUETOOTH_LOG_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_BLUETOOTH_BLUETOOTH_LOG_CONTROLLER_H_
 

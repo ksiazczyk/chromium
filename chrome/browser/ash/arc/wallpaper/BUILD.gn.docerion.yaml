@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the ARC wallpaper service
+summary: Defines the static library and unit test targets with their sources and dependencies for the ARC wallpaper service.

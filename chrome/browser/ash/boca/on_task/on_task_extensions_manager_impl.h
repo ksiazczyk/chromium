@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask extensions manager class declaration
+// summary: Declares OnTaskExtensionsManagerImpl, the OnTaskExtensionsManager implementation that manages extension disabling and re-enabling for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_ON_TASK_ON_TASK_EXTENSIONS_MANAGER_IMPL_H_
 #define CHROME_BROWSER_ASH_BOCA_ON_TASK_ON_TASK_EXTENSIONS_MANAGER_IMPL_H_
 

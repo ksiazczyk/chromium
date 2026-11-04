@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: ARC session OWNERS file
+summary: Points to the OWNERS file in chromeos/ash/experiences/arc/session as the review ownership for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: arc_graphics_jank_detector_unittest.cc
+// summary: Unit tests for the graphics jank detector covering warm-up, rate detection, jank reporting, fixed-period mode, and pause handling.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_graphics_jank_detector.h"
 
 #include "base/functional/bind.h"

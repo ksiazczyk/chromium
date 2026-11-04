@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PresentFramesTracer class header
+// summary: Declares a tracer that records commit and present timestamps from exo surfaces to enable perceived FPS measurement.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_PRESENT_FRAMES_TRACER_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_PRESENT_FRAMES_TRACER_H_
 

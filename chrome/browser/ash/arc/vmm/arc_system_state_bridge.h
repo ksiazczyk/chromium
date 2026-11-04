@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSystemStateBridge header
+// summary: Declares the ArcSystemStateBridge keyed service and its observer interface for ARC system app running state changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_VMM_ARC_SYSTEM_STATE_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_VMM_ARC_SYSTEM_STATE_BRIDGE_H_
 

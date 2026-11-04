@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OnTask session manager browser tests
+// summary: Browser tests for the OnTask session manager covering session handling, locked navigation options and notification behavior.
+// ---
+
 #include "chromeos/ash/components/boca/on_task/on_task_session_manager.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OnTask extensions manager unit tests
+// summary: Unit tests verifying extension disable and re-enable behavior, including component extensions and extensions forced enabled by management policy.
+// ---
+
 #include "chrome/browser/ash/boca/on_task/on_task_extensions_manager_impl.h"
 
 #include <algorithm>

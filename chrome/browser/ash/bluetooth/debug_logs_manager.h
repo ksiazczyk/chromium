@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DebugLogsManager class header
+// summary: Declares the DebugLogsManager class that tracks the state of Bluetooth debug logs and link quality reports and handles enabling or disabling them via Mojo and DBus.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BLUETOOTH_DEBUG_LOGS_MANAGER_H_
 #define CHROME_BROWSER_ASH_BLUETOOTH_DEBUG_LOGS_MANAGER_H_
 

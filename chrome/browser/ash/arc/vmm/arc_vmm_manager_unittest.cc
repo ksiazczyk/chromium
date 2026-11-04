@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcVmmManager unit test
+// summary: Unit tests for ArcVmmManager swap and aggressive balloon requests using a fake Concierge client that counts operations.
+// ---
+
 #include "chrome/browser/ash/arc/vmm/arc_vmm_manager.h"
 
 #include <memory>

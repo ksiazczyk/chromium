@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate expiry utility implementation
+// summary: Parses PEM certificate chains to determine expiry status and converts status values to strings.
+// ---
+
 #include "chrome/browser/ash/attestation/certificate_util.h"
 
 #include "base/containers/span.h"

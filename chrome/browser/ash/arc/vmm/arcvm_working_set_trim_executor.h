@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcVmWorkingSetTrimExecutor header
+// summary: Declares the executor that trims ARCVM working set memory with reclaim types for guest page caches and zram.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_VMM_ARCVM_WORKING_SET_TRIM_EXECUTOR_H_
 #define CHROME_BROWSER_ASH_ARC_VMM_ARCVM_WORKING_SET_TRIM_EXECUTOR_H_
 

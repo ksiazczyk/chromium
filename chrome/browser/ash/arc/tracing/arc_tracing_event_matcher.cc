@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcTracingEventMatcher implementation
+// summary: Implements matching of trace events by category, name, phase and arguments, including parsing of Android event values.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_tracing_event_matcher.h"
 
 #include <string_view>

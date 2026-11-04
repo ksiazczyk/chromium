@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment certificate uploader mock implementation
+// summary: Provides the constructor and destructor definitions for MockEnrollmentCertificateUploader.
+// ---
+
 #include "chrome/browser/ash/attestation/mock_enrollment_certificate_uploader.h"
 
 namespace ash {

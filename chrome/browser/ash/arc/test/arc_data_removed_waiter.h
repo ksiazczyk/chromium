@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcDataRemovedWaiter class declaration
+// summary: Declares a test helper that blocks until the ARC data removed notification arrives from ArcSessionManager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TEST_ARC_DATA_REMOVED_WAITER_H_
 #define CHROME_BROWSER_ASH_ARC_TEST_ARC_DATA_REMOVED_WAITER_H_
 

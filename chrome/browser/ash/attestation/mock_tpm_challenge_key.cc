@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TPM challenge key mock implementation
+// summary: Implements MockTpmChallengeKey fake behaviors that return configurable success or error challenge responses in tests.
+// ---
+
 #include "chrome/browser/ash/attestation/mock_tpm_challenge_key.h"
 
 #include <utility>

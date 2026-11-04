@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the attestation library
+summary: Defines the attestation static library, test support library, and unit test target with their sources and dependencies.

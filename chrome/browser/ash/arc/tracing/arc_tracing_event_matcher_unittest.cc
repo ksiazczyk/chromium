@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcTracingEventMatcher unit tests
+// summary: Tests event matching by category and name, prefix matching and reading of Android int64 event values.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_tracing_event_matcher.h"
 
 #include "base/json/json_reader.h"

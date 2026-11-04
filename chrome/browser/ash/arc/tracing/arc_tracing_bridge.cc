@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC tracing bridge implementation
+// summary: Implements the keyed service that starts and stops tracing in the Android container, coordinating ARC tracing sessions with a Perfetto data source.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_tracing_bridge.h"
 
 #include <utility>

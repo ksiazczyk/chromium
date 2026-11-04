@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome PIN engine implementation
+// summary: Implements PIN policy checks, availability queries and PIN authentication through the cryptohome auth performer.
+// ---
+
 #include "chrome/browser/ash/auth/cryptohome_pin_engine.h"
 
 #include "ash/constants/ash_features.h"

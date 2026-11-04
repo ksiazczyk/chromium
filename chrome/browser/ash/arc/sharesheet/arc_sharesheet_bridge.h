@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSharesheetBridge class declaration
+// summary: Declares a keyed service that handles sharesheet IPC from ARC++ so sharesheets are shown and managed in the Chrome preview instead of Android.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_SHARESHEET_ARC_SHARESHEET_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_SHARESHEET_ARC_SHARESHEET_BRIDGE_H_
 

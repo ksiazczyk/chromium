@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OverviewTracingHandler unit tests
+// summary: Unit tests for the overview tracing handler covering model file naming and filtering of system traces by timestamp.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/overview_tracing_handler.h"
 
 #include "ash/constants/ash_switches.h"

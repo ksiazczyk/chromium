@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcSystemStateObservation unit tests
+// summary: Unit tests for ArcSystemStateObservation covering callbacks, peace duration, and ARC connection states.
+// ---
+
 #include "chrome/browser/ash/arc/vmm/arc_system_state_observation.h"
 
 #include "base/memory/raw_ptr.h"

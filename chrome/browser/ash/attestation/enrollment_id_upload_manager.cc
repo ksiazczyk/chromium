@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment ID upload manager implementation
+// summary: Implements the manager that observes device settings changes and uploads the enrollment certificate or enrollment ID to the policy server with retries.
+// ---
+
 #include "chrome/browser/ash/attestation/enrollment_id_upload_manager.h"
 
 #include <optional>

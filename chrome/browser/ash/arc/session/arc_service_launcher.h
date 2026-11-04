@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC service launcher header
+// summary: Declares ArcServiceLauncher, which detects ARC availability, assigns the profile, and launches ARC services during user session startup.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_SESSION_ARC_SERVICE_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_ARC_SESSION_ARC_SERVICE_LAUNCHER_H_
 

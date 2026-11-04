@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TpmChallengeKeyWithTimeout wrapper header
+// summary: Declares TpmChallengeKeyWithTimeout, a wrapper around TpmChallengeKey that adds a timeout to building TPM challenge responses in ChromeOS ash attestation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_TPM_CHALLENGE_KEY_WITH_TIMEOUT_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_TPM_CHALLENGE_KEY_WITH_TIMEOUT_H_
 

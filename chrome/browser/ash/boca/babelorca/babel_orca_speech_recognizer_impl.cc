@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrca speech recognizer implementation
+// summary: Implements BabelOrcaSpeechRecognizerImpl, extending SystemLiveCaptionService to start and stop SODA-based recognition and forward results to observers.
+// ---
+
 #include "chrome/browser/ash/boca/babelorca/babel_orca_speech_recognizer_impl.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask pod controller implementation
+// summary: Implements the controller backing the OnTask pod view, managing the pod widget, navigation actions, snap location and immersive fullscreen behavior.
+// ---
+
 #include "chrome/browser/ash/boca/on_task/on_task_pod_controller_impl.h"
 
 #include <memory>

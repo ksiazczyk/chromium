@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewTracingHandler class header
+// summary: Declares a handler that observes ARC window activation and surface changes to start and stop tracing and build overview graphics models.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_OVERVIEW_TRACING_HANDLER_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_OVERVIEW_TRACING_HANDLER_H_
 

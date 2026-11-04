@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app performance tracing service header
+// summary: Declares ArcAppPerformanceTracing, a keyed service that measures and reports performance metrics for predefined ARC++ apps.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_APP_PERFORMANCE_TRACING_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_APP_PERFORMANCE_TRACING_H_
 

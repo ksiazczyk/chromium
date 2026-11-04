@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform verification flow implementation
+// summary: Implements the platform verification flow that challenges platform keys for the content protection use case, with timeouts, renewal and UMA reporting.
+// ---
+
 #include "chrome/browser/ash/attestation/platform_verification_flow.h"
 
 #include <memory>

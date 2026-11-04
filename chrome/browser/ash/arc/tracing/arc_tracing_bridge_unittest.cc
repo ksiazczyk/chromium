@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcTracingBridge unit tests
+// summary: Tests ArcTracingBridge tracing start and stop behavior and state transitions using a fake tracing instance.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_tracing_bridge.h"
 
 #include <memory>

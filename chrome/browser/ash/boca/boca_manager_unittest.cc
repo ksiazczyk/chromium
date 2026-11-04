@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BocaManager unit tests
+// summary: Unit tests for BocaManager using mock GCM, instance ID, and session client objects along with testing profile and identity test environments.
+// ---
+
 #include "chrome/browser/ash/boca/boca_manager.h"
 
 #include <memory>

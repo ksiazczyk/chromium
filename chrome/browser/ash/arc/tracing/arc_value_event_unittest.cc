@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcValueEvent unit tests
+// summary: Unit tests for value event trimming, constant reset behavior, and serialization round trips.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_value_event.h"
 
 #include "chrome/browser/ash/arc/tracing/arc_value_event_trimmer.h"

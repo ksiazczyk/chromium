@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC requirement checker implementation
+// summary: Implements ArcRequirementChecker, which negotiates Terms of Service and checks Android management and policies before ARC is started for a user.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_requirement_checker.h"
 
 #include "base/check.h"

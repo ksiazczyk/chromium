@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SoftBindAttestationFlowImpl unit tests
+// summary: Unit tests for SoftBindAttestationFlowImpl using a strict mock attestation flow, fake certificate chains and secure message key pairs.
+// ---
+
 #include "chrome/browser/ash/attestation/soft_bind_attestation_flow_impl.h"
 
 #include <stddef.h>

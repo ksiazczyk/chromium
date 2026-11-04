@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask system web app manager implementation
+// summary: Implements the OnTask system web app manager for ChromeOS Ash, handling Boca SWA launch, window closing, pinning, tab creation and restriction, and camera or microphone pausing.
+// ---
+
 #include "chrome/browser/ash/boca/on_task/on_task_system_web_app_manager_impl.h"
 
 #include <optional>

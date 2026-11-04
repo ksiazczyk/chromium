@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ARC app performance tracing
+// summary: Tests ArcAppPerformanceTracing behavior, including focus app handling, custom tracing and histogram metric reporting.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_app_performance_tracing.h"
 
 #include <memory>

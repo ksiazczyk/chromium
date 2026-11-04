@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcVmmSwapScheduler unit test
+// summary: Unit tests for ArcVmmSwapScheduler covering enable, disable, swapout throttling, and periodic checks with mock time.
+// ---
+
 #include "chrome/browser/ash/arc/vmm/arc_vmm_swap_scheduler.h"
 
 #include <optional>

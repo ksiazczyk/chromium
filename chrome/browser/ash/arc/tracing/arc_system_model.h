@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: arc_system_model.h
+// summary: Declares ArcSystemModel, which stores thread information, per-CPU events, and memory value events describing ARC system activity.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_SYSTEM_MODEL_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_SYSTEM_MODEL_H_
 

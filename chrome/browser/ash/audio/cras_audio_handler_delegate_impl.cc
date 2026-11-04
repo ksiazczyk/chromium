@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the CrasAudioHandler browser delegate
+// summary: Implements OpenSettingsAudioPage to open the audio subpage of the Settings app for the active user session.
+// ---
+
 #include "chrome/browser/ash/audio/cras_audio_handler_delegate_impl.h"
 
 #include "ash/webui/settings/public/constants/routes.mojom.h"

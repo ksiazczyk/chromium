@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Machine certificate uploader mock
+// summary: Declares a gmock-based MockMachineCertificateUploader used to stub machine certificate uploads in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_MOCK_MACHINE_CERTIFICATE_UPLOADER_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_MOCK_MACHINE_CERTIFICATE_UPLOADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC provisioning result header
+// summary: Declares the ArcProvisioningResult class that wraps ARC sign-in results, stop reasons, and timeouts, with accessors for the various error types.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_SESSION_ARC_PROVISIONING_RESULT_H_
 #define CHROME_BROWSER_ASH_ARC_SESSION_ARC_PROVISIONING_RESULT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ARC screen capture static library
+summary: Defines the screen_capture static library target, listing its C++ sources and dependencies on ash, ARC, mojo, viz, gpu, and UI components.

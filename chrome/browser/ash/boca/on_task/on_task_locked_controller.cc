@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask locked controller implementation
+// summary: Implements a per-browser-window unowned user data controller that tracks the OnTask locked state and notifies registered update callbacks.
+// ---
+
 #include "chrome/browser/ash/boca/on_task/on_task_locked_controller.h"
 
 #include "base/callback_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcTracingEventMatcher class declaration
+// summary: Declares a helper that matches trace events based on criteria such as category, name prefix and argument values.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_TRACING_EVENT_MATCHER_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_TRACING_EVENT_MATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active session fingerprint client class declaration
+// summary: Declares ActiveSessionFingerprintClientImpl, which registers with the Ash shell auth controller and handles fingerprint scan callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_AUTH_ACTIVE_SESSION_FINGERPRINT_CLIENT_IMPL_H_
 #define CHROME_BROWSER_ASH_AUTH_ACTIVE_SESSION_FINGERPRINT_CLIENT_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the attestation directory
+summary: Lists the directory owners and a per-file owner for TPM challenge key files.

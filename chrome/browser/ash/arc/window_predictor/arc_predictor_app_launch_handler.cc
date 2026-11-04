@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the ARC predictor app launch handler
+// summary: Implements ArcPredictorAppLaunchHandler, which queues pending ARC apps with restore data and window info for later launch.
+// ---
+
 #include "chrome/browser/ash/arc/window_predictor/arc_predictor_app_launch_handler.h"
 
 #include "chrome/browser/ash/arc/window_predictor/window_predictor_utils.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the ARC sharesheet directory
+summary: Lists phshah@chromium.org as an owner and delegates additional ownership to the sharesheet OWNERS file.

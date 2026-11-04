@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation CA client implementation
+// summary: Sends enrollment and certificate requests to the ChromeOS attestation CA over HTTPS, including proxy lookup handling.
+// ---
+
 #include "chrome/browser/ash/attestation/attestation_ca_client.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ARC wallpaper directory
+summary: Restricts dependencies on //chrome for ChromeOS code and grants specific include exceptions for this directory and its unit tests.

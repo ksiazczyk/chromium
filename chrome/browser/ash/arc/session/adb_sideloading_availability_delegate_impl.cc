@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdbSideloadingAvailabilityDelegateImpl implementation
+// summary: Implements the ADB sideloading availability delegate, delegating the can-change check to Crostini features for the current profile.
+// ---
+
 #include "chrome/browser/ash/arc/session/adb_sideloading_availability_delegate_impl.h"
 
 #include "chrome/browser/ash/crostini/crostini_features.h"

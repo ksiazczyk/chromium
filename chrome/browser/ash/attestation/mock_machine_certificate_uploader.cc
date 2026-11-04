@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Machine certificate uploader mock implementation
+// summary: Provides the constructor and destructor definitions for MockMachineCertificateUploader.
+// ---
+
 #include "chrome/browser/ash/attestation/mock_machine_certificate_uploader.h"
 
 namespace ash {

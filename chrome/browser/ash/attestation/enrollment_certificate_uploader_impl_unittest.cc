@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the enrollment certificate uploader
+// summary: Unit tests for EnrollmentCertificateUploaderImpl covering unregistered policy clients, upload success, and retry behavior using mock attestation flow and CloudPolicyClient.
+// ---
+
 #include "chrome/browser/ash/attestation/enrollment_certificate_uploader_impl.h"
 
 #include <stdint.h>

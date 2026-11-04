@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the ash Bluetooth directory
+summary: Restricts //chrome includes and allows specific dependencies, including a signin seam for the debug logs factory.

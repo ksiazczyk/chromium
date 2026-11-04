@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OnTask locked session window tracker browser tests
+// summary: Browser tests verifying window and tab tracking, blocklist enforcement, popups and notifications during OnTask locked sessions.
+// ---
+
 #include "chrome/browser/ash/boca/on_task/on_task_locked_session_window_tracker.h"
 
 #include <memory>
