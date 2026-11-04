@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemNudgeView class declaration
+// summary: Declares the Ash SystemNudgeView class that renders anchored system nudges with body text, optional image, title, buttons, close button, shadow and hover/focus handling.
+// ---
+
 #ifndef ASH_SYSTEM_TOAST_SYSTEM_NUDGE_VIEW_H_
 #define ASH_SYSTEM_TOAST_SYSTEM_NUDGE_VIEW_H_
 

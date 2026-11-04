@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor disabled notification delegate interface
+// summary: Defines the delegate interface letting Ash query apps accessing camera, microphone, or location sensors, plus a scoped helper for injecting fakes in tests.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_HUB_SENSOR_DISABLED_NOTIFICATION_DELEGATE_H_
 #define ASH_SYSTEM_PRIVACY_HUB_SENSOR_DISABLED_NOTIFICATION_DELEGATE_H_
 

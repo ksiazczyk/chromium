@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speak-on-mute detection controller unit tests
+// summary: Unit tests verifying that speak-on-mute detection state follows the user preference across logins, user switches, and preference changes.
+// ---
+
 #include "ash/system/privacy_hub/speak_on_mute_detection_privacy_switch_controller.h"
 
 #include "ash/constants/ash_features.h"

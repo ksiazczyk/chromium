@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen security controller implementation
+// summary: Implements the controller that shows screen access and remoting screen share notifications with stop and change source actions.
+// ---
+
 #include "ash/system/privacy/screen_security_controller.h"
 
 #include "ash/constants/ash_constants.h"

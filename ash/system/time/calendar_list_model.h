@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar list model class declaration
+// summary: Declares CalendarListModel, which fetches and caches the user's calendar list for the Calendar View and notifies observers when fetches complete.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_CALENDAR_LIST_MODEL_H_
 #define ASH_SYSTEM_TIME_CALENDAR_LIST_MODEL_H_
 

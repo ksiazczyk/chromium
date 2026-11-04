@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScheduledFeature implementation
+// summary: Implements the ScheduledFeature class that automatically enables and disables features on a custom or sunset-to-sunrise schedule using prefs, geolocation, and notifications.
+// ---
+
 #include "ash/system/scheduled_feature/scheduled_feature.h"
 
 #include <algorithm>

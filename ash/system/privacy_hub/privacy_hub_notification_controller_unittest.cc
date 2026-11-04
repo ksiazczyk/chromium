@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification controller unit tests
+// summary: Tests display, combination, and removal of camera and microphone switch notifications, click handling, and the metrics logged for these interactions.
+// ---
+
 #include "ash/system/privacy_hub/privacy_hub_notification_controller.h"
 
 #include <string>

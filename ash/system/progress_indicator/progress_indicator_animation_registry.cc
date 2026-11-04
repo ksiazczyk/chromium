@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress indicator animation registry implementation
+// summary: Implements the animation registry, storing keyed icon and ring animations and notifying animation changed callbacks.
+// ---
+
 #include "ash/system/progress_indicator/progress_indicator_animation_registry.h"
 
 #include <set>

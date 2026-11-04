@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy indicators tray item view header
+// summary: Declares the tray item view that shows camera, microphone, and screen sharing access indicators in the system tray, including animation states and metric types.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_PRIVACY_INDICATORS_TRAY_ITEM_VIEW_H_
 #define ASH_SYSTEM_PRIVACY_PRIVACY_INDICATORS_TRAY_ITEM_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PowerPrefs unit tests
+// summary: Unit tests for PowerPrefs that check the power policy derived from preferences against expected values across screen lock states and session types.
+// ---
+
 #include "ash/system/power/power_prefs.h"
 
 #include <memory>

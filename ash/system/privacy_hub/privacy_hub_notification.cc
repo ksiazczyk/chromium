@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Hub notification implementation
+// summary: Implements the click delegate, notification descriptor, and notification wrapper with shared behavior used by all Privacy Hub notifications.
+// ---
+
 #include "ash/system/privacy_hub/privacy_hub_notification.h"
 
 #include <iterator>

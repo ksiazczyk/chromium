@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power event observer unit tests
+// summary: Unit tests covering lock-before-suspend behavior, suspend readiness callbacks, display compositing, and lid close locking in PowerEventObserver.
+// ---
+
 #include "ash/system/power/power_event_observer.h"
 
 #include <memory>

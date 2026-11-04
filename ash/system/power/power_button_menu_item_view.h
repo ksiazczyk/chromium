@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button menu item view header
+// summary: Declares PowerButtonMenuItemView, an ImageButton representing an item of the power button menu with an icon, title, and fixed size constants.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_BUTTON_MENU_ITEM_VIEW_H_
 #define ASH_SYSTEM_POWER_POWER_BUTTON_MENU_ITEM_VIEW_H_
 

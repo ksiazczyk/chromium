@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar event list view implementation
+// summary: Implements the scrollable calendar event list shown for a selected day, including the empty-state button that opens Google Calendar and metrics logging.
+// ---
+
 #include "ash/system/time/calendar_event_list_view.h"
 
 #include <memory>

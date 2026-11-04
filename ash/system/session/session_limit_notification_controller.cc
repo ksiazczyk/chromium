@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionLimitNotificationController implementation
+// summary: Implements the controller that posts a system notification when remaining session time falls under an hour, updating or removing it as the limit state changes.
+// ---
+
 #include "ash/system/session/session_limit_notification_controller.h"
 
 #include "ash/constants/notifier_catalogs.h"

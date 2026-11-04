@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time view utilities header
+// summary: Declares GetTimeRemainingToNextMinute, which calculates the seconds remaining between a given time and the next required clock update.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_TIME_VIEW_UTILS_H_
 #define ASH_SYSTEM_TIME_TIME_VIEW_UTILS_H_
 

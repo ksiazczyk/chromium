@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress icon animation implementation
+// summary: Implements the progress icon animation, tweening inner icon translation, inner ring stroke width and opacity for a progress indicator.
+// ---
+
 #include "ash/system/progress_indicator/progress_icon_animation.h"
 
 #include "base/memory/ptr_util.h"

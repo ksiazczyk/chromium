@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemNudgeView pixel tests
+// summary: Pixel tests that verify SystemNudgeView rendering for text-only, long text and button configurations, parameterized with and without system blur.
+// ---
+
 #include <string>
 
 #include "ash/public/cpp/system/anchored_nudge_data.h"

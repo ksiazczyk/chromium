@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoActivityNotifier unit tests
+// summary: Unit tests checking that powerd is notified immediately on video state or screen lock changes and periodically while video continues.
+// ---
+
 #include "ash/system/power/video_activity_notifier.h"
 
 #include <memory>

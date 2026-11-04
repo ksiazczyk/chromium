@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Progress indicator unit tests
+// summary: Unit tests verifying that ProgressIndicator's default instance delegates progress calculation to a callback and manages icon and ring animations through the animation registry.
+// ---
+
 #include "ash/system/progress_indicator/progress_indicator.h"
 
 #include "ash/system/progress_indicator/progress_indicator_animation_registry.h"

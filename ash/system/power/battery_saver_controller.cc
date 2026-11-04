@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver controller implementation
+// summary: Implements battery saver state control via PowerManagerClient and local state prefs, including toasts, policy checks and metrics logging.
+// ---
+
 #include "ash/system/power/battery_saver_controller.h"
 
 #include "ash/constants/ash_features.h"

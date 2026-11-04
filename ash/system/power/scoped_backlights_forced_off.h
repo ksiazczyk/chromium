@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedBacklightsForcedOff class declaration
+// summary: Declares the RAII class returned by BacklightsForcedOffSetter::ForceBacklightsOff that unregisters the forced-off request on destruction.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_SCOPED_BACKLIGHTS_FORCED_OFF_H_
 #define ASH_SYSTEM_POWER_SCOPED_BACKLIGHTS_FORCED_OFF_H_
 

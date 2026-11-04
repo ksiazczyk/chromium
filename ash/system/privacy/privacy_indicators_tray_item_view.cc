@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy indicators tray item view implementation
+// summary: Implements the status area tray item that displays camera, microphone, and screen sharing indicators with expand, dwell, and shrink animations.
+// ---
+
 #include "ash/system/privacy/privacy_indicators_tray_item_view.h"
 
 #include <memory>

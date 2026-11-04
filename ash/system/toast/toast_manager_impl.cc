@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToastManagerImpl implementation
+// summary: Implements the toast manager that queues, shows, cancels and pauses toasts across root windows, using a pausable expiration timer and recording usage metrics.
+// ---
+
 #include "ash/system/toast/toast_manager_impl.h"
 
 #include <algorithm>

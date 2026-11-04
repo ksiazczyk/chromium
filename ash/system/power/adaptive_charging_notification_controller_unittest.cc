@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Adaptive charging notification controller unit tests
+// summary: Tests notification display, user preference gating, time formatting and button click handling for adaptive charging.
+// ---
+
 #include "ash/system/power/adaptive_charging_notification_controller.h"
 
 #include <string>

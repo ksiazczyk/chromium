@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash/system/time
+summary: Defines allowed include dependencies for the time directory, permitting google_apis calendar and common headers.

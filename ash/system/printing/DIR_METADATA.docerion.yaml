@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Printing DIR_METADATA
+summary: Maps the ash printing system directory to Buganizer component 1131981 for issue tracking.

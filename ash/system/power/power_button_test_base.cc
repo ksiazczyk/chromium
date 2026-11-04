@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power button test base implementation
+// summary: Implements the shared test fixture for power button tests, with helpers to simulate power button presses, tablet mode, key events, and screen locking.
+// ---
+
 #include "ash/system/power/power_button_test_base.h"
 
 #include "ash/public/cpp/test/shell_test_api.h"

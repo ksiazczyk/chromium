@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar month view header
+// summary: Declares CalendarMonthView and CalendarDateCellView classes that render date cells in the ChromeOS calendar month view.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_CALENDAR_MONTH_VIEW_H_
 #define ASH_SYSTEM_TIME_CALENDAR_MONTH_VIEW_H_
 

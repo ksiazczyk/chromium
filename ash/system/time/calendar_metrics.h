@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar metrics declarations
+// summary: Declares enums and helper functions used to record calendar UI interactions and calendar data fetch metrics in histograms.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_CALENDAR_METRICS_H_
 #define ASH_SYSTEM_TIME_CALENDAR_METRICS_H_
 

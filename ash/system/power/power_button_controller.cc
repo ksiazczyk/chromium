@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button controller implementation
+// summary: Implements PowerButtonController, handling power and lock button events, showing the power button menu and driving shutdown, screen off and screenshot flows.
+// ---
+
 #include "ash/system/power/power_button_controller.h"
 
 #include <limits>

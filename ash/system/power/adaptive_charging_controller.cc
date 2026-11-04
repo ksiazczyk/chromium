@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive charging controller implementation
+// summary: Implements the controller that tracks power daemon adaptive charging state and triggers or closes the related notifications.
+// ---
+
 #include "ash/system/power/adaptive_charging_controller.h"
 
 #include "ash/constants/ash_features.h"

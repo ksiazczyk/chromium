@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryImageSource class declaration
+// summary: Declares the canvas image source that renders the battery icon used in the system tray and network detailed page.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_BATTERY_IMAGE_SOURCE_H_
 #define ASH_SYSTEM_POWER_BATTERY_IMAGE_SOURCE_H_
 

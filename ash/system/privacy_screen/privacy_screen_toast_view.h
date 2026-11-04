@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy screen toast view header
+// summary: Declares the PrivacyScreenToastView class, the view inside the privacy screen toast bubble that updates its state and reports button focus to the controller.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_SCREEN_PRIVACY_SCREEN_TOAST_VIEW_H_
 #define ASH_SYSTEM_PRIVACY_SCREEN_PRIVACY_SCREEN_TOAST_VIEW_H_
 

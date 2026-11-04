@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Hub metrics unit tests
+// summary: Verifies that camera, microphone, and geolocation notification events and Privacy Hub open events are recorded in the expected histograms.
+// ---
+
 #include "ash/system/privacy_hub/privacy_hub_metrics.h"
 
 #include "ash/constants/ash_features.h"

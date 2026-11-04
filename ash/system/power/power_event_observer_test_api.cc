@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power event observer test API implementation
+// summary: Implements test helpers that simulate lid events and compositor commit, start, and presentation callbacks for exercising PowerEventObserver in tests.
+// ---
+
 #include "ash/system/power/power_event_observer_test_api.h"
 
 #include "ash/system/power/power_event_observer.h"

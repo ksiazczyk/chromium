@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen switch check controller header
+// summary: Declares the ScreenSwitchCheckController class that tracks screen access and remoting share state and decides whether user profile switching is allowed.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_SCREEN_SWITCH_CHECK_CONTROLLER_H_
 #define ASH_SYSTEM_PRIVACY_SCREEN_SWITCH_CHECK_CONTROLLER_H_
 

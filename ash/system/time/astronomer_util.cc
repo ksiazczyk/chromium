@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sunrise and sunset calculation implementation
+// summary: Implements GetSunriseSunset, computing sunrise and sunset times for a location from solar position math and reporting errors when none exist.
+// ---
+
 #include "ash/system/time/astronomer_util.h"
 
 #include <cmath>

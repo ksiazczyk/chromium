@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchored nudge manager implementation
+// summary: Implements AnchoredNudgeManagerImpl, which shows, cancels, times, pauses, and records metrics for anchored nudges, including a pausable timer and anchor view observers.
+// ---
+
 #include "ash/system/toast/anchored_nudge_manager_impl.h"
 
 #include <algorithm>

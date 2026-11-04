@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calendar event list view unit tests
+// summary: Unit tests for the calendar event list view that build mock calendar event lists and check list behavior, labels and histogram metrics.
+// ---
+
 #include "ash/system/time/calendar_event_list_view.h"
 
 #include <string_view>

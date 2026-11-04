@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToastManagerImpl unit tests
+// summary: Unit tests for ToastManagerImpl covering toast queuing, expiration, pausing, multi-display and lock screen behavior, and toast usage histograms.
+// ---
+
 #include <string>
 
 #include "ash/constants/notifier_catalogs.h"

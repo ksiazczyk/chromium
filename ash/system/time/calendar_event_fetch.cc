@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar event fetch implementation
+// summary: Implements CalendarEventFetch, sending event list requests through the calendar client with timeout handling and fetch duration metrics.
+// ---
+
 #include "ash/system/time/calendar_event_fetch.h"
 
 #include "ash/calendar/calendar_client.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToastOverlay class declaration
+// summary: Declares the ToastOverlay class and its delegate interface for showing, hiding, and repositioning toast overlays, with observers for keyboard, shelf, and system tray changes.
+// ---
+
 #ifndef ASH_SYSTEM_TOAST_TOAST_OVERLAY_H_
 #define ASH_SYSTEM_TOAST_TOAST_OVERLAY_H_
 

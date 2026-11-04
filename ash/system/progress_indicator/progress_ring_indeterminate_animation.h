@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indeterminate progress ring animation class declaration
+// summary: Declares the ProgressRingIndeterminateAnimation class that paints an indeterminate progress ring in place of the determinate ring.
+// ---
+
 #ifndef ASH_SYSTEM_PROGRESS_INDICATOR_PROGRESS_RING_INDETERMINATE_ANIMATION_H_
 #define ASH_SYSTEM_PROGRESS_INDICATOR_PROGRESS_RING_INDETERMINATE_ANIMATION_H_
 

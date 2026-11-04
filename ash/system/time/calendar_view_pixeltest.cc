@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CalendarView pixel tests
+// summary: Pixel tests that open the calendar view via the date tray, insert mocked calendar events, and verify the rendered calendar and event list views.
+// ---
+
 #include "ash/calendar/calendar_controller.h"
 #include "ash/shelf/shelf.h"
 #include "ash/shell.h"

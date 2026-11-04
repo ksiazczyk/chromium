@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button menu view implementation
+// summary: Implements the power button menu view that shows items such as power off, sign out, lock screen, capture mode, and feedback with show/hide animations.
+// ---
+
 #include "ash/system/power/power_button_menu_view.h"
 
 #include <memory>

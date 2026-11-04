@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen security controller unit tests
+// summary: Unit tests verifying that StopAllSessions runs stop callbacks for screen access and remoting share, including behavior with the Video Conference feature enabled.
+// ---
+
 #include "ash/system/privacy/screen_security_controller.h"
 
 #include "ash/constants/ash_constants.h"

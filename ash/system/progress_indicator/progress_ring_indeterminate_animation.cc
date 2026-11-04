@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indeterminate progress ring animation implementation
+// summary: Implements the cyclic indeterminate ring animation, deriving start and end positions from the spinning throbber state based on elapsed time.
+// ---
+
 #include "ash/system/progress_indicator/progress_ring_indeterminate_animation.h"
 
 #include "ui/gfx/paint_throbber.h"

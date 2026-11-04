@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerSoundsController implementation
+// summary: Implements PowerSoundsController, which plays charging and low-battery sounds based on battery level, charger type, lid state, and user sound preferences.
+// ---
+
 #include "ash/system/power/power_sounds_controller.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarViewController implementation
+// summary: Implements the controller that tracks the currently shown month, handles month navigation, notifies observers, and records calendar usage metrics.
+// ---
+
 #include "ash/system/time/calendar_view_controller.h"
 
 #include <stdlib.h>

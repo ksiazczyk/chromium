@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarUpNextView class declaration
+// summary: Declares the Ash calendar view that shows a scrollable list of upcoming and ongoing events, with scroll buttons, animation support, and event refresh logic.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_CALENDAR_UP_NEXT_VIEW_H_
 #define ASH_SYSTEM_TIME_CALENDAR_UP_NEXT_VIEW_H_
 

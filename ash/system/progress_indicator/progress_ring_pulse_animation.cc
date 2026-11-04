@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pulse progress ring animation implementation
+// summary: Implements the pulse ring animation, interpolating outer ring opacity between defined key frames over a 2331 millisecond non-cyclic animation.
+// ---
+
 #include "ash/system/progress_indicator/progress_ring_pulse_animation.h"
 
 #include <array>

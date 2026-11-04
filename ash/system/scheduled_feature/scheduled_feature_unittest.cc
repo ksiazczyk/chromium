@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScheduledFeature unit tests
+// summary: Unit tests covering ScheduledFeature behavior across schedule types, pref changes, geolocation updates, refresh backoff, and checkpoint transitions.
+// ---
+
 #include "ash/system/scheduled_feature/scheduled_feature.h"
 
 #include <cmath>

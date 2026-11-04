@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarModel class header
+// summary: Declares the CalendarModel controller that stores per-month calendar events, fetch statuses and observer notifications for the calendar UI.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_CALENDAR_MODEL_H_
 #define ASH_SYSTEM_TIME_CALENDAR_MODEL_H_
 

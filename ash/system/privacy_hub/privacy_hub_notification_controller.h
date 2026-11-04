@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Hub notification controller declaration
+// summary: Declares the controller that manages and combines sensor switch notifications and provides actions to open settings, open support pages, and set sensor preferences.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_HUB_PRIVACY_HUB_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_PRIVACY_HUB_PRIVACY_HUB_NOTIFICATION_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedBacklightsForcedOff implementation
+// summary: Implements the RAII wrapper whose destructor runs the unregister callback to release a forced-off backlight request.
+// ---
+
 #include "ash/system/power/scoped_backlights_forced_off.h"
 
 #include <utility>

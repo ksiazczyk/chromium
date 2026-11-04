@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy indicators tray item view unit tests
+// summary: Unit tests for the privacy indicators tray item view, checking animations, sizes, tooltips, visibility, and recorded metrics.
+// ---
+
 #include "ash/system/privacy/privacy_indicators_tray_item_view.h"
 
 #include <string>

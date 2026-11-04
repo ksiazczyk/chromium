@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation privacy switch controller implementation
+// summary: Implements the geolocation privacy switch controller that tracks the geolocation access level preference, updates notifications, and handles ARC location updates.
+// ---
+
 #include "ash/system/privacy_hub/geolocation_privacy_switch_controller.h"
 
 #include <string>

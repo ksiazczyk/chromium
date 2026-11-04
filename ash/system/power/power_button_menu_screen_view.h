@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button menu screen view class declaration
+// summary: Declares the top-level view of the power button menu UI, which hosts the fullscreen background and menu views and handles layout, input, and display changes.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_BUTTON_MENU_SCREEN_VIEW_H_
 #define ASH_SYSTEM_POWER_POWER_BUTTON_MENU_SCREEN_VIEW_H_
 

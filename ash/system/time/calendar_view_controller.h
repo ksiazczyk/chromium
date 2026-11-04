@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarViewController class header
+// summary: Declares the CalendarViewController class that manages the calendar view's shown month, event list opening and closing, and related metrics recording.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_CALENDAR_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_TIME_CALENDAR_VIEW_CONTROLLER_H_
 

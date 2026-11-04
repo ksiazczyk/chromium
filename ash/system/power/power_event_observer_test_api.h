@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power event observer test API header
+// summary: Declares a test API for PowerEventObserver that simulates lid events, compositing cycles, and suspend readiness for unit tests.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_EVENT_OBSERVER_TEST_API_H_
 #define ASH_SYSTEM_POWER_POWER_EVENT_OBSERVER_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy screen toast controller unit tests
+// summary: Unit tests for the privacy screen toast controller that verify the bubble's accessible name across enabled, disabled, and enterprise-managed privacy screen states.
+// ---
+
 #include "ash/system/privacy_screen/privacy_screen_toast_controller.h"
 
 #include "ash/shell.h"

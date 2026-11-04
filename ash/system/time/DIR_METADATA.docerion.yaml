@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for ash/system/time
+summary: Specifies the owning team email and Buganizer component IDs used for issues in the time directory.

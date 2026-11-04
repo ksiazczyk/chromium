@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power notification controller implementation
+// summary: Implements power status notifications in the system tray, including low power, critical battery, battery saver, and USB charger messaging.
+// ---
+
 #include "ash/system/power/power_notification_controller.h"
 
 #include <memory>

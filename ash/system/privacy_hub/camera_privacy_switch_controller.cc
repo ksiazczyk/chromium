@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera privacy switch controller implementation
+// summary: Implements the camera privacy switch controller that syncs the user camera preference with the camera backend, handles forced camera disabling, and manages camera LED fallback notifications.
+// ---
+
 #include "ash/system/privacy_hub/camera_privacy_switch_controller.h"
 
 #include <cstddef>

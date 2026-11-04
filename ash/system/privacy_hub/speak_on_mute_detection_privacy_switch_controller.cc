@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speak-on-mute detection privacy switch controller implementation
+// summary: Implements syncing the user's speak-on-mute detection preference with the CRAS audio handler, resetting state on startup and updating on session and pref changes.
+// ---
+
 #include "ash/system/privacy_hub/speak_on_mute_detection_privacy_switch_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Hub notification declarations
+// summary: Declares the notification click delegate, notification descriptor, and the PrivacyHubNotification class including its throttling logic for dismissed notifications.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_HUB_PRIVACY_HUB_NOTIFICATION_H_
 #define ASH_SYSTEM_PRIVACY_HUB_PRIVACY_HUB_NOTIFICATION_H_
 

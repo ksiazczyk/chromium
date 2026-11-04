@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar list model implementation
+// summary: Implements fetching, caching and timeout handling of the user's calendar list, filtering selected calendars and clearing the cache on session changes.
+// ---
+
 #include "ash/system/time/calendar_list_model.h"
 
 #include <iterator>

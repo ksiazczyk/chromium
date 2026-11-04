@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calendar list model unit tests
+// summary: Unit tests for calendar list fetching and caching that use mock single-calendar entries and verify fetch results and metrics.
+// ---
+
 #include "ash/system/time/calendar_list_model.h"
 
 #include <iterator>

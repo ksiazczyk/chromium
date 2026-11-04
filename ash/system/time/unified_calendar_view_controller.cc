@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified calendar view controller implementation
+// summary: Implements the controller that creates the CalendarView for the unified system tray, records its construction time, and builds its accessible name from the shown date.
+// ---
+
 #include "ash/system/time/unified_calendar_view_controller.h"
 
 #include <memory>

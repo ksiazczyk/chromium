@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerPrefs implementation
+// summary: Implements PowerPrefs, which registers power-related preferences and sends an updated power policy to the power policy controller whenever those prefs change.
+// ---
+
 #include "ash/system/power/power_prefs.h"
 
 #include <string>

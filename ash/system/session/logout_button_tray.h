@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoutButtonTray class declaration
+// summary: Declares the LogoutButtonTray view that adds a logout button to the shelf's status area when enabled by the kShowLogoutButtonInTray pref.
+// ---
+
 #ifndef ASH_SYSTEM_SESSION_LOGOUT_BUTTON_TRAY_H_
 #define ASH_SYSTEM_SESSION_LOGOUT_BUTTON_TRAY_H_
 

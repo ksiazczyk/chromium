@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power button screenshot controller test API
+// summary: Provides a test API that fires the volume down and volume up timers of the power button screenshot controller to support testing.
+// ---
+
 #include "ash/system/power/power_button_screenshot_controller_test_api.h"
 
 #include "ash/system/power/power_button_screenshot_controller.h"

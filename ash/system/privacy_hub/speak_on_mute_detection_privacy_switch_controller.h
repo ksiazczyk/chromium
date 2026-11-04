@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speak-on-mute detection privacy switch controller header
+// summary: Declares the controller that keeps the kUserSpeakOnMuteDetectionEnabled preference in sync with the speak-on-mute detection state in CRAS.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_HUB_SPEAK_ON_MUTE_DETECTION_PRIVACY_SWITCH_CONTROLLER_H_
 #define ASH_SYSTEM_PRIVACY_HUB_SPEAK_ON_MUTE_DETECTION_PRIVACY_SWITCH_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy screen feature pod controller header
+// summary: Declares the PrivacyScreenFeaturePodController class, which creates the Quick Settings tile for the privacy screen and observes privacy screen setting changes.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_SCREEN_PRIVACY_SCREEN_FEATURE_POD_CONTROLLER_H_
 #define ASH_SYSTEM_PRIVACY_SCREEN_PRIVACY_SCREEN_FEATURE_POD_CONTROLLER_H_
 

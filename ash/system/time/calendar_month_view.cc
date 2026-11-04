@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar month view implementation
+// summary: Implements the calendar month grid and date cell views, including today highlighting, event indicators and fetch status handling.
+// ---
+
 #include "ash/system/time/calendar_month_view.h"
 
 #include "ash/public/cpp/ash_typography.h"

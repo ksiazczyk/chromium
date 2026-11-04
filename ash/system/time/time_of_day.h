@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeOfDay class declaration
+// summary: Declares TimeOfDay, which represents a time of day as minutes since 00:00 for persistence as a user pref, with clock and converter injection for tests.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_TIME_OF_DAY_H_
 #define ASH_SYSTEM_TIME_TIME_OF_DAY_H_
 

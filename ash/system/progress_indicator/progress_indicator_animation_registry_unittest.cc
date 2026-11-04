@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Progress indicator animation registry unit tests
+// summary: Unit tests for the animation registry covering erase-all, per-key and conditional erase behavior with animation changed notifications.
+// ---
+
 #include "ash/system/progress_indicator/progress_indicator_animation_registry.h"
 
 #include <algorithm>

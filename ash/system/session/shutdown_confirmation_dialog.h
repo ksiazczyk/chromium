@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown confirmation dialog class declaration
+// summary: Declares the ShutdownConfirmationDialog views dialog class used to require user confirmation before shutdown, for example when the next boot may be slow.
+// ---
+
 #ifndef ASH_SYSTEM_SESSION_SHUTDOWN_CONFIRMATION_DIALOG_H_
 #define ASH_SYSTEM_SESSION_SHUTDOWN_CONFIRMATION_DIALOG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Battery notification unit tests
+// summary: Unit tests verifying battery notification titles, buttons, warning levels and battery saver related behavior across notification states.
+// ---
+
 #include "ash/system/power/battery_notification.h"
 
 #include <string>

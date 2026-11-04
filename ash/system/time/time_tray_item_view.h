@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeTrayItemView class declaration
+// summary: Declares TimeTrayItemView, a TrayItemView that hosts the TimeView shown in the system tray for the clock or date.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_TIME_TRAY_ITEM_VIEW_H_
 #define ASH_SYSTEM_TIME_TIME_TRAY_ITEM_VIEW_H_
 

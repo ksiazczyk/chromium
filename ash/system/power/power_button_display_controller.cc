@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button display controller implementation
+// summary: Implements display-related tasks for power button controllers, forcing backlights off, updating power policy, and reacting to input, lid, and tablet events.
+// ---
+
 #include "ash/system/power/power_button_display_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

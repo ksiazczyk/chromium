@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar event list item view class declaration
+// summary: Declares CalendarEventListItemView, a button view that renders a single calendar event with summary and time labels, an event dot and a join meeting button.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_CALENDAR_EVENT_LIST_ITEM_VIEW_H_
 #define ASH_SYSTEM_TIME_CALENDAR_EVENT_LIST_ITEM_VIEW_H_
 

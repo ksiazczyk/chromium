@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateHelper implementation
+// summary: Implements the DateHelper singleton that formats date intervals with ICU, computes timezone and DST-adjusted time differences, and calculates local week titles.
+// ---
+
 #include "ash/system/time/date_helper.h"
 
 #include "ash/shell.h"

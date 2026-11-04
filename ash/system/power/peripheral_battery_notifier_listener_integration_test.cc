@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Peripheral battery notifier and listener integration tests
+// summary: Integration tests verifying that PeripheralBatteryListener battery updates drive PeripheralBatteryNotifier notifications, including device removal and invalid battery info.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

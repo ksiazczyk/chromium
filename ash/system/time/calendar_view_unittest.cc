@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CalendarView unit tests
+// summary: Large unit test suite for the calendar view covering event lists, month views, metrics, locales, timezones, and accessibility behavior.
+// ---
+
 #include "ash/system/time/calendar_view.h"
 
 #include <climits>

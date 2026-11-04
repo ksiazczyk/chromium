@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen security observer interface
+// summary: Defines the ScreenSecurityObserver interface with callbacks for screen access start and stop and remoting screen share start and stop events.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_SCREEN_SECURITY_OBSERVER_H_
 #define ASH_SYSTEM_PRIVACY_SCREEN_SECURITY_OBSERVER_H_
 

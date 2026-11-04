@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemNudgeView unit tests
+// summary: Unit tests verifying that SystemNudgeView builds the correct labels, image view, buttons, close button and shortcut view for each nudge configuration.
+// ---
+
 #include "ash/system/toast/system_nudge_view.h"
 
 #include "ash/public/cpp/ash_view_ids.h"

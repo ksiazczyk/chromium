@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared peripheral battery test constants
+// summary: Header with constants shared by peripheral battery listener and notifier tests, including device paths, Bluetooth addresses, stylus serial numbers and charge timings.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_PERIPHERAL_BATTERY_TESTS_H_
 #define ASH_SYSTEM_POWER_PERIPHERAL_BATTERY_TESTS_H_
 

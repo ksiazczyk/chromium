@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calendar test utilities implementation
+// summary: Provides test helpers such as fetch waiters, timezone scopes and mock calendar and event factories for calendar unit tests.
+// ---
+
 #include "ash/system/time/calendar_unittest_utils.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerPrefs class header
+// summary: Declares the PowerPrefs class that observes power-related prefs, session, and screen idle state to keep the ChromeOS power policy in sync.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_PREFS_H_
 #define ASH_SYSTEM_POWER_POWER_PREFS_H_
 

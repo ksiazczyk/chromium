@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress ring animation implementation
+// summary: Implements the ProgressRingAnimation base class, including a factory that creates initialized indeterminate or pulse ring animations and updates animatable ring properties.
+// ---
+
 #include "ash/system/progress_indicator/progress_ring_animation.h"
 
 #include "ash/system/progress_indicator/progress_ring_indeterminate_animation.h"

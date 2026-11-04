@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation privacy switch controller declarations
+// summary: Declares the GeolocationPrivacySwitchController class that manages the geolocation access level preference, app usage tracking, and related notifications.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_HUB_GEOLOCATION_PRIVACY_SWITCH_CONTROLLER_H_
 #define ASH_SYSTEM_PRIVACY_HUB_GEOLOCATION_PRIVACY_SWITCH_CONTROLLER_H_
 

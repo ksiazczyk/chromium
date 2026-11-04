@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Hub controller implementation
+// summary: Implements the main Privacy Hub controller that owns the camera, microphone, geolocation, and speak-on-mute switch controllers and registers their preferences.
+// ---
+
 #include "ash/system/privacy_hub/privacy_hub_controller.h"
 
 #include <cstddef>

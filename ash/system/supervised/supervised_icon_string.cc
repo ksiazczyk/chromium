@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user icon and message implementation
+// summary: Implements helpers that pick the supervised user icon and build the localized message naming one or two parent custodians for child sessions in the Ash system UI.
+// ---
+
 #include "ash/system/supervised/supervised_icon_string.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power tray view implementation
+// summary: Implements PowerTrayView, the shelf battery icon that updates its image, colors, accessibility name, and battery saver state from PowerStatus.
+// ---
+
 #include "ash/system/power/tray_power.h"
 
 #include <utility>

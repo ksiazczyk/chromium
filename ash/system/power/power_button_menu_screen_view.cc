@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button menu screen view implementation
+// summary: Implements the top-level power button menu screen view, including the fullscreen background shield, menu and curtain layout, and show/hide animations.
+// ---
+
 #include "ash/system/power/power_button_menu_screen_view.h"
 
 #include <utility>

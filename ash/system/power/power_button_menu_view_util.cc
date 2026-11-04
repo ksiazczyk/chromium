@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button menu layer animation helper
+// summary: Implements a helper that configures layer opacity and transform animations for showing or hiding the power button menu.
+// ---
+
 #include "ash/system/power/power_button_menu_view_util.h"
 
 #include "ui/compositor/scoped_layer_animation_settings.h"

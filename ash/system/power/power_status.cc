@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerStatus implementation
+// summary: Implements the PowerStatus singleton that receives power status updates from PowerManagerClient and exposes battery, power source, and battery icon information to Ash.
+// ---
+
 #include "ash/system/power/power_status.h"
 
 #include <algorithm>

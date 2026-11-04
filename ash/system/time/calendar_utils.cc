@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar utility functions implementation
+// summary: Implements date and calendar helpers such as same-day comparison, surrounding month calculation, and localized date and time formatting for the Ash calendar UI.
+// ---
+
 #include "ash/system/time/calendar_utils.h"
 
 #include <optional>

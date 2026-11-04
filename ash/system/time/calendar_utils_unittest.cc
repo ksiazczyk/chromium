@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calendar utils unit tests
+// summary: Unit tests for the calendar utilities covering time zone and daylight saving differences, localized date formatting across locales, and day-of-week calculations.
+// ---
+
 #include "ash/system/time/calendar_utils.h"
 
 #include <algorithm>

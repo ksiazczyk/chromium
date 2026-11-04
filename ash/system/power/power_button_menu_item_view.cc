@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button menu item view implementation
+// summary: Implements the power button menu item button, laying out an icon and title and painting focus and border for menu entries like power off and sign out.
+// ---
+
 #include "ash/system/power/power_button_menu_item_view.h"
 
 #include "ash/style/ash_color_id.h"

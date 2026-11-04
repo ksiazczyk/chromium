@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy screen feature pod controller implementation
+// summary: Implements the Quick Settings feature tile controller that toggles the built-in privacy screen, updating the tile's visibility, label, sublabel, and tooltip from the privacy screen controller state.
+// ---
+
 #include "ash/system/privacy_screen/privacy_screen_feature_pod_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress ring animation class declaration
+// summary: Declares the ProgressRingAnimation base class with its type enum, factory method, and animatable start, end, and opacity properties for progress indicator rings.
+// ---
+
 #ifndef ASH_SYSTEM_PROGRESS_INDICATOR_PROGRESS_RING_ANIMATION_H_
 #define ASH_SYSTEM_PROGRESS_INDICATOR_PROGRESS_RING_ANIMATION_H_
 

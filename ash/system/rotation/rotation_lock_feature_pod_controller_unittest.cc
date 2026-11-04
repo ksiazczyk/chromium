@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RotationLockFeaturePodController unit tests
+// summary: Unit tests verifying tile visibility across tablet mode transitions, rotation lock toggling on icon press, and Quick Settings UMA metric tracking.
+// ---
+
 #include "ash/system/rotation/rotation_lock_feature_pod_controller.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button menu view class declaration
+// summary: Declares the view that displays power button menu items, including animation transform helpers, focus handling, and menu item recreation.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_BUTTON_MENU_VIEW_H_
 #define ASH_SYSTEM_POWER_POWER_BUTTON_MENU_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy screen toast controller header
+// summary: Declares the PrivacyScreenToastController class, which observes privacy screen changes and manages the toast bubble's lifecycle, autoclose timer, and accessible name.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_SCREEN_PRIVACY_SCREEN_TOAST_CONTROLLER_H_
 #define ASH_SYSTEM_PRIVACY_SCREEN_PRIVACY_SCREEN_TOAST_CONTROLLER_H_
 

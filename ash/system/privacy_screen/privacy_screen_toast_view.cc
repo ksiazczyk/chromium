@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy screen toast view implementation
+// summary: Implements the toast view shown in the privacy screen bubble, including label and managed-device subviews that reflect whether the privacy screen is on, off, or enterprise managed.
+// ---
+
 #include "ash/system/privacy_screen/privacy_screen_toast_view.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScheduledFeature class declaration
+// summary: Declares the ScheduledFeature class, its refresh reasons, clock abstraction, and checkpoint observer interface for features toggled on and off at set times.
+// ---
+
 #ifndef ASH_SYSTEM_SCHEDULED_FEATURE_SCHEDULED_FEATURE_H_
 #define ASH_SYSTEM_SCHEDULED_FEATURE_SCHEDULED_FEATURE_H_
 

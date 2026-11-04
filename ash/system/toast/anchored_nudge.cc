@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchored nudge implementation
+// summary: Implements the AnchoredNudge bubble widget for ChromeOS Ash, including work area adjustments for the shelf and hotseat, corner anchoring, and RTL-aware anchor point calculation.
+// ---
+
 #include "ash/system/toast/anchored_nudge.h"
 
 #include <algorithm>

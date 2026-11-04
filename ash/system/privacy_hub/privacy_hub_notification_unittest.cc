@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy hub notification unit tests
+// summary: Unit tests for the combined privacy hub notification, covering sensor-disabled notification behavior with a fake sensor delegate and popup waiter.
+// ---
+
 #include "ash/system/privacy_hub/privacy_hub_notification.h"
 
 #include <algorithm>

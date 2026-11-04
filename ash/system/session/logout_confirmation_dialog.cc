@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoutConfirmationDialog implementation
+// summary: Implements the system-modal dialog that displays a logout countdown, updates its label every second, and notifies the controller when accepted or closed.
+// ---
+
 #include "ash/system/session/logout_confirmation_dialog.h"
 
 #include "ash/public/cpp/shell_window_ids.h"
