@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document picture-in-picture browser test mixin implementation
+// summary: Implements the test mixin that navigates to a document PiP test page, opens a PiP window of a given size, and waits for the window to show or close during browser tests.
+// ---
+
 #include "chrome/browser/picture_in_picture/document_picture_in_picture_mixin_test_base.h"
 
 #include <string>

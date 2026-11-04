@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock delegated task runner header
+// summary: Declares a gmock mock of DelegatedTaskRunner whose Run method can be stubbed in delegated task tests.
+// ---
+
 #ifndef CHROME_BROWSER_PLATFORM_EXPERIENCE_DELEGATED_TASKS_TEST_SUPPORT_MOCK_DELEGATED_TASK_RUNNER_H_
 #define CHROME_BROWSER_PLATFORM_EXPERIENCE_DELEGATED_TASKS_TEST_SUPPORT_MOCK_DELEGATED_TASK_RUNNER_H_
 

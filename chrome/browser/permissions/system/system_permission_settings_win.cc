@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system permission settings implementation
+// summary: Implements the PlatformHandle for Windows, querying camera and microphone status via SystemMediaSourceWin and geolocation via the system permission manager.
+// ---
+
 #include "chrome/browser/permissions/system/system_permission_settings.h"
 
 #include <memory>

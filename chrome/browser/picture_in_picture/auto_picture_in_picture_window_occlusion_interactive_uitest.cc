@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for auto PiP window occlusion detection
+// summary: Browser tests verifying auto picture-in-picture occlusion detection across browser windows, with skips for unsupported macOS versions.
+// ---
+
 #include "base/test/test_timeouts.h"
 #include "build/build_config.h"
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_window_occlusion_helper_base.h"

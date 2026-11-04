@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual notification permission UI selector implementation
+// summary: Implements a rule-based selector that uses CrowdDeny preload data and Safe Browsing verdicts to choose quiet or normal UI for notification permission requests.
+// ---
+
 #include "chrome/browser/permissions/prediction_service/contextual_notification_permission_ui_selector.h"
 
 #include <utility>

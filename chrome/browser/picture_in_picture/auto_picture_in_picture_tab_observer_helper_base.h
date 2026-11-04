@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture tab observer helper base header
+// summary: Header defining the platform-neutral base class and factory for helpers that observe tab activation changes for auto Picture-in-Picture.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_AUTO_PICTURE_IN_PICTURE_TAB_OBSERVER_HELPER_BASE_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_AUTO_PICTURE_IN_PICTURE_TAB_OBSERVER_HELPER_BASE_H_
 

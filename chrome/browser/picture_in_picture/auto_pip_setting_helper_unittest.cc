@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the auto PiP setting helper
+// summary: Unit tests covering prompt results, embargo behavior, and histogram logging for the auto picture-in-picture setting helper.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_pip_setting_helper.h"
 
 #include <memory>

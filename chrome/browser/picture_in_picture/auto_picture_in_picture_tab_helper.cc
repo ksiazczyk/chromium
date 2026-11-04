@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture tab helper implementation
+// summary: Implements the per-tab logic that automatically opens and closes picture-in-picture windows as tabs become hidden or visible.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_tab_helper.h"
 
 #include "base/feature_list.h"

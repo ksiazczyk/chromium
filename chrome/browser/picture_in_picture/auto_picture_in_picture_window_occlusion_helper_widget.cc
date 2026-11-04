@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget-based auto PiP occlusion helper implementation
+// summary: Implements the occlusion helper by monitoring browser widgets to detect when a single browser window fully occludes the observed window.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_window_occlusion_helper_widget.h"
 
 #include "chrome/browser/ui/browser_window.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual notification permission UI selector header
+// summary: Declares the ContextualNotificationPermissionUiSelector class that decides quiet UI for notification permission requests based on crowd deny and Safe Browsing blocklists.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_PREDICTION_SERVICE_CONTEXTUAL_NOTIFICATION_PERMISSION_UI_SELECTOR_H_
 #define CHROME_BROWSER_PERMISSIONS_PREDICTION_SERVICE_CONTEXTUAL_NOTIFICATION_PERMISSION_UI_SELECTOR_H_
 

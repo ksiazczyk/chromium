@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture HaTS service class declaration
+// summary: Declares the AutoPictureInPictureHatsService keyed service that tracks active Auto PiP window contexts and launches HaTS surveys when windows close.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_HATS_AUTO_PICTURE_IN_PICTURE_HATS_SERVICE_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_HATS_AUTO_PICTURE_IN_PICTURE_HATS_SERVICE_H_
 

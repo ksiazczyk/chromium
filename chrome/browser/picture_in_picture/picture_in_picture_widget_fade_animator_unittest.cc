@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-picture widget fade animator unit tests
+// summary: Unit tests covering fade-in animation start, completion, and cancellation behavior of the picture-in-picture widget fade animator.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_widget_fade_animator.h"
 
 #include "base/memory/raw_ptr.h"

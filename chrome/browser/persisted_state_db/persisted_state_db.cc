@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedStateDB Android JNI implementation
+// summary: Implements PersistedStateDB with JNI bindings so Android code can save, load, delete and maintain persisted tab state entries in a LevelDB proto database.
+// ---
+
 #include "chrome/browser/persisted_state_db/persisted_state_db.h"
 
 #include "base/android/callback_android.h"

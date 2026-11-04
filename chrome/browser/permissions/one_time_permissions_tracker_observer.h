@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time permissions tracker observer interface
+// summary: Declares observer callbacks for one-time permission expiry events such as last page closure, background timers and camera or microphone capture expiration.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_ONE_TIME_PERMISSIONS_TRACKER_OBSERVER_H_
 #define CHROME_BROWSER_PERMISSIONS_ONE_TIME_PERMISSIONS_TRACKER_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the personal_context browser layer
+summary: Defines the personal_context source set with the service factories plus unit test and browser test targets and their dependencies.

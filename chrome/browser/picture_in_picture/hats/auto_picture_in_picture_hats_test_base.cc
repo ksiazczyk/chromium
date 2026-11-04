@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto Picture-in-Picture HaTS test fixture implementation
+// summary: Implements the shared test fixture that injects a mock HaTS service and configures the Auto PiP surveys feature for unit tests.
+// ---
+
 #include "chrome/browser/picture_in_picture/hats/auto_picture_in_picture_hats_test_base.h"
 
 #include "base/test/task_environment.h"

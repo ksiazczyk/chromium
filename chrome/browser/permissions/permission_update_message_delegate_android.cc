@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permission update message delegate
+// summary: Implements the message delegate that enqueues permission update messages and triggers Android runtime permission requests when the user acts on the message.
+// ---
+
 #include "chrome/browser/permissions/permission_update_message_delegate_android.h"
 
 #include <memory>

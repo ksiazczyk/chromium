@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome permissions client implementation
+// summary: Implements the Chrome-level permissions client that supplies settings, engagement data, UI selectors and survey hooks to the shared permissions component.
+// ---
+
 #include "chrome/browser/permissions/chrome_permissions_client.h"
 
 #include <algorithm>

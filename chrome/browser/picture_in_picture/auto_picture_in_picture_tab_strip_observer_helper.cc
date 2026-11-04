@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture tab strip observer helper implementation
+// summary: Desktop implementation that observes the tab strip to notify the auto Picture-in-Picture tab helper when its WebContents becomes or stops being the active tab.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_tab_strip_observer_helper.h"
 
 #include "chrome/browser/ui/browser_tab_strip_tracker.h"

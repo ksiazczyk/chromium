@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bridge for picture-in-picture manager events
+// summary: Bridges picture-in-picture enter and exit events from the window manager to Java via JNI and exposes an isInPictureInPicture query for Android.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/no_destructor.h"
 #include "chrome/browser/picture_in_picture/picture_in_picture_window_manager.h"

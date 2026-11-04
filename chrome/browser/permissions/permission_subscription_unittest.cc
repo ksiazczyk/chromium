@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission subscription unit tests
+// summary: Unit tests for the PermissionStatus onChange observer, covering permission subscription behavior across origins, content settings and permissions policy.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/with_feature_override.h"
 #include "chrome/browser/permissions/permission_manager_factory.h"

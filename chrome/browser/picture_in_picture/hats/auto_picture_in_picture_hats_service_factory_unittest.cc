@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto Picture-in-Picture HaTS service factory unit tests
+// summary: Unit tests verifying factory behavior, including feature flag gating, HaTS eligibility, and that no service is created for incognito or guest profiles.
+// ---
+
 #include "chrome/browser/picture_in_picture/hats/auto_picture_in_picture_hats_service_factory.h"
 
 #include "chrome/browser/picture_in_picture/hats/auto_picture_in_picture_hats_service.h"

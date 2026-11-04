@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock passage embedder declarations for permission tests
+// summary: Declares mock passage embedder classes that simulate embedding computation and support testing of asynchronous client code such as timeout logic.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_TEST_MOCK_PASSAGE_EMBEDDER_H_
 #define CHROME_BROWSER_PERMISSIONS_TEST_MOCK_PASSAGE_EMBEDDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission revocation request unit tests
+// summary: Unit tests verifying notification permission revocation outcomes from blocklists, preload data and fake Safe Browsing verdicts.
+// ---
+
 #include "chrome/browser/permissions/permission_revocation_request.h"
 
 #include "base/files/scoped_temp_dir.h"

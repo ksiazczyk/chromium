@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMediaSourceWin class declaration
+// summary: Declares the SystemMediaSourceWin singleton for checking Windows system media permission status and opening the OS permission settings page.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_SYSTEM_SYSTEM_MEDIA_SOURCE_WIN_H_
 #define CHROME_BROWSER_PERMISSIONS_SYSTEM_SYSTEM_MEDIA_SOURCE_WIN_H_
 

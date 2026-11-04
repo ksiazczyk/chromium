@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android permission prompt unit tests
+// summary: Unit tests for the Android mini-infobar permission prompt, checking clean handling when tabs close or infobars are removed.
+// ---
+
 #include <variant>
 
 #include "base/memory/raw_ptr.h"

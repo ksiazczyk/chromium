@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionsAiUiSelector implementation
+// summary: Implements ML-based selection of quiet or regular UI for permission requests using on-device prediction models and user action history.
+// ---
+
 #include "chrome/browser/permissions/prediction_service/permissions_ai_ui_selector.h"
 
 #include "base/command_line.h"

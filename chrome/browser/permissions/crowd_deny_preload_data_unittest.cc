@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrowdDenyPreloadData unit tests
+// summary: Unit tests for CrowdDenyPreloadData covering loading preloaded site reputation data from disk and serving reputation lookups for HTTPS origins.
+// ---
+
 #include "chrome/browser/permissions/crowd_deny_preload_data.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture HaTS service factory declaration
+// summary: Declares the singleton ProfileKeyedServiceFactory that provides per-profile access to the Auto Picture-in-Picture HaTS service.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_HATS_AUTO_PICTURE_IN_PICTURE_HATS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_HATS_AUTO_PICTURE_IN_PICTURE_HATS_SERVICE_FACTORY_H_
 

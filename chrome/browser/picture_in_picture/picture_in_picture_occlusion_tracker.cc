@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture occlusion tracker implementation
+// summary: Implements the tracker that watches picture-in-picture widgets and notifies observers when their widgets become occluded or unoccluded.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_occlusion_tracker.h"
 
 #include "base/auto_reset.h"

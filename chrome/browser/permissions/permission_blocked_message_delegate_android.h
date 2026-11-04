@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission blocked message delegate for Android
+// summary: Declares the message UI delegate that displays notification permission requests as an alternative to the mini infobar on Android.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_PERMISSION_BLOCKED_MESSAGE_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_PERMISSIONS_PERMISSION_BLOCKED_MESSAGE_DELEGATE_ANDROID_H_
 

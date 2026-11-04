@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for picture-in-picture tests
+summary: Chromium DEPS file granting the test directory access to Android site settings browser UI Java sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time permissions tracker header
+// summary: Declares the observable OneTimePermissionsTracker KeyedService that creates permission conditions and notifies observers about expiry events.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_ONE_TIME_PERMISSIONS_TRACKER_H_
 #define CHROME_BROWSER_PERMISSIONS_ONE_TIME_PERMISSIONS_TRACKER_H_
 

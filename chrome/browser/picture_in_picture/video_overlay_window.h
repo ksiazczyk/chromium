@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoOverlayWindow factory declaration
+// summary: Declares a factory function that creates a platform-specific overlay window for video picture-in-picture.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_VIDEO_OVERLAY_WINDOW_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_VIDEO_OVERLAY_WINDOW_H_
 

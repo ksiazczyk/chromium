@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows platform experience helper installer
+// summary: Tests the Windows installer logic with mocked app command and launcher delegates, covering install behavior and launch status metrics for system and user installs.
+// ---
+
 #include "chrome/browser/platform_experience/installer/installer_win.h"
 
 #include <shobjidl.h>

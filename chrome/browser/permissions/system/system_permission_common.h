@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemPermission enum and callback definitions
+// summary: Defines the SystemPermission enum with not-determined, restricted, denied, and allowed states plus related callbacks and inline helper predicates.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_SYSTEM_SYSTEM_PERMISSION_COMMON_H_
 #define CHROME_BROWSER_PERMISSIONS_SYSTEM_SYSTEM_PERMISSION_COMMON_H_
 

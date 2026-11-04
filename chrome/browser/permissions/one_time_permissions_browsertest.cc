@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: One-time permissions browser tests
+// summary: In-process browser tests covering one-time permission grants, including accepting requests, background expiry timers, and permission revocation behavior.
+// ---
+
 #include "base/feature_list.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/run_until.h"

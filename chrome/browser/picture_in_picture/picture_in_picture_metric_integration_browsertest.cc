@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-Picture metrics integration browser tests
+// summary: Browser tests verifying that picture-in-picture usage records the expected UKM entries and UMA Blink use counter histogram metrics.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/picture_in_picture/document_picture_in_picture_mixin_test_base.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

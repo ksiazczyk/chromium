@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome permissions client unit tests
+// summary: Unit tests for ChromePermissionsClient covering message UI creation, MIME handler embedding origin overrides and permission prompt behavior.
+// ---
+
 #include "chrome/browser/permissions/chrome_permissions_client.h"
 
 #include <memory>

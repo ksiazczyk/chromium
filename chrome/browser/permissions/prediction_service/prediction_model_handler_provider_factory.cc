@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PredictionModelHandlerProviderFactory implementation
+// summary: Profile-keyed service factory that builds PredictionModelHandlerProvider instances wired to the optimization guide and passage embeddings.
+// ---
+
 #include "chrome/browser/permissions/prediction_service/prediction_model_handler_provider_factory.h"
 
 #include "base/feature_list.h"

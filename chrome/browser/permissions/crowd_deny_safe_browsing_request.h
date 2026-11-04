@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrowdDenySafeBrowsingRequest class header
+// summary: Declares CrowdDenySafeBrowsingRequest, a single request to Safe Browsing that fetches the crowd deny verdict for an origin and delivers it via callback.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_CROWD_DENY_SAFE_BROWSING_REQUEST_H_
 #define CHROME_BROWSER_PERMISSIONS_CROWD_DENY_SAFE_BROWSING_REQUEST_H_
 

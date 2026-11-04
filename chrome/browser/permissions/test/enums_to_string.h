@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission enum to string test helper header
+// summary: Declares ToString helpers that convert permission-related enums to strings for parametrized test names and simple logging.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_TEST_ENUMS_TO_STRING_H_
 #define CHROME_BROWSER_PERMISSIONS_TEST_ENUMS_TO_STRING_H_
 

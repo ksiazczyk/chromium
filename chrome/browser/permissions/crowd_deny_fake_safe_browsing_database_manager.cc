@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Safe Browsing database manager for crowd deny
+// summary: Provides a fake Safe Browsing database manager that simulates notification abuse verdicts, timeouts and cancellations for crowd deny tests.
+// ---
+
 #include "chrome/browser/permissions/crowd_deny_fake_safe_browsing_database_manager.h"
 
 #include "components/safe_browsing/core/browser/db/database_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time permissions tracker helper implementation
+// summary: Implements page-level tracking of visibility, navigation and media capture state that feeds one-time permission expiration conditions for origins.
+// ---
+
 #include "chrome/browser/permissions/one_time_permissions_tracker_helper.h"
 
 #include "base/memory/raw_ref.h"

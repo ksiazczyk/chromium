@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto Picture-in-Picture tab helper test suite
+// summary: Instrumentation test suite for AutoPictureInPictureTabHelper covering automatic Picture-in-Picture video behavior on Android 11 and later.
+// ---
+
 package org.chromium.chrome.browser.picture_in_picture;
 
 import static org.junit.Assert.assertEquals;

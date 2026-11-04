@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pref-based quiet permission UI selector
+// summary: Implements a permission UI selector that enables the quiet prompt UI for notifications and geolocation requests when the corresponding user preferences are set.
+// ---
+
 #include "chrome/browser/permissions/pref_based_quiet_permission_ui_selector.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation element browser tests
+// summary: Browser tests for the geolocation element feature, verifying permission prompts and delivery of high-accuracy position data when the element is clicked.
+// ---
+
 #include <memory>
 #include <optional>
 

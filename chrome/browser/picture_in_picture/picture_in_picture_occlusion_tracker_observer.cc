@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture occlusion tracker observer implementation
+// summary: Implements the constructor and destructor of PictureInPictureOcclusionTrackerObserver, which pairs an occludable widget with its occlusion observer.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_occlusion_tracker_observer.h"
 
 PictureInPictureOcclusionTrackerObserver::

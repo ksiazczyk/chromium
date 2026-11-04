@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bridge for Picture-in-Picture bounds cache
+// summary: Android JNI bridge exposing picture-in-picture bounds cache operations to Java, including getting, updating, and clearing cached window bounds.
+// ---
+
 #include <array>
 #include <optional>
 

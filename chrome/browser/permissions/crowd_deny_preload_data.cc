@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crowd deny preload data loader
+// summary: Loads and indexes the crowd deny preload data from disk and serves asynchronous site reputation lookups by exact and suffix domain match.
+// ---
+
 #include "chrome/browser/permissions/crowd_deny_preload_data.h"
 
 #include <string>

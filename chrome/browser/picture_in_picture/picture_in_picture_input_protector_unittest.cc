@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-Picture input protector unit tests
+// summary: Unit tests verifying that the input protector blocks dialog input while occluded by a picture-in-picture window and allows it once occlusion ends.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_input_protector.h"
 
 #include "chrome/browser/picture_in_picture/picture_in_picture_occlusion_tracker.h"

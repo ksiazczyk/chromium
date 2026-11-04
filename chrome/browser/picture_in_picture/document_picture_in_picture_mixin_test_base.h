@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document picture-in-picture browser test mixin header
+// summary: Declares the reusable browser test mixin providing utilities to enter and exit document picture-in-picture windows in automated tests.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_DOCUMENT_PICTURE_IN_PICTURE_MIXIN_TEST_BASE_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_DOCUMENT_PICTURE_IN_PICTURE_MIXIN_TEST_BASE_H_
 

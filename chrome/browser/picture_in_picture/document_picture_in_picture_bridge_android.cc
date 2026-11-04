@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bridge for document picture-in-picture activity
+// summary: JNI bridge that registers the Android DocumentPictureInPictureActivity with the native PiP window manager and closes the activity when the native PiP session exits.
+// ---
+
 #include "base/android/jni_weak_ref.h"
 #include "base/no_destructor.h"
 #include "chrome/android/chrome_jni_headers/DocumentPictureInPictureActivity_jni.h"

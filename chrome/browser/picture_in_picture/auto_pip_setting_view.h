@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto picture-in-picture setting bubble header
+// summary: Declares the AutoPipSettingView bubble dialog delegate, including the UI result enum, result and hide-view callbacks, and testing helpers for the permission prompt.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_AUTO_PIP_SETTING_VIEW_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_AUTO_PIP_SETTING_VIEW_H_
 

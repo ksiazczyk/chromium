@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform handle interface for system permissions
+// summary: Defines the abstract per-platform interface for checking, requesting, opening settings for and observing system-level permissions.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_SYSTEM_PLATFORM_HANDLE_H_
 #define CHROME_BROWSER_PERMISSIONS_SYSTEM_PLATFORM_HANDLE_H_
 

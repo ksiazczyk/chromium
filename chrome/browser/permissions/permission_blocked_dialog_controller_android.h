@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission blocked dialog controller for Android
+// summary: Declares the controller that shows the dialog behind the manage button of the quiet notification permission prompt on Android.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_PERMISSION_BLOCKED_DIALOG_CONTROLLER_ANDROID_H_
 #define CHROME_BROWSER_PERMISSIONS_PERMISSION_BLOCKED_DIALOG_CONTROLLER_ANDROID_H_
 

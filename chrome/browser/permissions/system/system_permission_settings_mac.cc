@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS system permission settings implementation
+// summary: Implements the PlatformHandle for macOS, checking camera, microphone, geolocation and clipboard system permissions with a media permission cache.
+// ---
+
 #include "chrome/browser/permissions/system/system_permission_settings.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-Picture bounds cache unit tests
+// summary: Unit tests verifying that the picture-in-picture bounds cache matches origins, requested sizes, and displays before returning cached window bounds.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_bounds_cache.h"
 #include <memory>
 

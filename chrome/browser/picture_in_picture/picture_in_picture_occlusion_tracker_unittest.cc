@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-picture occlusion tracker unit tests
+// summary: Unit tests verifying that the occlusion tracker notifies observers when widgets move under or away from picture-in-picture windows.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_occlusion_tracker.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/picture_in_picture/picture_in_picture_occlusion_observer.h"

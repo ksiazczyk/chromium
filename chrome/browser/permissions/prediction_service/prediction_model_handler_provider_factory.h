@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PredictionModelHandlerProviderFactory header
+// summary: Declares PredictionModelHandlerProviderFactory, which provides per-profile PredictionModelHandlerProvider instances.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_PREDICTION_SERVICE_PREDICTION_MODEL_HANDLER_PROVIDER_FACTORY_H_
 #define CHROME_BROWSER_PERMISSIONS_PREDICTION_SERVICE_PREDICTION_MODEL_HANDLER_PROVIDER_FACTORY_H_
 

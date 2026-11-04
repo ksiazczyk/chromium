@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionProtoDBFactory singleton definitions
+// summary: Defines singleton factory instances and GetInstance specializations for persisted state, commerce subscription, parcel tracking, discount, cart, coupon and merchant signal protos.
+// ---
+
 #include "chrome/browser/persisted_state_db/session_proto_db_factory.h"
 
 #include "base/no_destructor.h"

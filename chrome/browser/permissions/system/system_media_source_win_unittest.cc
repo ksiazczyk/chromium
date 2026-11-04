@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemMediaSourceWin unit tests
+// summary: Unit test verifying that SystemMediaSourceWin construction completes without crashing or pumping window messages and returns consistent permission statuses across calls.
+// ---
+
 #include "chrome/browser/permissions/system/system_media_source_win.h"
 
 #include "base/memory/raw_ptr.h"

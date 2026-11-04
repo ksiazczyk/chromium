@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for system permission cache
+// summary: Cross-platform browser tests verifying that the OS camera and microphone permission cache refreshes on window activation and that IsDeniedFresh bypasses the cache.
+// ---
+
 // This file contains interactive UI tests for the system permission settings
 // integration. Specifically, it tests the cross-platform caching mechanism
 // (`SystemMediaPermissionCache`) for OS-level camera and microphone

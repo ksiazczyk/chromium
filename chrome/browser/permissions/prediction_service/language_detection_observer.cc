@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Language detection observer implementation
+// summary: Implements an observer that waits for page language detection and invokes callbacks when English is detected, on fallback, or on timeout.
+// ---
+
 #include "chrome/browser/permissions/prediction_service/language_detection_observer.h"
 
 #include "base/logging.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Picture-in-Picture include rules (DEPS)
+summary: Defines per-file include permission rules for picture-in-picture browser test sources.

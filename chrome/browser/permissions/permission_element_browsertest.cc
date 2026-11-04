@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission element browser tests
+// summary: Browser tests for the permission element, covering prompt actions, granted updates, DevTools issues, and UKM metrics.
+// ---
+
 #include <memory>
 #include <optional>
 

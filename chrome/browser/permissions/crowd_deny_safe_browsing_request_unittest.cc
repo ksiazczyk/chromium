@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrowdDenySafeBrowsingRequest unit tests
+// summary: Unit tests verifying crowd deny verdicts and request duration histograms using a fake Safe Browsing database manager and mock time.
+// ---
+
 #include "chrome/browser/permissions/crowd_deny_safe_browsing_request.h"
 
 #include "base/memory/scoped_refptr.h"

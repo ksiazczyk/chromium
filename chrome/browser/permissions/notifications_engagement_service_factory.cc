@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationsEngagementServiceFactory implementation
+// summary: Implements the profile-keyed factory that builds NotificationsEngagementService instances per profile and depends on the host content settings map.
+// ---
+
 #include "chrome/browser/permissions/notifications_engagement_service_factory.h"
 
 #include "base/no_destructor.h"

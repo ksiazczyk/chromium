@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMediaSourceWin implementation
+// summary: Windows implementation that queries AppCapability access status via COM, suppresses message pumping during cross-apartment calls, and maps results to permission states.
+// ---
+
 #include "chrome/browser/permissions/system/system_media_source_win.h"
 
 #include <objidl.h>

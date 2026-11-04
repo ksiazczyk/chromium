@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto Picture-in-Picture tab helper browser tests
+// summary: Browser tests for the auto Picture-in-Picture tab helper, covering tab activation, media engagement, permission settings, occlusion, and HaTS survey behavior in Chrome.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_tab_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture tab strip observer helper header
+// summary: Header for the tab strip observer that tracks when the observed WebContents changes between being the active tab and not for auto Picture-in-Picture.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_AUTO_PICTURE_IN_PICTURE_TAB_STRIP_OBSERVER_HELPER_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_AUTO_PICTURE_IN_PICTURE_TAB_STRIP_OBSERVER_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: One-time permissions condition tracker unit tests
+// summary: Unit tests verifying tracker destruction callbacks, per-origin tracker sharing, delayed expiry timers, and timer cancellation when references are renewed.
+// ---
+
 #include "chrome/browser/permissions/one_time_permissions_condition_tracker.h"
 
 #include <memory>

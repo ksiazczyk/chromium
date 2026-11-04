@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture occlusion observer interface
+// summary: Defines the PictureInPictureOcclusionObserver interface with an OnOcclusionStateChanged callback for widgets occluded by picture-in-picture windows.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_OCCLUSION_OBSERVER_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_OCCLUSION_OBSERVER_H_
 

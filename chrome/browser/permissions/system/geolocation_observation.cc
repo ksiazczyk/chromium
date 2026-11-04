@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation observation implementation
+// summary: Observes OS geolocation permission updates and reports denied or allowed status through a system permission changed callback.
+// ---
+
 #include "chrome/browser/permissions/system/geolocation_observation.h"
 
 #include "components/content_settings/core/common/content_settings_types.h"

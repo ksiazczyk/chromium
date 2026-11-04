@@ -1,3 +1,13 @@
+---
+type: readme
+title: Permissions Prediction Service (//chrome/browser)
+summary: Documents the browser-side permissions prediction service, covering its architecture, UI selectors, prediction models and handlers, workflows, and testing.
+relations:
+  - references /components/permissions/prediction_service/README.md
+  - documents /chrome/browser/permissions/prediction_service/contextual_notification_permission_ui_selector.cc
+  - documents /chrome/browser/permissions/prediction_service/contextual_notification_permission_ui_selector.h
+---
+
 # Permissions Prediction Service (`//chrome/browser`)
 
 ## Overview

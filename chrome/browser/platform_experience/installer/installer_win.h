@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform experience helper installer interface for Windows
+// summary: Declares the InstallerLauncherDelegate interface and MaybeInstallPlatformExperienceHelper for starting the platform experience helper installation on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_PLATFORM_EXPERIENCE_INSTALLER_INSTALLER_WIN_H_
 #define CHROME_BROWSER_PLATFORM_EXPERIENCE_INSTALLER_INSTALLER_WIN_H_
 

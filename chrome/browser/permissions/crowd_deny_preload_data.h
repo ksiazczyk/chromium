@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrowdDenyPreloadData class header
+// summary: Declares CrowdDenyPreloadData, which stores preloaded site reputation data for popular sites to inform permission decisions and reduce on-demand Safe Browsing pings.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_CROWD_DENY_PRELOAD_DATA_H_
 #define CHROME_BROWSER_PERMISSIONS_CROWD_DENY_PRELOAD_DATA_H_
 

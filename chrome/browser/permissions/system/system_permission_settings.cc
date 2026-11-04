@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System permission settings implementation
+// summary: Implements the system permission entry points by delegating to the platform handle, with testing mocks and scoped overrides for permission checks and requests.
+// ---
+
 #include "chrome/browser/permissions/system/system_permission_settings.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time permissions tracker factory header
+// summary: Declares the ProfileKeyedServiceFactory singleton that returns the OneTimePermissionsTracker for a given browser context.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_ONE_TIME_PERMISSIONS_TRACKER_FACTORY_H_
 #define CHROME_BROWSER_PERMISSIONS_ONE_TIME_PERMISSIONS_TRACKER_FACTORY_H_
 

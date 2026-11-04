@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document Picture-in-Picture window controller browser tests
+// summary: Browser tests covering the document picture-in-picture window controller, including window opening, sizing, and interaction behaviors in Chrome.
+// ---
+
 #include "content/public/browser/document_picture_in_picture_window_controller.h"
 
 #include "base/barrier_closure.h"

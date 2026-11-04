@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embedder delegate implementation
+// summary: Implements computing passage embeddings from rendered page text via the passage embedder model, including job cancellation and timeout handling.
+// ---
+
 #include "chrome/browser/permissions/prediction_service/passage_embedder_delegate.h"
 
 #include "base/logging.h"

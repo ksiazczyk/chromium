@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture window occlusion helper base implementation
+// summary: Implements the platform-neutral base and test factory for auto Picture-in-Picture window occlusion helpers that report occlusion state changes.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_window_occlusion_helper_base.h"
 
 #include "base/no_destructor.h"

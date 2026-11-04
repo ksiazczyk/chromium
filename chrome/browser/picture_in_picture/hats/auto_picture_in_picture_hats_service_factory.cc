@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture HaTS service factory implementation
+// summary: Implements the profile-keyed service factory that builds the Auto PiP HaTS service only for eligible regular profiles when the surveys feature is enabled.
+// ---
+
 #include "chrome/browser/picture_in_picture/hats/auto_picture_in_picture_hats_service_factory.h"
 
 #include "chrome/browser/picture_in_picture/hats/auto_picture_in_picture_hats_service.h"

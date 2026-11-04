@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for platform experience
+summary: Defines GN source sets for delegated tasks, features, prefs and their unit tests in the platform experience directory.

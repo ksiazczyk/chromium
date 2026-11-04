@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video picture-in-picture window controller browser tests
+// summary: Browser tests covering the video picture-in-picture window controller, its overlay controls, and window behavior across scenarios.
+// ---
+
 #include "base/barrier_closure.h"
 #include "base/feature_list.h"
 #include "base/files/file_util.h"

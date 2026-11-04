@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatedTask implementation
+// summary: Implements DelegatedTask defaults for timeout and command line switches and maps task names to delegated task types.
+// ---
+
 #include "chrome/browser/platform_experience/delegated_tasks/delegated_task.h"
 
 #include <optional>

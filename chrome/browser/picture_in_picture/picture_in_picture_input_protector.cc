@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-Picture input protector implementation
+// summary: Implements input protection for dialogs occluded by picture-in-picture windows to prevent clickjacking attacks on security-sensitive UI.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_input_protector.h"
 
 #include "ui/views/widget/widget.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PictureInPictureWindowManager implementation
+// summary: Implements the singleton manager that creates, sizes, and closes video and document picture-in-picture windows, guaranteeing only one window per Chrome instance.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_window_manager.h"
 
 #include "base/memory/raw_ptr.h"

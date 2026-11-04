@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission request manager browser tests
+// summary: Large browser test suite for permission request prompts, covering quiet UI, prediction-based UI selection, prerendering and multiple request types.
+// ---
+
 #include "components/permissions/permission_request_manager.h"
 
 #include <memory>

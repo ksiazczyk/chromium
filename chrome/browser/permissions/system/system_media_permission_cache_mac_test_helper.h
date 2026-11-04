@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemMediaPermissionCacheMacTestHelper declaration
+// summary: Declares a macOS test helper that overrides camera and microphone permission statuses for testing the system media permission cache.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_SYSTEM_SYSTEM_MEDIA_PERMISSION_CACHE_MAC_TEST_HELPER_H_
 #define CHROME_BROWSER_PERMISSIONS_SYSTEM_SYSTEM_MEDIA_PERMISSION_CACHE_MAC_TEST_HELPER_H_
 

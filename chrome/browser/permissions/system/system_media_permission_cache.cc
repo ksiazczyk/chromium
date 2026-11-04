@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System media permission cache implementation
+// summary: Caches camera and microphone system permission states and refreshes them asynchronously after startup or browser activation.
+// ---
+
 #include "chrome/browser/permissions/system/system_media_permission_cache.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time permissions tracker helper header
+// summary: Declares a WebContentsObserver that reports page loads, navigations and destruction to the one-time permissions tracker so permissions can be revoked.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_ONE_TIME_PERMISSIONS_TRACKER_HELPER_H_
 #define CHROME_BROWSER_PERMISSIONS_ONE_TIME_PERMISSIONS_TRACKER_HELPER_H_
 

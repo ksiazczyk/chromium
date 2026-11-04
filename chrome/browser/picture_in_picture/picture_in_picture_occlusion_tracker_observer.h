@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture occlusion tracker observer header
+// summary: Declares a CheckedObserver that associates a PictureInPictureOcclusionObserver with the views::Widget it observes for occlusion.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_OCCLUSION_TRACKER_OBSERVER_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_OCCLUSION_TRACKER_OBSERVER_H_
 

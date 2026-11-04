@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows platform experience helper installer implementation
+// summary: Implements launching the platform experience helper installer on Windows, including install checks, a launcher delegate, and UMA metrics for system and user installs.
+// ---
+
 #include "chrome/browser/platform_experience/installer/installer_win.h"
 
 #include "base/command_line.h"

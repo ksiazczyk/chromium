@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel browser tests for document picture-in-picture windows
+// summary: Browser tests capturing pixel output of document picture-in-picture windows, parameterized over the standalone window feature and with animations disabled for stability.
+// ---
+
 #include <string>
 #include <string_view>
 

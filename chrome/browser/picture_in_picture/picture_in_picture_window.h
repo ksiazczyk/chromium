@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PictureInPictureWindow interface for video and document PiP windows
+// summary: Declares the PictureInPictureWindow interface with shared logic such as forced tucking for both video and document picture-in-picture windows controlled by the window manager.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_WINDOW_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_WINDOW_H_
 

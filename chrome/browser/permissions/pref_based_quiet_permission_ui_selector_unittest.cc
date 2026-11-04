@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pref-based quiet permission UI selector unit tests
+// summary: Unit tests verifying that the pref-based selector returns the quiet UI decision for notifications and geolocation according to the enabled preferences.
+// ---
+
 #include "chrome/browser/permissions/pref_based_quiet_permission_ui_selector.h"
 
 #include <optional>

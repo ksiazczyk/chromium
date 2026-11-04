@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission manager factory header
+// summary: Declares the ProfileKeyedServiceFactory that provides a PermissionManager instance for each profile.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_PERMISSION_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_PERMISSIONS_PERMISSION_MANAGER_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the system permission source set
+summary: Defines the system source set with platform-specific sources, public headers and dependencies for system-level permission settings.

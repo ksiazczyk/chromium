@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto PiP tab model observer helper instrumentation test
+// summary: Instrumentation test that verifies the C++ AutoPictureInPictureTabModelObserverHelper logic through a JNI bridge across tab and window scenarios.
+// ---
+
 package org.chromium.chrome.browser.picture_in_picture;
 
 import static org.junit.Assert.assertEquals;

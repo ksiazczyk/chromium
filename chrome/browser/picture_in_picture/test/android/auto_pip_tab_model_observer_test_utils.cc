@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto PiP tab model observer test utilities
+// summary: Native JNI bindings that initialize and control AutoPictureInPictureTabModelObserverHelper in tests, forwarding activation change callbacks to Java.
+// ---
+
 #include "base/android/callback_android.h"
 #include "base/android/jni_android.h"
 #include "base/no_destructor.h"

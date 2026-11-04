@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection observer header
+// summary: Declares LanguageDetectionObserver, which waits for the page language to be determined and calls success or fallback callbacks with a one-second timeout.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_PREDICTION_SERVICE_LANGUAGE_DETECTION_OBSERVER_H_
 #define CHROME_BROWSER_PERMISSIONS_PREDICTION_SERVICE_LANGUAGE_DETECTION_OBSERVER_H_
 

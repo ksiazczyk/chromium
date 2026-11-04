@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS system permission settings implementation
+// summary: Implements the PlatformHandle for ChromeOS, deriving camera, microphone and geolocation permission state from the Ash Privacy Hub and opening system settings through it.
+// ---
+
 #include "chrome/browser/permissions/system/system_permission_settings.h"
 
 #include <utility>

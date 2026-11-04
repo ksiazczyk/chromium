@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContents-based auto PiP occlusion helper class
+// summary: Declares a helper that tracks WebContents visibility changes to report window occlusion state for auto picture-in-picture.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_AUTO_PICTURE_IN_PICTURE_WINDOW_OCCLUSION_HELPER_WEB_CONTENTS_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_AUTO_PICTURE_IN_PICTURE_WINDOW_OCCLUSION_HELPER_WEB_CONTENTS_H_
 

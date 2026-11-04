@@ -1,0 +1,4 @@
+# Docerion header of system_media_capture_permissions_mac.mm.
+type: source
+title: Mac system media capture permission implementation
+summary: Implements macOS media capture permission checks and requests via AVFoundation, including fake device and test overrides.

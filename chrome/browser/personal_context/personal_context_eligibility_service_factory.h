@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the eligibility service factory
+// summary: Declares the PersonalContextEligibilityServiceFactory singleton that returns the per-profile eligibility service.
+// ---
+
 #ifndef CHROME_BROWSER_PERSONAL_CONTEXT_PERSONAL_CONTEXT_ELIGIBILITY_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PERSONAL_CONTEXT_PERSONAL_CONTEXT_ELIGIBILITY_SERVICE_FACTORY_H_
 

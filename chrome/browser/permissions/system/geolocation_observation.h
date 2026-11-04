@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation observation class header
+// summary: Declares GeolocationObservation, a scoped observer that forwards geolocation system permission changes to a callback.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_SYSTEM_GEOLOCATION_OBSERVATION_H_
 #define CHROME_BROWSER_PERMISSIONS_SYSTEM_GEOLOCATION_OBSERVATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual notification permission UI selector unit tests
+// summary: Unit tests verifying quiet UI and warning decisions for various site reputations using fake Safe Browsing data and testing origins.
+// ---
+
 #include "chrome/browser/permissions/prediction_service/contextual_notification_permission_ui_selector.h"
 
 #include <memory>

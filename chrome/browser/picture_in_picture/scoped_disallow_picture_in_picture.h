@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedDisallowPictureInPicture header
+// summary: Declares a scoped object that closes existing picture-in-picture windows and blocks new ones for as long as any instance exists.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_SCOPED_DISALLOW_PICTURE_IN_PICTURE_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_SCOPED_DISALLOW_PICTURE_IN_PICTURE_H_
 

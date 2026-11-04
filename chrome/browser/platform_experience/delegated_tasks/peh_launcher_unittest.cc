@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PehLauncher unit tests
+// summary: Unit tests for PehLauncher covering binary path resolution for user and system installs, trust verification and version lookup.
+// ---
+
 #include "chrome/browser/platform_experience/delegated_tasks/peh_launcher.h"
 
 #include <memory>

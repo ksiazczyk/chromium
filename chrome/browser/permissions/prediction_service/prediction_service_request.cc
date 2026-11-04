@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction service request implementation
+// summary: Implements PredictionServiceRequest, which starts a lookup against the permissions prediction service and forwards the lookup response to the caller's callback.
+// ---
+
 #include "chrome/browser/permissions/prediction_service/prediction_service_request.h"
 
 #include <utility>

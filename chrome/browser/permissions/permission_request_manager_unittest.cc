@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission request manager unit tests
+// summary: Unit tests for the permission request manager, covering request handling, auto-blocking, quiet notification UI and kiosk scenarios.
+// ---
+
 #include "components/permissions/permission_request_manager.h"
 
 #include <stddef.h>

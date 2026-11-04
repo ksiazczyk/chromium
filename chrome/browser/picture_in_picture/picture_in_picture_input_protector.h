@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-Picture input protector interface
+// summary: Declares a helper that blocks interaction with a widget while it is occluded by a picture-in-picture window, guarding against clickjacking attacks.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_INPUT_PROTECTOR_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_INPUT_PROTECTOR_H_
 
