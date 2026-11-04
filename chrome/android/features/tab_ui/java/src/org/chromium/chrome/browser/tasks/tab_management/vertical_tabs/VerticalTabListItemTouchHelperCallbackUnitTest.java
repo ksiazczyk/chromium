@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VerticalTabListItemTouchHelperCallbackUnitTest
+// summary: Robolectric unit tests for the vertical tab list item touch helper callback, covering drag, swipe, grouping, and histogram outcomes.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import static org.junit.Assert.assertEquals;

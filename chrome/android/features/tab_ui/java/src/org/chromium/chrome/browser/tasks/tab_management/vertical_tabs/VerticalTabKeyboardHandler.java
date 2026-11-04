@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticalTabKeyboardHandler
+// summary: Handles physical keyboard events and keyboard-driven tab reordering for the vertical tab rail, including escape to hide hover cards.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import android.view.KeyEvent;

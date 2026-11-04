@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists code owners for the vertical tabs directory, grouped by feature area such as collapsed rail, hover card, spine and drag-and-drop.

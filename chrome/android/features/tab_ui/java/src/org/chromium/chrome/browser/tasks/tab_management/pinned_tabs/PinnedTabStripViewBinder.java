@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned tab strip view binder
+// summary: Binds strip-level model properties like visibility, scroll position and background color to the pinned tabs RecyclerView.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import static org.chromium.chrome.browser.tasks.tab_management.pinned_tabs.PinnedTabStripProperties.ANIMATION_MANAGER;

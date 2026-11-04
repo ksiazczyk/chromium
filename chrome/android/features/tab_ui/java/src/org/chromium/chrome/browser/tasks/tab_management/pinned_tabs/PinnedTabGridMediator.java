@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedTabGridMediator
+// summary: Mediator for static pinned tabs that observes the main tab list and tab model to mirror pinned tabs into a dedicated model list sharing the same property models.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import org.chromium.build.annotations.NullMarked;

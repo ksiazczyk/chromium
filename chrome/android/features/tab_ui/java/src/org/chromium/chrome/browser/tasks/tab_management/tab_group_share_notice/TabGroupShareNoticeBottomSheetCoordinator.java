@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group share notice bottom sheet coordinator
+// summary: Coordinates the shared tab group notice bottom sheet, showing it only when the engagement tracker indicates the user has not yet read the notice.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.tab_group_share_notice;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

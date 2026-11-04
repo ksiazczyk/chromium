@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseVerticalTabDropIndicatorDecoration
+// summary: Abstract RecyclerView.ItemDecoration base providing shared state, lifecycle and rendering for vertical tab drop indicator decorations.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import android.content.Context;

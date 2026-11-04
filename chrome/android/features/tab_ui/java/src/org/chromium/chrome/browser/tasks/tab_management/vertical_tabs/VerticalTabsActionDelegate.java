@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticalTabsActionDelegate
+// summary: Interface providing actions for vertical tabs, currently defining a method to open the tab search overlay side panel.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import org.chromium.build.annotations.NullMarked;

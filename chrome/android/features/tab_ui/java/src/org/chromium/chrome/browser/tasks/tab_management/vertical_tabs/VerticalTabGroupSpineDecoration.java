@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticalTabGroupSpineDecoration
+// summary: RecyclerView item decoration that draws a vertical spine line beside tab items belonging to a tab group, reacting to group color and collapse changes with animations.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import android.content.Context;

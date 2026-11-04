@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupLabellerUnitTest
+// summary: Robolectric unit tests for TabGroupLabeller, verifying that dirty tab group messages produce the expected card labels.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.labels;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned tab strip utilities
+// summary: Utility helpers for comparing tab lists and computing pinned tab strip item width multipliers from grid layout dimensions.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import android.content.res.Resources;

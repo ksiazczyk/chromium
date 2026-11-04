@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VerticalTabsSideUiCoordinatorUnitTest
+// summary: Robolectric unit tests for VerticalTabsSideUiCoordinator, verifying side UI integration, container sizing, activity state handling, and rail collapse behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import static org.junit.Assert.assertEquals;

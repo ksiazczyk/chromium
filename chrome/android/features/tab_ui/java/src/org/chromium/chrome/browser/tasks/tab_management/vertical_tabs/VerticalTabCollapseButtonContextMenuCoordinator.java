@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticalTabCollapseButtonContextMenuCoordinator
+// summary: Coordinator for the context menu shown on right-clicking the vertical tabs rail collapse button, offering an expand-on-hover toggle.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import static org.chromium.ui.listmenu.ListMenuItemProperties.MENU_ITEM_ID;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab rail hover controller
+// summary: Tracks the mouse pointer relative to the vertical tab rail and drives its expand-on-hover state, with debouncing and context menu handling.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import android.content.SharedPreferences.OnSharedPreferenceChangeListener;

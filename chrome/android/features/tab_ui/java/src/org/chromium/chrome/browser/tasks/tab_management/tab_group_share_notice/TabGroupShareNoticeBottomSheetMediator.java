@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group share notice bottom sheet mediator
+// summary: Mediator containing the logic for user interactions with the shared tab group notice bottom sheet, including sheet observation and hiding.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.tab_group_share_notice;
 
 import androidx.annotation.VisibleForTesting;

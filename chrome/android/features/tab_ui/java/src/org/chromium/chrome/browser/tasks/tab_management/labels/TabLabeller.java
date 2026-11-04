@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabLabeller
+// summary: Pushes label updates to the UI for individual tabs in shared groups, using collaboration events and data sharing avatar images.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.labels;
 
 import android.content.Context;

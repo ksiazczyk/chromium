@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VerticalTabDragUtils unit tests
+// summary: Unit tests verifying coordinate mapping between views, null and same-view pass-through, scratch buffer zeroing, and point-inside-view boundary conditions.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import static org.junit.Assert.assertEquals;

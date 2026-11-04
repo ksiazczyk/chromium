@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabListHighlighterUnitTest
+// summary: Robolectric unit tests for TabListHighlighter, checking highlight and unhighlight behavior on tab list model items.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.labels;
 
 import static org.junit.Assert.assertEquals;

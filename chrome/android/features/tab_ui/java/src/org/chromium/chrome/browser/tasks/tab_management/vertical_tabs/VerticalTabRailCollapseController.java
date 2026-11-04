@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab rail collapse controller
+// summary: Single source of truth for the vertical tab rail's expanded or collapsed state, combining user preference, hover, and window width inputs and persisting the preference.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import org.chromium.base.Callback;

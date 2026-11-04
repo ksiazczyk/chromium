@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticalTabListCoordinator
+// summary: Main coordinator for the vertical tab list, wiring RecyclerViews, drag and drop, context menus, metrics, and rail collapse behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

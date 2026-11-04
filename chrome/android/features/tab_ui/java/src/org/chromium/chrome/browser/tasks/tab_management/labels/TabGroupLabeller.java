@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupLabeller
+// summary: Pushes label updates to the UI for tab groups by applying persistent DIRTY_TAB_GROUP messages from the collaboration messaging backend.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.labels;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

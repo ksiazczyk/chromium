@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VerticalTabDragRegionTracker unit tests
+// summary: Unit tests verifying that the drag region tracker fires enter and exit effects only on region edges, ignores events without an active drag, and resets between drag sessions.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import static org.junit.Assert.assertEquals;

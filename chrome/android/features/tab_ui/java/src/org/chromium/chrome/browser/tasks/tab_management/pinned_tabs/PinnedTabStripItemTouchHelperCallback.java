@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedTabStripItemTouchHelperCallback
+// summary: ItemTouchHelper callback hosting long-press logic for pinned tab strip items, with drag-to-move operations planned for the future.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticalTabDragUtils
+// summary: Geometry helpers shared by the vertical tab strip's drag-and-drop code, translating points between view coordinate spaces and checking whether points fall inside view bounds.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import android.view.View;

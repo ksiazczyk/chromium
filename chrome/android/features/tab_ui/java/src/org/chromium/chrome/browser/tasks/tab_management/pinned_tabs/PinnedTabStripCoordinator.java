@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedTabStripCoordinator
+// summary: Coordinator that builds and wires the pinned tabs strip RecyclerView together with its mediator, animation manager and view binding.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

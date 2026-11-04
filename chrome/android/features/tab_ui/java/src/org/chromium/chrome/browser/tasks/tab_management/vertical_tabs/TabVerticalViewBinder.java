@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabVerticalViewBinder
+// summary: View binder that binds PropertyModel properties of vertical tab list item rows, including pinned tabs, to their view elements.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.vertical_tabs;
 
 import android.annotation.SuppressLint;
