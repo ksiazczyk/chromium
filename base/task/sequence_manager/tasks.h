@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task and PostedTask declarations
+// summary: Declares the PostedTask argument wrapper, the WakeUp timing struct, and Task, a PendingTask extended with sequence manager metadata like enqueue order.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_TASKS_H_
 #define BASE_TASK_SEQUENCE_MANAGER_TASKS_H_
 

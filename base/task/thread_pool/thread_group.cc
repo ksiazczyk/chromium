@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadGroup base class implementation
+// summary: Implements the ThreadGroup base class, including scoped executors that batch worker startup, wake-ups, and task source re-enqueueing for the thread pool.
+// ---
+
 #include "base/task/thread_pool/thread_group.h"
 
 #include <string_view>

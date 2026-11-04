@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SequencedTaskRunner test utility implementation
+// summary: Implements TestRefCounted, a ref-counted helper that sets a flag on destruction and is created for wrapping in Rust scoped ref pointers.
+// ---
+
 #include "base/task/sequenced_task_runner_test_util.h"
 
 #include "base/run_loop.h"

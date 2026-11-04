@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckedLockImpl class declaration
+// summary: Declares CheckedLockImpl, a lock with simple deadlock correctness checking that supports predecessor chains and universal predecessor or successor roles.
+// ---
+
 #ifndef BASE_TASK_COMMON_CHECKED_LOCK_IMPL_H_
 #define BASE_TASK_COMMON_CHECKED_LOCK_IMPL_H_
 

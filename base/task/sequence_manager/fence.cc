@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fence implementation
+// summary: Implements Fence constructors and factory functions, including the blocking fence created from a special enqueue order.
+// ---
+
 #include "base/task/sequence_manager/fence.h"
 
 #include "base/check.h"

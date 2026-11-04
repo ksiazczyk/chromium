@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread pool test utilities implementation
+// summary: Implements thread pool test utilities such as a mock job task runner, a worker thread observer, and helpers to create sequences and pooled task runners.
+// ---
+
 #include "base/task/thread_pool/test_utils.h"
 
 #include <utility>

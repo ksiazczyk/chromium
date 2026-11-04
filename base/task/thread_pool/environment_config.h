@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread pool environment configuration header
+// summary: Defines the EnvironmentType enum and per-environment parameters, plus platform checks for background and utility worker thread types.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_ENVIRONMENT_CONFIG_H_
 #define BASE_TASK_THREAD_POOL_ENVIRONMENT_CONFIG_H_
 

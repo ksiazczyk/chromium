@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssociatedThreadId implementation
+// summary: Implements thread binding, in-sequence assertions, and thread checks for the AssociatedThreadId helper used by the sequence manager.
+// ---
+
 #include "base/task/sequence_manager/associated_thread_id.h"
 
 #include "base/check.h"

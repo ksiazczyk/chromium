@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CancelableTaskTracker API header
+// summary: Declares CancelableTaskTracker for posting tasks with replies that can be canceled from another sequence, canceling all tracked tasks on destruction.
+// ---
+
 // CancelableTaskTracker posts tasks (in the form of a OnceClosure) to a
 // TaskRunner, and is able to cancel the task later if it's not needed
 // anymore.  On destruction, CancelableTaskTracker will cancel all

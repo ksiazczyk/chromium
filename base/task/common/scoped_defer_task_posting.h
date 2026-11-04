@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedDeferTaskPosting class declaration
+// summary: Declares ScopedDeferTaskPosting, a thread-local scope that defers posted tasks until destruction to avoid deadlocks when posting from within a trace event.
+// ---
+
 #ifndef BASE_TASK_COMMON_SCOPED_DEFER_TASK_POSTING_H_
 #define BASE_TASK_COMMON_SCOPED_DEFER_TASK_POSTING_H_
 

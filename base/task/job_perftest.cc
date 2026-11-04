@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Job performance tests
+// summary: Performance tests measuring job work throughput under naive, dynamic, and loop-around assignment strategies with and without disruptive tasks.
+// ---
+
 #include <stddef.h>
 
 #include <atomic>

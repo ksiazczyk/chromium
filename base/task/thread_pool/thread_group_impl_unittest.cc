@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThreadGroupImpl unit tests
+// summary: Unit tests for ThreadGroupImpl covering task posting, worker cleanup, blocking calls, priorities, and profiler behavior in the thread pool.
+// ---
+
 #include "base/task/thread_pool/thread_group_impl.h"
 
 #include <stddef.h>

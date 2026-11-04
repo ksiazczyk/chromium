@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Task scheduling component metadata
+summary: Maps the common task code to the Internals>TaskScheduling monorail component, the scheduler-dev team email and a Buganizer component.

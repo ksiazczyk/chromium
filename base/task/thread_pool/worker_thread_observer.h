@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerThreadObserver interface
+// summary: Declares an interface with callbacks invoked at the beginning and end of a ThreadPool worker thread's main function, before and after any task runs.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_WORKER_THREAD_OBSERVER_H_
 #define BASE_TASK_THREAD_POOL_WORKER_THREAD_OBSERVER_H_
 

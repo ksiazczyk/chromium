@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRunner base implementation
+// summary: Implements TaskRunner's PostTask and PostTaskAndReply in terms of PostDelayedTask, plus destruction traits for task runners.
+// ---
+
 #include "base/task/task_runner.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskAnnotator class declaration
+// summary: Declares TaskAnnotator, which provides common debug annotations for posted tasks, including task origins, IPC hashes, long task tracking and tracing support.
+// ---
+
 #ifndef BASE_TASK_COMMON_TASK_ANNOTATOR_H_
 #define BASE_TASK_COMMON_TASK_ANNOTATOR_H_
 

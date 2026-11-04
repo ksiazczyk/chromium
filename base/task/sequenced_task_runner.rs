@@ -14,6 +14,12 @@
 //! ptr.post_task(do_something);
 //! ```
 
+// ---docerion
+// type: source
+// title: Rust bindings for SequencedTaskRunner
+// summary: Defines a cxx FFI bridge and a Rust SequencedTaskRunnerHandle for posting tasks and managing ref-counts from Rust code.
+// ---
+
 chromium::import! {
     "//base:scoped_refptr";
     "//base:callback";

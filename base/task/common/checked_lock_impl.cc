@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckedLockImpl implementation
+// summary: Implements CheckedLockImpl with a SafeAcquisitionTracker that registers locks and asserts safe acquisition order to detect potential deadlocks.
+// ---
+
 #include "base/task/common/checked_lock_impl.h"
 
 #include <algorithm>

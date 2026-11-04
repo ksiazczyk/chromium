@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultDelayedTaskHandleDelegate class declaration
+// summary: Declares a default DelayedTaskHandle::Delegate implementation that cancels delayed tasks by invalidating a weak pointer factory.
+// ---
+
 #ifndef BASE_TASK_DEFAULT_DELAYED_TASK_HANDLE_DELEGATE_H_
 #define BASE_TASK_DEFAULT_DELAYED_TASK_HANDLE_DELEGATE_H_
 

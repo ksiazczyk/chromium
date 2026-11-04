@@ -1,3 +1,12 @@
+---
+type: readme
+title: base/task directory overview
+summary: Describes the layout of the base/task directory, its public APIs versus the ThreadPool and SequenceManager implementations, and links to threading and callback documentation.
+relations:
+  - references /docs/callback.md
+  - references /docs/threading_and_tasks.md
+---
+
 This directory has the following layout:
 - base/task/: public APIs for posting tasks and managing task queues.
 - base/task/thread_pool/: implementation of the ThreadPool.

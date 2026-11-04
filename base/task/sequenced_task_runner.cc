@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of SequencedTaskRunner
+// summary: Implements delayed and cancelable task posting, run-or-post behavior, and management of the current default sequenced runner handle.
+// ---
+
 #include "base/task/sequenced_task_runner.h"
 
 #include <utility>

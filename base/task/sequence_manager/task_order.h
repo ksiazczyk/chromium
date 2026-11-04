@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskOrder task ordering class
+// summary: Defines TaskOrder, a strict total ordering of tasks based on enqueue order, delayed run time and posting sequence number.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_TASK_ORDER_H_
 #define BASE_TASK_SEQUENCE_MANAGER_TASK_ORDER_H_
 

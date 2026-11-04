@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkQueueSets implementation
+// summary: Implements per-priority min-heaps that track which work queue holds the oldest task, notifying an observer as sets become empty or non-empty.
+// ---
+
 #include "base/task/sequence_manager/work_queue_sets.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WakeUpQueue class declaration
+// summary: Declares WakeUpQueue, which aggregates wake-ups from TaskQueueImpl instances and notifies them when times are reached, plus the DefaultWakeUpQueue subclass.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_WAKE_UP_QUEUE_H_
 #define BASE_TASK_SEQUENCE_MANAGER_WAKE_UP_QUEUE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for thread pool environment configuration
+// summary: Verifies which platforms support background and utility thread types for worker threads in the thread pool.
+// ---
+
 #include "base/task/thread_pool/environment_config.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskSourceSortKey class declaration
+// summary: Declares TaskSourceSortKey, an immutable but assignable representation of a sequence's priority combining thread type, worker count, and ready time.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_TASK_SOURCE_SORT_KEY_H_
 #define BASE_TASK_THREAD_POOL_TASK_SOURCE_SORT_KEY_H_
 

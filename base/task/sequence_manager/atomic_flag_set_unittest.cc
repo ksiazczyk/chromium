@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtomicFlagSet unit tests
+// summary: Unit tests covering flag activation, deactivation, release, and callback behavior of AtomicFlagSet, including group allocation edge cases.
+// ---
+
 #include "base/task/sequence_manager/atomic_flag_set.h"
 
 #include <set>

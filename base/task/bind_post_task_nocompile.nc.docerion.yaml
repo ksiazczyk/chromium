@@ -1,0 +1,4 @@
+# Docerion header of bind_post_task_nocompile.nc.
+type: test
+title: BindPostTask no-compile tests
+summary: No-compile test suite asserting that BindPostTask and BindPostTaskToCurrentDefault reject callbacks with non-void return types.

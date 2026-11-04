@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkTracker class declaration
+// summary: Declares the WorkTracker class and SyncWorkAuthorization RAII token used to gate and track synchronous task execution within the sequence manager.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_WORK_TRACKER_H_
 #define BASE_TASK_SEQUENCE_MANAGER_WORK_TRACKER_H_
 

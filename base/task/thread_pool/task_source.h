@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task source base class declaration
+// summary: Declares the TaskSource base class and RegisteredTaskSource, defining the WillRunTask, TakeTask, and DidProcessTask lifecycle workers use to run tasks with bounded concurrency.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_TASK_SOURCE_H_
 #define BASE_TASK_THREAD_POOL_TASK_SOURCE_H_
 

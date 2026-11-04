@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template helpers for SequencedTaskRunner deletion
+// summary: Defines DeleteHelper, DeleteUniquePtrHelper and ReleaseHelper templates used to dispatch deletes and releases via SequencedTaskRunner.
+// ---
+
 #ifndef BASE_TASK_SEQUENCED_TASK_RUNNER_HELPERS_H_
 #define BASE_TASK_SEQUENCED_TASK_RUNNER_HELPERS_H_
 

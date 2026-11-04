@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazyNow time helper
+// summary: Declares LazyNow, a short-lived helper that lazily caches the current time from a TickClock to avoid repeated expensive Now calls.
+// ---
+
 #ifndef BASE_TASK_COMMON_LAZY_NOW_H_
 #define BASE_TASK_COMMON_LAZY_NOW_H_
 

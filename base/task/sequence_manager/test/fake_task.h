@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake task test helper declarations
+// summary: Declares FakeTask and FakeTaskTiming classes that provide fake task objects for sequence manager tests.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_TEST_FAKE_TASK_H_
 #define BASE_TASK_SEQUENCE_MANAGER_TEST_FAKE_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Execution fence implementation
+// summary: Implements scoped thread pool and best-effort execution fences that block task scheduling, including a registry of sequence managers for task queue voting.
+// ---
+
 #include "base/task/execution_fence.h"
 
 #include <memory>

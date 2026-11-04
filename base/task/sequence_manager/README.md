@@ -1,3 +1,9 @@
+---
+type: readme
+title: Sequence manager overview
+summary: Documents the high-level design of the sequence manager, covering work queues, task selection, wake-ups, delayed tasks, and time domains.
+---
+
 # What is this
 This file documents high level parts of the sequence manager.
 

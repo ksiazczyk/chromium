@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadPool task implementation
+// summary: Implements Task constructors that wrap a closure with posting location, queue time, delay, leeway, delay policy, and sequence number for the thread pool.
+// ---
+
 #include "base/task/thread_pool/task.h"
 
 #include <utility>

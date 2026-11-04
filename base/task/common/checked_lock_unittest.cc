@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CheckedLock unit tests
+// summary: Unit tests covering CheckedLock acquire and release behavior, predecessor ordering, universal predecessors and successors, and expected DCHECK failures.
+// ---
+
 #include "base/task/common/checked_lock.h"
 
 #include <stdlib.h>

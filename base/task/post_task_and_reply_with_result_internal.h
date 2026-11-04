@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal helpers for PostTaskAndReplyWithResult
+// summary: Provides template helpers that wrap results in tuples and adapt return-value functions to output-parameter and reply callbacks.
+// ---
+
 #ifndef BASE_TASK_POST_TASK_AND_REPLY_WITH_RESULT_INTERNAL_H_
 #define BASE_TASK_POST_TASK_AND_REPLY_WITH_RESULT_INTERNAL_H_
 

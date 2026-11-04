@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy thread pool task runner implementation
+// summary: Implements lazy creation of sequenced, single-thread, and COM-STA task runners bound to the thread pool, plus test-scoped reset support.
+// ---
+
 #include "base/task/lazy_thread_pool_task_runner.h"
 
 #include <atomic>

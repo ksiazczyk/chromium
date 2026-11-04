@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerThreadSet implementation
+// summary: Implements the ordered set of worker threads, marking the front worker as in-use and flagging unused periods on insertion, take, and removal for idle reclaim.
+// ---
+
 #include "base/task/thread_pool/worker_thread_set.h"
 
 #include <algorithm>

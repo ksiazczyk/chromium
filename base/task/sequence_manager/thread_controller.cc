@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadController implementation
+// summary: Implements ThreadController base behavior including run level tracking, feature initialization, pump phase naming and active interval metrics.
+// ---
+
 #include "base/task/sequence_manager/thread_controller.h"
 
 #include <atomic>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequenceManagerImpl implementation
+// summary: Implements the core sequence manager, including queue selection, DoWork scheduling, tracing, crash keys, and memory reclamation from queues.
+// ---
+
 #include "base/task/sequence_manager/sequence_manager_impl.h"
 
 #include <algorithm>

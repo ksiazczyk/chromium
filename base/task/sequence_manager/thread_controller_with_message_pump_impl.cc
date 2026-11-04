@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadControllerWithMessagePumpImpl implementation
+// summary: Implements the thread controller that bridges the SequenceManager to a MessagePump, handling work scheduling, delayed wake-ups, nesting, and feature flags.
+// ---
+
 #include "base/task/sequence_manager/thread_controller_with_message_pump_impl.h"
 
 #include <algorithm>

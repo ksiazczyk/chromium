@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazyNow implementation
+// summary: Implements LazyNow, returning a cached TimeTicks or querying the TickClock only on first use.
+// ---
+
 #include "base/task/common/lazy_now.h"
 
 #include <optional>

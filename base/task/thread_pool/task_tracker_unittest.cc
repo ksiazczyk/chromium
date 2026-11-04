@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskTracker unit tests
+// summary: Unit tests covering TaskTracker behavior, including posting and running tasks, shutdown semantics, CanRunPolicy, and histogram metrics.
+// ---
+
 #include "base/task/thread_pool/task_tracker.h"
 
 #include <stdint.h>

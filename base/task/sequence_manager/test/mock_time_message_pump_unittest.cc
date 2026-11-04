@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock time message pump unit tests
+// summary: Unit tests for MockTimeMessagePump covering time advancement limits, quitting after work, idle stopping, and next wake-up time tracking.
+// ---
+
 #include "base/task/sequence_manager/test/mock_time_message_pump.h"
 
 #include "base/message_loop/message_pump.h"

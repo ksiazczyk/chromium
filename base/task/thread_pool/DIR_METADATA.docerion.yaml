@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Thread pool directory metadata
+summary: Declares the Chromium bug tracking components (Monorail and Buganizer) used for issues in the thread pool directory.

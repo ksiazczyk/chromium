@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadPoolImpl class declaration
+// summary: Declares ThreadPoolImpl, the default ThreadPoolInstance implementation that owns thread groups, task runners, and shutdown and fence controls.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_THREAD_POOL_IMPL_H_
 #define BASE_TASK_THREAD_POOL_THREAD_POOL_IMPL_H_
 

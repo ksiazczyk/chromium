@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleThreadTaskRunner class declaration
+// summary: Declares the SingleThreadTaskRunner interface, a SequencedTaskRunner that runs all tasks on a single dedicated thread, with default-handle helpers.
+// ---
+
 #ifndef BASE_TASK_SINGLE_THREAD_TASK_RUNNER_H_
 #define BASE_TASK_SINGLE_THREAD_TASK_RUNNER_H_
 

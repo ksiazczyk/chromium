@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delayed priority queue unit tests
+// summary: Unit tests covering push, pop, peek, removal and sort key updates for DelayedPriorityQueue using sequences with delayed tasks.
+// ---
+
 #include "base/task/thread_pool/delayed_priority_queue.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sequence manager test implementation
+// summary: Implements SequenceManagerForTest, exposing internal counts such as active queues, pending tasks, and queues to delete for test assertions.
+// ---
+
 #include "base/task/sequence_manager/test/sequence_manager_for_test.h"
 
 #include "base/task/sequence_manager/thread_controller_with_message_pump_impl.h"

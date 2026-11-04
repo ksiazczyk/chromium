@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequencedTaskRunner interface header
+// summary: Declares the SequencedTaskRunner API with its ordering guarantees and pass-key restricted delayed-task and run-or-post methods.
+// ---
+
 #ifndef BASE_TASK_SEQUENCED_TASK_RUNNER_H_
 #define BASE_TASK_SEQUENCED_TASK_RUNNER_H_
 

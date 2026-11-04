@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckedLock with lock-order checking
+// summary: Declares CheckedLock, a lock that DCHECKs acquisition order against predecessors in debug builds and falls back to base::Lock otherwise, plus auto-lock aliases.
+// ---
+
 #ifndef BASE_TASK_COMMON_CHECKED_LOCK_H_
 #define BASE_TASK_COMMON_CHECKED_LOCK_H_
 

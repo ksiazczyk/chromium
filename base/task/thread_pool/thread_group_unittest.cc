@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThreadGroup unit tests
+// summary: Unit tests for ThreadGroup behavior, exercising task posting through pooled task runners, nested tasks, and can-run policy handling.
+// ---
+
 #include "base/task/thread_pool/thread_group.h"
 
 #include <memory>

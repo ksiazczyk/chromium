@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CanRunPolicy test helpers
+// summary: Shared template helpers that verify tasks only run when allowed by the CanRunPolicy, including cases where the policy changes before a task starts.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_CAN_RUN_POLICY_TEST_H_
 #define BASE_TASK_THREAD_POOL_CAN_RUN_POLICY_TEST_H_
 

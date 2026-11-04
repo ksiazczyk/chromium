@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThreadControllerPowerMonitor unit tests
+// summary: Unit tests verifying that suspend and resume notifications are only reflected in the power suspend state after the monitor is bound to the current thread.
+// ---
+
 #include "base/task/sequence_manager/thread_controller_power_monitor.h"
 
 #include "base/power_monitor/power_monitor.h"

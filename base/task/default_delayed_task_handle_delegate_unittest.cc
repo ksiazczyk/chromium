@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DefaultDelayedTaskHandleDelegate unit tests
+// summary: Unit tests verifying that DefaultDelayedTaskHandleDelegate invalidates handles on run, cancel, callback destruction, and while the task is running.
+// ---
+
 #include "base/task/default_delayed_task_handle_delegate.h"
 
 #include "base/functional/callback_helpers.h"

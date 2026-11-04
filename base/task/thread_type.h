@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadType enum for thread importance levels
+// summary: Defines the ThreadType enum from background to realtime audio plus internal APIs for querying and overriding current task importance.
+// ---
+
 #ifndef BASE_TASK_THREAD_TYPE_H_
 #define BASE_TASK_THREAD_TYPE_H_
 

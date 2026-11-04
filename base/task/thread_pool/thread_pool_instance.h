@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadPoolInstance interface and initialization parameters
+// summary: Declares the ThreadPoolInstance interface and InitParams for starting and managing the process-wide thread pool, including thread group limits, COM environment options, and worker reclaim times.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_THREAD_POOL_INSTANCE_H_
 #define BASE_TASK_THREAD_POOL_THREAD_POOL_INSTANCE_H_
 

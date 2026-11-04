@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ThreadPool posting and shutdown behavior
+// summary: Tests PostTaskAndReplyWithResult and that BLOCK_SHUTDOWN callbacks fizzle without DCHECK failures when the thread pool shuts down.
+// ---
+
 #include "base/task/thread_pool.h"
 
 #include "base/functional/bind.h"

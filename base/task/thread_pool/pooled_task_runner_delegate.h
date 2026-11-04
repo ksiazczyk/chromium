@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PooledTaskRunnerDelegate interface
+// summary: Declares the delegate interface for pooled parallel and sequenced task runners, covering posting tasks with sequences, job enqueueing, and priority updates.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_POOLED_TASK_RUNNER_DELEGATE_H_
 #define BASE_TASK_THREAD_POOL_POOLED_TASK_RUNNER_DELEGATE_H_
 

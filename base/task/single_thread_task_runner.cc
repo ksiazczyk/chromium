@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleThreadTaskRunner implementation
+// summary: Implements SingleThreadTaskRunner default-handle management, including current and main-thread default task runner lookup and scoped overrides.
+// ---
+
 #include "base/task/single_thread_task_runner.h"
 
 #include <memory>

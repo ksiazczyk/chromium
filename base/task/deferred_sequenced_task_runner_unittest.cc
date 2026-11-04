@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeferredSequencedTaskRunner unit tests
+// summary: Unit tests covering DeferredSequencedTaskRunner behavior before and after Start, including deferred starts, multiple tasks, and multiple threads.
+// ---
+
 #include "base/task/deferred_sequenced_task_runner.h"
 
 #include "base/functional/bind.h"

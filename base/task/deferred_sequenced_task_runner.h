@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeferredSequencedTaskRunner class declaration
+// summary: Declares DeferredSequencedTaskRunner, a SequencedTaskRunner that queues all requests until Start() or StartWithTaskRunner() flushes them to a target runner.
+// ---
+
 #ifndef BASE_TASK_DEFERRED_SEQUENCED_TASK_RUNNER_H_
 #define BASE_TASK_DEFERRED_SEQUENCED_TASK_RUNNER_H_
 

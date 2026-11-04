@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerThreadSet ordered set header
+// summary: Declares a non-owning ordered set of WorkerThreads with insert, take, peek, contains, and remove operations, treating the front worker as in-use; not thread-safe.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_WORKER_THREAD_SET_H_
 #define BASE_TASK_THREAD_POOL_WORKER_THREAD_SET_H_
 

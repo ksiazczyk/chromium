@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DelayedTaskHandle
+// summary: Unit tests covering DelayedTaskHandle construction, validity, cancellation, and delegate invalidation behavior using a test delegate.
+// ---
+
 #include "base/task/delayed_task_handle.h"
 
 #include "base/memory/raw_ptr.h"

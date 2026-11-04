@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock time domain implementation
+// summary: Implements MockTimeDomain, a TimeDomain with a manually set mock clock that never fast-forwards to wake-ups.
+// ---
+
 #include "base/task/sequence_manager/test/mock_time_domain.h"
 
 #include <optional>

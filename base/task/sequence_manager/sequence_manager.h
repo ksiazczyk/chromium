@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequenceManager public interface
+// summary: Declares the SequenceManager interface that multiplexes multiple task queues into a single backing sequence, with settings and priority configuration.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_SEQUENCE_MANAGER_H_
 #define BASE_TASK_SEQUENCE_MANAGER_SEQUENCE_MANAGER_H_
 

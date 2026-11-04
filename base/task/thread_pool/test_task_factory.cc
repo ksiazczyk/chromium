@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestTaskFactory implementation
+// summary: Implements TestTaskFactory, which posts tasks to a task runner and verifies execution order, thread affinity, and default task runner handles.
+// ---
+
 #include "base/task/thread_pool/test_task_factory.h"
 
 #include "base/check_op.h"

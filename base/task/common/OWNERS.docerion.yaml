@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for common task code
+summary: Delegates ownership of the common task directory to the sequence manager and thread pool OWNERS files.

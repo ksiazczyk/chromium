@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskAnnotator unit tests
+// summary: Unit tests for TaskAnnotator covering task queueing and running, backtrace integration across threads, IPC hash handling and quarantine purge behavior.
+// ---
+
 #include "base/task/common/task_annotator.h"
 
 #include <stdint.h>

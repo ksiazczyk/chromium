@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PooledSingleThreadTaskRunnerManager class declaration
+// summary: Declares the manager that creates and starts threads backing SingleThreadTaskRunners, with shared or dedicated thread modes and COM STA runners on Windows.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_POOLED_SINGLE_THREAD_TASK_RUNNER_MANAGER_H_
 #define BASE_TASK_THREAD_POOL_POOLED_SINGLE_THREAD_TASK_RUNNER_MANAGER_H_
 

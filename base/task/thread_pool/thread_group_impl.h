@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadGroupImpl class declaration
+// summary: Declares ThreadGroupImpl, a thread-safe group of worker threads that run tasks only after Start is called, with testing hooks and profiler support.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_THREAD_GROUP_IMPL_H_
 #define BASE_TASK_THREAD_POOL_THREAD_GROUP_IMPL_H_
 

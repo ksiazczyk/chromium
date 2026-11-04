@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedTaskHandle implementation
+// summary: Implements DelayedTaskHandle, a move-only handle whose delegate cancels a pending delayed task and reports validity.
+// ---
+
 #include "base/task/delayed_task_handle.h"
 
 #include <utility>

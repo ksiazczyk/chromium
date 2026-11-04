@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WorkerThreadSet unit tests
+// summary: Unit tests verifying that WorkerThreadSet insert, take, peek, and remove behave in FIFO order with correct size and emptiness tracking, using mock worker delegates.
+// ---
+
 #include "base/task/thread_pool/worker_thread_set.h"
 
 #include "base/check_op.h"

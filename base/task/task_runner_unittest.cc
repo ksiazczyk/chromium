@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskRunner unit tests
+// summary: Unit tests for TaskRunner's PostTaskAndReplyWithResult behavior, covering callback types, implicit conversion, and result ownership.
+// ---
+
 #include "base/task/task_runner.h"
 
 #include <memory>

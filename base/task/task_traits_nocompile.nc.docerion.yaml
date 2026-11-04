@@ -1,0 +1,4 @@
+# Docerion header of task_traits_nocompile.nc.
+type: test
+title: No-compile tests for TaskTraits usage
+summary: A no-compile test suite asserting that invalid TaskTraits combinations, such as duplicate traits of the same type, fail to compile.

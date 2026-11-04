@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateableSequencedTaskRunner interface
+// summary: Declares a sequenced task runner whose posted tasks' priorities can be changed at runtime via UpdatePriority.
+// ---
+
 #ifndef BASE_TASK_UPDATEABLE_SEQUENCED_TASK_RUNNER_H_
 #define BASE_TASK_UPDATEABLE_SEQUENCED_TASK_RUNNER_H_
 

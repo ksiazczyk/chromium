@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriorityQueue unit tests
+// summary: Unit tests verifying push, peek, pop, removal, and sort key update behavior of the thread pool priority queue across task priorities.
+// ---
+
 #include "base/task/thread_pool/priority_queue.h"
 
 #include <memory>

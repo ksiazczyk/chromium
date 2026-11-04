@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CurrentThread class declaration
+// summary: Declares CurrentThread, CurrentUIThread and CurrentIOThread proxy classes giving static access to task APIs on threads with a registered sequence manager.
+// ---
+
 #ifndef BASE_TASK_CURRENT_THREAD_H_
 #define BASE_TASK_CURRENT_THREAD_H_
 

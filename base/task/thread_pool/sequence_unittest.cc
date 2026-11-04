@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the thread pool Sequence class
+// summary: Unit tests covering pushing, taking, and removing tasks from a Sequence, verifying ordering of immediate and delayed tasks and re-enqueue behavior.
+// ---
+
 #include "base/task/thread_pool/sequence.h"
 
 #include <optional>

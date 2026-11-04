@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskQueueImpl implementation
+// summary: Implements the internal task queue with immediate and delayed work queues, wake-up scheduling, tracing and metrics.
+// ---
+
 #include "base/task/sequence_manager/task_queue_impl.h"
 
 #include <inttypes.h>

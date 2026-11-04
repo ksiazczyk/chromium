@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleThreadTaskRunnerThreadMode enum
+// summary: Defines an enum choosing whether a SingleThreadTaskRunner shares its thread with others or gets a dedicated thread torn down with the runner.
+// ---
+
 #ifndef BASE_TASK_SINGLE_THREAD_TASK_RUNNER_THREAD_MODE_H_
 #define BASE_TASK_SINGLE_THREAD_TASK_RUNNER_THREAD_MODE_H_
 

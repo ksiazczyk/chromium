@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WorkDeduplicator unit tests
+// summary: Unit tests covering WorkDeduplicator thread binding, work requests, and cross-thread deduplication behavior during the phases of a DoWork.
+// ---
+
 #include "base/task/sequence_manager/work_deduplicator.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

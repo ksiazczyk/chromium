@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadControllerWithMessagePumpImpl class declaration
+// summary: Declares the interface between the SequenceManager and the MessagePump, combining the ThreadController, MessagePump::Delegate, and RunLoop delegate roles.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_THREAD_CONTROLLER_WITH_MESSAGE_PUMP_IMPL_H_
 #define BASE_TASK_SEQUENCE_MANAGER_THREAD_CONTROLLER_WITH_MESSAGE_PUMP_IMPL_H_
 

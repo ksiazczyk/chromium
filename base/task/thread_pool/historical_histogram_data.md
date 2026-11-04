@@ -1,3 +1,9 @@
+---
+type: note
+title: Historical Histogram Data
+summary: Points to an external document containing data from deprecated thread pool histograms.
+---
+
 # Historical Histogram Data
 
 Data from deprecated histograms is available in this

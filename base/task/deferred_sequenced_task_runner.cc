@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeferredSequencedTaskRunner implementation
+// summary: Implements a sequenced task runner that queues posted tasks until Start() is called, then flushes them to the target task runner.
+// ---
+
 #include "base/task/deferred_sequenced_task_runner.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fence task blocking primitive
+// summary: Declares Fence, which blocks execution of tasks whose TaskOrder is at or after the fence's TaskOrder, including the special blocking fence.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_FENCE_H_
 #define BASE_TASK_SEQUENCE_MANAGER_FENCE_H_
 

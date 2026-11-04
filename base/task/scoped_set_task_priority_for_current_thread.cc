@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of ScopedSetTaskPriorityForCurrentThread
+// summary: Implements the thread-local task priority override and its getter, including an MSAN workaround for thread-local storage.
+// ---
+
 #include "base/task/scoped_set_task_priority_for_current_thread.h"
 
 #include "base/compiler_specific.h"

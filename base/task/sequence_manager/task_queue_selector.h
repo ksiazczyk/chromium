@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskQueueSelector class declaration
+// summary: Declares TaskQueueSelector, which prioritizes task queues and selects the work queue for the next task, with observer callbacks and tracing state.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_TASK_QUEUE_SELECTOR_H_
 #define BASE_TASK_SEQUENCE_MANAGER_TASK_QUEUE_SELECTOR_H_
 

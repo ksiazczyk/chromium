@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delayed priority queue implementation
+// summary: Implements DelayedPriorityQueue, an intrusive heap of task sources not yet ready to run, ordered by their delayed sort key.
+// ---
+
 #include "base/task/thread_pool/delayed_priority_queue.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rust unit tests for SequencedTaskRunner and ScopedRefPtr
+// summary: Rust gtest tests exercising ScopedRefPtr ref-counting lifetimes and sequenced task posting through the SequencedTaskRunner handle.
+// ---
+
 chromium::import! {
     "//base:scoped_refptr";
     "//base:sequenced_task_runner";

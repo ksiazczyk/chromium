@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pooled parallel task runner implementation
+// summary: Implements posting delayed tasks in parallel by wrapping each task in a one-off single-task sequence handled by the pooled task runner delegate.
+// ---
+
 #include "base/task/thread_pool/pooled_parallel_task_runner.h"
 
 #include "base/task/thread_pool/pooled_task_runner_delegate.h"

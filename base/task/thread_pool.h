@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadPool interface for posting tasks to the thread pool
+// summary: Declares the static API for posting tasks and creating task runners with TaskTraits, including usage examples and prerequisites in comments.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_H_
 #define BASE_TASK_THREAD_POOL_H_
 
