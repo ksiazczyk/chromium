@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordEditDialogProperties
+// summary: Defines the PropertyModel property keys for the password edit dialog custom view, including username, password, callbacks, footer, and error state.
+// ---
+
 package org.chromium.chrome.browser.password_edit_dialog;
 
 import org.chromium.base.Callback;

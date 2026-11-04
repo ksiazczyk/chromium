@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebAuthn credentials delegate factory implementation
+// summary: Implements a per-WebContents factory that creates and tracks ChromeWebAuthnCredentialsDelegate instances per render frame and clears them on frame deletion or navigation.
+// ---
+
 #include "chrome/browser/password_manager/chrome_webauthn_credentials_delegate_factory.h"
 
 #include <memory>

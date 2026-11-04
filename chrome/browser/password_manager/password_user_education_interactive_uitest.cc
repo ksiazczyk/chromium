@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password save promo interactive UI test
+// summary: Interactive browser test verifying that the password save priming feature promo is triggered on a login page.
+// ---
+
 #include "chrome/browser/ui/ui_features.h"
 #include "chrome/test/user_education/interactive_feature_promo_test.h"
 #include "components/feature_engagement/public/feature_constants.h"

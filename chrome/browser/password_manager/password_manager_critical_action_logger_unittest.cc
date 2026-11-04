@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager critical action logger unit tests
+// summary: Unit tests for the password manager critical action logger, using a mocked critical action service and fake actor services.
+// ---
+
 #include "chrome/browser/password_manager/password_manager_critical_action_logger.h"
 
 #include <memory>

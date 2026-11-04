@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome actor login delegate client header
+// summary: Declares the Chrome-specific ActorLoginDelegateClient that observes web contents and exposes browser services for actor login flows.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ACTOR_LOGIN_CHROME_ACTOR_LOGIN_DELEGATE_CLIENT_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ACTOR_LOGIN_CHROME_ACTOR_LOGIN_DELEGATE_CLIENT_H_
 

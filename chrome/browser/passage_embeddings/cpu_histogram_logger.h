@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU histogram logger header
+// summary: Declares the logger that measures and reports CPU usage of the passage embeddings service process.
+// ---
+
 #ifndef CHROME_BROWSER_PASSAGE_EMBEDDINGS_CPU_HISTOGRAM_LOGGER_H_
 #define CHROME_BROWSER_PASSAGE_EMBEDDINGS_CPU_HISTOGRAM_LOGGER_H_
 

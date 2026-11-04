@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartnerBrowserCustomizations
+// summary: Reads and caches partner browser customization information, including homepage URL and incognito or bookmark editing restrictions.
+// ---
+
 package org.chromium.chrome.browser.partnercustomizations;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartnerBookmarksReaderTest
+// summary: Robolectric and Mockito unit tests covering PartnerBookmarksReader initialization, partner customizations async setup, and disabling of partner bookmark editing.
+// ---
+
 package org.chromium.chrome.browser.partnerbookmarks;
 
 import android.content.Context;

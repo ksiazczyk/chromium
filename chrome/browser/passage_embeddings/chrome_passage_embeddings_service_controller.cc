@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome passage embeddings service controller implementation
+// summary: Returns the Chrome-level PassageEmbeddingsServiceController singleton backed by the service launcher.
+// ---
+
 #include "chrome/browser/passage_embeddings/chrome_passage_embeddings_service_controller.h"
 
 #include "base/no_destructor.h"

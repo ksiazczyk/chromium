@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-profile credentials filter implementation
+// summary: Implements a sync credentials filter that suppresses the password save bubble on Gaia sign-in pages when signin interception or a multi-profile promo is in progress.
+// ---
+
 #include "chrome/browser/password_manager/multi_profile_credentials_filter.h"
 
 #include <optional>

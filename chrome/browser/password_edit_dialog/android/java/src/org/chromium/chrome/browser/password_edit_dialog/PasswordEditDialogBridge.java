@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordEditDialogBridge
+// summary: Java side of the JNI bridge connecting native password manager code with the Java password edit dialog UI and forwarding dialog results.
+// ---
+
 package org.chromium.chrome.browser.password_edit_dialog;
 
 import org.jni_zero.CalledByNative;

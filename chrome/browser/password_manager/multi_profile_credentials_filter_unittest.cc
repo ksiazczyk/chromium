@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-profile credentials filter unit tests
+// summary: Unit tests verifying when the multi-profile credentials filter suppresses or allows saving passwords during signin interception scenarios.
+// ---
+
 #include "chrome/browser/password_manager/multi_profile_credentials_filter.h"
 
 #include <string>

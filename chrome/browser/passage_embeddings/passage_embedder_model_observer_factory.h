@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embedder model observer factory header
+// summary: Declares the profile-keyed factory that provides PassageEmbedderModelObserver instances.
+// ---
+
 #ifndef CHROME_BROWSER_PASSAGE_EMBEDDINGS_PASSAGE_EMBEDDER_MODEL_OBSERVER_FACTORY_H_
 #define CHROME_BROWSER_PASSAGE_EMBEDDINGS_PASSAGE_EMBEDDER_MODEL_OBSERVER_FACTORY_H_
 

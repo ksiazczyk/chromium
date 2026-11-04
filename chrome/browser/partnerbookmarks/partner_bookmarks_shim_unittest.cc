@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Partner bookmarks shim unit tests
+// summary: Unit tests covering node lookup, observer notifications, reachability and rename or remove behavior of PartnerBookmarksShim.
+// ---
+
 #include "chrome/browser/partnerbookmarks/partner_bookmarks_shim.h"
 
 #include <stdint.h>

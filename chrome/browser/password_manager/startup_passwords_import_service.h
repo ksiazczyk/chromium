@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupPasswordsImportService KeyedService header
+// summary: Declares a per-profile KeyedService that owns a StartupPasswordsImporter for startup password import.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_STARTUP_PASSWORDS_IMPORT_SERVICE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_STARTUP_PASSWORDS_IMPORT_SERVICE_H_
 

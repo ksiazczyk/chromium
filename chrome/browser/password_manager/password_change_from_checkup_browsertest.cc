@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password change from checkup browser tests
+// summary: Browser tests for starting automated password changes from password checkup, exercising actor, Glic and optimization guide integration with stored credentials.
+// ---
+
 #include <memory>
 #include <string>
 

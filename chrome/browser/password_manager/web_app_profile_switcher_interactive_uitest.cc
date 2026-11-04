@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppProfileSwitcher interactive browser tests
+// summary: Interactive browser tests covering web app profile switching, required installation, and related histogram metrics.
+// ---
+
 #include "chrome/browser/password_manager/web_app_profile_switcher.h"
 
 #include "ash/constants/web_app_id_constants.h"

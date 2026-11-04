@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartnerBookmarksProviderIterator
+// summary: Imports bookmarks from the Android partner bookmarks content provider by querying its private API and iterating over the resulting cursor.
+// ---
+
 package org.chromium.chrome.browser.partnerbookmarks;
 
 import android.database.Cursor;

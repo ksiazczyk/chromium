@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ActorLoginFederatedCredentialsFetcher
+// summary: Tests federated credential fetching using mocked identity credential sources, permission services, and quality loggers.
+// ---
+
 #include "chrome/browser/password_manager/actor_login/internal/actor_login_federated_credentials_fetcher.h"
 
 #include <vector>

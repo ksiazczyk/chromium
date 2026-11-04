@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embedder model observer factory implementation
+// summary: Builds the per-profile PassageEmbedderModelObserver service subject to feature, platform, and device checks.
+// ---
+
 #include "chrome/browser/passage_embeddings/passage_embedder_model_observer_factory.h"
 
 #include <algorithm>

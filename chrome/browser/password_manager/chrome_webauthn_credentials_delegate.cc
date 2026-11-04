@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebAuthn credentials delegate implementation
+// summary: Implements the Chrome-level WebAuthn credentials delegate that exposes passkeys as autofill suggestions and handles passkey selection plus security key or hybrid flows.
+// ---
+
 #include "chrome/browser/password_manager/chrome_webauthn_credentials_delegate.h"
 
 #include <optional>

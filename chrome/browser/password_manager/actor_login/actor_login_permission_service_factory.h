@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login permission service factory header
+// summary: Declares the singleton factory that associates ActorLoginPermissionService instances with browser profiles.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ACTOR_LOGIN_ACTOR_LOGIN_PERMISSION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ACTOR_LOGIN_ACTOR_LOGIN_PERMISSION_SERVICE_FACTORY_H_
 

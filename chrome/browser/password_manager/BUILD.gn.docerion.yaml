@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password manager build configuration
+summary: GN build file defining the password_manager source set, its public headers, dependencies and platform-specific sources for Windows, Mac and Android.

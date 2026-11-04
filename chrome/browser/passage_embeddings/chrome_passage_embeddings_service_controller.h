@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome passage embeddings service controller header
+// summary: Declares the accessor for the Chrome passage embeddings service controller singleton.
+// ---
+
 #ifndef CHROME_BROWSER_PASSAGE_EMBEDDINGS_CHROME_PASSAGE_EMBEDDINGS_SERVICE_CONTROLLER_H_
 #define CHROME_BROWSER_PASSAGE_EMBEDDINGS_CHROME_PASSAGE_EMBEDDINGS_SERVICE_CONTROLLER_H_
 

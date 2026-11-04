@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager critical action logger
+// summary: Logs Google Password Manager and federated login critical actions through CriticalActionService while tracking navigation state for actor tasks.
+// ---
+
 #include "chrome/browser/password_manager/password_manager_critical_action_logger.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager test utilities implementation
+// summary: Provides functions to create and retrieve test password stores for profile and account storage in tests.
+// ---
+
 #include "chrome/browser/password_manager/password_manager_test_util.h"
 
 #include "chrome/browser/password_manager/factories/account_password_store_factory.h"

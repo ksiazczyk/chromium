@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordEditDialogCoordinator
+// summary: Coordinator that builds and shows the password edit dialog, wiring the view, mediator, and a delegate that receives dialog interaction results.
+// ---
+
 package org.chromium.chrome.browser.password_edit_dialog;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

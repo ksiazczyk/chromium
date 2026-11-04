@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordEditDialogRenderTest
+// summary: Instrumented render tests that screenshot the password edit dialog content view in default and night mode and compare against gold images.
+// ---
+
 package org.chromium.chrome.browser.password_edit_dialog;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

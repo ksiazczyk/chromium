@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome WebAuthn credentials delegate unit tests
+// summary: Unit tests for ChromeWebAuthnCredentialsDelegate covering passkey retrieval, selection, QR and hybrid flows, and platform-specific behavior.
+// ---
+
 #include "chrome/browser/password_manager/chrome_webauthn_credentials_delegate.h"
 
 #include <cstdint>

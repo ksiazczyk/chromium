@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartnerBookmarksFaviconThrottle
+// summary: Throttles repeated favicon fetch attempts by storing failed fetch timestamps in SharedPreferences and expiring them after thirty days.
+// ---
+
 package org.chromium.chrome.browser.partnerbookmarks;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

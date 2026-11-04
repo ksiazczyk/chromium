@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebAuthn credentials delegate header
+// summary: Declares ChromeWebAuthnCredentialsDelegate, the Chrome implementation of WebAuthnCredentialsDelegate for passkey autofill, selection, and availability reporting.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_CHROME_WEBAUTHN_CREDENTIALS_DELEGATE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_CHROME_WEBAUTHN_CREDENTIALS_DELEGATE_H_
 

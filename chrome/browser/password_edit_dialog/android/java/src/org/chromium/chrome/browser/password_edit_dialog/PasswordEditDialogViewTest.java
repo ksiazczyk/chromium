@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordEditDialogViewTest
+// summary: Robolectric view tests verifying that dialog properties propagate correctly to the username, password, footer, and error UI elements.
+// ---
+
 package org.chromium.chrome.browser.password_edit_dialog;
 
 import static org.junit.Assert.assertEquals;

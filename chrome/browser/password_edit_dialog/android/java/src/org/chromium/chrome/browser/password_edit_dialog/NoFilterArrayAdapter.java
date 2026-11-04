@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoFilterArrayAdapter
+// summary: ArrayAdapter subclass for AutoCompleteTextView that returns all items regardless of user-typed text, effectively disabling filtering.
+// ---
+
 package org.chromium.chrome.browser.password_edit_dialog;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager browser test base implementation
+// summary: Implements the browser test base class and BubbleObserver used to control and inspect password UI in tests.
+// ---
+
 #include "chrome/browser/password_manager/password_manager_test_base.h"
 
 #include <map>

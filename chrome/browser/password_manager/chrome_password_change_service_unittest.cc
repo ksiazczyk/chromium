@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome password change service unit tests
+// summary: Unit tests covering password change availability conditions such as generation, saving, policy restrictions, throttling and password field visibility.
+// ---
+
 #include "chrome/browser/password_manager/chrome_password_change_service.h"
 
 #include <utility>

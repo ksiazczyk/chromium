@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorLoginSiwgController class declaration
+// summary: Declares the controller that manages the Sign-in with Google federated login flow, including button detection and click handling.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ACTOR_LOGIN_INTERNAL_ACTOR_LOGIN_SIWG_CONTROLLER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ACTOR_LOGIN_INTERNAL_ACTOR_LOGIN_SIWG_CONTROLLER_H_
 

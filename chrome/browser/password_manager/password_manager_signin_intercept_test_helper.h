@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager signin intercept test helper header
+// summary: Declares shared helpers for password manager browser tests related to signin interception.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_MANAGER_SIGNIN_INTERCEPT_TEST_HELPER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_MANAGER_SIGNIN_INTERCEPT_TEST_HELPER_H_
 

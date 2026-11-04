@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup passwords import service
+// summary: Profile-keyed service that creates and starts the startup passwords importer when the profile is created.
+// ---
+
 #include "chrome/browser/password_manager/startup_passwords_import_service.h"
 
 #include "base/logging.h"

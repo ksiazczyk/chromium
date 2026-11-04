@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartnerCustomizationsTestUtils
+// summary: JUnit test utilities providing a configurable HomepageCharacterizationHelper stub for partner customization tests.
+// ---
+
 package org.chromium.chrome.browser.partnercustomizations;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalNativeNtpUrl;

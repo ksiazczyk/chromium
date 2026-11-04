@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartnerCustomizationsUma
+// summary: Centralizes UMA metrics and diagnostic logging for partner customizations and homepage loading during async initialization.
+// ---
+
 package org.chromium.chrome.browser.partnercustomizations;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

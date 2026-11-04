@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Partnerbookmarks bug tracking metadata
+summary: Directory metadata mapping partner bookmarks issues to the UI>Browser>Bookmarks Monorail component and a Buganizer component.

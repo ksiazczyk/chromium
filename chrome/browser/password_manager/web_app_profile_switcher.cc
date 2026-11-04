@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppProfileSwitcher implementation
+// summary: Implements opening or installing the password manager web app for another profile and records shortcut metrics.
+// ---
+
 #include "chrome/browser/password_manager/web_app_profile_switcher.h"
 
 #include <memory>

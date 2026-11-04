@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embeddings service launcher header
+// summary: Declares the Chrome launcher that manages the service process lifetime, state, and CPU histogram logger.
+// ---
+
 #ifndef CHROME_BROWSER_PASSAGE_EMBEDDINGS_CHROME_PASSAGE_EMBEDDINGS_SERVICE_LAUNCHER_H_
 #define CHROME_BROWSER_PASSAGE_EMBEDDINGS_CHROME_PASSAGE_EMBEDDINGS_SERVICE_LAUNCHER_H_
 

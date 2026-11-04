@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Password manager include rules
+summary: DEPS file listing allowed include directories for this folder, with a special rule permitting device/fido in WebAuthn credentials delegate files.

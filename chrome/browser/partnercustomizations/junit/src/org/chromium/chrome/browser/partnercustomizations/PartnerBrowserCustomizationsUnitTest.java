@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Partner browser customizations unit tests
+// summary: Unit tests for PartnerBrowserCustomizations, covering homepage refresh behavior and how it is stored in preferences.
+// ---
+
 package org.chromium.chrome.browser.partnercustomizations;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalNtpUrl;

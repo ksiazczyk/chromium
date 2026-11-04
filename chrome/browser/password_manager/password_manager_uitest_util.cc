@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager UI test utilities
+// summary: Implements test helpers that observe password generation popups and autofill suggestion popups and wait for their state changes in UI tests.
+// ---
+
 #include "chrome/browser/password_manager/password_manager_uitest_util.h"
 
 #include "chrome/browser/ui/autofill/chrome_autofill_client.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login permission cleaning service factory header
+// summary: Declares the singleton factory that owns ActorLoginPermissionCleaningService instances and associates them with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ACTOR_LOGIN_ACTOR_LOGIN_PERMISSION_CLEANING_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ACTOR_LOGIN_ACTOR_LOGIN_PERMISSION_CLEANING_SERVICE_FACTORY_H_
 

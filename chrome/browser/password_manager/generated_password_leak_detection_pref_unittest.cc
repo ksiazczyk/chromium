@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated password leak detection preference unit tests
+// summary: Unit tests verifying that the generated leak detection preference notifies observers when sign-in, sync, or underlying source preferences change.
+// ---
+
 #include "chrome/browser/password_manager/generated_password_leak_detection_pref.h"
 
 #include "base/memory/raw_ptr.h"

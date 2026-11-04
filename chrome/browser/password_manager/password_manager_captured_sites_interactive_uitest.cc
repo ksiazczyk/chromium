@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager captured sites interactive tests
+// summary: Interactive tests that replay captured site scenarios, including automated password change recipes, against recorded site artifacts.
+// ---
+
 #include <string>
 #include <utility>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account password store factory unit tests
+// summary: Unit tests verifying that the account password store clears the stats table and records migration histograms only when the cleanup preference is set.
+// ---
+
 #include "chrome/browser/password_manager/factories/account_password_store_factory.h"
 
 #include "base/test/metrics/histogram_tester.h"

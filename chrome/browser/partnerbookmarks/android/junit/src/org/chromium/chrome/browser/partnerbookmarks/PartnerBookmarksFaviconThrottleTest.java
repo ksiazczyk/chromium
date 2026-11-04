@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartnerBookmarksFaviconThrottleTest
+// summary: Robolectric unit tests verifying that the partner bookmarks favicon throttle caches server-error failures, clears entries on success, and prunes stale URLs.
+// ---
+
 package org.chromium.chrome.browser.partnerbookmarks;
 
 import org.junit.After;

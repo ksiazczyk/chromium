@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager signin intercept test helper implementation
+// summary: Implements setup of Gaia credentials, profiles, and navigation needed for signin interception browser tests.
+// ---
+
 #include "chrome/browser/password_manager/password_manager_signin_intercept_test_helper.h"
 
 #include <optional>

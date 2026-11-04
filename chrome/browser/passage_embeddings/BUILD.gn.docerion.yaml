@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Passage embeddings build definition (BUILD.gn)
+summary: Defines the passage_embeddings source_set with its sources and Chrome browser-layer dependencies.

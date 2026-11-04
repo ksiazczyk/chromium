@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login permission service factory
+// summary: Implements the profile-keyed factory that creates the actor login permission service using the identity manager and profile URL loader factory.
+// ---
+
 #include "chrome/browser/password_manager/actor_login/actor_login_permission_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

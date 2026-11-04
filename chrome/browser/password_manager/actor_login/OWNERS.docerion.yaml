@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Actor login OWNERS file
+summary: Delegates review ownership to the shared OWNERS file of the password manager actor login component.

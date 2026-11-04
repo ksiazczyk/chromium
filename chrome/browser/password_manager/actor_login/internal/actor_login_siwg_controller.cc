@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorLoginSiwgController implementation
+// summary: Implements the Sign-in with Google federated login flow, mapping FedCM login results to logging and metrics outcomes.
+// ---
+
 #include "chrome/browser/password_manager/actor_login/internal/actor_login_siwg_controller.h"
 
 #include "base/containers/to_vector.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Partner customizations GN build targets
+summary: Defines Android library, JNI header generation, and unit test targets for the partner browser customizations feature.

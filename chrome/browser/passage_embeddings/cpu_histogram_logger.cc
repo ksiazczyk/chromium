@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU histogram logger implementation
+// summary: Samples the service process CPU usage at fixed intervals and records it to the embedder CPU usage histogram.
+// ---
+
 #include "chrome/browser/passage_embeddings/cpu_histogram_logger.h"
 
 #include <memory>

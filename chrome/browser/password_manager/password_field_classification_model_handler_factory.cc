@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password field classification model handler factory
+// summary: Browser-context keyed factory providing the autofill field classification model handler, with profile eligibility checks such as guest sessions and feature flags.
+// ---
+
 #include "chrome/browser/password_manager/password_field_classification_model_handler_factory.h"
 
 #include <memory>

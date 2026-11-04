@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base partner browser customization unit test rule
+// summary: JUnit TestRule supplying shared constants, callbacks, and context helpers for the partner customization unit tests.
+// ---
+
 package org.chromium.chrome.browser.partnercustomizations;
 
 import android.content.Context;

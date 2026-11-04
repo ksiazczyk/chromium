@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Actor login BUILD.gn build file
+summary: Defines GN source sets for the Chrome actor login delegate client, its service factories and their unit tests.
