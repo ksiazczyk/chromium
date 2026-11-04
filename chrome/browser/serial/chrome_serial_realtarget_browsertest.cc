@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial real-device browser tests
+// summary: Browser tests that exercise the serial chooser against real hardware such as micro:bit and Pixel Buds Pro over Bluetooth.
+// ---
+
 #include <memory>
 
 #include "base/strings/stringprintf.h"

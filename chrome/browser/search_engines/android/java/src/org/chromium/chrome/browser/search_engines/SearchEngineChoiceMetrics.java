@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineChoiceMetrics
+// summary: Records histograms for search engine choice events and engine types before and after choice prompts.
+// ---
+
 package org.chromium.chrome.browser.search_engines;
 
 import androidx.annotation.IntDef;

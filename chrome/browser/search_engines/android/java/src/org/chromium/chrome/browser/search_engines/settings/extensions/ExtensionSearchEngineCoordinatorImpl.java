@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSearchEngineCoordinatorImpl
+// summary: Implementation of the extension search engine coordinator that wires the model list, adapter, mediator, and property model change processor, and cleans them up on destroy.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.extensions;
 
 import android.content.Context;

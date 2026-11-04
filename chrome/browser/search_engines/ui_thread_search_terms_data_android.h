@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Android search terms data helpers
+// summary: Declares the SearchTermsDataAndroid struct with static accessors for the Android RLZ parameter value and search client name.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_ENGINES_UI_THREAD_SEARCH_TERMS_DATA_ANDROID_H_
 #define CHROME_BROWSER_SEARCH_ENGINES_UI_THREAD_SEARCH_TERMS_DATA_ANDROID_H_
 

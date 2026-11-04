@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteSearchDialogViewBinderUnitTest
+// summary: Unit tests for SiteSearchDialogViewBinder that check dialog model properties are bound to the name, keyword, and URL input views and error displays.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.dialog;
 
 import static org.junit.Assert.assertEquals;

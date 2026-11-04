@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension control handler declaration
+// summary: Declares the Android JNI handler class that disables extensions for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_ENGINES_EXTENSION_CONTROL_HANDLER_ANDROID_H_
 #define CHROME_BROWSER_SEARCH_ENGINES_EXTENSION_CONTROL_HANDLER_ANDROID_H_
 

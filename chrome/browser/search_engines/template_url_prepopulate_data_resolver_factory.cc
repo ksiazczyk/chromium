@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prepopulated data resolver service factory
+// summary: Implements the profile-keyed factory that builds the prepopulate data resolver using profile prefs and the regional capabilities service.
+// ---
+
 #include "chrome/browser/search_engines/template_url_prepopulate_data_resolver_factory.h"
 
 #include "base/check_deref.h"

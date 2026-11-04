@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selection popup back press tests
+// summary: Instrumentation tests verifying that a back press clears the selection popup and that the handler's tab observation follows tab switches.
+// ---
+
 package org.chromium.chrome.browser.selection;
 
 import androidx.test.filters.MediumTest;

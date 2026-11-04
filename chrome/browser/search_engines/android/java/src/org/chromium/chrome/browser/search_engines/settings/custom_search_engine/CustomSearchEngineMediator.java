@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomSearchEngineMediator
+// summary: Mediator that populates the custom search engine list and handles per-item menu actions for editing, making default, and deleting engines.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.custom_search_engine;
 
 import android.content.Context;

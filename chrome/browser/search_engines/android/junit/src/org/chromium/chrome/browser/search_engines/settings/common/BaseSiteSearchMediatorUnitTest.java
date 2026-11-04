@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseSiteSearchMediatorUnitTest
+// summary: Robolectric unit tests for BaseSiteSearchMediator, verifying site search list model behavior with mocked profile, template URL, and preference services.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.common;
 
 import static org.junit.Assert.assertEquals;

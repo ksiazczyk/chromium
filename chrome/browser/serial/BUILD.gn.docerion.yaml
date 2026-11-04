@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Serial browser build configuration
+summary: Defines GN source sets and dependencies for the Chrome serial browser code, including desktop and Android variants, unit tests, and real-device browser tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search integrity unit tests
+// summary: Unit tests covering search integrity reports, duplicate keyword detection, allowlist behavior, and related metrics using test profiles and search engine fixtures.
+// ---
+
 #include "chrome/browser/search_integrity/search_integrity.h"
 
 #include <memory>

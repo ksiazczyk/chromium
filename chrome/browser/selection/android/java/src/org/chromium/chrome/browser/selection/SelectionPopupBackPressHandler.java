@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection popup back press handler
+// summary: Implements the BackPressHandler that dismisses the text selection popup and tracks the active tab's selection action bar state in Chrome on Android.
+// ---
+
 package org.chromium.chrome.browser.selection;
 
 import org.chromium.base.Callback;

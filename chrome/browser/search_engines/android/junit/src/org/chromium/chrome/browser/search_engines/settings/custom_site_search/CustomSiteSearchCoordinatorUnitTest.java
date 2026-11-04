@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomSiteSearchCoordinatorUnitTest
+// summary: Robolectric unit tests for CustomSiteSearchCoordinator using mocked profile, preference, template URL, and eligibility services to exercise coordinator behavior.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.custom_site_search;
 
 import static org.mockito.ArgumentMatchers.any;

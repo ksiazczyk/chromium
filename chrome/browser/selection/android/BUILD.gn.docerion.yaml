@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android selection popup back press handling
+summary: Defines Android Java library and test targets for the selection popup back press handler, including its dependencies and instrumentation tests.

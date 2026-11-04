@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform service factory implementation
+// summary: Implements the profile-keyed factory that builds the segmentation platform service and wires input delegates, default models, and observers.
+// ---
+
 #include "chrome/browser/segmentation_platform/segmentation_platform_service_factory.h"
 
 #include <memory>

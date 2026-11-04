@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion and area-of-interest implementations
+// summary: Implements the AreaOfInterest struct and the Suggestion execution logic that binds Mojo endpoints.
+// ---
+
 #include "chrome/browser/selection/suggestion.h"
 
 namespace selection {

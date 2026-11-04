@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine allowlist implementation
+// summary: Implements the SearchEngineAllowlist singleton that parses search engine JSON into a set of normalized allowed URLs and checks membership.
+// ---
+
 #include "chrome/browser/search_integrity/search_integrity_allowlist.h"
 
 #include <optional>

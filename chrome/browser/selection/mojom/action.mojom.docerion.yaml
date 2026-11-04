@@ -1,0 +1,4 @@
+# Docerion header of action.mojom.
+type: source
+title: Selection suggestion action Mojom definitions
+summary: 'Defines the Action union describing what a surface does when a user executes a suggestion: inline fulfillment in a WebUI or handoff to another surface.'

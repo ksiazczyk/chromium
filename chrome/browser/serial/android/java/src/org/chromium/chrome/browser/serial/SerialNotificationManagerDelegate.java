@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialNotificationManagerDelegate interface
+// summary: Delegate interface for SerialNotificationManager providing intents to bring a Tab to the foreground and methods to stop the associated service.
+// ---
+
 package org.chromium.chrome.browser.serial;
 
 import android.content.Intent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEnginePromoType
+// summary: IntDef annotation enumerating the types of search engine promo dialogs, including Sogou, existing and new engine variants.
+// ---
+
 package org.chromium.chrome.browser.search_engines;
 
 import androidx.annotation.IntDef;

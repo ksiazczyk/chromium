@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Web Serial chooser implementation
+// summary: Implements WebSerialChooserAndroid by creating the Android serial chooser dialog for a frame and handling its closure.
+// ---
+
 #include "chrome/browser/serial/android/web_serial_chooser_android.h"
 
 #include "chrome/browser/ui/android/device_dialog/serial_chooser_dialog_android.h"

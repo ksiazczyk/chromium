@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for service worker registration prewarming
+// summary: Declares the function that prewarms the default search engine's service worker registration and its test call counter.
+// ---
+
 #ifndef CHROME_BROWSER_SERVICE_WORKER_SERVICE_WORKER_PREWARM_H_
 #define CHROME_BROWSER_SERVICE_WORKER_SERVICE_WORKER_PREWARM_H_
 

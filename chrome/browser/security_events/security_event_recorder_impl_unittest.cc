@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecurityEventRecorderImpl unit tests
+// summary: Unit tests that verify RecordGaiaPasswordReuse forwards a timestamped GaiaPasswordReuse event to a mocked sync bridge.
+// ---
+
 #include "chrome/browser/security_events/security_event_recorder_impl.h"
 
 #include <memory>

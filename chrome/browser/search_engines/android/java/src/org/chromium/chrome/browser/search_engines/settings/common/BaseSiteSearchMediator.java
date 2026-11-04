@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseSiteSearchMediator for site search settings
+// summary: Abstract base mediator for site search settings pages that observes TemplateUrlService, caches favicons, and builds list items for the settings UI.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.common;
 
 import android.content.Context;

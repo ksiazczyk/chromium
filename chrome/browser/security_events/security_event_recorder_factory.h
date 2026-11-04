@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityEventRecorderFactory interface
+// summary: Declares the SecurityEventRecorderFactory singleton that returns the per-profile SecurityEventRecorder service instance.
+// ---
+
 #ifndef CHROME_BROWSER_SECURITY_EVENTS_SECURITY_EVENT_RECORDER_FACTORY_H_
 #define CHROME_BROWSER_SECURITY_EVENTS_SECURITY_EVENT_RECORDER_FACTORY_H_
 

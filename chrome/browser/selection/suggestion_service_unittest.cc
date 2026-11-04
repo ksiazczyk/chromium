@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the suggestion service
+// summary: Tests tool registration, request building, and server response handling using mock executors and test tools.
+// ---
+
 #include "chrome/browser/selection/suggestion_service.h"
 
 #include <memory>

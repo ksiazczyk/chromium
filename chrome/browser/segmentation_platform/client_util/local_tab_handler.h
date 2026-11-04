@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalTabHandler and LocalTabSource declarations
+// summary: Declares LocalTabHandler, a TabFetcher for local tabs stored as user data, and LocalTabSource, a tab session data source adding local tab info.
+// ---
+
 #ifndef CHROME_BROWSER_SEGMENTATION_PLATFORM_CLIENT_UTIL_LOCAL_TAB_HANDLER_H_
 #define CHROME_BROWSER_SEGMENTATION_PLATFORM_CLIENT_UTIL_LOCAL_TAB_HANDLER_H_
 

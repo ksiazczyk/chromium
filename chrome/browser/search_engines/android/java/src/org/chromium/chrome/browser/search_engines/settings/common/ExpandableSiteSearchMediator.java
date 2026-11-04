@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpandableSiteSearchMediator with More button logic
+// summary: Abstract mediator extending the base class with expand and collapse behavior, staging URLs beyond the default row limit behind a More button.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.common;
 
 import android.content.Context;

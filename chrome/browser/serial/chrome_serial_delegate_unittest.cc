@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome serial delegate unit tests
+// summary: Unit tests verifying that serial permission requests and profile-wide grants are blocked in non-default storage partitions and guest views.
+// ---
+
 #include "chrome/browser/serial/chrome_serial_delegate.h"
 
 #include <memory>

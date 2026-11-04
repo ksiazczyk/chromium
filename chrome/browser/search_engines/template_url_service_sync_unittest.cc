@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TemplateURLService sync unit tests
+// summary: Unit tests covering how TemplateURLService syncs search engine data, including sync data creation and conflict handling.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

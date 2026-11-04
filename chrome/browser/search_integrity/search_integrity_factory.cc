@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search integrity factory implementation
+// summary: Implements the profile-keyed service factory that creates SearchIntegrity instances tied to TemplateURLService and management service dependencies.
+// ---
+
 #include "chrome/browser/search_integrity/search_integrity_factory.h"
 
 #include <memory>

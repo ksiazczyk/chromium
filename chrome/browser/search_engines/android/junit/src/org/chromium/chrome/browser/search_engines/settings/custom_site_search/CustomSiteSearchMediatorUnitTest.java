@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomSiteSearchMediatorUnitTest
+// summary: Robolectric unit tests for CustomSiteSearchMediator covering model list items, edit and remove callbacks, and starter pack expansion feature behavior.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.custom_site_search;
 
 import static org.junit.Assert.assertEquals;

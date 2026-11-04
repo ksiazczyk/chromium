@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for segmentation platform config
+// summary: Unit tests verifying config creation and parsing of experiment-provided configs, including empty, malformed and multiple config cases.
+// ---
+
 #include "chrome/browser/segmentation_platform/segmentation_platform_config.h"
 #include <memory>
 #include <vector>

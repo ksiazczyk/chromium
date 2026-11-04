@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self scroll observer browser tests
+// summary: Browser tests verifying that scroll volume metrics are recorded for tabs opened via Send Tab to Self, with and without scroll restoration.
+// ---
+
 #include "chrome/browser/send_tab_to_self/send_tab_to_self_scroll_observer.h"
 
 #include <map>

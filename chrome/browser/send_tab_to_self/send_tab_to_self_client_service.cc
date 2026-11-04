@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfClientService implementation
+// summary: Implements the keyed service that forwards Send Tab to Self model changes to the receiving UI handler.
+// ---
+
 #include "chrome/browser/send_tab_to_self/send_tab_to_self_client_service.h"
 
 #include <memory>

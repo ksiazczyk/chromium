@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self scroll observer header
+// summary: Declares a WebContentsUserData observer that tracks scroll input on Send Tab to Self tabs for scroll volume metrics.
+// ---
+
 #ifndef CHROME_BROWSER_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_SCROLL_OBSERVER_H_
 #define CHROME_BROWSER_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_SCROLL_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Chrome segmentation platform browser integration
+summary: GN build file defining native and Android Java targets, JNI generation and dependencies for the segmentation platform code in chrome/browser.

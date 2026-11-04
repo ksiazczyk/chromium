@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomSearchEngineAdapter
+// summary: RecyclerView adapter that registers the search engine item view type and binder for the custom search engine settings list.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.custom_search_engine;
 
 import android.content.Context;

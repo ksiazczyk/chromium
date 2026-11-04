@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home modules ranking helper JNI bridge
+// summary: Android JNI helper that fetches home modules ranking classification results and notifies the card registry when cards are shown or interacted with.
+// ---
+
 #include <jni.h>
 
 #include <string>

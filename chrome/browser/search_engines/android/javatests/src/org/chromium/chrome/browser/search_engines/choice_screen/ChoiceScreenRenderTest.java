@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Choice screen render tests
+// summary: Render tests for the search engine choice dialog, checking its appearance in light and night mode with Espresso and ChromeRenderTestRule.
+// ---
+
 package org.chromium.chrome.browser.search_engines.choice_screen;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSearchEngineAdapter
+// summary: RecyclerView adapter that inflates and binds site search engine list items for the extension search engine settings UI.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.extensions;
 
 import android.content.Context;

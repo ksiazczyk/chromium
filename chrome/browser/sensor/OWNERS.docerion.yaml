@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sensor directory OWNERS
+summary: Delegates ownership of this directory to the blink renderer sensor module OWNERS file.

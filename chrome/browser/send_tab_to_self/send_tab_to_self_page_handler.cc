@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfPageHandler implementation
+// summary: Implements per-tab send logic that captures page context, navigation history, and scroll position before sharing a tab to a target device.
+// ---
+
 #include "chrome/browser/send_tab_to_self/send_tab_to_self_page_handler.h"
 
 #include "base/functional/bind.h"

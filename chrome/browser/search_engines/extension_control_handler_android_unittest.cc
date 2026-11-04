@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android extension control handler
+// summary: Unit tests verifying that ExtensionControlHandler disables a test extension on Android and that the extension registry reflects the change.
+// ---
+
 #include "chrome/browser/search_engines/extension_control_handler_android.h"
 
 #include <memory>

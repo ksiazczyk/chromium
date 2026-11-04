@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM database client
+// summary: Declares the UKM database client and its holder, which own the UKM data manager and support test instance overrides.
+// ---
+
 #ifndef CHROME_BROWSER_SEGMENTATION_PLATFORM_UKM_DATABASE_CLIENT_H_
 #define CHROME_BROWSER_SEGMENTATION_PLATFORM_UKM_DATABASE_CLIENT_H_
 

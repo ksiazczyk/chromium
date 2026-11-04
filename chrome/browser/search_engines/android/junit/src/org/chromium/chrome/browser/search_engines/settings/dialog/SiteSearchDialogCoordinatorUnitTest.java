@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteSearchDialogCoordinatorUnitTest
+// summary: Robolectric unit tests for SiteSearchDialogCoordinator, verifying that add and edit dialogs are shown with correct titles, buttons, and that saving calls TemplateUrlService.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.dialog;
 
 import static org.junit.Assert.assertEquals;

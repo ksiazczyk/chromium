@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial blocklist unit tests
+// summary: Unit tests for the serial port blocklist, covering dynamic USB and Bluetooth blocklist entries and handling of invalid blocklist strings.
+// ---
+
 #include "chrome/browser/serial/serial_blocklist.h"
 
 #include <string_view>

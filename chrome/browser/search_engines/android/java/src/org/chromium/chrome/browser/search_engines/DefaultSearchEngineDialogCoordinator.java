@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultSearchEngineDialogCoordinator
+// summary: Coordinates a modal dialog that forces the user to choose a default search engine and cannot be dismissed by back press.
+// ---
+
 package org.chromium.chrome.browser.search_engines;
 
 import android.app.Activity;

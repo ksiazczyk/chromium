@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion class and area-of-interest declarations
+// summary: Declares the Suggestion interface and AreaOfInterest struct used to represent selection suggestions and their context.
+// ---
+
 #ifndef CHROME_BROWSER_SELECTION_SUGGESTION_H_
 #define CHROME_BROWSER_SELECTION_SUGGESTION_H_
 

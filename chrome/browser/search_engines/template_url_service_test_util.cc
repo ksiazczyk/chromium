@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TemplateURLService test utilities implementation
+// summary: Implements shared helpers for TemplateURLService tests, including managed and recommended default search preferences.
+// ---
+
 #include "chrome/browser/search_engines/template_url_service_test_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site search dialog coordinator
+// summary: Coordinates the add, edit, and remove site search dialogs, wiring the mediator, view binder, and template URL service together.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.dialog;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Template URL service browser tests
+// summary: Browser test checking default search provider updates when the profile reloads keyword data after the country changes, using Yahoo variants.
+// ---
+
 #include "components/search_engines/template_url_service.h"
 
 #include "chrome/browser/profiles/profile.h"

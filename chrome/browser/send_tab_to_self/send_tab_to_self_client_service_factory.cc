@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfClientServiceFactory implementation
+// summary: Builds per-profile client service instances, choosing an Android notification handler or a desktop toolbar icon controller as the receiving UI.
+// ---
+
 #include "chrome/browser/send_tab_to_self/send_tab_to_self_client_service_factory.h"
 
 #include <string>

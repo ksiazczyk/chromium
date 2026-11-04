@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome sensor delegate interface
+// summary: Declares ChromeSensorDelegate, a content::SensorDelegate implementation with overrides for sensor lifecycle notifications.
+// ---
+
 #ifndef CHROME_BROWSER_SENSOR_CHROME_SENSOR_DELEGATE_H_
 #define CHROME_BROWSER_SENSOR_CHROME_SENSOR_DELEGATE_H_
 

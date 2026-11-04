@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sensor delegate build targets
+summary: Defines the sensor source set and its unit test target, listing sources and dependencies for the Chrome sensor delegate.

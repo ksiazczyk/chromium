@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android search engines build configuration
+summary: GN build file defining the Android Java library and targets for Chrome's search engine choice, promo, and settings UI code.

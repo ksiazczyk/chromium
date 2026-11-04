@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: SerialNotificationManagerTest
+// summary: Robolectric unit tests verifying SerialNotificationManager notification behaviour and its delegate, including service stopping and bringing tabs to the front.
+// ---
+
 package org.chromium.chrome.browser.serial;
 
 import static org.junit.Assert.assertEquals;

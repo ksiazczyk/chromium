@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial chooser browser tests
+// summary: Browser tests for the Web Serial chooser, covering cross-origin navigation, permission prompts, and dynamic blocklist behavior using a fake serial port manager.
+// ---
+
 #include <string_view>
 
 #include "base/command_line.h"

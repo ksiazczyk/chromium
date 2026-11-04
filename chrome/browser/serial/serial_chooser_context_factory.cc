@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial chooser context factory implementation
+// summary: Implements the profile-keyed service factory that builds SerialChooserContext instances per browser context.
+// ---
+
 #include "chrome/browser/serial/serial_chooser_context_factory.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

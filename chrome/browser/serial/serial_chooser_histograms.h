@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial chooser histogram enums
+// summary: Defines enums for serial chooser outcomes and permission revocation reasons that are recorded in histograms.
+// ---
+
 #ifndef CHROME_BROWSER_SERIAL_SERIAL_CHOOSER_HISTOGRAMS_H_
 #define CHROME_BROWSER_SERIAL_SERIAL_CHOOSER_HISTOGRAMS_H_
 

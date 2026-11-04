@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segmentation Platform Service Factory Test
+// summary: Android instrumentation tests for the segmentation platform service factory, checking classification results with a null input context and with an on-demand model.
+// ---
+
 package org.chromium.chrome.browser.segmentation_platform;
 
 import static org.hamcrest.MatcherAssert.assertThat;

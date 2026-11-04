@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSerialChooser base class header
+// summary: Declares the WebSerialChooser base class extending content::SerialChooser, with a static Create factory and a pure virtual ShowChooser method for platform subclasses.
+// ---
+
 #ifndef CHROME_BROWSER_SERIAL_WEB_SERIAL_CHOOSER_H_
 #define CHROME_BROWSER_SERIAL_WEB_SERIAL_CHOOSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SendTabToSelfClientService unit tests
+// summary: Verifies that the client service notifies the receiving UI handler for each entry added remotely.
+// ---
+
 #include "chrome/browser/send_tab_to_self/send_tab_to_self_client_service.h"
 
 #include <memory>

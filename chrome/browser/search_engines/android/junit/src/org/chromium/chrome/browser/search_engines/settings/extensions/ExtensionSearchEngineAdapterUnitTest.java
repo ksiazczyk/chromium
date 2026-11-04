@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionSearchEngineAdapterUnitTest
+// summary: Robolectric unit tests verifying that ExtensionSearchEngineAdapter creates view holders and binds views for search engine list items.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.extensions;
 
 import static org.junit.Assert.assertNotNull;

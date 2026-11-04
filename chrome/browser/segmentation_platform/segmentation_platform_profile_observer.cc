@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform profile observer implementation
+// summary: Observes profile lifecycle changes to enable or disable segmentation platform metrics based on whether off-the-record profiles exist.
+// ---
+
 #include "chrome/browser/segmentation_platform/segmentation_platform_profile_observer.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search integrity service implementation
+// summary: Implements the SearchIntegrity service that checks installed and default search engines against an allowlist and records metrics on duplicates, obfuscated URLs, and referral params.
+// ---
+
 #include "chrome/browser/search_integrity/search_integrity.h"
 
 #include <algorithm>

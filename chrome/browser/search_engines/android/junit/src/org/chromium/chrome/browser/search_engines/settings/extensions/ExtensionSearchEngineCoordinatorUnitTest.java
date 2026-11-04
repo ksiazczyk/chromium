@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionSearchEngineCoordinatorUnitTest
+// summary: Robolectric unit tests verifying initialization and destruction of ExtensionSearchEngineCoordinatorImpl, including adapter setup and handler cleanup.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.extensions;
 
 import static org.mockito.ArgumentMatchers.any;

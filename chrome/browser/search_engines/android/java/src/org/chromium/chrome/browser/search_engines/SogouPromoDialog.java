@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SogouPromoDialog
+// summary: Promo dialog offering Sogou as the default search provider, with options to keep Google or open search engine settings.
+// ---
+
 package org.chromium.chrome.browser.search_engines;
 
 import android.app.Activity;

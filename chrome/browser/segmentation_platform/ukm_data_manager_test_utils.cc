@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM data manager test utilities implementation
+// summary: Implements helpers for testing the UKM-based engine, such as recording sample page load UKM entries and running read-only SQL queries.
+// ---
+
 #include "chrome/browser/segmentation_platform/ukm_data_manager_test_utils.h"
 
 #include "base/run_loop.h"

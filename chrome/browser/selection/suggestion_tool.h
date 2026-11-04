@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionTool interface header
+// summary: Declares the SuggestionTool interface that Chrome features implement to register as smart selection tools and create Suggestion objects from server suggestions.
+// ---
+
 #ifndef CHROME_BROWSER_SELECTION_SUGGESTION_TOOL_H_
 #define CHROME_BROWSER_SELECTION_SUGGESTION_TOOL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Selection mojom Mojo bindings build definition
+summary: GN build file that generates C++ and TypeScript Mojo bindings for action.mojom, asserting the target is not built on Android.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template URL fetcher service factory
+// summary: Implements the profile-keyed factory that provides a TemplateURLFetcher instance per Chrome profile and handles per-profile shutdown.
+// ---
+
 #include "chrome/browser/search_engines/template_url_fetcher_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

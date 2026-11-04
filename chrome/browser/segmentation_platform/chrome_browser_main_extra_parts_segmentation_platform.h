@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Chrome browser main extra parts segmentation platform
+// summary: Declares the ChromeBrowserMainExtraParts subclass with hooks for segmentation platform startup, profile init and shutdown.
+// ---
+
 #ifndef CHROME_BROWSER_SEGMENTATION_PLATFORM_CHROME_BROWSER_MAIN_EXTRA_PARTS_SEGMENTATION_PLATFORM_H_
 #define CHROME_BROWSER_SEGMENTATION_PLATFORM_CHROME_BROWSER_MAIN_EXTRA_PARTS_SEGMENTATION_PLATFORM_H_
 

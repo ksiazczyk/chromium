@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform config implementation
+// summary: Builds segmentation platform configurations from Finch feature parameters and default models, including Android-specific segments.
+// ---
+
 #include "chrome/browser/segmentation_platform/segmentation_platform_config.h"
 
 #include <memory>

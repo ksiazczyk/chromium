@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteSearchViewBinder for property model binding
+// summary: Static binder that applies site search property model changes to views, covering titles, icons, menus, expansion state, and containment styling.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.common;
 
 import android.os.Bundle;

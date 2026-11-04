@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineAdapter
+// summary: List adapter that builds the search engine list for settings, combining default, prepopulated and recently used engines with favicons and site search entry points.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

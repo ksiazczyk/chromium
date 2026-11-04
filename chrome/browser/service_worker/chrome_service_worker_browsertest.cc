@@ -5,6 +5,12 @@
 // This file tests that Service Workers (a Content feature) work in the Chromium
 // embedder.
 
+// ---docerion
+// type: test
+// title: Browser tests for service workers in the Chromium embedder
+// summary: Browser tests verifying that service workers work in the Chromium embedder, covering registration, activation, content settings, and page load metrics.
+// ---
+
 #include <optional>
 #include <string_view>
 

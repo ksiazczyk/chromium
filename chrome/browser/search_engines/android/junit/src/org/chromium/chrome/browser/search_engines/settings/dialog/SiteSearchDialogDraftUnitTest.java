@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteSearchDialogDraftUnitTest
+// summary: Unit tests for SiteSearchDialogDraft covering creation for add and edit states, input values, original keyword, and overall input validity.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.dialog;
 
 import static org.junit.Assert.assertEquals;

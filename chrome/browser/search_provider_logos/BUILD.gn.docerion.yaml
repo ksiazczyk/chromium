@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for search_provider_logos
+summary: Defines the search_provider_logos source set, listing its sources and dependencies on image fetcher, search engines, signin, and components.

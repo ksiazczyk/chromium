@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Template URL fetcher unit tests
+// summary: Unit tests for TemplateURLFetcher covering downloading OpenSearch description documents and adding the resulting search engines.
+// ---
+
 #include "components/search_engines/template_url_fetcher.h"
 
 #include <stddef.h>

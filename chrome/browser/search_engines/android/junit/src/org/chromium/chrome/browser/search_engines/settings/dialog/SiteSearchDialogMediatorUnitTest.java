@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteSearchDialogMediatorUnitTest
+// summary: Unit tests for SiteSearchDialogMediator covering add and edit mode initialization, positive button state, and input validation with error messages.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.dialog;
 
 import static org.junit.Assert.assertEquals;

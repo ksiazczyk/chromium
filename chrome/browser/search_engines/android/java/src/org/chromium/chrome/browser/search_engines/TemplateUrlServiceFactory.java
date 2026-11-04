@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateUrlServiceFactory
+// summary: Factory that provides the profile-specific TemplateUrlService singleton on Android, linking the native service via JNI and supporting a test instance override.
+// ---
+
 package org.chromium.chrome.browser.search_engines;
 
 import org.jni_zero.JniType;

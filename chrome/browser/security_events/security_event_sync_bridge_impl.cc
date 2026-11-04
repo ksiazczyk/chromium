@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security Event Sync Bridge Implementation
+// summary: Implements the security events sync bridge, storing SecurityEventSpecifics in a data type store with big-endian time-based keys and forwarding changes to the sync processor.
+// ---
+
 #include "chrome/browser/security_events/security_event_sync_bridge_impl.h"
 
 #include <array>

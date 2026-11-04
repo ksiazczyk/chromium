@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site search dialog view binder
+// summary: Binds the site search dialog property model to its views, setting input text, error messages, and text change listeners.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.dialog;
 
 import android.text.Editable;

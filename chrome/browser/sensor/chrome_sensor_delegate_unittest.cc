@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome sensor delegate unit tests
+// summary: Tests ChromeSensorDelegate with and without page-specific content settings, verifying no crashes and correct sensor state updates.
+// ---
+
 #include "chrome/browser/sensor/chrome_sensor_delegate.h"
 
 #include "chrome/browser/content_settings/page_specific_content_settings_delegate.h"

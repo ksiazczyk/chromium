@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual page action controller JNI bridge
+// summary: Android JNI implementation that queries the segmentation platform for a contextual page action classification and maps action labels to adaptive toolbar button variants.
+// ---
+
 #include "base/android/callback_android.h"
 #include "base/android/jni_string.h"
 #include "base/android/scoped_java_ref.h"

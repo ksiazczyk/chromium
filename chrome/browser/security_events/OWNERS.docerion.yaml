@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for security events reviews
+summary: Lists reviewers for Safebrowsing and Chrome Sync changes and delegates sync file reviews to the components/sync owners.

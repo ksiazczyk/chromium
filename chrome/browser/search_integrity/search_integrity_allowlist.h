@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine allowlist header
+// summary: Declares the SearchEngineAllowlist singleton for parsing, normalizing, and checking search engine URLs against the allowlist.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_INTEGRITY_SEARCH_INTEGRITY_ALLOWLIST_H_
 #define CHROME_BROWSER_SEARCH_INTEGRITY_SEARCH_INTEGRITY_ALLOWLIST_H_
 

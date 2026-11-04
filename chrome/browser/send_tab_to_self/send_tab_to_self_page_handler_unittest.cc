@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self page handler unit tests
+// summary: Unit tests for the Send Tab to Self page handler, covering navigation history restoration, text fragment selection and related metrics.
+// ---
+
 #include "chrome/browser/send_tab_to_self/send_tab_to_self_page_handler.h"
 
 #include <iterator>

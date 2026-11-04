@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AiModeButtonServiceFactory implementation
+// summary: Implements the per-profile keyed service factory that creates AiModeButtonService instances backed by the profile's TemplateURLService.
+// ---
+
 #include "chrome/browser/search_engines/ai_mode_button_service_factory.h"
 
 #include <memory>

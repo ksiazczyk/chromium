@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating review to components/search_engines
+summary: Delegates code ownership and review approval for this directory to the OWNERS file of components/search_engines.

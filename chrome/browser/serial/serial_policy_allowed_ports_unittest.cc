@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial policy allowed ports unit tests
+// summary: Unit tests for SerialPolicyAllowedPorts verifying policy loading from preferences and port permission checks for USB devices and origins.
+// ---
+
 #include "chrome/browser/serial/serial_policy_allowed_ports.h"
 
 #include "base/test/values_test_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome sensor delegate implementation
+// summary: Implements the Chrome sensor delegate, forwarding sensor availability, start, stop, and blocked events to page-specific content settings.
+// ---
+
 #include "chrome/browser/sensor/chrome_sensor_delegate.h"
 
 #include "base/feature_list.h"

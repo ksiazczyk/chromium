@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eligibility checks for synthetic service worker responses
+// summary: Implements IsServiceWorkerSyntheticResponseAllowed, restricting synthetic responses to the default search provider's origin and excluding system and prewarm pages.
+// ---
+
 #include "chrome/browser/service_worker/service_worker_synthetic_response.h"
 
 #include "base/check.h"

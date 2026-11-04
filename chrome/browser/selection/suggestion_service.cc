@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion service implementation
+// summary: Builds smart selection requests, sends them to the Model Execution Service, and converts responses into suggestions via registered tools.
+// ---
+
 #include "chrome/browser/selection/suggestion_service.h"
 
 #include <algorithm>

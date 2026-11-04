@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Security events build targets (BUILD.gn)
+summary: Defines the GN source_set targets for the security event recorder sources and its unit tests, including dependencies and a circular include allowance with chrome/browser/sync.

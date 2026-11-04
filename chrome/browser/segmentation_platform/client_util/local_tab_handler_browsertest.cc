@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local tab handler browser tests
+// summary: In-process browser tests verifying LocalTabHandler tab fetching and LocalTabSource local tab info using a mocked session sync service.
+// ---
+
 #include "chrome/browser/segmentation_platform/client_util/local_tab_handler.h"
 
 #include <memory>

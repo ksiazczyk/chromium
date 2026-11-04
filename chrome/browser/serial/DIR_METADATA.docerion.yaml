@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Serial directory metadata
+summary: Points the directory metadata for the serial folder to the shared metadata in content/browser/serial.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self browser utility implementation
+// summary: Implements browser-side helpers for entry point display decisions, form field extraction and filling, and scroll position text fragments.
+// ---
+
 #include "chrome/browser/send_tab_to_self/send_tab_to_self_util.h"
 
 #include <iterator>

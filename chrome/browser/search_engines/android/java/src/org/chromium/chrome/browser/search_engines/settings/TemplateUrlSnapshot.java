@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateUrlSnapshot
+// summary: Immutable snapshot of a TemplateUrl's properties kept on the Java heap to avoid unsafe JNI access to potentially stale native objects.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings;
 
 import android.graphics.Bitmap;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSerialChooser factory implementation
+// summary: Implements the WebSerialChooser::Create factory that instantiates the Android or desktop chooser implementation and shows the serial device chooser for a frame.
+// ---
+
 #include "chrome/browser/serial/web_serial_chooser.h"
 
 #include "chrome/browser/ui/serial/serial_chooser_controller.h"

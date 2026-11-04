@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for synthetic service worker response checks
+// summary: Declares IsServiceWorkerSyntheticResponseAllowed, which decides whether a URL may receive a synthetic service worker response.
+// ---
+
 #ifndef CHROME_BROWSER_SERVICE_WORKER_SERVICE_WORKER_SYNTHETIC_RESPONSE_H_
 #define CHROME_BROWSER_SERVICE_WORKER_SERVICE_WORKER_SYNTHETIC_RESPONSE_H_
 

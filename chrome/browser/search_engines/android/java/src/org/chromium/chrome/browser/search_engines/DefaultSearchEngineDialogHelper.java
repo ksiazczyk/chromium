@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultSearchEngineDialogHelper
+// summary: Handles user interaction in the default search engine picker dialog, shuffling engine options and confirming the selected keyword.
+// ---
+
 package org.chromium.chrome.browser.search_engines;
 
 import android.view.View;

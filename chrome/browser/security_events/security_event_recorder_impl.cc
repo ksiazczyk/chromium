@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityEventRecorderImpl implementation
+// summary: Implements RecordGaiaPasswordReuse by timestamping the event and forwarding SecurityEventSpecifics to the sync bridge, plus the controller delegate accessor.
+// ---
+
 #include "chrome/browser/security_events/security_event_recorder_impl.h"
 
 #include <memory>

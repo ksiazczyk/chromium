@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of UI thread search terms data
+// summary: Android-specific implementation of UIThreadSearchTermsData that supplies the RLZ parameter, search client, and Yandex and Mail.ru referral IDs.
+// ---
+
 #include "chrome/browser/search_engines/ui_thread_search_terms_data_android.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineChoiceNotification
+// summary: Shows a one-time startup snackbar prompting the user to change their search engine and links to the search engine settings.
+// ---
+
 package org.chromium.chrome.browser.search_engines;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search integrity factory header
+// summary: Declares the ProfileKeyedServiceFactory that provides a single SearchIntegrity instance per profile on demand.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_INTEGRITY_SEARCH_INTEGRITY_FACTORY_H_
 #define CHROME_BROWSER_SEARCH_INTEGRITY_SEARCH_INTEGRITY_FACTORY_H_
 

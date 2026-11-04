@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site search dialog draft model
+// summary: Holds the name, keyword, and URL field values and their validity states for the site search add/edit dialog.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.dialog;
 
 import org.chromium.build.annotations.NullMarked;

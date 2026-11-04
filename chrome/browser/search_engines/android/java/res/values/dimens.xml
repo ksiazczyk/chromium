@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Search engine dimension resources
+summary: Defines Android dimension values for the search engine UI, such as favicon size, blocking dialog illustration dimensions, and site search list item height.
+-->
+
 <resources>
   <dimen name="search_engine_favicon_size">32dp</dimen>
   <dimen name="blocking_dialog_illustration_height">150dp</dimen>
