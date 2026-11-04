@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_en-GB.xtb.
+type: data
+title: British English Android WebView string translations
+summary: British English translation bundle with Android WebView UI strings for app management, link actions, WebView licences, and an unsupported-feature notice.

@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_sk.xtb.
+type: data
+title: Android WebView strings in Slovak (sk)
+summary: Slovak translation bundle with Android WebView UI strings for link actions, app management, WebView licenses, and an unsupported-feature notice.

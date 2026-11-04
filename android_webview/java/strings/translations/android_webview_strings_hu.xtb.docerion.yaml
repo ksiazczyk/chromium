@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_hu.xtb.
+type: data
+title: Android WebView strings in Hungarian
+summary: Hungarian translation bundle for Android WebView, mapping message IDs to localized UI strings such as link actions and unsupported-feature notices.

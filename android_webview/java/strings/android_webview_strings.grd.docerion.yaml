@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings.grd.
+type: config
+title: Android WebView strings resource definition
+summary: GRIT resource definition that declares localized Android WebView string outputs for a wide range of languages.

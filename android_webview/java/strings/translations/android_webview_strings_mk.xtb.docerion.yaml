@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_mk.xtb.
+type: data
+title: Android WebView strings (Macedonian)
+summary: Macedonian XTB translation bundle providing localized Android WebView strings for app management, link actions, licenses, and unsupported-feature notices.

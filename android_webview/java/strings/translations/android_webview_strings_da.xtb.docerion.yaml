@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_da.xtb.
+type: data
+title: Danish Android WebView string translations
+summary: Danish translation bundle with Android WebView UI strings for app management, link actions, WebView licences, and an unsupported-feature notice.

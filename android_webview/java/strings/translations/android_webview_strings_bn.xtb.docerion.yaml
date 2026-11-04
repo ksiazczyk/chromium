@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_bn.xtb.
+type: data
+title: Android WebView strings in Bengali
+summary: XTB translation bundle with Bengali localizations of Android WebView UI strings, covering link actions, WebView licenses and an unsupported-feature notice.

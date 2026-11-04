@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_fil.xtb.
+type: data
+title: Android WebView strings in Filipino
+summary: Filipino translation bundle for Android WebView, mapping message IDs to localized UI strings such as link actions and unsupported-feature notices.

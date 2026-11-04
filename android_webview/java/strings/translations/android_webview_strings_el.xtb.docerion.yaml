@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_el.xtb.
+type: data
+title: Greek Android WebView string translations
+summary: Greek translation bundle with Android WebView UI strings for app management, link actions, WebView licences, and an unsupported-feature notice.

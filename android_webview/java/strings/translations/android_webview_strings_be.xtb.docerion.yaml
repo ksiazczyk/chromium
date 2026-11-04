@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_be.xtb.
+type: data
+title: Android WebView strings in Belarusian
+summary: XTB translation bundle with Belarusian localizations of Android WebView UI strings, covering link actions, WebView licenses and an unsupported-feature notice.

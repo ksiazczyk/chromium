@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_et.xtb.
+type: data
+title: Estonian Android WebView string translations
+summary: Estonian translation bundle with Android WebView UI strings for app management, link actions, WebView licences, and an unsupported-feature notice.
