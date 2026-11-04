@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device sign-in flow navigation throttle
+// summary: Intercepts cross-device sign-in deep link navigations, records metrics, starts the native sign-in flow, and closes the empty tab used to handle the intent.
+// ---
+
 #include "chrome/browser/signin/android/cross_device_signin_flow_navigation_throttle.h"
 
 #include <optional>

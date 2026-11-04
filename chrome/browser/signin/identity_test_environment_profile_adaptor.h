@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IdentityTestEnvironment profile adaptor header
+// summary: Declares an adaptor that configures a TestingProfile with the factories required to use signin::IdentityTestEnvironment in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_IDENTITY_TEST_ENVIRONMENT_PROFILE_ADAPTOR_H_
 #define CHROME_BROWSER_SIGNIN_IDENTITY_TEST_ENVIRONMENT_PROFILE_ADAPTOR_H_
 

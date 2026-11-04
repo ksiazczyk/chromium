@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice signed-in profile creator implementation
+// summary: Implements DiceSignedInProfileCreator, which creates a profile after Dice signin, waits for refresh tokens to load and runs a callback with the profile.
+// ---
+
 #include "chrome/browser/signin/dice_signed_in_profile_creator.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiceTabHelper class declaration
+// summary: Declares DiceTabHelper, a WebContentsUserData that tags sign-in tabs for DICE and exposes callbacks for enabling sync, history sync opt-in, and showing sign-in errors.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_DICE_TAB_HELPER_H_
 #define CHROME_BROWSER_SIGNIN_DICE_TAB_HELPER_H_
 

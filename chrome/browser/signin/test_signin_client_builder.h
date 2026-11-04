@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test signin client builder header
+// summary: Declares BuildTestSigninClient, the factory method that creates a test version of the SigninClient for a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_TEST_SIGNIN_CLIENT_BUILDER_H_
 #define CHROME_BROWSER_SIGNIN_TEST_SIGNIN_CLIENT_BUILDER_H_
 

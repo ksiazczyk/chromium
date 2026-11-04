@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS sign-in UI access point mapping
+// summary: Maps sign-in access points to ChromeOS account addition and reauth metric sources for account manager reporting.
+// ---
+
 #include "chrome/browser/signin/signin_ui_chromeos_util.h"
 
 #include "base/notreached.h"

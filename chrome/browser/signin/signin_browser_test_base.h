@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in browser test base class
+// summary: Template base class that sets up the identity test environment and account consistency to simplify account and cookie management in sign-in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_SIGNIN_BROWSER_TEST_BASE_H_
 #define CHROME_BROWSER_SIGNIN_SIGNIN_BROWSER_TEST_BASE_H_
 

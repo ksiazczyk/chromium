@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninBridge implementation
+// summary: Implements the C++ side of the SigninBridge JNI glue that starts add-account, credential update, and deep link flows and opens account pickers on Android.
+// ---
+
 #include "chrome/browser/signin/android/signin_bridge.h"
 
 #include <string>

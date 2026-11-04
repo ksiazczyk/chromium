@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in UI utility functions header
+// summary: Declares utility functions for building sign-in status messages and launching sign-in, reauth, sync and history sync UI flows.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_SIGNIN_UI_UTIL_H_
 #define CHROME_BROWSER_SIGNIN_SIGNIN_UI_UTIL_H_
 

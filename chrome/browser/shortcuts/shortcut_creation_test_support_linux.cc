@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux shortcut creation test support
+// summary: Linux implementation of shortcut test support with a fake XDG wrapper, desktop Exec parsing, and shortcut launch helpers.
+// ---
+
 #include "chrome/browser/shortcuts/shortcut_creation_test_support.h"
 
 #include <stdlib.h>

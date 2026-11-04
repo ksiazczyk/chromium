@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin and sync status metrics provider implementation
+// summary: Collects sign-in and sync status across loaded profiles and emits the corresponding histograms into UMA session data.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_and_sync_status_metrics_provider.h"
 
 #include <vector>

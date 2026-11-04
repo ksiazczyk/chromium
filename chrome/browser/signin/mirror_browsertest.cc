@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mirror response browser tests
+// summary: Browser tests for Chrome's handling of Gaia Mirror responses, injecting an X-Chrome-Connected header via a URLLoaderThrottle.
+// ---
+
 #include <map>
 #include <memory>
 #include <string>

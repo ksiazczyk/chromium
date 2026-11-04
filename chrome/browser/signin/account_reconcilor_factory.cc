@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountReconcilorFactory implementation
+// summary: Implements the profile-keyed factory for AccountReconcilor, including a ChromeOS child account delegate that forces online signin and user exit on persistent reconcile errors.
+// ---
+
 #include "chrome/browser/signin/account_reconcilor_factory.h"
 
 #include <memory>

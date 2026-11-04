@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run desktop refresh field trial declaration
+// summary: Declares the function that creates the field trial controlling the first run desktop refresh and choice screen refresh features.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_FIRST_RUN_DESKTOP_REFRESH_FIELD_TRIAL_H_
 #define CHROME_BROWSER_SIGNIN_FIRST_RUN_DESKTOP_REFRESH_FIELD_TRIAL_H_
 

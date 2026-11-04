@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountPreviewDataServiceFactory header
+// summary: Declares the ProfileKeyedServiceFactory that creates and provides the profile-scoped AccountPreviewDataService for regular user profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_ACCOUNT_PREVIEW_DATA_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SIGNIN_ACCOUNT_PREVIEW_DATA_SERVICE_FACTORY_H_
 

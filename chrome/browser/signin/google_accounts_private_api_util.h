@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google accounts private API utility declarations
+// summary: Declares helpers that check the navigation origin and return the allowed Google accounts origin for exposing the private API.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_GOOGLE_ACCOUNTS_PRIVATE_API_UTIL_H_
 #define CHROME_BROWSER_SIGNIN_GOOGLE_ACCOUNTS_PRIVATE_API_UTIL_H_
 

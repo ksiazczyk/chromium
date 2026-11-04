@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document icon fetcher browser tests
+// summary: Browser tests verifying icon fetching from pages without icons, pages with icon metadata, and pages using default favicons.
+// ---
+
 #include <memory>
 
 #include "base/base_paths.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaitForNetworkCallbackHelperChrome unit tests
+// summary: Unit tests verifying delayed network calls run immediately with connectivity, after a network change, and that queue metrics are recorded.
+// ---
+
 #include "chrome/browser/signin/wait_for_network_callback_helper_chrome.h"
 
 #include "base/test/metrics/histogram_tester.h"

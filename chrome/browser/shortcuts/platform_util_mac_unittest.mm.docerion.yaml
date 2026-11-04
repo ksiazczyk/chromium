@@ -1,0 +1,4 @@
+# Docerion header of platform_util_mac_unittest.mm.
+type: test
+title: macOS platform utilities unit tests
+summary: Unit tests verifying SetIconForFile applies icons and SanitizeTitleForFileName produces the expected macOS file names.

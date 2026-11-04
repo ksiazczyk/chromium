@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice intercepted session startup helper unit tests
+// summary: Unit tests for DiceInterceptedSessionStartupHelper covering multilogin startup, reconcilor-based startup and linked-accounts latency metrics.
+// ---
+
 #include "chrome/browser/signin/dice_intercepted_session_startup_helper.h"
 
 #include <memory>

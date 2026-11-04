@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run desktop refresh field trial
+// summary: Creates a client-controlled field trial that enables or disables the first run desktop refresh features with channel-based rollout percentages.
+// ---
+
 #include "chrome/browser/signin/first_run_desktop_refresh_field_trial.h"
 
 #include <map>

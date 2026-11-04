@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test signin client builder implementation
+// summary: Builds a test SigninClient keyed service from a profile's prefs for use where ChromeSigninClientFactory needs a test client.
+// ---
+
 #include "chrome/browser/signin/test_signin_client_builder.h"
 
 #include "chrome/browser/profiles/profile.h"

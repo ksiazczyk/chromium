@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google accounts private API host
+// summary: Implements the document-scoped Mojo host that binds the Google accounts private API extension and forwards consent results to a callback.
+// ---
+
 #include "chrome/browser/signin/google_accounts_private_api_host.h"
 
 #include "chrome/browser/signin/google_accounts_private_api_util.h"

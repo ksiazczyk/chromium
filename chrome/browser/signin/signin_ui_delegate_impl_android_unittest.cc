@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android SigninUiDelegate unit tests
+// summary: Unit tests verifying the Android sign-in UI delegate behavior using a mocked SigninBridge and identity test environment.
+// ---
+
 #include "chrome/browser/signin/signin_ui_delegate_impl_android.h"
 
 #include <optional>

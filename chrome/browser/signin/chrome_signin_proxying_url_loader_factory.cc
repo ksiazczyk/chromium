@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSignin proxying URL loader factory implementation
+// summary: Implements a URLLoaderFactory proxy that installs signin header modification for requests to the GAIA signin realm.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_proxying_url_loader_factory.h"
 
 #include "base/barrier_closure.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux shortcut creation test support header
+// summary: Declares ParseDesktopExecForCommandLine, a test helper that splits a .desktop Exec command line string into individual arguments for Linux shortcut tests.
+// ---
+
 #ifndef CHROME_BROWSER_SHORTCUTS_SHORTCUT_CREATION_TEST_SUPPORT_LINUX_H_
 #define CHROME_BROWSER_SHORTCUTS_SHORTCUT_CREATION_TEST_SUPPORT_LINUX_H_
 

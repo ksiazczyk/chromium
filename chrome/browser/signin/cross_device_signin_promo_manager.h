@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device sign-in promo manager header
+// summary: Declares enums and functions that decide when the cross-device sign-in promo and sign-in-to-phone QR code bubble are shown, kept visible, or dismissed per profile.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_CROSS_DEVICE_SIGNIN_PROMO_MANAGER_H_
 #define CHROME_BROWSER_SIGNIN_CROSS_DEVICE_SIGNIN_PROMO_MANAGER_H_
 

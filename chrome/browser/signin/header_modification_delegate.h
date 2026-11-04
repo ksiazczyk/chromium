@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeaderModificationDelegate interface
+// summary: Abstract signin delegate interface for intercepting navigations and processing request and response headers.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_HEADER_MODIFICATION_DELEGATE_H_
 #define CHROME_BROWSER_SIGNIN_HEADER_MODIFICATION_DELEGATE_H_
 

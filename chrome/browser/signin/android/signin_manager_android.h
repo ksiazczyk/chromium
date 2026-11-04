@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninManagerAndroid header
+// summary: Declares SigninManagerAndroid, the keyed service bridging Java sign-in UI with Chrome identity and policy management.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_ANDROID_SIGNIN_MANAGER_ANDROID_H_
 #define CHROME_BROWSER_SIGNIN_ANDROID_SIGNIN_MANAGER_ANDROID_H_
 

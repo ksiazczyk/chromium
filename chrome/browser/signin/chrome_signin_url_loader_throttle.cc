@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome signin URL loader throttle implementation
+// summary: Implements the signin URL loader throttle, providing request and response adapters that let the header modification delegate adjust headers on requests to the GAIA signin realm.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_url_loader_throttle.h"
 
 #include "base/memory/ptr_util.h"

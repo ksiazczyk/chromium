@@ -1,3 +1,9 @@
+---
+type: readme
+title: Shortcuts
+summary: Describes the folder implementing Chrome's Create Shortcut flow, covering metadata fetching, icon badging, and platform-specific shortcut integration.
+---
+
 # Shortcuts
 
 This folder implements the logic behind the `Create Shortcut` flow that is seen

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice intercepted session startup helper implementation
+// summary: Implements the helper that waits for an intercepted account to appear in a profile's cookies, via multilogin or the reconcilor, before moving the tab, with a timeout fallback.
+// ---
+
 #include "chrome/browser/signin/dice_intercepted_session_startup_helper.h"
 
 #include <algorithm>

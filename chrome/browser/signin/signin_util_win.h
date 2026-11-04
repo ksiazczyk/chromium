@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows credential provider sign-in header
+// summary: Declares Windows credential provider sign-in and re-auth entry points plus a testing hook for the TurnSyncOnHelper delegate.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_SIGNIN_UTIL_WIN_H_
 #define CHROME_BROWSER_SIGNIN_SIGNIN_UTIL_WIN_H_
 

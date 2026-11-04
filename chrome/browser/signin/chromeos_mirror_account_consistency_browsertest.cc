@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS mirror account consistency browser test
+// summary: Chrome OS-only browser test checking that the X-Chrome-Connected header is sent for child accounts but not for other account types under mirror account consistency.
+// ---
+
 #include "chrome/browser/ash/login/login_manager_test.h"
 #include "chrome/browser/ash/login/test/login_manager_mixin.h"
 #include "chrome/browser/prefs/incognito_mode_prefs.h"

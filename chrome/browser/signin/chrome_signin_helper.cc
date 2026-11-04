@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSigninHelper implementation
+// summary: Implements handling of Chrome and Gaia signin request and response headers, including Dice and Mirror actions across platforms.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_helper.h"
 
 #include <algorithm>

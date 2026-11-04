@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shortcuts build configuration
+summary: Defines GN build targets, sources, and dependencies for the shortcuts module, its test support, and its browser and unit tests.

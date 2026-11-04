@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountInvestigatorFactory header
+// summary: Declares AccountInvestigatorFactory, a ProfileKeyedServiceFactory providing per-profile AccountInvestigator instances.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_ACCOUNT_INVESTIGATOR_FACTORY_H_
 #define CHROME_BROWSER_SIGNIN_ACCOUNT_INVESTIGATOR_FACTORY_H_
 

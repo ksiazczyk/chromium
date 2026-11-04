@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Icon badging unit tests
+// summary: Unit tests that verify shortcut icon badging by comparing generated icons against reference images stored on disk.
+// ---
+
 #include "chrome/browser/shortcuts/icon_badging.h"
 
 #include <iterator>

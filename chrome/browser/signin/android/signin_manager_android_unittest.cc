@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninManagerAndroid unit tests
+// summary: Unit tests for the Android sign-in manager, using testing profiles, test password stores and a stub offline page model to verify sign-in behavior.
+// ---
+
 #include "chrome/browser/signin/android/signin_manager_android.h"
 
 #include <memory>

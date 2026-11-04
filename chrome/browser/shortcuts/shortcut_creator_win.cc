@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of web shortcut creation
+// summary: Creates Windows desktop .lnk shortcuts that launch Chrome with a profile directory and URL, storing the generated icon in a per-URL resource folder.
+// ---
+
 #include "chrome/browser/shortcuts/shortcut_creator.h"
 
 #include <windows.h>

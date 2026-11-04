@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice header delegate header
+// summary: Declares ProcessDiceHeaderDelegateImpl, which handles Dice sign-in header outcomes via callbacks for sync, history sync opt-in, and signin errors.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_PROCESS_DICE_HEADER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_SIGNIN_PROCESS_DICE_HEADER_DELEGATE_IMPL_H_
 

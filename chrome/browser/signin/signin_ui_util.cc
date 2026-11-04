@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in UI utility functions implementation
+// summary: Implements helpers that gather sign-in status and launch sign-in, reauth, sync and history sync opt-in UI flows across platforms.
+// ---
+
 #include "chrome/browser/signin/signin_ui_util.h"
 
 #include "base/auto_reset.h"

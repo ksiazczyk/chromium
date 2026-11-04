@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web signin interceptor implementation
+// summary: Implements WebSigninInterceptor support code, including bubble parameters and checks for successful signin interception outcomes.
+// ---
+
 #include "chrome/browser/signin/web_signin_interceptor.h"
 
 #include "components/signin/public/identity_manager/account_info.h"

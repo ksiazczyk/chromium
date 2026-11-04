@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinuxXdgWrapper interface
+// summary: Defines an interface wrapping the Linux xdg-desktop-menu command used to install shortcut desktop files, so tests can avoid OS changes.
+// ---
+
 #ifndef CHROME_BROWSER_SHORTCUTS_LINUX_XDG_WRAPPER_H_
 #define CHROME_BROWSER_SHORTCUTS_LINUX_XDG_WRAPPER_H_
 

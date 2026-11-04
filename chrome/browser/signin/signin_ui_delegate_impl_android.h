@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android SigninUiDelegate header
+// summary: Declares the Android SigninUiDelegate implementation overriding the sign-in and reauth UI methods.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_SIGNIN_UI_DELEGATE_IMPL_ANDROID_H_
 #define CHROME_BROWSER_SIGNIN_SIGNIN_UI_DELEGATE_IMPL_ANDROID_H_
 

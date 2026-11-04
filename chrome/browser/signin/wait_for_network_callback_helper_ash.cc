@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash wait-for-network callback helper implementation
+// summary: Implements WaitForNetworkCallbackHelperAsh, which delays signin network calls on ChromeOS Ash until the network is available.
+// ---
+
 #include "chrome/browser/signin/wait_for_network_callback_helper_ash.h"
 
 #include "base/functional/callback.h"

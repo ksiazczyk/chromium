@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiceWebSigninInterceptor browser tests
+// summary: Browser tests for DiceWebSigninInterceptor covering sign-in interception flows, profile creation and switching, and enterprise policy behavior.
+// ---
+
 #include "chrome/browser/signin/dice_web_signin_interceptor.h"
 
 #include <string>

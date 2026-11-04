@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HeaderModificationDelegateImpl unit tests
+// summary: Unit tests covering request and response header processing, including bound session credentials and mirror header behavior.
+// ---
+
 #include "chrome/browser/signin/header_modification_delegate_impl.h"
 
 #include <memory>

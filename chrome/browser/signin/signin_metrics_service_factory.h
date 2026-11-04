@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin metrics service factory header
+// summary: Declares the SigninMetricsServiceFactory singleton that manages a per-profile SigninMetricsService.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_SIGNIN_METRICS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SIGNIN_SIGNIN_METRICS_SERVICE_FACTORY_H_
 

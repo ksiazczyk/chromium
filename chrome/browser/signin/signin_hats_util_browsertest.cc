@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in HaTS utility browser tests
+// summary: Browser tests verifying that sign-in HaTS surveys launch with the expected trigger and survey data using a mock HaTS service.
+// ---
+
 #include "chrome/browser/signin/signin_hats_util.h"
 
 #include <map>

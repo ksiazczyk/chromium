@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin and sync status metrics provider unit tests
+// summary: Unit test covering session data emission for profiles without browser windows, as a regression test for crbug.com/506208912.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_and_sync_status_metrics_provider.h"
 
 #include <optional>

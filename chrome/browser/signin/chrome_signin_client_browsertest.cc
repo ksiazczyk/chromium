@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome signin client browser tests
+// summary: Browser tests verifying ChromeSigninClient behavior, including HaTS survey launch when a user signs in through an eligible access point.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_client.h"
 
 #include "base/test/scoped_feature_list.h"

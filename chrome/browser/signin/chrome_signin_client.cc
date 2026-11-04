@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome signin client implementation
+// summary: Implements the Chrome-specific SigninClient, handling signin cookies, signout decisions, delayed network calls, Gaia auth fetchers, and device bound sessions.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_client.h"
 
 #include <stddef.h>

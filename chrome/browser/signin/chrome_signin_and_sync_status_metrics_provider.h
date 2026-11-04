@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin and sync status metrics provider header
+// summary: Declares a metrics provider class that reports the sign-in and sync status of all profiles for inclusion in log records.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_CHROME_SIGNIN_AND_SYNC_STATUS_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_SIGNIN_CHROME_SIGNIN_AND_SYNC_STATUS_METRICS_PROVIDER_H_
 

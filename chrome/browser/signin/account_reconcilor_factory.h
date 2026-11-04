@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountReconcilorFactory header
+// summary: Declares the singleton factory that owns AccountReconcilors per profile and creates the appropriate AccountReconcilorDelegate.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_ACCOUNT_RECONCILOR_FACTORY_H_
 #define CHROME_BROWSER_SIGNIN_ACCOUNT_RECONCILOR_FACTORY_H_
 

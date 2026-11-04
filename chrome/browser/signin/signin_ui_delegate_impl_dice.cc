@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice implementation of SigninUiDelegate
+// summary: Implements sign-in, reauth and cross-device sign-in QR bubble UIs for Dice platforms through the SigninViewController.
+// ---
+
 #include "chrome/browser/signin/signin_ui_delegate_impl_dice.h"
 
 #include "chrome/browser/profiles/profile.h"

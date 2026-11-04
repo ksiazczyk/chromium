@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProcessDiceHeaderDelegateImpl unit tests
+// summary: Unit tests for the delegate that processes DICE sign-in headers, covering sign-in interception behavior with mock delegates and interceptors.
+// ---
+
 #include "chrome/browser/signin/process_dice_header_delegate_impl.h"
 
 #include <memory>

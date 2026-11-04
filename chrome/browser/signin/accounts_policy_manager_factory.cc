@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountsPolicyManagerFactory implementation
+// summary: Implements the profile-keyed factory singleton that creates AccountsPolicyManager instances for regular profiles, with the service created alongside the browser context.
+// ---
+
 #include "chrome/browser/signin/accounts_policy_manager_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

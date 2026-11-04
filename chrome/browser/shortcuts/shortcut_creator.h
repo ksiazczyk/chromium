@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut creator interface and metadata
+// summary: Defines ShortcutMetadata, the ShortcutCreatorResult enum, CreateShortcutOnUserDesktop, the shortcuts task runner accessor, and the icon directory constant.
+// ---
+
 #ifndef CHROME_BROWSER_SHORTCUTS_SHORTCUT_CREATOR_H_
 #define CHROME_BROWSER_SHORTCUTS_SHORTCUT_CREATOR_H_
 

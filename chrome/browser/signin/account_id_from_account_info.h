@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountIdFromAccountInfo header
+// summary: Declares AccountIdFromAccountInfo, a //chrome utility that maps CoreAccountInfo to an AccountId.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_ACCOUNT_ID_FROM_ACCOUNT_INFO_H_
 #define CHROME_BROWSER_SIGNIN_ACCOUNT_ID_FROM_ACCOUNT_INFO_H_
 

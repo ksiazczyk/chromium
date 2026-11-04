@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountIdFromAccountInfo unit tests
+// summary: Unit test verifying that AccountIdFromAccountInfo canonicalizes raw email addresses before building the AccountId.
+// ---
+
 #include "chrome/browser/signin/account_id_from_account_info.h"
 
 #include "google_apis/gaia/gaia_id.h"

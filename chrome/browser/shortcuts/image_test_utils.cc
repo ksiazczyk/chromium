@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image test utilities implementation
+// summary: Implements a test helper that loads and decodes PNG images from the chrome test data directory for shortcut tests.
+// ---
+
 #include "chrome/browser/shortcuts/image_test_utils.h"
 
 #include <string>

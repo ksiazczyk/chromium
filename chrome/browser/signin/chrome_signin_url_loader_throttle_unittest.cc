@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome signin URL loader throttle unit tests
+// summary: Unit tests verifying when the signin URL loader throttle intercepts navigations and how it modifies, removes, and restores headers across request, redirect, and response phases.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_url_loader_throttle.h"
 
 #include "base/functional/bind.h"

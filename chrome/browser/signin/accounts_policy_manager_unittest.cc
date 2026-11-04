@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountsPolicyManager unit tests
+// summary: Unit tests verifying that the primary account is cleared when signin is disallowed by preference or by the allowed username pattern.
+// ---
+
 #include "chrome/browser/signin/accounts_policy_manager.h"
 
 #include "base/memory/raw_ptr.h"

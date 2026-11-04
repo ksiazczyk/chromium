@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Signin metrics service factory implementation
+// summary: Implements the per-profile factory that creates SigninMetricsService instances and registers their profile preferences.
+// ---
+
 #include "chrome/browser/signin/signin_metrics_service_factory.h"
 
 #include "chrome/browser/browser_process.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows shortcut creation test support
+// summary: Windows implementation of ShortcutCreationTestSupport that resolves .lnk shortcuts and provides matchers for target URL, profile directory, and title.
+// ---
+
 #include "chrome/browser/shortcuts/shortcut_creation_test_support.h"
 
 #include <optional>

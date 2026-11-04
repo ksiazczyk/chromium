@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in HaTS survey utility header
+// summary: Declares functions to launch HaTS surveys for a profile, with optional deferral when no browser is active and inferred survey data.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_SIGNIN_HATS_UTIL_H_
 #define CHROME_BROWSER_SIGNIN_SIGNIN_HATS_UTIL_H_
 

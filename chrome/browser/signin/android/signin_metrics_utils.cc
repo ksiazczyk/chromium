@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in metrics JNI bridge
+// summary: JNI bindings that record sign-in user actions, account consistency promo interactions and cross-device initial state metrics from Java.
+// ---
+
 #include "base/android/jni_android.h"
 #include "chrome/browser/profiles/profile_metrics.h"
 #include "components/signin/public/base/signin_deep_link_metrics.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in UI utility Dice browser tests
+// summary: Browser tests for Dice sign-in UI utilities covering sign-in, reauth and sync promo flows with a mocked delegate.
+// ---
+
 #include "chrome/browser/signin/signin_ui_util.h"
 
 #include "base/functional/bind.h"

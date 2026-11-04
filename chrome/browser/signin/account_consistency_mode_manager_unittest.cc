@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountConsistencyModeManager unit tests
+// summary: Unit tests verifying the default consistency method, signin-allowed pref changes across restarts and the allow-browser-signin switch.
+// ---
+
 #include "chrome/browser/signin/account_consistency_mode_manager.h"
 
 #include <memory>

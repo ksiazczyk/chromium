@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device sign-in promo manager implementation
+// summary: Implements eligibility checks, impression and dismissal frequency caps, UMA metrics, and QR code bubble state handling for the cross-device sign-in promo.
+// ---
+
 #include "chrome/browser/signin/cross_device_signin_promo_manager.h"
 
 #include <algorithm>

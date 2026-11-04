@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountConsistencyModeManager implementation
+// summary: Implements per-profile account consistency logic that selects between Dice and Mirror modes based on build flags, prefs and command line.
+// ---
+
 #include "chrome/browser/signin/account_consistency_mode_manager.h"
 
 #include <string>

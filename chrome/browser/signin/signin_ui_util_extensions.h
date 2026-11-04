@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin UI utilities for extensions header
+// summary: Declares ShowExtensionSigninPrompt and the testing hook for overriding the sign-in UI delegate used by extension-triggered sign-in flows.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_SIGNIN_UI_UTIL_EXTENSIONS_H_
 #define CHROME_BROWSER_SIGNIN_SIGNIN_UI_UTIL_EXTENSIONS_H_
 

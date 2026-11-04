@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountPreviewDataServiceFactory implementation
+// summary: Implements the profile-keyed factory building AccountPreviewDataServiceImpl with signin, sync, and metrics dependencies behind a feature flag.
+// ---
+
 #include "chrome/browser/signin/account_preview_data_service_factory.h"
 
 #include "chrome/browser/browser_process.h"

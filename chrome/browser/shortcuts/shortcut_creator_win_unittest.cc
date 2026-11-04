@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows shortcut creator unit tests
+// summary: Unit tests verifying that Windows .lnk shortcuts are created with the correct target, arguments, icon and title for a given URL and profile.
+// ---
+
 #include "chrome/browser/shortcuts/shortcut_creator.h"
 
 #include <algorithm>

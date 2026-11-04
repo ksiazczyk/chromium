@@ -1,0 +1,4 @@
+# Docerion header of chrome_webloc_file.mm.
+type: source
+title: ChromeWeblocFile implementation
+summary: Implements reading and writing .crwebloc plist files containing the shortcut URL and Chrome profile name on macOS.

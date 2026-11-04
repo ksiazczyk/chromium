@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in UI delegate implementation
+// summary: Launches the turn-on-sync or history sync opt-in UI after sign-in, depending on which promo feature flag is enabled.
+// ---
+
 #include "chrome/browser/signin/signin_ui_delegate.h"
 
 #include "chrome/browser/profiles/profile.h"

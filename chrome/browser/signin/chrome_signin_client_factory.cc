@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome signin client factory
+// summary: Profile-keyed service factory that builds ChromeSigninClient instances per profile, depending on bookmark and extension services for metrics.
+// ---
+
 #include "chrome/browser/signin/chrome_signin_client_factory.h"
 
 #include "chrome/browser/bookmarks/bookmark_model_factory.h"

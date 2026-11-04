@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin utility implementation
+// summary: Implements sign-in helpers such as force sign-in policy caching, profile deletion checks, and enterprise profile separation enforcement.
+// ---
+
 #include "chrome/browser/signin/signin_util.h"
 
 #include <memory>

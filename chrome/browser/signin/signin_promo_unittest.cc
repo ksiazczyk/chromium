@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in promo unit tests
+// summary: Unit tests covering sign-in promo URL construction, promo display conditions, and related metrics across access points.
+// ---
+
 #include "chrome/browser/signin/signin_promo.h"
 
 #include <memory>

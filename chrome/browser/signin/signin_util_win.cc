@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows credential provider sign-in implementation
+// summary: Implements Windows-specific sign-in helpers, including credential provider sign-in, refresh token decryption via CryptUnprotectData, and the history sync promo.
+// ---
+
 #include "chrome/browser/signin/signin_util_win.h"
 
 #include <windows.h>

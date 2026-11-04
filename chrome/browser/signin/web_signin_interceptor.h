@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web sign-in interceptor header
+// summary: Declares the web sign-in interceptor keyed service and the SigninInterceptionHeuristicOutcome enum that records why a web sign-in was intercepted or aborted in Chrome.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_WEB_SIGNIN_INTERCEPTOR_H_
 #define CHROME_BROWSER_SIGNIN_WEB_SIGNIN_INTERCEPTOR_H_
 

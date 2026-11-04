@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountsPolicyManager header
+// summary: Declares the KeyedService that watches signin preferences and ensures the profile's primary account complies with signin allowance and username pattern policies.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_ACCOUNTS_POLICY_MANAGER_H_
 #define CHROME_BROWSER_SIGNIN_ACCOUNTS_POLICY_MANAGER_H_
 

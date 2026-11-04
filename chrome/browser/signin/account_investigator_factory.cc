@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountInvestigatorFactory implementation
+// summary: Implements the profile-keyed factory that creates AccountInvestigator services tied to IdentityManager and registers their profile prefs.
+// ---
+
 #include "chrome/browser/signin/account_investigator_factory.h"
 
 #include "base/no_destructor.h"

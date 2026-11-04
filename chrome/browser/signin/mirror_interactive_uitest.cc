@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mirror response interactive UI tests
+// summary: Interactive UI tests for Chrome's reaction to Gaia Mirror headers, parsing X-Chrome-Manage-Accounts and triggering account management dialogs on ChromeOS.
+// ---
+
 #include <string>
 #include <utility>
 

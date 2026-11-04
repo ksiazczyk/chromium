@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS platform utilities for shortcuts
+// summary: Declares SetIconForFile for thread-safe NSWorkspace icon setting and SanitizeTitleForFileName for macOS-safe filenames.
+// ---
+
 #ifndef CHROME_BROWSER_SHORTCUTS_PLATFORM_UTIL_MAC_H_
 #define CHROME_BROWSER_SHORTCUTS_PLATFORM_UTIL_MAC_H_
 

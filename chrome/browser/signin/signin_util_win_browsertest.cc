@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows credential provider sign-in browser tests
+// summary: Browser tests for Windows credential provider sign-in and re-authentication flows, including first-run and history sync opt-in scenarios.
+// ---
+
 #include "chrome/browser/signin/signin_util_win.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Signin directory metadata
+summary: Points the signin directory to the shared signin COMMON_METADATA mixins used for Chromium code ownership metadata.

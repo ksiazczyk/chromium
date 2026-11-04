@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device sign-in flow navigation throttle header
+// summary: Declares the navigation throttle that cancels cross-device sign-in deep link requests and routes them to the native flow.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_ANDROID_CROSS_DEVICE_SIGNIN_FLOW_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_SIGNIN_ANDROID_CROSS_DEVICE_SIGNIN_FLOW_NAVIGATION_THROTTLE_H_
 

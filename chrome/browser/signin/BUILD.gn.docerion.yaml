@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Signin build targets (BUILD.gn)
+summary: Defines the GN source sets, public headers and platform-conditional dependencies for the Chrome browser signin code.

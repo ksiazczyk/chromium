@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninBridgeFactory header
+// summary: Declares the SigninBridgeFactory providing per-profile access to the SigninBridge keyed service.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_ANDROID_SIGNIN_BRIDGE_FACTORY_H_
 #define CHROME_BROWSER_SIGNIN_ANDROID_SIGNIN_BRIDGE_FACTORY_H_
 

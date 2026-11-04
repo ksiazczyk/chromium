@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice response handler factory unit tests
+// summary: Verifies that DiceResponseHandler is created for normal profiles but not for off-the-record profiles.
+// ---
+
 #include "chrome/browser/signin/dice_response_handler_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

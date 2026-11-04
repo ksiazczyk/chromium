@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Logout tab helper unit tests
+// summary: Unit test verifying that LogoutTabHelper deletes itself from the web contents after the logout page navigation completes.
+// ---
+
 #include "chrome/browser/signin/logout_tab_helper.h"
 
 #include "chrome/test/base/chrome_render_view_host_test_harness.h"

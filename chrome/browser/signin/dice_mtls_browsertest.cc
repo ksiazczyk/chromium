@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice mTLS browser test
+// summary: Browser test verifying Dice signin behavior with mTLS token binding, using fake client certificates and an embedded HTTPS test server.
+// ---
+
 #include <atomic>
 #include <memory>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin policy service unit tests
+// summary: Unit tests verifying that extensions are blocked and unblocked as a profile's forced sign-in requirement changes.
+// ---
+
 #include "chrome/browser/signin/signin_policy_service.h"
 
 #include "base/run_loop.h"

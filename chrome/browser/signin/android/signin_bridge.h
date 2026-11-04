@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninBridge header
+// summary: Declares the SigninBridge keyed service interface for triggering Android sign-in flows and account management UIs from C++.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_ANDROID_SIGNIN_BRIDGE_H_
 #define CHROME_BROWSER_SIGNIN_ANDROID_SIGNIN_BRIDGE_H_
 
