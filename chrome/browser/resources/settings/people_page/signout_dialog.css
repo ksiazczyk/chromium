@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Signout dialog styles
+summary: Lit CSS styles for the signout dialog, covering the delete profile warning layout, dialog body spacing and wide footer padding.
+*/
+
 .delete-profile-warning {
   padding-bottom: 10px;
   padding-inline-end: var(--cr-section-padding);

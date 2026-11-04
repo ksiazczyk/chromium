@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sync account control styles
+summary: Lit CSS styles for the sync account control, including sign-in and sync promo banners, avatar row layout and sync status icon colors for light and dark modes.
+*/
+
 :host {
   --shown-avatar-size: 40px;
   --sync-icon-border-size: 2px;

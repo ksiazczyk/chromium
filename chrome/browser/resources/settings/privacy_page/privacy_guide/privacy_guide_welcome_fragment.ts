@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome fragment element
+// summary: Defines the privacy guide welcome fragment element that renders the welcome screen and fires a start-button-click event.
+// ---
+
 /**
  * @fileoverview
  * 'privacy-guide-welcome-fragment' is the fragment in a privacy guide

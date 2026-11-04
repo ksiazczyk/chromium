@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signout dialog HTML template
+// summary: Lit HTML template for the signout dialog with the sync disconnect explanation, cancel and confirm buttons, and an optional profile deletion warning.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSignoutDialogElement} from './signout_dialog.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GEiC page element
+// summary: Defines the settings-geic-page Lit element that shows a link row and navigates to the Gemini Enterprise route.
+// ---
+
 import 'chrome://resources/cr_elements/cr_link_row/cr_link_row.js';
 import '../icons.html.js';
 import '../settings_page/settings_section.js';

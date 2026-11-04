@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Languages page index element
+// summary: Defines the settings-languages-page-index element that switches between language, spell check, translate, and dictionary views based on the active route.
+// ---
+
 import 'chrome://resources/cr_elements/cr_view_manager/cr_view_manager.js';
 import './languages_page.js';
 import './spell_check_page.js';

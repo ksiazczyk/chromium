@@ -8,6 +8,12 @@
  * card that contains the history sync setting and its description.
  */
 
+// ---docerion
+// type: source
+// title: History sync fragment element
+// summary: Implements the privacy guide history sync step, driving a toggle from sync preferences and status and recording metrics for state changes.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import '../../controls/settings_toggle_button.js';
 import '../../icons.html.js';

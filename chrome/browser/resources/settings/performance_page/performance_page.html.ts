@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance settings page template
+// summary: Lit HTML template for the performance settings section, with toggles for performance interventions, discard ring treatment, and tab discard exceptions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import type {PerformancePageElement} from './performance_page.js';
 

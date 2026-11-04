@@ -7,6 +7,12 @@
  * the permission-related updates of the browser.
  */
 
+// ---docerion
+// type: source
+// title: Safety Hub browser proxy interface
+// summary: Defines the browser proxy, events and data types the Safety Hub settings UI uses to communicate with the browser's C++ handler.
+// ---
+
 // clang-format off
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 

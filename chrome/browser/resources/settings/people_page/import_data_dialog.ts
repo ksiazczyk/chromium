@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Import data dialog element
+// summary: Settings UI component implementing the dialog for importing bookmarks and other data from other browser profiles.
+// ---
+
 /**
  * @fileoverview 'settings-import-data-dialog' is a component for importing
  * bookmarks and other data from other sources.

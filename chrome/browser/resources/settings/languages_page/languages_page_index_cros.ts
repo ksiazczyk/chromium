@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS languages page index element
+// summary: Defines the settings-languages-page-index-cros element that opens the ChromeOS languages settings page and supports settings search.
+// ---
+
 import '../settings_page/settings_section.js';
 import 'chrome://resources/cr_elements/cr_link_row/cr_link_row.js';
 

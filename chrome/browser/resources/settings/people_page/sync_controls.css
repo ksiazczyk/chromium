@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sync controls styles
+summary: Lit CSS styles for the sync controls page, styling the sync data type list, separators and policy indicators.
+*/
+
 #sync-data-types .list-item:not([hidden]) ~ .list-item:not([hidden]) {
   border-top: var(--cr-separator-line);
 }

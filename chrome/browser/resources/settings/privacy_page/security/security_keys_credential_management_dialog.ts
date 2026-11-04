@@ -7,6 +7,12 @@
  * dialog for viewing and erasing credentials stored on a security key.
  */
 
+// ---docerion
+// type: source
+// title: Security key credential management dialog
+// summary: Dialog element for viewing, editing and erasing resident credentials stored on a security key.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';

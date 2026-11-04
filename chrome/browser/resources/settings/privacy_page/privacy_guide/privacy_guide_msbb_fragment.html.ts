@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSBB fragment HTML template
+// summary: Lit HTML template for the privacy guide MSBB step, showing a graphic, a URL-keyed anonymized data collection toggle, and description columns.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PrivacyGuideMsbbFragmentElement} from './privacy_guide_msbb_fragment.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub entry point element
+// summary: Lit element for the Safety Hub entry point that fetches entry point data and records show and click metrics when the privacy route is visited.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/icons.html.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';

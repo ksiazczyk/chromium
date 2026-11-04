@@ -9,6 +9,12 @@
  * #include=settings-shared-lit cr-scrollable-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Current sites list styles
+summary: Styles for the tab discard current sites list, sizing the scrollable container and laying out checkbox labels and favicons.
+*/
+
 #container {
   height: calc(5 * var(--cr-section-min-height));
 }

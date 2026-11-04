@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Google services page styles
+summary: Lit CSS styles for the Google services settings subpage, adjusting the padding of personalization options.
+*/
+
 settings-personalization-options {
   --settings-signin-choice-padding: 0px 20px 10px;
 }

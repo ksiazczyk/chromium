@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Do Not Track toggle template
+// summary: Returns the Lit HTML template for the Do Not Track toggle, including its confirmation dialog and learn-more link.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsDoNotTrackToggleElement} from './do_not_track_toggle.js';

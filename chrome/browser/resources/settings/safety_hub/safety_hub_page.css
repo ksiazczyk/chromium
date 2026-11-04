@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Safety Hub page styles
+summary: Lit CSS styles for the Safety Hub page defining card containers, module boxes and section headers.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

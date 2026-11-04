@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: People page index element
+// summary: Defines the settings-people-page-index element that switches between people, sync, sync controls, manage profile, account and Google services views based on the active route.
+// ---
+
 import 'chrome://resources/cr_elements/cr_view_manager/cr_view_manager.js';
 import './people_page.js';
 

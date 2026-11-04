@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account page HTML template
+// summary: Lit HTML template for the settings account subpage, laying out the sync account control, sync controls and advanced links.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {ChromeSigninAccessPoint} from '/shared/settings/people_page/sync_browser_proxy.js';

@@ -9,6 +9,12 @@
  * #include=settings-shared-lit cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Security keys reset dialog styles
+summary: Styles for the security key reset dialog, adding spinner spacing and importing shared settings styles.
+*/
+
 .spinner {
   padding-bottom: 12px;
 }

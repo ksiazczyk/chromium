@@ -7,6 +7,12 @@
  * Contains utilities that track whether the Privacy Guide is available.
  */
 
+// ---docerion
+// type: source
+// title: Privacy guide availability mixin for Lit
+// summary: Lit-based mixin that tracks whether the privacy guide is available based on management and sync status.
+// ---
+
 import type {SyncStatus} from '/shared/settings/people_page/sync_browser_proxy.js';
 import type {WebUiListenerMixinLitInterface} from 'chrome://resources/cr_elements/web_ui_listener_mixin_lit.js';
 import {WebUiListenerMixinLit} from 'chrome://resources/cr_elements/web_ui_listener_mixin_lit.js';

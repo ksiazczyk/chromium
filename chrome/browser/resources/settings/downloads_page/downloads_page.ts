@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings downloads page element
+// summary: Defines the settings-downloads-page Lit element that hosts downloads settings such as download location, prompt for download and auto-open file types.
+// ---
+
 /**
  * @fileoverview
  * 'settings-downloads-page' is the settings page containing downloads

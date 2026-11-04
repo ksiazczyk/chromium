@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure DNS input element
+// summary: Lit element providing a validated single-line input for custom secure DNS servers, probing configurations and showing format or connection errors.
+// ---
+
 /**
  * @fileoverview `secure-dns-input` is a single-line text field that is used
  * with the secure DNS setting to configure custom servers. It is based on

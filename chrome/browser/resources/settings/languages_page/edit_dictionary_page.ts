@@ -7,6 +7,12 @@
  * the "dictionary" of custom words used for spell check.
  */
 
+// ---docerion
+// type: source
+// title: Edit dictionary page WebUI element
+// summary: Implements the sub-page for adding and removing custom words used by Chrome spell check, with validation and pref observation.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';

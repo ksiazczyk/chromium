@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: People page element
+// summary: Settings page component containing sign-in, sync and profile management controls for the People section.
+// ---
+
 /**
  * @fileoverview
  * 'settings-people-page' is the settings page containing sign-in settings.

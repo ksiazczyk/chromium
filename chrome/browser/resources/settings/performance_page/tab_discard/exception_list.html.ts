@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for tab discard exception list
+// summary: Lit HTML template for the exceptions list with header, add button, empty state, overflow expansion, action menu, tooltips, and add/edit dialogs.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import type {ExceptionListElement} from './exception_list.js';
 

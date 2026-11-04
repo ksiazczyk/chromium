@@ -10,6 +10,12 @@
  * #import=../settings_shared_lit.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the reset profile dialog
+summary: Lit CSS wrapper that styles the spinner and dialog body spacing of the reset profile dialog.
+*/
+
 .spinner {
   margin: 0 8px;
 }

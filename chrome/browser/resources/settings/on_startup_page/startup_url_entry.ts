@@ -8,6 +8,12 @@
  * the user to edit/remove the entry.
  */
 
+// ---docerion
+// type: source
+// title: Startup URL entry element
+// summary: Custom element displaying a single startup URL with an action menu to edit or remove the entry via the browser proxy.
+// ---
+
 import 'chrome://resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/cr_elements/cr_lazy_render/cr_lazy_render_lit.js';

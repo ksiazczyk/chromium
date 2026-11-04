@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Safety Hub card
+summary: Lit CSS styles for Safety Hub top cards, covering header and subheader text and status icon colors with dark mode variants.
+*/
+
 :host {
   flex-direction: column;
   display: flex;

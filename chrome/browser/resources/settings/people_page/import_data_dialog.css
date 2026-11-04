@@ -10,6 +10,12 @@
  * #include=settings-shared-lit md-select-lit cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Import data dialog styles
+summary: Lit CSS styles for the import data dialog, covering the description, spinner, success icon and select margins.
+*/
+
 .description {
   align-items: center;
   display: flex;

@@ -7,6 +7,12 @@
  * to interact with the browser.
  */
 
+// ---docerion
+// type: source
+// title: Default browser browser proxy
+// summary: Defines the browser proxy interface and implementation used by the Default Browser settings section to query default browser state and set Chrome as default.
+// ---
+
 // clang-format off
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 // clang-format on

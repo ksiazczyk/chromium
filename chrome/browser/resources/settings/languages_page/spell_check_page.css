@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Spell check page styles
+summary: Styles for the spell check settings page, covering error lists, spell check radio buttons, and managed pref indicators.
+*/
+
 .name-with-error-list {
   padding: 14px 0;
 }

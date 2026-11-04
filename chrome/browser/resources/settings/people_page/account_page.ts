@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings account page element
+// summary: Lit element implementing the settings-account-page subpage for managing primary account features such as sync and encryption options.
+// ---
+
 /**
  * @fileoverview
  * 'settings-account-page' is the settings subpage containing controls to

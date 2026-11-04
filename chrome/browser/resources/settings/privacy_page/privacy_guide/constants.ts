@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy guide step constants
+// summary: Defines the PrivacyGuideStep enum listing the steps of the privacy guide flow in their order of appearance.
+// ---
+
 /**
  * Steps in the privacy guide flow in their order of appearance. The page
  * updates from those steps to show the corresponding page content.

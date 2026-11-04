@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Battery page styles
+summary: Lit CSS styles for the battery saver settings page, importing shared styles and padding the battery saver radio group.
+*/
+
 .battery-saver-radio-group {
   padding-block-end: var(--cr-section-vertical-padding);
 }

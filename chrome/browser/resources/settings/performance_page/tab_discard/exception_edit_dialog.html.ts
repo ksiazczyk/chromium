@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exception edit dialog template
+// summary: Lit HTML template for the cr-dialog used to edit an existing tab discard exception rule with cancel and save buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExceptionEditDialogElement} from './exception_edit_dialog.js';

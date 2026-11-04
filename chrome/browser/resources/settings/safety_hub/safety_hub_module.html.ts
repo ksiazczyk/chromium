@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub module HTML template
+// summary: Lit HTML template for the Safety Hub module rendering header, subheader and a list of sites with favicons, details and action buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSafetyHubModuleElement} from './safety_hub_module.js';

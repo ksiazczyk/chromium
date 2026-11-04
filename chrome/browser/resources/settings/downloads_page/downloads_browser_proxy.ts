@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads browser proxy
+// summary: Browser proxy interface and implementation for the downloads settings page, handling initialization, download location selection and auto-open file type reset.
+// ---
+
 // <if expr="is_chromeos">
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 // </if>

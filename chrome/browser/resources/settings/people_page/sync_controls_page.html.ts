@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync controls page HTML template
+// summary: Lit HTML template rendering the sync controls settings subpage with its page title, learn-more link, and embedded sync controls element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSyncControlsPageElement} from './sync_controls_page.js';

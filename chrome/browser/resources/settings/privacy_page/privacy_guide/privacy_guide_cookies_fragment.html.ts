@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy guide cookies fragment template
+// summary: Lit HTML template for the cookies step offering radio choices for third-party cookie blocking.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {ThirdPartyCookieBlockingSetting} from '../../site_settings/site_settings_browser_proxy.js';

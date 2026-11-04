@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the settings reset page
+// summary: Defines the ResetBrowserProxy interface and implementation that send reset profile requests, dialog and banner events, and tampered preference queries to the browser.
+// ---
+
 // clang-format off
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 // clang-format on

@@ -7,6 +7,12 @@
  * language settings.
  */
 
+// ---docerion
+// type: source
+// title: Language settings type definitions
+// summary: Declares interfaces for language state, spell check state, the languages model, and the language helper used by language settings.
+// ---
+
 /**
  * Settings and state for a particular enabled language.
  */

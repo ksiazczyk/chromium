@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy guide promo element
+// summary: Defines the settings-privacy-guide-promo element that promotes the privacy guide, records promo metrics, and navigates to the guide.
+// ---
+
 /**
  * @fileoverview
  * 'settings-privacy-guide-promo' is an element representing a promo for the

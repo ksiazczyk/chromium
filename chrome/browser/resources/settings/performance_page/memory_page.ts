@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory saver settings page element
+// summary: Defines the settings-memory-page element that mirrors memory saver state and aggressiveness prefs, records metrics and opens feedback dialogs.
+// ---
+
 import '../controls/controlled_radio_button.js';
 import '../controls/settings_radio_group.js';
 import '../controls/settings_toggle_button.js';

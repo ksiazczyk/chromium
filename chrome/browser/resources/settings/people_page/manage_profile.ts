@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage profile element
+// summary: Settings subpage component with controls to edit a Chrome profile's name, icon and desktop shortcut.
+// ---
+
 /**
  * @fileoverview
  * 'settings-manage-profile' is the settings subpage containing controls to

@@ -7,6 +7,12 @@
   frontend.
 */
 
+// ---docerion
+// type: source
+// title: Language settings metrics proxy
+// summary: Defines enums and a proxy for recording language settings actions and page impressions to Chrome histograms.
+// ---
+
 // LINT.IfChange(LanguageSettingsActionType)
 /**
  * These values are persisted to LanguageSettingsActionType

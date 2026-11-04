@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory page HTML template
+// summary: Lit template for the memory saver settings page with a toggle and conservative, medium and aggressive radio buttons bound to memory saver prefs.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import type {SettingsMemoryPageElement} from './memory_page.js';
 import {MemorySaverModeAggressiveness} from './performance_metrics_proxy.js';

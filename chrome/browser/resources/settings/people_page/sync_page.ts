@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync page element
+// summary: Lit element implementing the Chrome sync settings page with page status handling, passphrase entry, encryption options, and navigation.
+// ---
+
 // clang-format off
 import '//resources/js/util.js';
 import '//resources/cr_elements/cr_button/cr_button.js';

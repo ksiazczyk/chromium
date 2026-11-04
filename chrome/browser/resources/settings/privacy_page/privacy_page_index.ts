@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy page index settings element
+// summary: Polymer element acting as the privacy settings index plugin, managing view routing, feature flags, and the privacy guide promo.
+// ---
+
 import 'chrome://resources/cr_elements/cr_view_manager/cr_view_manager.js';
 import '/shared/settings/prefs/prefs.js';
 import '../safety_hub/safety_hub_entry_point.js';

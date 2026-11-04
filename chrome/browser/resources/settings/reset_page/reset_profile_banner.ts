@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reset profile banner element
+// summary: Defines the settings-reset-profile-banner element that shows a dialog prompting the user to clear tampered profile settings and reports show and hide events.
+// ---
+
 /**
  * @fileoverview
  * 'settings-reset-profile-banner' is the banner shown for prompting the user to

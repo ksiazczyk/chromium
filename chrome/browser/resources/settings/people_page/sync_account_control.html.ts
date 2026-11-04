@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync account control HTML template
+// summary: Lit HTML template for the sync account control showing promo banners, the account avatar row, account switching menu and sign-in, sign-out and sync action buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSyncAccountControlElement} from './sync_account_control.js';

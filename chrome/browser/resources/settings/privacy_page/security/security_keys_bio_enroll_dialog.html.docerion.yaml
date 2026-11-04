@@ -1,0 +1,4 @@
+# Docerion header of security_keys_bio_enroll_dialog.html.
+type: source
+title: Biometric enrollment dialog template
+summary: HTML template for the security key biometric enrollment dialog with pages for the PIN prompt, enrollment list, fingerprint sampling and naming.

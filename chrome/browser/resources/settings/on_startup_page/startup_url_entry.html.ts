@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup URL entry HTML template
+// summary: Lit HTML template for a startup URL entry showing favicon, title, URL, and an edit and remove action menu when editable.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsStartupUrlEntryElement} from './startup_url_entry.js';

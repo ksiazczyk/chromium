@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub entry point Lit HTML template
+// summary: Lit HTML template rendering the Safety Hub entry point module with a button, shown as a settings section on the privacy page.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSafetyHubEntryPointElement} from './safety_hub_entry_point.js';

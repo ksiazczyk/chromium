@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy guide dialog element
+// summary: Defines the settings-privacy-guide-dialog custom element that shows the privacy guide page in a modal dialog and handles close and back events.
+// ---
+
 /**
  * @fileoverview
  * 'settings-rivacy-guide-dialog' is a settings dialog that helps users guide

@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Exception entry styles
+summary: Styles for the tab discard exception entry that visually hide the policy indicator tooltip while keeping it accessible to screen readers.
+*/
+
 /* Tooltip is hidden since tab-discard-exception-list will display a common
  * tooltip. Not using 'display: none' because tooltip still needs to be
  * accessible by screen readers. */

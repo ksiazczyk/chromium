@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit settings-columned-section-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Security page styles
+summary: Stylesheet for the security settings page, covering Safe Browsing, secure connections, and HTTPS-First Mode sections.
+*/
+
 :host-context([settings-refresh-2026]) {
   #safeBrowsingSection {
     padding: 0;

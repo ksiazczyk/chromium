@@ -8,6 +8,12 @@
  * guide card that contains the safe browsing settings and their descriptions.
  */
 
+// ---docerion
+// type: source
+// title: Safe browsing fragment element
+// summary: Defines the privacy guide safe browsing fragment element that tracks safe browsing setting changes and records step metrics.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import '../../controls/collapse_radio_button.js';
 import '../../controls/settings_radio_group.js';

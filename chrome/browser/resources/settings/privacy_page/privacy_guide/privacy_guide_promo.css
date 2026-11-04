@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Privacy guide promo styles
+summary: Styles for the privacy guide promo element, laying out the title, body text, start button, and banner.
+*/
+
 #wrapper {
   align-items: center;
   display: flex;

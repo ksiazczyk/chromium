@@ -11,6 +11,12 @@
  * #include=cr-icons-lit cr-shared-style-lit settings-columned-section-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Glic subpage
+summary: Stylesheet for the Glic subpage covering keyboard shortcut settings, shortcut inputs, toggle rows, and separators.
+*/
+
 .keyboard-shortcut-setting {
   align-items: center;
 }

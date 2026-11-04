@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: People page index HTML template
+// summary: Lit HTML template for the settings people page index, arranging the people, sync, sync controls, manage profile, account and Google services views in a view manager.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsPeoplePageIndexElement} from './people_page_index.js';

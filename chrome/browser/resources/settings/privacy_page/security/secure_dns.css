@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the secure DNS settings element
+summary: Styles the secure DNS settings element, including the resolver select, privacy policy link and custom resolver input container.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

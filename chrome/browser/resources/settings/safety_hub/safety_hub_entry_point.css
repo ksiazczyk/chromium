@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Safety Hub entry point
+summary: Lit CSS styles for the Safety Hub entry point module, setting padding for the module container.
+*/
+
 #module {
   padding: 8px 16px;
 }

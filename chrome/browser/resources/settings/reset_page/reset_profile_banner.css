@@ -8,6 +8,12 @@
  * #import=../settings_shared_lit.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the reset profile banner
+summary: Lit CSS wrapper that styles the tampered preferences list and learn more link within the reset profile banner dialog.
+*/
+
 #prefs {
   padding-inline-start: 40px;
 }

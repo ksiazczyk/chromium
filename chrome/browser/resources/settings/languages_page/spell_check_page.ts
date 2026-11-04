@@ -7,6 +7,12 @@
  * for spell check settings.
  */
 
+// ---docerion
+// type: source
+// title: Spell check page element
+// summary: Defines the settings-spell-check-page element that manages spell check preferences and per-language spell check dictionaries.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 // <if expr="_google_chrome or not is_macosx">
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';

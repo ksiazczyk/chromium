@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit settings-shared-lit settings-columned-section-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared privacy guide fragment styles
+summary: Shared Lit styles for privacy guide fragments, covering headers, fade and slide animations, embedded setting wrappers, and dark mode colors.
+*/
+
 :host {
   display: block;
   flex: 1;

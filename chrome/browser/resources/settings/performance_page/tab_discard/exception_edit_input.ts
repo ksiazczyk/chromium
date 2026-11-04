@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exception edit input element
+// summary: Custom element that validates and saves edits to a tab discard exception rule, replacing the old entry in the pref.
+// ---
+
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';
 
 import {PrefService} from '/shared/settings/prefs2/pref_service.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the reset profile banner
+// summary: Renders the automated reset dialog listing tampered preferences with learn more and confirm buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsResetProfileBannerElement} from './reset_profile_banner.js';

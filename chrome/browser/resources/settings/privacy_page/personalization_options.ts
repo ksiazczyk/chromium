@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization options settings element
+// summary: Lit element implementing the personalization options toggles in Chrome's privacy settings, including sign-in choice, metrics reporting, and URL-keyed data collection.
+// ---
+
 /**
  * @fileoverview
  * 'personalization-options' contains several toggles related to

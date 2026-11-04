@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy guide browser proxy
+// summary: Browser proxy that tracks how often the privacy guide promo was shown using localStorage counters.
+// ---
+
 // The number of times the prviacy guide promo has been shown.
 export const MAX_PRIVACY_GUIDE_PROMO_IMPRESSION: number = 10;
 

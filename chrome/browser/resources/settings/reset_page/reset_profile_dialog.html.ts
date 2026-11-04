@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the reset profile dialog
+// summary: Renders the reset confirmation dialog with explanation text, learn more link, cancel and reset buttons, and a feedback checkbox.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsResetProfileDialogElement} from './reset_profile_dialog.js';

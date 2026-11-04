@@ -9,6 +9,12 @@
  * #include=settings-shared-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Personalization options styles
+summary: Lit styles for the personalization options element, adjusting toggle buttons, link rows and sign-in choice spacing.
+*/
+
 :host(.list-frame) settings-toggle-button,
 :host(.list-frame) .toggle-button-wrapper {
   padding-inline-end: 0;

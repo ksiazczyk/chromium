@@ -8,6 +8,12 @@
  * security key.
  */
 
+// ---docerion
+// type: source
+// title: Security key biometric enrollment dialog
+// summary: Dialog element for listing, adding, renaming and deleting biometric enrollments stored on a security key.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

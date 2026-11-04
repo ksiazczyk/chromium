@@ -4,6 +4,12 @@
 
 /** @fileoverview Handles Happiness Tracking Surveys for the settings pages. */
 
+// ---docerion
+// type: source
+// title: HaTS browser proxy
+// summary: Browser proxy that reports Trust & Safety and security page interactions to the Happiness Tracking Surveys backend.
+// ---
+
 import type {SafeBrowsingSetting} from './security/safe_browsing_types.js';
 
 /**

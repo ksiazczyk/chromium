@@ -1,0 +1,4 @@
+# Docerion header of security_keys_pin_field.html.
+type: source
+title: Security keys PIN field template
+summary: HTML template for the security key PIN entry field with show/hide toggle, validation and error display.

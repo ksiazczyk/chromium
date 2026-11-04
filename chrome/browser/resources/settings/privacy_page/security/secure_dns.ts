@@ -14,6 +14,12 @@
  * by PrivacyPageBrowserProxy and describe the new host resolver configuration.
  */
 
+// ---docerion
+// type: source
+// title: Secure DNS settings element logic
+// summary: Implements the settings-secure-dns element that configures the secure DNS mode and resolvers through the security page browser proxy.
+// ---
+
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';
 import '../../controls/settings_toggle_button.js';
 import './secure_dns_input.js';

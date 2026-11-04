@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Memory page styles
+summary: Lit CSS styles for the memory saver settings page, importing shared styles and padding the memory saver radio group.
+*/
+
 .memory-saver-radio-group {
   padding-block-end: var(--cr-section-vertical-padding);
 }

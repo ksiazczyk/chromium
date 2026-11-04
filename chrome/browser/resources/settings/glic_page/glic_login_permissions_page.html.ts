@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template for the Glic login permissions page
+// summary: Lit HTML template that renders the actor login permissions list with a removal confirmation dialog, offline warning, and error toast.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsGlicLoginPermissionsPageElement} from './glic_login_permissions_page.js';

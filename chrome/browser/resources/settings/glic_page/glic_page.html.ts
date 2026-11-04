@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template for the Glic settings page
+// summary: Lit HTML template for the Glic settings section, showing a link row that opens the Glic subpage plus a learn-more link.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsGlicPageElement} from './glic_page.js';

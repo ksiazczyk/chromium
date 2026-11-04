@@ -7,6 +7,12 @@
  * Contains utilities that track whether the Privacy Guide is available.
  */
 
+// ---docerion
+// type: source
+// title: Privacy guide availability mixin for Polymer
+// summary: Polymer mixin that tracks whether the privacy guide is available based on management and sync status.
+// ---
+
 import type {SyncStatus} from '/shared/settings/people_page/sync_browser_proxy.js';
 import type {WebUiListenerMixinInterface} from 'chrome://resources/cr_elements/web_ui_listener_mixin.js';
 import {WebUiListenerMixin} from 'chrome://resources/cr_elements/web_ui_listener_mixin.js';

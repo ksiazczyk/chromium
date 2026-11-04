@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signout dialog element
+// summary: Defines the settings-signout-dialog element that lets users turn off sync and sign out, optionally warning about profile data deletion.
+// ---
+
 /**
  * @fileoverview 'settings-signout-dialog' is a dialog that allows the
  * user to turn off sync and sign out of Chromium.

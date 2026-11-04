@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance metrics proxy
+// summary: Defines battery and memory saver enums kept in sync with C++ prefs and records performance settings metrics through chrome.metricsPrivate.
+// ---
+
 // These values are persisted to logs. Entries should not be renumbered and
 // numeric values should never be reused.
 // This must be kept in sync with BatterySaverModeState in

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reset profile dialog element
+// summary: Defines the settings-reset-profile-dialog element for clearing profile settings, including the triggered variant with tool name and reset request origin handling.
+// ---
+
 /**
  * @fileoverview
  *

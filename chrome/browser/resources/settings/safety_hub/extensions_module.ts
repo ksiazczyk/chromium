@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub extensions module element
+// summary: Lit element for the Safety Hub settings page that alerts users about potentially harmful extensions needing review, updates its header count, and opens the extensions page when the review button is clicked.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import '../i18n_setup.js';

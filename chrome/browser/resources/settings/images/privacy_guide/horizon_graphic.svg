@@ -1,1 +1,7 @@
+<!--docerion
+type: asset
+title: Horizon graphic
+summary: Minimal SVG horizon line graphic in light-theme colors for the Chrome Privacy Guide illustrations.
+-->
+
 <svg viewBox="0 0 360 100" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M85 99h190" stroke="#E8EAED" stroke-width="2"/></svg>

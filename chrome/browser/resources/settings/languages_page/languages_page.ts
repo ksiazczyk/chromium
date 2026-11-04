@@ -7,6 +7,12 @@
  * for language and input method settings.
  */
 
+// ---docerion
+// type: source
+// title: Languages settings page element
+// summary: Implements the settings-languages-page element for language and input method settings, including UI language changes, reordering, and translate preferences.
+// ---
+
 import 'chrome://resources/cr_components/managed_dialog/managed_dialog.js';
 import 'chrome://resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';

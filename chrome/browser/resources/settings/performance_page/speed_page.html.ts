@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speed page template
+// summary: Lit HTML template for the speed settings page with a preloading toggle, extended and standard preloading options, and CPU performance controls.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import type {SpeedPageElement} from './speed_page.js';
 import {NetworkPredictionOptions} from './constants.js';

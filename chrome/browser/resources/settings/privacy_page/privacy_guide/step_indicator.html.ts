@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Step indicator HTML template
+// summary: Lit template that renders the step indicator dots and a screen-reader-only accessibility label.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {StepIndicatorElement} from './step_indicator.js';

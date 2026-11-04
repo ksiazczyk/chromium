@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery page HTML template
+// summary: Lit template for the battery saver settings page with a toggle, radio group and OS power settings link bound to battery saver prefs.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import type {SettingsBatteryPageElement} from './battery_page.js';
 import {BatterySaverModeState} from './performance_metrics_proxy.js';

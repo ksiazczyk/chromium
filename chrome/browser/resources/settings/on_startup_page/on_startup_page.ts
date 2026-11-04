@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On startup settings page element
+// summary: Defines the settings-on-startup-page element that mirrors the restore-on-startup preference, tracks NTP extensions, and shows the Windows foreground launch toggle.
+// ---
+
 /**
  * @fileoverview
  * 'settings-on-startup-page' is a settings page.

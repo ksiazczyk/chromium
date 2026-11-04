@@ -11,6 +11,12 @@
  * #include=settings-shared-lit action-link-lit cr-scrollable-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Startup URLs page styles
+summary: Lit CSS for the startup URLs page, styling the scrollable entry list and edit options with shared settings styles.
+*/
+
 #editOptions > div {
   border-top: var(--cr-separator-line);
 }

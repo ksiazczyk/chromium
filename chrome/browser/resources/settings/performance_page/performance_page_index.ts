@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance page index element
+// summary: Defines the settings-performance-page-index element that switches between performance subpages, observes routes, and hides battery settings on devices without a battery.
+// ---
+
 import 'chrome://resources/cr_elements/cr_view_manager/cr_view_manager.js';
 import './battery_page.js';
 import './memory_page.js';

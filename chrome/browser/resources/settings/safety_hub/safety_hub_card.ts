@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub card element
+// summary: Defines the settings-safety-hub-card element that shows a card's header, subheader and state-dependent status icon and color.
+// ---
+
 /**
  * @fileoverview
  * 'settings-safety-hub-card' is used by the top cards in Safety Hub settings
