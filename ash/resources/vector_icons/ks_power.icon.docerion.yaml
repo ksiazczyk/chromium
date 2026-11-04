@@ -1,0 +1,4 @@
+# Docerion header of ks_power.icon.
+type: asset
+title: Power vector icon
+summary: Vector icon definition that draws a power symbol glyph on a 20dp canvas for the Ash UI.

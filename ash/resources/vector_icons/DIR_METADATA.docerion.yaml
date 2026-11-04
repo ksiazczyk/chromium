@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ash vector icons
+summary: Directory metadata that applies the shared vector icons common metadata mixins to this folder.
+relations:
+  - references /components/vector_icons/COMMON_METADATA

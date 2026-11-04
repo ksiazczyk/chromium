@@ -1,0 +1,4 @@
+# Docerion header of hotspot_one_arc.icon.
+type: asset
+title: Hotspot one-arc vector icon
+summary: Defines a hotspot vector icon variant with a single signal arc, drawn as path commands on a 20x20 canvas for ChromeOS Ash.

@@ -1,0 +1,4 @@
+# Docerion header of lock_screen_fingerprint.icon.
+type: asset
+title: Lock screen fingerprint icon
+summary: Vector icon definition drawing a fingerprint symbol for lock screen authentication in multiple canvas sizes.

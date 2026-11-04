@@ -1,0 +1,4 @@
+# Docerion header of network_badge_roaming.icon.
+type: asset
+title: Network badge roaming vector icon
+summary: Defines the vector paths for the roaming badge, drawn as an R glyph, overlaid on Chrome OS network status icons.

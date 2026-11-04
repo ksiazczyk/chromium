@@ -1,0 +1,4 @@
+# Docerion header of focus_mode_lamp.icon.
+type: asset
+title: Focus mode lamp vector icon
+summary: Vector icon definition for Chromium's Focus Mode feature, drawing a desk lamp glyph with path commands on a 20dp canvas in the Ash resources.

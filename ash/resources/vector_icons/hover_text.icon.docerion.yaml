@@ -1,0 +1,4 @@
+# Docerion header of hover_text.icon.
+type: asset
+title: Hover text vector icon
+summary: Defines the hover text accessibility vector icon, a pointer over a text field, as path commands on a 20x20 canvas.

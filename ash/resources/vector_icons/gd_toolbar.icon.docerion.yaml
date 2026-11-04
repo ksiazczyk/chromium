@@ -1,0 +1,4 @@
+# Docerion header of gd_toolbar.icon.
+type: asset
+title: gd_toolbar vector icon
+summary: Defines the vector path data for the gd_toolbar icon on a 21dp canvas, including a plus-shaped glyph, in the ash resources icon set.

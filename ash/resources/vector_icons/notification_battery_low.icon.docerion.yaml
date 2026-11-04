@@ -1,0 +1,4 @@
+# Docerion header of notification_battery_low.icon.
+type: asset
+title: Notification battery low icon
+summary: Vector icon definition drawing a low-battery notification glyph with a battery outline and charge bars on a 96dp canvas.

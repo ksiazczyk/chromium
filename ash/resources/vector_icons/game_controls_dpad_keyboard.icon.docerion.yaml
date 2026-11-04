@@ -1,0 +1,4 @@
+# Docerion header of game_controls_dpad_keyboard.icon.
+type: asset
+title: Game controls d-pad keyboard vector icon
+summary: Vector icon definition for the game controls d-pad keyboard, drawing a rounded gamepad outline with directional arrow keys for Chromium's Ash UI.

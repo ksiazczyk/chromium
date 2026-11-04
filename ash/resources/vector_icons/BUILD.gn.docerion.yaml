@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash vector icons GN build file
+summary: GN build configuration that aggregates the ash shell vector icon definitions into the ash_vector_icons target for ChromeOS.
+relations:
+  - depends_on /build/config/chrome_build.gni
+  - depends_on /components/vector_icons/vector_icons.gni
+  - configures /ash/resources/vector_icons/adaptive_charging_battery.icon

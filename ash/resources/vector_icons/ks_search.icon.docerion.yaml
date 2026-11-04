@@ -1,0 +1,4 @@
+# Docerion header of ks_search.icon.
+type: asset
+title: Search vector icon
+summary: Vector icon definition that draws a magnifying glass search glyph on a 20dp canvas for the Ash UI.

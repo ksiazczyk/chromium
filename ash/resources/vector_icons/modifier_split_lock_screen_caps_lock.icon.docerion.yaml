@@ -1,0 +1,4 @@
+# Docerion header of modifier_split_lock_screen_caps_lock.icon.
+type: asset
+title: Split modifier caps lock icon for lock screen
+summary: Vector path data for a caps lock key icon shown for split modifier keys on the ChromeOS lock screen.

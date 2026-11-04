@@ -1,0 +1,4 @@
+# Docerion header of notification_play.icon.
+type: asset
+title: Notification play vector icon
+summary: Defines the vector path data for the play notification media control icon used in the Ash system UI.

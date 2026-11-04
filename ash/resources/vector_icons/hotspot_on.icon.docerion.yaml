@@ -1,0 +1,4 @@
+# Docerion header of hotspot_on.icon.
+type: asset
+title: Hotspot on vector icon
+summary: Defines the hotspot-on vector icon for ChromeOS Ash as path commands on a 20x20 canvas, depicting radiating signal rings around a dot.

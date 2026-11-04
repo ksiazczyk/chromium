@@ -1,0 +1,4 @@
+# Docerion header of close_small.icon.
+type: asset
+title: Close small vector icon
+summary: Vector icon asset for the Ash UI that draws a small close (X) glyph from two crossing line paths on a 20x20 canvas.

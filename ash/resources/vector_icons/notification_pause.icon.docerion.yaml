@@ -1,0 +1,4 @@
+# Docerion header of notification_pause.icon.
+type: asset
+title: Notification pause vector icon
+summary: Defines the vector path data for the pause notification media control icon used in the Ash system UI.

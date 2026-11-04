@@ -1,0 +1,4 @@
+# Docerion header of game_controls_add.icon.
+type: asset
+title: Game controls add vector icon
+summary: Vector icon definition drawing a plus glyph used for adding game controls, on a 20dp canvas in Chromium's Ash resources.
