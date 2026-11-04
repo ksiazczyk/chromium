@@ -1,0 +1,4 @@
+# Docerion header of IDS_OOBE_DRIVE_PINNING_TITLE.png.sha1.
+type: data
+title: SHA1 checksum for the IDS_OOBE_DRIVE_PINNING_TITLE screenshot
+summary: Holds the SHA1 hash of the screenshot PNG for the drive pinning title string used in the ChromeOS OOBE flow.

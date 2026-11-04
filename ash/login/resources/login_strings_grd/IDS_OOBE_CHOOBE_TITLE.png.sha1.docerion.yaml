@@ -1,0 +1,4 @@
+# Docerion header of IDS_OOBE_CHOOBE_TITLE.png.sha1.
+type: data
+title: SHA1 checksum of IDS_OOBE_CHOOBE_TITLE screenshot
+summary: Holds the SHA1 hash of the PNG screenshot for the Choobe screen title within the OOBE Choobe resources.

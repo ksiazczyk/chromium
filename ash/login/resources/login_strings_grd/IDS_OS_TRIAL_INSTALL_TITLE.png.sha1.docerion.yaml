@@ -1,0 +1,4 @@
+# Docerion header of IDS_OS_TRIAL_INSTALL_TITLE.png.sha1.
+type: asset
+title: SHA1 hash for OS trial install title image
+summary: Holds the SHA1 hash of the PNG image for the OS trial install title string, used to verify the expected image content.

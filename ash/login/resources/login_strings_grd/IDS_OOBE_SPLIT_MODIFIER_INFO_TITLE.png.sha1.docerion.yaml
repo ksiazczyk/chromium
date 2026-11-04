@@ -1,0 +1,4 @@
+# Docerion header of IDS_OOBE_SPLIT_MODIFIER_INFO_TITLE.png.sha1.
+type: data
+title: SHA-1 of OOBE split modifier info title screenshot
+summary: Holds a 40-character SHA-1 digest for the PNG screenshot of the OOBE split modifier info title string in the login resources.
