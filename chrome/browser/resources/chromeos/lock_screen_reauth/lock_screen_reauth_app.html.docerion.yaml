@@ -1,0 +1,4 @@
+# Docerion header of lock_screen_reauth_app.html.
+type: source
+title: Lock screen reauth app entry page
+summary: Minimal HTML page that loads the lock screen reauth app script and hosts the lock-reauth element.

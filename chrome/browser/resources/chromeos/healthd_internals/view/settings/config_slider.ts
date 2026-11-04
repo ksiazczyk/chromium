@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Healthd internals config slider element
+// summary: Polymer element providing a ticked slider for configuration values, with helpers to initialize ranges and convert between tick indices and actual values.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_slider/cr_slider.js';
 
 import type {CrSliderElement, SliderTick} from '//resources/ash/common/cr_elements/cr_slider/cr_slider.js';

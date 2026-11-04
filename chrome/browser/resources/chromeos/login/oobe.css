@@ -6,6 +6,12 @@
  * sign in and lock screens.
  */
 
+/*docerion
+type: source
+title: OOBE stylesheet
+summary: Stylesheet for the out-of-box experience flow, sign-in and lock screens, defining layout variables, dialog sizing and theming.
+*/
+
 :root {
   --shelf-area-height-base: 57px;
   --oobe-oobe-dialog-height-base: 504px;

@@ -1,0 +1,4 @@
+# Docerion header of internet_detail_dialog_container.html.
+type: source
+title: Container page for the internet detail dialog
+summary: Standalone WebUI HTML page that sets up styles and hosts the internet-detail-dialog element with its module script.

@@ -1,0 +1,4 @@
+# Docerion header of hangul_manifest.json.
+type: config
+title: Hangul IME extension manifest
+summary: Manifest for the Korean Hangul input method extension on Chrome OS, defining several Hangul keyboard input components.

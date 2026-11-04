@@ -1,0 +1,4 @@
+# Docerion header of device_info.html.
+type: source
+title: Device info table template
+summary: HTML template rendering a table of device information fields such as version, client ID, directory API ID and enrollment domain.

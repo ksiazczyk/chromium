@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE i18n dropdown element
+// summary: Polymer element that renders a dropdown for choosing languages, keyboards, or demo countries during ChromeOS OOBE.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/md_select.css.js';
 

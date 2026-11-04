@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Online authentication metrics utilities
+// summary: Defines SAML redirect event and login or unlock enums and records UMA histograms for SAML redirect usage during online authentication.
+// ---
+
 // These values are used in histograms. Entries should not be renumbered and
 // numeric values should never be reused.
 // LINT.IfChange(SamlRedirectEvent)

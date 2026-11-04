@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: OOBE login WebUI build configuration
+summary: GN build target bundling OOBE screens, animations, images and Mojo dependencies for the ChromeOS login WebUI.

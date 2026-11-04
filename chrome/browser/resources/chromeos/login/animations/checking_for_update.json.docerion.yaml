@@ -1,0 +1,4 @@
+# Docerion header of checking_for_update.json.
+type: asset
+title: Checking for update animation
+summary: Lottie animation displayed while the login flow checks for system updates.

@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Launcher Internals entry page
+summary: HTML entry point that loads the launcher internals module and hosts the launcher-internals element on the page.

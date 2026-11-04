@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scalable unit label for the line chart
+// summary: Scalable label class that selects a suitable unit and generates text labels and vertical scale values for the line chart.
+// ---
+
 import {MAX_LABEL_VERTICAL_NUM, MIN_LABEL_VERTICAL_SPACING, TEXT_SIZE} from '../utils/line_chart_configs.js';
 
 /**

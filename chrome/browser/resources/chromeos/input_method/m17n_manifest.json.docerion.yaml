@@ -1,0 +1,4 @@
+# Docerion header of m17n_manifest.json.
+type: config
+title: m17n keyboard layouts manifest
+summary: Manifest for the Chrome OS keyboard extension providing virtual keyboard layouts for many languages such as Indic, Thai, Vietnamese and Arabic.

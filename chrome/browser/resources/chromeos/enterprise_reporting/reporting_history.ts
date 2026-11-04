@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise reporting history element
+// summary: Polymer element that presents the history of communications between Chrome and the missive daemon, with event filtering, a logging toggle, and CSV export of the reporting logs table.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

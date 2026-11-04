@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window-level OOBE error store for tests
+// summary: Installs a global error store that records window error events so tests can verify that none occurred.
+// ---
+
 export {};
 
 declare global {

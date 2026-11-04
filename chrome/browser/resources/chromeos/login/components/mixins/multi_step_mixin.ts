@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiStepMixin for step-based UI visibility
+// summary: Polymer mixin that manages multi-step screens by showing and hiding elements marked with for-step attributes according to the current UI step.
+// ---
+
 import {assertInstanceof} from '//resources/js/assert.js';
 import type {PolymerElementProperties} from '//resources/polymer/v3_0/polymer/interfaces.js';
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

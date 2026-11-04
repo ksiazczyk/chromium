@@ -1,0 +1,4 @@
+# Docerion header of info.html.
+type: source
+title: Healthd internals info page template
+summary: HTML template for the healthd internals info page, laying out panels that display CPU, memory, and zram statistics.

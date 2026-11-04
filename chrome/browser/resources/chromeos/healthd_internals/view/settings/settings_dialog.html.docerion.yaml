@@ -1,0 +1,4 @@
+# Docerion header of settings_dialog.html.
+type: source
+title: Healthd internals settings dialog template
+summary: HTML template for the healthd-internals settings dialog hosting sliders for UI update interval, data polling cycle, and data retention duration.

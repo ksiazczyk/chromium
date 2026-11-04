@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE apps list element
+// summary: Polymer element that shows a selectable list of apps with checkboxes during ChromeOS OOBE, tracking selection counts and icon loading.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import '//resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

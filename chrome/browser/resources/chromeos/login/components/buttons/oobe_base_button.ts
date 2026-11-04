@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OobeBaseButton base class
+// summary: Abstract base class shared by OOBE button elements, handling disabled state, localized text keys, focus, and ARIA label computation.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 
 import type {CrButtonElement} from '//resources/ash/common/cr_elements/cr_button/cr_button.js';

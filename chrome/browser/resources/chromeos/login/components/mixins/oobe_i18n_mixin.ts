@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OobeI18nMixin with locale change propagation
+// summary: Polymer mixin extending I18nMixin to propagate locale changes to child elements and provide dynamically updated translated strings.
+// ---
+
 import type {I18nMixinInterface} from '//resources/ash/common/cr_elements/i18n_mixin.js';
 import {I18nMixin} from '//resources/ash/common/cr_elements/i18n_mixin.js';
 import type {SanitizeInnerHtmlOpts} from '//resources/ash/common/parse_html_subset.js';

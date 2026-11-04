@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the healthd internals WebUI
+summary: Defines the build_webui target listing web components, TypeScript files, CSS, static files and dependencies for building the healthd internals WebUI.

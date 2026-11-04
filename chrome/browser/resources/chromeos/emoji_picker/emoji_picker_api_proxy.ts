@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Emoji picker Mojo API proxy
+// summary: Proxy class wrapping the Mojo page handler for inserting emoji and GIFs, searching, fetching categories and reading or updating picker preferences.
+// ---
+
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 
 import type {Category, HistoryItem} from './emoji_picker.mojom-webui.js';

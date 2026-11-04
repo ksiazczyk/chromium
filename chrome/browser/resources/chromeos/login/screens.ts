@@ -5,6 +5,12 @@
 // Screens that are used throughout ChromeOS onboarding experience.
 // Please keep the sections alphabetically sorted.
 
+// ---docerion
+// type: source
+// title: ChromeOS onboarding screen imports
+// summary: Aggregates imports of all screens used across the ChromeOS onboarding experience, covering common, authentication, login, and OOBE flows.
+// ---
+
 // COMMON SCREENS
 import './screens/common/adb_sideloading.js';
 import './screens/common/add_child.js';

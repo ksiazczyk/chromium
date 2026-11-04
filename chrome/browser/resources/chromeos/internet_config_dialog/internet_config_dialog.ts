@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internet config dialog web component logic
+// summary: TypeScript Polymer element used to configure a new or existing ChromeOS network outside settings, such as from the login screen or system tray.
+// ---
+
 import 'chrome://resources/ash/common/network/network_config.js';
 import 'chrome://resources/ash/common/network/network_icon.js';
 import 'chrome://resources/ash/common/network/network_shared.css.js';

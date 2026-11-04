@@ -1,0 +1,4 @@
+# Docerion header of results_table.html.
+type: source
+title: Template for the launcher results table
+summary: Styled table template with columns for ID, title, description, result type, metrics type, display type and display score.

@@ -1,0 +1,4 @@
+# Docerion header of data_series_checkbox.html.
+type: source
+title: Healthd internals data series checkbox template
+summary: HTML template for the data series checkbox group that renders a titled list of cr-checkbox items for one data series.

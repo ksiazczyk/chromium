@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Emoji picker GN build configuration
+summary: GN build rules that compile the emoji picker WebUI, bundling its Polymer components, TypeScript sources and the Fuse.js search library into ChromeOS resources.

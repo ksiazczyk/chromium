@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Launcher Internals WebUI
+summary: Defines the GN targets that compile the TypeScript, generate the GRD resource bundle and produce the launcher internals PAK resources for ChromeOS.

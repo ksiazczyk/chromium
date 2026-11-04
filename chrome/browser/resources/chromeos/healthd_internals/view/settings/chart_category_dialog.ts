@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Healthd internals chart category dialog element
+// summary: Polymer element implementing the chart category dialog, initializing checkboxes per category and applying selected data series indices to the trend controller.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import './data_series_checkbox.js';

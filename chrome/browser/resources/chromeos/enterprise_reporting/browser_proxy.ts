@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the enterprise reporting page
+// summary: Singleton browser proxy that creates and exposes the Mojo page handler and callback router used by the WebUI, with a test instance hook.
+// ---
+
 import type {PageHandlerInterface} from './enterprise_reporting.mojom-webui.js';
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './enterprise_reporting.mojom-webui.js';
 

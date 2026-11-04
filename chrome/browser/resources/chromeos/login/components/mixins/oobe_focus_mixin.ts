@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OobeFocusMixin for initial focus on shown screens
+// summary: Polymer mixin that transfers focus to elements marked with focus-on-show when a new screen is displayed.
+// ---
+
 import {assertInstanceof} from '//resources/js/assert.js';
 
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

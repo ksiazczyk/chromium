@@ -11,6 +11,12 @@
 OOBE Flex Layout (based on polymer iron-flex-layout)
 ******************************************************/
 
+/*docerion
+type: source
+title: OOBE flex layout styles
+summary: Defines flexbox utility classes for OOBE layouts, mirroring Polymer iron-flex-layout for direction, alignment, wrapping, and self-alignment.
+*/
+
       .layout.horizontal,
       .layout.horizontal-reverse,
       .layout.vertical,

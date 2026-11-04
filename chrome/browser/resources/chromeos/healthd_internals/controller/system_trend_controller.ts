@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System trend controller for healthd internals
+// summary: Controller that maintains battery, CPU, memory, thermal and Zram data series for the system trend page.
+// ---
+
 import type {DataSeries} from '../model/data_series.js';
 import type {HealthdInternalsSystemTrendElement} from '../view/pages/system_trend.js';
 

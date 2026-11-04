@@ -1,0 +1,4 @@
+# Docerion header of floating_workspace.html.
+type: source
+title: Floating workspace entry page
+summary: Entry HTML page that loads theme and OOBE styles, hosts the floating-workspace element, and includes the app module script.

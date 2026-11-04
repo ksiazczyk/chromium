@@ -8,6 +8,12 @@
  * #import=//resources/ash/common/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: OOBE custom vars for Chromebox for Meetings
+summary: Defines the same set of OOBE CSS custom properties, tuned for Chromebox for Meetings (remora) devices.
+*/
+
     html {
       /* Buttons */
       --oobe-button-border-color: white;

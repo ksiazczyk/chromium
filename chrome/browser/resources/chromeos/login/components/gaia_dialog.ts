@@ -17,6 +17,12 @@
  *   backcancel: User presses back button when there is no history in Gaia page.
  */
 
+// ---docerion
+// type: source
+// title: Gaia dialog element
+// summary: Polymer element handling Gaia authentication in the login UI, encapsulating the authenticator, webview, SAML UI and navigation events.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/ash/common/cr_elements/icons.html.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';

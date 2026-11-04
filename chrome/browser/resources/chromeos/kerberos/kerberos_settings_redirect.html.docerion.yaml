@@ -1,0 +1,4 @@
+# Docerion header of kerberos_settings_redirect.html.
+type: source
+title: Kerberos settings redirect dialog template
+summary: Polymer template for the Kerberos settings redirect dialog with a title, description, and buttons to continue without a ticket or manage tickets.

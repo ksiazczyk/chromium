@@ -1,0 +1,4 @@
+# Docerion header of xkb_manifest.json.
+type: config
+title: XKB keyboard extension manifest
+summary: Manifest for the Chrome OS XKB keyboard extension, listing permissions and input components for many hardware keyboard layouts.

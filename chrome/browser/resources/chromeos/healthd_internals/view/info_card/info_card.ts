@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Info card web component
+// summary: Shared Polymer element providing card rows, JSON-formatted detailed info, and expand/collapse behavior used by the other healthd internals cards.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_expand_button/cr_expand_button.js';
 import '//resources/ash/common/cr_elements/cr_page_host_style.css.js';

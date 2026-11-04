@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the enterprise reporting page
+summary: Stylesheet defining page layout, tab box background and the top bar with brand logo and title for the WebUI page.
+*/
+
 cr-tab-box {
   --tabs-background-color: white;
 }

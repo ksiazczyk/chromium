@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: Emoji picker app template and styles
+summary: HTML template and CSS custom properties defining the layout, theming and dimensions of the emoji picker root element.

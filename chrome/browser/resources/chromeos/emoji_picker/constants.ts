@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji picker layout constants
+// summary: Exports pixel dimensions, spacing values, error messages and other constants used to size and configure the emoji picker UI.
+// ---
+
 // height and width should match the dialog size in EmojiPickerDialog.
 export const EMOJI_NUM_TABS_IN_FIRST_PAGE = 8;
 export const EMOJI_HIGHLIGHTER_WIDTH = 24;

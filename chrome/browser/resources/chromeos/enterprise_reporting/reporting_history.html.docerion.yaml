@@ -1,0 +1,4 @@
+# Docerion header of reporting_history.html.
+type: source
+title: Reporting history table template
+summary: HTML template with a logging state toggle, filter dropdown, CSV download button and a scrollable table of reporting events.

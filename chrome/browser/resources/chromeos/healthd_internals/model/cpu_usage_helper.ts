@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU usage helper for healthd internals
+// summary: Helper class that computes per-logical-CPU user, system and idle usage percentages from execution time snapshots for the healthd internals page.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import type {HealthdApiCpuExecutionTimeUserHz, HealthdApiCpuResult} from '../utils/externs.js';

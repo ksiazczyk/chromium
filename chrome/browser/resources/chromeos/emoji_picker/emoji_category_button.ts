@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji category button custom element
+// summary: Defines the emoji-category-button element that switches between emoji, symbol, emoticon and GIF categories and dispatches category click events.
+// ---
+
 import './icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 

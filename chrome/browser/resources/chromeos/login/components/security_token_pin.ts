@@ -7,6 +7,12 @@
  * sign-in.
  */
 
+// ---docerion
+// type: source
+// title: Security token PIN dialog element
+// summary: Polymer element implementing the security token PIN dialog shown during ChromeOS sign-in, with PIN input, edit and submit state handling.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/ash/common/quick_unlock/pin_keyboard.js';
 import '//resources/ash/common/cr_elements/icons.html.js';

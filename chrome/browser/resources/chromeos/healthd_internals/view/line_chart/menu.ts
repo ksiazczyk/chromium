@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Line chart menu element
+// summary: Polymer menu element that builds buttons to toggle the visibility of each data series in the line chart.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

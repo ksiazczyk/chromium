@@ -18,6 +18,12 @@
  *     is-warning - changes title slot color from blue to red.
  */
 
+// ---docerion
+// type: source
+// title: OOBE slide element
+// summary: Polymer element that renders a single slide within an OOBE carousel, with an is-warning attribute that colors the title red.
+// ---
+
 import './common_styles/oobe_dialog_host_styles.css.js';
 
 import type {PolymerElementProperties} from '//resources/polymer/v3_0/polymer/interfaces.js';

@@ -29,6 +29,12 @@
  *
  */
 
+// ---docerion
+// type: source
+// title: OobeTextButton element
+// summary: Defines the oobe-text-button custom element, a text-labelled OOBE button with inverse and border attributes for the ChromeOS login UI.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';

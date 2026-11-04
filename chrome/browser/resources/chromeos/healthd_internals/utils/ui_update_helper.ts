@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI update helper class
+// summary: Manages periodic UI update callbacks, starting and cancelling intervals based on page visibility and the configured update interval.
+// ---
+
 /**
  * Helper class to maintain tasks for rendering UI in page.
  */

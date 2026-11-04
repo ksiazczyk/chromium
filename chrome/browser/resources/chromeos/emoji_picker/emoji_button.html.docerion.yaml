@@ -1,0 +1,4 @@
+# Docerion header of emoji_button.html.
+type: source
+title: Emoji button component template
+summary: Template and styles for the emoji-button element, covering hover, focus, variant indicator and tooltip presentation.

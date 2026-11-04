@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OobeScrollableMixin for scroll state classes
+// summary: Polymer mixin that observes scrollable element size changes and applies scroll state classes such as can-scroll and scrolled-to-bottom.
+// ---
+
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

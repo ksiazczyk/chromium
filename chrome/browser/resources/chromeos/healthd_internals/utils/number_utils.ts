@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Number formatting utility
+// summary: Provides toFixedFloat, which formats numbers as fixed-point strings with a bounded number of decimal digits.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 /**

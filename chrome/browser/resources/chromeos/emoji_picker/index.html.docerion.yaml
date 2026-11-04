@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Emoji Picker entry page
+summary: Entry HTML page for the ChromeOS emoji picker that loads theme stylesheets and the picker module and hosts the emoji picker app element.

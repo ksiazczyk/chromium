@@ -8,6 +8,12 @@
  * to interact with the browser.
  */
 
+// ---docerion
+// type: source
+// title: Browser proxy for the internet detail dialog
+// summary: Defines the interface and implementation the dialog uses to talk to the browser, such as reading dialog arguments, portal sign-in and closing.
+// ---
+
 export interface InternetDetailDialogBrowserProxy {
   /**
    * @return The guid and network type as a JSON string.

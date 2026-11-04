@@ -1,0 +1,4 @@
+# Docerion header of process.html.
+type: source
+title: Healthd internals processes page template
+summary: HTML template for the processes page, providing filter, page size, and sorting controls above a table of process information.

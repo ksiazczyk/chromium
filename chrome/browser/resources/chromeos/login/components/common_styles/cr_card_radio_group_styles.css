@@ -7,6 +7,12 @@
  * #type=style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Card radio group styles
+summary: Defines CSS styles for OOBE card radio buttons and groups, covering layout, colors, and Jelly-enabled appearance variants.
+*/
+
 :host {
     --radio-button-height: 120px;
     --oobe-card-radio-button-icon-color: var(--cr-checked-color);

@@ -1,0 +1,4 @@
+# Docerion header of emoji_category_button.html.
+type: source
+title: Category button component template
+summary: Template and styles for the emoji-category-button element, rendering an icon toggle that highlights the active category.

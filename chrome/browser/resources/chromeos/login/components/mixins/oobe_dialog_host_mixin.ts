@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OobeDialogHostMixin for OOBE dialog containers
+// summary: Polymer mixin for OOBE dialog containers that propagates onBeforeShow calls to nested oobe-dialog elements and traces the first shown screen.
+// ---
+
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

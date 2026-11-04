@@ -1,0 +1,4 @@
+# Docerion header of internet_detail_dialog.html.
+type: source
+title: Internet detail dialog HTML template
+summary: Polymer HTML template with styles and layout for the ChromeOS internet detail dialog, including title, sign-in and cellular sections.

@@ -6,6 +6,12 @@
  * Multi-tap gesture detector for web UI OOBE.
  */
 
+// ---docerion
+// type: source
+// title: Multi-tap gesture detector
+// summary: Multi-tap gesture detector class for the OOBE WebUI that invokes a callback after a configured number of taps within a time window.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 /** Multi-tap gesture detector. */

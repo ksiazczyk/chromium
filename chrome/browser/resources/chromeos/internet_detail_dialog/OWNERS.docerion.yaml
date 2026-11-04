@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference to network resources
+summary: OWNERS file that defers reviewer selection to the shared network resources OWNERS file.

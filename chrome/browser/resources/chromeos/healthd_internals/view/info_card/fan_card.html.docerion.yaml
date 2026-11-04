@@ -1,0 +1,4 @@
+# Docerion header of fan_card.html.
+type: source
+title: Fan card template
+summary: HTML template for the fan card, showing a Fan heading and hosting a healthd-internals-info-card element.

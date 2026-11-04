@@ -7,6 +7,12 @@
  * This file contains typedefs for chromeOS OOBE properties.
  */
 
+// ---docerion
+// type: source
+// title: OOBE type definitions
+// summary: Namespace of TypeScript type definitions for ChromeOS OOBE properties such as languages, timezones, screen lists, configurations, and screen parameters.
+// ---
+
 export namespace OobeTypes {
 
   /**

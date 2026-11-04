@@ -1,0 +1,4 @@
+# Docerion header of emoji_search.html.
+type: source
+title: Emoji search component template
+summary: HTML template and styles for the emoji picker search bar, search results and the no-result or error states shown over the content area.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LauncherInternalsElement web component
+// summary: Polymer element that receives launcher results over Mojo and splits them into the search, recent files and recent apps display tables.
+// ---
+
 import './results_table.js';
 
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

@@ -6,6 +6,12 @@
  * @fileoverview Helper functions to manage select UI elements.
  */
 
+// ---docerion
+// type: source
+// title: OOBE select helpers
+// summary: Helper functions to populate a select element from a list with optional option groups and to read the selected title or value.
+// ---
+
 export interface SelectListTypeItem {
   optionGroupName?: string;
   selected?: boolean;

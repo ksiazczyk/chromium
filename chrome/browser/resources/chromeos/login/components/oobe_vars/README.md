@@ -1,3 +1,9 @@
+---
+type: readme
+title: oobe-custom-vars
+summary: Explains that only one of the oobe-custom-vars files is used in OOBE, with each variant defining the same set of CSS variables for a different OOBE scenario.
+---
+
 # oobe-custom-vars
 
 ## Overview

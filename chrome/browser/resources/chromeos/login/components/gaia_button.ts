@@ -6,6 +6,12 @@
  * @fileoverview Polymer element wrapping gaia styled button for login/oobe.
  */
 
+// ---docerion
+// type: source
+// title: Gaia button element
+// summary: Polymer element wrapping a GAIA-styled button for the login and OOBE UI, supporting regular and link variants.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 
 import {CrButtonElement} from '//resources/ash/common/cr_elements/cr_button/cr_button.js';

@@ -11,6 +11,12 @@
  * #include=cr-shared-style cr-nav-menu-item-style md-select
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared CSS styles for healthd_internals
+summary: Shared stylesheet defining heading, label, and full-page layout styles reused across the healthd internals UI.
+*/
+
 h1,
 h2 {
   color: var(--cr-primary-text-color);

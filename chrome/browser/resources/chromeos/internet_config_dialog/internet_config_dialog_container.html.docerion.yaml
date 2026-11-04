@@ -1,0 +1,4 @@
+# Docerion header of internet_config_dialog_container.html.
+type: source
+title: Container page hosting the internet config dialog
+summary: Standalone HTML page that loads the internet-config-dialog element and its module script with ChromeOS styling applied.

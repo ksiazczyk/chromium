@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Internet detail dialog WebUI build configuration
+summary: GN build file that compiles the internet detail dialog WebUI, listing its component, TypeScript and dependency files.

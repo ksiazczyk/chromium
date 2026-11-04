@@ -1,0 +1,4 @@
+# Docerion header of launcher_internals.gni.
+type: config
+title: GN file lists for launcher internals sources
+summary: Defines the TypeScript, web component and generated HTML wrapper file lists consumed by the BUILD.gn targets.

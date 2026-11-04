@@ -7,6 +7,12 @@
  * the lock screen.
  */
 
+// ---docerion
+// type: source
+// title: Lock screen online re-authentication UI component
+// summary: Implements the lock-reauth element that starts the online re-authentication flow on the lock screen, handling GAIA and SAML auth and password scraping states.
+// ---
+
 import 'chrome://resources/ash/common/cr.m.js';
 import 'chrome://resources/ash/common/event_target.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

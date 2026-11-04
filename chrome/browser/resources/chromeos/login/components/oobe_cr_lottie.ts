@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for displaying pausable lottie animation.
  */
 
+// ---docerion
+// type: source
+// title: OOBE Lottie animation element
+// summary: Polymer element that displays pausable Lottie animations with play/pause control, preloading and dynamic color support.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import './oobe_icons.html.js';
 

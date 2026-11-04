@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the enterprise reporting WebUI
+summary: Defines the build_webui target for the ChromeOS enterprise reporting page, listing static, web component, TypeScript and Mojo generated files.

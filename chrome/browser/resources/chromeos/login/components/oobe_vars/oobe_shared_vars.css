@@ -7,6 +7,12 @@
  * #type=vars
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared OOBE CSS variables
+summary: Defines shared OOBE CSS variables for adaptive dialog padding and font styling that apply across the OOBE variants.
+*/
+
     /* Please check whether multidevice_setup/ui_page.html needs to be */
     /* updated when below css vars are changed. */
     html {

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners list for the emoji picker
+summary: Lists the email addresses of the reviewers responsible for changes to files in the emoji picker directory.

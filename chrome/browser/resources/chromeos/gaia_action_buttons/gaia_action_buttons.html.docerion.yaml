@@ -1,0 +1,4 @@
+# Docerion header of gaia_action_buttons.html.
+type: source
+title: Gaia action buttons HTML template
+summary: HTML template defining styled primary and secondary cr-button elements bound to the action button label and enabled state data.

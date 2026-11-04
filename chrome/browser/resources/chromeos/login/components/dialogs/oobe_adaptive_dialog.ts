@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE adaptive dialog element
+// summary: Implements the oobe-adaptive-dialog Polymer element with lazy rendering, single-column layout, and a Read more button shown when content overflows.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '//resources/ash/common/cr_scrollable_behavior.js';

@@ -9,6 +9,12 @@
  * from the emoji group data directly.
  */
 
+// ---docerion
+// type: source
+// title: Emoji category metadata and tab definitions
+// summary: Defines category metadata and tab lists for emoji, emoticon, symbol and GIF categories, including recently used tabs, icons and pagination.
+// ---
+
 
 import type {CategoryData, GifSubcategoryData, SubcategoryData} from './types.js';
 import {CategoryEnum} from './types.js';

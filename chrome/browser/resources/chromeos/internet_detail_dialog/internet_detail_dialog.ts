@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internet detail dialog element implementation
+// summary: TypeScript Polymer element that shows network details, SIM, APN, proxy and connection actions in the login screen dialog.
+// ---
+
 import 'chrome://resources/ash/common/network/cr_policy_network_indicator_mojo.js';
 import 'chrome://resources/ash/common/network/network_apnlist.js';
 import 'chrome://resources/ash/common/network/network_choose_mobile.js';

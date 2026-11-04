@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display manager types for login UI
+// summary: Enums and constants describing display types, OOBE UI states, screen names and accelerator identifiers used by the login UI.
+// ---
+
 /**
  * Possible types of UI.
  */

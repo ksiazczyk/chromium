@@ -1,0 +1,4 @@
+# Docerion header of power_card.html.
+type: source
+title: Power card template
+summary: HTML template for the power card, showing a Power heading and hosting a healthd-internals-info-card element.

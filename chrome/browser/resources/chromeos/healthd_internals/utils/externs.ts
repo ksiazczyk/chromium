@@ -9,6 +9,12 @@
  * for more details.
  */
 
+// ---docerion
+// type: source
+// title: Healthd telemetry interface declarations
+// summary: Declares TypeScript interfaces for battery, CPU, fan, memory, thermal, process, and zram results returned by the cros_healthd service to the health diagnostics internals page.
+// ---
+
 /**
  * `getHealthdTelemetryInfo` battery result.
  */
