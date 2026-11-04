@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file pointing to the settings resources owners
+summary: Redirects code ownership for this directory to the ChromeOS settings resources OWNERS file.
