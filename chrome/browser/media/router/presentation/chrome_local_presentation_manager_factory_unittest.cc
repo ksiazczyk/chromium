@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome local presentation manager factory unit tests
+// summary: Tests that the factory creates a LocalPresentationManager for regular and incognito profiles and that both profiles share the same instance.
+// ---
+
 #include "chrome/browser/media/router/presentation/chrome_local_presentation_manager_factory.h"
 
 #include "chrome/test/base/testing_profile.h"

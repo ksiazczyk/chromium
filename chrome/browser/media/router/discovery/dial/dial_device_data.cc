@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIAL device data implementation
+// summary: Implements DialDeviceData, which stores DIAL device information such as device ID, description URL, and IP address, and provides URL validation and update merging.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/dial_device_data.h"
 
 #include "base/check.h"

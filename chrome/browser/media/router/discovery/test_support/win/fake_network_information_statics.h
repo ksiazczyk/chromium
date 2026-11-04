@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNetworkInformationStatics class declaration
+// summary: Declares a fake WinRT INetworkInformationStatics implementation that serves fake connection profiles for Windows network discovery tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_NETWORK_INFORMATION_STATICS_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_NETWORK_INFORMATION_STATICS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Access code cast directory include rules
+summary: Grants this directory permission to include headers from components/endpoint_fetcher.

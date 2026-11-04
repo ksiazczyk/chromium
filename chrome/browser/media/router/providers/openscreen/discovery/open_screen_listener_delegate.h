@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenScreen listener delegate header
+// summary: Declares the OpenScreenListenerDelegate class, which bridges Chromium's local service discovery with the OpenScreen ServiceListener delegate and device lister interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_OPENSCREEN_DISCOVERY_OPEN_SCREEN_LISTENER_DELEGATE_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_OPENSCREEN_DISCOVERY_OPEN_SCREEN_LISTENER_DELEGATE_H_
 

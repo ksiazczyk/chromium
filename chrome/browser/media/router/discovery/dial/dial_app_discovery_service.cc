@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIAL app discovery service implementation
+// summary: Implements fetching DIAL app info XML from receiver devices and parsing it via a utility process, recording fetch result metrics.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/dial_app_discovery_service.h"
 
 #include <vector>

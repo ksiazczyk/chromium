@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DialDeviceData unit tests
+// summary: Unit tests covering DialDeviceData's UpdateFrom merging behavior and IsValidUrl validation of device and application URLs against the advertised IP address.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/dial_device_data.h"
 
 #include "base/test/scoped_feature_list.h"

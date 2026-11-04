@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wired display media route provider unit tests
+// summary: Unit tests for the wired display media route provider using mock presentation receivers, mock callbacks, and a test screen.
+// ---
+
 #include "chrome/browser/media/router/providers/wired_display/wired_display_media_route_provider.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast session tracker implementation
+// summary: Implements CastSessionTracker, which tracks active Cast sessions from receiver status messages and notifies observers.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_session_tracker.h"
 
 #include <algorithm>

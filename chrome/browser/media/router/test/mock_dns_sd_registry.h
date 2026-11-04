@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDnsSdRegistry declarations
+// summary: Declares a gmock DnsSdRegistry with helpers to dispatch mDNS events and simulate permission rejection in media router discovery tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_TEST_MOCK_DNS_SD_REGISTRY_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_TEST_MOCK_DNS_SD_REGISTRY_H_
 

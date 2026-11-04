@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppActivity implementation
+// summary: Implements the AppActivity class that manages Cast app sessions, forwarding app and media messages between connected clients and receivers.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/app_activity.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discovery network monitor unit tests
+// summary: Unit tests verifying network ID consistency across connection changes and observer notification behavior of DiscoveryNetworkMonitor.
+// ---
+
 #include "chrome/browser/media/router/discovery/discovery_network_monitor.h"
 
 #include <functional>

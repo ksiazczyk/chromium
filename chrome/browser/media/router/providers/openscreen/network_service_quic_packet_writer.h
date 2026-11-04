@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service QUIC packet writer header
+// summary: Declares NetworkServiceQuicPacketWriter, a quic::QuicPacketWriter that uses the network service UDP socket and a task runner for thread safety.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_OPENSCREEN_NETWORK_SERVICE_QUIC_PACKET_WRITER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_OPENSCREEN_NETWORK_SERVICE_QUIC_PACKET_WRITER_H_
 

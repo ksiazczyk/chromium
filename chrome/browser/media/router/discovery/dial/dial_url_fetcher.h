@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialURLFetcher header
+// summary: Declares DialURLFetcher, a helper for issuing single HTTP requests to DIAL devices with success and error callbacks and access to the response headers.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_DIAL_URL_FETCHER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_DIAL_URL_FETCHER_H_
 

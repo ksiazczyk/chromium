@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DIAL activity manager unit tests
+// summary: Unit tests for DialActivity and DialActivityManager covering activity creation from sources, app launch handling, and route management.
+// ---
+
 #include "chrome/browser/media/router/providers/dial/dial_activity_manager.h"
 
 #include <utility>

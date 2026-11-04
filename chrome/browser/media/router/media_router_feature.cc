@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Router feature flags and preferences implementation
+// summary: Implements Media Router feature flags, preference registration, and helpers such as CastAllowAllIPs, receiver ID hash token, and mirroring playout delay handling.
+// ---
+
 #include "chrome/browser/media/router/media_router_feature.h"
 
 #include <stdint.h>

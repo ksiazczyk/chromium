@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIAL media route provider metrics implementation
+// summary: Records UMA histogram enumerations for DIAL create route results used by the media route provider.
+// ---
+
 #include "chrome/browser/media/router/providers/dial/dial_media_route_provider_metrics.h"
 
 #include "base/metrics/histogram_macros.h"

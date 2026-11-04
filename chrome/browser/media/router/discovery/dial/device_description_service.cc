@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device description service implementation
+// summary: Implements fetching, validating, caching, and parsing of DIAL device description XML, including UMA metrics and periodic cache cleanup.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/device_description_service.h"
 
 #include <map>

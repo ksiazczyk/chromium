@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialURLFetcher implementation
+// summary: Implements single HTTP GET, POST and DELETE requests to DIAL devices via SimpleURLLoader, with traffic annotation, retries, origin header handling and error reporting.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/dial_url_fetcher.h"
 
 #include <optional>

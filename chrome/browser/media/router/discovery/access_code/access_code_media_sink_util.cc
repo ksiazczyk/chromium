@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access code media sink utilities implementation
+// summary: Converts discovery device protos into MediaSinkInternal objects, validating network info, IDs, display names, and ports, and serializes sinks to value dictionaries.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_media_sink_util.h"
 
 #include <map>

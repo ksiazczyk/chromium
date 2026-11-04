@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppActivity class declaration
+// summary: Declares the AppActivity class, a CastActivity subclass representing a Cast app activity, with methods for messages, media requests, and session updates.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_APP_ACTIVITY_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_APP_ACTIVITY_H_
 

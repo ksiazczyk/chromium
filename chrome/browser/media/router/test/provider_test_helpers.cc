@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media route provider test helper implementations
+// summary: Implements mock sink services, Cast and Dial app discovery services, and test URL fetchers used by media router provider tests.
+// ---
+
 #include "chrome/browser/media/router/test/provider_test_helpers.h"
 
 #include "base/functional/bind.h"

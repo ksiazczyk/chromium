@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Safe DIAL app info parser unit tests
+// summary: Unit tests verifying parsing of valid and invalid DIAL app info XML, including additional data handling and error cases.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/safe_dial_app_info_parser.h"
 
 #include <string>

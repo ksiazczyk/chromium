@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIpHelper implementation
+// summary: Implements FakeIpHelper, a fake of the Win32 IP Helper APIs GetAdaptersAddresses and GetIfTable2 used to simulate network adapters in tests.
+// ---
+
 #include "chrome/browser/media/router/discovery/test_support/win/fake_ip_helper.h"
 
 #include "base/check_op.h"

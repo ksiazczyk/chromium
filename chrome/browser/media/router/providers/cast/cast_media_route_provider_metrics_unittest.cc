@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast media route provider metrics unit tests
+// summary: Unit tests verifying that app availability results and launch session response app types are recorded in the correct histograms.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_media_route_provider_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media controller implementation
+// summary: Implements CastMediaController, which sends play, pause, seek, and volume control requests to a Cast receiver for an active app activity.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_media_controller.h"
 
 #include <utility>

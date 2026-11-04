@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMediaSinkService implementation
+// summary: Implements the UI-thread CastMediaSinkService that initializes the Cast sink discovery impl, starts mDNS discovery, and manages local state pref observation.
+// ---
+
 #include "chrome/browser/media/router/discovery/mdns/cast_media_sink_service.h"
 
 #include "base/functional/bind.h"

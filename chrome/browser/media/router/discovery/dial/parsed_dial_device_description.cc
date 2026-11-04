@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parsed DIAL device description implementation
+// summary: Implements the ParsedDialDeviceDescription struct with copy assignment and equality operators for DIAL device data.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/parsed_dial_device_description.h"
 
 namespace media_router {

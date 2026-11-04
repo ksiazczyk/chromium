@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access code cast sink service unit tests
+// summary: Extensive unit tests for sink discovery, adding sinks to the Media Router, expiration timers, saved devices, and network change handling.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_sink_service.h"
 
 #include <string>

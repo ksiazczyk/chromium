@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media sink utility declarations
+// summary: Declares the Cast DNS-SD service type constant, the CreateCastMediaSink result enum and helpers for creating Cast sinks and fixed-IP sinks from a command line flag.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_MDNS_MEDIA_SINK_UTIL_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_MDNS_MEDIA_SINK_UTIL_H_
 

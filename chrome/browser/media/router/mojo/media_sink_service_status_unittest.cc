@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media sink service status unit tests
+// summary: Unit tests verifying that MediaSinkServiceStatus produces correct JSON status strings for empty and populated sink data.
+// ---
+
 #include "chrome/browser/media/router/mojo/media_sink_service_status.h"
 
 #include "base/json/json_string_value_serializer.h"

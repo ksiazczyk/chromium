@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media sink discovery metrics unit tests
+// summary: Unit tests verifying that device count metrics and Cast analytics histograms are recorded at the expected intervals and values.
+// ---
+
 #include "chrome/browser/media/router/discovery/media_sink_discovery_metrics.h"
 
 #include "base/metrics/histogram_macros.h"

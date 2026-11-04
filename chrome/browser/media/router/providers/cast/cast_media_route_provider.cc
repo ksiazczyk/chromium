@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media route provider implementation
+// summary: Implements the media route provider for Cast sinks, including route creation and joining, sink observation, codec parsing, and origin allowlists for mirroring.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_media_route_provider.h"
 
 #include <array>

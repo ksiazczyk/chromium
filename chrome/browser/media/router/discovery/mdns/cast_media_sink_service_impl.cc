@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMediaSinkServiceImpl implementation
+// summary: Implements Cast device discovery and management over CastSocketService, including dual discovery from DIAL sinks, channel opening, retry backoff, and error metrics.
+// ---
+
 #include "chrome/browser/media/router/discovery/mdns/cast_media_sink_service_impl.h"
 
 #include <algorithm>

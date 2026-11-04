@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeWlanConnectionProfileDetails class declaration
+// summary: Declares a fake WinRT IWlanConnectionProfileDetails that reports a configured Wi-Fi SSID for Windows discovery tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_WLAN_CONNECTION_PROFILE_DETAILS_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_WLAN_CONNECTION_PROFILE_DETAILS_H_
 

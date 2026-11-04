@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIpAdapterAddresses implementation
+// summary: Implements FakeIpAdapterAddresses, which populates an IP_ADAPTER_ADDRESSES structure with adapter name, address, type, and status for fakes.
+// ---
+
 #include "chrome/browser/media/router/discovery/test_support/win/fake_ip_adapter_addresses.h"
 
 #include "base/check_op.h"

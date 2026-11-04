@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device description fetcher unit tests
+// summary: Unit tests for DeviceDescriptionFetcher covering successful fetches, app URLs with trailing slashes, and error cases such as missing descriptions or app URLs.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/device_description_fetcher.h"
 
 #include <memory>

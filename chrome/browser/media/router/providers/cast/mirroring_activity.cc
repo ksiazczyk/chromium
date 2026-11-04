@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring activity implementation
+// summary: Implements MirroringActivity, which manages Cast tab, desktop and offscreen-tab mirroring sessions, including logging, metrics and media control binding.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/mirroring_activity.h"
 
 #include <stdint.h>

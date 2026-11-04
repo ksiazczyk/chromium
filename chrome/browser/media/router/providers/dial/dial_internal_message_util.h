@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIAL internal message utility declarations
+// summary: Declares internal DIAL message types, DialInternalMessage, CustomDialLaunchMessageBody, and DialInternalMessageUtil helpers for building route messages.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_DIAL_DIAL_INTERNAL_MESSAGE_UTIL_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_DIAL_DIAL_INTERNAL_MESSAGE_UTIL_H_
 

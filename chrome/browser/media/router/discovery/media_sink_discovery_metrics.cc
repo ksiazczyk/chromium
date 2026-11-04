@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media sink discovery metrics implementation
+// summary: Records UMA histograms for DIAL and Cast device counts, Cast sink discovery sources, and Cast channel connection results and errors.
+// ---
+
 #include "chrome/browser/media/router/discovery/media_sink_discovery_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

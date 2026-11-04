@@ -1,3 +1,9 @@
+---
+type: readme
+title: DIAL Discovery
+summary: Overview of local network discovery of DIAL devices for the Media Router, with links to design docs and the DIAL protocol specification.
+---
+
 # DIAL Discovery
 
 Implementation of local network discovery of DIAL devices (Smart TVs, Game

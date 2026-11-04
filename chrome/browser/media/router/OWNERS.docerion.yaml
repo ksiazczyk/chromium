@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Media Router directory owners
+summary: Lists mfoltz@chromium.org and jophba@chromium.org as directory owners, with media/OWNERS as a last resort suggestion.

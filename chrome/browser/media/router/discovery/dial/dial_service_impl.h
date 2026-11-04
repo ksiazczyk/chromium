@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialServiceImpl header
+// summary: Declares DialServiceImpl and its per-interface DialSocket class, which binds UDP sockets, sends discovery requests, reads responses and parses them into DialDeviceData.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_DIAL_SERVICE_IMPL_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_DIAL_SERVICE_IMPL_H_
 

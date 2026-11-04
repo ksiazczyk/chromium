@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeMibTable implementation
+// summary: Implements FakeMibTable, which builds a MIB_IF_TABLE2 structure from a list of fake MIB_IF_ROW2 network interface rows.
+// ---
+
 #include "chrome/browser/media/router/discovery/test_support/win/fake_mib_table.h"
 
 #include "base/compiler_specific.h"

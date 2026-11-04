@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessCodeCastPrefUpdaterImpl desktop implementation
+// summary: Implements the pref updater against PrefService, storing cast sinks with IP-based deduplication and addition timestamps.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_pref_updater_impl.h"
 
 #include "base/json/values_util.h"

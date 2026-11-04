@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DIAL registry unit tests
+// summary: Unit tests for DialRegistry covering device discovery, device list updates, error handling and cache expiry using mock services, a mock network tracker and a test clock.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/dial_registry.h"
 
 #include <stddef.h>

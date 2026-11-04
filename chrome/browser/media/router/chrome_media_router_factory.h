@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome media router factory header
+// summary: Declares ChromeMediaRouterFactory, the Chrome version of MediaRouterFactory that adds desktop feature support and platform initialization.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_CHROME_MEDIA_ROUTER_FACTORY_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_CHROME_MEDIA_ROUTER_FACTORY_H_
 

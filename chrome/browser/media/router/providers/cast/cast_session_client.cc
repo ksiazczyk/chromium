@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast session client implementation
+// summary: Implements the CastSessionClient constructor and destructor, storing the client ID, origin, and frame tree node ID.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_session_client.h"
 
 namespace media_router {

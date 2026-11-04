@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media router Mojo metrics declarations
+// summary: Declares MediaRouterMojoMetrics helpers for recording controller creation results, tab mirroring audio state, and site-initiated mirroring.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_MOJO_MEDIA_ROUTER_MOJO_METRICS_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_MOJO_MEDIA_ROUTER_MOJO_METRICS_H_
 

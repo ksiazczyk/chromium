@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeWinrtNetworkEnvironment implementation
+// summary: Implements the fake WinRT network environment, including a fake RoGetActivationFactory, connection profile creation, and error simulation.
+// ---
+
 #include "chrome/browser/media/router/discovery/test_support/win/fake_winrt_network_environment.h"
 
 #include <tuple>

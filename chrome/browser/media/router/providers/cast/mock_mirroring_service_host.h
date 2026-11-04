@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock mirroring service host declaration
+// summary: Declares MockMirroringServiceHost, a GMock stub of the mirroring service host mocking start, pause, resume and stats methods for tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_MOCK_MIRRORING_SERVICE_HOST_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_MOCK_MIRRORING_SERVICE_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DialMediaSinkServiceImpl unit tests
+// summary: Unit tests for DialMediaSinkServiceImpl using mock device description and app discovery services to verify sink discovery and app status handling.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/dial_media_sink_service_impl.h"
 
 #include "base/functional/bind.h"

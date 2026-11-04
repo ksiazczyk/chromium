@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastActivity base class implementation
+// summary: Implements the CastActivity base class that manages connected clients, session updates, and route state for Cast activities.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_activity.h"
 
 #include "base/logging.h"

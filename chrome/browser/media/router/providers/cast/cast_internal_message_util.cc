@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast internal message utilities implementation
+// summary: Implements parsing and serialization of Cast internal messages exchanged with the Cast SDK, including message types and error codes.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_internal_message_util.h"
 
 #include <string>

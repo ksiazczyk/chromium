@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access Code Cast feature unit tests
+// summary: Unit tests verifying Access Code Cast preference behavior, including enablement, media router dependency, and device duration defaults.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_feature.h"
 
 #include <memory>

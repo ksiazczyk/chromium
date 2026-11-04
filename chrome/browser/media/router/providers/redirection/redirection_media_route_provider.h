@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RedirectionMediaRouteProvider class declaration
+// summary: Declares the MediaRouteProvider for OS video redirection through a single synthetic sink, with virtual hooks so tests can bypass OS checks and inject fake hosts.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_REDIRECTION_REDIRECTION_MEDIA_ROUTE_PROVIDER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_REDIRECTION_REDIRECTION_MEDIA_ROUTE_PROVIDER_H_
 

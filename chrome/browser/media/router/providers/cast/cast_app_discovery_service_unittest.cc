@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Cast app discovery service
+// summary: Unit tests for CastAppDiscoveryServiceImpl covering sink observation, availability requests, and refresh behavior.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_app_discovery_service.h"
 
 #include "base/functional/bind.h"

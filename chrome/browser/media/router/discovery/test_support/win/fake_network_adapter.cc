@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNetworkAdapter implementation
+// summary: Implements FakeNetworkAdapter, a fake WinRT INetworkAdapter that returns a configured adapter GUID and simulated errors for tests.
+// ---
+
 #include "chrome/browser/media/router/discovery/test_support/win/fake_network_adapter.h"
 
 #include "base/notimplemented.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dual media sink service unit tests
+// summary: Unit tests for DualMediaSinkService, verifying sink discovery and sinks-discovered callback behavior across the Cast and DIAL providers.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/dual_media_sink_service.h"
 
 #include "base/functional/bind.h"

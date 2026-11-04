@@ -1,0 +1,4 @@
+# Docerion header of dial_internal_message_fuzzer_corpus1.
+type: data
+title: DIAL internal message fuzzer corpus 1
+summary: Fuzzer seed input containing a JSON custom_dial_launch message with launch parameters, sequence number, and client ID for the DIAL internal message fuzzer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast activity test base implementation
+// summary: Implements shared test fixtures, mock session clients, and mock managers used by the Cast activity unit tests.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_activity_test_base.h"
 
 #include <algorithm>

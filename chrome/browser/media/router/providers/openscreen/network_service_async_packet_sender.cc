@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service async packet sender implementation
+// summary: Implements asynchronous UDP packet sending through the network service's UDPSocket for the Open Screen media router provider.
+// ---
+
 #include "chrome/browser/media/router/providers/openscreen/network_service_async_packet_sender.h"
 
 #include <utility>

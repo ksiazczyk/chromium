@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParsedDialAppInfo implementation
+// summary: Implements ParsedDialAppInfo constructors, equality comparison and the DialAppStateToString helper that maps application states to their string names.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/parsed_dial_app_info.h"
 
 #include "base/notreached.h"

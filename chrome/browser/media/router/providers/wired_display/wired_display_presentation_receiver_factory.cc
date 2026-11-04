@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wired display presentation receiver factory implementation
+// summary: Creates platform-specific presentation receiver windows, with a callback override used only in tests.
+// ---
+
 #include "chrome/browser/media/router/providers/wired_display/wired_display_presentation_receiver_factory.h"
 
 #include <utility>

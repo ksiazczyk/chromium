@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DialURLFetcher unit tests
+// summary: Unit tests for DialURLFetcher verifying successful fetches, request parameters such as the Origin header, and error cases like missing, empty or badly encoded responses.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/dial_url_fetcher.h"
 
 #include <memory>

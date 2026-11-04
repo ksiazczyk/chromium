@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome local presentation manager factory header
+// summary: Declares ChromeLocalPresentationManagerFactory, a LocalPresentationManagerFactory that shares implementations between a profile and its incognito profiles.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PRESENTATION_CHROME_LOCAL_PRESENTATION_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PRESENTATION_CHROME_LOCAL_PRESENTATION_MANAGER_FACTORY_H_
 

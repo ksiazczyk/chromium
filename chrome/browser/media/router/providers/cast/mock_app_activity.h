@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock app activity declaration
+// summary: Declares MockAppActivity, a GMock-based AppActivity stub mocking message sending, client management and session handling for unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_MOCK_APP_ACTIVITY_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_MOCK_APP_ACTIVITY_H_
 

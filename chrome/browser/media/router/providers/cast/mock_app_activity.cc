@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock app activity implementation
+// summary: Implements the MockAppActivity test double that stubs AppActivity behavior for Cast media router unit tests.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/mock_app_activity.h"
 
 namespace media_router {

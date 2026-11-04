@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIAL device data class declaration
+// summary: Declares DialDeviceData, the device information used by the DIAL service and registry, plus DialDeviceDescriptionData for device description results.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_DIAL_DEVICE_DATA_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_DIAL_DIAL_DEVICE_DATA_H_
 

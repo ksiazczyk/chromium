@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIAL activity manager declarations
+// summary: Declares DialLaunchInfo, DialActivity, DialPendingRequest, and the DialActivityManager class that is the source of truth for activities and routes in the DIAL media route provider.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_DIAL_DIAL_ACTIVITY_MANAGER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_DIAL_DIAL_ACTIVITY_MANAGER_H_
 

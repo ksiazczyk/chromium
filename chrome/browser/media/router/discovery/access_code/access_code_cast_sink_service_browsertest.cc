@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access code cast sink service browser tests
+// summary: Browser tests verifying that access-code devices are added, expire instantly after routes end, and are not restored from prefs on browser restart.
+// ---
+
 #include "base/test/scoped_mock_time_message_loop_task_runner.h"
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_constants.h"
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_feature.h"

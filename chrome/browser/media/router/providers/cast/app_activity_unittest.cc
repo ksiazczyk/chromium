@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppActivity unit tests
+// summary: Unit tests for AppActivity covering app message sending to receivers, media status updates, and session client handling.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/app_activity.h"
 
 #include <memory>

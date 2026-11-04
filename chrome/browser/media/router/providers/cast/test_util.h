@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast test matchers and utilities
+// summary: Declares gmock matchers for Cast internal and channel messages, a StructPtr matcher, and a fake Cast namespace for tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_TEST_UTIL_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_CAST_TEST_UTIL_H_
 

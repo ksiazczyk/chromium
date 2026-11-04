@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media route provider metrics implementation
+// summary: Records UMA histograms for Cast app availability request results and the app type reported in launch session responses.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_media_route_provider_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

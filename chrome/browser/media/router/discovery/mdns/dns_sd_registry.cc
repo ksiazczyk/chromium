@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsSdRegistry implementation
+// summary: Implements the DnsSdRegistry singleton that tracks discovered DNS-SD network services per service type, reference-counts listeners and notifies observers of discovery events.
+// ---
+
 #include "chrome/browser/media/router/discovery/mdns/dns_sd_registry.h"
 
 #include <algorithm>

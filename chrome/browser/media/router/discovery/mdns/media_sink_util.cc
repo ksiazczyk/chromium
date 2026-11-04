@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media sink utilities
+// summary: Implements helpers that build Cast media sinks from DNS-SD services, map device capabilities to sink icon types and create fixed-IP sinks from a command line flag.
+// ---
+
 #include "chrome/browser/media/router/discovery/mdns/media_sink_util.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessCodeCastPrefUpdater unit tests
+// summary: Unit tests for GetMatchingIPEndPoints, verifying that sinks with identical IP endpoints are found for deduplication.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_pref_updater.h"
 
 #include "base/json/values_util.h"

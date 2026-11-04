@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Media Router bug tracking metadata
+summary: Maps the directory to the Internals>Cast monorail component and Buganizer public component 1456266 for issue routing.

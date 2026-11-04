@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test media route provider implementation
+// summary: Implements a fake MediaRouteProvider that simulates sinks, routes and route messages, with configurable errors and delays, for integration browser tests.
+// ---
+
 #include "chrome/browser/media/router/providers/test/test_media_route_provider.h"
 
 #include <algorithm>

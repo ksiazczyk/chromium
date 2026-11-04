@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux WiFi SSID implementation
+// summary: Retrieves a WiFi interface SSID on Linux using the SIOCGIWESSID wireless ioctl over an IPv4 or IPv6 socket.
+// ---
+
 #include "chrome/browser/media/router/discovery/discovery_network_list_wifi.h"
 
 #include <linux/wireless.h>

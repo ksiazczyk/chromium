@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast app discovery service implementation
+// summary: Implements CastAppDiscoveryServiceImpl, which observes sink updates and issues app availability requests to Cast devices for registered sources.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_app_discovery_service.h"
 
 #include "base/functional/bind.h"

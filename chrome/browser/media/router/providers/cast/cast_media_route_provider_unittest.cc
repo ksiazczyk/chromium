@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast media route provider unit tests
+// summary: Unit tests for CastMediaRouteProvider covering route creation, sink compatibility, and receiver status handling with mock components.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/cast_media_route_provider.h"
 
 #include <utility>

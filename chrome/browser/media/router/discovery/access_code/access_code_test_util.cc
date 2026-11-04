@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access code test utilities
+// summary: Provides shared test helpers including a discovery device proto builder and mock sink service and pref updater implementations used by the access code cast tests.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_test_util.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media router implementation
+// summary: Implements MediaRouterDesktop, the desktop MediaRouter that creates and manages routes via providers such as Cast, DIAL, and wired display.
+// ---
+
 #include "chrome/browser/media/router/mojo/media_router_desktop.h"
 
 #include <stddef.h>

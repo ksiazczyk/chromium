@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test media route provider class declaration
+// summary: Declares a test MediaRouteProvider that fakes media sinks, routes and controllers for use in integration browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_TEST_TEST_MEDIA_ROUTE_PROVIDER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_PROVIDERS_TEST_TEST_MEDIA_ROUTE_PROVIDER_H_
 

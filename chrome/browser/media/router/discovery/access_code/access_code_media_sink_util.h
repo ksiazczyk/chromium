@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access code media sink utilities header
+// summary: Declares helpers to create access code media sinks from discovery devices and to parse sinks between pref value dictionaries and MediaSinkInternal objects.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_ACCESS_CODE_ACCESS_CODE_MEDIA_SINK_UTIL_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_ACCESS_CODE_ACCESS_CODE_MEDIA_SINK_UTIL_H_
 

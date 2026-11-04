@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access code media sink utilities unit tests
+// summary: Unit tests covering sink creation results for missing or invalid display names, IDs, network info, IP addresses, and ports.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_media_sink_util.h"
 
 #include "base/strings/string_number_conversions.h"

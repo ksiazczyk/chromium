@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Safe DIAL device description parser unit tests
+// summary: Unit tests verifying parsing of DIAL device description XML with and without service entries and the expected parsing results.
+// ---
+
 #include "chrome/browser/media/router/discovery/dial/safe_dial_device_description_parser.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoggerList header for Media Router logging
+// summary: Declares the LoggerList singleton that lets clients log to multiple per-Profile LoggerImpl instances at once, with thread restrictions documented per method.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_LOGGER_LIST_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_LOGGER_LIST_H_
 

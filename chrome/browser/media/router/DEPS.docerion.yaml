@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Media Router dependency include rules
+summary: Specifies allowed include rules for the router directory, permitting openscreen platform, network service and cast channel proto dependencies while warning against chrome/browser/ui.

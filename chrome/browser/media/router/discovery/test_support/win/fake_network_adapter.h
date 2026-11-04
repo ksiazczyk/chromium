@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNetworkAdapter class declaration
+// summary: Declares FakeNetworkAdapter, a WinRT INetworkAdapter fake used by FakeWinrtNetworkEnvironment to represent network adapters in tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_NETWORK_ADAPTER_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_NETWORK_ADAPTER_H_
 

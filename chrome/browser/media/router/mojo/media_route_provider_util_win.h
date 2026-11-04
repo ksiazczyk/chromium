@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows firewall local port check header
+// summary: Declares CanFirewallUseLocalPorts, which asynchronously checks whether local ports can be used without triggering a Windows firewall prompt.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_MOJO_MEDIA_ROUTE_PROVIDER_UTIL_WIN_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_MOJO_MEDIA_ROUTE_PROVIDER_UTIL_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mirroring activity unit tests
+// summary: Unit tests for MirroringActivity covering session start and stop, mirroring types, media commands and Cast streaming metrics histograms.
+// ---
+
 #include "chrome/browser/media/router/providers/cast/mirroring_activity.h"
 
 #include <memory>

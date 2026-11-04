@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastMediaSinkService unit tests
+// summary: Unit tests for CastMediaSinkService covering initialization, mDNS discovery start and stop, DnsSd event handling, and timer behavior with a mock DnsSd registry.
+// ---
+
 #include "chrome/browser/media/router/discovery/mdns/cast_media_sink_service.h"
 
 #include <inttypes.h>

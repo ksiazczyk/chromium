@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIpAdapterAddresses class declaration
+// summary: Declares FakeIpAdapterAddresses, a wrapper around the IP_ADAPTER_ADDRESSES structure returned by the fake GetAdaptersAddresses in FakeIpHelper.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_IP_ADAPTER_ADDRESSES_H_
 #define CHROME_BROWSER_MEDIA_ROUTER_DISCOVERY_TEST_SUPPORT_WIN_FAKE_IP_ADAPTER_ADDRESSES_H_
 
