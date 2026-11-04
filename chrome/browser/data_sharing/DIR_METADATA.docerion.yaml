@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for data_sharing
+summary: Points the directory's metadata to the common mixins defined in components/data_sharing/COMMON_METADATA.

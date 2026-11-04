@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReauthenticatorBridge JNI implementation
+// summary: Implements the C++ counterpart of ReauthenticatorBridge.java, creating a profile-bound authenticator and mediating biometric reauthentication requests and results from Java.
+// ---
+
 #include "chrome/browser/device_reauth/android/reauthenticator_bridge.h"
 
 #include <jni.h>

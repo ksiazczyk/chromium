@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Device directory owners
+summary: Delegates code review ownership of the device directory to the owners of chrome/android.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed configuration store header
+// summary: Declares ManagedConfigurationStore, a handle to a LevelDB database storing managed configuration for a single origin.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_API_MANAGED_CONFIGURATION_STORE_H_
 #define CHROME_BROWSER_DEVICE_API_MANAGED_CONFIGURATION_STORE_H_
 

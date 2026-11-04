@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for data sharing migration
+summary: Restricts includes in the migration directory to the internal migratable sync service coordinator implementation header to minimize dependencies.

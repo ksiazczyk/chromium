@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android device reauth targets
+summary: Defines GN build targets for the Android device reauth Java library, JNI header generation, Java enum generation, and Robolectric JUnit tests.

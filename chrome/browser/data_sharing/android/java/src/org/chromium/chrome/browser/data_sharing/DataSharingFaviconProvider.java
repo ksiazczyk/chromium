@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingFaviconProvider
+// summary: Favicon provider for the data sharing UI that wraps the favicon backend to fetch a favicon drawable for a given URL.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import android.content.Context;

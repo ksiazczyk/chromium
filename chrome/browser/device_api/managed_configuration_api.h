@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed configuration API interface
+// summary: Declares the ManagedConfigurationAPI keyed service that stores, synchronizes and serves per-origin managed configuration values with observer support.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_API_MANAGED_CONFIGURATION_API_H_
 #define CHROME_BROWSER_DEVICE_API_MANAGED_CONFIGURATION_API_H_
 

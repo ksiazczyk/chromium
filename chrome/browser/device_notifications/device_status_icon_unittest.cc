@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device status icon unit tests
+// summary: Unit tests for the device status icon, using mock status tray and icons to verify menus, labels, and connection counts.
+// ---
+
 #include "chrome/browser/device_notifications/device_status_icon_unittest.h"
 
 #include <optional>

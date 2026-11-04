@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device pinned notification test base implementation
+// summary: Implements shared test logic for pinned device notifications, verifying notification titles, messages, buttons, and hidden states.
+// ---
+
 #include "chrome/browser/device_notifications/device_pinned_notification_unittest.h"
 
 #include <string>

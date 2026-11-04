@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed configuration API factory implementation
+// summary: Implements the profile-keyed service factory that creates a ManagedConfigurationAPI instance per profile and registers its profile preferences.
+// ---
+
 #include "chrome/browser/device_api/managed_configuration_api_factory.h"
 
 #include "base/no_destructor.h"

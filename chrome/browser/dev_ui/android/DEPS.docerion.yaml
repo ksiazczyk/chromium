@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DevUI Android DEPS include rules
+summary: Specifies include rules allowing the dev_ui Android browser directory to include JNI headers from the Chrome DevUI module provider.

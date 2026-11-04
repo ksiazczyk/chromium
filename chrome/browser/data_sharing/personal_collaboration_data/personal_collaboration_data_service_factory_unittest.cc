@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personal collaboration data service factory unit tests
+// summary: Unit tests verifying that the factory returns a real service when data sharing features are enabled and null when the migration feature is disabled.
+// ---
+
 #include "chrome/browser/data_sharing/personal_collaboration_data/personal_collaboration_data_service_factory.h"
 
 #include "base/test/scoped_feature_list.h"

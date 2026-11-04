@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Mac device reauth
+summary: Grants device_authenticator_mac sources access to Touch ID test environment and context headers.

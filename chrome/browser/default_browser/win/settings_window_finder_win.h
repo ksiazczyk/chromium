@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsWindowFinderWin class header
+// summary: Declares the SettingsWindowFinderWin class interface for finding and observing the Windows Settings window with callbacks and timeouts.
+// ---
+
 #ifndef CHROME_BROWSER_DEFAULT_BROWSER_WIN_SETTINGS_WINDOW_FINDER_WIN_H_
 #define CHROME_BROWSER_DEFAULT_BROWSER_WIN_SETTINGS_WINDOW_FINDER_WIN_H_
 

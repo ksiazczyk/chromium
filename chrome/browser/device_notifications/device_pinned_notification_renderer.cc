@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device pinned notification renderer implementation
+// summary: Implements DevicePinnedNotificationRenderer, which displays and updates pinned system notifications about active device access on ChromeOS.
+// ---
+
 #include "chrome/browser/device_notifications/device_pinned_notification_renderer.h"
 
 #include "ash/constants/ash_features.h"

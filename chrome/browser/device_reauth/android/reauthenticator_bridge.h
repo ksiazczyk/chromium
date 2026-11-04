@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReauthenticatorBridge class declaration
+// summary: Declares ReauthenticatorBridge, the C++ counterpart of ReauthenticatorBridge.java used to mediate biometric authentication requests, with availability checks behind a refactor killswitch.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_ANDROID_REAUTHENTICATOR_BRIDGE_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_ANDROID_REAUTHENTICATOR_BRIDGE_H_
 

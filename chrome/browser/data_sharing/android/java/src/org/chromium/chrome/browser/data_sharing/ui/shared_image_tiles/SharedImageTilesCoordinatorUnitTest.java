@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedImageTilesCoordinatorUnitTest
+// summary: Robolectric unit test verifying the coordinator's tile counts, visibility and manage icon behaviour using mocked data sharing and collaboration services.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.shared_image_tiles;
 
 import static org.junit.Assert.assertEquals;

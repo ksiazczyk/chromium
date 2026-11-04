@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionUpdateIphHandler
+// summary: Handles showing in-product help when a user updates Chrome and regains access to a shared tab group, checking profile and auto-open setting eligibility.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.versioning;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

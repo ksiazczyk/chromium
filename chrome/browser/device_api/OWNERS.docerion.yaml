@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Device API directory owners
+summary: Lists the kiosk and policy teams as owners of the device_api directory, with last-resort backup reviewers for device attributes changes.

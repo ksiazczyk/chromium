@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthenticatorBridgeImpl class declaration
+// summary: Declares DeviceAuthenticatorBridgeImpl, the C++ implementation of the Java bridge that starts, cancels and reports biometric device authentication on Android.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_ANDROID_DEVICE_AUTHENTICATOR_BRIDGE_IMPL_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_ANDROID_DEVICE_AUTHENTICATOR_BRIDGE_IMPL_H_
 

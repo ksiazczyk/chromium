@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing service factory JNI bridge implementation
+// summary: Implements the JNI bridge that creates the Java SDK delegate for the data sharing service from a given profile.
+// ---
+
 #include "chrome/browser/data_sharing/data_sharing_service_factory_bridge.h"
 
 #include "base/android/jni_string.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the device_identity source set and unit tests
+summary: Defines the device_identity source set and unit test target, with platform-specific sources and dependencies for ChromeOS and desktop builds.

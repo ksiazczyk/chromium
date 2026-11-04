@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser notification observer unit tests
+// summary: Unit tests for DefaultBrowserNotificationObserver that simulate state changes and verify notification behavior using a fake shell delegate and notification display service tester.
+// ---
+
 #include "chrome/browser/default_browser/default_browser_notification_observer.h"
 
 #include <memory>

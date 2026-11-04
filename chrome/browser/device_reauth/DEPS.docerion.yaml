@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Device reauth directory include rules
+summary: Specifies allowed include rules for the device_reauth directory, with extra test-only allowances for Chromium test headers.

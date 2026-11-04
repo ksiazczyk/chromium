@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake default browser setter implementation
+// summary: Implements FakeDefaultBrowserSetter, a test double that reports the browser as already default when the setter executes.
+// ---
+
 #include "chrome/browser/default_browser/test_support/fake_default_browser_setter.h"
 
 #include <utility>

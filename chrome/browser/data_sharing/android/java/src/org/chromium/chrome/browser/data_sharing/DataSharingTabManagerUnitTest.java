@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataSharingTabManagerUnitTest
+// summary: Robolectric unit tests for DataSharingTabManager covering data sharing UI flows, share behavior, and collaboration messaging.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.mockito.ArgumentMatchers.any;

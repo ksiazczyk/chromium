@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device authenticator bridge JNI implementation
+// summary: Implements the JNI bridge that forwards biometric authentication requests, cancellations, and results between the C++ and Java sides.
+// ---
+
 #include "chrome/browser/device_reauth/android/device_authenticator_bridge_impl.h"
 
 #include "base/android/jni_android.h"

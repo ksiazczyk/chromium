@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Data Saver build configuration
+summary: GN build file defining the data_saver source set and the non-Android browser test target with their sources and dependencies.

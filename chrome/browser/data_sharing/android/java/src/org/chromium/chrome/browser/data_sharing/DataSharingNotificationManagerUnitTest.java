@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataSharingNotificationManager unit tests
+// summary: Unit tests for the data sharing notification manager, verifying invitation notifications, channels, metadata, and intent handling.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.junit.Assert.assertEquals;

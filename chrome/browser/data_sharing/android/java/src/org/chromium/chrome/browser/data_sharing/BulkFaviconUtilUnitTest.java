@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BulkFaviconUtilUnitTest
+// summary: Robolectric unit tests for BulkFaviconUtil covering bulk favicon fetching for empty, single and multiple URL lists.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.junit.Assert.assertEquals;

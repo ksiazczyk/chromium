@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersioningMessageBanner
+// summary: Conditionally shows a message banner warning that shared tab groups are unavailable due to the Chrome version, with an action leading to an update dialog.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.versioning;
 
 import static org.chromium.components.messages.MessageBannerProperties.ALL_KEYS;

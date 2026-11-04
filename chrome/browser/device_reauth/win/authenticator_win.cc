@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Hello authenticator implementation
+// summary: Implements Windows Hello user consent and biometric availability checks on Windows via the WinRT UserConsentVerifier API, with conversion helpers and metrics for authentication states.
+// ---
+
 #include "chrome/browser/device_reauth/win/authenticator_win.h"
 
 #include <objbase.h>

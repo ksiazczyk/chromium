@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Device directory team and tracker metadata
+summary: Declares the Android OS, the clank-app-team mailing list, and the Monorail and Buganizer components responsible for the device directory.

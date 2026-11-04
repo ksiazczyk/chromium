@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed configuration service implementation
+// summary: Implements the per-document Mojo service that serves managed configuration values to frames and forwards change notifications, refusing incognito contexts.
+// ---
+
 #include "chrome/browser/device_api/managed_configuration_service.h"
 
 #include <utility>

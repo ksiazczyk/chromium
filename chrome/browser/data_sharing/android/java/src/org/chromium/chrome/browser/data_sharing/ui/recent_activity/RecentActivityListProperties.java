@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentActivityListProperties
+// summary: Defines the writable property keys used to display a single recent activity row, covering title, description with timestamp, favicon, avatar and click handling.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.recent_activity;
 
 import android.view.View.OnClickListener;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthenticatorController
+// summary: Controller that checks biometric and screen lock availability and launches the Android BiometricPrompt, notifying a delegate when authentication completes.
+// ---
+
 package org.chromium.chrome.browser.device_reauth;
 
 import static androidx.biometric.BiometricManager.BIOMETRIC_ERROR_HW_UNAVAILABLE;

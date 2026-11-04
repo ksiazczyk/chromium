@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal collaboration data service factory declaration
+// summary: Declares the ProfileKeyedServiceFactory singleton that returns the per-profile PersonalCollaborationDataService, null for incognito and guest profiles.
+// ---
+
 #ifndef CHROME_BROWSER_DATA_SHARING_PERSONAL_COLLABORATION_DATA_PERSONAL_COLLABORATION_DATA_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_DATA_SHARING_PERSONAL_COLLABORATION_DATA_PERSONAL_COLLABORATION_DATA_SERVICE_FACTORY_H_
 

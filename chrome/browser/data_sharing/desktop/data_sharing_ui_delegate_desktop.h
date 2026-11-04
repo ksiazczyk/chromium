@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop data sharing UI delegate header
+// summary: Declares the desktop DataSharingUIDelegate class that handles intercepted share URLs for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_DATA_SHARING_DESKTOP_DATA_SHARING_UI_DELEGATE_DESKTOP_H_
 #define CHROME_BROWSER_DATA_SHARING_DESKTOP_DATA_SHARING_UI_DELEGATE_DESKTOP_H_
 

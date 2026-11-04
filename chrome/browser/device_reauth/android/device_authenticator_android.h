@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device authenticator header
+// summary: Declares the Android DeviceAuthenticator implementation and the DeviceAuthFinalResult enum of persisted authentication result values.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_ANDROID_DEVICE_AUTHENTICATOR_ANDROID_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_ANDROID_DEVICE_AUTHENTICATOR_ANDROID_H_
 

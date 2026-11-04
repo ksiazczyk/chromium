@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant message delegate implementation
+// summary: Displays browser and OS message banners for sharing events in shared tab groups, scoped per profile and attached and detached by windows.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsWindowFinderWin unit tests
+// summary: Tests timeout, stop, destructor, and instance deactivation behavior of the settings window finder using mocked OS interactions.
+// ---
+
 #include "chrome/browser/default_browser/win/settings_window_finder_win.h"
 
 #include <windows.h>

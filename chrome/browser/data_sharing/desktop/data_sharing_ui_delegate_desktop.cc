@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop data sharing UI delegate implementation
+// summary: Implements the desktop DataSharingUIDelegate, starting the collaboration join flow when a share URL is intercepted.
+// ---
+
 #include "chrome/browser/data_sharing/desktop/data_sharing_ui_delegate_desktop.h"
 
 #include "chrome/browser/collaboration/collaboration_service_factory.h"

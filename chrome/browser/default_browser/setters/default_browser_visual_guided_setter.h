@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser visual guided setter class declaration
+// summary: Declares DefaultBrowserVisualGuidedSetter, a setter that opens a Settings Panel visual guide to help users set Chrome as the default browser on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_DEFAULT_BROWSER_SETTERS_DEFAULT_BROWSER_VISUAL_GUIDED_SETTER_H_
 #define CHROME_BROWSER_DEFAULT_BROWSER_SETTERS_DEFAULT_BROWSER_VISUAL_GUIDED_SETTER_H_
 

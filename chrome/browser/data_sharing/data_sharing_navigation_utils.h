@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing navigation utils header
+// summary: Declares the DataSharingNavigationUtils singleton that records and checks user interaction times on WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_DATA_SHARING_DATA_SHARING_NAVIGATION_UTILS_H_
 #define CHROME_BROWSER_DATA_SHARING_DATA_SHARING_NAVIGATION_UTILS_H_
 

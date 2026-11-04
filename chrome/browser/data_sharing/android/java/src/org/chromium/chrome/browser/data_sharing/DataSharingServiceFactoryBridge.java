@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingServiceFactoryBridge
+// summary: JNI-called helper that creates a Java DataSharingSDKDelegate for a profile, falling back to a no-op implementation when no factory is available.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import org.jni_zero.CalledByNative;

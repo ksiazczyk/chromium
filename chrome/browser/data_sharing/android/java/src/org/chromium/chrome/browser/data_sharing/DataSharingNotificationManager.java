@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingNotificationManager
+// summary: Manages Android notifications for data sharing updates, including collaboration invitations and tab group management actions.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.chromium.chrome.browser.data_sharing.DataSharingIntentUtils.ACTION_EXTRA;

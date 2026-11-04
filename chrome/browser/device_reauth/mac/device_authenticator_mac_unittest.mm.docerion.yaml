@@ -1,0 +1,4 @@
+# Docerion header of device_authenticator_mac_unittest.mm.
+type: test
+title: DeviceAuthenticatorMac unit tests
+summary: Parameterized tests covering Touch ID and password reauthentication success, failure and validity using a mock authenticator and test environment.

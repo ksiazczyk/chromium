@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingTabGroupUtils
+// summary: Utilities for data sharing tab groups, including computing which synced or collaboration groups would be destroyed by closing or ungrouping tabs.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecentActivityListViewBinderUnitTest
+// summary: Robolectric unit tests verifying that the recent activity row view binder correctly updates the title, description with timestamp, favicon and avatar views.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.recent_activity;
 
 import static org.junit.Assert.assertEquals;

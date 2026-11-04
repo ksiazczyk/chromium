@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Saver implementation
+// summary: Implements Data Saver state queries, asynchronously caching the Android OS setting and providing a testing override for the enabled flag.
+// ---
+
 #include "data_saver.h"
 
 #include <optional>

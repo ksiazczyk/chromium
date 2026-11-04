@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevUI loader throttle unit tests
+// summary: Unit tests for DevUiLoaderThrottle using a mock module provider to verify DFM install decisions, navigation resumption, and cancellation behavior.
+// ---
+
 #include "chrome/browser/dev_ui/android/dev_ui_loader_throttle.h"
 
 #include <deque>

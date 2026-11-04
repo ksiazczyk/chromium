@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthenticatorChromeOS class declaration
+// summary: Declares DeviceAuthenticatorChromeOS, which authenticates users via the ChromeOS in-session dialog and tracks biometric and PIN availability.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_CHROMEOS_DEVICE_AUTHENTICATOR_CHROMEOS_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_CHROMEOS_DEVICE_AUTHENTICATOR_CHROMEOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingUiDelegateAndroid
+// summary: Android implementation of DataSharingUIDelegate that delegates create, join, and manage flows to an internal delegate and handles intercepted share URLs.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import android.content.Context;

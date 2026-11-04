@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed configuration API implementation
+// summary: Implements ManagedConfigurationAPI, downloading and storing per-origin JSON managed configurations from the DM server with retry and recovery logic.
+// ---
+
 #include "chrome/browser/device_api/managed_configuration_api.h"
 
 #include <memory>

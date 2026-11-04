@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser manager header
+// summary: Declares DefaultBrowserManager, the central coordinator and public API of the default browser framework, with state checks, change callbacks, and setter failure tracking.
+// ---
+
 #ifndef CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_BROWSER_MANAGER_H_
 #define CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_BROWSER_MANAGER_H_
 

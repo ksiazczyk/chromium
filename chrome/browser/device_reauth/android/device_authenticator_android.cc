@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device authenticator implementation
+// summary: Implements the Android device authenticator, mapping UI authentication results to final results, logging auth outcome histograms, and handling validity periods.
+// ---
+
 #include "chrome/browser/device_reauth/android/device_authenticator_android.h"
 
 #include <memory>

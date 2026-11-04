@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android data sharing
+summary: Defines the allowed include directories for the Android data sharing browser code, covering bottom sheet UI, share components and collaboration APIs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migratable sync service coordinator factory implementation
+// summary: Implements the profile-keyed factory that builds a MigratableSyncServiceCoordinator for regular profiles and returns null for incognito contexts.
+// ---
+
 #include "chrome/browser/data_sharing/migration/migratable_sync_service_coordinator_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

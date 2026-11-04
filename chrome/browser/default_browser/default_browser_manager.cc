@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser manager implementation
+// summary: Implements DefaultBrowserManager, coordinating default browser checks, Windows registry ProgId validation, setter selection, and UMA logging of state validation results.
+// ---
+
 #include "chrome/browser/default_browser/default_browser_manager.h"
 
 #include <algorithm>

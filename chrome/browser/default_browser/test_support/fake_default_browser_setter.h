@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake default browser setter header
+// summary: Declares FakeDefaultBrowserSetter, a test fake overriding the DefaultBrowserSetter interface for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_DEFAULT_BROWSER_TEST_SUPPORT_FAKE_DEFAULT_BROWSER_SETTER_H_
 #define CHROME_BROWSER_DEFAULT_BROWSER_TEST_SUPPORT_FAKE_DEFAULT_BROWSER_SETTER_H_
 

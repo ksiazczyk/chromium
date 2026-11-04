@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token encryptor interface and cryptohome implementation
+// summary: Declares the TokenEncryptor interface and CryptohomeTokenEncryptor, which encrypt and decrypt tokens using the cryptohome system salt.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_IDENTITY_CHROMEOS_TOKEN_ENCRYPTOR_H_
 #define CHROME_BROWSER_DEVICE_IDENTITY_CHROMEOS_TOKEN_ENCRYPTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser visual guided setter browser tests
+// summary: Browser test verifying that executing the visual guided setter opens the guide tab and completes with NOT_DEFAULT when the tab is closed.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/ui/tabs/tab_enums.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

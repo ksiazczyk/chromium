@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing group data conversion utilities implementation
+// summary: Implements conversion of data sharing group members and group data from mojom types to protobuf messages.
+// ---
+
 #include "chrome/browser/data_sharing/desktop/data_sharing_conversion_utils.h"
 
 namespace data_sharing {

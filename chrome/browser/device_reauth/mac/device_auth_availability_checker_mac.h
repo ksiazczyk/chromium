@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthAvailabilityCheckerMac header
+// summary: Declares the Mac availability checker that reports Touch ID and password or screen lock authentication availability.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_MAC_DEVICE_AUTH_AVAILABILITY_CHECKER_MAC_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_MAC_DEVICE_AUTH_AVAILABILITY_CHECKER_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorChromeOS implementation for ChromeOS user reauthentication
+// summary: Implements user reauthentication on ChromeOS by showing the in-session auth dialog and checking fingerprint and PIN availability.
+// ---
+
 #include "chrome/browser/device_reauth/chromeos/authenticator_chromeos.h"
 
 #include <algorithm>

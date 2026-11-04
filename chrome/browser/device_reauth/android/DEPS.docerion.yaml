@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android device reauth
+summary: Specifies the allowed include and dependency rules for the Android device reauth directory.

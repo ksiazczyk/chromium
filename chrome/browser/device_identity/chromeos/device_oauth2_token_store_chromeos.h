@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS device OAuth2 token store class declaration
+// summary: Declares DeviceOAuth2TokenStoreChromeOS, the ChromeOS implementation of DeviceOAuth2TokenStore for storing and retrieving encrypted device refresh tokens.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_IDENTITY_CHROMEOS_DEVICE_OAUTH2_TOKEN_STORE_CHROMEOS_H_
 #define CHROME_BROWSER_DEVICE_IDENTITY_CHROMEOS_DEVICE_OAUTH2_TOKEN_STORE_CHROMEOS_H_
 

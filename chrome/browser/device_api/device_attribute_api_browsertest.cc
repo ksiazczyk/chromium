@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device attribute API browser tests
+// summary: Browser tests verifying that device attribute APIs return policy-set values and nullopt when the attributes are unset on ChromeOS.
+// ---
+
 #include "chrome/browser/device_api/device_attribute_api.h"
 
 #include "base/test/gmock_expected_support.h"

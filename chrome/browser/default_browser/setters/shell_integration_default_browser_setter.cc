@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell integration default browser setter implementation
+// summary: Implements the shell integration setter that starts a DefaultBrowserWorker to set Chrome as the default browser and reports the resulting state via callback.
+// ---
+
 #include "chrome/browser/default_browser/setters/shell_integration_default_browser_setter.h"
 
 #include <utility>

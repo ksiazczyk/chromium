@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the default browser directory
+summary: Lists the email addresses of the code owners responsible for reviewing changes in this directory.

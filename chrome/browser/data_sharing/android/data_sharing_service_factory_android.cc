@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI glue for the data sharing service factory
+// summary: Implements a JNI entry point that returns the DataSharingService instance associated with a given profile to the Java layer.
+// ---
+
 #include "chrome/browser/data_sharing/data_sharing_service_factory.h"
 
 #include "base/android/scoped_java_ref.h"

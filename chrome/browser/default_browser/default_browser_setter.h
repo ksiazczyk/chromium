@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser setter interface header
+// summary: Declares the DefaultBrowserSetter interface and the DefaultBrowserSetterType enum for setting Chrome as the system default browser.
+// ---
+
 #ifndef CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_BROWSER_SETTER_H_
 #define CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_BROWSER_SETTER_H_
 

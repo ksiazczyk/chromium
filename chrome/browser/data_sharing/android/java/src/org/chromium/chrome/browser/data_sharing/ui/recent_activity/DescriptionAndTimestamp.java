@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DescriptionAndTimestamp data class for recent activity rows
+// summary: Holds the description, separator and timestamp strings plus a resource ID used to render a recent activity row line.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.recent_activity;
 
 import org.chromium.build.annotations.NullMarked;

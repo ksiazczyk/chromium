@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevUI loader error page implementation
+// summary: Builds the HTML for the DevUI loader error page by filling a template with localized strings for the error heading and recovery suggestions.
+// ---
+
 #include "chrome/browser/dev_ui/android/dev_ui_loader_error_page.h"
 
 #include "chrome/grit/browser_resources.h"

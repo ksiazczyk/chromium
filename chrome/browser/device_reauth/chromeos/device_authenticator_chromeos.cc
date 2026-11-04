@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthenticatorChromeOS implementation
+// summary: Implements ChromeOS device reauthentication with validity periods, biometric and PIN availability checks and auth result metrics.
+// ---
+
 #include "chrome/browser/device_reauth/chromeos/device_authenticator_chromeos.h"
 
 #include "base/metrics/histogram_functions.h"

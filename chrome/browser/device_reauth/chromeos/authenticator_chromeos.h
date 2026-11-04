@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorChromeOS interface and biometrics status enum
+// summary: Declares the AuthenticatorChromeOSInterface, the AuthenticatorChromeOS implementation and the BiometricsStatusChromeOS enum for ChromeOS authentication.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_CHROMEOS_AUTHENTICATOR_CHROMEOS_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_CHROMEOS_AUTHENTICATOR_CHROMEOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time after setter failure tracker header
+// summary: Declares TimeAfterSetterFailureTracker, which measures conversion rate and time-to-set-default after the primary default browser setter fails.
+// ---
+
 #ifndef CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_BROWSER_TIME_AFTER_SETTER_FAILURE_TRACKER_H_
 #define CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_BROWSER_TIME_AFTER_SETTER_FAILURE_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device service interface
+// summary: Declares DeviceServiceImpl, a document-scoped mojo service that exposes device attributes to trusted web applications and disconnects when trust is revoked.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_API_DEVICE_SERVICE_IMPL_H_
 #define CHROME_BROWSER_DEVICE_API_DEVICE_SERVICE_IMPL_H_
 

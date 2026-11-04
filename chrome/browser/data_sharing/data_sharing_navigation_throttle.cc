@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing navigation throttle implementation
+// summary: Implements a navigation throttle that intercepts share URL navigations and forwards them to the collaboration service, closing the tab on Android.
+// ---
+
 #include "chrome/browser/data_sharing/data_sharing_navigation_throttle.h"
 
 #include "chrome/browser/collaboration/collaboration_service_factory.h"

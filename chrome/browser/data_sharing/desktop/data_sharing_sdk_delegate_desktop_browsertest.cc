@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for the desktop data sharing SDK delegate
+// summary: Browser test verifying that reading a group loads the untrusted data sharing API WebUI contents.
+// ---
+
 #include "chrome/browser/data_sharing/desktop/data_sharing_sdk_delegate_desktop.h"
 
 #include "base/functional/callback.h"

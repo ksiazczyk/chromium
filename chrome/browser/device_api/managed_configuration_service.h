@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed configuration service header
+// summary: Declares ManagedConfigurationServiceImpl, a DocumentService exposing the blink managed configuration Mojo interface and observer notifications.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_API_MANAGED_CONFIGURATION_SERVICE_H_
 #define CHROME_BROWSER_DEVICE_API_MANAGED_CONFIGURATION_SERVICE_H_
 

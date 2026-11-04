@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Android device authenticator
+// summary: Unit tests for the Android device authenticator using a mock bridge, covering auth validity windows, result handling, and histogram logging.
+// ---
+
 #include "chrome/browser/device_reauth/android/device_authenticator_android.h"
 
 #include <memory>

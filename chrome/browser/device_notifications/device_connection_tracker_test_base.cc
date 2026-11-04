@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device connection tracker test base implementation
+// summary: Implements shared browser test logic for device connection trackers, covering connection counting, whitelisted origins, extensions, and profile teardown.
+// ---
+
 #include "chrome/browser/device_notifications/device_connection_tracker_test_base.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageTilesView
+// summary: Custom LinearLayout that renders the shared image tiles, applying configuration styling and showing icon, count and manage tiles.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.shared_image_tiles;
 
 import android.content.Context;

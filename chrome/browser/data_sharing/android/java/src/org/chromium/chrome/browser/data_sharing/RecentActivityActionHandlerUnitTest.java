@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent activity action handler unit tests
+// summary: Robolectric unit tests covering tab focusing, tab reopening and dialog actions of RecentActivityActionHandlerImpl with mocked tab model services.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.mockito.ArgumentMatchers.any;

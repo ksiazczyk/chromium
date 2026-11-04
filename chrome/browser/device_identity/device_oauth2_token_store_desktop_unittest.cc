@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceOAuth2TokenStoreDesktop unit tests
+// summary: Unit tests for the desktop token store covering initialization with and without a saved token, token decryption, and observer notifications on account changes.
+// ---
+
 #include "chrome/browser/device_identity/device_oauth2_token_store_desktop.h"
 
 #include "base/base64.h"

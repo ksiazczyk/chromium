@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device API build configuration
+summary: GN build rules defining the device_api, impl, unit_tests and browser_tests source sets with their dependencies for the device API directory.

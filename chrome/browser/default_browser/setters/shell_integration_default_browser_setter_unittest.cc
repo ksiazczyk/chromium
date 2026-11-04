@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell integration default browser setter unit tests
+// summary: Unit tests checking that the shell integration setter completes its callback and handles a second Execute call before the first worker finishes.
+// ---
+
 #include "chrome/browser/default_browser/setters/shell_integration_default_browser_setter.h"
 
 #include "base/test/test_future.h"

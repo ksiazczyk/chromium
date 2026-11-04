@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for desktop to iOS promo utilities
+// summary: Tests histogram recording, impression counters, eligibility rules and pref behavior of the desktop to iOS promo utilities using test profiles and sync services.
+// ---
+
 #include "chrome/browser/desktop_to_mobile_promos/promos_utils.h"
 
 #include "base/json/values_util.h"

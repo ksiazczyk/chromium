@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthenticatorMac header
+// summary: Declares the Mac device authenticator that triggers Touch ID or password reauthentication flows and supports cancellation.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_MAC_DEVICE_AUTHENTICATOR_MAC_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_MAC_DEVICE_AUTHENTICATOR_MAC_H_
 

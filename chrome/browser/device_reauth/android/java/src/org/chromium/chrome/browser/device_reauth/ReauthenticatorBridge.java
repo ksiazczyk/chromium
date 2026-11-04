@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReauthenticatorBridge
+// summary: Java bridge that owns and communicates with the C++ counterpart for device lock reauthentication, forwarding reauthenticate requests and availability status.
+// ---
+
 package org.chromium.chrome.browser.device_reauth;
 
 import android.app.Activity;

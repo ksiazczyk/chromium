@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device reauth build configuration
+summary: Defines GN source sets for the device reauth module, listing platform-specific public headers, implementation sources, dependencies, and unit tests for Android, ChromeOS, Mac, and Windows.

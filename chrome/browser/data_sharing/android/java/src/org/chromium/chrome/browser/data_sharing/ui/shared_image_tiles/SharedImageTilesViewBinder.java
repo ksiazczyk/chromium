@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageTilesViewBinder
+// summary: Binds shared image tiles model property changes to view updates such as applying the config, resetting icon tiles and showing the count or manage tile.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.shared_image_tiles;
 
 import static org.chromium.chrome.browser.data_sharing.ui.shared_image_tiles.SharedImageTilesProperties.ICON_TILES;

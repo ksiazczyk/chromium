@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevUI loader navigation throttle implementation
+// summary: Implements a navigation throttle that delays DevUI WebUI navigations until the DevUI dynamic feature module is installed, showing an error page on failure.
+// ---
+
 #include "chrome/browser/dev_ui/android/dev_ui_loader_throttle.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Data sharing include dependency rules
+summary: DEPS rules restricting includes to allowed data sharing component headers and collaboration test support.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device system tray icon implementation
+// summary: Implements profile staging and unstaging for the device system tray icon, including delayed removal of unstaged profiles.
+// ---
+
 #include "chrome/browser/device_notifications/device_system_tray_icon.h"
 #include "chrome/browser/device_notifications/device_system_tray_icon_renderer.h"
 #include "chrome/browser/profiles/profile.h"

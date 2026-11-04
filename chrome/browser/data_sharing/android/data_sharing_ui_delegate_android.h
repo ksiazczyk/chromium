@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android data sharing UI delegate class
+// summary: Declares DataSharingUIDelegateAndroid, the Android-side DataSharingUIDelegate that bridges intercepted share URLs to a Java object.
+// ---
+
 #ifndef CHROME_BROWSER_DATA_SHARING_ANDROID_DATA_SHARING_UI_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_DATA_SHARING_ANDROID_DATA_SHARING_UI_DELEGATE_ANDROID_H_
 

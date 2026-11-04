@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser manager unit tests
+// summary: Unit tests for DefaultBrowserManager with fake shell delegates and monitors, covering state checks, change notifications, histograms, and Windows registry behavior.
+// ---
+
 #include "chrome/browser/default_browser/default_browser_manager.h"
 
 #include <memory>

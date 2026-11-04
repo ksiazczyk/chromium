@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersioningModalDialog
+// summary: Constructs and shows a modal dialog suggesting the user update Chrome, with the positive action opening the Play Store.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.versioning;
 
 import static org.chromium.ui.modaldialog.ModalDialogProperties.ALL_KEYS;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome token encryptor implementation
+// summary: Implements CryptohomeTokenEncryptor, which encrypts and decrypts tokens with AES-CTR using a key derived from the system salt.
+// ---
+
 #include "chrome/browser/device_identity/chromeos/token_encryptor.h"
 
 #include <stddef.h>

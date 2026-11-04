@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent activity container view binder
+// summary: Binds container view properties to views, toggling the empty state and wiring the recent activity menu button.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.recent_activity;
 
 import android.view.View;

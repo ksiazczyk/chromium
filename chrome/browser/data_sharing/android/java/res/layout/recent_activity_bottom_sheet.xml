@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Recent activity bottom sheet layout
+summary: Android layout for the data sharing recent activity bottom sheet, with a title row, menu button, empty-state text and a RecyclerView for activity entries.
+-->
+
 <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"

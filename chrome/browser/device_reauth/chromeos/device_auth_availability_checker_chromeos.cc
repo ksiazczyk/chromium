@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthAvailabilityCheckerChromeOS implementation
+// summary: Checks biometric and PIN authentication availability on ChromeOS, caches PIN availability in local state and records availability metrics.
+// ---
+
 #include "chrome/browser/device_reauth/chromeos/device_auth_availability_checker_chromeos.h"
 
 #include "base/check.h"

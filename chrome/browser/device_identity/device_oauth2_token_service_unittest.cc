@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DeviceOAuth2TokenService
+// summary: Tests token requests, refresh token validation, and error handling using a mock device OAuth2 token store.
+// ---
+
 #include "chrome/browser/device_identity/device_oauth2_token_service.h"
 
 #include <stdint.h>

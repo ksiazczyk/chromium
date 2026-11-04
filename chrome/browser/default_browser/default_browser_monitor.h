@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser monitor header
+// summary: Declares DefaultBrowserMonitor, a platform-agnostic observer for system default browser changes with platform-specific monitoring implementations.
+// ---
+
 #ifndef CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_BROWSER_MONITOR_H_
 #define CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_BROWSER_MONITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent activity bottom sheet render tests
+// summary: Render tests for the recent activity bottom sheet, parameterized for default and night mode using a render test rule.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.recent_activity;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -1,0 +1,4 @@
+# Docerion header of device_auth_availability_checker_mac.mm.
+type: source
+title: DeviceAuthAvailabilityCheckerMac implementation
+summary: Implements Mac availability checks, logging biometrics metrics and recording a pref when biometrics are available.

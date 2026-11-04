@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Device notifications OWNERS file
+summary: Delegates code ownership review of the device notifications directory to the USB and HID browser OWNERS files.

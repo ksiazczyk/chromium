@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceAuthenticatorControllerTest
+// summary: Robolectric unit tests for DeviceAuthenticatorController covering availability checks and authentication behavior using a shadowed BiometricManager.
+// ---
+
 package org.chromium.chrome.browser.device_reauth;
 
 import static org.junit.Assert.assertEquals;

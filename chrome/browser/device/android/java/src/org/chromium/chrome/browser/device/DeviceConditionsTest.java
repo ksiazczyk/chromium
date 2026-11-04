@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceConditionsTest
+// summary: Robolectric unit tests for DeviceConditions that mock battery, connectivity, power and keyguard services to verify condition detection under various device states.
+// ---
+
 package org.chromium.chrome.browser.device;
 
 import static com.google.common.truth.Truth.assertThat;

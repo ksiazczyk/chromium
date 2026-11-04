@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Data Sharing Android Color Resources
+summary: Defines light and dark text colors used by the small shared image tiles in the Android data sharing UI.
+-->
+
 <resources>
   <color name="small_shared_image_tiles_text_color_light">@color/baseline_neutral_100</color>
   <color name="small_shared_image_tiles_text_color_dark">@color/baseline_neutral_10</color>

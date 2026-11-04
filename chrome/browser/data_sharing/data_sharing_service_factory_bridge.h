@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing service factory JNI bridge header
+// summary: Declares the JNI bridge class used to create the Java SDK delegate for the data sharing service.
+// ---
+
 #ifndef CHROME_BROWSER_DATA_SHARING_DATA_SHARING_SERVICE_FACTORY_BRIDGE_H_
 #define CHROME_BROWSER_DATA_SHARING_DATA_SHARING_SERVICE_FACTORY_BRIDGE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the default browser win target
+summary: Defines the win source set containing the settings window finder sources and a unit_tests target with its test dependencies.

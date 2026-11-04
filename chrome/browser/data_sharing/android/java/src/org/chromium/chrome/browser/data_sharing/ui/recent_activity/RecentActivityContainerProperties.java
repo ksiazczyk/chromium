@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent activity container view properties
+// summary: Defines the property keys for the recent activity list container view, including empty state visibility and menu click listener.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.recent_activity;
 
 import android.view.View.OnClickListener;
