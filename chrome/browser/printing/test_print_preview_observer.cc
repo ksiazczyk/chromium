@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test print preview observer implementation
+// summary: Implements a PrintPreviewUI test delegate that tracks rendered preview pages and waits until the preview is ready or fails.
+// ---
+
 #include "chrome/browser/printing/test_print_preview_observer.h"
 
 #include <tuple>

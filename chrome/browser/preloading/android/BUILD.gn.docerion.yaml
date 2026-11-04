@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android preloading component
+summary: Defines JNI header generation, the Java android_library target, and the native source_set that builds the Android preloading bridges.

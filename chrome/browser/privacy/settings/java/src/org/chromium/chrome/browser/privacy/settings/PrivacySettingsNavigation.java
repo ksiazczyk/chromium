@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivacySettingsNavigation intent extras for PrivacySettings
+// summary: Defines intent extras for launching the PrivacySettings fragment, including an extra to scroll to the advanced-protection section.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import org.chromium.build.annotations.NullMarked;

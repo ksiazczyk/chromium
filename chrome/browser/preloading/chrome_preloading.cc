@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome preloading helpers implementation
+// summary: Implements eligibility conversion and canonical omnibox search URL matching helpers used for preloading decisions.
+// ---
+
 #include "chrome/browser/preloading/chrome_preloading.h"
 
 #include "chrome/browser/profiles/profile.h"

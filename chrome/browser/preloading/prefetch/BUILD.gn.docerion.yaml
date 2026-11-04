@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Prefetch build targets (BUILD.gn)
+summary: Defines GN source sets for the prefetch directory, including the prefetch manager, test support, platform browser tests, unit tests, and zero-suggest prefetch targets.

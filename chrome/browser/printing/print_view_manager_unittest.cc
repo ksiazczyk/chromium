@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintViewManager unit tests
+// summary: Tests for the print view manager, including Windows-specific printer query fakes for offsets and printer language types.
+// ---
+
 #include "chrome/browser/printing/print_view_manager.h"
 
 #include <memory>

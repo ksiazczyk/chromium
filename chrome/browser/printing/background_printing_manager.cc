@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background printing manager implementation
+// summary: Implements management of hidden print preview WebContents that print in the background, cleaning them up when printing finishes or fails.
+// ---
+
 #include "chrome/browser/printing/background_printing_manager.h"
 
 #include "base/location.h"

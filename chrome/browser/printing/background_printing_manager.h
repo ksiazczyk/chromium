@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background printing manager class declaration
+// summary: Declares BackgroundPrintingManager, which takes ownership of hidden print preview WebContents and deletes them once printing completes.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_BACKGROUND_PRINTING_MANAGER_H_
 #define CHROME_BROWSER_PRINTING_BACKGROUND_PRINTING_MANAGER_H_
 

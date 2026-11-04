@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing service declaration
+// summary: Declares GetPrintingService, which acquires a remote handle to the sandboxed printing service, launching its host process if needed.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINTING_SERVICE_H_
 #define CHROME_BROWSER_PRINTING_PRINTING_SERVICE_H_
 

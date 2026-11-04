@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing initialization declaration
+// summary: Declares functions that initialize printing for a WebContents and early-start the print backend service after browser startup.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINTING_INIT_H_
 #define CHROME_BROWSER_PRINTING_PRINTING_INIT_H_
 

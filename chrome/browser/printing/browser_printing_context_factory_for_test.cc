@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test printing context factory implementation
+// summary: Creates configurable test PrintingContext instances that simulate printer errors, cancellations, job IDs and permission denials for browser printing tests.
+// ---
+
 #include "chrome/browser/printing/browser_printing_context_factory_for_test.h"
 
 #include <memory>

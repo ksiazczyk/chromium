@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search preload browser tests
+// summary: Browser tests covering DSE preload 2 behavior, including omnibox-triggered prefetch and prerender, histogram expectations, and preload lifecycle outcomes.
+// ---
+
 #include <limits>
 #include <string>
 

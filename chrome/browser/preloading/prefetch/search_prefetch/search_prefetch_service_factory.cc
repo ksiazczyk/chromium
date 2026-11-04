@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search prefetch service factory implementation
+// summary: Implements the profile-keyed factory that creates SearchPrefetchService instances, with incognito and DSE2 handling.
+// ---
+
 #include "chrome/browser/preloading/prefetch/search_prefetch/search_prefetch_service_factory.h"
 
 #include "base/no_destructor.h"

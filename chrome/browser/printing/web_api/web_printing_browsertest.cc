@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Printing API browser tests
+// summary: Browser tests exercising the Web Printing API in isolated web apps using a mocked CUPS wrapper and print job verification.
+// ---
+
 #include <cups/ipp.h>
 
 #include "base/functional/callback_helpers.h"

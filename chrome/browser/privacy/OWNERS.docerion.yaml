@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the privacy directory
+summary: Lists code owners for the directory, with per-file rules for BUILD.gn and traffic annotations plus dedicated Secure DNS reviewers.

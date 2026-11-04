@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete dictionary preload service implementation
+// summary: Implements preloading of compression dictionaries for omnibox autocomplete navigations, with a timer that deletes expired dictionaries.
+// ---
+
 #include "chrome/browser/preloading/autocomplete_dictionary_preload_service.h"
 
 #include <vector>

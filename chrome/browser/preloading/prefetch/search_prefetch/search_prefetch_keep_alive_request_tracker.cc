@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search prefetch keep-alive request tracker implementation
+// summary: Implements tracking of keep-alive beacon requests tied to search prefetch and records the final request stage to an Omnibox.SearchPrefetch histogram.
+// ---
+
 #include "chrome/browser/preloading/prefetch/search_prefetch/search_prefetch_keep_alive_request_tracker.h"
 
 #include "base/metrics/histogram_functions.h"

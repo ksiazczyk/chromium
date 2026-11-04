@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchLinkManagerFactory class declaration
+// summary: Declares the profile-keyed service factory that returns a NoStatePrefetchLinkManager for a given browser context.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PREFETCH_NO_STATE_PREFETCH_NO_STATE_PREFETCH_LINK_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_PRELOADING_PREFETCH_NO_STATE_PREFETCH_NO_STATE_PREFETCH_LINK_MANAGER_FACTORY_H_
 

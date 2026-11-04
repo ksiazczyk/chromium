@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search prefetch BUILD.gn build targets
+summary: Defines the GN source sets, public headers, and dependencies for the search prefetch implementation, field trial settings, and related targets.

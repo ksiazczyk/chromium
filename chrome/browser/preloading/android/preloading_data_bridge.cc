@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadingDataBridge JNI native implementation
+// summary: Native JNI bridge that sets an always-true navigation-in-domain callback for the Chrome Custom Tabs preloading predictor on a WebContents.
+// ---
+
 #include <jni.h>
 
 #include "chrome/browser/preloading/chrome_preloading.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure DNS provider preference UI control
+// summary: Android preference widget shown when Secure DNS is enabled, offering automatic and secure radio modes, a provider server menu, and custom DoH template entry with validation and probing.
+// ---
+
 package org.chromium.chrome.browser.privacy.secure_dns;
 
 import android.content.Context;

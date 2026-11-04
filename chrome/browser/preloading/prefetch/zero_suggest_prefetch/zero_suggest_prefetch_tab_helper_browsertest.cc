@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ZeroSuggestPrefetchTabHelper browser tests
+// summary: Browser tests for the tab helper's prefetch triggering, using a mocked AutocompleteController and scoped omnibox feature configs.
+// ---
+
 #include "chrome/browser/preloading/prefetch/zero_suggest_prefetch/zero_suggest_prefetch_tab_helper.h"
 
 #include <memory>

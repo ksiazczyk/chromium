@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintViewManagerBase class header
+// summary: Declares the base class that manages print commands for a WebContents, including print-now, print preview, and out-of-process printing support.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINT_VIEW_MANAGER_BASE_H_
 #define CHROME_BROWSER_PRINTING_PRINT_VIEW_MANAGER_BASE_H_
 

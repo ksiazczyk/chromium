@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintJobController class header
+// summary: Declares PrintJobController, the entry point to the printing pipeline that creates print jobs and reports acknowledgment via callback.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINT_JOB_CONTROLLER_H_
 #define CHROME_BROWSER_PRINTING_PRINT_JOB_CONTROLLER_H_
 

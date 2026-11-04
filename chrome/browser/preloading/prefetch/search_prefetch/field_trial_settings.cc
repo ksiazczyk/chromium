@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search prefetch feature and field trial parameters
+// summary: Defines search prefetch features and field trial parameters such as caching limits, attempt caps, error backoff, cache size, and navigation prefetch query params.
+// ---
+
 #include "chrome/browser/preloading/prefetch/search_prefetch/field_trial_settings.h"
 
 #include <string>

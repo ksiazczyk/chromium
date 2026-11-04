@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintViewManagerBase implementation
+// summary: Implements the base print view manager handling printer queries, print jobs, print parameter validation, and print error dialogs for browser printing.
+// ---
+
 #include "chrome/browser/printing/print_view_manager_base.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System access process printing browser tests
+// summary: Extensive browser tests for printing through the system access process, covering out-of-process printing and enterprise content analysis scenarios.
+// ---
+
 #include <memory>
 #include <optional>
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process printing feature query declarations
+// summary: Declares helpers that determine whether out-of-process printing is enabled and whether the print backend service should start early.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_OOP_FEATURES_H_
 #define CHROME_BROWSER_PRINTING_OOP_FEATURES_H_
 

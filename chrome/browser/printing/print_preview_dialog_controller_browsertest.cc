@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview dialog controller browser tests
+// summary: Browser tests exercising print preview dialog creation, initiator relationships, task manager tagging and dialog lifecycle behavior.
+// ---
+
 #include "chrome/browser/printing/print_preview_dialog_controller.h"
 
 #include <memory>

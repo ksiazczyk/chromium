@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch origin decider implementation
+// summary: Implements persistent per-origin Retry-After tracking in prefs so origins that returned 503 responses are not prefetched until their window expires.
+// ---
+
 #include "chrome/browser/preloading/prefetch/prefetch_service/prefetch_origin_decider.h"
 
 #include <memory>

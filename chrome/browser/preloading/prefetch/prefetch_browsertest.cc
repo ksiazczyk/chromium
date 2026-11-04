@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefetch browser tests
+// summary: Browser tests for prefetch behavior, covering CCT navigational prefetch with embedded test servers and UKM preloading attempt verification.
+// ---
+
 #include "base/path_service.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/timer/elapsed_timer.h"

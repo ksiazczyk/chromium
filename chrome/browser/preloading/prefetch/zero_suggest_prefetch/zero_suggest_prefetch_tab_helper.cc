@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZeroSuggestPrefetchTabHelper implementation
+// summary: Implements the tab helper that starts zero-suggest prefetch when a New Tab Page finishes loading or is brought to the foreground.
+// ---
+
 #include "chrome/browser/preloading/prefetch/zero_suggest_prefetch/zero_suggest_prefetch_tab_helper.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

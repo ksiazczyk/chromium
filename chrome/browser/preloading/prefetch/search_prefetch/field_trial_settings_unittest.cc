@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field trial settings unit tests
+// summary: Unit tests verifying that prefetch is suppressed for unsupported search modes according to the kSuppressPrefetchForUnsupportedSearchMode feature parameters.
+// ---
+
 #include "chrome/browser/preloading/prefetch/search_prefetch/field_trial_settings.h"
 
 #include "base/test/scoped_feature_list.h"

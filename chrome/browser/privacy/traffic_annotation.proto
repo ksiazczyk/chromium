@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network traffic annotation protobuf definitions
+// summary: Defines the protobuf schema for network traffic annotations that semantically classify Chrome network requests for auditing.
+// ---
+
 syntax = "proto3";
 package traffic_annotation;
 

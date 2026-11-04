@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS web printing service implementation
+// summary: Implements the ChromeOS WebPrintingService, covering permission checks, printer enumeration, attribute fetching, print job validation, and job creation via CUPS.
+// ---
+
 #include "chrome/browser/printing/web_api/web_printing_service_chromeos.h"
 
 #include <algorithm>

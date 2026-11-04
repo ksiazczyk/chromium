@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits declarations for Web Printing types
+// summary: Declares EnumTraits and StructTraits specializations mapping Blink Web Printing Mojo types to Chromium printing types.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_WEB_API_WEB_PRINTING_MOJOM_TRAITS_H_
 #define CHROME_BROWSER_PRINTING_WEB_API_WEB_PRINTING_MOJOM_TRAITS_H_
 

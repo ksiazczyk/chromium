@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview dialog controller implementation
+// summary: Implements the controller that creates and destroys print preview dialogs and manages their relationship with the initiating tabs.
+// ---
+
 #include "chrome/browser/printing/print_preview_dialog_controller.h"
 
 #include <algorithm>

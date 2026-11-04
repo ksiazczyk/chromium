@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing service accessor
+// summary: Launches the sandboxed printing service process on demand and returns a shared Mojo remote that resets on disconnect or idle timeout.
+// ---
+
 #include "chrome/browser/printing/printing_service.h"
 
 #include "base/no_destructor.h"

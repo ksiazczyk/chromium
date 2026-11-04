@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print backend service manager unit tests
+// summary: Unit tests verifying idle timeout updates for registered query, query-with-UI, and print document clients in PrintBackendServiceManager.
+// ---
+
 #include "chrome/browser/printing/print_backend_service_manager.h"
 
 #include <optional>

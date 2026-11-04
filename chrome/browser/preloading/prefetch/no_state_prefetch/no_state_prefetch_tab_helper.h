@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchTabHelper class declaration
+// summary: Declares a WebContentsObserver that notifies the NoStatePrefetchManager about events happening in the WebContents for no-state prefetch.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PREFETCH_NO_STATE_PREFETCH_NO_STATE_PREFETCH_TAB_HELPER_H_
 #define CHROME_BROWSER_PRELOADING_PREFETCH_NO_STATE_PREFETCH_NO_STATE_PREFETCH_TAB_HELPER_H_
 

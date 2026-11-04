@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchPreloadProgressService unit tests
+// summary: Unit tests for SearchPreloadProgressService covering prewarm start and finish tracking, multiple concurrent prewarms, observer notifications, and the blackout period that blocks prewarming.
+// ---
+
 #include "chrome/browser/preloading/prerender/search_preload_progress_service.h"
 
 #include "base/test/bind.h"

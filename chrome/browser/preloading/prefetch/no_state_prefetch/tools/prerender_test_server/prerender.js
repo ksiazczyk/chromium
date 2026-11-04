@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender test page script
+// summary: Adds a prerender link element for the URL entered on the test page and updates the progress and navigation anchor.
+// ---
+
 function add_link(url, rel) {
   var link = document.getElementById(rel) || document.createElement('link');
   link.id = rel;

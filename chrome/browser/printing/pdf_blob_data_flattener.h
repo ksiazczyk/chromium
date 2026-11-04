@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF blob data flattener header
+// summary: Declares PdfBlobDataFlattener and FlattenPdfResult for reading and flattening PDF blobs into MetafileSkia, a class built only on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PDF_BLOB_DATA_FLATTENER_H_
 #define CHROME_BROWSER_PRINTING_PDF_BLOB_DATA_FLATTENER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-state prefetch link manager factory implementation
+// summary: Implements the profile-keyed factory that creates a NoStatePrefetchLinkManager tied to the no-state prefetch manager for each browser context.
+// ---
+
 #include "chrome/browser/preloading/prefetch/no_state_prefetch/no_state_prefetch_link_manager_factory.h"
 
 #include "chrome/browser/preloading/prefetch/no_state_prefetch/no_state_prefetch_manager_factory.h"

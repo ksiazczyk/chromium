@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Prefetch service bug tracker metadata (DIR_METADATA)
+summary: Routes bugs for this directory to the Internals>Preload>PrefetchProxy component in Monorail and Buganizer.

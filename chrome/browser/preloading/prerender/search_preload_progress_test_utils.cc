@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search prewarm test observer implementation
+// summary: Implements SearchPreloadProgressTestObserver, which subscribes to search prewarm finished callbacks and signals a run loop when a notification arrives.
+// ---
+
 #include "chrome/browser/preloading/prerender/search_preload_progress_test_utils.h"
 
 #include "base/functional/bind.h"

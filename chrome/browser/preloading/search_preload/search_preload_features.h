@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DSE preload 2 feature flag declarations
+// summary: Declares the DsePreload2 features, feature parameters, prefetch priority policy enum, and enablement query functions for search preload.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_SEARCH_PRELOAD_SEARCH_PRELOAD_FEATURES_H_
 #define CHROME_BROWSER_PRELOADING_SEARCH_PRELOAD_SEARCH_PRELOAD_FEATURES_H_
 

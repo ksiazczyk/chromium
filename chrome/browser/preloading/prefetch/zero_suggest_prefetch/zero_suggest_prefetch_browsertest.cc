@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zero-suggest prefetch browser tests
+// summary: Browser tests verifying that zero-suggest prefetch is triggered when the New Tab Page finishes loading, including a disabled-feature Android case.
+// ---
+
 #include "base/location.h"
 #include "base/run_loop.h"
 #include "base/scoped_observation.h"

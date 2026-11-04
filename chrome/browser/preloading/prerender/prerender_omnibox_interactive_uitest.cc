@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox prerender interactive UI tests
+// summary: Interactive browser tests verifying omnibox-triggered prerendering, preloading UKM metrics, and navigation behavior for search suggestions.
+// ---
+
 #include <algorithm>
 #include <ranges>
 #include <string>

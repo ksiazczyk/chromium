@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome prefetch service delegate implementation
+// summary: Implements the Chrome-level prefetch service delegate, supplying profile-based values such as the accept-language header, prefetch proxy host, canary URLs, API key, and preloading eligibility checks.
+// ---
+
 #include "chrome/browser/preloading/prefetch/prefetch_service/chrome_prefetch_service_delegate.h"
 
 #include "chrome/browser/battery/battery_saver.h"

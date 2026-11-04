@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DSE prewarm navigation throttle implementation
+// summary: Implements a navigation throttle that defers user navigations to the default search engine origin while a DSE prewarm is ongoing.
+// ---
+
 #include "chrome/browser/preloading/prerender/dse_prewarm_navigation_throttle.h"
 
 #include "base/feature_list.h"

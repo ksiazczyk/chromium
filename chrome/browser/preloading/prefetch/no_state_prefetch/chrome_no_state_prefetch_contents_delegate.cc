@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome no-state prefetch contents delegate implementation
+// summary: Implements the Chrome delegate for no-state prefetch contents, wiring page load metrics, extension tab helpers, and task manager tags.
+// ---
+
 #include "chrome/browser/preloading/prefetch/no_state_prefetch/chrome_no_state_prefetch_contents_delegate.h"
 
 #include "build/build_config.h"

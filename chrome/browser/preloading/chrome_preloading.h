@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome preloading predictor definitions
+// summary: Defines Chrome preloading predictor constants and embedder triggering mechanisms used to start preloading operations.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_CHROME_PRELOADING_H_
 #define CHROME_BROWSER_PRELOADING_CHROME_PRELOADING_H_
 

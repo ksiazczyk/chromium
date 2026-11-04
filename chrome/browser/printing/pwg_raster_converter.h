@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PwgRasterConverter interface
+// summary: Declares the PwgRasterConverter interface for converting PDF data to PWG raster with settings derived from printer capabilities and the print ticket.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PWG_RASTER_CONVERTER_H_
 #define CHROME_BROWSER_PRINTING_PWG_RASTER_CONVERTER_H_
 

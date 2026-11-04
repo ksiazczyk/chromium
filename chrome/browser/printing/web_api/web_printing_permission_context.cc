@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Printing permission context implementation
+// summary: Implements the permission context for the WEB_PRINTING content setting, recording allowed or blocked usage per frame.
+// ---
+
 #include "chrome/browser/printing/web_api/web_printing_permission_context.h"
 
 #include "components/content_settings/browser/page_specific_content_settings.h"

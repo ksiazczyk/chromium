@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for browser printing
+summary: Defines the printing and impl source sets with their headers, sources and dependencies, gated by printing and out-of-process build flags.

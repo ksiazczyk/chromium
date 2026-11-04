@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePrefetchManager header
+// summary: Declares the ChromePrefetchManager WebContentsUserData class that manages all prefetch triggers from //chrome and tracks active prefetch handles.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PREFETCH_CHROME_PREFETCH_MANAGER_H_
 #define CHROME_BROWSER_PRELOADING_PREFETCH_CHROME_PREFETCH_MANAGER_H_
 

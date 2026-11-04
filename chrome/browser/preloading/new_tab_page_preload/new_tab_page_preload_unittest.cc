@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page preload pipeline manager unit tests
+// summary: Unit tests for the pipeline manager that verify search-related URLs are disallowed from New Tab Page prerendering and check recorded histograms.
+// ---
+
 #include <string>
 
 #include "chrome/browser/preloading/chrome_preloading.h"

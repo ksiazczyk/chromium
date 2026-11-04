@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web printing utility helpers implementation
+// summary: Implements a helper that finds an advanced printer capability by name within printer semantic capabilities.
+// ---
+
 #include "chrome/browser/printing/web_api/web_printing_utils.h"
 
 #include <algorithm>

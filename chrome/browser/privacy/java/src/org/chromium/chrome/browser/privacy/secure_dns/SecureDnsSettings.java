@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure DNS settings fragment
+// summary: Settings fragment that manages the Secure DNS toggle switch and provider preference, builds summary text for the parent screen, and respects policy-managed state.
+// ---
+
 package org.chromium.chrome.browser.privacy.secure_dns;
 
 import android.content.Context;

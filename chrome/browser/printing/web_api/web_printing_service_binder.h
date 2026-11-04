@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web printing service binder for render frames
+// summary: Declares a function that creates a WebPrintingService Mojo binding for a render frame when all necessary conditions are met.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_WEB_API_WEB_PRINTING_SERVICE_BINDER_H_
 #define CHROME_BROWSER_PRINTING_WEB_API_WEB_PRINTING_SERVICE_BINDER_H_
 

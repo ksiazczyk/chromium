@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process printer query implementation
+// summary: Implements PrinterQueryOop, routing printer settings queries and printable area updates through the print backend service for out-of-process printing.
+// ---
+
 #include "chrome/browser/printing/printer_query_oop.h"
 
 #include <memory>

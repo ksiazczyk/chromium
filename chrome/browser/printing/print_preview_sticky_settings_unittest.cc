@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview sticky settings unit tests
+// summary: Unit tests verifying extraction of recently used printers and their ranks from stored sticky settings state, including the case with no recent destinations.
+// ---
+
 #include "chrome/browser/printing/print_preview_sticky_settings.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

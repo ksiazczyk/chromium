@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printing browser tests
+// summary: Browser tests covering Chrome printing flows such as print preview, window.print, extension printing, and rendered page output.
+// ---
+
 #include "chrome/browser/printing/print_browsertest.h"
 
 #include <algorithm>

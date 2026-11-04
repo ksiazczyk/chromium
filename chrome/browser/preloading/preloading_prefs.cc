@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading preference helpers
+// summary: Implements helpers that register the network prediction pref, convert between preload page states, and check whether some preloading is enabled.
+// ---
+
 #include "chrome/browser/preloading/preloading_prefs.h"
 
 #include "chrome/browser/battery/battery_saver.h"

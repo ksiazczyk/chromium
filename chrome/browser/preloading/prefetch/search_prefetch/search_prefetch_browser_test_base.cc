@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search prefetch browser test base implementation
+// summary: Implements a shared browser test base class that starts search and suggest test servers, sets the default search engine, and provides helpers for prefetch tests.
+// ---
+
 #include "chrome/browser/preloading/prefetch/search_prefetch/search_prefetch_browser_test_base.h"
 
 #include <ranges>

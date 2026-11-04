@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print error dialog header
+// summary: Declares functions that show printing error dialogs for invalid printer or generic errors, plus a test hook to replace the dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINT_ERROR_DIALOG_H_
 #define CHROME_BROWSER_PRINTING_PRINT_ERROR_DIALOG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintViewManagerBasic class header
+// summary: Declares the basic per-WebContents print manager, with Android print initiation, finishing, and PDF writing callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINT_VIEW_MANAGER_BASIC_H_
 #define CHROME_BROWSER_PRINTING_PRINT_VIEW_MANAGER_BASIC_H_
 

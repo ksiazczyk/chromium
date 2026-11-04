@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintJobWorker class header
+// summary: Declares PrintJobWorker and PrintJobWorkerThread, which manage the blocking PrintingContext on a worker thread and report status to PrintJob.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINT_JOB_WORKER_H_
 #define CHROME_BROWSER_PRINTING_PRINT_JOB_WORKER_H_
 

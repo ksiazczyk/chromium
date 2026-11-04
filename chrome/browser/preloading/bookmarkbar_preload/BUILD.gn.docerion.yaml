@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bookmark bar preload build targets
+summary: Defines GN source sets for the bookmark bar preload pipeline, its manager, and their unit tests, along with their build dependencies.

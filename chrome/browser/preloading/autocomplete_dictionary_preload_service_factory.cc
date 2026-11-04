@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete dictionary preload service factory implementation
+// summary: Implements the profile-keyed factory that builds the autocomplete dictionary preload service for selected profile types.
+// ---
+
 #include "chrome/browser/preloading/autocomplete_dictionary_preload_service_factory.h"
 
 #include "base/no_destructor.h"

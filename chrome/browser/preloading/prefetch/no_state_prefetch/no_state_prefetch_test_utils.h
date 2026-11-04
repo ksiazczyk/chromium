@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-state prefetch browser test utilities header
+// summary: Declares TestNoStatePrefetchContents, TestPrerender and related helpers for tracking prefetch final status in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PREFETCH_NO_STATE_PREFETCH_NO_STATE_PREFETCH_TEST_UTILS_H_
 #define CHROME_BROWSER_PRELOADING_PREFETCH_NO_STATE_PREFETCH_NO_STATE_PREFETCH_TEST_UTILS_H_
 

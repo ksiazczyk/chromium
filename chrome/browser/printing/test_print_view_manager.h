@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPrintViewManager test double for printing
+// summary: Test double of PrintViewManager that starts printing, waits for print jobs, snoops print parameters, and can simulate PDF conversion errors on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_TEST_PRINT_VIEW_MANAGER_H_
 #define CHROME_BROWSER_PRINTING_TEST_PRINT_VIEW_MANAGER_H_
 

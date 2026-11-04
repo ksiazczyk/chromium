@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer query class declaration
+// summary: Declares PrinterQuery, which queries printers for settings on the UI thread and transfers its printing context to a new print job worker.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINTER_QUERY_H_
 #define CHROME_BROWSER_PRINTING_PRINTER_QUERY_H_
 

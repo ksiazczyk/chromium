@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search prefetch URL loader interceptor implementation
+// summary: Implements interception of main frame search navigations so prefetched responses can be served, optionally proxying handlers through the Extensions Web Request API.
+// ---
+
 #include "chrome/browser/preloading/prefetch/search_prefetch/search_prefetch_url_loader_interceptor.h"
 
 #include <cstddef>

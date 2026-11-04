@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-progress print jobs storage class declaration
+// summary: Declares InProgressJobsStorageChromeOS, which tracks CUPS print jobs and dispatches state updates to Mojo state observers.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_WEB_API_IN_PROGRESS_JOBS_STORAGE_CHROMEOS_H_
 #define CHROME_BROWSER_PRINTING_WEB_API_IN_PROGRESS_JOBS_STORAGE_CHROMEOS_H_
 

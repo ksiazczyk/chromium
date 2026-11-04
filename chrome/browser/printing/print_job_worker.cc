@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintJobWorker implementation
+// summary: Implements PrintJobWorker, which runs printing on a worker thread and manages the PrintingContext for spooling pages.
+// ---
+
 #include "chrome/browser/printing/print_job_worker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search preload test response utils implementation
+// summary: Implements deferrable embedded test server responses that let search preload browser tests control when headers and body chunks are dispatched.
+// ---
+
 #include "search_preload_test_response_utils.h"
 
 #include <memory>

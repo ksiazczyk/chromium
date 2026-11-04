@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview browser test fixture header
+// summary: Declares the PrintPreviewBrowserTest fixture with test print backend and optional out-of-process printing service members for reuse by print preview tests.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINT_PREVIEW_BROWSERTEST_H_
 #define CHROME_BROWSER_PRINTING_PRINT_PREVIEW_BROWSERTEST_H_
 

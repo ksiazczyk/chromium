@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer query implementation
+// summary: Implements PrinterQuery to obtain printer settings via PrintingContext and transfer the context to a print job worker, with out-of-process printing support.
+// ---
+
 #include "chrome/browser/printing/printer_query.h"
 
 #include <memory>

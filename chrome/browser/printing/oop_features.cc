@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process printing feature queries
+// summary: Implements checks that combine feature flags and policy preferences to decide whether printing jobs run out-of-process.
+// ---
+
 #include "chrome/browser/printing/oop_features.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing preferences utilities header
+// summary: Declares printing preference helpers for parsing the default paper size and determining out-of-process printing support.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PREFS_UTIL_H_
 #define CHROME_BROWSER_PRINTING_PREFS_UTIL_H_
 

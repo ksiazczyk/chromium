@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading utility implementations
+// summary: Implements preloading helpers, including ShouldAllowPrefetchRedirection, which blocks prefetch redirects for search results pages on bookmark bar and new tab triggers.
+// ---
+
 #include "chrome/browser/preloading/preloading_utils.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Prefetch service build targets (BUILD.gn)
+summary: Defines GN source sets for the prefetch service, listing public headers and dependencies for the delegate and origin decider implementations.

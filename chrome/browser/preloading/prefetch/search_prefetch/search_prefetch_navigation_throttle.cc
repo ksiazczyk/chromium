@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search prefetch navigation throttle implementation
+// summary: Implements a navigation throttle that marks main-frame navigations served by search prefetch for metrics.
+// ---
+
 #include "chrome/browser/preloading/prefetch/search_prefetch/search_prefetch_navigation_throttle.h"
 
 #include <memory>

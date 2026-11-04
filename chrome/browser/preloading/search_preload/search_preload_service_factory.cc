@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchPreloadServiceFactory implementation
+// summary: Implements the profile-keyed factory that creates SearchPreloadService instances, gated by the DsePreload2 feature and with Incognito support for the on-press search prefetch.
+// ---
+
 #include "chrome/browser/preloading/search_preload/search_preload_service_factory.h"
 
 #include "base/no_destructor.h"

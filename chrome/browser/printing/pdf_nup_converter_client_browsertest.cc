@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF N-up converter client browser tests
+// summary: Browser tests verifying N-up PDF page and document conversion, checking resulting page sizes and handling of invalid PDF data.
+// ---
+
 #include "chrome/browser/printing/pdf_nup_converter_client.h"
 
 #include <stdint.h>

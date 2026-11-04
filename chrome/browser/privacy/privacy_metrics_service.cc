@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy metrics service implementation
+// summary: Implements the service that records startup UMA histograms for Do Not Track, preloading, search suggest, and spellcheck settings.
+// ---
+
 #include "chrome/browser/privacy/privacy_metrics_service.h"
 
 #include "base/metrics/histogram_functions.h"

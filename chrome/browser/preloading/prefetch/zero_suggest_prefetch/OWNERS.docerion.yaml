@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Zero-suggest prefetch directory owners
+summary: Lists the code owners for the zero-suggest prefetch directory and references the omnibox component OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF N-up converter client implementation
+// summary: Implements the WebContents-scoped client that sends N-up PDF page and document conversion requests to the printing service, tracked by document cookie.
+// ---
+
 #include "chrome/browser/printing/pdf_nup_converter_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF to PWG raster conversion browser tests
+// summary: Browser tests that run PwgRasterConverter on PDF inputs and compare the resulting PWG raster output against expected test files.
+// ---
+
 #include "chrome/browser/printing/pwg_raster_converter.h"
 
 #include <optional>

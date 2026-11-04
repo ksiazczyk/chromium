@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy metrics service header
+// summary: Declares the PrivacyMetricsService keyed service that consolidates privacy-related UMA metrics recorded on profile startup.
+// ---
+
 #ifndef CHROME_BROWSER_PRIVACY_PRIVACY_METRICS_SERVICE_H_
 #define CHROME_BROWSER_PRIVACY_PRIVACY_METRICS_SERVICE_H_
 

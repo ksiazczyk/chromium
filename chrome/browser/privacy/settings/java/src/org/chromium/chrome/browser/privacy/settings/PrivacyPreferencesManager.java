@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivacyPreferencesManager interface for privacy and metrics reporting prefs
+// summary: Java interface managing Chrome's privacy preferences for usage metrics and crash reporting, covering consent checks, in-sample status, and observable permission state.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import androidx.annotation.UiThread;

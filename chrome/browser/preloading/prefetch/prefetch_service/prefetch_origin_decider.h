@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch origin decider interface
+// summary: Declares PrefetchOriginDecider, a browser-scoped class that records Retry-After responses per origin and decides whether origins are eligible for prefetching.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PREFETCH_PREFETCH_SERVICE_PREFETCH_ORIGIN_DECIDER_H_
 #define CHROME_BROWSER_PRELOADING_PREFETCH_PREFETCH_SERVICE_PREFETCH_ORIGIN_DECIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterManagerDialog class header
+// summary: Declares an abstraction for showing the native OS printer manager dialog used by the printing section of Settings.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINTER_MANAGER_DIALOG_H_
 #define CHROME_BROWSER_PRINTING_PRINTER_MANAGER_DIALOG_H_
 

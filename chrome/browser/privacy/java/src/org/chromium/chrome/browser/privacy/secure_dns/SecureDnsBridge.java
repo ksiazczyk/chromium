@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure DNS preferences JNI bridge
+// summary: Java bridge that reads and writes Secure DNS preferences via native code, exposing the mode, provider list, DoH config, management mode, and server probing to the Android UI.
+// ---
+
 package org.chromium.chrome.browser.privacy.secure_dns;
 
 import org.jni_zero.JniType;

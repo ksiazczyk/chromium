@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DSE preload 2 feature flag definitions
+// summary: Defines the kDsePreload2 base features with their field trial parameters and helper functions that gate search preload enablement and triggers.
+// ---
+
 #include "chrome/browser/preloading/search_preload/search_preload_features.h"
 
 #include "base/byte_size.h"

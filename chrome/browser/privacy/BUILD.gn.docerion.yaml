@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for privacy Android code
+summary: GN build configuration defining Android Java libraries, resources, and JNI headers for the privacy and secure DNS browser code.

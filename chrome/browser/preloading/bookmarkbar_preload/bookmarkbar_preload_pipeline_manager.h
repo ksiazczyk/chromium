@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar preload pipeline manager header
+// summary: Declares BookmarkBarPreloadPipelineManager, a WebContentsObserver that manages one preload pipeline per WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_BOOKMARKBAR_PRELOAD_BOOKMARKBAR_PRELOAD_PIPELINE_MANAGER_H_
 #define CHROME_BROWSER_PRELOADING_BOOKMARKBAR_PRELOAD_BOOKMARKBAR_PRELOAD_PIPELINE_MANAGER_H_
 

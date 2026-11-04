@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print backend service browser tests
+// summary: Browser tests exercising the out-of-process print backend service, covering printer enumeration, print settings, and metafile rendering with test printers.
+// ---
+
 #include "printing/backend/print_backend.h"
 
 #include <stdint.h>

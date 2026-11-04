@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome prefetch service delegate interface
+// summary: Declares ChromePrefetchServiceDelegate, which implements content::PrefetchServiceDelegate with methods for prefetch proxy configuration, consent, and eligibility checks.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PREFETCH_PREFETCH_SERVICE_CHROME_PREFETCH_SERVICE_DELEGATE_H_
 #define CHROME_BROWSER_PRELOADING_PREFETCH_PREFETCH_SERVICE_CHROME_PREFETCH_SERVICE_DELEGATE_H_
 

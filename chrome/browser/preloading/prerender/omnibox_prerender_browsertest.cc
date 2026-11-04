@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox prerender browser tests
+// summary: Browser tests covering prerendering triggered from omnibox input, including preloading attempt UKM metrics and search prefetch interactions.
+// ---
+
 #include <string>
 
 #include "base/files/file_path.h"

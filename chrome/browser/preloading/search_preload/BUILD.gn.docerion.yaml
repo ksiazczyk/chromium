@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the search preload module
+summary: Defines GN source sets for the search preload service, feature flags, and browser tests, listing their public headers and dependencies.

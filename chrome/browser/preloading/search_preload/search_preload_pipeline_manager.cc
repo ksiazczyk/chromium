@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchPreloadPipelineManager implementation
+// summary: Implements per-WebContents management of preload pipelines, reacting to autocomplete results and likely navigations to trigger preloads and record histograms.
+// ---
+
 #include "chrome/browser/preloading/search_preload/search_preload_pipeline_manager.h"
 
 #include "base/metrics/histogram_functions.h"
