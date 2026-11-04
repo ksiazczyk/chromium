@@ -1,0 +1,6 @@
+# Docerion header of refactoring_auditor.json.
+type: config
+title: Refactoring Scanner persona
+summary: Defines the Refactoring Scanner persona with a checklist ensuring tests, assertions, comments, observability, and behavior survive refactoring.
+relations:
+  - references /agents/skills/multi-agent-code-review/schema.json

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Multi-Agent Engineering Workflow
+summary: Introduces the multi-agent workflow protocol, its verification loop, invocation, directory layout, and testing infrastructure.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json
+  - references /agents/skills/multi-agent-engineering-workflow/SKILL.md
+  - references /agents/skills/multi-agent-engineering-workflow/ROUTING.md
+---
+
 # Multi-Agent Engineering Workflow
 
 Welcome to the **Multi-Agent Engineering Workflow**, an advanced multi-agent

@@ -1,0 +1,7 @@
+# Docerion header of skia_perf_unittest.py.
+type: test
+title: Skia Perf module unit tests
+summary: Unit tests for the skia_perf module, covering metric queueing, dashboard JSON creation and upload error handling.
+relations:
+  - tests /agents/testing/skia_perf.py
+  - depends_on /agents/testing/eval_config.py

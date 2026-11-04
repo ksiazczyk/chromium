@@ -4,6 +4,12 @@ description: >-
   Toggle ChromeVox screen reader on ChromeOS devices and send raw keyboard input events.
   Use when debugging accessibility features on an external ChromeOS device, needing to enable
   or disable ChromeVox, or sending specific keys to the system via SSH.
+type: guide
+title: ChromeVox Debugging on Chromebook
+summary: Instructions and SSH commands for toggling the ChromeVox screen reader and injecting custom key events on a ChromeOS device using bundled Python scripts.
+relations:
+  - documents /agents/skills/chromevox-debugging-on-chromebook/scripts/toggle_chromevox.py
+  - documents /agents/skills/chromevox-debugging-on-chromebook/scripts/send_key.py
 ---
 
 # ChromeVox Debugging on Chromebook

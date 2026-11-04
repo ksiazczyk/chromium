@@ -1,0 +1,6 @@
+# Docerion header of test.json.
+type: config
+title: Test expert persona
+summary: Persona definition for a test expert that promotes testability, correct gtest/gmock usage, and edge-case coverage.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

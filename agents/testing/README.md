@@ -1,3 +1,11 @@
+---
+type: readme
+title: Prompt Evaluation
+summary: Explains how to run prompt evaluation tests with promptfoo, including tag filtering, btrfs checkout setup, and adding new tests.
+relations:
+  - documents /agents/testing/eval_prompts.py
+---
+
 # Prompt Evaluation
 
 This directory contains the framework for running prompt evaluation

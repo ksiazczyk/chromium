@@ -1,0 +1,6 @@
+# Docerion header of gtest.json.
+type: config
+title: GTest Expert persona definition
+summary: Defines the GTest Expert persona, mandating TDD adherence and GTest coverage with checklists for failure-first tests and scaffold verification.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

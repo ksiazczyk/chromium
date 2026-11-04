@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Send raw key events to a ChromeOS evdev input node
+# summary: Command-line Python script that writes raw evdev key press and release events to a given input device node, requiring root access.
+# ---
+
 """Script to send a raw key event to a ChromeOS evdev input node.
 
 Uses the standard evdev protocol to simulate a key press and release via raw

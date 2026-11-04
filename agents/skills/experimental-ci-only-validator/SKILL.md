@@ -4,6 +4,11 @@ description: >-
   Checks if a Chromium test suite is barred by `ci_only = True` configuration
   on coverage trybots, which prevents the test suite from running automatically
   on Gerrit CQ runs and can cause underreported code coverage.
+type: guide
+title: CI-Only Validator Skill
+summary: Skill documentation explaining when and how to check whether a Chromium test suite is barred by ci_only configuration on coverage trybots, including historical triage and result interpretation.
+relations:
+  - documents /tools/code_coverage/ci_only_validator.py
 ---
 
 # CI-Only Validator Skill

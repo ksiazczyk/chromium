@@ -1,3 +1,12 @@
+---
+type: reference
+title: Orchestration Patterns for Multi-Agent Workflow Harnesses
+summary: Reference describing centralized and decentralized orchestration patterns that adapt orchestrator behavior, state handling, and delegation to the configured CLI harness.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/tests/testdata/project.workflow.json
+  - references /agents/skills/multi-agent-engineering-workflow/tests/testdata/state_block.workflow.json
+---
+
 # Harness-Specific Drivers (Orchestration Patterns)
 
 The Orchestrator MUST adjust its behavior and instruction set based on the

@@ -1,6 +1,11 @@
 ---
 name: fuzzing
 description: Implements, registers, and verifies fuzz tests in Chromium. Use when the user asks to add or write fuzzers in C++, or mentions fuzz testing or FUZZ_TEST.
+type: guide
+title: Fuzzing (Chromium)
+summary: Guide for implementing, registering in BUILD.gn, and verifying FUZZ_TEST fuzz tests in Chromium, with setup commands, resources, and common fixes.
+relations:
+  - references /testing/libfuzzer/getting_started.md
 ---
 
 # Fuzzing (Chromium)

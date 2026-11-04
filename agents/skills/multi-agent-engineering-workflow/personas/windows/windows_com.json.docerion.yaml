@@ -1,0 +1,6 @@
+# Docerion header of windows_com.json.
+type: config
+title: Windows COM Expert persona
+summary: Persona definition for a Windows COM expert, with a checklist covering COM apartment initialization, CoInitializeSecurity settings, and SDDL to security descriptor conversion.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

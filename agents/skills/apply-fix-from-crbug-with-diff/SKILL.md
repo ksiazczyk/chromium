@@ -1,6 +1,9 @@
 ---
 name: apply-fix-from-crbug-with-diff
 description: Automates applying a bug fix from a bug report containing a diff and CL description. Supports processing multiple bugs in parallel using subagents.
+type: guide
+title: Apply Bug Fix Skill
+summary: Agent skill instructions for applying bug fixes from bug reports containing a diff and CL description, covering parallel subagents, branching, patching, testing, and uploading.
 ---
 
 # Apply Bug Fix Skill

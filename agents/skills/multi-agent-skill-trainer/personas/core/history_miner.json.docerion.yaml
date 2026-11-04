@@ -1,0 +1,6 @@
+# Docerion header of history_miner.json.
+type: config
+title: History Miner persona definition
+summary: Defines the History Miner persona that samples recent Git history and Gerrit review comments to identify recurring corrections and tribal knowledge for a component.
+relations:
+  - references /agents/skills/multi-agent-skill-trainer/schema.json

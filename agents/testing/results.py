@@ -1,6 +1,15 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Test result data structures and reporting
+# summary: Defines dataclasses and a background thread for collecting and reporting prompt evaluation test results, including pass@k iteration data.
+# relations:
+#   - depends_on /agents/testing/eval_config.py
+# ---
+
 """Module for reporting test results."""
 
 import dataclasses

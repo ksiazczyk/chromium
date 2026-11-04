@@ -1,0 +1,4 @@
+# Docerion header of run_tests.py.template.
+type: test
+title: Test runner template for multi-agent skills
+summary: Template for a test runner that executes skill stage test cases by invoking an agent and verifying expected files and content patterns.

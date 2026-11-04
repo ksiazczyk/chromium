@@ -1,3 +1,9 @@
+---
+type: reference
+title: Tooling Guidance & Infrastructure
+summary: Guidance on specialized tooling personas for jj/Git workflows and on resolving Google-internal paths, routing overlays, and internal personas during agent operation.
+---
+
 # Tooling Guidance & Infrastructure
 
 ## Infrastructure & Tooling Guidance

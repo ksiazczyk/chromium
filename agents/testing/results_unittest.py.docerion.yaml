@@ -1,0 +1,6 @@
+# Docerion header of results_unittest.py.
+type: test
+title: Results module unit tests
+summary: Unit tests for the results module, covering result ordering, combined logs, durations and thread-based result processing.
+relations:
+  - depends_on /agents/testing/eval_config.py

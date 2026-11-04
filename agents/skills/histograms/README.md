@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chromium Histograms SKILL
+summary: README for the histograms agent skill, which helps the agent follow the Chromium Histogram Guidelines.
+---
+
 # Chromium Histograms SKILL
 
 A skill that helps the agent to follow the chromium Histogram Guidelines.

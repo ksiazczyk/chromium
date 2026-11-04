@@ -1,3 +1,13 @@
+---
+type: reference
+title: Code Review Module Routing Index
+summary: Routing catalog that maps the review orchestrator to available scanner personas and their checklist files.
+relations:
+  - references /agents/skills/multi-agent-code-review/personas/core/security.json
+  - references /agents/skills/multi-agent-code-review/personas/core/performance.json
+  - references /agents/skills/multi-agent-code-review/personas/core/auditor.json
+---
+
 # Code Review Module Routing Index
 
 This file acts as a routing catalog for the Code Review Orchestrator. It

@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: WebUI Lit migration skill OWNERS
+summary: Points to the shared WebUI platform OWNERS file for code review ownership of this skill directory.
+relations:
+  - references /ui/webui/PLATFORM_OWNERS

@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for android_webview
+# summary: Presubmit script gating changes against Context#bindService usage, removal of targetSdkVersion checks and missing feature override comments.
+# ---
+
 """Presubmit tests for //android_webview/
 
 Gates against using Context#bindService API before upload.

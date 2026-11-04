@@ -1,0 +1,8 @@
+# Docerion header of system_webview_bundle.gni.
+type: config
+title: System WebView bundle build template
+summary: GN template that builds the system WebView Android app bundle with ProGuard settings, locale allowlist, multi-ABI checks, and optional resource optimization.
+relations:
+  - depends_on /build/config/android/rules.gni
+  - depends_on /build/config/locales.gni
+  - depends_on /components/crash/android/silent_java_assert_reporting.gni

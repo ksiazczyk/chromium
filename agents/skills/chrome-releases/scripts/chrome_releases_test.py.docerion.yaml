@@ -1,0 +1,4 @@
+# Docerion header of chrome_releases_test.py.
+type: test
+title: Unit tests for the chrome_releases script
+summary: Python unittest suite mocking the Chrome Releases API to verify commit, milestone, and version commands, resource-name construction, custom products, and API error handling.

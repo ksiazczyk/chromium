@@ -1,0 +1,4 @@
+# Docerion header of trace_analyzer.py.
+type: script
+title: Perfetto Trace Analyzer Tool
+summary: Command-line tool that analyzes Perfetto traces in descendant or window mode and exports flamegraph reports as text, markdown, or speedscope JSON.

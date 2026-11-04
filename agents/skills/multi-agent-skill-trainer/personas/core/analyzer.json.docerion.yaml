@@ -1,0 +1,6 @@
+# Docerion header of analyzer.json.
+type: config
+title: Gap Analyzer persona definition
+summary: Defines the Gap Analyzer persona that examines execution feedback such as compiler errors and review comments to identify responsible personas and formulate new generalized checklist items.
+relations:
+  - references /agents/skills/multi-agent-skill-trainer/schema.json

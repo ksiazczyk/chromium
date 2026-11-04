@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chromium Bisect Skill
+summary: Introduces the bisect skill that automates finding the Chromium commit causing a regression through deterministic binary search, dependency syncs, autoninja builds, and interactive user verification.
+relations:
+  - documents /agents/skills/bisect/SKILL.md
+---
+
 # Chromium Bisect Skill
 
 This directory contains the **Bisect** skill for Chromium development.

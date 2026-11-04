@@ -6,6 +6,9 @@ description: |-
   - Passing ObservableSupplier/Supplier<@Nullable T>
   - Dereferencing potentially @Nullable values
   - Adding @NullMarked to Java code
+type: guide
+title: NullAway static analysis error resolution guide
+summary: Guide for resolving NullAway static analysis errors in Java, covering @NullMarked migration, assumeNonNull versus assert usage, and null safety patterns.
 ---
 
 ## Core Principles

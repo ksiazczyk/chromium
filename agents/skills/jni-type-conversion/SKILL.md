@@ -1,6 +1,13 @@
 ---
 name: jni-type-conversion
 description: How to use @JniType annotations for ergonomic JNI. Relevant for Java files that use @NativeMethods or @CalledByNative.
+type: guide
+title: JNI Type Conversion
+summary: Skill guide for replacing explicit JNI conversion logic with @JniType annotations in Java and native C++ types, covering the workflow, common type mappings, constraints, and recipes.
+relations:
+  - references /base/android/jni_string.h
+  - references /third_party/jni_zero/default_conversions.h
+  - references /base/android/callback_android.h
 ---
 
 # JNI Type Conversion

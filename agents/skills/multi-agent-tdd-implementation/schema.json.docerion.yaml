@@ -1,0 +1,4 @@
+# Docerion header of schema.json.
+type: reference
+title: JSON schema for TDD workflow personas and state
+summary: JSON Schema draft-07 definitions for personas, environment, project spec, state blocks, checklists, and constraints used by the TDD workflow files.

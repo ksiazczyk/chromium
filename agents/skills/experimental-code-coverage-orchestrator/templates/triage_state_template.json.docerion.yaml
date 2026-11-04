@@ -1,0 +1,4 @@
+# Docerion header of triage_state_template.json.
+type: data
+title: Triage state template
+summary: Template JSON structure for recording bug triage state, with placeholder fields for bug ID, original CL, bug details, status, and issue type.

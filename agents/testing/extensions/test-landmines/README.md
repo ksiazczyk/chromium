@@ -1,3 +1,9 @@
+---
+type: readme
+title: Test Landmines Extension
+summary: Explains the purpose and usage of the test-landmines extension, which blocks code review upload tools to keep automated Gemini testing safe and hermetic.
+---
+
 # Test Landmines Extension
 
 ## Purpose

@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Gemini CLI installation via CIPD
+# summary: Installs Node.js and gemini-cli from pinned CIPD packages into a dedicated root and returns the paths to the gemini and node binaries.
+# ---
+
 """Module for handling gemini-cli installations."""
 
 import logging

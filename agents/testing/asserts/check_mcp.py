@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: MCP tool assertions with a minimal MCP client
+# summary: Promptfoo assertion with a small MCP client that starts an MCP server, calls a tool, and checks the agent response contains the tool's text output.
+# ---
+
 """Asserts for checking MCP tools."""
 
 import json

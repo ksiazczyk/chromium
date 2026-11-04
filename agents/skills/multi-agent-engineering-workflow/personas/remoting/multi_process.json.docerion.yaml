@@ -1,0 +1,6 @@
+# Docerion header of multi_process.json.
+type: config
+title: Multi-Process Host Expert persona
+summary: Defines the Multi-Process Host Expert persona with checklist rules on Mojo IPC security, least-privilege processes, and platform-specific server names.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

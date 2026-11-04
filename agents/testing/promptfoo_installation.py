@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Promptfoo installation handling
+# summary: Manages promptfoo installations, including CIPD-based setup of Node.js and promptfoo packages and running promptfoo commands with process-group cleanup.
+# ---
+
 """Module for handling promptfoo installations."""
 
 import abc

@@ -1,0 +1,6 @@
+# Docerion header of gemini-extension.json.
+type: config
+title: Test Landmines Extension Manifest
+summary: Manifest declaring the test-landmines extension and the excluded tools, including upload_change_list and git upload or push shell commands.
+relations:
+  - references /agents/testing/extensions/test-landmines/GEMINI.md

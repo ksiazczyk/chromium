@@ -1,0 +1,6 @@
+# Docerion header of c++.json.
+type: config
+title: C++ Expert persona definition
+summary: Defines the C++ Expert persona with a mandate and checklist covering Chromium C++ style guide compliance and use of modern C++ features.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

@@ -1,0 +1,6 @@
+# Docerion header of it2me.json.
+type: config
+title: It2Me Expert persona
+summary: Defines the It2Me Expert persona with checklist rules bounding support host lifetime by the session and fully cleaning up session state after disconnect.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

@@ -1,0 +1,6 @@
+# Docerion header of implementation.json.
+type: config
+title: Core Implementation persona definition
+summary: Defines the Core Implementation persona enforcing maintainability, Chromium idioms, //base primitives, and atomically sound callback state during final code synthesis.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

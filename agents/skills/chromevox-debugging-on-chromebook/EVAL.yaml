@@ -1,3 +1,11 @@
+# ---docerion
+# type: config
+# title: ChromeVox skill evaluation tests
+# summary: Defines evaluation test cases that check whether the skill explains how to toggle ChromeVox over SSH with the expected actions.
+# relations:
+#   - references /agents/skills/chromevox-debugging-on-chromebook/scripts/toggle_chromevox.py
+# ---
+
 task_tests:
   - id: test_toggle_chromevox
     prompt: "How do I toggle ChromeVox via SSH on my connected ChromeOS device?"

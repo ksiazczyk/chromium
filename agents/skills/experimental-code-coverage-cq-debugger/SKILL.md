@@ -3,6 +3,12 @@ name: experimental-code-coverage-cq-debugger
 description: >-
   Executes the phased, multi-skill code coverage debugging playbook for triaging
   underreported code coverage in the Gerrit Commit Queue (CQ).
+type: guide
+title: Commit Queue (CQ) Coverage Debugging Playbook
+summary: Phased playbook guiding an agent through triaging and resolving underreported code coverage bugs in the Gerrit Commit Queue, from information gathering and configuration audits to experiment preparation and validation.
+relations:
+  - references /agents/skills/experimental-code-coverage-cq-debugger/templates/triage_state_template.json
+  - references /tools/code_coverage/parse_gerrit_url.py
 ---
 
 ## State Management

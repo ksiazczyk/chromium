@@ -4,6 +4,11 @@ description: >-
   Inspects LUCI build details using the inspect_coverage_build.py script to
   validate code coverage configurations, test execution, and target file
   coverage.
+type: guide
+title: Code Coverage Build Inspector
+summary: Skill instructions for inspecting LUCI builds with inspect_coverage_build.py to validate coverage configuration, test execution, recipe skips, and target file coverage metrics.
+relations:
+  - documents /tools/code_coverage/inspect_coverage_build.py
 ---
 
 # Code Coverage Build Inspector

@@ -1,0 +1,6 @@
+# Docerion header of python.json.
+type: config
+title: Python Expert persona definition
+summary: Defines the Python Expert persona with a mandate and checklist for Pythonic style, minimal file reads, and using with open(...) for file I/O.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

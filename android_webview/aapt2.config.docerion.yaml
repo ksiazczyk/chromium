@@ -1,0 +1,4 @@
+# Docerion header of aapt2.config.
+type: config
+title: AAPT2 config for license activity title
+summary: AAPT2 setting that marks the license_activity_title string as no-collapse during resource processing.

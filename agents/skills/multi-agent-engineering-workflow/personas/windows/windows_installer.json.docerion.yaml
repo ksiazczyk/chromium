@@ -1,0 +1,6 @@
+# Docerion header of windows_installer.json.
+type: config
+title: Windows Installer Expert persona
+summary: Persona definition for a Windows installer expert, with a checklist covering valid WXS syntax, upgrade rules to avoid version conflicts, and COM class registration in WiX files.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

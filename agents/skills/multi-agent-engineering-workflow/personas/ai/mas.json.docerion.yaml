@@ -1,0 +1,6 @@
+# Docerion header of mas.json.
+type: config
+title: Multi-Agent System Architect persona definition
+summary: Defines the Multi-Agent System Architect persona with a mandate and checklist covering decentralization, handoff stability, verification efficiency, loop convergence, coordination safety, and harness optimization.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

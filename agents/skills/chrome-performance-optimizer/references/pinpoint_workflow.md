@@ -1,3 +1,11 @@
+---
+type: guide
+title: Pinpoint & Gerrit Evaluation Workflow
+summary: Guide for uploading CLs to Gerrit, launching Pinpoint A/B try jobs on M1 hardware, and evaluating statistical results to accept or abandon optimizations.
+relations:
+  - references /agents/skills/chrome-performance-optimizer/scripts/pinpoint_evaluator.py
+---
+
 # Pinpoint & Gerrit Evaluation Workflow
 
 Guide for running A/B try jobs on M1 Mac hardware, evaluating statistical

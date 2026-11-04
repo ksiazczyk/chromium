@@ -1,0 +1,6 @@
+# Docerion header of chromeos.json.
+type: config
+title: ChromeOS Expert Persona Definition
+summary: JSON persona definition for a ChromeOS expert agent, specifying its role, mandate, and checklists for Ash integration and power save blocker usage.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

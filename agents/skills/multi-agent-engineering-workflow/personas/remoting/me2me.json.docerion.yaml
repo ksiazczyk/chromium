@@ -1,0 +1,6 @@
+# Docerion header of me2me.json.
+type: config
+title: Me2Me Host Expert persona
+summary: Defines the Me2Me Host Expert persona with checklist rules on daemon process management, curtain mode enforcement, and auto-reconnect resiliency on network drops.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

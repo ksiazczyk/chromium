@@ -5,6 +5,12 @@ description: >-
   BUILD.gn deps/public_deps, DEPS include rules, private headers, and circular
   dependencies. Use for build or gn check dependency errors, not
   C++/link/runtime/test failures.
+type: guide
+title: GN Dependency Debugging
+summary: Skill instructions for diagnosing and fixing Chromium GN dependency, include-visibility, and DEPS rule failures by correcting the dependency graph rather than masking errors.
+relations:
+  - references /agents/skills/gn-deps-debugging/references/common-errors.md
+  - references /agents/skills/gn-deps-debugging/references/dependency-patterns.md
 ---
 
 # GN Dependency Debugging

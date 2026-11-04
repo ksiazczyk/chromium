@@ -5,6 +5,9 @@ description: >-
   Coordinates the multi-agent swarm (Capture, SQL Analysis, Trace Injection) to run
   automated browser scenarios, capture traces, analyze them using Perfetto SQL, and
   surgically inject trace macros to recursively break down "black box" latency gaps.
+type: guide
+title: Navigation Latency Orchestration Workflow (Swarm Orchestrator)
+summary: Defines the orchestration protocol for a multi-agent swarm that iteratively investigates Chrome navigation latency by capturing traces, analyzing them with Perfetto SQL, and injecting trace macros to break down uninstrumented gaps.
 ---
 
 # Navigation Latency Orchestration Workflow (Swarm Orchestrator)

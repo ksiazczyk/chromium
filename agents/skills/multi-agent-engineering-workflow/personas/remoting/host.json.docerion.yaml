@@ -1,0 +1,6 @@
+# Docerion header of host.json.
+type: config
+title: Host Common Expert persona
+summary: Defines the Host Common Expert persona with checklist rules on multi-session support, session policy validation, platform-specific Mojo services, and capturer cleanup on disconnect.
+relations:
+  - configured_by /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

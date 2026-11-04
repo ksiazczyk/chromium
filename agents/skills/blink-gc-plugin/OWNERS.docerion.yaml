@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to blink_gc_plugin owners
+summary: Points to the canonical OWNERS file at tools/clang/blink_gc_plugin/OWNERS for review ownership of this skill directory.
+relations:
+  - references /tools/clang/blink_gc_plugin/OWNERS

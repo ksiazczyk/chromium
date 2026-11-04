@@ -1,0 +1,6 @@
+# Docerion header of mac_host.json.
+type: config
+title: Mac Host Expert persona definition
+summary: Defines the Mac Host Expert persona for the multi-agent workflow, with a mandate and checklist items covering Mac permissions, input injection, audio capture, process priority, and coordinate system conversion.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

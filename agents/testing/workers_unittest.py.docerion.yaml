@@ -1,0 +1,4 @@
+# Docerion header of workers_unittest.py.
+type: test
+title: Unit tests for prompt evaluation workers
+summary: Unit tests for the workers module, verifying WorkDir setup with btrfs snapshots or gclient-new-workdir, cleanup, and related worker behavior using mocks and pyfakefs.

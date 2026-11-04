@@ -1,0 +1,8 @@
+# Docerion header of system_webview_apk_tmpl.gni.
+type: config
+title: System WebView APK build template
+summary: GN template defining build targets for the Android system WebView APK, handling package name, Trichrome support, ABI inclusion, version codes, and manifest generation.
+relations:
+  - depends_on /android_webview/variables.gni
+  - depends_on /base/android/resource_exclusions.gni
+  - depends_on /build/config/android/abi.gni

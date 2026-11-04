@@ -1,3 +1,12 @@
+---
+type: reference
+title: GN Dependency Patterns
+summary: Reference for choosing narrow, correct GN dependency fixes, covering deps versus public_deps, forward declarations, target selection, platform-specific conditions, DEPS rules, generated headers, and cycle breaking.
+relations:
+  - references /components/prefs/pref_service.h
+  - references /chrome/browser/icon_loader_win.cc
+---
+
 # GN Dependency Patterns
 
 Use this reference to choose the narrowest correct dependency fix.

@@ -6,6 +6,13 @@ description: >-
   Clang plugin checks, running plugin unit tests, checking Chromium/Blink
   targets for new plugin violations, suppressing violations with
   GC_PLUGIN_IGNORE, or force-rolling Clang for plugin updates.
+type: guide
+title: Blink GC Clang Plugin Development
+summary: Skill guide covering the end-to-end workflow for developing, building, testing, and rolling out changes to the Blink GC (Oilpan) Clang plugin, including suppressing violations and cleanup.
+relations:
+  - documents /tools/clang/blink_gc_plugin/BlinkGCPlugin.cpp
+  - documents /tools/clang/blink_gc_plugin/BlinkGCPluginOptions.h
+  - documents /tools/clang/blink_gc_plugin/BlinkGCPluginConsumer.h
 ---
 
 # Blink GC Clang Plugin Development

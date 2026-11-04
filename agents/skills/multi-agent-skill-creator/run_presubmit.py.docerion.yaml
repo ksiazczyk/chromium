@@ -1,0 +1,6 @@
+# Docerion header of run_presubmit.py.
+type: script
+title: Local presubmit runner
+summary: Runs the directory's presubmit checks locally by simulating the presubmit API with mock input and output harnesses.
+relations:
+  - depends_on /agents/skills/multi-agent-skill-creator/PRESUBMIT.py

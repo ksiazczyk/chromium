@@ -3,6 +3,13 @@ name: webui-lit-migration
 description: >-
   Guide for migrating Chromium WebUI components from Polymer to Lit.
   Activate this skill if the user asks to migrate a file or component to Lit.
+type: guide
+title: Chromium WebUI Lit Migration
+summary: Step-by-step guide for migrating Chromium WebUI components from Polymer to Lit, covering the codemod script, TS cleanup, shared CSS, templates, BUILD.gn updates, and validation.
+relations:
+  - references /agents/skills/webui-lit-migration/scripts/run_codemod_script.sh
+  - references /chrome/browser/resources/certificate_manager/certificate_entry.ts
+  - references /third_party/polymer/v3_0/components-chromium/polymer/polymer_bundled.min.js
 ---
 
 # Chromium WebUI Lit Migration

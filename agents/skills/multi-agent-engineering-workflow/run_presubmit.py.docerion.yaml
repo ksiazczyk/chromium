@@ -1,0 +1,4 @@
+# Docerion header of run_presubmit.py.
+type: script
+title: Local Presubmit Check Runner
+summary: Helper script that runs the workflow presubmit checks locally by mocking the presubmit input and output APIs over the skill's files.

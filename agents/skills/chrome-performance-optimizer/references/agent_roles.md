@@ -1,3 +1,11 @@
+---
+type: guide
+title: Multi-Agent Roles & Pipelining Guide for Chrome Performance Optimizer
+summary: Specifies subagent roles, prompt templates, workspace isolation, and asynchronous pipelining for the Chrome performance optimization workflow.
+relations:
+  - references /agents/skills/chrome-performance-optimizer/references/optimization_patterns.md
+---
+
 # Multi-Agent Roles & Pipelining Guide for Chrome Performance Optimizer
 
 This guide specifies the subagent roles, invocation patterns, workspace

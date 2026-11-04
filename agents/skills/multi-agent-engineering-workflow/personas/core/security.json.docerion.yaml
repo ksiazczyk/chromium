@@ -1,0 +1,6 @@
+# Docerion header of security.json.
+type: config
+title: Core Security Expert persona definition
+summary: Defines the Core Security Expert persona enforcing memory safety, pointer and lifetime rules, malicious-input handling, and privilege boundary checks.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

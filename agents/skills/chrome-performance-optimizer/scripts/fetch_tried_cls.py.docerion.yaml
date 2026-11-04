@@ -1,0 +1,4 @@
+# Docerion header of fetch_tried_cls.py.
+type: script
+title: Fetch previously tried performance optimization CLs from Gerrit
+summary: Queries Gerrit for accepted and rejected performance optimization CLs by topic, with filtering and optional JSON output to guide new optimization attempts.

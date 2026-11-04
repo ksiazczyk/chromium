@@ -1,0 +1,6 @@
+# Docerion header of auditor.json.
+type: config
+title: Core Auditor persona definition
+summary: Defines the Core Auditor persona, with a mandate and checklist for auditing code modularity, Chromium C++ idioms, and consistency with existing architectural patterns.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

@@ -2,6 +2,9 @@
 name: chromium-code-link-formatting
 description: >-
   Use this skill when you need to link to files or specific lines in the Chromium codebase within a document intended for external sharing (e.g., Google Docs, Buganizer). This skill ensures links use the stable `source.chromium.org` format with line numbers and commit hashes for accessibility, even if the user doesn't explicitly specify the format. Do not use for internal or purely local notes where file:/// links are preferred.
+type: guide
+title: Chromium Source Link Formatter
+summary: Skill instructions for creating stable source.chromium.org links to Chromium files and lines in documents intended for external sharing.
 ---
 
 # Chromium Source Link Formatter

@@ -1,0 +1,6 @@
+# Docerion header of windows_host.json.
+type: config
+title: Windows Host Expert persona
+summary: Persona definition for a Windows host expert, with a checklist covering Service Control Manager use, RDP sessions, daemon service setup, WTS session notifications, and CPU support checks.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

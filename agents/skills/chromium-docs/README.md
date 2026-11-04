@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chromium Documentation SKILL
+summary: Describes setup, usage, file structure, configuration, and testing for the Chromium documentation search skill.
+relations:
+  - documents /agents/skills/chromium-docs/scripts/chromium_docs.py
+  - documents /agents/skills/chromium-docs/SKILL.md
+  - documents /agents/skills/chromium-docs/data/configs/search_config.json
+---
+
 # Chromium Documentation SKILL
 
 A Claude Code skill that provides intelligent search across Chromium's official

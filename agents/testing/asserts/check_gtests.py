@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: GTest assertions for test counts and runs
+# summary: Promptfoo assertions that count GTest macros in a C++ file against a reported test count and run a test binary, evaluating its JSON summary for failures.
+# ---
+
 """Assert a set of GTests pass consistently."""
 
 import collections

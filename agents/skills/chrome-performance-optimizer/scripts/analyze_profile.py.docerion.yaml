@@ -1,0 +1,4 @@
+# Docerion header of analyze_profile.py.
+type: script
+title: Analyze performance profiles from pprof links, IDs, and local files
+summary: CLI tool that analyzes performance profiles from pprof URLs, profile IDs, or local Crossbench/Speedometer 3 CSV files, supporting cumulative, flat, peek, and diff modes.

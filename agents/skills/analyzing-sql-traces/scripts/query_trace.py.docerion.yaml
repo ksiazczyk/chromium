@@ -1,0 +1,4 @@
+# Docerion header of query_trace.py.
+type: script
+title: SQL Query Tool for Perfetto Traces
+summary: Command-line tool that runs an arbitrary SQL query against a Perfetto trace file and prints the result as a human-readable table.

@@ -1,6 +1,15 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Chromium checkout helper functions
+# summary: Provides helpers for inspecting a Chromium checkout, such as btrfs detection, gclient root lookup, and depot_tools path resolution.
+# relations:
+#   - references /agents/testing/README.md
+# ---
+
 """Module for retrieving information about a Chromium checkout."""
 
 import functools

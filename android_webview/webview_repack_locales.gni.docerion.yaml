@@ -1,0 +1,7 @@
+# Docerion header of webview_repack_locales.gni.
+type: config
+title: WebView locale repack template
+summary: GN template wrapping repack_locales to build WebView locale pak files from WebView, Blink, and UI string sources with the required dependencies.
+relations:
+  - depends_on /tools/grit/repack.gni
+  - depends_on /android_webview/webview_repack_locales_list.gni

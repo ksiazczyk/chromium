@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Toggle ChromeVox via evdev key injection
+# summary: Command-line Python script that simulates the Ctrl+Alt+Z shortcut through an evdev input node to switch the ChromeVox screen reader on or off.
+# ---
+
 """Script to toggle the ChromeVox screen reader on ChromeOS via evdev.
 
 Simulates the standard Ctrl+Alt+Z keyboard shortcut to switch ChromeVox on or

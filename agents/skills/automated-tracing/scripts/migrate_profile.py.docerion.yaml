@@ -1,0 +1,4 @@
+# Docerion header of migrate_profile.py.
+type: script
+title: Migrate and clean Chrome profile directories for Telemetry
+summary: Python script that pulls a Chrome profile from an Android device or desktop input directory, removes empty directories, session data and optionally user state, and saves the cleaned profile for Telemetry use.

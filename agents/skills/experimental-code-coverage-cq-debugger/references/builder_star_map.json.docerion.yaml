@@ -1,0 +1,8 @@
+# Docerion header of builder_star_map.json.
+type: data
+title: Chromium Builder to Star Config File Map
+summary: Maps Chromium try builder names to the paths of their tryserver .star configuration files for the code coverage CQ debugger skill.
+relations:
+  - references /infra/config/subprojects/chromium/try/tryserver.chromium.linux.star
+  - references /infra/config/subprojects/chromium/try/tryserver.chromium.mac.star
+  - references /infra/config/subprojects/chromium/try/tryserver.chromium.win.star

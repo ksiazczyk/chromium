@@ -6,6 +6,11 @@ description: >-
 trigger: >-
   Load this when the user asks how to run Crossbench, browser_startup,
   web-tests, or where to find trace/CSV performance results.
+type: guide
+title: Crossbench Benchmark Runner
+summary: Skill instructions for configuring, executing, and analyzing Crossbench benchmarks in Chromium, covering native cb.py and web-test CUJ runners, troubleshooting, results, and infrastructure integration.
+relations:
+  - references /tools/perf/core/bot_platforms.py
 ---
 
 # Crossbench Benchmark Runner

@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Promptfoo provider for the Gemini CLI
+# summary: Implements a promptfoo provider that runs Gemini CLI in a sandboxed container with configurable prompts, timeouts, extensions, and skills.
+# ---
+
 """A promptfoo provider for the Gemini CLI."""
 
 import dataclasses

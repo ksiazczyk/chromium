@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Perfetto Trace Analysis Library
+# summary: Shared library providing trace session management, SQL query execution, process labeling, and slice formatting helpers for the trace analyzer and comparator tools.
+# ---
+
 """Unified library for analyzing Perfetto trace files."""
 
 import json

@@ -1,0 +1,4 @@
+# Docerion header of eval_prompts_unittest.py.
+type: test
+title: Unit tests for the eval_prompts module
+summary: Tests test case discovery, Chromium building, sharding, and uncommitted-change checks in eval_prompts with mocked subprocesses and a fake filesystem.

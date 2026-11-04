@@ -7,6 +7,11 @@ description: >-
   "DoNotMock" Error Prone error, replacing Mockito.mock(View.class) /
   @Mock Activity / spy(view), or when a test introduces a custom TestView /
   TestRecyclerView / TestActivity subclass.
+type: guide
+title: Writing Tests Without Mocking View / Activity
+summary: Skill for writing or fixing Chromium Robolectric/JUnit tests without mocking or spying android.view.View or android.app.Activity, preferring real objects, Robolectric shadows, and behavioural asserts.
+relations:
+  - references /tools/android/errorprone_plugin/src/org/chromium/tools/errorprone/plugin/ChromiumDoNotMockChecker.java
 ---
 
 # Writing Tests Without Mocking View / Activity

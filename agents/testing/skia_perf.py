@@ -1,6 +1,15 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Skia Perf dashboard uploader
+# summary: Uploads prompt evaluation metrics to a Skia Perf dashboard, merging queued metrics into dashboard-compatible JSON and uploading to a GCS bucket.
+# relations:
+#   - depends_on /agents/testing/constants.py
+# ---
+
 """Module for Skia Perf dashboard-related code."""
 
 import datetime

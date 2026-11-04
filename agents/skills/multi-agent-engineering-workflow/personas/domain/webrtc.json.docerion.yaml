@@ -1,0 +1,6 @@
+# Docerion header of webrtc.json.
+type: config
+title: WebRTC expert persona definition
+summary: Defines the WebRTC expert agent persona, including its mandate and a checklist covering PeerConnection configuration, threading model, resource lifetime management, and media stream handling.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

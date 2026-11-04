@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android WebView GN build targets
+summary: GN build definitions for System WebView APKs and bundles, including 32/64-bit variants, resource repacking and related build targets.
+relations:
+  - depends_on /android_webview/variables.gni
+  - depends_on /android_webview/webview_repack_locales.gni
+  - depends_on /build/android/resource_sizes.gni

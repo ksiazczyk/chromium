@@ -3,6 +3,13 @@ name: multi-agent-code-review
 description: >-
   Multi-agent consensus-driven code review. Audits changes using security,
   performance, and style checkers.
+type: reference
+title: Multi-Agent Code Review Protocol
+summary: Defines the staged multi-agent code review protocol covering environment verification, parallel audits, feedback consolidation, and optional training.
+relations:
+  - depends_on /agents/skills/multi-agent-code-review/schema.json
+  - depends_on /agents/skills/multi-agent-code-review/ROUTING.md
+  - depends_on /agents/skills/multi-agent-code-review/references/consolidation.md
 ---
 
 # Multi-Agent Code Review Protocol

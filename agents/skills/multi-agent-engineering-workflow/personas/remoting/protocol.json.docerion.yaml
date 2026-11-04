@@ -1,0 +1,6 @@
+# Docerion header of protocol.json.
+type: config
+title: Protocol and WebRTC expert persona definition
+summary: Persona definition for a protocol and WebRTC expert covering session management, SPAKE2 authentication, authorization failure handling, session policies, and callback safety in the remoting protocol code.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

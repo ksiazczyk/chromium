@@ -1,0 +1,4 @@
+# Docerion header of EVAL.txtpb.
+type: test
+title: Screen Recording Skill Evaluation Suite
+summary: Defines an EvalSuite text proto with mocked SSH, scp, and ffmpeg tool responses plus evaluation cases for starting, stopping, pulling, and checking ChromeOS screen recordings.

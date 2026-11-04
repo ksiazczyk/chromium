@@ -1,0 +1,6 @@
+# Docerion header of implementation.json.
+type: config
+title: Core Implementation Persona
+summary: Persona definition for a Core Implementation agent role focused on maintainability, Chromium idioms and //base primitives, with checklists for style, clarity and atomic callback state.
+relations:
+  - references /agents/skills/multi-agent-tdd-implementation/schema.json

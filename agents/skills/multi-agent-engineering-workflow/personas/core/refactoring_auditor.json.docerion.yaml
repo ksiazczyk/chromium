@@ -1,0 +1,6 @@
+# Docerion header of refactoring_auditor.json.
+type: config
+title: Refactoring Auditor persona definition
+summary: Defines the Refactoring Auditor persona that audits refactors with exhaustive diffs to ensure tests, assertions, comments, and logging or metrics are preserved.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

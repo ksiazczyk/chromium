@@ -3,6 +3,11 @@ name: experimental-code-coverage-installer
 description: >-
   Verifies and initializes the Chromium development environment and dependencies
   required for running code coverage tools and services.
+type: guide
+title: Code Coverage Installer Skill
+summary: Skill instructions for verifying and initializing the Chromium development environment and dependencies required to run code coverage tools and services.
+relations:
+  - documents /tools/code_coverage/code_coverage_installer.py
 ---
 
 # Code Coverage Installer Skill

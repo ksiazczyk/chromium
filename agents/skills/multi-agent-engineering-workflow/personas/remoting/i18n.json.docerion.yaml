@@ -1,0 +1,6 @@
+# Docerion header of i18n.json.
+type: config
+title: I18n and Resources Expert persona
+summary: Defines the I18n and Resources Expert persona with checklist rules requiring localized user-visible strings and correct addition of new strings to GRD files.
+relations:
+  - configured_by /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

@@ -1,0 +1,8 @@
+# Docerion header of eval_prompts.py.
+type: script
+title: Prompt evaluation runner using promptfoo
+summary: Discovers promptfoo test case files, builds precompile targets, and runs prompt evaluations with sharding, checkout checks, and result reporting.
+relations:
+  - depends_on /agents/testing/checkout_helpers.py
+  - depends_on /agents/testing/constants.py
+  - depends_on /agents/testing/eval_config.py

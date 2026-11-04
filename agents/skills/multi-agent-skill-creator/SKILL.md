@@ -1,6 +1,9 @@
 ---
 name: multi-agent-skill-creator
 description: Guide and tools for creating coordinated multi-agent workflows (skills) from first principles.
+type: guide
+title: Multi-Agent Skill Creator Protocol
+summary: Defines the core principles and four-stage workflow for designing, generating, and validating coordinated multi-agent skills.
 ---
 
 # Multi-Agent Skill Creator Protocol

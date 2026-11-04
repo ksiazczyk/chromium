@@ -1,0 +1,6 @@
+# Docerion header of eval_config_unittest.py.
+type: test
+title: Unit tests for the eval_config module
+summary: Tests TestConfig YAML parsing in eval_config, covering missing files, invalid YAML, missing keys, and pass@k settings using a fake filesystem.
+relations:
+  - tests /agents/testing/eval_config.py

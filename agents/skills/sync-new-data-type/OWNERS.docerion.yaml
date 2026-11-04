@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to components/sync OWNERS
+summary: Delegates ownership of the sync-new-data-type skill directory to the owners of components/sync via a file reference.
+relations:
+  - references /components/sync/OWNERS

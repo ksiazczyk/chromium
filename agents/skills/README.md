@@ -1,3 +1,11 @@
+---
+type: readme
+title: Agent Skills
+summary: Explains how to activate and contribute Chromium agent skills, including linking via setup.py and Antigravity registration.
+relations:
+  - documents /agents/skills/setup.py
+---
+
 # Agent Skills
 
 This directory contains specialized Agent Skills for Chromium development.

@@ -1,0 +1,6 @@
+# Docerion header of chromium_docs.py.
+type: script
+title: Chromium Documentation Search System
+summary: Python module that scans Chromium markdown documentation, builds doc, keyword, and category indexes, and provides scored search over them.
+relations:
+  - configured_by /agents/skills/chromium-docs/data/configs/search_config.json

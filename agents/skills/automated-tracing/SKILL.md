@@ -5,6 +5,12 @@ description: >-
   Telemetry benchmarks. Use when you need to launch the browser binary,
   execute a specific scenario/story, and collect Perfetto traces. Don't use
   for trace analysis (use analyzing-sql-traces).
+type: guide
+title: Automated Tracing & Performance Telemetry
+summary: Step-by-step guide for capturing Chromium performance traces with Perfetto and Telemetry benchmarks on desktop and Android, covering prerequisites, sandbox safety rules, run workflows, and the output contract.
+relations:
+  - documents /tools/perf/run_benchmark
+  - documents /testing/xvfb.py
 ---
 
 # Automated Tracing & Performance Telemetry

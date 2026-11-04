@@ -1,3 +1,11 @@
+---
+type: reference
+title: BrowserWindowFeatures Ordering
+summary: Reference for the required ordering of declarations, lifecycle methods, and teardown in BrowserWindowFeatures when adding or moving feature ownership.
+relations:
+  - documents /chrome/browser/ui/browser_window/public/browser_window_features.h
+---
+
 # BrowserWindowFeatures Ordering
 
 `BrowserWindowFeatures` ordering is intentionally structured. Preserve the

@@ -1,0 +1,6 @@
+# Docerion header of consolidator.json.
+type: config
+title: Research Consolidator persona definition
+summary: Defines the Research Consolidator persona that collates findings from parallel research agents, deduplicates and resolves conflicting rules, and writes a unified gap report.
+relations:
+  - references /agents/skills/multi-agent-skill-trainer/schema.json

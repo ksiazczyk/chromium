@@ -1,0 +1,6 @@
+# Docerion header of signaling.json.
+type: config
+title: Signaling specialist persona definition
+summary: Persona definition for a signaling specialist covering message formatting, signal strategy listener safety, FTL address bridging, avoiding PII in logs, and monitoring removal of the XML stanza fallback.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

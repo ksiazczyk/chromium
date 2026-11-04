@@ -1,0 +1,4 @@
+# Docerion header of check_candidate_novelty.py.
+type: script
+title: Check novelty of candidate optimization branches against Gerrit
+summary: Verifies that a candidate performance optimization branch is novel by comparing its diff against previously accepted and rejected optimization CLs on Gerrit, exiting nonzero on duplicates.

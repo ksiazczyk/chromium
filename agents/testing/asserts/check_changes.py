@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Git file change assertions
+# summary: Promptfoo assertions that verify files were changed, added, exist on disk, or contain required and forbidden strings using git status and file reads.
+# ---
+
 """Asserts for checking changed files in git."""
 
 import os

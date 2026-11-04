@@ -1,0 +1,6 @@
+# Docerion header of client.json.
+type: config
+title: Client Common Expert persona
+summary: Defines the Client Common Expert persona with checklist rules on frame consumer lifetime, Linux distro priming, Mojo initialization, and managed ChromeOS host handling.
+relations:
+  - configured_by /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

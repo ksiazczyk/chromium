@@ -1,0 +1,6 @@
+# Docerion header of test_infra.json.
+type: config
+title: Testing Infrastructure Expert persona definition
+summary: Defines the Testing Infrastructure Expert persona with checklists for test isolation from shared state and faithful, non-oversimplified mock environments.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

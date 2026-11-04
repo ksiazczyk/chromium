@@ -1,0 +1,6 @@
+# Docerion header of performance.json.
+type: config
+title: Performance Scanner persona
+summary: Defines the Performance Scanner persona with a mandate and checklist covering zero-copy data handling, concurrency, and background task affinity.
+relations:
+  - references /agents/skills/multi-agent-code-review/schema.json

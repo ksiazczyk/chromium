@@ -1,0 +1,4 @@
+# Docerion header of search_config.json.
+type: config
+title: Chromium Docs Search Configuration
+summary: JSON configuration for the Chromium docs search skill, defining indexing intervals and scan patterns, search limits and boost factors, document categories with keywords, and weighted search strategies.

@@ -1,0 +1,8 @@
+# Docerion header of OWNERS.
+type: config
+title: WebView directory owners
+summary: Lists code owners for android_webview with per-file rules covering documentation, translation artifacts and the cookie manager.
+relations:
+  - references /android_webview/docs/OWNERS
+  - references /tools/translation/TRANSLATION_OWNERS
+  - references /android_webview/java/src/org/chromium/android_webview/AwCookieManager.java

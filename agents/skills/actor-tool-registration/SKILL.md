@@ -6,6 +6,13 @@ description: >-
   "Register XToolRequest in ToolRegistry" task. Don't use for implementing a
   brand-new Actor tool from scratch or for migrating ToolController callers to
   the registry.
+type: guide
+title: Registering an Actor Tool in actor::ToolRegistry
+summary: Step-by-step skill for registering an existing ToolRequest subclass in the actor::ToolRegistry, covering the four files to edit, schema building rules, and verification steps.
+relations:
+  - documents /chrome/browser/actor/tools/registry/tool_definition.h
+  - documents /chrome/browser/actor/tools/registry/tool_registry_unittest.cc
+  - references /chrome/browser/actor/tools/registry/tool_definition_builder.h
 ---
 
 # Registering an Actor Tool in `actor::ToolRegistry`

@@ -4,6 +4,11 @@ description: >-
   Systematically eliminate allow_circular_includes_from declarations in Chromium
   GN build files while preserving build graph equivalence and ensuring
   multi-platform build and header-check correctness.
+type: guide
+title: Eliminating allow_circular_includes_from in Chromium
+summary: Guide for systematically removing allow_circular_includes_from declarations from Chromium GN build files while preserving build graph equivalence and multi-platform build correctness.
+relations:
+  - references /tools/mb/mb.py
 ---
 
 # Eliminating `allow_circular_includes_from` in Chromium

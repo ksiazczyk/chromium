@@ -1,0 +1,6 @@
+# Docerion header of usage_analyzer.json.
+type: config
+title: API Usage Analyzer persona definition
+summary: Defines the API Usage Analyzer persona that studies how a component's public APIs are consumed elsewhere in the codebase to infer integration requirements and safety invariants.
+relations:
+  - references /agents/skills/multi-agent-skill-trainer/schema.json

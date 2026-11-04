@@ -1,0 +1,8 @@
+# Docerion header of variables.gni.
+type: config
+title: WebView build variables
+summary: Declares shared GN variables for WebView builds, including the developer UI icon flag, upstream-only dependencies, the Java package name, and PGO profile usage.
+relations:
+  - depends_on /build/config/android/channel.gni
+  - depends_on /build/config/android/config.gni
+  - depends_on /build/config/compiler/pgo/pgo.gni

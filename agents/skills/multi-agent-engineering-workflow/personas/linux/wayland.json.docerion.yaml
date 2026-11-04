@@ -1,0 +1,6 @@
+# Docerion header of wayland.json.
+type: config
+title: Wayland expert persona definition
+summary: Defines the Linux Wayland Expert agent persona with checklist items for Wayland protocols, event loop integration, and wl_buffer lifetime management.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

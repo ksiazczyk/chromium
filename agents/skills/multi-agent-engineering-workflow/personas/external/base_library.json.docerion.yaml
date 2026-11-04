@@ -1,0 +1,6 @@
+# Docerion header of base_library.json.
+type: config
+title: Chromium //base Expert persona
+summary: Defines the Chromium //base Expert agent persona, with a mandate for correct use of core Chromium primitives and a checklist covering SequenceChecker usage and string formatting alternatives.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

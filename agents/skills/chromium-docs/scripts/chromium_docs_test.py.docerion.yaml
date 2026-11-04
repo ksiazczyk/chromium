@@ -1,0 +1,6 @@
+# Docerion header of chromium_docs_test.py.
+type: test
+title: Unit tests for chromium_docs.py
+summary: Unittest suite covering default configuration, title and keyword extraction, document categorization, search scoring, excerpt extraction, and the SearchResult dataclass.
+relations:
+  - tests /agents/skills/chromium-docs/scripts/chromium_docs.py

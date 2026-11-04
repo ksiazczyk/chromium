@@ -1,0 +1,4 @@
+# Docerion header of .style.mdformat.
+type: config
+title: mdformat style marker
+summary: Marks the Markdown formatting style that mdformat applies to files in this directory.

@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for the skill creator
+# summary: Defines presubmit checks that validate Python template syntax and run shared skill checks for changes in this directory.
+# ---
+
 """Presubmit script for multi-agent-skill-creator.
 
 This script enforces structural integrity and formatting for the skill creator.

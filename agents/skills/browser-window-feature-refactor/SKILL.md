@@ -4,6 +4,12 @@ description: >-
   Refactor Chrome desktop `Browser`-scoped logic, such as `Browser` and
   `BrowserWindow` methods and state, into encapsulated feature controllers
   owned by `BrowserWindowFeatures`.
+type: guide
+title: Browser Window Feature Refactor Skill
+summary: Guide for refactoring Chrome desktop browser-window logic into BrowserWindowFeatures feature controllers, covering migration types, BWF ordering rules, anti-patterns, and validation.
+relations:
+  - references /BUILD.gn
+  - references /chrome/browser/ui/browser_window/public/browser_window_features.h
 ---
 
 # Browser Window Feature Refactor

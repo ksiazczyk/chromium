@@ -1,0 +1,6 @@
+# Docerion header of metrics_unittest.py.
+type: test
+title: Metrics module unit tests
+summary: Unit tests for the metrics module, covering merging of iteration metrics and iteration over nested metric dictionaries.
+relations:
+  - depends_on /agents/testing/eval_config.py

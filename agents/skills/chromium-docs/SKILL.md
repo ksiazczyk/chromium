@@ -5,6 +5,11 @@ description: >-
   including design docs, APIs, and development guides. Use when the user asks
   to find, locate, browse, or learn from Chromium docs about architecture,
   APIs, testing, GPU, networking, or other Chromium topics.
+type: guide
+title: Chromium Documentation Search skill definition
+summary: Defines when and how the chromium-docs skill activates, including index building, search commands, categories, and result interpretation.
+relations:
+  - documents /agents/skills/chromium-docs/scripts/chromium_docs.py
 ---
 
 # Chromium Documentation Search

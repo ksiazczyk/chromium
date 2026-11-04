@@ -1,0 +1,6 @@
+# Docerion header of lint_promptfoo_testcases_test.py.
+type: test
+title: Unit tests for the promptfoo test case linter
+summary: Tests validation of file references, extension references, and malformed provider configs in the promptfoo test case linter.
+relations:
+  - tests /agents/testing/lint_promptfoo_testcases.py

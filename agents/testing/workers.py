@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Isolated promptfoo test workers
+# summary: Implements isolated workers and work directories that run promptfoo tests for agent evaluation, with worker pool and result thread coordination.
+# ---
+
 """Module for isolated workers that run promptfoo tests."""
 
 import collections.abc

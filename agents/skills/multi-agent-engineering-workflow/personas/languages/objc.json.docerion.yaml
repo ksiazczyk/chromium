@@ -1,0 +1,6 @@
+# Docerion header of objc.json.
+type: config
+title: Objective-C Expert persona definition
+summary: Defines the Objective-C Expert persona with a mandate and checklist covering ARC safety, C++ bridging, __block callback capture, and NSString conversion.
+relations:
+  - references /agents/skills/multi-agent-engineering-workflow/workflow_schema.json

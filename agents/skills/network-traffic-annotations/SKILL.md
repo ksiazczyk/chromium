@@ -1,6 +1,12 @@
 ---
 name: network-traffic-annotations
 description: Guide for writing and managing Network Traffic Annotations in Chromium. Use this skill when adding or updating code that makes network requests.
+type: guide
+title: Guide for writing Chromium network traffic annotations
+summary: Step-by-step guide for authoring and managing network traffic annotations in Chromium, covering placement, required semantics and policy fields, a template, and running the auditor.
+relations:
+  - references /chrome/browser/privacy/traffic_annotation.proto
+  - references /components/policy/resources/templates/policies.yaml
 ---
 
 # Network Traffic Annotations
