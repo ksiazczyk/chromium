@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating SSO service implementation
+// summary: Implements the FloatingSsoService keyed service that listens to cookie changes, applies domain blocklist policies, and syncs cookies between ChromeOS devices.
+// ---
+
 #include "chrome/browser/ash/floating_sso/floating_sso_service.h"
 
 #include <memory>

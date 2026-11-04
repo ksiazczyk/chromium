@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File stream reader unit tests
+// summary: Unit tests for FileStreamReader that mount a fake provided file system with a testing profile and verify Read and GetLength behavior.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fileapi/file_stream_reader.h"
 
 #include <stddef.h>

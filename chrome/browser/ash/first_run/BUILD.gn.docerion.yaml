@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the first_run library
+summary: Defines the first_run static library with its sources, dependencies and allowed circular includes for the ChromeOS first-run experience.

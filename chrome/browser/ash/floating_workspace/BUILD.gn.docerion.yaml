@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Floating workspace GN build targets
+summary: Defines the floating_workspace and utils static libraries plus unit test source set with their sources and dependencies.

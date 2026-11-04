@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating SSO service header
+// summary: Declares the FloatingSsoService class, which observes cookie changes, applies Floating SSO policies, and coordinates with the sync bridge.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FLOATING_SSO_FLOATING_SSO_SERVICE_H_
 #define CHROME_BROWSER_ASH_FLOATING_SSO_FLOATING_SSO_SERVICE_H_
 

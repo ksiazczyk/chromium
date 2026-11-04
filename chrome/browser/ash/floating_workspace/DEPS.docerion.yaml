@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Floating workspace DEPS include rules
+summary: Restricts ChromeOS dependencies on //chrome and whitelists the includes allowed for this directory and specific files.

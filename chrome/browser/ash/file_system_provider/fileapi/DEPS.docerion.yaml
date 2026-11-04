@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the fileapi directory
+summary: Blocks dependencies on //chrome for ChromeOS and allows only the ash fileapi and file_system_provider includes for this directory.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the fwupd directory
+summary: Sets include rules that block chrome includes and allow chrome/browser/ash/fwupd within this directory.

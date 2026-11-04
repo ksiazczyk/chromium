@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloseFile operation implementation
+// summary: Implements the CloseFile operation, dispatching an onCloseFileRequested event to close an opened file and reporting the result.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/close_file.h"
 
 #include <string>

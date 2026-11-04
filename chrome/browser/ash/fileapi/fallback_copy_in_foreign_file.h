@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback copy in foreign file header
+// summary: Declares FallbackCopyInForeignFile, a reusable CopyInForeignFile helper that AsyncFileUtil subclasses can delegate to when they implement the other required methods.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_FALLBACK_COPY_IN_FOREIGN_FILE_H_
 #define CHROME_BROWSER_ASH_FILEAPI_FALLBACK_COPY_IN_FOREIGN_FILE_H_
 

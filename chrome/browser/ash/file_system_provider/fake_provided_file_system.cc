@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake provided file system implementation
+// summary: Implements an in-memory fake provided file system with sample and malformed entries to support unit tests of the provider stack.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fake_provided_file_system.h"
 
 #include <stddef.h>

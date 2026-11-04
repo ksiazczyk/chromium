@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating SSO sync bridge implementation
+// summary: Implements the sync bridge that stores cookie specifics, merges full sync data with conflict resolution, and applies remote cookie changes locally.
+// ---
+
 #include "chrome/browser/ash/floating_sso/floating_sso_sync_bridge.h"
 
 #include <memory>

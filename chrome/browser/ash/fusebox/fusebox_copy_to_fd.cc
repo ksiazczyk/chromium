@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy to file descriptor implementation
+// summary: Implements FDCopier, which streams a virtual file's contents from the storage API into an open POSIX file descriptor using blocking writes off the IO thread.
+// ---
+
 #include "chrome/browser/ash/fusebox/fusebox_copy_to_fd.h"
 
 #include "base/posix/eintr_wrapper.h"

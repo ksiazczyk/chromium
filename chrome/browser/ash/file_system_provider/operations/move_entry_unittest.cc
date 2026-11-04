@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MoveEntry operation unit tests
+// summary: Unit tests for the MoveEntry operation covering execution, missing event listener, and read-only file system behavior.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/move_entry.h"
 
 #include <string>

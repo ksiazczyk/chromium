@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttled file system declaration
+// summary: Declares ThrottledFileSystem, a ProvidedFileSystemInterface wrapper that adds throttling of open-file requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_THROTTLED_FILE_SYSTEM_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_THROTTLED_FILE_SYSTEM_H_
 

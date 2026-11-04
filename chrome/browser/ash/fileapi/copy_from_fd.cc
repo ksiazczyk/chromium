@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy from file descriptor implementation
+// summary: Implements copying from an open file descriptor to a FileStreamWriter, reading off the IO thread via a thread pool and flushing according to the flush policy.
+// ---
+
 #include "chrome/browser/ash/fileapi/copy_from_fd.h"
 
 #include "base/posix/eintr_wrapper.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request dispatcher implementation
+// summary: Dispatches file system provider requests to the providing extension or the terminal system app through the event router and tracks them with the service worker lifetime manager.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/request_dispatcher_impl.h"
 
 #include "ash/constants/webui_url_constants.h"

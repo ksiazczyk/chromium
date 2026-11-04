@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuseBox moniker unit tests
+// summary: Unit tests verifying MonikerMap::ExtractToken result types for well-formed, malformed, and non-moniker FuseBox paths.
+// ---
+
 #include "chrome/browser/ash/fusebox/fusebox_moniker.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

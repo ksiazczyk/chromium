@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystem Provider fileapi WatcherManager header
+// summary: Declares a WatcherManager subclass that exposes entry watching capability to fileapi for Chrome OS file system providers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FILEAPI_WATCHER_MANAGER_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FILEAPI_WATCHER_MANAGER_H_
 

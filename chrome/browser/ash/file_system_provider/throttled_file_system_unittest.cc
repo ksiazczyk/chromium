@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Throttled file system unit tests
+// summary: Unit tests checking that open-file requests are queued and limited according to the configured opened-files limit.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/throttled_file_system.h"
 
 #include <stddef.h>

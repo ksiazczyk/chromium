@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Copy entry operation unit tests
+// summary: Unit tests for the CopyEntry operation, checking event arguments, missing listener behavior, and rejection on read-only file systems.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/copy_entry.h"
 
 #include <string>

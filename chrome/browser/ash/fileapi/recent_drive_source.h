@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentDriveSource header for Google Drive recent files
+// summary: Declares RecentDriveSource, a RecentSource that returns recently viewed Google Drive files for a profile via DriveFS search queries.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_RECENT_DRIVE_SOURCE_H_
 #define CHROME_BROWSER_ASH_FILEAPI_RECENT_DRIVE_SOURCE_H_
 

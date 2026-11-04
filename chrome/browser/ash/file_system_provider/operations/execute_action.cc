@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExecuteAction operation implementation
+// summary: Implements the ExecuteAction operation, dispatching onExecuteActionRequested events for custom actions on entries and reporting results via a status callback.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/execute_action.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconSet implementation
+// summary: Implements the IconSet class that stores, queries and compares icon URLs per icon size.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/icon_set.h"
 
 namespace ash::file_system_provider {

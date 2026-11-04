@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for ChromeOS first-run help app API
+// summary: Declares RegisterProfilePrefs, ShouldLaunchHelpApp and LaunchHelpApp used for the first-run experience after OOBE setup.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FIRST_RUN_FIRST_RUN_H_
 #define CHROME_BROWSER_ASH_FIRST_RUN_FIRST_RUN_H_
 

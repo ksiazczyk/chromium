@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadDirectory operation implementation
+// summary: Implements the ReadDirectory operation, converting extension responses into validated entry lists for the fileapi read directory callback.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/read_directory.h"
 
 #include <stddef.h>

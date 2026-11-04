@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Truncate operation implementation
+// summary: Implements the Truncate operation that requests a providing extension to truncate a file to a given length and reports success or error.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/truncate.h"
 
 #include <string>

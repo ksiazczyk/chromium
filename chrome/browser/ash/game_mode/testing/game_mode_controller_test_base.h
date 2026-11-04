@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Game mode controller test base header
+// summary: Declares GameModeControllerTestBase, a ChromeAshTestBase fixture with mock time serving as the shared base for game mode tests such as Borealis and ARC.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GAME_MODE_TESTING_GAME_MODE_CONTROLLER_TEST_BASE_H_
 #define CHROME_BROWSER_ASH_GAME_MODE_TESTING_GAME_MODE_CONTROLLER_TEST_BASE_H_
 

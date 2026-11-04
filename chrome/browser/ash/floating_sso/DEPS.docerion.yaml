@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for floating_sso
+summary: Restricts Chromium dependencies for the directory, blocking //chrome by default and whitelisting the includes the feature and its tests need.

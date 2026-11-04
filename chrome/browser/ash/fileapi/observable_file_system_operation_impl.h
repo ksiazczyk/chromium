@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observable file system operation header
+// summary: Declares ObservableFileSystemOperationImpl, a thin extension of the default file system operation implementation that reports file change events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_OBSERVABLE_FILE_SYSTEM_OPERATION_IMPL_H_
 #define CHROME_BROWSER_ASH_FILEAPI_OBSERVABLE_FILE_SYSTEM_OPERATION_IMPL_H_
 

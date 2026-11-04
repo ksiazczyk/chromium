@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating workspace service factory declaration
+// summary: Declares the singleton ProfileKeyedServiceFactory that creates and owns FloatingWorkspaceService instances per profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FLOATING_WORKSPACE_FLOATING_WORKSPACE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_FLOATING_WORKSPACE_FLOATING_WORKSPACE_SERVICE_FACTORY_H_
 

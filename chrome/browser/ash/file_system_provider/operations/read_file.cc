@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadFile operation implementation
+// summary: Implements the ReadFile operation, copying data chunks from extension responses into the caller's buffer with overflow and bounds checks.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/read_file.h"
 
 #include <stddef.h>

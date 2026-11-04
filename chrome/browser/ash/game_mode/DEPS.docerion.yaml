@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Game mode DEPS include rules
+summary: Grants //chrome include permissions only to the Borealis game mode unit test, allowing borealis and game_mode dependencies for tests.

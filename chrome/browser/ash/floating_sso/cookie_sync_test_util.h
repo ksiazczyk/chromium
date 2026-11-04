@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie sync test utilities header
+// summary: Declares test constants and helper functions for creating cookie sync protos and entity data shared by Floating SSO tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FLOATING_SSO_COOKIE_SYNC_TEST_UTIL_H_
 #define CHROME_BROWSER_ASH_FLOATING_SSO_COOKIE_SYNC_TEST_UTIL_H_
 

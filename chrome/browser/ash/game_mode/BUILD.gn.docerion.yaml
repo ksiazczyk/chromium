@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for game mode unit tests
+summary: GN build definition for the game_mode unit_tests source_set, listing the Borealis game mode controller test and its dependencies.

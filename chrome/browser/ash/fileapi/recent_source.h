@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentSource interface
+// summary: Defines the RecentSource interface for providing recent files from sources like local directories and cloud storage, including Params, file type filters, and callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_RECENT_SOURCE_H_
 #define CHROME_BROWSER_ASH_FILEAPI_RECENT_SOURCE_H_
 

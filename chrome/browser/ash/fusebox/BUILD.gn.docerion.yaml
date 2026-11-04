@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fusebox GN build configuration
+summary: Defines the GN build targets for the Fusebox static library, its protobuf definitions and the errno and moniker unit tests.

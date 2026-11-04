@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unmount operation implementation
+// summary: Implements the Unmount operation that sends an unmount request event to the providing extension and runs the status callback.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/unmount.h"
 
 #include "base/values.h"

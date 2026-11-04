@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Operation request manager unit tests
+// summary: Unit tests for the operation request manager, using a fake notification manager to exercise notification results, timeouts, and request callbacks.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operation_request_manager.h"
 
 #include <stddef.h>

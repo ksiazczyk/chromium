@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system provider service observer
+// summary: Declares the Observer interface for mount and unmount events of file_system_provider::Service, including the MountContext enum.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OBSERVER_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OBSERVER_H_
 

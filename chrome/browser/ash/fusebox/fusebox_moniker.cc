@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseBox moniker map implementation
+// summary: Implements MonikerMap, which extracts moniker tokens from FuseBox paths and maps unguessable moniker names to FileSystemURL targets with read-only state.
+// ---
+
 #include "chrome/browser/ash/fusebox/fusebox_moniker.h"
 
 #include "base/strings/strcat.h"

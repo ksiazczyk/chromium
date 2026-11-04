@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemBackend implementation
+// summary: Implements the Chrome OS external file system backend that manages system mount points, access permission checks, and per-type file operations and streams.
+// ---
+
 #include "chrome/browser/ash/fileapi/file_system_backend.h"
 
 #include <stddef.h>

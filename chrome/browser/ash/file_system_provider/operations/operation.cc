@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Operation base class implementation
+// summary: Implements the Operation base class that dispatches events to providing extensions and handles request aborts for file system provider operations.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/operation.h"
 
 #include <utility>

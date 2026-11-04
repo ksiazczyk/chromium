@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenFile operation implementation
+// summary: Implements the OpenFile operation, dispatching open file requests in read or write mode and returning the file handle with entry metadata.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/open_file.h"
 
 #include "chromeos/ash/experiences/extensions/common/api/file_system_provider.h"

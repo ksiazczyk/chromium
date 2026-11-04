@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Errno conversion API
+// summary: Declares FileErrorToErrno and NetErrorToErrno helpers that translate Chrome error codes into POSIX errno codes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FUSEBOX_FUSEBOX_ERRNO_H_
 #define CHROME_BROWSER_ASH_FUSEBOX_FUSEBOX_ERRNO_H_
 

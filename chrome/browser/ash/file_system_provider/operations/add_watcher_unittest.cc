@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the AddWatcher operation
+// summary: Verifies event dispatch with recursive options and the success, error and no-listener handling of AddWatcher.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/add_watcher.h"
 
 #include <string>

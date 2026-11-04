@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentFile header
+// summary: Declares RecentFile, which pairs a file system URL with its last-modified time, plus a descending-time comparator.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_RECENT_FILE_H_
 #define CHROME_BROWSER_ASH_FILEAPI_RECENT_FILE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BufferingFileStreamReader
+// summary: Tests the buffering stream reader's read, preload and error handling behavior using a fake internal file stream reader.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fileapi/buffering_file_stream_reader.h"
 
 #include <stdint.h>

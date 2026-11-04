@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating SSO sync bridge header
+// summary: Declares FloatingSsoSyncBridge, a DataTypeSyncBridge for the cookies data type that notifies observers of remotely added, updated, or removed cookies.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FLOATING_SSO_FLOATING_SSO_SYNC_BRIDGE_H_
 #define CHROME_BROWSER_ASH_FLOATING_SSO_FLOATING_SSO_SYNC_BRIDGE_H_
 

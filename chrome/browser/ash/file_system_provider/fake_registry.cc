@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeRegistry implementation
+// summary: Implements an in-memory fake registry that remembers and restores a single provided file system with its watchers for tests.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fake_registry.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Game mode testing BUILD.gn
+summary: GN build file defining a test-only static library that bundles the game mode controller test base sources and their dependencies.

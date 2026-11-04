@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WriteFile operation implementation
+// summary: Implements the WriteFile operation that dispatches write file requests from fileapi to the providing extension and reports success or error via callback.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/write_file.h"
 
 #include <utility>

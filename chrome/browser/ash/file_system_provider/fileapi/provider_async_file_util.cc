@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async file util implementation for provided file systems
+// summary: Implements storage::AsyncFileUtil for provided file systems, routing operations such as GetFileInfo, ReadDirectory and CopyFileLocal to the correct profile and file system.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fileapi/provider_async_file_util.h"
 
 #include <algorithm>

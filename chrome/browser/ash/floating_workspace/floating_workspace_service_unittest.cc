@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Floating workspace service unit tests
+// summary: Unit tests for the ChromeOS floating workspace service, covering policy-gated enablement, sync, desk restore, and session behavior.
+// ---
+
 #include "chrome/browser/ash/floating_workspace/floating_workspace_service.h"
 
 #include <algorithm>

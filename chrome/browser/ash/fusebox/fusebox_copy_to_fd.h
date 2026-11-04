@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy to file descriptor API
+// summary: Declares CopyToFileDescriptor, which copies a virtual file's bytes to an already-open file descriptor and reports POSIX errors through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FUSEBOX_FUSEBOX_COPY_TO_FD_H_
 #define CHROME_BROWSER_ASH_FUSEBOX_FUSEBOX_COPY_TO_FD_H_
 

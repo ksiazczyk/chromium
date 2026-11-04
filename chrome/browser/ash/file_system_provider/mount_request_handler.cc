@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mount request handler implementation
+// summary: Implements MountRequestHandler, which dispatches onMountRequested events to providing extensions and reports success or errors to the mount callback.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/mount_request_handler.h"
 
 #include <utility>

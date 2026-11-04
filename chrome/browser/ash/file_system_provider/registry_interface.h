@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry interface for restoring file systems
+// summary: Declares the RegistryInterface with methods to remember, forget, and restore mounted file systems and update watcher tags.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_REGISTRY_INTERFACE_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_REGISTRY_INTERFACE_H_
 

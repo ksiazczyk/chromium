@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileChangeServiceObserver interface
+// summary: Declares the observer interface receiving FileChangeService events for file modification, moves, and save-file-picker file creation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_FILE_CHANGE_SERVICE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_FILEAPI_FILE_CHANGE_SERVICE_OBSERVER_H_
 

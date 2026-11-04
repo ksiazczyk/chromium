@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mount path utilities implementation
+// summary: Implements helpers for building and parsing provided file system mount paths, including file system URL and local path parsers.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/mount_path_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Operation request manager implementation
+// summary: Implements timeout handling for provided file system operation requests, showing unresponsive notifications unless the user is interacting with the provider.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operation_request_manager.h"
 
 #include "base/time/time.h"

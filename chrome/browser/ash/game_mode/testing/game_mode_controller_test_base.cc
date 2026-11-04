@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Game mode controller test base implementation
+// summary: Implements SetUp and TearDown for GameModeControllerTestBase, wiring a fake resourced client, test profile, game mode controller and histogram tester.
+// ---
+
 #include "chrome/browser/ash/game_mode/testing/game_mode_controller_test_base.h"
 
 namespace game_mode {

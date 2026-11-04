@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ash fileapi
+summary: Defines the static library, implementation source set, and unit test targets for the ChromeOS ash fileapi code, listing their sources and dependencies.

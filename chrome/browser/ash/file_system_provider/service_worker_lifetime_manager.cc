@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker lifetime manager implementation
+// summary: Implements tracking of in-flight fileSystemProvider requests and keeps extension service workers alive via keepalive counts until requests finish.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/service_worker_lifetime_manager.h"
 
 #include <tuple>

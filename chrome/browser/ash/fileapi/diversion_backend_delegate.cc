@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diversion backend delegate implementation
+// summary: Implements the delegate that diverts crdownload and crswap file operations into a DiversionFileManager local cache before falling back to the wrapped delegate.
+// ---
+
 #include "chrome/browser/ash/fileapi/diversion_backend_delegate.h"
 
 #include "chrome/browser/ash/fileapi/copy_from_fd.h"

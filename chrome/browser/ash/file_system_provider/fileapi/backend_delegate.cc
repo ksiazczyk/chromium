@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend delegate implementation for provided file systems
+// summary: Implements FileSystemBackendDelegate methods that create the async file util, buffered stream readers and writers, and watcher manager for provided file systems.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fileapi/backend_delegate.h"
 
 #include <memory>

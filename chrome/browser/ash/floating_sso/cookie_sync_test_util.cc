@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie sync test utilities implementation
+// summary: Implements helpers that build predefined CookieSpecifics protos and sync EntityData objects used by Floating SSO cookie sync tests.
+// ---
+
 #include "chrome/browser/ash/floating_sso/cookie_sync_test_util.h"
 
 #include <string>

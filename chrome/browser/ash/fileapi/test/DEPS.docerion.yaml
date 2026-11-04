@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for fileapi test
+summary: Sets include rules that block //chrome dependencies and allow them only for the fake recent source test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent file system registry
+// summary: Declares the Registry class and preference key names for remembering and restoring mounted file systems across reboots.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_REGISTRY_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_REGISTRY_H_
 

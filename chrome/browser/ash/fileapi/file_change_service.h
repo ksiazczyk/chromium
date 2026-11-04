@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileChangeService class declaration
+// summary: Declares the FileChangeService keyed service that bridges file system change observation across file system contexts within a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_FILE_CHANGE_SERVICE_H_
 #define CHROME_BROWSER_ASH_FILEAPI_FILE_CHANGE_SERVICE_H_
 

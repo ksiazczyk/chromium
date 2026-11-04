@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating workspace service implementation
+// summary: Implements the keyed service that captures and uploads the active desk template and restores the latest remote session on login.
+// ---
+
 #include "chrome/browser/ash/floating_workspace/floating_workspace_service.h"
 
 #include <algorithm>

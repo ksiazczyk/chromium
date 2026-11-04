@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveWatcher operation header
+// summary: Declares the RemoveWatcher operation that asks a providing extension to remove a watcher at an entry path in the Chrome OS file system provider.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OPERATIONS_REMOVE_WATCHER_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OPERATIONS_REMOVE_WATCHER_H_
 

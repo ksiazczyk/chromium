@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension provider implementation
+// summary: Implements the extension-backed file system provider, including mount request timeouts, icon resolution, and creation of throttled provided file systems.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/extension_provider.h"
 
 #include <stddef.h>

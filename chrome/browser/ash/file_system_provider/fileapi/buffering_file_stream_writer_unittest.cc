@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BufferingFileStreamWriter
+// summary: Tests buffered writes, flushes and cancellation using a fake inner file stream writer covering short and long write paths.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fileapi/buffering_file_stream_writer.h"
 
 #include <memory>

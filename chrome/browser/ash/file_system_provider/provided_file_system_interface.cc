@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provided file system interface implementation
+// summary: Implements constructors and equality helpers for CloudIdentifier, EntryMetadata, OpenedFile, and ScopedUserInteraction declared in the interface header.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/provided_file_system_interface.h"
 
 namespace ash::file_system_provider {

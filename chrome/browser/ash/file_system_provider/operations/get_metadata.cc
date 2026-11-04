@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetMetadata operation implementation
+// summary: Implements the GetMetadata operation, converting and validating entry metadata such as name, size, modification time, MIME type, and thumbnail.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/get_metadata.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DiversionFileManager
+// summary: Unit tests covering DiversionFileManager diverting behavior, including explicit finish, implicit idle timeout, and per-URL start and finish results.
+// ---
+
 #include "chrome/browser/ash/fileapi/diversion_file_manager.h"
 
 #include "base/containers/span.h"

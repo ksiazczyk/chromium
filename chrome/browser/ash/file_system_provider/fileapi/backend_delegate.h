@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend delegate class for provided file systems
+// summary: Declares BackendDelegate, which supplies the async file util, stream readers and writers, and watcher manager for provided file systems.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FILEAPI_BACKEND_DELEGATE_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FILEAPI_BACKEND_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provider interface for file system providers
+// summary: Declares the ProviderInterface and Capabilities types that file system providers implement, covering creation of provided file systems, icons, and mount requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_PROVIDER_INTERFACE_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_PROVIDER_INTERFACE_H_
 

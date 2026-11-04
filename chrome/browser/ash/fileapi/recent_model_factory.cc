@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentModelFactory implementation
+// summary: Implements the profile-keyed service factory that creates a RecentModel instance for each profile.
+// ---
+
 #include "chrome/browser/ash/fileapi/recent_model_factory.h"
 
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_root_map_factory.h"

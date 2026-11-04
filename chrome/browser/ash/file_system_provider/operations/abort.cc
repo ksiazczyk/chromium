@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abort operation implementation
+// summary: Implements the Abort operation, dispatching an onAbortRequested event to the providing extension and reporting success or error through a status callback.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/abort.h"
 
 #include <string>

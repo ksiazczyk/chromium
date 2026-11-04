@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Game mode directory OWNERS
+summary: Delegates code ownership to the Borealis OWNERS file and lists niwa@chromium.org as an owner for ARC.

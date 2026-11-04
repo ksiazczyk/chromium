@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Errno conversion implementation
+// summary: Maps base::File::Error and net error codes to POSIX errno values for Fusebox error reporting.
+// ---
+
 #include "chrome/browser/ash/fusebox/fusebox_errno.h"
 
 #include <errno.h>

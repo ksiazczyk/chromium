@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Frozen update directory include rules
+summary: Defines allowed includes for the frozen_update directory, granting message center access and test-only Chrome login and test dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseBox server business logic implementation
+// summary: Implements the business logic half of the FuseBox FUSE server, resolving filenames to FileSystemURLs and handling file operations, with workarounds for MTP and truncation.
+// ---
+
 #include "chrome/browser/ash/fusebox/fusebox_server.h"
 
 #include <fcntl.h>

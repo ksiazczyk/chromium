@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility implementation for provider operations
+// summary: Implements a fake request dispatcher with event logging and a status callback logger used by file system provider operation tests.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/test_util.h"
 
 #include <utility>

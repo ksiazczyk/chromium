@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unmount operation unit tests
+// summary: Unit tests verifying the Unmount operation's event dispatch, no-listener, success and error handling.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/unmount.h"
 
 #include <string>

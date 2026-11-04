@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the file system registry
+// summary: Unit tests verifying that file systems and watchers are saved to and restored from preferences, including persistent subscriber origins.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/registry.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CreateFile operation unit tests
+// summary: Unit tests verifying CreateFile event dispatch, rejection on read-only file systems and missing listeners, and success and error callback handling.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/create_file.h"
 
 #include <string>

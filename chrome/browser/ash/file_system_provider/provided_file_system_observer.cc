@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provided file system observer implementation
+// summary: Implements the Change struct of the provided file system observer, holding an entry path and change type.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/provided_file_system_observer.h"
 
 namespace ash::file_system_provider {

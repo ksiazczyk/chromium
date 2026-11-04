@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for file_system_provider
+summary: Delegates code review approval for this directory to the owners list of ui/file_manager.

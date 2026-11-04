@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentFile implementation
+// summary: Implements the RecentFile value class and a comparator that orders files by descending last-modified time.
+// ---
+
 #include "chrome/browser/ash/fileapi/recent_file.h"
 
 namespace ash {

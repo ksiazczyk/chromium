@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeleteEntry operation implementation
+// summary: Implements the DeleteEntry operation, dispatching onDeleteEntryRequested events with a recursive flag and reporting results via a status callback.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/delete_entry.h"
 
 #include <string>

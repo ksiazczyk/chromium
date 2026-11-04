@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for file_system_provider
+summary: Defines the GN build targets for the ChromeOS file system provider static library, its test support code, and its unit tests.

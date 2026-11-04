@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ExternalFileURLLoaderFactory
+// summary: Unit tests that load externalfile URLs through the factory using a fake file system provider and verify responses and process permissions.
+// ---
+
 #include "chrome/browser/ash/fileapi/external_file_url_loader_factory.h"
 
 #include <stddef.h>

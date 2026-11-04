@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentModel implementation
+// summary: Implements RecentModel, which aggregates ARC, Crostini, Downloads, Drive and file system provider sources into recent file results with caching.
+// ---
+
 #include "chrome/browser/ash/fileapi/recent_model.h"
 
 #include <algorithm>

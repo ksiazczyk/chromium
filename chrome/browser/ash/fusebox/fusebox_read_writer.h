@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseBox ReadWriter class declarations
+// summary: Declares the ReadWriter class that caches FileStreamReader and FileStreamWriter objects to avoid quadratic performance and supports whole-file writes via temp files for MTP.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FUSEBOX_FUSEBOX_READ_WRITER_H_
 #define CHROME_BROWSER_ASH_FUSEBOX_FUSEBOX_READ_WRITER_H_
 

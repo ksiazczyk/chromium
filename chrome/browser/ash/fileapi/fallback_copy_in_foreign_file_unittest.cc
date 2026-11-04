@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fallback copy in foreign file unit tests
+// summary: Parameterized unit tests covering FallbackCopyInForeignFile copies with and without an existing destination file, using a test file system context.
+// ---
+
 #include "chrome/browser/ash/fileapi/fallback_copy_in_foreign_file.h"
 
 #include "base/files/file_enumerator.h"

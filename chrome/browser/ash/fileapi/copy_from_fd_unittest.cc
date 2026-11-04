@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Copy from file descriptor unit tests
+// summary: Tests CopyFromFileDescriptor with a fake FileStreamWriter, verifying copied bytes, flush behavior, and ownership return on the IO thread.
+// ---
+
 #include "chrome/browser/ash/fileapi/copy_from_fd.h"
 
 #include <unistd.h>

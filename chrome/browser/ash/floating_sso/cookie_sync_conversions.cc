@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie to sync proto conversion implementation
+// summary: Implements conversions between net::CanonicalCookie objects and CookieSpecifics sync protos, including enums, time, and partition key handling.
+// ---
+
 #include "chrome/browser/ash/floating_sso/cookie_sync_conversions.h"
 
 #include <memory>

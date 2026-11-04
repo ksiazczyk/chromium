@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeRegistry class header
+// summary: Declares a fake registry implementation that can remember at most one file system, intended for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FAKE_REGISTRY_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FAKE_REGISTRY_H_
 

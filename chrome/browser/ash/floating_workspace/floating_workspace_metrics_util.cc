@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating workspace metrics recording implementation
+// summary: Records UMA histograms for startup UI closure reasons, template launch failures, load times, upload status, and initialization.
+// ---
+
 #include "chrome/browser/ash/floating_workspace/floating_workspace_metrics_util.h"
 #include "base/metrics/histogram_functions.h"
 

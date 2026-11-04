@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request value implementation
+// summary: Implements factory methods that wrap provider success and error callback parameters into RequestValue instances.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/request_value.h"
 
 #include <utility>

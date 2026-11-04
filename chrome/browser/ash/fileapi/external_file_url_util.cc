@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External file URL utilities
+// summary: Implements helpers that convert between externalfile URLs, virtual paths and file system URLs, including Fusebox moniker file URL creation.
+// ---
+
 #include "chrome/browser/ash/fileapi/external_file_url_util.h"
 
 #include <string>

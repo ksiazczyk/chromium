@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentDriveSource implementation for Google Drive
+// summary: Implements RecentDriveSource, which queries DriveFS for recently viewed Drive files and builds type filters for recent file searches.
+// ---
+
 #include "chrome/browser/ash/fileapi/recent_drive_source.h"
 
 #include <iterator>

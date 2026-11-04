@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File stream reader implementation for provided file systems
+// summary: Implements storage::FileStreamReader for the Chrome OS file system provider, opening files and streaming read chunks through the provided file system via a UI-thread operation runner.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fileapi/file_stream_reader.h"
 
 #include <memory>

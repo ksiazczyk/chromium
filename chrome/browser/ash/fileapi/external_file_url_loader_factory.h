@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalFileURLLoaderFactory class declaration
+// summary: Declares a self-deleting URLLoaderFactory that creates loaders for externalfile scheme URLs and checks child process permission for requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_EXTERNAL_FILE_URL_LOADER_FACTORY_H_
 #define CHROME_BROWSER_ASH_FILEAPI_EXTERNAL_FILE_URL_LOADER_FACTORY_H_
 

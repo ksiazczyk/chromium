@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentModelFactory header
+// summary: Declares RecentModelFactory, a ProfileKeyedServiceFactory providing per-profile RecentModel instances.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_RECENT_MODEL_FACTORY_H_
 #define CHROME_BROWSER_ASH_FILEAPI_RECENT_MODEL_FACTORY_H_
 

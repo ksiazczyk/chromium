@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File stream writer implementation for provided file systems
+// summary: Implements storage::FileStreamWriter for the file system provider, routing write and flush operations to the provided file system through a UI-thread operation runner.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fileapi/file_stream_writer.h"
 
 #include <memory>
