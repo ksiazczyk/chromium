@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bruschetta utility unit tests
+// summary: Unit tests for installable config sorting, overall VM naming, learn-more URL handling, and display name helpers.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_util.h"
 
 #include "ash/strings/grit/ash_strings.h"

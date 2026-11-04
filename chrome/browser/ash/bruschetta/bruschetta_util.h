@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta utility header
+// summary: Declares Bruschetta helpers including the BruschettaResult enum, the running VM policy struct, and configuration lookup functions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BRUSCHETTA_BRUSCHETTA_UTIL_H_
 #define CHROME_BROWSER_ASH_BRUSCHETTA_BRUSCHETTA_UTIL_H_
 

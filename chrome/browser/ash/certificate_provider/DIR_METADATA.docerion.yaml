@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for the certificate provider directory
+summary: Maps the directory to Buganizer components for smartcard and identity issue tracking.

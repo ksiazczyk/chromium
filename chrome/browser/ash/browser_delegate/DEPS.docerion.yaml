@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the browser_delegate directory
+summary: Restricts includes from this directory to an allowlist of chrome paths such as chrome/browser and chrome_features.h.

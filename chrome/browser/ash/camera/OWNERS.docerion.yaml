@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the camera directory
+summary: Delegates code review ownership of the camera directory to the ChromeOS camera OWNERS file in media/capture/video/chromeos.

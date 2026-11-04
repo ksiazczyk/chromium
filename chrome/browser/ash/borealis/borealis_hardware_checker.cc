@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis hardware checker implementation
+// summary: Implements per-board checks of CPU, memory and feature flags to decide whether a device meets Borealis minimum hardware requirements.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_hardware_checker.h"
 
 #include "ash/constants/ash_features.h"

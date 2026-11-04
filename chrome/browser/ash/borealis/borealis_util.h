@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis utility function declarations
+// summary: Declares Borealis helper constants and functions for app IDs, Steam game IDs, external URL checks and compat tool information.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_UTIL_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_UTIL_H_
 

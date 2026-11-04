@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta launcher implementation
+// summary: Implements launching a Bruschetta VM, installing tools and firmware DLCs, and timing out launches that do not finish within four minutes.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_launcher.h"
 
 #include <memory>

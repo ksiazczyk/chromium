@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test certificate provider extension implementation
+// summary: Implements the C++ side of the test certificate provider extension, signing digests with a test private key and supporting configurable PIN and certificate behavior.
+// ---
+
 #include "chrome/browser/ash/certificate_provider/test_certificate_provider_extension.h"
 
 #include <cstdint>

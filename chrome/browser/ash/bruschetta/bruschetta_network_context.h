@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta network context header
+// summary: Declares BruschettaNetworkContext, an isolated network context that uses profile client certificates only when auto-selected by enterprise policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BRUSCHETTA_BRUSCHETTA_NETWORK_CONTEXT_H_
 #define CHROME_BROWSER_ASH_BRUSCHETTA_BRUSCHETTA_NETWORK_CONTEXT_H_
 

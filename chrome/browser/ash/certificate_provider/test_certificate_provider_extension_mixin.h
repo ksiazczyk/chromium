@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test certificate provider extension mixin declaration
+// summary: Declares a browser test mixin that sets up the test certificate provider extension, with options to wait for loading and provide certificates immediately.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERTIFICATE_PROVIDER_TEST_CERTIFICATE_PROVIDER_EXTENSION_MIXIN_H_
 #define CHROME_BROWSER_ASH_CERTIFICATE_PROVIDER_TEST_CERTIFICATE_PROVIDER_EXTENSION_MIXIN_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Boot times recorder GN build definition
+summary: Defines the ChromeOS-only boot_times_recorder static library target, listing its source files and dependencies on base, ash, metrics, prefs, and content.

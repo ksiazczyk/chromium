@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning worker factory
+// summary: Creates and deserializes static or dynamic certificate provisioning workers depending on the certificate profile protocol version.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_worker.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Borealis window manager unit tests
+// summary: Unit tests verifying shelf app ID resolution for Borealis windows and observer notification behaviour of the window manager.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_window_manager.h"
 
 #include <memory>

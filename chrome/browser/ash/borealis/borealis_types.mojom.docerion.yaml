@@ -1,0 +1,4 @@
+# Docerion header of borealis_types.mojom.
+type: source
+title: Borealis Mojom type definitions
+summary: Defines the InstallResult enum with stable numeric values persisted to logs, covering Borealis install outcomes such as success, cancellation and DLC errors.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureEngagementTrackerProviderImpl implementation
+// summary: Implements the ChromeOS-side FeatureEngagementTrackerProvider by resolving the account's browser context and returning its profile-keyed feature engagement tracker.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/feature_engagement_tracker_provider_impl.h"
 
 #include "base/check.h"

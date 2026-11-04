@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis launch options parsing
+// summary: Parses the developer-only borealis launch options string into an options struct supporting extra disk and auto shutdown settings.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_launch_options.h"
 
 #include "base/files/file_path.h"

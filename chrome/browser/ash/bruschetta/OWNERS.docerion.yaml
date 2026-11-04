@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Bruschetta OWNERS
+summary: Delegates ownership review of the Bruschetta directory to the guest_os OWNERS file.

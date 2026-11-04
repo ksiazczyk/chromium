@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarClientImpl implementation
+// summary: Implements the per-user calendar client, checking whether the Calendar integration is disabled by policy and fetching calendar and event lists.
+// ---
+
 #include "chrome/browser/ash/calendar/calendar_client_impl.h"
 
 #include <string>

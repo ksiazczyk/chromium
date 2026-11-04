@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Borealis features unit tests
+// summary: Unit tests for BorealisFeatures covering feature flags, VM and user policies, child accounts, and installation-dependent enabledness.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_features.h"
 
 #include <cstdint>

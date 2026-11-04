@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis metrics header with persisted enums
+// summary: Declares Borealis histogram names, persisted enums for launch source and install, startup, shutdown and uninstall results, and recording functions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_METRICS_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_METRICS_H_
 

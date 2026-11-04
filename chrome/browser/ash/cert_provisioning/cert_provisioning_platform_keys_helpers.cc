@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform keys helpers implementation
+// summary: Implements CertIterator and LatestCertsWithIdsGetter, which enumerate certificates from the platform keys service and pair them with provisioning IDs.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_platform_keys_helpers.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis profile preference registration
+// summary: Registers Borealis profile preferences for installed state, user allowance, microphone access and extra launch options.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_prefs.h"
 
 #include "components/guest_os/guest_os_prefs.h"

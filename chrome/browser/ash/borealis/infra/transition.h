@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transition state machine template class
+// summary: Header defining a borealis template that transforms a start state into a final state or error, reporting completion asynchronously via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_INFRA_TRANSITION_H_
 #define CHROME_BROWSER_ASH_BOREALIS_INFRA_TRANSITION_H_
 

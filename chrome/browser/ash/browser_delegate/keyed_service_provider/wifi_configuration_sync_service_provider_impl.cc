@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiConfigurationSyncServiceProviderImpl implementation
+// summary: Implements Find() by resolving the browser context for an account ID and returning the profile-keyed WifiConfigurationSyncService without creating it.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/wifi_configuration_sync_service_provider_impl.h"
 
 #include "base/check.h"

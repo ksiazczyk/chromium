@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Described unit tests
+// summary: GTest suite verifying that Described holds an error and description and that descriptions can be chained via Into.
+// ---
+
 #include "chrome/browser/ash/borealis/infra/described.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

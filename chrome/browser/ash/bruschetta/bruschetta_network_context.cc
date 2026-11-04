@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta network context implementation
+// summary: Implements an isolated network context for Bruschetta, handling SSL client certificates, authentication challenges, proxy configuration, and URL loader creation.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_network_context.h"
 
 #include <stdint.h>

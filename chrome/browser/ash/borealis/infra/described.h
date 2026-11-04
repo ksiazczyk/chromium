@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Described error template class
+// summary: Header defining a borealis template class that pairs a trivially copyable error value with a string description and supports chaining descriptions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_INFRA_DESCRIBED_H_
 #define CHROME_BROWSER_ASH_BOREALIS_INFRA_DESCRIBED_H_
 

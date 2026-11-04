@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transition unit tests
+// summary: GTest suite covering successful and failing transitions and that multiple completions fire the callback only once.
+// ---
+
 #include "chrome/browser/ash/borealis/infra/transition.h"
 
 #include <memory>

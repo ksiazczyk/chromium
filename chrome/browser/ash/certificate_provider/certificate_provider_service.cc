@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provider service implementation
+// summary: Implements the keyed service that routes certificate and signing requests to extensions, including SSL private key and client cert identity classes.
+// ---
+
 #include "chrome/browser/ash/certificate_provider/certificate_provider_service.h"
 
 #include <stddef.h>

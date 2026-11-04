@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Static-mode certificate provisioning worker implementation
+// summary: Implements the static-mode certificate provisioning worker, handling key generation, CSR requests, VA challenge responses, and certificate download with backoff policies.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_worker_static.h"
 
 #include <stdint.h>

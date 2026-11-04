@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform keys helpers unit tests
+// summary: Unit tests for CertIterator and LatestCertsWithIdsGetter using a mock platform keys service and test certificates.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_platform_keys_helpers.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bruschetta launcher unit tests
+// summary: Unit tests for BruschettaLauncher's launch success and failure paths using fake concierge and DLC services.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_launcher.h"
 
 #include <memory>

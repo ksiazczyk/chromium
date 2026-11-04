@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta install result strings
+// summary: Maps BruschettaInstallResult error codes to their user-facing string names.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_installer.h"
 
 namespace bruschetta {

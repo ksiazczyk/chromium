@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta policy handler header
+// summary: Declares BruschettaPolicyHandler, which maps the BruschettaVMConfiguration enterprise policy into Chrome preferences, filling defaults and architecture-specific keys.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BRUSCHETTA_BRUSCHETTA_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_BRUSCHETTA_BRUSCHETTA_POLICY_HANDLER_H_
 

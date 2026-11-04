@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta installer policy handler
+// summary: Validates the BruschettaInstallerConfiguration enterprise policy, including URL checks, and maps it into Chrome preferences.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_installer_policy_handler.h"
 
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert provisioning scheduler implementation
+// summary: Implements the certificate provisioning scheduler that creates, runs, retries, and observes provisioning workers for user and device certificate scopes.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_scheduler.h"
 
 #include <algorithm>

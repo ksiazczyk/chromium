@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consent auditor provider implementation
+// summary: Implements ConsentAuditorProvider::Find by resolving the profile for an account ID and returning its ConsentAuditor from ConsentAuditorFactory.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/consent_auditor_provider_impl.h"
 
 #include "base/check.h"

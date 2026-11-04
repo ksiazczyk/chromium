@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password reuse manager provider implementation
+// summary: Implements the Ash PasswordReuseManagerProvider by resolving the browser context for an account ID and returning the profile's PasswordReuseManager via its factory.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/password_reuse_manager_provider_impl.h"
 
 #include "base/check.h"

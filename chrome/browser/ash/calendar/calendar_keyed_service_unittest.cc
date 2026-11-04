@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CalendarKeyedService unit tests
+// summary: Unit tests for the Ash calendar keyed service, covering primary and secondary profiles and calendar API responses via an embedded test server.
+// ---
+
 #include "chrome/browser/ash/calendar/calendar_keyed_service.h"
 
 #include <memory>

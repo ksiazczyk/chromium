@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser type conversion declarations
+// summary: Declares functions converting between ash BrowserType and BrowserWindowInterface::Type for use by the delegate implementations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BROWSER_DELEGATE_BROWSER_TYPE_CONVERSION_H_
 #define CHROME_BROWSER_ASH_BROWSER_DELEGATE_BROWSER_TYPE_CONVERSION_H_
 

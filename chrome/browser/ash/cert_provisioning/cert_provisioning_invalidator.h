@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert provisioning invalidator declarations
+// summary: Declares CertProvisioningInvalidationHandler and invalidator factory interfaces that listen for certificate invalidation events via the invalidation listener.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERT_PROVISIONING_CERT_PROVISIONING_INVALIDATOR_H_
 #define CHROME_BROWSER_ASH_CERT_PROVISIONING_CERT_PROVISIONING_INVALIDATOR_H_
 

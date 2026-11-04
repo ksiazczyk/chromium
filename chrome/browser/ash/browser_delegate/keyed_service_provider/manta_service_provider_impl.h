@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MantaServiceProviderImpl class declaration
+// summary: Declares the Chrome-side MantaServiceProvider that wraps MantaServiceFactory so ChromeOS callers can reach the Manta service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_MANTA_SERVICE_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_MANTA_SERVICE_PROVIDER_IMPL_H_
 

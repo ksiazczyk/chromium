@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis context header
+// summary: Declares the BorealisContext class that stores the profile, launch options, VM and container names, and disk path for a Borealis VM instance.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_CONTEXT_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_CONTEXT_H_
 

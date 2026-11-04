@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate provisioning test helpers header
+// summary: Declares test helpers for adding fake certificates with cert profile IDs and for building affiliated or unaffiliated test profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERT_PROVISIONING_CERT_PROVISIONING_TEST_HELPERS_H_
 #define CHROME_BROWSER_ASH_CERT_PROVISIONING_CERT_PROVISIONING_TEST_HELPERS_H_
 

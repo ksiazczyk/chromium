@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password reuse manager provider header
+// summary: Declares PasswordReuseManagerProviderImpl, the //chrome implementation of the chromeos-side PasswordReuseManagerProvider interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_PASSWORD_REUSE_MANAGER_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_PASSWORD_REUSE_MANAGER_PROVIDER_IMPL_H_
 

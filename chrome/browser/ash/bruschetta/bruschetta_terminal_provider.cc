@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta terminal provider implementation
+// summary: Implements the guest OS terminal provider that checks policy and launches Bruschetta VMs for the Terminal app.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_terminal_provider.h"
 
 #include "ash/strings/grit/ash_strings.h"

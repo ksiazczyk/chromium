@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VM camera and mic manager unit tests
+// summary: Unit tests for VmCameraMicManager covering device activity, notification behavior, and privacy indicator visibility.
+// ---
+
 #include "chrome/browser/ash/camera_mic/vm_camera_mic_manager.h"
 
 #include <algorithm>

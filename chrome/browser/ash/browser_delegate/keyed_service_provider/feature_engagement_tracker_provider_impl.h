@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureEngagementTrackerProviderImpl class declaration
+// summary: Declares the Chrome-side FeatureEngagementTrackerProvider that wraps the profile-keyed TrackerFactory so ChromeOS callers can reach the service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_FEATURE_ENGAGEMENT_TRACKER_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_FEATURE_ENGAGEMENT_TRACKER_PROVIDER_IMPL_H_
 

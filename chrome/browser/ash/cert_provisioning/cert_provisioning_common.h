@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common types and constants for certificate provisioning
+// summary: Declares shared enums, constants, and types including cert scope, worker states, protocol versions, and certificate profiles used across provisioning code.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERT_PROVISIONING_CERT_PROVISIONING_COMMON_H_
 #define CHROME_BROWSER_ASH_CERT_PROVISIONING_CERT_PROVISIONING_COMMON_H_
 

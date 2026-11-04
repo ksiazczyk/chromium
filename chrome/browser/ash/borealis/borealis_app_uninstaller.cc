@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis app uninstaller implementation
+// summary: Implements app uninstallation, either removing the whole borealis install or launching Steam's uninstall URL for individual games.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_app_uninstaller.h"
 
 #include "base/logging.h"

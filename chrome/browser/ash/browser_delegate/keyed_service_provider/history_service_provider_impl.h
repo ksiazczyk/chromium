@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryServiceProviderImpl class declaration
+// summary: Declares the Chrome-side HistoryServiceProvider that wraps HistoryServiceFactory so ChromeOS callers can reach the history service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_HISTORY_SERVICE_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_HISTORY_SERVICE_PROVIDER_IMPL_H_
 

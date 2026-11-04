@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock certificate provisioning invalidator implementation
+// summary: Implements mock classes for the certificate provisioning invalidator and its factory, used to fake invalidation behavior in tests.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/mock_cert_provisioning_invalidator.h"
 
 namespace ash {

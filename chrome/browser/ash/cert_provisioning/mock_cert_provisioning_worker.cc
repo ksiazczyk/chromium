@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock certificate provisioning worker implementation
+// summary: Implements the mock certificate provisioning worker and factory, setting expectations for worker creation, deserialization, and state queries in tests.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/mock_cert_provisioning_worker.h"
 #include "base/test/values_test_util.h"
 

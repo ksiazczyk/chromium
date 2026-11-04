@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis app uninstaller interface
+// summary: Declares the BorealisAppUninstaller class and result enum for uninstalling borealis itself or individual child apps.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_APP_UNINSTALLER_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_APP_UNINSTALLER_H_
 

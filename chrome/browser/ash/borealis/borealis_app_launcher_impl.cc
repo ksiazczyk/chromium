@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub borealis app launcher implementation
+// summary: Implements the launcher so every launch attempt logs that Borealis is no longer available and returns an error result.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_app_launcher_impl.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bruschetta launcher for tests
+// summary: Test double of BruschettaLauncher that immediately reports a configurable launch result to callers.
+// ---
+
 #include "chrome/browser/ash/bruschetta/fake_bruschetta_launcher.h"
 
 namespace bruschetta {

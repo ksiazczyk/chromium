@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon service provider implementation
+// summary: Implements FaviconServiceProvider::Find by resolving the profile for an account ID and returning its FaviconService from FaviconServiceFactory.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/favicon_service_provider_impl.h"
 
 #include "base/check.h"

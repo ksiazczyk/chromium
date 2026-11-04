@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CalendarClientImpl unit tests
+// summary: Unit tests verifying IsDisabledByAdmin behavior and the contextual Google integration status histogram under various policy configurations.
+// ---
+
 #include "chrome/browser/ash/calendar/calendar_client_impl.h"
 
 #include <memory>

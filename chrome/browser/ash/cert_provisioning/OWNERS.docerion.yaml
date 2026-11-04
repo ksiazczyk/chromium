@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for certificate provisioning
+summary: Lists the owner responsible for reviewing changes in the certificate provisioning directory.

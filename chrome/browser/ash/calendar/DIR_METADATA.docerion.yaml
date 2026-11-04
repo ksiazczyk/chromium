@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Calendar directory metadata
+summary: Declares the owning team email and the Buganizer and Monorail components for the calendar directory.

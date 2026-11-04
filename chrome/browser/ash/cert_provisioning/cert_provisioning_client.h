@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the certificate provisioning client
+// summary: Declares the CertProvisioningClient interface, the ProvisioningProcess data, error type, and callbacks for certificate provisioning server requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERT_PROVISIONING_CERT_PROVISIONING_CLIENT_H_
 #define CHROME_BROWSER_ASH_CERT_PROVISIONING_CERT_PROVISIONING_CLIENT_H_
 

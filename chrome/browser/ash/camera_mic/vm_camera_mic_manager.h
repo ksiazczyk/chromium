@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM camera and mic manager class declaration
+// summary: Declares the VmCameraMicManager class that manages VM camera and mic access state, notification types, and observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CAMERA_MIC_VM_CAMERA_MIC_MANAGER_H_
 #define CHROME_BROWSER_ASH_CAMERA_MIC_VM_CAMERA_MIC_MANAGER_H_
 

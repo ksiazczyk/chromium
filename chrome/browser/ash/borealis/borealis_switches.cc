@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis command-line switches
+// summary: Defines the borealis-launch-options switch used to pass a BorealisLaunchOptions string to the Chrome process.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_switches.h"
 
 namespace borealis {

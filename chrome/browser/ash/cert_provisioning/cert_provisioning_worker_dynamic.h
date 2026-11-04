@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dynamic certificate provisioning worker header
+// summary: Declares the dynamic protocol version certificate provisioning worker and its provisioning step handlers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERT_PROVISIONING_CERT_PROVISIONING_WORKER_DYNAMIC_H_
 #define CHROME_BROWSER_ASH_CERT_PROVISIONING_CERT_PROVISIONING_WORKER_DYNAMIC_H_
 

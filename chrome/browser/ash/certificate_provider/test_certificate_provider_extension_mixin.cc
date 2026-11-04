@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test certificate provider extension mixin implementation
+// summary: Implements the browser test mixin that force-installs the test certificate provider extension into a profile and can trigger certificate provision on load.
+// ---
+
 #include "chrome/browser/ash/certificate_provider/test_certificate_provider_extension_mixin.h"
 
 #include <memory>

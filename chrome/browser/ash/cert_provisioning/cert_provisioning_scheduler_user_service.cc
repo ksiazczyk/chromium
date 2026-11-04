@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning scheduler user service
+// summary: Implements the per-profile keyed service and its factory that own the user certificate provisioning scheduler and shut it down with invalidations.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_scheduler_user_service.h"
 
 #include "base/no_destructor.h"

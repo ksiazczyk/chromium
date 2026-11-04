@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarKeyedServiceFactory implementation
+// summary: Implements the profile keyed service factory that builds calendar service instances only for users with Gaia accounts.
+// ---
+
 #include "chrome/browser/ash/calendar/calendar_keyed_service_factory.h"
 
 #include "base/no_destructor.h"

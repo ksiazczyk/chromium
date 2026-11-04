@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provider service factory implementation
+// summary: Creates per-profile certificate provider services and implements the default delegate that dispatches certificate and sign events to extensions.
+// ---
+
 #include "chrome/browser/ash/certificate_provider/certificate_provider_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Borealis hardware checker unit tests
+// summary: Tests the hardware checker across boards by faking board, model, CPU brand and memory to cover allowed and rejected configurations.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_hardware_checker.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis disk cleanup manager implementation
+// summary: Implements checks for an allocated Borealis disk image, records the Borealis.HasAllocatedDisk metric, and shows dialogs and notifications to reclaim space.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_disk_cleanup_manager.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityTokenPinDialogHostPopupImpl declaration
+// summary: Declares the default PIN dialog host implementation that renders the security token PIN dialog as a popup using RequestPinView.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERTIFICATE_PROVIDER_SECURITY_TOKEN_PIN_DIALOG_HOST_POPUP_IMPL_H_
 #define CHROME_BROWSER_ASH_CERTIFICATE_PROVIDER_SECURITY_TOKEN_PIN_DIALOG_HOST_POPUP_IMPL_H_
 

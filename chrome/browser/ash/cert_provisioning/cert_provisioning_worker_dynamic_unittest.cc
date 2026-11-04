@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the dynamic certificate provisioning worker
+// summary: Unit tests covering the dynamic-mode certificate provisioning worker, exercising VA key generation, CSR steps, metrics, and key permissions with mocked dependencies.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_worker_dynamic.h"
 
 #include <stdint.h>

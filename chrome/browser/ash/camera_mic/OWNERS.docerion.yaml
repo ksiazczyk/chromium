@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Camera mic owners list
+summary: Delegates code ownership for this directory to the guest_os OWNERS file.

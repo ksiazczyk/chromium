@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis installer implementation header
+// summary: Declares BorealisInstallerImpl, which installs the Borealis VM by managing installation and uninstallation transitions and observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_INSTALLER_IMPL_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_INSTALLER_IMPL_H_
 

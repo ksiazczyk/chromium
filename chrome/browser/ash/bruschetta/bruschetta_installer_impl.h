@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta installer implementation header
+// summary: Declares BruschettaInstallerImpl, which drives the staged Bruschetta VM installation through concierge, DLC and download services.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BRUSCHETTA_BRUSCHETTA_INSTALLER_IMPL_H_
 #define CHROME_BROWSER_ASH_BRUSCHETTA_BRUSCHETTA_INSTALLER_IMPL_H_
 

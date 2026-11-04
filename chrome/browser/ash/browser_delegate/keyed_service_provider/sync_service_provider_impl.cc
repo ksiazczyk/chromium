@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync service provider implementation
+// summary: Implements the Ash SyncServiceProvider by returning the profile's SyncService, treating a missing browser context as sync unavailable for accounts without a loaded profile.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/sync_service_provider_impl.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template URL service provider header
+// summary: Declares TemplateURLServiceProviderImpl, which wraps the Profile-keyed TemplateURLServiceFactory so ChromeOS callers can reach the service through the chromeos-side interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_TEMPLATE_URL_SERVICE_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_TEMPLATE_URL_SERVICE_PROVIDER_IMPL_H_
 

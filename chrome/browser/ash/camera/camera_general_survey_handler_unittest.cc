@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera general survey handler unit tests
+// summary: Unit tests for CameraGeneralSurveyHandler that use a mock delegate and mock time to verify survey triggering across camera client types and usage durations.
+// ---
+
 #include "chrome/browser/ash/camera/camera_general_survey_handler.h"
 
 #include <memory>

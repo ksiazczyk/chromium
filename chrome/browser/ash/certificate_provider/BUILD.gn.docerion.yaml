@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the certificate provider directory
+summary: Defines source sets and dependencies for the certificate provider service, its implementation, test support and unit tests.

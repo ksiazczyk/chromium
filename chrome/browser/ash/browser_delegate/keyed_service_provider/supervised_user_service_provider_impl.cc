@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user service provider implementation
+// summary: Implements the Ash SupervisedUserServiceProvider by resolving the browser context for an account ID and returning the profile's SupervisedUserService via its factory.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/supervised_user_service_provider_impl.h"
 
 #include "base/check.h"

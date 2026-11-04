@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Camera mic build targets
+summary: Defines the camera_mic static library and its unit test target with their ChromeOS source and dependency lists.

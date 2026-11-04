@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta download implementation
+// summary: Implements downloading Bruschetta VM firmware and images with SHA-256 verification using SimpleURLLoader.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_download.h"
 
 #include "base/files/scoped_temp_dir.h"

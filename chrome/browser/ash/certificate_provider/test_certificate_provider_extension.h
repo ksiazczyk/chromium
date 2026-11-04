@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test certificate provider extension declaration
+// summary: Declares the test certificate provider extension class that provides certificates and signatures from test data for use in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERTIFICATE_PROVIDER_TEST_CERTIFICATE_PROVIDER_EXTENSION_H_
 #define CHROME_BROWSER_ASH_CERTIFICATE_PROVIDER_TEST_CERTIFICATE_PROVIDER_EXTENSION_H_
 

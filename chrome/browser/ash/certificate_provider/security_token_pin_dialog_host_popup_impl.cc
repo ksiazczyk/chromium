@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityTokenPinDialogHostPopupImpl implementation
+// summary: Implements the PIN dialog host by displaying the dialog as a popup using RequestPinView, choosing a parent window from the login screen or the active browser.
+// ---
+
 #include "chrome/browser/ash/certificate_provider/security_token_pin_dialog_host_popup_impl.h"
 
 #include <string>

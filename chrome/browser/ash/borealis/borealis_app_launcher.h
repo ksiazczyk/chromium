@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis app launcher interface
+// summary: Declares the BorealisAppLauncher interface, its launch result enum and callbacks for starting borealis or guest registry apps.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_APP_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_APP_LAUNCHER_H_
 

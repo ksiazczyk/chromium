@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Borealis testing BUILD.gn
+summary: Defines the testonly static library test_support for Borealis testing helpers and lists its sources and dependencies.

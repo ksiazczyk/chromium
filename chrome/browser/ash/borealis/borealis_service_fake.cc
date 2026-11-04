@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BorealisServiceFake test implementation
+// summary: Implements a fake BorealisService whose components can be replaced for testing.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_service_fake.h"
 
 #include "chrome/browser/ash/borealis/borealis_service.h"

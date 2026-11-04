@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of certificate provisioning invalidators
+// summary: Implements invalidation handlers and user invalidators that observe invalidation listeners and notify workers about certificate provisioning events.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_invalidator.h"
 
 #include <memory>

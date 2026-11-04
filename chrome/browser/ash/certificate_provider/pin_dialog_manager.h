@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinDialogManager for certificate provider PIN dialogs
+// summary: Manages the state of PIN request dialogs shown to users on behalf of certificate provider extensions on ChromeOS, tracking sign requests and dialog ownership.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERTIFICATE_PROVIDER_PIN_DIALOG_MANAGER_H_
 #define CHROME_BROWSER_ASH_CERTIFICATE_PROVIDER_PIN_DIALOG_MANAGER_H_
 

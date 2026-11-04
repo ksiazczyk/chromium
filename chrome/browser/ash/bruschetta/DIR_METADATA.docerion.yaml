@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bruschetta directory metadata
+summary: Inherits the shared guest_os common directory metadata for the Bruschetta folder.

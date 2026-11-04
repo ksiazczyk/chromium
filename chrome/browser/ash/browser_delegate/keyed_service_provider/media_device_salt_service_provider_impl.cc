@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDeviceSaltServiceProviderImpl implementation
+// summary: Implements the ChromeOS-side MediaDeviceSaltServiceProvider by returning the media device salt service for the account's browser context.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/media_device_salt_service_provider_impl.h"
 
 #include "base/check.h"

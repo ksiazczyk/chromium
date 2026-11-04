@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provider service interface
+// summary: Declares the keyed service managing extensions that provide client certificates and documents the certificate request and signing flow.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERTIFICATE_PROVIDER_CERTIFICATE_PROVIDER_SERVICE_H_
 #define CHROME_BROWSER_ASH_CERTIFICATE_PROVIDER_CERTIFICATE_PROVIDER_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model provider implementation
+// summary: Implements BookmarkModelProvider::Find by resolving the browser context for an account ID and returning its BookmarkModel from BookmarkModelFactory.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/bookmark_model_provider_impl.h"
 
 #include "base/check.h"

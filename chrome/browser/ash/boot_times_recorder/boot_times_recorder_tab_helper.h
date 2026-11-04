@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boot times recorder tab helper class declaration
+// summary: Declares BootTimesRecorderTabHelper, which is created per WebContents during login to notify BootTimesRecorder whenever tabs start or finish loading.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOOT_TIMES_RECORDER_BOOT_TIMES_RECORDER_TAB_HELPER_H_
 #define CHROME_BROWSER_ASH_BOOT_TIMES_RECORDER_BOOT_TIMES_RECORDER_TAB_HELPER_H_
 
