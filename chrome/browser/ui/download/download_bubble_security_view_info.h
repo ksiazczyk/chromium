@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble security view info header
+// summary: Declares the security view info class with subpage buttons, warning labels and an observer interface for the download bubble security subpage.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_BUBBLE_SECURITY_VIEW_INFO_H_
 #define CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_BUBBLE_SECURITY_VIEW_INFO_H_
 

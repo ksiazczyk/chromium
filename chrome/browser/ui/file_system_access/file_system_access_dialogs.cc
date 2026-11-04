@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system access dialogs implementation
+// summary: Provides a non-views fallback that treats the restore permission dialog as dismissed when no dialog UI is available.
+// ---
+
 #include "chrome/browser/ui/file_system_access/file_system_access_dialogs.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension dialog utility functions
+// summary: Declares helpers to show dialogs built from a DialogModel for one or more extensions, anchored to the extensions container when available or shown as modal dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_DIALOG_UTILS_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_DIALOG_UTILS_H_
 

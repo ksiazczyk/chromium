@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature first-run dialog helper implementation
+// summary: Builds generic feature first-run dialog models and styled infobox container views with icons, titles, descriptions and learn-more links.
+// ---
+
 #include "chrome/browser/ui/feature_first_run/feature_first_run_helper.h"
 
 #include <memory>

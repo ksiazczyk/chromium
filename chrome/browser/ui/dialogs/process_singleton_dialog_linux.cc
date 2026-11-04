@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux process singleton dialog implementation
+// summary: Shows a native Linux dialog via zenity, kdialog, or xmessage asking whether to relaunch in an existing browser session using the profile directory.
+// ---
+
 #include "chrome/browser/ui/dialogs/process_singleton_dialog_linux.h"
 
 #include <string_view>

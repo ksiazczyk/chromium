@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Dialogs build configuration
+summary: GN build file defining source sets for browser dialogs, the outdated upgrade bubble, and the Linux process singleton dialog with their dependencies.

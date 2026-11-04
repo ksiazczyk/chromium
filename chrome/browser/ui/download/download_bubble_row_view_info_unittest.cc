@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download bubble row view info unit tests
+// summary: Unit tests for DownloadBubbleRowViewInfo covering state changes, tailored warnings, insecure download statuses and quick actions.
+// ---
+
 #include "chrome/browser/ui/download/download_bubble_row_view_info.h"
 
 #include "base/test/bind.h"

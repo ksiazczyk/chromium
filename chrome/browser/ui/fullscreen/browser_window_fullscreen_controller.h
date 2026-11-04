@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWindowFullscreenController class declaration
+// summary: Declares the controller that manages fullscreen state and UI hiding policy for an associated browser window, exposed via unowned user data.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FULLSCREEN_BROWSER_WINDOW_FULLSCREEN_CONTROLLER_H_
 #define CHROME_BROWSER_UI_FULLSCREEN_BROWSER_WINDOW_FULLSCREEN_CONTROLLER_H_
 

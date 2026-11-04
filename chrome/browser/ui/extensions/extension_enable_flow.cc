@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension enable flow implementation
+// summary: Implements the UI flow that re-enables a disabled or terminated extension, checking supported disable reasons and prompting the user when permission confirmation is needed.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_enable_flow.h"
 
 #include <memory>

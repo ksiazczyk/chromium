@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension install blocked dialog browser tests
+// summary: Browser tests verifying the extension install blocked dialog with no custom message, a custom message, and a long custom message.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_install_blocked_dialog.h"
 
 #include <string>

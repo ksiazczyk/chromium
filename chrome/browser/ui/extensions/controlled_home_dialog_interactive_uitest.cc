@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled home dialog interactive UI tests
+// summary: Interactive UI test verifying the controlled home dialog is hidden when its controlling extension is disabled.
+// ---
+
 #include "chrome/browser/ui/extensions/controlled_home_dialog.h"
 
 #include <memory>

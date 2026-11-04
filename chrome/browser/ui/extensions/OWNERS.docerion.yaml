@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the extensions UI directory
+summary: Delegates review ownership to web applications owners for app files and extensions UI owners for the rest.

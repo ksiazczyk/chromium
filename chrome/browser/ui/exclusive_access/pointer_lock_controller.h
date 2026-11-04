@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointerLockController header
+// summary: Declares the controller that manages mouse pointer lock state, lock requests, silent locking, and Escape handling within exclusive access.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXCLUSIVE_ACCESS_POINTER_LOCK_CONTROLLER_H_
 #define CHROME_BROWSER_UI_EXCLUSIVE_ACCESS_POINTER_LOCK_CONTROLLER_H_
 

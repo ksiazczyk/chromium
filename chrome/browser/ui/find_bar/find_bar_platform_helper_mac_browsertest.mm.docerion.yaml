@@ -1,0 +1,4 @@
+# Docerion header of find_bar_platform_helper_mac_browsertest.mm.
+type: test
+title: Mac find bar platform helper browser tests
+summary: Browser tests verifying the find bar is populated from and updated by the macOS global find pasteboard.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exclusive access bubble unit tests
+// summary: Unit tests covering bubble show, hide timeout, snooze and re-show behavior using a mock bubble and mock time.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/exclusive_access_bubble.h"
 
 #include "base/test/task_environment.h"

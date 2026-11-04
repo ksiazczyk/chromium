@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FindBarController browser tests
+// summary: Browser tests ensuring the FindBar is not created at browser startup and is created on demand or when a find-session tab moves to a new window.
+// ---
+
 #include "chrome/browser/ui/find_bar/find_bar_controller.h"
 
 #include "chrome/browser/ui/browser_commands.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for global error UI
+// summary: Browser tests that pack test extensions into CRX files and verify global error bubbles such as extension install errors and app menu display.
+// ---
+
 #include <memory>
 #include <string>
 

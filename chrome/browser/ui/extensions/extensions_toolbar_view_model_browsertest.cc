@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions toolbar view model browser tests
+// summary: Browser tests for the extensions toolbar view model using fake delegates and mock observers to verify action, pinning, and request access behavior.
+// ---
+
 #include "chrome/browser/ui/extensions/extensions_toolbar_view_model.h"
 
 #include <optional>

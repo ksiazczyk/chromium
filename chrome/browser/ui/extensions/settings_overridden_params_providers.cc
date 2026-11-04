@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings overridden dialog params providers implementation
+// summary: Implements helpers that build dialog parameters when extensions override the new tab page or default search engine, including icon fetching and metrics.
+// ---
+
 #include "chrome/browser/ui/extensions/settings_overridden_params_providers.h"
 
 #include <algorithm>

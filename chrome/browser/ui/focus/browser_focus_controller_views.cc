@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views-based browser focus controller implementation
+// summary: Implements focusing the active web contents pane, infobar container, and inactive bubbles for accessibility using the Views UI toolkit.
+// ---
+
 #include "chrome/browser/ui/focus/browser_focus_controller_views.h"
 
 #include "base/check_deref.h"

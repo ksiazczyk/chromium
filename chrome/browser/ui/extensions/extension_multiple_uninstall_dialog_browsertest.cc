@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiple extension uninstall dialog browser test
+// summary: Dialog browser test that installs two extensions and invokes the multiple uninstall dialog UI for verification.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_multiple_uninstall_dialog.h"
 
 #include "chrome/browser/ui/browser_window.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system access UI helpers declarations
+// summary: Declares helpers for displaying, eliding, and formatting paths and URL identities in file system access dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_UI_HELPERS_H_
 #define CHROME_BROWSER_UI_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_UI_HELPERS_H_
 

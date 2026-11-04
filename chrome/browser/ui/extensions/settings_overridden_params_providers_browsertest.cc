@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings overridden params providers browser tests
+// summary: Browser tests for the settings-overridden dialog parameter providers, exercising search provider override extensions and NTP overrides.
+// ---
+
 #include "chrome/browser/ui/extensions/settings_overridden_params_providers.h"
 
 #include <algorithm>

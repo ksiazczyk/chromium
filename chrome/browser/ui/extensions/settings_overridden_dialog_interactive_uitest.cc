@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings overridden dialog interactive UI tests
+// summary: Interactive UI tests for the extension settings-overridden dialog, covering search provider override dialogs, icon fetching and RTL behavior.
+// ---
+
 #include "chrome/browser/ui/extensions/settings_overridden_dialog.h"
 
 #include <algorithm>

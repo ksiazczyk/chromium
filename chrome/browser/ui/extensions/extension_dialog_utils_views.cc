@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views implementation of extension dialog utilities
+// summary: Implements the extension dialog helpers for Views, anchoring bubbles to the extensions container or the extension's action view and falling back to modal dialogs.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/browser/ui/extensions/extension_dialog_utils.h"
 #include "chrome/browser/ui/views/extensions/extension_view_utils.h"

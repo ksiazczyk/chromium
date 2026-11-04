@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconWithBadgeImageSource implementation
+// summary: Implements drawing of extension toolbar icons with badges, grayscale and blocked-action decorations.
+// ---
+
 #include "chrome/browser/ui/extensions/icon_with_badge_image_source.h"
 
 #include <algorithm>

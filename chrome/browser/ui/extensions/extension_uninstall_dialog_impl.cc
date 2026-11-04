@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension uninstall dialog implementation
+// summary: Implements the extension uninstall confirmation dialog, building the dialog model with icon, buttons and optional triggering extension details.
+// ---
+
 #include <memory>
 #include <string>
 

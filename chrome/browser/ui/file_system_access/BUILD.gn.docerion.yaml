@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for file system access UI dialogs
+summary: GN build file defining source sets for the file system access dialogs, their implementation, and the browser and unit test targets.

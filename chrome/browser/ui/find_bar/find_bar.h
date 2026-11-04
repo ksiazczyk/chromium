@@ -6,6 +6,12 @@
 // for drawing the FindBar bar on the platform and is owned by the
 // FindBarController.
 
+// ---docerion
+// type: source
+// title: FindBar platform interface
+// summary: Declares the abstract FindBar interface for platform-specific find bar drawing and interaction, plus its FindBarTesting hook for UI tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FIND_BAR_FIND_BAR_H_
 #define CHROME_BROWSER_UI_FIND_BAR_FIND_BAR_H_
 

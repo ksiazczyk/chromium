@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled home dialog header
+// summary: Declares ShowControlledHomeDialog, which shows a dialog when an extension overrides the user's home page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_CONTROLLED_HOME_DIALOG_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_CONTROLLED_HOME_DIALOG_H_
 

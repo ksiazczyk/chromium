@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Upload extension to account dialog browser tests
+// summary: Browser tests that show the upload-extension-to-account dialog for normal and long-named extensions and verify the resulting UI.
+// ---
+
 #include "chrome/browser/ui/extensions/upload_extension_to_account_dialog.h"
 
 #include "base/functional/callback_helpers.h"

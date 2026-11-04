@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled home dialog controller interface
+// summary: Defines the interface for controllers that provide display text and handle close actions for the controlled home dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_CONTROLLED_HOME_DIALOG_CONTROLLER_INTERFACE_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_CONTROLLED_HOME_DIALOG_CONTROLLER_INTERFACE_H_
 

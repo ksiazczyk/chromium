@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled home dialog controller implementation
+// summary: Implements the controller that detects unacknowledged extensions overriding the home page and manages warning prompts per profile.
+// ---
+
 #include "chrome/browser/ui/extensions/controlled_home_dialog_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synonyms UI class property key definition
+// summary: Defines the kSynonymsKey UI class property that stores alternative search terms as a vector of strings for the fuzzy search feature.
+// ---
+
 #include "chrome/browser/ui/fuzzy_search/fuzzy_search_properties.h"
 
 namespace fuzzy_search {

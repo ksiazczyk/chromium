@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system access UI helpers implementation
+// summary: Implements helpers that elide file paths for dialog titles and paragraphs and format URL identity names.
+// ---
+
 #include "chrome/browser/ui/file_system_access/file_system_access_ui_helpers.h"
 
 #include <optional>

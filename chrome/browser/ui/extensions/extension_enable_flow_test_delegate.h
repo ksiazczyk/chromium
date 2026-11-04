@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test delegate header for the extension enable flow
+// summary: Declares a test delegate for ExtensionEnableFlow that captures the flow result and lets tests wait for completion.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_ENABLE_FLOW_TEST_DELEGATE_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_ENABLE_FLOW_TEST_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension post-install dialog model unit tests
+// summary: Unit tests verifying which dialog content the model shows for extensions with page actions, browser actions, omnibox keywords and key bindings.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_post_install_dialog_model.h"
 
 #include "base/command_line.h"

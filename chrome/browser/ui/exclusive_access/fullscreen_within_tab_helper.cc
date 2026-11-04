@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenWithinTabHelper implementation
+// summary: Implements the FullscreenWithinTabHelper WebContents user data, including construction and removal of the helper for a given WebContents.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/fullscreen_within_tab_helper.h"
 
 FullscreenWithinTabHelper::FullscreenWithinTabHelper(

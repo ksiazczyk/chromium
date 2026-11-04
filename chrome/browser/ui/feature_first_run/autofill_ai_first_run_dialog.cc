@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI first-run opt-in dialog implementation
+// summary: Implements ShowAutofillAiFirstRunDialog, a tab-modal dialog that lets users opt in to Autofill AI and logs the corresponding opt-in funnel metrics.
+// ---
+
 #include "chrome/browser/ui/feature_first_run/autofill_ai_first_run_dialog.h"
 
 #include "build/branding_buildflags.h"

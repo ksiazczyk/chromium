@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access bubble implementation
+// summary: Implements the base exclusive access bubble that shows exit instructions and manages hide and snooze timers based on user input.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/exclusive_access_bubble.h"
 
 ExclusiveAccessBubble::ExclusiveAccessBubble(

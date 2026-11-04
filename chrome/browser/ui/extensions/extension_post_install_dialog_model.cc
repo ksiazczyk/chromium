@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension post-install dialog model implementation
+// summary: Builds the state of the extension installed bubble, deciding which how-to-use, how-to-manage and key binding text to show.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_post_install_dialog_model.h"
 
 #include "base/strings/utf_string_conversions.h"

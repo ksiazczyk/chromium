@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension side panel utilities implementation
+// summary: Implements helpers to toggle, open and close global and contextual extension side panels, including integration with the organizer panel feature.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_side_panel_utils.h"
 
 #include "chrome/browser/tab_list/tab_list_interface.h"

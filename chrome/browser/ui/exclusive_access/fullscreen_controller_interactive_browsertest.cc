@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen controller interactive browser tests
+// summary: Interactive browser tests exercising fullscreen controller behaviour with real user input, permissions, isolated web apps and virtual displays.
+// ---
+
 #include "base/command_line.h"
 #include "base/feature_list.h"
 #include "base/functional/callback_helpers.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the feature first-run UI
+summary: Defines GN source sets for the feature first-run headers, their implementation, and browser tests, together with the required dependencies.

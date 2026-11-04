@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download bubble security view info unit tests
+// summary: Unit tests for DownloadBubbleSecurityViewInfo covering dangerous, insecure and tailored warning cases and subpage buttons.
+// ---
+
 #include "chrome/browser/ui/download/download_bubble_security_view_info.h"
 
 #include "base/strings/pattern.h"

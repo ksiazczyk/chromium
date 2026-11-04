@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiple extension uninstall dialog header
+// summary: Declares ShowExtensionMultipleUninstallDialog, which shows a modal dialog with accept and cancel callbacks when uninstalling multiple extensions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_MULTIPLE_UNINSTALL_DIALOG_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_MULTIPLE_UNINSTALL_DIALOG_H_
 

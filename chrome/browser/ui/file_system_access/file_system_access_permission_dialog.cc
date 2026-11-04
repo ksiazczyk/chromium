@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission dialog implementation
+// summary: Builds the permission request dialogs for reading or writing files and directories, selecting texts and button labels per access type.
+// ---
+
 #include "chrome/browser/ui/file_system_access/file_system_access_permission_dialog.h"
 
 #include "base/feature_list.h"

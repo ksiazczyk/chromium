@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble row list view info implementation
+// summary: Implements the row list info for the download bubble, managing addition and removal of download rows and notifying observers of changes.
+// ---
+
 #include "chrome/browser/ui/download/download_bubble_row_list_view_info.h"
 
 DownloadBubbleRowListViewInfoObserver::DownloadBubbleRowListViewInfoObserver() =

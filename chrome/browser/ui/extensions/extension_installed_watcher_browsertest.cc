@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension installed watcher browser tests
+// summary: Browser tests for ExtensionInstalledWatcher covering already-installed extensions, new installs, unrelated extensions and browser shutdown.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_installed_watcher.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen controller state test implementation
+// summary: Implements the fullscreen controller state test fixture with a transition table mapping fullscreen states and events to expected resulting states.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/fullscreen_controller_state_test.h"
 
 #include <iomanip>

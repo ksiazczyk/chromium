@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action delegate interface
+// summary: Defines the platform-specific interface for extension action UI, such as showing popups, context menus and managing the extensions menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_ACTION_DELEGATE_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_ACTION_DELEGATE_H_
 

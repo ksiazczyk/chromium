@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDisplay interface for the download toolbar button
+// summary: Interface for the download toolbar button (download bubble) defining icon states, progress info, and methods to show, hide, update, and open details or security pages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_DISPLAY_H_
 #define CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_DISPLAY_H_
 

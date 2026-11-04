@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension uninstall dialog browser tests
+// summary: Browser tests covering the extension uninstall dialog, including cancellation when the parent window closes and delegate callback behavior.
+// ---
+
 #include <memory>
 
 #include "base/functional/callback_helpers.h"

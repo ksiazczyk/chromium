@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find bar state header
+// summary: Declares FindBarState, a per-profile keyed service storing the most recent find in page search term.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FIND_BAR_FIND_BAR_STATE_H_
 #define CHROME_BROWSER_UI_FIND_BAR_FIND_BAR_STATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS references for the download UI folder
+summary: Delegates code review ownership to the OWNERS files of the download browser folder and the download bubble folder.

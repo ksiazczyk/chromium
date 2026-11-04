@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension installed watcher implementation
+// summary: Implements ExtensionInstalledWatcher, which observes the extension registry and runs callbacks when watched extensions are installed or unloaded.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_installed_watcher.h"
 
 #include <utility>

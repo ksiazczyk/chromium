@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch parameters implementation
+// summary: Builds AppLaunchParams for extensions from profile launch preferences, window disposition and event flags.
+// ---
+
 #include "chrome/browser/ui/extensions/app_launch_params.h"
 
 #include "chrome/browser/apps/app_service/launch_utils.h"

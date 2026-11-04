@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension settings overridden dialog unit tests
+// summary: Unit tests covering when the settings overridden dialog is shown, acknowledgment handling and recorded histograms.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_settings_overridden_dialog.h"
 
 #include "base/test/metrics/histogram_tester.h"

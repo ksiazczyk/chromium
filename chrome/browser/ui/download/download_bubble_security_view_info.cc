@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble security view info implementation
+// summary: Implements the security subpage info for the download bubble, populating warning text, icons, links and buttons based on download danger type.
+// ---
+
 #include "chrome/browser/ui/download/download_bubble_security_view_info.h"
 
 #include "base/metrics/histogram_functions.h"

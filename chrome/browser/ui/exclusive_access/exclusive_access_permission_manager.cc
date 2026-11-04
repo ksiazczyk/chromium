@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access permission manager implementation
+// summary: Implements batching and forwarding of keyboard lock and pointer lock permission requests to the PermissionController with grouped callbacks.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/exclusive_access_permission_manager.h"
 
 #include "base/time/time.h"

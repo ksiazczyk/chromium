@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardLockController implementation
+// summary: Implements keyboard lock UI behavior, including Escape press, hold and repeat logic for unlocking the keyboard and reshowing exit instructions.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/keyboard_lock_controller.h"
 
 #include "base/feature_list.h"

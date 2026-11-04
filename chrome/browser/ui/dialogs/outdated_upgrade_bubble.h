@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outdated upgrade bubble interface
+// summary: Declares ShowOutdatedUpgradeBubble, which warns the user that an upgrade is long overdue via a bubble anchored to the Chrome toolbar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DIALOGS_OUTDATED_UPGRADE_BUBBLE_H_
 #define CHROME_BROWSER_UI_DIALOGS_OUTDATED_UPGRADE_BUBBLE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Find bar build configuration
+summary: Defines GN source sets for the find bar interfaces, implementation, and its unit, browser, and interactive UI test targets with their dependencies.

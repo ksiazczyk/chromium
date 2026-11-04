@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for digital credentials
+summary: Defines the digital_credentials source set, adding Android-only sources and JNI and UI dependencies when building for Android.

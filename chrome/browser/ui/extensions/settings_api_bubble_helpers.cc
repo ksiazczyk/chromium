@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings API bubble helpers implementation
+// summary: Implements helpers that acknowledge pre-existing NTP-overriding extensions and show bubbles when extensions control the homepage, search engine, or new tab page.
+// ---
+
 #include "chrome/browser/ui/extensions/settings_api_bubble_helpers.h"
 
 #include <memory>

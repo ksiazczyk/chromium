@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for global error UI
+summary: Defines GN source sets for the global error code, its test support, and the browser and unit test targets.

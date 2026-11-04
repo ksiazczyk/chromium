@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the fuzzy_search module
+summary: Defines the fuzzy_search source set with its public headers, sources, and dependencies, plus the testonly unit_tests target for fuzzy_finder_unittest.cc.

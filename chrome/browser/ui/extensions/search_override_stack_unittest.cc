@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search override stack unit tests
+// summary: Unit tests verifying classification of search-overriding extension stacks and the associated histogram recording behavior.
+// ---
+
 #include "chrome/browser/ui/extensions/search_override_stack.h"
 
 #include <array>

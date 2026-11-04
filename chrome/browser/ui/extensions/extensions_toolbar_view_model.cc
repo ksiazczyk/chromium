@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions toolbar view model implementation
+// summary: Implements the toolbar view model that manages ordering, pinning, dragging, and state of extension actions in the extensions toolbar.
+// ---
+
 #include "chrome/browser/ui/extensions/extensions_toolbar_view_model.h"
 
 #include "base/strings/utf_string_conversions.h"

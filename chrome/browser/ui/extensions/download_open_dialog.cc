@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download open dialog implementation
+// summary: Implements a modal confirmation dialog asking whether to open a downloaded file on behalf of an extension, with callbacks for accept, cancel and destruction.
+// ---
+
 #include <memory>
 #include <utility>
 

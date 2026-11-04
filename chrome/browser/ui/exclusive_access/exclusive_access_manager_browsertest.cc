@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exclusive access manager browser tests
+// summary: Browser tests verifying Esc key handling in ExclusiveAccessManager for pointer lock, tab fullscreen, keyboard lock, and press-and-hold exit behavior.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/exclusive_access_manager.h"
 
 #include "base/test/task_environment.h"

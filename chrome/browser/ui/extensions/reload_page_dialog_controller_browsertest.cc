@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reload page dialog controller browser test
+// summary: Dialog browser test that invokes and verifies the reload page dialog UI for an installed extension.
+// ---
+
 #include "chrome/browser/ui/extensions/reload_page_dialog_controller.h"
 
 #include "chrome/browser/profiles/profile.h"

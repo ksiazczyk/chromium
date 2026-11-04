@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exclusive access permission manager unit tests
+// summary: Unit tests for permission request queuing, grouping, and grant or deny callbacks using a mock PermissionController and mock time.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/exclusive_access_permission_manager.h"
 
 #include "base/test/mock_callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointerLockController implementation
+// summary: Implements pointer lock handling, including user gesture checks, escape cooldown, silent re-lock permission, and unlocking on Escape.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/pointer_lock_controller.h"
 
 #include "base/functional/bind.h"

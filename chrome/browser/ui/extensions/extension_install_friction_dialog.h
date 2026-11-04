@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install friction dialog header
+// summary: Declares ShowExtensionInstallFrictionDialog, shown to Enhanced Safe Browsing users before installing non-allowlisted extensions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_INSTALL_FRICTION_DIALOG_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_INSTALL_FRICTION_DIALOG_H_
 

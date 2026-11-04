@@ -1,0 +1,4 @@
+# Docerion header of find_bar_platform_helper_mac.mm.
+type: source
+title: Mac find bar platform helper implementation
+summary: Implements the macOS FindBarPlatformHelper that syncs find bar text with the global find pasteboard and stops finding in other tabs.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for file system access UI
+summary: Maps the directory to the Blink>Storage>FileSystem monorail component and the storage-dev team for bug routing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings API bubble helpers unit tests
+// summary: Unit tests verifying that pre-existing NTP-overriding extensions are acknowledged once per profile and later installs stay unacknowledged.
+// ---
+
 #include "chrome/browser/ui/extensions/settings_api_bubble_helpers.h"
 
 #include <memory>

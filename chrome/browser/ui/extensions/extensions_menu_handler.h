@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu handler interface
+// summary: Interface providing callbacks to the extensions menu pages, such as opening the main or site permissions page and handling site access actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSIONS_MENU_HANDLER_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSIONS_MENU_HANDLER_H_
 

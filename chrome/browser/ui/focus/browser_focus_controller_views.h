@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views-based browser focus controller interface
+// summary: Declares the Views implementation of BrowserFocusController, which uses profile, browser elements, and toolbar button provider dependencies.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FOCUS_BROWSER_FOCUS_CONTROLLER_VIEWS_H_
 #define CHROME_BROWSER_UI_FOCUS_BROWSER_FOCUS_CONTROLLER_VIEWS_H_
 

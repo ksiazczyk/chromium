@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system access permission dialog declarations
+// summary: Declares the dialog shown to users to grant write access to a file or directory, with a callback reporting the user's choice.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_PERMISSION_DIALOG_H_
 #define CHROME_BROWSER_UI_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_PERMISSION_DIALOG_H_
 

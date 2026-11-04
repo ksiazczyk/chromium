@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop extension install UI implementation
+// summary: Implements ExtensionInstallUIDesktop, showing install success toasts, notifications, infobars and post-install dialogs on desktop platforms.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_install_ui_desktop.h"
 
 #include <string>

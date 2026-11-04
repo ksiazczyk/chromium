@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find bar state implementation
+// summary: Implements per-profile find bar state that stores the last search text and gates prepopulated text with data protection checks.
+// ---
+
 #include "chrome/browser/ui/find_bar/find_bar_state.h"
 
 #include "chrome/browser/enterprise/data_protection/data_protection_clipboard_utils.h"

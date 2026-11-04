@@ -1,0 +1,4 @@
+# Docerion header of find_bar_platform_helper_mac_interactive_uitest.mm.
+type: test
+title: Mac find bar platform helper interactive UI tests
+summary: Interactive UI tests checking that the find bar updates the macOS find pasteboard, including that incognito does not.

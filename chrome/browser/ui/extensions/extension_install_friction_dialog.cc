@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install friction dialog
+// summary: Implements the pre-install dialog shown to Enhanced Safe Browsing users for extensions not on the CRX allowlist, including action metrics and a learn-more link.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_install_friction_dialog.h"
 
 #include "base/functional/callback.h"

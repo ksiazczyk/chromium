@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download display implementation
+// summary: Implements equality comparison for DownloadDisplay::ProgressInfo fields excluding the percentage.
+// ---
+
 #include "chrome/browser/ui/download/download_display.h"
 
 #include <tuple>

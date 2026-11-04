@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synonyms UI class property key declaration
+// summary: Declares the kSynonymsKey UI class property used to attach synonym keywords to views in the fuzzy search feature.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FUZZY_SEARCH_FUZZY_SEARCH_PROPERTIES_H_
 #define CHROME_BROWSER_UI_FUZZY_SEARCH_FUZZY_SEARCH_PROPERTIES_H_
 

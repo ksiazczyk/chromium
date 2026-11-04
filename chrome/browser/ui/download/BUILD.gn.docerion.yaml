@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the download bubble UI
+summary: Defines GN source sets for the download bubble UI, covering display, info headers, implementations and unit tests, and asserts the UI is not built on ChromeOS.

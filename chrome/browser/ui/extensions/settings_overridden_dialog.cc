@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings overridden dialog implementation
+// summary: Implements the dialog warning users about extension-overridden settings, wiring dialog results and radio choices back to the controller.
+// ---
+
 #include "chrome/browser/ui/extensions/settings_overridden_dialog.h"
 
 #include <memory>

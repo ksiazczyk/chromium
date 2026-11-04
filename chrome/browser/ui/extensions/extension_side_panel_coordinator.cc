@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension side panel coordinator implementation
+// summary: Creates and registers side panel entries for extensions, loading icons and managing per-tab or per-browser panel views.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_side_panel_coordinator.h"
 
 #include "base/strings/utf_string_conversions.h"

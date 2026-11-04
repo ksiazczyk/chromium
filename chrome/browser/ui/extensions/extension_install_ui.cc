@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install UI factory
+// summary: Creates the platform-specific ExtensionInstallUI and holds shared install UI state such as test disabling and post-install UI options.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_install_ui.h"
 
 #include "base/auto_reset.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble row view info implementation
+// summary: Populates per-download row display data such as icons, quick actions, progress bars and warning patterns from the download model.
+// ---
+
 #include "chrome/browser/ui/download/download_bubble_row_view_info.h"
 
 #include "chrome/browser/download/download_ui_safe_browsing_util.h"

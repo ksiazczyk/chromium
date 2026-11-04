@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalError base class implementation
+// summary: Implements GlobalError defaults such as severity and menu icon, plus standard bubble view behavior for GlobalErrorWithStandardBubble.
+// ---
+
 #include "chrome/browser/ui/global_error/global_error.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

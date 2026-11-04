@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Global error service unit tests
+// summary: Unit tests for GlobalErrorService covering adding owned and unowned errors, removal, lifetime, and lookup by menu item command ID.
+// ---
+
 #include "chrome/browser/ui/global_error/global_error_service.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the frame source sets
+summary: Defines the frame and impl source sets for window frame utilities, including public headers and dependencies on Skia and UI geometry.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple override extension detection header
+// summary: Declares the simple_overrides functions that identify simple override extensions and provide the allowlisted manifest keys for testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSIONS_OVERRIDES_SIMPLE_OVERRIDES_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSIONS_OVERRIDES_SIMPLE_OVERRIDES_H_
 

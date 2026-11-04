@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the download UI folder
+summary: Points the directory metadata to the shared mixins defined in the download components COMMON_METADATA file.

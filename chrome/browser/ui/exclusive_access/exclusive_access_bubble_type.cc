@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access bubble instruction text logic
+// summary: Builds localized instruction text for each exclusive access bubble type, including origin names, download notices and hold-to-exit behavior.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.h"
 
 #include "base/strings/utf_string_conversions.h"
