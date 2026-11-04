@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLoader class declaration
+// summary: Declares the PageLoader mechanism that loads the page associated with a PageNode and lists the PageNodes to load together in split views.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_MECHANISMS_PAGE_LOADER_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_MECHANISMS_PAGE_LOADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transient keep-alive policy unit tests
+// summary: Unit tests with mock time covering keep-alive timeout, process reuse and eviction of kept-alive renderer processes.
+// ---
+
 #include "chrome/browser/performance_manager/policies/transient_keep_alive_policy.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery Saver Mode manager implementation
+// summary: Implements the Battery Saver Mode manager that activates frame rate throttling and child process tuning based on battery level and power state, including a ChromeOS threshold adjustment.
+// ---
+
 #include "chrome/browser/performance_manager/public/user_tuning/battery_saver_mode_manager.h"
 
 #include <optional>

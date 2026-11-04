@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager desktop metrics provider header
+// summary: Declares MetricsProviderDesktop, a desktop-only metrics provider tracking memory saver and battery saver modes, CPU frequency, and disk metrics for UMA uploads.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_METRICS_METRICS_PROVIDER_DESKTOP_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_METRICS_METRICS_PROVIDER_DESKTOP_H_
 

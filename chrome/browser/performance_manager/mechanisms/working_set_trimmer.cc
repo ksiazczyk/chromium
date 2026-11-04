@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Working set trimmer instance selection
+// summary: Provides the platform working set trimmer singleton, using the ChromeOS implementation on ChromeOS and a no-op trimmer on unsupported platforms.
+// ---
+
 #include "chrome/browser/performance_manager/mechanisms/working_set_trimmer.h"
 
 #include "base/no_destructor.h"

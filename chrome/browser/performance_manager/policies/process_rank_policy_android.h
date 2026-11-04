@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android process rank policy declarations
+// summary: Declares the Android policy that assigns child process importance to WebContents based on page state so LMKD kills the right renderers.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_PROCESS_RANK_POLICY_ANDROID_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_PROCESS_RANK_POLICY_ANDROID_H_
 

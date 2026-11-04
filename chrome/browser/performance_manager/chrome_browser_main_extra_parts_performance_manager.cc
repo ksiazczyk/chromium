@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser main extra parts wiring the performance manager
+// summary: Implements the Chrome browser main extra parts that set up performance manager policies, decorators, metrics and platform-specific components at startup.
+// ---
+
 #include "chrome/browser/performance_manager/public/chrome_browser_main_extra_parts_performance_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CannotDiscardReason enum for page discarding
+// summary: Defines the CannotDiscardReason enum listing reasons a page cannot be discarded, with values persisted to logs and a helper converting reasons to strings.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_CANNOT_DISCARD_REASON_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_CANNOT_DISCARD_REASON_H_
 

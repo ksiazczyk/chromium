@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension watcher implementation
+// summary: Observes profiles and extension process managers to tag extension background pages and record a histogram of background host creation.
+// ---
+
 #include "chrome/browser/performance_manager/extension_watcher.h"
 
 #include "base/metrics/histogram_functions.h"

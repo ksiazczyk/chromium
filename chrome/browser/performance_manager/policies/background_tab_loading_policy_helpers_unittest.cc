@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background tab loading policy helpers unit tests
+// summary: Unit tests for the helper functions that calculate the maximum number of simultaneous tab loads and the tab age score across edge cases and random ages.
+// ---
+
 #include "chrome/browser/performance_manager/policies/background_tab_loading_policy_helpers.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake frame throttling delegate implementation
+// summary: Implements a fake frame throttling delegate that toggles a boolean flag when all frame sinks are throttled or unthrottled.
+// ---
+
 #include "chrome/browser/performance_manager/test_support/fake_frame_throttling_delegate.h"
 
 namespace performance_manager {

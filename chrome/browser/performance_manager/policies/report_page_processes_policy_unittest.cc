@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page process reporting policy unit tests
+// summary: Unit tests verifying the throttled reporting of page processes to resourced.
+// ---
+
 #include "chrome/browser/performance_manager/policies/report_page_processes_policy.h"
 
 #include <algorithm>

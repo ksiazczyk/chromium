@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Posix metric evaluator helper header
+// summary: Declares the POSIX MetricEvaluatorsHelper subclass used on non-Windows platforms.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MONITOR_METRIC_EVALUATOR_HELPER_POSIX_H_
 #define CHROME_BROWSER_PERFORMANCE_MONITOR_METRIC_EVALUATOR_HELPER_POSIX_H_
 

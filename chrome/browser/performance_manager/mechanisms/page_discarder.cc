@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page discarder implementation
+// summary: Implements discarding a PageNode on the UI thread via tab lifecycle units or WebContents discard on Android, returning the estimated memory freed and recording outcome histograms.
+// ---
+
 #include "chrome/browser/performance_manager/mechanisms/page_discarder.h"
 
 #include <utility>

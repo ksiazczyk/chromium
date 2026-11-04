@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the desktop performance manager metrics provider
+// summary: Tests the desktop metrics provider's efficiency mode reporting, battery and memory saver percentages, and disk metrics using mock time and histogram testers.
+// ---
+
 #include "chrome/browser/performance_manager/metrics/metrics_provider_desktop.h"
 
 #include "base/byte_size.h"

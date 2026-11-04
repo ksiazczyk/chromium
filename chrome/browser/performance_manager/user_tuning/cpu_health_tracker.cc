@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU health tracker implementation
+// summary: Implements the CPU health tracker that samples system and per-tab CPU usage, classifies health levels, and determines actionable tabs for performance interventions.
+// ---
+
 #include "chrome/browser/performance_manager/user_tuning/cpu_health_tracker.h"
 
 #include <algorithm>

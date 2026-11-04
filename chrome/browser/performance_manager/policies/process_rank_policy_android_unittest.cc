@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android process rank policy unit tests
+// summary: Unit tests covering process rank updates for pages and WebView guests on Android.
+// ---
+
 #include "chrome/browser/performance_manager/policies/process_rank_policy_android.h"
 
 #include <optional>

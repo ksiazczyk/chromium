@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake power monitor source header
+// summary: Declares a fake power monitor source that reports a configurable battery power status for tests.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_TEST_SUPPORT_FAKE_POWER_MONITOR_SOURCE_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_TEST_SUPPORT_FAKE_POWER_MONITOR_SOURCE_H_
 

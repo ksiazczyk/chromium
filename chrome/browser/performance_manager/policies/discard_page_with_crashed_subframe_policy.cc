@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discard page with crashed subframe policy implementation
+// summary: Implements a policy that discards pages whose cross-process subframe render process crashed, when the page is hidden, eligible, and discarding would not be perceptible.
+// ---
+
 #include "chrome/browser/performance_manager/policies/discard_page_with_crashed_subframe_policy.h"
 
 #include "base/functional/callback_helpers.h"

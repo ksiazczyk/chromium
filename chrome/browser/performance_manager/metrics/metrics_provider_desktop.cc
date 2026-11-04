@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager desktop metrics provider implementation
+// summary: Implements MetricsProviderDesktop, recording memory saver and battery saver efficiency modes, CPU frequency estimates, and disk space metrics on desktop platforms.
+// ---
+
 #include "chrome/browser/performance_manager/metrics/metrics_provider_desktop.h"
 
 #include "base/byte_size.h"

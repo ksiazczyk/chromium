@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transient keep-alive policy browser tests
+// summary: Browser tests checking that keep-alive expires after the configured duration and the renderer process host is destroyed.
+// ---
+
 #include "chrome/browser/performance_manager/policies/transient_keep_alive_policy.h"
 
 #include "base/test/metrics/histogram_tester.h"

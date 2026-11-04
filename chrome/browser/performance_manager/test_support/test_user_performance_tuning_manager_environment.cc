@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User performance tuning manager test environment implementation
+// summary: Implements a test environment that sets up UserPerformanceTuningManager and BatterySaverModeManager with fake delegates and power monitoring.
+// ---
+
 #include "chrome/browser/performance_manager/test_support/test_user_performance_tuning_manager_environment.h"
 
 #include "base/power_monitor/battery_state_sampler.h"

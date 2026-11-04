@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page node browser tests
+// summary: Integration browser tests verifying PageNode types for tabs and extension background pages plus navigation behavior such as client redirects.
+// ---
+
 #include "components/performance_manager/public/graph/page_node.h"
 
 #include <memory>

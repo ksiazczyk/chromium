@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake memory saver mode delegate header
+// summary: Declares a fake memory saver mode delegate that records the last memory saver mode state and aggressiveness for tests.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_TEST_SUPPORT_FAKE_MEMORY_SAVER_MODE_DELEGATE_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_TEST_SUPPORT_FAKE_MEMORY_SAVER_MODE_DELEGATE_H_
 

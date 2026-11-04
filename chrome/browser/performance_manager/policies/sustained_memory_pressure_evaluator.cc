@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sustained memory pressure evaluator implementation
+// summary: Implements detection of sustained system memory pressure on Windows by polling available memory and firing a callback once pressure persists.
+// ---
+
 #include "chrome/browser/performance_manager/policies/sustained_memory_pressure_evaluator.h"
 
 #include "base/byte_size.h"

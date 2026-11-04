@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DLL pre-read policy implementation
+// summary: Implements the Windows DLL pre-read policy, detecting whether the Chrome DLL is on a fixed SSD and deciding whether child processes should pre-read it.
+// ---
+
 #include "chrome/browser/performance_manager/public/dll_pre_read_policy_win.h"
 
 #include <atomic>

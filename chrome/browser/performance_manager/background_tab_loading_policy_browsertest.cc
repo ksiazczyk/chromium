@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the background tab loading policy
+// summary: Exercises tab restore and background loading behavior of BackgroundTabLoadingPolicy with controlled simultaneous load and free memory settings.
+// ---
+
 #include "chrome/browser/performance_manager/policies/background_tab_loading_policy.h"
 
 #include <string>

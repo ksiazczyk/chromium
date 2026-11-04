@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android process rank policy
+// summary: Sets ChildProcessImportance per page on Android to keep renderer memory priority in sync with LMKD, including handling of WebView guests in WebUIs.
+// ---
+
 #include "chrome/browser/performance_manager/policies/process_rank_policy_android.h"
 
 #include <optional>

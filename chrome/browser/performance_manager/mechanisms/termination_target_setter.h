@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TerminationTargetSetter class declaration
+// summary: Declares the mechanism that designates a ProcessNode's process to terminate on commit failure, instantiated in production only on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_MECHANISMS_TERMINATION_TARGET_SETTER_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_MECHANISMS_TERMINATION_TARGET_SETTER_H_
 

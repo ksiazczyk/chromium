@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile discard opt-out list helper unit tests
+// summary: Unit tests verifying that user and policy-specified discard exception lists are merged and applied per profile.
+// ---
+
 #include "chrome/browser/performance_manager/user_tuning/profile_discard_opt_out_list_helper.h"
 
 #include <map>

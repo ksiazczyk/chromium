@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory Saver Mode policy unit tests
+// summary: Unit tests verifying discard timers and timeouts of the Memory Saver Mode policy across aggressiveness levels.
+// ---
+
 #include "chrome/browser/performance_manager/policies/memory_saver_mode_policy.h"
 
 #include "base/memory_coordinator/mock_memory_consumer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows metric evaluator helper implementation
+// summary: Windows implementation reporting free physical memory via GlobalMemoryStatusEx as a single enforced instance.
+// ---
+
 #include "chrome/browser/performance_monitor/metric_evaluator_helper_win.h"
 
 #include <windows.h>

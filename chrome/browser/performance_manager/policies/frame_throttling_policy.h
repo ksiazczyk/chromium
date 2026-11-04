@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame throttling policy class declaration
+// summary: Declares FrameThrottlingPolicy, a graph-owned observer that throttles BeginFrames for unimportant frames via the frame sink manager.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_FRAME_THROTTLING_POLICY_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_FRAME_THROTTLING_POLICY_H_
 

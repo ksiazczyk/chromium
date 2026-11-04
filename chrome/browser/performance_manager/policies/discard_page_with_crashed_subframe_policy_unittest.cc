@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discard page with crashed subframe policy unit tests
+// summary: Unit tests verifying that invisible pages with crashed subframes are discarded when eligible and the WebContents discard feature is enabled.
+// ---
+
 #include "chrome/browser/performance_manager/policies/discard_page_with_crashed_subframe_policy.h"
 
 #include "base/test/scoped_feature_list.h"

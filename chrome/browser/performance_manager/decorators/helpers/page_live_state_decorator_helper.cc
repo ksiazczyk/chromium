@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page live state decorator helper implementation
+// summary: Implements the performance manager helper that tracks active tabs, media capture, DevTools attachment and Glic state to update page live state properties.
+// ---
+
 #include "chrome/browser/performance_manager/decorators/helpers/page_live_state_decorator_helper.h"
 
 #include "base/memory/raw_ptr.h"

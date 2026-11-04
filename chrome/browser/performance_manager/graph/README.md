@@ -1,3 +1,9 @@
+---
+type: readme
+title: Threading Model
+summary: Explains that the performance manager graph is single-sequence accessible and that users, not GraphImpl, own node lifetime and must remove nodes before deletion.
+---
+
 # Threading Model
 
 The [graph](graph.h) can only be accessed from a single sequence.

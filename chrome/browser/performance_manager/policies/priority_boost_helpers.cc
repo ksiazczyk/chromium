@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows process priority boost helpers
+// summary: Implements helpers that disable or query the Windows process priority boost for a process node.
+// ---
+
 #include "chrome/browser/performance_manager/policies/priority_boost_helpers.h"
 
 #include <windows.h>

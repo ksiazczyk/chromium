@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discard eligibility policy declarations
+// summary: Declares the discard eligibility policy, the CanDiscardResult enum, page protection time constants, and a PageNodeSortProxy for ordering tabs by discard priority.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_DISCARD_ELIGIBILITY_POLICY_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_DISCARD_ELIGIBILITY_POLICY_H_
 

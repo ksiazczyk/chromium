@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Performance monitor owners
+summary: Delegates code ownership for this directory to the performance_manager components OWNERS file.

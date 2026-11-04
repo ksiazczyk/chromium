@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Urgent page discarding policy implementation
+// summary: Implements urgent tab discarding under memory pressure, integrating ChromeOS reclaim targets and Windows commit limit monitoring.
+// ---
+
 #include "chrome/browser/performance_manager/policies/urgent_page_discarding_policy.h"
 
 #include <memory>

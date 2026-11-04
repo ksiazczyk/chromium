@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics observer header
+// summary: Declares the PageLoadMetricsObserver class and the LoadType enum, which matches StabilityPageLoadType in enums.xml for classifying pageloads.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_OBSERVERS_PAGE_LOAD_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_OBSERVERS_PAGE_LOAD_METRICS_OBSERVER_H_
 

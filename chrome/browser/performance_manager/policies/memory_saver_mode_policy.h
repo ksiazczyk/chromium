@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory Saver Mode policy header
+// summary: Declares the MemorySaverModePolicy class that discards tabs backgrounded for a configured time when Memory Saver is enabled.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_MEMORY_SAVER_MODE_POLICY_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_MEMORY_SAVER_MODE_POLICY_H_
 

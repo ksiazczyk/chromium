@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Freezing opt-out checker class declaration
+// summary: Declares FreezingOptOutChecker, which reports whether a page opted out of freezing using the discard eligibility policy.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_FREEZING_OPT_OUT_CHECKER_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_FREEZING_OPT_OUT_CHECKER_H_
 

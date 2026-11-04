@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCVM working set trimmer policy implementation
+// summary: Implements the ARCVM-specific working set trimmer policy, deciding reclaim eligibility from boot state, window focus, and user inactivity on ChromeOS.
+// ---
+
 #include "chrome/browser/performance_manager/policies/working_set_trimmer_policy_arcvm.h"
 
 #include "ash/public/cpp/app_types_util.h"

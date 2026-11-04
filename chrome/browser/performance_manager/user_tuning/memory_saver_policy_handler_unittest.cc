@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory Saver policy handler unit tests
+// summary: Tests that the Memory Saver policy handler converts the HighEfficiencyModeEnabled policy into the corresponding memory saver mode preference value.
+// ---
+
 #include "chrome/browser/performance_manager/public/user_tuning/memory_saver_policy_handler.h"
 
 #include "components/performance_manager/public/user_tuning/prefs.h"

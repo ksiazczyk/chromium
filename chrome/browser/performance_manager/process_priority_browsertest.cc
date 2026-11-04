@@ -6,6 +6,12 @@
 // the user should get (e.g. "a page loading in a background tab is at least
 // kUserVisible"), independently of which voters implement it.
 
+// ---docerion
+// type: test
+// title: Process priority end-to-end browser tests
+// summary: End-to-end browser tests asserting the process priority users should get in scenarios like background tab loads, independent of which voters implement it.
+// ---
+
 #include <algorithm>
 #include <map>
 #include <memory>

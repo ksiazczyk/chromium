@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMonitor class declaration
+// summary: Declares the SystemMonitor class, its SystemObserver interface and sampling frequency options for tracking system metrics like free memory, requiring a platform-specific MetricEvaluatorsHelper.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MONITOR_SYSTEM_MONITOR_H_
 #define CHROME_BROWSER_PERFORMANCE_MONITOR_SYSTEM_MONITOR_H_
 

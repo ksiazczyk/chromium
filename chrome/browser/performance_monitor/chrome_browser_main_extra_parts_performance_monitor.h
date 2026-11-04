@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser main extra parts performance monitor header
+// summary: Declares the ChromeBrowserMainExtraParts subclass that owns the performance monitor system monitor instance.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MONITOR_CHROME_BROWSER_MAIN_EXTRA_PARTS_PERFORMANCE_MONITOR_H_
 #define CHROME_BROWSER_PERFORMANCE_MONITOR_CHROME_BROWSER_MAIN_EXTRA_PARTS_PERFORMANCE_MONITOR_H_
 

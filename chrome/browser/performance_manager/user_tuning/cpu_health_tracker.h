@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU health tracker class declaration
+// summary: Declares the graph-owned CpuHealthTracker class with CPU sampling thresholds, health level classification constants, and status and actionability callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_USER_TUNING_CPU_HEALTH_TRACKER_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_USER_TUNING_CPU_HEALTH_TRACKER_H_
 

@@ -1,3 +1,9 @@
+---
+type: guide
+title: Page Freezing Opt-In and Opt-Out
+summary: Explains Chrome's page freezing feature, its impact on sites, which pages are exempt from freezing, and how site owners can opt a site out of or into freezing.
+---
+
 # Page Freezing Opt-In and Opt-Out
 
 *** note

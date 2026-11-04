@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension service worker priority voter class declaration
+// summary: Declares ExtensionServiceWorkerPriorityVoter, which votes USER_BLOCKING for extension service workers that can block navigations and network requests.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_PRIORITY_EXTENSION_SERVICE_WORKER_PRIORITY_VOTER_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_PRIORITY_EXTENSION_SERVICE_WORKER_PRIORITY_VOTER_H_
 

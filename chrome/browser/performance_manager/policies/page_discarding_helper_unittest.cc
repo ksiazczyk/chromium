@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page discarding helper unit tests
+// summary: Unit tests for discarding single and multiple pages, protected tabs, and related histogram metrics.
+// ---
+
 #include "chrome/browser/performance_manager/policies/page_discarding_helper.h"
 
 #include <memory>

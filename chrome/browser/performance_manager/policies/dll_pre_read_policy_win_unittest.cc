@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows DLL pre-read policy unit tests
+// summary: Unit tests for the Windows DLL pre-read policy, covering fixed SSD detection, prefetch decisions, and startup prefetch timeout behavior.
+// ---
+
 #include "chrome/browser/performance_manager/public/dll_pre_read_policy_win.h"
 
 #include "base/files/drive_info.h"

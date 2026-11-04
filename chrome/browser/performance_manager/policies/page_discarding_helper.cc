@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page discarding helper implementation
+// summary: Implements selection and discarding of tabs, including memory footprint estimation and discarded tab metrics.
+// ---
+
 #include "chrome/browser/performance_manager/policies/page_discarding_helper.h"
 
 #include <cstdint>

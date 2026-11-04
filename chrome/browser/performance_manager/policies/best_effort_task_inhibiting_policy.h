@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Best effort task inhibiting policy header
+// summary: Declares the BestEffortTaskInhibitingPolicy class that disables best-effort tasks while the browser is actively used, with quota-based limits on fence time.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_BEST_EFFORT_TASK_INHIBITING_POLICY_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_BEST_EFFORT_TASK_INHIBITING_POLICY_H_
 

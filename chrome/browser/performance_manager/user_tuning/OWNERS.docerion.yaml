@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: User tuning OWNERS file
+summary: Lists anthonyvd@chromium.org as the code owner for the user_tuning directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMonitor implementation
+// summary: Implements the SystemMonitor singleton that samples system metrics such as free physical memory on a blocking task runner and notifies registered observers at their requested frequencies.
+// ---
+
 #include "chrome/browser/performance_monitor/system_monitor.h"
 
 #include <algorithm>

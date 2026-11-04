@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keep-alive default search engine policy class declaration
+// summary: Declares KeepAliveDSEPolicy, which keeps the DSE renderer alive and observes page, process, and template URL service changes.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_KEEP_ALIVE_DSE_POLICY_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_KEEP_ALIVE_DSE_POLICY_H_
 

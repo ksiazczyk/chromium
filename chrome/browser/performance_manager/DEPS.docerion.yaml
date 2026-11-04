@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the performance_manager directory
+summary: Grants the directory access to components/performance_manager, components/system_cpu, ChromeOS Ash memory components and dbus headers.

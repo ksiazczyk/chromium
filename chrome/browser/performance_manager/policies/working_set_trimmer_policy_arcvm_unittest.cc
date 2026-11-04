@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARCVM working set trimmer policy unit tests
+// summary: Unit tests for the ARCVM working set trimmer policy, using fake ARC services and mock time to exercise reclaim eligibility and session lifecycle behavior.
+// ---
+
 #include "chrome/browser/performance_manager/policies/working_set_trimmer_policy_arcvm.h"
 
 #include <memory>

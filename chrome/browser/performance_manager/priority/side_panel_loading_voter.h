@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side Panel loading voter class declaration
+// summary: Declares SidePanelLoadingVoter, which boosts Side Panel page priority during initial load and clears the vote once the page is visible.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_PRIORITY_SIDE_PANEL_LOADING_VOTER_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_PRIORITY_SIDE_PANEL_LOADING_VOTER_H_
 

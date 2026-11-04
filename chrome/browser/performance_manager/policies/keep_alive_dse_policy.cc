@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keep-alive default search engine policy implementation
+// summary: Implements a policy that keeps the default search engine's renderer process alive when search result pages from the DSE are open.
+// ---
+
 #include "chrome/browser/performance_manager/policies/keep_alive_dse_policy.h"
 
 #include "base/memory_coordinator/utils.h"

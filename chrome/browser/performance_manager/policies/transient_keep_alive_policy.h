@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transient keep-alive policy declaration
+// summary: Declares the policy that keeps empty renderer processes alive temporarily to improve navigation performance through process reuse.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_TRANSIENT_KEEP_ALIVE_POLICY_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_TRANSIENT_KEEP_ALIVE_POLICY_H_
 

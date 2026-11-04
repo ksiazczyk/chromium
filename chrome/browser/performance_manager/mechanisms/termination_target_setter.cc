@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Termination target setter implementation
+// summary: Implements setting the process PartitionAlloc should terminate on commit failure, an effect that only applies on Windows.
+// ---
+
 #include "chrome/browser/performance_manager/mechanisms/termination_target_setter.h"
 
 #include "base/process/process.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS working set trimmer policy unit tests
+// summary: Unit tests for the ChromeOS working set trimmer policy, using a mock trimmer plus fake power and ARC services to verify trimming behavior.
+// ---
+
 #include "chrome/browser/performance_manager/policies/working_set_trimmer_policy_chromeos.h"
 
 #include <memory>

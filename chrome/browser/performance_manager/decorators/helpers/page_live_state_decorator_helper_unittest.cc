@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for page live state decorator helper
+// summary: Unit tests covering end-to-end media stream capture properties and other page live state updates handled by the decorator helper.
+// ---
+
 #include "chrome/browser/performance_manager/decorators/helpers/page_live_state_decorator_helper.h"
 
 #include "base/functional/callback.h"

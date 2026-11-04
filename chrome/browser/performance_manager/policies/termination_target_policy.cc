@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Termination target policy implementation
+// summary: Implements selection of the best renderer process to hand to partition_alloc as the process to terminate on commit failure.
+// ---
+
 #include "chrome/browser/performance_manager/policies/termination_target_policy.h"
 
 #include <algorithm>

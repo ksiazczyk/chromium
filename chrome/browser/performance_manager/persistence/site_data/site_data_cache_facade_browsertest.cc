@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteDataCacheFacade browser tests
+// summary: Browser tests verifying site data recording and clearing behavior of the site data cache facade, including clearing site data when profiles are destroyed.
+// ---
+
 #include "chrome/browser/performance_manager/persistence/site_data/site_data_cache_facade.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy features header for ChromeOS memory trimming
+// summary: Declares ChromeOS feature flags and field trial parameters governing memory pressure trimming of processes, ARC apps and ARCVM.
+// ---
+
 #include "base/feature_list.h"
 #include "base/metrics/field_trial_params.h"
 #include "base/time/time.h"

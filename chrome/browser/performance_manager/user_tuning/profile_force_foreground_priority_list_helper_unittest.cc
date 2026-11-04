@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile force foreground priority list helper unit tests
+// summary: Unit tests verifying pattern updates on preference changes and clearing when a profile is removed.
+// ---
+
 #include "chrome/browser/performance_manager/user_tuning/profile_force_foreground_priority_list_helper.h"
 
 #include <map>
