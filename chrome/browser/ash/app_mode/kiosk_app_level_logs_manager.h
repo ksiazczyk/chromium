@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app level logs manager interface
+// summary: Declares the manager that owns the log collectors and saver for kiosk application log collection.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_LEVEL_LOGS_MANAGER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_LEVEL_LOGS_MANAGER_H_
 

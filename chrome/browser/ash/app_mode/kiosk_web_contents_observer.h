@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk web contents observer class
+// summary: Declares an observer that collects console log messages from kiosk web contents for log saving.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_WEB_CONTENTS_OBSERVER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_WEB_CONTENTS_OBSERVER_H_
 

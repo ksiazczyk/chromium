@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Weekly scheduled suspend test policy builder header
+// summary: Declares a builder for creating device weekly scheduled suspend policy values and weekly time intervals in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_AUTO_SLEEP_DEVICE_WEEKLY_SCHEDULED_SUSPEND_TEST_POLICY_BUILDER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_AUTO_SLEEP_DEVICE_WEEKLY_SCHEDULED_SUSPEND_TEST_POLICY_BUILDER_H_
 

@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Fake kiosk app launcher interface
+// summary: Declares FakeKioskAppLauncher, a test double of KioskAppLauncher that counts initialization and launch calls and exposes its observer list.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_FAKE_KIOSK_APP_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_FAKE_KIOSK_APP_LAUNCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Weekly interval timer implementation
+// summary: Implements a timer that invokes a callback when the device enters a weekly time interval and reschedules it when the system timezone changes.
+// ---
+
 #include "chrome/browser/ash/app_mode/auto_sleep/weekly_interval_timer.h"
 
 #include <memory>

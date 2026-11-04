@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app manager base header
+// summary: Declares KioskAppManagerBase, the shared base for kiosk app managers with an App struct, observer management and virtual hooks for app lists and policy updates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_MANAGER_BASE_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_MANAGER_BASE_H_
 

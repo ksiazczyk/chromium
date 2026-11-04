@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app windows logs collector
+// summary: Observes kiosk app windows via AppWindowRegistry and attaches KioskWebContentsObserver instances to collect app window logs.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_windows_logs_collector.h"
 
 #include "base/functional/bind.h"

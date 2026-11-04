@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ephemeral kiosk session browser tests
+// summary: Parameterized browser tests verifying how device-wide and device-local-account policies determine whether a kiosk session is ephemeral.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string>

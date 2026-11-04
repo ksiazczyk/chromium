@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generic kiosk behavior browser tests
+// summary: Browser tests covering generic kiosk session behavior such as app launching, shelf swipe gestures, and overview interactions.
+// ---
+
 #include <cstddef>
 #include <optional>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk Chrome app manager browser tests
+// summary: Browser tests for KioskChromeAppManager covering app installation, updates and local filesystem data persistence across app updates.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_chrome_app_manager.h"
 
 #include <stddef.h>

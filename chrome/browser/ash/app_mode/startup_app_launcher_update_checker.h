@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup app launcher update checker header
+// summary: Declares StartupAppLauncherUpdateChecker, which checks for updates to secondary and imported extensions used by the kiosk startup app launcher.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_STARTUP_APP_LAUNCHER_UPDATE_CHECKER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_STARTUP_APP_LAUNCHER_UPDATE_CHECKER_H_
 

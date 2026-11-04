@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for the kiosk metrics library
+summary: Defines the metrics static library and unit_tests source set targets with their sources and dependencies.

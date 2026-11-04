@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch utilities header
+// summary: Declares helpers for resetting ephemeral kiosk preferences and checking whether kiosk auto-launch should start.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_APP_LAUNCH_UTILS_H_
 #define CHROME_BROWSER_ASH_APP_MODE_APP_LAUNCH_UTILS_H_
 

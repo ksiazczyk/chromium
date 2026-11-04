@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network state test mixin implementation
+// summary: Implements a browser test mixin that simulates online and offline network states for Kiosk tests using NetworkStateTestHelper.
+// ---
+
 #include "chrome/browser/ash/app_mode/test/network_state_mixin.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome kiosk app installer
+// summary: Implements installation of Chrome kiosk apps and their secondary apps through the extensions system.
+// ---
+
 #include "chrome/browser/ash/app_mode/chrome_kiosk_app_installer.h"
 
 #include <algorithm>

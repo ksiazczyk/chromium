@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk ARCVM app service unit tests
+// summary: Unit tests for KioskArcvmAppService that exercise kiosk app launching, window creation and app preparation using fake ARC session and Ash test helpers.
+// ---
+
 #include "chrome/browser/ash/app_mode/arcvm_app/kiosk_arcvm_app_service.h"
 
 #include "ash/test/ash_test_helper.h"

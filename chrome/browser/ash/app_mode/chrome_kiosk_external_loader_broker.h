@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeKioskExternalLoaderBroker class header
+// summary: Declares ChromeKioskExternalLoaderBroker, a singleton connecting the kiosk app installer with the kiosk external extension loader.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_CHROME_KIOSK_EXTERNAL_LOADER_BROKER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_CHROME_KIOSK_EXTERNAL_LOADER_BROKER_H_
 

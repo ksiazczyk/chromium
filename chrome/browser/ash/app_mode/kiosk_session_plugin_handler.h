@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk session plugin handler header
+// summary: Declares KioskSessionPluginHandler, which watches for hung or crashed plugins in a kiosk session so the device can be rebooted.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_SESSION_PLUGIN_HANDLER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_SESSION_PLUGIN_HANDLER_H_
 

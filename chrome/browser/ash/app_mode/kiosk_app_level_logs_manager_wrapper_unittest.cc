@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk app level logs manager wrapper unit tests
+// summary: Parameterized unit tests verifying that kiosk app log collection is enabled only when the policy allows it and that its state updates when the policy changes.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_level_logs_manager_wrapper.h"
 
 #include <memory>

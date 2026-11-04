@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app level logs manager implementation
+// summary: Coordinates browser, service worker, and app window log collectors and forwards collected kiosk app log messages to the saver.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_level_logs_manager.h"
 
 #include <string>

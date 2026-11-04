@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk test helper header
+// summary: Declares the KioskTestHelper class that changes kiosk behavior for testing purposes via scoped boolean overrides.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_TEST_HELPER_H_
 

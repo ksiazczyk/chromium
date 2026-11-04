@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskArcvmAppService implementation
+// summary: Implements the per-profile service that watches ARCVM session, app and policy state to auto-launch and restart the kiosk app.
+// ---
+
 #include "chrome/browser/ash/app_mode/arcvm_app/kiosk_arcvm_app_service.h"
 
 #include <memory>

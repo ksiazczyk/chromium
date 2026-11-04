@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app update service browser tests
+// summary: Browser tests verifying KioskAppUpdateService restart behavior, including automatic reboot manager initialization and update-triggered restarts.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_update_service.h"
 
 #include <memory>

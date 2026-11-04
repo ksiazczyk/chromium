@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch utilities
+// summary: Implements kiosk launch helpers that reset ephemeral preferences and decide whether a kiosk app should auto-launch.
+// ---
+
 #include "chrome/browser/ash/app_mode/app_launch_utils.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskAppData class header
+// summary: Declares KioskAppData, which fetches an app's web store data and manages cached info such as name and icon, with status tracking and cache handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_DATA_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_DATA_H_
 

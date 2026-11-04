@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Kiosk ARCVM app service factory header
+// summary: Declares the KioskArcvmAppServiceFactory singleton, a ProfileKeyedServiceFactory that owns KioskArcvmAppService instances and cleans them up on profile destruction.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_ARCVM_APP_KIOSK_ARCVM_APP_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_APP_MODE_ARCVM_APP_KIOSK_ARCVM_APP_SERVICE_FACTORY_H_
 

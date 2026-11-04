@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk crash restore browser tests
+// summary: Browser tests verifying kiosk session restoration after a browser crash, including device policy setup and session termination handling.
+// ---
+
 #include <string>
 #include <utility>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app level logs manager wrapper interface
+// summary: Declares a ProfileManagerObserver wrapper that toggles the kiosk app logs manager when the log collection policy changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_LEVEL_LOGS_MANAGER_WRAPPER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_LEVEL_LOGS_MANAGER_WRAPPER_H_
 

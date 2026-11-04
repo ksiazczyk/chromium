@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake kiosk controller implementation
+// summary: Implements FakeKioskController with empty kiosk session methods so tests can replace the KioskController singleton with inert behavior.
+// ---
+
 #include "chrome/browser/ash/app_mode/fake_kiosk_controller.h"
 
 #include <optional>

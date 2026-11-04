@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskWebAppServiceLauncher class header
+// summary: Declares KioskWebAppServiceLauncher, responsible for installing and launching web kiosk apps through App Service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_WEB_APP_KIOSK_WEB_APP_SERVICE_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_WEB_APP_KIOSK_WEB_APP_SERVICE_LAUNCHER_H_
 

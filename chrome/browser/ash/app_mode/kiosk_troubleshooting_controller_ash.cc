@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash kiosk troubleshooting controller implementation
+// summary: Implements the Ash-specific troubleshooting controller that registers and handles accelerators for new window, window switching, task manager, feedback, and overview during kiosk sessions.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_troubleshooting_controller_ash.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk file system volumes browser test
+// summary: Browser test verifying the chrome.fileSystem.getVolumeList extension API works in Kiosk sessions via a dedicated volume list Chrome app.
+// ---
+
 #include <cstddef>
 #include <optional>
 #include <string_view>

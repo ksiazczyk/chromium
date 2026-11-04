@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk browser session unit tests
+// summary: Unit tests for KioskBrowserSession simulating web, IWA and Chrome app kiosk sessions to verify session lifetime, exit attempts and crash-related metrics.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_browser_session.h"
 
 #include <memory>

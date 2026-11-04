@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk Chrome app USB update browser tests
+// summary: Browser tests verifying Chrome app updates from mounted USB drives in Kiosk, using a fake disk mount helper and various external update manifests.
+// ---
+
 #include <fcntl.h>
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk policies header
+// summary: Declares the KioskPolicies helper class for kiosk session policies, including the new-windows-in-kiosk-allowed preference check.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_POLICIES_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_POLICIES_H_
 

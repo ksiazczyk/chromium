@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network connectivity metrics service implementation
+// summary: Implements counting of kiosk network drop events from NetworkStateHandler state changes and reporting the previous session's drop count.
+// ---
+
 #include "chrome/browser/ash/app_mode/metrics/network_connectivity_metrics_service.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk web app launcher base class
+// summary: Declares the KioskAppLauncher base class for web kiosk apps, with install-state hooks for subclasses.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_WEB_APP_LAUNCHER_BASE_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_WEB_APP_LAUNCHER_BASE_H_
 

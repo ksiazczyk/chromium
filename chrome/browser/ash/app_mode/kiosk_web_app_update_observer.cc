@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk web app update observer implementation
+// summary: Implements an App Service observer that reports kiosk web app title, start URL and icon updates via callback.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_web_app_update_observer.h"
 
 #include <string>

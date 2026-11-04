@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Retry runner unit tests
+// summary: Tests RunUpToNTimes behavior including retry counts, early success, cancellation, and cancellable job support.
+// ---
+
 #include "chrome/browser/ash/app_mode/retry_runner.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskArcvmAppManager implementation
+// summary: Implements the singleton manager that tracks Android kiosk apps from CrosSettings, registers prefs and updates cached names and icons.
+// ---
+
 #include "chrome/browser/ash/app_mode/arcvm_app/kiosk_arcvm_app_manager.h"
 
 #include <map>

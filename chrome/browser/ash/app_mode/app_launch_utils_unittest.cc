@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App launch utilities unit tests
+// summary: Unit tests verifying that ephemeral kiosk preferences are cleared correctly during session reset.
+// ---
+
 #include "chrome/browser/ash/app_mode/app_launch_utils.h"
 
 #include <string>

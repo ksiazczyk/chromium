@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk cryptohome remover
+// summary: Declares KioskCryptohomeRemover, which removes cryptohomes of kiosk apps removed from policy and can schedule or cancel removals across reboots.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_CRYPTOHOME_REMOVER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_CRYPTOHOME_REMOVER_H_
 

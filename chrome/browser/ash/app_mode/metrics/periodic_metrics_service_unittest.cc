@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PeriodicMetricsService unit tests
+// summary: Unit tests verifying that PeriodicMetricsService records kiosk RAM and swap usage histograms immediately on start and again after each periodic metrics interval.
+// ---
+
 #include "chrome/browser/ash/app_mode/metrics/periodic_metrics_service.h"
 
 #include <string>

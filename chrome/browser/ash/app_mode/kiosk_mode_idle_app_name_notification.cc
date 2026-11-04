@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk mode idle app name notification implementation
+// summary: Implements the kiosk idle app name notification that shows the running app's name on the internal display after user inactivity or resume.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_mode_idle_app_name_notification.h"
 
 #include <memory>

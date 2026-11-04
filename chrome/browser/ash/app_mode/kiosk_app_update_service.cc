@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app update service
+// summary: Enforces automatic restarts when kiosk app or OS updates are available, dispatching OnRestartRequired events and forcing a browser close after 24 hours.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_update_service.h"
 
 #include "base/logging.h"

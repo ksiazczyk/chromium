@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Consumer kiosk test helper header
+// summary: Declares test helpers for configuring consumer kiosk Chrome apps in tests, marked for removal by a TODO.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_CONSUMER_KIOSK_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_CONSUMER_KIOSK_TEST_HELPER_H_
 

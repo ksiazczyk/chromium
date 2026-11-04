@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk guest view browser test
+// summary: Browser tests for guest views in kiosk sessions, covering web views and PDF mime handler guests with troubleshooting tools enabled.
+// ---
+
 #include <string_view>
 
 #include "ash/constants/ash_pref_names.h"

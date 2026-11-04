@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KioskIwaManager unit tests
+// summary: Tests manager behavior for IWA device local accounts, including expected account ids and ignoring Chrome app kiosk entries.
+// ---
+
 #include "chrome/browser/ash/app_mode/isolated_web_app/kiosk_iwa_manager.h"
 
 #include <memory>

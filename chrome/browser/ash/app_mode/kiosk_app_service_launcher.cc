@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app service launcher implementation
+// summary: Launches kiosk apps through App Service, waiting for app readiness and window visibility and reporting launch success or failure via callbacks and metrics.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_service_launcher.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskIwaLauncher implementation
+// summary: Launches kiosk isolated web apps, checking blocklist, granting storage, and installing the app when it is not yet present.
+// ---
+
 #include "chrome/browser/ash/app_mode/isolated_web_app/kiosk_iwa_launcher.h"
 
 #include <string>

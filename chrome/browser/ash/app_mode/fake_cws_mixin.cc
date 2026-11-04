@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake CWS browser test mixin implementation
+// summary: Implements FakeCwsMixin, which wires a fake public or private Chrome Web Store into browser tests, disables CRX publisher verification and logs requests.
+// ---
+
 #include "chrome/browser/ash/app_mode/fake_cws_mixin.h"
 
 #include <string_view>

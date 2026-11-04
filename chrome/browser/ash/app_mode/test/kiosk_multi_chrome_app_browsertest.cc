@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk multi Chrome app browser test
+// summary: Browser tests covering kiosk sessions with multiple Chrome apps, including primary app version updates, shared modules, and secondary apps and extensions.
+// ---
+
 #include <algorithm>
 #include <iterator>
 #include <string>

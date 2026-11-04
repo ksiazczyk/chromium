@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk service workers logs collector unit tests
+// summary: Unit tests verifying that service worker console messages are reported with the expected message, line number, severity and source.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_service_workers_logs_collector.h"
 
 #include <cstdint>

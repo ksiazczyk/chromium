@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk cryptohome remover
+// summary: Implements KioskCryptohomeRemover, which removes cryptohomes of kiosk users removed from policy, scheduling delayed removals and signing out when needed.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_cryptohome_remover.h"
 
 #include <algorithm>

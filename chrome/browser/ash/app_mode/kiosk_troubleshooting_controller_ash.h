@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash kiosk troubleshooting controller header
+// summary: Declares KioskTroubleshootingControllerAsh, an accelerator target that handles kiosk troubleshooting keyboard shortcuts when the tools policy allows them.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_TROUBLESHOOTING_CONTROLLER_ASH_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_TROUBLESHOOTING_CONTROLLER_ASH_H_
 

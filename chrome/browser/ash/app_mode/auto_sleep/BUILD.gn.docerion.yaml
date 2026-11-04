@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the auto_sleep module
+summary: Defines the auto_sleep static library, test support, unit test, and browser test build targets and their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskArcvmAppLauncher class declaration
+// summary: Declares the launcher that starts an Android app in kiosk mode, pins its window and notifies its owner when the window launches.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_ARCVM_APP_KIOSK_ARCVM_APP_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_ARCVM_APP_KIOSK_ARCVM_APP_LAUNCHER_H_
 

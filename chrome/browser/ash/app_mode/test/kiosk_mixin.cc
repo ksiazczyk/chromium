@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KioskMixin test helper implementation
+// summary: Implements the KioskMixin that enrolls the device and configures kiosk device local account policies for web app, Chrome app, and isolated web app browser tests.
+// ---
+
 #include "chrome/browser/ash/app_mode/test/kiosk_mixin.h"
 
 #include <algorithm>

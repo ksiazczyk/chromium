@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk virtual keyboard features browser tests
+// summary: Parameterized browser tests verifying that the VirtualKeyboardFeatures policy applies keyboard configuration settings correctly in kiosk sessions.
+// ---
+
 #include <cstddef>
 #include <optional>
 #include <string>

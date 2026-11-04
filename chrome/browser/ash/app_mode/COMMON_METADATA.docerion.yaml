@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA
+summary: Directory metadata specifying the ChromeOS kiosk team email and bug tracker components.

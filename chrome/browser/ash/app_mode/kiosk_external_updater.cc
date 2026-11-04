@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk external updater implementation
+// summary: Implements scanning mounted USB sticks for external kiosk app updates, parsing external_update.json manifests, and caching validated CRX files.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_external_updater.h"
 
 #include <memory>

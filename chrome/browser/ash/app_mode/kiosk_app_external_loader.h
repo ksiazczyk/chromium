@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskAppExternalLoader class header
+// summary: Declares KioskAppExternalLoader, an extensions::ExternalLoader that loads primary or secondary kiosk apps and extensions for a kiosk session.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_EXTERNAL_LOADER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_EXTERNAL_LOADER_H_
 

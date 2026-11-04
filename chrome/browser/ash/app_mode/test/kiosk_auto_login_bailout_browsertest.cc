@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk auto-login bailout browser tests
+// summary: Parameterized browser tests verifying the DeviceLocalAccountAutoLoginBailoutEnabled policy and bailout accelerator behavior during kiosk launch.
+// ---
+
 #include <cstddef>
 #include <memory>
 #include <optional>

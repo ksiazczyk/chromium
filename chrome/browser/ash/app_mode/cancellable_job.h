@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cancellable job interface
+// summary: Defines a CancellableJob interface for long-running asynchronous operations that are cancelled on destruction.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_CANCELLABLE_JOB_H_
 #define CHROME_BROWSER_ASH_APP_MODE_CANCELLABLE_JOB_H_
 

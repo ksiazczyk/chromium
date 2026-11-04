@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk metrics service implementation
+// summary: Implements recording of kiosk session UMA metrics, including session state, daily counts, duration, and detection of previously crashed sessions.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_metrics_service.h"
 
 #include <string>

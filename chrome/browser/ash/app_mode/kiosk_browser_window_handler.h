@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk browser window handler
+// summary: Header for KioskBrowserWindowHandler, which monitors browser windows during kiosk sessions, closes unauthorized windows and ends the session when the last window closes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_BROWSER_WINDOW_HANDLER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_BROWSER_WINDOW_HANDLER_H_
 

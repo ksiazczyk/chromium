@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk browser session header
+// summary: Declares KioskBrowserSession, the class that initializes and manages the lifetime of Chrome app, web and isolated web app kiosk sessions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_BROWSER_SESSION_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_BROWSER_SESSION_H_
 

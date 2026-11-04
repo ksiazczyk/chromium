@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test kiosk extension builder implementation
+// summary: Implements TestKioskExtensionBuilder, which builds Chrome extension objects with kiosk, offline and secondary app settings for use in kiosk tests.
+// ---
+
 #include "chrome/browser/ash/app_mode/test_kiosk_extension_builder.h"
 
 #include <memory>

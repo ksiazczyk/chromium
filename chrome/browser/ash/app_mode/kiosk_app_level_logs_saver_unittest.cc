@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk app level logs saver unit tests
+// summary: Unit tests checking that the logs saver stops at the 3000-entry limit and formats messages with source, line number and stack traces correctly.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_level_logs_saver.h"
 
 #include <cstddef>

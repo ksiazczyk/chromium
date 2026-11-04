@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake CWS Chrome app options declarations
+// summary: Declares helpers that map fake Chrome Web Store kiosk apps under the test data directory to CwsChromeAppOption values for KioskMixin.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_TEST_FAKE_CWS_CHROME_APPS_H_
 #define CHROME_BROWSER_ASH_APP_MODE_TEST_FAKE_CWS_CHROME_APPS_H_
 

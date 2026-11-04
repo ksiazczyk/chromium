@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk minimum Chrome version browser test
+// summary: Browser test verifying how Chrome apps declaring minimum_chrome_version are updated or skipped in Kiosk, including cache removal on failure.
+// ---
+
 #include <cstddef>
 #include <optional>
 

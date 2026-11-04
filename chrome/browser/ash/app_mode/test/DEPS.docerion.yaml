@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Kiosk test directory include rules
+summary: Restricts which headers and directories the kiosk app mode test sources may include, with special rules for browser test files.

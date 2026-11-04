@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk IWA policy utilities header
+// summary: Declares functions for parsing kiosk IWA update channel and pinned version policies, obtaining the current kiosk web bundle id, and the KioskIwaUpdateData struct.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_ISOLATED_WEB_APP_KIOSK_IWA_POLICY_UTIL_H_
 #define CHROME_BROWSER_ASH_APP_MODE_ISOLATED_WEB_APP_KIOSK_IWA_POLICY_UTIL_H_
 

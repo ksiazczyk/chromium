@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskArcvmAppData class declaration
+// summary: Declares KioskArcvmAppData, which fetches and caches Android kiosk app metadata like package name, activity, intent, name and icon.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_ARCVM_APP_KIOSK_ARCVM_APP_DATA_H_
 #define CHROME_BROWSER_ASH_APP_MODE_ARCVM_APP_KIOSK_ARCVM_APP_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk Chrome app update browser tests
+// summary: Browser tests verifying Chrome app update behavior in Kiosk, including offline updates from the external cache and versions served by a fake CWS.
+// ---
+
 #include <cstddef>
 #include <optional>
 #include <string>

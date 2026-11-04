@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device weekly scheduled suspend policy handler implementation
+// summary: Implements the policy handler that validates the DeviceWeeklyScheduledSuspend policy and applies it to local state preferences.
+// ---
+
 #include "chrome/browser/ash/app_mode/auto_sleep/device_weekly_scheduled_suspend_policy_handler.h"
 
 #include "ash/constants/ash_pref_names.h"

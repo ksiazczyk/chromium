@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Retry runner utilities
+// summary: Declares helpers to run a job up to n times with a retry predicate and exponential backoff between attempts.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_RETRY_RUNNER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_RETRY_RUNNER_H_
 

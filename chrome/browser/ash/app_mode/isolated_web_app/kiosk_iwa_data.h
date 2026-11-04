@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskIwaData class declaration
+// summary: Declares the kiosk IWA data class holding bundle id, update manifest URL, update channel, pinned version, and icon handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_ISOLATED_WEB_APP_KIOSK_IWA_DATA_H_
 #define CHROME_BROWSER_ASH_APP_MODE_ISOLATED_WEB_APP_KIOSK_IWA_DATA_H_
 

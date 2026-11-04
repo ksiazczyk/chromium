@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk untrusted cros settings browser test
+// summary: Browser test verifying that Kiosk sessions do not start when Chrome OS settings are permanently untrusted, for web and Chrome app configs.
+// ---
+
 #include <vector>
 
 #include "base/check_deref.h"

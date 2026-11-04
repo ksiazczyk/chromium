@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeKioskAppLauncher class header
+// summary: Declares ChromeKioskAppLauncher, which validates kiosk app readiness, reports pre-launch errors, and launches the app via the app service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_CHROME_KIOSK_APP_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_CHROME_KIOSK_APP_LAUNCHER_H_
 

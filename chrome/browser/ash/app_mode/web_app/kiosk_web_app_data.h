@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskWebAppData class header
+// summary: Declares KioskWebAppData, which tracks status, install and launch URLs, and icons for a web kiosk app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_WEB_APP_KIOSK_WEB_APP_DATA_H_
 #define CHROME_BROWSER_ASH_APP_MODE_WEB_APP_KIOSK_WEB_APP_DATA_H_
 

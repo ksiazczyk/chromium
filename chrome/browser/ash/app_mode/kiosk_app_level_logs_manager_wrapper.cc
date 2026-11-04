@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app level logs manager wrapper implementation
+// summary: Enables or disables kiosk app log collection based on the KioskApplicationLogCollectionEnabled policy pref and profile availability.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_level_logs_manager_wrapper.h"
 
 #include <memory>

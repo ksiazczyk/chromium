@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk pinch to zoom browser test
+// summary: Parameterized browser tests checking that the kiosk pinch-to-zoom policy and command-line switch control pinch gesture handling in kiosk sessions.
+// ---
+
 #include "ash/shell.h"
 #include "base/command_line.h"
 #include "base/scoped_observation.h"

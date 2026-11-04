@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the kiosk isolated web app directory
+summary: Restricts //chrome dependencies for kiosk IWA code and grants extra includes needed only by the unit tests.

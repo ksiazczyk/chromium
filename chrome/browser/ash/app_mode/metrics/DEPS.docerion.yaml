@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the app mode metrics directory
+summary: Bans //chrome dependencies for ChromeOS and allows this directory to include its own files.

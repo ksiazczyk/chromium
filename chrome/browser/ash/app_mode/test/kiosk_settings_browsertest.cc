@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk settings browser test
+// summary: Browser tests verifying kiosk settings navigation throttling, including blocked settings pages, popups, and in-page navigations during kiosk sessions.
+// ---
+
 #include <cstddef>
 #include <string>
 #include <string_view>

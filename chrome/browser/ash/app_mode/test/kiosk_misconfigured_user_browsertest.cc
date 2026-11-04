@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk misconfigured user browser test
+// summary: Parameterized browser tests verifying kiosk app launch when the kiosk user is recorded as misconfigured, such as after a cryptohome mount failure.
+// ---
+
 #include <optional>
 #include <string_view>
 #include <variant>

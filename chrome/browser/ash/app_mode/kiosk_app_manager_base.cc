@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app manager base implementation
+// summary: Implements the common base class for kiosk app managers, handling policy settings observation, the icon cache directory, observer notifications and cryptohome cleanup for removed apps.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_manager_base.h"
 
 #include <string>

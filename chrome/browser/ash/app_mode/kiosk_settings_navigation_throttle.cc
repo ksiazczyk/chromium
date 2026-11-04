@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk settings navigation throttle implementation
+// summary: Implements a navigation throttle that restricts kiosk settings windows to an allowlist of settings pages and closes windows navigating elsewhere.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_settings_navigation_throttle.h"
 
 #include <memory>

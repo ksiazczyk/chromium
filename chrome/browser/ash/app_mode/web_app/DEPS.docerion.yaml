@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the kiosk web app directory
+summary: Restricts //chrome dependencies and lists allowed includes for the kiosk web app code, with extra rules for tests.

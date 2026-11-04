@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup app launcher class
+// summary: Declares StartupAppLauncher, which manages installing and launching a kiosk app at session startup.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_STARTUP_APP_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_STARTUP_APP_LAUNCHER_H_
 

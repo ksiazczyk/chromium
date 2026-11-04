@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk IWA version management browser test
+// summary: Browser tests covering isolated web app version and update channel handling during kiosk launches, including invalid versions and unknown channels.
+// ---
+
 #include <optional>
 #include <string>
 #include <string_view>

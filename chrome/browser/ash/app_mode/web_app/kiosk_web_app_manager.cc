@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk web app manager implementation
+// summary: Implements KioskWebAppManager, which maintains web kiosk apps from policy, registers prefs, and applies app updates.
+// ---
+
 #include "chrome/browser/ash/app_mode/web_app/kiosk_web_app_manager.h"
 
 #include <map>

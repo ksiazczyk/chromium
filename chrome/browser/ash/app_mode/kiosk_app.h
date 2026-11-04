@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskApp class header for kiosk app metadata
+// summary: Declares the KioskApp class holding metadata to identify and display a kiosk app, including its id, name, icon and optional URL for web apps.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_H_
 

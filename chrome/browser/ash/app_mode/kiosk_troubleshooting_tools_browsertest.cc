@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk troubleshooting tools browser test
+// summary: Browser tests verifying kiosk troubleshooting tool behavior on web kiosk, including accelerator handling, policy toggling, DevTools availability, and new browser window handling.
+// ---
+
 #include <memory>
 #include <string>
 

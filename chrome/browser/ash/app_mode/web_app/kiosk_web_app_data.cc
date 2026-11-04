@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk web app data implementation
+// summary: Implements KioskWebAppData, including icon downloading and resizing, cached launch URL handling, and status updates for web kiosk apps.
+// ---
+
 #include "chrome/browser/ash/app_mode/web_app/kiosk_web_app_data.h"
 
 #include <memory>

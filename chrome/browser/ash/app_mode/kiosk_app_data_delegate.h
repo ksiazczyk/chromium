@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskAppDataDelegate interface header
+// summary: Declares the KioskAppDataDelegate interface with callbacks for app data changes, load failures and damaged external cache notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_DATA_DELEGATE_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_DATA_DELEGATE_H_
 

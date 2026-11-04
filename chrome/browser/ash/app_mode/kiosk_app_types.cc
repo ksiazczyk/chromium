@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app ID and install params implementation
+// summary: Implements KioskAppId identifiers for Chrome, web, isolated web and Arcvm kiosk apps, plus install parameter handling and stream output.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_types.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app update service factory header
+// summary: Declares the singleton KioskAppUpdateServiceFactory that associates KioskAppUpdateService instances with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_UPDATE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_UPDATE_SERVICE_FACTORY_H_
 
