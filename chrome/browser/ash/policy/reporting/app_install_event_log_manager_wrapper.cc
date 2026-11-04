@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install event log manager wrapper implementation
+// summary: Implements the per-profile wrapper that enables or disables ARC app push-install event logging based on a pref and creates the encrypted reporter.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/app_install_event_log_manager_wrapper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk heartbeat telemetry sampler implementation
+// summary: Implements MaybeCollect to emit an empty heartbeat telemetry message as MetricData for kiosk heartbeat reporting.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/kiosk_heartbeat/kiosk_heartbeat_telemetry_sampler.h"
 
 #include "components/reporting/metrics/sampler.h"

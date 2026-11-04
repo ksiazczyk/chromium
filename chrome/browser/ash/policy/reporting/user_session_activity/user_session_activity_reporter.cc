@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User session activity reporter implementation
+// summary: Implements the reporter that observes session start and end events and periodically reports user session activity for managed ChromeOS sessions.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/user_session_activity/user_session_activity_reporter.h"
 
 #include <algorithm>

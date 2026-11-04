@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User session activity reporter delegate unit tests
+// summary: Unit tests for the delegate, verifying session activity state handling, policy checks, and record reporting using a mock report queue.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/user_session_activity/user_session_activity_reporter_delegate.h"
 
 #include <memory>

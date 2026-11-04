@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app install event log collector implementation
+// summary: Implements the collector that logs ARC app push-install events such as session changes, suspend/resume, connectivity changes, and installation progress.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/arc_app_install_event_log_collector.h"
 
 #include "base/command_line.h"

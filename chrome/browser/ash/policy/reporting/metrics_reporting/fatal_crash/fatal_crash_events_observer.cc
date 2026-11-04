@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fatal crash events observer implementation
+// summary: Implements the observer that reports fatal kernel and embedded controller crash events from crosHealthd, including session type and user email handling.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/fatal_crash/fatal_crash_events_observer.h"
 
 #include <optional>

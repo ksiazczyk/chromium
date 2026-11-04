@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS updates reporter implementation
+// summary: Implements reporting of ChromeOS update status changes and powerwash events as OS events records, including failure-triggered log upload.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/os_updates/os_updates_reporter.h"
 
 #include <memory>

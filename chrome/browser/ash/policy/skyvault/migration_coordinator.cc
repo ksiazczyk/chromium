@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migration coordinator implementation
+// summary: Implements the migration coordinator that uploads local files to Google Drive or OneDrive, formats localized upload error messages, and handles stopping and error logging.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/migration_coordinator.h"
 
 #include <memory>

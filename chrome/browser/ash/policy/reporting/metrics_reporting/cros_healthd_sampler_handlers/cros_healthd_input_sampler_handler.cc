@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosHealthdInputSamplerHandler implementation
+// summary: Implements conversion of croshealthd input telemetry, gathering internal touchscreen device details, into metric data.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/cros_healthd_sampler_handlers/cros_healthd_input_sampler_handler.h"
 
 #include <optional>

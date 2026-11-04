@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture upload progress notification header
+// summary: Declares the class that owns and updates a message center notification tracking the progress of an uploaded capture item.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SKYVAULT_SKYVAULT_CAPTURE_UPLOAD_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_POLICY_SKYVAULT_SKYVAULT_CAPTURE_UPLOAD_NOTIFICATION_H_
 

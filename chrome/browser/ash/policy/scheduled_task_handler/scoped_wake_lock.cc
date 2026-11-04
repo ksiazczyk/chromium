@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWakeLock implementation
+// summary: Implements ScopedWakeLock, which acquires a device wake lock on construction and releases it on destruction, with a test binder override.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/scoped_wake_lock.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local files migration manager unit tests
+// summary: Unit tests for the local files migration manager that enable SkyVault feature flags and use fake profile, user manager, and DBus clients to exercise migration behavior.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/local_files_migration_manager.h"
 
 #include <memory>

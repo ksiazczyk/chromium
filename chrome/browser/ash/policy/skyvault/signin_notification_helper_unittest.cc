@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in notification helper unit tests
+// summary: Unit tests verifying sign-in notification creation and behavior across download, screen capture, migration and camera upload triggers.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/signin_notification_helper.h"
 
 #include <memory>

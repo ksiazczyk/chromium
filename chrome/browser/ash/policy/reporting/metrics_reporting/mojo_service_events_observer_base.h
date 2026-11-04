@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo service events observer base
+// summary: Template base class providing common mojo receiver handling for observing and reporting service events as metric event observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_MOJO_SERVICE_EVENTS_OBSERVER_BASE_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_MOJO_SERVICE_EVENTS_OBSERVER_BASE_H_
 

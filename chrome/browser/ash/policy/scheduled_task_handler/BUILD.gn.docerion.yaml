@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build definition for the scheduled_task_handler static library, listing its source files and build dependencies.

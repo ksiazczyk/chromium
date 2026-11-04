@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Waitable scoped temp directory header
+// summary: Declares a wrapper around base::ScopedTempDir that creates the directory asynchronously before files are uploaded to OneDrive.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SKYVAULT_WAITABLE_SCOPED_TEMP_DIR_H_
 #define CHROME_BROWSER_ASH_POLICY_SKYVAULT_WAITABLE_SCOPED_TEMP_DIR_H_
 

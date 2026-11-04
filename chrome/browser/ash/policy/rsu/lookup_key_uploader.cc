@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RSU lookup key uploader implementation
+// summary: Implements LookupKeyUploader, which fetches the RSU device ID from cryptohome and uploads it with an enrollment certificate, retrying at most every ten hours.
+// ---
+
 #include "chrome/browser/ash/policy/rsu/lookup_key_uploader.h"
 
 #include "ash/constants/ash_pref_names.h"

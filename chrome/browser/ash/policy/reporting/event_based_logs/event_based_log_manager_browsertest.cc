@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event based log manager browser tests
+// summary: Browser tests verifying that event observers are added when log upload policy is enabled and removed when the policy is disabled.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/event_based_logs/event_based_log_manager.h"
 
 #include <cstddef>

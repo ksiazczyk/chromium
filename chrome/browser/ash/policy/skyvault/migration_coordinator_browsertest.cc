@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Migration coordinator browser tests
+// summary: Browser tests for the migration coordinator using a mocked OneDrive uploader to verify upload runs, cancellation, and error handling for OneDrive migration.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/migration_coordinator.h"
 
 #include "base/files/file_util.h"

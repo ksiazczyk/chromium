@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture upload progress notification
+// summary: Implements a progress notification shown while screen captures upload to OneDrive, including progress updates and a cancel button.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/skyvault_capture_upload_notification.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

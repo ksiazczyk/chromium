@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Metrics reporting OWNERS file
+summary: Points to the shared OWNERS file in components/reporting for review ownership of this directory.

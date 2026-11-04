@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Reporting DEPS include rules
+summary: Declares allowed include dependencies for the reporting directory, restricting //chrome imports and permitting specific test-only includes.

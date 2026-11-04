@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosHealthdPsrSamplerHandler implementation
+// summary: Implements PSR telemetry handling with bounded retries, UMA result recording, and delayed re-probing of croshealthd system info.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/cros_healthd_sampler_handlers/cros_healthd_psr_sampler_handler.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTPS latency event detector unit tests
+// summary: Unit tests verifying event detection for HTTPS latency verdict and problem changes across network states.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/network/https_latency_event_detector.h"
 
 #include <optional>

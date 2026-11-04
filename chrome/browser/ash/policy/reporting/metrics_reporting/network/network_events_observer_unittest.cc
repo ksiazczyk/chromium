@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network events observer unit tests
+// summary: Unit tests for the network events observer covering WiFi, cellular, VPN and tether connection state and signal strength reporting.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/network/network_events_observer.h"
 
 #include <memory>

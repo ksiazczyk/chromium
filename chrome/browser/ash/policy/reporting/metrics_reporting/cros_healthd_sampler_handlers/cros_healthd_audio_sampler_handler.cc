@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio sampler handler converting cros_healthd audio telemetry to MetricData
+// summary: Implements HandleResult to convert cros_healthd audio telemetry such as mute state, volume, gain and device names into MetricData for reporting.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/cros_healthd_sampler_handlers/cros_healthd_audio_sampler_handler.h"
 
 #include <optional>

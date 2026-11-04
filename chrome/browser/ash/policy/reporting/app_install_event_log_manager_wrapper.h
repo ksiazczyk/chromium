@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install event log manager wrapper header
+// summary: Declares AppInstallEventLogManagerWrapper, which observes the app push-install logging pref and manages the encrypted reporter's lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_APP_INSTALL_EVENT_LOG_MANAGER_WRAPPER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_APP_INSTALL_EVENT_LOG_MANAGER_WRAPPER_H_
 

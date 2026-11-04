@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network info sampler implementation
+// summary: Collects network interface information such as MAC addresses and cellular identifiers including EIDs into telemetry metric data.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/network/network_info_sampler.h"
 
 #include <optional>

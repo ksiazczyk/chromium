@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting host event reporter delegate class
+// summary: Declares the production CRD event reporter delegate for the remoting host, wrapping a refcounted helper that posts CRD records.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_REMOTING_HOST_EVENT_REPORTER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_REMOTING_HOST_EVENT_REPORTER_DELEGATE_IMPL_H_
 

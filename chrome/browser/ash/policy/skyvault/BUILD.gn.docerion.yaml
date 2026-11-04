@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SkyVault BUILD.gn build configuration
+summary: Defines the skyvault static library sources and dependencies plus the unit_tests source_set for the SkyVault migration code.

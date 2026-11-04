@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remoting host event reporter delegate unit tests
+// summary: Unit tests for the remoting host event reporter delegate, checking regular, anonymous and kiosk CRD event reporting behavior.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/remoting_host_event_reporter_delegate_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS updates reporter class declaration
+// summary: Declares the OsUpdatesReporter class that observes update engine and session manager clients to report OS update and powerwash events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_OS_UPDATES_OS_UPDATES_REPORTER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_OS_UPDATES_OS_UPDATES_REPORTER_H_
 

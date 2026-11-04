@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Skyvault test support build definition (BUILD.gn)
+summary: Defines the testonly test_support static library that bundles the Skyvault test base and utility sources with their build dependencies.

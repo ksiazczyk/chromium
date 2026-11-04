@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkyVault UMA histogram helper implementation
+// summary: Implements helper functions that log Enterprise.SkyVault UMA metrics for upload, local storage, and migration flows, including duration histograms.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/histogram_helper.h"
 
 #include <string>

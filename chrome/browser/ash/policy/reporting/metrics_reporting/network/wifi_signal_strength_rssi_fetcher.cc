@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WiFi signal strength RSSI fetcher implementation
+// summary: Implements asynchronous fetching of WiFi signal strength RSSI values for queued network service paths via the managed network configuration handler.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/network/wifi_signal_strength_rssi_fetcher.h"
 
 #include <optional>

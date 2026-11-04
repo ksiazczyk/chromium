@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network telemetry sampler implementation
+// summary: Collects telemetry describing network and connection states, including WiFi signal strength RSSI via cros_healthd.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/network/network_telemetry_sampler.h"
 
 #include <algorithm>

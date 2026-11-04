@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install event log collector base implementation
+// summary: Implements shared collector logic that tracks the online state and forwards login, logout and connection change events to derived collectors.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/install_event_log_collector_base.h"
 
 #include "ash/constants/ash_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for local files cleanup
+// summary: Browser test verifying that setting LocalUserFilesAllowed to false removes MyFiles content and logs the cleanup count histogram.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/local_files_cleanup.h"
 
 #include "ash/constants/ash_features.h"

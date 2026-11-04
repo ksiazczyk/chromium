@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event observer base class header
+// summary: Declares the EventObserverBase interface and EventBasedUploadStatus enum that event observers implement to trigger uploads of selected log data collectors.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_EVENT_BASED_LOGS_EVENT_OBSERVER_BASE_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_EVENT_BASED_LOGS_EVENT_OBSERVER_BASE_H_
 

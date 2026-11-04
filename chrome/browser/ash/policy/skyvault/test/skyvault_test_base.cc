@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skyvault test base implementation
+// summary: Implements shared browser test setup for Skyvault, including My files mounting, test directory and file helpers, and OneDrive file system checks.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/test/skyvault_test_base.h"
 
 #include <string>

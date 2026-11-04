@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User session activity reporter unit tests
+// summary: Unit tests verifying the control flow of UserSessionActivityReporter, such as session observation and reporting timer behavior.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/user_session_activity/user_session_activity_reporter.h"
 
 #include <memory>

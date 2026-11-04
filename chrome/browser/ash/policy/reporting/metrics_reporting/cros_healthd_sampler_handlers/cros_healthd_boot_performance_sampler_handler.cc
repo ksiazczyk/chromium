@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boot performance sampler handler converting boot telemetry to MetricData
+// summary: Implements HandleResult to convert cros_healthd boot performance telemetry, including boot-up and shutdown timings and shutdown reason, into MetricData.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/cros_healthd_sampler_handlers/cros_healthd_boot_performance_sampler_handler.h"
 
 #include <optional>

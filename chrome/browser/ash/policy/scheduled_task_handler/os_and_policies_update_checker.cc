@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS and policies update checker implementation
+// summary: Implements the actual device update check via update engine, waiting for network connectivity, retrying, and refreshing policies before reporting completion.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/os_and_policies_update_checker.h"
 
 #include <utility>

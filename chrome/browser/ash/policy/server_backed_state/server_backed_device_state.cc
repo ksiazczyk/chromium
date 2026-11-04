@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server-backed device state mode parsing implementation
+// summary: Defines string constants for server-backed device state and implements parsing of the persisted device state mode into DeviceStateMode values.
+// ---
+
 #include "chrome/browser/ash/policy/server_backed_state/server_backed_device_state.h"
 
 #include <string>

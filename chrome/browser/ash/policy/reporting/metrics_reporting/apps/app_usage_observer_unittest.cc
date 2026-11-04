@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppUsageObserver unit tests
+// summary: Unit tests that simulate app usage for installed apps and verify AppUsageObserver persists the correct usage data in the pref store.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/apps/app_usage_observer.h"
 
 #include <memory>

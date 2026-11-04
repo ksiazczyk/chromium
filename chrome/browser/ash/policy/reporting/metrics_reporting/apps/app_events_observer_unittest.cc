@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppEventsObserver unit tests
+// summary: Unit tests for AppEventsObserver using fake publishers and a mock retriever to simulate app launches and verify reported events.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/apps/app_events_observer.h"
 
 #include <memory>

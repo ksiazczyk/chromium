@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkyVault policy utilities implementation
+// summary: Implements helpers that read SkyVault policies to determine file save destinations, migration destination, migration start time, and whether local files are allowed.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/policy_utils.h"
 
 #include <optional>

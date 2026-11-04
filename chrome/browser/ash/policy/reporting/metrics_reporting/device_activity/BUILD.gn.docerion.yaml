@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device activity sampler build targets
+summary: Defines the device_activity static library plus unit and browser test source sets with their sources and dependencies.

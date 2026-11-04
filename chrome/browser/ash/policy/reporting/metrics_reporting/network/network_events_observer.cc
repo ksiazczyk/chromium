@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network events observer implementation
+// summary: Implements the network events observer that watches connection state changes and reports network, VPN and WiFi signal strength telemetry events.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/network/network_events_observer.h"
 
 #include <string>

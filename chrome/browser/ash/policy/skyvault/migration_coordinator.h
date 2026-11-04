@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migration coordinator and cloud uploader interface
+// summary: Declares the abstract MigrationCloudUploader base class and the MigrationCoordinator that initiates, cancels, and monitors cloud uploads during local files migration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SKYVAULT_MIGRATION_COORDINATOR_H_
 #define CHROME_BROWSER_ASH_POLICY_SKYVAULT_MIGRATION_COORDINATOR_H_
 

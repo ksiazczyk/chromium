@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: SkyVault DEPS include rules
+summary: Restricts //chrome includes for the SkyVault directory and whitelists the specific Chrome dependencies the migration code may use.

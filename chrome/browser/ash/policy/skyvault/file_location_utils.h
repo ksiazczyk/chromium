@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File location utilities for policy-configured paths
+// summary: Declares helpers that resolve policy-set file location strings, including the OneDrive virtual path, Google Drive root, and external storage placeholders.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SKYVAULT_FILE_LOCATION_UTILS_H_
 #define CHROME_BROWSER_ASH_POLICY_SKYVAULT_FILE_LOCATION_UTILS_H_
 

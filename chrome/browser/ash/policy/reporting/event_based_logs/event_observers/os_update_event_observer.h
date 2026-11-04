@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS update event observer class declaration
+// summary: Declares OsUpdateEventObserver, which observes OS update failures and uploads related log files to the server.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_EVENT_BASED_LOGS_EVENT_OBSERVERS_OS_UPDATE_EVENT_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_EVENT_BASED_LOGS_EVENT_OBSERVERS_OS_UPDATE_EVENT_OBSERVER_H_
 

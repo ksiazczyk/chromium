@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the server_backed_state policy library
+summary: Defines the server_backed_state static library and its unit_tests source set along with their build dependencies.

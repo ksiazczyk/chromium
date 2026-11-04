@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for cros_healthd info metric tests
+// summary: Implements helpers that build fake cros_healthd telemetry results and assert reported metric data for info metric tests.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/cros_healthd_info_metric_sampler_test_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive upload observer browser tests
+// summary: Browser tests for DriveUploadObserver that fake DriveFS sync events to verify upload completion, progress, and failure handling.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/drive_upload_observer.h"
 
 #include "base/path_service.h"

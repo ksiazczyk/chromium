@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reporting BUILD.gn build targets
+summary: Defines the GN build targets for the reporting static library, its proto, test support, and unit tests.

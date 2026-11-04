@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OdfsSkyvaultUploader implementation
+// summary: Implements OdfsSkyvaultUploader, which uploads local files to Microsoft OneDrive with progress updates, error reporting, and test-injectable factory hooks.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/odfs_skyvault_uploader.h"
 
 #include <optional>

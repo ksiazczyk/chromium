@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting host event reporter delegate implementation
+// summary: Production delegate that enqueues Chrome Remote Desktop host event records via the user event reporter helper with policy-based anonymization.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/remoting_host_event_reporter_delegate_impl.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for user added removed reporting
+summary: Defines the user_added_removed static library plus its unit test and browser test source sets, listing sources and dependencies for the user added/removed event reporter.

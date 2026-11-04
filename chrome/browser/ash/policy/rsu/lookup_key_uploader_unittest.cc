@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the RSU lookup key uploader
+// summary: Tests LookupKeyUploader with a fake cryptohome misc client, mock cloud policy store and mock certificate uploader to verify upload, dedup and retry behavior.
+// ---
+
 #include "chrome/browser/ash/policy/rsu/lookup_key_uploader.h"
 
 #include <memory>

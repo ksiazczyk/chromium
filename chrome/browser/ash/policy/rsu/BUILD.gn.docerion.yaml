@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the RSU policy library
+summary: Defines the rsu static library with the lookup key uploader sources and a unit_tests source_set, listing their GN build dependencies.

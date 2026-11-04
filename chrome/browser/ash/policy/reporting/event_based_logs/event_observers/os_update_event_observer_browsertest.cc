@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the OS update event observer
+// summary: Browser tests verifying that OS update failures trigger event-based log uploads, using a fake update engine client and a mock uploader.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/event_based_logs/event_observers/os_update_event_observer.h"
 
 #include <cstddef>

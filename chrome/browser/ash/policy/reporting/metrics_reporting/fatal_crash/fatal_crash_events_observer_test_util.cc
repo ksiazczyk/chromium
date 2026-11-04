@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fatal crash events observer test utilities
+// summary: Implements the TestEnvironment helper that creates fatal crash events observers for tests and exposes settings, queue size, and IO flushing utilities.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/fatal_crash/fatal_crash_events_observer_test_util.h"
 
 #include <memory>

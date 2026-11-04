@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for app metric reporting
+summary: Defines the apps static library plus its unit test and browser test source sets for ChromeOS app metric reporting.

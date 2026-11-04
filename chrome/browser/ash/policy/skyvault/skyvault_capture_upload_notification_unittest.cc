@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture upload notification unit tests
+// summary: Unit tests covering notification creation, progress updates and cancel button behavior of the capture upload notification.
+// ---
+
 
 #include "chrome/browser/ash/policy/skyvault/skyvault_capture_upload_notification.h"
 

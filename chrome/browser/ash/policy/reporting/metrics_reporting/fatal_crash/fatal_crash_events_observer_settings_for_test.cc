@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fatal crash observer test settings definitions
+// summary: Defines the constructor and destructor of the fatal crash observer's SettingsForTest struct used by test code.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/fatal_crash/fatal_crash_events_observer_settings_for_test.h"
 
 namespace reporting {

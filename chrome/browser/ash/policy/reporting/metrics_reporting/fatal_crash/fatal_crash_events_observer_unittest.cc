@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fatal crash events observer unit tests
+// summary: Unit tests for the fatal crash events observer, covering crash event reporting, deduplication, and save file behavior across Chrome, kernel, and EC crash types.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/fatal_crash/fatal_crash_events_observer.h"
 
 #include <array>

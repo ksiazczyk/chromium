@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display sampler handler converting display telemetry to MetricData
+// summary: Implements HandleResult to convert cros_healthd display probe results, including privacy screen support and internal or external display details, into info or telemetry MetricData.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/cros_healthd_sampler_handlers/cros_healthd_display_sampler_handler.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network diagnostics implementation
+// summary: Implements fake network diagnostics and HTTPS latency delegate classes that stub routine results for tests.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/network/fake_network_diagnostics_util.h"
 
 #include "base/run_loop.h"

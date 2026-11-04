@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake reboot notifications scheduler implementation
+// summary: Implements a fake reboot notifications scheduler that counts dialog and notification calls for use in scheduled reboot tests.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/test/fake_reboot_notifications_scheduler.h"
 
 #include "base/time/clock.h"

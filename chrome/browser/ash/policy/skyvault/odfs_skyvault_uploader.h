@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OdfsSkyvaultUploader class header
+// summary: Declares the OdfsSkyvaultUploader class and its static Upload entry points for uploading files to OneDrive with progress and completion callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SKYVAULT_ODFS_SKYVAULT_UPLOADER_H_
 #define CHROME_BROWSER_ASH_POLICY_SKYVAULT_ODFS_SKYVAULT_UPLOADER_H_
 

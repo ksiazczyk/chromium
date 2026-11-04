@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network events observer browser tests
+// summary: Browser tests verifying that the network events observer enqueues event-driven telemetry records for connection and signal strength changes.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/network/network_events_observer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local user files policy observer interface
+// summary: Declares the LocalUserFilesPolicyObserver interface whose OnLocalUserFilesPolicyChanged hook is invoked when the observed local user files policies change.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SKYVAULT_LOCAL_USER_FILES_POLICY_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POLICY_SKYVAULT_LOCAL_USER_FILES_POLICY_OBSERVER_H_
 

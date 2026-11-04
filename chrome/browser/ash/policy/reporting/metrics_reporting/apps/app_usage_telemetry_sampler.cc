@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppUsageTelemetrySampler implementation
+// summary: Implements the sampler that reads app usage data from the user pref store, batches it into telemetry metric data, and resets reported usage entries.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/apps/app_usage_telemetry_sampler.h"
 
 #include <memory>

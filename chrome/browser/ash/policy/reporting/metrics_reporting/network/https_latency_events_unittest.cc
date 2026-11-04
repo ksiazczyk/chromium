@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTPS latency event reporting tests
+// summary: End-to-end tests that HTTPS latency events are collected and reported through the metric reporting manager.
+// ---
+
 #include <sys/types.h>
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User session activity reporter header
+// summary: Declares the UserSessionActivityReporter class, which reports session start and end events plus periodic active and idle states for managed user sessions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_USER_SESSION_ACTIVITY_USER_SESSION_ACTIVITY_REPORTER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_USER_SESSION_ACTIVITY_USER_SESSION_ACTIVITY_REPORTER_H_
 

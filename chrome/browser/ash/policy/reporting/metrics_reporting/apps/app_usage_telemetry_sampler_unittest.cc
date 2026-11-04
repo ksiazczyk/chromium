@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App usage telemetry sampler unit tests
+// summary: Unit tests for the AppUsageTelemetrySampler class, covering user session and profile setup plus simulated app usage for ChromeOS telemetry sampling.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/apps/app_usage_telemetry_sampler.h"
 
 #include <memory>

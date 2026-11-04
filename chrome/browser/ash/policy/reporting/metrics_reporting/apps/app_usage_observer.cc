@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppUsageObserver implementation
+// summary: Implements the observer that collects app usage data from the AppPlatformMetrics component and persists aggregated usage entries in the user pref store for reporting.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/apps/app_usage_observer.h"
 
 #include <memory>

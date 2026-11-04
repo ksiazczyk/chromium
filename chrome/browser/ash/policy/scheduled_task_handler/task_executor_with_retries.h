@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskExecutorWithRetries class declaration
+// summary: Declares TaskExecutorWithRetries, a helper that runs a task and retries it at fixed intervals until success or the retry limit is reached.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SCHEDULED_TASK_HANDLER_TASK_EXECUTOR_WITH_RETRIES_H_
 #define CHROME_BROWSER_ASH_POLICY_SCHEDULED_TASK_HANDLER_TASK_EXECUTOR_WITH_RETRIES_H_
 

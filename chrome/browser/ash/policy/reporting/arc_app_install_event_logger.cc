@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app install event logger implementation
+// summary: Implements the logger that records events relevant to ARC app push-installs, evaluating policy and tracking requested and pending app prefs.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/arc_app_install_event_logger.h"
 
 #include <stdint.h>

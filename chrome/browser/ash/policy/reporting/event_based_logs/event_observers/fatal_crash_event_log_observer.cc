@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fatal crash event log observer implementation
+// summary: Implements the observer that triggers event-based log uploads when fatal crash events are reported.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/event_based_logs/event_observers/fatal_crash_event_log_observer.h"
 
 #include <string>

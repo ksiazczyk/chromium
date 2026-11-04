@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Event based logs build configuration
+summary: Defines the event_based_logs and utils static libraries plus unit and browser test targets for the event based log reporting code.

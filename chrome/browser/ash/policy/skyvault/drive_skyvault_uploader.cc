@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive SkyVault uploader implementation
+// summary: Implements the upload-to-Drive step of the SkyVault migration, copying files via IO tasks, syncing to Drive, and deleting the source on move.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/drive_skyvault_uploader.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the USB events observer
+// summary: Unit tests verifying that USB add and remove events produce the expected event type and telemetry fields using a fake cros_healthd service.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/usb/usb_events_observer.h"
 
 #include <sys/types.h>

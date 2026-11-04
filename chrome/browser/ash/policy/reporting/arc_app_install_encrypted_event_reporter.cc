@@ -2,6 +2,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ARC app install encrypted event reporter implementation
+// summary: Implements the reporter that enqueues ARC app install events such as success, installation started, and failure to the encrypted reporting pipeline.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/arc_app_install_encrypted_event_reporter.h"
 
 #include "ash/constants/ash_switches.h"

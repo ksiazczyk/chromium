@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioEventsObserver unit tests
+// summary: Unit tests verifying that the audio events observer emits AUDIO_SEVERE_UNDERRUN metric data when cros_healthd reports a severe underrun event.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/audio/audio_events_observer.h"
 
 #include <sys/types.h>

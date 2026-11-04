@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive SkyVault uploader header
+// summary: Declares DriveSkyvaultUploader, which manages the upload-to-Drive workflow and reports errors and the upload root path via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SKYVAULT_DRIVE_SKYVAULT_UPLOADER_H_
 #define CHROME_BROWSER_ASH_POLICY_SKYVAULT_DRIVE_SKYVAULT_UPLOADER_H_
 

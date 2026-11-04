@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build rules for the user session activity reporting library and its unit test and browser test targets.

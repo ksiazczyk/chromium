@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fatal crash events observer browser tests
+// summary: Browser tests verifying that uploaded and unuploaded Chrome, kernel, and embedded controller fatal crash events are reported under the crash reporting policy.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/fatal_crash/fatal_crash_events_observer.h"
 
 #include "base/auto_reset.h"

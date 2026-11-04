@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reboot notifications scheduler implementation
+// summary: Implements scheduling of pending reboot notifications and dialogs, including a request queue ordered by reboot time and post-reboot notifications.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/reboot_notifications_scheduler.h"
 
 #include <algorithm>

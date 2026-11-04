@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk heartbeat telemetry events browser test
+// summary: Browser test validating Kiosk Heartbeat telemetry reported by the KioskHeartbeatTelemetrySampler, checking record destination, DM token, and source info for affiliated kiosk users.
+// ---
+
 #include "base/check.h"
 #include "base/functional/bind.h"
 #include "base/time/time.h"

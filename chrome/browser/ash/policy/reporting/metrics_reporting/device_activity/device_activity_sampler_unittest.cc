@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device activity sampler unit tests
+// summary: Parameterized unit tests checking that the sampler reports the correct device activity state for each idle state.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/device_activity/device_activity_sampler.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local user files policy observer implementation
+// summary: Implements the observer that registers listeners on the LocalUserFilesAllowed and LocalUserFilesMigrationDestination local state preferences and reports changes.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/local_user_files_policy_observer.h"
 
 #include "ash/constants/ash_pref_names.h"

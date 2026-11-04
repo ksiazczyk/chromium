@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network telemetry sampler browser tests
+// summary: Browser tests verifying that network telemetry, such as WiFi connection state, IP address, signal strength and bit rates, is sampled and reported under device policy on ChromeOS.
+// ---
+
 #include <memory>
 #include <utility>
 

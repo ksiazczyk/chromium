@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for user added removed reporting
+// summary: Unit tests exercising the reporter with a fake user manager, a configurable test helper, and a mock report queue to verify event reporting behavior.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/user_added_removed/user_added_removed_reporter.h"
 
 #include <memory>

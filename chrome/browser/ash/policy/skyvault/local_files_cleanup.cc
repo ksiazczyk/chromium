@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local files cleanup implementation
+// summary: Triggers removal of user files and records a cleanup count histogram when the LocalUserFilesAllowed policy is set to false.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/local_files_cleanup.h"
 
 #include <optional>

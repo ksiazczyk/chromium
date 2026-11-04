@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app install event logger unit tests
+// summary: Unit tests for ArcAppInstallEventLogger that verify logged events, timestamps, Android IDs, and disk space info using proto matchers and mocks.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/arc_app_install_event_logger.h"
 
 #include <stdint.h>

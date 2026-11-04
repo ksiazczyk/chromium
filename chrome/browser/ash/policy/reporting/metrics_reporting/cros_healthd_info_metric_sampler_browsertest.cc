@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for cros_healthd info metric sampling
+// summary: Browser tests verifying that cros_healthd info metrics such as bus, CPU, memory, and display data are reported through the ERP with correct destinations.
+// ---
+
 #include <array>
 #include <optional>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app install encrypted event reporter unit tests
+// summary: Unit tests verifying that success, installation started, and installation failed events are enqueued through a mock report queue.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/arc_app_install_encrypted_event_reporter.h"
 
 #include <memory>

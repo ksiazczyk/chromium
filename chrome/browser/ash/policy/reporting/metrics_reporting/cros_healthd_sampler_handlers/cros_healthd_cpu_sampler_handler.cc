@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU sampler handler converting cros_healthd keylocker info to MetricData
+// summary: Implements HandleResult to convert cros_healthd CPU probe results, focusing on keylocker support and configuration, into MetricData.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/cros_healthd_sampler_handlers/cros_healthd_cpu_sampler_handler.h"
 
 #include <optional>

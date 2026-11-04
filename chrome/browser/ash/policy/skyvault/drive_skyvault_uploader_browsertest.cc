@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive SkyVault uploader browser tests
+// summary: Browser tests for the Drive upload workflow, simulating copy progress, sync failures, and completion to verify uploader behavior.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/drive_skyvault_uploader.h"
 
 #include <memory>

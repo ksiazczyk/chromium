@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User session activity reporter delegate header
+// summary: Declares the delegate class that holds session activity state and reports it through the encrypted reporting pipeline.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_USER_SESSION_ACTIVITY_USER_SESSION_ACTIVITY_REPORTER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_USER_SESSION_ACTIVITY_USER_SESSION_ACTIVITY_REPORTER_DELEGATE_H_
 

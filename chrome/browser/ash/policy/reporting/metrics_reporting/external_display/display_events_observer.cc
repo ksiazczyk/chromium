@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display events observer implementation
+// summary: Implements DisplayEventsObserver, translating cros_healthd external display events into connected and disconnected metric events with display status telemetry.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/external_display/display_events_observer.h"
 
 #include "chromeos/ash/services/cros_healthd/public/cpp/service_connection.h"

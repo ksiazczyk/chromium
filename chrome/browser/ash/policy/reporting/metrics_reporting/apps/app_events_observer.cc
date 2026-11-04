@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppEventsObserver implementation
+// summary: Implements the observer that tracks app installs in profile prefs and reports app events from the AppPlatformMetrics component for policy reporting.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/apps/app_events_observer.h"
 
 #include <cstddef>

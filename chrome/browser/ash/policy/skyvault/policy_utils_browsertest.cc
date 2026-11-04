@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy utilities browser tests
+// summary: Browser tests verifying LocalUserFilesAllowed and the resolution of downloads, screen capture, and camera save destinations from managed policies.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/policy_utils.h"
 
 #include <tuple>

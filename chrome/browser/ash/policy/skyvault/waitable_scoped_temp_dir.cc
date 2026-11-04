@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Waitable scoped temp directory
+// summary: Creates a temporary directory asynchronously on a thread pool and runs queued callbacks once its path becomes available.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/waitable_scoped_temp_dir.h"
 
 #include "base/task/thread_pool.h"

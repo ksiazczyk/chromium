@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppUsageTelemetryPeriodicCollector unit tests
+// summary: Unit tests verifying that the collector reports app usage telemetry at the default, policy-set, and updated collection rates.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/apps/app_usage_telemetry_periodic_collector.h"
 
 #include <memory>

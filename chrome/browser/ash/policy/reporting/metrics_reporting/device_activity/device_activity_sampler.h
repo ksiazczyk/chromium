@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device activity sampler class declaration
+// summary: Declares the DeviceActivitySampler class that collects device activity state derived from device usage and idleness.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_DEVICE_ACTIVITY_DEVICE_ACTIVITY_SAMPLER_H_
 #define CHROME_BROWSER_ASH_POLICY_REPORTING_METRICS_REPORTING_DEVICE_ACTIVITY_DEVICE_ACTIVITY_SAMPLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local files migration manager browser tests
+// summary: Browser tests for the local files migration manager, covering policy-driven migration to Google Drive or OneDrive, UMA histograms, upload root naming, and scheduled migration timing.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/local_files_migration_manager.h"
 
 #include <memory>

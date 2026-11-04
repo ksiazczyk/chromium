@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric reporting manager implementation
+// summary: Implements MetricReportingManager, which initializes and starts info, event, and telemetry collection and reporting for ChromeOS device and user metrics.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/metric_reporting_manager.h"
 
 #include <algorithm>

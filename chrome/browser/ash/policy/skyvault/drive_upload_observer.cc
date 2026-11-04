@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive upload observer implementation
+// summary: Implements observation of file uploads to Google Drive, forcing immediate upload when queued and reporting progress and completion.
+// ---
+
 #include "chrome/browser/ash/policy/skyvault/drive_upload_observer.h"
 
 #include "chrome/browser/ash/drive/drive_integration_service.h"

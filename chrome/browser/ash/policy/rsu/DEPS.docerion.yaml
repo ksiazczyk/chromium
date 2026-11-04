@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the RSU policy directory
+summary: Sets include rules that block //chrome dependencies for ChromeOS, allowing only this directory, attestation, and extra test-only includes.

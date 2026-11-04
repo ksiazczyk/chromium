@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome fatal crash events observer implementation
+// summary: Implements the Chrome-specific fatal crash observer with Chrome save file paths and mapping of Chrome crash types for telemetry reporting.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/fatal_crash/chrome_fatal_crash_events_observer.h"
 
 #include <base/no_destructor.h>

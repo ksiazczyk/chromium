@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric reporting prefs implementation
+// summary: Registers profile and local-state reporting prefs and maps app types to reporting categories used for app usage policy allowlist checks.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/metric_reporting_prefs.h"
 
 #include <optional>

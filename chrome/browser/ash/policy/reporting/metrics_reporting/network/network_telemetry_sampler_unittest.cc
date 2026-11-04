@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network telemetry sampler unit tests
+// summary: Unit tests for the network telemetry sampler, using fake Shill and cros_healthd services to exercise collection of WiFi and other network telemetry data.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/metrics_reporting/network/network_telemetry_sampler.h"
 
 #include <optional>

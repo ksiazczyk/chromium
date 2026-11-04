@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Network telemetry reporting build targets
+summary: GN build file defining the network telemetry static library, test support, and unit and browser test targets.

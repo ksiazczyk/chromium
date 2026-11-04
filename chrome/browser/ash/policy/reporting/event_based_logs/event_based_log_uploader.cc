@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event based log uploader implementation
+// summary: Implements EventBasedLogUploaderImpl, which collects logs via support tool data collectors and uploads them to the File Storage Server with JSON metadata.
+// ---
+
 #include "chrome/browser/ash/policy/reporting/event_based_logs/event_based_log_uploader.h"
 
 #include <algorithm>

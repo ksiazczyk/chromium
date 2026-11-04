@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduled task util unit tests
+// summary: Unit tests for CalculateNextScheduledTaskTimerDelay, covering daily task scheduling across same-day, month boundary, and leap day cases.
+// ---
+
 #include "chrome/browser/ash/policy/scheduled_task_handler/scheduled_task_util.h"
 
 #include <memory>

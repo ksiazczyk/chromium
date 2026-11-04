@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in notification helper
+// summary: Declares notification ID constants and a helper that shows a notification prompting the user to sign in to OneDrive before camera, download, screen capture or migration uploads.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_SKYVAULT_SIGNIN_NOTIFICATION_HELPER_H_
 #define CHROME_BROWSER_ASH_POLICY_SKYVAULT_SIGNIN_NOTIFICATION_HELPER_H_
 
