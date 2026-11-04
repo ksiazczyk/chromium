@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the oom_intervention directory
+summary: Lists bashi@chromium.org and haraken@chromium.org as the reviewers who own changes in this directory.

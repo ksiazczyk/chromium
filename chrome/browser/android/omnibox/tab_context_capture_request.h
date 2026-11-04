@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context capture request class declaration
+// summary: Declares a helper that defers tab context capture until the page is ready and always invokes its callback asynchronously.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_OMNIBOX_TAB_CONTEXT_CAPTURE_REQUEST_H_
 #define CHROME_BROWSER_ANDROID_OMNIBOX_TAB_CONTEXT_CAPTURE_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions URL override registry manager
+// summary: Android JNI bridge that listens to native extensions URL registry changes and enables or disables NTP, bookmarks and history page overrides in the Chrome URL override registry.
+// ---
+
 package org.chromium.chrome.browser.extensions;
 
 import org.jni_zero.CalledByNative;

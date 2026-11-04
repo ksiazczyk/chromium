@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete bridge header
+// summary: Declares the QuickDeleteBridge class that fetches information and executes commands for the Android Quick Delete UI over JNI.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_QUICK_DELETE_QUICK_DELETE_BRIDGE_H_
 #define CHROME_BROWSER_ANDROID_QUICK_DELETE_QUICK_DELETE_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive disclaimer bridge implementation
+// summary: Implements the JNI bridge that presents the Drive disclaimer through ConsentKit and persists the resulting Drive consent state in profile preferences.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

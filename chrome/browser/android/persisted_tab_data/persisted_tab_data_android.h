@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedTabDataAndroid class header
+// summary: Declares the helper base class for native persisted tab data, defining acquisition, serialization, deserialization, and storage removal hooks for subclasses.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_PERSISTED_TAB_DATA_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_PERSISTED_TAB_DATA_ANDROID_H_
 

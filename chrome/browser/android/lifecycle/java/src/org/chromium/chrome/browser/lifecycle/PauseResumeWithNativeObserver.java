@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PauseResumeWithNativeObserver interface
+// summary: Observer interface registered with the ActivityLifecycleDispatcher to receive pause and resume events once native is initialized.
+// ---
+
 package org.chromium.chrome.browser.lifecycle;
 
 import org.chromium.build.annotations.NullMarked;

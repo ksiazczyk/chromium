@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedTabDataStorageAndroid interface header
+// summary: Declares the storage interface for persisted tab data with save, restore, remove, and remove-all operations keyed by tab ID and data ID.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_PERSISTED_TAB_DATA_STORAGE_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_PERSISTED_TAB_DATA_STORAGE_ANDROID_H_
 

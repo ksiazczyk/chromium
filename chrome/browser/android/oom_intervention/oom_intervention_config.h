@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOM intervention config header
+// summary: Declares the OomInterventionConfig class holding field-trial configuration flags and renderer detection arguments for OOM intervention.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_OOM_INTERVENTION_OOM_INTERVENTION_CONFIG_H_
 #define CHROME_BROWSER_ANDROID_OOM_INTERVENTION_OOM_INTERVENTION_CONFIG_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Android NTP directory
+summary: Lists the code owners, including an include of the Java NTP owners file and pnoland@chromium.org, responsible for reviewing changes here.

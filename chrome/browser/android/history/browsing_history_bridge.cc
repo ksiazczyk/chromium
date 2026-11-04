@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing history JNI bridge implementation
+// summary: Implements the native bridge that queries the BrowsingHistoryService and returns history results, removals and client groups to the Android Java UI.
+// ---
+
 #include "chrome/browser/android/history/browsing_history_bridge.h"
 
 #include <utility>

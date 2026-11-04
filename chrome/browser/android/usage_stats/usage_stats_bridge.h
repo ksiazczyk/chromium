@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageStatsBridge class declaration
+// summary: Declares the native counterpart of UsageStatsBridge.java, which delegates usage stats operations and observes history deletions.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_USAGE_STATS_USAGE_STATS_BRIDGE_H_
 #define CHROME_BROWSER_ANDROID_USAGE_STATS_USAGE_STATS_BRIDGE_H_
 

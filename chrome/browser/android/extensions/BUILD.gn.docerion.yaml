@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android extensions URL override build targets
+summary: GN build file defining the native source set, JNI headers, Android Java library, and unit test targets for the extensions URL override feature.

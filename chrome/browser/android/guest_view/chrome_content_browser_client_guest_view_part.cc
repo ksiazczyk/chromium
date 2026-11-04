@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content browser client guest view part
+// summary: Implements the browser client part that exposes the GuestViewHost Mojo interface to renderers when the Glic or ContextualTasks features are enabled.
+// ---
+
 #include "chrome/browser/android/guest_view/chrome_content_browser_client_guest_view_part.h"
 
 #include "base/feature_list.h"

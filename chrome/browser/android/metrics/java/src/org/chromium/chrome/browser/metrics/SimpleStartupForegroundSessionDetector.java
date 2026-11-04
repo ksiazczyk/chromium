@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleStartupForegroundSessionDetector
+// summary: Tracks foreground and background transitions to decide whether a startup session ran cleanly in the foreground for startup metrics.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import org.chromium.build.annotations.NullMarked;

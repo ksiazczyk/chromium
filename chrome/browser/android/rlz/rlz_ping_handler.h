@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZ ping handler class declaration
+// summary: Declares the RlzPingHandler class, a JNI bridge to RlzPingHandler.java that issues GET requests to the RLZ financial server with brand, language, events and id parameters.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_RLZ_RLZ_PING_HANDLER_H_
 #define CHROME_BROWSER_ANDROID_RLZ_RLZ_PING_HANDLER_H_
 

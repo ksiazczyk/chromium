@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThinWebViewHost
+// summary: Java helper that binds a WebContents to a ThinWebView for display in a container, supporting Java-owned or native-owned instances with a caller-managed lifecycle.
+// ---
+
 package org.chromium.chrome.browser.thin_webview;
 
 import android.content.Context;

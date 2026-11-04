@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome site settings delegate for Android
+// summary: C++ JNI implementation exposing file system access grants per profile and origin to Java, including listing granted paths and revoking grants.
+// ---
+
 #include <algorithm>
 #include <set>
 #include <string>

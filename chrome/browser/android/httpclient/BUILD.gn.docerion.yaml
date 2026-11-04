@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Android HTTP client
+summary: Defines GN targets for the Java and native HTTP client code, JNI headers and its unit and integration tests.

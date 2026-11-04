@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the WebXR immersive-ar policy pref
+// summary: Android browser tests verifying that the WebXR immersive-ar enterprise policy pref propagates to Blink and correctly enables or blocks immersive-ar session support.
+// ---
+
 #include "base/android/android_info.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/common/pref_names.h"

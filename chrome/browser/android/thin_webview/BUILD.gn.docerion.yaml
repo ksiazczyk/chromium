@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for thin_webview
+summary: Defines the native source sets, Java Android library and JNI header generation targets for the thin_webview component.

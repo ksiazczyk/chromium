@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android new tab page URL handler implementation
+// summary: Implements the Android native page URL handler that rewrites new tab, history, and bookmarks native-scheme URLs to their WebUI or native equivalents, respecting extension overrides and feature flags.
+// ---
+
 #include "chrome/browser/android/ntp/new_tab_page_url_handler.h"
 
 #include <string>

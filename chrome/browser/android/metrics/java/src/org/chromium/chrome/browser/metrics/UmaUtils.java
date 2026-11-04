@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UmaUtils
+// summary: Android utilities supporting startup metrics, recording entry point and foreground times plus app standby bucket status.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import android.app.ActivityManager;

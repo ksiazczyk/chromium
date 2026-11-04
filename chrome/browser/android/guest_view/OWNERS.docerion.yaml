@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Android guest view OWNERS
+summary: Points to the OWNERS file of components/guest_view/browser/slim_web_view as the owners for this directory.

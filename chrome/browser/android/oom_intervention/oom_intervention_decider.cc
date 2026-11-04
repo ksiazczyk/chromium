@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOM intervention decider implementation
+// summary: Implements per-host triggering and opt-out logic for OOM intervention using blocklist, declined host and OOM detected preference lists.
+// ---
+
 #include "chrome/browser/android/oom_intervention/oom_intervention_decider.h"
 
 #include "base/functional/bind.h"

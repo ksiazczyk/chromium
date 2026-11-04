@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome selection dropdown menu delegate implementation
+// summary: Implements the Android selection dropdown menu delegate that adds extra selected-text menu items from extensions, printing, DevTools, and Autofill, and hides overlapping Autofill UI when the popup shows.
+// ---
+
 #include "chrome/browser/android/selection/chrome_selection_dropdown_menu_delegate.h"
 
 #include <optional>

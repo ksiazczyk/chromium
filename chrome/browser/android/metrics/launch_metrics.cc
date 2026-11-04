@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home screen launch metrics JNI implementation
+// summary: Records histograms for home screen launches from shortcuts and web apps, boosts site engagement, and reports homepage launch metrics from Java.
+// ---
+
 #include <optional>
 
 #include "base/android/jni_string.h"

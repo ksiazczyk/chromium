@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for the lifecycle directory
+summary: Restricts includes for the lifecycle package, allowing base and build Android code and content_public while forbidding other chrome/browser dependencies.

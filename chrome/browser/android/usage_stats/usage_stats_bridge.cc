@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageStatsBridge native implementation
+// summary: Implements the JNI bridge that forwards Java calls for events, suspensions and token mappings to the usage stats database.
+// ---
+
 #include "chrome/browser/android/usage_stats/usage_stats_bridge.h"
 
 #include <utility>

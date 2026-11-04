@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayPanelContent class declaration
+// summary: Declares the native OverlayPanelContent class that manages panel WebContents and delegates for the Java overlay panel used by Contextual Search.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_OVERLAY_PANEL_OVERLAY_PANEL_CONTENT_H_
 #define CHROME_BROWSER_ANDROID_OVERLAY_PANEL_OVERLAY_PANEL_CONTENT_H_
 

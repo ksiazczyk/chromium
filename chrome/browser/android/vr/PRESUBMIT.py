@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit lint checks for Android VR changes
+# summary: Depot_tools presubmit script that runs lint checks on .cc and .h files at upload and commit time, with a filter excluding the build/include check.
+# ---
+
 """Presubmit script for changes affecting chrome/browser/android/vr
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

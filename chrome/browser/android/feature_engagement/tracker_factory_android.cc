@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bindings for the feature engagement tracker factory
+// summary: Implements the Android JNI bridge for TrackerFactory, returning the tracker for a profile and installing a testing factory that wraps a Java tracker.
+// ---
+
 #include "base/android/scoped_java_ref.h"
 #include "chrome/browser/feature_engagement/tracker_factory.h"
 #include "chrome/browser/profiles/profile.h"

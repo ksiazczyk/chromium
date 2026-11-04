@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser preferences registration
+// summary: Registers local state and profile preferences for Android features such as clipboard, read aloud, WebAuthn, and notifications.
+// ---
+
 #include "chrome/browser/android/preferences/browser_prefs_android.h"
 
 #include "chrome/browser/android/preferences/clipboard_android.h"

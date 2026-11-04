@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedTabDataConfigAndroid class header
+// summary: Declares the configuration class that maps each persisted tab data client to a storage implementation and a unique identifier to avoid key collisions.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_PERSISTED_TAB_DATA_CONFIG_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_PERSISTED_TAB_DATA_CONFIG_ANDROID_H_
 

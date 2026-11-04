@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RevenueStats JNI bridge for search client and RLZ values
+// summary: JNI implementation that stores the Android search client and RLZ parameter values used by search terms data.
+// ---
+
 #include <string>
 
 #include "base/android/jni_string.h"

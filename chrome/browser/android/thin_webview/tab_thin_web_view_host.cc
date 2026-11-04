@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab ThinWebView host implementation
+// summary: Implements the tab-scoped host that manages a ThinWebView-backed WebContents, handling view lifecycle across Activity reparenting, URL opening and keyboard events.
+// ---
+
 #include "chrome/browser/android/thin_webview/tab_thin_web_view_host.h"
 
 #include <utility>

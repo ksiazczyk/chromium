@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox prerender class declaration
+// summary: Declares OmniboxPrerender, which forwards omnibox input and autocomplete results to the AutocompleteActionPredictor to prerender or preconnect predicted pages.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_OMNIBOX_OMNIBOX_PRERENDER_H_
 #define CHROME_BROWSER_ANDROID_OMNIBOX_OMNIBOX_PRERENDER_H_
 

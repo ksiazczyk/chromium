@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockCertVerifierRuleAndroid class header
+// summary: Declares the MockCertVerifierRuleAndroid class that enables tests to force certificate verification results via a content mock cert verifier.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_SSL_MOCK_CERT_VERIFIER_RULE_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_SSL_MOCK_CERT_VERIFIER_RULE_ANDROID_H_
 

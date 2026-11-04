@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome cached flags header
+// summary: Declares IsJavaDrivenFeatureEnabled in the chrome::android namespace for checking Java-driven feature flag state.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_FLAGS_CHROME_CACHED_FLAGS_H_
 #define CHROME_BROWSER_ANDROID_FLAGS_CHROME_CACHED_FLAGS_H_
 

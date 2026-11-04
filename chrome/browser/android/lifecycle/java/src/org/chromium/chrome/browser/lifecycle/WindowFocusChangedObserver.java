@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowFocusChangedObserver interface
+// summary: Observer interface registered with ActivityLifecycleDispatcher to receive callbacks when the activity window gains or loses focus.
+// ---
+
 package org.chromium.chrome.browser.lifecycle;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the VR test directory
+summary: Chromium DEPS configuration that allows the VR test directory to include headers from mojo/core/embedder.

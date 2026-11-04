@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android intents
+summary: GN build file defining the Android Java library for browser intent utilities and its Robolectric unit test target with their dependencies.

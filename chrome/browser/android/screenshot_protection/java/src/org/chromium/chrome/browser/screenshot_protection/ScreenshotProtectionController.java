@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenshotProtectionController
+// summary: Implements Android screenshot protection via WindowManager FLAG_SECURE, applying it for incognito tabs and enterprise policy-protected pages while observing policy and layout state changes.
+// ---
+
 package org.chromium.chrome.browser.screenshot_protection;
 
 import static org.chromium.build.NullUtil.assertNonNull;

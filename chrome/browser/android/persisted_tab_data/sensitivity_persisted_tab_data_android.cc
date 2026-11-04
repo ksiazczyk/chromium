@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SensitivityPersistedTabDataAndroid implementation
+// summary: Implements persisted sensitivity data for tabs, observing page content annotations to update the sensitivity score and serializing it via the SensitivityData proto.
+// ---
+
 #include "chrome/browser/android/persisted_tab_data/sensitivity_persisted_tab_data_android.h"
 
 #include "chrome/browser/android/persisted_tab_data/sensitivity_data.pb.h"

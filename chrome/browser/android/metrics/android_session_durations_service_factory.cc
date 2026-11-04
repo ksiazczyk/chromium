@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android session durations service factory
+// summary: Profile-keyed service factory that creates session duration services for regular, incognito, and isolated profiles and forwards foreground and background events.
+// ---
+
 #include "chrome/browser/android/metrics/android_session_durations_service_factory.h"
 
 #include "base/no_destructor.h"

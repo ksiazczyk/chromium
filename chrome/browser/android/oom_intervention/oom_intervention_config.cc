@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOM intervention config implementation
+// summary: Implements the singleton that computes OOM intervention settings such as enabled features and the private footprint memory threshold.
+// ---
+
 #include "chrome/browser/android/oom_intervention/oom_intervention_config.h"
 
 #include "base/byte_size.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfigurationChangedObserver interface
+// summary: Observer interface registered with the ActivityLifecycleDispatcher to be notified when the activity configuration changes.
+// ---
+
 package org.chromium.chrome.browser.lifecycle;
 
 import android.content.res.Configuration;

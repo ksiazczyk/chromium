@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad Flags snackbar manager implementation
+// summary: Implements ShowBadFlagsSnackbar, which shows a snackbar about bad flags by calling the Java BadFlagsSnackbarManager through JNI for a given WebContents.
+// ---
+
 #include "chrome/browser/android/flags/bad_flags_snackbar_manager.h"
 
 #include "base/android/jni_android.h"

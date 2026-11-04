@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityLifecycleDispatcher interface
+// summary: Interface that manages registration and unregistration of lifecycle observers and exposes the current activity state and native initialization status for Chrome Android activities.
+// ---
+
 package org.chromium.chrome.browser.lifecycle;
 
 import androidx.annotation.IntDef;

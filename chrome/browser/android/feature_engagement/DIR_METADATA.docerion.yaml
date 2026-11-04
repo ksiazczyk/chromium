@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Android feature engagement folder
+summary: Points DIR_METADATA mixins at the shared metadata of the components/feature_engagement directory.

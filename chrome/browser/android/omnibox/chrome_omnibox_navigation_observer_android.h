@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOmniboxNavigationObserverAndroid class declaration
+// summary: Declares the Android subclass of the omnibox navigation observer base, which does not yet show a UI prompt for alternative navigation.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_OMNIBOX_CHROME_OMNIBOX_NAVIGATION_OBSERVER_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_OMNIBOX_CHROME_OMNIBOX_NAVIGATION_OBSERVER_ANDROID_H_
 

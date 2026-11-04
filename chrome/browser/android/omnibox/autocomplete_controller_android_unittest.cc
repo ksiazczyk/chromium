@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutocompleteControllerAndroid
+// summary: Verifies omnibox focus and suggestion behavior against a mocked AutocompleteController across page classifications.
+// ---
+
 #include "chrome/browser/android/omnibox/autocomplete_controller_android.h"
 
 #include <memory>

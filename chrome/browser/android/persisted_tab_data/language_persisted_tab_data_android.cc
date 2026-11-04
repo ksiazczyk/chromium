@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language persisted tab data implementation
+// summary: Implements per-tab persistence of language detection details and notifies the onscreen content provider of language updates.
+// ---
+
 #include "chrome/browser/android/persisted_tab_data/language_persisted_tab_data_android.h"
 
 #include "base/check.h"

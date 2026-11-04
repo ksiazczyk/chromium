@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for Android omnibox targets
+summary: Defines GN source_set targets for the Android omnibox geolocation header and its implementation, listing their public dependencies.

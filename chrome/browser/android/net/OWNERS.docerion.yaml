@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Owners file that delegates code review ownership for this directory to the OWNERS file of net/nqe.

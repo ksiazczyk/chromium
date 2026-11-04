@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleHttpClient unit test
+// summary: Robolectric unit test that mocks the native JNI bridge and profile to verify client initialization, destruction and that send forwards the expected request parameters to native.
+// ---
+
 package org.chromium.chrome.browser.android.httpclient;
 
 import static org.mockito.ArgumentMatchers.any;

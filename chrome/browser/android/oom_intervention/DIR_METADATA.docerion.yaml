@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the oom_intervention directory
+summary: Specifies the memory-dev@chromium.org team email that owns the oom_intervention directory.

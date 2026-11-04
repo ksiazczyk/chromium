@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchPermissionsService implementation
+// summary: Implements the profile-keyed service that manages default search engine permission settings, including the production search engine delegate and factory.
+// ---
+
 #include "chrome/browser/android/search_permissions/search_permissions_service.h"
 
 #include <memory>

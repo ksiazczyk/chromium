@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad Flags snackbar manager header
+// summary: Declares ShowBadFlagsSnackbar, the C++ entry point for creating and showing a Bad Flags snackbar on Android.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_FLAGS_BAD_FLAGS_SNACKBAR_MANAGER_H_
 #define CHROME_BROWSER_ANDROID_FLAGS_BAD_FLAGS_SNACKBAR_MANAGER_H_
 

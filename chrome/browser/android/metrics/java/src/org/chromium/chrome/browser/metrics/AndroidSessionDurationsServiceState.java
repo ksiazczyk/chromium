@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidSessionDurationsServiceState
+// summary: JNI bridge for storing and restoring incognito session duration metrics state from the native AndroidSessionDurationsService.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import android.os.BaseBundle;

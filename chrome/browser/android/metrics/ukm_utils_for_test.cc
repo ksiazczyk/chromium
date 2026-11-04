@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM test utilities JNI implementation
+// summary: Implements native helpers that let Java tests check UKM recording state, look up sources, and read the client ID.
+// ---
+
 #include "base/android/jni_string.h"
 #include "chrome/browser/browser_process.h"
 #include "components/metrics_services_manager/metrics_services_manager.h"

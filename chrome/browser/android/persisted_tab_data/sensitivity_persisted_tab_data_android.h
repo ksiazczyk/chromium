@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SensitivityPersistedTabDataAndroid class header
+// summary: Declares the persisted tab data client storing tab sensitivity, with a 0.5 score cutoff for binary classification and page content annotations integration.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_SENSITIVITY_PERSISTED_TAB_DATA_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_SENSITIVITY_PERSISTED_TAB_DATA_ANDROID_H_
 

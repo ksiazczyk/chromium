@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History deletion info JNI helpers
+// summary: Exposes history::DeletionInfo to Java over JNI, providing deleted URLs and time range validity checks for the Android history UI.
+// ---
+
 #include "chrome/browser/android/history/history_deletion_info.h"
 
 #include "base/android/jni_array.h"

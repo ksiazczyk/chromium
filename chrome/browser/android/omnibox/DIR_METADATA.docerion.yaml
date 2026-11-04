@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Android omnibox folder
+summary: Points to the shared omnibox COMMON_METADATA mixins that supply directory documentation and team metadata.

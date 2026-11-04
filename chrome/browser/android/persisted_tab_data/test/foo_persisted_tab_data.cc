@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FooPersistedTabDataAndroid test support implementation
+// summary: Implements FooPersistedTabDataAndroid, a test subclass of PersistedTabDataAndroid that stores and serializes an int32 value via the FooData proto.
+// ---
+
 #include "chrome/browser/android/persisted_tab_data/test/foo_persisted_tab_data.h"
 
 #include "chrome/browser/android/persisted_tab_data/test/foo.pb.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android autofill preferences
+summary: Grants this directory permission to include headers from third_party/libaddressinput.

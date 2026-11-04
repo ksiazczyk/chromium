@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchPermissionsService unit tests
+// summary: Unit tests for the search permissions service using a mocked search engine delegate and a testing profile.
+// ---
+
 #include "chrome/browser/android/search_permissions/search_permissions_service.h"
 
 #include <memory>

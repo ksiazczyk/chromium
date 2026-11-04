@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self metrics recorder JNI glue
+// summary: JNI glue that records Send Tab to Self notification status, entry point and scroll position metrics reported from Java.
+// ---
+
 #include "base/android/scoped_java_ref.h"
 #include "chrome/browser/send_tab_to_self/send_tab_to_self_scroll_observer.h"
 #include "components/send_tab_to_self/metrics_util.h"

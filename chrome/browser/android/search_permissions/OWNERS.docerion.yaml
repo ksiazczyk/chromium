@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Search permissions OWNERS file
+summary: OWNERS file that delegates review ownership to the permissions component's OWNERS file.

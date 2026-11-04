@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Android media browser code
+summary: Lists philyan@chromium.org as owner of this directory and delegates review approval to the parent media/OWNERS file.

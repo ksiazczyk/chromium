@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android search engine service implementation
+// summary: Implements the native peer of SearchEngineService.java, observing AI mode button configuration and eligibility and pushing UI config updates to Java.
+// ---
+
 #include "chrome/browser/android/omnibox/search_engine_service_android.h"
 
 #include <optional>

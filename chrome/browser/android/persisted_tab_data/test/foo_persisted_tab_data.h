@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FooPersistedTabDataAndroid test class header
+// summary: Declares FooPersistedTabDataAndroid, a test subclass of PersistedTabDataAndroid used to exercise persisted tab data with an int32 value.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_TEST_FOO_PERSISTED_TAB_DATA_H_
 #define CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_TEST_FOO_PERSISTED_TAB_DATA_H_
 

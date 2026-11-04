@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BarPersistedTabDataAndroid test support implementation
+// summary: Implements BarPersistedTabDataAndroid, a test subclass of PersistedTabDataAndroid that stores and serializes a boolean value via the BarData proto.
+// ---
+
 #include "chrome/browser/android/persisted_tab_data/test/bar_persisted_tab_data.h"
 
 #include "chrome/browser/android/persisted_tab_data/test/bar.pb.h"

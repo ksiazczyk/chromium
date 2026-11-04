@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleTemplateUrlLoader implementation
+// summary: Implements loading, removing and overriding of locale-specific prepopulated search engines in the TemplateURLService, bridged from Java via JNI and guarded against profile destruction.
+// ---
+
 #include "chrome/browser/android/locale/locale_template_url_loader.h"
 
 #include "base/android/jni_string.h"

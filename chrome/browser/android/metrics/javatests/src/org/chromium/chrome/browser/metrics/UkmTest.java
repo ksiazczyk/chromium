@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android UKM tests
+// summary: Instrumented JUnit tests for Android UKM, covering client ID setup and that recorded UKM data is cleared when browsing history is deleted.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import androidx.test.filters.SmallTest;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome selection dropdown menu delegate unit tests
+// summary: Unit tests for the Chrome selection dropdown menu delegate, verifying extra menu items and interactions with Autofill and password accessory features.
+// ---
+
 #include "chrome/browser/android/selection/chrome_selection_dropdown_menu_delegate.h"
 
 #include <cstddef>

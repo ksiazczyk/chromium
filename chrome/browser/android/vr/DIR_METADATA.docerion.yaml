@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for VR bug tracking and team contact
+summary: Maps the directory to the UI>Browser>VR Monorail component, the xr-dev@chromium.org team email, and a public Buganizer component.

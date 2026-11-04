@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenshotProtectionControllerCctPTTest
+// summary: Custom Tab integration tests verifying that a managed Custom Tab window is secure when a Data Controls policy blocks screenshots for a restricted URL.
+// ---
+
 package org.chromium.chrome.browser.screenshot_protection;
 
 import static org.junit.Assert.assertTrue;

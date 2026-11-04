@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions URL override registry manager factory
+// summary: Factory that creates and keeps a single ExtensionsUrlOverrideRegistryManager instance per profile, with a settable instance for testing.
+// ---
+
 package org.chromium.chrome.browser.extensions;
 
 import static org.chromium.chrome.browser.profiles.ProfileKeyedMap.ProfileSelection.REDIRECTED_TO_ORIGINAL;

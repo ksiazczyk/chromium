@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension URL override state tracker interface
+// summary: Defines the abstract state tracker interface with a StateListener that is notified when overrides for a chrome URL path become enabled or disabled.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_EXTENSIONS_EXTENSIONS_URL_OVERRIDE_STATE_TRACKER_H_
 #define CHROME_BROWSER_ANDROID_EXTENSIONS_EXTENSIONS_URL_OVERRIDE_STATE_TRACKER_H_
 

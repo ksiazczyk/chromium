@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome selection dropdown menu delegate header
+// summary: Declares the ChromeSelectionDropdownMenuDelegate class, which supplies extra selection popup menu items and hides overlapping Autofill UI when the popup is shown.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_SELECTION_CHROME_SELECTION_DROPDOWN_MENU_DELEGATE_H_
 #define CHROME_BROWSER_ANDROID_SELECTION_CHROME_SELECTION_DROPDOWN_MENU_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox prerender implementation
+// summary: Implements OmniboxPrerender, which feeds omnibox input and autocomplete results to the action predictor to trigger prerender, preconnect or prefetch.
+// ---
+
 #include "chrome/browser/android/omnibox/omnibox_prerender.h"
 
 #include "base/android/jni_string.h"

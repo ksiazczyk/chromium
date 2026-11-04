@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageData protobuf definition
+// summary: Defines the protobuf message storing a tab's detected ISO 639-1 language code and model confidence score.
+// ---
+
 syntax = "proto2";
 
 package language;

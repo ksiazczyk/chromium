@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome interface registrar for Android implementation
+// summary: Registers Chrome's Java-side Mojo interfaces on Android by invoking the ChromeInterfaceRegistrar JNI method.
+// ---
+
 #include "chrome/browser/android/mojo/chrome_interface_registrar_android.h"
 
 #include <jni.h>

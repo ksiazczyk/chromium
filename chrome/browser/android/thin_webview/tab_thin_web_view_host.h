@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab ThinWebView host header
+// summary: Declares TabThinWebViewHost, which hosts a tab-scoped WebContents in a ThinWebView and delegates URL opening and keyboard events.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_THIN_WEBVIEW_TAB_THIN_WEB_VIEW_HOST_H_
 #define CHROME_BROWSER_ANDROID_THIN_WEBVIEW_TAB_THIN_WEB_VIEW_HOST_H_
 

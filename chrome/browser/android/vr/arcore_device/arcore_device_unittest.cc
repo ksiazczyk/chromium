@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArCore device unit tests
+// summary: Unit tests for the Android ArCore device that use a FakeArCore instance plus stub image transport and mailbox bridge to exercise XR session and frame handling.
+// ---
+
 #include "device/vr/android/arcore/arcore_device.h"
 
 #include <memory>

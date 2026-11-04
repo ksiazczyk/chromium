@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot mode enum for Android feedback
+// summary: 'Defines the ScreenshotMode enum used to select how feedback screenshots are captured: default based on activity state, compositor, or Android view.'
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_FEEDBACK_SCREENSHOT_MODE_H_
 #define CHROME_BROWSER_ANDROID_FEEDBACK_SCREENSHOT_MODE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB persisted tab data storage header
+// summary: Declares the LevelDB-backed PersistedTabDataStorageAndroid keyed service handling per-tab data storage.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_LEVELDB_PERSISTED_TAB_DATA_STORAGE_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_LEVELDB_PERSISTED_TAB_DATA_STORAGE_ANDROID_H_
 

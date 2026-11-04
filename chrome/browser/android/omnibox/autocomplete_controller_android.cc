@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native implementation of the Android omnibox autocomplete controller
+// summary: Implements the native side of the Java AutocompleteController, driving suggestion requests, prefetch, focus handling, and match selection for the Android omnibox.
+// ---
+
 #include "chrome/browser/android/omnibox/autocomplete_controller_android.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleManager header for Android locale customizations
+// summary: Declares the LocaleManager class with static accessors for locale-specific customizations on Android, such as referral IDs.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_LOCALE_LOCALE_MANAGER_H_
 #define CHROME_BROWSER_ANDROID_LOCALE_LOCALE_MANAGER_H_
 

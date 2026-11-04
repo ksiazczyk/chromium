@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArTestSuite implementation
+// summary: Implements ArTestSuite initialization and shutdown, setting up a UI task environment, Mojo, and ResourceBundle for Android VR AR unit tests.
+// ---
+
 #include "chrome/browser/android/vr/test/ar_test_suite.h"
 
 #include <memory>

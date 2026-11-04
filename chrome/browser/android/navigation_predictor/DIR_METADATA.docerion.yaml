@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Declares the bug tracking components (Monorail Internals>Preload and Buganizer 1457018) used for issues in this directory.

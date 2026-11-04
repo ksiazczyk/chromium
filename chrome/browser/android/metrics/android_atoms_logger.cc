@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android atoms logger implementation
+// summary: Observes allowlisted UMA histograms and logs them as Westworld atoms via JNI when metrics reporting is enabled on Android desktop.
+// ---
+
 #include "chrome/browser/android/metrics/android_atoms_logger.h"
 
 #include "base/android/device_info.h"

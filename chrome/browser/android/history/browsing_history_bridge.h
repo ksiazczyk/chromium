@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing history JNI bridge class declaration
+// summary: Declares the BrowsingHistoryBridge driver that fetches browsing history for the Android history UI and handles query, removal and deletion callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_HISTORY_BROWSING_HISTORY_BRIDGE_H_
 #define CHROME_BROWSER_ANDROID_HISTORY_BROWSING_HISTORY_BRIDGE_H_
 

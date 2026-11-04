@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for auto-opening received tabs
+// summary: Android browser tests verifying that received Send Tab to Self entries auto-open when Chrome is brought to the foreground.
+// ---
+
 #include "chrome/browser/android/send_tab_to_self/android_notification_handler.h"
 
 #include <memory>

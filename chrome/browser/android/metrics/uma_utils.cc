@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA utilities JNI implementation
+// summary: Provides Android application and process start times, metrics and crash sampling checks, and records the metrics reporting default opt-in state.
+// ---
+
 #include "chrome/browser/android/metrics/uma_utils.h"
 
 #include <stdint.h>

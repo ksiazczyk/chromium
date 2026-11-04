@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy auditor bridge JNI implementation
+// summary: Implements PolicyAuditorBridge, a WebContentsObserver that notifies the Java-side policy auditor about finished main-frame navigations and loads.
+// ---
+
 #include "chrome/browser/android/policy/policy_auditor_bridge.h"
 
 #include "base/android/jni_android.h"

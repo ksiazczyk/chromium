@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BarPersistedTabDataAndroid test class header
+// summary: Declares BarPersistedTabDataAndroid, a test subclass of PersistedTabDataAndroid used to exercise persisted tab data with a boolean value.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_TEST_BAR_PERSISTED_TAB_DATA_H_
 #define CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_TEST_BAR_PERSISTED_TAB_DATA_H_
 

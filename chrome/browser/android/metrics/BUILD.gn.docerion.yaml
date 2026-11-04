@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android metrics build targets
+summary: Defines Android Java library, JNI header generation, and test support targets for the browser metrics code in this directory.

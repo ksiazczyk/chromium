@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for Android messages Java library
+summary: Defines the Android Java library target and JNI header generation for MessagesResourceMapperInitializer in the Chromium messages component's build.

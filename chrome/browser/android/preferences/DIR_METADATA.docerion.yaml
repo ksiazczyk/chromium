@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Declares the issue tracker components used for bugs in the Android preferences directory.

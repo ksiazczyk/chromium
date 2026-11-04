@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy auditor bridge class declaration
+// summary: Declares PolicyAuditorBridge, a WebContentsObserver created per WebContents to forward main-frame navigation and load events to the Java policy auditor.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_POLICY_POLICY_AUDITOR_BRIDGE_H_
 #define CHROME_BROWSER_ANDROID_POLICY_POLICY_AUDITOR_BRIDGE_H_
 

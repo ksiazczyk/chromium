@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self Android bridge declarations
+// summary: Declares helpers for attaching sender device labels to tabs and showing the message banner after auto-opening received tabs.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_ANDROID_BRIDGE_H_
 #define CHROME_BROWSER_ANDROID_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_ANDROID_BRIDGE_H_
 

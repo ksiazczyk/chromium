@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for thin_webview
+summary: Lists the include paths that code in the thin_webview directory is allowed to depend on.

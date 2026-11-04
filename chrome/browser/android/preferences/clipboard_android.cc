@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android clipboard preferences implementation
+// summary: Registers the clipboard last-modified preference and keeps the Android clipboard's modified time in sync with local state.
+// ---
+
 #include "chrome/browser/android/preferences/clipboard_android.h"
 
 #include "base/functional/bind.h"

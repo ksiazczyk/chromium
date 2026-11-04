@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecreateObserver interface
+// summary: Observer interface registered with ActivityLifecycleDispatcher to receive a callback when the activity is going to recreate.
+// ---
+
 package org.chromium.chrome.browser.lifecycle;
 
 import org.chromium.build.annotations.NullMarked;

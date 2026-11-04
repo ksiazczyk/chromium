@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android session durations service declaration
+// summary: Declares a keyed service that tracks session length and hosts sync, password, MSBB, and incognito session metrics recorders for Android profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_METRICS_ANDROID_SESSION_DURATIONS_SERVICE_H_
 #define CHROME_BROWSER_ANDROID_METRICS_ANDROID_SESSION_DURATIONS_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language persisted tab data header
+// summary: Declares LanguagePersistedTabDataAndroid, a PersistedTabDataAndroid client that observes and persists language detection results.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_LANGUAGE_PERSISTED_TAB_DATA_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_PERSISTED_TAB_DATA_LANGUAGE_PERSISTED_TAB_DATA_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockCertVerifierRuleAndroid JNI implementation
+// summary: Implements the JNI bindings for MockCertVerifierRuleAndroid, wiring SetResult, SetUp and TearDown calls to the content mock cert verifier for Android browser tests.
+// ---
+
 #include "chrome/browser/android/ssl/mock_cert_verifier_rule_android.h"
 
 #include "base/command_line.h"

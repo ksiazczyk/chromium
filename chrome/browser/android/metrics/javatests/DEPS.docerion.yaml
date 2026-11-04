@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for metrics javatests
+summary: Defines dependency include rules for the metrics Android Java tests directory, allowing includes from chrome/android.

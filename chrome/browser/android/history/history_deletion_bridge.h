@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History deletion bridge class declaration
+// summary: Declares the native counterpart of HistoryDeletionBridge.java, which forwards native history deletion events to Java and sanitizes invalid URLs.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_HISTORY_HISTORY_DELETION_BRIDGE_H_
 #define CHROME_BROWSER_ANDROID_HISTORY_HISTORY_DELETION_BRIDGE_H_
 

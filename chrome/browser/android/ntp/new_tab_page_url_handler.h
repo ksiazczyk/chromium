@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android NTP URL handler header
+// summary: Declares HandleAndroidNativePageURL, which rewrites old-style Android NTP and legacy bookmark URLs.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_NTP_NEW_TAB_PAGE_URL_HANDLER_H_
 #define CHROME_BROWSER_ANDROID_NTP_NEW_TAB_PAGE_URL_HANDLER_H_
 
