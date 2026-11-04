@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads section implementation
+// summary: Implements the downloads section of the Recent Files bubble, including its header button, container grid, and item chip views.
+// relations:
+//   - implements /ash/system/holding_space/downloads_section.h
+//   - references /ash/public/cpp/holding_space/holding_space_client.h
+//   - references /ash/public/cpp/holding_space/holding_space_controller.h
+// ---
+
 #include "ash/system/holding_space/downloads_section.h"
 
 #include "ash/bubble/bubble_utils.h"

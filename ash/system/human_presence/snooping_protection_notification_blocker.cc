@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snooping protection notification blocker implementation
+// summary: Implements the message center blocker that suppresses popup notifications while the HPS service detects someone looking over the user's shoulder and shows an informational popup.
+// relations:
+//   - implements /ash/system/human_presence/snooping_protection_notification_blocker.h
+//   - depends_on /ash/system/human_presence/snooping_protection_controller.h
+//   - references /ash/system/human_presence/snooping_protection_notification_blocker_internal.h
+// ---
+
 #include "ash/system/human_presence/snooping_protection_notification_blocker.h"
 
 #include <string>

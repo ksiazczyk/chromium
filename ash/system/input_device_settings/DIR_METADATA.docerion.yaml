@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for input device settings
+summary: Maps the directory to the ChromeOS Peripherals Keyboard team and assigns Buganizer component 1131926 for issue tracking.

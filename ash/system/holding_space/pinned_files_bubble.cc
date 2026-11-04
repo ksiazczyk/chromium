@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned files bubble implementation
+// summary: Implements the pinned files child bubble, which combines the pinned files and suggestions sections.
+// relations:
+//   - implements /ash/system/holding_space/pinned_files_bubble.h
+//   - references /ash/public/cpp/holding_space/holding_space_constants.h
+//   - has_part /ash/system/holding_space/pinned_files_section.h
+// ---
+
 #include "ash/system/holding_space/pinned_files_bubble.h"
 
 #include "ash/public/cpp/holding_space/holding_space_constants.h"

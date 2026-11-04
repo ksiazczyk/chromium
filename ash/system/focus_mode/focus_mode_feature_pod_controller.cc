@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode quick settings feature pod controller implementation
+// summary: Implements the quick settings tile controller that toggles Focus Mode, opens the detailed view, tracks UMA metrics, and updates the tile UI from session snapshots.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_feature_pod_controller.h
+//   - depends_on /ash/system/focus_mode/focus_mode_controller.h
+//   - depends_on /ash/system/focus_mode/focus_mode_session.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_feature_pod_controller.h"
 
 #include "ash/constants/ash_features.h"

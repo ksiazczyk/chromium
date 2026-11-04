@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent files bubble class declaration
+// summary: Declares the child bubble of the holding space tray bubble that hosts the recent files sections.
+// relations:
+//   - references /ash/system/holding_space/holding_space_tray_child_bubble.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_RECENT_FILES_BUBBLE_H_
 #define ASH_SYSTEM_HOLDING_SPACE_RECENT_FILES_BUBBLE_H_
 

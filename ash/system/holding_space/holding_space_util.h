@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space animation and highlight utilities
+// summary: Declares helpers for animating holding space views in and out and for creating view highlight path generators.
+// relations:
+//   - references /base/functional/callback.h
+//   - references /base/time/time.h
+//   - references /ui/gfx/geometry/rrect_f.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_UTIL_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_UTIL_H_
 

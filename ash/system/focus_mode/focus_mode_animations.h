@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus mode animations header
+// summary: Declares functions for animating vertical shifts of container views and resizing of the task container layer during focus mode.
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_ANIMATIONS_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_ANIMATIONS_H_
 

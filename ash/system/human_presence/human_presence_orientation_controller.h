@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HumanPresenceOrientationController class declaration
+// summary: Declares the orientation controller and its observer interface that signal when the device orientation is suitable for human presence sensing features.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/public/cpp/tablet_mode_observer.h
+//   - references /ash/wm/tablet_mode/tablet_mode_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_HUMAN_PRESENCE_HUMAN_PRESENCE_ORIENTATION_CONTROLLER_H_
 #define ASH_SYSTEM_HUMAN_PRESENCE_HUMAN_PRESENCE_ORIENTATION_CONTROLLER_H_
 

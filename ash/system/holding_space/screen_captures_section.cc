@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen captures section implementation
+// summary: Implements the screen captures section, building its header label, horizontal container, and screen capture item views.
+// relations:
+//   - implements /ash/system/holding_space/screen_captures_section.h
+// ---
+
 #include "ash/system/holding_space/screen_captures_section.h"
 
 #include "ash/bubble/bubble_utils.h"

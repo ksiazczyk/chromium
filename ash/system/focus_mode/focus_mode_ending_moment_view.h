@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode ending moment view header
+// summary: Declares the view shown when a focus session reaches its duration, with congratulatory text, an emoji animation widget, and buttons to end the session or add ten minutes.
+// relations:
+//   - depends_on /base/scoped_observation.h
+//   - depends_on /ui/lottie/animation_observer.h
+//   - depends_on /ui/views/layout/flex_layout_view.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_ENDING_MOMENT_VIEW_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_ENDING_MOMENT_VIEW_H_
 

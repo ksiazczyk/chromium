@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot icon unit tests
+// summary: Verifies icon selection for enabled, disabled, enabling, and disabling hotspot states, including animation frame progression.
+// relations:
+//   - tests /ash/system/hotspot/hotspot_icon.h
+// ---
+
 #include "ash/system/hotspot/hotspot_icon.h"
 
 #include <optional>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardPrefHandlerImpl class declaration
+// summary: Declares KeyboardPrefHandlerImpl, the concrete implementation of the keyboard preference handler interface.
+// relations:
+//   - implements /ash/system/input_device_settings/pref_handlers/keyboard_pref_handler.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/input_device_settings/pref_handlers/keyboard_pref_handler.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_KEYBOARD_PREF_HANDLER_IMPL_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_KEYBOARD_PREF_HANDLER_IMPL_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touchscreen metrics recorder unit tests
+// summary: Verifies that touchscreen configuration histograms are recorded correctly for zero, internal, external, and mixed touchscreen device setups.
+// relations:
+//   - tests /ash/system/input_device_settings/touchscreen_metrics_recorder.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /base/test/metrics/histogram_tester.h
+// ---
+
 #include "ash/system/input_device_settings/touchscreen_metrics_recorder.h"
 
 #include "ash/test/ash_test_base.h"

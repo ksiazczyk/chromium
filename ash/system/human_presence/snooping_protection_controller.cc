@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnoopingProtectionController implementation
+// summary: Implements the snooping protection controller that reconfigures the HPS notify service and updates snooper status from session, preference and DBus signals.
+// relations:
+//   - implements /ash/system/human_presence/snooping_protection_controller.h
+//   - has_part /ash/system/human_presence/snooping_protection_notification_blocker.h
+// ---
+
 #include "ash/system/human_presence/snooping_protection_controller.h"
 
 #include <memory>

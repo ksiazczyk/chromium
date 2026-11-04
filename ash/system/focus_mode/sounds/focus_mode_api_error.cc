@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode API error implementation
+// summary: Implements IsFatal() for the FocusModeApiError struct that describes errors received from Focus Mode sound API backends.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/focus_mode_api_error.h
+// ---
+
 #include "ash/system/focus_mode/sounds/focus_mode_api_error.h"
 
 namespace ash {

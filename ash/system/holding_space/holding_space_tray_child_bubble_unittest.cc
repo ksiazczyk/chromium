@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space tray child bubble unit tests
+// summary: Unit tests for the holding space tray child bubble, covering bubble treatment, placeholder behavior, and section-related functionality.
+// relations:
+//   - tests /ash/system/holding_space/holding_space_tray_child_bubble.h
+// ---
+
 #include "ash/system/holding_space/holding_space_tray_child_bubble.h"
 
 #include <memory>

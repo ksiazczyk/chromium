@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode retry utility implementation
+// summary: Implements retry helpers for Focus Mode API requests, deciding which HTTP error codes are retryable and computing exponential backoff wait times.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_retry_util.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_retry_util.h"
 
 #include "base/check_op.h"

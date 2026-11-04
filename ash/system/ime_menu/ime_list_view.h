@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImeListView class declaration
+// summary: Declares ImeListView, a TrayDetailedView subclass that renders the selectable list of available IMEs with an optional virtual keyboard toggle and a test API.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/tray/tray_detailed_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_IME_MENU_IME_LIST_VIEW_H_
 #define ASH_SYSTEM_IME_MENU_IME_LIST_VIEW_H_
 

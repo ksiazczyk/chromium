@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus mode animations implementation
+// summary: Implements animation helpers that shift container views vertically and animate task container resizing in the focus mode UI.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_animations.h
+//   - references /ui/compositor/layer.h
+//   - references /ui/compositor/scoped_layer_animation_settings.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_animations.h"
 
 #include "ui/compositor/layer.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceDuplicateIdFinder implementation
+// summary: Implements a finder that tracks which input device IDs share the same vendor and product ID across all device types and notifies observers when the duplicate sets change.
+// relations:
+//   - implements /ash/system/input_device_settings/input_device_duplicate_id_finder.h
+//   - depends_on /ui/events/devices/device_data_manager.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_duplicate_id_finder.h"
 
 #include "ui/events/devices/device_data_manager.h"

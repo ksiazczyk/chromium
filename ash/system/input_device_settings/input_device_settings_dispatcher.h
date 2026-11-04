@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings dispatcher header
+// summary: Declares InputDeviceSettingsDispatcher, which observes the settings controller and duplicate ID finder and forwards settings to the input controller.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/public/cpp/input_device_settings_controller.h
+//   - implements /ash/system/input_device_settings/input_device_duplicate_id_finder.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_SETTINGS_DISPATCHER_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_SETTINGS_DISPATCHER_H_
 

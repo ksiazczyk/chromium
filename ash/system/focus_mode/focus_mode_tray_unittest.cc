@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus Mode tray unit tests
+// summary: Unit tests for the Focus Mode tray covering bubble behavior, task items, countdown and ending moment views, and animations.
+// relations:
+//   - tests /ash/system/focus_mode/focus_mode_tray.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_tray.h"
 
 #include <optional>

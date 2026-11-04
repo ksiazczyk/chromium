@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for keyboard brightness
+summary: Assigns the keyboard_brightness directory to the OS>Systems>Input>Keyboard monorail component and Buganizer component 1457054.

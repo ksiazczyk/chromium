@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard backlight color nudge controller unit tests
+// summary: Tests that the education nudge shows once, can reappear after a day, and stays hidden after the user sets a color.
+// relations:
+//   - tests /ash/system/keyboard_brightness/keyboard_backlight_color_nudge_controller.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ash/controls/contextual_tooltip.h
+// ---
+
 #include "ash/system/keyboard_brightness/keyboard_backlight_color_nudge_controller.h"
 
 #include "ash/constants/ash_features.h"

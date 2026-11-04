@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent files bubble implementation
+// summary: Implements the recent files child bubble, which combines the screen captures and downloads sections.
+// relations:
+//   - implements /ash/system/holding_space/recent_files_bubble.h
+//   - references /ash/public/cpp/holding_space/holding_space_constants.h
+//   - has_part /ash/system/holding_space/downloads_section.h
+// ---
+
 #include "ash/system/holding_space/recent_files_bubble.h"
 
 #include "ash/public/cpp/holding_space/holding_space_constants.h"

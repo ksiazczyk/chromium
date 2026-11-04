@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation nudge controller class declaration
+// summary: Declares the GraduationNudgeController class with MaybeShowNudge and ResetNudgePref methods, plus the nudge failure reason enum and histogram name used for metrics.
+// relations:
+//   - references /tools/metrics/histograms/metadata/ash/enums.xml
+//   - references /tools/metrics/histograms/metadata/ash/histograms.xml
+// ---
+
 #ifndef ASH_SYSTEM_GRADUATION_GRADUATION_NUDGE_CONTROLLER_H_
 #define ASH_SYSTEM_GRADUATION_GRADUATION_NUDGE_CONTROLLER_H_
 

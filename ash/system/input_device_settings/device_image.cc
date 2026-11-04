@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceImage implementation
+// summary: Implements the DeviceImage class, pairing a device key with an ImageSkia or data URL and reporting validity of the stored image.
+// relations:
+//   - implements /ash/system/input_device_settings/device_image.h
+//   - depends_on /ui/base/webui/web_ui_util.h
+// ---
+
 #include "ash/system/input_device_settings/device_image.h"
 
 #include "ash/system/input_device_settings/input_device_settings_utils.h"

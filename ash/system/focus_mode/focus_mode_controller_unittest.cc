@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus mode controller unit tests
+// summary: Unit tests for session lifecycle, duration extension, media playback, ending moment nudges, and metrics of the focus mode controller.
+// relations:
+//   - references /ash/system/focus_mode/focus_mode_controller.h
+//   - references /ash/system/focus_mode/focus_mode_histogram_names.h
+//   - references /ash/system/focus_mode/focus_mode_session.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_controller.h"
 
 #include <memory>

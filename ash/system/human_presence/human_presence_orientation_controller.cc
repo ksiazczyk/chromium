@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HumanPresenceOrientationController implementation
+// summary: Implements the controller that tracks tablet state, internal display rotation and lid state to notify observers when device orientation suits HPS-based features.
+// relations:
+//   - implements /ash/system/human_presence/human_presence_orientation_controller.h
+//   - references /ash/public/cpp/tablet_mode_observer.h
+//   - references /ash/shell.h
+// ---
+
 #include "ash/system/human_presence/human_presence_orientation_controller.h"
 
 #include "ash/public/cpp/tablet_mode_observer.h"

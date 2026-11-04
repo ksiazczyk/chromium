@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space view delegate class declaration
+// summary: Declares the shared delegate class that provides context menu, drag-and-drop, and selection behavior for holding space item views.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/callback_list.h
+//   - references /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_VIEW_DELEGATE_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_VIEW_DELEGATE_H_
 

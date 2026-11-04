@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IME feature pod controller unit tests
+// summary: Unit tests for the IME feature pod controller covering tile labels, visibility based on IME count and menu activation, and metrics.
+// relations:
+//   - tests /ash/system/ime/ime_feature_pod_controller.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/system/ime/ime_feature_pod_controller.h"
 
 #include <string>

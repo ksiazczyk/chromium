@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space tray child bubble implementation
+// summary: Implements HoldingSpaceTrayChildBubble, the base class for child bubbles hosting item views sections, with animation handling and a top-aligned box layout to prevent layout jank.
+// relations:
+//   - implements /ash/system/holding_space/holding_space_tray_child_bubble.h
+//   - references /ash/system/holding_space/holding_space_item_views_section.h
+// ---
+
 #include "ash/system/holding_space/holding_space_tray_child_bubble.h"
 
 #include <algorithm>

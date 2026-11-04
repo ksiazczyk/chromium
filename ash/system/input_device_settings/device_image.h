@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceImage class declaration
+// summary: Declares the ASH_EXPORT DeviceImage class that holds a device key, its visual representation, and a data URI for peripheral images.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/gfx/image/image_skia.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_DEVICE_IMAGE_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_DEVICE_IMAGE_H_
 

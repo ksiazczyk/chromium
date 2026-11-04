@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space screen capture item view implementation
+// summary: Implements the view for screen capture holding space items, including overlay icons for recordings and GIFs.
+// relations:
+//   - implements /ash/system/holding_space/holding_space_item_screen_capture_view.h
+// ---
+
 #include "ash/system/holding_space/holding_space_item_screen_capture_view.h"
 
 #include "ash/public/cpp/holding_space/holding_space_constants.h"

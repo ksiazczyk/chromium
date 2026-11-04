@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned files section class declaration
+// summary: Declares the section that renders pinned files within the pinned files bubble.
+// relations:
+//   - depends_on /ash/system/holding_space/holding_space_item_views_section.h
+//   - references /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_PINNED_FILES_SECTION_H_
 #define ASH_SYSTEM_HOLDING_SPACE_PINNED_FILES_SECTION_H_
 

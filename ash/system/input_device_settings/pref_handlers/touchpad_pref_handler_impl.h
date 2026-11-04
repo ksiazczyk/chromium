@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchpadPrefHandlerImpl header
+// summary: Declares TouchpadPrefHandlerImpl, the concrete implementation of the TouchpadPrefHandler interface for touchpad settings preferences.
+// relations:
+//   - implements /ash/system/input_device_settings/pref_handlers/touchpad_pref_handler.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_TOUCHPAD_PREF_HANDLER_IMPL_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_TOUCHPAD_PREF_HANDLER_IMPL_H_
 

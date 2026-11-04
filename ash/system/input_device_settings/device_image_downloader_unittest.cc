@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceImageDownloader unit tests
+// summary: Verifies that resource URLs are built correctly for notification and settings image destinations from a test device key.
+// relations:
+//   - tests /ash/system/input_device_settings/device_image_downloader.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_metadata.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/system/input_device_settings/device_image_downloader.h"
 
 #include "ash/system/input_device_settings/input_device_settings_metadata.h"

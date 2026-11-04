@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME feature pod controller implementation
+// summary: Implements the Quick Settings feature tile controller for IME, showing the current input method and opening the IME detailed view on press.
+// relations:
+//   - depends_on /ash/system/ime/ime_feature_pod_controller.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+//   - depends_on /ash/ime/ime_controller_impl.h
+// ---
+
 #include "ash/system/ime/ime_feature_pod_controller.h"
 
 #include <string>

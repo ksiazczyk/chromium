@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space item chip view implementation
+// summary: Implements the chip view showing a holding space item's thumbnail, labels, progress indicator and secondary pause/resume actions.
+// relations:
+//   - implements /ash/system/holding_space/holding_space_item_chip_view.h
+// ---
+
 #include "ash/system/holding_space/holding_space_item_chip_view.h"
 
 #include <algorithm>

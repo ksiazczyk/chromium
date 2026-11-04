@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputDeviceKeyAliasManager unit tests
+// summary: Unit test verifying that aliased device keys resolve to the primary key and that aliases can be retrieved for a primary device key.
+// relations:
+//   - tests /ash/system/input_device_settings/input_device_key_alias_manager.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_utils.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_key_alias_manager.h"
 
 #include "ash/system/input_device_settings/input_device_settings_utils.h"

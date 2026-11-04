@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode sounds controller implementation
+// summary: Implements the Focus Mode sounds controller that downloads playlist thumbnails, tracks playlist state, records metrics, and observes media session audio focus.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/focus_mode_sounds_controller.h
+//   - references /ash/system/focus_mode/sounds/focus_mode_soundscape_delegate.h
+//   - references /ash/system/focus_mode/sounds/focus_mode_youtube_music_delegate.h
+// ---
+
 #include "ash/system/focus_mode/sounds/focus_mode_sounds_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HotspotNotifier class header
+// summary: Declares the HotspotNotifier class that observes hotspot and network state via Mojo and shows message center notifications for events like WiFi being turned off or hotspot being disabled.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/memory/weak_ptr.h
+//   - references /chromeos/services/network_config/public/cpp/cros_network_config_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_HOTSPOT_HOTSPOT_NOTIFIER_H_
 #define ASH_SYSTEM_HOTSPOT_HOTSPOT_NOTIFIER_H_
 

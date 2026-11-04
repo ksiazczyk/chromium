@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings metadata implementation
+// summary: Implements per-device metadata lookups, including button remapping lists, companion app detection and device type classification for input devices.
+// relations:
+//   - implements /ash/system/input_device_settings/input_device_settings_metadata.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_utils.h
+//   - depends_on /base/containers/fixed_flat_set.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_metadata.h"
 
 #include "ash/public/mojom/input_device_settings.mojom.h"

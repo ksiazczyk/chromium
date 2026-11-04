@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: YouTube Music utility unit tests
+// summary: Unit tests verifying that FindBestImage picks the smallest qualified image and falls back to the largest when none qualify.
+// relations:
+//   - tests /ash/system/focus_mode/sounds/youtube_music/youtube_music_util.cc
+// ---
+
 #include "ash/system/focus_mode/sounds/youtube_music/youtube_music_util.h"
 
 #include <array>

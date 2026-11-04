@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space progress indicator utility header
+// summary: Declares factory functions that create progress indicators painting progress for a holding space controller's model or for a single holding space item.
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_PROGRESS_INDICATOR_UTIL_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_PROGRESS_INDICATOR_UTIL_H_
 

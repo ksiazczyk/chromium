@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot info cache implementation
+// summary: Caches hotspot state through the CrosHotspotConfig mojo interface and tracks whether the hotspot has been used before via prefs.
+// relations:
+//   - implements /ash/system/hotspot/hotspot_info_cache.h
+//   - references /ash/constants/ash_pref_names.h
+//   - references /ash/public/cpp/hotspot_config_service.h
+// ---
+
 #include "ash/system/hotspot/hotspot_info_cache.h"
 
 #include "ash/constants/ash_pref_names.h"

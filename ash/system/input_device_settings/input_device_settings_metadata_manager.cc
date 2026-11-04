@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings metadata manager implementation
+// summary: Implements the metadata manager that fetches device images, prefers cached copies, persists them to local state and notifies pending callbacks.
+// relations:
+//   - implements /ash/system/input_device_settings/input_device_settings_metadata_manager.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_metadata.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_pref_names.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_metadata_manager.h"
 
 #include "ash/system/input_device_settings/input_device_settings_metadata.h"

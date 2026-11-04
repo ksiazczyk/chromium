@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard backlight color controller header
+// summary: Declares the KeyboardBacklightColorController class, which manages keyboard backlight colors, display types, and zone colors per user account.
+// relations:
+//   - depends_on /ash/rgb_keyboard/rgb_keyboard_manager_observer.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /ash/public/cpp/wallpaper/wallpaper_controller_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_KEYBOARD_BRIGHTNESS_KEYBOARD_BACKLIGHT_COLOR_CONTROLLER_H_
 #define ASH_SYSTEM_KEYBOARD_BRIGHTNESS_KEYBOARD_BACKLIGHT_COLOR_CONTROLLER_H_
 

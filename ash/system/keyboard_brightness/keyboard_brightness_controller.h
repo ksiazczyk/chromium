@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard brightness controller class declaration
+// summary: Declares the KeyboardBrightnessController class that reacts to brightness keys, session and login events, and power manager changes, including profile pref registration.
+// relations:
+//   - depends_on /ash/system/keyboard_brightness_control_delegate.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /ash/login/ui/login_data_dispatcher.h
+// ---
+
 #ifndef ASH_SYSTEM_KEYBOARD_BRIGHTNESS_KEYBOARD_BRIGHTNESS_CONTROLLER_H_
 #define ASH_SYSTEM_KEYBOARD_BRIGHTNESS_KEYBOARD_BRIGHTNESS_CONTROLLER_H_
 

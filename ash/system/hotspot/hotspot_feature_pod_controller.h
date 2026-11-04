@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot feature pod controller header
+// summary: Declares the controller for the hotspot feature tile in quick settings, including icon animation observation and hotspot config observation.
+// relations:
+//   - implements /ash/system/hotspot/hotspot_icon_animation_observer.h
+//   - depends_on /ash/system/unified/feature_pod_controller_base.h
+// ---
+
 #ifndef ASH_SYSTEM_HOTSPOT_HOTSPOT_FEATURE_POD_CONTROLLER_H_
 #define ASH_SYSTEM_HOTSPOT_HOTSPOT_FEATURE_POD_CONTROLLER_H_
 

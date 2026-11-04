@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot detailed view implementation
+// summary: Implements the quick settings detailed view for the ChromeOS hotspot feature, including the on/off toggle row, icon, subtext, and settings button.
+// relations:
+//   - implements /ash/system/hotspot/hotspot_detailed_view.h
+//   - depends_on /ash/system/hotspot/hotspot_icon_animation.h
+//   - depends_on /ash/system/tray/detailed_view_delegate.h
+// ---
+
 #include "ash/system/hotspot/hotspot_detailed_view.h"
 
 #include "ash/ash_element_identifiers.h"

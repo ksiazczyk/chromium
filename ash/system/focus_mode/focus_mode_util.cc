@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode utility functions implementation
+// summary: Implements Focus Mode helpers such as duration and clock formatting, congratulatory ending text, and media source titles.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_util.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_util.h"
 
 #include <array>

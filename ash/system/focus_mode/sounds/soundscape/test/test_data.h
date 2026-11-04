@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Soundscape test data header
+// summary: Declares the kTestConfig constant shared by soundscape tests, defined in the accompanying test_data.cc source file.
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_SOUNDSCAPE_TEST_TEST_DATA_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_SOUNDSCAPE_TEST_TEST_DATA_H_
 

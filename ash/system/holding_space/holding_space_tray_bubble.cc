@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space tray bubble implementation
+// summary: Implements the bubble shown by the holding space tray, including key event handling, child bubble layout, metrics recording, and bounds updates for shelf and display changes.
+// relations:
+//   - implements /ash/system/holding_space/holding_space_tray_bubble.h
+// ---
+
 #include "ash/system/holding_space/holding_space_tray_bubble.h"
 
 #include <map>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Soundscape track and playlist parsing implementation
+// summary: Implements parsing and validation of soundscape tracks, playlists, and configurations from JSON, including localized name selection and field limits.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/soundscape/soundscape_types.h
+//   - depends_on /base/values.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/system/focus_mode/sounds/soundscape/soundscape_types.h"
 
 #include "base/json/json_reader.h"

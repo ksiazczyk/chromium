@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockOnLeaveController class declaration
+// summary: Declares the controller that maintains lock-on-leave configuration state between service restarts and coordinates with the orientation controller.
+// relations:
+//   - references /ash/ash_export.h
+//   - depends_on /ash/system/human_presence/human_presence_orientation_controller.h
+//   - references /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_HUMAN_PRESENCE_LOCK_ON_LEAVE_CONTROLLER_H_
 #define ASH_SYSTEM_HUMAN_PRESENCE_LOCK_ON_LEAVE_CONTROLLER_H_
 

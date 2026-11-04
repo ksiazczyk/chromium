@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot icon animation observer interface
+// summary: Declares the observer interface called when the animated hotspot icon changes.
+// ---
+
 #ifndef ASH_SYSTEM_HOTSPOT_HOTSPOT_ICON_ANIMATION_OBSERVER_H_
 #define ASH_SYSTEM_HOTSPOT_HOTSPOT_ICON_ANIMATION_OBSERVER_H_
 

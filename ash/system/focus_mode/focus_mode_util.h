@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode utility functions
+// summary: Declares Focus Mode helper functions, playlist and sound state types, and constants for session durations, progress steps, and preference keys.
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_UTIL_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_UTIL_H_
 

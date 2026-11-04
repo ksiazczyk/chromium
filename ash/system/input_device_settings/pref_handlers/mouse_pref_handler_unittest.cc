@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MousePrefHandlerImpl unit tests
+// summary: Unit tests for MousePrefHandlerImpl covering initialization, updates, and login screen handling of mouse settings preferences.
+// relations:
+//   - tests /ash/system/input_device_settings/pref_handlers/mouse_pref_handler_impl.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_pref_names.h"
 #include "ash/public/mojom/input_device_settings.mojom.h"

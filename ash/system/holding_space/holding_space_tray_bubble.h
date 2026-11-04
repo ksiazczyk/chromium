@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HoldingSpaceTrayBubble class declaration
+// summary: Declares HoldingSpaceTrayBubble, the tray's bubble, which observes shelf, screen layout, and display changes and exposes the holding space item views it contains.
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_TRAY_BUBBLE_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_TRAY_BUBBLE_H_
 

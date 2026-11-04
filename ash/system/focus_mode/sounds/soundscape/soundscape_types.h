@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Soundscape data type definitions
+// summary: Defines the SoundscapeTrack, SoundscapePlaylist, and SoundscapeConfiguration structs representing parsed Focus Sounds playlist data.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/uuid.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_SOUNDSCAPE_SOUNDSCAPE_TYPES_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_SOUNDSCAPE_SOUNDSCAPE_TYPES_H_
 

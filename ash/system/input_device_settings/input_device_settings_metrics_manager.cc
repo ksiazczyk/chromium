@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings metrics manager implementation
+// summary: Implements UMA metrics recording for keyboard, mouse, touchpad, pointing stick, and graphics tablet settings, including modifier remapping hashes and companion app state.
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_metrics_manager.h"
 
 #include <algorithm>

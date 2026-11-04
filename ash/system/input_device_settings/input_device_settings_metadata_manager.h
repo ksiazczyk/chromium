@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings metadata manager header
+// summary: Declares InputDeviceSettingsMetadataManager, which retrieves, caches and persists input device images via a downloader and storage component.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/input_device_settings/device_image.h
+//   - depends_on /ash/system/input_device_settings/device_image_downloader.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_SETTINGS_METADATA_MANAGER_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_SETTINGS_METADATA_MANAGER_H_
 

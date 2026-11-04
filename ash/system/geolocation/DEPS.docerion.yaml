@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Ash geolocation directory
+summary: Grants the ash/system/geolocation directory include access to chromeos/ash/components/geolocation headers via include_rules.

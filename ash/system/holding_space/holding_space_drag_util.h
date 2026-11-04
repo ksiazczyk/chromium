@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space drag image utility
+// summary: Declares CreateDragImage, which builds a stacked drag image with offset for dragging holding space item views.
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_DRAG_UTIL_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_DRAG_UTIL_H_
 

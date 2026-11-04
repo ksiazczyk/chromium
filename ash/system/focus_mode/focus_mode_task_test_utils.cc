@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tasks client test utilities
+// summary: Implements helpers that create a fake tasks client and add sample task lists and tasks for use in Focus Mode tests.
+// relations:
+//   - depends_on /ash/api/tasks/fake_tasks_client.h
+//   - depends_on /ash/api/tasks/tasks_controller.h
+//   - depends_on /ash/api/tasks/tasks_types.h
+// ---
+
 #include <memory>
 
 #include "ash/api/tasks/fake_tasks_client.h"

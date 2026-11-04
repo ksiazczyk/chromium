@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified IME detailed view controller implementation
+// summary: Implements the controller for the IME detailed view in the unified system tray, updating the view on IME, keyboard, and accessibility changes.
+// relations:
+//   - implements /ash/system/ime/unified_ime_detailed_view_controller.h
+//   - depends_on /ash/ime/ime_controller_impl.h
+//   - depends_on /ash/system/ime/ime_detailed_view.h
+// ---
+
 #include "ash/system/ime/unified_ime_detailed_view_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

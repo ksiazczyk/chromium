@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the geolocation controller
+// summary: Covers geolocation request scheduling, permission changes, timezone handling, and sunrise and sunset calculations for various test locations.
+// relations:
+//   - references /ash/system/geolocation/geolocation_controller_test_util.h
+//   - references /ash/system/geolocation/test_geolocation_url_loader_factory.h
+// ---
+
 #include "ash/system/geolocation/geolocation_controller.h"
 
 #include <string_view>

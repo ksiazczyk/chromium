@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input device settings notification controller unit tests
+// summary: Unit tests for the notification controller, checking notification and nudge display, click handling, and pref-based shown counts for peripheral customization events.
+// relations:
+//   - tests /ash/system/input_device_settings/input_device_settings_notification_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/public/cpp/test/test_new_window_delegate.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_notification_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

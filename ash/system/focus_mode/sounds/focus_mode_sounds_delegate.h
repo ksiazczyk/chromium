@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode sounds delegate interface
+// summary: Declares the FocusModeSoundsDelegate interface for APIs that supply playlists and next tracks to Focus Mode.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/functional/callback_forward.h
+//   - references /url/gurl.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_FOCUS_MODE_SOUNDS_DELEGATE_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_FOCUS_MODE_SOUNDS_DELEGATE_H_
 

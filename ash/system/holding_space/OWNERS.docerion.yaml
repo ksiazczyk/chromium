@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the holding space directory
+summary: Lists code owners for the directory, including the shared holding space OWNERS file and mehfooz@chromium.org.

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard brightness controller implementation
+// summary: Implements the ash keyboard brightness controller, handling brightness key actions, ambient light sensor enable and restore logic, and persistence through prefs and the power manager client.
+// relations:
+//   - implements /ash/system/keyboard_brightness/keyboard_brightness_controller.h
+//   - depends_on /chromeos/dbus/power/power_manager_client.h
+// ---
+
 #include "ash/system/keyboard_brightness/keyboard_brightness_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned files bubble class declaration
+// summary: Declares the child bubble of the holding space tray bubble that hosts the pinned files and suggestions sections.
+// relations:
+//   - depends_on /ash/system/holding_space/holding_space_tray_child_bubble.h
+//   - references /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_PINNED_FILES_BUBBLE_H_
 #define ASH_SYSTEM_HOLDING_SPACE_PINNED_FILES_BUBBLE_H_
 

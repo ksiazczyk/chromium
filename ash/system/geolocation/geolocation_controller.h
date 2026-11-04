@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationController class declaration
+// summary: Declares the GeolocationController that periodically fetches geopositions, notifies observers, and exposes sunrise and sunset times, along with the SimpleGeoposition struct.
+// relations:
+//   - depends_on /chromeos/ash/components/geolocation/system_location_provider.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_GEOLOCATION_GEOLOCATION_CONTROLLER_H_
 #define ASH_SYSTEM_GEOLOCATION_GEOLOCATION_CONTROLLER_H_
 

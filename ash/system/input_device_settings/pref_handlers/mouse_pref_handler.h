@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse pref handler interface
+// summary: Declares the MousePrefHandler interface for initializing and updating mouse settings prefs, including login screen settings and defaults for newly connected mice.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_MOUSE_PREF_HANDLER_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_MOUSE_PREF_HANDLER_H_
 

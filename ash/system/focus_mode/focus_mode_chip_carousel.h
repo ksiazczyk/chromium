@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus mode chip carousel header
+// summary: Declares the FocusModeChipCarousel view that displays up to five task chips and runs a callback when a chip is pressed.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/system/focus_mode/focus_mode_tasks_provider.h
+//   - references /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_CHIP_CAROUSEL_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_CHIP_CAROUSEL_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings notification controller implementation
+// summary: Implements notifications and nudges for blocked Six Pack and right-click rewrites and for first-time connections of customizable keyboards, mice, touchpads, and graphics tablets.
+// relations:
+//   - implements /ash/system/input_device_settings/input_device_settings_notification_controller.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_notification_controller.h"
 
 #include <array>

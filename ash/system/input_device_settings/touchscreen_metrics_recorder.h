@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touchscreen metrics recorder class declaration
+// summary: Declares the TouchscreenMetricsRecorder observer class and the TouchscreenConfiguration enum used for touchscreen configuration histograms.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/devices/input_device_event_observer.h
+//   - depends_on /ui/events/devices/touchscreen_device.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_TOUCHSCREEN_METRICS_RECORDER_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_TOUCHSCREEN_METRICS_RECORDER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode status area tray
+// summary: Declares the FocusModeTray icon that shows session progress, manages its bubble, and observes focus session and task model changes.
+// relations:
+//   - references /ash/system/focus_mode/focus_mode_controller.h
+//   - references /ash/system/focus_mode/focus_mode_countdown_view.h
+//   - references /ash/system/focus_mode/focus_mode_ending_moment_view.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_TRAY_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_TRAY_H_
 

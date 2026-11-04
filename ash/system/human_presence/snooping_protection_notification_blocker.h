@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snooping protection notification blocker class declaration
+// summary: Declares the notification blocker that suppresses popups during snooping detection and manages the informational notification, subject to user preferences.
+// relations:
+//   - depends_on /ash/system/human_presence/snooping_protection_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_HUMAN_PRESENCE_SNOOPING_PROTECTION_NOTIFICATION_BLOCKER_H_
 #define ASH_SYSTEM_HUMAN_PRESENCE_SNOOPING_PROTECTION_NOTIFICATION_BLOCKER_H_
 

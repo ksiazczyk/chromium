@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot icon animation implementation
+// summary: Implements a throb animation that notifies observers as the hotspot icon animates and stops when no observers remain.
+// relations:
+//   - implements /ash/system/hotspot/hotspot_icon_animation.h
+// ---
+
 #include "ash/system/hotspot/hotspot_icon_animation.h"
 
 #include "ash/system/hotspot/hotspot_icon_animation_observer.h"

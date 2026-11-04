@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME detailed view implementation
+// summary: Implements the IME detailed view in the Chrome OS system tray, listing available input methods with a settings button and a policy-managed icon.
+// relations:
+//   - depends_on /ash/system/ime/ime_detailed_view.h
+//   - depends_on /ash/ime/ime_controller_impl.h
+//   - depends_on /ash/public/cpp/system_tray_client.h
+// ---
+
 #include "ash/system/ime/ime_detailed_view.h"
 
 #include <memory>

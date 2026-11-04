@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Focus mode include rules
+summary: Defines allowed include dependencies for the focus_mode directory, permitting google_apis/common.

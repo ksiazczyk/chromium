@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointingStickPrefHandlerImpl implementation
+// summary: Implements PointingStickPrefHandler, reading, initializing, and updating pointing stick settings in prefs with defaults and transition persistence handling.
+// relations:
+//   - depends_on /ash/system/input_device_settings/pref_handlers/pointing_stick_pref_handler_impl.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/system/input_device_settings/pref_handlers/pointing_stick_pref_handler_impl.h"
 
 #include "ash/constants/ash_features.h"

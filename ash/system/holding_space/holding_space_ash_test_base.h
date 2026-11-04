@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space Ash test base
+// summary: Declares a base class for ash holding space tests with helpers to manage items, the model, and user prefs.
+// relations:
+//   - references /ash/public/cpp/holding_space/holding_space_controller.h
+//   - references /ash/public/cpp/holding_space/holding_space_item.h
+//   - references /ash/public/cpp/holding_space/holding_space_model.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_ASH_TEST_BASE_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_ASH_TEST_BASE_H_
 

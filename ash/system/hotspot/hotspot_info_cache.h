@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot info cache header
+// summary: Declares HotspotInfoCache, which monitors hotspot info for code that needs synchronous queries, such as the quick settings bubble.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /mojo/public/cpp/bindings/receiver.h
+//   - references /mojo/public/cpp/bindings/remote.h
+// ---
+
 #ifndef ASH_SYSTEM_HOTSPOT_HOTSPOT_INFO_CACHE_H_
 #define ASH_SYSTEM_HOTSPOT_HOTSPOT_INFO_CACHE_H_
 

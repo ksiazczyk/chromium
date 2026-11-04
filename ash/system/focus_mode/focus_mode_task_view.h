@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusModeTaskView class declaration
+// summary: Declares FocusModeTaskView, a box layout view used in the Focus Mode detailed view for task creation, editing, and selection.
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_TASK_VIEW_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_TASK_VIEW_H_
 

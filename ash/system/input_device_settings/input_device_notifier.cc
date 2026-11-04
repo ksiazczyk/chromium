@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceNotifier implementation
+// summary: Implements a notifier that invokes a callback when input devices are added or removed, including imposter detection, pref handling, and Bluetooth state tracking.
+// relations:
+//   - implements /ash/system/input_device_settings/input_device_notifier.h
+//   - depends_on /ash/bluetooth_devices_observer.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_notifier.h"
 
 #include <algorithm>

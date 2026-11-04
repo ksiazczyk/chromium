@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HumanPresenceOrientationController unit tests
+// summary: Ash tests verifying orientation suitability across tablet mode, internal display rotation and lid state changes using fake power manager and display test APIs.
+// relations:
+//   - tests /ash/system/human_presence/human_presence_orientation_controller.h
+// ---
+
 #include "ash/system/human_presence/human_presence_orientation_controller.h"
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_switches.h"

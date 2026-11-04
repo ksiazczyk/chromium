@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input device settings metrics manager unit tests
+// summary: Unit tests for the input device settings metrics manager, verifying recorded UMA histograms for keyboard, mouse, touchpad, and graphics tablet settings across users and time periods.
+// relations:
+//   - tests /ash/system/input_device_settings/input_device_settings_metrics_manager.h
+//   - depends_on /ash/accelerators/accelerator_encoding.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_metrics_manager.h"
 
 #include <string_view>

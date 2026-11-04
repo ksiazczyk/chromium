@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus Mode utility unit tests
+// summary: Unit tests for focus_mode_util verifying media source titles and progress step calculation.
+// relations:
+//   - tests /ash/system/focus_mode/focus_mode_util.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

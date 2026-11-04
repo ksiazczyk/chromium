@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings dispatcher implementation
+// summary: Implements the dispatcher that applies mouse, touchpad and pointing stick settings to the Ozone input controller when devices connect or settings change.
+// relations:
+//   - implements /ash/system/input_device_settings/input_device_settings_dispatcher.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_settings_dispatcher.h"
 
 #include "ash/constants/ash_features.h"

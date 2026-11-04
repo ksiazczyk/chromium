@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input device settings controller unit tests
+// summary: Unit tests for the input device settings controller, covering keyboard, mouse, touchpad, pointing stick and graphics tablet settings across users and devices.
+// relations:
+//   - tests /ash/system/input_device_settings/input_device_settings_controller_impl.h
+//   - depends_on /ash/public/cpp/input_device_settings_controller.h
+//   - depends_on /ash/system/input_device_settings/input_device_settings_defaults.h
+// ---
+
 #include "ash/public/cpp/input_device_settings_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request signer interface for YouTube Music API requests
+// summary: Declares the RequestSigner interface that retrieves an X.509 certificate and generates headers for signing YouTube Music API requests plus a Device-Info header.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/containers/span.h
+//   - references /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_YOUTUBE_MUSIC_REQUEST_SIGNER_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_YOUTUBE_MUSIC_REQUEST_SIGNER_H_
 

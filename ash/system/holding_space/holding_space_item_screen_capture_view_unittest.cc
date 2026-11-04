@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space screen capture item view unit tests
+// summary: Parameterized unit tests checking overlay icon presence for screen capture item views across supported item types.
+// relations:
+//   - tests /ash/system/holding_space/holding_space_item_screen_capture_view.h
+//   - tests /ash/system/holding_space/holding_space_item_screen_capture_view.cc
+//   - depends_on /ash/system/holding_space/holding_space_ash_test_base.h
+// ---
+
 #include "ash/system/holding_space/holding_space_item_screen_capture_view.h"
 
 #include <memory>

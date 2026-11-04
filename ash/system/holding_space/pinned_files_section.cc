@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned files section implementation
+// summary: Implements the pinned files section, including its header, scrollable grid container, item views, and empty-state placeholder.
+// relations:
+//   - implements /ash/system/holding_space/pinned_files_section.h
+//   - references /ash/public/cpp/holding_space/holding_space_client.h
+//   - references /ash/system/holding_space/holding_space_ui.h
+// ---
+
 #include "ash/system/holding_space/pinned_files_section.h"
 
 #include "ash/bubble/bubble_utils.h"

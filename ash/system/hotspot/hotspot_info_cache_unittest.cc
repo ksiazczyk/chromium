@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot info cache unit tests
+// summary: Tests cached hotspot info updates and the has-hotspot-used-before pref across fake hotspot state changes, login, and logout.
+// relations:
+//   - references /ash/shell.h
+//   - references /ash/test/ash_test_base.h
+//   - references /ash/test/ash_test_helper.h
+// ---
+
 #include "ash/system/hotspot/hotspot_info_cache.h"
 
 #include "ash/shell.h"

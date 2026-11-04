@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space view animation utilities
+// summary: Implements helpers for animating holding space views in and out and for creating a callback-based highlight path generator.
+// relations:
+//   - implemented_by /ash/system/holding_space/holding_space_util.h
+//   - references /ui/compositor/layer.h
+//   - references /ui/compositor/layer_animation_element.h
+// ---
+
 #include "ash/system/holding_space/holding_space_util.h"
 
 #include <memory>

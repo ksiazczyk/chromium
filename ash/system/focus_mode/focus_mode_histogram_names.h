@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode histogram names and metric enums
+// summary: Defines histogram name constants and metric enums for Focus Mode, covering session start, during-session, session end, and API status, latency, and retry metrics.
+// relations:
+//   - relates_to /tools/metrics/histograms/metadata/ash/enums.xml
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_HISTOGRAM_NAMES_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_HISTOGRAM_NAMES_H_
 

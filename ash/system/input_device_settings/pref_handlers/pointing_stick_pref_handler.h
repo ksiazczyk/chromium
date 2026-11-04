@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointingStickPrefHandler interface
+// summary: Declares the PointingStickPrefHandler interface for reading and updating prefs that store pointing stick device settings, including login screen variants.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_POINTING_STICK_PREF_HANDLER_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_PREF_HANDLERS_POINTING_STICK_PREF_HANDLER_H_
 

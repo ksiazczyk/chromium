@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME list view implementation
+// summary: Implements the scrollable list of input methods and IME property items shown in the Ash IME menu, including per-row checkmarks, selection handling, and keyboard toggle behavior.
+// relations:
+//   - implements /ash/system/ime_menu/ime_list_view.h
+//   - depends_on /ash/ime/ime_controller_impl.h
+//   - depends_on /ash/ime/ime_switch_type.h
+// ---
+
 #include "ash/system/ime_menu/ime_list_view.h"
 
 #include <memory>

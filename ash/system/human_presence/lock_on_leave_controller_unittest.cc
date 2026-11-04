@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LockOnLeaveController unit tests
+// summary: Tests lock-on-leave enable and disable behavior against a fake human presence DBus client, covering service availability and duplicate call handling.
+// relations:
+//   - tests /ash/system/human_presence/lock_on_leave_controller.h
+// ---
+
 #include "ash/system/human_presence/lock_on_leave_controller.h"
 
 #include <memory>

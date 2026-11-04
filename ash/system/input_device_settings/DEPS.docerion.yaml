@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for input device settings tests
+summary: Grants the controller and metrics manager unit tests permission to include the fake udev loader headers from device/udev_linux.

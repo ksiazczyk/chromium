@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard backlight toggle controller implementation
+// summary: Implements the quick settings toast view that displays whether the keyboard backlight was toggled on or off.
+// relations:
+//   - implements /ash/system/keyboard_brightness/keyboard_backlight_toggle_controller.h
+//   - depends_on /ash/system/unified/unified_slider_view.h
+//   - depends_on /ash/system/unified/unified_system_tray_model.h
+// ---
+
 #include "ash/system/keyboard_brightness/keyboard_backlight_toggle_controller.h"
 
 #include "ash/constants/ash_features.h"

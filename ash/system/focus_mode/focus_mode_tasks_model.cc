@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusModeTasksModel implementation
+// summary: Implements the tasks model that manages the task list and selected task, notifying observers and delegating fetch and update requests.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_tasks_model.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_tasks_model.h"
 
 #include <absl/cleanup/cleanup.h>

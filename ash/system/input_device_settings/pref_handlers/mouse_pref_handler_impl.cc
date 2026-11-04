@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse pref handler implementation
+// summary: Implements MousePrefHandler, reading and persisting mouse settings such as button swapping, sensitivity, and scrolling, with policy support and metrics.
+// relations:
+//   - depends_on /ash/system/input_device_settings/pref_handlers/mouse_pref_handler_impl.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/system/input_device_settings/pref_handlers/mouse_pref_handler_impl.h"
 
 #include "ash/constants/ash_features.h"

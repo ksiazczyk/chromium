@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music UI-friendly data types
+// summary: Defines lightweight ash-friendly data structures like Image, MusicSection, Playlist, and PlaybackContext that separate the YouTube Music API types from the Focus Mode UI.
+// relations:
+//   - references /google_apis/youtube_music/youtube_music_api_request_types.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_YOUTUBE_MUSIC_YOUTUBE_MUSIC_TYPES_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_YOUTUBE_MUSIC_YOUTUBE_MUSIC_TYPES_H_
 

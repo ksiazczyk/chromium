@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode sounds view implementation
+// summary: Implements the Focus Mode sounds view that shows soundscape and YouTube Music playlists with tab sliders, media controls, and error toasts in the detailed view.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/focus_mode_sounds_view.h
+//   - references /ash/system/focus_mode/sounds/focus_mode_sounds_controller.h
+//   - references /ash/system/focus_mode/sounds/playlist_view.h
+// ---
+
 #include "ash/system/focus_mode/sounds/focus_mode_sounds_view.h"
 
 #include <memory>

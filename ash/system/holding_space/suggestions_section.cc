@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions section implementation for the Pinned Files bubble
+// summary: Implements the SuggestionsSection of the Pinned Files bubble, including its button header with chevron, focus ring, accessibility, and expansion driven by user preferences.
+// relations:
+//   - implements /ash/system/holding_space/suggestions_section.h
+// ---
+
 #include "ash/system/holding_space/suggestions_section.h"
 
 #include <memory>

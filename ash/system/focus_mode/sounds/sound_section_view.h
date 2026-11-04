@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sound section view class declaration
+// summary: Declares the view holding the playlist list for Focus Sounds or YouTube Music sections, with an alternate view for non-premium users.
+// relations:
+//   - references /ash/system/focus_mode/focus_mode_util.h
+//   - references /ash/system/focus_mode/sounds/focus_mode_sounds_controller.h
+//   - references /ui/views/view.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_SOUND_SECTION_VIEW_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_SOUND_SECTION_VIEW_H_
 

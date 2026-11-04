@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Settings keyboard brightness slider implementation
+// summary: Implements the unified system tray slider view and controller for keyboard brightness, adding an RGB keyboard backlight color button when RGB keyboards are supported.
+// relations:
+//   - implements /ash/system/keyboard_brightness/unified_keyboard_brightness_slider_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+// ---
+
 #include "ash/system/keyboard_brightness/unified_keyboard_brightness_slider_controller.h"
 
 #include <memory>

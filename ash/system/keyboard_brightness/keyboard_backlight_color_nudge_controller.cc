@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard backlight color nudge controller implementation
+// summary: Implements the education nudge that teaches users about keyboard backlight color options near the quick settings brightness slider.
+// relations:
+//   - implements /ash/system/keyboard_brightness/keyboard_backlight_color_nudge_controller.h
+//   - depends_on /ash/controls/contextual_nudge.h
+//   - depends_on /ash/controls/contextual_tooltip.h
+// ---
+
 #include "ash/system/keyboard_brightness/keyboard_backlight_color_nudge_controller.h"
 
 #include "ash/bubble/bubble_constants.h"

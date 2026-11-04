@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus mode controller header
+// summary: Declares FocusModeController, which manages focus sessions, session duration, observers, timer ticks, and the tasks model.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/public/cpp/session/session_observer.h
+//   - references /ash/system/focus_mode/focus_mode_delegate.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_CONTROLLER_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_CONTROLLER_H_
 

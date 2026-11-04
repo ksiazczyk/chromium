@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode sounds view class
+// summary: Declares the FocusModeSoundsView class that displays soundscape and YouTube Music playlist sections on the Focus Mode detailed view.
+// relations:
+//   - references /ash/style/rounded_container.h
+//   - references /ash/system/focus_mode/focus_mode_util.h
+//   - references /ash/system/focus_mode/sounds/focus_mode_sounds_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_SOUNDS_FOCUS_MODE_SOUNDS_VIEW_H_
 #define ASH_SYSTEM_FOCUS_MODE_SOUNDS_FOCUS_MODE_SOUNDS_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus mode chip carousel implementation
+// summary: Implements a horizontally scrollable carousel of task chips with overflow chevrons and gradient effects for selecting a focus session task.
+// relations:
+//   - implements /ash/system/focus_mode/focus_mode_chip_carousel.h
+//   - references /ash/api/tasks/tasks_types.h
+//   - references /base/i18n/rtl.h
+// ---
+
 #include "ash/system/focus_mode/focus_mode_chip_carousel.h"
 
 #include "ash/api/tasks/tasks_types.h"

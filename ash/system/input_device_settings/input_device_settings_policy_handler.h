@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings policy handler header
+// summary: Declares the InputDeviceSettingsPolicyHandler class that tracks enterprise policy preferences and exposes keyboard and mouse policies.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /components/prefs/pref_change_registrar.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_SETTINGS_POLICY_HANDLER_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_SETTINGS_POLICY_HANDLER_H_
 

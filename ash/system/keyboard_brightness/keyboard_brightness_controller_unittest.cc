@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for KeyboardBrightnessController
+// summary: Ash test suite verifying keyboard brightness and ambient light sensor behavior using a fake power manager client, fake delegates, and histogram assertions.
+// relations:
+//   - tests /ash/system/keyboard_brightness/keyboard_brightness_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/login/login_screen_controller.h
+// ---
+
 #include "ash/system/keyboard_brightness/keyboard_brightness_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

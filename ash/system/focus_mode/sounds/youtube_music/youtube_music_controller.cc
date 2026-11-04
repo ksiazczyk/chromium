@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music controller implementation
+// summary: Implements the controller that creates per-account YouTube Music clients on session changes and dispatches API requests for the active account, including device ID generation.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/youtube_music/youtube_music_controller.h
+//   - references /ash/constants/ash_pref_names.h
+//   - references /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/system/focus_mode/sounds/youtube_music/youtube_music_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

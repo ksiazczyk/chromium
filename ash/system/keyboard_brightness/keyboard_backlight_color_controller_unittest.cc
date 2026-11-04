@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard backlight color controller unit tests
+// summary: Unit tests covering backlight color preference updates, wallpaper-derived colors, and displayed color behavior of the color controller.
+// relations:
+//   - tests /ash/system/keyboard_brightness/keyboard_backlight_color_controller.h
+//   - tests /ash/system/keyboard_brightness/keyboard_backlight_color_controller.cc
+//   - depends_on /ash/wallpaper/wallpaper_controller_test_api.h
+// ---
+
 #include "ash/system/keyboard_brightness/keyboard_backlight_color_controller.h"
 
 #include <memory>

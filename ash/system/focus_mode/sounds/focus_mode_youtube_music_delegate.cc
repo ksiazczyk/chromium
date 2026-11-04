@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus mode YouTube Music delegate implementation
+// summary: Implements the focus mode sounds delegate for YouTube Music, fetching playlists and tracks with retries, error mapping, and playback reporting.
+// relations:
+//   - implements /ash/system/focus_mode/sounds/focus_mode_youtube_music_delegate.h
+//   - depends_on /ash/system/focus_mode/focus_mode_controller.h
+//   - depends_on /ash/system/focus_mode/focus_mode_retry_util.h
+// ---
+
 #include "ash/system/focus_mode/sounds/focus_mode_youtube_music_delegate.h"
 
 #include <cstddef>

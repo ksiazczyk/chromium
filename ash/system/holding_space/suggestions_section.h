@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions section class declaration
+// summary: Declares SuggestionsSection, the collapsible suggestions section in the Pinned Files bubble that observes user preference changes via a PrefChangeRegistrar.
+// relations:
+//   - references /ash/system/holding_space/holding_space_item_views_section.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_SUGGESTIONS_SECTION_H_
 #define ASH_SYSTEM_HOLDING_SPACE_SUGGESTIONS_SECTION_H_
 

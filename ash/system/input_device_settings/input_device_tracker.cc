@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device tracker implementation
+// summary: Implements tracking of previously connected mice, keyboards, touchpads, and pointing sticks in prefs during the per-device settings transition.
+// relations:
+//   - implements /ash/system/input_device_settings/input_device_tracker.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/system/input_device_settings/input_device_tracker.h"
 
 #include <algorithm>

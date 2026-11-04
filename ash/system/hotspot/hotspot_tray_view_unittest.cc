@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HotspotTrayView unit tests
+// summary: Verifies the hotspot tray view icon image, tooltip, accessible name, and visibility across hotspot states and client counts using a fake hotspot config helper.
+// relations:
+//   - tests /ash/system/hotspot/hotspot_tray_view.h
+// ---
+
 #include "ash/system/hotspot/hotspot_tray_view.h"
 
 #include "ash/constants/ash_features.h"

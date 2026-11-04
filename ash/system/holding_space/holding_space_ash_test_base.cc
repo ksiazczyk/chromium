@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space Ash test base implementation
+// summary: Implements test helpers for adding, partially initializing, and removing holding space items and for marking prefs in ash tests.
+// relations:
+//   - implements /ash/system/holding_space/holding_space_ash_test_base.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/public/cpp/holding_space/holding_space_controller.h
+// ---
+
 #include "ash/system/holding_space/holding_space_ash_test_base.h"
 
 #include "ash/constants/ash_features.h"

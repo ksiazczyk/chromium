@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IME detailed view pixel test
+// summary: Pixel test verifying the rendering of the IME detailed view with multiple IMEs, a keyboard toggle, and the policy-managed icon.
+// relations:
+//   - tests /ash/system/ime/ime_detailed_view.h
+//   - depends_on /ash/ime/ime_controller_impl.h
+//   - depends_on /ash/public/cpp/ime_info.h
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/ime/ime_controller_impl.h"
 #include "ash/public/cpp/ime_info.h"

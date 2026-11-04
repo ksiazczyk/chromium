@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space tray icon view declaration
+// summary: Declares the shelf icon view representing holding space in the tray, which manages item previews and reacts to shelf and shell changes.
+// relations:
+//   - references /ash/public/cpp/holding_space/holding_space_controller.h
+//   - references /ash/public/cpp/holding_space/holding_space_model.h
+//   - references /ash/public/cpp/shelf_config.h
+// ---
+
 #ifndef ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_TRAY_ICON_H_
 #define ASH_SYSTEM_HOLDING_SPACE_HOLDING_SPACE_TRAY_ICON_H_
 

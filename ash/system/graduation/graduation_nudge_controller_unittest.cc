@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Graduation nudge controller unit tests
+// summary: Unit tests verifying the Graduation nudge appears only when the app is installed, respects the maximum shown count and time spacing, and records failure metrics.
+// relations:
+//   - tests /ash/system/graduation/graduation_nudge_controller.cc
+// ---
+
 #include "ash/system/graduation/graduation_nudge_controller.h"
 
 #include <memory>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus Mode tasks provider interface
+// summary: Defines the TaskId and FocusModeTask types and the FocusModeTasksProvider interface for fetching, adding, and updating tasks shown in Focus Mode.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/system/focus_mode/focus_mode_retry_util.h
+// ---
+
 #ifndef ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_TASKS_PROVIDER_H_
 #define ASH_SYSTEM_FOCUS_MODE_FOCUS_MODE_TASKS_PROVIDER_H_
 

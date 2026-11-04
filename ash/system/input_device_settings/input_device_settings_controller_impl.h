@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings controller implementation header
+// summary: Declares InputDeviceSettingsControllerImpl, the Ash controller that manages settings for connected keyboards, mice, touchpads, pointing sticks and graphics tablets.
+// relations:
+//   - implements /ash/public/cpp/input_device_settings_controller.h
+//   - depends_on /ash/system/input_device_settings/device_image.h
+//   - depends_on /ash/system/input_device_settings/input_device_duplicate_id_finder.h
+// ---
+
 #ifndef ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_SETTINGS_CONTROLLER_IMPL_H_
 #define ASH_SYSTEM_INPUT_DEVICE_SETTINGS_INPUT_DEVICE_SETTINGS_CONTROLLER_IMPL_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockOnLeaveController implementation
+// summary: Implements enabling and disabling of the lock-on-leave HPS sense feature over DBus, tracking service availability, orientation suitability and restart state.
+// relations:
+//   - implements /ash/system/human_presence/lock_on_leave_controller.h
+//   - references /ash/shell.h
+//   - references /base/functional/bind.h
+// ---
+
 #include "ash/system/human_presence/lock_on_leave_controller.h"
 
 #include <optional>

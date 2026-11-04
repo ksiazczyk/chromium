@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation controller implementation
+// summary: Implements periodic IP-based geolocation requests with retry delays, caches the position in profile prefs, and computes sunrise and sunset times for the Ash shell.
+// relations:
+//   - implements /ash/system/geolocation/geolocation_controller.h
+//   - depends_on /chromeos/ash/components/geolocation/system_location_provider.h
+// ---
+
 #include "ash/system/geolocation/geolocation_controller.h"
 
 #include <algorithm>

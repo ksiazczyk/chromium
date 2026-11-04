@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake geolocation URL loader factory declaration
+// summary: Declares a fake SharedURLLoaderFactory that always responds 200 OK with a test-chosen geoposition for any requested URL.
+// relations:
+//   - depends_on /chromeos/ash/components/geolocation/geoposition.h
+//   - depends_on /services/network/public/cpp/resource_request.h
+//   - depends_on /services/network/public/cpp/shared_url_loader_factory.h
+// ---
+
 #ifndef ASH_SYSTEM_GEOLOCATION_TEST_GEOLOCATION_URL_LOADER_FACTORY_H_
 #define ASH_SYSTEM_GEOLOCATION_TEST_GEOLOCATION_URL_LOADER_FACTORY_H_
 
