@@ -1,0 +1,4 @@
+# Docerion header of IDS_SESSION_RESTORE_TURN_ON.png.sha1.
+type: data
+title: SHA-1 hash of IDS_SESSION_RESTORE_TURN_ON.png
+summary: Stores the SHA-1 digest of the session restore turn-on prompt screenshot associated with the matching Chromium strings resource message ID.

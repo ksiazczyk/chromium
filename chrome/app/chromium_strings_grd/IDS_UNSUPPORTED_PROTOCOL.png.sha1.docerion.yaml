@@ -1,0 +1,4 @@
+# Docerion header of IDS_UNSUPPORTED_PROTOCOL.png.sha1.
+type: data
+title: SHA-1 checksum for IDS_UNSUPPORTED_PROTOCOL.png screenshot
+summary: Stores the SHA-1 hash of the screenshot image associated with the IDS_UNSUPPORTED_PROTOCOL string for translation verification.
