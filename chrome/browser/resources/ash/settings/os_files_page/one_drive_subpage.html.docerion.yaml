@@ -1,0 +1,4 @@
+# Docerion header of one_drive_subpage.html.
+type: source
+title: OneDrive subpage template
+summary: HTML template for the OneDrive settings subpage showing the signed-in label, connect or disconnect button, and open-folder link.

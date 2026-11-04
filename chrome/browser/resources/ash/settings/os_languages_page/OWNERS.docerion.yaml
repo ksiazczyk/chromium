@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for os_languages_page
+summary: Lists primary, per-file input owners and last-resort owners for the ChromeOS languages settings directory.

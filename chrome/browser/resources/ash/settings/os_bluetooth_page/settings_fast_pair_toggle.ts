@@ -7,6 +7,12 @@
  * Reusable toggle that turns Fast Pair on and off.
  */
 
+// ---docerion
+// type: source
+// title: Fast Pair toggle element
+// summary: Reusable settings toggle that turns Fast Pair on and off and greys itself out whenever the Bluetooth toggle is off.
+// ---
+
 import '../controls/settings_toggle_button.js';
 
 import {PrefsMixin} from '/shared/settings/prefs/prefs_mixin.js';

@@ -8,6 +8,12 @@
  * component to interact with a bluetooth braille display.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth braille display manager
+// summary: Manages discovery, connection, and pairing of bluetooth braille displays via chrome.bluetooth and the ChromeVox subpage browser proxy.
+// ---
+
 import type {ChromeVoxSubpageBrowserProxy, DeviceEventListener, PairingEventListener} from './chromevox_subpage_browser_proxy.js';
 import {ChromeVoxSubpageBrowserProxyImpl} from './chromevox_subpage_browser_proxy.js';
 

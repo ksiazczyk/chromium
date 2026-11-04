@@ -1,0 +1,4 @@
+# Docerion header of ax_annotations_section.html.
+type: source
+title: AX annotations section template
+summary: HTML template holding the toggle for main node accessibility annotations shown on the ChromeVox settings page.

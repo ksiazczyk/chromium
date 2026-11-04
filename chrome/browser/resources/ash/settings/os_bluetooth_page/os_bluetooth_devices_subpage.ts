@@ -7,6 +7,12 @@
  * Settings subpage for managing Bluetooth properties and devices.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth devices subpage element
+// summary: Implements the subpage managing the Bluetooth on/off toggle, connected and unconnected device lists, and Fast Pair support.
+// ---
+
 import '../settings_shared.css.js';
 import './os_paired_bluetooth_list.js';
 import './settings_fast_pair_toggle.js';

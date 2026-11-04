@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method options utilities
+// summary: Utilities for input method option pages, defining UI types, section layouts, default value lookups and option label helpers.
+// ---
+
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';
 
 import {assertExhaustive} from '../assert_extras.js';

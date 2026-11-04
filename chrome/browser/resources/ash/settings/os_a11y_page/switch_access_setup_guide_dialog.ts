@@ -7,6 +7,12 @@
  * Access.
  */
 
+// ---docerion
+// type: source
+// title: Switch Access setup guide dialog element
+// summary: Implements the multi-page Switch Access setup guide dialog, controlling which content and buttons appear on each setup page.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

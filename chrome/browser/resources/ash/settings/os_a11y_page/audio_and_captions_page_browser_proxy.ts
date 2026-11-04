@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio and captions browser proxy
+// summary: Defines the browser proxy interface and implementation for startup sound toggling and flash notification preview communication with the browser.
+// ---
+
 export interface AudioAndCaptionsPageBrowserProxy {
   /**
    * Sets the startup sound to enabled.

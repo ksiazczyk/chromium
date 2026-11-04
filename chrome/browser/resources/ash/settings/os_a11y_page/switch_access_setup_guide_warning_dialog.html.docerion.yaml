@@ -1,0 +1,4 @@
+# Docerion header of switch_access_setup_guide_warning_dialog.html.
+type: source
+title: Switch Access setup guide warning dialog template
+summary: HTML template for a confirmation dialog warning that re-running the Switch Access setup guide clears existing switches.

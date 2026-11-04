@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Japanese dictionary expand element
+// summary: Foldable container element for a single Japanese user dictionary, managing entries, import, export and deletion.
+// ---
+
 /**
  * @fileoverview Foldable container for dictionary editor (for a single
  * dictionary).

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze subpage browser proxy
+// summary: Browser proxy for the FaceGaze accessibility settings subpage that forwards enable requests and gesture info toggles to the browser.
+// ---
+
 export interface FaceGazeSubpageBrowserProxy {
   /**
    * Requests FaceGaze be enabled or disabled.

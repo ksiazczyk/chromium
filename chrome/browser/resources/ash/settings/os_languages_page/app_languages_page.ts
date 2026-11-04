@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App languages page element
+// summary: Implements the os-settings-app-languages-page element that shows apps supporting per-app language selection and opens the language selection dialog.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/ash/common/cr_elements/cr_lazy_render/cr_lazy_render.js';

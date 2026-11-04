@@ -1,0 +1,4 @@
+# Docerion header of os_apps_page.html.
+type: source
+title: OS apps settings page template
+summary: HTML template for the ChromeOS settings Apps page with app management, app notifications, and parental controls rows plus PIN setup dialogs.

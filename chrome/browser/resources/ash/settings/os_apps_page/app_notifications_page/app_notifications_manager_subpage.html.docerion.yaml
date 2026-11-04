@@ -1,0 +1,4 @@
+# Docerion header of app_notifications_manager_subpage.html.
+type: source
+title: App notifications manager subpage template
+summary: Polymer template that renders the alphabetically sorted list of app notification rows and a message when no apps match the search.

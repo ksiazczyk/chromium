@@ -1,0 +1,4 @@
+# Docerion header of supported_links_dialog.html.
+type: source
+title: Supported links dialog template
+summary: Dialog template that lists the supported links of an app in a scrollable list.

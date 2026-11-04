@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App parental controls subpage element
+// summary: Polymer element implementing the parental controls subpage that loads, filters and sorts the app list and redirects to the apps page when the PIN is unverified.
+// ---
+
 import '../../settings_shared.css.js';
 import './block_app_item.js';
 

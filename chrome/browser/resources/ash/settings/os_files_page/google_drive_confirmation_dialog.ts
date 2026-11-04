@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Drive confirmation dialog element
+// summary: Implements the settings-drive-confirmation-dialog wrapper that reports whether the user accepted or cancelled via a close event.
+// ---
+
 /**
  * @fileoverview 'settings-disconnect-drive-confirmation-dialog' is a wrapper of
  * <cr-dialog>.

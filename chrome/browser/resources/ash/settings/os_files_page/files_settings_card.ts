@@ -7,6 +7,12 @@
  * 'files-settings-card' is the card element containing files settings.
  */
 
+// ---docerion
+// type: source
+// title: Files settings card element
+// summary: Implements the files-settings-card Polymer element with preference observers, deep linking, routing, and SMB share dialog handling.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/smb_shares/add_smb_share_dialog.js';

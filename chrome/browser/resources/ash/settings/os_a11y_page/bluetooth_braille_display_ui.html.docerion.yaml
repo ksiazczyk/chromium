@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_braille_display_ui.html.
+type: source
+title: Bluetooth braille display UI template
+summary: HTML template for the braille display widget with a device dropdown, connect and forget buttons, and pincode entry during pairing.

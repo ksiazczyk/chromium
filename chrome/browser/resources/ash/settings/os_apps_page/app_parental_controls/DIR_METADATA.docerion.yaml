@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: App parental controls DIR_METADATA
+summary: Directory metadata that points to the shared child accounts COMMON_METADATA mixins.

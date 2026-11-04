@@ -1,0 +1,4 @@
+# Docerion header of toggle_row.html.
+type: source
+title: Toggle row template
+summary: Reusable row template combining a label, description, policy indicator and toggle switch for app settings.

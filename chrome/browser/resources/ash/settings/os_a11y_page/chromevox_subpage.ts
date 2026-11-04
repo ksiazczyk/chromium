@@ -8,6 +8,12 @@
  * ChromeVox settings.
  */
 
+// ---docerion
+// type: source
+// title: ChromeVox subpage logic
+// summary: Implements the ChromeVox settings subpage, managing voice selection, braille table preferences, and event stream filter settings.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '../settings_shared.css.js';

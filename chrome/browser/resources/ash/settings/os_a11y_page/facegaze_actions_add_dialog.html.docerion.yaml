@@ -1,0 +1,4 @@
+# Docerion header of facegaze_actions_add_dialog.html.
+type: source
+title: FaceGaze add action dialog template
+summary: Polymer template for the multi-step dialog that adds a FaceGaze action, covering gesture selection, confidence threshold, camera preview, and custom keyboard shortcuts.

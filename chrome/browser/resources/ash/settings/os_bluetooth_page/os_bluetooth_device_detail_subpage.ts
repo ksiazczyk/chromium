@@ -8,6 +8,12 @@
  * only be called when a device exist.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth device detail subpage element
+// summary: Implements the subpage for managing a single Bluetooth device, tracking connection states and handling device actions.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/bluetooth/bluetooth_device_battery_info.js';
 import 'chrome://resources/ash/common/bluetooth/bluetooth_icon.js';

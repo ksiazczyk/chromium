@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App detail view element
+// summary: Defines the app-management-app-detail-view element that routes to the matching detail view based on the selected app's type.
+// ---
+
 import './dom_switch.js';
 import './pwa_detail_view.js';
 import './arc_detail_view.js';

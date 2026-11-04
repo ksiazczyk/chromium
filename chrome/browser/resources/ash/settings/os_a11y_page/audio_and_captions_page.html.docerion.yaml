@@ -1,0 +1,4 @@
+# Docerion header of audio_and_captions_page.html.
+type: source
+title: Audio and captions page template
+summary: HTML template for the ChromeOS accessibility settings subpage covering mono audio, startup sound, flash notifications with color options, and captions.

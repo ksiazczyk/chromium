@@ -1,0 +1,4 @@
+# Docerion header of os_bluetooth_summary.html.
+type: source
+title: Bluetooth summary template
+summary: HTML template for the Bluetooth summary row with status icon, enable toggle, pair new device action, and secondary user notice.

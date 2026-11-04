@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth devices subpage browser proxy
+// summary: Defines the browser proxy interface and implementation for Fast Pair saved devices, battery saver, and hardware offloading requests.
+// ---
+
 export interface OsBluetoothDevicesSubpageBrowserProxy {
   /**
    * Invokes the removal of a Fast Pair device by the account key

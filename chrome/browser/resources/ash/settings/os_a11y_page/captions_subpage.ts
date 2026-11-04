@@ -8,6 +8,12 @@
  * equivalent Browser Settings UI (in chrome://settings/captions).
  */
 
+// ---docerion
+// type: source
+// title: Captions subpage element
+// summary: Implements the settings-captions element for ChromeOS captions settings, defining options for text size, font, colors, opacity, and shadow.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '../controls/settings_slider.js';
 import '../settings_shared.css.js';

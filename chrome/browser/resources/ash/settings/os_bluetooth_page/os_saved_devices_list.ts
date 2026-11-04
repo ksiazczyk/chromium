@@ -7,6 +7,12 @@
  * UI element for displaying saved Bluetooth devices.
  */
 
+// ---docerion
+// type: source
+// title: Saved Bluetooth devices list element
+// summary: Element displaying saved Bluetooth devices and deleting them via the devices subpage browser proxy.
+// ---
+
 import '../settings_shared.css.js';
 import './os_saved_devices_list_item.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';

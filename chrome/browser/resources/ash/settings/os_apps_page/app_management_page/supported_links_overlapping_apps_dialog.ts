@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlapping apps dialog element
+// summary: Dialog element that lists apps overlapping the chosen link handler and confirms or cancels the change.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 
 import type {CrDialogElement} from 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

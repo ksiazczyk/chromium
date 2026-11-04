@@ -1,0 +1,4 @@
+# Docerion header of os_japanese_manage_user_dictionary_page.html.
+type: source
+title: Japanese manage user dictionary page template
+summary: HTML template listing the Japanese user dictionaries with a button to add a new dictionary.

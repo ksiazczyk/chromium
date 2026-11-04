@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App content item element
+// summary: Defines the app-management-app-content-item element that shows the app content row and hides it when no scope extensions exist.
+// ---
+
 import './app_management_cros_shared_style.css.js';
 import './app_content_dialog.js';
 import '//resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';

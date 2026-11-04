@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS voice subpage browser proxy
+// summary: Browser proxy for the TTS voice subpage that fetches voice and extension data, previews voices and wakes or refreshes the TTS engine.
+// ---
+
 export interface TtsVoiceSubpageBrowserProxy {
   /**
    * Requests the updated voice data. Returned by the 'all-voice-data-updated'

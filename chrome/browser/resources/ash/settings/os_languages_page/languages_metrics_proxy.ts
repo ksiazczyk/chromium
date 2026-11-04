@@ -9,6 +9,12 @@
  * is completed and data analysed.
  */
 
+// ---docerion
+// type: source
+// title: Languages settings metrics proxy
+// summary: Records ChromeOS languages settings interactions, toggles and dialog usage as histogram enums and user action metrics.
+// ---
+
 // LINT.IfChange(SettingsLanguagesPageInteraction)
 /**
  * Keeps in sync with SettingsLanguagesPageInteraction

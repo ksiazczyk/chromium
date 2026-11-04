@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair saved devices constants
+// summary: Defines the Fast Pair saved devices opt-in status enum and the FastPairSavedDevice interface used by the saved devices UI.
+// ---
+
 /**
  * The opt-in status for saving devices to a user's account. Must be kept
  * in sync with nearby::fastpair::OptInStatus enum from

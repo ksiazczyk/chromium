@@ -1,0 +1,4 @@
+# Docerion header of app_setup_pin_dialog.html.
+type: source
+title: App PIN setup dialog HTML template
+summary: HTML template for the dialog that walks the user through choosing and confirming a parental controls PIN with a PIN keyboard.

@@ -1,0 +1,4 @@
+# Docerion header of permission_heading.html.
+type: source
+title: Permission heading template
+summary: HTML template for the permissions section heading, with explanation rows for parent and sub-app permission management.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App management resize lock item element
+// summary: Custom element that toggles the resize lock setting for an app and records the corresponding setting change and user actions.
+// ---
+
 import './toggle_row.js';
 
 import type {App} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';

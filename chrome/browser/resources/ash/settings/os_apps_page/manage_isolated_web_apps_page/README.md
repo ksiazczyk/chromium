@@ -1,3 +1,13 @@
+---
+type: readme
+title: ChromeOS Settings Manage Isolated Web Apps Subpage README
+summary: Documents the ChromeOS Settings subpage for managing Isolated Web Apps, pointing to companion docs and describing the Polymer element with a toggle to enable or disable them.
+relations:
+  - references /chrome/browser/web_applications/isolated_web_apps/README.md
+  - references /components/webapps/isolated_web_apps/README.md
+  - documents /chrome/browser/resources/ash/settings/os_apps_page/manage_isolated_web_apps_page/manage_isolated_web_apps_subpage.ts
+---
+
 # ChromeOS Settings — Manage Isolated Web Apps Subpage (`chrome/browser/resources/ash/settings/os_apps_page/manage_isolated_web_apps_page`)
 
 This directory implements the ChromeOS Settings (`chrome://os-settings`) subpage

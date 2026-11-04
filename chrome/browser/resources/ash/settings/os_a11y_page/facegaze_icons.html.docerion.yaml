@@ -1,0 +1,4 @@
+# Docerion header of facegaze_icons.html.
+type: asset
+title: FaceGaze gesture icon set
+summary: Defines the facegaze iron-iconset-svg containing SVG artwork for facial gestures used throughout the FaceGaze settings UI.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for app notifications page
+summary: Chromium metadata file assigning the directory to the UI>Shell>Notifications monorail component and Buganizer component 1457308.

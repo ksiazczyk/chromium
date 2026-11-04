@@ -1,0 +1,4 @@
+# Docerion header of detailed_build_info_subpage.html.
+type: source
+title: Detailed build info subpage template
+summary: HTML template for the detailed build info subpage showing channel, end-of-life, auto-update and command line details.

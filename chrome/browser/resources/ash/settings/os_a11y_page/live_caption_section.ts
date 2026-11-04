@@ -8,6 +8,12 @@
  * the equivalent Browser Settings UI (in chrome://settings/captions).
  */
 
+// ---docerion
+// type: source
+// title: Live Caption section element
+// summary: Polymer element showing Live Caption settings on the Audio and captions subpage, forked from the equivalent browser settings captions UI.
+// ---
+
 
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_action_menu/cr_action_menu.js';

@@ -1,0 +1,4 @@
+# Docerion header of cr_checkbox_with_policy.html.
+type: source
+title: cr-checkbox-with-policy template
+summary: HTML template for the cr-checkbox-with-policy element, showing a policy icon and tooltip next to a disabled checkbox.

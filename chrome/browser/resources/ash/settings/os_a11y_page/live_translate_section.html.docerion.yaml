@@ -1,0 +1,4 @@
+# Docerion header of live_translate_section.html.
+type: source
+title: Live Translate section template
+summary: HTML template for the Live Translate settings section with an enable toggle and a target language dropdown.

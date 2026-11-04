@@ -1,0 +1,4 @@
+# Docerion header of android_apps_subpage.html.
+type: source
+title: Android apps subpage template
+summary: HTML template for the Android apps settings subpage with Play Store links, ARC VM USB device sharing row, and a confirm-disable dialog.

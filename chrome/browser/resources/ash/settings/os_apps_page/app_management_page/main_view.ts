@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App management main view element
+// summary: Polymer element that lists apps from the store, filtered by search term and sorted alphabetically, with subpage navigation and focus handling.
+// ---
+
 import './app_item.js';
 import './app_management_cros_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

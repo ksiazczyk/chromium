@@ -1,0 +1,4 @@
+# Docerion header of captions_subpage.html.
+type: source
+title: Captions subpage template
+summary: HTML template for captions preferences with a live caption section, style preview box, and dropdowns for text size, font, color, opacity, and shadow.

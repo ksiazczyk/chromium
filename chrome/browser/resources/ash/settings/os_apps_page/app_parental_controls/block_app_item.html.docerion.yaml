@@ -1,0 +1,4 @@
+# Docerion header of block_app_item.html.
+type: source
+title: Block app item element template
+summary: HTML template for the block-app-item settings element, showing an app icon, title and toggle used to block or allow the app.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Japanese clear IME data dialog element
+// summary: Dialog element that clears personalized data for the Japanese input decoder via the user data service.
+// ---
+
 /**
  * @fileoverview 'os-settings-japanese-clear-ime-data-dialog' is used to
  * manage clearing personalized data for the Japanese input decoder.

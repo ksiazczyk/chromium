@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Office settings page element
+// summary: Defines the settings-office-page custom element that renders the Office settings page in ChromeOS settings.
+// ---
+
 import '../controls/settings_toggle_button.js';
 
 import {PrefsMixin} from '/shared/settings/prefs/prefs_mixin.js';

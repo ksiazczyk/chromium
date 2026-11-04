@@ -1,0 +1,4 @@
+# Docerion header of read_only_permission_item.html.
+type: source
+title: Read-only permission item template
+summary: Template for the read-only permission item showing a permission label, state description and policy indicator without a toggle.

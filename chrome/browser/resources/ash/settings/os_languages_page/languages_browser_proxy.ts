@@ -7,6 +7,12 @@
  * to interact with the browser.
  */
 
+// ---docerion
+// type: source
+// title: Languages browser proxy
+// summary: Browser proxy that lets the languages settings set the prospective UI language and access language and input method Chrome APIs.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface LanguagesBrowserProxy {

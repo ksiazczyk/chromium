@@ -8,6 +8,12 @@
  * settings.
  */
 
+// ---docerion
+// type: source
+// title: FaceGaze cursor card logic
+// summary: Implements the facegaze-cursor-card element handling cursor speed sliders, velocity thresholds, tick values, and precision click speed options.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '../controls/settings_slider.js';

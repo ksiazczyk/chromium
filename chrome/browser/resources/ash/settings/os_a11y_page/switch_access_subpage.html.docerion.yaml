@@ -1,0 +1,4 @@
+# Docerion header of switch_access_subpage.html.
+type: source
+title: Switch Access settings subpage template
+summary: HTML template for the Switch Access settings section with switch assignment rows, auto-scan toggles and scan speed sliders.

@@ -1,0 +1,4 @@
+# Docerion header of app_parental_controls_subpage.html.
+type: source
+title: App parental controls subpage HTML template
+summary: HTML template for the settings subpage listing apps under parental controls, with blocked app counts and an empty-state label.

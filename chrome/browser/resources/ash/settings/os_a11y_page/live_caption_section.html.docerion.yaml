@@ -1,0 +1,4 @@
+# Docerion header of live_caption_section.html.
+type: source
+title: Live Caption section template
+summary: HTML template for the Live Caption settings section, including the enable toggle, language pack list and add languages dialog.

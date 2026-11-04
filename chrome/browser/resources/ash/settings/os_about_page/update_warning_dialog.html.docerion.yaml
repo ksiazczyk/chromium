@@ -1,0 +1,4 @@
+# Docerion header of update_warning_dialog.html.
+type: source
+title: Update warning dialog template
+summary: HTML template for the update warning dialog offering cancel and continue actions before proceeding with an update.

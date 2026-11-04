@@ -7,6 +7,12 @@
  * for languages and inputs settings.
  */
 
+// ---docerion
+// type: source
+// title: OS settings languages page v2
+// summary: Implements the languages sub-page of ChromeOS settings, handling the language list, spellcheck toggles and dialogs for adding languages or changing the device language.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/js/action_link.js';

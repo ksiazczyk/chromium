@@ -7,6 +7,12 @@
  * information.
  */
 
+// ---docerion
+// type: source
+// title: OS About page element
+// summary: Polymer element implementing the ChromeOS About page with update checks, deferred updates, release notes and related actions.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

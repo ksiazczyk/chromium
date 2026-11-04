@@ -7,6 +7,12 @@
  * to retrieve information about android apps.
  */
 
+// ---docerion
+// type: source
+// title: Android apps browser proxy for settings
+// summary: Browser proxy that retrieves Android apps info and sends requests to open the Play Store or Android settings for the Google Play Store section.
+// ---
+
 /**
  * Type definition of AndroidAppsInfo entry. |playStoreEnabled| indicates that
  * Play Store is enabled. |settingsAppAvailable| indicates that Android settings

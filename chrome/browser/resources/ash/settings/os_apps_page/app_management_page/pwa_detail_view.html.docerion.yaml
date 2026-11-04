@@ -1,0 +1,4 @@
+# Docerion header of pwa_detail_view.html.
+type: source
+title: PWA detail view template
+summary: Template for the PWA detail view listing pin to shelf, notification, location, camera, microphone and other permission cards for the selected app.

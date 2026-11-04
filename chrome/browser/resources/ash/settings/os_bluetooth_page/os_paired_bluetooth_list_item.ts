@@ -8,6 +8,12 @@
  * Bluetooth device.
  */
 
+// ---docerion
+// type: source
+// title: Paired Bluetooth device list item element
+// summary: List item showing a paired Bluetooth device's details and navigating to its device detail subpage.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';

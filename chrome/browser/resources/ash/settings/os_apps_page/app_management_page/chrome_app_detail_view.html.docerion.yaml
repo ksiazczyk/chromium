@@ -1,0 +1,4 @@
+# Docerion header of chrome_app_detail_view.html.
+type: source
+title: Chrome app detail view template
+summary: HTML template for the Chrome app detail view showing pin-to-shelf, permission messages and app details rows.

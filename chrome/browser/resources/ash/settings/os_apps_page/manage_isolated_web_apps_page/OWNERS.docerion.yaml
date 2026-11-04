@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Manage Isolated Web Apps Settings Subpage
+summary: Delegates directory ownership to the isolated web apps OWNERS file in chrome/browser/web_applications.

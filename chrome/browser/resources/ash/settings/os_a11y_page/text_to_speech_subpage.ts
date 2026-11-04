@@ -8,6 +8,12 @@
  * for text-to-speech accessibility settings.
  */
 
+// ---docerion
+// type: source
+// title: Text-to-speech accessibility settings subpage
+// summary: Implements the settings-text-to-speech-subpage element for text-to-speech accessibility settings, including the ScreenAI install status enum and deep linking support.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '../controls/settings_toggle_button.js';
 import '../settings_shared.css.js';

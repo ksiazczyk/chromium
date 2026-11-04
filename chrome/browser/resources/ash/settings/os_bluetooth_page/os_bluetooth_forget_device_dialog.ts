@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth forget device dialog element
+// summary: Dialog element that lets the user forget a paired Bluetooth device and fires the forget-bluetooth-device event on confirmation.
+// ---
+
 /**
  * @fileoverview
  * Forget dialog is used to forget a Bluetooth device.

@@ -1,0 +1,4 @@
+# Docerion header of smb_shares_page.html.
+type: source
+title: SMB shares page template
+summary: HTML template for the SMB shares settings page with a learn-more link, policy indicator, and add-share button and dialog.

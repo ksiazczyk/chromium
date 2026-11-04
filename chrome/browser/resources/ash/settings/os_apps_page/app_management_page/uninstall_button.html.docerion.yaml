@@ -1,0 +1,4 @@
+# Docerion header of uninstall_button.html.
+type: source
+title: Uninstall button template
+summary: HTML template for the app management uninstall button, showing a policy indicator tooltip and an uninstall button that is disabled for policy-installed apps.

@@ -13,6 +13,12 @@
 // TODO(b/263828712): Upstream and downstream changes from browser settings, and
 // consider merging the two.
 
+// ---docerion
+// type: source
+// title: Languages model and LanguageHelper singleton
+// summary: Singleton element that builds the languages model and exposes LanguageHelper APIs for changing language and input method settings.
+// ---
+
 import {PrefsMixin} from '/shared/settings/prefs/prefs_mixin.js';
 import {CrSettingsPrefs} from '/shared/settings/prefs/prefs_types.js';
 import {assert} from 'chrome://resources/js/assert.js';

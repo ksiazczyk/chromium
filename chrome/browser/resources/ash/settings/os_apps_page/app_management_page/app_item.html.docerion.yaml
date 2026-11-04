@@ -1,0 +1,4 @@
+# Docerion header of app_item.html.
+type: source
+title: App item template
+summary: HTML template for an app list row showing the app icon and title with a slot for right-side content.

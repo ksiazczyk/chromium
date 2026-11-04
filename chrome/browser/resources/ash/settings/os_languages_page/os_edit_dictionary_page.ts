@@ -7,6 +7,12 @@
  * the "dictionary" of custom words used for spell check.
  */
 
+// ---docerion
+// type: source
+// title: OS settings edit dictionary page
+// summary: Sub-page element for editing the custom words dictionary used for spell check in ChromeOS settings.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

@@ -7,6 +7,12 @@
  * adding input methods.
  */
 
+// ---docerion
+// type: source
+// title: Add input methods dialog element
+// summary: Implements the os-settings-add-input-methods-dialog element that lists available input methods, suggests ones for enabled languages, and records the setting change.
+// ---
+
 import './add_items_dialog.js';
 
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

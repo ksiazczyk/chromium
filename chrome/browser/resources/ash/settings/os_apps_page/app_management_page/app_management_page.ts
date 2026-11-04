@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App management page element
+// summary: Polymer element defining the settings-app-management-page custom element that wraps the app management main view.
+// ---
+
 import './main_view.js';
 import '../../settings_shared.css.js';
 

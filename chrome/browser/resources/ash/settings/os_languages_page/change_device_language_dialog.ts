@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change device language dialog element
+// summary: Polymer element implementing the ChromeOS settings dialog for changing the device language, with a searchable list of supported languages.
+// ---
+
 /**
  * @fileoverview 'os-settings-change-device-language-dialog' is a dialog for
  * changing device language.

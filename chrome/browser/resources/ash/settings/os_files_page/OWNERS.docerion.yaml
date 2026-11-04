@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for os_files_page
+summary: Delegates code review ownership for this folder to the file manager OWNERS file.

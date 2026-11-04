@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App management read-only permission item element
+// summary: Implements the app-management-read-only-permission-item element that displays non-editable permission state with privacy hub sensor information.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_indicator.js';
 import '../../os_privacy_page/privacy_hub_allow_sensor_access_dialog.js';
 

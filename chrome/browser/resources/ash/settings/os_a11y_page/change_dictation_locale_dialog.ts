@@ -7,6 +7,12 @@
  * allows a user to pick their locale for Dictation's speech recognition.
  */
 
+// ---docerion
+// type: source
+// title: Change dictation locale dialog logic
+// summary: Implements the Dictation locale selection dialog, filtering recommended and full locale lists and updating the Dictation locale preference.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_search_field/cr_search_field.js';

@@ -8,6 +8,12 @@
  * its connected devices.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth summary element
+// summary: Summary element that reflects Bluetooth system state through a toggle, status labels, and navigation to the devices subpage.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';

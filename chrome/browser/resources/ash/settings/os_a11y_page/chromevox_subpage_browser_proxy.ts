@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox subpage browser proxy
+// summary: Browser proxy that fetches TTS voice data and handles Bluetooth braille display listeners, discovery, and selection for the ChromeVox subpage.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export type DeviceEventListener = (device?: chrome.bluetooth.Device) => void;

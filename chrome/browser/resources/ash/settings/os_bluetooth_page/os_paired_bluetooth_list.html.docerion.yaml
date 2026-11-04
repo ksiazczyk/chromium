@@ -1,0 +1,4 @@
+# Docerion header of os_paired_bluetooth_list.html.
+type: source
+title: Paired Bluetooth devices list template
+summary: HTML template that renders the scrollable iron-list of paired Bluetooth devices with a shared managed-device tooltip.

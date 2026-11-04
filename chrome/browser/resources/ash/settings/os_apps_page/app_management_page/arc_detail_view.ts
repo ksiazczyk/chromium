@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app detail view element
+// summary: Polymer element for the ARC app detail view that defines permission types and binds the selected app from the app management store.
+// ---
+
 import './app_details_item.js';
 import './app_language_item.js';
 import './pin_to_shelf_item.js';

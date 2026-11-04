@@ -6,6 +6,13 @@
  * Settings dialog is used to remove a bluetooth saved device from
  * the user's account.
  */
+
+// ---docerion
+// type: source
+// title: Remove saved device dialog element
+// summary: Dialog confirming removal of a Fast Pair saved device, firing the remove-saved-device event and recording metrics.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

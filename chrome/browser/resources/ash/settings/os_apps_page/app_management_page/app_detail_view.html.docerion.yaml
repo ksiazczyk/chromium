@@ -1,0 +1,4 @@
+# Docerion header of app_detail_view.html.
+type: source
+title: App detail view template
+summary: HTML template that switches between the PWA, ARC, Chrome app, and Borealis detail views for the selected app.

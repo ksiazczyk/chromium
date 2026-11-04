@@ -8,6 +8,12 @@
  * for keyboard and text input accessibility settings.
  */
 
+// ---docerion
+// type: source
+// title: Keyboard and text input page element
+// summary: Polymer element for the keyboard and text input accessibility settings subpage, handling dictation locales, caret blink interval and conflicting features.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';

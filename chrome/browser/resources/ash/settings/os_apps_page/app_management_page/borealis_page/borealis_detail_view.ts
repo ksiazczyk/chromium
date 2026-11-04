@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis app detail view web component
+// summary: Defines the app-management-borealis-detail-view element that shows Borealis app permissions and links to the main Borealis client app page.
+// ---
+
 import '../pin_to_shelf_item.js';
 import '../app_management_cros_shared_style.css.js';
 import '../../../app_management_icons.html.js';

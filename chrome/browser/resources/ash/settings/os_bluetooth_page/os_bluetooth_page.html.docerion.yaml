@@ -1,0 +1,4 @@
+# Docerion header of os_bluetooth_page.html.
+type: source
+title: Bluetooth settings page template
+summary: HTML template for the Bluetooth settings page, hosting the summary card and routing to the devices, device detail, and saved devices subpages.

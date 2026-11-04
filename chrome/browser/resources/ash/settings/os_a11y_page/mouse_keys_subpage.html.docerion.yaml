@@ -1,0 +1,4 @@
+# Docerion header of mouse_keys_subpage.html.
+type: source
+title: Mouse Keys subpage template
+summary: HTML template for the Mouse Keys accessibility subpage with acceleration and max speed sliders, dominant hand options and keyboard previews.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR Metadata for the Manage Isolated Web Apps Settings Subpage
+summary: Declares the Monorail and Buganizer components used for issues in this directory.

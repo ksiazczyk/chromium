@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App management page utilities
+// summary: Utility helpers for the app management settings page covering navigation, camera and microphone availability checks, and permission description strings.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 import type {App} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import {PermissionType, TriState} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';

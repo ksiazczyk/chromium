@@ -1,0 +1,4 @@
+# Docerion header of more_permissions_item.html.
+type: source
+title: More permissions item template
+summary: HTML template for the row that opens an app's native OS settings via an external-link icon button.

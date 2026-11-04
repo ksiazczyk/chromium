@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add items dialog element
+// summary: Implements the reusable os-settings-add-items-dialog element for adding multiple items at once, supporting search, suggested items and policy-disabled entries.
+// ---
+
 /**
  * @fileoverview 'os-settings-add-items-dialog' is a dialog for adding an
  * unordered set of items at a time. The component supports suggested items, as

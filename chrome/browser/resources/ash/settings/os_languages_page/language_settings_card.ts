@@ -7,6 +7,12 @@
  * 'language-settings-card' is the card element containing language settings.
  */
 
+// ---docerion
+// type: source
+// title: Language settings card element
+// summary: Polymer element that renders the settings card entry point and navigates to the ChromeOS languages sub-page.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import '../os_settings_page/settings_card.js';
 import '../settings_shared.css.js';

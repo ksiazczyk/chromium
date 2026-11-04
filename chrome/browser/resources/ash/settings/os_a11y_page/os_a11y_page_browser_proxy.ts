@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility page browser proxy
+// summary: Browser proxy for the accessibility settings page that confirms the image labels dialog and queries the current screen reader state.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface OsA11yPageBrowserProxy {

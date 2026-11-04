@@ -8,6 +8,12 @@
  * a user enters to access App Parental Controls matches the existing PIN.
  */
 
+// ---docerion
+// type: source
+// title: App PIN verification dialog element
+// summary: Polymer element for the PIN verification dialog that validates the entered PIN against the stored one and records dialog error metrics.
+// ---
+
 import 'chrome://resources/ash/common/quick_unlock/pin_keyboard.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

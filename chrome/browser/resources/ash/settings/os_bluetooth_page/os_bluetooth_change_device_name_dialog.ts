@@ -7,6 +7,12 @@
  * Settings dialog is used to change a Bluetooth device nickname.
  */
 
+// ---docerion
+// type: source
+// title: Change device name dialog element
+// summary: Implements the settings dialog for changing a Bluetooth device nickname, truncating input to a 32-character maximum.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

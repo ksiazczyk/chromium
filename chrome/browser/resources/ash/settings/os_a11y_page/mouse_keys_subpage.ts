@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse Keys subpage element
+// summary: Polymer element implementing the Mouse Keys accessibility subpage, including slider tick data, dominant hand options and keyboard preview entries.
+// ---
+
 import '../os_settings_page/settings_card.js';
 import '../settings_shared.css.js';
 

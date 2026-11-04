@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for app notifications page
+summary: Lists newcomer@chromium.org as the code owner responsible for reviewing changes in this directory.

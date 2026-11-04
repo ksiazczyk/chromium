@@ -8,6 +8,12 @@
  * notifications of all apps.
  */
 
+// ---docerion
+// type: source
+// title: App notifications subpage element
+// summary: Element with controls for notifications of all apps, handling do-not-disturb quiet mode, app badging preference, deep links, and app list observation.
+// ---
+
 import '../../controls/settings_toggle_button.js';
 
 import {I18nMixin} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';

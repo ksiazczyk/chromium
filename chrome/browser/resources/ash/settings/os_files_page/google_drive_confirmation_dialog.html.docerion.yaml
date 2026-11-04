@@ -1,0 +1,4 @@
+# Docerion header of google_drive_confirmation_dialog.html.
+type: source
+title: Google Drive confirmation dialog template
+summary: HTML template for a configurable cr-dialog with title, body, and optional cancel and action buttons.

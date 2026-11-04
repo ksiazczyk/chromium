@@ -1,0 +1,4 @@
+# Docerion header of text_to_speech_subpage.html.
+type: source
+title: Text-to-speech settings subpage template
+summary: HTML template with toggles and links for ChromeVox, Select-to-Speak and text-to-speech settings on the accessibility page.

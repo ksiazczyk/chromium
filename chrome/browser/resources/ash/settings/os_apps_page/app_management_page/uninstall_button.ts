@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App management uninstall button element
+// summary: Defines the app-management-uninstall-button custom element that controls uninstall visibility, indicates policy-installed apps, and triggers app uninstall.
+// ---
+
 import './app_management_cros_shared_style.css.js';
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/policy/cr_tooltip_icon.js';

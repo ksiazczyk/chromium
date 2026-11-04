@@ -7,6 +7,12 @@
  * UI element for displaying paired Bluetooth devices.
  */
 
+// ---docerion
+// type: source
+// title: Paired Bluetooth devices list element
+// summary: Polymer element that displays paired Bluetooth devices and manages visibility of the enterprise-managed tooltip.
+// ---
+
 import '../settings_shared.css.js';
 import './os_paired_bluetooth_list_item.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';

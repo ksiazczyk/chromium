@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method preference defaults
+// summary: Default values for each input method option type, kept in sync with the corresponding Google3 extension file.
+// ---
+
 import {JapaneseInputMode, JapaneseKeymapStyle, JapanesePunctuationStyle, JapaneseSelectionShortcut, JapaneseShiftKeyModeStyle, JapaneseSpaceInputStyle, JapaneseSymbolStyle, KoreanKeyboardLayout, OptionType, PinyinXkbLayout, ZhuyinKeyboardLayout, ZhuyinPageSize, ZhuyinSelectKeys} from './input_method_prefs_consts.js';
 
 /**

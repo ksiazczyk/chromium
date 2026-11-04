@@ -1,0 +1,4 @@
+# Docerion header of permission_item.html.
+type: source
+title: App management permission item template
+summary: Polymer template for the app management permission item, rendering a toggle row with a permission description link and an optional allow sensor access dialog.

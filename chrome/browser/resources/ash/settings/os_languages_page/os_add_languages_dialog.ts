@@ -7,6 +7,12 @@
  * languages.
  */
 
+// ---docerion
+// type: source
+// title: Add languages dialog element
+// summary: Dialog element that filters supported languages and enables the chosen ones through the LanguageHelper.
+// ---
+
 import './add_items_dialog.js';
 
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

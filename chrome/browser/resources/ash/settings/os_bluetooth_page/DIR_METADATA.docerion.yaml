@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the OS Bluetooth settings page
+summary: Directory metadata that inherits mixins from the shared Ash Bluetooth resources COMMON_METADATA.

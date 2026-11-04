@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Drive subpage element
+// summary: Implements the settings-google-drive-subpage element managing Drive account connection and bulk pinning preferences with confirmation dialog states.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/action_link.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';

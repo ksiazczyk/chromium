@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method preference option constants
+// summary: Enum of preference option keys for input-method-specific settings, covering Japanese, Korean, Pinyin, Zhuyin and Vietnamese input methods.
+// ---
+
 /**
  * CrOS-Prefs-backed options on option pages. Where applicable, these literal
  * string values are persisted as entry keys in CrOS-Prefs dictionary value for

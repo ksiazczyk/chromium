@@ -8,6 +8,12 @@
  * for sending notifications for the apps.
  */
 
+// ---docerion
+// type: source
+// title: App notifications manager subpage element
+// summary: Element holding per-app notification controls, filtering the app list by search term and keeping it in sync through app notification observer events.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import './app_notification_row.js';
 

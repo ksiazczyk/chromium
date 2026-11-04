@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text-to-speech subpage browser proxy
+// summary: Browser proxy for the text-to-speech subpage that opens the ChromeVox tutorial via chrome.send.
+// ---
+
 export interface TextToSpeechSubpageBrowserProxy {
   /**
    * Opens the ChromeVox tutorial.

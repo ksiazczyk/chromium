@@ -1,0 +1,4 @@
+# Docerion header of borealis_detail_view.html.
+type: source
+title: Borealis app detail view template
+summary: HTML template for the Borealis app detail view in ChromeOS app management settings, rendering pin-to-shelf and microphone permission rows with help links.

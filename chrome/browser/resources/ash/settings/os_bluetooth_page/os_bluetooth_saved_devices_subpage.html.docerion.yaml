@@ -1,0 +1,4 @@
+# Docerion header of os_bluetooth_saved_devices_subpage.html.
+type: source
+title: Bluetooth saved devices subpage template
+summary: HTML template for the saved Bluetooth devices subpage, showing a computed sublabel and the saved devices list.

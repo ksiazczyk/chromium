@@ -8,6 +8,12 @@
  * controls.
  */
 
+// ---docerion
+// type: source
+// title: Manage Isolated Web Apps Subpage Polymer Element
+// summary: Defines the settings-manage-isolated-web-apps-subpage element that combines the ash and profile IWA preferences into a policy-aware toggle.
+// ---
+
 import '../../controls/settings_toggle_button.js';
 
 import {I18nMixin} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';

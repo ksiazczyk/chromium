@@ -1,0 +1,4 @@
+# Docerion header of os_japanese_dictionary_expand.html.
+type: source
+title: Japanese dictionary expand template
+summary: HTML template for a foldable container of a single Japanese dictionary with import, export, entry list and delete dialog.

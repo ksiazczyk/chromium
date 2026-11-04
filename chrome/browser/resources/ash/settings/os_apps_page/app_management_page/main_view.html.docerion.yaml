@@ -1,0 +1,4 @@
+# Docerion header of main_view.html.
+type: source
+title: Main view template
+summary: HTML template listing installed apps with subpage arrow buttons and a message shown when no apps match.

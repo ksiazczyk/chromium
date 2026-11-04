@@ -8,6 +8,12 @@
  * audio and captions accessibility settings.
  */
 
+// ---docerion
+// type: source
+// title: Audio and captions settings subpage
+// summary: Implements the settings-audio-and-captions-page element for audio and captions accessibility settings, including flash notification color options and kiosk mode handling.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';

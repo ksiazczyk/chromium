@@ -1,0 +1,4 @@
+# Docerion header of os_remove_saved_device_dialog.html.
+type: source
+title: Remove saved device dialog template
+summary: HTML template for the confirmation dialog that removes a saved Bluetooth device from the user's account.

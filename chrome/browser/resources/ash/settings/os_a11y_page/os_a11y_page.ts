@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility settings page element
+// summary: Implements the os-settings-a11y-page Polymer element that hosts ChromeOS accessibility settings, deep links, guest and kiosk handling, and routing to subpages.
+// ---
+
 /**
  * @fileoverview
  * 'os-settings-a11y-page' is the small section of advanced settings containing

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Block app item settings element
+// summary: Polymer element that displays an app with a toggle for blocking it and updates the blocked state through the parental controls handler.
+// ---
+
 import '../../settings_shared.css.js';
 
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

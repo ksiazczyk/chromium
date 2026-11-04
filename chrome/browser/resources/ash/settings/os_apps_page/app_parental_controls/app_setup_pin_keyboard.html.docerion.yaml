@@ -1,0 +1,4 @@
+# Docerion header of app_setup_pin_keyboard.html.
+type: source
+title: App PIN setup keyboard HTML template
+summary: HTML template for the PIN entry keyboard used during setup, including a reserved area for error messages.

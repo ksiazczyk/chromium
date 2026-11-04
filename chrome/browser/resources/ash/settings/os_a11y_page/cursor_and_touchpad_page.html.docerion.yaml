@@ -1,0 +1,4 @@
+# Docerion header of cursor_and_touchpad_page.html.
+type: source
+title: Cursor and touchpad page template
+summary: Polymer template for cursor and touchpad accessibility settings, including auto-click, mouse keys, and FaceGaze rows.

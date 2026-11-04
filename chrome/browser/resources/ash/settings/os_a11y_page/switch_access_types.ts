@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access type definitions
+// summary: Defines the KeyAssignment interface and assignment-changed value types shared by the Switch Access settings UI.
+// ---
+
 import type {SwitchAccessCommand, SwitchAccessDeviceType} from './switch_access_constants.js';
 
 export interface KeyAssignment {

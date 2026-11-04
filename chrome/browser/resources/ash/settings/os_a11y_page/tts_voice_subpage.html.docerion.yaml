@@ -1,0 +1,4 @@
+# Docerion header of tts_voice_subpage.html.
+type: source
+title: Text-to-speech voice subpage template
+summary: HTML template for the TTS voice subpage with speech rate, pitch and volume sliders, voice preview controls and per-language voice selection.

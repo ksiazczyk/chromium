@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDrive browser proxy
+// summary: Singleton browser proxy that communicates with the OneDriveHandler in the browser process for the OneDrive settings subpage.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote, PageRemote} from '../mojom-webui/one_drive_handler.mojom-webui.js';
 
 // Communicates with the OneDriveHandler in the browser process.

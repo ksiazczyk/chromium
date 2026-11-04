@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App language item element
+// summary: Polymer element providing the per-app language row in app management, hiding itself when the app does not support locale selection.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '../../common/app_language_selection_dialog/app_language_selection_dialog.js';

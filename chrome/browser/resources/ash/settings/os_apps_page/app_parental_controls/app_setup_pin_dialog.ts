@@ -8,6 +8,12 @@
  * to access App Parental Controls.
  */
 
+// ---docerion
+// type: source
+// title: App PIN setup dialog element
+// summary: Polymer element for the PIN setup dialog that hosts the PIN keyboard, handles submit and cancel, and reports success when a PIN is saved.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import '../../settings_shared.css.js';
