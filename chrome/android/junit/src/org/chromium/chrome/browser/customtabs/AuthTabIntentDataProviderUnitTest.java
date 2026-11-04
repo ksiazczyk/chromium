@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthTabIntentDataProvider unit tests
+// summary: Robolectric unit tests checking AuthTabIntentDataProvider defaults, activity and UI types, button visibility, and feature usage histograms from AuthTab intents.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.browser.customtabs.CustomTabsIntent.COLOR_SCHEME_LIGHT;

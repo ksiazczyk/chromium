@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeTabbedOnDragListener
+// summary: Robolectric tests for drag event handling in tabbed Chrome, covering tab, tab group and multi-tab drops with metrics and user action checks.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import static org.junit.Assert.assertEquals;

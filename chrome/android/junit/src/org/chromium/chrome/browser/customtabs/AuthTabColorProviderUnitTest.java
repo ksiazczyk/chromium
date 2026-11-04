@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthTabColorProvider unit tests
+// summary: Robolectric unit tests verifying AuthTabColorProvider toolbar, bottom bar, and navigation bar colors for default, light, and dark color schemes.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.browser.customtabs.CustomTabsIntent.COLOR_SCHEME_DARK;

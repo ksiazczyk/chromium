@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab Activity Tab Controller Unit Tests
+// summary: Robolectric unit tests for the Custom Tab activity tab controller, covering tab creation, initialization and tab lifecycle behavior.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static org.junit.Assert.assertEquals;

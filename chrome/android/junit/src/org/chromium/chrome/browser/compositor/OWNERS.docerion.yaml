@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Owners file for the compositor JUnit tests, inheriting reviewers from the source directory and adding a per-file owner.

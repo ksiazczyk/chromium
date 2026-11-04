@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoryPane unit tests
+// summary: Parameterized Robolectric unit tests for HistoryPane covering pane behavior with the history pane and clustering features enabled.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static org.junit.Assert.assertEquals;

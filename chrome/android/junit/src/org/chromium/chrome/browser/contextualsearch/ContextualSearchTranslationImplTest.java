@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextualSearchTranslationImplTest
+// summary: Robolectric tests for ContextualSearchTranslationImpl covering translation need detection, fluent and target languages, and forced translation.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

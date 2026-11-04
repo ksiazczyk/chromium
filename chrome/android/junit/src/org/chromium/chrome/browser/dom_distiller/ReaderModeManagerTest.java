@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader Mode manager unit tests
+// summary: Robolectric unit tests covering ReaderModeManager behavior including distillation results, entry points, and UI messaging.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import static org.junit.Assert.assertEquals;

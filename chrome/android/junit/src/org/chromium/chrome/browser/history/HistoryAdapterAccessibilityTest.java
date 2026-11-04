@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoryAdapter accessibility unit tests
+// summary: Robolectric tests for HistoryAdapter focused on behavior when accessibility is enabled and scroll-to-load is disabled, covering header, date, and footer item generation.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static org.mockito.Mockito.lenient;

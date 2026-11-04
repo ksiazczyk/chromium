@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrustedWebActivityDisclosureControllerTest
+// summary: Robolectric unit tests for TrustedWebActivityDisclosureController, verifying TWA disclosure state, scope, and first-time display behavior with mocked dependencies.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller.trustedwebactivity;
 
 import static org.junit.Assert.assertEquals;

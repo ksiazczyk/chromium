@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedActivityCoordinator unit tests
+// summary: Robolectric tests for SharedActivityCoordinator, verifying standalone and Trusted Web Activity display mode behavior such as edge-to-edge and immersive mode using mocked controllers.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui;
 
 import static org.mockito.ArgumentMatchers.any;

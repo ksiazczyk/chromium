@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentGestureListenerTest
+// summary: Robolectric tests for ContentGestureListener, verifying gesture state transitions between dragging the tab and scrolling the content.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import static org.junit.Assert.assertEquals;

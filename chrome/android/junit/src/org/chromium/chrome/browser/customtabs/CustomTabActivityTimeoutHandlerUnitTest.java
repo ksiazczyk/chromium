@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabActivityTimeoutHandler unit tests
+// summary: Robolectric unit tests for CustomTabActivityTimeoutHandler, verifying that timed-out Custom Tab activities finish on resume under the reset timeout features.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.junit.Assert.assertTrue;

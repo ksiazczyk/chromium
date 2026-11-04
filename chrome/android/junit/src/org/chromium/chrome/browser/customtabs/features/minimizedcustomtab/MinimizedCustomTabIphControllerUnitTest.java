@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MinimizedCustomTabIphController unit tests
+// summary: Robolectric unit tests for the controller that triggers in-product help for the minimized custom tab feature via the engagement tracker.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.minimizedcustomtab;
 
 import static org.junit.Assert.assertEquals;

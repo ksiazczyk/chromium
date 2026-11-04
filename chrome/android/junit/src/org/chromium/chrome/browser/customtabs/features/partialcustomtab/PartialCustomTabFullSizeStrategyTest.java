@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartialCustomTabFullSizeStrategyTest
+// summary: Robolectric tests for PartialCustomTabFullSizeStrategy, verifying full-size window layout in portrait, landscape and multi-window modes.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

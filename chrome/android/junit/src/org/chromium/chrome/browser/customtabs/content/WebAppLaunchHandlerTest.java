@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Launch Handler Tests
+// summary: Robolectric tests for the Web App Launch Handler, covering launch modes, URI permission grants and file handling for web apps.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static android.content.Intent.FLAG_ACTIVITY_MULTIPLE_TASK;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the history JUnit tests
+summary: Delegates code ownership for the Chrome Android history JUnit tests by referencing the OWNERS file of the corresponding history source directory.

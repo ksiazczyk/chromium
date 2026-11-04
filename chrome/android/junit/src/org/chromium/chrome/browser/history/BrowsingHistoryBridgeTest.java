@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowsingHistoryBridge unit tests
+// summary: Robolectric unit tests for BrowsingHistoryBridge covering deletion metrics emission, app ID propagation when removing history items, and timestamp map passing to the native bridge.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static org.junit.Assert.assertArrayEquals;

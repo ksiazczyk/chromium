@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader Mode toolbar button controller unit tests
+// summary: Robolectric unit tests for the Reader Mode toolbar button behavior and its button data updates.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import static org.junit.Assert.assertEquals;

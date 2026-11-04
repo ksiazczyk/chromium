@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Owners file that delegates review ownership to the shared components/image_fetcher OWNERS file.

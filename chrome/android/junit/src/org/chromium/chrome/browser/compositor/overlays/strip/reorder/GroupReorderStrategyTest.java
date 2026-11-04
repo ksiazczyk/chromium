@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: GroupReorderStrategyTest
+// summary: Robolectric tests for GroupReorderStrategy, verifying drag thresholds and reordering behavior for collapsed and expanded tab groups.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.junit.Assert.assertEquals;

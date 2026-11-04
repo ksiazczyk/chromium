@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for dom_distiller tests
+summary: Chromium DIR_METADATA file that inherits the common dom_distiller metadata through a mixin reference.

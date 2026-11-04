@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UploadedCrashIdsFeedbackSource tests
+// summary: Robolectric unit tests verifying that UploadedCrashIdsFeedbackSource reads uploaded crash IDs from the uploads log, handling missing, empty and invalid entries.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.content.Context;

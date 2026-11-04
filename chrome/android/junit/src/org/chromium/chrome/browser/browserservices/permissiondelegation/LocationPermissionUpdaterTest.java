@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationPermissionUpdaterTest
+// summary: Parameterized Robolectric tests for LocationPermissionUpdater, verifying location permission updates for verified origins across geolocation settings types.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import static org.mockito.ArgumentMatchers.any;

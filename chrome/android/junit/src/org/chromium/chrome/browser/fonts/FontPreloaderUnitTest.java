@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FontPreloader unit tests
+// summary: Robolectric unit tests verifying that FontPreloader requests every font in its array through a shadowed ResourcesCompat implementation.
+// ---
+
 package org.chromium.chrome.browser.fonts;
 
 import static org.hamcrest.MatcherAssert.assertThat;

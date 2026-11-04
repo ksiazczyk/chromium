@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Homepage settings UI components and interactions
+// summary: Robolectric unit tests verifying the HomepageSettings UI, including switch and radio button states, custom URL editing, and user interactions.
+// ---
+
 package org.chromium.chrome.browser.homepage.settings;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

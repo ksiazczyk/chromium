@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scrolling strip stacker unit tests
+// summary: Robolectric unit tests for how the scrolling strip stacker positions and hides tab strip views, including RTL.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.mockito.Mockito.verify;

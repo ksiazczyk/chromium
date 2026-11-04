@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappInsetsConsumerTest
+// summary: Robolectric unit tests for WebappInsetsConsumer, checking registration at the web app edge-to-edge slot and consumption of system bar and display cutout insets while the token is held.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositorViewHolder unit tests
+// summary: Extensive Robolectric tests for CompositorViewHolder covering layout, drag events, tab handling, and browser controls interactions.
+// ---
+
 package org.chromium.chrome.browser.compositor;
 
 import static org.junit.Assert.assertEquals;

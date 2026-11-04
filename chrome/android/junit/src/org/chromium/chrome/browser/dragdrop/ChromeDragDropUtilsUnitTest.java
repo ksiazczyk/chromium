@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeDragDropUtils
+// summary: Robolectric tests verifying drag-drop type extraction from intents and null-safe retrieval of tabs and tab group metadata from global state.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import static org.junit.Assert.assertEquals;

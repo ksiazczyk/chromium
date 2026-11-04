@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the scene_layer test directory
+summary: Sets per-file code owners for TabStripSceneLayerTest.java, assigning nemco@google.com and skavuluru@google.com as reviewers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoCustomTabSnapshotController tests
+// summary: Robolectric tests verifying that secure window flags and recents screenshots are toggled correctly for incognito custom tabs.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.junit.Assert.assertEquals;

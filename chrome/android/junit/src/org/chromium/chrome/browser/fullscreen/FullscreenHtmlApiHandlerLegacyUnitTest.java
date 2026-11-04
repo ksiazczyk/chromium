@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenHtmlApiHandlerLegacy unit tests
+// summary: Robolectric unit tests for FullscreenHtmlApiHandlerLegacy, checking fullscreen request handling and cancellation with edge-to-edge fullscreen features enabled.
+// ---
+
 package org.chromium.chrome.browser.fullscreen;
 
 import static android.view.Display.INVALID_DISPLAY;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for FeedSurfaceMediator
+// summary: Robolectric tests for the feed surface mediator covering span counts, preference changes, signin state, and gesture navigation.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.junit.Assert.assertEquals;

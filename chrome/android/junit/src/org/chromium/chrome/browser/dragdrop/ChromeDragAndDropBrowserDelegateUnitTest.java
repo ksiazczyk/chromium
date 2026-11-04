@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeDragAndDropBrowserDelegate
+// summary: Robolectric unit tests covering the browser-side drag-and-drop delegate, including drag permissions, clip data handling and tab drop intents.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom tab toolbar test utilities
+// summary: Helper that inflates a real CustomTabToolbar with its close button for tests outside this package.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import android.content.Context;

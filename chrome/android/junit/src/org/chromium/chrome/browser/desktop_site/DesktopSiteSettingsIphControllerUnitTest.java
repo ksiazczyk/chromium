@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop site settings IPH controller unit tests
+// summary: Robolectric unit tests for DesktopSiteSettingsIphController, verifying in-product help triggers for desktop site settings using mocked tabs, trackers, and message dispatchers.
+// ---
+
 package org.chromium.chrome.browser.desktop_site;
 
 import static org.mockito.ArgumentMatchers.any;

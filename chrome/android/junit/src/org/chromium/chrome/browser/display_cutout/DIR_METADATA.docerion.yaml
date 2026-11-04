@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Display cutout tests directory metadata
+summary: DIR_METADATA entry that inherits the common metadata of the display cutout browser source directory via a mixin.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActivityProfileProviderTest
+// summary: Robolectric unit tests verifying ActivityProfileProvider profile initialization, destruction handling and incognito OTR profile behavior.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import static org.mockito.ArgumentMatchers.eq;

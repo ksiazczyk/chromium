@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoWindowNightModeStateProviderUnitTest
+// summary: Robolectric unit tests verifying that IncognitoWindowNightModeStateProvider sets local night mode on initialization.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import static org.mockito.Mockito.verify;

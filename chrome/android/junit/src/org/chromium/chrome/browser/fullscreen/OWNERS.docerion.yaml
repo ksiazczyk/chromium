@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Chromium OWNERS file that forwards ownership to the OWNERS file of the fullscreen Java source directory, so its reviewers also cover these tests.

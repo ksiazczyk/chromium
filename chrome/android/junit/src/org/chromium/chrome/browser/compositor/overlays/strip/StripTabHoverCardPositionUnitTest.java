@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StripTabHoverCardPositionUnitTest
+// summary: Robolectric unit tests verifying the positioning of TabHoverCardView on the Chrome Android tab strip.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.junit.Assert.assertEquals;

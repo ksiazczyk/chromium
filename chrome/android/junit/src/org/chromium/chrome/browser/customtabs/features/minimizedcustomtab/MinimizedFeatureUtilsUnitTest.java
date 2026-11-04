@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MinimizedFeatureUtils unit tests
+// summary: Robolectric unit tests verifying when the minimized custom tab feature is available, including picture-in-picture support and low-end devices.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.minimizedcustomtab;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartialCustomTabVersionCompatTest
+// summary: Robolectric test for PartialCustomTabVersionCompat verifying that the x offset excludes display cutout width across landscape rotations.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import static org.junit.Assert.assertEquals;

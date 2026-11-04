@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu coordinator unit tests
+// summary: Robolectric unit tests for the Android context menu coordinator, covering menu item display, submenus and dialog behavior.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.hamcrest.MatcherAssert.assertThat;

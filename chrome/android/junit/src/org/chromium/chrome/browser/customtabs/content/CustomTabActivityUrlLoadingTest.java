@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab Activity URL Loading Tests
+// summary: Robolectric integration tests verifying that URLs are loaded correctly in Custom Tabs under different conditions.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static org.junit.Assert.assertEquals;

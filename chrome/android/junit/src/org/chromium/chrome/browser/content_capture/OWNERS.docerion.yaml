@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the content_capture JUnit tests
+summary: Redirects to the OWNERS file of the corresponding Java source directory to define approvers for this folder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadUtilsUnitTest
+// summary: Robolectric unit tests for DownloadUtils helper methods and preferred app routing when opening downloaded files.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CurrentPageVerifierTest
+// summary: Robolectric unit tests for CurrentPageVerifier, covering origin verification of the current custom tab page including blob and data URLs.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller;
 
 import static org.junit.Assert.assertEquals;

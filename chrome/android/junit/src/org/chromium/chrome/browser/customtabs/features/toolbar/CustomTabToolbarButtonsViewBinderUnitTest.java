@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom tab toolbar buttons view binder unit tests
+// summary: Robolectric unit tests binding custom tab toolbar button properties such as close, minimize, and maximize buttons to views.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import static org.hamcrest.MatcherAssert.assertThat;

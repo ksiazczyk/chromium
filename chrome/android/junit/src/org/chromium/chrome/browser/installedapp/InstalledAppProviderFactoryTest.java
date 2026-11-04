@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstalledAppProviderFactory unit tests
+// summary: JUnit tests verifying that InstalledAppProviderFactory creates an InstalledAppProvider only for outermost main frames and otherwise terminates the renderer with a bad-message error.
+// ---
+
 package org.chromium.chrome.browser.installedapp;
 
 import static org.junit.Assert.assertNotNull;

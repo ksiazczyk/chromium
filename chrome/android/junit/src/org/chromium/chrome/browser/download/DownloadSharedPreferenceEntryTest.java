@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadSharedPreferenceEntryTest
+// summary: Robolectric unit tests for parsing and serializing DownloadSharedPreferenceEntry download notification entries across preference format versions.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.junit.Assert.assertEquals;

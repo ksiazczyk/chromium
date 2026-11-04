@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AreaMotionEventFilter unit tests
+// summary: Robolectric unit tests verifying how AreaMotionEventFilter intercepts hover enter, move and exit events inside and outside its trigger area in Chrome's Android compositor event filtering.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.eventfilter;
 
 import static org.mockito.ArgumentMatchers.anyFloat;

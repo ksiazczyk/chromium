@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PostMessageHandler unit tests
+// summary: Robolectric unit tests for PostMessageHandler covering message channels, ports and postMessage communication with custom tab web contents.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import static org.junit.Assert.assertEquals;

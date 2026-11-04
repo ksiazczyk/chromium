@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisclosureNotificationTest
+// summary: Robolectric tests for DisclosureNotification that verify lifecycle registration and that the disclosure notification is displayed on the high or low priority web apps channel.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.view;
 
 import static org.junit.Assert.assertEquals;

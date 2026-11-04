@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Strip stacker unit tests
+// summary: Robolectric tests for StripStacker tab positioning and new tab button placement, including RTL layouts.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.hamcrest.MatcherAssert.assertThat;

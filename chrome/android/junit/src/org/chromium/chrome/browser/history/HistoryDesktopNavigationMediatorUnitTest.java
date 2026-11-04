@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoryDesktopNavigationMediator unit tests
+// summary: Robolectric unit tests verifying that the desktop history navigation pane model list is populated with History and Clear browsing data entries and working click handlers.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static org.junit.Assert.assertEquals;

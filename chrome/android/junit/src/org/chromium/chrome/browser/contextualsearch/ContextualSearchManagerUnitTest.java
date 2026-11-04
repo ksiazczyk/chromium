@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextualSearchManagerUnitTest
+// summary: Robolectric unit tests for ContextualSearchManager, including handling of search term resolution with a null selection.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import static org.junit.Assert.assertEquals;

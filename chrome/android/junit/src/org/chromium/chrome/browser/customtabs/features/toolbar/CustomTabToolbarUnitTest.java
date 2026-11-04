@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom tab toolbar unit tests
+// summary: Robolectric unit tests for the custom tab toolbar covering AMP URL handling and toolbar behavior.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import static org.junit.Assert.assertEquals;

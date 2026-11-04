@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentCaptureHistoryDeletionObserverTest
+// summary: Robolectric unit tests verifying that ContentCaptureHistoryDeletionObserver clears content capture data for deleted history URLs, time ranges, and all time.
+// ---
+
 package org.chromium.chrome.browser.content_capture;
 
 import static org.mockito.ArgumentMatchers.any;

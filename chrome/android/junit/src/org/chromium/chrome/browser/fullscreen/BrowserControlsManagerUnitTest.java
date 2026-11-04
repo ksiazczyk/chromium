@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserControlsManager unit tests
+// summary: Robolectric unit tests for BrowserControlsManager, covering browser controls offset handling, visibility delegates, and tab-related control state in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.fullscreen;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

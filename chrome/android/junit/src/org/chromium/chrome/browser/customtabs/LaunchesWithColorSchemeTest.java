@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LaunchesWithColorScheme tests
+// summary: Robolectric tests checking that CustomTabActivity launches with the requested light or dark color scheme from the intent.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.junit.Assert.assertEquals;

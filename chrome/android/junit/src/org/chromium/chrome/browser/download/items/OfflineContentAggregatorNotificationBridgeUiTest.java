@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OfflineContentAggregatorNotificationBridgeUi
+// summary: JUnit tests verifying that OfflineContentAggregatorNotificationBridgeUi interacts with the DownloadNotifier and OfflineContentProvider in the expected ways.
+// ---
+
 package org.chromium.chrome.browser.download.items;
 
 import static org.mockito.ArgumentMatchers.argThat;

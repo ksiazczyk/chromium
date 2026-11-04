@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the contextmenu test directory
+summary: Chromium DEPS rules allowing includes from the embedder_support Android components for the contextmenu JUnit test directory.

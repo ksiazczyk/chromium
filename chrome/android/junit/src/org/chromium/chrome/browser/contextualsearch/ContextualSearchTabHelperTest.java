@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextualSearchTabHelperTest
+// summary: Robolectric tests for ContextualSearchTabHelper verifying lazy JNI initialization, behavior without WebContents, and cleanup on destroy.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import static org.junit.Assert.assertNotNull;

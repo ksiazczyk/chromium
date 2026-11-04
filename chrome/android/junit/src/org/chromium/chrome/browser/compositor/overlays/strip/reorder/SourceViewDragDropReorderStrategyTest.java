@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: SourceViewDragDropReorderStrategyTest
+// summary: Robolectric tests for SourceViewDragDropReorderStrategy, verifying delegation to tab, multi-tab, and group reorder strategies during source-view drag-drop.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoryAdapter unit tests
+// summary: Robolectric tests for HistoryAdapter covering initialization, paging, source app visibility, search behavior, and history item handling.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static org.mockito.Mockito.doReturn;

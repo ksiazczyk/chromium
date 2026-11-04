@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: ExternalViewDragDropReorderStrategyTest
+// summary: Robolectric tests for ExternalViewDragDropReorderStrategy, covering tab and tab group reordering driven by drag-drop data from external views.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.junit.Assert.assertEquals;

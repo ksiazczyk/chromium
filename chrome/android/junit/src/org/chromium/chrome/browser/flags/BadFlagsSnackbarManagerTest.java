@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BadFlagsSnackbarManagerTest
+// summary: Robolectric unit tests verifying that BadFlagsSnackbarManager creates the correct unsupported-flag snackbar and handles a null SnackbarManager without crashing.
+// ---
+
 package org.chromium.chrome.browser.flags;
 
 import android.app.Activity;

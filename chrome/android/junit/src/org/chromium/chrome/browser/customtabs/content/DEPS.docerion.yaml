@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS Include Rules for the Content Test Folder
+summary: Chromium DEPS rule allowing this test folder to include GestureListenerManagerImpl from the content browser sources.

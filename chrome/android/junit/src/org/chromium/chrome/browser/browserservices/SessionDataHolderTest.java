@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionDataHolder unit tests
+// summary: Robolectric unit tests for SessionDataHolder verifying active handler lookup and session matching for custom tab activities.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import static org.junit.Assert.assertEquals;

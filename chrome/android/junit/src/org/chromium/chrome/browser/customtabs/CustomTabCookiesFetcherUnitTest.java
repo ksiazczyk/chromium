@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabCookiesFetcherUnitTest
+// summary: Robolectric test for CustomTabCookiesFetcher checking cookie file restoration, cleanup of expired cookie files and retrieval of CCT cookie files.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import org.hamcrest.MatcherAssert;

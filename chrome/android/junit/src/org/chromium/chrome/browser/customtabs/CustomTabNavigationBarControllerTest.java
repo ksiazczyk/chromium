@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabNavigationBarControllerTest
+// summary: Robolectric tests for CustomTabNavigationBarController verifying navigation bar and divider color updates, including edge-to-edge and dark button cases.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.junit.Assert.assertFalse;

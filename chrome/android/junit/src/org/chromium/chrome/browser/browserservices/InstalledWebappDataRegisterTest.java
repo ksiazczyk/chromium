@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstalledWebappDataRegister unit tests
+// summary: Robolectric tests for InstalledWebappDataRegister covering registration, deregistration, origin lookup and migration of legacy stored data.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu mediator unit tests
+// summary: Robolectric unit tests for the context menu mediator, covering item clicks, dismissal and submenu navigation.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.hamcrest.CoreMatchers.equalTo;

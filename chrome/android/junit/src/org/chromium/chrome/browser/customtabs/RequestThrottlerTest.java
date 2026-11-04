@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestThrottlerTest
+// summary: Robolectric tests verifying that RequestThrottler bans UIDs whose prerender requests are not matched by successful loads.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.Context;

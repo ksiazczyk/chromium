@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the browserservices test directory
+summary: Defines include rules allowing this test directory to depend on chrome/browser/android/browserservices.

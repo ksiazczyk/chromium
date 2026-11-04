@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PhotoPickerDelegateImplTest
+// summary: Robolectric unit tests checking that PhotoPickerDelegateImpl blocks the file picker while an ephemeral tab is open.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import static org.junit.Assert.assertFalse;

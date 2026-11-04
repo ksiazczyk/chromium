@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationChannelPreserverTest
+// summary: Robolectric tests for NotificationChannelPreserver, checking that pre-install notification permissions are saved when site channels are deleted.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import static org.mockito.ArgumentMatchers.any;

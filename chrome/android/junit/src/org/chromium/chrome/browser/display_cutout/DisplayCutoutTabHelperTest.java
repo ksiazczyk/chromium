@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayCutoutTabHelperTest
+// summary: Robolectric unit tests for the DisplayCutoutTabHelper delegate that handles display cutout insets in custom tab activities.
+// ---
+
 package org.chromium.chrome.browser.display_cutout;
 
 import static org.junit.Assert.assertEquals;

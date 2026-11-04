@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom tab toolbar coordinator unit tests
+// summary: Robolectric tests for the custom tab toolbar coordinator covering custom share actions and desktop windowing.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import static org.junit.Assert.assertNotNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DigitalGoodsConverterTest
+// summary: Robolectric JUnit tests verifying that digital goods parameters, item details, purchases and response codes convert correctly between Android Bundles and payment mojom types.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import static org.junit.Assert.assertArrayEquals;

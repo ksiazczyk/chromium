@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabActivityLifecycleUmaTracker unit tests
+// summary: Robolectric unit tests verifying UMA recording for retainable Custom Tab sessions based on client package, referrer, task ID, and URL.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabsFilterTouch unit tests
+// summary: Robolectric test verifying that CustomTabActivity accepts touch events while resumed and discards them while paused.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.junit.Assert.assertFalse;

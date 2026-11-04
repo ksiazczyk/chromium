@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu item view tests
+// summary: Robolectric tests for the context menu item view and its binder, checking item text, share icon visibility and click handling.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.hamcrest.CoreMatchers.equalTo;

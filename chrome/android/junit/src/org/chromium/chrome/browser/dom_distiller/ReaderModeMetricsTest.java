@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader Mode metrics unit tests
+// summary: Unit tests verifying Reader Mode metrics reporting for user actions, histograms, and entry points.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import org.junit.After;

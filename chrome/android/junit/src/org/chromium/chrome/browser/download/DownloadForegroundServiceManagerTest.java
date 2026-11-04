@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadForegroundServiceManagerTest
+// summary: Robolectric tests for DownloadForegroundServiceManager covering service binding, notification updates, and foreground service lifecycle using a mock manager.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.junit.Assert.assertEquals;

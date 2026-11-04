@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AsyncInitTaskRunnerTest
+// summary: Robolectric unit tests covering AsyncInitTaskRunner background library loading, failure handling and variations seed fetching.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import static org.junit.Assert.assertTrue;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader Mode action rate limiter unit tests
+// summary: Robolectric unit tests verifying suppression windows, show-count tracking, and observer notifications of the Reader Mode action rate limiter.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import static org.junit.Assert.assertEquals;

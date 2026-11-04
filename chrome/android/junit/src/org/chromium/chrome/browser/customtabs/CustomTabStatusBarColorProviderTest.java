@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabStatusBarColorProvider tests
+// summary: Tests how CustomTabStatusBarColorProvider resolves status bar colors from user-provided toolbar colors and tab theme color settings.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.mockito.Mockito.times;

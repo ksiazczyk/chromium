@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationPermissionUpdaterTest
+// summary: Robolectric tests for NotificationPermissionUpdater, verifying notification permissions are updated on origin verification based on the client's Trusted Web Activity service.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import static org.mockito.ArgumentMatchers.any;

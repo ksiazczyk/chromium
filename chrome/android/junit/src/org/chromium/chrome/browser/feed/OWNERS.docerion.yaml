@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the feed test directory
+summary: Delegates review ownership to components/feed OWNERS for host API tests and chrome/android/feed OWNERS for Android-specific tests.

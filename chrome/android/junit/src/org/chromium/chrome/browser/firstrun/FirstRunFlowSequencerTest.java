@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FirstRunFlowSequencerTest
+// summary: Robolectric tests for FirstRunFlowSequencer, checking the core logic that decides which pages are shown during the first run experience.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static org.junit.Assert.assertEquals;

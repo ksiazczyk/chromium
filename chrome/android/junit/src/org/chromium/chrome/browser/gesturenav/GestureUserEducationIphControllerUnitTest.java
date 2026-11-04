@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GestureUserEducationIphController unit tests
+// summary: Robolectric unit tests for the gesture user education IPH controller, covering scrim display, back press handling, and feature engagement tracker behavior.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import static org.mockito.ArgumentMatchers.any;

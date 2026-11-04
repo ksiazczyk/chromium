@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabsOpenTimeRecorder tests
+// summary: Tests package name reporting and close-cause histogram recording for CustomTabsOpenTimeRecorder, including AuthTab cases.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.junit.Assert.assertEquals;

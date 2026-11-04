@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for FeedItemDecoration
+// summary: Robolectric tests verifying how FeedItemDecoration draws rounded corner backgrounds for feed list items.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.mockito.ArgumentMatchers.eq;

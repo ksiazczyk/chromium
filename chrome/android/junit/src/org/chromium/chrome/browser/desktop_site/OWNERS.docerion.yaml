@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Desktop site OWNERS
+summary: OWNERS file that delegates code review ownership to the OWNERS file of the desktop_site Java source directory.

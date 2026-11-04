@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeedbackPolicyManager tests
+// summary: Robolectric tests verifying that FeedbackPolicyManager returns the default or cached feedback-allowed value pre-native and syncs the cache on native initialization and pref changes.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import org.junit.After;

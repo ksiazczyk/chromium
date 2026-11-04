@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositorView unit tests
+// summary: Robolectric tests for CompositorView covering native initialization, surface management, window insets, and XR full space mode.
+// ---
+
 package org.chromium.chrome.browser.compositor;
 
 import static org.junit.Assert.assertEquals;

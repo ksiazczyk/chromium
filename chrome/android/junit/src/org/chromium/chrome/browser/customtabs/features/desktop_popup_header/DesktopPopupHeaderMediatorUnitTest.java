@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopPopupHeaderMediatorUnitTest
+// summary: Robolectric unit tests for DesktopPopupHeaderMediator covering observer registration, teardown, and app header state changes that toggle header visibility.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.desktop_popup_header;
 
 import static org.junit.Assert.assertEquals;

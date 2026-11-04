@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabContextMenuCoordinatorUnitTest
+// summary: Robolectric unit tests for the tab strip context menu coordinator, covering menu items, multi-window and sharing behavior.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.junit.Assert.assertEquals;

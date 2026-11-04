@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab Activity Launch Handler Tests
+// summary: Robolectric integration tests verifying that the Web App Launch Handler API behaves correctly in the Custom Tabs content layer.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static org.mockito.ArgumentMatchers.any;
