@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostTaskAndroid class header
+// summary: Declares the C++ interface for PostTask.java that routes Java-posted tasks through the C++ PostTask APIs once the native scheduler is initialized.
+// ---
+
 #ifndef BASE_ANDROID_TASK_SCHEDULER_POST_TASK_ANDROID_H_
 #define BASE_ANDROID_TASK_SCHEDULER_POST_TASK_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Allocation trace recorder unit tests
+// summary: Unit tests for the allocation trace recorder covering record initialization, stack trace contents, statistics, and binary copyability of the recorder.
+// ---
+
 #include "base/debug/allocation_trace.h"
 
 #include <algorithm>

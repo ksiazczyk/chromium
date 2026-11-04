@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyboardUtilsTest
+// summary: Robolectric unit tests for KeyboardUtils that verify keyboard height is computed from window insets, subtracting visible bottom system bars, clamping at zero, and falling back to legacy computation when the kill-switch feature is disabled.
+// ---
+
 package org.chromium.base.ui;
 
 import static org.junit.Assert.assertEquals;

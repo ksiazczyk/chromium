@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal LRU cache implementation
+// summary: Implements LRUCacheBase with list ordering, a key index, size limits and optional memory-coordinator consumer registration for LRU caches.
+// ---
+
 #ifndef BASE_CONTAINERS_LRU_CACHE_INTERNAL_H_
 #define BASE_CONTAINERS_LRU_CACHE_INTERNAL_H_
 

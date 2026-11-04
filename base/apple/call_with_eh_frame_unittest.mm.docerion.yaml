@@ -1,0 +1,4 @@
+# Docerion header of call_with_eh_frame_unittest.mm.
+type: test
+title: CallWithEHFrame unit tests
+summary: Unit tests verifying exceptions can be caught inside the EH frame and that catching outside it terminates the process.

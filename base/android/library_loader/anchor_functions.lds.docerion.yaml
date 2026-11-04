@@ -1,0 +1,4 @@
+# Docerion header of anchor_functions.lds.
+type: config
+title: Linker script for text section boundary symbols
+summary: Linker script providing hidden symbols for the start and end of the .text section, including the malloc_hook section.

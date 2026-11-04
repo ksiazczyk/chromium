@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::ToValueList header
+// summary: Header defining base::ToValueList, which maps a sized range to a base::ListValue using an optional projection.
+// ---
+
 #ifndef BASE_CONTAINERS_TO_VALUE_LIST_H_
 #define BASE_CONTAINERS_TO_VALUE_LIST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Foundation and CoreFoundation utility declarations
+// summary: Declares helpers for bundle detection, bundle and user directory paths, framework resources, creator codes, and related Apple-platform utilities.
+// ---
+
 #ifndef BASE_APPLE_FOUNDATION_UTIL_H_
 #define BASE_APPLE_FOUNDATION_UTIL_H_
 

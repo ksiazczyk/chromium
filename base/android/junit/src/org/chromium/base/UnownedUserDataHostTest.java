@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnownedUserDataHostTest
+// summary: Robolectric tests for UnownedUserDataHost covering destruction, looper preparation requirements and UI thread handler reuse.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertEquals;

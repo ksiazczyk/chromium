@@ -1,0 +1,4 @@
+# Docerion header of bundle_locations.mm.
+type: source
+title: Bundle location access implementation
+summary: Implements bundle accessors with override support, returning NSBundle objects, URLs, paths, and identifiers.

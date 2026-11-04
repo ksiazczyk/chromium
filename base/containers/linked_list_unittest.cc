@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LinkedList unit tests
+// summary: Unit tests covering append, removal, insertion, forward and backward iteration, and move behavior of the base linked list.
+// ---
+
 #include "base/containers/linked_list.h"
 
 #include <utility>

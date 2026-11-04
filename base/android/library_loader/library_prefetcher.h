@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native library prefetcher declarations
+// summary: Declares the NativeLibraryPrefetcher class that finds the executable code range and prefetches it, ordered sections first.
+// ---
+
 #ifndef BASE_ANDROID_LIBRARY_LOADER_LIBRARY_PREFETCHER_H_
 #define BASE_ANDROID_LIBRARY_LOADER_LIBRARY_PREFETCHER_H_
 

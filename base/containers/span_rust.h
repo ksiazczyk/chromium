@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conversion from base::span to Rust slice
+// summary: Provides SpanToRustSlice, which creates a Rust slice from a byte span for C++ and Rust interop.
+// ---
+
 #ifndef BASE_CONTAINERS_SPAN_RUST_H_
 #define BASE_CONTAINERS_SPAN_RUST_H_
 

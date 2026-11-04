@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWARF compile unit offsets and source line lookup declarations
+// summary: Declares functions to find DWARF compile unit offsets for stack frames and to format the source file, line, and column for a program counter.
+// ---
+
 #ifndef BASE_DEBUG_DWARF_LINE_NO_H_
 #define BASE_DEBUG_DWARF_LINE_NO_H_
 

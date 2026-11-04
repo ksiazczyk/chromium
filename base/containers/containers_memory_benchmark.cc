@@ -48,6 +48,12 @@
 // Alternate output strategies are possible, but most of them are worse/more
 // complex, and do not eliminate the postprocessing step.
 
+// ---docerion
+// type: source
+// title: Container memory benchmark
+// summary: Benchmark framework that logs allocations and frees via allocator hooks to measure the memory overhead of different map container types.
+// ---
+
 #include <array>
 #include <atomic>
 #include <charconv>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helpers for the auto spanification tool
+// summary: Provides temporary span-based begin/end, sizeof, and increment helpers used by the //tools/clang/spanify tool to rewrite raw array and pointer code.
+// ---
+
 #ifndef BASE_CONTAINERS_AUTO_SPANIFICATION_HELPER_H_
 #define BASE_CONTAINERS_AUTO_SPANIFICATION_HELPER_H_
 

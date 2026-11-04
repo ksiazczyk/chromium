@@ -16,6 +16,12 @@
 
 // This file is partially taken from AOSP and keeps its license.
 
+// ---docerion
+// type: source
+// title: Ashmem shared memory wrapper declarations
+// summary: Declares minimal low-level wrappers for ashmem-backed shared memory operations that abstract away differences between Android OS releases.
+// ---
+
 #ifndef BASE_ANDROID_LINKER_ASHMEM_H_
 #define BASE_ANDROID_LINKER_ASHMEM_H_
 

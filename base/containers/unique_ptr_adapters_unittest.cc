@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UniquePtrComparator and UniquePtrMatcher unit tests
+// summary: Unit tests for UniquePtrComparator, UniquePtrMatcher and MatchesUniquePtr, which let sets and vectors of unique_ptr be searched and compared by raw pointer, including raw_ptr and dangling pointer cases.
+// ---
+
 #include "base/containers/unique_ptr_adapters.h"
 
 #include <algorithm>

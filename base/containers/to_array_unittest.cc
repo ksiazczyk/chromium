@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for base::ToArray
+// summary: Unit tests for base::ToArray covering fixed and dynamic spans, arrays, initializer lists, custom element types, projections and move-only elements.
+// ---
+
 #include "base/containers/to_array.h"
 
 #include <memory>

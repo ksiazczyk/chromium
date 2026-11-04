@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceInfoUnitTest
+// summary: Robolectric unit tests for DeviceInfo covering lazy initialization and caching of GMS info, version overrides, and system feature snapshots.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertEquals;

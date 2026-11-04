@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HashingLRUCache container header
+// summary: Defines HashingLRUCache and HashingLRUCacheSet, LRU caches built on absl flat hash maps that provide O(1) insertion, removal, and lookup.
+// ---
+
 #ifndef BASE_CONTAINERS_HASHING_LRU_CACHE_H_
 #define BASE_CONTAINERS_HASHING_LRU_CACHE_H_
 

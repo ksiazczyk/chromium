@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::fixed_flat_map immutable sorted map
+// summary: Defines fixed_flat_map, an immutable std::map-like container stored in a sorted std::array, plus the MakeFixedFlatMap consteval helper for building it from key-value pairs.
+// ---
+
 #ifndef BASE_CONTAINERS_FIXED_FLAT_MAP_H_
 #define BASE_CONTAINERS_FIXED_FLAT_MAP_H_
 

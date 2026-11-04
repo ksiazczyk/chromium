@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped wrapper for CoreFoundation objects
+// summary: Defines ScopedCFTypeRef, a std::unique_ptr-like smart pointer that manages ownership and retain or release of CoreFoundation objects.
+// ---
+
 #ifndef BASE_APPLE_SCOPED_CFTYPEREF_H_
 #define BASE_APPLE_SCOPED_CFTYPEREF_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for span to Rust slice conversion
+// summary: Tests that SpanToRustSlice builds a Rust slice with the expected length and contents from a byte span.
+// ---
+
 #include "base/containers/span_rust.h"
 
 #include <cstdint>

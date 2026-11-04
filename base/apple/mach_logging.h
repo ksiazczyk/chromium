@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach and bootstrap error logging macros
+// summary: Declares the MachLogMessage classes and the MACH_LOG, MACH_CHECK, and BOOTSTRAP_LOG macro families that log Mach and bootstrap errors with decoded messages.
+// ---
+
 #ifndef BASE_APPLE_MACH_LOGGING_H_
 #define BASE_APPLE_MACH_LOGGING_H_
 

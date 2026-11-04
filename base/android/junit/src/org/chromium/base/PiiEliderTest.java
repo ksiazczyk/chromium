@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PiiEliderTest
+// summary: JUnit tests for PiiElider verifying that emails and URLs are elided while file paths, suffixes and APK names are preserved.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertEquals;

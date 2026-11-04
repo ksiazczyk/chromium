@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX and BSD debugger implementation
+// summary: Implements BeingDebugged via sysctl on Apple and BSD platforms plus VerifyDebugger checks for lldb initialization on POSIX systems.
+// ---
+
 #include "base/debug/debugger.h"
 
 #include <errno.h>

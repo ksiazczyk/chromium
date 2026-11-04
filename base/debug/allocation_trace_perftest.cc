@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Allocation trace recorder performance test
+// summary: Performance test measuring duration and throughput of OnAllocation and OnFree recording in the trace recorder across varying numbers of threads.
+// ---
+
 #include "base/debug/allocation_trace.h"
 
 #include <thread>

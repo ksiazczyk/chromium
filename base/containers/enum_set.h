@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnumSet container
+// summary: Implements EnumSet, a type-safe bitset wrapper holding enum values between a min and max value with set operations and an iterator interface.
+// ---
+
 #ifndef BASE_CONTAINERS_ENUM_SET_H_
 #define BASE_CONTAINERS_ENUM_SET_H_
 

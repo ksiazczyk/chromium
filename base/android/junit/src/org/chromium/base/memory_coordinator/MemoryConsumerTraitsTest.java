@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MemoryConsumerTraitsTest
+// summary: JUnit tests for MemoryConsumerTraits, verifying the active traits builder, passive trait defaults, and equals and hashCode behavior.
+// ---
+
 package org.chromium.base.memory_coordinator;
 
 import static org.junit.Assert.assertEquals;

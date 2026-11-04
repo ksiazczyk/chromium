@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia debugger implementation
+// summary: Implements debugger detection via Zircon process info and an async-signal-safe break using abort for Fuchsia.
+// ---
+
 #include "base/debug/debugger.h"
 
 #include <lib/zx/process.h>

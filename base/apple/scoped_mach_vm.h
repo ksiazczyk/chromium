@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMachVM scoper for Mach VM pages
+// summary: Declares ScopedMachVM, a scoper that owns page-aligned Mach VM allocations and deallocates them on scope exit, with reset, swap and release support.
+// ---
+
 #ifndef BASE_APPLE_SCOPED_MACH_VM_H_
 #define BASE_APPLE_SCOPED_MACH_VM_H_
 

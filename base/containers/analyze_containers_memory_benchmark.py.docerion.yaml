@@ -1,0 +1,4 @@
+# Docerion header of analyze_containers_memory_benchmark.py.
+type: script
+title: Container memory benchmark analyzer
+summary: Parses raw output from the containers memory benchmark and writes per-test-case CSV files of container size versus memory usage.

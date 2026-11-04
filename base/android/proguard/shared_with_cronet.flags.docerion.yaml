@@ -1,0 +1,4 @@
+# Docerion header of shared_with_cronet.flags.
+type: config
+title: ProGuard flags shared with Cronet
+summary: Defines ProGuard rules applied both to Chromium APKs and third-party apps bundling Cronet, scoped to org.chromium classes to avoid side effects on app code.

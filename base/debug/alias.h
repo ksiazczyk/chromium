@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alias helper for preserving values in crash dumps
+// summary: Declares base::debug::Alias, strlcpy prototypes, and macros like DEBUG_ALIAS_FOR_CSTR that inhibit optimization of variables, tail calls, and code folding for debugging.
+// ---
+
 #ifndef BASE_DEBUG_ALIAS_H_
 #define BASE_DEBUG_ALIAS_H_
 

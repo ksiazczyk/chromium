@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::Extend vector append helpers
+// summary: Header providing Extend overloads that append elements to a destination vector by moving from another vector or by copying from a range with an optional projection.
+// ---
+
 #ifndef BASE_CONTAINERS_EXTEND_H_
 #define BASE_CONTAINERS_EXTEND_H_
 

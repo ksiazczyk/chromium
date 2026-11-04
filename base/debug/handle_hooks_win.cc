@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows handle close interception hooks implementation
+// summary: Implements IAT and EAT patches that intercept CloseHandle and DuplicateHandle to notify the handle verifier about handles being closed.
+// ---
+
 #include "base/debug/handle_hooks_win.h"
 
 #include <windows.h>

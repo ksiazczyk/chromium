@@ -1,0 +1,4 @@
+# Docerion header of span_nocompile.nc.
+type: test
+title: span no-compile tests
+summary: No-compile test suite asserting that invalid span constructions and conversions, such as mismatched extents, derived-to-base pointer conversions, and const-to-mutable conversions, fail to compile.

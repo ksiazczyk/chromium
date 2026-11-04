@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallWithEHFrame custom exception personality routine
+// summary: Implements a custom C++ exception personality routine that ends the handler search at the EH frame so system try/catch handlers do not disrupt stack traces.
+// ---
+
 #include "base/apple/call_with_eh_frame.h"
 
 #include <stdint.h>

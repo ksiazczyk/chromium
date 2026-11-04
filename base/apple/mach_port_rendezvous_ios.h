@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Mach port rendezvous classes
+// summary: Declares the iOS rendezvous server and client classes used to pass Mach port rights to a spawned process via XPC.
+// ---
+
 #ifndef BASE_APPLE_MACH_PORT_RENDEZVOUS_IOS_H_
 #define BASE_APPLE_MACH_PORT_RENDEZVOUS_IOS_H_
 

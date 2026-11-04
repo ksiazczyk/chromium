@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MutableBooleanParamWithSafeDefaultUnitTest
+// summary: Unit tests for MutableBooleanParamWithSafeDefault covering duplicate detection, defaults, native initialization and annotation overrides.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertFalse;

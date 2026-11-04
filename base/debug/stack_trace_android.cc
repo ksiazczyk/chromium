@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android stack trace implementation
+// summary: Implements stack trace collection via unwinding and prints traces through the Android log with relocatable addresses for host symbolization.
+// ---
+
 #include "base/debug/stack_trace.h"
 
 #include <android/log.h>

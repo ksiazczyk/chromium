@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal ReversedAdapter implementation
+// summary: Implements the internal ReversedAdapter class backing base::Reversed with reverse iterators and optional size support for sized ranges.
+// ---
+
 #ifndef BASE_CONTAINERS_ADAPTERS_INTERNAL_H_
 #define BASE_CONTAINERS_ADAPTERS_INTERNAL_H_
 

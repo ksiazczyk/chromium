@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ApplicationStatusTest
+// summary: Robolectric unit tests for ApplicationStatus that track activity state and window callbacks using a custom shadow activity.
+// ---
+
 package org.chromium.base;
 
 import static org.mockito.Mockito.mock;

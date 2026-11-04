@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debugger detection and break helpers implementation
+// summary: Implements base::debug functions to wait for a debugger, break into it, and suppress debug UI, with Clang profiling support on break.
+// ---
+
 #include "base/debug/debugger.h"
 
 #include "base/clang_profiling_buildflags.h"

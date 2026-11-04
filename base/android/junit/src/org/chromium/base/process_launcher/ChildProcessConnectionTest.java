@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChildProcessConnection unit tests
+// summary: JUnit and Robolectric unit tests for ChildProcessConnection, covering service binding, unbinding, group importance updates, and connection state changes with mocked service connections.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import static org.junit.Assert.assertEquals;

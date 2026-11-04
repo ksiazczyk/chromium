@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Mach port rights implementation
+// summary: Implements trait-based deallocation for scoped Mach send rights, receive rights, and port sets, plus helpers to create and retain Mach ports.
+// ---
+
 #include "base/apple/scoped_mach_port.h"
 
 #include "base/apple/mach_logging.h"

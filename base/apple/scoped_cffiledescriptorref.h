@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped wrapper for CFFileDescriptorRef
+// summary: Defines ScopedCFFileDescriptorRef, a scoped wrapper that invalidates and releases a CoreFoundation file descriptor on destruction.
+// ---
+
 #ifndef BASE_APPLE_SCOPED_CFFILEDESCRIPTORREF_H_
 #define BASE_APPLE_SCOPED_CFFILEDESCRIPTORREF_H_
 

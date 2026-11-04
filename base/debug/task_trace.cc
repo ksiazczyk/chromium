@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task trace implementation
+// summary: Implements TaskTrace, which prints the chain of posted tasks that led to the current task, routing output to the Android log when needed.
+// ---
+
 #include "base/debug/task_trace.h"
 
 #include <algorithm>

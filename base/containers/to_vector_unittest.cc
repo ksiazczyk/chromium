@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for base::ToVector
+// summary: Unit tests for base::ToVector covering identity, projections, custom element types, move-only elements, array construction, constexpr evaluation and type deduction.
+// ---
+
 #include "base/containers/to_vector.h"
 
 #include <forward_list>

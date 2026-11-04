@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Orderfile instrumentation implementation
+// summary: Implements lock-free recording of executed code offsets across phases and dumping them to orderfiles for Android, including DevTools-triggered memory dumps.
+// ---
+
 #include "base/android/orderfile/orderfile_instrumentation.h"
 
 #include <time.h>

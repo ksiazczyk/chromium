@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntrusiveHeap container with stable heap handles
+// summary: Defines a max-heap over a vector supporting O(log n) insert, removal and update via per-element heap handles, with detailed usage examples.
+// ---
+
 #ifndef BASE_CONTAINERS_INTRUSIVE_HEAP_H_
 #define BASE_CONTAINERS_INTRUSIVE_HEAP_H_
 

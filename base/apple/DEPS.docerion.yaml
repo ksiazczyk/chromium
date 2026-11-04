@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for base/apple
+summary: Defines include rules that prevent base/apple from depending on base/mac and base/ios.

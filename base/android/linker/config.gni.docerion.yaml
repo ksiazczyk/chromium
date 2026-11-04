@@ -1,0 +1,4 @@
+# Docerion header of config.gni.
+type: config
+title: Linker support build configuration
+summary: GN configuration that sets chromium_linker_supported based on component build, profiling, order profiling and ASan settings.

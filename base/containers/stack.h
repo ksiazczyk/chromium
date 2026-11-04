@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::stack alias backed by circular_deque
+// summary: Defines base::stack as std::stack with base::circular_deque as the default underlying container.
+// ---
+
 #ifndef BASE_CONTAINERS_STACK_H_
 #define BASE_CONTAINERS_STACK_H_
 

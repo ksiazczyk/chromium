@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyPrefixTest
+// summary: JUnit tests for the KeyPrefix class, checking key creation from patterns, generated-key matching, and assertion errors for invalid patterns.
+// ---
+
 package org.chromium.base.shared_preferences;
 
 import static org.junit.Assert.assertEquals;

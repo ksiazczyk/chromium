@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Macros for wrapping C++ classes for Swift interop
+// summary: Declares macros that generate wrapper classes and reference-type helpers so C++ types such as callbacks and refcounted classes can be used from Swift.
+// ---
+
 #ifndef BASE_APPLE_SWIFT_INTEROP_UTIL_H_
 #define BASE_APPLE_SWIFT_INTEROP_UTIL_H_
 

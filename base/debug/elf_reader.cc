@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ELF binary metadata reader implementation
+// summary: Implements reading of the GNU build ID, library name, program headers, and relocation offset from memory-mapped ELF binaries.
+// ---
+
 #include "base/debug/elf_reader.h"
 
 #include <arpa/inet.h>

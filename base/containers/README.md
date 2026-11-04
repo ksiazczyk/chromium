@@ -1,3 +1,11 @@
+---
+type: readme
+title: base/containers library
+summary: Explains what belongs in the containers library and gives usage advice for choosing maps, sets, deques, and stacks, with implementation details and safety notes.
+relations:
+  - references /base/README.md
+---
+
 # base/containers library
 
 [TOC]

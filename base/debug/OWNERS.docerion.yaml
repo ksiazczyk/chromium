@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for base/debug
+summary: Lists code owners for the debug directory and delegates ASan-related files to the MiraclePtr owners via a per-file rule.

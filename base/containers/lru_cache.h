@@ -13,6 +13,12 @@
 // The key object (which is identical to the value, in the Set variations) will
 // be stored twice, so it should support efficient copying.
 
+// ---docerion
+// type: source
+// title: LRU cache public templates
+// summary: Defines base::LRUCache and base::LRUCacheSet aliases over the internal LRU cache base, providing constant-time access with least-recently-used eviction.
+// ---
+
 #ifndef BASE_CONTAINERS_LRU_CACHE_H_
 #define BASE_CONTAINERS_LRU_CACHE_H_
 

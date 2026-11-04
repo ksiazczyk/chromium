@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IDMap container header
+// summary: Defines IDMap, a hash-table-based map from unique IDs to dereferenceable values with sequence-checked, iteration-safe add, remove, replace, and lookup operations.
+// ---
+
 #ifndef BASE_CONTAINERS_ID_MAP_H_
 #define BASE_CONTAINERS_ID_MAP_H_
 

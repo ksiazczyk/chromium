@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MemoryConsumerRegistrationTest
+// summary: JUnit tests for MemoryConsumerRegistration and MemoryConsumer, covering registration lifecycle, callback dispatch, idempotent close, and flushing of pre-native registrations.
+// ---
+
 package org.chromium.base.memory_coordinator;
 
 import static org.junit.Assert.assertEquals;

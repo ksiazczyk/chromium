@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWARF line number program parser
+// summary: Parses DWARF-4 line number programs to map code addresses to source files and lines for in-process stack symbolization.
+// ---
+
 #include "base/debug/dwarf_line_no.h"
 
 #include "base/compiler_specific.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KnownPreferenceKeyRegistriesTest
+// summary: JUnit tests for KnownPreferenceKeyRegistries, verifying that unknown registries trigger assertions while known ones may be used before and after initialization.
+// ---
+
 package org.chromium.base.shared_preferences;
 
 import static org.junit.Assert.fail;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferIterator for bounds-checked buffer reading
+// summary: Bounds-checked utility for reading variable-length heterogeneous structures from a byte buffer, advancing as objects or spans are extracted.
+// ---
+
 #ifndef BASE_CONTAINERS_BUFFER_ITERATOR_H_
 #define BASE_CONTAINERS_BUFFER_ITERATOR_H_
 

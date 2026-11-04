@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MemoryPurgeManagerTest
+// summary: Robolectric unit tests for MemoryPurgeManager verifying delayed background purge notifications, self-freeze behavior and background duration histogram recording.
+// ---
+
 package org.chromium.base.memory;
 
 import android.os.Looper;

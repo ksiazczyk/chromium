@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type-safe CF to NS bridging casts
+// summary: Provides macros defining type-safe casts between Core Foundation and Foundation types, with ownership-transferring and pointer-only variants.
+// ---
+
 #ifndef BASE_APPLE_BRIDGING_H_
 #define BASE_APPLE_BRIDGING_H_
 

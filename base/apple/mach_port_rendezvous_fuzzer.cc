@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: libFuzzer target for the Mach port rendezvous server
+// summary: Feeds proto-generated Mach messages to the macOS rendezvous server to fuzz its message handling for robustness issues.
+// ---
+
 #include "base/apple/mach_port_rendezvous.h"
 
 #include "base/apple/mach_logging.h"

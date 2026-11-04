@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ wrappers for owning Objective-C objects
+// summary: Declares strong and weak C++ wrapper classes that let pure C++ code hold references to Objective-C objects without becoming Objective-C++ code.
+// ---
+
 #ifndef BASE_APPLE_OWNED_OBJC_H_
 #define BASE_APPLE_OWNED_OBJC_H_
 

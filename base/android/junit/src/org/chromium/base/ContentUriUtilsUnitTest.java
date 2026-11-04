@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentUriUtilsUnitTest
+// summary: Robolectric unit tests for ContentUriUtils covering openable-file detection and reading text from content URIs with mocked resolvers.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertEquals;

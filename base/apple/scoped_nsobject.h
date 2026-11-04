@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: scoped_nsobject and scoped_nsprotocol smart pointers
+// summary: Declares scoped_nsobject and scoped_nsprotocol templates that manage ownership of NSObject subclasses and protocols, forbidding use with NSAutoreleasePool.
+// ---
+
 #ifndef BASE_APPLE_SCOPED_NSOBJECT_H_
 #define BASE_APPLE_SCOPED_NSOBJECT_H_
 

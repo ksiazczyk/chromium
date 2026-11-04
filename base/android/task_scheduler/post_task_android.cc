@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostTaskAndroid JNI bridge implementation
+// summary: Implements the JNI bridge to Java PostTask, signaling native scheduler readiness and resetting task runners for testing.
+// ---
+
 #include "base/android/task_scheduler/post_task_android.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

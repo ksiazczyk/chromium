@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach and bootstrap error logging implementation
+// summary: Implements logging message classes that append decoded Mach and bootstrap error descriptions to log output, with fatal variants that crash the process.
+// ---
+
 #include "base/apple/mach_logging.h"
 
 #include <iomanip>

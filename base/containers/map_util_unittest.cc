@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MapUtil unit tests
+// summary: Unit tests for the map lookup helpers in base/containers/map_util.h, covering FindOrNull and FindPtrOrNull with raw, const, and smart pointer values plus homogeneous and heterogeneous keys.
+// ---
+
 #ifndef BASE_CONTAINERS_MAP_UTIL_UNITTEST_CC_
 #define BASE_CONTAINERS_MAP_UTIL_UNITTEST_CC_
 

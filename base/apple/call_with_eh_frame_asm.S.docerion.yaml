@@ -1,0 +1,4 @@
+# Docerion header of call_with_eh_frame_asm.S.
+type: source
+title: CallWithEHFrame assembly for x86_64 and arm64
+summary: Assembly implementation of CallWithEHFrame with CFI directives and exception tables that install the custom personality routine on x86_64 and arm64.

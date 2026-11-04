@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValueChangedCallbackTest
+// summary: Robolectric unit tests for ValueChangedCallback, verifying observer callbacks fire with new and old values and that duplicate values are ignored.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VectorBuffer unit tests
+// summary: Unit tests covering VectorBuffer destruction, move-construct and copy-to-move behavior for POD, move-only and copy-only element types.
+// ---
+
 #include "base/containers/vector_buffer.h"
 
 #include "base/compiler_specific.h"

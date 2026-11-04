@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::fixed_flat_set immutable sorted set
+// summary: Defines fixed_flat_set, an immutable std::set-like container stored in a sorted std::array, plus MakeFixedFlatSet consteval helpers for sorted and auto-sorted construction.
+// ---
+
 #ifndef BASE_CONTAINERS_FIXED_FLAT_SET_H_
 #define BASE_CONTAINERS_FIXED_FLAT_SET_H_
 

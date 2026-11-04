@@ -1,0 +1,4 @@
+# Docerion header of to_value_list_nocompile.nc.
+type: test
+title: No-compile tests for ToValueList
+summary: No-compile test suite verifying that ToValueList rejects initializer lists, invalid move-only projections and projection return types not appendable to ListValue.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intrusive doubly linked list container
+// summary: Defines LinkNode and LinkedList templates for an intrusive doubly linked list with O(1) erase and no heap allocations, including guidance versus std::list.
+// ---
+
 #ifndef BASE_CONTAINERS_LINKED_LIST_H_
 #define BASE_CONTAINERS_LINKED_LIST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTypeRef template for retained object references
+// summary: Defines a ScopedTypeRef smart-pointer template that manages retain/release ownership of Core Foundation-style types using ASSUME and RETAIN ownership policies.
+// ---
+
 #ifndef BASE_APPLE_SCOPED_TYPEREF_H_
 #define BASE_APPLE_SCOPED_TYPEREF_H_
 

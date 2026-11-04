@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToArray utility for converting ranges to std::array
+// summary: Defines base::ToArray to convert fixed- or dynamic-extent contiguous ranges into std::array, with optional projection for element mapping.
+// ---
+
 #ifndef BASE_CONTAINERS_TO_ARRAY_H_
 #define BASE_CONTAINERS_TO_ARRAY_H_
 

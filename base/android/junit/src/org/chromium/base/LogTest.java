@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LogTest
+// summary: Unit tests for the Log class, covering tag normalization and correct handling of throwables passed to log calls.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertEquals;

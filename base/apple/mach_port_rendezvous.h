@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach port rendezvous for passing ports to child processes
+// summary: Declares the Mach port rendezvous API that lets a parent process register Mach port rights for a child process to acquire over Mach IPC.
+// ---
+
 #ifndef BASE_APPLE_MACH_PORT_RENDEZVOUS_H_
 #define BASE_APPLE_MACH_PORT_RENDEZVOUS_H_
 

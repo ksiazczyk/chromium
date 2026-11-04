@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StrictPreferenceKeyCheckerTest
+// summary: JUnit tests for StrictPreferenceKeyChecker, verifying that registered keys and prefixes pass checks while unregistered ones and pattern-only matches throw exceptions.
+// ---
+
 package org.chromium.base.shared_preferences;
 
 import org.junit.Before;

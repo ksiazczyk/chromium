@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IDMap unit tests
+// summary: Unit tests for IDMap covering basic add, lookup, replace, and remove operations plus iterator validity while elements are removed during iteration.
+// ---
+
 #include "base/containers/id_map.h"
 
 #include <stdint.h>

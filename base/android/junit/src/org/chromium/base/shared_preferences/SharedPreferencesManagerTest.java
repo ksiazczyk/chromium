@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedPreferencesManagerTest
+// summary: JUnit tests for SharedPreferencesManager covering reading, writing, incrementing, and removing typed preference values with a mocked key checker.
+// ---
+
 package org.chromium.base.shared_preferences;
 
 import static org.junit.Assert.assertEquals;

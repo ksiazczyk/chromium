@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ASan service unit tests
+// summary: Death tests verifying AsanService error callbacks, clean exits, aborts, nested faults, and task trace logging under AddressSanitizer.
+// ---
+
 #include "base/debug/asan_service.h"
 
 #if defined(ADDRESS_SANITIZER)

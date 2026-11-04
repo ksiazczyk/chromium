@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Android linker JNI implementation
+// summary: Implements the JNI side of the Chromium custom dynamic linker, including address space reservation, RELRO sharing status and library loading.
+// ---
+
 #include <android/dlext.h>
 #include <android/log.h>
 #include <dlfcn.h>

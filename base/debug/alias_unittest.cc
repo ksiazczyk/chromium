@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Alias helpers
+// summary: Unit tests verifying that DEBUG_ALIAS_FOR_CSTR and DEBUG_ALIAS_FOR_U16CSTR copy strings with correct array types, sizes, and null termination.
+// ---
+
 #include "base/debug/alias.h"
 
 #include <algorithm>

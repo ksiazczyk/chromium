@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for flat_map
+// summary: Unit tests for flat_map constructors, move semantics, and map operations using move-only and copy-tracking types, complementing the flat_tree test suite.
+// ---
+
 #include "base/containers/flat_map.h"
 
 #include <algorithm>

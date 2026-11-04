@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX stack trace implementation
+// summary: Implements stack trace capture, C++ symbol demangling, and backtrace printing for POSIX platforms including Linux, macOS, and iOS.
+// ---
+
 #include "base/debug/stack_trace.h"
 
 #include <errno.h>

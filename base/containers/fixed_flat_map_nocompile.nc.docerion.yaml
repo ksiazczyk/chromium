@@ -1,0 +1,4 @@
+# Docerion header of fixed_flat_map_nocompile.nc.
+type: test
+title: No-compile tests for fixed_flat_map
+summary: No-compile test suite asserting that constructing a fixed_flat_map with duplicate keys fails at compile time via the consteval MakeFixedFlatMap helper.

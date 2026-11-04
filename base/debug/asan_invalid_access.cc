@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intentional ASan invalid access helpers
+// summary: Implements functions that deliberately perform heap overflows, underflows, use-after-free, and heap corruption to trigger AddressSanitizer error reports.
+// ---
+
 #include "base/debug/asan_invalid_access.h"
 
 #include <stddef.h>

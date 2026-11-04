@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux proc maps interface
+// summary: Declares the MappedMemoryRegion struct plus ReadProcMaps and ParseProcMaps functions and SmapsRollup for reading process memory mapping data.
+// ---
+
 #ifndef BASE_DEBUG_PROC_MAPS_LINUX_H_
 #define BASE_DEBUG_PROC_MAPS_LINUX_H_
 

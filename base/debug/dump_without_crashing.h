@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DumpWithoutCrashing API header
+// summary: Declares DumpWithoutCrashing with location-based throttling, dump function registration, and a test-only throttling reset.
+// ---
+
 #ifndef BASE_DEBUG_DUMP_WITHOUT_CRASHING_H_
 #define BASE_DEBUG_DUMP_WITHOUT_CRASHING_H_
 

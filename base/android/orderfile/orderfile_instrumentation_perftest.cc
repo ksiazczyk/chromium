@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Orderfile instrumentation tests and benchmarks
+// summary: Contains gtest unit tests for offset recording behavior and multithreaded performance benchmarks measuring the per-call cost of RecordAddress.
+// ---
+
 #include "base/android/orderfile/orderfile_instrumentation.h"
 
 #include <thread>

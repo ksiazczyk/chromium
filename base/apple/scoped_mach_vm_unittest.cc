@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedMachVM
+// summary: Unit tests verifying ScopedMachVM allocation, deallocation, reset, swap and release behavior against Mach VM region info.
+// ---
+
 #include "base/apple/scoped_mach_vm.h"
 
 #include <mach/mach.h>

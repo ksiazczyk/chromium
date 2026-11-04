@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ASan service class declaration
+// summary: Declares the AsanService class, an abstraction over the AddressSanitizer API for registering error callbacks and logging during crash handling.
+// ---
+
 #ifndef BASE_DEBUG_ASAN_SERVICE_H_
 #define BASE_DEBUG_ASAN_SERVICE_H_
 

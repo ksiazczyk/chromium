@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the orderfile directory
+summary: Lists the Chromium owners responsible for reviewing changes to the orderfile instrumentation directory.

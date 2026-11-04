@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JniCallbacksTest
+// summary: Robolectric tests for JNI callbacks, covering once and repeating closures and callbacks passed between Java and native code.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.CalledByNative;

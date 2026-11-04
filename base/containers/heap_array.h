@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeapArray container header
+// summary: Defines HeapArray<T>, a size-tracking replacement for std::unique_ptr<T[]> with bounds-checked indexing, easy span conversion, and explicit unsafe pointer-taking constructors.
+// ---
+
 #ifndef BASE_CONTAINERS_HEAP_ARRAY_H_
 #define BASE_CONTAINERS_HEAP_ARRAY_H_
 

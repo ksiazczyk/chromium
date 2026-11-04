@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intrusive heap handle storage implementation
+// summary: Implements HeapHandle helpers and the move semantics of InternalHeapHandleStorage that back the base intrusive heap container.
+// ---
+
 #include "base/containers/intrusive_heap.h"
 
 #include "base/check.h"

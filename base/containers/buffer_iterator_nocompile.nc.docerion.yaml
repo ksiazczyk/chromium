@@ -1,0 +1,4 @@
+# Docerion header of buffer_iterator_nocompile.nc.
+type: test
+title: BufferIterator no-compile tests
+summary: No-compile test suite verifying that BufferIterator rejects non-char buffers, invalid object and span reads, and size overflows at compile time.

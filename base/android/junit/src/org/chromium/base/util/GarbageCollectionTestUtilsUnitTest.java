@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GarbageCollectionTestUtilsUnitTest
+// summary: Robolectric unit test verifying that GarbageCollectionTestUtils.canBeGarbageCollected correctly reports whether a weakly referenced Bitmap is eligible for garbage collection.
+// ---
+
 package org.chromium.base.util;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LeakSanitizer memory leak annotations
+// summary: Defines macros to annotate intentional memory leaks so LeakSanitizer treats annotated objects as live and does not report them as leaks.
+// ---
+
 #ifndef BASE_DEBUG_LEAK_ANNOTATIONS_H_
 #define BASE_DEBUG_LEAK_ANNOTATIONS_H_
 

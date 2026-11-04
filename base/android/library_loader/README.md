@@ -1,3 +1,11 @@
+---
+type: readme
+title: Library loader directory README
+summary: Points to the Java library loader code and to a high-level guide on native code for Android.
+relations:
+  - references /docs/android_native_libraries.md
+---
+
 # //base/android/library_loader
 
 Java code lives at:

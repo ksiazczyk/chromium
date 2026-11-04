@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transparent hash and equality functors
+// summary: Header defining TransparentHashAs and TransparentEqualAs functors that project arguments such as spans or smart pointers to a view type before hashing or comparing.
+// ---
+
 #ifndef BASE_CONTAINERS_TRANSPARENT_HASH_H_
 #define BASE_CONTAINERS_TRANSPARENT_HASH_H_
 

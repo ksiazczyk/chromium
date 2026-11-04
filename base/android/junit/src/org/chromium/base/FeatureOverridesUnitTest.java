@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeatureOverridesUnitTest
+// summary: Unit tests for FeatureOverrides covering strict test-value lookups, feature and field trial param overrides, and builder-based application.
+// ---
+
 package org.chromium.base;
 
 import org.junit.Assert;

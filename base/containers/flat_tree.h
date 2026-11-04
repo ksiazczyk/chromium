@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: flat_tree sorted-vector container implementation
+// summary: Implements the sorted-vector backing store shared by flat_set and flat_map, including sorted_unique construction tags, key extraction helpers, and iterator-based algorithms.
+// ---
+
 #ifndef BASE_CONTAINERS_FLAT_TREE_H_
 #define BASE_CONTAINERS_FLAT_TREE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for base::ToValueList
+// summary: Unit tests for base::ToValueList covering identity and projection conversions over vector, set, array and flat_set inputs plus move-only Value handling.
+// ---
+
 #include "base/containers/to_value_list.h"
 
 #include <set>

@@ -1,0 +1,4 @@
+# Docerion header of scoped_nsobject_unittest.mm.
+type: test
+title: Unit tests for scoped_nsobject
+summary: Unit tests covering scoped_nsobject retain counts, copying, moving, autorelease, container use, swap and reset behavior.

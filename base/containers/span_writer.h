@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpanWriter for writing into a span
+// summary: Defines SpanWriter, a bounds-checked writer that writes and skips elements at the front of a mutable span, with endian integer and enum helpers.
+// ---
+
 #ifndef BASE_CONTAINERS_SPAN_WRITER_H_
 #define BASE_CONTAINERS_SPAN_WRITER_H_
 

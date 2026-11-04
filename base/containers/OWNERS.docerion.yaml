@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for base/containers
+summary: Assigns per-file review ownership of the enum_set and auto_spanification_helper headers and tests to the sync and spanify tool teams.

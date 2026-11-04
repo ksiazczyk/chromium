@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CallbackControllerTest
+// summary: Robolectric tests for CallbackController verifying that cancelable callbacks and runnables stop executing after the controller is destroyed.
+// ---
+
 package org.chromium.base;
 
 import static org.mockito.Mockito.times;

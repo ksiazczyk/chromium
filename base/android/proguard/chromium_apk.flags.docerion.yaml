@@ -1,0 +1,4 @@
+# Docerion header of chromium_apk.flags.
+type: config
+title: ProGuard flags for Chromium APKs
+summary: Defines R8 and ProGuard keep, optimization, and assumenosideeffects rules applied to all Chromium APK builds, covering Parcelables, Fragments, stack traces, and proto handling.

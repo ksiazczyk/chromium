@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux proc maps reading and parsing
+// summary: Implements reading /proc/self/maps with gate VMA handling and parsing its contents into mapped memory regions on Linux, ChromeOS and Android.
+// ---
+
 #include "base/debug/proc_maps_linux.h"
 
 #include <fcntl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeakValueTable for weakly owned ref-counted values
+// summary: Header defining WeakValueTable and RefCountedWeakValue, a thread-safe table that weakly owns ref-counted values and supports FindOrCreate keyed access with removal when the last reference is released.
+// ---
+
 #ifndef BASE_CONTAINERS_WEAK_VALUE_TABLE_H_
 #define BASE_CONTAINERS_WEAK_VALUE_TABLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MemoryLimitTest
+// summary: JUnit tests for MemoryLimit, checking default and pressure-level percentages, ratio conversion, scaling with saturation, and equality semantics.
+// ---
+
 package org.chromium.base.memory_coordinator;
 
 import static org.junit.Assert.assertEquals;

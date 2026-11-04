@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WeakValueTable unit tests
+// summary: Unit tests for WeakValueTable covering FindOrCreate, null creation results, destruction of never-inserted values, and races between creation and release across threads.
+// ---
+
 #include "base/containers/weak_value_table.h"
 
 #include <optional>

@@ -5,6 +5,12 @@
 // Defines some functions that intentionally do an invalid memory access in
 // order to trigger an AddressSanitizer (ASan) error report.
 
+// ---docerion
+// type: source
+// title: ASan invalid access declarations
+// summary: Declares helper functions that intentionally cause invalid memory accesses such as heap overflow, underflow, and use-after-free to trigger ASan reports.
+// ---
+
 #ifndef BASE_DEBUG_ASAN_INVALID_ACCESS_H_
 #define BASE_DEBUG_ASAN_INVALID_ACCESS_H_
 

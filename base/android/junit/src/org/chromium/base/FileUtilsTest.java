@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileUtilsTest
+// summary: Robolectric unit tests for FileUtils that exercise file operations in temporary folders with a fake BitmapFactory shadow for image handling.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertEquals;

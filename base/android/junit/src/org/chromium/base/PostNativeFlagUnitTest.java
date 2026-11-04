@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PostNativeFlag unit tests
+// summary: JUnit tests for PostNativeFlag covering duplicate feature errors, feature overrides and default values taken from the feature map.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertFalse;

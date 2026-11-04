@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DispatchSource class header
+// summary: Declares a DispatchSource class encapsulating GCD dispatch sources for Mach receive ports and file descriptors with lifecycle management.
+// ---
+
 #ifndef BASE_APPLE_DISPATCH_SOURCE_H_
 #define BASE_APPLE_DISPATCH_SOURCE_H_
 

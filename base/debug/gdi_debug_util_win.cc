@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Windows GDI handle debugging utilities implementation
+// summary: Implements GDI handle counting and crash diagnostics by inspecting the GDI shared handle table via the Windows PEB on bitmap allocation failures.
+// ---
+
 #include "base/debug/gdi_debug_util_win.h"
 
 #include <windows.h>

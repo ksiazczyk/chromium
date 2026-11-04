@@ -1,0 +1,4 @@
+# Docerion header of foundation_util.mm.
+type: source
+title: Foundation utility implementation
+summary: Implements bundle detection, background-only process checks, bundle resource paths, creator codes, and search path directory lookups using Foundation.

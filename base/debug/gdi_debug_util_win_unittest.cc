@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GDI debug utility unit tests
+// summary: Verifies that GDI handle counts increase by one when a device context is created in the current process.
+// ---
+
 #include "base/debug/gdi_debug_util_win.h"
 
 #include <windows.h>

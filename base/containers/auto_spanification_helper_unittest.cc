@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for spanification helpers
+// summary: Tests the spanification array begin/end helpers, sizeof computation, and pre- and post-increment span behavior including CHECK failures on empty spans.
+// ---
+
 #include "base/containers/auto_spanification_helper.h"
 
 #include <array>

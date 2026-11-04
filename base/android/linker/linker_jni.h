@@ -14,6 +14,12 @@
 // library to keep this DSO small and avoid dependency issues. An exception is
 // made for std::unique_ptr as a risky header-only definition.
 
+// ---docerion
+// type: source
+// title: Android linker JNI declarations
+// summary: Header for the tiny custom Android linker shared library that shares the RELRO section between processes, with logging macros and helper classes.
+// ---
+
 #ifndef BASE_ANDROID_LINKER_LINKER_JNI_H_
 #define BASE_ANDROID_LINKER_LINKER_JNI_H_
 

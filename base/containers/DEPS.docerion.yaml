@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for base/containers
+summary: Defines directory-specific include rules allowing the memory benchmark and transparent_hash.h to depend on Abseil container and hash libraries.

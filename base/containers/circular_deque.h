@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: circular_deque container
+// summary: Implements base::circular_deque, a std::deque-like container backed by a flat circular buffer with constant-time pushes and pops and unstable iterators.
+// ---
+
 #ifndef BASE_CONTAINERS_CIRCULAR_DEQUE_H_
 #define BASE_CONTAINERS_CIRCULAR_DEQUE_H_
 

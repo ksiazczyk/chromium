@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DumpWithoutCrashing implementation
+// summary: Implements throttled non-fatal process dumps, recording call location crash keys and Stability.DumpWithoutCrashingStatus histogram counts.
+// ---
+
 #include "base/debug/dump_without_crashing.h"
 
 #include <map>
