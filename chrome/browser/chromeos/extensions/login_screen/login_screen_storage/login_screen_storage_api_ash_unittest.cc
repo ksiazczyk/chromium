@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the login screen storage API
+// summary: Unit tests that use a mock session manager client to verify key construction and store and retrieve behavior of the extension functions.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login_screen_storage/login_screen_storage_api.h"
 
 #include <memory>

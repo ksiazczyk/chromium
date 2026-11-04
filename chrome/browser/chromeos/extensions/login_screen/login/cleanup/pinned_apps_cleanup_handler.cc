@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned apps cleanup handler implementation
+// summary: Unpins user-pinned shelf apps of the active profile during login screen cleanup while leaving policy-pinned apps untouched.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/pinned_apps_cleanup_handler.h"
 
 #include <string>

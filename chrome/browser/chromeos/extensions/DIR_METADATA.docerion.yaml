@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the ChromeOS extensions directory
+summary: Points to the shared //extensions/COMMON_METADATA mixins so the directory inherits common metadata settings.

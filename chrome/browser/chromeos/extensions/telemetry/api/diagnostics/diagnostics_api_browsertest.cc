@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the os.diagnostics extension API
+// summary: Runs in-process browser tests that exercise the diagnostics extension API against a fake cros_healthd service.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <string>

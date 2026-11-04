@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event router unit tests
+// summary: Unit tests verifying that the telemetry extension event router resets mojo receivers per extension and per event category.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/events/event_router.h"
 
 #include <memory>

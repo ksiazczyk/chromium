@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ChromeOS login extension API
+summary: Defines the login static library plus browser test and unit test targets for the login screen extension API.

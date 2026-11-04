@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to ash platform_keys owners
+summary: Delegates code ownership to the OWNERS file of chromeos/ash/components/platform_keys.

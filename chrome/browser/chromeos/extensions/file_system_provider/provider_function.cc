@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'provider_function.cc: provider error conversion helpers'
+// summary: Converts base::File::Error values to and from the fileSystemProvider IDL ProviderError enum.
+// ---
+
 #include <utility>
 
 #include "chrome/browser/chromeos/extensions/file_system_provider/file_system_provider_api.h"

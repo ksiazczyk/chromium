@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gemini app tab helper unit tests
+// summary: Unit tests verifying that GeminiAppTabHelper records page visit histograms as expected, parameterized by whether the profile is off the record.
+// ---
+
 #include "chrome/browser/chromeos/gemini_app/gemini_app_tab_helper.h"
 
 #include <map>

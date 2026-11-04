@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension key permissions service implementation
+// summary: Implements per-extension key usage permissions, applying the KeyPermissions policy and state store to control corporate key signing.
+// ---
+
 #include "chrome/browser/chromeos/platform_keys/extension_key_permissions_service.h"
 
 #include <stdint.h>

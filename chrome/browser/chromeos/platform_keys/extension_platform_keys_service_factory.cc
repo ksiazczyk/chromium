@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension platform keys service factory implementation
+// summary: Implements the profile-keyed factory for ExtensionPlatformKeysService, including a default select delegate that shows a certificate selection dialog to the user.
+// ---
+
 #include "chrome/browser/chromeos/platform_keys/extension_platform_keys_service_factory.h"
 
 #include <memory>

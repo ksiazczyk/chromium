@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper setWallpaper function declaration
+// summary: Declares the WallpaperSetWallpaperFunction extension function that saves and persists a custom JPEG wallpaper per user.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_WALLPAPER_WALLPAPER_API_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_WALLPAPER_WALLPAPER_API_H_
 

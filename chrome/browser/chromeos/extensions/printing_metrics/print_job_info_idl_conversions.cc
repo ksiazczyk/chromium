@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job info proto to IDL conversions
+// summary: Implements conversion helpers that map print job protobuf types such as settings, printer, source, and status to the printingMetrics IDL types.
+// ---
+
 #include "chrome/browser/chromeos/extensions/printing_metrics/print_job_info_idl_conversions.h"
 
 #include "base/notreached.h"

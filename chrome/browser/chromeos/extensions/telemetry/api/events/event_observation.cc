@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event observation implementation for cros_healthd events
+// summary: Implements EventObservation, which receives cros_healthd event info and dispatches converted events to extensions via the extensions event router.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/events/event_observation.h"
 
 #include <memory>

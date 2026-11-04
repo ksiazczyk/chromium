@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WMDesksPrivateFeatureAsh implementation
+// summary: Implements the ash version of the WM desks private feature, performing desk operations such as launching, removing, saving, recalling, and switching desks through DesksClient.
+// ---
+
 #include "chrome/browser/chromeos/extensions/wm/wm_desks_private_feature_ash.h"
 
 #include <string>

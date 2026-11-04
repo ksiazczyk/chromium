@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for printing metrics dependencies
+summary: Restricts //chrome includes for ChromeOS, allows this directory's own headers and whitelisted //chrome dependencies, with extra rules for test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk API extension manager implementation
+// summary: Implements install, uninstall and policy-driven reload of the Desk API component extension, generating its manifest from the third-party domain allowlist.
+// ---
+
 #include "chrome/browser/chromeos/extensions/desk_api/desk_api_extension_manager.h"
 
 #include <memory>

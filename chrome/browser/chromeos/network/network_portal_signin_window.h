@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal signin window class header
+// summary: Declares the NetworkPortalSigninWindow singleton controlling the captive portal signin window used in Ash and Lacros, with testing accessors.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_NETWORK_NETWORK_PORTAL_SIGNIN_WINDOW_H_
 #define CHROME_BROWSER_CHROMEOS_NETWORK_NETWORK_PORTAL_SIGNIN_WINDOW_H_
 

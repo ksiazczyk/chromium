@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of echoPrivate extension API functions
+// summary: Declares the EchoPrivate extension function classes covering registration codes, offer info, OOBE timestamps, and the user consent dialog flow.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_ECHO_PRIVATE_ECHO_PRIVATE_API_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_ECHO_PRIVATE_ECHO_PRIVATE_API_H_
 

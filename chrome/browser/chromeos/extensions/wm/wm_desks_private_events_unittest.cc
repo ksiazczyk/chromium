@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for wm_desks_private_events
+// summary: Unit tests verifying that desk added, removed, and switched events are dispatched with correct arguments to registered extension listeners.
+// ---
+
 #include "chrome/browser/chromeos/extensions/wm/wm_desks_private_events.h"
 
 #include <memory>

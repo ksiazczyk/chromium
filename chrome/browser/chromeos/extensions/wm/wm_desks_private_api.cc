@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wm_desks_private_api extension function implementations
+// summary: Implements the wmDesksPrivate extension functions such as getSavedDesks, getDeskTemplateJson, launchDesk, removeDesk, and getAllDesks for ChromeOS desks.
+// ---
+
 #include "chrome/browser/chromeos/extensions/wm/wm_desks_private_api.h"
 
 #include <memory>

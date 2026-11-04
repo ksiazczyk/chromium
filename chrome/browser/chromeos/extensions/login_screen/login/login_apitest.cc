@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login API browser tests
+// summary: Browser tests covering Login API methods such as launching managed guest sessions, exiting sessions, fetching login data, locking, and external logout notifications.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

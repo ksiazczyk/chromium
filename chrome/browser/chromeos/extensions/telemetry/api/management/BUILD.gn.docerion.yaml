@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Telemetry management API build targets
+summary: GN build file defining the management source set and the testonly browser_tests target for the os.management extension API.

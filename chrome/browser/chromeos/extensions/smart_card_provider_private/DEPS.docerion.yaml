@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the smart card provider private directory
+summary: DEPS file restricting includes, blocking //chrome dependencies except for this directory, chrome/common, chrome/test, and test-only headers.

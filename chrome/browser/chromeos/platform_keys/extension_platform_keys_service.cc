@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension platform keys service implementation
+// summary: Implements key generation, signing and client certificate selection for the enterprise.platformKeys extension API on ChromeOS.
+// ---
+
 #include "chrome/browser/chromeos/platform_keys/extension_platform_keys_service.h"
 
 #include <stddef.h>

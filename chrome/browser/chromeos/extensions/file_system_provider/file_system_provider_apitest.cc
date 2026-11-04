@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'file_system_provider_apitest.cc: browser tests for the provider API'
+// summary: Runs extension API browser tests, including simulating abort clicks on unresponsive provider request notifications.
+// ---
+
 #include <memory>
 #include <utility>
 

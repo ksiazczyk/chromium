@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to the file manager owners
+summary: Points to ui/file_manager/OWNERS so that directory's owners review changes in this directory.

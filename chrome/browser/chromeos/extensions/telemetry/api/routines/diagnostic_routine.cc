@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticRoutine implementation
+// summary: Implements the DiagnosticRoutine class that wraps a cros_healthd routine control connection and dispatches onRoutineException events on mojo disconnect.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/routines/diagnostic_routine.h"
 
 #include <cstdint>

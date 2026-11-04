@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the chromeosInfoPrivate extension API
+// summary: Implements the chromeosInfoPrivate get, set, and isTabletModeEnabled extension functions that expose ChromeOS device and system properties such as HWID, timezone, and accessibility settings.
+// ---
+
 #include "chrome/browser/chromeos/extensions/info_private/info_private_api.h"
 
 #include <string>

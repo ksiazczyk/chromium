@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLocalAccountExternalPolicyLoader implementation
+// summary: Implements StartLoading and OnExtensionListsUpdated to install policy force-listed extensions from a cached location for device-local accounts.
+// ---
+
 #include "chrome/browser/chromeos/extensions/external_loader/device_local_account_external_policy_loader.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API guard delegate interface
+// summary: Declares the ApiGuardDelegate interface and factory that offload API guard checks for telemetry extensions in a test-friendly way.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_TELEMETRY_API_COMMON_API_GUARD_DELEGATE_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_TELEMETRY_API_COMMON_API_GUARD_DELEGATE_H_
 

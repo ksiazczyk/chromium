@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the system_log directory
+summary: Lists fabiansommer@chromium.org and mpetrisor@chromium.org as the code owners responsible for reviewing changes in this directory.

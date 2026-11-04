@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Component extension content settings provider unit tests
+// summary: Tests that allowlisted component extensions receive auto-granted content settings permissions while unlisted ones do not.
+// ---
+
 #include "chrome/browser/chromeos/extensions/component_extension_content_settings/component_extension_content_settings_provider.h"
 
 #include <utility>

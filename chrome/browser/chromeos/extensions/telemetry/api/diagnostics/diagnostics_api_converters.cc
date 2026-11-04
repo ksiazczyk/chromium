@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Converters between diagnostics API and Mojo types
+// summary: Implements conversions between the extension API's IDL types and the cros_healthd Mojo types for routine arguments and replies.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/diagnostics/diagnostics_api_converters.h"
 
 #include <optional>

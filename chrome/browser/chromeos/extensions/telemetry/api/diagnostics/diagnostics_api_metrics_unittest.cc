@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diagnostics API metrics unit tests
+// summary: Unit tests verifying that routine creation and routine supported status queries are recorded in the ChromeOS.TelemetryExtension histograms for every routine category.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/diagnostics/diagnostics_api_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

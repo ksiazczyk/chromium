@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser API tests for chromeosInfoPrivate
+// summary: Runs extension API browser tests that verify reading and setting ChromeOS properties like timezone, accessibility preferences, and magnifier settings.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "ash/constants/ash_switches.h"
 #include "ash/public/cpp/stylus_utils.h"

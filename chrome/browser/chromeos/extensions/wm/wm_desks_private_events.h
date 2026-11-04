@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wm_desks_private_events declarations
+// summary: Declares WMDesksEventsRouter and the WMDesksPrivateEventsAPI keyed service that dispatch desk events to extensions via the event router.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_WM_WM_DESKS_PRIVATE_EVENTS_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_WM_WM_DESKS_PRIVATE_EVENTS_H_
 

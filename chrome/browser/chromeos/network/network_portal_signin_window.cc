@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal signin window implementation
+// summary: Implements the NetworkPortalSigninWindow singleton that opens the captive portal signin page in a dedicated OTR profile and requests portal detection on navigation.
+// ---
+
 #include "chrome/browser/chromeos/network/network_portal_signin_window.h"
 
 #include "chrome/browser/profiles/profile_manager.h"

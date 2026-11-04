@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS permission message unit tests
+// summary: Unit tests verifying that ChromePermissionMessageProvider yields correct and meaningful permission messages for chromeos_system_extension telemetry-related permissions.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

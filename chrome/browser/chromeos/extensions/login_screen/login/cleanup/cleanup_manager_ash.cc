@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash cleanup manager implementation
+// summary: Instantiates the Ash cleanup handlers for browser, files, clipboard, pinned apps, print jobs, extensions and web apps.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/cleanup_manager_ash.h"
 
 #include <utility>

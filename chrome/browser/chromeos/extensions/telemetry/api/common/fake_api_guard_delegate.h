@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake API guard delegate header
+// summary: Declares a fake ApiGuardDelegate and its factory that return a configurable error message for telemetry extension tests.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_TELEMETRY_API_COMMON_FAKE_API_GUARD_DELEGATE_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_TELEMETRY_API_COMMON_FAKE_API_GUARD_DELEGATE_H_
 

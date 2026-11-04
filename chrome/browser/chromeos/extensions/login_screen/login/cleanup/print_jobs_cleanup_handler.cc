@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print jobs cleanup handler implementation
+// summary: Deletes all print jobs of the active user profile via the printing manager during login screen cleanup.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/print_jobs_cleanup_handler.h"
 
 #include <optional>

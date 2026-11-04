@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'VpnServiceInterface: chrome.vpnProvider extension API service interface'
+// summary: Declares VpnServiceInterface, an abstract KeyedService defining the chrome.vpnProvider extension API methods for creating and destroying VPN configurations, setting parameters, sending packets, and notifying connection state.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_VPN_PROVIDER_VPN_SERVICE_INTERFACE_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_VPN_PROVIDER_VPN_SERVICE_INTERFACE_H_
 

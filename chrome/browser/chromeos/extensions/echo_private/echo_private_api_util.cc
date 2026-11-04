@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo offer preference registration and dictionary cleanup
+// summary: Registers the EchoCheckedOffers local state preference and removes empty nested dictionaries from echo offer info.
+// ---
+
 #include "chrome/browser/chromeos/extensions/echo_private/echo_private_api_util.h"
 
 #include "chrome/common/pref_names.h"

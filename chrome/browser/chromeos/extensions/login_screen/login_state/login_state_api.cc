@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login state extension API function implementations
+// summary: Implements the loginState.getProfileType and loginState.getSessionState extension functions, mapping session manager states to API enums.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login_state/login_state_api.h"
 
 #include "chrome/browser/profiles/profile.h"

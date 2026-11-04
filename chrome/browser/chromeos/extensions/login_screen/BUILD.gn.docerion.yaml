@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Login screen test support build targets
+summary: GN build file defining a testonly source_set for the login screen apitest base and its dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostic routine type converters implementation
+// summary: Converts cros_healthd mojom routine states, details, inquiries, and interactions into the extension os_diagnostics API types.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/routines/diagnostic_routine_converters.h"
 
 #include <cstdint>

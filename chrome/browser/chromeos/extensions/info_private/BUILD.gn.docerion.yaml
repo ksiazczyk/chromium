@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the info_private extension library
+summary: Defines the info_private static library build target, listing its sources, public dependencies, and ChromeOS-related dependencies.

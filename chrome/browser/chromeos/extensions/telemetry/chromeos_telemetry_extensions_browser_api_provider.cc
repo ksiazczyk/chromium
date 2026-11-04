@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS telemetry extensions browser API provider implementation
+// summary: Implements the provider by registering all generated ChromeOS system extension API functions with the extension function registry.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/chromeos_telemetry_extensions_browser_api_provider.h"
 
 #include "chrome/browser/chromeos/extensions/telemetry/api/generated_api_registration.h"

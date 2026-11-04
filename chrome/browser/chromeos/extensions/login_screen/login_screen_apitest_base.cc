@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen apitest base implementation
+// summary: Implements the LoginScreenApitestBase fixture that sets up test listeners, force-installs a test extension, and runs named login screen tests.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login_screen_apitest_base.h"
 
 #include "extensions/test/extension_test_message_listener.h"

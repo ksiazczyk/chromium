@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for login screen storage
+summary: Defines the login_screen_storage static library plus browser test and unit test targets for the ChromeOS login screen storage extension API.

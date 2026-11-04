@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the session state changed event dispatcher
+// summary: Unit tests verifying that the dispatcher maps session manager states to the correct loginState.onSessionStateChanged event arguments.
+// ---
+
 #include <memory>
 #include <string>
 

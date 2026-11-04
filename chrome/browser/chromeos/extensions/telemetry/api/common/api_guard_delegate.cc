@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API guard delegate implementation
+// summary: Implements sequential asynchronous checks such as policy force-install, device manufacturer, and user ownership to decide whether an extension can access telemetry APIs.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/common/api_guard_delegate.h"
 
 #include <optional>

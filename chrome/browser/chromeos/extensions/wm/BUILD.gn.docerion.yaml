@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for wm extension sources
+summary: Defines the wm source set with its sources and dependencies, plus a testonly unit_tests target, for the ChromeOS window management extension API.

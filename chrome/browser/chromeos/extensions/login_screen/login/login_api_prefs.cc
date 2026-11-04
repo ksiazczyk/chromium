@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preference registration for the login API
+// summary: Registers local state and profile preferences used by the login extension API, including cleanup exemption lists.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/login_api_prefs.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the telemetry extension common directory
+summary: Restricts header include dependencies for this directory, blocking //chrome by default and allowing only specific files, with extra allowances for tests.

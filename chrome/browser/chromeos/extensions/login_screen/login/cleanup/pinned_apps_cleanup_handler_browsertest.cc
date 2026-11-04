@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pinned apps cleanup handler browser test
+// summary: Browser test verifying that cleanup unpins user-pinned shelf apps but keeps policy-pinned apps pinned.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/pinned_apps_cleanup_handler.h"
 
 #include <string>

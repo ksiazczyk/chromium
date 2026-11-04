@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for diagnostic routine converters
+// summary: Unit tests verifying that cros_healthd routine states, inquiries, and details convert correctly into extension API types.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/routines/diagnostic_routine_converters.h"
 
 #include <cstdint>

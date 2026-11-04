@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Telemetry extension API function class declarations
+// summary: Declares the telemetry API function base class and per-category os.telemetry functions such as getAudioInfo, getBatteryInfo and getCpuInfo.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_TELEMETRY_API_TELEMETRY_TELEMETRY_API_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_TELEMETRY_API_TELEMETRY_TELEMETRY_API_H_
 

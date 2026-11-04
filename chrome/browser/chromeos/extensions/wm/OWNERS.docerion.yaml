@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the wm extension directory
+summary: Lists aprilzhou@google.com and yzd@google.com as the code owners responsible for reviewing changes in this directory.

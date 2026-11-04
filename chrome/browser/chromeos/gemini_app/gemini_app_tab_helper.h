@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini app tab helper header
+// summary: Declares GeminiAppTabHelper, a WebContentsObserver attached to tabs to record Gemini app page visits, with a Page enum and a testing hook for page URLs.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_GEMINI_APP_GEMINI_APP_TAB_HELPER_H_
 #define CHROME_BROWSER_CHROMEOS_GEMINI_APP_GEMINI_APP_TAB_HELPER_H_
 

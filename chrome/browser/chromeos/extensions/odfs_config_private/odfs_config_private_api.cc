@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of odfsConfigPrivate extension functions
+// summary: Implements ChromeOS extension functions that report OneDrive mount mode and account restrictions, show automated mount error notifications, and check cloud file system features.
+// ---
+
 #include "chrome/browser/chromeos/extensions/odfs_config_private/odfs_config_private_api.h"
 
 #include <string>

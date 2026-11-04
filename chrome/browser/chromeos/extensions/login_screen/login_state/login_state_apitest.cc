@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser API tests for the login state extension
+// summary: Runs in-process browser tests exercising the loginState API through force-installed login-screen and lock-screen extensions.
+// ---
+
 #include "ash/constants/ash_switches.h"
 #include "base/path_service.h"
 #include "base/test/test_future.h"

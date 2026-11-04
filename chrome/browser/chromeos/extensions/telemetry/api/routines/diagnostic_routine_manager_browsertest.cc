@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diagnostic routine manager browser tests
+// summary: Browser tests for the telemetry extension diagnostic routine manager, exercising routine events across tabs, PWA URLs and certificate statuses.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/routines/diagnostic_routine_manager.h"
 
 #include <algorithm>

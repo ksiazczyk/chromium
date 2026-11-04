@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension cleanup handler implementation
+// summary: Implements ExtensionCleanupHandler, which uninstalls all non-exempt extensions and reinstalls force-installed, component and external component extensions.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/extension_cleanup_handler.h"
 
 #include <algorithm>

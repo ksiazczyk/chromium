@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speak selected text extension function declaration
+// summary: Declares the AccessibilityServicePrivateSpeakSelectedTextFunction class backing the accessibilityServicePrivate.speakSelectedText extension API.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_ACCESSIBILITY_SERVICE_PRIVATE_ACCESSIBILITY_SERVICE_PRIVATE_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_ACCESSIBILITY_SERVICE_PRIVATE_ACCESSIBILITY_SERVICE_PRIVATE_H_
 

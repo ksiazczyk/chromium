@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captive portal signin window Ash browser tests
+// summary: Browser tests covering signin window creation, captive portal window properties, navigation behavior, and portal detection requests.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/ash/login/test/guest_session_mixin.h"
 #include "chrome/browser/chromeos/network/network_portal_signin_window.h"

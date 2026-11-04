@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared session handler class declaration
+// summary: Declares the SharedSessionHandler singleton that manages the shared session methods of the Login API, with launch, enter, unlock and end session operations.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_LOGIN_SCREEN_LOGIN_SHARED_SESSION_HANDLER_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_LOGIN_SCREEN_LOGIN_SHARED_SESSION_HANDLER_H_
 

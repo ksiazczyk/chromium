@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app cleanup handler browser test
+// summary: Browser test verifying that cleanup uninstalls user-installed web apps while leaving default and policy-installed apps in place.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/web_app_cleanup_handler.h"
 
 #include <memory>

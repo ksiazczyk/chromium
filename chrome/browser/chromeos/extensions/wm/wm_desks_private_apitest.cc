@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the wmDesksPrivate extension API
+// summary: Contains browser tests exercising the wmDesksPrivate API, including desk launch and close, removal undo behavior, and extension-driven API tests.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/public/cpp/system/toast_data.h"
 #include "ash/public/cpp/system/toast_manager.h"

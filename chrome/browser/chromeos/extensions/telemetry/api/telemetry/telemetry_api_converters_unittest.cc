@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for telemetry API converters
+// summary: Unit tests verifying that converter functions map cros_healthd and network health mojom structs to the extension API types correctly.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/telemetry/telemetry_api_converters.h"
 
 #include <inttypes.h>

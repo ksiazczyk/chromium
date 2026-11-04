@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Telemetry extension API build configuration
+summary: Defines GN build targets for the ChromeOS telemetry extension API, including API registration, the keyed service factory source set, and browser test and unit test bundles.

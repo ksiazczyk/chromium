@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the file system provider extension
+summary: Defines the static library and browser test targets with their sources and dependencies for the file system provider extension code.

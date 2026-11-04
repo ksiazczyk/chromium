@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the odfsConfigPrivate extension API
+// summary: Exercises the odfsConfigPrivate API in a full browser, covering automated mount error notifications and Microsoft 365 PWA tab handling.
+// ---
+
 #include "chrome/browser/chromeos/extensions/odfs_config_private/odfs_config_private_api.h"
 
 #include <memory>

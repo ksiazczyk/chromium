@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for odfs_config_private
+summary: Restricts //chrome includes for this ChromeOS directory and grants test-only exceptions for browser and unit test files.

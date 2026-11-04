@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VpnService implementation for VPN configuration management
+// summary: Manages third-party VPN configurations, observing Shill events and forwarding packets and platform messages to extensions.
+// ---
+
 #include "chrome/browser/chromeos/extensions/vpn_provider/vpn_service.h"
 
 #include <optional>

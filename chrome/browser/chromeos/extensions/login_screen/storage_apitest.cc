@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login screen storage API browser tests
+// summary: Browser tests checking that a login screen extension can access managed storage but is denied local and sync storage.
+// ---
+
 #include <memory>
 #include <string>
 

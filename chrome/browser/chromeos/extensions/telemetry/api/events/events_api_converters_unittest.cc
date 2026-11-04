@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: os.events API converter unit tests
+// summary: Unit tests verifying that enum and struct conversions between cros_healthd mojom types and os.events API types produce the expected results.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/events/events_api_converters.h"
 
 #include "chrome/common/chromeos/extensions/api/events.h"

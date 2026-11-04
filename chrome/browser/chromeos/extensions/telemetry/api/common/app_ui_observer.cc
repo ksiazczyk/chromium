@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App UI observer implementation
+// summary: Watches an app UI WebContents and invokes callbacks when the page URL no longer matches the pattern set, focus changes, or the contents are destroyed.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/common/app_ui_observer.h"
 
 #include <utility>

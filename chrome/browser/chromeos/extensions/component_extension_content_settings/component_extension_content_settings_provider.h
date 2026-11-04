@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component extension content settings provider header
+// summary: Declares the observable provider that supplies auto-granted component extension permissions to HostContentSettingsMap.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_COMPONENT_EXTENSION_CONTENT_SETTINGS_COMPONENT_EXTENSION_CONTENT_SETTINGS_PROVIDER_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_COMPONENT_EXTENSION_CONTENT_SETTINGS_COMPONENT_EXTENSION_CONTENT_SETTINGS_PROVIDER_H_
 

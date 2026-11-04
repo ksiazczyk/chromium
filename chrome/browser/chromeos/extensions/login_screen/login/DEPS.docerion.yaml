@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the login extension API directory
+summary: Restricts //chrome includes and lists the allowed dependencies for files in the login extension API directory.

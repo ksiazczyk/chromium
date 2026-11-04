@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ChromeOS extensions directory
+summary: Defines allowed include dependencies for chrome/browser/chromeos/extensions, generally blocking //chrome includes with a whitelist of existing dependencies and per-file exceptions.

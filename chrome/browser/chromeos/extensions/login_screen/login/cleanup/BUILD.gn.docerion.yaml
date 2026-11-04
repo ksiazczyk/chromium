@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the login screen cleanup library
+summary: Defines GN build targets for the cleanup static library, test support mocks, unit tests and browser tests.

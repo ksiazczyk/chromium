@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for platform_keys
+summary: Lists allowed include rules for the directory and discourages new //chrome dependencies during the ChromeOS refactor.

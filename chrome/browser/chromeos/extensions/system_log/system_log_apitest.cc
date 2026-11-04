@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser API tests for the chrome.systemLog extension
+// summary: Browser tests verifying that chrome.systemLog is available under policy and that log entries are recorded across managed guest, kiosk, and signin sessions.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_switches.h"

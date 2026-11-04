@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Telemetry extension utility browser tests
+// summary: Browser tests for finding secure and focused telemetry extension app UIs, covering regular URLs, isolated web apps, and shimless RMA.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/common/util.h"
 
 #include <string>

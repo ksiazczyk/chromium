@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the login_state directory
+summary: Restricts //chrome include dependencies for the login_state directory, allowing only the explicitly listed headers and test-only includes.

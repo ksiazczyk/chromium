@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wm_desks_private_events implementation
+// summary: Implements the desk event router and keyed service that broadcast onDeskAdded, onDeskRemoved, and onDeskSwitched events to listening extensions.
+// ---
+
 #include "chrome/browser/chromeos/extensions/wm/wm_desks_private_events.h"
 
 #include "base/check_is_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event router implementation for telemetry extension events
+// summary: Implements EventRouter, which manages per-extension and per-category event observations and restricts delivery of focus-restricted events.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/events/event_router.h"
 
 #include <tuple>

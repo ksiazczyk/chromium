@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser cleanup handler browser tests
+// summary: Browser tests that verify browser window closing and history removal during cleanup in a public session.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/cleanup/browser_cleanup_handler.h"
 
 #include <memory>

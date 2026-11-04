@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware info delegate implementation
+// summary: Fetches the device manufacturer (OEM name) via the cros_healthd probe service and caches the result for performance.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/common/hardware_info_delegate.h"
 
 #include <memory>

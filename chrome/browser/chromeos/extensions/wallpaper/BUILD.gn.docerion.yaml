@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Wallpaper extension API build configuration
+summary: GN build file defining the wallpaper static library target with its sources and dependencies for ChromeOS.

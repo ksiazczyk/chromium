@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Telemetry API type converter implementations
+// summary: Converts cros_healthd and network health mojom types into extension API telemetry types, including permission-gated fields such as serial numbers and MAC addresses.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/telemetry/telemetry_api_converters.h"
 
 #include <inttypes.h>

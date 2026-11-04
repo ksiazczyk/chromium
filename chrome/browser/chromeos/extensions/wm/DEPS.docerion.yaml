@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the wm extension directory
+summary: Sets include rules that restrict //chrome dependencies for ChromeOS code while allowing specific exceptions for tests and the API implementation.

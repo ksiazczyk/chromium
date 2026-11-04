@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the smart card provider directory
+summary: DIR_METADATA file mapping the directory to the Blink>SmartCard monorail component and Buganizer component 1456364.

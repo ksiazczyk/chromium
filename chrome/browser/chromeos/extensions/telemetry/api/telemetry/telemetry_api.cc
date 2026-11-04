@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Telemetry extension API function implementations
+// summary: Implements os.telemetry extension API functions that probe cros_healthd for audio, battery, block device, CPU, display, network and other device information.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/telemetry/telemetry_api.h"
 
 #include <inttypes.h>

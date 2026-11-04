@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the login_state extension API
+summary: Defines the static library and test targets that build the loginState extension API together with its unit and browser tests.

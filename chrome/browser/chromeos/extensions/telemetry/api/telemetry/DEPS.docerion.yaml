@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the telemetry API directory
+summary: Defines include dependency rules that bar ChromeOS code from depending on //chrome while granting exceptions for this directory and a few existing dependencies.

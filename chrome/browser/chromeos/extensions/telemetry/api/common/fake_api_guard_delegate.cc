@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake API guard delegate implementation
+// summary: Implements a fake ApiGuardDelegate that asynchronously returns a configurable optional error message for use in tests.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/common/fake_api_guard_delegate.h"
 
 #include <memory>

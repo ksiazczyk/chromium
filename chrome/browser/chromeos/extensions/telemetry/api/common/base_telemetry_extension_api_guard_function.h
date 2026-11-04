@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base telemetry API guard function interface
+// summary: Declares the base ExtensionFunction that verifies caller context such as device manufacturer, model, and device ownership before telemetry API calls.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_TELEMETRY_API_COMMON_BASE_TELEMETRY_EXTENSION_API_GUARD_FUNCTION_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_TELEMETRY_API_COMMON_BASE_TELEMETRY_EXTENSION_API_GUARD_FUNCTION_H_
 

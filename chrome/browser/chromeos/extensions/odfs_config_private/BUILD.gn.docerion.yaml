@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the odfs_config_private extension API
+summary: Defines the odfs_config_private static library plus browser test and unit test targets and their dependencies for the ChromeOS OneDrive configuration API.

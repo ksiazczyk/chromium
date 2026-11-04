@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login state extension API function declarations
+// summary: Declares the loginState.getProfileType and loginState.getSessionState extension functions and the session state to API enum conversion.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_EXTENSIONS_LOGIN_SCREEN_LOGIN_STATE_LOGIN_STATE_API_H_
 #define CHROME_BROWSER_CHROMEOS_EXTENSIONS_LOGIN_SCREEN_LOGIN_STATE_LOGIN_STATE_API_H_
 

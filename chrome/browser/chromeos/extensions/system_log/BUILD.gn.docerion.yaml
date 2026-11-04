@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the systemLog extension API
+summary: Defines the static library for the systemLog extension API and the browser test source set with their build dependencies.

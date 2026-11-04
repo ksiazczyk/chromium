@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for telemetry
+summary: DIR_METADATA file assigning the Buganizer component for ChromeOS Health and the cros-tdm-tpe-eng team email for this directory.

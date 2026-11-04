@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostic routine observation implementation
+// summary: Implements the routine observer that converts cros_healthd routine results into extension events, including legacy finished events for diagnostics routines.
+// ---
+
 #include "chrome/browser/chromeos/extensions/telemetry/api/routines/diagnostic_routine_observation.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the login extension API functions
+// summary: Implements session launch, exit, lock, unlock and data-fetch extension functions for ChromeOS login screen management.
+// ---
+
 #include "chrome/browser/chromeos/extensions/login_screen/login/login_api.h"
 
 #include <optional>
