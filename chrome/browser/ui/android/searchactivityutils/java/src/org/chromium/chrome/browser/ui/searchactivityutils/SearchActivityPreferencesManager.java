@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchActivityPreferencesManager
+// summary: Singleton manager that loads, caches and updates SearchActivity preferences and notifies registered observers.
+// ---
+
 package org.chromium.chrome.browser.ui.searchactivityutils;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

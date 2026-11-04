@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenSigninConfig
+// summary: Holds configuration resources such as title, subtitle, dismiss text, logo and survey type for the fullscreen sign-in view.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.fullscreen_signin;
 
 import android.text.TextUtils;

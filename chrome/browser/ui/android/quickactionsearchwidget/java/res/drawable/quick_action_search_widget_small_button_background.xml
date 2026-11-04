@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Small widget button background inset ripple drawable
+summary: Inset ripple background for small widget buttons using the widget button background color and small button corner radius.
+-->
+
 <inset xmlns:android="http://schemas.android.com/apk/res/android"
   android:insetLeft="@dimen/quick_action_search_widget_small_button_background_inset"
   android:insetRight="@dimen/quick_action_search_widget_small_button_background_inset"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistorySyncViewBinder
+// summary: Binds history sync property model changes to the view and records the sync buttons shown metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.history_sync;
 
 import org.chromium.build.annotations.NullMarked;

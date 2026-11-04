@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom sheet account picker presenter
+// summary: Presenter that displays the account picker inside a bottom sheet, logging dismissals and cancelling sign-in when the sheet hides for reasons other than interaction completion.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import org.chromium.build.annotations.NullMarked;

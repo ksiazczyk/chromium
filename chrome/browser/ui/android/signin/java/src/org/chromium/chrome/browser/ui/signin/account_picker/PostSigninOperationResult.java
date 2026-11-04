@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post sign-in operation result annotation
+// summary: 'IntDef annotation defining post-sign-in operation results: success, authentication error and other error.'
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import androidx.annotation.IntDef;

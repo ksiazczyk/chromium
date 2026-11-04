@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultBrowserPromoCard controller
+// summary: Controller that shows the default browser promo card in Chrome settings when Chrome is not the default browser, building the card UI and handling clicks and dismissal.
+// ---
+
 package org.chromium.chrome.browser.ui.settings_promo_card;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

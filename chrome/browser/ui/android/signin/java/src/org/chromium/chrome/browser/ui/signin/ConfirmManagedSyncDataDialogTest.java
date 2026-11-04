@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Confirm managed sync data dialog tests
+// summary: Espresso UI tests verifying that the managed sync data confirmation dialog reports confirm and cancel actions, including back-press dismissal, to its listener.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static androidx.test.espresso.Espresso.onView;

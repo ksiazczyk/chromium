@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account preview preference string utilities
+// summary: Utility methods that format subtitle strings for sign-in UI showing the preferred account, based on synced data types and the form factor of the other device.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import android.content.Context;

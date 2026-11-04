@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Account picker bottom sheet strings
+// summary: Holds the title, subtitle, and dismiss button strings for the sign-in account picker bottom sheet, created through a builder.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import android.text.TextUtils;

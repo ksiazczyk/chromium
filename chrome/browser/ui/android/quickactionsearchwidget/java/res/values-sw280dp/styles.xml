@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Quick action search widget styles for sw280dp
+summary: Sets the small Lens button visible and the small Dino button gone in the quick action search widget on small screens.
+-->
+
 <resources>
   <style name="QuickActionSearchWidget.SmallLensButton" parent="QuickActionSearchWidgetSmallButton">
     <item name="android:visibility">visible</item>

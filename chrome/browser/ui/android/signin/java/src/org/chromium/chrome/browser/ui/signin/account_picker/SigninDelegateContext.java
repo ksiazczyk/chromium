@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in flow delegate context
+// summary: Holds the runtime context of a single sign-in flow, storing the tab ID and continue URL with bundle serialization, equality and accessors.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import android.os.Bundle;

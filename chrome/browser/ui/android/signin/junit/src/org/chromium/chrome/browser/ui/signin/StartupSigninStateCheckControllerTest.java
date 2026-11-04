@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StartupSigninStateCheckControllerTest
+// summary: Robolectric unit tests for StartupSigninStateCheckController verifying startup sign-in state checks, including feature-disabled no-ops and managed account handling via modal dialogs.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.mockito.ArgumentMatchers.any;

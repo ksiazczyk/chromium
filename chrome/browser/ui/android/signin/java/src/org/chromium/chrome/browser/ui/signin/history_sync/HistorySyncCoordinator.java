@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistorySyncCoordinator
+// summary: Coordinates the history sync opt-in MVC, shows the consent UI and notifies its delegate when the flow is dismissed.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.history_sync;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings.grd.
+type: data
+title: String resources for Chrome for Android
+summary: GRIT file defining the UI strings for Chrome on Android, with per-locale Android XML outputs and character limit guidelines for translations.

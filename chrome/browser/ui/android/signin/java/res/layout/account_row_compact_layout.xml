@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Compact account row layout
+summary: Compact variant of the account row layout for the compact sign-in promo view, with adjusted text appearance and padding, lint-linked to account_row.xml.
+-->
+
 <!-- This layout is used in `compact_signin_promo_view.xml` and differs from `account_row.xml`
  in the following ways:
  - in account_text_primary:

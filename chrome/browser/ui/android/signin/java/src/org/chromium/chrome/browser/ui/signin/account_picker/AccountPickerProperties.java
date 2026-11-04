@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountPickerProperties
+// summary: Property keys, models and item types for account picker rows, covering add-account and existing-account items.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import android.view.View.OnClickListener;

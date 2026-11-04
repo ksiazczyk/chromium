@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo mediator
+// summary: Core mediator for the Chrome Android sign-in promo that observes identity, sync and profile data changes, controls promo visibility and impression limits, and records promo event metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import androidx.annotation.StringDef;

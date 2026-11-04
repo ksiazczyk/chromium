@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Sign-in promo layout for recent tabs
+summary: Defines the personalized sign-in promo view container used on the recent tabs surface, wrapped in vertical and horizontal padding.
+-->
+
 <org.chromium.chrome.browser.ui.signin.PersonalizedSigninPromoView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/signin_promo_view_container"

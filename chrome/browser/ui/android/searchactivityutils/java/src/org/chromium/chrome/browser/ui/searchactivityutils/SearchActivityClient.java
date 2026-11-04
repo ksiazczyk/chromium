@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchActivityClient
+// summary: Client-side interface for building intents to launch and interact with the Omnibox-powered SearchActivity.
+// ---
+
 package org.chromium.chrome.browser.ui.searchactivityutils;
 
 import android.app.Activity;

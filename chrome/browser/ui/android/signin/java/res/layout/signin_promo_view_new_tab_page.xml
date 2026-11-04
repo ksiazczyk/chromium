@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: New tab page sign-in promo layout
+summary: Android layout wrapping a PersonalizedSigninPromoView with top padding for display on the new tab page.
+-->
+
 <org.chromium.chrome.browser.ui.signin.PersonalizedSigninPromoView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/signin_promo_view_container"

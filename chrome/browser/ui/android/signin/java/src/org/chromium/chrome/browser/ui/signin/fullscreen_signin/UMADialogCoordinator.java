@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMADialogCoordinator
+// summary: Coordinator that shows a dialog in the FRE sign-in screen letting users choose whether to send diagnostic data to Google.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.fullscreen_signin;
 
 import android.content.Context;

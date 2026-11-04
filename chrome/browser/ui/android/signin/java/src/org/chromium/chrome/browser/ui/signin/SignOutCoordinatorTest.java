@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SignOutCoordinatorTest
+// summary: Instrumentation tests for the sign-out flow covering dialogs, snackbars and data deletion choices.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static androidx.test.espresso.Espresso.onView;

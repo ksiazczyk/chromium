@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AiTierRingDimensTest
+// summary: Robolectric tests checking that settings and account page avatar dimensions with an AI tier ring leave exactly enough room for the ring so the visible avatar keeps its original size.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.junit.Assert.assertEquals;

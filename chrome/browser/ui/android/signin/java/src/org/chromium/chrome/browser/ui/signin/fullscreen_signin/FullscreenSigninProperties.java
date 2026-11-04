@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenSigninProperties
+// summary: Defines the property keys of the fullscreen sign-in property model, covering click listeners, spinners, notices and animations.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.fullscreen_signin;
 
 import android.animation.Animator.AnimatorListener;

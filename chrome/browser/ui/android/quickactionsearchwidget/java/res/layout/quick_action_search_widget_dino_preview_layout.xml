@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Dino quick action search widget preview layout
+summary: Wraps the Dino widget layout in a fixed-size frame with a hairline border for the widget picker preview.
+-->
+
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="@dimen/quick_action_search_widget_dino_min_size"

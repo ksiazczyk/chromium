@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account picker bottom sheet properties
+// summary: Defines the property keys and view states of the account picker bottom sheet, covering account lists, sign-in progress, errors, and management confirmation.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import android.view.View.OnClickListener;

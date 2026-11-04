@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin bottom sheet coordinator
+// summary: Coordinates the sign-in bottom sheet, delegating account picking, post-sign-in actions, and status bar updates to the embedder.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Click listener view binder
+// summary: View binder that sets an OnClickListener on a view from the corresponding property in the model.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import android.view.View;

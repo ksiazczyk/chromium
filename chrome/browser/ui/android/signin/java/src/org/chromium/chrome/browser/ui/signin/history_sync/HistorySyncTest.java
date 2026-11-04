@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistorySyncTest
+// summary: Espresso UI tests for the standalone history sync consent dialog, checking coordinator behavior and recorded metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.history_sync;
 
 import static androidx.test.espresso.Espresso.onView;

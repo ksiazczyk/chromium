@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account picker bottom sheet view binder
+// summary: Stateless binder that maps account picker bottom sheet property model changes to view updates such as view state, account data, and click listeners.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sign-in UI directory owners
+summary: OWNERS file that delegates review ownership for this directory to the sign-in component's Android owners file.

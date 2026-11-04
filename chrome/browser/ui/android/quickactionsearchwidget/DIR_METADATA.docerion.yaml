@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Metadata mapping the quick action search widget to the mobile search widget UI component, team email and Buganizer component.

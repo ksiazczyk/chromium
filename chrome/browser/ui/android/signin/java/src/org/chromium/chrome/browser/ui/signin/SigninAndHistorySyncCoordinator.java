@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin and history sync coordinator
+// summary: Abstract base for coordinators that drive the sign-in and history sync opt-in flow, defining flow types and result states.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

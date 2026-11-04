@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account picker bottom sheet coordinator
+// summary: Coordinates the account picker bottom sheet or modal dialog shown during Chrome's sign-in flow, wiring the mediator, view, presenter, and enterprise management notice.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

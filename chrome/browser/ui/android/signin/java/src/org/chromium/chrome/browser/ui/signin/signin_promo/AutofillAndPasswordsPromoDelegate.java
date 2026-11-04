@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill and passwords sign-in promo delegate
+// summary: Sign-in promo delegate for the Autofill and Passwords settings access point, handling promo state, impression counting and permanent dismissal preferences.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

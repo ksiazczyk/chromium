@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountPickerModalDialogTest
+// summary: Instrumentation tests for modal dialog presentation in AccountPickerBottomSheetCoordinator.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import static androidx.test.espresso.Espresso.onView;

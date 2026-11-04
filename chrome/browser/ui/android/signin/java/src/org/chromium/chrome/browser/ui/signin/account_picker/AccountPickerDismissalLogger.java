@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountPickerDismissalLogger
+// summary: Logs user-initiated dismissal metrics for the account picker bottom sheet and modal dialog.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import androidx.annotation.MainThread;

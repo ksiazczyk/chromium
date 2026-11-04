@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP sign-in promo delegate
+// summary: Sign-in promo delegate for the New Tab Page with impression limits, suppression after first-run refusal, and reset of limits after a hidden period.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

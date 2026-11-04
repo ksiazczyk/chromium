@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninBottomSheetCoordinatorTest
+// summary: Robolectric tests for SigninBottomSheetCoordinator that verify bottom sheet sign-in flow behavior with mocked delegates, identity services, bottom sheet and modal dialog managers.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.mockito.ArgumentMatchers.any;

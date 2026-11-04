@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Small widget search bar background inset ripple drawable
+summary: Inset ripple background for the small widget search bar using the search box background color, bar height, and small corner radius.
+-->
+
 <inset xmlns:android="http://schemas.android.com/apk/res/android"
   android:insetLeft="@dimen/quick_action_search_widget_small_search_bar_background_inset_horizontal"
   android:insetRight="@dimen/quick_action_search_widget_small_search_bar_background_inset_horizontal"

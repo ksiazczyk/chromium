@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account picker bottom sheet tests
+// summary: Instrumented Espresso tests covering account picker bottom sheet behavior, including account selection, sign-in errors, and dismissal.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import static androidx.test.espresso.Espresso.onView;

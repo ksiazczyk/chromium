@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchActivityExtras
+// summary: Defines the SearchActivity intent extras and enumerated values such as IntentOrigin, SearchType and ResolutionType.
+// ---
+
 package org.chromium.chrome.browser.ui.searchactivityutils;
 
 import androidx.annotation.IntDef;

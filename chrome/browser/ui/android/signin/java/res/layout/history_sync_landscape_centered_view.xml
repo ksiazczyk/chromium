@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: History sync landscape centered layout
+summary: Android layout for the centered landscape variant of the history sync consent screen, placing the illustration left of a scrollable title, subtitle and button bar.
+-->
+
 <org.chromium.chrome.browser.ui.signin.history_sync.HistorySyncView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

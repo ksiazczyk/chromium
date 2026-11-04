@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsPromoCardProvider interface
+// summary: Interface defining the contract for cards shown in the settings promo card, including promo state, view setup, visibility, and update methods.
+// ---
+
 package org.chromium.chrome.browser.ui.settings_promo_card;
 
 import android.view.View;

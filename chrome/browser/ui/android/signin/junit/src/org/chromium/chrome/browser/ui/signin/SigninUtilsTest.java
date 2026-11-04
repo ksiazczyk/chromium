@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninUtilsTest
+// summary: Robolectric unit tests for SigninUtils verifying that openSettingsForAllAccounts launches the Android sync settings activity with the new-task flag.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.junit.Assert.assertEquals;

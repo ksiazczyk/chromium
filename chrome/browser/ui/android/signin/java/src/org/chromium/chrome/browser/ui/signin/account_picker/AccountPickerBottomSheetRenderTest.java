@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account picker bottom sheet render tests
+// summary: Render tests verifying the visual appearance of the account picker bottom sheet across its view states and night mode variants.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isDisplayed;

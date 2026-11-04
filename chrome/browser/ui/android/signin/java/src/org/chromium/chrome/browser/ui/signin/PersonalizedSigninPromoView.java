@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersonalizedSigninPromoView
+// summary: Container view for personalized sign-in promos exposing image, dismiss button, title and primary button.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import android.content.Context;

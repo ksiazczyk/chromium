@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountPickerLaunchMode
+// summary: Annotation defining the launch behavior modes of the account picker bottom sheet, such as default, choose account and seamless sign-in.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import androidx.annotation.IntDef;

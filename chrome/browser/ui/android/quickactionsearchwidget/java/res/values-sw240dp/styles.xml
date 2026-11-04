@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Quick action search widget styles for sw240dp
+summary: Hides the small Lens and Dino buttons on the quick action search widget for small-screen (sw240dp) Android configurations.
+-->
+
 <resources>
   <style name="QuickActionSearchWidget.SmallLensButton" parent="QuickActionSearchWidgetSmallButton">
     <item name="android:visibility">gone</item>

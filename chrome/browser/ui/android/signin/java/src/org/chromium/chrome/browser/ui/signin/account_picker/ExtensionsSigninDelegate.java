@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions sign-in delegate
+// summary: Sign-in flow delegate for the chrome.identity extensions API that waits for the signed-in account's cookies before continuing and shows an error screen if cookie minting fails.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import org.chromium.base.Callback;

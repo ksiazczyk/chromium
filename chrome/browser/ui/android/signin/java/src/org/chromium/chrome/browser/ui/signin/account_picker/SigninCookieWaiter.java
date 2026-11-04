@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in cookie waiter
+// summary: Helper that waits for a freshly signed-in account to become available in Gaia cookies and reports the outcome, logging errors for the given sign-in access point.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import androidx.annotation.MainThread;

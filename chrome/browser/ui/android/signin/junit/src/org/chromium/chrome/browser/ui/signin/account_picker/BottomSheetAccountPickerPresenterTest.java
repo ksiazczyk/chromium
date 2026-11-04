@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetAccountPickerPresenterTest
+// summary: Robolectric tests verifying that BottomSheetAccountPickerPresenter shows the account picker sheet and only dismisses it for the picker's own hidden state changes.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import static org.mockito.ArgumentMatchers.anyInt;

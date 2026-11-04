@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Sign-in UI include dependency rules
+summary: DEPS rules restricting which directories this folder may include from, with a specific exception allowing WebSigninAccountPickerDelegate to use content LoadUrlParams.

@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Small Quick Action Search Widget provider info
+summary: Appwidget-provider metadata for the small Quick Action Search Widget, defining its minimum and resize dimensions, horizontal and vertical resizing, preview layout and image, and description.
+-->
+
 <appwidget-provider
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:initialLayout="@layout/quick_action_search_widget_small_layout"

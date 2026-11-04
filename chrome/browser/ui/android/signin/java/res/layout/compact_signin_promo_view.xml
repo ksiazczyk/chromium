@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Compact sign-in promo view layout
+summary: Material card layout for a compact sign-in promo with title, dismiss button, description and selected account row.
+-->
+
 <org.chromium.components.browser_ui.widget.MaterialCardViewNoShadow
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:app="http://schemas.android.com/apk/res-auto"

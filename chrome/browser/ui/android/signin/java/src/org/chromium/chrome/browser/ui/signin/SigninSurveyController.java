@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin survey controller
+// summary: Shows sign-in surveys triggered from entry points such as FRE, NTP, and bookmark promos, with per-profile lifecycle management.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.chromium.build.NullUtil.assertNonNull;

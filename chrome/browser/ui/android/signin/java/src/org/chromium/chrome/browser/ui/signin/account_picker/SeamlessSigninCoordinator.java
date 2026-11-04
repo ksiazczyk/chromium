@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seamless sign-in coordinator
+// summary: Coordinator of the seamless sign-in flow that signs the user in directly from a promo, showing the account picker only on sign-in errors or management notices.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import android.app.Activity;

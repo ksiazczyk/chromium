@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History page sign-in promo delegate
+// summary: Sign-in promo delegate for the History page that promotes history sync to signed-in users, with a two-week delay and impression cap between promos.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

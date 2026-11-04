@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm managed sync data dialog coordinator
+// summary: Coordinator that displays dialogs when signing into or out of a managed account, reporting the user's confirmation or cancellation to a listener.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import android.content.Context;

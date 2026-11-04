@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog-when-large content layout
+// summary: FrameLayout that wraps content in a dialog-like layout on large screens and automotive, centering the content and dimming the background.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import android.content.Context;

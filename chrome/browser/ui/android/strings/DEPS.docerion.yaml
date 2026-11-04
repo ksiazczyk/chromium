@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS rules for the strings directory
+summary: Sets noparent to true and keeps the include rules empty, isolating this directory from parent dependency rules.

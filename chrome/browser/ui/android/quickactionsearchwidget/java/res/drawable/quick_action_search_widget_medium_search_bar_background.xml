@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Medium widget search bar background ripple drawable
+summary: Ripple background for the medium widget search bar using the search box background color, bar height, and medium corner radius.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="?android:attr/colorControlHighlight">
     <item android:id="@android:id/mask">

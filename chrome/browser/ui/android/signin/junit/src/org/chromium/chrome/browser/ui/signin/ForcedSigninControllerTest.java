@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ForcedSigninControllerTest
+// summary: Robolectric unit tests for ForcedSigninController covering lifecycle observer registration, destruction, and triggering the fullscreen sign-in promo when the forced sign-in policy applies.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.junit.Assert.assertFalse;

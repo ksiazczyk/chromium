@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UMADialogTest
+// summary: Integration tests for the FRE sign-in UMA dialog, covering the metrics switch behavior and rendering across night mode variants.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.fullscreen_signin;
 
 import static androidx.test.espresso.Espresso.onView;

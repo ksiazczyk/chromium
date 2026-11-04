@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Account picker screen scroll view style
+summary: Defines the AccountPickerScreenScrollView style with static bottom padding and clipToPadding disabled so account picker content can scroll through the padding.
+-->
+
 <resources>
     <!--
     Wrapper for each account picker screen. The bottom padding is static, while

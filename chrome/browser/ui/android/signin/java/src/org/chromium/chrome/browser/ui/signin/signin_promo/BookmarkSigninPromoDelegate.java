@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark sign-in promo delegate
+// summary: Sign-in promo delegate for bookmarks that promotes sign-in or enabling bookmark sync in settings, with impression limits and dismissal handling.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

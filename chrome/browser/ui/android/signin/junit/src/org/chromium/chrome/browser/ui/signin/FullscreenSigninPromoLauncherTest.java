@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenSigninPromoLauncherTest
+// summary: Parameterized Robolectric tests for FullscreenSigninPromoLauncher that verify fullscreen sign-in promo launch behavior, including feature flags and identity manager migration modes.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.mockito.ArgumentMatchers.any;

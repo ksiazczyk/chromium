@@ -4,6 +4,13 @@ Copyright 2018 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Dino widget background ripple drawable
+summary: Ripple background for the dino widget area, combining a widget background shape with a touch highlight mask at dino size and corner radius.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="?android:attr/colorControlHighlight">
     <item android:id="@android:id/mask">

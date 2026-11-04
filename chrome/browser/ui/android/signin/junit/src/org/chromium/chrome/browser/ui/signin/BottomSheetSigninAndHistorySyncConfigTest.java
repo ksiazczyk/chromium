@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetSigninAndHistorySyncConfigTest
+// summary: Unit tests asserting that the BottomSheetSigninAndHistorySyncConfig builder throws AssertionError for invalid seamless sign-in configurations, such as a missing account ID or disabled snackbar.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import org.junit.Test;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Seamless sign-in tests
+// summary: Instrumentation tests for the seamless sign-in coordinator, covering bottom sheet behavior, dismissal handling and sign-in metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import static androidx.test.espresso.action.ViewActions.click;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing Android UI build file
+summary: GN build file that generates JNI headers and compiles the source set for the Android safe browsing dialog views.

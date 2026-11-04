@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Quick Action Search Widget v31 dimension resources
+summary: Defines Android 12+ dimension values for the quick action search widget, mapping its corner radii to the system app widget background radius.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <dimen name="widget_corner_radius">@android:dimen/system_app_widget_background_radius</dimen>
 

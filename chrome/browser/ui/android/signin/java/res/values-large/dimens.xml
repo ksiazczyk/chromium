@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Large-screen dialog dimension resources for signin UI
+summary: Defines fixed dialog width and height percentages for large screens, copying AppCompat values so the fullscreen signin promo dialog can simulate the DialogWhenLarge layout.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Copy of corresponding abc_* values from AppCompat. Used for the
           fullscreen promo dialog mode (FullscreenPromoDialogHelper) to

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account picker coordinator
+// summary: Sets up the account list view and model for the account picker MVC and serves as the entry point for account selection and add-account events.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import androidx.annotation.LayoutRes;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Android UI strings
+summary: Grants review ownership to everyone and asks contributors to reuse or generalize existing strings instead of adding duplicates.

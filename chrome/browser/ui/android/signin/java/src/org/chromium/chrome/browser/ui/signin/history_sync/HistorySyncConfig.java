@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistorySyncConfig
+// summary: Holds the title and subtitle strings plus the opt-in visibility mode for the history sync opt-in view.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.history_sync;
 
 import android.text.TextUtils;

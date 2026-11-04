@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSigninAccountPickerDelegateTest
+// summary: Robolectric tests verifying that WebSigninAccountPickerDelegate handles web sign-in outcomes, tab navigation to the continue URL, and signin state updates.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import static org.mockito.ArgumentMatchers.any;
