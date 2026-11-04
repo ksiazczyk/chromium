@@ -1,0 +1,4 @@
+# Docerion header of IDS_NETWORK_UI_TAB_NETWORK_HOTSPOT.png.sha1.
+type: asset
+title: SHA1 checksum for network UI hotspot tab image
+summary: Holds the SHA1 hash of the PNG image used to verify the network hotspot tab string in the Chrome OS network UI.

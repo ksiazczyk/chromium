@@ -1,0 +1,4 @@
+# Docerion header of IDS_OFFICE_FALLBACK_TITLE_WAITING_FOR_UPLOAD.png.sha1.
+type: asset
+title: SHA-1 checksum for IDS_OFFICE_FALLBACK_TITLE_WAITING_FOR_UPLOAD image
+summary: Holds the SHA-1 hash of the PNG placeholder for the waiting-for-upload title string in the ChromeOS strings resource pack.

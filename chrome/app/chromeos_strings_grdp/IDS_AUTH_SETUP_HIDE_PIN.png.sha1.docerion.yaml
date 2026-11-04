@@ -1,0 +1,4 @@
+# Docerion header of IDS_AUTH_SETUP_HIDE_PIN.png.sha1.
+type: asset
+title: IDS_AUTH_SETUP_HIDE_PIN image hash
+summary: Stores the SHA-1 checksum of the PNG screenshot for the hide PIN option in the auth setup UI.
