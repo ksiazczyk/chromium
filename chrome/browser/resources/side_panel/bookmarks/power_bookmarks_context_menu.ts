@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmarks context menu element
+// summary: Lit element providing the context menu for bookmarks with actions such as opening, editing, deleting, and price tracking.
+// ---
+
 import '/strings.m.js';
 import './icons.html.js';
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';

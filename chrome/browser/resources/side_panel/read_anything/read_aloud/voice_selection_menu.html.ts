@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice selection menu template
+// summary: Lit HTML template for the voice selection dropdown menu with voice items, previews, and a language menu entry.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {VoiceSelectionMenuElement} from './voice_selection_menu.js';

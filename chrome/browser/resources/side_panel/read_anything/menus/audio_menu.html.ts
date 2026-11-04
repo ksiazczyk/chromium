@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio menu Lit template
+// summary: Lit HTML template rendering the audio menu together with the voice selection dialog and accent menu dialogs.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AudioMenuElement} from './audio_menu.js';

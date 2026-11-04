@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper search tile element
+// summary: Defines the customize-chrome-wallpaper-search-tile Lit custom element that renders the tile artwork.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {getCss} from './wallpaper_search_tile.css.js';

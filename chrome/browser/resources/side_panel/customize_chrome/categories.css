@@ -11,6 +11,12 @@
  * #include=cr-hidden-style-lit cr-icons-lit sp-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Categories styles
+summary: Lit CSS styles for the category tile grid, including collection previews, upload and wallpaper search tiles, and dark mode borders.
+*/
+
 sp-heading {
   margin: 0 0 8px;
 }

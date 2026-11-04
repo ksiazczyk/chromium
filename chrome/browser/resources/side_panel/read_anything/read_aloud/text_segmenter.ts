@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextSegmenter wrapper for Intl.Segmenter
+// summary: Wraps Intl.Segmenter to split text into words and sentences for read aloud, updating the language and regrouping sentences that end with opening punctuation.
+// ---
+
 import type {AudioBrowserProxy} from './audio_browser_proxy.js';
 import {AudioBrowserProxyImpl} from './audio_browser_proxy.js';
 import type {Sentence} from './read_aloud_types.js';

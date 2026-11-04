@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Readability content cleanup
+// summary: Removes UI labels, accessibility announcements, and visually hidden wrappers that survive distillation from reading mode content.
+// ---
+
 const ACCESSIBILITY_SELECTOR =
     '[aria-live], [role="alert"], [role="status"], [role="log"]';
 const UI_KEYWORDS = [

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Read Anything side panel build configuration
+summary: GN build file for the Read Anything side panel WebUI, defining the build_webui target and listing its TypeScript, CSS, and static resource files.

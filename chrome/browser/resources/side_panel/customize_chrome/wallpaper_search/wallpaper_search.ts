@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper search side panel element
+// summary: Implements the wallpaper search UI element, handling descriptor selection, custom colors, search requests and result display via the Mojo proxy.
+// ---
+
 import '../check_mark_wrapper.js';
 import './combobox/customize_chrome_combobox.js';
 import 'chrome://customize-chrome-side-panel.top-chrome/shared/sp_heading.js';

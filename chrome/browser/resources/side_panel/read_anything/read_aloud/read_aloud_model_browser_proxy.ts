@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read aloud model browser proxy
+// summary: Proxy interface wrapping text segmentation for read aloud, selecting between TypeScript and V8 implementations via feature flag.
+// ---
+
 import {AudioBrowserProxyImpl} from './audio_browser_proxy.js';
 import type {ReadAloudNode, Segment} from './read_aloud_types.js';
 import {TsReadModelImpl} from './ts_model_impl.js';

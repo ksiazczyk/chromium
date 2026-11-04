@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Power bookmark row styles
+summary: Lit CSS for the power-bookmark-row element, covering drop-position highlighting, expandable folder sizing and heading margins.
+*/
+
 :host {
   display: block;
 }

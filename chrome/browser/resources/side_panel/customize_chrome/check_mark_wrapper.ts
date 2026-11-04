@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Check mark wrapper Lit element
+// summary: Defines the customize-chrome-check-mark-wrapper Lit element with checked and checkmarkBorderHidden properties.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {getCss} from './check_mark_wrapper.css.js';

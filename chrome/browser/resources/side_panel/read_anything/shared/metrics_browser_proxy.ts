@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics browser proxy and UMA enums
+// summary: Defines UMA histogram names and logging enums for Reading Mode, plus the browser proxy used to record metrics to the browser.
+// ---
+
 export enum UmaName {
   HEADING_TO_PARAGRAPH_RATIO =
       'Accessibility.ReadAnything.DistilledPageStructure.HeadingToParagraphRatio',

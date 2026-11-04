@@ -11,6 +11,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Read Anything toolbar styles
+summary: Lit CSS styles for the read-aloud toolbar, covering audio controls, rate button, line focus toggle, and immersive mode layout.
+*/
+
 #audio-controls #play-pause {
   --cr-icon-button-icon-size: 20px;
   --cr-icon-button-fill-color: var(--play-pause-icon-color);

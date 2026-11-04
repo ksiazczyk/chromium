@@ -9,6 +9,12 @@
  * #include=sp-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the history clusters side panel app
+summary: Styles the history clusters side panel app, covering the search box, embeddings disclaimer, scroll container and history embeddings component theming.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

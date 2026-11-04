@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript configuration for the commerce side panel
+summary: TypeScript compiler configuration extending the Chromium Lit base config and adding d3 type definitions for the commerce side panel.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read aloud node store
+// summary: Singleton store mapping DOM nodes to read aloud nodes and updating them when elements are replaced, such as during highlighting.
+// ---
+
 import type {DomReadAloudNode} from './read_aloud_types.js';
 // Manages ReadAloudNodes for use with read aloud
 export class ReadAloudNodeStore {

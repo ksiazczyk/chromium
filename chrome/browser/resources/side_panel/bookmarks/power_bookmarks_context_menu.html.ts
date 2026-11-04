@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu HTML template
+// summary: Lit HTML template for the bookmark context menu, rendering action menu items with dividers and click handling.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PowerBookmarksContextMenuElement} from './power_bookmarks_context_menu.js';

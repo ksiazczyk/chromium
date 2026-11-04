@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome combobox element
+// summary: Lit element implementing the Customize Chrome combobox with flat and grouped options, keyboard navigation, selection handling, and ARIA-aware dropdown behavior.
+// ---
+
 import '../../check_mark_wrapper.js';
 import 'chrome://resources/cr_elements/cr_auto_img/cr_auto_img.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

@@ -10,6 +10,12 @@
  * #include=sp-shared-style toggle-container-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Customize Chrome shortcuts styles
+summary: Styles for the shortcuts card of the Customize Chrome side panel, covering the show toggle, radio group, option rows and accessibility helpers.
+*/
+
 #options {
   align-items: center;
   display: flex;

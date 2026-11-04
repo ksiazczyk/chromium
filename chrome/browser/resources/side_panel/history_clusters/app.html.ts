@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the history clusters app element
+// summary: Provides the Lit HTML template for the history clusters app element with the search field, embeddings disclaimer and results containers.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {HistoryClustersAppElement} from './app.js';

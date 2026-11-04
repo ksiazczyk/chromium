@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmark row template
+// summary: Lit HTML template for the power-bookmark-row element that renders an optional heading and a power-bookmark-row-item bound to the row's properties.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PowerBookmarkRowElement} from './power_bookmark_row.ts';

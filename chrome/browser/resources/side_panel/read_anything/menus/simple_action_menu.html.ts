@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple action menu HTML template
+// summary: Lit HTML template that renders a simple action menu as a lazily rendered cr-action-menu listing items with checkmarks and optional icons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SimpleActionMenuElement} from './simple_action_menu.js';

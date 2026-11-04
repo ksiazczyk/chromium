@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add folder button HTML template
+// summary: Lit HTML template for the add folder button, rendering a new folder row with an add icon and localized accessibility label.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PowerBookmarksAddFolderButtonElement} from './power_bookmarks_add_folder_button.js';

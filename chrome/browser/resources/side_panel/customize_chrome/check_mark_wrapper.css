@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Check mark wrapper styles
+summary: Lit CSS styles for the circular check mark badge shown on selected theme tiles, with RTL and forced-colors support.
+*/
+
 :host {
   --customize-chrome-check-mark-wrapper-background: var(
       --color-side-panel-customize-chrome-theme-checkmark-background);

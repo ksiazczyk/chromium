@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Line focus menu HTML template
+// summary: Lit HTML template for the Read Anything line focus menu, rendering a grouped action menu that stays open on item clicks.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {LineFocusMenuElement} from './line_focus_menu.js';

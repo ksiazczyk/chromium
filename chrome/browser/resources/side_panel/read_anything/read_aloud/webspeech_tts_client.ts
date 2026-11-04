@@ -4,6 +4,12 @@
 
 // TODO: crbug.com/498680741 - refactor TTS code into its own directory.
 
+// ---docerion
+// type: source
+// title: Web Speech TTS client
+// summary: TTS client that plays, pauses, and stops speech via the Web Speech API and provides filtered voices.
+// ---
+
 import type {SpeechBrowserProxy} from './speech_browser_proxy.js';
 import {SpeechBrowserProxyImpl} from './speech_browser_proxy.js';
 import type {TtsClient, TtsUtterance} from './tts_client.js';

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Language menu styles
+summary: Styles the language menu dialog, including the title bar, language rows with toggles, search field, and notification text.
+*/
+
  #languageMenu::part(dialog) {
   --cr-scrollable-border-color: var(--color-side-panel-dialog-divider);
   background: var(--color-side-panel-content-background);

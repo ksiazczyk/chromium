@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech rate menu element
+// summary: Lit element implementing the speech rate menu with speeds from 0.5x to 4x, where 3x and 4x are only shown on ChromeOS.
+// ---
+
 import './simple_action_menu.js';
 
 import {WebUiListenerMixinLit} from '//resources/cr_elements/web_ui_listener_mixin_lit.js';

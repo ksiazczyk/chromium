@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Appearance menu Lit template
+// summary: Lit HTML template that renders the appearance menu as a grouped action menu for the improved Read Aloud UI.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AppearanceMenuElement} from './appearance_menu.js';

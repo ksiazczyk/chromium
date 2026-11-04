@@ -11,6 +11,12 @@
  * #include=cr-icons-lit cr-hidden-style-lit sp-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Context menu styles
+summary: Lit CSS styles for the bookmark context menu, styling dividers and dropdown items.
+*/
+
 hr {
   border: none;
   border-top: var(--cr-hairline);

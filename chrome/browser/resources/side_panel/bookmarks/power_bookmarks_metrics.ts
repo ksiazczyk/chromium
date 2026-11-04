@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmarks side panel metrics recording
+// summary: Records user action and enumeration metrics for the bookmarks side panel, covering folder and bookmark additions, search CTR, sort order, view type, and shown bookmark counts.
+// ---
+
 import {SortOrder, ViewType} from './bookmarks.mojom-webui.js';
 
 // These values are persisted to logs. Entries should not be renumbered and

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the catalog attributes row
+// summary: Lit template showing catalog attributes and a buying options link when price insights data is available.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CatalogAttributesRowElement} from './catalog_attributes_row.js';

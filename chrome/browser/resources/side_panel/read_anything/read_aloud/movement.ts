@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read aloud highlight movement
+// summary: Manages highlight granularities and scrolling for read aloud, moving current and previous sentence and word highlights through the page content.
+// ---
+
 import {NodeStore} from '../content/node_store.js';
 import {isRectVisible} from '../shared/rect_calculations.js';
 

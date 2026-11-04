@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything toolbar element
+// summary: Toolbar Lit element for the Read Anything side panel that hosts menus for speech, appearance, fonts, colors, line focus, and other settings.
+// ---
+
 import './icons.html.js';
 import '../read_aloud/voice_selection_menu.js';
 import '../menus/simple_action_menu.js';

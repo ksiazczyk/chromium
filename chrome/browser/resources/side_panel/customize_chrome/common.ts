@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome metrics enums and recording helpers
+// summary: Defines Customize Chrome action and NTP image type enums plus helpers that record side panel metrics via chrome.metricsPrivate.
+// ---
+
 /**
  * Customize Chrome actions. This enum must match the numbering for
  * NTPCustomizeChromeSidePanelAction in enums.xml. These values are persisted

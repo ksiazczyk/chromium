@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio menu element
+// summary: Lit element defining the audio menu with voice, highlight granularity and language options for Read Aloud.
+// ---
+
 import './grouped_action_menu.js';
 import '../read_aloud/accent_menu.js';
 import '../read_aloud/voice_selection_dialog.js';

@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the price history graph
+summary: Lit styles for the SVG price history graph, including axis, path, bubble, and tooltip styling.
+*/
+
 #historyGraph {
   margin-top: 16px;
   margin-bottom: 16px;

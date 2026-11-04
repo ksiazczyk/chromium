@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Language toast styles
+summary: Styles the toast shown at the bottom of the read aloud panel that reports language and voice availability messages.
+*/
+
 #toast {
   background: #303030;
   bottom: 0;

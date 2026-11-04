@@ -8,6 +8,12 @@
  * #include=toggle-container-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tools element styles
+summary: Styles for the Customize Chrome tools card, laying out the title and toggle that control action chip visibility.
+*/
+
 #showChipsTitle {
   flex-grow: 1;
 }

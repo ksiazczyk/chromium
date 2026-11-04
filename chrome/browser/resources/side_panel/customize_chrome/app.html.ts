@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App element template (app.html.ts)
+// summary: Lit HTML template for the app element that renders overview sections such as appearance, toolbar, tools, shortcuts, cards, extensions and footer.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AppElement} from './app.js';

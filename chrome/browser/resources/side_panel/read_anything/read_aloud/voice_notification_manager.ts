@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice notification manager
+// summary: Notifies listeners of language pack download and availability status changes for read aloud voices.
+// ---
+
 import {getNotification, NotificationType} from './voice_language_conversions.js';
 import type {VoiceClientSideStatusCode} from './voice_language_conversions.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list item element Lit template
+// summary: Lit HTML template for a reading list item, showing the entry title, URL and mark-as-read and delete buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ReadingListItemElement} from './reading_list_item.js';

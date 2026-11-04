@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice and language state model
+// summary: Holds read aloud state for enabled and available languages, available voices, voice pack install statuses, and pending language download requests.
+// ---
+
 import type {VoiceClientSideStatusCode, VoicePackStatus} from './voice_language_conversions.js';
 
 // Holds state around languages and associated voices used by read aloud.

@@ -1,0 +1,4 @@
+# Docerion header of comments.html.
+type: source
+title: Comments side panel WebUI entry page
+summary: HTML shell that sets up styling and loads the app module for the comments side panel WebUI.

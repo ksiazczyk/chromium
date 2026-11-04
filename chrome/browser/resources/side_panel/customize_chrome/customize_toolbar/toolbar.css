@@ -10,6 +10,12 @@
  * #include=sp-shared-style cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Customize toolbar styles
+summary: CSS for the customize toolbar side panel, styling cards, pinning toggles, reset button, tip card, and mini toolbar preview.
+*/
+
 .sp-card {
   font-size: 12px;
   font-weight: 500;

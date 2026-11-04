@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading mode node store
+// summary: Stores reading mode nodes in a two-way DOM node to AX node ID map and tracks text seen to estimate words read.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import type {VisualBrowserProxy} from '../app/visual_browser_proxy.js';

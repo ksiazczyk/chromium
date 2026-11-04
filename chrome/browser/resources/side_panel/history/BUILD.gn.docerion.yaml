@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the history side panel WebUI
+summary: GN build rules that compile the history side panel WebUI, listing its HTML, TypeScript and CSS sources plus Lit and history component dependencies.

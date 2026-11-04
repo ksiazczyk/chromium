@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeScript read aloud model implementation
+// summary: Implements the read aloud model in TypeScript behind a feature flag, segmenting page text into sentences and providing highlights, accessible text, and speech navigation.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import {getReadingModeTextNodes} from '../shared/tree_traversal.js';

@@ -10,6 +10,12 @@
  * #include=sp-shared-style toggle-container-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Cards styles
+summary: Lit CSS styles for the cards element, covering the show toggle, card layout, checkboxes, and collapse behavior.
+*/
+
 #showToggleTitle {
   flex-grow: 1;
 }

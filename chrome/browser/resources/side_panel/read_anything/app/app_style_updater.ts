@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything app style updater
+// summary: Updates the visual styles of the Reading Mode panel, applying theme colors, line focus dimensions, and layout settings to the app element.
+// ---
+
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {LineFocusType} from '../content/read_anything_types.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared menu utility types
+// summary: Shared enums and interfaces for Read Anything toolbar menus, covering settings items, menu state items, menu groups, and the ToolbarMenu contract.
+// ---
+
 import type {SettingsOption, ShowAtConfigPrefs} from '../content/read_anything_types.js';
 
 export enum SettingsItemType {

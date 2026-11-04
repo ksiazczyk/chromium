@@ -10,6 +10,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Hover button element styles
+summary: Styles for the hover button element, including hover and focus states and Windows high contrast support.
+*/
+
 #hoverButton {
   background: transparent;
   border: none;

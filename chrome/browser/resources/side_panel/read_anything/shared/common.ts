@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Read Anything shared constants and utility functions
+// summary: Shared constants and helpers for the Read Anything side panel, covering menu opening, word counting, and distillation and PDF feature checks.
+// ---
+
 import type {CrActionMenuElement} from '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import {AnchorAlignment} from '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import {isRTL} from '//resources/js/util.js';

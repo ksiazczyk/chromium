@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Power bookmarks app HTML template
+// summary: Lit HTML template for the bookmarks side panel app, laying out search, labels, bookmark list, empty state and footer editing actions.
+// ---
+
 import '//resources/cr_elements/cr_lazy_render/cr_lazy_render_lit.js';
 
 import {html} from '//resources/lit/v3_0/lit.rollup.js';

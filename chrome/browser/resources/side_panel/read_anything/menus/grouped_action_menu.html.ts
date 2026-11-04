@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Grouped action menu HTML template
+// summary: Lit HTML template for the grouped action menu, rendering menu groups with headers, separators, shortcuts and selectable items.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {GroupedActionMenuElement} from './grouped_action_menu.js';

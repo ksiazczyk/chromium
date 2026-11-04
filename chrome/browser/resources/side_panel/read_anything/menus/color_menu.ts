@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color menu element
+// summary: Lit element defining the color theme menu, listing default, light, dark, yellow, blue and contrast theme options for the Read Anything side panel.
+// ---
+
 import './simple_action_menu.js';
 
 import {WebUiListenerMixinLit} from '//resources/cr_elements/web_ui_listener_mixin_lit.js';

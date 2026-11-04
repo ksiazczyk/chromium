@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Selection controller for the Reading Mode side panel
+// summary: Handles text selection business logic in the Reading Mode side panel, tracking the current selection and forwarding changes to the main panel via the content browser proxy.
+// ---
+
 import {isDistilledByReadability} from '../shared/common.js';
 import {getNearestTextBoundaryPoint, getTextNodeOffsets, isBackwardSelection} from '../shared/dom_queries.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmarks app element
+// summary: Main Lit element of the bookmarks side panel, wiring search, labels, list, context menu, bulk editing and metrics through the bookmarks service.
+// ---
+
 import '/strings.m.js';
 import './commerce/shopping_list.js';
 import './icons.html.js';

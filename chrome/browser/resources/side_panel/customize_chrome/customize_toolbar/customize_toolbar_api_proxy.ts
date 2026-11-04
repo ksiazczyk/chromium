@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize toolbar API proxy
+// summary: Singleton proxy that creates and exposes the Mojo handler and callback router used by the customize toolbar side panel UI.
+// ---
+
 import type {CustomizeToolbarHandlerInterface} from '../customize_toolbar.mojom-webui.js';
 import {CustomizeToolbarClientCallbackRouter, CustomizeToolbarHandlerFactory, CustomizeToolbarHandlerRemote} from '../customize_toolbar.mojom-webui.js';
 

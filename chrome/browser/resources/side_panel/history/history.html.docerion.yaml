@@ -1,0 +1,4 @@
+# Docerion header of history.html.
+type: source
+title: Entry page for the history side panel WebUI
+summary: HTML shell that loads theme styles and the history module and hosts the history-app element.

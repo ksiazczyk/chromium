@@ -11,6 +11,12 @@
  * #include=cr-hidden-style-lit cr-icons-lit sp-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Appearance element styles (appearance.css)
+summary: Styles for the appearance section covering the theme snapshot, edit and wallpaper search buttons, color picker and follow-device theme toggle.
+*/
+
 #themeSnapshot {
   display: block;
 }

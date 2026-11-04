@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Grouped action menu element
+// summary: Lit element implementing a dropdown menu of grouped items with headers and separators, firing events for the selected menu items.
+// ---
+
 import '/strings.m.js';
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';

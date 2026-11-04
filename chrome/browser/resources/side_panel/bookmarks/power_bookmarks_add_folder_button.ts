@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add folder button element
+// summary: Lit element implementing the new folder button in the bookmarks side panel with disabled and compact properties.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

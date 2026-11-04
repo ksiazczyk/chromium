@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover button custom element
+// summary: Lit element implementing the customize-chrome-hover-button with keyboard activation and label properties.
+// ---
+
 import './button_label.js';
 
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

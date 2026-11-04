@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rect visibility and line bounds calculations
+// summary: Computes rect visibility within the window and merges intersecting client rects to derive text line bounds for Reading Mode.
+// ---
+
 import {VisualBrowserProxyImpl} from '../app/visual_browser_proxy.js';
 
 // The percent of a view that must be visible to be considered "mostly visible"

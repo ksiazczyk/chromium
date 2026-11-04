@@ -12,6 +12,12 @@
  * #include=cr-hidden-style-lit cr-icons-lit sp-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Wallpaper search side panel styles
+summary: Styles the wallpaper search UI, including descriptor comboboxes, the color grid, error card and custom color picker elements.
+*/
+
 sp-heading {
   margin: 0 0 8px;
 }

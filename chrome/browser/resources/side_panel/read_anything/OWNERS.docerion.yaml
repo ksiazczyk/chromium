@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Read Anything side panel code owners
+summary: OWNERS file listing the primary and backup code reviewers for the Read Anything side panel directory, including per-file owner rules.

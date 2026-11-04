@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared toolbar styles for Read Anything
+summary: Shared CSS that customizes cr-icon-button, cr-button, and cr-toggle appearance with toolbar sizing, focus, and hover variables for the Read Anything side panel.
+*/
+
 cr-icon-button {
   --cr-icon-button-icon-size: 20px;
   --cr-icon-button-size: 28px;

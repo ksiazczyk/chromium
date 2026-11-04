@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters side panel app element
+// summary: Implements the HistoryClustersAppElement Lit element that wires the search box, history clusters and history embeddings components together.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_components/history_clusters/clusters.js';
 import 'chrome://resources/cr_components/history_embeddings/history_embeddings.js';

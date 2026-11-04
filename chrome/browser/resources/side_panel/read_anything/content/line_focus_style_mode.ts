@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Line focus style strategies
+// summary: Defines the base class and visual style strategies for line focus, such as single-line underline and multi-line window modes.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import {getMostCommonPitch, getRectIndexAtY} from '../shared/rect_calculations.js';

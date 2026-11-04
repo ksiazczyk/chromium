@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: source
+// title: Readability image classifier
+// summary: Classifies distilled images as inline or full-width using a cascade of heuristics based on size, metadata, structure, and alt text.
+// ---
+
 // A utility class for classifying images in Readability distilled content.
 // Uses a prioritized cascade of heuristics to classify an image as either
 // inline (e.g., icon) or full-width (e.g., feature image). The checks are:

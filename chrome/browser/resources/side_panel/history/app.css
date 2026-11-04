@@ -9,6 +9,12 @@
  * #include=sp-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the history side panel app element
+summary: Lit style sheet that lays out the history-app element as a full-height flex column.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

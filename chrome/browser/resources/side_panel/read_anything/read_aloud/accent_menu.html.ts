@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accent menu HTML template
+// summary: Lit HTML template rendering the accent menu dialog with a language search field, selectable language radio items, and a language toast.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AccentMenuElement} from './accent_menu.js';

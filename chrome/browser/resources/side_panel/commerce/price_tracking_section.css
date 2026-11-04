@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Price tracking section styles
+summary: Lit CSS styles for the price tracking section, laying out the toggle, title, annotation text and annotation button.
+*/
+
 #toggleSection {
   align-items: center;
   display: flex;

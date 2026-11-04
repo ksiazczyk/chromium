@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Read Anything app styles
+summary: Lit CSS styles for the Read Anything side panel app, covering layout, line focus highlighting, scrolling, and empty state appearance.
+*/
+
 /* #css_wrapper_metadata_start
  * #type=style-lit
  * #import=//read-anything-side-panel.top-chrome/shared/sp_shared_style.css.js

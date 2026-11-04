@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome Mojo API proxy singleton
+// summary: Singleton proxy that connects the WebUI to the Customize Chrome page handler and callback router over Mojo.
+// ---
+
 import type {CustomizeChromePageHandlerInterface} from './customize_chrome.mojom-webui.js';
 import {CustomizeChromePageCallbackRouter, CustomizeChromePageHandlerFactory, CustomizeChromePageHandlerRemote} from './customize_chrome.mojom-webui.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual browser proxy for Read Anything settings
+// summary: Defines the VisualBrowserProxy interface and implementation exposing fonts, spacing, color themes, line focus, presentation state, and image or link toggles for the Read Anything side panel.
+// ---
+
 import type {ChromeEvent} from '/tools/typescript/definitions/chrome_event.js';
 
 import {EventForwarder} from '../content/read_anything_types.js';
