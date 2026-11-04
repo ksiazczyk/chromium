@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Parent access build configuration (BUILD.gn)
+summary: GN build file defining the mojo bindings, the parent_access static library, test support and browser/unit test targets.

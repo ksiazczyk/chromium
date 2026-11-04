@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor page handler header
+// summary: Declares the SensorPageHandler class, which observes sensor updates, handles Mojo recording commands, and writes updates to an output file.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SENSOR_INFO_SENSOR_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SENSOR_INFO_SENSOR_PAGE_HANDLER_H_
 

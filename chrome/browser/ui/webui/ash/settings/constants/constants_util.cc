@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash settings enum enumeration utilities
+// summary: Implements AllSections, AllSubpages and AllSettings, which return spans of every valid Section, Subpage and Setting mojom enum value.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/constants/constants_util.h"
 
 #include <array>

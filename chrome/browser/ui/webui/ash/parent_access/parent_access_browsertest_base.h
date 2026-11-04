@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access browser test base header
+// summary: Declares base classes for parent access browser tests with regular-user and child-user variants.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_PARENT_ACCESS_PARENT_ACCESS_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_PARENT_ACCESS_PARENT_ACCESS_BROWSERTEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access browser test base implementation
+// summary: Implements browser test base classes that log in regular or child users and set up identity for parent access tests.
+// ---
+
 #include "chrome/browser/ui/webui/ash/parent_access/parent_access_browsertest_base.h"
 
 #include <string>

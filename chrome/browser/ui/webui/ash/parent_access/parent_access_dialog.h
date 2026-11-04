@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access dialog header
+// summary: Declares ParentAccessDialog with its result statuses and the ParentAccessDialogProvider interface for showing it.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_PARENT_ACCESS_PARENT_ACCESS_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_PARENT_ACCESS_PARENT_ACCESS_DIALOG_H_
 

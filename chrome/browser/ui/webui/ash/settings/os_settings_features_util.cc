@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS Settings features utility implementation
+// summary: Implements helper predicates that decide which OS Settings features apply to a user or profile, covering powerwash, sanitize, kiosk, parental controls, and app restore.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/os_settings_features_util.h"
 
 #include "ash/constants/ash_features.h"

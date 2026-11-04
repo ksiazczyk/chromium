@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the storage size calculator
+summary: Defines the calculator and test_support static libraries and their dependencies for the ChromeOS settings storage size calculator.

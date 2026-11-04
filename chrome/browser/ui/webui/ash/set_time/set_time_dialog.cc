@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set Time dialog implementation
+// summary: Implements the Set Time system dialog, including its default size and whether the timezone selector is shown before login.
+// ---
+
 #include "chrome/browser/ui/webui/ash/set_time/set_time_dialog.h"
 
 #include <string>

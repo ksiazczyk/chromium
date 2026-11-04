@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake parent access dialog provider header
+// summary: Declares FakeParentAccessDialogProvider and its Action class for simulating dialog outcomes in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_PARENT_ACCESS_FAKE_PARENT_ACCESS_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_PARENT_ACCESS_FAKE_PARENT_ACCESS_DIALOG_H_
 

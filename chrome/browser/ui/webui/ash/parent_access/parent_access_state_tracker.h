@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access state tracker
+// summary: Declares the parent access state tracker class and the FlowResult enum used to record flow outcomes in histograms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_PARENT_ACCESS_PARENT_ACCESS_STATE_TRACKER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_PARENT_ACCESS_PARENT_ACCESS_STATE_TRACKER_H_
 

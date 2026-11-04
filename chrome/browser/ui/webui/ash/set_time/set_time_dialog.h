@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set Time dialog class declaration
+// summary: Declares the SetTimeDialog class that shows the system dialog for setting time, date and time zone.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SET_TIME_SET_TIME_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SET_TIME_SET_TIME_DIALOG_H_
 

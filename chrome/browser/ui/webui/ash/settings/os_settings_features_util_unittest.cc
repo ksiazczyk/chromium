@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the OS Settings features utility
+// summary: Verifies with fake user managers and install attributes that powerwash is allowed for regular users and blocked for guest, child, and managed users.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/os_settings_features_util.h"
 
 #include "base/check_deref.h"

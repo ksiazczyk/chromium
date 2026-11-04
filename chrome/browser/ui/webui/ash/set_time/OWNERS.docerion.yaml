@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the set_time directory
+summary: Points to the ChromeOS settings OWNERS file as the code owners for this directory.

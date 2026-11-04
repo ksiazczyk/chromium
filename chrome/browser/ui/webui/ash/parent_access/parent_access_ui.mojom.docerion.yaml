@@ -1,0 +1,4 @@
+# Docerion header of parent_access_ui.mojom.
+type: source
+title: Parent access WebUI Mojo interface definitions
+summary: Defines Mojo structs, enums and the ParentAccessUiHandler interface used by the parent access WebUI to communicate with ChromeOS.

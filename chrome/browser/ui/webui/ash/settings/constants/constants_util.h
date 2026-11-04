@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash settings enum utility header
+// summary: Declares AllSections, AllSubpages and AllSettings functions that expose spans of all valid settings mojom enum values, excluding internal subpages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_CONSTANTS_CONSTANTS_UTIL_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_CONSTANTS_CONSTANTS_UTIL_H_
 

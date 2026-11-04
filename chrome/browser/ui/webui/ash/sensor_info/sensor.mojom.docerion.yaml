@@ -1,0 +1,4 @@
+# Docerion header of sensor.mojom.
+type: source
+title: Sensor Mojo interface definitions
+summary: Defines Mojo enums, structs, unions and interfaces for sensor updates and the page handler used by the sensor-info WebUI.

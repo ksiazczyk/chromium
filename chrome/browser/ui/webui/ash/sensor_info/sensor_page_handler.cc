@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor page handler implementation
+// summary: Implements the sensor page handler that receives sensor updates, forwards them to the WebUI, and records them to a file in the Downloads directory.
+// ---
+
 #include "chrome/browser/ui/webui/ash/sensor_info/sensor_page_handler.h"
 
 #include <string>

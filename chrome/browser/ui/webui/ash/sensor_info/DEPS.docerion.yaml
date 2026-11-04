@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Sensor info directory include rules
+summary: Specifies allowed include dependencies for the sensor_info directory, restricting //chrome dependencies and granting extra includes to test files.

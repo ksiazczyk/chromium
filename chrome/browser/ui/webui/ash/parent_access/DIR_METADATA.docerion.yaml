@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Parent access directory metadata (DIR_METADATA)
+summary: Points to the shared directory metadata mixins from the child accounts component.

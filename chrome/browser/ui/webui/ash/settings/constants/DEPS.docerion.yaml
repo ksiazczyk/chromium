@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for settings constants
+summary: Sets include rules that forbid dependencies on //chrome while allowing this directory to include its own files, per ChromeOS dependency policy.

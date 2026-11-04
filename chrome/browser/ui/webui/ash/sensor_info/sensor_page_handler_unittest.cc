@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sensor page handler unit tests
+// summary: Unit tests for SensorPageHandler covering output string generation and start/stop recording behavior using a testing profile.
+// ---
+
 #include "chrome/browser/ui/webui/ash/sensor_info/sensor_page_handler.h"
 
 #include <memory>

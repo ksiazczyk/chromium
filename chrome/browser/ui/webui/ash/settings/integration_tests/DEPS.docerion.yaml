@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for settings integration tests
+summary: Restricts //chrome dependencies for ChromeOS settings tests and grants per-file exceptions for browser and interactive UI tests.

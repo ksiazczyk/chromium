@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ash settings directory
+summary: Restricts which Chrome and ash headers files in this directory may include, with per-file exceptions for specific handlers and sections.

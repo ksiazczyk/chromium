@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake parent access dialog provider implementation
+// summary: Implements a fake dialog provider that replays scripted actions, results and errors for use in tests.
+// ---
+
 #include "chrome/browser/ui/webui/ash/parent_access/fake_parent_access_dialog.h"
 
 #include <utility>

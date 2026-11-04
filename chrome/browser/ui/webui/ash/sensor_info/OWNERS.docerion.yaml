@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sensor info Mojo file owners
+summary: Requires IPC security owner approval for changes to Mojo files in this directory.

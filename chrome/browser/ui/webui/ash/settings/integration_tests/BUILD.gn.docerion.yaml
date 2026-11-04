@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for OS settings integration tests
+summary: Defines the interactive UI test and browser test source sets with their sources and dependencies for ChromeOS settings integration tests.

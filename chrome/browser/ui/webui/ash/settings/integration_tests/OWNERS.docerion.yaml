@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for OS settings browser tests
+summary: Delegates review of os_settings_*_browsertest.cc files to the login lock screen owners list.

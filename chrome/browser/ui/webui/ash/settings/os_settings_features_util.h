@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS Settings features utility declarations
+// summary: Declares helper functions that determine feature availability in OS Settings based on user type, management state, and feature flags.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_OS_SETTINGS_FEATURES_UTIL_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_OS_SETTINGS_FEATURES_UTIL_H_
 

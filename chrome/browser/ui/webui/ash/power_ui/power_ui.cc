@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power UI controller implementation
+// summary: Implements the WebUI controller and message handler that serve battery charge, system resume, CPU idle, and CPU frequency data to the ChromeOS power diagnostics page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/power_ui/power_ui.h"
 
 #include <stddef.h>

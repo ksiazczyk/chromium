@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the set_time directory
+summary: Sets include rules that restrict //chrome dependencies and allow specific includes needed by the set_time directory.
