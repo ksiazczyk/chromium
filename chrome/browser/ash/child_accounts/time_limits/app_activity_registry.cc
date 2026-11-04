@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppActivityRegistry implementation
+// summary: Implements the registry that tracks app activity and time limits for child users, persists activity between sessions and reports app state to the server.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/app_activity_registry.h"
 
 #include <algorithm>

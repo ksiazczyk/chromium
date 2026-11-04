@@ -1,0 +1,4 @@
+# Docerion header of override_then_modify.textproto.
+type: test
+title: Override then modify golden test suite
+summary: Golden test cases covering overrides followed by changes to the bedtime or usage limit policy, verifying lock state after the modification.

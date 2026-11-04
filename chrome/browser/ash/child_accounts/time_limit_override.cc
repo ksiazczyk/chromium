@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time limit override implementation
+// summary: Implements parsing and serialization of LOCK and UNLOCK override entries used by the usage time limit policy.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limit_override.h"
 
 #include <utility>

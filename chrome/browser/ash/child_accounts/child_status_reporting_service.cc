@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildStatusReportingService implementation
+// summary: Implements periodic upload of child device usage status reports and recreates the status uploader when time limit policy changes.
+// ---
+
 #include "chrome/browser/ash/child_accounts/child_status_reporting_service.h"
 
 #include "ash/constants/ash_pref_names.h"

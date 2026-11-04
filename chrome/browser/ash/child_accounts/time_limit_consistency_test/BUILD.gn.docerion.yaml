@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for usage time limit unittests
+summary: Defines the usage_time_limit_unittests test binary with its sources and dependencies, plus the consistency golden proto library target.

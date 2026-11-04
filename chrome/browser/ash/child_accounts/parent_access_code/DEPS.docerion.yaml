@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Parent access code include dependency rules
+summary: Restricts //chrome includes for the directory and grants specific exceptions for existing dependencies and tests.

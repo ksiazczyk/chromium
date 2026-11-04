@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External display brightness service implementation
+// summary: Implements the CfM external display brightness service, handling mojo binding lifecycle and forwarding brightness and ALS brightness calls to the power manager client.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/external_display_brightness/external_display_brightness_service.h"
 
 #include "chromeos/ash/components/dbus/chromebox_for_meetings/cfm_hotline_client.h"

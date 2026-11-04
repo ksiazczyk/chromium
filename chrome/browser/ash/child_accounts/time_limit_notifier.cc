@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time limit notifier implementation
+// summary: Shows warning, exit, and policy update notifications when screen time or bedtime limits are about to lock the child session.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limit_notifier.h"
 
 #include <memory>

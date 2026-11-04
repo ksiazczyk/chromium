@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Per-App Time Limits browser tests
+// summary: Integration browser tests for the Per-App Time Limits feature, exercising ARC app installs and time limit behavior in a logged-in session.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

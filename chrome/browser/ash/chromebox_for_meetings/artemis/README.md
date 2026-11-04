@@ -1,3 +1,11 @@
+---
+type: readme
+title: Artemis data collection API overview
+summary: Explains the Artemis data-collection API for Chromebox for Meetings, covering DataAggregator, data sources, watchdogs, and how buffered data is fetched and uploaded.
+relations:
+  - references /chromeos/services/chromebox_for_meetings/public/mojom/meet_devices_data_aggregator.mojom
+---
+
 chrome/browser/ash/chromebox_for_meetings/artemis
 =================================================
 

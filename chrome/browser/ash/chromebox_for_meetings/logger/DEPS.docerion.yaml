@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Logger directory dependency rules
+summary: Restricts includes for the logger directory, blocking //chrome dependencies except for allowed ash CfM and settings paths.

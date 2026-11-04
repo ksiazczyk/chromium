@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandSource class header
+// summary: Declares CommandSource, a LocalDataSource subclass that tracks the output of a particular command for Artemis data collection.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_ARTEMIS_COMMAND_SOURCE_H_
 #define CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_ARTEMIS_COMMAND_SOURCE_H_
 

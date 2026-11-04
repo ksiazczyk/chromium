@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the on_device_controls library and unit tests
+summary: Defines the on_device_controls static library and its unit test source set together with their build dependencies.

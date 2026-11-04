@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for meet_browser
+summary: DEPS file blocking ChromeOS dependencies on //chrome while allowing chromebox_for_meetings includes within the browser directory.

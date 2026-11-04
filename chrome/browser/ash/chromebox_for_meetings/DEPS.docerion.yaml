@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Chromebox for Meetings
+summary: Restricts includes so ChromeOS code does not depend on //chrome, with an exception allowing this directory to include its own files.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for concierge_helper
+summary: Defines the concierge_helper static library and its unit test source set with their Chrome OS dependencies.

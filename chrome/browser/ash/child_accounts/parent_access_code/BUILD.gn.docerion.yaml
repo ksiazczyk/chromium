@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Parent access code build configuration
+summary: Defines the parent access code static library, test support, and unit and browser test targets with their dependencies.

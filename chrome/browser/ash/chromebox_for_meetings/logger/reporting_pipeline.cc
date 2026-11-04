@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportingPipeline implementation
+// summary: Enqueues Meet device records into the Chrome encrypted reporting pipeline and updates service state from device settings policy.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/logger/reporting_pipeline.h"
 
 #include <cstdint>

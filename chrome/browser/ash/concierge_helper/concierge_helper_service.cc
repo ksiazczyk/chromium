@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConciergeHelperService implementation
+// summary: Implements the per-profile service that starts Concierge and sends SetVmCpuRestriction requests to throttle or unthrottle ARC and Termina VM CPU usage.
+// ---
+
 #include "chrome/browser/ash/concierge_helper/concierge_helper_service.h"
 
 #include <optional>

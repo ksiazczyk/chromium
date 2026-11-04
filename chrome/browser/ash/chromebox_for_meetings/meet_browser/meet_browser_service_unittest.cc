@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MeetBrowserService
+// summary: Tests MeetBrowserService through fake CFM hotline and service connection fakes, exercising mojo binding and device ID translation.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/meet_browser/meet_browser_service.h"
 
 #include <asm-generic/errno.h>

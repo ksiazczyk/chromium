@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Golden converter for time limit processor tests
+// summary: Implements conversion of golden input protos into time limit processor policies and of processor states back into golden output protos.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limit_consistency_test/consistency_golden_converter.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user device metrics class header
+// summary: Declares FamilyUserDeviceMetrics, which logs UMA histograms for new users, device owner status, and Gaia and Family Link user counts.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_FAMILY_USER_DEVICE_METRICS_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_FAMILY_USER_DEVICE_METRICS_H_
 

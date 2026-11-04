@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family user parental control metrics unit tests
+// summary: Unit tests for FamilyUserParentalControlMetrics covering daily reporting of time limit policy metrics for child profiles.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_parental_control_metrics.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for child accounts build targets
+summary: Defines the child_accounts static library, test support, and unit test targets with their sources and dependencies for the GN build.

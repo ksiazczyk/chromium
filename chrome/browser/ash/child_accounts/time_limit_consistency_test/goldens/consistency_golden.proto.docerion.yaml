@@ -1,0 +1,4 @@
+# Docerion header of consistency_golden.proto.
+type: source
+title: Time limit consistency golden proto schema
+summary: Protobuf schema defining the ConsistencyGolden messages, enums, and fields used by golden files in the time limit consistency test suite.

@@ -6,6 +6,12 @@
 // files. This is a parameterized test, so the single test method will actually
 // produce one test case for each case listed inside each golden file.
 
+// ---docerion
+// type: test
+// title: Golden consistency tests for the time limit processor
+// summary: Parameterized test that runs the time limit processor on each loaded golden case and checks the output matches the expected golden output.
+// ---
+
 #include <memory.h>
 
 #include "base/strings/string_number_conversions.h"

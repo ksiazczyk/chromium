@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device controls region utilities
+// summary: Provides helpers to read the device region code from VPD and check whether on-device controls are available in that region.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/on_device_utils.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for child accounts
+summary: Restricts which //chrome and other headers files in this directory may include, with extra allowances for test files.

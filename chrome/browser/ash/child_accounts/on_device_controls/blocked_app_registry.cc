@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocked app registry implementation
+// summary: Tracks blocked apps, applies blocks through the app service, persists them via BlockedAppStore, and records engagement metrics.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/blocked_app_registry.h"
 
 #include <algorithm>

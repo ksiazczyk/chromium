@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTimeNavigationObserver implementation
+// summary: Implements WebTimeNavigationObserver, which watches tab navigations and notifies listeners about web activity changes for time limit tracking.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/web_time_navigation_observer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConciergeHelperService header
+// summary: Declares ConciergeHelperService, which starts Concierge and enables or disables CPU throttling for VMs, along with its profile-keyed factory.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CONCIERGE_HELPER_CONCIERGE_HELPER_SERVICE_H_
 #define CHROME_BROWSER_ASH_CONCIERGE_HELPER_CONCIERGE_HELPER_SERVICE_H_
 

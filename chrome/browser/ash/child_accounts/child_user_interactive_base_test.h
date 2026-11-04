@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child user interactive base test class declaration
+// summary: Declares a Kombucha-based interactive test base class that applies typical supervised user policies and logs in a child user.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_CHILD_USER_INTERACTIVE_BASE_TEST_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_CHILD_USER_INTERACTIVE_BASE_TEST_H_
 

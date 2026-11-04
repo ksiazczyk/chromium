@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blocked app registry unit tests
+// summary: Unit tests for the blocked app registry covering adding, removing, and unblocking apps and related histogram metrics.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/blocked_app_registry.h"
 
 #include <memory>

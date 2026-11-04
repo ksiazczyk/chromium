@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web time calculation browser tests
+// summary: Browser tests verifying Chrome app activity state and web time calculation under the UnicornChromeActivityReporting feature with child user policies.
+// ---
+
 #include <cstddef>
 #include <vector>
 

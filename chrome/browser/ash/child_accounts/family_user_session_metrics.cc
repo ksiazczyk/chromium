@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user session metrics implementation
+// summary: Records and reports session engagement metrics such as active hours and daily session duration for family users on Chrome OS.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_session_metrics.h"
 
 #include <string>

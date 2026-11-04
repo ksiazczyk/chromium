@@ -1,0 +1,4 @@
+# Docerion header of simple_bedtimes.textproto.
+type: test
+title: Simple bedtimes golden test suite
+summary: Golden test cases verifying device locking during simple bedtime window limits, covering both locked and unlocked scenarios.

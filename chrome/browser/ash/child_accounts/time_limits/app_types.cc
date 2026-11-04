@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App types implementation
+// summary: Implements app identifiers, limits and activity tracking, including merging of overlapping active time intervals.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/app_types.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentDb implementation
+// summary: Implements the PersistentDb singleton lifecycle; the key-value storage methods are currently stubs pending implementation.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/artemis/persistent_db.h"
 
 #include <ostream>

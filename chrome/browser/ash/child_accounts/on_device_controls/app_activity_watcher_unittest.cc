@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App activity watcher unit tests
+// summary: Tests that activating a blocked ARC app triggers the local block dialog through the activity watcher.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/app_activity_watcher.h"
 
 #include <memory>

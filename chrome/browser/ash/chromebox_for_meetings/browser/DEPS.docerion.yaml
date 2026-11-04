@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the CfM browser directory
+summary: Restricts dependencies on //chrome for ChromeOS code while allowing the CfM browser directory and memory_details.h.

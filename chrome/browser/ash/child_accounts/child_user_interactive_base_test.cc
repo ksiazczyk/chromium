@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child user interactive base test implementation
+// summary: Implements the shared base for supervised-user interactive UI tests, setting up child user policies and logging the user in.
+// ---
+
 #include "chrome/browser/ash/child_accounts/child_user_interactive_base_test.h"
 
 #include <memory>

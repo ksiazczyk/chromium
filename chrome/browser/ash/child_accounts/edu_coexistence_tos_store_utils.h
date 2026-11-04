@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edu coexistence ToS consent storage utilities interface
+// summary: Declares UserConsentInfo and functions to compare, store, and read accepted edu coexistence terms of service versions in profile prefs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_EDU_COEXISTENCE_TOS_STORE_UTILS_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_EDU_COEXISTENCE_TOS_STORE_UTILS_H_
 

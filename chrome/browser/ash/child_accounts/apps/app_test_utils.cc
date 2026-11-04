@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App test utility implementations for ARC apps and extensions
+// summary: Implements helpers that create ARC app packages, ARC app info, and Chrome extensions for use in tests.
+// ---
+
 #include "chrome/browser/ash/child_accounts/apps/app_test_utils.h"
 
 #include "base/containers/flat_map.h"

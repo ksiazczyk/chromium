@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App activity watcher implementation
+// summary: Observes app instance updates and stops blocked apps, showing a local block dialog when they become active.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/app_activity_watcher.h"
 
 #include <string>

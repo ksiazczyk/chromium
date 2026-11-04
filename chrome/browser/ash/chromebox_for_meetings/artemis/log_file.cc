@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogFile implementation
+// summary: Implements LogFile, which opens log files at a stored offset, tracks read position and retrieves batches of lines under a byte cap.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/artemis/log_file.h"
 
 #include <unistd.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalDataSource unit tests
+// summary: Unit tests for LocalDataSource covering fetch, data buffering, redaction and watchdog callback behavior using a test peer subclass.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/artemis/local_data_source.h"
 
 #include "base/functional/callback_helpers.h"

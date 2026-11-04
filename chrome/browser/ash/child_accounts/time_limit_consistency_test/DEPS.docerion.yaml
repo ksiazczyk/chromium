@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for time limit consistency tests
+summary: Sets include rules that block //chrome dependencies and allow chrome/browser/ash/child_accounts for this test directory.

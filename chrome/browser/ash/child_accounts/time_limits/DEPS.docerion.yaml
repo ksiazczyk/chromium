@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for time limits
+summary: Sets include rules that restrict dependencies on //chrome for ChromeOS code and lists the allowed exceptions for the time limits directory and its tests.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the CFM diagnostics directory
+summary: Sets DEPS include rules that forbid dependencies on //chrome while allowing chromebox_for_meetings dependencies within the browser ash directory.

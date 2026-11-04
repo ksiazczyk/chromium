@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Artemis specialized log source class declarations
+// summary: Declares LogSource subclasses for specific Chromebox for Meetings log files, including audit.log, bios_info.txt, eventlog.txt and the variations list, with their parsing and timestamp overrides.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_ARTEMIS_SPECIALIZED_LOG_SOURCES_H_
 #define CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_ARTEMIS_SPECIALIZED_LOG_SOURCES_H_
 

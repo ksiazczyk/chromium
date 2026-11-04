@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External display brightness service header
+// summary: Declares the ExternalDisplayBrightnessService singleton class, which implements CfmObserver, ServiceAdaptor delegate, and the ExternalDisplayBrightness mojo interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_EXTERNAL_DISPLAY_BRIGHTNESS_EXTERNAL_DISPLAY_BRIGHTNESS_SERVICE_H_
 #define CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_EXTERNAL_DISPLAY_BRIGHTNESS_EXTERNAL_DISPLAY_BRIGHTNESS_SERVICE_H_
 

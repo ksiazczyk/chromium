@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family user session metrics unit tests
+// summary: Unit tests for FamilyUserSessionMetrics verifying engagement histograms and duration reporting across session state changes.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_session_metrics.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA mixin pointer
+summary: Points to the shared COMMON_METADATA file so its directory metadata applies to this folder.

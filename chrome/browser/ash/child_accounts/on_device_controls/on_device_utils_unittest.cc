@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device controls region utilities unit tests
+// summary: Unit tests for region code parsing and on-device controls region availability checks using a fake statistics provider.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/on_device_utils.h"
 
 #include <string>

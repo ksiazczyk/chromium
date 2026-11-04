@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event based status reporting service factory implementation
+// summary: Builds the per-profile EventBasedStatusReportingService and declares dependencies on the status reporting, ARC prefs, and screen time factories.
+// ---
+
 #include "chrome/browser/ash/child_accounts/event_based_status_reporting_service_factory.h"
 
 #include <memory>

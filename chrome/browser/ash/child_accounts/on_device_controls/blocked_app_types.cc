@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockedAppDetails implementation
+// summary: Implements BlockedAppDetails methods for managing block and uninstall timestamps and the install state of blocked apps.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/blocked_app_types.h"
 
 #include "base/logging.h"

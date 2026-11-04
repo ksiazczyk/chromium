@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: Web approvals integration test metadata
+# summary: YAML metadata for the crosier harness describing the WebApprovalsIntegrationTest case, its owners, and criteria.
+# ---
+
 # Schema can be found at: platform/dev/test/gtest/gtest_schema.yaml
 ---
 name: "WebApprovalsIntegrationTest"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App controls notifier implementation
+// summary: Shows a one-time notification that on-device app controls are available and opens the apps settings page on click.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/app_controls_notifier.h"
 
 #include <memory>

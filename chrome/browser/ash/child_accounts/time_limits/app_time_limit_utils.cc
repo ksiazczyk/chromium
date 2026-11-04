@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App time limit utility functions
+// summary: Implements helpers for app time limits, including app type mapping for reporting, Chrome app identification and extension URL validation.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/app_time_limit_utils.h"
 
 #include "chrome/browser/ash/child_accounts/time_limits/app_types.h"

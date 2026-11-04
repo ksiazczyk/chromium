@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event based status reporting service implementation
+// summary: Requests supervision status reports when events such as app installs, session changes, connectivity, suspend, and usage time limit warnings occur.
+// ---
+
 #include "chrome/browser/ash/child_accounts/event_based_status_reporting_service.h"
 
 #include "base/logging.h"

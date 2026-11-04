@@ -1,0 +1,4 @@
+# Docerion header of test_golden_unsupported.textproto.
+type: test
+title: Time limit consistency test golden fixture for unsupported platform
+summary: Golden textproto fixture with an Android supported platform and a test case state, likely covering unsupported platform behavior in the consistency test.

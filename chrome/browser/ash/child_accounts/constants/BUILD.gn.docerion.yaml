@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the child account constants library
+summary: GN build file defining a static library target that includes the child account constants header, restricted to ChromeOS builds.

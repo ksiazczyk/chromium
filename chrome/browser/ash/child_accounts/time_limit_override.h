@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time limit override declaration
+// summary: Declares TimeLimitOverride, a model for lock and unlock overrides with creation time and optional duration in the Time Limits policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMIT_OVERRIDE_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMIT_OVERRIDE_H_
 

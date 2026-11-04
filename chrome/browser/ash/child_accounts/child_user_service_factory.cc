@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child user service factory implementation
+// summary: Implements the profile-keyed factory that builds ChildUserService instances and declares a dependency on the app service proxy.
+// ---
+
 #include "chrome/browser/ash/child_accounts/child_user_service_factory.h"
 
 #include <memory>

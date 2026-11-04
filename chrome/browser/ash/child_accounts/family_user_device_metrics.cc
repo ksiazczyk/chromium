@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user device metrics implementation
+// summary: Records daily device metrics for family users, including newly added user type, device ownership, and counts of Gaia and Family Link users.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_device_metrics.h"
 
 #include <string>

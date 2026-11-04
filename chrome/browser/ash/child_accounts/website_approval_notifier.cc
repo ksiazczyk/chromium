@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Website approval notifier implementation
+// summary: Shows system notifications when websites are remotely approved for a child account, opening the approved site on click.
+// ---
+
 #include "chrome/browser/ash/child_accounts/website_approval_notifier.h"
 
 #include <memory>

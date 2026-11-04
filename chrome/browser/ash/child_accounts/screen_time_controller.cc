@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen time controller implementation
+// summary: Tracks child screen time usage, applies time limit policies and locks or unlocks the screen with notifications on Chrome OS.
+// ---
+
 #include "chrome/browser/ash/child_accounts/screen_time_controller.h"
 
 #include <algorithm>

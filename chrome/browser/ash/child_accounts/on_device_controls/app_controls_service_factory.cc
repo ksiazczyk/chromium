@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App controls service factory implementation
+// summary: Implements the profile-keyed service factory and checks availability of on-device app controls for unmanaged consumer users based on feature flags and region.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/app_controls_service_factory.h"
 
 #include <memory>

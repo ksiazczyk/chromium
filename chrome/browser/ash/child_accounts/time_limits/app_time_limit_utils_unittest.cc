@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App time limit utils unit tests
+// summary: Unit tests for IsValidExtensionUrl, checking which URLs are recognized as valid extension URLs.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/app_time_limit_utils.h"
 
 #include "extensions/common/constants.h"

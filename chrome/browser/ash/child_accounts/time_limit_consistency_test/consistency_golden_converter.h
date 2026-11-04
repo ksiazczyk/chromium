@@ -5,6 +5,12 @@
 // Utilities for converting goldens to and from the structures used by the time
 // limit processor.
 
+// ---docerion
+// type: source
+// title: Golden converter interface for time limit tests
+// summary: Declares functions that convert between consistency golden protos and the structures used by the time limit processor.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMIT_CONSISTENCY_TEST_CONSISTENCY_GOLDEN_CONVERTER_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMIT_CONSISTENCY_TEST_CONSISTENCY_GOLDEN_CONVERTER_H_
 

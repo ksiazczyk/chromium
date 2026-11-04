@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildPolicyObserver implementation
+// summary: Implements observation of the initial cloud policy refresh for child users and notifies callers when policy is ready or times out.
+// ---
+
 #include "chrome/browser/ash/child_accounts/child_policy_observer.h"
 
 #include <optional>

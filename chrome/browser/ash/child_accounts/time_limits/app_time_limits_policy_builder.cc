@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: App time limits policy builder implementation
+// summary: Implements a builder that constructs PerAppTimeLimits policy dictionaries for tests, adding app limits, reset time and activity reporting settings.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/app_time_limits_policy_builder.h"
 
 #include "chrome/browser/ash/child_accounts/time_limits/app_time_policy_helpers.h"

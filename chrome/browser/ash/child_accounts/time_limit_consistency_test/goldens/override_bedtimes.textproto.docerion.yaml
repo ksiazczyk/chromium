@@ -1,0 +1,4 @@
+# Docerion header of override_bedtimes.textproto.
+type: test
+title: Override bedtimes golden test suite
+summary: Golden test cases covering window limit overrides created before, during, and across overlapping bedtime windows, with expected lock states.

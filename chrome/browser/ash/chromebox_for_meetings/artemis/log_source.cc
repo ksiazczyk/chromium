@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogSource implementation
+// summary: Implements LogSource, which polls a single log file, retries opening, detects rotation and persists recovery offsets via PersistentDb.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/artemis/log_source.h"
 
 #include <sys/stat.h>

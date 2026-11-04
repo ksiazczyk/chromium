@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event based status reporting service unit tests
+// summary: Verifies that status reports are requested for app installs, session lock and unlock, connectivity changes, suspend, and usage time limit events.
+// ---
+
 #include "chrome/browser/ash/child_accounts/event_based_status_reporting_service.h"
 
 #include <memory>

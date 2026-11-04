@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user parental control metrics implementation
+// summary: Implements daily reporting of Family Link time limit policy metrics for child profiles on Chrome OS.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_parental_control_metrics.h"
 
 #include "base/check.h"

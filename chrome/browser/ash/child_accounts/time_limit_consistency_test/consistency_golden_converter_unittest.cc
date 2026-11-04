@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the golden converter
+// summary: Unit tests verifying that golden inputs and outputs convert correctly to and from the time limit processor structures.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limit_consistency_test/consistency_golden_converter.h"
 
 #include "base/test/protobuf_matchers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access code config source implementation
+// summary: Loads, updates, and removes persisted per-child-user access code configurations and builds authenticators from them.
+// ---
+
 #include "chrome/browser/ash/child_accounts/parent_access_code/config_source.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Time limit notifier unit tests
+// summary: Unit tests verifying that lock warnings and policy update notifications appear at the expected times for child accounts.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limit_notifier.h"
 
 #include <memory>

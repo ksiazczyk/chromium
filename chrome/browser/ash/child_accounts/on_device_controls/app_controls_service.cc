@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App controls service implementation
+// summary: Registers profile preferences for the on-device app controls PIN and setup completion flag.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/app_controls_service.h"
 
 #include <string>

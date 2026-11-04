@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access service browser tests
+// summary: Browser tests exercising parent access code validation flows, including date and time settings integration.
+// ---
+
 #include "chrome/browser/ash/child_accounts/parent_access_code/parent_access_service.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CfmMemoryDetails class declaration
+// summary: Declares CfmMemoryDetails, a MemoryDetails subclass that gathers Chrome process memory data for the CfM service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_BROWSER_CFM_MEMORY_DETAILS_H_
 #define CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_BROWSER_CFM_MEMORY_DETAILS_H_
 

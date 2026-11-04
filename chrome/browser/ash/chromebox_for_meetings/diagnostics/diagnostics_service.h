@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsService class declaration
+// summary: Declares the singleton DiagnosticsService class, which implements MeetDevicesDiagnostics and delegates service binding through the CFM ServiceAdaptor and CfmObserver interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_DIAGNOSTICS_DIAGNOSTICS_SERVICE_H_
 #define CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_DIAGNOSTICS_DIAGNOSTICS_SERVICE_H_
 

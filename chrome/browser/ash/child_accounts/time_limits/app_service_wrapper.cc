@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppServiceWrapper implementation
+// summary: Implements the AppService wrapper used by per-app time limits to pause, resume and launch apps and to convert app service updates into AppIds.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/app_service_wrapper.h"
 
 #include <map>

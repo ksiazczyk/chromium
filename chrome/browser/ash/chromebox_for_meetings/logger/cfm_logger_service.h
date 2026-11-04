@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CfmLoggerService class declaration
+// summary: Declares the MeetDevicesLogger mojo service with its delegate interface, singleton lifecycle and state observer handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_LOGGER_CFM_LOGGER_SERVICE_H_
 #define CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_LOGGER_CFM_LOGGER_SERVICE_H_
 

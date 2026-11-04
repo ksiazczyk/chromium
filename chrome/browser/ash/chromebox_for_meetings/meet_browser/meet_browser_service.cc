@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MeetBrowserService implementation
+// summary: Implements the MeetBrowser mojo service that translates hashed video device IDs using the Meet render frame host token and media device salt.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/meet_browser/meet_browser_service.h"
 
 #include <utility>

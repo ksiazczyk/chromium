@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for external display brightness
+summary: Defines the external_display_brightness static library target, listing its sources and its dependencies on CfM mojom, mojo bindings, and power manager DBus components.

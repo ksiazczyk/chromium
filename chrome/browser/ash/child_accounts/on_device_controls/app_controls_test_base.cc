@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App controls test base implementation
+// summary: Implements shared test setup for on-device app controls, including testing profile creation and ARC app install and uninstall helpers.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/app_controls_test_base.h"
 
 #include <string>

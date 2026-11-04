@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user Chrome activity metrics implementation
+// summary: Records the daily active Chrome browser engagement duration of family users as a UMA histogram, tracking app active/inactive events and usage time state changes.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_chrome_activity_metrics.h"
 
 #include "ash/constants/ash_pref_names.h"

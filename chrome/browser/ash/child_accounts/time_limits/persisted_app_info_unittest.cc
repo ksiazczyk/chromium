@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistedAppInfo unit tests
+// summary: Unit tests covering removal of expired active times and updating of the app activity preference dictionary in PersistedAppInfo.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/persisted_app_info.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App test utility declarations for ARC apps and extensions
+// summary: Declares helper functions to create ARC app packages, ARC app info, and Chrome extensions for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_APPS_APP_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_APPS_APP_TEST_UTILS_H_
 

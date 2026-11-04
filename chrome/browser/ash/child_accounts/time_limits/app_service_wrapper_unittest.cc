@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppServiceWrapper unit tests
+// summary: Unit tests for AppServiceWrapper covering app installs, uninstalls and state events for ARC, web and extension apps.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/app_service_wrapper.h"
 
 #include <algorithm>

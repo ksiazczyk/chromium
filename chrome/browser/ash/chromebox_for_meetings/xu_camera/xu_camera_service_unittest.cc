@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the XuCamera service
+// summary: Tests XuCameraService control handlers and defensive null checks, using a test peer that calls handlers directly and bypasses mojo.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/xu_camera/xu_camera_service.h"
 
 #include <asm-generic/errno.h>

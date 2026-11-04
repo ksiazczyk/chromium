@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CfmBrowserService unit tests
+// summary: Tests CfmBrowserService binding and Mojo calls using a fake hotline client and fake service connection.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/browser/cfm_browser_service.h"
 
 #include <memory>

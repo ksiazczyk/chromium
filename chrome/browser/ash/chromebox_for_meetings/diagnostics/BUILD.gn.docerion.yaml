@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for CFM diagnostics
+summary: Defines the diagnostics static library and its unit_tests source set, listing sources and dependencies for the Chromebox for Meetings diagnostics code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access code authenticator implementation
+// summary: Implements access code config parsing, the access code model, and time-bucketed code generation and validation.
+// ---
+
 #include "chrome/browser/ash/child_accounts/parent_access_code/authenticator.h"
 
 #include <utility>

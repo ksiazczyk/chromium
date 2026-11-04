@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: CfM logger build definition
+summary: Defines the logger static library and unit test source set with their sources and dependencies for Chromebox for Meetings.

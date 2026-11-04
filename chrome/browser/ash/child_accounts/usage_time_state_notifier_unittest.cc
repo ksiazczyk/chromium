@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Usage time state notifier unit tests
+// summary: Unit tests verifying observer notifications on session state changes, suspend, resume, and screen idle events.
+// ---
+
 #include "chrome/browser/ash/child_accounts/usage_time_state_notifier.h"
 
 #include <memory>

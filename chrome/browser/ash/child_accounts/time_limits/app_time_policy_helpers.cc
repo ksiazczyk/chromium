@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App time policy helpers implementation
+// summary: Implements conversions between policy strings and app types or restrictions and serialization of app time limits policy data.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/app_time_policy_helpers.h"
 
 #include <utility>
