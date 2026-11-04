@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Printing strings DIR_METADATA
+summary: Declares the monorail component and public Buganizer component ID that own this print preview strings directory.
