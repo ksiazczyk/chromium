@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Borealis app launcher unit tests
+// summary: Unit tests for borealis app launching, covering launcher app redirection, unknown apps and missing D-Bus responses using fake Cicerone clients.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_app_launcher.h"
 
 #include <memory>

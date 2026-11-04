@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserDelegateImpl implementation
+// summary: Implements the per-window BrowserDelegate interface with tab, fullscreen, pinning, and window state operations backed by BrowserWindowInterface.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/browser_delegate_impl.h"
 
 #include "ash/wm/window_pin_util.h"

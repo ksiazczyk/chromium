@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityManagerProviderImpl implementation
+// summary: Implements the ChromeOS-side IdentityManagerProvider by returning the IdentityManager for the profile of the given account.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/identity_manager_provider_impl.h"
 
 #include "chrome/browser/profiles/profile.h"

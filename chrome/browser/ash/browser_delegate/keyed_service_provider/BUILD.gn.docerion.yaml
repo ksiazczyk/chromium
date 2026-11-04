@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for KeyedService provider implementations
+summary: GN build file defining a grouped target and per-provider source sets with their dependencies and visibility for the ChromeOS keyed service providers.

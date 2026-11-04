@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bruschetta download browser tests
+// summary: Browser tests covering Bruschetta downloads over HTTPS with client certificate authentication.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_download.h"
 
 #include "base/files/file_util.h"

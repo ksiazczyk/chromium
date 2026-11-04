@@ -1,3 +1,11 @@
+---
+type: readme
+title: KeyedService Providers for ChromeOS (Ash)
+summary: Explains when to use provider classes bridging Chrome KeyedServices to ChromeOS components, preferred design alternatives, and the provider architecture and lifecycle.
+relations:
+  - references /components/keyed_service/README.md
+---
+
 # KeyedService Providers for ChromeOS (Ash)
 
 This directory implements "Provider" classes that bridge Chrome's `KeyedService` instances with OS-level components in ChromeOS (Ash).

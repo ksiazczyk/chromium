@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Borealis context unit tests
+// summary: Unit tests for BorealisContext covering concierge failures and stability metrics, using fake VM DBus services and a fake Borealis service.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_context.h"
 
 #include <memory>

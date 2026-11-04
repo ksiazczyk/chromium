@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDeviceSaltServiceProviderImpl class declaration
+// summary: Declares the Chrome-side MediaDeviceSaltServiceProvider that wraps the media device salt service factory for ChromeOS callers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_MEDIA_DEVICE_SALT_SERVICE_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_MEDIA_DEVICE_SALT_SERVICE_PROVIDER_IMPL_H_
 

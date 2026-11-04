@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Borealis utility unit tests
+// summary: Unit tests for Borealis utilities covering Steam game ID parsing, non-game app detection and compat tool info parsing.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_util.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis app launcher implementation
+// summary: Implements launching borealis apps by sending LaunchContainerApplication requests to the Cicerone D-Bus service and reporting the result.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_app_launcher.h"
 
 #include <algorithm>

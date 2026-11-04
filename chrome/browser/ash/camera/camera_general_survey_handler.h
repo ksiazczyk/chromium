@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera general survey handler header
+// summary: Declares CameraGeneralSurveyHandler, which observes camera client changes and triggers a happiness survey after sufficient camera usage, with a delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CAMERA_CAMERA_GENERAL_SURVEY_HANDLER_H_
 #define CHROME_BROWSER_ASH_CAMERA_CAMERA_GENERAL_SURVEY_HANDLER_H_
 

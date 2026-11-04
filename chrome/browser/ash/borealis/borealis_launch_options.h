@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis launch options header
+// summary: Declares BorealisLaunchOptions, which turns a comma-separated key=value string into per-launch runtime options for a Borealis context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_LAUNCH_OPTIONS_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_LAUNCH_OPTIONS_H_
 

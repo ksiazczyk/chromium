@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera general survey handler implementation
+// summary: Implements the ChromeOS camera survey handler that shows a HaTS survey after camera use, selecting a prioritized survey config by device model.
+// ---
+
 #include "camera_general_survey_handler.h"
 
 #include <optional>

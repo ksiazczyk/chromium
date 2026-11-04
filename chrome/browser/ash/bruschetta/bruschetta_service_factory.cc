@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta service factory implementation
+// summary: Implements the profile-keyed factory that creates one BruschettaService instance per login session and forces setup when the browser context is initialized.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_service_factory.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System token certificate database initializer implementation
+// summary: Implements initialization of the global system token NSS certificate database, retrying TPM state checks with exponential backoff and handling software fallback.
+// ---
+
 #include "chrome/browser/ash/certs/system_token_cert_db_initializer.h"
 
 #include <pk11pub.h>

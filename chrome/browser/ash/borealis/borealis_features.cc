@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis feature checks implementation
+// summary: Implements BorealisFeatures, which determines whether Borealis is allowed via feature flags, policies, profile rules, and asynchronous hardware checks.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_features.h"
 
 #include <memory>

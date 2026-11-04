@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault service provider implementation
+// summary: Implements the Ash TrustedVaultServiceProvider by resolving the browser context for an account ID and returning the profile's TrustedVaultService via its factory.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/trusted_vault_service_provider_impl.h"
 
 #include "base/check.h"

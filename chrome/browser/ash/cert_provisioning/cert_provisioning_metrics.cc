@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert provisioning metrics implementation
+// summary: Implements UMA histogram recording of certificate provisioning results, events, device management status, and backend errors per protocol version and scope.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_metrics.h"
 
 #include <array>

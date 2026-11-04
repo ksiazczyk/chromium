@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarKeyedServiceFactory class declaration
+// summary: Declares the singleton profile keyed service factory that provides per-profile calendar services for browser contexts.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CALENDAR_CALENDAR_KEYED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_CALENDAR_CALENDAR_KEYED_SERVICE_FACTORY_H_
 

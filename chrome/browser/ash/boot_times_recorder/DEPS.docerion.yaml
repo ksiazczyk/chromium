@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Boot times recorder dependency rules
+summary: Sets include rules that forbid dependencies on //chrome for ChromeOS code while allowing this directory to include its own headers.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for certificate provisioning
+summary: Defines the static library, unit test, and test support targets with their sources and dependencies for the ChromeOS certificate provisioning component.

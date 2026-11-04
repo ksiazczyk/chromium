@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Camera survey handler build targets
+summary: Defines the camera static library and unit test targets with their sources and dependencies for the ChromeOS camera survey handler.

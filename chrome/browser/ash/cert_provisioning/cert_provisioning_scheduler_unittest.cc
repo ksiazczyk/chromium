@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cert provisioning scheduler unit tests
+// summary: Extensive unit tests for the certificate provisioning scheduler using mock clients, workers, platform keys service, and fake attestation and network helpers.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_scheduler.h"
 
 #include "ash/constants/ash_pref_names.h"

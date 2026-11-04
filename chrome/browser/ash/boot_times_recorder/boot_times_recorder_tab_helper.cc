@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boot times recorder tab helper implementation
+// summary: Implements a WebContentsObserver that reports tab load start and end events and render frame host changes to BootTimesRecorder during login, including for webview contents.
+// ---
+
 #include "chrome/browser/ash/boot_times_recorder/boot_times_recorder_tab_helper.h"
 
 #include <memory>

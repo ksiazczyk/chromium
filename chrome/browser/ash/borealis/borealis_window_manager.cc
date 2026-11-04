@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis window manager implementation
+// summary: Maps Borealis windows to shelf app IDs via Steam game IDs or GuestOS logic and decides whether a window is a Steam game window.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_window_manager.h"
 
 #include <string>

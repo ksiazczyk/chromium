@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Borealis infra include dependency rules
+summary: DEPS file blocking //chrome dependencies for the directory and granting test files specific include exceptions.

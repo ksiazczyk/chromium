@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis profile preference declarations
+// summary: Declares Borealis profile preference key constants and the preference registration function.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_PREFS_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_PREFS_H_
 

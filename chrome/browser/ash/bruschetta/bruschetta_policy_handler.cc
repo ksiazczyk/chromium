@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta policy handler implementation
+// summary: Implements validation and mapping of the BruschettaVMConfiguration enterprise policy, checking download URLs and SHA256 hashes and downgrading invalid configs to runnable.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_policy_handler.h"
 
 #include "base/strings/string_number_conversions.h"

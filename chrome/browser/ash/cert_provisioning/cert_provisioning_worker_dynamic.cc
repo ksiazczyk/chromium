@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dynamic certificate provisioning worker implementation
+// summary: Implements the dynamic protocol worker that generates keys, handles VA challenges, fetches instructions with backoff and imports certificates.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_worker_dynamic.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis utility functions implementation
+// summary: Implements Borealis helpers including app ID constants, Steam game ID parsing, URL allowlisting and compat tool version parsing.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_util.h"
 
 #include "base/base64.h"

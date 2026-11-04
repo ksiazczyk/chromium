@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for certificate provider dependencies
+summary: Restricts which headers files in this directory may include, with special allowances for the test extension sources.

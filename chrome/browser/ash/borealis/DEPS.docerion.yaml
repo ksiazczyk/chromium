@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Borealis include rules
+summary: Sets include rules for the borealis directory, blocking //chrome dependencies except for an allowlist of existing ones.

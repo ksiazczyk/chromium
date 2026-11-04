@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Borealis installer unit tests
+// summary: Tests the installer's install and uninstall flows using fake DLC, concierge and other guest OS services plus a mock observer.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_installer.h"
 
 #include <memory>

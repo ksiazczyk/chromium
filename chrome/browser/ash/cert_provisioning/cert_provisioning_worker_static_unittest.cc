@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the static certificate provisioning worker
+// summary: Unit tests covering the static-mode certificate provisioning worker, using mocks for the client, invalidator, attestation, and platform keys services.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_worker_static.h"
 
 #include <stdint.h>

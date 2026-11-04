@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta utility functions
+// summary: Implements helpers for VM configuration lookup, result strings, guest IDs, display names, and installable policy configs.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_util.h"
 
 #include "ash/strings/grit/ash_strings.h"

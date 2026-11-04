@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta mount provider implementation
+// summary: Implements the guest OS mount provider for Bruschetta, launching the VM and supplying session details for file sharing mounts.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_mount_provider.h"
 
 #include "base/logging.h"

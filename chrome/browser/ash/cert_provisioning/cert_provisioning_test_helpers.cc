@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate provisioning test helpers
+// summary: Provides fake certificates and mock platform keys service helpers used by certificate provisioning unit tests.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_test_helpers.h"
 
 #include <optional>

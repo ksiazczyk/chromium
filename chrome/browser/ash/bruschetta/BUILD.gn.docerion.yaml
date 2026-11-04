@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bruschetta BUILD.gn build targets
+summary: Defines GN build targets for the Bruschetta static library, test support, browser tests and unit tests.

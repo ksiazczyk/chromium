@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta terminal provider header
+// summary: Declares BruschettaTerminalProvider, the GuestOsTerminalProvider implementation for Bruschetta VMs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BRUSCHETTA_BRUSCHETTA_TERMINAL_PROVIDER_H_
 #define CHROME_BROWSER_ASH_BRUSCHETTA_BRUSCHETTA_TERMINAL_PROVIDER_H_
 

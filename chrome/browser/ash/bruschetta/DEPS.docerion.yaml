@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Bruschetta include rules (DEPS)
+summary: Sets include dependency rules for the Bruschetta directory, with extra allowances for specific test and factory files.

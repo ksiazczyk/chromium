@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock certificate provisioning worker header
+// summary: Declares MockCertProvisioningWorker and MockCertProvisioningWorkerFactory, gmock test doubles for the certificate provisioning worker used in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERT_PROVISIONING_MOCK_CERT_PROVISIONING_WORKER_H_
 #define CHROME_BROWSER_ASH_CERT_PROVISIONING_MOCK_CERT_PROVISIONING_WORKER_H_
 

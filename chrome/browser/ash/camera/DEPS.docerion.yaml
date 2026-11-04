@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the camera directory
+summary: Restricts include dependencies for the camera directory, allowing only the hats and profiles dependencies within //chrome.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BorealisServiceFactory header
+// summary: Declares the BorealisServiceFactory used to access per-profile BorealisService instances.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_SERVICE_FACTORY_H_
 

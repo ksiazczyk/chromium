@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub borealis app launcher header
+// summary: Declares BorealisAppLauncherImpl, a profile-bound launcher that rejects launches because Borealis is no longer available.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_APP_LAUNCHER_IMPL_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_APP_LAUNCHER_IMPL_H_
 

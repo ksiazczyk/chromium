@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Calendar DEPS include rules
+summary: Restricts //chrome includes for the calendar directory and grants exceptions for the keyed service factory and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Borealis app test helpers (apps.cc)
+// summary: Implements helpers that register fake Borealis apps with the guest OS registry service and compute their app IDs for tests.
+// ---
+
 #include "chrome/browser/ash/borealis/testing/apps.h"
 
 #include "base/base64.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BorealisServiceFake header
+// summary: Declares BorealisServiceFake, a test double for BorealisService with setters for injecting component fakes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_SERVICE_FAKE_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_SERVICE_FAKE_H_
 

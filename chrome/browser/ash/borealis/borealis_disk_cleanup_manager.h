@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis disk cleanup manager header
+// summary: Declares the manager that detects an allocated Borealis disk image on login, reports the UMA metric, and prompts the user to free unused disk space.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_DISK_CLEANUP_MANAGER_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_DISK_CLEANUP_MANAGER_H_
 

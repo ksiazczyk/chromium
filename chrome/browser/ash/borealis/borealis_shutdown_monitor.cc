@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis shutdown monitor implementation
+// summary: Implements delayed and immediate shutdown of Borealis, scheduling a cancellable timer that triggers shutdown when it elapses.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_shutdown_monitor.h"
 
 #include "base/logging.h"

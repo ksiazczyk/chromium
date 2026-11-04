@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta preference name constants
+// summary: Defines preference and policy key constants for Bruschetta installation, installer and VM configuration, and registers the profile preferences.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_pref_names.h"
 
 #include "components/prefs/pref_registry_simple.h"

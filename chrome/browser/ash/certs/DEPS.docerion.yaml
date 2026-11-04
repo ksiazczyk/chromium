@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash certs
+summary: Restricts ChromeOS dependencies on //chrome while allowlisting this directory, ash login, and test base includes for unit tests.

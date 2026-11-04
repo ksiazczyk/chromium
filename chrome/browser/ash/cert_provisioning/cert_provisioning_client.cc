@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the certificate provisioning client
+// summary: Implements client requests to the device management server for certificate provisioning, parsing responses and handling errors for static and dynamic flows.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_client.h"
 
 #include <stdint.h>

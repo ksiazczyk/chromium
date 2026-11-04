@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock certificate provisioning client header
+// summary: Declares MockCertProvisioningClient, a gmock test double mocking the certificate provisioning client RPC methods such as StartCsr and DownloadCert.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERT_PROVISIONING_MOCK_CERT_PROVISIONING_CLIENT_H_
 #define CHROME_BROWSER_ASH_CERT_PROVISIONING_MOCK_CERT_PROVISIONING_CLIENT_H_
 

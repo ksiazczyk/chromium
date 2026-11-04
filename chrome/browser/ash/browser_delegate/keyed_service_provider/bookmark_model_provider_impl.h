@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkModelProviderImpl class declaration
+// summary: Declares the chrome-side BookmarkModelProvider implementation that lets ChromeOS callers reach the profile-keyed BookmarkModel through the chromeos-side interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_BOOKMARK_MODEL_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_BOOKMARK_MODEL_PROVIDER_IMPL_H_
 

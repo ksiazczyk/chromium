@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk sync service provider implementation
+// summary: Implements DeskSyncServiceProvider::Find by resolving the profile for an account ID and returning its DeskSyncService from DeskSyncServiceFactory.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/desk_sync_service_provider_impl.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis feature test setup (features.cc)
+// summary: Implements helpers that enable Borealis features and user state for tests, including the ScopedAllowBorealis RAII helper.
+// ---
+
 #include "chrome/browser/ash/borealis/testing/features.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserDelegateImpl class declaration
+// summary: Declares the BrowserDelegate implementation wrapping a BrowserWindowInterface to provide tab, window, and locked fullscreen operations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BROWSER_DELEGATE_BROWSER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_BROWSER_DELEGATE_BROWSER_DELEGATE_IMPL_H_
 

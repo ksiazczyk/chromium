@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the certificate provisioning directory
+summary: Restricts Chromium includes for this directory and whitelists the specific //chrome dependencies the certificate provisioning code may use.

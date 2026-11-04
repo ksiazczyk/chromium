@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN dialog manager implementation
+// summary: Tracks sign requests and shows security token PIN dialogs, validating request IDs, timeouts and active dialog state.
+// ---
+
 #include "chrome/browser/ash/certificate_provider/pin_dialog_manager.h"
 
 #include <algorithm>

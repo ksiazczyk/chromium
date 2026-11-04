@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Borealis window manager mock declarations
+// summary: Declares gmock mock classes for the window manager's anonymous-app and lifetime observers, used in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_WINDOW_MANAGER_MOCK_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_WINDOW_MANAGER_MOCK_H_
 

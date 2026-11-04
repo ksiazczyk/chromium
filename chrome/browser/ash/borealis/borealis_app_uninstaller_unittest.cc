@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Borealis app uninstaller unit tests
+// summary: Unit tests for the Borealis app uninstaller, using mocked installer and launcher services and a fake guest OS registry to verify uninstall flows.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_app_uninstaller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Borealis disk cleanup manager unit tests
+// summary: Unit tests for disk cleanup behavior, verifying histogram recording, cleanup dialog display, and disk freeing with a fake concierge client.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_disk_cleanup_manager.h"
 
 #include <memory>

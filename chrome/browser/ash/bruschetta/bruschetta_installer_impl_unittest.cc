@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bruschetta installer unit tests
+// summary: Unit tests covering the installer's staged installation flow and error paths using fake concierge, DLC and download services.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_installer_impl.h"
 
 #include "base/files/file_util.h"

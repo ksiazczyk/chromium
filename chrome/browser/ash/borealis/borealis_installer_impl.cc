@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis installer implementation
+// summary: Implements the install and uninstall transitions, including allowance checks, DLC installation, progress updates and waiting for the main app.
+// ---
+
 #include "chrome/browser/ash/borealis/borealis_installer_impl.h"
 
 #include <memory>

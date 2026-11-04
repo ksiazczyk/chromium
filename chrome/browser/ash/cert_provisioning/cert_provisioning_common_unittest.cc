@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for certificate provisioning common helpers
+// summary: Tests protocol version parsing and deserialization of certificate profiles from policy values.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_common.h"
 
 #include "base/test/values_test_util.h"

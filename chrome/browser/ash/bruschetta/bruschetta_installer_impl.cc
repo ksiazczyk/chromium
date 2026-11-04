@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta installer implementation
+// summary: Implements the Bruschetta VM installation flow, including memory checks, tools and firmware DLC installs, boot disk downloads and VM creation.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_installer_impl.h"
 
 #include <memory>

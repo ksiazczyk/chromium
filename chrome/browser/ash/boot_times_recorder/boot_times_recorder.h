@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boot times recorder class declaration
+// summary: Declares the BootTimesRecorder class, a RenderWidgetHostObserver and SessionManagerObserver that records boot, login, tab load, and logout times and saves stats to Local State.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOOT_TIMES_RECORDER_BOOT_TIMES_RECORDER_H_
 #define CHROME_BROWSER_ASH_BOOT_TIMES_RECORDER_BOOT_TIMES_RECORDER_H_
 

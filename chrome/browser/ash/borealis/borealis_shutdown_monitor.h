@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis shutdown monitor header
+// summary: Declares BorealisShutdownMonitor, which manages immediate or delayed automatic shutdown of Borealis for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_SHUTDOWN_MONITOR_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_SHUTDOWN_MONITOR_H_
 

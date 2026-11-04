@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bruschetta terminal provider unit tests
+// summary: Unit tests verifying that the terminal provider starts the Bruschetta VM through a fake launcher.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_terminal_provider.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityManagerProviderImpl class declaration
+// summary: Declares the Chrome-side IdentityManagerProvider that wraps IdentityManagerFactory so ChromeOS callers can reach the identity manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_IDENTITY_MANAGER_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_IDENTITY_MANAGER_PROVIDER_IMPL_H_
 

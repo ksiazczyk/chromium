@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cert provisioning invalidator unit tests
+// summary: Unit tests for CertProvisioningInvalidationHandler covering registration, subscription reporting, and invalidation reception using a fake invalidation listener.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_invalidator.h"
 
 #include <memory>

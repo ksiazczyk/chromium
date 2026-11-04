@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemTokenCertDBInitializer class declaration
+// summary: Declares the class that initializes the system token NSSCertDatabase and stores it in SystemTokenCertDbStorage for use by ChromeOS components.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERTS_SYSTEM_TOKEN_CERT_DB_INITIALIZER_H_
 #define CHROME_BROWSER_ASH_CERTS_SYSTEM_TOKEN_CERT_DB_INITIALIZER_H_
 

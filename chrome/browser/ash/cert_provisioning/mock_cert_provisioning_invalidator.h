@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock certificate provisioning invalidator header
+// summary: Declares MockCertProvisioningInvalidator and MockCertProvisioningInvalidatorFactory, gmock test doubles for invalidation registration and unregistration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CERT_PROVISIONING_MOCK_CERT_PROVISIONING_INVALIDATOR_H_
 #define CHROME_BROWSER_ASH_CERT_PROVISIONING_MOCK_CERT_PROVISIONING_INVALIDATOR_H_
 

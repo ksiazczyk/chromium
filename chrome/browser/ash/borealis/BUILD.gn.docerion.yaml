@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Borealis GN build definition
+summary: Defines the borealis static library, its installer types mojom target, test support fakes and mocks, and the unit test source set.

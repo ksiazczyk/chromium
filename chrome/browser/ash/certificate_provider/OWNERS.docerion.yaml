@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the certificate provider directory
+summary: Lists the reviewers responsible for changes to files in this directory.

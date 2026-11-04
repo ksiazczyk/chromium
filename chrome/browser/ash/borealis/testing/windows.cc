@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis test window helpers (windows.cc)
+// summary: Implements helpers that create aura windows and widgets and track their instances with the Borealis window manager.
+// ---
+
 #include "chrome/browser/ash/borealis/testing/windows.h"
 
 #include "chrome/browser/ash/borealis/borealis_window_manager.h"

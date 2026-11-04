@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis service implementation header
+// summary: Declares BorealisServiceImpl, which implements BorealisService and owns the launcher, uninstaller, installer, features and other Borealis components for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_SERVICE_IMPL_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_SERVICE_IMPL_H_
 

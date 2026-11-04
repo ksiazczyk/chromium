@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarKeyedService class declaration
+// summary: Declares the browser context keyed service managing per-profile Google Calendar API access and documents its fetch and cancellation methods.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CALENDAR_CALENDAR_KEYED_SERVICE_H_
 #define CHROME_BROWSER_ASH_CALENDAR_CALENDAR_KEYED_SERVICE_H_
 

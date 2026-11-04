@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the Ash browser delegate implementations
+summary: Defines the static library target compiling the browser delegate implementation sources and lists their public and private dependencies.

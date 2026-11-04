@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the browser_delegate directory
+summary: Delegates review ownership to the OWNERS file of chromeos/ash/components/browser_delegate.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gmock callback factory templates (callback_factory.h)
+// summary: Provides Naggy, Strict and Nice callback factory templates that create gmock-backed callbacks invalidated when the factory is deleted.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_TESTING_CALLBACK_FACTORY_H_
 #define CHROME_BROWSER_ASH_BOREALIS_TESTING_CALLBACK_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis hardware checker header
+// summary: Declares HasSufficientHardware, which asynchronously reports whether the hardware meets Borealis specs, plus a CPU test hook.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_HARDWARE_CHECKER_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_HARDWARE_CHECKER_H_
 

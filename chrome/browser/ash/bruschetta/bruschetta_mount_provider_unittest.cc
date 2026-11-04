@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bruschetta mount provider unit tests
+// summary: Unit tests for BruschettaMountProvider covering successful VM preparation and launch failure handling using a fake launcher and testing profile.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_mount_provider.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis test window helpers header (windows.h)
+// summary: Declares ScopedTestWindow and helpers to create and track fake Borealis windows and widgets in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_TESTING_WINDOWS_H_
 #define CHROME_BROWSER_ASH_BOREALIS_TESTING_WINDOWS_H_
 

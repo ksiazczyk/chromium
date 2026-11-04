@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControllerImpl implementation
+// summary: Implements the Ash BrowserController interface, managing browser windows, tab restore, URL opening, web app lookup, and shutdown behavior for ChromeOS.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/browser_controller_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis feature test setup header (features.h)
+// summary: Declares AllowBorealis and the ScopedAllowBorealis helper for enabling Borealis in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_TESTING_FEATURES_H_
 #define CHROME_BROWSER_ASH_BOREALIS_TESTING_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the certificate provisioning client
+// summary: Tests the certificate provisioning client against a fake cloud policy client that records requests and supplies scripted responses.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_client.h"
 
 #include <string>

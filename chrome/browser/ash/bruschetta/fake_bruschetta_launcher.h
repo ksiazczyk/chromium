@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bruschetta launcher for tests
+// summary: Header for FakeBruschettaLauncher, a test double of BruschettaLauncher whose EnsureRunning result can be configured, defaulting to success.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BRUSCHETTA_FAKE_BRUSCHETTA_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_BRUSCHETTA_FAKE_BRUSCHETTA_LAUNCHER_H_
 

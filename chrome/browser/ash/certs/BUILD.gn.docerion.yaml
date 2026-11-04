@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the ash certs library
+summary: Defines the static library target for the system token certificate database initializer and the unit test source set with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boot times recorder implementation
+// summary: Implements the BootTimesRecorder singleton that records boot, login, and logout timing markers, writes login and logout times files, and reports UMA boot and shutdown metrics.
+// ---
+
 #include "chrome/browser/ash/boot_times_recorder/boot_times_recorder.h"
 
 #include <stddef.h>

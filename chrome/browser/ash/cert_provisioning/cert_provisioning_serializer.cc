@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning serializer implementation
+// summary: Serializes certificate provisioning workers and cert profiles to preference storage and deserializes their saved state back.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_serializer.h"
 
 #include <optional>

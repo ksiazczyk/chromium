@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BorealisService interface
+// summary: Defines the BorealisService interface giving access to interdependent Borealis components such as launcher, installer and window manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_SERVICE_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_SERVICE_H_
 

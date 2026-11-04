@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarKeyedService implementation
+// summary: Implements the per-profile keyed service that sends authenticated Google Calendar API requests for calendar lists and event lists.
+// ---
+
 #include "chrome/browser/ash/calendar/calendar_keyed_service.h"
 
 #include <string>

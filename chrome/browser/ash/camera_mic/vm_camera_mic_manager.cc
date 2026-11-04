@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM camera and mic manager implementation
+// summary: Implements the manager that tracks VM camera and microphone access and shows debounced privacy notifications for Crostini and Borealis.
+// ---
+
 #include "chrome/browser/ash/camera_mic/vm_camera_mic_manager.h"
 
 #include <string>

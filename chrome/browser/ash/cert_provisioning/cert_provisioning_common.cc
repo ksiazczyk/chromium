@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared helpers for certificate provisioning
+// summary: Implements shared provisioning utilities such as verified access key deletion, account lookup, worker state conversion, and preference registration.
+// ---
+
 #include "chrome/browser/ash/cert_provisioning/cert_provisioning_common.h"
 
 #include <stdint.h>

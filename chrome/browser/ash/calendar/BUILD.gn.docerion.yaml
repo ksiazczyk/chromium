@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Calendar BUILD.gn build targets
+summary: Defines the calendar static library and unit test source set, listing their sources and build dependencies for ChromeOS.

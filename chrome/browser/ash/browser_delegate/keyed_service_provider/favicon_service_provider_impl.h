@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconServiceProviderImpl class declaration
+// summary: Declares the chrome-side FaviconServiceProvider implementation that exposes the profile-keyed FaviconService to ChromeOS callers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_FAVICON_SERVICE_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_BROWSER_DELEGATE_KEYED_SERVICE_PROVIDER_FAVICON_SERVICE_PROVIDER_IMPL_H_
 

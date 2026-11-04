@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Camera mic include dependency rules
+summary: Restricts include dependencies for the directory, allowing only listed //chrome dependencies plus test-specific includes.

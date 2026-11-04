@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bruschetta service unit tests
+// summary: Unit tests for BruschettaService covering policy-driven VM enablement, vTPM settings, and launch behaviour using fake DBus and guest OS services.
+// ---
+
 #include "chrome/browser/ash/bruschetta/bruschetta_service.h"
 
 #include "ash/constants/ash_features.h"

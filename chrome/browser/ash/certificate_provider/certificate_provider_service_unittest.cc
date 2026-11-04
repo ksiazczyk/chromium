@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the certificate provider service
+// summary: Tests certificate requests, sign request dispatch and private key behavior of the service using a test delegate and mock time task runner.
+// ---
+
 #include "chrome/browser/ash/certificate_provider/certificate_provider_service.h"
 
 #include <stdint.h>

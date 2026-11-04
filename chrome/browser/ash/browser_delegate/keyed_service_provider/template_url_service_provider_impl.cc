@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template URL service provider implementation
+// summary: Implements the Ash TemplateURLServiceProvider by resolving the browser context for an account ID and returning the profile's TemplateURLService via its factory.
+// ---
+
 #include "chrome/browser/ash/browser_delegate/keyed_service_provider/template_url_service_provider_impl.h"
 
 #include "chrome/browser/profiles/profile.h"

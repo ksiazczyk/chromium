@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis feature checks header
+// summary: Declares BorealisFeatures with its AllowStatus enum listing reasons Borealis may be allowed or blocked, plus IsAllowed and IsEnabled methods.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOREALIS_BOREALIS_FEATURES_H_
 #define CHROME_BROWSER_ASH_BOREALIS_BOREALIS_FEATURES_H_
 

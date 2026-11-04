@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Borealis testing DEPS
+summary: Sets include rules that block general //chrome dependencies while allowing Borealis, guest_os, login users and chrome test base.
