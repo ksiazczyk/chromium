@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Almanac app icon loader implementation
+// summary: Loads Almanac app icons, rasterizing SVG icons through a background WebContents and applying icon effects.
+// ---
+
 #include "chrome/browser/apps/almanac_api_client/almanac_app_icon_loader.h"
 
 #include "base/functional/bind.h"

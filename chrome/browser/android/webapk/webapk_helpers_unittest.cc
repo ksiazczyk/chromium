@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAPK helpers unit tests
+// summary: Unit tests verifying GenerateAppIdFromManifestId output, including cases shared with desktop for mobile compatibility.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_helpers.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

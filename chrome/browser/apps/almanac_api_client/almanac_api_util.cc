@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Almanac API util implementation
+// summary: Implements request building, retries, endpoint URL handling and response validation for querying the ChromeOS Almanac API.
+// ---
+
 #include "chrome/browser/apps/almanac_api_client/almanac_api_util.h"
 
 #include <memory>

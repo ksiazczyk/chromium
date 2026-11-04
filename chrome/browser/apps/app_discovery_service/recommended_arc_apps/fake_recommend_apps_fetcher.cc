@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake recommend apps fetcher implementation
+// summary: Implements a fetcher that reports a fixed list of fake recommended apps to its delegate after a short delay.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/recommended_arc_apps/fake_recommend_apps_fetcher.h"
 
 #include <algorithm>

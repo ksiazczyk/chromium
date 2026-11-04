@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RecommendedArcAppFetcher response parsing
+// summary: Unit tests verifying that RecommendedArcAppFetcher parses Play recommendation responses into results and reports load and parse errors.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/recommended_arc_app_fetcher.h"
 
 #include "base/json/json_reader.h"

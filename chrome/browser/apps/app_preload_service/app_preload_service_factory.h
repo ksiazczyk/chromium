@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Preload Service factory header
+// summary: Declares the profile-keyed singleton factory that creates and owns per-profile AppPreloadService instances and supports skipping the API key check for tests.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_PRELOAD_SERVICE_APP_PRELOAD_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_APPS_APP_PRELOAD_SERVICE_APP_PRELOAD_SERVICE_FACTORY_H_
 

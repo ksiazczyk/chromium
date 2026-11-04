@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkRestoreWebContentsManager header
+// summary: Declares a manager wrapping the WebContents functionality needed by WebAPK restore, such as shared WebContents creation and URL loading, to ease testing.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_RESTORE_WEB_CONTENTS_MANAGER_H_
 #define CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_RESTORE_WEB_CONTENTS_MANAGER_H_
 

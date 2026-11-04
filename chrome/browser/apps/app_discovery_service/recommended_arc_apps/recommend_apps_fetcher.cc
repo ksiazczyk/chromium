@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Recommend apps fetcher creation logic
+// summary: Creates the real or fake recommend apps fetcher, selecting the fake one when the testing command-line switch is set.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/recommended_arc_apps/recommend_apps_fetcher.h"
 
 #include "ash/constants/ash_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkRestoreTask browser tests
+// summary: Browser tests that run WebApkRestoreTask against an embedded test server and assert install results and restore histogram values.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_restore_task.h"
 
 #include "base/run_loop.h"

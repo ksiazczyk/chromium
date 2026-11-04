@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto file manager disk write implementation
+// summary: Implements WriteFileToDisk, which safely writes data to a path by creating a temporary file and replacing the target, logging errors on failure.
+// ---
+
 #include "chrome/browser/apps/almanac_api_client/proto_file_manager.h"
 
 #include <string>

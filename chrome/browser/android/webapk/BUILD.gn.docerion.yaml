@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for WebAPK browser native sources and tests
+summary: Defines the GN source set for the WebAPK native code plus the browser test and unit test targets with their dependencies.

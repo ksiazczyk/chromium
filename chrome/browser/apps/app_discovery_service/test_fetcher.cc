@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fetcher returning canned app discovery results
+// summary: Implements TestFetcher, an AppFetcher stub that returns preset results, used to override fetching in tests.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/test_fetcher.h"
 
 #include <utility>

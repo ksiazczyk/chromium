@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recommend apps fetcher implementation unit tests
+// summary: Unit tests for RecommendAppsFetcherImpl covering device config population, proto encoding, download handling, and retry behavior with fake ARC features and display config.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/recommended_arc_apps/recommend_apps_fetcher_impl.h"
 
 #include <memory>

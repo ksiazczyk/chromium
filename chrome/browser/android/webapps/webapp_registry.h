@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappRegistry class header
+// summary: Declares the WebappRegistry interface for cleaning up web app data by URL filter, querying origins with WebAPKs or installed apps, and reading or writing the PWA restore flag.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEBAPPS_WEBAPP_REGISTRY_H_
 #define CHROME_BROWSER_ANDROID_WEBAPPS_WEBAPP_REGISTRY_H_
 

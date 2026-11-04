@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App preload Almanac endpoint implementation
+// summary: Fetches and parses the app preload list from the ChromeOS Almanac API, building launcher ordering and shelf pin data with feature flag filtering.
+// ---
+
 #include "chrome/browser/apps/app_preload_service/app_preload_almanac_endpoint.h"
 
 #include <utility>

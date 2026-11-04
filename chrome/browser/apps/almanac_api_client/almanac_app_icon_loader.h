@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Almanac app icon loader header
+// summary: Declares a generic app icon loader that supports SVG icons and ChromeOS app icon masking.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_ALMANAC_API_CLIENT_ALMANAC_APP_ICON_LOADER_H_
 #define CHROME_BROWSER_APPS_ALMANAC_API_CLIENT_ALMANAC_APP_ICON_LOADER_H_
 

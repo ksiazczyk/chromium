@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TWA launch queue tab helper implementation
+// summary: Implements the state machine that tracks pending, active, and committed TWA launches and enqueues parameters into the LaunchQueue.
+// ---
+
 #include "chrome/browser/android/webapps/twa_launch_queue_tab_helper.h"
 
 #include "chrome/browser/android/webapps/twa_launch_navigation_handle_user_data.h"

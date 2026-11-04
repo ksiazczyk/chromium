@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App preload Almanac endpoint unit tests
+// summary: Verifies request construction and parsing of successful app preload responses, including launcher and shelf ordering entries.
+// ---
+
 #include "chrome/browser/apps/app_preload_service/app_preload_almanac_endpoint.h"
 
 #include <optional>

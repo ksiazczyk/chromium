@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppFetcher interface and AppFetcherManager declarations
+// summary: Declares the AppFetcher interface for app providers and the AppFetcherManager backend that dispatches fetch requests per result type.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_APP_FETCHER_MANAGER_H_
 #define CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_APP_FETCHER_MANAGER_H_
 

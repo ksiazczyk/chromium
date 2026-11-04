@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK install service factory implementation
+// summary: Implements the ProfileKeyedServiceFactory that builds per-profile WebApkInstallService instances.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_install_service_factory.h"
 
 #include "chrome/browser/android/webapk/webapk_install_service.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for WebAPK native code
+summary: Delegates ownership to the chrome/android/webapk owners file and routes sync-related changes to the sync owners.

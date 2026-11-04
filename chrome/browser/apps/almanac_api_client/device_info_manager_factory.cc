@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device info manager factory implementation
+// summary: Implements the ProfileKeyedServiceFactory that builds per-profile DeviceInfoManager instances with profile-specific selections.
+// ---
+
 #include "chrome/browser/apps/almanac_api_client/device_info_manager_factory.h"
 
 #include <memory>

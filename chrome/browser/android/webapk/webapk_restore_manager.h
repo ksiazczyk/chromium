@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkRestoreManager class header
+// summary: Declares the WebApkRestoreManager that prepares restorable WebAPK data and schedules restore tasks via WebApkInstallService and a web contents manager.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_RESTORE_MANAGER_H_
 #define CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_RESTORE_MANAGER_H_
 

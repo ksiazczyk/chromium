@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecommendedArcAppFetcher declaration implementing AppFetcher
+// summary: Declares RecommendedArcAppFetcher, an AppFetcher and RecommendAppsFetcherDelegate that delivers recommended ARC app results to a callback.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_RECOMMENDED_ARC_APP_FETCHER_H_
 #define CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_RECOMMENDED_ARC_APP_FETCHER_H_
 

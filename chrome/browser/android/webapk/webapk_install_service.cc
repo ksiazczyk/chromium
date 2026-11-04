@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK install service implementation
+// summary: Implements WebApkInstallService, coordinating WebAPK installs, restores and updates via the WebAPK server and Google Play.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_install_service.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Almanac API client directory metadata
+summary: Specifies the owning team email, ChromeOS target and Buganizer component for this directory.

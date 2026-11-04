@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Preload Service browser tests
+// summary: Runs end-to-end browser tests of the first login preload flow against a local HTTPS server serving proto and manifest responses.
+// ---
+
 #include "chrome/browser/apps/app_preload_service/app_preload_service.h"
 
 #include <map>

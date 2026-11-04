@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App Preload Service GN build configuration
+summary: Defines the app_preload_service source set plus unit and browser test targets with their dependencies for the ChromeOS app preload code.

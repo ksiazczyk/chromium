@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppFetcherManager implementation dispatching app fetch requests
+// summary: Implements AppFetcherManager, routing GetApps requests to the test fetcher or the recommended ARC app fetcher based on the requested result type.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/app_fetcher_manager.h"
 
 #include <memory>

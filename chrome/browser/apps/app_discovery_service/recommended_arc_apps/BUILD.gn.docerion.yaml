@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for recommended_arc_apps
+summary: Defines the recommended_arc_apps source set, device configuration proto, test support and unit test targets with their dependencies.

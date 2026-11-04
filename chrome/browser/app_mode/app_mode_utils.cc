@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App mode utility implementations
+// summary: Implements helpers that detect kiosk and forced app mode, list browser commands allowed in app mode, and check web kiosk origin permissions.
+// ---
+
 #include "chrome/browser/app_mode/app_mode_utils.h"
 
 #include <stddef.h>

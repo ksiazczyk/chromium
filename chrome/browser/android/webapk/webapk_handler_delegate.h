@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK handler delegate interface
+// summary: Declares the delegate that fetches information about each installed WebAPK for display in WebUI through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_HANDLER_DELEGATE_H_
 #define CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_HANDLER_DELEGATE_H_
 

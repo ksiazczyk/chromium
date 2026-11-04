@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test recommend apps fetcher factory
+// summary: Implements a scoped helper that registers a test factory callback for creating recommend apps fetchers and unregisters it on destruction.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/recommended_arc_apps/scoped_test_recommend_apps_fetcher_factory.h"
 
 namespace apps {

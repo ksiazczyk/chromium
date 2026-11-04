@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TWA launch queue tab helper unit tests
+// summary: Unit tests exercising launch enqueueing with a fake WebLaunchService, navigation simulator, and test browser client.
+// ---
+
 #include "chrome/browser/android/webapps/twa_launch_queue_tab_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppDiscoveryService implementation
+// summary: Implements GetApps by forwarding app queries to the AppFetcherManager.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/app_discovery_service.h"
 
 #include <utility>

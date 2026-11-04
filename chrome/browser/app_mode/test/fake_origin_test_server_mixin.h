@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake origin test server mixin header for browser tests
+// summary: Declares a browser test mixin that runs an embedded test server serving local Chrome source files under a fixed origin, so tests can use stable URLs instead of a varying localhost port.
+// ---
+
 #ifndef CHROME_BROWSER_APP_MODE_TEST_FAKE_ORIGIN_TEST_SERVER_MIXIN_H_
 #define CHROME_BROWSER_APP_MODE_TEST_FAKE_ORIGIN_TEST_SERVER_MIXIN_H_
 

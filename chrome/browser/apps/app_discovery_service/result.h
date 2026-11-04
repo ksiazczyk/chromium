@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result and SourceExtras declarations for app discovery results
+// summary: Declares the Result class for app discovery results and the SourceExtras interface that sources extend with provider specific fields.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_RESULT_H_
 #define CHROME_BROWSER_APPS_APP_DISCOVERY_SERVICE_RESULT_H_
 

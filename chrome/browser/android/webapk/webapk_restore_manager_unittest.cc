@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkRestoreManager unit tests
+// summary: Unit tests for the WebAPK restore manager, using mock restore tasks and a test web contents manager to verify task scheduling, completion and logging.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_restore_manager.h"
 
 #include "base/functional/callback.h"

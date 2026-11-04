@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Almanac icon cache unit tests
+// summary: Unit tests for AlmanacIconCache covering successful icon downloads and server failures via a mock image fetcher.
+// ---
+
 #include "chrome/browser/apps/almanac_api_client/almanac_icon_cache.h"
 
 #include <memory>

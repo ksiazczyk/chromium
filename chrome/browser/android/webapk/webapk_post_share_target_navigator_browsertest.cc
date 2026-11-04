@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share target POST navigation browser tests
+// summary: Browser tests verifying that Web Share Target POST navigations are not treated as user-typed, so SameSite cookies are not sent on cross-site redirects.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_post_share_target_navigator.h"
 
 #include <string>

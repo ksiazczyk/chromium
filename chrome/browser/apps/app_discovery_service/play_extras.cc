@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayExtras implementation for Google Play result metadata
+// summary: Implements PlayExtras, the SourceExtras subclass carrying Google Play metadata such as package name, icon, category, content rating and ads flags.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/play_extras.h"
 
 #include <memory>

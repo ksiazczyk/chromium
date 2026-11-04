@@ -1,3 +1,13 @@
+---
+type: readme
+title: Android WebAPK browser native code overview
+summary: Explains how the native WebAPK components bridge Java UI and the WebAPK minting server, covering the installation pipeline and update dispatch.
+relations:
+  - references /chrome/android/webapk/README.md
+  - documents /chrome/browser/android/webapk/webapk_install_service.h
+  - documents /chrome/browser/android/webapk/webapk_installer.h
+---
+
 # Android WebAPK Browser Native Code (`chrome/browser/android/webapk`)
 
 This directory contains the C++ browser-process components for WebAPKs in

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Preload Service unit tests
+// summary: Unit tests for AppPreloadService covering the first-login flow, state manager preferences, and shelf pinning with fake profile and network dependencies.
+// ---
+
 #include "chrome/browser/apps/app_preload_service/app_preload_service.h"
 
 #include <algorithm>

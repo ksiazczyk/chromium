@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkUkmRecorder implementation
+// summary: Records WebAPK UKM metrics such as installs, visits, session durations and uninstall events on behalf of the Java counterpart via JNI.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_ukm_recorder.h"
 
 #include <algorithm>

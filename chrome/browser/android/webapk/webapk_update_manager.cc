@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK update manager native JNI implementation
+// summary: Implements the native side of the WebApkUpdateManager JNI interface, building WebAPK update requests from Java-supplied manifest and icon data and reporting update results back to Java.
+// ---
+
 #include <jni.h>
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User type filter API declarations
+// summary: Declares user type constants and functions for determining a profile's user type and matching it against JSON user type filters.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_USER_TYPE_FILTER_H_
 #define CHROME_BROWSER_APPS_USER_TYPE_FILTER_H_
 

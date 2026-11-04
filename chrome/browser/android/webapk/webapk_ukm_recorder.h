@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkUkmRecorder header
+// summary: Declares static methods for recording WebAPK UKM metrics including install, visit, session duration, uninstall and WebAPKable site visits.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_UKM_RECORDER_H_
 #define CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_UKM_RECORDER_H_
 

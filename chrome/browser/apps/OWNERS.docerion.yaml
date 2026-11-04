@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the apps directory
+summary: Lists code owners for the directory, with a per-file owner for icon_standardizer changes.

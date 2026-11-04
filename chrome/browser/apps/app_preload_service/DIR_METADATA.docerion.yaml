@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: App Preload Service directory metadata
+summary: Declares the owning ChromeOS commerce engineering team, OS and Buganizer component for this directory.

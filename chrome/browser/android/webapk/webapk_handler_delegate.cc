@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI implementation of the WebAPK handler delegate
+// summary: Implements the JNI bridge that retrieves installed WebAPK details from Java and converts them into WebApkInfo objects.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_handler_delegate.h"
 
 #include "base/android/jni_android.h"

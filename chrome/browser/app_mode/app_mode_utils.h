@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App mode utility declarations
+// summary: Declares helpers for app mode detection, forced app mode checks per app ID, allowed browser commands, and web kiosk origin permission checks.
+// ---
+
 #ifndef CHROME_BROWSER_APP_MODE_APP_MODE_UTILS_H_
 #define CHROME_BROWSER_APP_MODE_APP_MODE_UTILS_H_
 

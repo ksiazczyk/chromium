@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload app definition implementation
+// summary: Implements the wrapper around App Preload Server app protos that extracts package IDs, platforms, install reasons, and converts apps to install data.
+// ---
+
 #include "chrome/browser/apps/app_preload_service/preload_app_definition.h"
 
 #include "base/notreached.h"

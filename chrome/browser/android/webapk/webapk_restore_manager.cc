@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK restore manager implementation
+// summary: Manages restore tasks that reinstall previously synced WebAPKs on new devices, preparing restorable apps, downloading icons and scheduling tasks sequentially.
+// ---
+
 #include "chrome/browser/android/webapk/webapk_restore_manager.h"
 
 #include "base/barrier_closure.h"

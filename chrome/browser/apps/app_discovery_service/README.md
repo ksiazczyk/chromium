@@ -1,3 +1,9 @@
+---
+type: readme
+title: AppDiscoveryService
+summary: Explains how the ChromeOS app discovery framework mediates between app consumers and providers via AppFetcher and AppFetcherManager.
+---
+
 # AppDiscoveryService
 
 Chrome OS has apps that can come from a wide variety of app platforms or app

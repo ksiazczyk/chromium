@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppDiscoveryServiceFactory implementation
+// summary: Implements the profile-keyed service factory that builds an AppDiscoveryService instance for each browser context.
+// ---
+
 #include "chrome/browser/apps/app_discovery_service/app_discovery_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkInfo struct header for Android WebAPKs
+// summary: Declares the move-only WebApkInfo struct holding WebAPK metadata such as names, package, manifest URLs, display mode, orientation, theme colors, and update timings, used to populate the internal WebAPKs page.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_INFO_H_
 #define CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_INFO_H_
 

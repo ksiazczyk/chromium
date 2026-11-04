@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TWA launch queue delegate unit tests
+// summary: Unit tests verifying GetPathInfo behavior for local file paths and Android content URIs.
+// ---
+
 #include "chrome/browser/android/webapps/twa_launch_queue_delegate.h"
 
 #include <optional>

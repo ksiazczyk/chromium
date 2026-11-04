@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK shell update feature declarations
+// summary: Declares the WebAPK shell update features and the target shell version parameter used by the browser code.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_FEATURES_H_
 #define CHROME_BROWSER_ANDROID_WEBAPK_WEBAPK_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Preload Service factory implementation
+// summary: Creates the per-profile AppPreloadService and gates availability on API keys, app service, web apps and user type.
+// ---
+
 #include "chrome/browser/apps/app_preload_service/app_preload_service_factory.h"
 
 #include "chrome/browser/apps/app_preload_service/app_preload_service.h"
