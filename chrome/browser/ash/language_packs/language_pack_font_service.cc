@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguagePackFontService implementation
+// summary: Implements the keyed service that installs Japanese and Korean DLC fonts based on accept-language preferences and registers them with fontconfig.
+// ---
+
 #include "chrome/browser/ash/language_packs/language_pack_font_service.h"
 
 #include <string>

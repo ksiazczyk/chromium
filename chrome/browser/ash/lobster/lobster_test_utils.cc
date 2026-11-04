@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lobster test utilities implementation
+// summary: Implements helpers for Lobster tests, including test bitmap creation, fake Manta request and response builders, and a matcher comparing JPEG image candidates.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_test_utils.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LobsterBubbleCoordinator class declaration
+// summary: Declares a widget-observing coordinator that loads, shows and closes the Lobster WebUI bubble contents for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_BUBBLE_COORDINATOR_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_BUBBLE_COORDINATOR_H_
 

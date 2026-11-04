@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text input test helper implementation
+// summary: Implements TextInputTestBase and TextInputTestHelper, which observe input method events and wait for focus, caret, and surrounding text changes during tests.
+// ---
+
 #include "chrome/browser/ash/input_method/textinput_test_helper.h"
 
 #include <string_view>

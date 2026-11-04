@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor announcer interface and live region announcer
+// summary: Declares the EditorAnnouncer interface and the EditorLiveRegionAnnouncer class used to trigger ChromeVox announcements.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_ANNOUNCER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_ANNOUNCER_H_
 

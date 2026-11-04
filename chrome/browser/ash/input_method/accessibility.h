@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Accessibility input method observer
+// summary: Declares the Accessibility class, an InputMethodManager::Observer that handles accessibility feedback on input method changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_ACCESSIBILITY_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_ACCESSIBILITY_H_
 

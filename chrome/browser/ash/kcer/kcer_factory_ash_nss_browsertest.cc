@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for KcerFactoryAsh with NSS
+// summary: In-process browser tests verifying Kcer instances and available tokens when the factory uses the NSS-based implementation.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "base/test/test_future.h"
 #include "chrome/browser/ash/kcer/kcer_factory_ash.h"

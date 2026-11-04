@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method syncer header
+// summary: Declares InputMethodSyncer, which syncs language and input method preferences and merges synced values at first sign-in.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_SYNCER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_SYNCER_H_
 

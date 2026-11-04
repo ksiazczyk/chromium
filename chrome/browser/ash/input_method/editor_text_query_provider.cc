@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor text query provider implementation
+// summary: Implements the orca TextQueryProvider mojo interface, building Manta requests with IME, tone and config parameters and mapping Manta status codes to text query error codes.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_text_query_provider.h"
 
 #include <optional>

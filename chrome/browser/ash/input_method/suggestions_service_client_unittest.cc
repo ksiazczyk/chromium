@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestions service client unit tests
+// summary: Unit tests for SuggestionsServiceClient using a fake ML service connection to verify completion and prediction results.
+// ---
+
 #include "chrome/browser/ash/input_method/suggestions_service_client.h"
 
 #include "base/run_loop.h"

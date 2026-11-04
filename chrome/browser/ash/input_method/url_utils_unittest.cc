@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL utility unit tests
+// summary: Unit tests covering subdomain, path prefix, and file extension checks across standard domains, subdomains, multi-part registries, localhost, IP addresses, and invalid URLs.
+// ---
+
 #include "chrome/browser/ash/input_method/url_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

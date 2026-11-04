@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Surrounding text browser tests
+// summary: Browser tests checking that surrounding text and selection ranges update correctly after text insertion and composition changes in a textarea.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "chrome/browser/ash/input_method/textinput_test_helper.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

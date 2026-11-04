@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text utilities for sentence detection
+// summary: Implements helpers that locate sentence boundaries in text, handling abbreviations, quotes and emoticons.
+// ---
+
 #include "chrome/browser/ash/input_method/text_utils.h"
 
 #include <string_view>

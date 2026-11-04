@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diacritics-insensitive string comparator unit tests
+// summary: Unit tests verifying the comparator treats accented and ligature variants as equal while keeping case, language and word distinctions.
+// ---
+
 #include "chrome/browser/ash/input_method/diacritics_insensitive_string_comparator.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

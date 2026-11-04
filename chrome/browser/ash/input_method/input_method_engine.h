@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method engine class declaration
+// summary: Declares InputMethodEngine with candidate window properties, segment styles, and the text input method API for extension-based IMEs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_ENGINE_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_ENGINE_H_
 

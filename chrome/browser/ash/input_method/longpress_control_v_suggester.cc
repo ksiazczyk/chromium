@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long-press Ctrl+V suggester implementation
+// summary: Implements the long-press Ctrl+V suggestion that can undo a paste by deleting the originally pasted text.
+// ---
+
 #include "chrome/browser/ash/input_method/longpress_control_v_suggester.h"
 
 #include <string>

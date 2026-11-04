@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AssistiveWindowController unit tests
+// summary: Unit tests for the assistive window controller covering suggestion display, undo window, and announcement behavior.
+// ---
+
 #include "chrome/browser/ash/input_method/assistive_window_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

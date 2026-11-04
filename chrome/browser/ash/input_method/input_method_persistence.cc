@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method persistence
+// summary: Persists the current input method to local state or user preferences depending on session state such as login, normal, lock, or secondary login screens.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_persistence.h"
 
 #include "ash/constants/ash_login_pref_names.h"

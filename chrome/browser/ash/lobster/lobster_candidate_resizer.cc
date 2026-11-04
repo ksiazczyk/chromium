@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LobsterCandidateResizer implementation
+// summary: Requests full-size inflated image candidates through the Lobster image fetcher and reports localized errors when no result is returned.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_candidate_resizer.h"
 
 #include <string>

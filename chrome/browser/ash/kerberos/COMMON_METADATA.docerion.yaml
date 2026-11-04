@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Kerberos directory bug tracker metadata
+summary: Maps this directory to Buganizer components for public and internal issue tracking.

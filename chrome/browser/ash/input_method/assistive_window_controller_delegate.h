@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssistiveWindowControllerDelegate interface
+// summary: Declares the delegate interface for assistive window button clicks and window change notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_ASSISTIVE_WINDOW_CONTROLLER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_ASSISTIVE_WINDOW_CONTROLLER_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method syncer implementation
+// summary: Implements syncing of language and input method preferences, merging synced values on first sign-in.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_syncer.h"
 
 #include <algorithm>

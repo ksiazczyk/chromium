@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocorrect preference accessors for keyboards
+// summary: Declares functions to read and set the user's autocorrect preference for physical and virtual keyboards per input engine.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_AUTOCORRECT_PREFS_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_AUTOCORRECT_PREFS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorEventSink interface header
+// summary: Declares the EditorEventSink interface with focus, blur, input method activation, and surrounding text change callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_EVENT_SINK_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_EVENT_SINK_H_
 

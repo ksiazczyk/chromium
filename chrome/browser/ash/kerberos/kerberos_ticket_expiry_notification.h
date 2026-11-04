@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos ticket expiry notification header
+// summary: Declares functions to show and close the Kerberos ticket expiry notification for a given user and principal name.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_KERBEROS_KERBEROS_TICKET_EXPIRY_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_KERBEROS_KERBEROS_TICKET_EXPIRY_NOTIFICATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input methods by language unit tests
+// summary: Parameterized tests verifying that each input method ID maps to the expected language category.
+// ---
+
 #include "chrome/browser/ash/input_method/input_methods_by_language.h"
 
 #include <utility>

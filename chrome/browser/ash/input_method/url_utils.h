@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL utility header
+// summary: Declares URL helpers for subdomain, path prefix, and file extension checks used by input method features.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_URL_UTILS_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_URL_UTILS_H_
 

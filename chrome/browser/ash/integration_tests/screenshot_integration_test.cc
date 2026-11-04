@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screenshot average color integration test
+// summary: Parameterized Crosier test that captures the screen and checks the dominant color of a red page, with optional Vulkan support and a currently disabled case.
+// ---
+
 #include <string>
 #include <vector>
 

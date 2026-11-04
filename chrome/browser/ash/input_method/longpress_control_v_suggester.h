@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long-press Ctrl+V suggester header
+// summary: Declares the suggester class that tracks the pasted text start and handles long-press Ctrl+V suggestion behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_LONGPRESS_CONTROL_V_SUGGESTER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_LONGPRESS_CONTROL_V_SUGGESTER_H_
 

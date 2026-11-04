@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-word suggester unit tests
+// summary: Unit tests for MultiWordSuggester covering suggestion display, acceptance, dismissal, key handling, and metrics behavior.
+// ---
+
 #include "chrome/browser/ash/input_method/multi_word_suggester.h"
 
 #include <memory>

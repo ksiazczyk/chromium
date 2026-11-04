@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LobsterCandidateResizer unit tests
+// summary: Tests that the candidate resizer calls the Snapper provider, returns full-size candidates and surfaces errors on failed responses.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_candidate_resizer.h"
 
 #include "ash/constants/ash_features.h"

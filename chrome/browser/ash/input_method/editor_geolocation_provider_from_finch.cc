@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finch-based editor geolocation provider implementation
+// summary: Implements a geolocation provider that reads the latest country from the browser's variations service, returning an empty string when unavailable.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_geolocation_provider_from_finch.h"
 
 #include "chrome/browser/browser_process.h"

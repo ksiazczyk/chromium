@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor metrics enums
+// summary: Defines enums for editor tones and editor metric states that are persisted to logs and must match entries in enums.xml.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_METRICS_ENUMS_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_METRICS_ENUMS_H_
 

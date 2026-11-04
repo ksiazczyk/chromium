@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text utilities unit tests
+// summary: Unit tests verifying sentence boundary detection, including abbreviations, section ends, emoticons and line breaks.
+// ---
+
 #include "chrome/browser/ash/input_method/text_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

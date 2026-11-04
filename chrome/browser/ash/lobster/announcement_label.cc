@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnouncementLabel implementation for ChromeVox live region announcements
+// summary: Implements a label view that announces text to ChromeVox after a configurable delay via accessibility live regions.
+// ---
+
 #include "chrome/browser/ash/lobster/announcement_label.h"
 
 #include "base/time/time.h"

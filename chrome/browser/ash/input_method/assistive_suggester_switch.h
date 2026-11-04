@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistive suggester switch interface
+// summary: Declares the AssistiveSuggesterSwitch interface and EnabledSuggestions struct describing which suggestion types are enabled for a user context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_ASSISTIVE_SUGGESTER_SWITCH_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_ASSISTIVE_SUGGESTER_SWITCH_H_
 

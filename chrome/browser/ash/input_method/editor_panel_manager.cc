@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor panel manager implementation
+// summary: Implements the editor panel manager, which provides context to the editor menu card and handles events such as consent and promo card actions.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_panel_manager.h"
 
 #include <string_view>

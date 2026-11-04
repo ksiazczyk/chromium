@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native input method engine implementation
+// summary: Implements the native Chrome OS input method engine that bridges the input framework with the IME service and wires up assistive suggesters and autocorrect.
+// ---
+
 #include "chrome/browser/ash/input_method/native_input_method_engine.h"
 
 #include <utility>

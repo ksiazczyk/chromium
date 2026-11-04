@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos credentials manager factory implementation
+// summary: Builds the KerberosCredentialsManager keyed service only for primary, non-testing profiles.
+// ---
+
 #include "chrome/browser/ash/kerberos/kerberos_credentials_manager_factory.h"
 
 #include <memory>

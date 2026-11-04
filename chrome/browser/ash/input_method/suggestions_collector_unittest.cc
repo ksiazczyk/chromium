@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestions collector unit tests
+// summary: Unit tests for the suggestions collector using fake suggester and service sources to verify how suggestion results are combined.
+// ---
+
 #include "chrome/browser/ash/input_method/suggestions_collector.h"
 
 #include <vector>

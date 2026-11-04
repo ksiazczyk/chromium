@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster system state provider implementation header
+// summary: Declares LobsterSystemStateProviderImpl, which tracks preferences, identity, and display state to report the Lobster system state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_SYSTEM_STATE_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_SYSTEM_STATE_PROVIDER_IMPL_H_
 

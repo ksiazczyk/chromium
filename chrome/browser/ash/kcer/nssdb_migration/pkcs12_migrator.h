@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PKCS#12 certificate migrator declarations
+// summary: Declares the Pkcs12Migrator service and its profile-keyed factory that copy client certificates from the NSS public slot to the Chaps token, plus UMA event constants.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_KCER_NSSDB_MIGRATION_PKCS12_MIGRATOR_H_
 #define CHROME_BROWSER_ASH_KCER_NSSDB_MIGRATION_PKCS12_MIGRATOR_H_
 

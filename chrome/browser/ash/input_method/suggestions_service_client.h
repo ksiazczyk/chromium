@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions service client header
+// summary: Declares a client that requests assistive text suggestions from the ML service's TextSuggester via Mojo.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_SUGGESTIONS_SERVICE_CLIENT_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_SUGGESTIONS_SERVICE_CLIENT_H_
 

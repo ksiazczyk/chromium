@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Assistive suggester unit tests
+// summary: Extensive unit tests covering assistive suggestion behavior, key event handling, preferences, and metrics using fake handlers and test profiles.
+// ---
+
 #include "chrome/browser/ash/input_method/assistive_suggester.h"
 
 #include "ash/clipboard/clipboard_history_controller_impl.h"

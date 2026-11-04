@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorTextInsertion class header
+// summary: Declares EditorTextInsertion, which holds pending text with an insertion strategy and a timeout that renders the operation inert.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_TEXT_INSERTION_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_TEXT_INSERTION_H_
 

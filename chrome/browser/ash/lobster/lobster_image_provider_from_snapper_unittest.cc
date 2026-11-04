@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snapper image provider unit tests
+// summary: Unit tests for LobsterImageProviderFromSnapper using a mock SnapperProvider to verify candidate requests, seeds and rewritten queries.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_image_provider_from_snapper.h"
 
 #include "ash/constants/ash_features.h"

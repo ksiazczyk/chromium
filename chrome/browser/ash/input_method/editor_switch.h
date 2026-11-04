@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorSwitch class header
+// summary: Declares EditorSwitch, which determines Editor feature availability and editor mode for an input context and notifies observers of mode changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_SWITCH_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_SWITCH_H_
 

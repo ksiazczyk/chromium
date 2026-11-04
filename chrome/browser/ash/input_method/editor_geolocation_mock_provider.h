@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor geolocation mock provider header
+// summary: Declares EditorGeolocationMockProvider, a test double of EditorGeolocationProvider that returns a preset country code.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_GEOLOCATION_MOCK_PROVIDER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_GEOLOCATION_MOCK_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Long-press diacritics suggester unit tests
+// summary: Parameterized tests covering diacritic suggestions, key event handling, invalid engine IDs, and metrics for long-press diacritics.
+// ---
+
 #include "chrome/browser/ash/input_method/longpress_diacritics_suggester.h"
 
 #include <string>

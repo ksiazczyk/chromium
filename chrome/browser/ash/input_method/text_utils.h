@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text utilities header
+// summary: Declares the Sentence struct and functions to find sentence boundaries around a cursor position.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_TEXT_UTILS_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_TEXT_UTILS_H_
 

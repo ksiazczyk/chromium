@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Kerberos GN build configuration
+summary: Defines the kerberos static library plus unit test and browser test source sets with their sources and dependencies.

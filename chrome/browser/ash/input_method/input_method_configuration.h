@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method configuration API
+// summary: Declares functions to initialize, initialize for testing, disable extension loading, and shut down the input method manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_CONFIGURATION_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_CONFIGURATION_H_
 

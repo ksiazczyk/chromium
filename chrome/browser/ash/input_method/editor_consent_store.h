@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorConsentStore header for consent status management
+// summary: Declares EditorConsentStore, which manages the Editor feature's consent status read and write in per-user preference stores.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_CONSENT_STORE_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_CONSENT_STORE_H_
 

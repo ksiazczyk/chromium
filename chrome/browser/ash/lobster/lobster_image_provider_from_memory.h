@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory lobster image provider header
+// summary: Declares LobsterImageProviderFromMemory, a LobsterImageFetcher::Provider that returns generated test image candidates after a delay.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_IMAGE_PROVIDER_FROM_MEMORY_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_IMAGE_PROVIDER_FROM_MEMORY_H_
 

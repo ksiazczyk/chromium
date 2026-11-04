@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Kerberos directory owners
+summary: Lists the directory owners for review and allows any owner to approve BUILD.gn changes.

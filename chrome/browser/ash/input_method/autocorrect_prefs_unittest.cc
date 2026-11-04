@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for autocorrect preference accessors
+// summary: Unit tests verifying autocorrect preference lookups for physical and virtual keyboards across engine IDs and managed policy settings.
+// ---
+
 #include "chrome/browser/ash/input_method/autocorrect_prefs.h"
 
 #include "ash/constants/ash_pref_names.h"

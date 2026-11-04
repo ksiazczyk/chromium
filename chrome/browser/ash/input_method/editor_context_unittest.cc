@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EditorContext unit tests
+// summary: Unit test verifying that EditorContext fires the observer callback with the new engine id when the active input method changes.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_context.h"
 
 #include <string_view>

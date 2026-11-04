@@ -4,6 +4,12 @@
 //
 // This file implements the input method candidate window used on Chrome OS.
 
+// ---docerion
+// type: source
+// title: Focused window properties helper
+// summary: Provides helpers that return the focused tab URL and the active window's app ID and ARC package name for input method use.
+// ---
+
 #include "chrome/browser/ash/input_method/get_current_window_properties.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen projection change monitor
+// summary: Header for a class that monitors screen casting and mirroring state and invokes a callback when the projection status changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_SCREEN_PROJECTION_CHANGE_MONITOR_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_SCREEN_PROJECTION_CHANGE_MONITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor consent store implementation
+// summary: Stores and updates the orca editor consent status in preferences, reacting to setting changes and logging consent metrics.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_consent_store.h"
 
 #include <utility>

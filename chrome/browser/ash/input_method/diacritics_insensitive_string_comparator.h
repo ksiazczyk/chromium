@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diacritics-insensitive string comparator header
+// summary: Declares a comparator class that treats accented and unaccented Latin letters as equal when comparing strings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_DIACRITICS_INSENSITIVE_STRING_COMPARATOR_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_DIACRITICS_INSENSITIVE_STRING_COMPARATOR_H_
 

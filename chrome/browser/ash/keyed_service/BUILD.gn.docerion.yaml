@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ash keyed_service static library
+summary: Defines the keyed_service static library that builds the Chrome OS browser context keyed service factories and lists their many component dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IME service connector unit tests
+// summary: Unit tests for ImeServiceConnector verifying download URL and path validation, including rejection of invalid domains, absolute paths and parent references.
+// ---
+
 #include "chrome/browser/ash/input_method/ime_service_connector.h"
 
 #include "base/files/file_path.h"

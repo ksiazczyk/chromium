@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Kerberos include dependency rules
+summary: Restricts includes from //chrome and lists allowed dependencies with per-file exceptions for the kerberos directory.

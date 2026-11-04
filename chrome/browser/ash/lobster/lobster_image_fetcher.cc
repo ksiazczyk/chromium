@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster image fetcher implementation
+// summary: Implements LobsterImageFetcher by delegating candidate and full-size image requests to the configured provider and allowing provider replacement.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_image_fetcher.h"
 
 #include <memory>

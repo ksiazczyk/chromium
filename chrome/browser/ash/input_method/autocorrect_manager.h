@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocorrectManager class
+// summary: Declares the manager that applies autocorrect suggestions, shows undo UI, and records usage metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_AUTOCORRECT_MANAGER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_AUTOCORRECT_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor mediator factory implementation
+// summary: Implements the profile-keyed service factory that builds EditorMediator instances wired to the Manta service and Finch geolocation provider.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_mediator_factory.h"
 
 #include <memory>

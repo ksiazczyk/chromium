@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos credentials manager factory header
+// summary: Declares a keyed-service factory singleton that creates and owns one KerberosCredentialsManager per primary Chrome OS profile, returning nullptr for non-primary profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_KERBEROS_KERBEROS_CREDENTIALS_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_ASH_KERBEROS_KERBEROS_CREDENTIALS_MANAGER_FACTORY_H_
 

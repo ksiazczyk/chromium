@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LobsterInsertion header
+// summary: Declares a class that commits a pending image into the focused text input, cancelling the insertion after a timeout.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_INSERTION_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_INSERTION_H_
 

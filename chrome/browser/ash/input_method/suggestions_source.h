@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions source interfaces
+// summary: Defines synchronous and asynchronous interfaces for sources of text-based assistive suggestions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_SUGGESTIONS_SOURCE_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_SUGGESTIONS_SOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistive prefs helper declarations
+// summary: Declares helpers to read and update assistive input method preferences such as predictive writing and diacritics on longpress.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_ASSISTIVE_PREFS_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_ASSISTIVE_PREFS_H_
 

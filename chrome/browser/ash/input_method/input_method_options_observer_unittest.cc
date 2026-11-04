@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input method options observer unit tests
+// summary: Unit tests verifying the observer callback fires for relevant pref changes, ignores unrelated prefs, and stops when the observer goes out of scope.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_options_observer.h"
 
 #include "ash/constants/ash_pref_names.h"

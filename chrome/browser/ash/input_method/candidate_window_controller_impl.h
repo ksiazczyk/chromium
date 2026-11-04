@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Candidate window controller implementation header
+// summary: Declares CandidateWindowControllerImpl, which handles candidate window views, infolist entries and IME candidate window handler events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_CANDIDATE_WINDOW_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_CANDIDATE_WINDOW_CONTROLLER_IMPL_H_
 

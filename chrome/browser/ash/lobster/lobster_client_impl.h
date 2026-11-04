@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LobsterClientImpl class declaration
+// summary: Declares the LobsterClient implementation that forwards Lobster requests and UI control to the Lobster service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_CLIENT_IMPL_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_CLIENT_IMPL_H_
 

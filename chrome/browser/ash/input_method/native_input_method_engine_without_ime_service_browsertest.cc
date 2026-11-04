@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native input method engine browser tests without IME service
+// summary: In-process browser tests exercising the native input method engine without the IME service, covering suggestions, autocorrect and key event handling.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_pref_names.h"
 #include "base/dcheck_is_on.h"

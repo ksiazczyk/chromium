@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input method configuration unit tests
+// summary: Unit tests verifying that the input method manager is created by Initialize and InitializeForTesting and removed by Shutdown.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_configuration.h"
 
 #include "chrome/browser/ash/settings/scoped_testing_cros_settings.h"

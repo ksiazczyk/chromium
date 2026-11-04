@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocorrectManager implementation
+// summary: Implements autocorrect handling for the chrome.input.ime API, including underlining, undo window, and compatibility metrics.
+// ---
+
 #include "chrome/browser/ash/input_method/autocorrect_manager.h"
 
 #include "ash/constants/ash_features.h"

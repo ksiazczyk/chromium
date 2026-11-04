@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub input method engine observer
+// summary: Stub implementation of the input method engine observer interface whose callback methods are all empty no-ops.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_STUB_INPUT_METHOD_ENGINE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_STUB_INPUT_METHOD_ENGINE_OBSERVER_H_
 

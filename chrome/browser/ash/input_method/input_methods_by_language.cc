@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input methods by language lists
+// summary: Provides per-language lists of supported input method engine IDs and maps engines to language categories.
+// ---
+
 #include "chrome/browser/ash/input_method/input_methods_by_language.h"
 
 #include <algorithm>

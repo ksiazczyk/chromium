@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for integration test dependencies
+summary: Restricts //chrome includes in the directory and grants specific test files access to browser window and Chrome path headers.

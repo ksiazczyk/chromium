@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME service connector implementation
+// summary: Implements ImeServiceConnector, which validates and downloads IME language files over HTTPS and launches the out-of-process IME service with platform access.
+// ---
+
 #include "chrome/browser/ash/input_method/ime_service_connector.h"
 
 #include <memory>

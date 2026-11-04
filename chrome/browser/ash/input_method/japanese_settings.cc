@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Japanese input method settings implementation
+// summary: Converts Japanese input method preferences into mojom settings and records UMA histograms for the configured values.
+// ---
+
 #include "chrome/browser/ash/input_method/japanese_settings.h"
 
 #include "base/containers/fixed_flat_map.h"

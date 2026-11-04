@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Lobster system state provider
+// summary: Defines a gmock mock of LobsterSystemStateProvider whose GetSystemState method can be stubbed in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_MOCK_LOBSTER_SYSTEM_STATE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_LOBSTER_MOCK_LOBSTER_SYSTEM_STATE_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LobsterAnnouncer interface and live region announcer header
+// summary: Declares the announcer interface and a live-region-based implementation for ChromeVox announcements.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_LOBSTER_ANNOUNCER_H_
 #define CHROME_BROWSER_ASH_LOBSTER_LOBSTER_ANNOUNCER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor consent and blocking enums
+// summary: Defines enums for promo card and consent actions, editor opportunity modes, and the reasons the editor can be blocked.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_CONSENT_ENUMS_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_CONSENT_ENUMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LobsterBubbleCoordinator implementation
+// summary: Implements loading, showing, and closing the Lobster WebUI bubble with query, mode, and feedback parameters.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_bubble_coordinator.h"
 
 #include <optional>

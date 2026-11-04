@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Candidate window controller implementation
+// summary: Implements the candidate window controller, managing the candidate window view, infolist window, cursor bounds and observer notifications.
+// ---
+
 #include "chrome/browser/ash/input_method/candidate_window_controller_impl.h"
 
 #include <string>

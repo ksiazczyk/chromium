@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Lobster directory
+summary: Restricts Chromium includes for this directory and grants targeted exceptions for sources and tests.

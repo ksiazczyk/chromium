@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguagePackFontService class declaration
+// summary: Declares the keyed service that adds DLC fonts to fontconfig on startup and installs font packs when web language preferences change.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LANGUAGE_PACKS_LANGUAGE_PACK_FONT_SERVICE_H_
 #define CHROME_BROWSER_ASH_LANGUAGE_PACKS_LANGUAGE_PACK_FONT_SERVICE_H_
 

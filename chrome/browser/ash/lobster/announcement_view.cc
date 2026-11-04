@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnouncementView implementation for offscreen announcement bubbles
+// summary: Implements an invisible bubble dialog hosting an AnnouncementLabel to deliver ChromeVox announcements.
+// ---
+
 #include "chrome/browser/ash/lobster/announcement_view.h"
 
 #include "base/time/time.h"

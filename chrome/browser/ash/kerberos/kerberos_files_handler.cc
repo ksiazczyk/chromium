@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos files handler implementation
+// summary: Writes and deletes the krb5cc credential cache and krb5.conf config files in the user's home directory, adjusting the config according to the DNS canonicalization policy.
+// ---
+
 #include "chrome/browser/ash/kerberos/kerberos_files_handler.h"
 
 #include <memory>

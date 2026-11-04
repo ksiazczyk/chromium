@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text input browser tests
+// summary: Browser tests verifying that text input type changes are reported when focus moves between fields, on page load, via JavaScript, or through mouse clicks.
+// ---
+
 #include <stddef.h>
 
 #include "chrome/browser/ash/input_method/textinput_test_helper.h"

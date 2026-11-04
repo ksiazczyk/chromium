@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method manager implementation header
+// summary: Declares InputMethodManagerImpl, the InputMethodManager implementation managing input method state, extensions, observers, and session states for ChromeOS Ash.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_MANAGER_IMPL_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_INPUT_METHOD_MANAGER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion handler interface
+// summary: Interface for handling suggestion calls from the assistive suggester, such as showing, accepting, dismissing, and announcing suggestions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_SUGGESTION_HANDLER_INTERFACE_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_SUGGESTION_HANDLER_INTERFACE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor client connector header
+// summary: Declares the EditorClientConnector class that forwards editor client Mojo bindings to the orca service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_CLIENT_CONNECTOR_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_CLIENT_CONNECTOR_H_
 

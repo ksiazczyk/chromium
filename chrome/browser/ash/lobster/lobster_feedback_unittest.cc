@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lobster feedback unit tests
+// summary: Integration tests for specialized_features::SendFeedback that use a mock feedback uploader to verify reports are queued without the user's email.
+// ---
+
 #include "base/test/gtest_util.h"
 #include "base/test/protobuf_matchers.h"
 #include "base/test/scoped_chromeos_version_info.h"

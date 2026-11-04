@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock candidate window controller implementation
+// summary: Implements a mock candidate window controller that counts observer additions and removals and notifies observers of candidate window events for tests.
+// ---
+
 #include "chrome/browser/ash/input_method/mock_candidate_window_controller.h"
 
 namespace ash {

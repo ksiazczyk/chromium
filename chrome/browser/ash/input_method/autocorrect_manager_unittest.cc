@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutocorrectManager unit tests
+// summary: Extensive unit tests for autocorrect behavior, undo window interactions, and histogram and UKM metrics.
+// ---
+
 #include "chrome/browser/ash/input_method/autocorrect_manager.h"
 
 #include "ash/constants/ash_features.h"

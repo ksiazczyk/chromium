@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the input_method directory
+summary: Restricts which //chrome and //content headers files in this directory may include, with per-file exceptions for tests and specific components.

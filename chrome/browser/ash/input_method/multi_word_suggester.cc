@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-word suggester implementation
+// summary: Implements the multi-word suggester that shows, accepts, and dismisses predictive writing suggestions and records related UMA metrics.
+// ---
+
 #include "chrome/browser/ash/input_method/multi_word_suggester.h"
 
 #include <cmath>

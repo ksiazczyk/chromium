@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text field contextual info fetcher header
+// summary: Declares TextFieldContextualInfo and helpers that gather contextual info about the focused text field.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_TEXT_FIELD_CONTEXTUAL_INFO_FETCHER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_TEXT_FIELD_CONTEXTUAL_INFO_FETCHER_H_
 

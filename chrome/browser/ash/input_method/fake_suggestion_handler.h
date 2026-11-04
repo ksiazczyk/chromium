@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake suggestion handler header
+// summary: Declares FakeSuggestionHandler, a SuggestionHandlerInterface fake with test getters for suggestion and announcement state used in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_FAKE_SUGGESTION_HANDLER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_FAKE_SUGGESTION_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method quick settings helpers
+// summary: Builds and toggles Chinese and Japanese input method menu items used for IME quick settings in ChromeOS.
+// ---
+
 #include "chrome/browser/ash/input_method/input_method_quick_settings_helpers.h"
 
 #include "ui/base/l10n/l10n_util.h"

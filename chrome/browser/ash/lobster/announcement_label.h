@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnouncementLabel class header
+// summary: Declares a views Label subclass used for delayed ChromeVox announcements through live regions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOBSTER_ANNOUNCEMENT_LABEL_H_
 #define CHROME_BROWSER_ASH_LOBSTER_ANNOUNCEMENT_LABEL_H_
 

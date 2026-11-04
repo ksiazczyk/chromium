@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LobsterClientFactoryImpl implementation
+// summary: Creates LobsterClientImpl instances from the active profile's Lobster service and registers itself with the Lobster controller.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_client_factory_impl.h"
 
 #include <memory>

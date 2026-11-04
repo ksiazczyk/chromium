@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to the Ash input method component
+summary: Points to the OWNERS file of chromeos/ash/components/input_method to define reviewers for this directory.

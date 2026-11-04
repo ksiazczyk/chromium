@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility announcements for input method changes
+// summary: Implements an InputMethodManager observer that announces the localized name of the active input method via the Aura automation manager.
+// ---
+
 #include "chrome/browser/ash/input_method/accessibility.h"
 
 #include "base/check_op.h"

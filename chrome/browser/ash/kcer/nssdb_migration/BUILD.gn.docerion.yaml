@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: NSS DB migration build targets
+summary: Defines the nssdb_migration static library and its unit test source set together with their Chromium dependencies.

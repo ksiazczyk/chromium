@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster service provider implementation
+// summary: Implements the profile-keyed factory that builds a LobsterService for regular profiles using a Manta Snapper provider.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_service_provider.h"
 
 #include <memory>

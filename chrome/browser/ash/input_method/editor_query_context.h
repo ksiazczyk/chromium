@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor query context header
+// summary: Declares the EditorQueryContext struct holding an optional preset query ID or freeform text used to trigger editor flows.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_QUERY_CONTEXT_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_EDITOR_QUERY_CONTEXT_H_
 

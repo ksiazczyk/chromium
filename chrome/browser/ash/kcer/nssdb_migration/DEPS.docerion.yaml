@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for nssdb_migration
+summary: Restricts //chrome dependencies for the nssdb_migration directory, permitting them only where the unit test needs them.

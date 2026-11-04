@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorSwitch implementation
+// summary: Implements the central switch deciding whether the Editor feature is allowed and can be triggered, based on policies, country, IME allowlist and input context.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_switch.h"
 
 #include <utility>

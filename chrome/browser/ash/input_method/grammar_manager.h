@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Grammar manager class header
+// summary: Declares the GrammarManager class that sends grammar check requests to the ML service and manages grammar suggestion UI and keystroke handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_GRAMMAR_MANAGER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_GRAMMAR_MANAGER_H_
 

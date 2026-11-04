@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake suggestion handler implementation
+// summary: Implements FakeSuggestionHandler, recording suggestion, button and assistive window actions so tests can inspect their state.
+// ---
+
 #include "chrome/browser/ash/input_method/fake_suggestion_handler.h"
 
 #include "base/strings/string_util.h"

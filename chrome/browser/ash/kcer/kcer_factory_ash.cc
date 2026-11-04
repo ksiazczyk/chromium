@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerFactoryAsh implementation
+// summary: Implements the Ash-specific Kcer factory that builds per-profile Kcer instances backed by NSS or Chaps tokens, depending on the kKcerWithoutNss feature.
+// ---
+
 #include "chrome/browser/ash/kcer/kcer_factory_ash.h"
 
 #include "ash/constants/ash_pref_names.h"

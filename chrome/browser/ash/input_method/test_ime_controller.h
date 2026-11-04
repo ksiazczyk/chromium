@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test IME controller header
+// summary: Declares TestImeController, a stub ImeController capturing IME updates for tests, plus a resetter helper.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_TEST_IME_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_TEST_IME_CONTROLLER_H_
 

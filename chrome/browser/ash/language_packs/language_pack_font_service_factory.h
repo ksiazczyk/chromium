@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguagePackFontServiceFactory class declaration
+// summary: Declares the internal profile-keyed service factory for LanguagePackFontService, intentionally omitting public profile access.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LANGUAGE_PACKS_LANGUAGE_PACK_FONT_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_LANGUAGE_PACKS_LANGUAGE_PACK_FONT_SERVICE_FACTORY_H_
 

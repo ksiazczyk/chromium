@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EditorSystemActuator browser tests
+// summary: In-process browser tests verifying ChromeVox announcements for Editor actions such as feedback submission, across ChromeVox manifest v2 and v3 variants.
+// ---
+
 #include "chrome/browser/ash/input_method/editor_system_actuator.h"
 
 #include "base/strings/string_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapper-based lobster image provider implementation
+// summary: Fetches lobster image candidates from Google servers via the manta SnapperProvider, handling traffic annotations, query rewriting, i18n flags and image decoding.
+// ---
+
 #include "chrome/browser/ash/lobster/lobster_image_provider_from_snapper.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long-press suggester base implementation
+// summary: Implements shared focus, blur, and suggestion bookkeeping used by long-press based suggesters.
+// ---
+
 #include "chrome/browser/ash/input_method/longpress_suggester.h"
 
 #include <optional>

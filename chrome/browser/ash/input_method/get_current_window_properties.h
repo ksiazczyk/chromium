@@ -4,6 +4,12 @@
 //
 // This file implements the input method candidate window used on Chrome OS.
 
+// ---docerion
+// type: source
+// title: Get current window properties header
+// summary: Declares helpers that return the focused tab URL and window properties such as app ID and ARC package name for the Chrome OS input method.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_METHOD_GET_CURRENT_WINDOW_PROPERTIES_H_
 #define CHROME_BROWSER_ASH_INPUT_METHOD_GET_CURRENT_WINDOW_PROPERTIES_H_
 

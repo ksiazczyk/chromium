@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain denylist for assistive input features
+// summary: Implements URL checks against a default list of domains, allowed path exceptions, and file extensions where autocorrect and suggestions are disabled.
+// ---
+
 #include "chrome/browser/ash/input_method/assistive_input_denylist.h"
 
 #include "chrome/browser/ash/input_method/url_utils.h"
