@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission bubble media access handler
+// summary: Handles getUserMedia permission requests through the permission flow, updating page content settings and device permissions.
+// ---
+
 #include "chrome/browser/media/webrtc/permission_bubble_media_access_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiCaptureDataService implementation
+// summary: Implements the keyed service that evaluates the login-time multi-screen capture allowlist policy and tracks installed allowlisted IWAs, their icons, and notification requirements.
+// ---
+
 #include "chrome/browser/media/webrtc/multi_capture/multi_capture_data_service.h"
 
 #include "base/barrier_closure.h"

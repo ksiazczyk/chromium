@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-capture usage indicator service factory implementation
+// summary: Implements the ChromeOS-only factory that creates the usage indicator service with dependencies on the data service and notification display service.
+// ---
+
 #include "chrome/browser/media/webrtc/multi_capture/multi_capture_usage_indicator_service_factory.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media galleries permissions unit tests
+// summary: Unit tests for media gallery permission storage in extension preferences, verifying adding, updating, and removing gallery permissions.
+// ---
+
 #include <stddef.h>
 
 #include <array>

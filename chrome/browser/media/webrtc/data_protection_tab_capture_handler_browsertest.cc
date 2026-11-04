@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data protection tab capture handler browser tests
+// summary: Browser tests verifying that DataProtectionTabCaptureHandler pauses and resumes tab capture according to screenshot-blocking data control rules.
+// ---
+
 #include "chrome/browser/media/webrtc/data_protection_tab_capture_handler.h"
 
 #include <memory>

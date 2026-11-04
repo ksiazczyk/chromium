@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WebRTC stats dictionary helpers
+// summary: Unit tests covering report lookup, iteration, filtering and typed member accessors of the stats dictionary wrappers.
+// ---
+
 #include "chrome/browser/media/webrtc/test_stats_dictionary.h"
 
 #include <memory>

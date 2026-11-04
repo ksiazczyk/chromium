@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-capture session controller browser tests
+// summary: Browser tests verifying that active multi-capture streams stop on user switch, screen lock, and secondary or primary login, but not after a normal stop.
+// ---
+
 #include "chrome/browser/media/webrtc/multi_capture/multi_capture_session_controller.h"
 
 #include "base/functional/bind.h"

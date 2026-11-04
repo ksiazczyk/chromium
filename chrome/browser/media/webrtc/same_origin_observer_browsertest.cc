@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Same origin observer browser tests
+// summary: Browser tests verifying the SameOriginObserver callback fires on cross-origin navigation and does not fire on same-origin navigation.
+// ---
+
 #include "chrome/browser/media/webrtc/same_origin_observer.h"
 
 #include "base/test/mock_callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC disable encryption flag browser test
+// summary: Browser test verifying that the --disable-webrtc-encryption flag removes SDP crypto only on certain release channels.
+// ---
+
 #include "base/command_line.h"
 #include "build/build_config.h"
 #include "chrome/browser/media/webrtc/webrtc_browsertest_base.h"

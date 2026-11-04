@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopMediaPickerController implementation
+// summary: Implements the controller that creates media lists, shows the picker dialog, and reports the user's desktop selection, cancellation, or errors.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_media_picker_controller.h"
 
 #include <algorithm>

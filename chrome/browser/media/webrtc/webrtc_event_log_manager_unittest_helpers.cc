@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC event log manager unit test helpers
+// summary: Implements test helpers for the event log manager tests, such as log file writer factories, gzip size estimators and permission utilities.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_event_log_manager_unittest_helpers.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture policy utils unit tests
+// summary: Unit tests verifying how screen capture policy preferences such as allowed origin lists determine the permitted capture level for a site.
+// ---
+
 #include "chrome/browser/media/webrtc/capture_policy_utils.h"
 
 #include "base/test/test_future.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP device object enumerator
+// summary: Declares an enumerator over MTP file entries used to traverse top-level files of a media file system.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_MTP_DEVICE_OBJECT_ENUMERATOR_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_MTP_DEVICE_OBJECT_ENUMERATOR_H_
 

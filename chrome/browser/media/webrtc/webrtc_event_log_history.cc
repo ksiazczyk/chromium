@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC event log history file writer implementation
+// summary: Implements writing and parsing of small history files that record when WebRTC event logs were captured and uploaded, including capture time, upload time and upload ID.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_event_log_history.h"
 
 #include <limits>

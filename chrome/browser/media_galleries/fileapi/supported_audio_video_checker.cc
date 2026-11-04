@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedAudioVideoChecker implementation
+// summary: Validates supported audio and video files by extension and delegates decoding checks to SafeAudioVideoChecker in the utility process.
+// ---
+
 #include "chrome/browser/media_galleries/fileapi/supported_audio_video_checker.h"
 
 #include <stddef.h>

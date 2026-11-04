@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapshot file details header
+// summary: Declares SnapshotRequestInfo and SnapshotFileDetails, which represent snapshot file request parameters and track the transfer state of a file copied from an MTP device.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_SNAPSHOT_FILE_DETAILS_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_SNAPSHOT_FILE_DETAILS_H_
 

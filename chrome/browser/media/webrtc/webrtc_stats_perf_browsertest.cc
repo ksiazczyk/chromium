@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC stats performance browser test
+// summary: Manual performance browser test that measures WebRTC audio and video RTP stream bytes sent and received through RTCPeerConnection.getStats.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

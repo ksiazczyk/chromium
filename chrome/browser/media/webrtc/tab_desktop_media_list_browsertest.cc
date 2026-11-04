@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab desktop media list browser tests
+// summary: Browser tests verifying thumbnail and preview behavior of the tab desktop media list, including data protection restrictions.
+// ---
+
 #include "chrome/browser/media/webrtc/tab_desktop_media_list.h"
 
 #include <memory>

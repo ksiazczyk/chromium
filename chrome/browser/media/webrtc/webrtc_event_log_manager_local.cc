@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC local event log manager implementation
+// summary: Implements WebRtcLocalEventLogManager, which writes local WebRTC event log and data channel log files per peer connection with size and count limits.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_event_log_manager_local.h"
 
 #include "base/files/file_util.h"

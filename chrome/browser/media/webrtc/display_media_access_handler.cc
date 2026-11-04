@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display media access handler implementation
+// summary: Handles getDisplayMedia requests, covering permission checks, picker dialogs, selection dialog bypass and queued capture requests.
+// ---
+
 #include "chrome/browser/media/webrtc/display_media_access_handler.h"
 
 #include <string>

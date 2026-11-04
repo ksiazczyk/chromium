@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC browser test common utilities header
+// summary: Declares shared test helpers for reference files, platform-specific tools, and polling wait functions used by WebRTC browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_BROWSERTEST_COMMON_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_BROWSERTEST_COMMON_H_
 

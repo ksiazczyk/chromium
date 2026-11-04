@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media file system backend unit tests
+// summary: Unit tests for constructing and parsing media gallery mount names in MediaFileSystemBackend, including invalid input handling.
+// ---
+
 #include "chrome/browser/media_galleries/fileapi/media_file_system_backend.h"
 
 #include <optional>

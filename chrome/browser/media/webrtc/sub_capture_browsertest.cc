@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sub-capture browser tests
+// summary: Browser tests for region and element capture, covering CropTarget and RestrictionTarget behavior across tabs, frames, and tracks.
+// ---
+
 #include <array>
 #include <memory>
 #include <string>

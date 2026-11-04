@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC log buffer implementation
+// summary: Implements a circular log buffer that collects WebRTC log messages and exposes them for reading once the log is marked complete.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_log_buffer.h"
 
 #include <ostream>

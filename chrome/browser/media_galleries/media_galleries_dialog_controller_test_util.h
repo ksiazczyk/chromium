@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media galleries dialog test utility
+// summary: Declares MockMediaGalleriesDialog, a test double of MediaGalleriesDialog that tracks how often galleries were updated.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_MEDIA_GALLERIES_DIALOG_CONTROLLER_TEST_UTIL_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_MEDIA_GALLERIES_DIALOG_CONTROLLER_TEST_UTIL_H_
 

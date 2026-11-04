@@ -4,6 +4,12 @@
 
 // MediaGalleriesPreferences unit tests.
 
+// ---docerion
+// type: test
+// title: Media galleries preferences unit tests
+// summary: Unit tests for MediaGalleriesPreferences covering gallery addition, removal, permission changes, and change observer notifications.
+// ---
+
 #include "chrome/browser/media_galleries/media_galleries_preferences.h"
 
 #include <stdint.h>

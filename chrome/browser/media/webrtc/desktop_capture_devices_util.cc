@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop capture devices utility implementation
+// summary: Implements helpers that collect media stream devices for desktop capture and manage capture notifications and UI indicators.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_capture_devices_util.h"
 
 #include <algorithm>

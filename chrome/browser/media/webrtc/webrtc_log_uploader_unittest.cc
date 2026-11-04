@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC log uploader unit tests
+// summary: Unit tests for the WebRTC log uploader, verifying entries and limits of the uploaded log list file.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_log_uploader.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows desktop capture application process ID utilities
+// summary: Windows-specific helper that resolves an application's main process ID from a window handle for audio capture, including UWP app handling and result histograms.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_capture_devices_util_win.h"
 
 #include <windows.h>

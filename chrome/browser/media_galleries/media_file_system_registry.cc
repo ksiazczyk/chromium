@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media file system registry implementation
+// summary: Implements the registry that maps browser contexts and galleries to media file systems for extensions.
+// ---
+
 #include "chrome/browser/media_galleries/media_file_system_registry.h"
 
 #include <stddef.h>

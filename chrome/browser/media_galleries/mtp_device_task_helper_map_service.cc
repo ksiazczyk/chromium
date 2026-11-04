@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP device task helper map service implementation
+// summary: Implements a singleton service that creates, looks up and destroys MTP device task helpers keyed by storage name and access mode.
+// ---
+
 #include "chrome/browser/media_galleries/mtp_device_task_helper_map_service.h"
 
 #include "base/check_op.h"

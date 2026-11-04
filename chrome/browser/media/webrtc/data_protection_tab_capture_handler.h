@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection tab capture handler header
+// summary: Declares DataProtectionTabCaptureHandler, which pauses WebRTC tab capture streams when enterprise screenshot or sharing policies disallow them.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_DATA_PROTECTION_TAB_CAPTURE_HANDLER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_DATA_PROTECTION_TAB_CAPTURE_HANDLER_H_
 

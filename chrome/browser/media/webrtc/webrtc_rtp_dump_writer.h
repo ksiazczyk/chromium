@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC RTP dump writer header
+// summary: Declares WebRtcRtpDumpWriter, which buffers RTP packet headers in memory, compresses them to disk in RTPPlay format, and signals when the size limit is reached.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_RTP_DUMP_WRITER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_RTP_DUMP_WRITER_H_
 

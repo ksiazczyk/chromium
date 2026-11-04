@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop capturer wrapper implementation
+// summary: Implements DesktopCapturerWrapper, forwarding ThumbnailCapturer calls such as Start, CaptureFrame and SelectSource to an underlying webrtc::DesktopCapturer.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_capturer_wrapper.h"
 
 #include "base/check.h"

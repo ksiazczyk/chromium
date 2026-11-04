@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Current tab desktop media list unit tests
+// summary: Unit tests for the current tab desktop media list using fake profiles, test web contents and a mock observer to verify list and thumbnail behavior.
+// ---
+
 #include "chrome/browser/media/webrtc/current_tab_desktop_media_list.h"
 
 #include <vector>

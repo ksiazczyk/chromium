@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab desktop media list mock observer implementation
+// summary: Implements a gmock observer for desktop media list events that can verify and clear recorded test expectations.
+// ---
+
 #include "chrome/browser/media/webrtc/tab_desktop_media_list_mock_observer.h"
 
 DesktopMediaListMockObserver::DesktopMediaListMockObserver() = default;

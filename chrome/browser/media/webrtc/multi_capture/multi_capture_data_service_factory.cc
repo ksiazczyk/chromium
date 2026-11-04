@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiCaptureDataServiceFactory implementation
+// summary: Implements the browser-context service factory that builds a MultiCaptureDataService per profile, depending on WebAppProvider, for ChromeOS only.
+// ---
+
 #include "chrome/browser/media/webrtc/multi_capture/multi_capture_data_service_factory.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media stream capture indicator unit tests
+// summary: Unit tests for MediaStreamCaptureIndicator, checking observer notifications and capture state for video, audio, tab, window and display capture.
+// ---
+
 #include "chrome/browser/media/webrtc/media_stream_capture_indicator.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Same origin observer
+// summary: Declares a WebContentsObserver that notifies callers when the observed tab's origin matches or no longer matches a reference origin.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_SAME_ORIGIN_OBSERVER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_SAME_ORIGIN_OBSERVER_H_
 

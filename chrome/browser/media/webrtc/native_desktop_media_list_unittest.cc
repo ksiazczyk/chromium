@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeDesktopMediaList unit tests
+// summary: Unit tests for the native desktop media list, covering source enumeration and thumbnail updates across platforms.
+// ---
+
 #include "chrome/browser/media/webrtc/native_desktop_media_list.h"
 
 #include <stddef.h>

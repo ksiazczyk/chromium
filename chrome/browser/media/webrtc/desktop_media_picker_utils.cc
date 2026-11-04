@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media picker utilities
+// summary: Provides helpers to scale captured bitmaps for thumbnails and convert between DesktopMediaID and DesktopMediaList source types.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_media_picker_utils.h"
 
 #include "base/check.h"

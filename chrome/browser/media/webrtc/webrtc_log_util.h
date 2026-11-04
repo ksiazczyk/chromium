@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRtcLogUtil header
+// summary: Declares a utility class that deletes old WebRTC log files for all profiles and must run on the UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_LOG_UTIL_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_LOG_UTIL_H_
 

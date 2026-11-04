@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Current tab desktop media list header
+// summary: Declares CurrentTabDesktopMediaList, a DesktopMediaListBase subclass that follows a single tab and refreshes its thumbnail.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_CURRENT_TAB_DESKTOP_MEDIA_LIST_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_CURRENT_TAB_DESKTOP_MEDIA_LIST_H_
 

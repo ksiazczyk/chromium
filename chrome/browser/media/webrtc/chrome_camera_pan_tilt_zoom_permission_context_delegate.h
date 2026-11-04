@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome camera pan-tilt-zoom permission context delegate header
+// summary: Declares the Chrome delegate class that supplies permission status decisions for the camera pan-tilt-zoom permission context.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_CHROME_CAMERA_PAN_TILT_ZOOM_PERMISSION_CONTEXT_DELEGATE_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_CHROME_CAMERA_PAN_TILT_ZOOM_PERMISSION_CONTEXT_DELEGATE_H_
 

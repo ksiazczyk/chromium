@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media list base implementation
+// summary: Implements shared DesktopMediaList behavior such as update scheduling, source storage, delegated source list handling and observer notifications.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_media_list_base.h"
 
 #include <set>

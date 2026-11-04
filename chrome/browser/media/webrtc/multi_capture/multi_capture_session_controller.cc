@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-capture session controller implementation
+// summary: Implements the KeyedService that gates multi-capture session eligibility and stops active getAllScreensMedia captures when the active user changes or the session is locked.
+// ---
+
 #include "chrome/browser/media/webrtc/multi_capture/multi_capture_session_controller.h"
 
 #include "base/check_deref.h"

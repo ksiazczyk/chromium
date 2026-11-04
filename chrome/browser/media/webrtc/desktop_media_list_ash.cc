@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash desktop media list implementation
+// summary: Enumerates native screens and windows in ash to populate the desktop media list with titles and thumbnails on ChromeOS.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_media_list_ash.h"
 
 #include <ranges>

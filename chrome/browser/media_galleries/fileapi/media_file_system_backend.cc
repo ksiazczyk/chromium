@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media file system backend implementation
+// summary: Implements the media galleries file system backend, including mount name construction, parsing and auto-mounting for extension requests.
+// ---
+
 #include "chrome/browser/media_galleries/fileapi/media_file_system_backend.h"
 
 #include <string>

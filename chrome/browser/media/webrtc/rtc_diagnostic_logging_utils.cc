@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RTC diagnostic logging utilities implementation
+// summary: Implements helpers to start, finish, and cancel RTC diagnostic logging, verifying origin and policy-based permissions before logging occurs.
+// ---
+
 #include "chrome/browser/media/webrtc/rtc_diagnostic_logging_utils.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake desktop media list implementation
+// summary: Test double for DesktopMediaList that lets tests add, remove, move, and update fake capture sources and forwards the changes to the registered observer.
+// ---
+
 #include "chrome/browser/media/webrtc/fake_desktop_media_list.h"
 
 #include <utility>

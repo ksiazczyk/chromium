@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseMemoryLimitPrefObserver class header
+// summary: Declares EnterpriseMemoryLimitPrefObserver, which tracks the TotalMemoryLimitMb policy and starts, stops, or updates the enterprise memory limit evaluator accordingly.
+// ---
+
 #ifndef CHROME_BROWSER_MEMORY_ENTERPRISE_MEMORY_LIMIT_PREF_OBSERVER_H_
 #define CHROME_BROWSER_MEMORY_ENTERPRISE_MEMORY_LIMIT_PREF_OBSERVER_H_
 

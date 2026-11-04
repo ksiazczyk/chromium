@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOMKillsMonitor implementation
+// summary: Implements OOMKillsMonitor, which periodically reads the OOM kill count from /proc/vmstat and reports count and daily OOM kill histograms.
+// ---
+
 #include "chrome/browser/memory/oom_kills_monitor.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC event log manager unit tests
+// summary: Unit tests covering local and remote WebRTC event log management, including logging enablement, file writing, compression and upload behavior.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_event_log_manager.h"
 
 #include <stddef.h>

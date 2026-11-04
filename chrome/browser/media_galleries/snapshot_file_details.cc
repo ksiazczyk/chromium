@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapshot file details implementation
+// summary: Implements SnapshotRequestInfo and SnapshotFileDetails, tracking snapshot file request parameters, bytes written, error state, and the 1MB read chunk size.
+// ---
+
 #include "chrome/browser/media_galleries/snapshot_file_details.h"
 
 #include <limits>

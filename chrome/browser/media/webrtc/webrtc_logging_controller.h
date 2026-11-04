@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRtcLoggingController header
+// summary: Declares the controller that connects to the WebRTC logging agent and handles starting, stopping, and uploading logs.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_LOGGING_CONTROLLER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_WEBRTC_LOGGING_CONTROLLER_H_
 

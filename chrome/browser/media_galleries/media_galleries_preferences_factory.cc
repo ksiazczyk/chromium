@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media galleries preferences factory implementation
+// summary: Profile-keyed service factory that creates a MediaGalleriesPreferences instance per profile and registers its profile preferences.
+// ---
+
 #include "chrome/browser/media_galleries/media_galleries_preferences_factory.h"
 
 #include "chrome/browser/media_galleries/media_galleries_preferences.h"

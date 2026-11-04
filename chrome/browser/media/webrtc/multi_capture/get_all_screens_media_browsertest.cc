@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetAllScreensMedia browser tests
+// summary: Browser tests exercising the getAllScreensMedia WebRTC API, covering allowlist policy enforcement, capture streams, and notification behavior on ChromeOS.
+// ---
+
 #include <memory>
 #include <sstream>
 #include <string>

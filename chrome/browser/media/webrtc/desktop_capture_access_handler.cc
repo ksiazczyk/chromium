@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop capture access handler implementation
+// summary: Handles desktop capture media stream requests from getUserMedia, including permission checks, source picker dialogs, and capture notifications.
+// ---
+
 #include "chrome/browser/media/webrtc/desktop_capture_access_handler.h"
 
 #include <memory>

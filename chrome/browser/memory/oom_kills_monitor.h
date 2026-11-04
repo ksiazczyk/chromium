@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOMKillsMonitor class header
+// summary: Declares OOMKillsMonitor, which traces Linux out-of-memory killer invocations via /proc/vmstat, including ARCVM kills, and reports daily metrics.
+// ---
+
 #ifndef CHROME_BROWSER_MEMORY_OOM_KILLS_MONITOR_H_
 #define CHROME_BROWSER_MEMORY_OOM_KILLS_MONITOR_H_
 

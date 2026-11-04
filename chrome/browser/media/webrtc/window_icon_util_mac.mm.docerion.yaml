@@ -1,0 +1,4 @@
+# Docerion header of window_icon_util_mac.mm.
+type: source
+title: Mac window icon utility implementation
+summary: Implements GetWindowIcon on macOS by looking up the owning application's icon via CGWindowList and NSRunningApplication.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP device task helper
+// summary: Declares a per-storage helper that forwards MTP device operation requests to the MediaTransferProtocolManager on the UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_MTP_DEVICE_TASK_HELPER_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_MTP_DEVICE_TASK_HELPER_H_
 

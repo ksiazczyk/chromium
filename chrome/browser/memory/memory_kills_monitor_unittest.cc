@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MemoryKillsMonitor unit tests
+// summary: Unit tests verifying that MemoryKillsMonitor records low memory kill counts and freed sizes into the expected UMA histograms before and after monitoring starts.
+// ---
+
 #include "chrome/browser/memory/memory_kills_monitor.h"
 
 #include "base/metrics/histogram_base.h"

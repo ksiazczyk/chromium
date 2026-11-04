@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryKillsMonitor implementation
+// summary: Implements MemoryKillsMonitor, which logs low memory kill events to UMA histograms and starts OOM kill monitoring once a user logs in on ChromeOS.
+// ---
+
 #include "chrome/browser/memory/memory_kills_monitor.h"
 
 #include "base/logging.h"

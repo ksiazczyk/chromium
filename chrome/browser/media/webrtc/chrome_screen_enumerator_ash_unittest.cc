@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome screen enumerator Ash unit tests
+// summary: Ash-based unit tests checking that screen enumeration returns the expected stream devices and result codes for zero, one and multiple screens.
+// ---
+
 #include <memory>
 
 #include "base/run_loop.h"

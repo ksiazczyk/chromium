@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RTC diagnostic logging unit tests
+// summary: Unit tests covering RTC diagnostic logging, including event log policies, upload behavior, and platform-specific logging support.
+// ---
+
 #include <memory>
 #include <string>
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC desktop capture browser test
+// summary: Browser test covering desktop and tab capture, including fake media picker sources and tab sharing infobar behavior.
+// ---
+
 #include <algorithm>
 
 #include "base/barrier_closure.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP read file worker implementation
+// summary: Implements MTPReadFileWorker, which reads chunks of a media transfer protocol device file via the MTP manager and writes them to a local snapshot file on a background thread.
+// ---
+
 #include "chrome/browser/media_galleries/mtp_read_file_worker.h"
 
 #include <utility>

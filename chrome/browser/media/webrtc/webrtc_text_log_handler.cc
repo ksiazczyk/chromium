@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC text log handler implementation
+// summary: Implements the browser-side WebRTC text log handler, formatting log messages and masking sensitive IP addresses for privacy.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_text_log_handler.h"
 
 #include <map>

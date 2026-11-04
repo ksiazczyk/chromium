@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media galleries test utilities implementation
+// summary: Test helpers that create media gallery apps with permissions and provide testing paths for media galleries tests.
+// ---
+
 #include "chrome/browser/media_galleries/media_galleries_test_util.h"
 
 #include <tuple>

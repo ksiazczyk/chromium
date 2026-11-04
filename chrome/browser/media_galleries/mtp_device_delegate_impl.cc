@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP device delegate implementation
+// summary: Implements the per-storage MTP device delegate that performs asynchronous file system operations on media transfer protocol devices.
+// ---
+
 #include "chrome/browser/media_galleries/mtp_device_delegate_impl.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaStreamFocusDelegate browser tests
+// summary: Browser tests verifying that SetFocus focuses tabs or windows only once and only while the browser window is active.
+// ---
+
 #include "chrome/browser/media/webrtc/media_stream_focus_delegate.h"
 
 #include <memory>

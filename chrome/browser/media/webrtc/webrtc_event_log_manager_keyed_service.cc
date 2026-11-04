@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC event log manager keyed service implementation
+// summary: Enables the WebRTC event log manager for a browser context when the service is created and disables it on shutdown.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_event_log_manager_keyed_service.h"
 
 #include "base/check.h"

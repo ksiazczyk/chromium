@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media galleries preferences implementation
+// summary: Implements MediaGalleriesPreferences, which persists per-profile media gallery metadata and per-extension gallery permissions in user preferences.
+// ---
+
 #include "chrome/browser/media_galleries/media_galleries_preferences.h"
 
 #include <stddef.h>

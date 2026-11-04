@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display media access handler browser tests
+// summary: Browser tests for the display media access handler, verifying picker display by default and system audio content settings.
+// ---
+
 #include "chrome/browser/media/webrtc/display_media_access_handler.h"
 
 #include "base/run_loop.h"

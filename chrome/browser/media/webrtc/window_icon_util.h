@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window icon utility interface
+// summary: Declares GetWindowIcon, which returns the icon of a desktop media window as a gfx::ImageSkia for capture-related UI.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_WINDOW_ICON_UTIL_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_WINDOW_ICON_UTIL_H_
 

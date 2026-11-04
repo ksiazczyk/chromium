@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for media galleries
+summary: Defines source sets, dependencies, and unit test targets for the ChromeOS media galleries code.

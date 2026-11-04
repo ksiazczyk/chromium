@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock observer for desktop media list events
+// summary: Declares a gmock-based DesktopMediaListObserver mock that records source additions, removals, moves and delegated list selections for tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_TAB_DESKTOP_MEDIA_LIST_MOCK_OBSERVER_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_TAB_DESKTOP_MEDIA_LIST_MOCK_OBSERVER_H_
 

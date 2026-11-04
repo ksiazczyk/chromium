@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media galleries preferences API
+// summary: Declares MediaGalleriesPreferences and the MediaGalleryPrefInfo and MediaGalleryPermission types used to track galleries and extension access.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_MEDIA_GALLERIES_PREFERENCES_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_MEDIA_GALLERIES_PREFERENCES_H_
 

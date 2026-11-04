@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media stream device permission context unit tests
+// summary: Unit tests for the mic and camera permission context, covering content setting behavior such as insecure origin querying and permission resets.
+// ---
+
 #include "chrome/browser/media/webrtc/media_stream_device_permission_context.h"
 
 #include "base/command_line.h"

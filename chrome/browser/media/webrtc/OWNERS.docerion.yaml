@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the browser WebRTC media directory
+summary: Lists directory owners plus per-file owners for tab media indicators and permission context changes.

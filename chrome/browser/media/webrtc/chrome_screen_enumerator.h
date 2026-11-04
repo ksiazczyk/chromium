@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome screen enumerator header
+// summary: Declares ChromeScreenEnumerator, the Chrome browser implementation of the ScreenEnumerator interface for listing available screens.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_CHROME_SCREEN_ENUMERATOR_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_CHROME_SCREEN_ENUMERATOR_H_
 

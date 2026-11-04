@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTPDeviceMapService implementation
+// summary: Implements the singleton service that registers and revokes MTP file systems and manages per-device async delegates.
+// ---
+
 #include "chrome/browser/media_galleries/fileapi/mtp_device_map_service.h"
 
 #include <string>

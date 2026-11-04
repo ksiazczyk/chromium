@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared WebRTC event log manager implementation
+// summary: Implements constants, failure reason strings and helper code shared by the local and remote WebRTC event log managers, including UMA recording and compression support.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_event_log_manager_common.h"
 
 #include <algorithm>

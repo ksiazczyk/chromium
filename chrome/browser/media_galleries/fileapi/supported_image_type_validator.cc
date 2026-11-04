@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedImageTypeValidator implementation
+// summary: Validates supported image files by reading them and decoding with ImageDecoder before allowing copy or move operations.
+// ---
+
 #include "chrome/browser/media_galleries/fileapi/supported_image_type_validator.h"
 
 #include <memory>

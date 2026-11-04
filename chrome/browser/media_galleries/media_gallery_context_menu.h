@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media gallery context menu
+// summary: Declares a simple menu model for media gallery context menus that invokes a callback to forget a gallery by preference ID.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_GALLERIES_MEDIA_GALLERY_CONTEXT_MENU_H_
 #define CHROME_BROWSER_MEDIA_GALLERIES_MEDIA_GALLERY_CONTEXT_MENU_H_
 

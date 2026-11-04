@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegated source list capturer implementation
+// summary: Implements a DesktopCapturer that delegates source selection to the native OS screen capture picker and reports the chosen source.
+// ---
+
 #include "chrome/browser/media/webrtc/delegated_source_list_capturer.h"
 
 #include "base/logging.h"

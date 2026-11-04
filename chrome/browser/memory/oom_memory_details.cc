@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OomMemoryDetails implementation
+// summary: Implements OomMemoryDetails, which asynchronously logs memory details of Chrome processes during out-of-memory events to help diagnose discarded tabs.
+// ---
+
 #include "chrome/browser/memory/oom_memory_details.h"
 
 #include "base/byte_size.h"

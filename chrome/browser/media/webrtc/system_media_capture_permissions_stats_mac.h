@@ -5,6 +5,12 @@
 // Functions for handling stats for system media permissions (camera,
 // microphone).
 
+// ---docerion
+// type: source
+// title: macOS system media capture permission stats declarations
+// summary: Declares functions to register preferences and log startup and blocked-permission stats for macOS system media capture permissions.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_SYSTEM_MEDIA_CAPTURE_PERMISSIONS_STATS_MAC_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_SYSTEM_MEDIA_CAPTURE_PERMISSIONS_STATS_MAC_H_
 

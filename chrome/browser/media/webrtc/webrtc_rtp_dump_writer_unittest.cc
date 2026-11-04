@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC RTP dump writer unit tests
+// summary: Unit tests for WebRtcRtpDumpWriter that verify packet writing, compression, and dump file contents for incoming and outgoing RTP streams.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_rtp_dump_writer.h"
 
 #include <stddef.h>

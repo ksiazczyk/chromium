@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS thumbnail capturer factory declarations
+// summary: Declares availability checks and factory functions for creating the ScreenCaptureKit-based thumbnail capturer on macOS, including test variants.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_THUMBNAIL_CAPTURER_MAC_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_THUMBNAIL_CAPTURER_MAC_H_
 

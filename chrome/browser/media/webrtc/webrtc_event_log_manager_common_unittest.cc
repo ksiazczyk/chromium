@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC event log manager common unit tests
+// summary: Unit tests for the Gzip log compressor and other shared helpers in the WebRTC event log manager common code.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_event_log_manager_common.h"
 
 #include <memory>

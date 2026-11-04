@@ -1,0 +1,4 @@
+# Docerion header of system_media_capture_permissions_stats_mac.mm.
+type: source
+title: macOS system media capture permission stats implementation
+summary: Logs histograms for macOS microphone and camera system permissions, including recovery times after permission-blocked failures.

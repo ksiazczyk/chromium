@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC browser test base implementation
+// summary: Implements WebRtcTestBase, the shared base class offering getUserMedia, call negotiation, and permission prompt helpers for WebRTC browser tests.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_browsertest_base.h"
 
 #include <stddef.h>

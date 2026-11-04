@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC log uploader implementation
+// summary: Implements uploading of WebRTC text logs, including gzip compression, multipart HTTP upload, product and version strings, and log list bookkeeping.
+// ---
+
 #include "chrome/browser/media/webrtc/webrtc_log_uploader.h"
 
 #include <stddef.h>

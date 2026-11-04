@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaStreamFocusDelegate class declaration
+// summary: Declares the delegate that lets the render process decide whether to focus a captured tab or window, with the opportunity closed by timeout or user changes.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_WEBRTC_MEDIA_STREAM_FOCUS_DELEGATE_H_
 #define CHROME_BROWSER_MEDIA_WEBRTC_MEDIA_STREAM_FOCUS_DELEGATE_H_
 

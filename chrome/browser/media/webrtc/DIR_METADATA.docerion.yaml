@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with team and bug tracker info
+summary: Declares the media capture bug tracker component, team email, and Buganizer component for this directory.

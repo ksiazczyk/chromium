@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS window icon utility implementation
+// summary: Implements GetWindowIcon on ChromeOS by reading the window or app icon property from the aura window for a desktop media ID.
+// ---
+
 #include "chrome/browser/media/webrtc/window_icon_util.h"
 
 #include "content/public/browser/desktop_media_id.h"
