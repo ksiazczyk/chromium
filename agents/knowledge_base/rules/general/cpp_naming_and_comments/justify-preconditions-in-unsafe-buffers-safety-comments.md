@@ -2,6 +2,9 @@
 name: general/justify-preconditions-in-unsafe-buffers-safety-comments
 rubric: readability
 severity: should_fix
+type: reference
+title: Justify preconditions in unsafe buffers safety comments
+summary: Coding rule requiring each UNSAFE_BUFFERS invocation to sit directly under a SAFETY comment justifying caller preconditions, with citations and performance rationales.
 ---
 
 **Rule.** Colocate each UNSAFE_BUFFERS(...) invocation or base::unchecked span

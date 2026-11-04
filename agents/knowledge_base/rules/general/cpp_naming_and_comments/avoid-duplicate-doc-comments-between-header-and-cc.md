@@ -2,6 +2,12 @@
 name: general/avoid-duplicate-doc-comments-between-header-and-cc
 rubric: readability
 severity: nit
+type: reference
+title: Avoid duplicate doc comments between header and cc
+summary: Rule requiring public declarations and feature flags to be documented once in headers, with implementation comments reserved for non-obvious internal mechanics.
+relations:
+  - references /base/memory_coordinator/memory_coordinator_features.h
+  - references /base/memory_coordinator/memory_coordinator_features.cc
 ---
 
 **Rule.** Do not duplicate doc comments between header (`.h`) and implementation

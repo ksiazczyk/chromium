@@ -2,6 +2,9 @@
 name: general/prefer-requires-clauses-over-static-assert
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer requires clauses over static_assert
+summary: Coding rule preferring C++20 requires clauses or concepts over function-body static_assert for template constraints, with parenthesized constraint expressions.
 ---
 
 **Rule.** Prefer C++20 requires clauses or concepts over function-body

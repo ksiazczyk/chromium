@@ -2,6 +2,9 @@
 name: general/pass-once-callback-by-value-when-transferring-ownership
 rubric: readability
 severity: should_fix
+type: guide
+title: Pass OnceCallbacks by Value or Rvalue Reference When Transferring Ownership
+summary: Coding rule requiring move-only callbacks to be accepted by value or rvalue reference, never by const reference with const_cast, so callers explicitly transfer ownership.
 ---
 
 **Rule.** When declaring functions, conversion helpers, or tasks that consume,

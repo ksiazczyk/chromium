@@ -2,6 +2,9 @@
 name: general/name-reader-and-cursor-objects-as-readers
 rubric: readability
 severity: should_fix
+type: reference
+title: Name Reader and Cursor Objects as Readers
+summary: Rule requiring stateful reader, writer, and cursor members to carry reader, writer, or cursor identifiers instead of names borrowed from the underlying container or payload.
 ---
 
 **Rule.** Name stateful reader, writer, or cursor objects (such as

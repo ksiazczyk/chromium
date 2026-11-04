@@ -2,6 +2,12 @@
 name: general/place-explanatory-comments-directly-above-declaration
 rubric: readability
 severity: nit
+type: reference
+title: Place explanatory comments directly above the declaration
+summary: Coding rule requiring explanatory comments to sit immediately above the construct or include they document, with obsolete include-ordering comments removed.
+relations:
+  - references /base/android/jni_android.h
+  - references /base/process/process_metrics.h
 ---
 
 **Rule.** Place explanatory comments for a variable, constant, symbol, macro, or

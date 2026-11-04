@@ -2,6 +2,9 @@
 name: general/document-command-line-switches-and-preserve-comments
 rubric: readability
 severity: should_fix
+type: reference
+title: Document command-line switches and preserve comments
+summary: Coding rule requiring explanatory comments on command-line switch constants describing their purpose and arguments, and preservation of those comments when switches are moved or converted between files.
 ---
 
 **Rule.** When declaring, defining, or relocating command-line switch constants

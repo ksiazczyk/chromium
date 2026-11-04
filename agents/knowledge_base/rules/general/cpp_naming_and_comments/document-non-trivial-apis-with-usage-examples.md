@@ -2,6 +2,9 @@
 name: general/document-non-trivial-apis-with-usage-examples
 rubric: readability
 severity: nit
+type: reference
+title: Document non-trivial APIs with usage examples
+summary: Coding rule requiring concrete call-site examples in header doc comments for non-trivial APIs, especially variadic or templated constructors with optional traits.
 ---
 
 **Rule.** When declaring non-trivial APIs, functions, or variadic/templated

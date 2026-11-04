@@ -2,6 +2,9 @@
 name: general/no-redundant-base-span-wrapping
 rubric: readability
 severity: nit
+type: reference
+title: No redundant base::span wrapping at call sites
+summary: Rule against explicitly wrapping arguments in base::span when callees already accept string views, containers, or parameters that implicitly construct spans.
 ---
 
 **Rule.** Do not explicitly wrap arguments in base::span(...) or

@@ -2,6 +2,9 @@
 name: general/require-uint8-for-byte-span-apis
 rubric: readability
 severity: should_fix
+type: reference
+title: Require uint8 for byte span APIs
+summary: Coding rule requiring byte-oriented APIs to accept base::span<uint8_t> byte spans and callers holding char buffers to convert explicitly via base::as_bytes().
 ---
 
 **Rule.** Require byte-oriented APIs, serializers, and reinterpretation

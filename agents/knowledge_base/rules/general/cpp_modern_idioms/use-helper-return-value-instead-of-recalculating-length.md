@@ -2,6 +2,9 @@
 name: general/use-helper-return-value-instead-of-recalculating-length
 rubric: readability
 severity: nit
+type: reference
+title: Use helper return value instead of recalculating length
+summary: Rule requiring call sites to consume lengths or sizes returned by helper functions instead of recomputing them manually, or changing the helper to return void if the value is never needed.
 ---
 
 **Rule.** When a helper function returns a computed length, size, or offset

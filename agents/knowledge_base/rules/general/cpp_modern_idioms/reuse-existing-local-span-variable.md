@@ -2,6 +2,9 @@
 name: general/reuse-existing-local-span-variable
 rubric: readability
 severity: nit
+type: reference
+title: Reuse existing local span variable
+summary: Coding rule advising reuse of an already-created local span or string_view variable instead of redundantly re-invoking conversion helpers on the source object in the same scope.
 ---
 
 **Rule.** When a container, string, or object has already been converted to a

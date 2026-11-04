@@ -2,6 +2,9 @@
 name: general/return-result-enum-for-multi-outcome-operations
 rubric: readability
 severity: should_fix
+type: reference
+title: Return result enum for multi-outcome operations
+summary: Coding rule requiring functions with multiple distinct outcomes to return a descriptive result enum rather than void or a bare bool, so callers can distinguish success, no-op, and failure.
 ---
 
 **Rule.** When designing functions or methods that mutate state or perform

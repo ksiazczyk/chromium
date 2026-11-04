@@ -2,6 +2,9 @@
 name: general/avoid-conditional-phrasing-for-unconditional-operations
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Conditional Phrasing for Unconditional Operations
+summary: Rule against comments using phrases like 'as needed' for operations that run unconditionally, so comments accurately reflect control flow.
 ---
 
 **Rule.** Do not use conditional phrasing such as 'as needed', 'if necessary',

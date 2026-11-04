@@ -2,6 +2,12 @@
 name: general/cross-reference-related-abstractions-in-header-comments
 rubric: readability
 severity: nit
+type: guide
+title: Cross-reference related abstractions in header comments
+summary: Coding rule to cross-reference alternative abstractions in top-level header comments and document their trade-offs so callers can pick the right one.
+relations:
+  - references /base/memory/index_pointer.h
+  - references /base/strings/string_slice.h
 ---
 
 **Rule.** When introducing or modifying a class, type, or utility that serves a

@@ -2,6 +2,9 @@
 name: general/prefer-designated-initializers-for-aggregate-structs
 rubric: readability
 severity: should_fix
+type: guide
+title: Prefer designated initializers for aggregate structs
+summary: Rule advising C++20 designated initializers in declaration order for aggregate structs to avoid transposed positional values and imperative field assignment.
 ---
 
 **Rule.** Prefer initializing aggregate structs—including stable OS/ABI structs

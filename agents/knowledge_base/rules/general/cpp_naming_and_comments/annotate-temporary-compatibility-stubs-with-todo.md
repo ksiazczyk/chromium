@@ -2,6 +2,9 @@
 name: general/annotate-temporary-compatibility-stubs-with-todo
 rubric: readability
 severity: should_fix
+type: reference
+title: Annotate temporary compatibility stubs with TODO
+summary: Rule requiring temporary workarounds, stubs, and deprecated APIs to explain their rationale and carry bug-linked TODOs tracking migration or removal.
 ---
 
 **Rule.** When introducing temporary workarounds, fallback branches, intentional

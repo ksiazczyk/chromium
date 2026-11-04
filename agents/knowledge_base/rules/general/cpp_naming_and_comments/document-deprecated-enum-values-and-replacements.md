@@ -2,6 +2,9 @@
 name: general/document-deprecated-enum-values-and-replacements
 rubric: readability
 severity: nit
+type: reference
+title: Document deprecated enum values and replacements
+summary: Coding rule requiring an explicit doc comment on every superseded enum value, field, or constant explaining it is obsolete and directing consumers to its granular replacement.
 ---
 
 **Rule.** When deprecating or superseding legacy enum values, fields, or

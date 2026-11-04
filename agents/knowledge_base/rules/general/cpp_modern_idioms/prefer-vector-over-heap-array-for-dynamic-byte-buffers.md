@@ -2,6 +2,9 @@
 name: general/prefer-vector-over-heap-array-for-dynamic-byte-buffers
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer vector over heap array for dynamic byte buffers
+summary: Coding rule to use std::vector for dynamic byte buffers unless fixed-size, non-resizable unique_ptr<T[]> replacement semantics are specifically required.
 ---
 
 **Rule.** Prefer standard library containers like std::vector\<uint8_t> over

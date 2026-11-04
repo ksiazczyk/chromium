@@ -2,6 +2,9 @@
 name: general/prefer-ranges-for-each-over-transform-for-in-place-modificat
 rubric: readability
 severity: nit
+type: reference
+title: Prefer ranges for_each over transform for in-place modification
+summary: Coding rule preferring std::ranges::for_each with a mutable-reference lambda over std::ranges::transform when modifying container elements in place.
 ---
 
 **Rule.** When mutating or modifying elements of a container or range in-place,

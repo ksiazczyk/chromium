@@ -2,6 +2,9 @@
 name: general/prefer-value-initialization-to-zero-structs
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer value initialization to zero structs
+summary: Coding rule to reset plain structs with value-initialization such as *out = {} instead of memset, ZeroMemory, or byte-range filling reserved for raw buffers.
 ---
 
 **Rule.** When zero-initializing or resetting a plain struct, aggregate, or

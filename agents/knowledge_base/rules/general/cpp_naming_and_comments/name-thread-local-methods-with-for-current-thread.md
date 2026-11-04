@@ -2,6 +2,9 @@
 name: general/name-thread-local-methods-with-for-current-thread
 rubric: readability
 severity: should_fix
+type: reference
+title: Name Thread-Local Methods With ForCurrentThread
+summary: Rule requiring static or free functions that inspect or mutate thread-local state to include ForCurrentThread in their names so per-thread scoping is explicit.
 ---
 
 **Rule.** When defining a static member function or free function that inspects,

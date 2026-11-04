@@ -2,6 +2,9 @@
 name: general/constrain-range-template-parameters-with-std-ranges-concepts
 rubric: readability
 severity: should_fix
+type: reference
+title: Constrain Range Template Parameters With Std Ranges Concepts
+summary: Coding rule requiring std::ranges concepts on template parameters accepting range arguments for early, clear diagnostics, with examples.
 ---
 
 **Rule.** When declaring template functions, constructors, or container methods

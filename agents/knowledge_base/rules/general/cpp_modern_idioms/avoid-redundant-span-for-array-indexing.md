@@ -2,6 +2,9 @@
 name: general/avoid-redundant-span-for-array-indexing
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid redundant span for array indexing
+summary: Coding rule advising std::array with direct indexing instead of wrapping fixed-size buffers in base::span or subspan views.
 ---
 
 **Rule.** Use 'std::array\<T, N>' (or 'std::to_array') for fixed-size buffers

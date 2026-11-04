@@ -2,6 +2,9 @@
 name: general/omit-redundant-default-arguments-in-forwarding-calls
 rubric: readability
 severity: nit
+type: reference
+title: Omit redundant default arguments in forwarding calls
+summary: Rule against passing arguments that duplicate a callee's default parameter values in macro wrappers and forwarding helpers, so call sites adopt future default changes.
 ---
 
 **Rule.** Do not explicitly pass arguments that duplicate a callee's default

@@ -2,6 +2,9 @@
 name: general/document-benign-syscall-failures-and-kernel-semantics
 rubric: readability
 severity: nit
+type: guide
+title: Document benign syscall failures and kernel semantics
+summary: Rule requiring explanatory comments when syscall failures or error codes such as EINVAL are ignored, describing kernel behavior and why the case is benign.
 ---
 
 **Rule.** When invoking OS system calls or low-level platform APIs where

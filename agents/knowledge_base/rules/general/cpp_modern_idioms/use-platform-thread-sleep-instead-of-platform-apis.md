@@ -2,6 +2,9 @@
 name: general/use-platform-thread-sleep-instead-of-platform-apis
 rubric: readability
 severity: should_fix
+type: guide
+title: Use PlatformThread::Sleep instead of platform sleep APIs
+summary: Coding rule to use base::PlatformThread::Sleep with base::TimeDelta instead of platform-specific sleep functions like Win32 Sleep or POSIX nanosleep.
 ---
 
 **Rule.** Do not call platform-specific sleep functions such as Win32 ::Sleep()

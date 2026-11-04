@@ -2,6 +2,9 @@
 name: general/avoid-redundant-member-reload-after-store
 rubric: readability
 severity: should_fix
+type: reference
+title: Avoid Redundant Member Reload After Store
+summary: Coding rule against reloading a member or atomic value immediately after storing it, using the already available local variable or parameter instead.
 ---
 
 **Rule.** Do not redundantly reload a value from a member or atomic variable

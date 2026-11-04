@@ -2,6 +2,9 @@
 name: general/prefer-as-string-view-for-jarray-view
 rubric: readability
 severity: nit
+type: guide
+title: Prefer as_string_view for JArrayView Conversions
+summary: Coding rule advising jni_zero's as_string_view() helper over manually building a std::string_view with reinterpret_cast from data and size.
 ---
 
 **Rule.** Call `.as_string_view()` directly on `jni_zero::JArrayView<int8_t>` or

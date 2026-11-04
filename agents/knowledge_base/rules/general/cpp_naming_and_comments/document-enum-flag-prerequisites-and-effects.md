@@ -2,6 +2,9 @@
 name: general/document-enum-flag-prerequisites-and-effects
 rubric: readability
 severity: nit
+type: reference
+title: Document enum flag prerequisites and effects
+summary: Coding rule requiring explicit per-entry comments on enum enumerators and bitmask flags with prerequisites or effects so adjacent entries are not ambiguously covered by preceding comments.
 ---
 
 **Rule.** When defining or adding enum enumerators, bitmask values, or

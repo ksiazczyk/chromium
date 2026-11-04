@@ -2,6 +2,9 @@
 name: general/name-invariant-relaxation-methods-by-permission-granted
 rubric: readability
 severity: should_fix
+type: reference
+title: Name invariant relaxation methods by permission granted
+summary: Coding rule requiring methods that relax invariants or permit exceptional conditions to be named after the permission granted rather than with misleading adverbs.
 ---
 
 **Rule.** When naming methods or functions that relax invariants, permit

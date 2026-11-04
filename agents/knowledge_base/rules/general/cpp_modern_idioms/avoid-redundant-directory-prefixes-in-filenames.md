@@ -2,6 +2,13 @@
 name: general/avoid-redundant-directory-prefixes-in-filenames
 rubric: readability
 severity: should_fix
+type: reference
+title: Avoid Redundant Directory Prefixes in Filenames
+summary: Naming rule against prefixing filenames with their directory or platform name and chaining hierarchical platform suffixes, since the build system already provides context.
+relations:
+  - references /base/win/delayload_helpers.h
+  - references /base/message_loop/message_pump_apple.h
+  - references /base/message_loop/message_pump_ios_unittest.mm
 ---
 
 **Rule.** Do not add redundant path or platform qualifications when naming

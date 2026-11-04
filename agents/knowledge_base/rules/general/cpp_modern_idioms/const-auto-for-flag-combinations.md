@@ -2,6 +2,9 @@
 name: general/const-auto-for-flag-combinations
 rubric: readability
 severity: should_fix
+type: reference
+title: Const Auto for Flag Combinations
+summary: Coding rule preferring const auto for local variables holding bitwise flag combinations forwarded to APIs, with examples.
 ---
 
 **Rule.** Prefer `const auto` for local variables holding composite bitwise

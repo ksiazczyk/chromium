@@ -2,6 +2,9 @@
 name: general/no-redundant-null-check-after-early-exit
 rubric: readability
 severity: nit
+type: reference
+title: No redundant null checks after early exit
+summary: Rule against defensive null checks in loop conditions or later expressions when preceding control flow or early returns already guarantee the pointer is non-null.
 ---
 
 **Rule.** Do not add redundant null checks or defensive pointer guards in loop

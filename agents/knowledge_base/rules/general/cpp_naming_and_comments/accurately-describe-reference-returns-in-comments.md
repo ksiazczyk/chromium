@@ -2,6 +2,9 @@
 name: general/accurately-describe-reference-returns-in-comments
 rubric: readability
 severity: nit
+type: reference
+title: Accurately describe reference returns in comments
+summary: Rule requiring comments for reference, pointer, and view returns to describe the returned object rather than claiming a copy is returned.
 ---
 
 **Rule.** When documenting functions or accessors that return a reference (const

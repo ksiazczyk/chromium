@@ -2,6 +2,9 @@
 name: general/use-underscore-for-unused-structured-bindings
 rubric: readability
 severity: nit
+type: guide
+title: Use underscore for unused structured bindings
+summary: Coding rule to use an underscore placeholder or direct member access for unused structured bindings instead of naming variables that are never referenced.
 ---
 
 **Rule.** When using structured bindings to unpack pairs, tuples, or structs

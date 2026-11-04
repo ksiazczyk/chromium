@@ -2,6 +2,9 @@
 name: general/clarify-optional-return-conditions-with-concrete-examples
 rubric: readability
 severity: nit
+type: reference
+title: Clarify optional return conditions with concrete examples
+summary: Rule requiring concrete examples when documenting optional or sentinel return states so platform-specific edge conditions are unambiguous to callers.
 ---
 
 **Rule.** When documenting function return values with optional or sentinel

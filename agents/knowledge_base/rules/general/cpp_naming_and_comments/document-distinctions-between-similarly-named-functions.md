@@ -2,6 +2,9 @@
 name: general/document-distinctions-between-similarly-named-functions
 rubric: readability
 severity: nit
+type: reference
+title: Document distinctions between similarly named functions
+summary: Coding rule requiring concrete distinctions, preconditions, and use cases in comments for similarly named functions, and explicit statements of inherited caveats on wrappers and overloads.
 ---
 
 **Rule.** When declaring or defining multiple functions, methods, API variants,

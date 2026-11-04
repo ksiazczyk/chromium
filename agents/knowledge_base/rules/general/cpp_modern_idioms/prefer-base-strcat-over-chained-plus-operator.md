@@ -2,6 +2,9 @@
 name: general/prefer-base-strcat-over-chained-plus-operator
 rubric: readability
 severity: should_fix
+type: guide
+title: Prefer base::StrCat over chained plus operator
+summary: Rule advising base::StrCat and base::StrAppend for string concatenation instead of chained operator+ or append, to allocate once and avoid temporary strings.
 ---
 
 **Rule.** Prefer base::StrCat() for concatenating strings, string views, or

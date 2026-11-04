@@ -2,6 +2,9 @@
 name: general/document-secondary-maintenance-in-traversal-loops
 rubric: readability
 severity: nit
+type: guide
+title: Document secondary maintenance in traversal loops
+summary: Rule requiring inline comments when search or traversal loops also rebuild caches or accumulate state so the side work is not mistaken for dead code.
 ---
 
 **Rule.** When a traversal or search loop performs secondary maintenance work or

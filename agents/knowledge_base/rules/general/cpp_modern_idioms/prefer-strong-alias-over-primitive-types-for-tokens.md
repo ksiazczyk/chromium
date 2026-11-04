@@ -2,6 +2,9 @@
 name: general/prefer-strong-alias-over-primitive-types-for-tokens
 rubric: readability
 severity: nit
+type: reference
+title: Prefer strong alias over primitive types for tokens
+summary: Coding rule preferring base::StrongAlias, IdType, or TokenType wrappers over bare primitives for domain tokens to prevent argument transposition at call sites.
 ---
 
 **Rule.** Prefer strongly typed wrappers (such as base::StrongAlias,

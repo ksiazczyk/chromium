@@ -2,6 +2,9 @@
 name: general/return-default-constructed-object-on-error
 rubric: readability
 severity: nit
+type: reference
+title: Return default constructed object on error
+summary: Coding rule advising parser, deserializer, and factory functions to return a fresh default-constructed object on error instead of manually clearing fields of a local instance.
 ---
 
 **Rule.** In parser, deserializer, or factory functions that return a default or

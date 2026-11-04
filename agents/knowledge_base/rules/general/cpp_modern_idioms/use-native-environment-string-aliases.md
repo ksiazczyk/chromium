@@ -2,6 +2,9 @@
 name: general/use-native-environment-string-aliases
 rubric: readability
 severity: should_fix
+type: reference
+title: Use native environment string aliases
+summary: Rule advising canonical NativeEnvironmentString type aliases instead of concrete std::string or std::wstring types when storing, parsing, or passing platform-native environment data.
 ---
 
 **Rule.** Use canonical NativeEnvironmentString, NativeEnvironmentStringView, or

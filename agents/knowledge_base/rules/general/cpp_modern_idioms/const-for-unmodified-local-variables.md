@@ -2,6 +2,9 @@
 name: general/const-for-unmodified-local-variables
 rubric: readability
 severity: nit
+type: reference
+title: Const for Unmodified Local Variables
+summary: Coding rule advising const for local variables whose values never change after initialization, with examples.
 ---
 
 **Rule.** Declare local variables as const when their values are not modified

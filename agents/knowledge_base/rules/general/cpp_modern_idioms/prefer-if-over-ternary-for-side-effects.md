@@ -2,6 +2,9 @@
 name: general/prefer-if-over-ternary-for-side-effects
 rubric: readability
 severity: nit
+type: reference
+title: Prefer if over ternary for side effects
+summary: Coding rule forbidding ternary operators for side effects, out-parameter mutation, or state changes, reserving them for pure value selection.
 ---
 
 **Rule.** Do not use the ternary conditional operator (`? :`) for expressions

@@ -2,6 +2,9 @@
 name: general/prefer-platform-agnostic-doc-comments-in-headers
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer platform-agnostic doc comments in headers
+summary: Coding rule for cross-platform headers to state behavior in platform-agnostic terms and define symlink and reparse point semantics precisely instead of fragmented platform notes.
 ---
 
 **Rule.** In cross-platform API headers, describe behavior and preconditions

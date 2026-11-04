@@ -2,6 +2,9 @@
 name: general/delete-unsupported-operations-in-public-section
 rubric: readability
 severity: should_fix
+type: reference
+title: Delete Unsupported Operations in the Public Section
+summary: Coding rule requiring unsupported operations such as comparison operators to be declared with = delete in the public section instead of unimplemented private declarations.
 ---
 
 **Rule.** To forbid comparison operators or other unsupported operations on a

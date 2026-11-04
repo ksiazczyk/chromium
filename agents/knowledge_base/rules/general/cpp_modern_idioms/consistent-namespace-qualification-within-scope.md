@@ -2,6 +2,9 @@
 name: general/consistent-namespace-qualification-within-scope
 rubric: readability
 severity: should_fix
+type: reference
+title: Consistent Namespace Qualification Within Scope
+summary: Coding rule advising against redundant namespace qualifiers on symbols inside their own namespace and for consistent qualification style, with examples.
 ---
 
 **Rule.** Do not qualify symbols with their enclosing or parent namespace (e.g.,

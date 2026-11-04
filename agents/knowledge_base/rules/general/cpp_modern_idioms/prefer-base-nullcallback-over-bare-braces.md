@@ -2,6 +2,11 @@
 name: general/prefer-base-nullcallback-over-bare-braces
 rubric: readability
 severity: nit
+type: guide
+title: Prefer base::NullCallback Over Bare Braces
+summary: Coding rule requiring base::NullCallback() instead of bare braces when passing an intentionally null or disengaged callback argument.
+relations:
+  - references /base/functional/callback_helpers.h
 ---
 
 **Rule.** When passing an intentionally null or disengaged callback

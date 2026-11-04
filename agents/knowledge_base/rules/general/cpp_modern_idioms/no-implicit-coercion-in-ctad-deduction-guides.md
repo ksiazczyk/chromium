@@ -2,6 +2,9 @@
 name: general/no-implicit-coercion-in-ctad-deduction-guides
 rubric: readability
 severity: should_fix
+type: reference
+title: No implicit coercion in CTAD deduction guides
+summary: Rule against defining CTAD deduction guides that implicitly coerce types, requiring direct template argument deduction with explicit conversions at call sites.
 ---
 
 **Rule.** Do not define Class Template Argument Deduction (CTAD) deduction

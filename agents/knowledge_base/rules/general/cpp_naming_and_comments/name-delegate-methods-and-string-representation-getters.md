@@ -2,6 +2,9 @@
 name: general/name-delegate-methods-and-string-representation-getters
 rubric: readability
 severity: nit
+type: reference
+title: Name delegate methods and string representation getters
+summary: Coding rule requiring delegate interface methods to be named after the domain artifact they supply and string-returning getters to include String in their names.
 ---
 
 **Rule.** Name virtual methods on delegate and provider interfaces descriptively

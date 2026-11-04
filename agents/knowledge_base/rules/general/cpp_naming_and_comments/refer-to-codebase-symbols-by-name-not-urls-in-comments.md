@@ -2,6 +2,9 @@
 name: general/refer-to-codebase-symbols-by-name-not-urls-in-comments
 rubric: readability
 severity: nit
+type: reference
+title: Refer to codebase symbols by name, not URLs, in comments
+summary: Comment rule to name symbols in backticks instead of embedding codesearch URLs, and to use stable permalinks with commit hash and line number when links are needed.
 ---
 
 **Rule.** When referencing classes, methods, or symbols in comments, refer to

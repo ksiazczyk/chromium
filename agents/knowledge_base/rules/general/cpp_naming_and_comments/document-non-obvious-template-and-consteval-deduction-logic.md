@@ -2,6 +2,9 @@
 name: general/document-non-obvious-template-and-consteval-deduction-logic
 rubric: readability
 severity: nit
+type: reference
+title: Document non-obvious template and consteval deduction logic
+summary: Coding rule requiring inline comments that explain the types handled by each branch and the fallback or rejection mechanism in template metaprogramming, consteval deduction, and SFINAE code.
 ---
 
 **Rule.** When implementing non-obvious template metaprogramming, compile-time

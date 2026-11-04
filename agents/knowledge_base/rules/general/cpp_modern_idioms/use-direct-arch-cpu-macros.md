@@ -2,6 +2,11 @@
 name: general/use-direct-arch-cpu-macros
 rubric: readability
 severity: should_fix
+type: reference
+title: Use direct ARCH_CPU macros for architecture checks
+summary: Rule directing developers to use dedicated ARCH_CPU architecture macros from build/build_config.h instead of combining CPU family and bitness macros when branching on target architectures.
+relations:
+  - references /build/build_config.h
 ---
 
 **Rule.** When branching on specific target CPU architectures, use the dedicated

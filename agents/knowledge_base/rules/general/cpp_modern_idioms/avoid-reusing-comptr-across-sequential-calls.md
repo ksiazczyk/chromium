@@ -2,6 +2,9 @@
 name: general/avoid-reusing-comptr-across-sequential-calls
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid reusing ComPtr across sequential calls
+summary: Coding rule to declare a new ComPtr for each COM out-parameter result, since reuse releases the prior reference and obscures lifetimes.
 ---
 
 **Rule.** Declare a new, distinctly named local variable for each COM method

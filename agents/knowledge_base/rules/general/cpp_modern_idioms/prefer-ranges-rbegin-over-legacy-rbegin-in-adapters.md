@@ -2,6 +2,9 @@
 name: general/prefer-ranges-rbegin-over-legacy-rbegin-in-adapters
 rubric: readability
 severity: nit
+type: reference
+title: Prefer ranges rbegin over legacy rbegin in adapters
+summary: Coding rule preferring std::ranges::rbegin and rend over legacy std::rbegin and rend in generic reverse-traversal adapters to avoid boilerplate overloads.
 ---
 
 **Rule.** In generic range adapters and reverse-traversal utilities, prefer

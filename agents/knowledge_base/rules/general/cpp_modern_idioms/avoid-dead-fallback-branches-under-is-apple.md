@@ -2,6 +2,9 @@
 name: general/avoid-dead-fallback-branches-under-is-apple
 rubric: readability
 severity: should_fix
+type: reference
+title: Avoid Dead Fallback Branches Under IS_APPLE
+summary: 'Rule against #else or #error fallbacks inside IS_APPLE blocks, since IS_APPLE is exactly IS_MAC or IS_IOS and such branches are unreachable.'
 ---
 
 **Rule.** Do not add fallback #else or #error directives within an #if

@@ -2,6 +2,9 @@
 name: general/omit-redundant-type-qualification-on-unscoped-enums
 rubric: readability
 severity: nit
+type: reference
+title: Omit redundant type qualification on unscoped enums
+summary: Rule against qualifying unscoped enum constants with their enum type name when the enumerators are exported into the enclosing scope with distinctive type-prefixed names.
 ---
 
 **Rule.** Do not qualify unscoped enum constants (such as C-style or IDL

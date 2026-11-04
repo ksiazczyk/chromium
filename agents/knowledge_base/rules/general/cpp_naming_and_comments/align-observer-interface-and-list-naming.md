@@ -2,6 +2,9 @@
 name: general/align-observer-interface-and-list-naming
 rubric: readability
 severity: should_fix
+type: reference
+title: Align observer interface and list naming
+summary: Rule requiring observer interface names to match their observer lists, using type aliases when wrapping externally named interfaces.
 ---
 
 **Rule.** Keep observer interface names consistent with their corresponding

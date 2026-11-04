@@ -2,6 +2,9 @@
 name: general/avoid-personal-pronouns-in-comments
 rubric: readability
 severity: should_fix
+type: reference
+title: Avoid personal pronouns in comments
+summary: Rule against conversational pronouns such as you, we, or our in comments, favoring imperative or third-person declarative phrasing.
 ---
 
 **Rule.** Do not use conversational personal pronouns (such as `you`, `your`,

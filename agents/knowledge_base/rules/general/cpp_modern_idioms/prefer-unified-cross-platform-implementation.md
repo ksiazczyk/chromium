@@ -2,6 +2,9 @@
 name: general/prefer-unified-cross-platform-implementation
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer unified cross-platform implementation
+summary: Coding rule favoring shared cross-platform code over platform-conditional BUILDFLAG branches unless platform-specific constraints genuinely require divergence.
 ---
 
 **Rule.** Prefer a unified cross-platform implementation over

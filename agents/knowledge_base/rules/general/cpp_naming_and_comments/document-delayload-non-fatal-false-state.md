@@ -2,6 +2,9 @@
 name: general/document-delayload-non-fatal-false-state
 rubric: readability
 severity: optional
+type: reference
+title: Document delayload non-fatal false state
+summary: Coding rule requiring a comment when treating loaded.has_value() as success for LoadAllImportsForDllUnchecked, clarifying that a false value means the module is not delayloaded rather than an import failure.
 ---
 
 **Rule.** When calling base::win::LoadAllImportsForDllUnchecked() (or

@@ -2,6 +2,13 @@
 name: general/omit-scratch-and-generator-output-files
 rubric: readability
 severity: should_fix
+type: guide
+title: Omit Scratch and Generator Output Files from Commits
+summary: Coding rule advising against staging scratch files, generator outputs, build artifacts, tool logs, rebase artifacts, and whitespace-only edits, and recommending self-review before requesting review.
+relations:
+  - references /.gitmodules
+  - references /.gitignore
+  - references /base/feature_rust_shim.h
 ---
 
 **Rule.** Keep change lists focused strictly on their intended change; do not

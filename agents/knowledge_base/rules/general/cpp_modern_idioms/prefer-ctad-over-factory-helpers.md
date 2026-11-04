@@ -2,6 +2,9 @@
 name: general/prefer-ctad-over-factory-helpers
 rubric: readability
 severity: should_fix
+type: guide
+title: Prefer CTAD over factory helpers
+summary: Rule advising C++17 class template argument deduction constructor syntax instead of legacy std::make_optional, make_pair, make_tuple, and make_move_iterator helpers.
 ---
 
 **Rule.** When constructing standard library objects or iterators where template

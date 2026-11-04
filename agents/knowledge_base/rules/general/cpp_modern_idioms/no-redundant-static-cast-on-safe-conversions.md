@@ -2,6 +2,9 @@
 name: general/no-redundant-static-cast-on-safe-conversions
 rubric: readability
 severity: nit
+type: reference
+title: No redundant static_cast on safe conversions
+summary: Rule against static_cast when an expression already has the target type or a safe, lossless implicit conversion such as unsigned widening applies.
 ---
 
 **Rule.** Do not add redundant static_cast or explicit casting operations when a

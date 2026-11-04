@@ -2,6 +2,9 @@
 name: general/use-int64-for-profiler-metadata
 rubric: readability
 severity: should_fix
+type: reference
+title: Use int64_t for profiler metadata
+summary: Rule requiring int64_t for parameters, methods, and members carrying values destined for profiler metadata APIs, matching the underlying metadata recording contract.
 ---
 
 **Rule.** When accepting, storing, or plumbing values and opaque identifiers

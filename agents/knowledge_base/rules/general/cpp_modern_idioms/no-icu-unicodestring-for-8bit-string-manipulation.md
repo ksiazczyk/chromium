@@ -2,6 +2,11 @@
 name: general/no-icu-unicodestring-for-8bit-string-manipulation
 rubric: readability
 severity: should_fix
+type: reference
+title: No icu::UnicodeString for 8-bit string manipulation
+summary: Coding rule with examples discouraging intermediate icu::UnicodeString objects for UTF-8/UTF-16 conversion or basic string operations in favor of Chromium base string helpers.
+relations:
+  - references /base/strings/utf_string_conversions.h
 ---
 
 **Rule.** Do not construct intermediate icu::UnicodeString objects solely to

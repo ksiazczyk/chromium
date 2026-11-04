@@ -2,6 +2,9 @@
 name: general/match-internal-helper-names-to-public-interfaces
 rubric: readability
 severity: nit
+type: reference
+title: Match internal helper names to public interfaces
+summary: Coding rule with examples calling for consistent naming and terminology across public interfaces, configuration options, internal state, metrics, and helper predicates of a feature.
 ---
 
 **Rule.** Maintain consistent naming and terminology across public interfaces,

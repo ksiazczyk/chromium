@@ -2,6 +2,9 @@
 name: general/document-caching-and-freshness-limitations-in-query-apis
 rubric: readability
 severity: should_fix
+type: guide
+title: Document caching and freshness limitations in query APIs
+summary: Rule to document caching semantics in query API headers, clarifying that values are a first-call snapshot and may not track changes like CPU hotplug.
 ---
 
 **Rule.** When declaring public system, hardware, or environment query APIs that

@@ -2,6 +2,9 @@
 name: general/mark-non-returning-functions-with-noreturn
 rubric: readability
 severity: should_fix
+type: reference
+title: Mark non-returning functions with [[noreturn]]
+summary: Coding rule with examples requiring the [[noreturn]] attribute on functions and helpers that unconditionally terminate execution, such as crash and fatal check failure handlers.
 ---
 
 **Rule.** When declaring or defining functions, destructors, or helper routines

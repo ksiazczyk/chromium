@@ -2,6 +2,11 @@
 name: general/use-chromium-buildflag-outside-partitionalloc
 rubric: readability
 severity: should_fix
+type: reference
+title: Use Chromium BUILDFLAG outside PartitionAlloc
+summary: Chromium C++ rule advising standard BUILDFLAG(...) macros from build/build_config.h instead of PartitionAlloc's PA_BUILDFLAG for platform and feature checks outside the standalone allocator code.
+relations:
+  - references /build/build_config.h
 ---
 
 **Rule.** Do not use PartitionAlloc's internal `PA_BUILDFLAG(...)` macro for

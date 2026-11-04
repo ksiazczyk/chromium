@@ -2,6 +2,9 @@
 name: general/prefer-raii-over-raw-new-and-delete-array
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer RAII over raw new and delete array
+summary: Coding rule advising against raw new[] and delete[] in favor of RAII containers such as std::make_unique, base::HeapArray, or std::vector.
 ---
 
 **Rule.** Avoid manual dynamic memory allocation using raw `new[]` and explicit

@@ -2,6 +2,9 @@
 name: general/document-failure-modes-for-compiler-workarounds
 rubric: readability
 severity: nit
+type: reference
+title: Document failure modes for compiler workarounds
+summary: Coding rule requiring inline comments on compiler attributes and optimization pragmas that explain the failure mode, toolchain, and build configuration that make the workaround load-bearing.
 ---
 
 **Rule.** When introducing compiler attributes, optimization overrides, or

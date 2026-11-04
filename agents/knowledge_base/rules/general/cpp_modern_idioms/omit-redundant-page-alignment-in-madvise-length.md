@@ -2,6 +2,9 @@
 name: general/omit-redundant-page-alignment-in-madvise-length
 rubric: readability
 severity: optional
+type: reference
+title: Omit redundant page alignment in madvise length
+summary: Rule against manually rounding the madvise length argument up to a page boundary, since the kernel automatically rounds the length to the system page size.
 ---
 
 **Rule.** When calling `madvise()`, pass the computed byte length directly

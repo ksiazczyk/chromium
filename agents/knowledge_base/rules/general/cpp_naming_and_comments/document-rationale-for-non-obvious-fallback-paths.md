@@ -2,6 +2,9 @@
 name: general/document-rationale-for-non-obvious-fallback-paths
 rubric: readability
 severity: nit
+type: guide
+title: Document rationale for non-obvious fallback paths
+summary: Rule requiring inline comments that explain why fallback paths, secondary queries, or retries exist and which failure modes they accommodate.
 ---
 
 **Rule.** When implementing a non-obvious fallback path, secondary query, or

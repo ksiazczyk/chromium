@@ -2,6 +2,11 @@
 name: general/prefer-base-enum-set-over-raw-bitmasks
 rubric: readability
 severity: optional
+type: guide
+title: Prefer base::EnumSet Over Raw Bitmasks
+summary: Coding rule recommending base::EnumSet for storing enum sets instead of raw integer bitmasks, with an attributed TODO when migration is deferred.
+relations:
+  - references /base/containers/enum_set.h
 ---
 
 **Rule.** When storing or manipulating sets of enum values, use `base::EnumSet`

@@ -2,6 +2,9 @@
 name: general/assert-state-preconditions-before-transitions
 rubric: readability
 severity: should_fix
+type: reference
+title: Assert State Preconditions Before Transitions
+summary: Rule requiring CHECK or DCHECK assertions on state preconditions and lifecycle invariants before initializing, resetting, or removing state.
 ---
 
 **Rule.** Assert state preconditions and lifecycle invariants using CHECK() or

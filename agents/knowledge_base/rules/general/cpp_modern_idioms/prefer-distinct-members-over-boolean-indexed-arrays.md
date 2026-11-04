@@ -2,6 +2,9 @@
 name: general/prefer-distinct-members-over-boolean-indexed-arrays
 rubric: readability
 severity: nit
+type: guide
+title: Prefer distinct members over boolean-indexed arrays
+summary: Rule advising self-describing member variables instead of small arrays indexed by booleans, with typed enums when genuine indexing is needed.
 ---
 
 **Rule.** Declare distinct, self-describing member variables (e.g.,

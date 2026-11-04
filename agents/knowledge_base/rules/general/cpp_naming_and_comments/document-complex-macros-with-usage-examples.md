@@ -2,6 +2,9 @@
 name: general/document-complex-macros-with-usage-examples
 rubric: readability
 severity: nit
+type: reference
+title: Document complex macros with usage examples
+summary: Coding rule requiring doc comments with official documentation links and copy-pasteable usage examples for non-trivial utility, boilerplate, compiler attribute, sanitizer, and language-interop macros.
 ---
 
 **Rule.** When defining non-trivial utility, boilerplate-generating, compiler

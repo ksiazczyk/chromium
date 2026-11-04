@@ -2,6 +2,9 @@
 name: general/prefer-standard-string-view-aliases-over-basic-string-view
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer standard string view aliases over basic_string_view
+summary: Coding rule preferring std::string_view-style aliases over spelled-out std::basic_string_view<CharT> for concrete character types, reserving the latter for generic templates.
 ---
 
 **Rule.** Prefer standard string view type aliases (std::string_view,

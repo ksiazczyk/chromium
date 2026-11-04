@@ -2,6 +2,9 @@
 name: general/manage-raii-guard-lifetime-via-block-scoping
 rubric: readability
 severity: optional
+type: reference
+title: Manage RAII guard lifetime via block scoping
+summary: Coding rule with examples recommending explicit lexical block scoping instead of std::optional wrapping to control the lifetime of RAII scope guards such as base::AutoReset.
 ---
 
 **Rule.** Do not wrap RAII scope guards (such as `base::AutoReset`,

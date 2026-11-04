@@ -2,6 +2,9 @@
 name: general/use-two-step-adl-swap-idiom
 rubric: readability
 severity: should_fix
+type: guide
+title: Use the two-step ADL swap idiom
+summary: Coding rule to implement swaps with the two-step 'using std::swap; swap(a, b);' idiom so argument-dependent lookup can find custom swap overloads.
 ---
 
 **Rule.** When implementing swap() member or non-member functions, or swapping

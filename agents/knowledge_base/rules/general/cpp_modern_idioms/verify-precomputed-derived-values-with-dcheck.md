@@ -2,6 +2,9 @@
 name: general/verify-precomputed-derived-values-with-dcheck
 rubric: readability
 severity: nit
+type: guide
+title: Verify precomputed derived values with DCHECK
+summary: Coding rule to validate precomputed derived values such as hashes with DCHECK_EQ in debug builds without adding overhead to release builds.
 ---
 
 **Rule.** When an API or constructor accepts both a source object/identifier and

@@ -2,6 +2,9 @@
 name: general/valid-syntax-in-comment-code-examples
 rubric: readability
 severity: should_fix
+type: reference
+title: Valid Syntax in Comment Code Examples
+summary: Rule requiring C++ code snippets in documentation comments to be syntactically valid, with terminated statements and concrete types, because developers copy them.
 ---
 
 **Rule.** Ensure C++ code snippets, example implementations, and usage blocks in

@@ -2,6 +2,9 @@
 name: general/prefer-direct-member-assignment-over-pointer-cast
 rubric: readability
 severity: should_fix
+type: guide
+title: Prefer direct member assignment over pointer cast
+summary: Rule advising direct member access and assignment instead of reinterpret_cast or pointer-casting helpers for value-based getters and setters.
 ---
 
 **Rule.** When accessing or assigning values to struct or class members (such as

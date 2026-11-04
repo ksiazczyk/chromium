@@ -1,0 +1,8 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA capability group definitions
+summary: Defines capability groups that map cpp_naming_and_comments rule files to path expressions for agent review.
+relations:
+  - references /agents/knowledge_base/rules/general/cpp_naming_and_comments/annotate-temporary-compatibility-stubs-with-todo.md
+  - references /agents/knowledge_base/rules/general/cpp_naming_and_comments/document-deprecated-enum-values-and-replacements.md
+  - references /agents/knowledge_base/rules/general/cpp_naming_and_comments/document-developer-tools-and-diagnostic-flags.md

@@ -2,6 +2,9 @@
 name: general/consistently-name-sibling-helpers-sharing-side-effects
 rubric: readability
 severity: should_fix
+type: reference
+title: Consistently Name Sibling Helpers Sharing Side Effects
+summary: Coding rule requiring helper functions that share a side effect to use a uniform descriptive suffix such as AndAlign, with examples.
 ---
 
 **Rule.** When a family of helper functions or methods shares a significant side

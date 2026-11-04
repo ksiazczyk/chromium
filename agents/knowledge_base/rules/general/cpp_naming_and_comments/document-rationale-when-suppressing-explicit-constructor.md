@@ -2,6 +2,9 @@
 name: general/document-rationale-when-suppressing-explicit-constructor
 rubric: readability
 severity: should_fix
+type: guide
+title: Document rationale when suppressing explicit constructor
+summary: Rule requiring a rationale comment plus NOLINTNEXTLINE when intentionally omitting explicit on a single-argument or converting constructor.
 ---
 
 **Rule.** When intentionally omitting explicit on a single-argument or

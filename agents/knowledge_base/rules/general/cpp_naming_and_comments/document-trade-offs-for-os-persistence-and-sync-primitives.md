@@ -2,6 +2,9 @@
 name: general/document-trade-offs-for-os-persistence-and-sync-primitives
 rubric: readability
 severity: nit
+type: guide
+title: Document trade-offs for OS persistence and sync primitives
+summary: Rule requiring comments that explain durability versus latency trade-offs and supporting evidence when choosing OS flush or sync primitives.
 ---
 
 **Rule.** When selecting or defaulting to a specific OS-level synchronization or

@@ -2,6 +2,9 @@
 name: general/prefer-from-range-for-container-construction
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer from_range for container construction
+summary: Coding rule recommending C++23 std::from_range constructors over iterator pairs or intermediate view helpers when building containers and strings from ranges.
 ---
 
 **Rule.** When constructing standard containers (such as std::vector or

@@ -2,6 +2,9 @@
 name: general/avoid-redundant-guard-before-loop
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant Guard Before Loop
+summary: Coding rule against early-return guards placed before loops whose entry condition already tests the complementary condition and prevents execution.
 ---
 
 **Rule.** Do not add redundant guard checks or early returns immediately before

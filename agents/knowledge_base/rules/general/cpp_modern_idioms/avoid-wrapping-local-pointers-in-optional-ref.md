@@ -2,6 +2,9 @@
 name: general/avoid-wrapping-local-pointers-in-optional-ref
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid wrapping local pointers in optional_ref
+summary: Coding rule reserving base::optional_ref for function parameters and inspecting nullable raw pointers directly in local scopes.
 ---
 
 **Rule.** Do not wrap nullable raw pointers or pointer-returning method results

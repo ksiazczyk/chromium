@@ -2,6 +2,9 @@
 name: general/prefer-subspan-or-substr-over-unsafe-buffers-pointer-arithme
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer subspan or substr over unsafe buffers pointer arithmetic
+summary: Coding rule requiring safe member slicing methods like subspan() and substr() instead of UNSAFE_BUFFERS pointer arithmetic or address-of indexing for sub-ranges.
 ---
 
 **Rule.** When obtaining a sub-range, sub-view, or offset pointer from a

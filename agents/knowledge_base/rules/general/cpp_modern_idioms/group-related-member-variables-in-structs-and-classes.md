@@ -2,6 +2,9 @@
 name: general/group-related-member-variables-in-structs-and-classes
 rubric: readability
 severity: nit
+type: reference
+title: Group Related Member Variables in Structs and Classes
+summary: Coding style rule asking that logically related data members be grouped together in struct and class definitions rather than appended at the bottom.
 ---
 
 **Rule.** Group logically related data members together within struct or class

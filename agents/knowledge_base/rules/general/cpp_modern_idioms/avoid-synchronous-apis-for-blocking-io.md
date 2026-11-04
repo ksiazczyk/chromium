@@ -2,6 +2,9 @@
 name: general/avoid-synchronous-apis-for-blocking-io
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid synchronous APIs for blocking I/O
+summary: Coding rule requiring asynchronous APIs for blocking file, disk, or hardware I/O, with platform-restricted synchronous variants documented as non-blocking.
 ---
 
 **Rule.** Do not expose public synchronous APIs for operations that perform

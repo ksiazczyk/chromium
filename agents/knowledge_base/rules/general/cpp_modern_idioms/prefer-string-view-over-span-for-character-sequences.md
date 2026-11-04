@@ -2,6 +2,9 @@
 name: general/prefer-string-view-over-span-for-character-sequences
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer string view over span for character sequences
+summary: Coding rule preferring std::string_view over base::span<const CharT> for read-only string inputs, reserving span for non-textual byte or memory buffers.
 ---
 
 **Rule.** Prefer std::string_view (or std::basic_string_view<CharT> for

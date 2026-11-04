@@ -2,6 +2,9 @@
 name: general/use-kmax-only-for-inclusive-upper-bounds
 rubric: readability
 severity: should_fix
+type: reference
+title: Use kMax only for inclusive upper bounds
+summary: Chromium naming rule reserving kMax constants for inclusive upper bounds and directing element counts or exclusive limits to kNum or kCount style names to avoid off-by-one errors.
 ---
 
 **Rule.** Use `kMax...` (or `kMaxValue`) only to denote the inclusive upper

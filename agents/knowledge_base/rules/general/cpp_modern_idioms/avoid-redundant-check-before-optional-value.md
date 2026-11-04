@@ -2,6 +2,9 @@
 name: general/avoid-redundant-check-before-optional-value
 rubric: readability
 severity: should_fix
+type: reference
+title: Avoid Redundant Check Before Optional Value
+summary: Rule against CHECK or DCHECK has_value assertions immediately before calling .value(), which already performs a checked access.
 ---
 
 **Rule.** Do not write redundant `CHECK(opt.has_value())` or

@@ -2,6 +2,9 @@
 name: general/keep-internal-helper-methods-private
 rubric: readability
 severity: should_fix
+type: reference
+title: Keep internal helper methods private
+summary: Coding rule with examples instructing C++ developers to keep internal helper and state-manipulation methods in the private section instead of exposing them in the public or protected interface.
 ---
 
 **Rule.** Keep internal helper methods, implementation routines, and

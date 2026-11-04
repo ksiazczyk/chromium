@@ -2,6 +2,9 @@
 name: general/document-sentinel-inclusion-in-span-comments
 rubric: readability
 severity: nit
+type: guide
+title: Document sentinel inclusion in span comments
+summary: Rule requiring documentation of sentinel inclusion, empty-input support, packed layouts, and lifetimes for spans over sentinel-terminated data.
 ---
 
 **Rule.** When declaring APIs or manipulating containers and spans (such as

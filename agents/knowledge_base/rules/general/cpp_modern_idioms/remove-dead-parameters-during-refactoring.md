@@ -2,6 +2,9 @@
 name: general/remove-dead-parameters-during-refactoring
 rubric: readability
 severity: should_fix
+type: reference
+title: Remove dead parameters during refactoring
+summary: Coding rule to delete unused parameters, dead helpers, obsolete overloads, orphaned interface methods and vestigial code when updating APIs or legacy code.
 ---
 
 **Rule.** Do not preserve, forward, or mechanically modernize unused helper

@@ -2,6 +2,9 @@
 name: general/prefer-explicit-empty-string-literals-over-bare-braces
 rubric: readability
 severity: nit
+type: reference
+title: Prefer explicit empty string literals over bare braces
+summary: Coding rule advising explicit empty string or path literals instead of bare braces when passing empty string or path views as function arguments.
 ---
 
 **Rule.** When passing an empty string or path view (such as

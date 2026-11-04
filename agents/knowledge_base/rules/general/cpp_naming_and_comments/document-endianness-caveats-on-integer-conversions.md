@@ -2,6 +2,9 @@
 name: general/document-endianness-caveats-on-integer-conversions
 rubric: readability
 severity: should_fix
+type: reference
+title: Document endianness caveats on integer conversions
+summary: Coding rule requiring doc comments on APIs converting multi-byte identifiers like UUIDs to native integers to warn about platform-dependent endianness and forbid direct byte-array interpretation.
 ---
 
 **Rule.** When declaring APIs that convert multi-byte structured identifiers,

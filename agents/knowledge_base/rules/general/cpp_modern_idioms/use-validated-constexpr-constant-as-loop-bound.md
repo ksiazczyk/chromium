@@ -2,6 +2,9 @@
 name: general/use-validated-constexpr-constant-as-loop-bound
 rubric: readability
 severity: nit
+type: guide
+title: Use validated constexpr constant as loop bound
+summary: Coding rule to use a verified compile-time constant as the loop limit instead of runtime length queries like .length() or .size().
 ---
 
 **Rule.** When iterating over a container, string, or buffer whose length has

@@ -2,6 +2,9 @@
 name: general/avoid-redundant-non-const-overloads
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant Non-Const Overloads
+summary: Coding rule against providing non-const overloads of lookup or getter methods when a single const member function suffices for read-only access.
 ---
 
 **Rule.** Do not provide a non-const overload for a lookup, query, or getter

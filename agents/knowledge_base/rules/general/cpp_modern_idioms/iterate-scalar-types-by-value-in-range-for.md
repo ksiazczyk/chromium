@@ -2,6 +2,9 @@
 name: general/iterate-scalar-types-by-value-in-range-for
 rubric: readability
 severity: should_fix
+type: reference
+title: Iterate Scalar Types by Value in Range-Based For Loops
+summary: Coding rule recommending iteration by value with an explicit type in range-based for loops over small scalar or trivially copyable elements instead of const auto&.
 ---
 
 **Rule.** In range-based for loops over containers of small scalar, primitive,

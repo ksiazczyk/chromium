@@ -2,6 +2,9 @@
 name: general/document-escape-hatch-and-edge-case-methods
 rubric: readability
 severity: should_fix
+type: reference
+title: Document escape hatch and edge case methods
+summary: Coding rule requiring escape-hatch, safety-bypass, and invariant-relaxation methods to document the bypassed check, valid usage scenarios, and caller preconditions instead of tautological comments.
 ---
 
 **Rule.** When providing or retaining specialized escape-hatch, lower-level, or
