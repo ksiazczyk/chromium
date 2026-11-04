@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page settled monitor browser tests
+// summary: Browser tests verifying that PageSettledMonitor waits on network fetches and main thread work before reporting a settled page.
+// ---
+
 #include <memory>
 #include <optional>
 #include <utility>

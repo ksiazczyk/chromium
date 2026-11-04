@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows app-bound encryption key provider implementation
+// summary: Implements the Windows app-bound encryption key provider, including key generation, retrieval, storage in local state prefs, and error handling.
+// ---
+
 #include "chrome/browser/os_crypt/app_bound_encryption_provider_win.h"
 
 #include <optional>

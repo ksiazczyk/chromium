@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tab model observer header for page content extraction
+// summary: Declares a per-profile observer that forwards Android tab lifecycle events from TabModel to the page content extraction service.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_ANDROID_PAGE_CONTENT_EXTRACTION_TAB_MODEL_OBSERVER_ANDROID_H_
 #define CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_ANDROID_PAGE_CONTENT_EXTRACTION_TAB_MODEL_OBSERVER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide global state holder service factory header
+// summary: Declares the singleton factory that provides the OptimizationGuideGlobalStateHolderKeyedService for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_GLOBAL_STATE_HOLDER_KEYED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_GLOBAL_STATE_HOLDER_KEYED_SERVICE_FACTORY_H_
 

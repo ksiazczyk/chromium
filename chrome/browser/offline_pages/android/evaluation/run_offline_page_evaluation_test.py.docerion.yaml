@@ -1,0 +1,4 @@
+# Docerion header of run_offline_page_evaluation_test.py.
+type: script
+title: Offline page evaluation test runner script
+summary: Python script that runs OfflinePageSavePageLaterEvaluationTests on a device with a supplied URL list and pulls background offlining results into an output directory.

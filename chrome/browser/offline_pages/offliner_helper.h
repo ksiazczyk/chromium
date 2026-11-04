@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offliner helper header
+// summary: Declares offliner helper functions and the OfflinePagesCctApiPrerenderAllowedStatus enum used to gate prerendering.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_OFFLINER_HELPER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_OFFLINER_HELPER_H_
 

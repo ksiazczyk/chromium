@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageTabHelper implementation
+// summary: Implements per-tab tracking of loaded offline pages, their trusted state, and MHTML page load notifications.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_tab_helper.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OptimizationGuideBridgeFactory unit tests
+// summary: JUnit test that verifies OptimizationGuideBridgeFactory returns a non-null bridge for the last used profile and reuses the same instance per profile.
+// ---
+
 package org.chromium.chrome.browser.optimization_guide;
 
 import androidx.test.annotation.UiThreadTest;

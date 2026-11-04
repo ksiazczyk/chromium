@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization guide tab URL provider browser tests
+// summary: Browser tests verifying tab URL collection, including profiles with no open tabs and exclusion of incognito tabs.
+// ---
+
 #include "chrome/browser/optimization_guide/optimization_guide_tab_url_provider.h"
 
 #include "base/time/time.h"

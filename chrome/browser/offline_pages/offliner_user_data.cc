@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinerUserData implementation
+// summary: Implements WebContents user data that exposes the BackgroundLoaderOffliner attached to a WebContents.
+// ---
+
 #include "chrome/browser/offline_pages/offliner_user_data.h"
 
 #include <memory>

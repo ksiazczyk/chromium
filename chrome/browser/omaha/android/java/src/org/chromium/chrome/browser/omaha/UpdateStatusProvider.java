@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'UpdateStatusProvider: current Chrome update state'
+// summary: Asynchronously determines and provides Chrome's current update state, such as update available or unsupported OS version, and notifies observers of changes.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

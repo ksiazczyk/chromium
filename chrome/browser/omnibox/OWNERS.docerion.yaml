@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegation to components/omnibox
+summary: Points to components/omnibox/OWNERS so this folder inherits its owners for code reviews.

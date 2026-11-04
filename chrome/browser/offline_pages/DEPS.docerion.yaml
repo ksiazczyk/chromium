@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for offline_pages
+summary: Restricts includes so this folder stays platform-neutral, blocking Android and general chrome/browser dependencies except for an explicit allowlist.

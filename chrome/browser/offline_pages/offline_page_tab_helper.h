@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageTabHelper header
+// summary: Declares a per-tab helper that monitors navigations and stores offline page info, including trusted states used for UMA reporting.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_TAB_HELPER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_TAB_HELPER_H_
 

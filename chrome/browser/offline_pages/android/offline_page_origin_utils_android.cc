@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android origin utils for offline pages
+// summary: Provides the Android implementation of OfflinePageOriginUtils by delegating encoded origin app lookup to OfflinePageBridge.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_origin_utils.h"
 
 #include "chrome/browser/offline_pages/android/offline_page_bridge.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page archive publisher header
+// summary: Declares the Android offline page archive publisher class and its delegate interface for download manager operations.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_ANDROID_OFFLINE_PAGE_ARCHIVE_PUBLISHER_IMPL_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_ANDROID_OFFLINE_PAGE_ARCHIVE_PUBLISHER_IMPL_H_
 

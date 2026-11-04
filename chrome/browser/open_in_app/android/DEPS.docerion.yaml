@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the open-in-app Android folder
+summary: Grants this directory permission to depend on the WebAPK client library through an include rule.

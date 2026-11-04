@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content cache Android browser tests
+// summary: Android browser tests that verify page content cache population and removal behavior for tabs using the page content annotations service.
+// ---
+
 #include "components/page_content_annotations/core/page_content_cache.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the omnibox X-Geo geolocation header
+// summary: Browser tests verifying X-Geo geolocation header behavior for omnibox navigations under the PlatformAgnosticXGeo feature using a mock geolocation provider.
+// ---
+
 #include "base/base64url.h"
 #include "base/command_line.h"
 #include "base/run_loop.h"

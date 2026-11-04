@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model execution browser tests
+// summary: Browser tests for optimization guide model execution, covering remote responses, feature settings visibility, policies, and model quality logging.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/memory/weak_ptr.h"

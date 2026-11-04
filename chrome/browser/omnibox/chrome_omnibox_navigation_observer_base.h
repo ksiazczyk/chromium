@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome omnibox navigation observer class declaration
+// summary: Declares the ChromeOmniboxNavigationObserverBase class that monitors omnibox navigations to trigger alternate navigation, shortcuts, and 404 behaviors.
+// ---
+
 #ifndef CHROME_BROWSER_OMNIBOX_CHROME_OMNIBOX_NAVIGATION_OBSERVER_BASE_H_
 #define CHROME_BROWSER_OMNIBOX_CHROME_OMNIBOX_NAVIGATION_OBSERVER_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundLoaderOffliner class declaration
+// summary: Declares the offliner that renders and saves an offline page via BackgroundLoaderContents, processing one request at a time.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_BACKGROUND_LOADER_OFFLINER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_BACKGROUND_LOADER_OFFLINER_H_
 

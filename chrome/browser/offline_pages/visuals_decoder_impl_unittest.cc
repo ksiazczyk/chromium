@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VisualsDecoderImpl unit tests
+// summary: Unit tests for VisualsDecoderImpl using a mock image decoder, covering successful decode-and-crop of images and the failure path with an empty image.
+// ---
+
 #include "chrome/browser/offline_pages/visuals_decoder_impl.h"
 
 #include "base/base64.h"

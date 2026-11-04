@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadArchiveManager implementation
+// summary: Implements the archive manager override that returns the public archives directory from the download default directory preference when set.
+// ---
+
 #include <string>
 
 #include "base/task/sequenced_task_runner.h"

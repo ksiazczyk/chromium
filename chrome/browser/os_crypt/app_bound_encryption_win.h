@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App-bound encryption API declarations for Windows
+// summary: Declares the app-bound encryption API, the SupportLevel enum, and testing overrides for encrypt, decrypt, and support level checks.
+// ---
+
 #ifndef CHROME_BROWSER_OS_CRYPT_APP_BOUND_ENCRYPTION_WIN_H_
 #define CHROME_BROWSER_OS_CRYPT_APP_BOUND_ENCRYPTION_WIN_H_
 

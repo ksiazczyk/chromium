@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OriginGatingServiceFactory unit tests
+// summary: Verifies service instance sharing and separation across the same profile, unrelated profiles, off-the-record profiles, and guest profiles.
+// ---
+
 #include "chrome/browser/origin_gating/origin_gating_service_factory.h"
 
 #include <memory>

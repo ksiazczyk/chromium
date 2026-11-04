@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android offline pages
+summary: Defines the allowed include dependencies for the Android offline pages browser code, listing Android-specific Chrome headers it may use.

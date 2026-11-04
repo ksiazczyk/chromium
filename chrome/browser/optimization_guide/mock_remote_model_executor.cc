@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock remote model executor implementation
+// summary: Implements MockRemoteModelExecutionSession, including observer list management and notification of connection state changes for tests.
+// ---
+
 #include "chrome/browser/optimization_guide/mock_remote_model_executor.h"
 
 namespace optimization_guide {

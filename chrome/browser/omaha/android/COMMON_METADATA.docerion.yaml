@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Omaha Android common metadata
+summary: Configures the bug tracking component and team email used for issues in the Omaha Android directory.

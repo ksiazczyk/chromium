@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide keyed service implementation
+// summary: Implements the per-profile keyed service that fetches hints, models, and model execution information from the remote Optimization Guide Service.
+// ---
+
 #include "chrome/browser/optimization_guide/optimization_guide_keyed_service.h"
 
 #include <memory>

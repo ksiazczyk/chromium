@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Omaha Android directory metadata
+summary: Points to the shared COMMON_METADATA file for this directory's bug tracking and team settings.

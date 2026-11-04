@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization guide keyed service browser tests
+// summary: Browser tests for the Optimization Guide keyed service covering hints fetching, model quality log uploads, policy enforcement, and navigation-related behavior.
+// ---
+
 #include "chrome/browser/optimization_guide/optimization_guide_keyed_service.h"
 
 #include <memory>

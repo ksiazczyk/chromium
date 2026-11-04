@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trials factory implementation
+// summary: Implements the OriginTrialsFactory keyed service, building OriginTrials instances with LevelDB persistence and a trial token validator per browser context.
+// ---
+
 #include "chrome/browser/origin_trials/origin_trials_factory.h"
 #include "chrome/browser/profiles/profile_keyed_service_factory.h"
 #include "chrome/browser/profiles/profile_selections.h"

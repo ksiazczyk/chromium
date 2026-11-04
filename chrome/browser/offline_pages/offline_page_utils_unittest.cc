@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflinePageUtils unit tests
+// summary: Unit tests for OfflinePageUtils covering page selection, duplicate download checks, and related offline page behavior.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_utils.h"
 
 #include <stdint.h>

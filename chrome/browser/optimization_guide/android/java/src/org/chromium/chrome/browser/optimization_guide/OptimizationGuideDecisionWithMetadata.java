@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizationGuideDecisionWithMetadata
+// summary: Value object that pairs an optimization guide decision with its optional metadata for delivery to Java callers.
+// ---
+
 package org.chromium.chrome.browser.optimization_guide;
 
 import org.chromium.build.annotations.NullMarked;

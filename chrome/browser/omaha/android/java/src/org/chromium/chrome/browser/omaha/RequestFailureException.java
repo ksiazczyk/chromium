@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestFailureException
+// summary: General exception for failed POST requests to the Omaha update server, carrying error codes for parsing and connectivity failures.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import org.chromium.build.annotations.NullMarked;

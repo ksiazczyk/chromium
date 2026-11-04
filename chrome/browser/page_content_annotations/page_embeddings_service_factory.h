@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page embeddings service factory header
+// summary: Declares the keyed service factory that returns or creates the PageEmbeddingsService for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_PAGE_EMBEDDINGS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_PAGE_EMBEDDINGS_SERVICE_FACTORY_H_
 

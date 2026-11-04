@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trials factory header
+// summary: Declares OriginTrialsFactory, which provides the OriginTrialsControllerDelegate service for a browser context when persistent origin trials are supported.
+// ---
+
 #ifndef CHROME_BROWSER_ORIGIN_TRIALS_ORIGIN_TRIALS_FACTORY_H_
 #define CHROME_BROWSER_ORIGIN_TRIALS_ORIGIN_TRIALS_FACTORY_H_
 

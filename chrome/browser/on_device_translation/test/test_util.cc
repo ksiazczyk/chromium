@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device translation test utilities implementation
+// summary: Implements MockComponentManager and TestInstallerAdapter that fake TranslateKit component registration and language pack installation for on-device translation browser tests.
+// ---
+
 #include "chrome/browser/on_device_translation/test/test_util.h"
 
 #include "base/files/file_util.h"

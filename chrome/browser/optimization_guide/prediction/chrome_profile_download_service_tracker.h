@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome profile download service tracker class declaration
+// summary: Declares ChromeProfileDownloadServiceTracker, which observes profile lifecycle changes to supply a background download service for prediction model downloads.
+// ---
+
 #ifndef CHROME_BROWSER_OPTIMIZATION_GUIDE_PREDICTION_CHROME_PROFILE_DOWNLOAD_SERVICE_TRACKER_H_
 #define CHROME_BROWSER_OPTIMIZATION_GUIDE_PREDICTION_CHROME_PROFILE_DOWNLOAD_SERVICE_TRACKER_H_
 

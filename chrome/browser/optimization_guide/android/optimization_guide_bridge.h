@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Optimization Guide JNI bridge
+// summary: Declares the C++ class that exposes OptimizationGuideKeyedService to Java for optimization type registration, decisions, and push notifications.
+// ---
+
 #ifndef CHROME_BROWSER_OPTIMIZATION_GUIDE_ANDROID_OPTIMIZATION_GUIDE_BRIDGE_H_
 #define CHROME_BROWSER_OPTIMIZATION_GUIDE_ANDROID_OPTIMIZATION_GUIDE_BRIDGE_H_
 

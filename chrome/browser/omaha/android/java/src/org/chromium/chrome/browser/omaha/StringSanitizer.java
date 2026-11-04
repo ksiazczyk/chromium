@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'StringSanitizer: sanitizes strings sent to the Omaha server'
+// summary: Utility that removes special characters, collapses whitespace, lowercases, and trims strings before they are sent to the Omaha server.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model download client class declaration
+// summary: Declares PredictionModelDownloadClient, a download::Client that relays download service events to the profile's prediction model download manager.
+// ---
+
 #ifndef CHROME_BROWSER_OPTIMIZATION_GUIDE_PREDICTION_PREDICTION_MODEL_DOWNLOAD_CLIENT_H_
 #define CHROME_BROWSER_OPTIMIZATION_GUIDE_PREDICTION_PREDICTION_MODEL_DOWNLOAD_CLIENT_H_
 

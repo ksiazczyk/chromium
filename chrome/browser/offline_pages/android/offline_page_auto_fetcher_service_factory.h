@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page auto fetcher service factory header
+// summary: Declares the ProfileKeyedServiceFactory that provides one OfflinePageAutoFetcherService instance per profile.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_ANDROID_OFFLINE_PAGE_AUTO_FETCHER_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_ANDROID_OFFLINE_PAGE_AUTO_FETCHER_SERVICE_FACTORY_H_
 

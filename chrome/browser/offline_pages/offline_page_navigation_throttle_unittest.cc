@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflinePageNavigationThrottle unit tests
+// summary: Unit tests verifying the throttle cancels renderer-initiated offline requests, allows browser-initiated ones, and logs UMA.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_navigation_throttle.h"
 
 #include <memory>

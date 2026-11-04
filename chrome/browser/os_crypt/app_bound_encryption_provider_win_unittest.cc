@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the app-bound encryption provider
+// summary: Unit tests for the Windows app-bound encryption provider, using mocked encrypt and decrypt overrides to verify key handling and failure recovery.
+// ---
+
 #include "chrome/browser/os_crypt/app_bound_encryption_provider_win.h"
 
 #include <string>

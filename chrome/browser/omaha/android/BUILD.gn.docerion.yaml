@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omaha Android build configuration
+summary: Defines GN build targets for the Omaha update client's Java libraries, protobuf sources, and UI code on Android.

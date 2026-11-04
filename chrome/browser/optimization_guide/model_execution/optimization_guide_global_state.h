@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide global state header
+// summary: Declares OptimizationGuideGlobalState and ChromePredictionManager, which hold manifest broker and prediction manager objects shared across profiles.
+// ---
+
 #ifndef CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_EXECUTION_OPTIMIZATION_GUIDE_GLOBAL_STATE_H_
 #define CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_EXECUTION_OPTIMIZATION_GUIDE_GLOBAL_STATE_H_
 

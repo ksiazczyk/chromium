@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake install details implementation for os_crypt tests
+// summary: Implements FakeInstallDetails, which sets test app GUIDs, elevator CLSID and IIDs so system-level tests do not interfere with real installations.
+// ---
+
 #include "chrome/browser/os_crypt/test_support.h"
 
 #include "chrome/elevation_service/elevator.h"

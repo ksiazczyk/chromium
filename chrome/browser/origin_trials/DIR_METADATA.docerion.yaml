@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for origin trials
+summary: Points the directory metadata to the shared origin trials COMMON_METADATA mixins in blink.

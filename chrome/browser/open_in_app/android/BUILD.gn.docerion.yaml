@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the open-in-app Android module
+summary: Defines the Android library and Robolectric unit test targets for Chrome's open-in-app feature, listing their Java sources and dependencies.

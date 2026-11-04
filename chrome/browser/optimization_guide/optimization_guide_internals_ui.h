@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide internals WebUI controller header
+// summary: Declares the WebUI controller and its internal WebUI config for the Optimization Guide internals page, including Mojo interface bindings and page handler request methods.
+// ---
+
 #ifndef CHROME_BROWSER_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_INTERNALS_UI_H_
 #define CHROME_BROWSER_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_INTERNALS_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows app-bound encryption key provider header
+// summary: Declares the AppBoundEncryptionProviderWin key provider, related feature flags, pref names, and key prefixes for app-bound encryption.
+// ---
+
 #ifndef CHROME_BROWSER_OS_CRYPT_APP_BOUND_ENCRYPTION_PROVIDER_WIN_H_
 #define CHROME_BROWSER_OS_CRYPT_APP_BOUND_ENCRYPTION_PROVIDER_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content extraction service Android bridge header
+// summary: Declares PageContentExtractionServiceAndroid, the JNI bridge that attaches a Java counterpart to the page content extraction service.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_ANDROID_PAGE_CONTENT_EXTRACTION_SERVICE_ANDROID_H_
 #define CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_ANDROID_PAGE_CONTENT_EXTRACTION_SERVICE_ANDROID_H_
 

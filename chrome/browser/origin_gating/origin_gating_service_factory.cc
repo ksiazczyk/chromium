@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginGatingServiceFactory implementation
+// summary: Implements the singleton profile-keyed factory that builds an OriginGatingService instance per regular, guest, and off-the-record browser context.
+// ---
+
 #include "chrome/browser/origin_gating/origin_gating_service_factory.h"
 
 #include <memory>

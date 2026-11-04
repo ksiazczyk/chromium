@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide web contents observer implementation
+// summary: Observes navigation events to maintain optimization guide navigation data and trigger batched hint fetches when page load completes.
+// ---
+
 #include "chrome/browser/optimization_guide/optimization_guide_web_contents_observer.h"
 
 #include "base/task/single_thread_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test RequestCoordinator builder declaration
+// summary: Declares a helper for SetTestingFactory that returns a RequestCoordinator with a mocked store for tests.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_TEST_REQUEST_COORDINATOR_BUILDER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_TEST_REQUEST_COORDINATOR_BUILDER_H_
 

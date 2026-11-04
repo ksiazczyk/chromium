@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ResponseParser: parses Omaha update server XML responses'
+// summary: Parses XML responses from the Omaha update server into version configuration data, including update status, new version, download URL, and daystart values.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.text.TextUtils;

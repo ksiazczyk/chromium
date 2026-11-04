@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page evaluation bridge implementation
+// summary: Implements the JNI bridge that exposes native offline page model and request coordinator operations to Java for evaluation testing.
+// ---
+
 #include "chrome/browser/offline_pages/android/evaluation/offline_page_evaluation_bridge.h"
 
 #include <memory>

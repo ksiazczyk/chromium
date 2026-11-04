@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MHTML offline page archiver header
+// summary: Declares OfflinePageMHTMLArchiver, an OfflinePageArchiver that saves pages as MHTML files from loaded WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_MHTML_ARCHIVER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_MHTML_ARCHIVER_H_
 

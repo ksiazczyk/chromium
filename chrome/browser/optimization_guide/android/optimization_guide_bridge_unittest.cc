@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native unit tests for the Optimization Guide bridge
+// summary: Tests the bridge against a mock OptimizationGuideKeyedService, covering optimization type registration and decision callbacks through a Java native unit test.
+// ---
+
 #include "chrome/browser/optimization_guide/android/optimization_guide_bridge.h"
 
 #include "base/android/jni_android.h"

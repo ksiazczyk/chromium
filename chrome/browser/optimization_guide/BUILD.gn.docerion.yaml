@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for the optimization guide browser code
+summary: Defines source sets and dependencies for the Chrome optimization guide browser code, including hints, model execution, prediction, and on-device model installer targets.

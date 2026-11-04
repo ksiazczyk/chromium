@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model validator keyed service implementation
+// summary: Implements the keyed service that validates TFLite, server-side and on-device model execution when enabled via command-line switches, reading requests from and writing responses to files.
+// ---
+
 #include "chrome/browser/optimization_guide/model_validator_keyed_service.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmahaPrefUtils
+// summary: Defines the shared preference keys for Omaha state and exposes access to the Omaha SharedPreferences file.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.content.Context;

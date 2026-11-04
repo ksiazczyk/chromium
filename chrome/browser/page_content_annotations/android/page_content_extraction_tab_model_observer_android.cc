@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tab model observer for page content extraction
+// summary: Observes Android tab models to notify the extraction service about tab closures and to clean stale tabs from the on-disk cache.
+// ---
+
 #include "chrome/browser/page_content_annotations/android/page_content_extraction_tab_model_observer_android.h"
 
 #include <set>

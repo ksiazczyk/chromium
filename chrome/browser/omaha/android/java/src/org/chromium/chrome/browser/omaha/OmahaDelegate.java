@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmahaDelegate
+// summary: Abstract delegate that lets OmahaBase obtain scheduling, UUID generation, and request creation behavior from subclasses.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import org.chromium.build.annotations.NullMarked;

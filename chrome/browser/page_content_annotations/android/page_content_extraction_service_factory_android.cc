@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content extraction service factory Android JNI glue
+// summary: JNI glue that returns the per-profile page content extraction service instance to Java via the extraction service factory.
+// ---
+
 #include "chrome/browser/page_content_annotations/page_content_extraction_service_factory.h"
 
 #include "chrome/browser/page_content_annotations/android/page_content_extraction_service_android.h"

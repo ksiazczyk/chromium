@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MHTML archiver unit tests
+// summary: Unit tests covering MHTML archive creation scenarios including success, missing web contents, and archive failures.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_mhtml_archiver.h"
 
 #include <stdint.h>

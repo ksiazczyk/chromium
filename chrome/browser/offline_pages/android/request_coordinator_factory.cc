@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request coordinator factory
+// summary: Builds the per-profile RequestCoordinator keyed service, wiring the background loader offliner, policy, scheduler, and Android background scheduler bridge.
+// ---
+
 #include "chrome/browser/offline_pages/request_coordinator_factory.h"
 
 #include <memory>

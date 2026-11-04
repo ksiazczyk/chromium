@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Evaluation test scheduler implementation
+// summary: Implements EvaluationTestScheduler, which bypasses real scheduling and immediately processes queued save-page requests for offline page evaluation testing on Android.
+// ---
+
 #include "chrome/browser/offline_pages/android/evaluation/evaluation_test_scheduler.h"
 
 #include "base/check.h"

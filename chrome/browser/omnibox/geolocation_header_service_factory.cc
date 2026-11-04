@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation header service factory implementation
+// summary: Implements the profile-keyed service factory that builds GeolocationHeaderService with dependencies on content settings and template URL services.
+// ---
+
 #include "chrome/browser/omnibox/geolocation_header_service_factory.h"
 
 #include "base/no_destructor.h"

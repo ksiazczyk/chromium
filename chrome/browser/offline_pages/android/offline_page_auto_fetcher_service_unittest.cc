@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline page auto fetcher service unit tests
+// summary: Unit tests covering scheduling, cancellation and notification behavior of the auto fetcher service with mocked dependencies.
+// ---
+
 #include "chrome/browser/offline_pages/android/offline_page_auto_fetcher_service.h"
 
 #include <string>

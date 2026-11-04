@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock remote model executor header
+// summary: Declares a mock streaming session for RemoteModelExecutor so tests can observe sent frames and simulate WebSocket connection state changes without network access.
+// ---
+
 #ifndef CHROME_BROWSER_OPTIMIZATION_GUIDE_MOCK_REMOTE_MODEL_EXECUTOR_H_
 #define CHROME_BROWSER_OPTIMIZATION_GUIDE_MOCK_REMOTE_MODEL_EXECUTOR_H_
 

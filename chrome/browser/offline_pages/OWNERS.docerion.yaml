@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for offline_pages
+summary: Delegates code ownership review for this directory to components/offline_pages/OWNERS.

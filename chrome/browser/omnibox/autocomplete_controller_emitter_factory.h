@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete controller emitter service factory declaration
+// summary: Declares the AutocompleteControllerEmitterFactory keyed service factory with static accessors and BrowserContextKeyedServiceFactory overrides.
+// ---
+
 #ifndef CHROME_BROWSER_OMNIBOX_AUTOCOMPLETE_CONTROLLER_EMITTER_FACTORY_H_
 #define CHROME_BROWSER_OMNIBOX_AUTOCOMPLETE_CONTROLLER_EMITTER_FACTORY_H_
 

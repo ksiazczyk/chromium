@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the os_crypt directory
+summary: Specifies allowed include rules for the directory, covering elevation service headers and test-only dependencies for browsertests.

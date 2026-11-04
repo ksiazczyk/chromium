@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App-bound encryption Windows unit tests
+// summary: Unit tests that mock app-bound encryption overrides and verify support level behaviour, including disabling when FSLogix profile roaming is configured.
+// ---
+
 #include "chrome/browser/os_crypt/app_bound_encryption_win.h"
 
 #include <string>

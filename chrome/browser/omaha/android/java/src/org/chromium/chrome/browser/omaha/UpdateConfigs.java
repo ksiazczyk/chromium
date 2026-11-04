@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'UpdateConfigs: experiment parameters and testing switches for updates'
+// summary: Helper class for retrieving field trial and command-line configuration values for the update menu, and for manually forcing update states during testing.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.text.TextUtils;

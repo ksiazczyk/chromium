@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome model quality logs uploader service implementation
+// summary: Implements the Chrome-level model quality logs uploader that checks metrics consent, enterprise policy and per-feature logging before uploading logs, and populates system metadata.
+// ---
+
 #include "chrome/browser/optimization_guide/chrome_model_quality_logs_uploader_service.h"
 
 #include "base/metrics/histogram_functions.h"

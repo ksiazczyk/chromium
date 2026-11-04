@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for Windows app-bound encryption
+summary: Defines GN build targets for the Windows app-bound encryption sources, unit tests, browser tests, test support, and a test helper binary.

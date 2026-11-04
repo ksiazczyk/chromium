@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestData
+// summary: Holds parameters for a single XML request to the Omaha server, such as request ID, timestamps, and install source.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import org.chromium.build.annotations.NullMarked;

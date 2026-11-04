@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageURLLoaderRequestInterceptor class header
+// summary: Declares OfflinePageURLLoaderRequestInterceptor, which intercepts navigations and delegates them to an OfflinePageURLLoader.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_URL_LOADER_REQUEST_INTERCEPTOR_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_URL_LOADER_REQUEST_INTERCEPTOR_H_
 

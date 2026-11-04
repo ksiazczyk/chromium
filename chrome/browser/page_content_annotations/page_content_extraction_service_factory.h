@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content extraction service factory header
+// summary: Declares the singleton keyed service factory that owns and returns per-profile PageContentExtractionService instances.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_PAGE_CONTENT_EXTRACTION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_PAGE_CONTENT_EXTRACTION_SERVICE_FACTORY_H_
 

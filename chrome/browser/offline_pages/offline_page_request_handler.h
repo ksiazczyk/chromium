@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageRequestHandler header
+// summary: Declares the handler that serves trusted offline content on poor or absent networks, including its network states and delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_REQUEST_HANDLER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_REQUEST_HANDLER_H_
 

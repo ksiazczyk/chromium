@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page content annotations BUILD.gn build targets
+summary: Defines GN source sets and dependencies for the page content annotations, extraction, fetcher, screenshot, and embeddings services in Chrome.

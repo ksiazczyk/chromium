@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page share helper header
+// summary: Declares the OfflinePageShareHelper class, which retrieves the offline page content URI for sharing pages in the download home UI.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_ANDROID_DOWNLOADS_OFFLINE_PAGE_SHARE_HELPER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_ANDROID_DOWNLOADS_OFFLINE_PAGE_SHARE_HELPER_H_
 

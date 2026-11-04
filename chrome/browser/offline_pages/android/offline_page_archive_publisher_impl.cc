@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page archive publisher implementation
+// summary: Implements publishing saved offline page archives to the Android download manager or, on Android Q+, the downloads collection.
+// ---
+
 #include "chrome/browser/offline_pages/android/offline_page_archive_publisher_impl.h"
 
 #include <errno.h>

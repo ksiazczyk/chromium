@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome model quality logs uploader service unit tests
+// summary: Unit tests for the Chrome model quality logs uploader service, verifying system metadata population such as the dogfood client status under different variations service states.
+// ---
+
 #include "chrome/browser/optimization_guide/chrome_model_quality_logs_uploader_service.h"
 
 #include <memory>

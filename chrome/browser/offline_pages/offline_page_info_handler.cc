@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page info handler implementation
+// summary: Registers a session extended info handler that persists and restores offline page request headers on navigation entries.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_info_handler.h"
 
 #include "base/strings/string_util.h"

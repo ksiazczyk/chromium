@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundLoaderOffliner browser tests
+// summary: Browser tests covering how the offliner handles responses configured as file downloads, using an embedded test server serving a PDF attachment.
+// ---
+
 #include "chrome/browser/offline_pages/background_loader_offliner.h"
 
 #include <memory>

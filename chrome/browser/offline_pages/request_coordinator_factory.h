@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestCoordinator factory declaration
+// summary: Declares a profile-keyed service factory that provides a single RequestCoordinator per browser context for offline page requests.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_REQUEST_COORDINATOR_FACTORY_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_REQUEST_COORDINATOR_FACTORY_H_
 

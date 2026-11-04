@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content extraction service factory implementation
+// summary: Implements the profile-keyed factory that builds PageContentExtractionService instances with feature, platform, and Android observer handling.
+// ---
+
 #include "chrome/browser/page_content_annotations/page_content_extraction_service_factory.h"
 
 #include "base/no_destructor.h"

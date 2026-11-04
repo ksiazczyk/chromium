@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackingProvider
+// summary: Helper class that persists, retrieves, and clears the serialized update Tracking proto in shared preferences on a background task runner.
+// ---
+
 package org.chromium.chrome.browser.omaha.metrics;
 
 import android.util.Base64;

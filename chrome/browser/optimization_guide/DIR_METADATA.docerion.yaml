@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the optimization guide folder
+summary: Points the optimization guide directory to the shared component metadata mixins in components/optimization_guide.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model validator keyed service factory implementation
+// summary: Implements the profile-keyed factory that builds ModelValidatorKeyedService instances per browser context when the model validation flag is enabled.
+// ---
+
 #include "chrome/browser/optimization_guide/model_validator_keyed_service_factory.h"
 
 #include "base/no_destructor.h"

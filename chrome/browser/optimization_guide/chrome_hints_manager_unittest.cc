@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome hints manager
+// summary: Unit tests covering ChromeHintsManager hint fetching, tab URL provision, and prediction-driven behavior with test fixtures and fakes.
+// ---
+
 #include "chrome/browser/optimization_guide/chrome_hints_manager.h"
 
 #include "base/command_line.h"

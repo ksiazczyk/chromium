@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MHTML offline page archiver implementation
+// summary: Generates MHTML archives of web contents for offline page saving, computing digests and reporting results or failures.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_mhtml_archiver.h"
 
 #include <string>

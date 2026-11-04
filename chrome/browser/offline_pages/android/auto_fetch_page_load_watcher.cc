@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto fetch page load watcher implementation
+// summary: Implements the Android page load watcher that tracks tab navigations to complete or cancel pending auto-fetch offline page requests.
+// ---
+
 #include "chrome/browser/offline_pages/android/auto_fetch_page_load_watcher.h"
 
 #include <algorithm>

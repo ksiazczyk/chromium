@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenInAppUtils
+// summary: Utility class that reports whether Open in App is available based on the link capturing feature flag and desktop device type.
+// ---
+
 package org.chromium.chrome.browser.open_in_app;
 
 import org.chromium.base.DeviceInfo;

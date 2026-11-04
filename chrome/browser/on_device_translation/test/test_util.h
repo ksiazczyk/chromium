@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device translation test utilities header
+// summary: Declares MockComponentManager and TestInstallerAdapter plus helpers to install mock TranslateKit components and language packs when testing on-device translation.
+// ---
+
 #ifndef CHROME_BROWSER_ON_DEVICE_TRANSLATION_TEST_TEST_UTIL_H_
 #define CHROME_BROWSER_ON_DEVICE_TRANSLATION_TEST_TEST_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for on-device translation
+summary: Grants this directory include access to components/on_device_translation.

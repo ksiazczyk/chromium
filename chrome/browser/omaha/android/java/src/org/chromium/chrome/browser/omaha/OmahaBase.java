@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmahaBase
+// summary: Tracks Chrome's foreground state and schedules XML pings and update checks to the Omaha server, persisting status to disk.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

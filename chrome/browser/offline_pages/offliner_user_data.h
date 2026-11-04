@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinerUserData class header
+// summary: Declares OfflinerUserData, WebContents user data linking a tab to its BackgroundLoaderOffliner and resource loading observer.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_OFFLINER_USER_DATA_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_OFFLINER_USER_DATA_H_
 

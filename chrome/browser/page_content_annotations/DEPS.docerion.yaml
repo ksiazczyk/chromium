@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for page content annotations
+summary: Sets directory include rules allowing page_content_annotations/content plus extra PDF and paint preview includes for specific files.

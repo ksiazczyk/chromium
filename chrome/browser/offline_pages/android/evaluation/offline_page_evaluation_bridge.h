@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageEvaluationBridge class declaration
+// summary: Declares the JNI bridge class exposing offline page model and request coordinator functionality, including queue and save-page operations, to Java for evaluation.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_ANDROID_EVALUATION_OFFLINE_PAGE_EVALUATION_BRIDGE_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_ANDROID_EVALUATION_OFFLINE_PAGE_EVALUATION_BRIDGE_H_
 

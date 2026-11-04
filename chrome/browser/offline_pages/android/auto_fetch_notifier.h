@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto fetch notifier JNI declarations
+// summary: Declares functions for calling into AutoFetchNotifier.java to show, update and cancel auto-fetch notifications on Android.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_ANDROID_AUTO_FETCH_NOTIFIER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_ANDROID_AUTO_FETCH_NOTIFIER_H_
 

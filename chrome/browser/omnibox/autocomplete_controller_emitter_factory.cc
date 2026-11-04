@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete controller emitter service factory implementation
+// summary: Implements the browser-context keyed service factory that creates and provides AutocompleteControllerEmitter instances.
+// ---
+
 #include "chrome/browser/omnibox/autocomplete_controller_emitter_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

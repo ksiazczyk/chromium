@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide keyed service factory implementation
+// summary: Implements the profile-keyed factory that creates the Optimization Guide keyed service per profile and exposes an Android JNI bridge.
+// ---
+
 #include "chrome/browser/optimization_guide/optimization_guide_keyed_service_factory.h"
 
 #include "base/no_destructor.h"

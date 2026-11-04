@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android offline page utilities
+// summary: Implements Android-specific OfflinePageUtils helpers such as tab ID lookup, custom tab detection, duplicate download prompt, and downloading toast.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_utils.h"
 
 #include "chrome/browser/android/tab_android.h"
