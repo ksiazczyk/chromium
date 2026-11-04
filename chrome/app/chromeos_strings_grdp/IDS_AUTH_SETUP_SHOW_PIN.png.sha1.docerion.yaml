@@ -1,0 +1,4 @@
+# Docerion header of IDS_AUTH_SETUP_SHOW_PIN.png.sha1.
+type: data
+title: SHA1 checksum for IDS_AUTH_SETUP_SHOW_PIN
+summary: Stores the SHA-1 hash of the show PIN image used by ChromeOS string resources.

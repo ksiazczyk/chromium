@@ -1,0 +1,4 @@
+# Docerion header of IDS_CELLULAR_SETUP_ESIM_PAGE_CONFIRMATION_CODE_LOADING.png.sha1.
+type: asset
+title: SHA-1 hash for the eSIM confirmation code loading image
+summary: Stores the SHA-1 checksum of the PNG image for the confirmation code loading message in ChromeOS eSIM setup.

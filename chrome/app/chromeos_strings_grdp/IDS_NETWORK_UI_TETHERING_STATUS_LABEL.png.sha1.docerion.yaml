@@ -1,0 +1,4 @@
+# Docerion header of IDS_NETWORK_UI_TETHERING_STATUS_LABEL.png.sha1.
+type: asset
+title: SHA1 checksum for network UI tethering status label image
+summary: Holds the SHA1 hash of the PNG image used to verify the tethering status label string in the Chrome OS network UI.

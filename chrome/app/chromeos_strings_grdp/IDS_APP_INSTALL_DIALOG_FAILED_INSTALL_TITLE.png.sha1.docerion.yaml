@@ -1,0 +1,4 @@
+# Docerion header of IDS_APP_INSTALL_DIALOG_FAILED_INSTALL_TITLE.png.sha1.
+type: asset
+title: SHA-1 checksum for app install dialog failed install title image
+summary: Holds the SHA-1 hash of the PNG image associated with the failed install title string of the ChromeOS app install dialog.
