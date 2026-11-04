@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen captive portal dialog implementation
+// summary: Implements the lock screen captive portal dialog, disconnecting the network when the user closes it manually.
+// ---
+
 #include "chrome/browser/ui/webui/ash/lock_screen_reauth/lock_screen_captive_portal_dialog.h"
 
 #include "chrome/browser/profiles/profile.h"

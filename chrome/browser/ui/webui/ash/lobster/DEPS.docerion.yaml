@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Lobster include dependency rules
+summary: DEPS rules restricting includes for the directory, allowing only specific ash and chrome dependencies plus test-only exceptions.

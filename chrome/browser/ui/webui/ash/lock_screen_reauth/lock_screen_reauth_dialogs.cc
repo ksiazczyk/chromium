@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen start reauth dialog implementation
+// summary: Implements LockScreenStartReauthDialog, the singleton reauth dialog managing media access permissions, modal dialog hosting, and the network and captive portal sub-dialogs.
+// ---
+
 #include "chrome/browser/ui/webui/ash/lock_screen_reauth/lock_screen_reauth_dialogs.h"
 
 #include <algorithm>

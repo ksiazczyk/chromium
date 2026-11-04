@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote maintenance curtain WebUI implementation
+// summary: Implements the WebUI controller and configuration for the ChromeOS remote maintenance curtain screen, registering data sources, OOBE resources, and localized strings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/curtain_ui/remote_maintenance_curtain_ui.h"
 
 #include "ash/constants/webui_url_constants.h"

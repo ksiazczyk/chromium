@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmojiUI unit tests
+// summary: Unit tests for EmojiUI::ShouldShow covering picker visibility with and without an input client and under different focus behaviors.
+// ---
+
 #include "emoji_ui.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

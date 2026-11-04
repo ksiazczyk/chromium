@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP internals page handler class declaration
+// summary: Declares the DlpInternalsPageHandler class that implements the mojo PageHandler interface and observes DLP reporting events for the internals page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_DLP_INTERNALS_DLP_INTERNALS_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_DLP_INTERNALS_DLP_INTERNALS_PAGE_HANDLER_H_
 

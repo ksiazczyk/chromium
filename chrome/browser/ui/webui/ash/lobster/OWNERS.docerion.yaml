@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Lobster directory owners
+summary: Lists code owners for the directory and assigns IPC security owners to mojom and mojom traits files.

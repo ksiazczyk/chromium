@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Urgent password expiry notification handler implementation
+// summary: Implements the WebUI message handler for the urgent password expiry dialog, starting in-session password change on continue and resolving the remaining time until expiry for the title text.
+// ---
+
 #include "chrome/browser/ui/webui/ash/in_session_password_change/urgent_password_expiry_notification_handler.h"
 
 #include <string>

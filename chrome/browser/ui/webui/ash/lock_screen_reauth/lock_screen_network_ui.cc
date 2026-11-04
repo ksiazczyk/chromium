@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen network WebUI controller implementation
+// summary: Implements the WebUI controller for the lock screen network selection dialog, registering the data source, localized strings and the network config mojo interface binding.
+// ---
+
 #include "chrome/browser/ui/webui/ash/lock_screen_reauth/lock_screen_network_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change WebUI controller implementation
+// summary: Implements the PasswordChangeUI WebUI controller that registers the data source, message handlers, and dialog setup for in-session SAML password change.
+// ---
+
 #include "chrome/browser/ui/webui/ash/in_session_password_change/password_change_ui.h"
 
 #include <memory>

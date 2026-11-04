@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen start reauth WebUI controller declaration
+// summary: Declares the WebUI config and controller classes for the lock screen reauth dialog, which require local state, locale storage and policy connector dependencies.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOCK_SCREEN_REAUTH_LOCK_SCREEN_START_REAUTH_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOCK_SCREEN_REAUTH_LOCK_SCREEN_START_REAUTH_UI_H_
 

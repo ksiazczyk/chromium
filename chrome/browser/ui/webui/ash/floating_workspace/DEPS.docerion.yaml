@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for floating workspace WebUI
+summary: Restricts which Chrome and ash headers this directory may include, with extra allowances for the UI implementation and a note about ongoing refactoring.

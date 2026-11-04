@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for the firmware update WebUI
+// summary: Interactive browser tests for the ChromeOS firmware update app that drive update flows through a fake Fwupd client.
+// ---
+
 #include "ash/constants/ash_switches.h"
 #include "ash/webui/firmware_update_ui/url_constants.h"
 #include "chrome/test/base/ash/interactive/interactive_ash_test.h"

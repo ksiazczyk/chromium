@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating workspace dialog class declaration
+// summary: Declares the FloatingWorkspaceDialog system web dialog with default, network, and error states plus static methods to show, close, and query it.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_FLOATING_WORKSPACE_FLOATING_WORKSPACE_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_FLOATING_WORKSPACE_FLOATING_WORKSPACE_DIALOG_H_
 

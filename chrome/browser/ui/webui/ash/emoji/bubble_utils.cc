@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji picker bubble placement utilities implementation
+// summary: Implements GetBubbleBoundsAroundCaret, which positions the emoji picker bubble near the caret while keeping it fully on screen.
+// ---
+
 #include "chrome/browser/ui/webui/ash/emoji/bubble_utils.h"
 
 #include "ui/display/screen.h"

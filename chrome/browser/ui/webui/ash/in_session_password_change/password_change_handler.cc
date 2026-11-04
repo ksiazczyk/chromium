@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change WebUI message handler implementation
+// summary: Implements the WebUI handler that initializes the password change page with URL and user name and forwards scraped passwords to the change manager.
+// ---
+
 #include "chrome/browser/ui/webui/ash/in_session_password_change/password_change_handler.h"
 
 #include <string>

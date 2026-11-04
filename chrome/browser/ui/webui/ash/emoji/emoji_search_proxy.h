@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji search proxy header
+// summary: Declares EmojiSearchProxy, the Mojo receiver that exposes emoji search functionality from the emoji search component to the emoji picker WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_EMOJI_EMOJI_SEARCH_PROXY_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_EMOJI_EMOJI_SEARCH_PROXY_H_
 

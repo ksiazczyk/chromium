@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LauncherInternalsUI controller implementation
+// summary: Implements the WebUI controller that serves the launcher internals page, sets up its data source, and binds the Mojo page handler factory.
+// ---
+
 #include "chrome/browser/ui/webui/ash/launcher_internals/launcher_internals_ui.h"
 
 #include "ash/constants/webui_url_constants.h"

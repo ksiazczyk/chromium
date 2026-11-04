@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Extended Updates WebUI include dependency rules
+summary: Sets include_rules for the directory, blocking //chrome dependencies while allowing specific ash and ChromeOS includes needed by the Extended Updates UI.

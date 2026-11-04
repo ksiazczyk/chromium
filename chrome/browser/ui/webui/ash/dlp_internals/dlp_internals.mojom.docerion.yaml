@@ -1,0 +1,4 @@
+# Docerion header of dlp_internals.mojom.
+type: source
+title: Mojo interface definitions for the DLP internals page
+summary: Defines enums, structs and interfaces describing data transfer endpoints, content restrictions, DLP policy events and the page handler used by the DLP internals WebUI.

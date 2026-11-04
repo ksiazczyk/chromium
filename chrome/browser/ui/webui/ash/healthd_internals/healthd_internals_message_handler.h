@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Healthd internals message handler header
+// summary: Declares the HealthdInternalsMessageHandler class, which handles feature flag, telemetry, process, and CrosSystem info requests from the WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_HEALTHD_INTERNALS_HEALTHD_INTERNALS_MESSAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_HEALTHD_INTERNALS_HEALTHD_INTERNALS_MESSAGE_HANDLER_H_
 

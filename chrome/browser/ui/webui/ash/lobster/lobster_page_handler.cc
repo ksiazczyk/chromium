@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster page handler implementation
+// summary: Implements the mojom page handler, delegating candidate requests, downloads, inserts, feedback, and UI actions to LobsterSession.
+// ---
+
 #include "chrome/browser/ui/webui/ash/lobster/lobster_page_handler.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of new_window_proxy.mojom.
+type: source
+title: New window proxy Mojo interface
+summary: Defines the NewWindowProxy Mojo interface used by the emoji picker WebUI to request opening a URL in a new browser tab.

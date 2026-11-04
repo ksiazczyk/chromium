@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for drive_internals
+summary: Defines the drive_internals static library target, listing its source files and dependencies on Chrome OS, Drive, DriveFS, and content components.

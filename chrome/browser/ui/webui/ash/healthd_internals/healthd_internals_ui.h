@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Healthd internals WebUI controller header
+// summary: Declares the healthd internals WebUI controller and its WebUIConfig that bind the diagnostics page to its host in Ash Chrome.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_HEALTHD_INTERNALS_HEALTHD_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_HEALTHD_INTERNALS_HEALTHD_INTERNALS_UI_H_
 

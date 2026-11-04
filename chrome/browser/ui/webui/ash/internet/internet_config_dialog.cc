@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InternetConfigDialog implementation for network configuration
+// summary: Implements the network configuration system dialog, adding localized strings and showing dialogs by network id, type, or prefilled Wi-Fi config.
+// ---
+
 #include "chrome/browser/ui/webui/ash/internet/internet_config_dialog.h"
 
 #include "ash/constants/url_constants.h"

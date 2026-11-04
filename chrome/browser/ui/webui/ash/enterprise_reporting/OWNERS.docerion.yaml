@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the enterprise reporting directory
+summary: Delegates ownership to the reporting component owners and assigns IPC security owners with noparent review for Mojo files.

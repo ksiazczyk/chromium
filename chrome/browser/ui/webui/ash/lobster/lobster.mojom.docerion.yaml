@@ -1,0 +1,4 @@
+# Docerion header of lobster.mojom.
+type: source
+title: Lobster Mojo interface definitions
+summary: Defines the UntrustedLobsterPageHandler interface plus structs and enums for candidates, errors, feedback, and metric events.

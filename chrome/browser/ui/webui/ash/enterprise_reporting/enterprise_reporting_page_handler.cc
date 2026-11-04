@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise reporting page handler implementation
+// summary: Implements the browser-side Mojo page handler that records and reads debug state and streams ERP history from the missive HistoryTracker to the WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/enterprise_reporting/enterprise_reporting_page_handler.h"
 
 #include "base/memory/scoped_refptr.h"

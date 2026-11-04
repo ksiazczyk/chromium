@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Healthd internals message handler implementation
+// summary: Implements the WebUI message handler for the healthd internals diagnostics page, converting cros_healthd probe results such as battery, CPU, thermal and process data into displayable values.
+// ---
+
 #include "chrome/browser/ui/webui/ash/healthd_internals/healthd_internals_message_handler.h"
 
 #include <cstdint>

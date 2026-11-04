@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtendedUpdatesUI header
+// summary: Declares the ExtendedUpdatesUI Web dialog controller and its WebUIConfig for the ChromeOS extended updates dialog, including Mojo page handler factory binding.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_EXTENDED_UPDATES_EXTENDED_UPDATES_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_EXTENDED_UPDATES_EXTENDED_UPDATES_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KerberosInBrowserUI and config class declarations
+// summary: Declares the WebDialogUI subclass and its ChromeOS WebUI config used when Kerberos authentication fails in the browser.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_KERBEROS_KERBEROS_IN_BROWSER_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_KERBEROS_KERBEROS_IN_BROWSER_UI_H_
 

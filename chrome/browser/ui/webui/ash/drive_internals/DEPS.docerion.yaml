@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for drive_internals
+summary: Sets include dependency rules that block //chrome dependencies by default and whitelist the specific Chrome and ash headers this directory may use.

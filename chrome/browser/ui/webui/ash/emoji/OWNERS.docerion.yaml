@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the emoji picker WebUI directory
+summary: Lists the directory's code owners and requires security owners' approval for changes to Mojom files.

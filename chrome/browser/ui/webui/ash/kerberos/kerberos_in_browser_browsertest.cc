@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Kerberos in-browser dialog
+// summary: In-process browser tests verifying that the dialog's cancel and settings buttons close the dialog and open the OS settings app as expected.
+// ---
+
 #include <string>
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base lock dialog implementation
+// summary: Implements BaseLockDialog, a frameless modal system dialog whose size fits the primary display.
+// ---
+
 #include "chrome/browser/ui/webui/ash/lock_screen_reauth/base_lock_dialog.h"
 
 #include "ui/base/mojom/ui_base_types.mojom-shared.h"

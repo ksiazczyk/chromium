@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for edu_coexistence
+summary: Restricts Chromium includes for the directory, allowing only listed ash and chrome dependencies plus extra test-only headers for the browser test.

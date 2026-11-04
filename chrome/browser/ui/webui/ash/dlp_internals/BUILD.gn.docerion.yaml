@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the DLP internals WebUI
+summary: Defines the static library and Mojo bindings targets, sources and dependencies used to build the DLP internals debugging page for ChromeOS.

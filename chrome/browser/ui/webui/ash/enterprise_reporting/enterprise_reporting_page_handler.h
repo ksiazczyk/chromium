@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise reporting page handler class declaration
+// summary: Declares EnterpriseReportingPageHandler, a Mojo PageHandler and HistoryTracker observer that pushes converted ERP history data to the reporting page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_ENTERPRISE_REPORTING_ENTERPRISE_REPORTING_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_ENTERPRISE_REPORTING_ENTERPRISE_REPORTING_PAGE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended Updates dialog class header
+// summary: Declares the ExtendedUpdatesDialog class, a SystemWebDialogDelegate that displays the Extended Updates opt-in flow on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_EXTENDED_UPDATES_EXTENDED_UPDATES_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_EXTENDED_UPDATES_EXTENDED_UPDATES_DIALOG_H_
 

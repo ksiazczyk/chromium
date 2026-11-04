@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ERP history converter implementation
+// summary: Converts reporting ERPHealthData protobuf records such as queue, enqueue, flush, confirm, and upload calls into Mojo ErpHistoryEvent data for display.
+// ---
+
 #include "chrome/browser/ui/webui/ash/enterprise_reporting/history_converter.h"
 
 #include "base/strings/strcat.h"

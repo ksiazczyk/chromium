@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for enterprise reporting
+summary: Restricts includes in the directory, blocking //chrome dependencies except for explicitly allowed ash policy, profile, grit, and the directory's own headers.

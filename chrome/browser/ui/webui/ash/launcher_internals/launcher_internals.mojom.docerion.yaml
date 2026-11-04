@@ -1,0 +1,4 @@
+# Docerion header of launcher_internals.mojom.
+type: source
+title: Mojom interfaces for the launcher internals page
+summary: Defines the Result struct and the Mojo interfaces that pass launcher search results and queries between the browser handler and the internals WebUI page.

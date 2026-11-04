@@ -1,0 +1,4 @@
+# Docerion header of emoji_picker.mojom.
+type: source
+title: Emoji picker Mojo interface definitions
+summary: Defines the Mojo enums, structs, and PageHandler interfaces connecting the emoji picker WebUI to its browser-side handler, including emoji and GIF insertion and Tenor GIF search.

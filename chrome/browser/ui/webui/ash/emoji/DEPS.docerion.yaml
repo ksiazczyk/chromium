@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the emoji picker WebUI directory
+summary: Specifies allowed include dependencies for the directory, restricting ChromeOS code from depending on //chrome except for listed exceptions.

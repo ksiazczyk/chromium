@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EDU coexistence login handler class declaration
+// summary: Declares the EduCoexistenceLoginHandler WebUI message handler that manages the EDU account login flow, OAuth token fetching, and error state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_EDU_COEXISTENCE_EDU_COEXISTENCE_LOGIN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_EDU_COEXISTENCE_EDU_COEXISTENCE_LOGIN_HANDLER_H_
 

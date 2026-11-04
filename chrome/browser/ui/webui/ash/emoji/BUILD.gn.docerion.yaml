@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for the ChromeOS emoji picker WebUI
+summary: Defines GN build targets for the emoji picker WebUI, including Mojo bindings, the emoji static library, and its unit tests.

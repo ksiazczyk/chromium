@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster bubble view implementation
+// summary: Implements the Lobster bubble dialog, handling auto-resizing, onscreen placement around the caret, and optional dragging support.
+// ---
+
 #include "chrome/browser/ui/webui/ash/lobster/lobster_view.h"
 
 #include "ash/constants/ash_features.h"

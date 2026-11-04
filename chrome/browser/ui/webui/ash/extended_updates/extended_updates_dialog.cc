@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended Updates dialog implementation
+// summary: Implements the system web dialog for the Extended Updates opt-in flow, including eligibility checks, dialog sizing, focus handling, and metrics recording.
+// ---
+
 #include "chrome/browser/ui/webui/ash/extended_updates/extended_updates_dialog.h"
 
 #include <string>

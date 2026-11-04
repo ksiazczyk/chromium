@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ash internet dialog library
+summary: Defines the static library target for the ash internet config and detail dialogs, listing their sources and ChromeOS WebUI dependencies.

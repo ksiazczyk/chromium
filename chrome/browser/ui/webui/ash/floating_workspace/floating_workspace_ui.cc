@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating workspace WebUI controller implementation
+// summary: Implements the WebUI controller and its config, setting up the data source, theme source, localized strings, and network configuration bindings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/floating_workspace/floating_workspace_ui.h"
 
 #include <memory>

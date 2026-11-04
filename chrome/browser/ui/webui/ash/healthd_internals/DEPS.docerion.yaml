@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for healthd internals
+summary: Sets include rules that block //chrome dependencies for ChromeOS while allowing this directory's own headers and a few specific existing //chrome includes.

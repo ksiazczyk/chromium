@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InternetConfigDialog header declaring the config dialog WebUI
+// summary: Declares InternetConfigDialog, its WebUIConfig, and the MojoWebDialogUI that hosts the network configuration UI on the login screen and system tray.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_INTERNET_INTERNET_CONFIG_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_INTERNET_INTERNET_CONFIG_DIALOG_H_
 

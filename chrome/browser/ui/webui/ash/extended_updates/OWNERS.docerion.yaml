@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Extended Updates WebUI code owners
+summary: Points to the ash extended updates owners and assigns IPC security owners as noparent owners for mojom files.

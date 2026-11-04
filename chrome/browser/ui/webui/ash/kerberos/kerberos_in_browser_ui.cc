@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Kerberos in-browser WebUI
+// summary: Creates the WebUI data source for the Kerberos dialog and registers its localized strings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/kerberos/kerberos_in_browser_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating workspace dialog implementation
+// summary: Implements the system modal dialog shown at ChromeOS startup while floating workspace fetches session state, handling dialog size, closure reasons, and metrics.
+// ---
+
 #include "chrome/browser/ui/webui/ash/floating_workspace/floating_workspace_dialog.h"
 
 #include <string>

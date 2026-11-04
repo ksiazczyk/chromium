@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EDU coexistence state tracker class declaration
+// summary: Declares the EduCoexistenceStateTracker singleton with its flow result enum and consent callback API for the EDU coexistence flow.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_EDU_COEXISTENCE_EDU_COEXISTENCE_STATE_TRACKER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_EDU_COEXISTENCE_EDU_COEXISTENCE_STATE_TRACKER_H_
 

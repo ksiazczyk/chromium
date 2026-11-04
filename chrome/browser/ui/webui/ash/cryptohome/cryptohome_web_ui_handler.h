@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome WebUI handler header
+// summary: Declares the WebUI message handler class that handles page load messages and cryptohome, TPM and PKCS#11 D-Bus callbacks for the cryptohome page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_CRYPTOHOME_CRYPTOHOME_WEB_UI_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_CRYPTOHOME_CRYPTOHOME_WEB_UI_HANDLER_H_
 

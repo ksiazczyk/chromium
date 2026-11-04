@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the emoji picker page handler
+// summary: Unit tests verifying that the emoji page handler stores and reads emoji history and preferred variants in profile preferences.
+// ---
+
 #include "chrome/browser/ui/webui/ash/emoji/emoji_page_handler.h"
 
 #include "ash/constants/ash_pref_names.h"

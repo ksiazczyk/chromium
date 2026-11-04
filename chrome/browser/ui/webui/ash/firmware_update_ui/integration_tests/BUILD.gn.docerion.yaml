@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for firmware update interactive UI tests
+summary: Defines the interactive_ui_tests source set with the firmware update UI test sources and dependencies for ChromeOS.

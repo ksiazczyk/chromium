@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the launcher internals WebUI
+summary: GN build file that defines the Mojom bindings target and the static library with its dependencies for the ChromeOS launcher internals WebUI.

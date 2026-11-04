@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics dialog implementation
+// summary: Implements the ChromeOS DiagnosticsDialog, mapping diagnostics pages to URLs, closing existing instances, and sizing the dialog from the primary display.
+// ---
+
 #include "chrome/browser/ui/webui/ash/diagnostics_dialog/diagnostics_dialog.h"
 
 #include <string>

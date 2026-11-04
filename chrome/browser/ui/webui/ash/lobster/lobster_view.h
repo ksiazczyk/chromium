@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster bubble view class declaration
+// summary: Declares LobsterView, a draggable WebUI bubble dialog view positioned around the target input field's caret bounds.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOBSTER_LOBSTER_VIEW_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOBSTER_LOBSTER_VIEW_H_
 

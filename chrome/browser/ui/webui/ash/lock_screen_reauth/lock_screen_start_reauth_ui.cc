@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen start reauth WebUI controller implementation
+// summary: Implements the WebUI controller for the lock screen reauth dialog, wiring the reauth handler, metrics handler, theme source and localized strings for the sign-in page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/lock_screen_reauth/lock_screen_start_reauth_ui.h"
 
 #include <memory>

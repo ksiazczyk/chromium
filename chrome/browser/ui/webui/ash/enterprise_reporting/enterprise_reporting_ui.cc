@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise reporting WebUI controller implementation
+// summary: Implements the ChromeOS enterprise reporting WebUI controller, registering the page's data source and populating device information such as version, client ID, directory ID, and enrollment domain.
+// ---
+
 #include "chrome/browser/ui/webui/ash/enterprise_reporting/enterprise_reporting_ui.h"
 
 #include "ash/constants/ash_features.h"

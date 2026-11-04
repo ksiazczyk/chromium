@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome UI controller implementation
+// summary: Implements the cryptohome WebUI controller, registering the message handler and creating the HTML data source that serves the page's resources.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cryptohome/cryptohome_ui.h"
 
 #include <memory>

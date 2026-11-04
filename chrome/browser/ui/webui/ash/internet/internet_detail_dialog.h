@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InternetDetailDialog header declaring the detail dialog WebUI
+// summary: Declares InternetDetailDialog, its WebUIConfig, and the WebUI hosting network details such as proxy, IP address, and nameserver settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_INTERNET_INTERNET_DETAIL_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_INTERNET_INTERNET_DETAIL_DIALOG_H_
 

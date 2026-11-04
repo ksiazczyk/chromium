@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Extended Updates WebUI build configuration
+summary: Defines the GN build targets for the ChromeOS Extended Updates WebUI, including Mojo bindings generation and the static library with its dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EDU coexistence login handler implementation
+// summary: Implements the WebUI message handler for the EDU account coexistence login flow, covering initialization arguments, OAuth token fetching, consent logging, and error reporting.
+// ---
+
 #include "chrome/browser/ui/webui/ash/edu_coexistence/edu_coexistence_login_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for edu_coexistence
+summary: Delegates code ownership and review to the child_accounts OWNERS file.
