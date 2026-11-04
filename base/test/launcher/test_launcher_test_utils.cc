@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test launcher test utilities implementation
+// summary: Implements helpers that validate key-value pairs, test results, test locations and the summary JSON produced by the test launcher during its own tests.
+// ---
+
 #include "base/test/launcher/test_launcher_test_utils.h"
 
 #include <optional>

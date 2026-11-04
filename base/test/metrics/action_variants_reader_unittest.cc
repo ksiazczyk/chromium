@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action variants reader unit tests
+// summary: Unit tests covering variant parsing for actions with single, multiple, inline, mixed, and missing tokens, including separator handling.
+// ---
+
 #include "base/test/metrics/action_variants_reader.h"
 
 #include <string>

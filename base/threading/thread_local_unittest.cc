@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThreadLocal unit tests
+// summary: Unit tests for ThreadLocalOwnedPointer covering basic set and get, cleanup on thread exit, destruction on the main thread and death tests for invalid destruction.
+// ---
+
 #include "base/threading/thread_local.h"
 
 #include <optional>

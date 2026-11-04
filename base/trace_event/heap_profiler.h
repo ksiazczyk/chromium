@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heap profiler macros for task execution tracking
+// summary: Defines heap profiler macros and scoped trackers that record task execution context for allocation samples, plus a scoped ignore helper for excluding tracing allocations.
+// ---
+
 #ifndef BASE_TRACE_EVENT_HEAP_PROFILER_H_
 #define BASE_TRACE_EVENT_HEAP_PROFILER_H_
 

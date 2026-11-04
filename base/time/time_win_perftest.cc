@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows wall clock performance test
+// summary: Benchmarks and compares the performance of GetSystemTimePreciseAsFileTime versus GetSystemTimeAsFileTime for retrieving the Windows wall clock time.
+// ---
+
 #include "base/time/time.h"
 
 #include <windows.h>

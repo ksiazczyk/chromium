@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test launcher tracer implementation
+// summary: Implements a thread-safe tracer that records test process execution events and dumps them as JSON for trace viewing.
+// ---
+
 #include "base/test/launcher/test_launcher_tracer.h"
 
 #include "base/json/json_file_value_serializer.h"

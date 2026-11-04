@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Measured memory dump provider info header
+// summary: Declares MeasuredMemoryDumpProviderInfo, which wraps a dump provider with per-dump performance metadata and a status enum for metrics.
+// ---
+
 #ifndef BASE_TRACE_EVENT_MEASURED_MEMORY_DUMP_PROVIDER_INFO_H_
 #define BASE_TRACE_EVENT_MEASURED_MEMORY_DUMP_PROVIDER_INFO_H_
 

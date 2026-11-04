@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PlatformThread
+// summary: Unit tests covering PlatformThread create, join, detach, thread types, priorities, and platform-specific behaviors.
+// ---
+
 #include "base/threading/platform_thread.h"
 
 #include <stddef.h>

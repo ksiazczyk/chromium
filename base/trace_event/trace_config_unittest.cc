@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TraceConfig unit tests
+// summary: Unit tests verifying TraceConfig parsing from legacy and dictionary formats, category filtering, record modes, and memory dump configuration.
+// ---
+
 #include "base/trace_event/trace_config.h"
 
 #include <stddef.h>

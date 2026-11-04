@@ -1,0 +1,4 @@
+# Docerion header of clean-up-not-fatal-until.py.
+type: script
+title: Clean-up script for base::NotFatalUntil milestones
+summary: Python tool that removes base::NotFatalUntil milestone arguments, header entries, includes and unreachable code from Chromium sources up to a given milestone.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Timer unit tests
+// summary: Extensive unit tests for the base timers across main thread types, covering one-shot, repeating, cancellation, self-deleting timers, and mock time behavior.
+// ---
+
 #include "base/timer/timer.h"
 
 #include <stddef.h>

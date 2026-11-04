@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action variants reader implementation
+// summary: Implements parsing of variant definitions for user actions from actions.xml so tests can verify the variants logged for an action.
+// ---
+
 #include "base/test/metrics/action_variants_reader.h"
 
 #include <map>

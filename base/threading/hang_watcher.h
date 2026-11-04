@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HangWatcher and WatchHangsInScope declarations
+// summary: Declares the WatchHangsInScope RAII scope for registering monitored code and the HangWatcher class that periodically checks registered threads for deadline overruns.
+// ---
+
 #ifndef BASE_THREADING_HANG_WATCHER_H_
 #define BASE_THREADING_HANG_WATCHER_H_
 

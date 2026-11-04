@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perfetto interned argument helpers implementation
+// summary: Implements helpers that add interned Perfetto trace data such as source locations, log messages, build IDs, mapping paths and mappings.
+// ---
+
 #include "base/trace_event/interned_args_helper.h"
 
 #include "third_party/perfetto/include/perfetto/tracing/track_event_interned_data_index.h"

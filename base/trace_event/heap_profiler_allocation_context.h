@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocation context data structures
+// summary: Declares StackFrame, Backtrace, AllocationContext and AllocationMetrics structures that describe the context metadata captured for each allocation during heap profiling.
+// ---
+
 #ifndef BASE_TRACE_EVENT_HEAP_PROFILER_ALLOCATION_CONTEXT_H_
 #define BASE_TRACE_EVENT_HEAP_PROFILER_ALLOCATION_CONTEXT_H_
 

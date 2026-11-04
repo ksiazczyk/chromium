@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostTaskAndReply relay implementation
+// summary: Implements the PostTaskAndReplyRelay destructor that ensures task and reply callbacks are deleted on the origin sequence, covering shutdown and posting-failure cases.
+// ---
+
 #include "base/threading/post_task_and_reply_impl.h"
 
 #include <utility>

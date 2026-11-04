@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory dump provider info wrapper header
+// summary: Declares the ref-counted MemoryDumpProviderInfo wrapper that pairs a memory dump provider with its task runner, options, name, and lifetime bookkeeping for the memory dump manager.
+// ---
+
 #ifndef BASE_TRACE_EVENT_MEMORY_DUMP_PROVIDER_INFO_H_
 #define BASE_TRACE_EVENT_MEMORY_DUMP_PROVIDER_INFO_H_
 

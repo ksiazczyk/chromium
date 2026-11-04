@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perfetto proto appender implementation
+// summary: Implements PerfettoProtoAppender, which collects memory buffer ranges and appends them as scattered bytes to a Perfetto DebugAnnotation proto field.
+// ---
+
 #include "base/trace_event/perfetto_proto_appender.h"
 
 #include <stddef.h>

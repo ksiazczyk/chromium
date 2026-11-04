@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HighResolutionTimerManager class declaration
+// summary: Declares a power state observer that ensures the Windows high-resolution timer is only used when the device is not on battery power.
+// ---
+
 #ifndef BASE_TIMER_HI_RES_TIMER_MANAGER_H_
 #define BASE_TIMER_HI_RES_TIMER_MANAGER_H_
 

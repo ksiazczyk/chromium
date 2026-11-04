@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequence local storage map implementation
+// summary: Implements the per-sequence SequenceLocalStorageMap with slot-based value storage, associated destructors and thread-local access for the current thread.
+// ---
+
 #include "base/threading/sequence_local_storage_map.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceConfig class header
+// summary: Declares TraceConfig with trace record modes, memory dump configuration, process filter and event filter settings for tracing sessions.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TRACE_CONFIG_H_
 #define BASE_TRACE_EVENT_TRACE_CONFIG_H_
 

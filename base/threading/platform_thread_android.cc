@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android PlatformThread implementation
+// summary: Implements PlatformThread for Android with configurable thread priority features and CPU affinity restrictions that keep less important threads off big core clusters.
+// ---
+
 #include "base/threading/platform_thread.h"
 
 #include <errno.h>

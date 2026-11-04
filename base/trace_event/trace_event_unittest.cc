@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trace event unit tests
+// summary: Extensive unit tests for trace event collection, category enabling, event matching, and trace flushing using a dedicated test fixture.
+// ---
+
 #include "base/trace_event/trace_event.h"
 
 #include <inttypes.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock timer class declarations
+// summary: Declares MockOneShotTimer, MockRepeatingTimer, and MockRetainingOneShotTimer test doubles that require explicit Fire() calls, noting TaskEnvironment MOCK_TIME as the preferred alternative.
+// ---
+
 #ifndef BASE_TIMER_MOCK_TIMER_H_
 #define BASE_TIMER_MOCK_TIMER_H_
 

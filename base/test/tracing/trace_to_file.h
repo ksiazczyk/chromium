@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trace-to-file helper header
+// summary: Declares the TraceToFile class for beginning and ending tracing and writing trace events to a file.
+// ---
+
 #ifndef BASE_TEST_TRACING_TRACE_TO_FILE_H_
 #define BASE_TEST_TRACING_TRACE_TO_FILE_H_
 

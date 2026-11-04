@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Malloc dump provider header
+// summary: Declares the singleton MallocDumpProvider that reports allocator stats for malloc, PartitionAlloc, and WinHeap dumps, plus Extreme LUD stats callbacks.
+// ---
+
 #ifndef BASE_TRACE_EVENT_MALLOC_DUMP_PROVIDER_H_
 #define BASE_TRACE_EVENT_MALLOC_DUMP_PROVIDER_H_
 

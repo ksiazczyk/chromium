@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test launcher tracer header
+// summary: Declares TestLauncherTracer, a thread-safe recorder of test process execution events that can dump trace data as JSON.
+// ---
+
 #ifndef BASE_TEST_LAUNCHER_TEST_LAUNCHER_TRACER_H_
 #define BASE_TEST_LAUNCHER_TEST_LAUNCHER_TRACER_H_
 

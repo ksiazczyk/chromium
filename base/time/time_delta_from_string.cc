@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Duration string parser implementation
+// summary: Parses duration strings such as "300ms" or "2h45m" into TimeDelta values, adapted from Abseil's duration parsing helpers.
+// ---
+
 #include "base/time/time_delta_from_string.h"
 
 #include <limits>

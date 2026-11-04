@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceLog tracing singleton header
+// summary: Declares the TraceLog singleton that enables and disables tracing with legacy or Perfetto configs and flushes or discards collected trace events.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TRACE_LOG_H_
 #define BASE_TRACE_EVENT_TRACE_LOG_H_
 

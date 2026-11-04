@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadLocal internal helpers
+// summary: Internal header defining CheckedThreadLocalOwnedPointer, a debug-only wrapper that verifies thread-local owned pointers are not destroyed while other threads still hold state in them.
+// ---
+
 #ifndef BASE_THREADING_THREAD_LOCAL_INTERNAL_H_
 #define BASE_THREADING_THREAD_LOCAL_INTERNAL_H_
 

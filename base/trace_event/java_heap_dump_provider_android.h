@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java heap dump provider for Android header
+// summary: Declares JavaHeapDumpProvider, a singleton memory dump provider that collects process-wide Java heap memory stats on Android.
+// ---
+
 #ifndef BASE_TRACE_EVENT_JAVA_HEAP_DUMP_PROVIDER_ANDROID_H_
 #define BASE_TRACE_EVENT_JAVA_HEAP_DUMP_PROVIDER_ANDROID_H_
 

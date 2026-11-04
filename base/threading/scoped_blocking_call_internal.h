@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedBlockingCall internal interfaces and IO jank monitoring
+// summary: Declares the BlockingObserver interface, observer registration functions, and the IOJankMonitoringWindow class used to monitor and report I/O jank.
+// ---
+
 #ifndef BASE_THREADING_SCOPED_BLOCKING_CALL_INTERNAL_H_
 #define BASE_THREADING_SCOPED_BLOCKING_CALL_INTERNAL_H_
 

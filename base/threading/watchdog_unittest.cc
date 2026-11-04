@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Watchdog unit tests
+// summary: Unit tests for Watchdog covering startup and shutdown, arm and disarm cycles, alarm firing, and disabled watchdog behavior.
+// ---
+
 #include "base/threading/watchdog.h"
 
 #include <atomic>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory dump scheduler implementation
+// summary: Implements the singleton scheduler that periodically issues memory dump callbacks at light and detailed levels of detail based on configured trigger periods.
+// ---
+
 #include "base/trace_event/memory_dump_scheduler.h"
 
 #include <algorithm>

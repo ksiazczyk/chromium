@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace session observer list declaration
+// summary: Declares TraceSessionObserver and a thread-safe observer list that notifies registered observers about Perfetto trace session lifecycle events on their registration sequence.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TRACE_SESSION_OBSERVER_H_
 #define BASE_TRACE_EVENT_TRACE_SESSION_OBSERVER_H_
 

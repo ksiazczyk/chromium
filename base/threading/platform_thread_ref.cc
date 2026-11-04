@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformThreadRef stream output operator
+// summary: Defines the ostream output operator for PlatformThreadRef, printing the underlying thread reference id.
+// ---
+
 #include "base/threading/platform_thread_ref.h"
 
 #include <ostream>

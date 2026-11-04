@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram scope flow ID implementation
+// summary: Implements HistogramScope, storing a thread-local flow ID that associates histograms emitted in the current scope with traces.
+// ---
+
 #include "base/trace_event/histogram_scope.h"
 
 #include "base/check_op.h"

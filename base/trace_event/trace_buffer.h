@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceResultBuffer class header
+// summary: Declares TraceResultBuffer and its SimpleOutput helper for converting trace fragments into complete JSON output.
+// ---
+
 
 #ifndef BASE_TRACE_EVENT_TRACE_BUFFER_H_
 #define BASE_TRACE_EVENT_TRACE_BUFFER_H_

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for elapsed timers
+// summary: Unit tests covering elapsed measurement, optional now-output parameters, mocking, thread-tick support and sleep detection for the elapsed timer classes.
+// ---
+
 #include "base/timer/elapsed_timer.h"
 
 #include <concepts>

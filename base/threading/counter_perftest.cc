@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Counter increment performance test
+// summary: Measures the throughput of incrementing counters implemented with a lock, without a lock, and as atomics with or without memory barriers to guide counter implementation choices.
+// ---
+
 #include <atomic>
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceLogging minimal ETW provider implementation
+// summary: Implements TlmProvider, a Windows ETW provider that registers with Event Tracing for Windows and emits TraceLogging events with runtime-configurable names, levels and keywords.
+// ---
+
 #include "base/trace_event/trace_logging_minimal_win.h"
 
 #include <evntrace.h>

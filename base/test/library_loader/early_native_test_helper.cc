@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Early native test helper for library loader
+// summary: JNI test helper in base that verifies the library loader initialized the native command line and that early native code can run before content initialization.
+// ---
+
 #include "base/command_line.h"
 #include "base/process/current_process.h"
 #include "base/trace_event/trace_log.h"

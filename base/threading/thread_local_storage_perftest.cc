@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread local storage performance test
+// summary: Benchmarks read, write and read-write throughput and operation time for Chrome TLS, platform TLS and C++ TLS across single-thread and four-thread stories.
+// ---
+
 #include "base/threading/thread_local_storage.h"
 
 #include <stddef.h>

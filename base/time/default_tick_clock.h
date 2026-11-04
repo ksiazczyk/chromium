@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultTickClock class
+// summary: Declares DefaultTickClock, the default TickClock implementation returning TimeTicks::Now(), noting MOCK_TIME is preferred for overriding time in tests.
+// ---
+
 #ifndef BASE_TIME_DEFAULT_TICK_CLOCK_H_
 #define BASE_TIME_DEFAULT_TICK_CLOCK_H_
 

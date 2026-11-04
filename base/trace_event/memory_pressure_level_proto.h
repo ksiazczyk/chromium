@@ -7,6 +7,12 @@
 // The app will try to discard buffers that aren't deemed essential (individual
 // modules will implement their own policy).
 
+// ---docerion
+// type: source
+// title: Memory pressure level to Perfetto trace enum conversion
+// summary: Declares MemoryPressureLevelToTraceEnum, which converts a base memory pressure level into the corresponding Perfetto chrome_track_event trace enum.
+// ---
+
 #ifndef BASE_TRACE_EVENT_MEMORY_PRESSURE_LEVEL_PROTO_H_
 #define BASE_TRACE_EVENT_MEMORY_PRESSURE_LEVEL_PROTO_H_
 

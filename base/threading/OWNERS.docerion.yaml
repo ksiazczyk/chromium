@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for HangWatcher files
+summary: Assigns olivierli@chromium.org as per-file owner for the HangWatcher implementation and test files in base/threading.

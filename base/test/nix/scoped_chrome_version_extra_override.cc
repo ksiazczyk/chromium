@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedChromeVersionExtraOverride implementation
+// summary: Implements the ScopedChromeVersionExtraOverride test helper, which temporarily sets the CHROME_VERSION_EXTRA environment variable to fake a browser channel and restores the previous value on destruction.
+// ---
+
 #include "base/test/nix/scoped_chrome_version_extra_override.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WallClockTimer implementation
+// summary: Implements WallClockTimer, a one-shot timer based on wall clock Time that recomputes its delay after system suspend via power suspend observers.
+// ---
+
 #include "base/timer/wall_clock_timer.h"
 
 #include <utility>

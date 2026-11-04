@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceLogging minimal ETW provider declaration
+// summary: Declares TlmProvider and its typed field classes, an ETW logger that writes TraceLogging events with runtime-variable event settings unlike the SDK's TraceLoggingProvider.h.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TRACE_LOGGING_MINIMAL_WIN_H_
 #define BASE_TRACE_EVENT_TRACE_LOGGING_MINIMAL_WIN_H_
 

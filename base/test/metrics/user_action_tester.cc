@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserActionTester implementation
+// summary: Implements UserActionTester, which records user action callbacks with timestamps so tests can assert on action counts and times.
+// ---
+
 #include "base/test/metrics/user_action_tester.h"
 
 #include <string_view>

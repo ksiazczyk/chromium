@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryAllocatorDump class declaration
+// summary: Declares the MemoryAllocatorDump class, the data model for user-land memory allocator dumps with scalar and string entries used by memory-infra tracing.
+// ---
+
 #ifndef BASE_TRACE_EVENT_MEMORY_ALLOCATOR_DUMP_H_
 #define BASE_TRACE_EVENT_MEMORY_ALLOCATOR_DUMP_H_
 

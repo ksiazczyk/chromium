@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory dump type and level of detail string conversions
+// summary: Implements conversions between the MemoryDumpType and MemoryDumpLevelOfDetail enums and their string representations used in traces.
+// ---
+
 #include "base/trace_event/memory_dump_request_args.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trace-to-file helper implementation
+// summary: Implements TraceToFile, which starts tracing from command-line switches and writes collected trace events to a JSON file.
+// ---
+
 #include "base/test/tracing/trace_to_file.h"
 
 #include "base/base_switches.h"

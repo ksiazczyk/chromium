@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequenceLocalStorageSlot for per-sequence values
+// summary: Defines a template for storing and retrieving values scoped to a task sequence, with generic and small variants and deletion when the sequence ends.
+// ---
+
 #ifndef BASE_THREADING_SEQUENCE_LOCAL_STORAGE_SLOT_H_
 #define BASE_THREADING_SEQUENCE_LOCAL_STORAGE_SLOT_H_
 

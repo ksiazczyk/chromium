@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TestResultsTracker
+// summary: Unit tests verifying that TestResultsTracker saves JSON summaries containing links and tags as expected.
+// ---
+
 #include "base/test/launcher/test_results_tracker.h"
 
 #include "base/command_line.h"

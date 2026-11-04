@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Java heap dump provider
+// summary: Provides memory dump snapshots of the Android Java heap, reporting total and allocated heap sizes from java.lang.Runtime stats.
+// ---
+
 #include "base/trace_event/java_heap_dump_provider_android.h"
 
 #include "base/android/java_runtime.h"

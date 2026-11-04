@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped thread priority unit tests
+// summary: Unit tests verifying that ScopedBoostPriority and the library-loading macros raise and restore thread priorities across thread types and platforms.
+// ---
+
 #include "base/threading/scoped_thread_priority.h"
 
 #include "base/test/bind.h"

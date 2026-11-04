@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elapsed timer implementations
+// summary: Implements ElapsedTimer, ElapsedThreadTimer, ElapsedLiveTimer and ElapsedNoSleepTimer over different clocks, plus a scoped mock that fakes elapsed time for tests.
+// ---
+
 #include "base/timer/elapsed_timer.h"
 
 #include "base/check.h"

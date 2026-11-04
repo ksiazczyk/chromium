@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MemoryDumpManager unit tests
+// summary: Unit tests for MemoryDumpManager covering provider registration, dump scheduling, and global and per-process dump behavior with mock dump providers.
+// ---
+
 #include "base/trace_event/memory_dump_manager.h"
 
 #include <stdint.h>

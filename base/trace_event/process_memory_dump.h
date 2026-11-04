@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessMemoryDump class header
+// summary: Declares ProcessMemoryDump, a strongly typed container holding memory allocator dumps and ownership edges produced by memory dump providers for a process.
+// ---
+
 #ifndef BASE_TRACE_EVENT_PROCESS_MEMORY_DUMP_H_
 #define BASE_TRACE_EVENT_PROCESS_MEMORY_DUMP_H_
 

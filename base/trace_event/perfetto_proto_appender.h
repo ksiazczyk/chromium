@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perfetto proto appender class
+// summary: Declares PerfettoProtoAppender, a ConvertableToTraceFormat::ProtoAppender that gathers buffer ranges for writing into a Perfetto DebugAnnotation.
+// ---
+
 #ifndef BASE_TRACE_EVENT_PERFETTO_PROTO_APPENDER_H_
 #define BASE_TRACE_EVENT_PERFETTO_PROTO_APPENDER_H_
 

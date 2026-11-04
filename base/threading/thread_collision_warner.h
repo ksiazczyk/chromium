@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadCollisionWarner and DFAKE macros
+// summary: Declares ThreadCollisionWarner plus the DFAKE_MUTEX and DFAKE_SCOPED_LOCK macros used to assert thread-safety assumptions of non-thread-safe classes.
+// ---
+
 #ifndef BASE_THREADING_THREAD_COLLISION_WARNER_H_
 #define BASE_THREADING_THREAD_COLLISION_WARNER_H_
 

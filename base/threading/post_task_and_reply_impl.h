@@ -7,6 +7,12 @@
 // handling of the reply callback and ensuring it is deleted on the correct
 // sequence.
 
+// ---docerion
+// type: source
+// title: PostTaskAndReply relay and template helper
+// summary: Defines the PostTaskAndReplyRelay class and PostTaskAndReplyImpl template that post a task and run its reply on the origin sequence with correct deletion semantics.
+// ---
+
 #ifndef BASE_THREADING_POST_TASK_AND_REPLY_IMPL_H_
 #define BASE_THREADING_POST_TASK_AND_REPLY_IMPL_H_
 

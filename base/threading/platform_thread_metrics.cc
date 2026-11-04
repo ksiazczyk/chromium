@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform thread metrics implementation
+// summary: Implements PlatformThreadMetrics for per-thread CPU usage tracking plus an Android priority monitor that records thread scheduling histograms.
+// ---
+
 #include "base/threading/platform_thread_metrics.h"
 
 #include <memory>

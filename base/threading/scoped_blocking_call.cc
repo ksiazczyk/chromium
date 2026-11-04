@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedBlockingCall implementation
+// summary: Implements ScopedBlockingCall and ScopedBlockingCallWithBaseSyncPrimitives constructors and destructors with blocking assertions and trace events.
+// ---
+
 #include "base/threading/scoped_blocking_call.h"
 
 #include "base/lazy_instance.h"

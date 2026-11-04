@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Metrics test directory metadata
+summary: Points the base/test/metrics directory to the shared mixins defined in base/metrics COMMON_METADATA.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User action trace event header
+// summary: Declares EmitUserActionEvent, which emits a trace event for an action that the user performed.
+// ---
+
 #ifndef BASE_TRACE_EVENT_USER_ACTION_H_
 #define BASE_TRACE_EVENT_USER_ACTION_H_
 

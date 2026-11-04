@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Named trigger API for trace scenarios
+// summary: Declares EmitNamedTrigger and the NamedTriggerManager class for emitting named trigger events that can start or finalize trace recording and for observing them.
+// ---
+
 #ifndef BASE_TRACE_EVENT_NAMED_TRIGGER_H_
 #define BASE_TRACE_EVENT_NAMED_TRIGGER_H_
 

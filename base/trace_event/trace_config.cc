@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceConfig implementation
+// summary: Implements TraceConfig parsing of record modes, memory dump triggers, event filters and process filters from trace configuration strings.
+// ---
+
 #include "base/trace_event/trace_config.h"
 
 #include <stddef.h>

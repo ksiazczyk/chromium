@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformThread shared implementation
+// summary: Implements platform-independent PlatformThread logic, including the thread type manager, message pump type detection, and thread type leases.
+// ---
+
 #include "base/threading/platform_thread.h"
 
 #include "base/bits.h"

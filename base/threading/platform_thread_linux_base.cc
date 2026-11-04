@@ -4,6 +4,12 @@
 // Description: Common functions for NACL and all Linux and
 // Linux-derivatives.
 
+// ---docerion
+// type: source
+// title: Common Linux thread stack size and init helpers
+// summary: Provides common thread functions for NaCl and Linux derivatives, choosing default thread stack sizes for ThreadSanitizer, glibc, and other C libraries.
+// ---
+
 #include "base/threading/platform_thread.h"
 
 namespace base {

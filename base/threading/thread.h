@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread class with message loop
+// summary: Declares base::Thread and its options for creating a thread with a message pump, task runner and configurable stack size and thread type.
+// ---
+
 #ifndef BASE_THREADING_THREAD_H_
 #define BASE_THREADING_THREAD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test result implementation
+// summary: Implements TestResult, TestResultPart and SubTestResult, including status-to-string conversion and helpers for names, links, tags and properties.
+// ---
+
 #include "base/test/launcher/test_result.h"
 
 #include <stddef.h>

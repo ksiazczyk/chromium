@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Named trigger manager implementation
+// summary: Implements EmitNamedTrigger and NamedTriggerManager, which notify registered observers of named trigger events and emit corresponding trace events with global flow IDs.
+// ---
+
 #include "base/trace_event/named_trigger.h"
 
 #include "base/check.h"

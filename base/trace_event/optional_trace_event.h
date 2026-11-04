@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optionally disabled trace event macros
+// summary: Defines OPTIONAL_TRACE_EVENT macros equivalent to TRACE_EVENT macros but compiled out when the optional_trace_events_enabled build flag is false.
+// ---
+
 #ifndef BASE_TRACE_EVENT_OPTIONAL_TRACE_EVENT_H_
 #define BASE_TRACE_EVENT_OPTIONAL_TRACE_EVENT_H_
 

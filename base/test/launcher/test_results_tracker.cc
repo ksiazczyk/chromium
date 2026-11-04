@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test results tracker implementation
+// summary: Implements the results tracker that aggregates test outcomes and writes them as JSON and XML summary files for the test launcher.
+// ---
+
 #include "base/test/launcher/test_results_tracker.h"
 
 #include <stddef.h>

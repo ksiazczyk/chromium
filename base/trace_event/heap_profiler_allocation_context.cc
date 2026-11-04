@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocation context operators and hashing
+// summary: Implements comparison operators and std::hash specializations for StackFrame, Backtrace and AllocationContext used by heap profiling.
+// ---
+
 #include "base/trace_event/heap_profiler_allocation_context.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LapTimer unit tests
+// summary: Unit tests for LapTimer that verify the documented benchmarking usage example with mock time, including a ThreadTicks variant that is skipped on iOS.
+// ---
+
 #include "base/timer/lap_timer.h"
 
 #include "base/test/task_environment.h"

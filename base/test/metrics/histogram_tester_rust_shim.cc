@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistogramTester Rust shim implementation
+// summary: Implements the C++ shim class that forwards Rust histogram expectations such as unique sample and bucket counts to base::HistogramTester.
+// ---
+
 #include "base/test/metrics/histogram_tester_rust_shim.h"
 
 #include <stdint.h>

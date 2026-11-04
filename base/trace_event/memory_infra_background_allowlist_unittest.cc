@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory infra background allowlist unit tests
+// summary: Unit tests checking that allocator dump names such as hex identifiers and blink heap patterns are correctly matched or rejected by the background allowlist.
+// ---
+
 #include "base/trace_event/memory_infra_background_allowlist.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleThread implementation
+// summary: Implements SimpleThread, DelegateSimpleThread and DelegateSimpleThreadPool on top of PlatformThread, including start, join and pool management.
+// ---
+
 #include "base/threading/simple_thread.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace ID helper declaration
+// summary: Declares GetNextGlobalTraceId, a fast helper returning globally unique IDs suitable for flow or async event identifiers.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TRACE_ID_HELPER_H_
 #define BASE_TRACE_EVENT_TRACE_ID_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Metrics test directory owners
+summary: Delegates ownership review of the base/test/metrics directory to the owners listed for base/metrics.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedBlockingCall internal implementation
+// summary: Implements internal blocking call machinery including per-thread blocking observers and IOJankMonitoringWindow tracking of I/O jank intervals.
+// ---
+
 #include "base/threading/scoped_blocking_call_internal.h"
 
 #include <algorithm>

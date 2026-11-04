@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trace event analyzer unit tests
+// summary: Unit tests covering TraceAnalyzer queries, event argument access, and trace collection and flushing through TraceLog.
+// ---
+
 #include "base/test/tracing/trace_event_analyzer.h"
 
 #include <stddef.h>

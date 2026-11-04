@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequenceBound owner for cross-sequence objects
+// summary: Defines the SequenceBound<T> template that owns an object on a bound task runner sequence, supporting async construction, method calls, replies and destruction from the owner sequence.
+// ---
+
 #ifndef BASE_THREADING_SEQUENCE_BOUND_H_
 #define BASE_THREADING_SEQUENCE_BOUND_H_
 

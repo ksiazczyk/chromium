@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia platform thread implementation
+// summary: Implements PlatformThread on Fuchsia, setting thread names and applying scheduler roles through the fuchsia.scheduler RoleManager FIDL service.
+// ---
+
 #include "base/threading/platform_thread.h"
 
 #include <fidl/fuchsia.scheduler/cpp/fidl.h>

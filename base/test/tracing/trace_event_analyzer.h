@@ -87,6 +87,12 @@
 //
 // Note: The Stop() function needs a SingleThreadTaskRunner.
 
+// ---docerion
+// type: test
+// title: Trace event analyzer test utility header
+// summary: Declares TraceAnalyzer and Query helpers for searching, filtering, and associating trace events collected from the trace_event API in tests.
+// ---
+
 #ifndef BASE_TEST_TRACING_TRACE_EVENT_ANALYZER_H_
 #define BASE_TEST_TRACING_TRACE_EVENT_ANALYZER_H_
 

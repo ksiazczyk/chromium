@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SequenceBound unit tests
+// summary: Unit tests covering SequenceBound construction, AsyncCall, replies, Reset and both direct and unique_ptr storage variations across task runners.
+// ---
+
 #include "base/threading/sequence_bound.h"
 
 #include <functional>

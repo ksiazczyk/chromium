@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX thread local storage backend
+// summary: Implements PlatformThreadLocalStorage allocation, freeing and value setting on top of pthread keys for POSIX platforms.
+// ---
+
 #include "base/threading/thread_local_storage.h"
 
 #include "base/check_op.h"

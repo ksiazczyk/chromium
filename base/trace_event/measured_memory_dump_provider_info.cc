@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Measured memory dump provider info implementation
+// summary: Implements tracking and UMA histogram logging of per-provider memory dump status, timing, and queue metrics.
+// ---
+
 #include "base/trace_event/measured_memory_dump_provider_info.h"
 
 #include <optional>

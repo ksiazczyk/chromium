@@ -6,6 +6,12 @@
 // that this is really the proper solution for what you're trying to achieve.
 // Don't prematurely optimize, most likely you can just use a Lock.
 
+// ---docerion
+// type: source
+// title: ThreadLocalOwnedPointer header
+// summary: Defines ThreadLocalOwnedPointer, a thread-local slot owning non-trivially-destructible objects deleted on thread exit, with a checked variant for DCHECK builds.
+// ---
+
 #ifndef BASE_THREADING_THREAD_LOCAL_H_
 #define BASE_THREADING_THREAD_LOCAL_H_
 

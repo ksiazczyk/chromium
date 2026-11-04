@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of HighResolutionTimerManager
+// summary: Enables or disables the Windows high-resolution timer based on battery power status and the kDisableHighResTimer command-line switch.
+// ---
+
 #include "base/timer/hi_res_timer_manager.h"
 
 #include "base/base_switches.h"

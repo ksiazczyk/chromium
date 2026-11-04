@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows ETW interceptor implementation
+// summary: Implements a Perfetto interceptor that exports trace packets as Event Tracing for Windows events with keyword-based category filtering.
+// ---
+
 #include "base/trace_event/etw_interceptor_win.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracedValue implementation
+// summary: Implements TracedValue, a builder for nested dictionary and array trace values serialized through pickle or protobuf writer backends.
+// ---
+
 #include "base/trace_event/traced_value.h"
 
 #include <inttypes.h>

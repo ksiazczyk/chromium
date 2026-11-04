@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TraceArguments unit tests
+// summary: Unit tests for TraceValue JSON and string formatting, StringStorage behavior and convertable trace format objects.
+// ---
+
 #include "base/trace_event/trace_arguments.h"
 
 #include <gtest/gtest.h>

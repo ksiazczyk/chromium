@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserActionTester unit tests
+// summary: Unit tests for UserActionTester verifying action counts, recorded times, and reset behavior.
+// ---
+
 #include "base/test/metrics/user_action_tester.h"
 
 #include "base/metrics/user_metrics.h"

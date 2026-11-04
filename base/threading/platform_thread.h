@@ -6,6 +6,12 @@
 // the low-level platform-specific abstraction to the OS's threading interface.
 // You should instead be using a message-loop driven Thread, see thread.h.
 
+// ---docerion
+// type: source
+// title: PlatformThread API
+// summary: Declares PlatformThreadId and the PlatformThread abstraction over OS threading primitives, warning against direct use in favor of message-loop driven Thread.
+// ---
+
 #ifndef BASE_THREADING_PLATFORM_THREAD_H_
 #define BASE_THREADING_PLATFORM_THREAD_H_
 

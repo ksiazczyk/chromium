@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows platform thread unit tests
+// summary: Unit tests verifying Windows background thread mode behavior in idle-priority processes, documenting suspected kernel bug behavior around thread and memory priorities.
+// ---
+
 #include "base/threading/platform_thread_win.h"
 
 #include <windows.h>

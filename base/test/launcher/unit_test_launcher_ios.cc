@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS unit test launcher implementation
+// summary: iOS-specific launcher that runs unit tests serially and can write the compiled test list to a file for host-side device testing.
+// ---
+
 #include "base/test/launcher/unit_test_launcher.h"
 
 #include "base/apple/foundation_util.h"

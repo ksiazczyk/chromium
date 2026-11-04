@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory dump scheduler unit tests
+// summary: Unit tests verifying MemoryDumpScheduler trigger timing, light and detailed dump interleaving, and start and stop behavior including rapid restarts.
+// ---
+
 #include "base/trace_event/memory_dump_scheduler.h"
 
 #include <memory>

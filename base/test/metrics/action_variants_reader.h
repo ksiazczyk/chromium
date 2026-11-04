@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action variants reader API
+// summary: Declares ReadActionVariantsForAction, which returns per-token maps of variant names to summaries read from actions.xml for test verification.
+// ---
+
 #ifndef BASE_TEST_METRICS_ACTION_VARIANTS_READER_H_
 #define BASE_TEST_METRICS_ACTION_VARIANTS_READER_H_
 

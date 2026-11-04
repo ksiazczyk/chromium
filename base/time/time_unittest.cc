@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for base::Time
+// summary: Extensive unit tests for base::Time, TimeDelta, TimeTicks and related classes covering conversions, exploded values, string parsing, overrides and platform behavior.
+// ---
+
 #include "base/time/time.h"
 
 #include <stdint.h>

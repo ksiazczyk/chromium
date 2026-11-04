@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistogramTester implementation
+// summary: Implements HistogramTester, which snapshots histogram counts at creation and verifies expected unique samples, bucket counts, and totals in tests.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 
 #include <stddef.h>

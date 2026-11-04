@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory dump request argument types
+// summary: Defines the enums and structs used to issue memory dump requests, covering dump type, level of detail, determinism, and request arguments shared with IPCs.
+// ---
+
 #ifndef BASE_TRACE_EVENT_MEMORY_DUMP_REQUEST_ARGS_H_
 #define BASE_TRACE_EVENT_MEMORY_DUMP_REQUEST_ARGS_H_
 

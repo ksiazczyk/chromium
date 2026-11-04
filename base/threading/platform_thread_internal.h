@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal ThreadTypeManager for platform threads
+// summary: Declares the internal ThreadTypeManager that tracks a thread's default type and temporary raise leases to compute and apply the effective thread type.
+// ---
+
 #ifndef BASE_THREADING_PLATFORM_THREAD_INTERNAL_H_
 #define BASE_THREADING_PLATFORM_THREAD_INTERNAL_H_
 

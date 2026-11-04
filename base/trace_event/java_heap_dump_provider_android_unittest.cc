@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Java heap dump provider unit test
+// summary: Unit test that invokes the Java heap dump provider's OnMemoryDump with detailed args against a ProcessMemoryDump instance.
+// ---
+
 #include "base/trace_event/java_heap_dump_provider_android.h"
 
 #include <memory>

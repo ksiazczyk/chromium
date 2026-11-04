@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test result data structures
+// summary: Declares structures describing a single test's outcome, including status codes, EXPECT and ASSERT result parts, and manually reported sub-test results.
+// ---
+
 #ifndef BASE_TEST_LAUNCHER_TEST_RESULT_H_
 #define BASE_TEST_LAUNCHER_TEST_RESULT_H_
 

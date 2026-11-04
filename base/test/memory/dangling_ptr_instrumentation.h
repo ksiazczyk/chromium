@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dangling pointer instrumentation test helper
+// summary: Declares a test helper that counts dangling raw_ptr detections and releases instead of crashing, so tests can assert on BackupRefPtr violations when malloc cannot be configured.
+// ---
+
 #ifndef BASE_TEST_MEMORY_DANGLING_PTR_INSTRUMENTATION_H_
 #define BASE_TEST_MEMORY_DANGLING_PTR_INSTRUMENTATION_H_
 

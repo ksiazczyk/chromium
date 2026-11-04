@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Malloc dump provider unit tests
+// summary: Tests Windows heap info collection, including orphan busy entries, and verifies PartitionAlloc allocator dump entries reported by MallocDumpProvider.
+// ---
+
 #include "base/trace_event/malloc_dump_provider.h"
 
 #include <memory>

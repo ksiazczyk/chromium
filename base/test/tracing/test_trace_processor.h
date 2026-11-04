@@ -8,6 +8,12 @@
 // TODO(b/224531105): Implement EXTRACT_ARGS to return multiple args to simplify
 // queries.
 
+// ---docerion
+// type: source
+// title: TestTraceProcessor API for trace-based tests
+// summary: Declares TestTraceProcessor to record Perfetto traces in unit and browser tests and run SQL query expectations on them.
+// ---
+
 #ifndef BASE_TEST_TRACING_TEST_TRACE_PROCESSOR_H_
 #define BASE_TEST_TRACING_TEST_TRACE_PROCESSOR_H_
 

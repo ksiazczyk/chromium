@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram enum reader API
+// summary: Declares ReadEnumFromEnumsXml, which returns a value-to-label map for a named enum from enums.xml or a metadata subdirectory.
+// ---
+
 #ifndef BASE_TEST_METRICS_HISTOGRAM_ENUM_READER_H_
 #define BASE_TEST_METRICS_HISTOGRAM_ENUM_READER_H_
 

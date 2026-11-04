@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistogramTester unit tests
+// summary: Unit tests for HistogramTester covering scoping, unique sample, bucket count, total count, and time sample expectations.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 
 #include <memory>

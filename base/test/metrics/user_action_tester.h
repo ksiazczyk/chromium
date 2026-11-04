@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserActionTester header
+// summary: Declares UserActionTester, a test helper that observes user action notifications and tracks counts and occurrence times.
+// ---
+
 #ifndef BASE_TEST_METRICS_USER_ACTION_TESTER_H_
 #define BASE_TEST_METRICS_USER_ACTION_TESTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestTraceProcessor implementation and trace config helpers
+// summary: Implements the default Perfetto trace configuration and Chrome SQL stdlib package loading for the test trace processor.
+// ---
+
 #include "base/test/tracing/test_trace_processor.h"
 
 #include <string>

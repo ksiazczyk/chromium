@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped thread priority declarations
+// summary: Declares ScopedBoostPriority, ScopedBoostablePriority and macros for scoping code that may load libraries at background priority to avoid loader-lock priority inversions.
+// ---
+
 #ifndef BASE_THREADING_SCOPED_THREAD_PRIORITY_H_
 #define BASE_THREADING_SCOPED_THREAD_PRIORITY_H_
 

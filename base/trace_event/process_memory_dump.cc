@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process memory dump implementation
+// summary: Implements ProcessMemoryDump, which builds memory allocator dumps and memory graph data for traces, including platform-specific resident byte counting.
+// ---
+
 #include "base/trace_event/process_memory_dump.h"
 
 #include <errno.h>

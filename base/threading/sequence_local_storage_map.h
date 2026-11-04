@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequence local storage map declarations
+// summary: Declares SequenceLocalStorageMap with its external and inline value types plus the scoped helper that binds a map to the current thread's TLS.
+// ---
+
 #ifndef BASE_THREADING_SEQUENCE_LOCAL_STORAGE_MAP_H_
 #define BASE_THREADING_SEQUENCE_LOCAL_STORAGE_MAP_H_
 

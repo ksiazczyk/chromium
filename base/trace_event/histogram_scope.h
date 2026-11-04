@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram scope flow ID class
+// summary: Declares HistogramScope, an RAII scope that associates histograms with a flow ID in traces and exposes the current flow ID.
+// ---
+
 #ifndef BASE_TRACE_EVENT_HISTOGRAM_SCOPE_H_
 #define BASE_TRACE_EVENT_HISTOGRAM_SCOPE_H_
 

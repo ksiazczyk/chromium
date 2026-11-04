@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeDeltaFromString declaration
+// summary: Declares TimeDeltaFromString, which parses duration strings with units ns through d into an optional TimeDelta, supporting inf values.
+// ---
+
 #ifndef BASE_TIME_TIME_DELTA_FROM_STRING_H_
 #define BASE_TIME_TIME_DELTA_FROM_STRING_H_
 

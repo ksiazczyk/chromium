@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceArguments class header
+// summary: Declares TraceArguments, TraceValue and StringStorage, which store up to two named arguments per trace macro call with minimal generated code.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TRACE_ARGUMENTS_H_
 #define BASE_TRACE_EVENT_TRACE_ARGUMENTS_H_
 

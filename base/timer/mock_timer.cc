@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock timer implementations
+// summary: Implements mock one-shot, repeating, and retaining one-shot timers that only run their tasks when explicitly fired, using a test tick clock and simple task runner.
+// ---
+
 #include "base/timer/mock_timer.h"
 
 #include "base/test/test_simple_task_runner.h"

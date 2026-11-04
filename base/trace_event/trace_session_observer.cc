@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace session observer list implementation
+// summary: Implements TraceSessionObserverList, dispatching Perfetto trace session setup, start, stop and incremental-state notifications to registered observers.
+// ---
+
 #include "base/trace_event/trace_session_observer.h"
 
 #include "base/no_destructor.h"

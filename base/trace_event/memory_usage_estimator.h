@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composable memory usage estimators
+// summary: Defines EstimateMemoryUsage functions that approximate the dynamically allocated memory usage of objects, strings, pointers and many container types, composable over class members.
+// ---
+
 #ifndef BASE_TRACE_EVENT_MEMORY_USAGE_ESTIMATOR_H_
 #define BASE_TRACE_EVENT_MEMORY_USAGE_ESTIMATOR_H_
 

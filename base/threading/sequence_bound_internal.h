@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequenceBound internal storage and traits
+// summary: Internal helpers for SequenceBound providing cross-thread task traits and aligned storage that constructs and destroys the managed object on the bound sequence.
+// ---
+
 #ifndef BASE_THREADING_SEQUENCE_BOUND_INTERNAL_H_
 #define BASE_THREADING_SEQUENCE_BOUND_INTERNAL_H_
 

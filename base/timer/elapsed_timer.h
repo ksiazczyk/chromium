@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elapsed timer class declarations
+// summary: Declares base wrappers around TimeTicks, ThreadTicks and LiveTicks that measure elapsed time, including a timer that discards intervals spanning system sleep.
+// ---
+
 #ifndef BASE_TIMER_ELAPSED_TIMER_H_
 #define BASE_TIMER_ELAPSED_TIMER_H_
 

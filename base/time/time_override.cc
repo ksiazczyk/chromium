@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped time clock overrides implementation
+// summary: Implements ScopedTimeClockOverrides, which installs and restores function pointers that emulate Time, TimeTicks, ThreadTicks and related clocks.
+// ---
+
 #include "base/time/time_override.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core Time and TimeDelta implementation
+// summary: Implements Time and TimeDelta arithmetic plus the swappable now-function pointers that back base::Time, TimeTicks and related clock reads.
+// ---
+
 #include "base/time/time.h"
 
 #include <atomic>

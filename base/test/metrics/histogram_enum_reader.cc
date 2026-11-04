@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram enum reader implementation
+// summary: Implements reading an enum's integer value to label mapping from tools/metrics/histograms enums.xml, reporting failures via GTest.
+// ---
+
 #include "base/test/metrics/histogram_enum_reader.h"
 
 #include <optional>

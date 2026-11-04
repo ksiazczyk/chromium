@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for the test trace processor library
+// summary: Defines TEST_TRACE_PROCESSOR_EXPORT for DLL import/export and symbol visibility of the test trace processor library.
+// ---
+
 #ifndef BASE_TEST_TRACING_TEST_TRACE_PROCESSOR_EXPORT_H_
 #define BASE_TEST_TRACING_TEST_TRACE_PROCESSOR_EXPORT_H_
 

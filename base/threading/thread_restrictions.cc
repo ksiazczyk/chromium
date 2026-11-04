@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread restrictions implementation
+// summary: Implements scoped disallow and allow primitives for blocking calls, singletons, base sync primitives and CPU-intensive work using thread-local flags with optional stack trace capture.
+// ---
+
 #include "base/threading/thread_restrictions.h"
 
 #include "base/check.h"

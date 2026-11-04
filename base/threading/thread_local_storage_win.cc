@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows thread local storage backend
+// summary: Implements PlatformThreadLocalStorage with Windows TLS APIs and registers TLS directory callbacks so slot destructors run on thread exit.
+// ---
+
 #include "base/threading/thread_local_storage.h"
 
 #include <windows.h>

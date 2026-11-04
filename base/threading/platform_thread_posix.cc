@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX implementation of PlatformThread
+// summary: Implements PlatformThread on POSIX systems, covering pthread creation, joining, thread types, priorities, and stack sizes.
+// ---
+
 #include "base/threading/platform_thread.h"
 
 #include <errno.h>

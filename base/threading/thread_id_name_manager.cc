@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadIdNameManager implementation
+// summary: Implements the singleton ThreadIdNameManager that registers threads, interns thread names, notifies observers, and updates the heap profiler thread name.
+// ---
+
 #include "base/threading/thread_id_name_manager.h"
 
 #include <stdlib.h>

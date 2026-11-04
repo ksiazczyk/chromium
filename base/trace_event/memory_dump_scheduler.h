@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory dump scheduler header
+// summary: Declares the MemoryDumpScheduler singleton that schedules periodic global memory dump requests from trigger configurations on a sequenced task runner.
+// ---
+
 #ifndef BASE_TRACE_EVENT_MEMORY_DUMP_SCHEDULER_H_
 #define BASE_TRACE_EVENT_MEMORY_DUMP_SCHEDULER_H_
 

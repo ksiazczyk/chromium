@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceConfigCategoryFilter class header
+// summary: Declares the TraceConfigCategoryFilter class that manages included, excluded, and disabled trace categories for TraceConfig, with parsing, merging, and serialization helpers.
+// ---
+
 #ifndef BASE_TRACE_EVENT_TRACE_CONFIG_CATEGORY_FILTER_H_
 #define BASE_TRACE_EVENT_TRACE_CONFIG_CATEGORY_FILTER_H_
 
