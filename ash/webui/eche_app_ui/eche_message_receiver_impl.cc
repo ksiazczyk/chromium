@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche message receiver impl that parses incoming Exo messages
+// summary: Parses incoming ExoMessage payloads from the secure channel connection manager and dispatches them to registered observers.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_message_receiver_impl.h"
 
 namespace ash {

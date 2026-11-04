@@ -1,0 +1,4 @@
+# Docerion header of peripheral_updates_list.html.
+type: source
+title: Peripheral updates list template
+summary: HTML template for the peripheral updates list, rendering an up-to-date message or an update card for each available firmware update.

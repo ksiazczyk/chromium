@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code ownership for files_internals
+summary: Points to the shared OWNERS file of ui/file_manager to designate reviewers for this directory.

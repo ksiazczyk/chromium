@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the text preview content page
+summary: Styles pre-wrapped text content with margins, word wrapping and scrolling for the untrusted text preview.
+*/
+
 #content {
   margin: 0;
   max-height: 100%;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenBacklightState mojom traits unit tests
+// summary: Unit tests verifying ScreenBacklightState enum serialization round trips and that invalid enum values are rejected.
+// ---
+
 #include "ash/webui/eche_app_ui/mojom/types_mojom_traits.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File Manager page handler class declaration
+// summary: Declares the FileManagerPageHandler class implementing the mojom PageHandler interface for the file manager WebUI.
+// ---
+
 #ifndef ASH_WEBUI_FILE_MANAGER_FILE_MANAGER_PAGE_HANDLER_H_
 #define ASH_WEBUI_FILE_MANAGER_FILE_MANAGER_PAGE_HANDLER_H_
 

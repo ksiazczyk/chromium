@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake feature status provider for tests
+// summary: Header declaring a fake FeatureStatusProvider that returns a configurable feature status for use in tests.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_FAKE_FEATURE_STATUS_PROVIDER_H_
 #define ASH_WEBUI_ECHE_APP_UI_FAKE_FEATURE_STATUS_PROVIDER_H_
 

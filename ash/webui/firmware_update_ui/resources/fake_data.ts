@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake firmware update data
+// summary: Provides sample firmware updates and installation progress sequences, including failure and user-request cases, for the fake providers.
+// ---
+
 import type {DeviceRequest, FirmwareUpdate, InstallationProgress} from './firmware_update.mojom-webui.js';
 import {DeviceRequestId, DeviceRequestKind, UpdatePriority, UpdateState} from './firmware_update.mojom-webui.js';
 

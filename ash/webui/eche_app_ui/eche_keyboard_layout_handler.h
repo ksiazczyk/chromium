@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche keyboard layout handler header
+// summary: Declares EcheKeyboardLayoutHandler, which observes IME changes and notifies the Eche SWA of keyboard layout updates.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_KEYBOARD_LAYOUT_HANDLER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_KEYBOARD_LAYOUT_HANDLER_H_
 

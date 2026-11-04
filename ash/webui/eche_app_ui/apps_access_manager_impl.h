@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppsAccessManagerImpl header
+// summary: Declares AppsAccessManagerImpl, which implements AppsAccessManager by persisting the last-known apps access value to user prefs and observing status and connection changes.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_APPS_ACCESS_MANAGER_IMPL_H_
 #define ASH_WEBUI_ECHE_APP_UI_APPS_ACCESS_MANAGER_IMPL_H_
 

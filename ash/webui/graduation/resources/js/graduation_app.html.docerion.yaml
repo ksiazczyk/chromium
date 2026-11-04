@@ -1,0 +1,4 @@
+# Docerion header of graduation_app.html.
+type: source
+title: Graduation app view manager template
+summary: HTML template for the graduation app that hosts a cr-view-manager with the welcome, Takeout, error, and offline views.

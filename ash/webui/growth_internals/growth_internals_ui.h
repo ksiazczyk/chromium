@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Growth Internals WebUI controller declarations
+// summary: Declares the GrowthInternalsUIConfig and GrowthInternalsUI classes that enable and host the Growth Internals WebUI and expose the Mojo page handler binding.
+// ---
+
 #ifndef ASH_WEBUI_GROWTH_INTERNALS_GROWTH_INTERNALS_UI_H_
 #define ASH_WEBUI_GROWTH_INTERNALS_GROWTH_INTERNALS_UI_H_
 

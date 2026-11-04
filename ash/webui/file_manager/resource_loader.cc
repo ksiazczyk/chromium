@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files app resource loader implementation
+// summary: Implements AddFilesAppResources, which registers Files app resource paths with a WebUI data source while stripping the file_manager/ prefix and skipping untrusted resources.
+// ---
+
 #include "ash/webui/file_manager/resource_loader.h"
 
 #include "base/containers/span.h"

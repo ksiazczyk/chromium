@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature status provider base implementation
+// summary: Implements adding, removing, and notifying observers of feature status changes.
+// ---
+
 #include "ash/webui/eche_app_ui/feature_status_provider.h"
 
 namespace ash {

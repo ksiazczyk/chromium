@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EcheRecentAppClickHandler unit tests
+// summary: Unit tests for EcheRecentAppClickHandler covering notification and recent app clicks, launch prohibition reasons, and launch attempt metrics.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_recent_app_click_handler.h"
 
 #include <memory>

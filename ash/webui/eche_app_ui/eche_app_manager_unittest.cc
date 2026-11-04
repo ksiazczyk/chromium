@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EcheAppManager unit tests
+// summary: Unit tests for EcheAppManager that use fake PhoneHub, device sync, and secure channel clients with Ash test infrastructure to exercise manager behavior.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_app_manager.h"
 
 #include <memory>

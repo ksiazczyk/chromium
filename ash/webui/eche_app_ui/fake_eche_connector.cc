@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Eche connector implementation
+// summary: Implements a fake EcheConnector whose setup, access state, and nearby connection requests are counted rather than sent.
+// ---
+
 #include "ash/webui/eche_app_ui/fake_eche_connector.h"
 
 namespace ash {

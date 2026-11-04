@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilesInternalsPageHandler implementation
+// summary: Implements the Mojo PageHandler interface, forwarding SMBfs verbose logging, office file handler, and move confirmation queries to the UI delegate.
+// ---
+
 #include "ash/webui/files_internals/files_internals_page_handler.h"
 
 #include "ash/webui/files_internals/files_internals_ui.h"

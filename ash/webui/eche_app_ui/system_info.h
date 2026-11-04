@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfo class declaration
+// summary: Declares the SystemInfo class with a builder that stores system information such as device name, board name, Gaia ID, device type, OS version, and channel for the Eche app.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_SYSTEM_INFO_H_
 #define ASH_WEBUI_ECHE_APP_UI_SYSTEM_INFO_H_
 

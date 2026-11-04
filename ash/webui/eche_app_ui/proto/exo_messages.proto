@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Exo signaling message proto definitions for Eche app
+// summary: Protobuf definitions for Exo signaling messages covering stream setup, app access state, status changes and app streaming policy for the Eche app.
+// ---
+
 syntax = "proto3";
 
 package ash.eche_app.proto;

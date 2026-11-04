@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfoProvider class declaration
+// summary: Declares the SystemInfoProvider class, which provides system information to the Eche app via mojom and observes screen backlight, display, and network config changes.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_SYSTEM_INFO_PROVIDER_H_
 #define ASH_WEBUI_ECHE_APP_UI_SYSTEM_INFO_PROVIDER_H_
 

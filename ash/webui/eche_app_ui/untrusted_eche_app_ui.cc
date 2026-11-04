@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted Eche App UI implementation
+// summary: Implements the untrusted WebUI controller for the Eche App guest page, registering its HTML, script and style resources and configuring content security policy.
+// ---
+
 
 #include "ash/webui/eche_app_ui/untrusted_eche_app_ui.h"
 

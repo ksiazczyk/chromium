@@ -7,6 +7,12 @@
  * Message definitions passed over the Eche privileged/unprivileged pipe.
  */
 
+// ---docerion
+// type: source
+// title: Eche message type definitions and externs
+// summary: Defines extern typedefs such as NotificationInfo, SystemInfo, and histogram metrics, plus the Message enum naming every message passed over the Eche privileged and unprivileged pipe.
+// ---
+
 /**
  * Representation of an event passed in from the phone notification.
  * @typedef {{

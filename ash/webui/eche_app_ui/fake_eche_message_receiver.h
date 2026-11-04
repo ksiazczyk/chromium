@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Eche message receiver for tests
+// summary: Header declaring a fake EcheMessageReceiver with methods to trigger fake responses and status or policy change notifications in tests.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_FAKE_ECHE_MESSAGE_RECEIVER_H_
 #define ASH_WEBUI_ECHE_APP_UI_FAKE_ECHE_MESSAGE_RECEIVER_H_
 

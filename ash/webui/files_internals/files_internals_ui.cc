@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilesInternalsUI controller implementation
+// summary: Implements the FilesInternalsUI WebUI controller, creating the data source and a request filter that serves debug data, download filesystem URLs, and file task lookups through its delegate.
+// ---
+
 
 #include "ash/webui/files_internals/files_internals_ui.h"
 

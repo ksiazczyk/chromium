@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche connection scheduler implementation
+// summary: Implements connection scheduling via ConnectionManager using exponential backoff and reacts to feature and connection status changes.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_connection_scheduler_impl.h"
 
 #include "base/functional/bind.h"

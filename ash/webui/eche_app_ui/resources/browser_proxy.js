@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche app browser proxy for Mojo remotes and guest frame setup
+// summary: Loads the untrusted Eche app iframe with query parameters and sets up Mojo remotes and callback routers for signaling, system info, accessibility, streaming, and keyboard messages to the browser process.
+// ---
+
 // Pass the query string params from the trusted URL.
 const mainUrl = 'chrome-untrusted://eche-app/untrusted_index.html';
 // The window.location.hash starts with # and window.location.search starts

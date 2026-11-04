@@ -1,0 +1,4 @@
+# Docerion header of files_browsable_content.html.
+type: source
+title: Browsable content preview page with iframe
+summary: Provides a full-size borderless iframe used to display browsable previews such as PDFs and HTML inside the untrusted frame.

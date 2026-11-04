@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche app notification controller implementation
+// summary: Implements EcheAppNotificationController, creating message center notifications and handling actions like opening settings or retrying a connection.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_app_notification_controller.h"
 
 #include <variant>

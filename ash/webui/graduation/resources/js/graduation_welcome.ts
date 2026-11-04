@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation welcome screen Polymer element
+// summary: Defines the GraduationWelcome custom element that shows the current profile's email and photo and dispatches a screen-switch event when the user clicks Get Started.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';

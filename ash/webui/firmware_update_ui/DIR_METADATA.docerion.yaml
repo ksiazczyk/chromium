@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the firmware update UI
+summary: Points the directory metadata at the shared COMMON_METADATA file via a mixins entry.

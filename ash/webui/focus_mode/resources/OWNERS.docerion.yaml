@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Focus Mode resources
+summary: Points to the shared OWNERS file in ash/system/focus_mode for review ownership of this directory.

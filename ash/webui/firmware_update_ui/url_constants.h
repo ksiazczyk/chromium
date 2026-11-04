@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firmware update URL constants header
+// summary: Declares the extern constants for the firmware update app host and URL in the ash namespace.
+// ---
+
 #ifndef ASH_WEBUI_FIRMWARE_UPDATE_UI_URL_CONSTANTS_H_
 #define ASH_WEBUI_FIRMWARE_UPDATE_UI_URL_CONSTANTS_H_
 

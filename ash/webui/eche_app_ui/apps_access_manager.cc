@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apps access manager implementation
+// summary: Implements apps access setup attempts, setup operation tracking and observer notifications for the Eche onboarding flow.
+// ---
+
 #include "ash/webui/eche_app_ui/apps_access_manager.h"
 
 #include "ash/webui/eche_app_ui/proto/exo_messages.pb.h"

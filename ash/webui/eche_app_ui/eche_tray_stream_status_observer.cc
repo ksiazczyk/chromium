@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche tray stream status observer implementation
+// summary: Implements the tray stream status observer that launches and closes the Eche tray bubble as streaming starts or stops and the feature status changes.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_tray_stream_status_observer.h"
 
 #include "ash/constants/ash_features.h"

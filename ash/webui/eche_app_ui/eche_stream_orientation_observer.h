@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EcheStreamOrientationObserver header
+// summary: Declares EcheStreamOrientationObserver, a Mojo observer that receives stream orientation changes and notifies the Eche tray.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_STREAM_ORIENTATION_OBSERVER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_STREAM_ORIENTATION_OBSERVER_H_
 

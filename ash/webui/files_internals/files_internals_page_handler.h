@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilesInternalsPageHandler class declaration
+// summary: Declares the class implementing the mojom files_internals PageHandler interface with getters and setters for debug settings.
+// ---
+
 #ifndef ASH_WEBUI_FILES_INTERNALS_FILES_INTERNALS_PAGE_HANDLER_H_
 #define ASH_WEBUI_FILES_INTERNALS_FILES_INTERNALS_PAGE_HANDLER_H_
 

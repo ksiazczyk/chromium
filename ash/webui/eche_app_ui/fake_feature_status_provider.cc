@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake feature status provider implementation
+// summary: Implements a fake FeatureStatusProvider that stores a settable status, defaulting to connected, and notifies on changes.
+// ---
+
 #include "ash/webui/eche_app_ui/fake_feature_status_provider.h"
 
 namespace ash {

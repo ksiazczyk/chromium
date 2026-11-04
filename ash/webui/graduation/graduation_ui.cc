@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation UI controller implementation
+// summary: Sets up the WebUI data source with localized strings and configures the Takeout Transfer URL, user agent, and embedded endpoint flag.
+// ---
+
 
 #include "ash/webui/graduation/graduation_ui.h"
 

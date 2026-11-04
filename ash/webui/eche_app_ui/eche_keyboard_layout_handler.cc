@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche keyboard layout handler implementation
+// summary: Relays ChromeOS keyboard layout information from the IME controller to the Eche SWA via Mojo.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_keyboard_layout_handler.h"
 
 #include "ash/shell.h"

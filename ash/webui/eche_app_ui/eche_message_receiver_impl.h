@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche message receiver impl class declaration
+// summary: Declares EcheMessageReceiverImpl, which observes the connection manager and forwards received ExoMessage payloads to the base receiver.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_MESSAGE_RECEIVER_IMPL_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_MESSAGE_RECEIVER_IMPL_H_
 

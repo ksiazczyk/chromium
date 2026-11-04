@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files app Labs entry script
+// summary: Entry script for the Labs demo page that imports Files app widgets and sets up global focus, pointer, and drag-drop handlers.
+// ---
+
 import 'chrome://file-manager/foreground/elements/icons.js';
 import 'chrome://file-manager/widgets/xf_breadcrumb.js';
 import 'chrome://file-manager/widgets/xf_icon.js';

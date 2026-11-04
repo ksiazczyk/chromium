@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility tree converter class declaration
+// summary: Declares AccessibilityTreeConverter, which deserializes accessibility event protos and converts event and action data between proto and mojom formats.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ACCESSIBILITY_TREE_CONVERTER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ACCESSIBILITY_TREE_CONVERTER_H_
 

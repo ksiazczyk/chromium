@@ -1,0 +1,4 @@
+# Docerion header of graduation_takeout_ui.html.
+type: source
+title: Graduation Takeout UI template
+summary: HTML template for the Takeout screen with a back button, embedded webview, loading spinner, and a done button.

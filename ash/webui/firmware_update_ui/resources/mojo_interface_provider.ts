@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo interface provider
+// summary: Provides singleton access to the update provider, install controller and system utils Mojo interfaces, with fake implementations for testing.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {fakeFirmwareUpdates} from './fake_data.js';

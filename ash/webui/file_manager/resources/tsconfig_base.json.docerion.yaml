@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript configuration for Files app resources
+summary: Extends Chromium's shared TypeScript base config and disables the noUncheckedSideEffectImports compiler check for the Files app resources.

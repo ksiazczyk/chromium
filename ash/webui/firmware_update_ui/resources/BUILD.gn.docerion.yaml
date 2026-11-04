@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the firmware update WebUI
+summary: Defines the build_webui target listing static files, styles, web components, TypeScript and Mojo sources for the ChromeOS firmware update app.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EchePresenceManager unit tests
+// summary: Unit tests for EchePresenceManager that verify presence monitoring starts and stops based on feature status, stream status, and device sync state using fake clients.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_presence_manager.h"
 
 #include "ash/constants/ash_features.h"

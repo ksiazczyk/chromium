@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager untrusted WebUI controller implementation
+// summary: Implements the untrusted WebUI controller for the file manager, registering untrusted resources and configuring content security policies.
+// ---
+
 
 #include "ash/webui/file_manager/file_manager_untrusted_ui.h"
 

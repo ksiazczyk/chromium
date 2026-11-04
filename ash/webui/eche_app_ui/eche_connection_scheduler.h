@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche connection scheduler interface
+// summary: Defines the abstract scheduler that requests connections from the Chromebook to the user's phone, with retries and backoff clearing.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_CONNECTION_SCHEDULER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_CONNECTION_SCHEDULER_H_
 

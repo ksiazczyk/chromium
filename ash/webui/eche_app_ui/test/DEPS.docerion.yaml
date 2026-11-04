@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Eche App UI test directory
+summary: Sets include rules so tests in this directory may access test helpers under chrome/test/base.

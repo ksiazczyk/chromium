@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Eche App mojom directory
+summary: Assigns IPC security owners as required reviewers for the mojom and mojom traits files in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Graduation UI handler unit tests
+// summary: Unit tests for the Ash graduation UI handler, covering webview authentication success and result reporting through a mocked auth handler.
+// ---
+
 #include "ash/webui/graduation/graduation_ui_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of resources.grd.
+type: config
+title: Grit resource definition for Focus Mode
+summary: Grit resource specification that packages app.html and generates the ash_focus_mode resource header and pak outputs.

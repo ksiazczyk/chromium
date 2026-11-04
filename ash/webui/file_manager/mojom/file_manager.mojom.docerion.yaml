@@ -1,0 +1,4 @@
+# Docerion header of file_manager.mojom.
+type: source
+title: Mojom interfaces for the ChromeOS file manager web UI
+summary: Defines the PageHandlerFactory, PageHandler, and Page Mojo interfaces linking the renderer UI with the browser process backend.

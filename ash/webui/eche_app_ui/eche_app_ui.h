@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EcheApp WebUI controller and config declarations
+// summary: Declares the EcheAppUI Mojo WebUI controller and its SystemWebAppUIConfig, which bind interfaces for signaling, accessibility, notifications, display streaming, and other Eche app providers.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_APP_UI_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_APP_UI_H_
 

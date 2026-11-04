@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted Eche App UI declarations
+// summary: Declares the WebUI config and controller classes that serve the Eche App guest page from an untrusted origin.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_UNTRUSTED_ECHE_APP_UI_H_
 #define ASH_WEBUI_ECHE_APP_UI_UNTRUSTED_ECHE_APP_UI_H_
 

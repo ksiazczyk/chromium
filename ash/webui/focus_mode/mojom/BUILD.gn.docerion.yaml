@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Focus Mode Mojom build target
+summary: Defines the GN build target that compiles focus_mode.mojom into bindings for ChromeOS, with base Mojom and URL dependencies.

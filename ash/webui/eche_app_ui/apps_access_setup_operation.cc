@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppsAccessSetupOperation implementation
+// summary: Implements AppsAccessSetupOperation, tracking status changes of the apps access setup flow and reporting final statuses to its delegate.
+// ---
+
 #include "ash/webui/eche_app_ui/apps_access_setup_operation.h"
 
 #include <algorithm>

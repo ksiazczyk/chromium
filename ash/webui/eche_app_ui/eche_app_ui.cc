@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche app WebUI controller implementation
+// summary: Implements the EcheAppUI WebUI controller, registering data sources, resources, content security policies, and chrome-untrusted guest permissions.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_app_ui.h"
 
 #include <memory>

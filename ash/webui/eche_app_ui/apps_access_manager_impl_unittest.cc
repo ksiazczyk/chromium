@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppsAccessManagerImpl unit tests
+// summary: Unit tests for AppsAccessManagerImpl covering access state handling, setup requests, onboarding eligibility, and metrics using fake connectors, clients, and pref services.
+// ---
+
 #include "ash/webui/eche_app_ui/apps_access_manager_impl.h"
 
 #include "ash/constants/ash_features.h"

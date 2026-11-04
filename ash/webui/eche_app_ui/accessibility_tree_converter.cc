@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility tree converter implementation
+// summary: Implements conversion of Android accessibility tree data between protobuf messages and mojom structures, including properties and list properties.
+// ---
+
 #include "ash/webui/eche_app_ui/accessibility_tree_converter.h"
 
 #include <algorithm>

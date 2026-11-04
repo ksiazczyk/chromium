@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EcheAlertGenerator class header
+// summary: Declares EcheAlertGenerator, which implements the NotificationGenerator Mojo interface so the WebUI can show native notifications and toasts for the Eche app.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_ALERT_GENERATOR_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_ALERT_GENERATOR_H_
 

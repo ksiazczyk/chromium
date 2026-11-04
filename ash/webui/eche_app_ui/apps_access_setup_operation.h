@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppsAccessSetupOperation header
+// summary: Declares the AppsAccessSetupOperation class and its status enum for the phone-side apps access setup flow, including final-status detection.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_APPS_ACCESS_SETUP_OPERATION_H_
 #define ASH_WEBUI_ECHE_APP_UI_APPS_ACCESS_SETUP_OPERATION_H_
 

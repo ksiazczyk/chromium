@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Accessibility mojom proto definitions for Eche app
+// summary: Protobuf definitions mirroring Android accessibility events, actions and node information exchanged between the Android host and Chrome OS for the Eche app.
+// ---
+
 syntax = "proto3";
 
 package ash.eche_app.proto;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EcheAppManager implementation
+// summary: Implements the core Eche app manager logic, wiring together connection, signaling, accessibility, notification, and system info components.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_app_manager.h"
 
 #include <memory>

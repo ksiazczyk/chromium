@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files Internals page script
+// summary: JavaScript module that calls the files_internals Mojom PageHandler to display and update SMB logging, file task, and Office handler statuses on the internals page.
+// ---
+
 import {PageHandler} from '/ash/webui/files_internals/mojom/files_internals.mojom-webui.js';
 
 const pageHandler = PageHandler.getRemote();

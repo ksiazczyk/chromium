@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation UI handler declaration
+// summary: Declares the GraduationUiHandler Mojo interface implementation, its auth handler dependency, and a TestApi for unit testing.
+// ---
+
 #ifndef ASH_WEBUI_GRADUATION_GRADUATION_UI_HANDLER_H_
 #define ASH_WEBUI_GRADUATION_GRADUATION_UI_HANDLER_H_
 

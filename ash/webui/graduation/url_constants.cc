@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation WebUI URL constants
+// summary: Defines constant strings for the graduation WebUI app host and the Google Takeout transfer endpoint bases used by the feature.
+// ---
+
 #include "ash/webui/graduation/url_constants.h"
 
 namespace ash::graduation {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureStatus enum for the Eche feature
+// summary: Defines the FeatureStatus enum covering states such as ineligible, disabled, connecting, and connected.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_FEATURE_STATUS_H_
 #define ASH_WEBUI_ECHE_APP_UI_FEATURE_STATUS_H_
 

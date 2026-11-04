@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemInfoProvider unit tests
+// summary: Unit tests for SystemInfoProvider that verify the JSON system info payload, WiFi SSID hashing, and network state handling using fake device data.
+// ---
+
 #include "ash/webui/eche_app_ui/system_info_provider.h"
 
 #include "ash/public/cpp/network_config_service.h"

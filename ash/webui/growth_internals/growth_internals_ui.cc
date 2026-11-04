@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Growth Internals WebUI controller implementation
+// summary: Implements the Growth Internals WebUI controller, creating the data source with resource paths and content security policies and binding the Mojo page handler behind a feature flag.
+// ---
+
 
 #include "ash/webui/growth_internals/growth_internals_ui.h"
 

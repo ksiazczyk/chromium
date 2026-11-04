@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake update controller implementation
+// summary: Implements a fake version of the UpdateController Mojo interface that simulates firmware installation progress for testing and demos.
+// ---
+
 import {FakeObservables} from 'chrome://resources/ash/common/fake_observables.js';
 import {PromiseResolver} from 'chrome://resources/ash/common/promise_resolver.js';
 import {assert} from 'chrome://resources/js/assert.js';

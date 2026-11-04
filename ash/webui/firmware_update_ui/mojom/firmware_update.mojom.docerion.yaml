@@ -1,0 +1,4 @@
+# Docerion header of firmware_update.mojom.
+type: source
+title: Mojom interfaces for the firmware update WebUI
+summary: Defines the structs, enums, and observer interfaces the ChromeOS firmware update WebUI uses to represent updates, device requests, and installation progress.

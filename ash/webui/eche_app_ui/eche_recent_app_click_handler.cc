@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EcheRecentAppClickHandler implementation
+// summary: Implements EcheRecentAppClickHandler, which launches the Eche app and records recent apps when Phone Hub notifications or recent apps are clicked.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_recent_app_click_handler.h"
 
 #include "ash/root_window_controller.h"

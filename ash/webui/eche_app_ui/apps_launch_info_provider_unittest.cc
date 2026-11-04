@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppsLaunchInfoProvider unit tests
+// summary: Unit tests verifying that AppsLaunchInfoProvider stores and reports entry points and connection statuses from the last attempt.
+// ---
+
 #include "ash/webui/eche_app_ui/apps_launch_info_provider.h"
 #include <memory>
 #include "ash/webui/eche_app_ui/eche_connection_status_handler.h"

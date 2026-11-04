@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: File Manager WebUI build targets
+summary: GN build file defining the constants, trusted and untrusted UI libraries, and unit tests for the ChromeOS file manager WebUI.

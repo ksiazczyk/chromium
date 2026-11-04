@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared loader for untrusted media preview content
+// summary: Receives preview data from the Files app, loads audio, video, image, HTML or text content, and reports load and tap status messages.
+// ---
+
 window.onload = () => {
   let messageSource;
   let filesAppOrigin;

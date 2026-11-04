@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenBacklightState mojom traits implementation
+// summary: Implements Mojo enum conversions between ash::ScreenBacklightState and the Eche App mojom ScreenBacklightState enum.
+// ---
+
 #include "ash/webui/eche_app_ui/mojom/types_mojom_traits.h"
 
 #include "base/notreached.h"

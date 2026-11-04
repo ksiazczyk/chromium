@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Video content page styles
+summary: Stylesheet for the Files app video preview page, sizing the video element, hiding the fullscreen control, adding focus outlines and dark mode backgrounds.
+*/
+
 #content {
   bottom: 0;
   left: 0;

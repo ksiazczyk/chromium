@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Eche message receiver implementation
+// summary: Verifies that EcheMessageReceiverImpl dispatches parsed apps access, setup, status, and policy messages to a fake observer.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_message_receiver_impl.h"
 
 #include "ash/webui/eche_app_ui/proto/exo_messages.pb.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Eche connection scheduler
+// summary: Tests connection attempt scheduling, backoff retries, and disabled-feature behavior using fake connection manager and feature status provider.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_connection_scheduler_impl.h"
 
 #include <memory>

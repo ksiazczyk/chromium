@@ -1,0 +1,4 @@
+# Docerion header of ash_eche_bundle_mock_resources.grd.
+type: config
+title: GRIT resource list for the Eche app mock bundle
+summary: GRIT XML definition that packages the mock Eche app HTML, CSS, JS and icons into a .pak resource bundle with generated headers and maps.

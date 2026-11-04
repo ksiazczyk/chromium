@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Eche app proto library build file
+summary: GN build configuration that defines the fuzzable proto library containing the accessibility and Exo message definitions for the Eche app UI.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the firmware update UI mojom directory
+summary: Lists the directory's code owner and requires security owner review for changes to *.mojom files.

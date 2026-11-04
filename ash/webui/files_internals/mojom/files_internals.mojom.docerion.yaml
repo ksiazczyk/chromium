@@ -1,0 +1,4 @@
+# Docerion header of files_internals.mojom.
+type: source
+title: Mojom interface for Files Internals page handler
+summary: Defines the PageHandler Mojo interface used by the Files Internals debug WebUI to read and set Files app prefs such as SMB verbose logging, Office file handlers, and move confirmations.

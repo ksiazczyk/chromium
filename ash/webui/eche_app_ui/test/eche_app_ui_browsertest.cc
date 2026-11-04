@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Eche App UI browser test harness (C++)
+// summary: C++ browser test that loads the Eche App WebUI and runs its Mocha test cases, covering the app's chrome scheme URL and guest frame loading.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/webui/eche_app_ui/url_constants.h"
 #include "ash/webui/web_applications/test/sandboxed_web_ui_test_base.h"

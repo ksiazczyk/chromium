@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation UI handler implementation
+// summary: Implements the Mojo handler for webview authentication, profile info, screen switches, and transfer completion tracking.
+// ---
+
 #include "ash/webui/graduation/graduation_ui_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EcheAlertGenerator unit tests
+// summary: Unit tests for EcheAlertGenerator that verify notification and toast behavior using a mocked LaunchAppHelper and a testing pref service.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_alert_generator.h"
 
 #include <optional>

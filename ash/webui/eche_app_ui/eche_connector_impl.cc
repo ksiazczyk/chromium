@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche connector implementation
+// summary: Implements EcheConnector, queuing ExoMessages by feature and connection status and flushing them once connected.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_connector_impl.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

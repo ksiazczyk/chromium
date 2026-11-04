@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Files app resource loader
+// summary: Unit tests verifying that AddFilesAppResources maps Files app resource paths to resource IDs and excludes untrusted resource paths.
+// ---
+
 #include "ash/webui/file_manager/resource_loader.h"
 
 #include "content/public/test/browser_task_environment.h"

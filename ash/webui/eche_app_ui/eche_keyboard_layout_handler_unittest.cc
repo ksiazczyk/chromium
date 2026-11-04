@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Eche keyboard layout handler unit tests
+// summary: Unit tests for EcheKeyboardLayoutHandler verifying layout requests and change notifications reach the observer.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_keyboard_layout_handler.h"
 
 #include "ash/ime/ime_controller_impl.h"

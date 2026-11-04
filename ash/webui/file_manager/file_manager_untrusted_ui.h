@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File Manager Untrusted WebUI header
+// summary: Declares the WebUI controller and its configuration class for the untrusted file manager interface used to process untrusted content.
+// ---
+
 #ifndef ASH_WEBUI_FILE_MANAGER_FILE_MANAGER_UNTRUSTED_UI_H_
 #define ASH_WEBUI_FILE_MANAGER_FILE_MANAGER_UNTRUSTED_UI_H_
 

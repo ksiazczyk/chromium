@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate interface for the file manager UI
+// summary: Defines the FileManagerUIDelegate interface exposing load time data, plural strings, I/O task progress, Drive pin polling, and policy notifications from //chrome.
+// ---
+
 #ifndef ASH_WEBUI_FILE_MANAGER_FILE_MANAGER_UI_DELEGATE_H_
 #define ASH_WEBUI_FILE_MANAGER_FILE_MANAGER_UI_DELEGATE_H_
 

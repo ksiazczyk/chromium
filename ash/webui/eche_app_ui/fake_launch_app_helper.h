@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake launch app helper for testing
+// summary: Declares a fake LaunchAppHelper that lets tests set a prohibited app launch reason.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_FAKE_LAUNCH_APP_HELPER_H_
 #define ASH_WEBUI_ECHE_APP_UI_FAKE_LAUNCH_APP_HELPER_H_
 

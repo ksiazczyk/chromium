@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Eche connection scheduler implementation
+// summary: Implements a fake connection scheduler that counts schedule-connection-now and disconnect calls instead of performing real scheduling.
+// ---
+
 #include "ash/webui/eche_app_ui/fake_eche_connection_scheduler.h"
 
 namespace ash {

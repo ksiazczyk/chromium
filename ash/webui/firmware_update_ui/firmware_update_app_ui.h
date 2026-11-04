@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firmware update app WebUI header
+// summary: Declares the firmware update WebUI controller class and its WebUIConfig, along with the Mojo interface binding methods it exposes.
+// ---
+
 #ifndef ASH_WEBUI_FIRMWARE_UPDATE_UI_FIRMWARE_UPDATE_APP_UI_H_
 #define ASH_WEBUI_FIRMWARE_UPDATE_UI_FIRMWARE_UPDATE_APP_UI_H_
 

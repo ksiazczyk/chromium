@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche tray stream status observer header
+// summary: Declares EcheTrayStreamStatusObserver and the LaunchBubble helper that centralize Eche tray bubble logic for streaming and feature status changes.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_TRAY_STREAM_STATUS_OBSERVER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_TRAY_STREAM_STATUS_OBSERVER_H_
 

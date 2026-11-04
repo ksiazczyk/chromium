@@ -1,0 +1,4 @@
+# Docerion header of update_card.html.
+type: source
+title: Update card template
+summary: HTML template for the update-card element showing a device's name, version, critical-update label, and an update button with accessibility labels.

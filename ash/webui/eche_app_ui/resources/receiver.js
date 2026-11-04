@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted Eche API receiver for parent messages
+// summary: Registers MessagePipe handlers in the untrusted frame for signaling, screen state, notifications, streaming, keyboard, and accessibility messages, and implements the echeapi bindings.
+// ---
+
 const parentMessagePipe = new MessagePipe('chrome://eche-app', window.parent);
 
 let signalingCallback = null;

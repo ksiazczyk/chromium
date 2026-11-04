@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LaunchAppHelper
+// summary: Tests app launch prohibition, screen lock behavior, notifications, and toasts of LaunchAppHelper.
+// ---
+
 #include "ash/webui/eche_app_ui/launch_app_helper.h"
 
 #include <memory>

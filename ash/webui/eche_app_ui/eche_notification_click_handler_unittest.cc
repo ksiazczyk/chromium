@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Eche notification click handler
+// summary: Tests notification click handling, app launching, and click handler registration across different feature statuses using fakes.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_notification_click_handler.h"
 
 #include <memory>

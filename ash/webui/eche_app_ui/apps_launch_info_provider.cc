@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppsLaunchInfoProvider implementation
+// summary: Stores the app stream launch entry point and the connection status from the last attempt for the Eche App UI.
+// ---
+
 #include "ash/webui/eche_app_ui/apps_launch_info_provider.h"
 
 #include "ash/webui/eche_app_ui/mojom/eche_app.mojom-shared.h"

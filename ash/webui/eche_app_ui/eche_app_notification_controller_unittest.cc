@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EcheAppNotificationController unit tests
+// summary: Unit tests verifying Eche app notification display, button actions such as try again, and settings launch behavior with a testable controller subclass.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_app_notification_controller.h"
 
 #include "ash/public/cpp/notification_utils.h"

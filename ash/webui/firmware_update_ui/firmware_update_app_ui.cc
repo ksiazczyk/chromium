@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firmware update app WebUI implementation
+// summary: Implements the WebUI controller for the firmware update dialog, setting up the data source, localized strings, resource paths, and Mojo interface bindings.
+// ---
+
 #include "ash/webui/firmware_update_ui/firmware_update_app_ui.h"
 
 #include <memory>

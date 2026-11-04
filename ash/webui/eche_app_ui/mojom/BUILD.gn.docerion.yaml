@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Eche App mojom
+summary: GN build file defining the Eche App mojom bindings target with ScreenBacklightState type mappings and a unit test source set.

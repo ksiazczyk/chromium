@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EcheAppManager class header
+// summary: Declares EcheAppManager, a KeyedService implementing the core Eche app logic and exposing Mojo interfaces such as signaling, UID, and accessibility providers.
+// ---
+
 #ifndef ASH_WEBUI_ECHE_APP_UI_ECHE_APP_MANAGER_H_
 #define ASH_WEBUI_ECHE_APP_UI_ECHE_APP_MANAGER_H_
 

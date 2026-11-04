@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche connection status handler implementation
+// summary: Implements connection status observation and UI status updates, notifying observers of connection changes and background connection requests.
+// ---
+
 #include "ash/webui/eche_app_ui/eche_connection_status_handler.h"
 
 #include "ash/constants/ash_features.h"

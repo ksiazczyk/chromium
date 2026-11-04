@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files app resource loader header
+// summary: Declares AddFilesAppResources, the helper that adds Files app resource paths to a WebUI data source.
+// ---
+
 #ifndef ASH_WEBUI_FILE_MANAGER_RESOURCE_LOADER_H_
 #define ASH_WEBUI_FILE_MANAGER_RESOURCE_LOADER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the file manager directory
+summary: Restricts includes in the directory to ui/file_manager/grit and ui/webui and forbids adding chrome dependencies.

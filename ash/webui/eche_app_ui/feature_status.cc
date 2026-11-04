@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature status stream output operator
+// summary: Implements stream output of FeatureStatus values for logging and debugging.
+// ---
+
 #include "ash/webui/eche_app_ui/feature_status.h"
 
 namespace ash {

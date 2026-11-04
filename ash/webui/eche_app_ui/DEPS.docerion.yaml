@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for eche_app_ui
+summary: Lists allowed include rules for the eche_app_ui directory, permitting Phone Hub and related ChromeOS dependencies while blocking direct chrome includes.

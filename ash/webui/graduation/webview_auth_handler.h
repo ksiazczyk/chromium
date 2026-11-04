@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webview authentication handler class declaration
+// summary: Declares the WebviewAuthHandler class that authenticates a graduation webview storage partition, with retry backoff and auth result metrics.
+// ---
+
 #ifndef ASH_WEBUI_GRADUATION_WEBVIEW_AUTH_HANDLER_H_
 #define ASH_WEBUI_GRADUATION_WEBVIEW_AUTH_HANDLER_H_
 
