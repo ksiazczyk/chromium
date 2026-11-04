@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPacProcessor implementation
+// summary: Resolves proxies by running PAC scripts with V8 tracing, including DNS resolution bound to an Android network handle.
+// relations:
+//   - depends_on /android_webview/browser/aw_pac_processor.h
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/android/jni_array.h
+// ---
+
 #include "android_webview/browser/aw_pac_processor.h"
 
 #include <android/multinetwork.h>

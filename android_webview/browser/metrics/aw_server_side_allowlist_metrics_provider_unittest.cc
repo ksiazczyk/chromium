@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Server-side allowlist metrics provider unit tests
+// summary: Tests that the provider sets the correct allowlist filter value for Google Play installs versus system apps.
+// relations:
+//   - tests /android_webview/browser/metrics/aw_server_side_allowlist_metrics_provider.h
+//   - depends_on /android_webview/browser/metrics/aw_server_side_allowlist_metrics_provider.h
+//   - depends_on /android_webview/browser/metrics/aw_metrics_service_client.h
+// ---
+
 #include "android_webview/browser/metrics/aw_server_side_allowlist_metrics_provider.h"
 
 #include "android_webview/browser/metrics/aw_metrics_service_client.h"

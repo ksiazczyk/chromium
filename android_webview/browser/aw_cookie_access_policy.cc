@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwCookieAccessPolicy implementation
+// summary: Implements WebView cookie access policy, deciding whether first-party, third-party, and file URL requests may read or write cookies.
+// relations:
+//   - depends_on /android_webview/browser/aw_cookie_access_policy.h
+//   - depends_on /android_webview/browser/aw_contents_io_thread_client.h
+//   - depends_on /base/check_op.h
+// ---
+
 #include "android_webview/browser/aw_cookie_access_policy.h"
 
 #include <memory>

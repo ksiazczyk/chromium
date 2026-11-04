@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App GL state restore implementation declaration
+// summary: Declares the internal ScopedAppGLStateRestoreImpl class that stores saved HWUI OpenGL state, including vertex attributes, multisample, and ARM framebuffer fetch settings.
+// relations:
+//   - depends_on /android_webview/browser/gfx/scoped_app_gl_state_restore.h
+//   - implements /android_webview/browser/gfx/scoped_app_gl_state_restore.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_SCOPED_APP_GL_STATE_RESTORE_IMPL_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_SCOPED_APP_GL_STATE_RESTORE_IMPL_H_
 

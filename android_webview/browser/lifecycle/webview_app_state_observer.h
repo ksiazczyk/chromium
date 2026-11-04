@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewAppStateObserver interface
+// summary: Declares the WebViewAppStateObserver interface and app state enum used to notify observers of WebView foreground, background, startup, and destroyed states.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_LIFECYCLE_WEBVIEW_APP_STATE_OBSERVER_H_
 #define ANDROID_WEBVIEW_BROWSER_LIFECYCLE_WEBVIEW_APP_STATE_OBSERVER_H_
 

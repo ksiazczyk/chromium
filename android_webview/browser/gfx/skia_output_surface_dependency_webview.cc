@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaOutputSurfaceDependencyWebView implementation
+// summary: Implements WebView's SkiaOutputSurfaceDependency, giving the Skia output surface access to GPU service objects, task sequences and context providers.
+// relations:
+//   - depends_on /android_webview/browser/gfx/skia_output_surface_dependency_webview.h
+//   - depends_on /android_webview/browser/gfx/aw_vulkan_context_provider.h
+//   - depends_on /android_webview/browser/gfx/gpu_service_webview.h
+// ---
+
 #include "android_webview/browser/gfx/skia_output_surface_dependency_webview.h"
 
 #include "android_webview/browser/gfx/aw_vulkan_context_provider.h"

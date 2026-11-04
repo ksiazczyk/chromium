@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebView metrics build targets
+summary: GN build file defining the metrics source set and a test support static library with their sources and dependencies.
+relations:
+  - configures /android_webview/browser/metrics/android_metrics_log_uploader.cc
+  - configures /android_webview/browser/metrics/android_metrics_log_uploader.h
+  - configures /android_webview/browser/metrics/android_metrics_provider.cc

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContentsLifecycleNotifier unit tests
+// summary: Unit tests verifying WebView state counting, app state transitions, and the on-lose-foreground callback behavior of AwContentsLifecycleNotifier.
+// relations:
+//   - tests /android_webview/browser/lifecycle/aw_contents_lifecycle_notifier.h
+//   - tests /android_webview/browser/lifecycle/aw_contents_lifecycle_notifier.cc
+//   - depends_on /base/compiler_specific.h
+// ---
+
 #include "android_webview/browser/lifecycle/aw_contents_lifecycle_notifier.h"
 
 #include "base/compiler_specific.h"

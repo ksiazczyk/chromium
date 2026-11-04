@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics test utilities header
+// summary: 'Declares test helpers for WebView metrics tests: a stub delegate, a test client, and a fixture handling prefs and singleton lifecycle.'
+// relations:
+//   - depends_on /android_webview/browser/metrics/aw_metrics_service_client.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/scoped_refptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_AW_METRICS_TEST_UTILS_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_AW_METRICS_TEST_UTILS_H_
 

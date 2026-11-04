@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderingTest base fixture declaration
+// summary: Declares the RenderingTest base fixture, its BrowserViewRendererClient and WindowHooks overrides, and the RENDERING_TEST_F macro for defining WebView gfx rendering tests.
+// relations:
+//   - implements /android_webview/browser/gfx/browser_view_renderer_client.h
+//   - depends_on /android_webview/browser/gfx/test/fake_window.h
+//   - implements /android_webview/browser/gfx/test/fake_window.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_TEST_RENDERING_TEST_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_TEST_RENDERING_TEST_H_
 

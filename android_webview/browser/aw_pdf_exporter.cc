@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPdfExporter native implementation
+// summary: Native companion to the Java AwPdfExporter that exports WebView content to PDF by building print settings and page ranges and driving AwPrintManager.
+// relations:
+//   - depends_on /android_webview/browser/aw_pdf_exporter.h
+//   - depends_on /android_webview/browser/aw_print_manager.h
+//   - depends_on /base/android/jni_android.h
+// ---
+
 #include "android_webview/browser/aw_pdf_exporter.h"
 
 #include <memory>

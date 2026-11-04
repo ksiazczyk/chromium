@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwNetLogsConnection implementation
+// summary: Starts and stops bounded net log capture to a file descriptor through a JNI-connected singleton.
+// relations:
+//   - depends_on /android_webview/browser/aw_net_logs_connection.h
+//   - depends_on /base/base64.h
+//   - depends_on /base/files/file.h
+// ---
+
 #include "android_webview/browser/aw_net_logs_connection.h"
 
 #include <unistd.h>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise authentication app link manager declaration
+// summary: Declares EnterpriseAuthenticationAppLinkManager and the enterprise_auth_app_link_policy preference for matching authentication URLs.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /components/prefs/pref_change_registrar.h
+//   - depends_on /components/prefs/pref_service.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_ENTERPRISE_AUTHENTICATION_APP_LINK_MANAGER_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_ENTERPRISE_AUTHENTICATION_APP_LINK_MANAGER_H_
 

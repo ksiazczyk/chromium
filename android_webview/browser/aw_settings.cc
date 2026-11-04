@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView settings implementation
+// summary: Implements AwSettings, translating Java WebView settings such as JavaScript, mixed content, user agent, and force dark into Blink web preferences.
+// relations:
+//   - implements /android_webview/browser/aw_settings.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+// ---
+
 #include "android_webview/browser/aw_settings.h"
 
 #include <memory>

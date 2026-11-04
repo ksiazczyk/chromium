@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for WebView gfx
+summary: Specifies allowed include rules for the gfx directory, permitting gfx, JNI headers, common switches and viz service dependencies.

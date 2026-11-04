@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup touch handle drawable class declaration
+// summary: Declares PopupTouchHandleDrawable, a ui::TouchHandleDrawable implementation backed by an Android PopupWindow.
+// relations:
+//   - depends_on /ui/touch_selection/touch_handle.h
+//   - implements /ui/touch_selection/touch_handle.h
+//   - depends_on /base/android/jni_weak_ref.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_POPUP_TOUCH_HANDLE_DRAWABLE_H_
 #define ANDROID_WEBVIEW_BROWSER_POPUP_TOUCH_HANDLE_DRAWABLE_H_
 

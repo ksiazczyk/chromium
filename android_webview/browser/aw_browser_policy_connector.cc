@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBrowserPolicyConnector implementation
+// summary: Implements the WebView policy connector, building the policy handler list for URL filtering and authentication policies and creating the Android policy provider.
+// relations:
+//   - implements /android_webview/browser/aw_browser_policy_connector.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /android_webview/browser/enterprise_authentication_app_link_policy_handler.h
+// ---
+
 #include "android_webview/browser/aw_browser_policy_connector.h"
 
 #include <memory>

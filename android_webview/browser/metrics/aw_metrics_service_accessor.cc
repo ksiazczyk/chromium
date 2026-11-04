@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView metrics service accessor implementation
+// summary: Registers external experiment IDs with the synthetic trial registry, skipping redundant updates and guarding state with a lock.
+// relations:
+//   - implements /android_webview/browser/metrics/aw_metrics_service_accessor.h
+//   - depends_on /android_webview/browser/metrics/aw_metrics_service_client.h
+// ---
+
 #include "android_webview/browser/metrics/aw_metrics_service_accessor.h"
 
 #include <algorithm>

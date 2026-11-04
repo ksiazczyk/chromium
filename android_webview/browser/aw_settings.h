@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView settings class declaration
+// summary: Declares AwSettings, a WebContentsObserver that applies Java-side WebView settings to renderer preferences through locked update methods.
+// relations:
+//   - depends_on /base/android/jni_weak_ref.h
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /content/public/browser/web_contents_observer.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_SETTINGS_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_SETTINGS_H_
 

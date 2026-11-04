@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwDarkMode class declaration
+// summary: Declares the AwDarkMode WebContentsObserver that applies dark mode and force dark preferences to Android WebView web contents.
+// relations:
+//   - depends_on /android_webview/browser/aw_settings.h
+//   - depends_on /base/android/jni_weak_ref.h
+//   - depends_on /base/supports_user_data.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_DARK_MODE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_DARK_MODE_H_
 

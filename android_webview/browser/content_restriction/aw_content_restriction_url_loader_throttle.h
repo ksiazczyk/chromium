@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentRestrictionURLLoaderThrottle class header
+// summary: Declares the WebView URLLoaderThrottle that enforces content restrictions by classifying requests and streaming request bodies through mojo data pipes to a file descriptor.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/scoped_refptr.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_CONTENT_RESTRICTION_AW_CONTENT_RESTRICTION_URL_LOADER_THROTTLE_H_
 #define ANDROID_WEBVIEW_BROWSER_CONTENT_RESTRICTION_AW_CONTENT_RESTRICTION_URL_LOADER_THROTTLE_H_
 

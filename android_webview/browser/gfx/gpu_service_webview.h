@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuServiceWebView class declaration
+// summary: Declares the GpuServiceWebView singleton that owns GPU service objects and exposes them along with GPU info, preferences and feature info.
+// relations:
+//   - depends_on /gpu/config/gpu_feature_info.h
+//   - depends_on /gpu/config/gpu_info.h
+//   - depends_on /gpu/config/gpu_preferences.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_GPU_SERVICE_WEBVIEW_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_GPU_SERVICE_WEBVIEW_H_
 

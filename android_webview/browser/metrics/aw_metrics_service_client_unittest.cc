@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwMetricsServiceClient unit tests
+// summary: Unit tests for the WebView metrics client covering sampling, sample bucket values, recording state, and package name recording.
+// relations:
+//   - tests /android_webview/browser/metrics/aw_metrics_service_client.h
+//   - depends_on /android_webview/common/aw_features.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #include "android_webview/browser/metrics/aw_metrics_service_client.h"
 
 #include <memory>

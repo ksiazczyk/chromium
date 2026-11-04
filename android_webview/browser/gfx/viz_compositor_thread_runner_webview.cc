@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizCompositorThreadRunnerWebView implementation
+// summary: Implements the WebView viz compositor thread runner that starts the VizWebView thread and initializes the FrameSinkManager on it.
+// relations:
+//   - implements /android_webview/browser/gfx/viz_compositor_thread_runner_webview.h
+//   - depends_on /android_webview/browser/gfx/task_queue_webview.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/gfx/viz_compositor_thread_runner_webview.h"
 
 #include <utility>

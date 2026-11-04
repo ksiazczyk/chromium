@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System state utilities implementation
+// summary: Implements JNI-backed helpers reporting multiple user profiles state, primary CPU ABI bitness, and AGSA process name enums for UMA logging.
+// relations:
+//   - depends_on /android_webview/browser/metrics/system_state_util.h
+//   - depends_on /base/android/apk_info.h
+//   - depends_on /base/android/jni_string.h
+// ---
+
 #include "android_webview/browser/metrics/system_state_util.h"
 
 #include <string>

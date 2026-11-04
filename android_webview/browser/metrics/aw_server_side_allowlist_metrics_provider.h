@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server-side allowlist metrics provider declaration
+// summary: Declares a metrics provider that reports whether server-side app package name filtering is required based on the installer package type.
+// relations:
+//   - depends_on /android_webview/browser/metrics/aw_metrics_service_client.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - implements /components/metrics/metrics_provider.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_AW_SERVER_SIDE_ALLOWLIST_METRICS_PROVIDER_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_AW_SERVER_SIDE_ALLOWLIST_METRICS_PROVIDER_H_
 

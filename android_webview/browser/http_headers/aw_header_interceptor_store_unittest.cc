@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwHeaderInterceptorStore unit tests
+// summary: Unit tests verifying monotonically increasing interceptor ids, removal of interceptors by id, no-op removal of unknown ids, and store behavior after removals.
+// relations:
+//   - tests /android_webview/browser/http_headers/aw_header_interceptor_store.h
+//   - depends_on /android_webview/browser/request_matcher/aw_request_matcher.h
+//   - depends_on /base/android/scoped_java_ref.h
+// ---
+
 #include "android_webview/browser/http_headers/aw_header_interceptor_store.h"
 
 #include <string>

@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebView browser build targets
+summary: GN build configuration defining the WebView browser source sets, including a separate render process target and Java enum generation.
+relations:
+  - depends_on /build/config/android/rules.gni
+  - depends_on /components/spellcheck/spellcheck_build_features.gni
+  - depends_on /printing/buildflags/buildflags.gni

@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the WebView lifecycle source set
+summary: Defines the lifecycle source_set listing the notifier and observer sources together with their build dependencies.
+relations:
+  - has_part /android_webview/browser/lifecycle/aw_contents_lifecycle_notifier.cc
+  - has_part /android_webview/browser/lifecycle/aw_contents_lifecycle_notifier.h
+  - has_part /android_webview/browser/lifecycle/webview_app_state_observer.cc

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android metrics log uploader unit tests
+// summary: Tests that MaybeFilterLog keeps only allowlisted histograms, clears user actions, and leaves data unchanged when filtering is off or the proto is invalid.
+// relations:
+//   - tests /android_webview/browser/metrics/android_metrics_log_uploader.h
+//   - depends_on /base/metrics/metrics_hashes.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "android_webview/browser/metrics/android_metrics_log_uploader.h"
 
 #include "base/metrics/metrics_hashes.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebResourceRequest header
+// summary: Declares the copyable AwWebResourceRequest data structure that carries URL, method, main-frame, user-gesture and header information mirroring android.webkit.WebResourceRequest.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - implemented_by /android_webview/browser/network_service/aw_web_resource_request.cc
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_WEB_RESOURCE_REQUEST_H_
 #define ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_WEB_RESOURCE_REQUEST_H_
 

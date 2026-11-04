@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android protocol handler header
+// summary: Declares helpers for creating input streams and querying MIME types for Android protocol URLs.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_ANDROID_PROTOCOL_HANDLER_H_
 #define ANDROID_WEBVIEW_BROWSER_ANDROID_PROTOCOL_HANDLER_H_
 

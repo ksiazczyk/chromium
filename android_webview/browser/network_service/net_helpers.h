@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView network helper functions header
+// summary: Declares helpers for updating request load flags, blocking URLs with access denied, sizing the on-disk HTTP cache, and converting request headers to JNI vector pairs.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_NET_HELPERS_H_
 #define ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_NET_HELPERS_H_
 

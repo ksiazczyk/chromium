@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView client hints controller delegate header
+// summary: Declares AwClientHintsControllerDelegate, the content client hints delegate that manages user-agent metadata and per-origin client hints for Android WebView.
+// relations:
+//   - depends_on /components/prefs/pref_service.h
+//   - implements /content/public/browser/client_hints_controller_delegate.h
+//   - depends_on /ui/gfx/geometry/size_f.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_CLIENT_HINTS_CONTROLLER_DELEGATE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_CLIENT_HINTS_CONTROLLER_DELEGATE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics filtering status provider implementation
+// summary: Sets the system profile metrics filtering status to all metrics or critical-only based on the WebView metrics service client's decision.
+// relations:
+//   - depends_on /android_webview/browser/metrics/aw_metrics_filtering_status_metrics_provider.h
+//   - depends_on /android_webview/browser/metrics/aw_metrics_service_client.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/metrics/aw_metrics_filtering_status_metrics_provider.h"
 
 #include "android_webview/browser/metrics/aw_metrics_service_client.h"

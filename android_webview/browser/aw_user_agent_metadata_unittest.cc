@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User agent metadata JNI round-trip unit tests
+// summary: Unit tests verifying Java-to-native and native-to-Java conversion of user agent metadata, covering empty and full metadata, partial brand lists, and bitness handling.
+// relations:
+//   - depends_on /android_webview/browser/aw_client_hints_controller_delegate.h
+//   - depends_on /android_webview/browser/aw_user_agent_metadata.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include <vector>
 
 #include "android_webview/browser/aw_client_hints_controller_delegate.h"

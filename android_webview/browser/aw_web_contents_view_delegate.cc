@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView WebContents view delegate implementation
+// summary: Implements the WebView WebContents view delegate, showing and dismissing context menus through the context menu helper when the hyperlink context menu feature is enabled.
+// relations:
+//   - implements /android_webview/browser/aw_web_contents_view_delegate.h
+//   - depends_on /android_webview/browser/aw_context_menu_helper.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/aw_web_contents_view_delegate.h"
 
 #include "android_webview/browser/aw_context_menu_helper.h"

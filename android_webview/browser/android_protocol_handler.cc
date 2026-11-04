@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android protocol handler implementation
+// summary: Implements the JNI bridge that opens input streams and resolves MIME types for Android asset and resource URLs.
+// relations:
+//   - depends_on /android_webview/browser/android_protocol_handler.h
+//   - depends_on /android_webview/common/url_constants.h
+//   - depends_on /base/android/jni_android.h
+// ---
+
 #include "android_webview/browser/android_protocol_handler.h"
 
 #include <memory>

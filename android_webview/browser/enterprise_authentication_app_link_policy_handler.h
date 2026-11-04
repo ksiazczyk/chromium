@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise authentication app link policy handler declaration
+// summary: Declares the policy handler class that checks and applies the EnterpriseAuthenticationAppLink policy for WebView.
+// relations:
+//   - depends_on /android_webview/browser/aw_enterprise_authentication_app_link_manager.h
+//   - depends_on /components/policy/core/browser/configuration_policy_handler.h
+//   - depends_on /components/policy/core/browser/policy_error_map.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_ENTERPRISE_AUTHENTICATION_APP_LINK_POLICY_HANDLER_H_
 #define ANDROID_WEBVIEW_BROWSER_ENTERPRISE_AUTHENTICATION_APP_LINK_POLICY_HANDLER_H_
 

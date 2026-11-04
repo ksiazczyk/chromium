@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debugging metrics provider implementation
+// summary: Records UMA metrics on whether WebView debugging is enabled by a debuggable app or OS, by setRemoteDebuggingEnabled, or not at all.
+// relations:
+//   - implements /android_webview/browser/debugging_metrics_provider.h
+//   - depends_on /android_webview/browser/aw_devtools_server.h
+//   - depends_on /base/android/android_info.h
+// ---
+
 #include "android_webview/browser/debugging_metrics_provider.h"
 
 #include "android_webview/browser/aw_devtools_server.h"

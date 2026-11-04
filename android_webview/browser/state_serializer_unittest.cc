@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: State serializer unit tests
+// summary: Unit tests verifying that WebView navigation entries round-trip through the state serializer across the supported state versions.
+// relations:
+//   - tests /android_webview/browser/state_serializer.h
+//   - depends_on /android_webview/common/aw_features.h
+//   - depends_on /base/check_op.h
+// ---
+
 #include "android_webview/browser/state_serializer.h"
 
 #include <iterator>

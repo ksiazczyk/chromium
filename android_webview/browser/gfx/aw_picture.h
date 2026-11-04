@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPicture header
+// summary: Declares AwPicture, a self-contained wrapper around an SkPicture that exposes width, height and draw methods to Java via JNI.
+// relations:
+//   - depends_on /base/android/jni_weak_ref.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_AW_PICTURE_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_AW_PICTURE_H_
 

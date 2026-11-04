@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContentRestrictionURLLoaderThrottle unit tests
+// summary: Unit tests for the content restriction URL loader throttle, covering request classification, chunked and non-chunked data pipe streaming, and resume or cancel behavior.
+// relations:
+//   - tests /android_webview/browser/content_restriction/aw_content_restriction_url_loader_throttle.h
+//   - depends_on /android_webview/browser/content_restriction/aw_content_restriction_blocked_navigation_tracker.h
+//   - depends_on /android_webview/browser/content_restriction/aw_content_restriction_manager_client.h
+// ---
+
 #include "android_webview/browser/content_restriction/aw_content_restriction_url_loader_throttle.h"
 
 #include <fcntl.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for WebView metrics
+summary: Defines the allowed include dependencies for code in the WebView metrics folder.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwCookieAccessPolicy unit tests
+// summary: Table-driven unit tests verifying CanAccessCookies outcomes for disallowed cookies, third-party cookies, file URLs, and partitioned state.
+// relations:
+//   - tests /android_webview/browser/aw_cookie_access_policy.h
+//   - depends_on /net/cookies/site_for_cookies.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "android_webview/browser/aw_cookie_access_policy.h"
 
 #include <string_view>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContents native class declaration
+// summary: Declares the native AwContents class that pairs with the Java AwContents, coordinating rendering, navigation, permissions, safe browsing, and find-in-page behavior for Android WebView.
+// relations:
+//   - implements /android_webview/browser/aw_browser_permission_request_delegate.h
+//   - depends_on /android_webview/browser/aw_navigation_client.h
+//   - implements /android_webview/browser/aw_render_process_gone_delegate.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_CONTENTS_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_CONTENTS_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the metrics filtering status provider
+// summary: Checks that the provider reports METRICS_ALL or METRICS_ONLY_CRITICAL depending on the test client's filtering flag.
+// relations:
+//   - tests /android_webview/browser/metrics/aw_metrics_filtering_status_metrics_provider.h
+//   - depends_on /android_webview/browser/metrics/aw_metrics_service_client.h
+//   - depends_on /base/test/task_environment.h
+// ---
+
 #include "android_webview/browser/metrics/aw_metrics_filtering_status_metrics_provider.h"
 
 #include "android_webview/browser/metrics/aw_metrics_service_client.h"

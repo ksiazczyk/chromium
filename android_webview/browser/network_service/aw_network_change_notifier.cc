@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwNetworkChangeNotifier implementation
+// summary: Implements the WebView network change notifier, propagating max-bandwidth and specific network changes to observers behind a feature flag.
+// relations:
+//   - implements /android_webview/browser/network_service/aw_network_change_notifier.h
+//   - depends_on /android_webview/common/aw_features.h
+//   - depends_on /base/feature_list.h
+// ---
+
 #include "android_webview/browser/network_service/aw_network_change_notifier.h"
 #include "android_webview/common/aw_features.h"
 #include "base/feature_list.h"

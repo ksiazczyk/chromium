@@ -1,3 +1,12 @@
+---
+type: readme
+title: Android WebView Network Service
+summary: Explains the folder's code for interacting with the Network Service, its in-process mode, and how to test with the service always enabled.
+relations:
+  - references /android_webview/docs/test-instructions.md
+  - references /services/network/README.md
+---
+
 # Android WebView Network Service
 
 This folder contains Android WebView's code for interacting with the Network

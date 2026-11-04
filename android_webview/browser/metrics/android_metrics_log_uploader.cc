@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android metrics log uploader implementation
+// summary: Uploads UMA logs through the Android platform logging mechanism and filters user actions and non-allowlisted histograms when critical-only filtering is enabled.
+// relations:
+//   - depends_on /android_webview/browser/metrics/android_metrics_log_uploader.h
+//   - depends_on /base/android/jni_array.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "android_webview/browser/metrics/android_metrics_log_uploader.h"
 
 #include "base/android/jni_array.h"

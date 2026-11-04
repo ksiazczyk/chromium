@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwCrashyClassUtils implementation
+// summary: Provides a JNI entry point that deliberately triggers a non-inlined native crash, simulating real WebView incident stack traces.
+// relations:
+//   - depends_on /base/compiler_specific.h
+//   - depends_on /base/logging.h
+// ---
+
 #include <ostream>
 
 #include "base/compiler_specific.h"

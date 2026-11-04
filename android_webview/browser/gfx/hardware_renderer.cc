@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware renderer for Android WebView
+// summary: Implements the hardware-accelerated rendering path that draws WebView compositor frames through viz, GL, Vulkan and ANGLE, including overlay handling and draw metrics.
+// relations:
+//   - depends_on /android_webview/browser/gfx/hardware_renderer.h
+//   - depends_on /android_webview/browser/gfx/aw_gl_surface.h
+//   - depends_on /android_webview/browser/gfx/display_scheduler_webview.h
+// ---
+
 #include "android_webview/browser/gfx/hardware_renderer.h"
 
 #include <algorithm>

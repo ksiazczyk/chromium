@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsIoThreadClient implementation
+// summary: Implements the IO-thread client that maps URL requests to their owning WebContents, handling cache modes, shouldInterceptRequest mediation, and header interception.
+// relations:
+//   - depends_on /android_webview/browser/aw_contents_io_thread_client.h
+//   - depends_on /android_webview/browser/aw_settings.h
+//   - depends_on /android_webview/browser/http_headers/aw_header_interceptor_store.h
+// ---
+
 #include "android_webview/browser/aw_contents_io_thread_client.h"
 
 #include <map>

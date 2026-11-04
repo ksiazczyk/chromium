@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView DevTools manager delegate
+// summary: Implements the DevTools manager delegate for WebView, providing target descriptions, the discovery page, and remote debugging targets.
+// relations:
+//   - implements /android_webview/browser/aw_devtools_manager_delegate.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/gfx/browser_view_renderer.h
+// ---
+
 #include "android_webview/browser/aw_devtools_manager_delegate.h"
 
 #include "android_webview/browser/aw_browser_context.h"

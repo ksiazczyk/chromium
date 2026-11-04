@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView WebUI controller factory
+// summary: Declares AwWebUIControllerFactory, a singleton content::WebUIControllerFactory that decides which URLs use WebUI and creates matching controllers for WebView.
+// relations:
+//   - depends_on /base/memory/singleton.h
+//   - depends_on /content/public/browser/web_ui_controller_factory.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_WEB_UI_CONTROLLER_FACTORY_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_WEB_UI_CONTROLLER_FACTORY_H_
 

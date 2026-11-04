@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find-in-page helper implementation
+// summary: Implements the WebView find-in-page API, sending find requests to WebContents and reporting match counts and active ordinals to a listener.
+// relations:
+//   - implements /android_webview/browser/find_helper.h
+//   - depends_on /content/public/browser/render_view_host.h
+//   - depends_on /content/public/browser/web_contents.h
+// ---
+
 #include "android_webview/browser/find_helper.h"
 
 #include "content/public/browser/render_view_host.h"

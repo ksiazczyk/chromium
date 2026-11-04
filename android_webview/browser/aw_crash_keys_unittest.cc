@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwCrashKeys unit tests
+// summary: Unit tests verifying that switches and features are stored under the expected crash key names and that the switch count key is set correctly.
+// relations:
+//   - tests /android_webview/browser/aw_crash_keys.h
+//   - depends_on /components/crash/core/common/crash_key.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #include "android_webview/browser/aw_crash_keys.h"
 
 #include "components/crash/core/common/crash_key.h"

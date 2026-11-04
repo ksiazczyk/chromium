@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWindow, WindowHooks, and FakeFunctor declarations
+// summary: Declares FakeWindow, the WindowHooks callback interface, and FakeFunctor, which together simulate an Android window and rendering functor for WebView gfx tests.
+// relations:
+//   - depends_on /android_webview/browser/gfx/hardware_renderer.h
+//   - depends_on /android_webview/browser/gfx/test/fake_hwui_gl_context.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_TEST_FAKE_WINDOW_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_TEST_FAKE_WINDOW_H_
 

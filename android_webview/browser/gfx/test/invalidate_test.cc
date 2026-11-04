@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Invalidation and begin frame rendering tests
+// summary: Contains gtest cases that exercise WebView compositor invalidation, begin frames, and frame submission through viz frame sinks and the WebView compositor threads.
+// relations:
+//   - depends_on /android_webview/browser/gfx/begin_frame_source_webview.h
+//   - depends_on /android_webview/browser/gfx/gpu_service_webview.h
+//   - depends_on /android_webview/browser/gfx/hardware_renderer.h
+// ---
+
 #include "android_webview/browser/gfx/begin_frame_source_webview.h"
 #include "android_webview/browser/gfx/gpu_service_webview.h"
 #include "android_webview/browser/gfx/hardware_renderer.h"

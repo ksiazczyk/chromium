@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPacProcessor header
+// summary: Declares the PAC processor that sets proxy scripts, makes proxy requests, and cancels pending jobs.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/task/single_thread_task_runner.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_PAC_PROCESSOR_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_PAC_PROCESSOR_H_
 

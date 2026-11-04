@@ -6,6 +6,15 @@
 // tools/metrics/histograms/metadata/navigation/enums.xml. Only the values that
 // may be used by the WebView Java code is exported.
 
+// ---docerion
+// type: source
+// title: Back-forward cache not-restored reason enum
+// summary: Defines the WebView-exported subset of the back-forward cache NotRestoredReason enum for use by WebView Java code.
+// relations:
+//   - references /tools/metrics/histograms/metadata/navigation/enums.xml
+//   - depends_on /content/public/browser/back_forward_cache.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_BACKFORWARD_CACHE_NOT_RESTORED_REASON_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_BACKFORWARD_CACHE_NOT_RESTORED_REASON_H_
 

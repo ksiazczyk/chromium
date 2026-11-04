@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android WebView content browser client unit tests
+// summary: Unit tests for AwContentBrowserClient verifying that post-startup tasks and UI task runner callbacks run only after startup completion, in the expected order.
+// relations:
+//   - tests /android_webview/browser/aw_content_browser_client.h
+//   - depends_on /android_webview/browser/aw_feature_list_creator.h
+//   - depends_on /base/android/yield_to_looper_checker.h
+// ---
+
 #include "android_webview/browser/aw_content_browser_client.h"
 
 #include <memory>

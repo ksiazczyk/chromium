@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBrowserMainParts implementation
+// summary: Implements the WebView browser startup stages, initializing metrics, crash reporting, network change notifier, origin trials, variations, and performance manager.
+// relations:
+//   - implements /android_webview/browser/aw_browser_main_parts.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_browser_terminator.h
+// ---
+
 #include "android_webview/browser/aw_browser_main_parts.h"
 
 #include <memory>

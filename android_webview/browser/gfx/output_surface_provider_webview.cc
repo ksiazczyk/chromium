@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView output surface provider implementation
+// summary: Creates GL and Vulkan contexts, shared context state and viz output surfaces needed by the WebView display compositor, including ANGLE-specific context handling.
+// relations:
+//   - implements /android_webview/browser/gfx/output_surface_provider_webview.h
+//   - depends_on /android_webview/browser/gfx/aw_gl_surface_external_stencil.h
+//   - depends_on /android_webview/browser/gfx/aw_vulkan_context_provider.h
+// ---
+
 #include "android_webview/browser/gfx/output_surface_provider_webview.h"
 
 #include <optional>

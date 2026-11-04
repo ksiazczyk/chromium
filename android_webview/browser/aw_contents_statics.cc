@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsStatics JNI implementation
+// summary: Implements static WebView entry points exposed to Java, including product version, unreachable web data URL, safe browsing allowlist and privacy policy URL, and clearing client certificates.
+// relations:
+//   - depends_on /android_webview/browser/aw_contents_statics.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /android_webview/browser/aw_content_browser_client.h
+// ---
+
 #include "android_webview/browser/aw_contents_statics.h"
 
 #include <set>

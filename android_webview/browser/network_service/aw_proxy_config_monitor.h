@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwProxyConfigMonitor class declaration
+// summary: Declares a singleton that configures proxy settings for NetworkContext and supports setting and clearing proxy overrides.
+// relations:
+//   - depends_on /base/no_destructor.h
+//   - depends_on /mojo/public/cpp/bindings/remote_set.h
+//   - depends_on /net/proxy_resolution/proxy_config_service_android.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_PROXY_CONFIG_MONITOR_H_
 #define ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_PROXY_CONFIG_MONITOR_H_
 

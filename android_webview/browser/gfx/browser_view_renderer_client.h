@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserViewRendererClient interface header
+// summary: Declares the BrowserViewRendererClient interface with callbacks for picture availability, invalidation, scrolling, overscroll and text selection handle creation.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/time/time.h
+//   - depends_on /ui/gfx/geometry/point.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_BROWSER_VIEW_RENDERER_CLIENT_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_BROWSER_VIEW_RENDERER_CLIENT_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsOriginMatcher implementation
+// summary: Implements a thread-safe wrapper around OriginMatcher that matches origins against a rule list and reports invalid rules when updating.
+// relations:
+//   - depends_on /android_webview/browser/aw_contents_origin_matcher.h
+//   - depends_on /components/origin_matcher/origin_matcher.h
+//   - depends_on /url/gurl.h
+// ---
+
 #include "android_webview/browser/aw_contents_origin_matcher.h"
 
 #include "components/origin_matcher/origin_matcher.h"

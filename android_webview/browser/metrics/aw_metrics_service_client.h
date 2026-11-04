@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwMetricsServiceClient class declaration
+// summary: Declares the singleton managing WebView metrics collection, documenting consent requirements, client ID handling, and the metrics startup flow.
+// relations:
+//   - depends_on /android_webview/browser/lifecycle/webview_app_state_observer.h
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_AW_METRICS_SERVICE_CLIENT_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_AW_METRICS_SERVICE_CLIENT_H_
 

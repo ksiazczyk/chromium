@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskForwardingSequence implementation
+// summary: Implements a gpu::SingleTaskSequence wrapper that forwards all scheduling calls to the WebView global task queue TaskQueueWebView.
+// relations:
+//   - depends_on /android_webview/browser/gfx/task_forwarding_sequence.h
+//   - depends_on /android_webview/browser/gfx/task_queue_webview.h
+//   - depends_on /base/notreached.h
+// ---
+
 #include "android_webview/browser/gfx/task_forwarding_sequence.h"
 
 #include "android_webview/browser/gfx/task_queue_webview.h"

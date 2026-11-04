@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android metrics provider unit tests
+// summary: Verifies emitted histograms for new metrics logs and previous session data, and checks the AGSA process name mapping.
+// relations:
+//   - depends_on /android_webview/browser/metrics/android_metrics_provider.h
+//   - depends_on /android_webview/browser/metrics/system_state_util.h
+//   - depends_on /base/test/metrics/histogram_tester.h
+// ---
+
 #include "android_webview/browser/metrics/android_metrics_provider.h"
 
 #include "android_webview/browser/metrics/system_state_util.h"

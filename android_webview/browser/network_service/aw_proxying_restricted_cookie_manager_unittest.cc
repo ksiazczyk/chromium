@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwProxyingRestrictedCookieManager unit tests
+// summary: Unit tests for the WebView restricted cookie manager proxy, using a mock underlying manager to verify cookie calls, shared memory version handling, and third-party cookie behavior.
+// relations:
+//   - tests /android_webview/browser/network_service/aw_proxying_restricted_cookie_manager.h
+//   - depends_on /android_webview/browser/aw_cookie_access_policy.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/network_service/aw_proxying_restricted_cookie_manager.h"
 
 #include <memory>

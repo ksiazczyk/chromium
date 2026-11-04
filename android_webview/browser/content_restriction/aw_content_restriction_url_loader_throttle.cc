@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentRestrictionURLLoaderThrottle implementation
+// summary: Implements the URL loader throttle for content restriction, including helpers that stream request bodies into mojo data pipes.
+// relations:
+//   - implements /android_webview/browser/content_restriction/aw_content_restriction_url_loader_throttle.h
+//   - depends_on /android_webview/browser/content_restriction/aw_content_restriction_blocked_navigation_tracker.h
+//   - depends_on /android_webview/browser/content_restriction/aw_content_restriction_manager_client.h
+// ---
+
 #include "android_webview/browser/content_restriction/aw_content_restriction_url_loader_throttle.h"
 
 #include <unistd.h>

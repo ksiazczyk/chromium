@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView file system access permission context implementation
+// summary: Implements the WebView permission context that grants read and write access to picked files while blocking access to internal app data and cache paths.
+// relations:
+//   - depends_on /android_webview/browser/file_system_access/aw_file_system_access_permission_context.h
+//   - implements /android_webview/browser/file_system_access/aw_file_system_access_permission_context.h
+//   - depends_on /base/base_paths_android.h
+// ---
+
 #include "android_webview/browser/file_system_access/aw_file_system_access_permission_context.h"
 
 #include <vector>

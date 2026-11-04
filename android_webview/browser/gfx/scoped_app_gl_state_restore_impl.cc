@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App GL state restore implementation details
+// summary: Implements the standard ScopedAppGLStateRestoreImpl that captures and restores HWUI OpenGL state such as stencil settings, vertex attributes, and texture bindings.
+// relations:
+//   - depends_on /android_webview/browser/gfx/scoped_app_gl_state_restore_impl.h
+//   - implements /android_webview/browser/gfx/scoped_app_gl_state_restore_impl.h
+//   - depends_on /base/android/android_info.h
+// ---
+
 #include "android_webview/browser/gfx/scoped_app_gl_state_restore_impl.h"
 
 #include <string>

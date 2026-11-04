@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation state serializer implementation
+// summary: Implements saving and restoring WebView navigation history to and from a Pickle, including legacy version handling and a NavigationController-backed history wrapper.
+// relations:
+//   - implements /android_webview/browser/state_serializer.h
+//   - depends_on /android_webview/common/aw_features.h
+//   - depends_on /base/containers/span.h
+// ---
+
 #include "android_webview/browser/state_serializer.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer process metrics provider implementation
+// summary: Records the Android.WebView.SingleOrMultiProcess histogram indicating whether WebView uses an in-process or sandboxed out-of-process renderer.
+// relations:
+//   - depends_on /android_webview/browser/metrics/renderer_process_metrics_provider.h
+//   - depends_on /android_webview/common/aw_switches.h
+//   - depends_on /base/command_line.h
+// ---
+
 #include "android_webview/browser/metrics/renderer_process_metrics_provider.h"
 
 #include "android_webview/common/aw_switches.h"

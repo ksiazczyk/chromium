@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentRestrictionNavigationThrottle implementation
+// summary: Implements the navigation throttle that cancels blocked navigations and shows the content restriction interstitial error page.
+// relations:
+//   - implements /android_webview/browser/content_restriction/aw_content_restriction_navigation_throttle.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/content_restriction/aw_content_restriction_blocked_navigation_tracker.h
+// ---
+
 #include "android_webview/browser/content_restriction/aw_content_restriction_navigation_throttle.h"
 
 #include <memory>

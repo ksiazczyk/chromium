@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwVulkanContextProvider implementation
+// summary: Implements the WebView Vulkan context provider, loading libvulkan, binding function pointers and managing shared globals and Skia contexts for draw-fn rendering.
+// relations:
+//   - depends_on /android_webview/browser/gfx/aw_vulkan_context_provider.h
+//   - implements /android_webview/browser/gfx/aw_vulkan_context_provider.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/gfx/aw_vulkan_context_provider.h"
 
 #include <algorithm>

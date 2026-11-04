@@ -1,0 +1,8 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for //android_webview/browser
+summary: Per-file ownership rules assigning reviewers for bindings, policy, metrics, variations, and cookie manager changes.
+relations:
+  - references /ipc/SECURITY_OWNERS
+  - references /chrome/browser/policy/OWNERS
+  - references /android_webview/browser/metrics/OWNERS

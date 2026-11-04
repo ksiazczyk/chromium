@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBrowserContextStore implementation
+// summary: Implements a store that tracks, lists, and creates non-default WebView browser contexts persisted in preferences.
+// relations:
+//   - implements /android_webview/browser/aw_browser_context_store.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+// ---
+
 #include "android_webview/browser/aw_browser_context_store.h"
 
 #include <map>

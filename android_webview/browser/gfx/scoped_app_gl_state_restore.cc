@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped app GL state restore implementation
+// summary: Implements ScopedAppGLStateRestore, selecting between standard and ANGLE implementations to save and restore the Android app's OpenGL state during WebView draws.
+// relations:
+//   - implements /android_webview/browser/gfx/scoped_app_gl_state_restore.h
+//   - depends_on /android_webview/browser/gfx/scoped_app_gl_state_restore_impl.h
+//   - depends_on /android_webview/browser/gfx/scoped_app_gl_state_restore_impl_angle.h
+// ---
+
 #include "android_webview/browser/gfx/scoped_app_gl_state_restore.h"
 
 #include <string>

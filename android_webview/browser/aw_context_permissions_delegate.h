@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContextPermissionsDelegate interface
+// summary: Declares an interface for looking up permissions such as geolocation in AwBrowserContext, decoupling it from AwPermissionManager for easier mocking in tests.
+// relations:
+//   - depends_on /components/permissions/permission_manager.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_CONTEXT_PERMISSIONS_DELEGATE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_CONTEXT_PERMISSIONS_DELEGATE_H_
 

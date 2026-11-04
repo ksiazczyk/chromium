@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BeginFrameSourceWebView header
+// summary: Declares BeginFrameSourceWebView, an external begin frame source that observes a parent source, and the RootBeginFrameSourceWebView singleton driven by Android Choreographer.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/functional/callback_helpers.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_BEGIN_FRAME_SOURCE_WEBVIEW_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_BEGIN_FRAME_SOURCE_WEBVIEW_H_
 

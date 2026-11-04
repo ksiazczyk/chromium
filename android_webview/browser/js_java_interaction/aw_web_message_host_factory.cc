@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebMessageHostFactory implementation
+// summary: Implements the WebView WebMessageHostFactory, creating per-listener hosts that forward posted web messages and origin information to Java WebMessageListenerHolder objects over JNI.
+// relations:
+//   - depends_on /android_webview/browser/js_java_interaction/aw_web_message_host_factory.h
+//   - implements /android_webview/browser/js_java_interaction/aw_web_message_host_factory.h
+//   - depends_on /android_webview/browser/js_java_interaction/js_reply_proxy.h
+// ---
+
 #include "android_webview/browser/js_java_interaction/aw_web_message_host_factory.h"
 
 #include <string>

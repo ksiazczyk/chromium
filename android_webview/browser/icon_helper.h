@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon helper class declaration
+// summary: Declares IconHelper, a WebContentsObserver that tracks favicon changes for WebView and notifies a listener about received icons.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /content/public/browser/reload_type.h
+//   - depends_on /content/public/browser/web_contents_observer.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_ICON_HELPER_H_
 #define ANDROID_WEBVIEW_BROWSER_ICON_HELPER_H_
 

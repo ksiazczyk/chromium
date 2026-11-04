@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download manager delegate declaration
+// summary: Declares AwDownloadManagerDelegate, which cancels Chromium downloads and routes them to the WebView client bridge.
+// relations:
+//   - depends_on /base/supports_user_data.h
+//   - implements /content/public/browser/download_manager_delegate.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_DOWNLOAD_MANAGER_DELEGATE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_DOWNLOAD_MANAGER_DELEGATE_H_
 

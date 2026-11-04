@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for //android_webview/browser
+summary: Defines the include rules listing which Chromium directories and components the WebView browser code may depend on.

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView histograms allowlist class declaration
+// summary: Declares the singleton AwHistogramsAllowlist that checks whether a hashed histogram name is allowed for upload under filtering.
+// relations:
+//   - depends_on /base/no_destructor.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_AW_HISTOGRAMS_ALLOWLIST_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_AW_HISTOGRAMS_ALLOWLIST_H_
 

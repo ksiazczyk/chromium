@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeHWUIGLContext implementation for WebView rendering tests
+// summary: Implements a fake EGL/GLES context that loads libEGL, creates offscreen or window surfaces, makes contexts current, swaps buffers, and reads pixels for WebView rendering tests.
+// relations:
+//   - implements /android_webview/browser/gfx/test/fake_hwui_gl_context.h
+//   - depends_on /base/check.h
+//   - depends_on /base/compiler_specific.h
+// ---
+
 #include "android_webview/browser/gfx/test/fake_hwui_gl_context.h"
 
 #include <vector>

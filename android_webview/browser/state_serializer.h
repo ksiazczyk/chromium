@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Navigation state serializer declarations
+// summary: Declares functions and version constants for writing and restoring WebView navigation history as a Pickle, with internal helpers exposed for unit testing.
+// relations:
+//   - depends_on /base/containers/fixed_flat_set.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_STATE_SERIALIZER_H_
 #define ANDROID_WEBVIEW_BROWSER_STATE_SERIALIZER_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer lifecycle state enum and query helpers
+// summary: Defines the AwRenderProcessLifecycleState enum for WebView renderer reuse states and declares functions to query and name a host's lifecycle state.
+// relations:
+//   - references /tools/metrics/histograms/metadata/memory/histograms.xml
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_RENDER_PROCESS_LIFECYCLE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_RENDER_PROCESS_LIFECYCLE_H_
 

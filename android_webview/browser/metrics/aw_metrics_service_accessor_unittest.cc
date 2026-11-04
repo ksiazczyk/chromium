@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwMetricsServiceAccessor unit tests
+// summary: Unit tests verifying that registering external experiments updates WebView synthetic field trials correctly, including replacement, ordering, and clearing.
+// relations:
+//   - tests /android_webview/browser/metrics/aw_metrics_service_accessor.h
+//   - depends_on /android_webview/browser/metrics/aw_metrics_test_utils.h
+// ---
+
 #include "android_webview/browser/metrics/aw_metrics_service_accessor.h"
 
 #include <vector>

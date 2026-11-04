@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwDrawFnImpl class declaration
+// summary: Declares the AwDrawFnImpl class that manages draw functor handles, render thread state and the Vulkan context provider for WebView rendering.
+// relations:
+//   - depends_on /android_webview/browser/gfx/aw_vulkan_context_provider.h
+//   - depends_on /android_webview/browser/gfx/compositor_frame_consumer.h
+//   - depends_on /android_webview/browser/gfx/render_thread_manager.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_AW_DRAW_FN_IMPL_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_AW_DRAW_FN_IMPL_H_
 

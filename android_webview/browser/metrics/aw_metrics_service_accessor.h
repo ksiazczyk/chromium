@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView metrics service accessor class declaration
+// summary: Declares friend-restricted access to metrics service helpers for registering external experiments and clearing them in tests.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_AW_METRICS_SERVICE_ACCESSOR_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_AW_METRICS_SERVICE_ACCESSOR_H_
 

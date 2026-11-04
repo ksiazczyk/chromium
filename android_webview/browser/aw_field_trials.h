@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwFieldTrials class declaration
+// summary: Declares the platform field trials subclass that registers WebView-specific default feature overrides distinct from Chrome's Android defaults.
+// relations:
+//   - depends_on /base/feature_list.h
+//   - depends_on /components/variations/platform_field_trials.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_FIELD_TRIALS_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_FIELD_TRIALS_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsIoThreadClient class declaration
+// summary: Declares a short-lived handle for calling Java methods on the IO thread, associating URL requests with the WebContents they belong to and exposing cache mode settings.
+// relations:
+//   - depends_on /android_webview/browser/aw_settings.h
+//   - depends_on /android_webview/browser/http_headers/aw_header_interceptor_store.h
+//   - depends_on /base/android/scoped_java_ref.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_CONTENTS_IO_THREAD_CLIENT_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_CONTENTS_IO_THREAD_CLIENT_H_
 

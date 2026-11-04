@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPreconnector implementation
+// summary: Implements the WebView preconnect API, opening sockets to domains ahead of page loads, prewarming shared dictionary metadata, and recording preconnect metrics.
+// relations:
+//   - implements /android_webview/browser/aw_preconnector.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/aw_preconnector.h"
 
 #include <jni.h>

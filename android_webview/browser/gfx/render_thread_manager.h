@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render thread manager class declaration
+// summary: Declares the RenderThreadManager class, a CompositorFrameConsumer that transfers scroll offsets, child frames, and parent draw data between the UI thread and the render thread.
+// relations:
+//   - implements /android_webview/browser/gfx/compositor_frame_consumer.h
+//   - depends_on /android_webview/browser/gfx/hardware_renderer.h
+//   - depends_on /android_webview/browser/gfx/parent_compositor_draw_constraints.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_RENDER_THREAD_MANAGER_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_RENDER_THREAD_MANAGER_H_
 

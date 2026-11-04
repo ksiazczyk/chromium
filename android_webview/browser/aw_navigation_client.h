@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwNavigationClient header
+// summary: Declares the native-to-Java client owned by AwContents that reports page paint timing and performance marks.
+// relations:
+//   - depends_on /base/android/jni_weak_ref.h
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /content/public/browser/page.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_NAVIGATION_CLIENT_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_NAVIGATION_CLIENT_H_
 

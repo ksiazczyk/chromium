@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie manager unit tests
+// summary: Unit tests for CookieManager, including a regression test that deferred destruction of the provisional CookieMonster avoids a use-after-free during InvokeQueue.
+// relations:
+//   - tests /android_webview/browser/cookie_manager.h
+//   - depends_on /base/files/scoped_temp_dir.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "android_webview/browser/cookie_manager.h"
 
 #include <memory>

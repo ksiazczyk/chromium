@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server-side allowlist metrics provider implementation
+// summary: Sets the app package name allowlist filter in system profile metrics based on whether the installer package is a system app.
+// relations:
+//   - depends_on /android_webview/browser/metrics/aw_server_side_allowlist_metrics_provider.h
+//   - implements /android_webview/browser/metrics/aw_server_side_allowlist_metrics_provider.h
+//   - depends_on /android_webview/browser/metrics/aw_metrics_service_client.h
+// ---
+
 #include "android_webview/browser/metrics/aw_server_side_allowlist_metrics_provider.h"
 
 #include "android_webview/browser/metrics/aw_metrics_service_client.h"

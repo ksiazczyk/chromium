@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer priority enum
+// summary: Defines the RendererPriority enum with waived, low, and high levels used for WebView renderer prioritization.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_RENDERER_PRIORITY_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_RENDERER_PRIORITY_H_
 

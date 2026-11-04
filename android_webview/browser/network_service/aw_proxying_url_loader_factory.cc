@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwProxyingURLLoaderFactory implementation
+// summary: Implements the Android WebView URL loader factory, centralizing request interception and blocking, scheme-specific loading, header handling, and WebView callbacks such as shouldInterceptRequest and onReceivedError.
+// relations:
+//   - implements /android_webview/browser/network_service/aw_proxying_url_loader_factory.h
+//   - depends_on /android_webview/browser/android_protocol_handler.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+// ---
+
 #include "android_webview/browser/network_service/aw_proxying_url_loader_factory.h"
 
 #include <algorithm>

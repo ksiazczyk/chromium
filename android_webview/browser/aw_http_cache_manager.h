@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwHttpCacheManager class declaration
+// summary: Declares the class that manages the Android WebView HTTP cache and its configurable quota for a browser context, with Java bindings.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/memory/raw_ref.h
+//   - depends_on /components/prefs/pref_name_set.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_HTTP_CACHE_MANAGER_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_HTTP_CACHE_MANAGER_H_
 

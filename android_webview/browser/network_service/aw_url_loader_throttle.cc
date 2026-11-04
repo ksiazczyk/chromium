@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwURLLoaderThrottle implementation
+// summary: Implements a URL loader throttle that adds extra request headers from the browser context and removes them again when a redirect leaves the original domain.
+// relations:
+//   - implements /android_webview/browser/network_service/aw_url_loader_throttle.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /net/base/registry_controlled_domains/registry_controlled_domain.h
+// ---
+
 #include "android_webview/browser/network_service/aw_url_loader_throttle.h"
 
 #include "android_webview/browser/aw_browser_context.h"

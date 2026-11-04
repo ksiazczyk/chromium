@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwProxyController JNI implementation
+// summary: JNI bridge that applies and clears WebView proxy overrides through AwProxyConfigMonitor and notifies a Java listener when the proxy override changes.
+// relations:
+//   - depends_on /android_webview/browser/network_service/aw_proxy_config_monitor.h
+//   - depends_on /base/android/jni_array.h
+//   - depends_on /base/android/scoped_java_ref.h
+// ---
+
 #include "android_webview/browser/aw_browser_context.h"
 #include "android_webview/browser/aw_browser_process.h"
 #include "android_webview/browser/network_service/aw_proxy_config_monitor.h"

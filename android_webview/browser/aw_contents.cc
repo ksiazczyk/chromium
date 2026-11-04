@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView AwContents implementation
+// summary: Implements AwContents, the core WebView browser object handling rendering, autofill, permissions, lifecycle, state serialization, and Java interaction with the embedder.
+// relations:
+//   - implements /android_webview/browser/aw_contents.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_browser_main_parts.h
+// ---
+
 #include "android_webview/browser/aw_contents.h"
 
 #include <atomic>

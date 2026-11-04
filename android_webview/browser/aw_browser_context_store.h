@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBrowserContextStore class declaration
+// summary: Declares the singleton store that owns and manages AwBrowserContext profiles, tracking in-memory and on-disk contexts with lazy instantiation, listing, and deletion.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_BROWSER_CONTEXT_STORE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_BROWSER_CONTEXT_STORE_H_
 

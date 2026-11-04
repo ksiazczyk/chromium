@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window coverage tracker JNI glue
+// summary: Receives screen coverage percentages per scheme from Java via JNI and forwards them to the WebView visibility metrics logger.
+// relations:
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /android_webview/browser/metrics/visibility_metrics_logger.h
+//   - depends_on /base/android/jni_android.h
+// ---
+
 #include "android_webview/browser/aw_browser_process.h"
 #include "android_webview/browser/metrics/visibility_metrics_logger.h"
 #include "base/android/jni_android.h"

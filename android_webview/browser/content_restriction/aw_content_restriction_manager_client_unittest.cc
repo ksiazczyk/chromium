@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContentRestrictionManagerClient unit tests
+// summary: Unit tests for the content restriction manager client that use a mock delegate to exercise classification requests and metrics.
+// relations:
+//   - tests /android_webview/browser/content_restriction/aw_content_restriction_manager_client.h
+//   - depends_on /android_webview/browser/content_restriction/aw_content_restriction_manager_client.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/content_restriction/aw_content_restriction_manager_client.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRenderProcess implementation
+// summary: Implements the native handle for WebView renderer processes, managing the Java peer, cache clearing, process termination, and render process lifecycle observation.
+// relations:
+//   - implements /android_webview/browser/aw_render_process.h
+//   - depends_on /android_webview/browser/aw_render_process_keep_alive.h
+//   - depends_on /base/android/child_process_binding_types.h
+// ---
+
 #include "android_webview/browser/aw_render_process.h"
 
 #include "android_webview/browser/aw_render_process_keep_alive.h"

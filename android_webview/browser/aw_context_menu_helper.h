@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContextMenuHelper class declaration
+// summary: Declares the WebContentsUserData-based helper that shows and dismisses context menus for WebView, holding a reference to its Java object.
+// relations:
+//   - depends_on /content/public/browser/context_menu_params.h
+//   - depends_on /content/public/browser/web_contents_user_data.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_CONTEXT_MENU_HELPER_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_CONTEXT_MENU_HELPER_H_
 

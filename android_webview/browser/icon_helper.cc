@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon helper implementation
+// summary: Implements favicon and touch icon handling for WebView, downloading favicon images and reporting received icons to a listener.
+// relations:
+//   - implements /android_webview/browser/icon_helper.h
+//   - depends_on /base/check_op.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "android_webview/browser/icon_helper.h"
 
 #include "base/check_op.h"

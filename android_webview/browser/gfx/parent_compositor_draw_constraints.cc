@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent compositor draw constraints implementation
+// summary: Implements the draw constraints struct that compares viewport size and transform to decide when a child frame needs an update.
+// relations:
+//   - implements /android_webview/browser/gfx/parent_compositor_draw_constraints.h
+//   - depends_on /android_webview/browser/gfx/child_frame.h
+// ---
+
 #include "android_webview/browser/gfx/parent_compositor_draw_constraints.h"
 
 #include "android_webview/browser/gfx/child_frame.h"

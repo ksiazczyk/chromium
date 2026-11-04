@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the WebView network service folder
+summary: Lists code owners for the directory, including a per-file owner for the restricted cookie manager files.

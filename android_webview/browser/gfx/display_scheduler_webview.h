@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySchedulerWebView class declaration
+// summary: Declares the WebView-specific display scheduler and the OverlaysInfoProvider interface, observing surfaces and frame sinks for damage.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/scoped_observation.h
+//   - depends_on /base/synchronization/waitable_event.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_DISPLAY_SCHEDULER_WEBVIEW_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_DISPLAY_SCHEDULER_WEBVIEW_H_
 

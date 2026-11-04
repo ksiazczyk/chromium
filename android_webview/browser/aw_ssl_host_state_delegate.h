@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL host state delegate declaration
+// summary: Declares AwSSLHostStateDelegate and its CertPolicy helper for storing, querying, and revoking user-allowed certificate errors per host.
+// relations:
+//   - depends_on /content/public/browser/ssl_host_state_delegate.h
+//   - depends_on /net/base/hash_value.h
+//   - depends_on /net/base/net_errors.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_SSL_HOST_STATE_DELEGATE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_SSL_HOST_STATE_DELEGATE_H_
 

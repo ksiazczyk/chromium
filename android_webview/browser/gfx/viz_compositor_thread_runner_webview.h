@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizCompositorThreadRunnerWebView class declaration
+// summary: Declares the WebView override of viz::VizCompositorThreadRunner that runs the viz thread and connects FrameSinkManagerImpl and other viz classes.
+// relations:
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/scoped_refptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_VIZ_COMPOSITOR_THREAD_RUNNER_WEBVIEW_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_VIZ_COMPOSITOR_THREAD_RUNNER_WEBVIEW_H_
 

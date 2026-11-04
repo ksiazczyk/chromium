@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise authentication app link manager
+// summary: Implements the manager that watches the enterprise auth app link policy and matches navigation URLs against configured authentication URLs.
+// relations:
+//   - implements /android_webview/browser/aw_enterprise_authentication_app_link_manager.h
+//   - depends_on /components/prefs/pref_registry_simple.h
+//   - depends_on /components/url_matcher/url_util.h
+// ---
+
 #include "android_webview/browser/aw_enterprise_authentication_app_link_manager.h"
 
 #include "components/prefs/pref_registry_simple.h"

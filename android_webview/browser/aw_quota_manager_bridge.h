@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwQuotaManagerBridge header
+// summary: Declares AwQuotaManagerBridge, which exposes quota queries and browsing data deletion for sites and origins to the Java side.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_QUOTA_MANAGER_BRIDGE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_QUOTA_MANAGER_BRIDGE_H_
 

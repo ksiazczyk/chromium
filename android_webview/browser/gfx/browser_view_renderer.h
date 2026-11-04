@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserViewRenderer header
+// summary: Declares the BrowserViewRenderer interface for WebView content rendering, covering hardware and software draw paths, view state updates and Capture Picture API methods.
+// relations:
+//   - depends_on /android_webview/browser/gfx/begin_frame_source_webview.h
+//   - depends_on /android_webview/browser/gfx/child_frame.h
+//   - implements /android_webview/browser/gfx/compositor_frame_producer.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_BROWSER_VIEW_RENDERER_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_BROWSER_VIEW_RENDERER_H_
 

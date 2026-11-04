@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContentsClientBridge unit tests
+// summary: Unit tests for the contents client bridge, verifying client certificate selection callbacks and signature algorithm encoding against a mock Java bridge.
+// relations:
+//   - tests /android_webview/browser/aw_contents_client_bridge.h
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/android/jni_string.h
+// ---
+
 #include "android_webview/browser/aw_contents_client_bridge.h"
 
 #include <memory>

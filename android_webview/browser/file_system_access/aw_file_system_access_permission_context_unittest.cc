@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system access permission context unit tests
+// summary: Unit tests verifying that relative paths, the app data directory, and the cache directory are blocked while content URIs and other absolute paths are allowed.
+// relations:
+//   - tests /android_webview/browser/file_system_access/aw_file_system_access_permission_context.h
+//   - depends_on /base/base_paths_android.h
+//   - depends_on /base/base_paths_posix.h
+// ---
+
 #include "android_webview/browser/file_system_access/aw_file_system_access_permission_context.h"
 
 #include "base/base_paths_android.h"

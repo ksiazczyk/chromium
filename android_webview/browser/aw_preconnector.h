@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPreconnector class declaration
+// summary: Declares AwPreconnector, which owns the PreconnectManager for a Profile, exposes preconnect to Java, and tracks prewarmed shared dictionary handles.
+// relations:
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/containers/lru_cache.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_PRECONNECTOR_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_PRECONNECTOR_H_
 

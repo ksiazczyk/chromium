@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwNetLogsConnection header
+// summary: Declares the class that manages a bounded FileNetLogObserver with a 100 MB size cap.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /net/log/file_net_log_observer.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_NET_LOGS_CONNECTION_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_NET_LOGS_CONNECTION_H_
 

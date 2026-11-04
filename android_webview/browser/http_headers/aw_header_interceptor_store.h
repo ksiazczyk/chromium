@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwHeaderInterceptorStore class declaration
+// summary: Declares the UI-thread store of header interceptor registrations, each pairing a Java interceptor with a request matcher and a unique id, with thread-safe reference-counted entries.
+// relations:
+//   - depends_on /android_webview/browser/request_matcher/aw_request_matcher.h
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/memory/ref_counted.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_HTTP_HEADERS_AW_HEADER_INTERCEPTOR_STORE_H_
 #define ANDROID_WEBVIEW_BROWSER_HTTP_HEADERS_AW_HEADER_INTERCEPTOR_STORE_H_
 

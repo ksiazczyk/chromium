@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visibility metrics logger implementation
+// summary: Records WebView visibility, visible URL scheme, and screen coverage duration histograms for both global and per-WebView tracking.
+// relations:
+//   - depends_on /android_webview/browser/metrics/visibility_metrics_logger.h
+//   - depends_on /base/metrics/histogram.h
+//   - depends_on /base/metrics/histogram_base.h
+// ---
+
 #include "android_webview/browser/metrics/visibility_metrics_logger.h"
 
 #include "base/compiler_specific.h"

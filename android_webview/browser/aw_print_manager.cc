@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPrintManager implementation
+// summary: Implements the WebView print manager, handling print settings, writing PDF output to a file descriptor, and treating window.print() as a no-op.
+// relations:
+//   - implements /android_webview/browser/aw_print_manager.h
+//   - depends_on /base/check.h
+//   - depends_on /base/check_op.h
+// ---
+
 #include "android_webview/browser/aw_print_manager.h"
 
 #include <utility>

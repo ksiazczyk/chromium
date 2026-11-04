@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView client hints controller delegate implementation
+// summary: Implements the WebView client hints delegate, supplying user-agent metadata with an Android WebView brand, per-origin persisted hints, and additional hints handling.
+// relations:
+//   - implements /android_webview/browser/aw_client_hints_controller_delegate.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /android_webview/browser/aw_contents.h
+// ---
+
 #include "android_webview/browser/aw_client_hints_controller_delegate.h"
 
 #include "android_webview/browser/aw_browser_process.h"

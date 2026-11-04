@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WebView entropy state provider
+// summary: Verifies that standard and WebView low entropy sources are populated in the system profile and that unset or negative values are omitted.
+// relations:
+//   - tests /android_webview/browser/metrics/aw_entropy_state_provider.h
+//   - depends_on /components/metrics/metrics_pref_names.h
+//   - depends_on /components/metrics/metrics_service.h
+// ---
+
 #include "android_webview/browser/metrics/aw_entropy_state_provider.h"
 
 #include "components/metrics/metrics_pref_names.h"

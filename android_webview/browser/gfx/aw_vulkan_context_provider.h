@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwVulkanContextProvider header
+// summary: Declares AwVulkanContextProvider and its ScopedSecondaryCBDraw helper, which manage Vulkan device queues, Skia contexts and secondary command buffer draw state.
+// relations:
+//   - implements /gpu/command_buffer/service/vulkan_context_provider.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /gpu/vulkan/vulkan_device_queue.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_AW_VULKAN_CONTEXT_PROVIDER_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_AW_VULKAN_CONTEXT_PROVIDER_H_
 

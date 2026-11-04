@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContextMenuHelper implementation
+// summary: Implements the WebView context menu helper, bridging ShowContextMenu and DismissContextMenu calls to a Java counterpart via JNI.
+// relations:
+//   - depends_on /android_webview/browser/aw_context_menu_helper.h
+//   - depends_on /components/embedder_support/android/contextmenu/context_menu_builder.h
+//   - depends_on /content/public/browser/render_frame_host.h
+// ---
+
 #include "android_webview/browser/aw_context_menu_helper.h"
 
 #include "android_webview/browser_jni_headers/AwContextMenuHelper_jni.h"

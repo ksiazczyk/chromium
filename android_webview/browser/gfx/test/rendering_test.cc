@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderingTest base fixture implementation
+// summary: Implements the RenderingTest fixture that sets up a BrowserViewRenderer, fake window, fake functor, and synchronous compositor for WebView rendering tests.
+// relations:
+//   - implements /android_webview/browser/gfx/test/rendering_test.h
+//   - depends_on /android_webview/browser/gfx/browser_view_renderer.h
+//   - depends_on /android_webview/browser/gfx/child_frame.h
+// ---
+
 #include "android_webview/browser/gfx/test/rendering_test.h"
 
 #include <memory>

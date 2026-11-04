@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwMetricsServiceClient sample rate tests
+// summary: Tests that metrics filtering decisions depend on the client ID and the per-mille sample rate for different release channels.
+// relations:
+//   - tests /android_webview/browser/metrics/aw_metrics_service_client.h
+//   - depends_on /base/metrics/user_metrics.h
+//   - depends_on /base/test/task_environment.h
+// ---
+
 #include "android_webview/browser/metrics/aw_metrics_service_client.h"
 #include "base/metrics/user_metrics.h"
 #include "base/test/task_environment.h"

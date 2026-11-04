@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySchedulerWebView implementation
+// summary: Implements the WebView display scheduler, tracking surface damage for child and overlay frame sinks and notifying the root frame sink.
+// relations:
+//   - implements /android_webview/browser/gfx/display_scheduler_webview.h
+//   - depends_on /android_webview/browser/gfx/root_frame_sink.h
+//   - depends_on /android_webview/browser/gfx/viz_compositor_thread_runner_webview.h
+// ---
+
 #include "android_webview/browser/gfx/display_scheduler_webview.h"
 
 #include "android_webview/browser/gfx/root_frame_sink.h"

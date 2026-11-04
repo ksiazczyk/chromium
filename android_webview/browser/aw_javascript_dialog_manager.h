@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwJavaScriptDialogManager header
+// summary: Declares the WebView JavaScript dialog manager that forwards JS dialogs to the AwContentsClientBridge for each WebContents.
+// relations:
+//   - implements /content/public/browser/javascript_dialog_manager.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_JAVASCRIPT_DIALOG_MANAGER_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_JAVASCRIPT_DIALOG_MANAGER_H_
 

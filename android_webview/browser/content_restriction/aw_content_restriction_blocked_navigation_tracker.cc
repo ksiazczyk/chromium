@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentRestrictionBlockedNavigationTracker implementation
+// summary: Implements tracking of WebView navigation IDs blocked by content restriction, with register, check and clear operations.
+// relations:
+//   - implements /android_webview/browser/content_restriction/aw_content_restriction_blocked_navigation_tracker.h
+//   - depends_on /content/public/browser/browser_thread.h
+// ---
+
 #include "android_webview/browser/content_restriction/aw_content_restriction_blocked_navigation_tracker.h"
 
 #include "content/public/browser/browser_thread.h"

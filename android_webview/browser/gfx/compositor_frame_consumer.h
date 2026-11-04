@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorFrameConsumer interface
+// summary: Defines the interface for consumers that receive compositor frames from a producer, including setting frames and accessing parent draw data.
+// relations:
+//   - depends_on /android_webview/browser/gfx/child_frame.h
+//   - depends_on /android_webview/browser/gfx/parent_compositor_draw_constraints.h
+//   - depends_on /android_webview/browser/gfx/root_frame_sink.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_COMPOSITOR_FRAME_CONSUMER_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_COMPOSITOR_FRAME_CONSUMER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwProxyingRestrictedCookieManager class declaration
+// summary: Declares the Mojo RestrictedCookieManager proxy that conditionally returns cookies from an underlying manager, working around per-WebView cookie permissions that Chromium does not model per BrowserContext.
+// relations:
+//   - depends_on /android_webview/browser/aw_cookie_access_policy.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_PROXYING_RESTRICTED_COOKIE_MANAGER_H_
 #define ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_PROXYING_RESTRICTED_COOKIE_MANAGER_H_
 

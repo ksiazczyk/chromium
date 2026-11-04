@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBrowserContext implementation
+// summary: Implements the WebView browser context, wiring up preferences, storage paths, downloads, safe browsing, and origin trial support.
+// relations:
+//   - implements /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_browser_context_store.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+// ---
+
 #include "android_webview/browser/aw_browser_context.h"
 
 #include <jni.h>

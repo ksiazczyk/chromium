@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBrowserMainParts class declaration
+// summary: Declares the WebView BrowserMainParts subclass that hooks browser initialization and message loop stages and owns the browser process and related helpers.
+// relations:
+//   - implements /content/public/browser/browser_main_parts.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_BROWSER_MAIN_PARTS_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_BROWSER_MAIN_PARTS_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwProxyConfigMonitor implementation
+// summary: Implements proxy configuration for WebView network contexts, applying --proxy-server command line flags and system proxy settings.
+// relations:
+//   - implements /android_webview/browser/network_service/aw_proxy_config_monitor.h
+//   - depends_on /base/barrier_closure.h
+//   - depends_on /base/command_line.h
+// ---
+
 #include "android_webview/browser/network_service/aw_proxy_config_monitor.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRenderProcessGoneDelegate interface
+// summary: Defines a delegate interface for handling render process crash or kill events, returning whether the event was handled, unhandled, or raised an exception.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_RENDER_PROCESS_GONE_DELEGATE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_RENDER_PROCESS_GONE_DELEGATE_H_
 
