@@ -1,0 +1,4 @@
+# Docerion header of IDS_OS_TRIAL_SUBTITLE.png.sha1.
+type: asset
+title: SHA1 hash for OS trial subtitle image
+summary: Holds the SHA1 hash of the PNG image for the OS trial subtitle string, used to verify the expected image content.

@@ -1,0 +1,4 @@
+# Docerion header of IDS_OOBE_TOUCHPAD_SCROLL_AREA_DESC.png.sha1.
+type: data
+title: SHA-1 of OOBE touchpad scroll area description screenshot
+summary: Holds a 40-character SHA-1 digest for the PNG screenshot of the OOBE touchpad scroll area description string in the login resources.

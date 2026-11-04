@@ -1,0 +1,4 @@
+# Docerion header of IDS_OS_INSTALL_SCREEN_SHUTDOWN_BUTTON.png.sha1.
+type: asset
+title: SHA1 hash for OS install screen shutdown button image
+summary: Holds the SHA1 hash of the PNG image for the OS install screen shutdown button label, used to verify the expected image content.

@@ -1,0 +1,4 @@
+# Docerion header of IDS_OS_INSTALL_SCREEN_SUCCESS_TITLE.png.sha1.
+type: asset
+title: SHA1 hash for OS install screen success title image
+summary: Holds the SHA1 hash of the PNG image for the OS install screen success title string, used to verify the expected image content.

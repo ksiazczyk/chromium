@@ -1,0 +1,4 @@
+# Docerion header of IDS_OS_TRIAL_NEXT_BUTTON.png.sha1.
+type: asset
+title: SHA1 hash for OS trial next button image
+summary: Holds the SHA1 hash of the PNG image for the OS trial next button label, used to verify the expected image content.
