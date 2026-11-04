@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the in-session password change manager
+// summary: Unit tests covering notification behavior and the password change flow of the in-session SAML password change manager.
+// ---
+
 #include "chrome/browser/ash/login/saml/in_session_password_change_manager.h"
 
 #include <memory>

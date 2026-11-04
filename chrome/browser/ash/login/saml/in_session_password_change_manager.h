@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-session SAML password change manager header
+// summary: Declares InSessionPasswordChangeManager and its events, observers and password sources for the in-session SAML password change flow.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SAML_IN_SESSION_PASSWORD_CHANGE_MANAGER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SAML_IN_SESSION_PASSWORD_CHANGE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake target device connection broker implementation
+// summary: Implements a fake TargetDeviceConnectionBroker that simulates advertising, connection initiation, PIN authentication, and connection closing for Quick Start tests.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/fake_target_device_connection_broker.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenLockerTester header
+// summary: Declares a high-level API for tests to lock the device, inject passwords and wait for lock or unlock.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_LOCK_SCREEN_LOCKER_TESTER_H_
 #define CHROME_BROWSER_ASH_LOGIN_LOCK_SCREEN_LOCKER_TESTER_H_
 

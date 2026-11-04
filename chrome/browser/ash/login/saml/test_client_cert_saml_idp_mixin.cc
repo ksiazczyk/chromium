@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake client certificate SAML IdP mixin implementation
+// summary: Implements embedded test servers acting as a SAML IdP that requires client certificate authentication during sign-in tests.
+// ---
+
 #include "chrome/browser/ash/login/saml/test_client_cert_saml_idp_mixin.h"
 
 #include <memory>

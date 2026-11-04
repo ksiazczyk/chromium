@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Handshake helpers unit tests
+// summary: Unit tests covering building and verifying handshake messages, including cases for wrong roles, mismatched secrets, nonces and malformed data.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/handshake_helpers.h"
 
 #include <optional>

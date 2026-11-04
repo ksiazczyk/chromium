@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAML redirect event enum
+// summary: Defines the SamlRedirectEvent enum used by tests and kept in sync with histogram metadata and the online auth web UI.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SAML_SAML_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_LOGIN_SAML_SAML_TEST_UTILS_H_
 

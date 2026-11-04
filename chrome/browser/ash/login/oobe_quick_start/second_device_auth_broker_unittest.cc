@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Second device auth broker unit tests
+// summary: Unit tests for the second device auth broker, covering challenge data fetching, auth code responses, attestation, and Quick Start metrics.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/second_device_auth_broker.h"
 
 #include <cstdint>

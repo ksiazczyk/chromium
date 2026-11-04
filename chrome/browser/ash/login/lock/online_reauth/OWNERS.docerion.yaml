@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointing to SAML integration owners
+summary: Delegates review ownership of this directory to the SAML integration OWNERS file.

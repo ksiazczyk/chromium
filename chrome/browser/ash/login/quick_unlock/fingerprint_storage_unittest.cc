@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FingerprintStorage unit tests
+// summary: Unit tests for FingerprintStorage covering unlock attempt counting, recent attempt tracking, availability checks, and fingerprint auth metrics.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/fingerprint_storage.h"
 
 #include <memory>

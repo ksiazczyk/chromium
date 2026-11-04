@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionContext unit tests
+// summary: Unit tests for SessionContext covering prepare-for-update info generation and restoration of a persisted session from local state prefs after reboot.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/session_context.h"
 
 #include <string>

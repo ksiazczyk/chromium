@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAuthParts implementation
+// summary: Creates and owns the ash::AuthParts instance with browser-specific implementations and shuts it down when the app is terminating.
+// ---
+
 #include "chrome/browser/ash/login/osauth/chrome_auth_parts.h"
 
 #include "base/check.h"

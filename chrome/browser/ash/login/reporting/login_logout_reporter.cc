@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login/logout event reporter implementation
+// summary: Implements reporting of logins, logouts, login failures, and kiosk login failures, mapping session types and auth failure reasons to report records.
+// ---
+
 #include "chrome/browser/ash/login/reporting/login_logout_reporter.h"
 
 #include <optional>

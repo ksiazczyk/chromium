@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for login reporting
+summary: Defines the reporting static library, test support, and browser and unit test targets for the lock/unlock and login/logout reporters.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen reauth manager factory implementation
+// summary: Implements the profile-keyed factory that builds a LockScreenReauthManager for the primary user's profile only.
+// ---
+
 #include "chrome/browser/ash/login/lock/online_reauth/lock_screen_reauth_manager_factory.h"
 
 #include "chrome/browser/ash/login/lock/online_reauth/lock_screen_reauth_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory fake PIN salt storage for tests
+// summary: Implements FakePinSaltStorage, an in-memory PinSaltStorage that stores and returns PIN salts per account for tests.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/fake_pin_salt_storage.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the lock screen
+summary: Defines GN build targets for the ChromeOS lock screen static library, test support, and browser and integration test suites.

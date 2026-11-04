@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery factor HSM public key migration header
+// summary: Declares the RecoveryFactorHsmPubkeyMigration class, an AuthFactorMigration step that reads the recovery factor configuration and updates it when the mediator public key is outdated.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OSAUTH_RECOVERY_FACTOR_HSM_PUBKEY_MIGRATION_H_
 #define CHROME_BROWSER_ASH_LOGIN_OSAUTH_RECOVERY_FACTOR_HSM_PUBKEY_MIGRATION_H_
 

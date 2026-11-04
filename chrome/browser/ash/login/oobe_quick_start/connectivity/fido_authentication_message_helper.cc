@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO authentication message helper implementation
+// summary: Builds CBOR-encoded FIDO authentication response data by combining credential ID, authenticator data, signature and user ID into a map prefixed with a status byte.
+// ---
+
 #include "fido_authentication_message_helper.h"
 
 #include <utility>

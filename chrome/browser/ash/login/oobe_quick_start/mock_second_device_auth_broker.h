@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock second device auth broker header
+// summary: Declares MockSecondDeviceAuthBroker, a gmock subclass of SecondDeviceAuthBroker used in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_MOCK_SECOND_DEVICE_AUTH_BROKER_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_MOCK_SECOND_DEVICE_AUTH_BROKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the OOBE apps Almanac endpoint
+// summary: Declares GetAppsAndUseCases and its callback for fetching the apps and use-cases list from the Almanac server.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_APPS_SERVICE_OOBE_APPS_ALMANAC_ENDPOINT_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_APPS_SERVICE_OOBE_APPS_ALMANAC_ENDPOINT_H_
 

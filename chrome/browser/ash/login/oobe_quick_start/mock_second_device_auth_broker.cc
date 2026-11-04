@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock second device auth broker implementation
+// summary: GoogleMock implementation of SecondDeviceAuthBroker that provides configurable fake challenge, certificate, and auth code responses for unit tests.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/mock_second_device_auth_broker.h"
 
 #include <memory>

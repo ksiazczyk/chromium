@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenLockerTester implementation
+// summary: Implements the test helper that locks the device, submits credentials and observes lock screen state during ChromeOS tests.
+// ---
+
 #include "chrome/browser/ash/login/lock/screen_locker_tester.h"
 
 #include <cstdint>

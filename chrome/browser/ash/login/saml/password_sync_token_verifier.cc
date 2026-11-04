@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync token verifier implementation
+// summary: Implements periodic verification of the SAML password sync token with retry backoff, triggering online re-auth when the token is invalid.
+// ---
+
 #include "chrome/browser/ash/login/saml/password_sync_token_verifier.h"
 
 #include <memory>

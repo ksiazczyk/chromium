@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handshake helpers header
+// summary: Declares device role and verification status enums plus functions to build and verify encrypted handshake messages for Quick Start device authentication.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_HANDSHAKE_HELPERS_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_HANDSHAKE_HELPERS_H_
 

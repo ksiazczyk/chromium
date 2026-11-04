@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password change success detection browser test
+// summary: Browser test that simulates an IdP password change flow and verifies detection of the SAML_IDP_PASSWORD_CHANGED event.
+// ---
+
 #include <memory>
 #include <string>
 

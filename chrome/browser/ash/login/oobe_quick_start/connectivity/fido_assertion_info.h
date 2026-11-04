@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO assertion info struct
+// summary: Defines a struct holding FIDO assertion data such as email, credential ID, authenticator data, client data and signature for requesting sign-in credentials from Google's authentication server.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_FIDO_ASSERTION_INFO_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_FIDO_ASSERTION_INFO_H_
 

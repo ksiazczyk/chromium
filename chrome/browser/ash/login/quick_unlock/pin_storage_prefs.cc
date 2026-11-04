@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinStoragePrefs
+// summary: Implements PIN storage backed by profile preferences, covering setting and removing the PIN, unlock attempt counting and PIN authentication checks.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/pin_storage_prefs.h"
 
 #include "ash/constants/ash_pref_names.h"

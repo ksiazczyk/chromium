@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for login reporting
+summary: Blocks //chrome dependencies by default and lists the allowed includes for this directory, with extra rules for unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SAML lock screen browser tests
+// summary: Browser tests for SAML online re-auth on the lock screen, covering reauth dialogs, network and proxy handling, and policy-driven URL blocking.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <memory>

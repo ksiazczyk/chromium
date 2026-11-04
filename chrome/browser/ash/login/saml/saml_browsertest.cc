@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SAML login browser tests
+// summary: Large in-process browser test suite exercising SAML login, in-session password change, floating SSO cookie sync, enrollment, and related login flows.
+// ---
+
 #include <cstring>
 #include <memory>
 #include <optional>

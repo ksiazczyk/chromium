@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password change success notification unit tests
+// summary: Unit tests verifying that the SAML password change success notification is shown with the expected title and message for a user.
+// ---
+
 #include "chrome/browser/ash/login/saml/password_change_success_notification.h"
 
 #include <memory>

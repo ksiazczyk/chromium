@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO authentication message helper header
+// summary: Declares CBOR key and type constants and the BuildEncodedResponseData function used to assemble FIDO authentication response messages.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_FIDO_AUTHENTICATION_MESSAGE_HELPER_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_FIDO_AUTHENTICATION_MESSAGE_HELPER_H_
 

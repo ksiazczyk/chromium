@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint and power button race detection logic
+// summary: Implements detection of fingerprint scans and power button presses within a one-second window, logging race occurrences to UMA histograms.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/fingerprint_power_button_race_detector.h"
 #include "base/metrics/histogram_functions.h"
 #include "base/time/time.h"

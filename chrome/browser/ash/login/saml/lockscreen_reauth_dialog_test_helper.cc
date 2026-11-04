@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock screen re-auth dialog test helper implementation
+// summary: Implements a browser test helper that triggers the lock screen online re-auth dialog and interacts with its SAML, Gaia, error and network screens.
+// ---
+
 #include "chrome/browser/ash/login/saml/lockscreen_reauth_dialog_test_helper.h"
 
 #include <optional>

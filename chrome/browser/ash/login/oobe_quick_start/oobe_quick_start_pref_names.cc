@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start preference name constants
+// summary: Defines local state preference name constants for resuming a Quick Start connection after a Chromebook reboot.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/oobe_quick_start_pref_names.h"
 
 namespace ash::quick_start::prefs {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAML profile preferences registration
+// summary: Registers SAML-related profile preferences such as offline sign-in time limits, in-session password change, and lock screen reauthentication.
+// ---
+
 #include "chrome/browser/ash/login/saml/saml_profile_prefs.h"
 
 #include "ash/constants/ash_login_pref_names.h"

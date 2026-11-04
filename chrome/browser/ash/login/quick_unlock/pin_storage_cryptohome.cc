@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome PIN storage implementation
+// summary: Implements cryptohome-backed PIN storage, including PIN auth factor checks, setting and removing PINs, and authentication with retry logic for cryptohomed.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/pin_storage_cryptohome.h"
 
 #include <optional>

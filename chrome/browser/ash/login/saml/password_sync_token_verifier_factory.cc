@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync token verifier factory implementation
+// summary: Implements the profile-keyed factory that creates a PasswordSyncTokenVerifier only for the primary user when SAML is in use.
+// ---
+
 #include "chrome/browser/ash/login/saml/password_sync_token_verifier_factory.h"
 
 #include <memory>

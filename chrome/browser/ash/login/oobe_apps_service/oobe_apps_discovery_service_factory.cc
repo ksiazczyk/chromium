@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the OOBE apps discovery service factory
+// summary: Implements the ProfileKeyedServiceFactory that builds and provides per-profile OobeAppsDiscoveryService instances, with a testing override.
+// ---
+
 #include "chrome/browser/ash/login/oobe_apps_service/oobe_apps_discovery_service_factory.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy_factory.h"

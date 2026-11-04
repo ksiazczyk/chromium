@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair advertiser header
+// summary: Declares FastPairAdvertiser, which broadcasts Fast Pair Bluetooth advertisements containing the advertising ID to prompt nearby devices to begin Quick Start.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_FAST_PAIR_ADVERTISER_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_FAST_PAIR_ADVERTISER_H_
 

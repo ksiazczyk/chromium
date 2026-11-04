@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Target device bootstrap controller unit tests
+// summary: Unit tests for the bootstrap controller, verifying status step transitions, WiFi and Gaia transfer outcomes, and related Quick Start histograms.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/target_device_bootstrap_controller.h"
 
 #include <memory>

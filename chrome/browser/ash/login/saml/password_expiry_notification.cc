@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password expiry notification implementation
+// summary: Implements showing, hiding and click handling for the SAML password expiry notification, including the change-password button and dismissal behavior.
+// ---
+
 #include "chrome/browser/ash/login/saml/password_expiry_notification.h"
 
 #include <memory>

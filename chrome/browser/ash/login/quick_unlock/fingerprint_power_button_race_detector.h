@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FingerprintPowerButtonRaceDetector class declaration
+// summary: Declares FingerprintPowerButtonRaceDetector, which observes power manager events and records fingerprint and power button race metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_FINGERPRINT_POWER_BUTTON_RACE_DETECTOR_H_
 #define CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_FINGERPRINT_POWER_BUTTON_RACE_DETECTOR_H_
 

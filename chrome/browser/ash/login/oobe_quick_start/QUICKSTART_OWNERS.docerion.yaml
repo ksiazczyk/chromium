@@ -1,0 +1,4 @@
+# Docerion header of QUICKSTART_OWNERS.
+type: config
+title: OOBE Quick Start code owners
+summary: Lists the code owners for the OOBE Quick Start directory, grouped by CET and PST time zones.

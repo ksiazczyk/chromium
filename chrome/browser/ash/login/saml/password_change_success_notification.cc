@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change success notification implementation
+// summary: Shows a system notification informing the user that their SAML password change succeeded.
+// ---
+
 #include "chrome/browser/ash/login/saml/password_change_success_notification.h"
 
 #include <memory>

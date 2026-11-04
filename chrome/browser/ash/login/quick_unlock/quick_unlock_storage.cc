@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickUnlockStorage
+// summary: Implements per-profile quick unlock state, tracking strong authentication timeouts, fingerprint and PIN availability and auth token handling.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/quick_unlock_storage.h"
 
 #include <memory>

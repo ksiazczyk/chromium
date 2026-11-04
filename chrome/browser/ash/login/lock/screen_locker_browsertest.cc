@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenLocker browser tests
+// summary: Browser tests exercising ScreenLocker flows such as bad-then-good password entry and fingerprint authentication.
+// ---
+
 #include "chrome/browser/ash/login/lock/screen_locker.h"
 
 #include <memory>

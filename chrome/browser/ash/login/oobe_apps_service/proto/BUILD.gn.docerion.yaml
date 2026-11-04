@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the OOBE apps service proto library
+summary: GN build file that compiles oobe.proto into a proto library for ChromeOS, depending on the Almanac API client context protos.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the fingerprint power button race detector
+// summary: Verifies race detection between fingerprint scans and power button presses using a fake power manager client and histogram testers.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/fingerprint_storage.h"
 
 #include <memory>

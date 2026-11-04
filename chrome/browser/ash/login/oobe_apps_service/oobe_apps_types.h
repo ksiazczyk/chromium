@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE apps types declarations
+// summary: Declares wrapper classes around OOBE proto types exposing app definitions and device use cases with getters for ID, label, order, icon URL, package ID, and tags.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_APPS_SERVICE_OOBE_APPS_TYPES_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_APPS_SERVICE_OOBE_APPS_TYPES_H_
 

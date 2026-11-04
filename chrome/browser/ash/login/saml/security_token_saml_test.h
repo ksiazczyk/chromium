@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security token SAML test fixture header
+// summary: Declares the SecurityTokenSamlTest browser test fixture for challenge-response SAML login with client certificates and PIN dialog helpers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SAML_SECURITY_TOKEN_SAML_TEST_H_
 #define CHROME_BROWSER_ASH_LOGIN_SAML_SECURITY_TOKEN_SAML_TEST_H_
 

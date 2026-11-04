@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthHub browser test
+// summary: Browser test that verifies AuthHub authentication on the login screen for password-only and password-plus-PIN users, using mock consumers for auth attempts and factor statuses.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_features.h"

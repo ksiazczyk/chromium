@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick unlock utilities
+// summary: Implements quick unlock policy helpers, fingerprint location description strings, minimum PIN length and factor allowlist handling for unlock purposes.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/quick_unlock_utils.h"
 
 #include <string>

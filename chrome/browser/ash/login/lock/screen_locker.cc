@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenLocker implementation
+// summary: Implements ScreenLocker, which shows the lock UI, authenticates users via password or fingerprint, and manages the global lock instance.
+// ---
+
 #include "chrome/browser/ash/login/lock/screen_locker.h"
 
 #include <algorithm>

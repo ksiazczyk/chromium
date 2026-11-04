@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick unlock utils unit tests
+// summary: Unit tests verifying that PIN and fingerprint quick unlock are enabled or disabled by policy based on quick unlock, WebAuthn, and allowed local auth factors preferences.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/quick_unlock_utils.h"
 
 #include <memory>

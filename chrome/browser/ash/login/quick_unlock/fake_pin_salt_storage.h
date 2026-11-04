@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakePinSaltStorage class declaration
+// summary: Declares FakePinSaltStorage, an in-memory salt storage implementation of PinSaltStorage used by tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_FAKE_PIN_SALT_STORAGE_H_
 #define CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_FAKE_PIN_SALT_STORAGE_H_
 

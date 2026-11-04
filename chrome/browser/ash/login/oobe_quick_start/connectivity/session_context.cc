@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session context implementation
+// summary: Manages the Quick Start session context by generating or restoring the session ID, advertising ID and shared secrets and persisting resume-after-update info in local state prefs.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/session_context.h"
 
 #include <optional>

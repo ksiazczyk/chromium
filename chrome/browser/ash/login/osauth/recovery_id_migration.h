@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery ID migration header
+// summary: Declares the RecoveryIdMigration class, an AuthFactorMigration step that checks whether a fresh recovery ID is needed and generates one via the UserDataAuth client.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OSAUTH_RECOVERY_ID_MIGRATION_H_
 #define CHROME_BROWSER_ASH_LOGIN_OSAUTH_RECOVERY_ID_MIGRATION_H_
 

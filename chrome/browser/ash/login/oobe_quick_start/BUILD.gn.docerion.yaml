@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: OOBE Quick Start build targets
+summary: GN build file defining the oobe_quick_start and pref names static libraries, their dependencies, and the unit test target.

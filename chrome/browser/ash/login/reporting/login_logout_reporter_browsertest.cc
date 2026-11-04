@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login/logout reporter browser tests
+// summary: Browser tests verifying login and logout event reporting across regular, guest, public session, and kiosk scenarios on managed devices.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PublicSamlUrlFetcher class declaration
+// summary: Declares the class that requests a public SAML session URL from the DM server and exposes the retrieved redirect URL.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SAML_PUBLIC_SAML_URL_FETCHER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SAML_PUBLIC_SAML_URL_FETCHER_H_
 

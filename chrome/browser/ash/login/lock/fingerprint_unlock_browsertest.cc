@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fingerprint unlock browser tests
+// summary: Browser tests verifying fingerprint enrollment and authentication on the ChromeOS lock screen using a fake biod client and histogram checks.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "ash/login/ui/lock_contents_view.h"
 #include "ash/login/ui/lock_contents_view_test_api.h"

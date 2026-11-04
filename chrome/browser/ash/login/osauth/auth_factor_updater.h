@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorUpdater class declaration
+// summary: Declares the class that combines AuthFactorMigrator and AuthPolicyEnforcer to update auth factor configuration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OSAUTH_AUTH_FACTOR_UPDATER_H_
 #define CHROME_BROWSER_ASH_LOGIN_OSAUTH_AUTH_FACTOR_UPDATER_H_
 

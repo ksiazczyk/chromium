@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAML provider metrics implementation
+// summary: Records which SAML identity provider was used during sign-in as the ChromeOS.SAML.Provider histogram by matching certificate organization names.
+// ---
+
 #include "chrome/browser/ash/login/saml/saml_metric_utils.h"
 
 #include <string>

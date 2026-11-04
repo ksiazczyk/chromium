@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint storage for records, prefs and unlock metrics
+// summary: Manages fingerprint records and preferences, records unlock result metrics, and wires up the fingerprint device service and race detector.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/fingerprint_storage.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinBackend implementation
+// summary: Implements the high-level PIN backend that dispatches to cryptohome or prefs storage, handles PIN auto submit, and records backfill metrics.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/pin_backend.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handshake helpers implementation
+// summary: Implements building, encrypting, parsing and verifying AES-GCM-protected Quick Start handshake messages using protobuf authentication payloads and shared secrets.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/handshake_helpers.h"
 
 #include "base/containers/span.h"

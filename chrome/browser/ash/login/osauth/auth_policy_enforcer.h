@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthPolicyEnforcer class header
+// summary: Declares AuthPolicyEnforcer, which applies mandatory auth policies to an authenticated auth session using the auth policy connector, auth factor editor and local state prefs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OSAUTH_AUTH_POLICY_ENFORCER_H_
 #define CHROME_BROWSER_ASH_LOGIN_OSAUTH_AUTH_POLICY_ENFORCER_H_
 

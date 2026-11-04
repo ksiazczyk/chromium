@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password expiry notification unit tests
+// summary: Unit tests covering notification display for upcoming and overdue password expiry, localized title text, and dismissal.
+// ---
+
 #include "chrome/browser/ash/login/saml/password_expiry_notification.h"
 
 #include <memory>

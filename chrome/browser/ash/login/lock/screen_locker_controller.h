@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenLockerController header
+// summary: Declares the singleton controller that shows, hides and manages the ChromeOS lock screen in response to session manager requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_LOCK_SCREEN_LOCKER_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_LOGIN_LOCK_SCREEN_LOCKER_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the SAML login directory
+summary: Restricts and lists allowed include dependencies for the directory, with special rules for test files.

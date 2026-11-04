@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account transfer FIDO client data implementation
+// summary: Builds the FIDO assertion client data JSON payload and its SHA-256 hash used during account transfer.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/account_transfer_client_data.h"
 
 #include "base/json/json_writer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection unit tests
+// summary: Unit tests for the Quick Start Connection class covering handshake, authentication, Wi-Fi credential exchange, user verification, and connection lifecycle behavior.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/connection.h"
 
 #include <string>

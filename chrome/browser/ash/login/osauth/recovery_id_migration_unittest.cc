@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recovery ID migration unit tests
+// summary: Unit tests for RecoveryIdMigration using a fake UserDataAuthClient, covering skipping when no recovery factor or flag is present, successful generation, and ignored failures.
+// ---
+
 #include "chrome/browser/ash/login/osauth/recovery_id_migration.h"
 
 #include <memory>

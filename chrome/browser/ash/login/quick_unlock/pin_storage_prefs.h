@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinStoragePrefs class declaration
+// summary: Declares the preferences-backed PIN storage interface with unlock attempt tracking, PIN set/remove operations and authentication methods.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_PIN_STORAGE_PREFS_H_
 #define CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_PIN_STORAGE_PREFS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorMigrator class declaration
+// summary: Declares the class that runs all auth factor migration operations and defines the MigrationResult enum used for UMA.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OSAUTH_AUTH_FACTOR_MIGRATOR_H_
 #define CHROME_BROWSER_ASH_LOGIN_OSAUTH_AUTH_FACTOR_MIGRATOR_H_
 

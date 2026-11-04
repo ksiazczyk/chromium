@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security token SAML login browser tests
+// summary: Browser tests verifying successful security-token SAML sign-in with PIN entry and the expected Gaia message histograms.
+// ---
+
 #include <string>
 
 #include "base/test/metrics/histogram_tester.h"

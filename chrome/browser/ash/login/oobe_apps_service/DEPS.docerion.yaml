@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for oobe_apps_service
+summary: Restricts //chrome includes for the directory and whitelists the approved Chrome dependencies.

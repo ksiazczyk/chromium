@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN salt storage implementation
+// summary: Implements PinSaltStorageImpl, which reads and writes per-account PIN salts in local state via KnownUser preferences.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/pin_salt_storage.h"
 
 #include <string>
