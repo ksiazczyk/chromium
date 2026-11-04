@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProgressBarDialogView unit tests
+// summary: Unit tests covering progress bar value updates, conversion of invalid values, and interpolated progress behavior.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/ui/progress_bar_dialog_view.h"
 
 #include <memory>

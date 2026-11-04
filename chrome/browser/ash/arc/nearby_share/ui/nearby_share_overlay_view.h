@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyShareOverlayView class header
+// summary: Declares the NearbyShareOverlayView that shows and closes overlay dialogs for a base window in ARC Nearby Share.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_UI_NEARBY_SHARE_OVERLAY_VIEW_H_
 #define CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_UI_NEARBY_SHARE_OVERLAY_VIEW_H_
 

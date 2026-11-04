@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arrow container header
+// summary: Declares ArrowContainer, a view container that draws an arrow on its left or right side with a configurable vertical offset.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_ARROW_CONTAINER_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_ARROW_CONTAINER_H_
 

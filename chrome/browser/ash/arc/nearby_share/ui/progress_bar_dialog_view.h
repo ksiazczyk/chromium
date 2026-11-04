@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgressBarDialogView class header
+// summary: Declares the progress bar dialog view that reports file streaming progress and supports interpolated progress updates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_UI_PROGRESS_BAR_DIALOG_VIEW_H_
 #define CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_UI_PROGRESS_BAR_DIALOG_VIEW_H_
 

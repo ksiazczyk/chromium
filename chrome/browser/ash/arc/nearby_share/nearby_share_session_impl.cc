@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share session implementation
+// summary: Implements per-task Nearby Share sessions, covering ARC window lookup, file preparation, sharesheet bubble display, and progress or error dialogs.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/nearby_share_session_impl.h"
 
 #include <memory>

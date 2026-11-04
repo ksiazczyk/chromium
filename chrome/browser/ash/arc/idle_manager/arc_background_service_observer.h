@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC background service observer header
+// summary: Declares ArcBackgroundServiceObserver, a throttle observer that activates while critical ARC app background services run.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_IDLE_MANAGER_ARC_BACKGROUND_SERVICE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_IDLE_MANAGER_ARC_BACKGROUND_SERVICE_OBSERVER_H_
 

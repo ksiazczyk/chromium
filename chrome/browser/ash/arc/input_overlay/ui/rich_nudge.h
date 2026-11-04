@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RichNudge bubble header
+// summary: Declares RichNudge, a bubble dialog nudge displayed when Game Controls is in button placement mode, positioned top-left or bottom-right of the parent window.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_RICH_NUDGE_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_RICH_NUDGE_H_
 

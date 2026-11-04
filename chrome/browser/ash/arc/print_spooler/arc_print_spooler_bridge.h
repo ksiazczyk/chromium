@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPrintSpoolerBridge class declaration
+// summary: Declares the keyed service that handles print-related IPC from the ARC container so print jobs use Chrome print preview instead of the Android print UI.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_PRINT_SPOOLER_ARC_PRINT_SPOOLER_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_PRINT_SPOOLER_ARC_PRINT_SPOOLER_BRIDGE_H_
 

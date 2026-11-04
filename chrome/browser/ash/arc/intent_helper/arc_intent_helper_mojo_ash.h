@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash-side ARC intent helper Mojo delegate header
+// summary: Declares ArcIntentHelperMojoAsh, the ash-side ArcIntentHelperMojoDelegate for intent helper Mojo calls.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INTENT_HELPER_ARC_INTENT_HELPER_MOJO_ASH_H_
 #define CHROME_BROWSER_ASH_ARC_INTENT_HELPER_ARC_INTENT_HELPER_MOJO_ASH_H_
 

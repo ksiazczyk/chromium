@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC background service observer implementation
+// summary: Implements the throttle observer that becomes active when ARC app background services are running.
+// ---
+
 #include "chrome/browser/ash/arc/idle_manager/arc_background_service_observer.h"
 
 namespace arc {

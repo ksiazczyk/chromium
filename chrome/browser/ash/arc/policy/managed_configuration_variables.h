@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed configuration variables header
+// summary: Declares managed configuration template variable names and the function that recursively replaces them with user and device attribute values.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_POLICY_MANAGED_CONFIGURATION_VARIABLES_H_
 #define CHROME_BROWSER_ASH_ARC_POLICY_MANAGED_CONFIGURATION_VARIABLES_H_
 

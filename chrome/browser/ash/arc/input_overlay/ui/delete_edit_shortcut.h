@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeleteEditShortcut class declaration
+// summary: Declares the DeleteEditShortcut bubble view that offers edit and delete shortcuts anchored to an action list item.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_DELETE_EDIT_SHORTCUT_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_DELETE_EDIT_SHORTCUT_H_
 

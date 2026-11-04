@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC management transition notification implementation
+// summary: Displays a notification that ARC is unreachable during management transitions and dismisses it when ARC is opted out or the transition completes.
+// ---
+
 #include "chrome/browser/ash/arc/notification/arc_management_transition_notification.h"
 
 #include "ash/constants/notifier_catalogs.h"

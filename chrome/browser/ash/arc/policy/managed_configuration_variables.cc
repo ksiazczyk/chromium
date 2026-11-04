@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed configuration variable replacement
+// summary: Resolves supported template variables such as user email and device attributes in Android managed configuration values, including fallback variable chains.
+// ---
+
 #include "chrome/browser/ash/arc/policy/managed_configuration_variables.h"
 
 #include <string>

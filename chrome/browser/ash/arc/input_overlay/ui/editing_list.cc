@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditingList implementation
+// summary: Implements the scrollable editing list of game control actions, including add buttons, nudges, and a help link for the overlay menu.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/editing_list.h"
 
 #include "ash/bubble/bubble_utils.h"

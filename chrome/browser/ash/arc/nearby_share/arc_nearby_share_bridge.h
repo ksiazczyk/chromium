@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Nearby Share bridge class declaration
+// summary: Declares ArcNearbyShareBridge, a keyed service that lets Chrome display and manage the Nearby Share UI instead of the Android activity.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_ARC_NEARBY_SHARE_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_ARC_NEARBY_SHARE_BRIDGE_H_
 

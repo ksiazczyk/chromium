@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ARC Nearby Share UI build configuration
+summary: Defines the ARC Nearby Share UI static library and its unit test source set, listing source files and dependencies.

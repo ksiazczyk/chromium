@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ContainerOomScoreManager
+// summary: Verifies oom_score_adj assignment for persistent, focused, background protected, and other ARC processes.
+// ---
+
 #include "chrome/browser/ash/arc/memory_pressure/container_oom_score_manager.h"
 
 #include "chromeos/ash/experiences/arc/mojom/process.mojom.h"  // For ProcessState.

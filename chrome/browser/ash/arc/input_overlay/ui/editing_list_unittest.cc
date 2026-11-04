@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EditingList unit tests
+// summary: Unit tests for the EditingList controls list view, covering list item clicks, mouse and touch dragging, nudges, and metrics recording.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/editing_list.h"
 
 #include <memory>

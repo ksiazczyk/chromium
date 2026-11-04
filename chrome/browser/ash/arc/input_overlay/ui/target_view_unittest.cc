@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Target view unit tests
+// summary: Unit tests for TargetView covering initial cursor location, mouse support for moving and dropping actions, and center clamping at window edges.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/target_view.h"
 
 #include "ash/shell.h"

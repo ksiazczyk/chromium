@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button options menu implementation
+// summary: Implements ButtonOptionsMenu and its helpers such as ButtonOptionsActionEdit and DoneButton, letting users edit an action's type, key bindings and name.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/button_options_menu.h"
 
 #include "ash/bubble/bubble_utils.h"

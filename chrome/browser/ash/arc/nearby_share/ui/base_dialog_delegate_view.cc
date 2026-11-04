@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base dialog delegate view implementation
+// summary: Implements the shared base bubble dialog for ARC Nearby Share dialogs, configuring layout, modality and message labels.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/ui/base_dialog_delegate_view.h"
 
 #include <memory>

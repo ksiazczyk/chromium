@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input overlay metrics implementation
+// summary: Records UKM events and histograms for game controls state, customization and reposition operations per app package.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/arc_input_overlay_metrics.h"
 
 #include <cstdint>

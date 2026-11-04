@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC settings service implementation
+// summary: Implements ArcSettingsService, which syncs ChromeOS preferences such as font scale, zoom, proxy and timezone to Android.
+// ---
+
 #include "chrome/browser/ash/arc/intent_helper/arc_settings_service.h"
 
 #include <string>

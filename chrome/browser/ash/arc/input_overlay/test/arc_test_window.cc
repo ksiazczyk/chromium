@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: arc_test_window.cc
+// summary: Implements ArcTestWindow, which builds an exo client-controlled shell surface window tagged with an ARC package name for tests.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/test/arc_test_window.h"
 
 #include "ash/public/cpp/window_properties.h"

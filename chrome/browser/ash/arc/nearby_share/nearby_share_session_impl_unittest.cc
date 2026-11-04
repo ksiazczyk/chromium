@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for Nearby Share sessions
+// summary: Tests session behavior such as text share intents using fake ARC windows, shelf controller, and a test sharesheet callback.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/nearby_share_session_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch injector
+// summary: Implements TouchInjector, which parses JSON control definitions into tap and move actions and converts keyboard and mouse input into touch events for Android apps.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/touch_injector.h"
 
 #include <list>

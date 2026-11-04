@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for the ARC Nearby Share bridge
+// summary: Tests bridge construction and that a fake Nearby Share instance connects and initializes against a testing profile.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/arc_nearby_share_bridge.h"
 
 #include "base/memory/raw_ptr.h"

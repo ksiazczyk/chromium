@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ARC net directory
+summary: Defines allowed include dependencies for the ARC net directory and grants extra includes needed by the unit test.

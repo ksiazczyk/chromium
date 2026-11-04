@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeArcIntentHelperDelegate class declaration
+// summary: Declares ChromeArcIntentHelperDelegate, the Chrome-side implementation of ArcIntentHelperBridge::Delegate that resets ARC and updates Android settings such as location.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INTENT_HELPER_CHROME_ARC_INTENT_HELPER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_ARC_INTENT_HELPER_CHROME_ARC_INTENT_HELPER_DELEGATE_H_
 

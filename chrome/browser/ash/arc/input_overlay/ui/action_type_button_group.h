@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action type button group header
+// summary: Declares ActionTypeButtonGroup, a horizontal group of action type buttons in the game controls button options menu where selecting one button unselects the others.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_ACTION_TYPE_BUTTON_GROUP_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_ACTION_TYPE_BUTTON_GROUP_H_
 

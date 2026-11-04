@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcInputMethodState class header
+// summary: Declares ArcInputMethodState, the model tracking installed, enabled, and allowed ARC input methods with a delegate for allow decisions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_METHOD_MANAGER_ARC_INPUT_METHOD_STATE_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_METHOD_MANAGER_ARC_INPUT_METHOD_STATE_H_
 

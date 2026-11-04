@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC locked fullscreen manager implementation
+// summary: Implements muting and unmuting of ARC VM audio for locked fullscreen mode via the concierge client, delaying actions until ARC starts and recording success histograms.
+// ---
+
 #include "chrome/browser/ash/arc/locked_fullscreen/arc_locked_fullscreen_manager.h"
 
 #include "base/check.h"

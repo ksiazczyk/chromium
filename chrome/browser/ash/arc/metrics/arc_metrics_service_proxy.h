@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcMetricsServiceProxy class declaration
+// summary: Declares the ArcMetricsServiceProxy keyed service observing ARC app list, session, and memory kill events on behalf of ArcMetricsService.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_METRICS_ARC_METRICS_SERVICE_PROXY_H_
 #define CHROME_BROWSER_ASH_ARC_METRICS_ARC_METRICS_SERVICE_PROXY_H_
 

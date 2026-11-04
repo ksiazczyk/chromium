@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditLabels implementation
+// summary: Implements the container that lays out edit labels for tap or joystick actions and computes action names and accessibility labels.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/edit_labels.h"
 
 #include "base/check_op.h"

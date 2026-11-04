@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcMetricsServiceProxy implementation
+// summary: Implements the keyed service proxy that forwards ARC task, session, and memory kill events to ArcMetricsService and logs session stop histograms.
+// ---
+
 #include "chrome/browser/ash/arc/metrics/arc_metrics_service_proxy.h"
 
 #include "base/metrics/histogram_functions.h"

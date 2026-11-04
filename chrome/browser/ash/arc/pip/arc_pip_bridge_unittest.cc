@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ArcPipBridge
+// summary: Verifies that closing PiP notifies Android and that opening Android PiP twice does not send an erroneous close command.
+// ---
+
 #include "chrome/browser/ash/arc/pip/arc_pip_bridge.h"
 
 #include "chrome/browser/ash/arc/pip/arc_picture_in_picture_window_controller_impl.h"

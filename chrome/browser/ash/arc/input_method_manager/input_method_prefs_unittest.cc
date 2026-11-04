@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputMethodPrefs unit tests
+// summary: Unit tests for InputMethodPrefs covering reading enabled IMEs and updating preferences, including resetting current and previous IMEs.
+// ---
+
 #include "chrome/browser/ash/arc/input_method_manager/input_method_prefs.h"
 
 #include <optional>

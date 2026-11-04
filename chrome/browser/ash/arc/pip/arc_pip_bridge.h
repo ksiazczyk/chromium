@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC picture-in-picture bridge header
+// summary: Declares ArcPipBridge, a KeyedService and PipHost that handles ARC PiP events and forwards close requests to the Android PiP instance.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_PIP_ARC_PIP_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_PIP_ARC_PIP_BRIDGE_H_
 

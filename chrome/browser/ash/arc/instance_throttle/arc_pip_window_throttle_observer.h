@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPipWindowThrottleObserver header
+// summary: Declares the ArcPipWindowThrottleObserver class that observes the PIP window container and activates while an ARC PIP window is shown.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_PIP_WINDOW_THROTTLE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_PIP_WINDOW_THROTTLE_OBSERVER_H_
 

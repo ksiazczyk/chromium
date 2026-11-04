@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcInstanceThrottle unit tests
+// summary: Unit tests for ArcInstanceThrottle verifying throttling decisions, CPU restriction handling, and unthrottling reason metrics.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_instance_throttle.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareInfoFileStreamAdapter implementation for ARC Nearby Share
+// summary: Implements streaming of ARC virtual filesystem files to destination file descriptors, reading via FileStreamReader on the IO thread with blocking task runners.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/share_info_file_stream_adapter.h"
 
 #include <algorithm>

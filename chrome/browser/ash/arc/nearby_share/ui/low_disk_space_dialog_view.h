@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low disk space dialog view header
+// summary: Declares LowDiskSpaceDialogView, shown when disk space is insufficient to stream files from Android to ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_UI_LOW_DISK_SPACE_DIALOG_VIEW_H_
 #define CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_UI_LOW_DISK_SPACE_DIALOG_VIEW_H_
 

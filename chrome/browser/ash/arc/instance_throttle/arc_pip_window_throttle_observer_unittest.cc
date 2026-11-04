@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcPipWindowThrottleObserver unit tests
+// summary: Unit tests for the PIP window throttle observer verifying activation for ARC PIP windows but not for Chrome PIP windows.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_pip_window_throttle_observer.h"
 
 #include <map>

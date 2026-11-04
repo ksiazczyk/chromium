@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC CPU throttle observer header
+// summary: Declares ArcCpuThrottleObserver, which watches ARCVM instance throttling and stays active while ARCVM is not throttled.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_IDLE_MANAGER_ARC_CPU_THROTTLE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_IDLE_MANAGER_ARC_CPU_THROTTLE_OBSERVER_H_
 

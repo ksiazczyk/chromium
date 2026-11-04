@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC boot error notification class header
+// summary: Declares ArcBootErrorNotification, a KeyedService and ArcSessionManagerObserver that watches for ARC boot errors and shows notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_NOTIFICATION_ARC_BOOT_ERROR_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_ARC_NOTIFICATION_ARC_BOOT_ERROR_NOTIFICATION_H_
 

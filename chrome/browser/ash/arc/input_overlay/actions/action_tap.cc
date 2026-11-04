@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionTap implementation
+// summary: Implements the tap action that converts keyboard and mouse events into simulated touch tap events, with its overlay view and label handling.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/actions/action_tap.h"
 
 #include "base/check.h"

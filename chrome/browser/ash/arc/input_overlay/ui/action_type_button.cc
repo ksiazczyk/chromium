@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionTypeButton implementation
+// summary: Implements a radio-style button with an icon above its label used to pick an action type in the options menu.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/action_type_button.h"
 
 #include "ash/style/ash_color_id.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC policy utility header
+// summary: Declares ARC policy key constants, install type and policy key enums, and utility functions for parsing ArcPolicy and reporting metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_POLICY_ARC_POLICY_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_POLICY_ARC_POLICY_UTIL_H_
 

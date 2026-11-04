@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC display power observer unit tests
+// summary: Unit tests for ArcDisplayPowerObserver verifying observer registration and enforced state changes on display power transitions.
+// ---
+
 #include "chrome/browser/ash/arc/idle_manager/arc_display_power_observer.h"
 
 #include "ash/shell.h"

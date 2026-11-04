@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPrintSpoolerBridge implementation
+// summary: Implements the PrintSpoolerHost Mojo interface, saving ARC print documents to disk and opening them in a custom tab for Chrome print preview.
+// ---
+
 #include "chrome/browser/ash/arc/print_spooler/arc_print_spooler_bridge.h"
 
 #include <utility>

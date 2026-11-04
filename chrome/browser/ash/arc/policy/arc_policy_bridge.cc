@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC policy bridge implementation
+// summary: Converts Chrome OS policies into ARC policy JSON, handling certificates, ONC network configuration, and managed configuration for CloudDPC.
+// ---
+
 #include "chrome/browser/ash/arc/policy/arc_policy_bridge.h"
 
 #include <optional>

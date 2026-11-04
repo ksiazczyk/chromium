@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ARC input overlay UI library
+summary: Defines the static library sources and dependencies for the input overlay UI views plus a test-only source_set for its unit tests.

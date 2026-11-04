@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC input method manager service
+// summary: Tests service behavior such as IME info handling, IME switching, and virtual keyboard visibility using fake bridges and mock managers.
+// ---
+
 #include "chrome/browser/ash/arc/input_method_manager/arc_input_method_manager_service.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionLabel implementation
+// summary: Implements labels that display key mapping hints for tap and move actions, positioning them around the touch point.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/action_label.h"
 
 #include <array>

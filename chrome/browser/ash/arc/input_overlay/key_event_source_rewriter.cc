@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key event source rewriter
+// summary: Implements KeyEventSourceRewriter, which forwards key events from the primary root window to the event source of the extended display hosting the overlay window.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/key_event_source_rewriter.h"
 
 #include "ash/shell.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC locked fullscreen manager header
+// summary: Declares the ArcLockedFullscreenManager class, an ArcSessionManagerObserver that sets up the ARC VM for locked fullscreen mode with the primary user profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_LOCKED_FULLSCREEN_ARC_LOCKED_FULLSCREEN_MANAGER_H_
 #define CHROME_BROWSER_ASH_ARC_LOCKED_FULLSCREEN_ARC_LOCKED_FULLSCREEN_MANAGER_H_
 

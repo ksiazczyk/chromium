@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error dialog view implementation
+// summary: Implements the non-actionable ARC Nearby Share error dialog with a Close button and a localized message.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/ui/error_dialog_view.h"
 
 #include <memory>

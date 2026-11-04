@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcvmKioskModeThrottleObserver class header
+// summary: Declares the ArcvmKioskModeThrottleObserver, which disables ARCVM throttling in Kiosk mode where ARCVM is only one component.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARCVM_KIOSK_MODE_THROTTLE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARCVM_KIOSK_MODE_THROTTLE_OBSERVER_H_
 

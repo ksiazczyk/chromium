@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the ARC input overlay proto library
+summary: Defines a proto_library GN target that builds app_data.proto for the ChromeOS ARC input overlay database.

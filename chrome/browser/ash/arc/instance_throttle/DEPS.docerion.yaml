@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ARC instance throttle include dependency rules (DEPS)
+summary: Restricts includes from //chrome and lists the allowed ChromeOS dependencies for the instance_throttle directory.

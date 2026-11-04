@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch ID manager header
+// summary: Declares TouchIdManager, a singleton that assigns the lowest unused touch ID and releases IDs via a bit set.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_TOUCH_ID_MANAGER_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_TOUCH_ID_MANAGER_H_
 

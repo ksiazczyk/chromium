@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for managed configuration variables
+// summary: Unit tests verifying recursive replacement of managed configuration template variables for affiliated and non-affiliated users.
+// ---
+
 #include "chrome/browser/ash/arc/policy/managed_configuration_variables.h"
 
 #include <memory>

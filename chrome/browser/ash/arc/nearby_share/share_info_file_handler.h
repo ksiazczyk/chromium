@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareInfoFileHandler header for ARC Nearby Share file streaming
+// summary: Declares ShareInfoFileHandler, which converts Android share intent ContentProvider URIs into Chrome OS FileSystemURLs and streams shared files for Nearby Share.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_SHARE_INFO_FILE_HANDLER_H_
 #define CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_SHARE_INFO_FILE_HANDLER_H_
 

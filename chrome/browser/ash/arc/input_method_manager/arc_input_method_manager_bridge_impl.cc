@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC input method manager bridge implementation
+// summary: Implements the bridge by forwarding mojo calls such as enabling IMEs, switching IMEs, focus, and virtual keyboard control to the ARC instance.
+// ---
+
 #include "chrome/browser/ash/arc/input_method_manager/arc_input_method_manager_bridge_impl.h"
 
 #include <utility>

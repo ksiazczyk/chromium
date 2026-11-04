@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash-side ARC intent helper Mojo delegate implementation
+// summary: Implements ArcIntentHelperMojoAsh, forwarding URL handler and text selection requests to the ARC intent helper Mojo instance.
+// ---
+
 #include "chrome/browser/ash/arc/intent_helper/arc_intent_helper_mojo_ash.h"
 
 #include "base/barrier_closure.h"

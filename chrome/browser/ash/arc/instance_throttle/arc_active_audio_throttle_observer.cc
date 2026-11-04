@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC active audio throttle observer implementation
+// summary: Implements the observer that sets the throttle state active while ARC audio streams are playing, via CrasAudioHandler.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_active_audio_throttle_observer.h"
 
 #include "ash/public/cpp/app_types_util.h"

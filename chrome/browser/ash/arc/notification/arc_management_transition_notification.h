@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC management transition notification header
+// summary: Declares ShowManagementTransitionNotification and the notification id constant shared with unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_NOTIFICATION_ARC_MANAGEMENT_TRANSITION_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_ARC_NOTIFICATION_ARC_MANAGEMENT_TRANSITION_NOTIFICATION_H_
 

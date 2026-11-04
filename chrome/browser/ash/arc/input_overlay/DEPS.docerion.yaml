@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Input overlay include dependency rules
+summary: Sets include rules that restrict //chrome dependencies and allow specific includes for the input overlay directory.

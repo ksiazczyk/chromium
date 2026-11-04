@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Input overlay GN build targets
+summary: Defines the input_overlay static library and its unit test source set with sources and dependencies for the ARC input overlay feature.

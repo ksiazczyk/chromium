@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch ID manager
+// summary: Implements the TouchIdManager singleton that allocates and releases touch IDs used by the input overlay feature.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/touch_id_manager.h"
 
 #include <cmath>

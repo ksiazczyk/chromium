@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action view implementation
+// summary: Implements ActionView, the view for each game control action, handling display modes, input binding changes, positioning, and mouse, gesture and key events.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/action_view.h"
 
 #include <algorithm>

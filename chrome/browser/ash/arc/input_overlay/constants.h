@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input overlay shared constants and enums
+// summary: Defines shared constants, layout dimensions and enums such as display mode and binding options used across the input overlay.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_CONSTANTS_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_CONSTANTS_H_
 

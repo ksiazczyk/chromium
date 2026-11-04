@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate manager implementation
+// summary: Implements importing PEM user certificates and private keys into the NSS certificate database and deleting prior entries.
+// ---
+
 #include "chrome/browser/ash/arc/net/cert_manager_impl.h"
 
 #include <pk11priv.h>

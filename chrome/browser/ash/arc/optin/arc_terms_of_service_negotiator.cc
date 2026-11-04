@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC terms of service negotiator base class implementation
+// summary: Implements the base terms of service negotiator that starts negotiation and reports the accepted result through a callback.
+// ---
+
 #include "chrome/browser/ash/arc/optin/arc_terms_of_service_negotiator.h"
 
 #include <utility>

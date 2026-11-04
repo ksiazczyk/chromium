@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC input method state implementation
+// summary: Implements tracking of installed ARC input methods, validating IME info, and computing available and enabled input method descriptors.
+// ---
+
 #include "chrome/browser/ash/arc/input_method_manager/arc_input_method_state.h"
 
 #include <algorithm>

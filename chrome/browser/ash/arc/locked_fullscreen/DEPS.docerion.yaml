@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the unit test
+summary: Allows arc_locked_fullscreen_manager_unittest.cc to include the scoped Cros settings test helper header.

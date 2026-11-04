@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC settings service
+// summary: Unit tests for ArcSettingsService using fake ARC instances to check settings sync behavior.
+// ---
+
 #include "chrome/browser/ash/arc/intent_helper/arc_settings_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: arc_test_window.h
+// summary: Declares ArcTestWindow, a test helper that creates an exo-based ARC window and supports minimizing and setting bounds per display.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_TEST_ARC_TEST_WINDOW_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_TEST_ARC_TEST_WINDOW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionTypeButtonGroup implementation
+// summary: Implements a radio group of tap and joystick buttons that switches an action's type and handles arrow key navigation.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/action_type_button_group.h"
 
 #include <utility>

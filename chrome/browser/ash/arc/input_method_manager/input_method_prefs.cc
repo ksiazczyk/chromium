@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodPrefs implementation
+// summary: Updates and reads input method related preferences, keeping the enabled IME list in sync with ARC input methods.
+// ---
+
 #include "chrome/browser/ash/arc/input_method_manager/input_method_prefs.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC power throttle observer unit tests
+// summary: Unit tests verifying that ArcPowerThrottleObserver activates on pre-ANR events and deactivates after the expected delay.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_power_throttle_observer.h"
 
 #include "base/command_line.h"

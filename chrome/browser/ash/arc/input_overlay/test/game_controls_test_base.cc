@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: game_controls_test_base.cc
+// summary: Implements the GameControlsTestBase fixture that sets up an ARC game window, input overlay manager, touch injector and overlay controller.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/test/game_controls_test_base.h"
 
 #include "ash/constants/ash_features.h"

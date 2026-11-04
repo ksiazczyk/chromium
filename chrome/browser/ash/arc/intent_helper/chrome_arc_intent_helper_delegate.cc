@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome ARC intent helper delegate implementation
+// summary: Implements ChromeArcIntentHelperDelegate, handling Android setting updates such as location and accuracy sync.
+// ---
+
 #include "chrome/browser/ash/arc/intent_helper/chrome_arc_intent_helper_delegate.h"
 
 #include <string>

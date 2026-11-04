@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcBootPhaseThrottleObserver unit tests
+// summary: Unit tests for the boot phase throttle observer covering ARC boot, restart, session restore, and Mojo connection-ready throttling behavior.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_boot_phase_throttle_observer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcInstanceThrottle implementation
+// summary: Implements the ArcInstanceThrottle keyed service that combines the throttle observers and applies or lifts CPU restrictions on the ARC container or VM.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_instance_throttle.h"
 
 #include "base/logging.h"

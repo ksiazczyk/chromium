@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input overlay resources util
+// summary: Maps Android package names to the resource IDs of bundled input overlay JSON configuration files for supported games.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/input_overlay_resources_util.h"
 
 #include <map>

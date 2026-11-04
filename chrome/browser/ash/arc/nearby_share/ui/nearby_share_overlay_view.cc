@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share overlay view implementation
+// summary: Implements the overlay view added to ARC app windows via exo shell surfaces to host Nearby Share content.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/ui/nearby_share_overlay_view.h"
 
 #include "base/functional/bind.h"

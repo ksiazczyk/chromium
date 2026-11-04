@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC switch throttle observer header
+// summary: Declares ArcSwitchThrottleObserver, which disables ARC throttling when explicitly requested via a command-line switch.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_SWITCH_THROTTLE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_SWITCH_THROTTLE_OBSERVER_H_
 

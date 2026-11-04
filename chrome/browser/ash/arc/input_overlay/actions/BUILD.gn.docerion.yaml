@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ARC input overlay actions library
+summary: Defines the actions static library sources and dependencies plus the unit_tests source_set for the ARC input overlay actions directory.

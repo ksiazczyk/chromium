@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display overlay controller implementation
+// summary: Implements the controller that creates and manages the game controls overlay widgets shown over ARC app windows.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/display_overlay_controller.h"
 
 #include <algorithm>

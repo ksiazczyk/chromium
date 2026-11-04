@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputElement unit tests
+// summary: Unit tests verifying InputElement equality, overlap detection between tap and move bindings, and unbound state behavior.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/actions/input_element.h"
 
 #include "base/json/json_reader.h"

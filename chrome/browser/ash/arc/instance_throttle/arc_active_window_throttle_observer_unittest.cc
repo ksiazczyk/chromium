@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC active window throttle observer
+// summary: Verifies the observer activates on ARC window activation and deactivates when a non-ARC window gains focus.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_active_window_throttle_observer.h"
 
 #include "base/functional/bind.h"

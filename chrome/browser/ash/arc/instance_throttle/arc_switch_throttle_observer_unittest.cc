@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC switch throttle observer unit tests
+// summary: Unit tests checking that ArcSwitchThrottleObserver stays inactive by default and becomes active when the switch is present.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_switch_throttle_observer.h"
 
 #include "ash/constants/ash_switches.h"

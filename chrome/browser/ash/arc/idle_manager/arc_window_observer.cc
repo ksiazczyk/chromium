@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcWindowObserver implementation
+// summary: Implements the observer that tracks the ARC window count and stays active while ARC windows are open, blocking Doze mode.
+// ---
+
 #include "chrome/browser/ash/arc/idle_manager/arc_window_observer.h"
 
 namespace arc {

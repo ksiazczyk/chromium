@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error dialog view unit tests
+// summary: Unit tests verifying ErrorDialogView construction, its single OK button and the close callback behavior.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/ui/error_dialog_view.h"
 
 #include <memory>

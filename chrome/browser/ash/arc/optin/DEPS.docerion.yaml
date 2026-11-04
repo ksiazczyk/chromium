@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ARC opt-in directory
+summary: Restricts //chrome dependencies for the directory, lists allowed existing includes, and grants extra includes to the unit test.

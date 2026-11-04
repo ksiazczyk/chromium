@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch point implementation
+// summary: Implements the TouchPoint view that renders dot and cross touch indicators for actions in edit mode, with hover, drag and keyboard handling.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/touch_point.h"
 
 #include <cmath>

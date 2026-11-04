@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcBootPhaseThrottleObserver implementation
+// summary: Implements the boot phase throttle observer that keeps ARC unthrottled during boot, restart, and session restore, then throttles it after the app and intent helper connections are ready.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_boot_phase_throttle_observer.h"
 
 #include "base/logging.h"

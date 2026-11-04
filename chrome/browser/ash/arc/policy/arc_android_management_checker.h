@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Android management checker class declaration
+// summary: Declares ArcAndroidManagementChecker, which checks Android management for the user and reports allowed, disallowed, or error results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_POLICY_ARC_ANDROID_MANAGEMENT_CHECKER_H_
 #define CHROME_BROWSER_ASH_ARC_POLICY_ARC_ANDROID_MANAGEMENT_CHECKER_H_
 

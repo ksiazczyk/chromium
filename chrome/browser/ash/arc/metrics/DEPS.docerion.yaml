@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ARC metrics include dependency rules
+summary: DEPS file blocking //chrome includes for ChromeOS while listing allowed ARC-related exceptions for this directory.

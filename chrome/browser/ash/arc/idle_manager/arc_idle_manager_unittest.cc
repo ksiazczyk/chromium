@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcIdleManager unit tests
+// summary: Unit tests for ArcIdleManager covering observer wiring, idle state delegation, and fake power instance handling.
+// ---
+
 #include "chrome/browser/ash/arc/idle_manager/arc_idle_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ContainerAppKiller
+// summary: Tests kill candidate sorting, recently killed process tracking, and multi-process killing using a mock killer.
+// ---
+
 #include "chrome/browser/ash/arc/memory_pressure/container_app_killer.h"
 
 #include <map>

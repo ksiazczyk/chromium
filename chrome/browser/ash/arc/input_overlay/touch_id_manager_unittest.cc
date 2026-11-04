@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch ID manager unit tests
+// summary: Unit tests verifying that TouchIdManager correctly allocates, reuses, and releases touch IDs.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/touch_id_manager.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

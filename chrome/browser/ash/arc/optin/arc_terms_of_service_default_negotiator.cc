@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default ARC terms of service negotiator implementation
+// summary: Implements the default opt-in UI negotiator that shows the terms of service page and applies the user's consent choices to preferences.
+// ---
+
 #include "chrome/browser/ash/arc/optin/arc_terms_of_service_default_negotiator.h"
 
 #include <string>

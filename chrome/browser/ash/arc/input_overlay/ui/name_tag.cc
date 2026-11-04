@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NameTag view implementation
+// summary: Implements the NameTag view showing a title, subtitle, and error icon for the editing list and button options menu.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/name_tag.h"
 
 #include <memory>

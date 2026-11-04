@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share info file handler implementation
+// summary: Streams shared files from ARC content providers into a temporary local share directory with size-based timeouts for Nearby Share.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/share_info_file_handler.h"
 
 #include <cinttypes>

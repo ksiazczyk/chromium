@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Nearby Share bridge implementation
+// summary: Implements the Mojo NearbyShareHost keyed service that handles Nearby Share IPC from ARC and manages share sessions per task.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/arc_nearby_share_bridge.h"
 
 #include <utility>

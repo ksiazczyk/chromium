@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ARC intent helper dependencies
+summary: Restricts //chrome dependencies for ChromeOS and grants per-file exceptions for the ARC intent helper directory.

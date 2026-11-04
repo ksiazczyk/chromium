@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the ARC picture-in-picture directory
+summary: Empty OWNERS file for the ARC picture-in-picture directory, deferring ownership to parent directories.

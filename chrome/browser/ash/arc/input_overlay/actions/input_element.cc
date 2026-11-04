@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputElement implementation
+// summary: Implements creation of keyboard and mouse input bindings for tap and move actions, including overlap checks and proto conversion.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/actions/input_element.h"
 
 #include <algorithm>

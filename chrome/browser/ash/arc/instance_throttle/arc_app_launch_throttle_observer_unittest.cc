@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcAppLaunchThrottleObserver unit tests
+// summary: Tests that the app launch throttle observer activates on ARC app launch requests and deactivates once tasks are created or ARC windows are displayed.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_app_launch_throttle_observer.h"
 
 #include <memory>

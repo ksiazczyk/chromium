@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ArcPolicyHandler
+// summary: Unit tests verifying that ArcPolicyHandler warns on unknown managed configuration variables and leaves valid ArcPolicy entries without issues.
+// ---
+
 #include "chrome/browser/ash/arc/policy/arc_policy_handler.h"
 
 #include <string>

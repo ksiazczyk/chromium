@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC display power observer implementation
+// summary: Implements the throttle observer that enforces throttling when the display power state is all off.
+// ---
+
 #include "chrome/browser/ash/arc/idle_manager/arc_display_power_observer.h"
 
 #include "ash/shell.h"

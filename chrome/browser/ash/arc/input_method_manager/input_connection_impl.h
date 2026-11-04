@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputConnectionImpl class header
+// summary: Declares InputConnectionImpl, the per-text-field mojom::InputConnection that accepts text edit commands from the ARC container.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_METHOD_MANAGER_INPUT_CONNECTION_IMPL_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_METHOD_MANAGER_INPUT_CONNECTION_IMPL_H_
 

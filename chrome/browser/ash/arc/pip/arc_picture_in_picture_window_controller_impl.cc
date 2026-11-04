@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC picture-in-picture window controller implementation
+// summary: Implements the ARC picture-in-picture window controller, mostly as no-ops since Android manages the window, and reports ARC PiP window bounds from the shelf.
+// ---
+
 #include "chrome/browser/ash/arc/pip/arc_picture_in_picture_window_controller_impl.h"
 
 #include "chrome/browser/ash/arc/pip/arc_pip_bridge.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the ARC Nearby Share static library
+summary: GN build file defining the nearby_share static library sources and dependencies plus the unit_tests source_set.

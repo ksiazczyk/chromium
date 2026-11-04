@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: overlay_view_test_base.cc
+// summary: Implements OverlayViewTestBase helpers to drive and verify the game controls overlay UI, including edit mode, editing list and button options menu.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/test/overlay_view_test_base.h"
 
 #include <algorithm>

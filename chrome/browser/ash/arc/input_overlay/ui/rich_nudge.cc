@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RichNudge bubble implementation
+// summary: Implements the rich nudge bubble shown during button placement mode, built on ash SystemNudgeView with a Lottie image and flippable positioning.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/rich_nudge.h"
 
 #include <algorithm>

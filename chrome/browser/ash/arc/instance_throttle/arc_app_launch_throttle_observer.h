@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app launch throttle observer class declaration
+// summary: Declares ArcAppLaunchThrottleObserver, which watches launch requests, task creation and window display during app launches.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_APP_LAUNCH_THROTTLE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_APP_LAUNCH_THROTTLE_OBSERVER_H_
 

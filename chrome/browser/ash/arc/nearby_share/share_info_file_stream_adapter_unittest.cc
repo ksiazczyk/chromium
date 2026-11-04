@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShareInfoFileStreamAdapter unit tests
+// summary: Unit tests for ShareInfoFileStreamAdapter that stream test files from a temporary file system context to file descriptors and verify results.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/share_info_file_stream_adapter.h"
 
 #include <string>

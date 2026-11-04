@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the ARC opt-in library
+summary: Defines the optin static library with its sources and dependencies, plus the unit_tests target for the ARC terms of service negotiator tests.

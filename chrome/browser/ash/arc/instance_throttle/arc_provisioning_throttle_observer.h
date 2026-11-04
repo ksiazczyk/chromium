@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC provisioning throttle observer header
+// summary: Declares ArcProvisioningThrottleObserver, which observes ARC session state to hold off throttling until provisioning is done.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_PROVISIONING_THROTTLE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_PROVISIONING_THROTTLE_OBSERVER_H_
 

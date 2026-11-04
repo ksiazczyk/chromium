@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC opt-in preference handler implementation
+// summary: Implements the handler that observes and updates metrics, backup and restore, and location service preferences during the ARC opt-in flow.
+// ---
+
 #include "chrome/browser/ash/arc/optin/arc_optin_preference_handler.h"
 
 #include "ash/constants/ash_features.h"
