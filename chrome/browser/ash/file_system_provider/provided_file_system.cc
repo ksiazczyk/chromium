@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provided file system implementation
+// summary: Implements ProvidedFileSystem, forwarding file system operation requests between extension providers and clients, with per-provider operation timeouts.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/provided_file_system.h"
 
 #include <memory>

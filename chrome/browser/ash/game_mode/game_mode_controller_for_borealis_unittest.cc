@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Game mode controller for Borealis unit tests
+// summary: Unit tests verifying that fullscreen Borealis windows enter and exit game mode via resourced on focus changes, window switching, and destruction.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/test/bind.h"
 #include "chrome/browser/ash/borealis/borealis_features.h"

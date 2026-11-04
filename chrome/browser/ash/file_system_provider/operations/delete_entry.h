@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeleteEntry operation header
+// summary: Declares the DeleteEntry operation class that deletes an entry from a provided file system, optionally deleting directory contents recursively.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OPERATIONS_DELETE_ENTRY_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OPERATIONS_DELETE_ENTRY_H_
 

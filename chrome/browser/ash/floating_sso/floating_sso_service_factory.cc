@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating SSO service factory implementation
+// summary: Implements the profile-keyed factory that creates FloatingSsoService instances for primary user profiles, wiring prefs, cookie manager, and sync bridge.
+// ---
+
 #include "chrome/browser/ash/floating_sso/floating_sso_service_factory.h"
 
 #include <memory>

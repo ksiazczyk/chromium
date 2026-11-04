@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system provider watcher declarations
+// summary: Declares the WatcherKey, Subscriber, and Watcher structs that model watchers on provided file systems and their per-origin notification subscribers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_WATCHER_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_WATCHER_H_
 

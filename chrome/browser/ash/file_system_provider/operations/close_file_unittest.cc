@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Close file operation unit tests
+// summary: Unit tests for the CloseFile operation, verifying event dispatch, missing listener handling, and success and error callbacks for closing provided files.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/close_file.h"
 
 #include <string>

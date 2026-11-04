@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenFile operation header
+// summary: Declares the OpenFile operation class that opens an existing file for read or write access via the providing extension.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OPERATIONS_OPEN_FILE_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OPERATIONS_OPEN_FILE_H_
 

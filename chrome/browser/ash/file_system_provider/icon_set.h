@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconSet class header
+// summary: Declares IconSet, which holds icon URLs for multiple dimensions such as 16x16 and 32x32.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_ICON_SET_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_ICON_SET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie sync data type controller implementation
+// summary: Implements the cookie sync DataTypeController that starts or stops and clears cookie sync based on the FloatingSsoEnabled policy pref.
+// ---
+
 #include "chrome/browser/ash/floating_sso/cookie_sync_data_type_controller.h"
 
 #include "base/functional/bind.h"

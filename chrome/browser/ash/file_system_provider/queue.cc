@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task queue implementation
+// summary: Implements the Queue class that runs at most a fixed number of tasks in parallel and supports enqueueing, completing, and aborting tasks by token.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/queue.h"
 
 #include "base/check_op.h"

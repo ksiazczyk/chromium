@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseBox server class declarations
+// summary: Declares the FuseBox Server class, including prefix registration, filename and FileSystemURL resolution, moniker management, and debug JSON support.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FUSEBOX_FUSEBOX_SERVER_H_
 #define CHROME_BROWSER_ASH_FUSEBOX_FUSEBOX_SERVER_H_
 

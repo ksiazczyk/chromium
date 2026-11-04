@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File access permissions unit tests
+// summary: Tests that granted file and directory permissions apply only to the intended origins and that revocation and defaults behave correctly.
+// ---
+
 #include "chrome/browser/ash/fileapi/file_access_permissions.h"
 
 #include "extensions/common/extension.h"

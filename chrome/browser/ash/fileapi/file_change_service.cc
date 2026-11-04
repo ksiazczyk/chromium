@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileChangeService implementation
+// summary: Implements a keyed service that notifies registered observers of file change events such as modifications, moves, and files created via the save file picker.
+// ---
+
 #include "chrome/browser/ash/fileapi/file_change_service.h"
 #include "chrome/browser/file_system_access/chrome_file_system_access_permission_context.h"
 

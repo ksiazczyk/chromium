@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File access permissions header
+// summary: Declares FileAccessPermissions, a thread-safe map of allowed file paths for each extension or app origin.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_FILE_ACCESS_PERMISSIONS_H_
 #define CHROME_BROWSER_ASH_FILEAPI_FILE_ACCESS_PERMISSIONS_H_
 

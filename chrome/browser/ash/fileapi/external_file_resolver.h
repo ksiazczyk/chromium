@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalFileResolver class declaration
+// summary: Declares ExternalFileResolver, which resolves externalfile URLs to redirects or FileStreamReaders after processing request headers and byte ranges.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_EXTERNAL_FILE_RESOLVER_H_
 #define CHROME_BROWSER_ASH_FILEAPI_EXTERNAL_FILE_RESOLVER_H_
 

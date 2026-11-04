@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abort operation class declaration
+// summary: Declares the Abort operation class that cancels a previously requested operation, created per request.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OPERATIONS_ABORT_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OPERATIONS_ABORT_H_
 

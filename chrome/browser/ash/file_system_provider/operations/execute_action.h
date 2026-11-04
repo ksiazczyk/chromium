@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExecuteAction operation header
+// summary: Declares the ExecuteAction operation bridging chrome.fileManagerPrivate.executeCustomAction to the providing extension's onExecuteActionRequested event.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OPERATIONS_EXECUTE_ACTION_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OPERATIONS_EXECUTE_ACTION_H_
 

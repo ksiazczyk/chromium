@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseBox moniker type and map declarations
+// summary: Declares the Moniker alias and MonikerMap class that provide unguessable filename aliases for FileSystemURLs so processes can share files they cannot share as C++ objects.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FUSEBOX_FUSEBOX_MONIKER_H_
 #define CHROME_BROWSER_ASH_FUSEBOX_FUSEBOX_MONIKER_H_
 

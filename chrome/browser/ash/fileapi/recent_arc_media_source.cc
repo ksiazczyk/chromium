@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent ARC media source implementation
+// summary: Implements RecentArcMediaSource, which scans ARC media view roots such as Downloads and MyFiles to supply recent files to the RecentModel.
+// ---
+
 #include "chrome/browser/ash/fileapi/recent_arc_media_source.h"
 
 #include <algorithm>

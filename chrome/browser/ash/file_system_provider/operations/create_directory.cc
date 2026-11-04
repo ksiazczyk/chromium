@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create directory operation implementation
+// summary: Implements the CreateDirectory operation that dispatches create-directory requests to the providing extension for writable file systems and reports the outcome.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/create_directory.h"
 
 #include <string>

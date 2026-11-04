@@ -1,3 +1,9 @@
+---
+type: readme
+title: Floating workspace directory README
+summary: Explains that the floating workspace service restores the most recent remote browser session on login and links the design doc.
+---
+
 # chrome/browser/ash/floating_workspace
 
 This directory contains floating workspace code. When enabled floating workspace

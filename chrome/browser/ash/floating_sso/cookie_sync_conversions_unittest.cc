@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for cookie sync conversions
+// summary: Unit tests verifying round-trip cookie and proto conversions and that non-serializable partition keys are rejected.
+// ---
+
 #include "chrome/browser/ash/floating_sso/cookie_sync_conversions.h"
 
 #include <initializer_list>

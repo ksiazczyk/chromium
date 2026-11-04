@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for file system provider operations
+summary: GN build file defining the operations static library and the unit_tests source set with their sources and dependencies.

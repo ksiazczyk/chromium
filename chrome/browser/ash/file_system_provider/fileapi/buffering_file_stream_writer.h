@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffering file stream writer class declaration
+// summary: Declares BufferingFileStreamWriter, which wraps a file stream writer with an intermediate buffer for batching writes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FILEAPI_BUFFERING_FILE_STREAM_WRITER_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FILEAPI_BUFFERING_FILE_STREAM_WRITER_H_
 

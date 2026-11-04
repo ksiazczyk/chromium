@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File stream reader class declaration
+// summary: Declares FileStreamReader, a lazily initialized storage::FileStreamReader that reads files from provided file systems with Read and GetLength overrides.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FILEAPI_FILE_STREAM_READER_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FILEAPI_FILE_STREAM_READER_H_
 

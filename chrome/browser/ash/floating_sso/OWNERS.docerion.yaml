@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the floating_sso directory
+summary: Lists the code owners for the directory and delegates sync file reviews to the components/sync owners.

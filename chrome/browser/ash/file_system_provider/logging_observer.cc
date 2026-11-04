@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoggingObserver implementation
+// summary: Implements an observer that records mount and unmount events raised by the file system provider service.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/logging_observer.h"
 
 namespace ash::file_system_provider {

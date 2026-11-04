@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy entry operation implementation
+// summary: Implements the CopyEntry operation that requests copying an entry in a writable provided file system and reports the result through a status callback.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/copy_entry.h"
 
 #include <string>

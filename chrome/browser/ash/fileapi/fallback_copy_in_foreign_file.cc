@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback copy in foreign file implementation
+// summary: Implements AsyncFileUtil::CopyInForeignFile by copying a kernel-visible source file into a virtual file system via a temporary sibling file before renaming it into place.
+// ---
+
 
 #include "chrome/browser/ash/fileapi/fallback_copy_in_foreign_file.h"
 

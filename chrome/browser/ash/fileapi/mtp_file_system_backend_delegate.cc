@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP file system backend delegate implementation
+// summary: Implements the ChromeOS file API backend delegate for MTP device media, providing the async file util, stream readers, writers and watcher manager access.
+// ---
+
 #include "chrome/browser/ash/fileapi/mtp_file_system_backend_delegate.h"
 
 #include "chrome/browser/media_galleries/fileapi/device_media_async_file_util.h"

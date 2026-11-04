@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecentSource unit tests
+// summary: Unit tests for RecentSource covering the IsLate deadline check of Params and the FileNameMatches query matching helper, including accent-insensitive matching.
+// ---
+
 #include <vector>
 
 #include "base/strings/utf_string_conversions.h"

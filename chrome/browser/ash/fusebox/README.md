@@ -1,3 +1,9 @@
+---
+type: readme
+title: Fusebox
+summary: Explains Fusebox, the ChromeOS mechanism that exposes Chrome's virtual file system over FUSE, covering its D-Bus structure, file names, handles, monikers and testing.
+---
+
 # Fusebox
 
 Fusebox is a ChromeOS-only mechanism for exposing Chrome's in-process virtual

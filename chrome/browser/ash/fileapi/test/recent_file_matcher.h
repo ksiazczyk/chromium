@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent file gmock matcher
+// summary: Provides a gmock matcher that compares a RecentFile's path and modified time against expected values in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_TEST_RECENT_FILE_MATCHER_H_
 #define CHROME_BROWSER_ASH_FILEAPI_TEST_RECENT_FILE_MATCHER_H_
 

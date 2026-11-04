@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request manager class declaration
+// summary: Declares RequestManager with request type and completion enums plus handler and observer interfaces for tracking provider requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_REQUEST_MANAGER_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_REQUEST_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for file_system_provider
+summary: Restricts which headers files in this directory may include, listing allowed //chrome dependencies and noting an ongoing refactoring effort.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetActions operation unit tests
+// summary: Unit tests for the GetActions operation, verifying event dispatch, request value parsing, and callback logging for success and error cases.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/get_actions.h"
 
 #include <memory>

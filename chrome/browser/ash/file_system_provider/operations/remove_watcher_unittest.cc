@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoveWatcher operation unit tests
+// summary: Unit tests verifying the RemoveWatcher operation's event dispatch, no-listener and success handling for the Chrome OS file system provider.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/remove_watcher.h"
 
 #include <string>

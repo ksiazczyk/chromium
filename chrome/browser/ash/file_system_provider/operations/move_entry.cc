@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MoveEntry operation implementation
+// summary: Implements the MoveEntry operation, dispatching move entry requests to the providing extension and reporting success or error via callback.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/move_entry.h"
 
 #include <string>

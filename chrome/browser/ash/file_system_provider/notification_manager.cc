@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification manager implementation
+// summary: Implements showing and hiding message center notifications about unresponsive file system provider requests, with an abort button and extension icons.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/notification_manager.h"
 
 #include <memory>

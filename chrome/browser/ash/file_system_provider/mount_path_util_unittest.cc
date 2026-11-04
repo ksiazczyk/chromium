@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mount path utilities unit tests
+// summary: Unit tests for the mount path utilities, exercising URL and local path parsing with fake providers, profiles and user managers.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/mount_path_util.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the fileapi library
+summary: Defines the fileapi static library and its unit_tests source set, listing sources and dependencies for the file system provider fileapi code.

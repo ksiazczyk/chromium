@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File access permissions implementation
+// summary: Implements granting, checking and revoking per-origin file path access permissions, walking up directory trees under a lock.
+// ---
+
 #include "chrome/browser/ash/fileapi/file_access_permissions.h"
 
 #include "base/check.h"

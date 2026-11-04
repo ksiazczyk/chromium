@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Errno conversion unit tests
+// summary: Unit tests verifying that file and net error codes map to the expected POSIX errno values.
+// ---
+
 #include "chrome/browser/ash/fusebox/fusebox_errno.h"
 
 #include "net/base/net_errors.h"

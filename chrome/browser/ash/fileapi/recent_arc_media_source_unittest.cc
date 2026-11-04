@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent ARC media source unit tests
+// summary: Unit tests for RecentArcMediaSource, using a fake ARC file system instance to verify recent file scanning, partial results and histogram metrics.
+// ---
+
 #include "chrome/browser/ash/fileapi/recent_arc_media_source.h"
 
 #include <memory>

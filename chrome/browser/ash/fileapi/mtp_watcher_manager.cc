@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP watcher manager implementation
+// summary: Implements MTPWatcherManager, forwarding directory watcher additions and removals to the device media async file util on the IO thread.
+// ---
+
 #include "chrome/browser/ash/fileapi/mtp_watcher_manager.h"
 
 #include "content/public/browser/browser_thread.h"

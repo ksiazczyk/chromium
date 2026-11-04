@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiversionFileManager implementation
+// summary: Implements DiversionFileManager, which diverts writes to cloud-backed virtual files into local disk-backed temporary files so reads and appends stay fast.
+// ---
+
 #include "chrome/browser/ash/fileapi/diversion_file_manager.h"
 
 #include <fcntl.h>

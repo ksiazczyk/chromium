@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoggingObserver class header
+// summary: Declares a utility observer that logs mount and unmount events from file_system_provider::Service into event lists.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_LOGGING_OBSERVER_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_LOGGING_OBSERVER_H_
 

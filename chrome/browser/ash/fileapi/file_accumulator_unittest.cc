@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File accumulator unit tests
+// summary: Tests adding recent files to FileAccumulator, its capacity limit, ordering by last modified time and the sealed state after Get.
+// ---
+
 #include "chrome/browser/ash/fileapi/file_accumulator.h"
 
 #include "base/files/file_path.h"

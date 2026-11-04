@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent ARC media source header
+// summary: Declares RecentArcMediaSource, a RecentSource used by RecentModel to retrieve recent files from the ARC media view on the UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_RECENT_ARC_MEDIA_SOURCE_H_
 #define CHROME_BROWSER_ASH_FILEAPI_RECENT_ARC_MEDIA_SOURCE_H_
 

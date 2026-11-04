@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WriteFile operation class declaration
+// summary: Declares the WriteFile operation class, a per-request bridge between fileapi write file calls and the providing extension's write file request.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OPERATIONS_WRITE_FILE_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_OPERATIONS_WRITE_FILE_H_
 

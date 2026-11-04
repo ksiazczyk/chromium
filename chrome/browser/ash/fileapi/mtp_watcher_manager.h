@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP watcher manager header
+// summary: Declares MTPWatcherManager, a storage WatcherManager that delegates watcher operations for MTP device media file systems.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_MTP_WATCHER_MANAGER_H_
 #define CHROME_BROWSER_ASH_FILEAPI_MTP_WATCHER_MANAGER_H_
 

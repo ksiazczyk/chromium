@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie sync data type controller declaration
+// summary: Declares a DataTypeController for the cookie sync datatype whose precondition state follows the FloatingSsoEnabled policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FLOATING_SSO_COOKIE_SYNC_DATA_TYPE_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_FLOATING_SSO_COOKIE_SYNC_DATA_TYPE_CONTROLLER_H_
 

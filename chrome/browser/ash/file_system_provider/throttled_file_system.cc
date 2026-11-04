@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttled file system implementation
+// summary: Implements a decorator around ProvidedFileSystemInterface that limits concurrently opened files using a queue.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/throttled_file_system.h"
 
 #include <stddef.h>

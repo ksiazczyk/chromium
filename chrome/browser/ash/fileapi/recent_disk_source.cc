@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent disk source implementation
+// summary: Implements RecentDiskSource, which reads directories on mounted disk volumes to collect and rank recent files for the file manager.
+// ---
+
 #include "chrome/browser/ash/fileapi/recent_disk_source.h"
 
 #include <optional>

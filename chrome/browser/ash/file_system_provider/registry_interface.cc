@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry interface base definitions
+// summary: Defines the destructor and RestoredFileSystem constructors for the RegistryInterface used by persistent file system registries.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/registry_interface.h"
 
 namespace ash::file_system_provider {

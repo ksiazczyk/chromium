@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File stream writer unit tests
+// summary: Unit tests for FileStreamWriter that use a fake extension provider to verify writing, cancelling and flushing files on a mounted test file system.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fileapi/file_stream_writer.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Async file util unit tests
+// summary: Unit tests for ProviderAsyncFileUtil that exercise create, open, read directory, copy and delete operations against a fake provided file system.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fileapi/provider_async_file_util.h"
 
 #include <stdint.h>

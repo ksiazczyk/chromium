@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for first_run
+summary: Restricts dependencies on //chrome and lists the allowed //chrome dependencies for this directory while ChromeOS dependency refactoring is ongoing.

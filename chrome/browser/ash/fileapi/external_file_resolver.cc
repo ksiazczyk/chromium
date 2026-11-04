@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalFileResolver implementation
+// summary: Implements ExternalFileResolver, which resolves externalfile URLs to either a redirect or a FileStreamReader over the file's contents.
+// ---
+
 #include "chrome/browser/ash/fileapi/external_file_resolver.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Configure operation unit tests
+// summary: Unit tests for the Configure operation covering event dispatch, missing listener behavior, and success and error callback results.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/configure.h"
 
 #include <memory>

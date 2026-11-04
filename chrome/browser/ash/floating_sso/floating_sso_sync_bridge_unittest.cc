@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Floating SSO sync bridge unit tests
+// summary: Unit tests for FloatingSsoSyncBridge covering store initialization, sync data merging, conflict resolution, and cookie change notifications.
+// ---
+
 #include "chrome/browser/ash/floating_sso/floating_sso_sync_bridge.h"
 
 #include <map>

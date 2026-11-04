@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake extension provider implementation
+// summary: Implements a fake provider that creates fake provided file systems and always succeeds at mount requests, for use in tests.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fake_extension_provider.h"
 
 #include <stddef.h>

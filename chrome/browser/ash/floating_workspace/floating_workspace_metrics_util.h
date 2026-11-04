@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating workspace metrics enums and histogram names
+// summary: Declares persisted enums, histogram name constants, and recording functions for floating workspace metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FLOATING_WORKSPACE_FLOATING_WORKSPACE_METRICS_UTIL_H_
 #define CHROME_BROWSER_ASH_FLOATING_WORKSPACE_FLOATING_WORKSPACE_METRICS_UTIL_H_
 

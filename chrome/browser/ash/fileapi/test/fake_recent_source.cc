@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake recent source implementation
+// summary: Implements a fake RecentSource and FileProducer that deliver canned recent files after a configurable lag for tests.
+// ---
+
 #include "chrome/browser/ash/fileapi/test/fake_recent_source.h"
 
 #include <iterator>

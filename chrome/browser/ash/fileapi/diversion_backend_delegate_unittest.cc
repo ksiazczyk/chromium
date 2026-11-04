@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diversion backend delegate unit tests
+// summary: Tests DiversionBackendDelegate diversion policies using a deny-list wrapped LocalFileUtil and a test file system context.
+// ---
+
 #include "chrome/browser/ash/fileapi/diversion_backend_delegate.h"
 
 #include <memory>

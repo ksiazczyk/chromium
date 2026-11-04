@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie to sync proto conversion interface
+// summary: Declares functions to serialize canonical cookies into CookieSpecifics sync protos and deserialize them back, plus key and time helpers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FLOATING_SSO_COOKIE_SYNC_CONVERSIONS_H_
 #define CHROME_BROWSER_ASH_FLOATING_SSO_COOKIE_SYNC_CONVERSIONS_H_
 

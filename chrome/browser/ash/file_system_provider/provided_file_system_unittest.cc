@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Provided file system unit tests
+// summary: Unit tests for ProvidedFileSystem, using a fake event router that replies with hard-coded responses to exercise mounting, watchers, and operations.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/provided_file_system.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Fusebox include dependency rules
+summary: Sets the directory's include rules, blocking //chrome dependencies by default while allowing Fusebox's own headers and listed ChromeOS browser includes.

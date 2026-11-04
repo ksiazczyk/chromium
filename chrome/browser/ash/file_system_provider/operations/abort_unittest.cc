@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Abort operation
+// summary: Verifies that Abort dispatches correct event arguments and handles success, error and missing listener cases.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/abort.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async file util class declaration
+// summary: Declares ProviderAsyncFileUtil, the per-process storage::AsyncFileUtil implementation that routes IO-thread calls to the correct profile and provided file system.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FILEAPI_PROVIDER_ASYNC_FILE_UTIL_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FILEAPI_PROVIDER_ASYNC_FILE_UTIL_H_
 

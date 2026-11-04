@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system provider service implementation
+// summary: Implements the per-profile service that mounts, unmounts and manages provided file systems and observes extension lifecycle events.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/service.h"
 
 #include <stddef.h>

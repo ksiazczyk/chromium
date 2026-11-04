@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemBackendDelegate interface
+// summary: Declares the delegate interface used to inject implementations of FileSystemBackend methods for file utilities, stream readers and writers, and watcher managers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_FILE_SYSTEM_BACKEND_DELEGATE_H_
 #define CHROME_BROWSER_ASH_FILEAPI_FILE_SYSTEM_BACKEND_DELEGATE_H_
 

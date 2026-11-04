@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating workspace utility functions
+// summary: Implements helpers that register floating workspace prefs and check policy enablement, floating SSO, network connectivity, and safe mode.
+// ---
+
 #include "chrome/browser/ash/floating_workspace/floating_workspace_util.h"
 
 #include <initializer_list>

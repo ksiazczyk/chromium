@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system provider service declaration
+// summary: Declares the Service keyed service that manages provided file systems, handling mounting, unmounting, provider registration and profile preferences.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_SERVICE_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_SERVICE_H_
 

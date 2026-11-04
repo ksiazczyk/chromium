@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task queue with parallel limit and abort support
+// summary: Declares the Queue class, which limits how many tasks run in parallel and lets callers enqueue, complete, and abort tasks using tokens.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_QUEUE_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_QUEUE_H_
 

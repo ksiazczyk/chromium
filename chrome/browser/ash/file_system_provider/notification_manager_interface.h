@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification manager interface
+// summary: Defines NotificationManagerInterface, the interface for showing and hiding notifications about unresponsive provided file system requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_NOTIFICATION_MANAGER_INTERFACE_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_NOTIFICATION_MANAGER_INTERFACE_H_
 

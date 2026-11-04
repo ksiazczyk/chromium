@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy from file descriptor API header
+// summary: Declares CopyFromFileDescriptor, which copies an open file descriptor's contents to a FileStreamWriter and returns ownership of both via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_COPY_FROM_FD_H_
 #define CHROME_BROWSER_ASH_FILEAPI_COPY_FROM_FD_H_
 

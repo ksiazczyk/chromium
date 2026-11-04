@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observable file system operation implementation
+// summary: Implements ObservableFileSystemOperationImpl, extending default file system operations to notify FileChangeService of file moves, modifications and writes.
+// ---
+
 #include "chrome/browser/ash/fileapi/observable_file_system_operation_impl.h"
 
 #include "chrome/browser/ash/fileapi/file_change_service.h"

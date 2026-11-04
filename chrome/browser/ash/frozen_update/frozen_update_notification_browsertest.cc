@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frozen update notification browser test
+// summary: Browser test verifying the frozen update notification for ChromeOS Flex devices, including GPU override and consolidated consent handling.
+// ---
+
 #include "chromeos/ash/experiences/frozen_update/frozen_update_notification.h"
 
 #include "ash/constants/ash_features.h"

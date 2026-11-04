@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseBox ReadWriter implementation
+// summary: Implements ReadWriter callbacks and helpers that run flush, read, and write operations against the storage file system, including temporary file spooling for MTP.
+// ---
+
 #include "chrome/browser/ash/fusebox/fusebox_read_writer.h"
 
 #include <fcntl.h>

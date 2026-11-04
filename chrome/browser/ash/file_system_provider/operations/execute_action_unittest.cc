@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExecuteAction operation unit tests
+// summary: Unit tests verifying ExecuteAction event dispatch with entry paths and action ID, missing listener handling, and success and error callbacks.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/execute_action.h"
 
 #include <string>

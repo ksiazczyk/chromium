@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the operations directory
+summary: Bans dependencies on //chrome for ChromeOS code while allowing the file_system_provider subtree as an existing exception.

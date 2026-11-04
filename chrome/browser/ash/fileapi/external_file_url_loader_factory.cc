@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalFileURLLoaderFactory implementation
+// summary: Implements the URLLoaderFactory for externalfile scheme URLs, streaming file contents from a FileStreamReader into a Mojo data pipe.
+// ---
+
 #include "chrome/browser/ash/fileapi/external_file_url_loader_factory.h"
 
 #include <algorithm>

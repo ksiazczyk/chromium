@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating workspace service factory implementation
+// summary: Builds the FloatingWorkspaceService for primary regular profiles when floating workspace V2 is enabled.
+// ---
+
 #include "chrome/browser/ash/floating_workspace/floating_workspace_service_factory.h"
 
 #include <memory>

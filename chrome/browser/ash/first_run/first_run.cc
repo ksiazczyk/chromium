@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS first-run help app launch implementation
+// summary: Implements preference registration and logic that decides when to launch the help app after OOBE, including waiting for system web apps to load.
+// ---
+
 #include "chrome/browser/ash/first_run/first_run.h"
 
 #include "ash/constants/ash_pref_names.h"

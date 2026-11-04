@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemBackend class declaration
+// summary: Declares the Chrome OS-specific external file system backend responsible for mount points like archive and removable, access control, and operation creation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_FILE_SYSTEM_BACKEND_H_
 #define CHROME_BROWSER_ASH_FILEAPI_FILE_SYSTEM_BACKEND_H_
 

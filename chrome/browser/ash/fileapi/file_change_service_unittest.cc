@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileChangeService unit tests
+// summary: Unit tests verifying FileChangeService observer notifications using a mock observer, mojo data pipes, and a temporary file system.
+// ---
+
 #include "chrome/browser/ash/fileapi/file_change_service.h"
 
 #include "base/files/scoped_temp_dir.h"

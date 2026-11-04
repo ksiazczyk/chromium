@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diversion backend delegate header
+// summary: Declares a FileSystemBackendDelegate decorator that interposes a local-disk cache for potentially remote file systems, with isolated and mingled diversion policies.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_DIVERSION_BACKEND_DELEGATE_H_
 #define CHROME_BROWSER_ASH_FILEAPI_DIVERSION_BACKEND_DELEGATE_H_
 

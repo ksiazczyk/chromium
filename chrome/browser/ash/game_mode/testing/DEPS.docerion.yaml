@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Game mode testing DEPS
+summary: Include rules letting this directory use its own files and chrome test base while restricting new //chrome dependencies for ChromeOS code.

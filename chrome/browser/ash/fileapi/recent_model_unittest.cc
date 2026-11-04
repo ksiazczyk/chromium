@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent model unit tests
+// summary: Unit tests for the RecentModel class, exercising aggregation of recent files from multiple sources with staggered delivery, lag handling, and histogram metrics.
+// ---
+
 #include "chrome/browser/ash/fileapi/recent_model.h"
 
 #include <algorithm>

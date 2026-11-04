@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configure operation implementation
+// summary: Implements the Configure operation that forwards fileManagerPrivate configure requests to the providing extension and reports success or error via callback.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/configure.h"
 
 #include "base/values.h"

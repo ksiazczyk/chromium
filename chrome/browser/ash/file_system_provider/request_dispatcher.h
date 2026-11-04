@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request dispatcher interface
+// summary: Declares the RequestDispatcher interface for sending fileSystemProvider request events to a single extension and cancelling them.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_REQUEST_DISPATCHER_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_REQUEST_DISPATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File accumulator header
+// summary: Declares FileAccumulator, a capacity-limited collection of recent files that seals on first Get and discards lower-ranked files by comparator order.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_FILE_ACCUMULATOR_H_
 #define CHROME_BROWSER_ASH_FILEAPI_FILE_ACCUMULATOR_H_
 

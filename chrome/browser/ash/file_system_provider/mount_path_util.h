@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mount path utilities header
+// summary: Declares mount path helpers and parsers that map file system URLs and local paths to provided file systems.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_MOUNT_PATH_UTIL_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_MOUNT_PATH_UTIL_H_
 

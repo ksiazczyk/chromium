@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Floating SSO browser tests
+// summary: Browser tests covering Floating SSO cookie syncing, including policy-driven start and stop, cookie filtering, and sync merge behavior.
+// ---
+
 #include <algorithm>
 #include <vector>
 

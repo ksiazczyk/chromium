@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system provider watcher implementation
+// summary: Implements the WatcherKey, Subscriber, and Watcher types used to track file system watchers and their subscribers in the ash file system provider.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/watcher.h"
 
 namespace ash::file_system_provider {

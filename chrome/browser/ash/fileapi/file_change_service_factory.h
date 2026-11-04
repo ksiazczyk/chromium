@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileChangeServiceFactory class declaration
+// summary: Declares the singleton factory that provides at most one FileChangeService instance per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_FILE_CHANGE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_FILEAPI_FILE_CHANGE_SERVICE_FACTORY_H_
 

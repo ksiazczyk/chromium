@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service factory declaration
+// summary: Declares ServiceFactory, a ProfileKeyedServiceFactory that creates one file system provider Service per profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_SERVICE_FACTORY_H_
 

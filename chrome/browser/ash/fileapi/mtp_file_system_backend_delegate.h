@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP file system backend delegate header
+// summary: Declares MTPFileSystemBackendDelegate, the delegate interface that injects the MTP device file system into the ChromeOS file API backend.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_MTP_FILE_SYSTEM_BACKEND_DELEGATE_H_
 #define CHROME_BROWSER_ASH_FILEAPI_MTP_FILE_SYSTEM_BACKEND_DELEGATE_H_
 

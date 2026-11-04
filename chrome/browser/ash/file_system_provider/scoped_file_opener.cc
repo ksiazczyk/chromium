@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped file opener implementation
+// summary: Implements automatic opening and closing of provider files, including abort handling for pending open operations.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/scoped_file_opener.h"
 
 #include "base/functional/bind.h"

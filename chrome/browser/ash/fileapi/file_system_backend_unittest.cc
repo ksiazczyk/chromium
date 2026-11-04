@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemBackend unit tests
+// summary: Tests that FileSystemBackend registers default system mount points and enforces access permissions for extension origins.
+// ---
+
 #include "chrome/browser/ash/fileapi/file_system_backend.h"
 
 #include <stddef.h>

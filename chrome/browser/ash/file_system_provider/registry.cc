@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent file system registry implementation
+// summary: Implements the Registry that saves mounted file systems and watchers in profile preferences and restores them after a reboot.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/registry.h"
 
 #include <memory>

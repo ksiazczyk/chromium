@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake recent source header
+// summary: Declares a fake RecentSource returning canned files and a FileProducer that delivers files after a given lag for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_TEST_FAKE_RECENT_SOURCE_H_
 #define CHROME_BROWSER_ASH_FILEAPI_TEST_FAKE_RECENT_SOURCE_H_
 

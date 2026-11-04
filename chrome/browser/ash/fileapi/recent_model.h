@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentModel header
+// summary: Declares RecentModel, a keyed service that searches configured recent sources with options for cutoff time, timeout, file type and cache use.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILEAPI_RECENT_MODEL_H_
 #define CHROME_BROWSER_ASH_FILEAPI_RECENT_MODEL_H_
 

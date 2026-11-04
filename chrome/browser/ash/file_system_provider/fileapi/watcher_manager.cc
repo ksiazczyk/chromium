@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watcher manager implementation
+// summary: Implements WatcherManager for provided file systems, adding and removing directory watchers on the UI thread and dispatching status and notification callbacks to the IO thread.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/fileapi/watcher_manager.h"
 
 #include "base/files/file.h"

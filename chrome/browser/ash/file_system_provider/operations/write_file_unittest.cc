@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WriteFile operation unit tests
+// summary: Unit tests for the WriteFile operation covering successful event dispatch, missing listener, and read-only file system behavior.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/write_file.h"
 
 #include <string>

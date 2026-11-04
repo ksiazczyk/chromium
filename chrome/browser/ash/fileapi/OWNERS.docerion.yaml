@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the fileapi directory
+summary: Delegates code ownership reviews to the OWNERS file of ui/file_manager.

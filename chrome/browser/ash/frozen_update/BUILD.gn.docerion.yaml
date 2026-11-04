@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Frozen update browser tests build definition
+summary: GN build file defining the testonly browser_tests source set for the frozen update notification browsertest and its dependencies.

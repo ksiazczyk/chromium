@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetActions operation implementation
+// summary: Implements the GetActions operation, requesting available custom actions for entries and converting the success response into a list of actions.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/get_actions.h"
 
 #include <algorithm>

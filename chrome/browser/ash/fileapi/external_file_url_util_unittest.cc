@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External file URL utility unit tests
+// summary: 'Unit tests verifying round-trip conversion between virtual file paths and externalfile: URLs, including percent-escaped and multi-byte paths.'
+// ---
+
 #include "chrome/browser/ash/fileapi/external_file_url_util.h"
 
 #include "base/strings/utf_string_conversions.h"

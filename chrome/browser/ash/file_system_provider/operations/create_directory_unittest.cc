@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Create directory operation unit tests
+// summary: Unit tests for the CreateDirectory operation covering event dispatch, missing listener behavior, and read-only file system handling.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/create_directory.h"
 
 #include <stddef.h>

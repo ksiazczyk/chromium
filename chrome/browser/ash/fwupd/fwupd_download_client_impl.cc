@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FwupdDownloadClientImpl implementation
+// summary: Implements GetURLLoaderFactory, returning a URL loader factory for the active session's browser context in ash.
+// ---
+
 #include "chrome/browser/ash/fwupd/fwupd_download_client_impl.h"
 
 #include "base/check_is_test.h"

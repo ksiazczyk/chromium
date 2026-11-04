@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating SSO service factory header
+// summary: Declares FloatingSsoServiceFactory, the ProfileKeyedServiceFactory providing per-profile FloatingSsoService instances.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FLOATING_SSO_FLOATING_SSO_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_FLOATING_SSO_FLOATING_SSO_SERVICE_FACTORY_H_
 

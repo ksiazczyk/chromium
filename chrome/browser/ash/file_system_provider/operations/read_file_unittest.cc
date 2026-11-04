@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadFile operation unit tests
+// summary: Unit tests for the ReadFile operation verifying event dispatch, chunked data handling, and error reporting.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/read_file.h"
 
 #include <limits.h>

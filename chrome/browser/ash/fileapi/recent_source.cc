@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentSource implementation
+// summary: Implements the RecentSource base class and its Params struct, which carries query parameters such as origin, cutoff time, and file type for recent-file requests.
+// ---
+
 #include "chrome/browser/ash/fileapi/recent_source.h"
 
 namespace ash {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker lifetime manager declaration
+// summary: Declares RequestKey and ServiceWorkerLifetimeManager, which keeps service workers alive while fileSystemProvider requests are in progress, plus its factory.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_SERVICE_WORKER_LIFETIME_MANAGER_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_SERVICE_WORKER_LIFETIME_MANAGER_H_
 

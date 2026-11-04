@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetMetadata operation unit tests
+// summary: Unit tests for the GetMetadata operation covering metadata conversion, validation of fields, and success and error callback handling.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/get_metadata.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddWatcher operation implementation
+// summary: Implements the AddWatcher operation, dispatching an onAddWatcherRequested event to watch an entry path, optionally recursively.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/add_watcher.h"
 
 #include <string>

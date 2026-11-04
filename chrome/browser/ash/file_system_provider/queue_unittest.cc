@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the task queue
+// summary: Unit tests covering token creation, enqueueing, parallel execution limits, completion, and aborting of tasks in the Queue class.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/queue.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the fwupd static library
+summary: GN build file defining the fwupd static library target with its sources and ChromeOS dependencies.

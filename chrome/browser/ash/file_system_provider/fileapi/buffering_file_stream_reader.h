@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffering file stream reader class declaration
+// summary: Declares BufferingFileStreamReader, which wraps a file stream reader with a preloading buffer to serve reads in chunks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FILEAPI_BUFFERING_FILE_STREAM_READER_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_FILEAPI_BUFFERING_FILE_STREAM_READER_H_
 

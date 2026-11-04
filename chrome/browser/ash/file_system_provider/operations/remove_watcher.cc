@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveWatcher operation implementation
+// summary: Implements the RemoveWatcher operation, sending watcher removal requests to the providing extension and reporting the resulting status.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/remove_watcher.h"
 
 #include <string>

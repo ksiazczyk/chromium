@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadDirectory operation unit tests
+// summary: Unit tests for the ReadDirectory operation covering event dispatch, response parsing from JSON, and error handling for directory listings.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/operations/read_directory.h"
 
 #include <memory>

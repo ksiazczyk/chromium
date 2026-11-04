@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request manager implementation
+// summary: Implements creation, fulfillment, rejection, timeout and abort handling for requests sent between the service and file system providers.
+// ---
+
 #include "chrome/browser/ash/file_system_provider/request_manager.h"
 
 #include "base/files/file.h"

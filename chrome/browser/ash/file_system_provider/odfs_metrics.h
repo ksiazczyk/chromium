@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ODFS metrics header
+// summary: Declares ODFSMetrics, a RequestManager observer that tracks per-request metrics for Office files accessed via the file system provider.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_ODFS_METRICS_H_
 #define CHROME_BROWSER_ASH_FILE_SYSTEM_PROVIDER_ODFS_METRICS_H_
 
