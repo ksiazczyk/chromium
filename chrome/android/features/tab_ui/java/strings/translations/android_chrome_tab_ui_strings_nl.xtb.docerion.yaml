@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_tab_ui_strings_nl.xtb.
+type: data
+title: Dutch translation bundle for Chrome Android tab UI strings
+summary: XML translation bundle with Dutch localized strings for the Chrome Android tab UI feature, covering tab groups, inactive tabs, and related interface messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGridView render tests
+// summary: Parameterized render tests for TabGridView in day and night modes, capturing pixel output of the tab card view with a null thumbnail fetcher.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.ui.test.util.RenderTestRule.Component.UI_BROWSER_MOBILE_TAB_SWITCHER_GRID;

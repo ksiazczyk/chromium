@@ -5,5 +5,11 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Feed resource styles
+summary: Empty Android resource file reserved for style definitions of the Chromium feed UI.
+-->
+
 <resources>
 </resources>

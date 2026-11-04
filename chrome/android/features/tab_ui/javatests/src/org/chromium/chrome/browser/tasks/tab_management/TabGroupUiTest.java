@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupUiTest
+// summary: Tests for tab group UI behaviors such as merging tabs into groups, tab strip favicon counts, and dialog interactions in ChromeTabbedActivity.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.Espresso.onView;

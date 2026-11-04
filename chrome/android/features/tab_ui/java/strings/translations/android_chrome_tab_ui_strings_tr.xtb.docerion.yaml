@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_tab_ui_strings_tr.xtb.
+type: data
+title: Turkish Chrome tab UI string translations
+summary: Turkish XTB translation bundle with localized strings for the Chrome Android tab UI feature, covering tab groups, inactive tabs, and shared group messages.

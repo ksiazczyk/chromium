@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed V2 New Tab Page tests
+// summary: Instrumented JUnit tests for the Chrome New Tab Page with the feed, covering rendering, scrolling, orientation changes and interactions on phones and tablets.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static android.content.res.Configuration.ORIENTATION_LANDSCAPE;

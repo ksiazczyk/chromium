@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test network client stub for feed responses
+// summary: Stub network client for feed tests that can be configured to return stored protobuf responses from a given file path or a default response.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import androidx.annotation.VisibleForTesting;

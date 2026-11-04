@@ -1,0 +1,4 @@
+# Docerion header of feed_java_sources.gni.
+type: config
+title: Shared GN lists for feed Java sources and deps
+summary: Defines shared GN variables listing feed dependencies, Java source files, and srcjar dependencies for reuse by Chrome build targets.

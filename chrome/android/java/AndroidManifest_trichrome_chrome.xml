@@ -1,3 +1,9 @@
+<!--docerion
+type: config
+title: Trichrome Chrome manifest template
+summary: Jinja2 template extending the base Chrome manifest for the Trichrome Chrome APK, adding multiArch and static library references.
+-->
+
 {% extends "chrome/android/java/AndroidManifest.xml" %}
 
 ## Copyright 2018 The Chromium Authors

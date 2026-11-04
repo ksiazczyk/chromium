@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_tab_ui_strings_it.xtb.
+type: data
+title: Italian translations for Android Chrome tab UI strings
+summary: XML translation bundle with Italian localized strings for the Chrome Android tab UI, covering tab groups, inactive tabs, and related interface messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGridIphTest
+// summary: End-to-end tests for the TabGridIph in-product help component, checking promo display, dismissal, and feature engagement tracker behavior in the tab switcher.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherLayoutPTTest
+// summary: Public transit tests for the tab switcher layout, covering group cards, dialogs, undo snackbars, incognito panes and layout transitions in the Hub.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.assertion.ViewAssertions.matches;

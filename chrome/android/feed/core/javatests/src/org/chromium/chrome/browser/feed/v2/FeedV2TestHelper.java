@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed V2 test helper for histogram assertions
+// summary: Provides static helpers for Feed V2 browser tests to read Feed user action and upload action histogram counts by enum name.
+// ---
+
 package org.chromium.chrome.browser.feed.v2;
 
 import androidx.recyclerview.widget.RecyclerView;

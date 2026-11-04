@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Tile background color state list
+summary: Android color selector showing a divider color when a tile is hovered and transparent otherwise, marked as unused.
+-->
+
 <selector
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

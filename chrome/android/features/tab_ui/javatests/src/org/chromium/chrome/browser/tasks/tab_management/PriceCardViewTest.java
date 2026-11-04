@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price card view render tests
+// summary: Render tests for PriceCardView inside a tab grid card item, parameterized over night mode and restricted to phone form factors.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.app.Activity;

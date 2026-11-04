@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabOverflowMenuRenderTest
+// summary: Render tests for TabOverflowMenuCoordinator that screenshot the tab overflow menu in light and dark night mode variants.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.mockito.Mockito.when;

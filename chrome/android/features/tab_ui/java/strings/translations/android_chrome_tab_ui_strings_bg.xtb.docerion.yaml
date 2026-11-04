@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_tab_ui_strings_bg.xtb.
+type: data
+title: Android Chrome tab UI strings (Bulgarian)
+summary: Bulgarian translation bundle with localized strings for Chrome's Android tab UI, covering tab groups, inactive tabs, and related dialogs.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/android/java
+summary: DEPS file listing allowed and forbidden include paths that bound the dependencies of code in the chrome/android/java directory.

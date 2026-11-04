@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for Android Chrome resources
+summary: Defines code owners for the Android resource directory, with per-file rules delegating ownership of layouts, preferences, settings, and browsing-data resources to other OWNERS files.

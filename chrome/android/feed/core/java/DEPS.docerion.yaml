@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Feed core DEPS include rules
+summary: Defines include dependency rules for the Chrome Android feed core Java code, disallowing mojo and content while permitting content_public.

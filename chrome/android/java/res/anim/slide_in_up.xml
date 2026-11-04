@@ -13,6 +13,13 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
+<!--docerion
+type: config
+title: Slide in from bottom animation
+summary: Defines an Apache-licensed animation that translates a view in from the bottom edge over the system medium animation time.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <translate android:fromYDelta="100%p" android:toYDelta="0"
         android:duration="@android:integer/config_mediumAnimTime"/>

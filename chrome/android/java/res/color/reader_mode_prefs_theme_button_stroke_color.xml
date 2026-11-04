@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Reader mode prefs theme button stroke color
+summary: Color selector for reader mode preferences theme button strokes, using colorPrimary when checked and colorOutline otherwise.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_checked="true" android:color="?attr/colorPrimary" />
     <item android:state_checked="false" android:color="?attr/colorOutline" />

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HasContentListener
+// summary: Interface for listeners that are notified when the feed surface's has-content state changes for a given stream kind.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import org.chromium.build.annotations.NullMarked;

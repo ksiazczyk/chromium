@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_tab_ui_strings_km.xtb.
+type: data
+title: Khmer translations for Android Chrome tab UI strings
+summary: XML translation bundle with Khmer localized strings for the Chrome Android tab UI, covering tab groups, inactive tabs, and related interface messages.

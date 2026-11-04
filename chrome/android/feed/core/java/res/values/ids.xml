@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Feed resource IDs
+summary: Defines IDs for feed content cards, the stream RecyclerView, and a view tag storing content IDs for view reporting.
+-->
+
 <resources>
   <!-- Id to use for content which encapsulates a single card. -->
   <item type="id" name="feed_content_card" />

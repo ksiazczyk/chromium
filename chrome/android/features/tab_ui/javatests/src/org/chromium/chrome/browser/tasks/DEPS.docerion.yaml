@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tab UI Java tests
+summary: Defines include rules that allow the tab UI Java tests to depend on ChromeActivity, browser UI styles, and content public browser classes.

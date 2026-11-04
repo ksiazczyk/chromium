@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_tab_ui_strings_iw.xtb.
+type: data
+title: Hebrew translations for Android Chrome tab UI strings
+summary: XML translation bundle with Hebrew localized strings for the Chrome Android tab UI, covering tab groups, inactive tabs, and related interface messages.

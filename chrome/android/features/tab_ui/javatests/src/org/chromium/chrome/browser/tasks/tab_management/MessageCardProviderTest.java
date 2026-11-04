@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageCardProvider integration tests
+// summary: Integration tests for the MessageCardProvider component, covering message card supply, review and dismissal behavior in a RecyclerView-based tab list.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.Espresso.onView;

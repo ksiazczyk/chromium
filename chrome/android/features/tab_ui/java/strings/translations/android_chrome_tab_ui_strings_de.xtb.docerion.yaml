@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_tab_ui_strings_de.xtb.
+type: data
+title: German tab UI strings translation bundle
+summary: German translations of Chrome Android tab UI strings, covering tab groups, inactive tabs, shared groups, and related interface messages in XTB XML format.

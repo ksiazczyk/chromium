@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selectable TabListEditor tests
+// summary: Tests for the selectable TabListEditor, exercising multi-selection tab actions such as bookmarking, tab group operations and closing with mock and UI verification.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static android.view.View.IMPORTANT_FOR_ACCESSIBILITY_NO;

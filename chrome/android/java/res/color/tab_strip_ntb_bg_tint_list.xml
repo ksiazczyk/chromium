@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab strip NTB background tint list
+summary: Color selector for the NTB background across hover, peripheral press, and press states, defaulting to the primary container color.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item android:state_hovered="true"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupCreationDialogManager unit tests
+// summary: Robolectric unit tests for the tab group creation dialog manager, verifying dialog display on group creation and title and color handling on dismissal.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.mockito.ArgumentMatchers.any;

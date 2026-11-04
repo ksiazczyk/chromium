@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Reader mode prefs font style button text color
+summary: Color selector for reader mode preferences font style button text, using colorOnSecondaryContainer when checked and colorOnSurface otherwise.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_checked="true"
         android:color="?attr/colorOnSecondaryContainer" />

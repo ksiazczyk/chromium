@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRecyclerViewSimpleViewBinder
+// summary: Test utility that wraps a SimpleRecyclerViewMcpBase view binder for use with a PropertyModelChangeProcessor when testing RecyclerView items.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import androidx.recyclerview.widget.RecyclerView;

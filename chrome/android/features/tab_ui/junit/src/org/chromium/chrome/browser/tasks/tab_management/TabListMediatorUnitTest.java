@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabListMediator
+// summary: Extensive Robolectric unit tests for the tab list mediator, covering card models, message cards, tab groups, accessibility, and layout behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.core.view.accessibility.AccessibilityNodeInfoCompat.ACTION_CLICK;

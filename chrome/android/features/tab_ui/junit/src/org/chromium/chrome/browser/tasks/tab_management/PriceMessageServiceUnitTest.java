@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceMessageService unit tests
+// summary: Unit tests for the price message service, covering price welcome message preparation, show counts, and price tracking feature gating.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

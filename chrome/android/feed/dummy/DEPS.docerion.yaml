@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the feed dummy directory
+summary: Defines include rules for the dummy feed directory, disallowing components/feed dependencies while allowing chrome/browser/android/lifecycle and components/background_task_scheduler.

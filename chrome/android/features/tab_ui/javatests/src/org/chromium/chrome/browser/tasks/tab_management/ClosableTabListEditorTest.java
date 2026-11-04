@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Closable TabListEditor end-to-end tests
+// summary: End-to-end test for the closable TabListEditor, driving tab closing flows through a transit activity test rule and the TabListEditorTestingRobot.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.chrome.test.util.ChromeTabUtils.getTabCountOnUiThread;

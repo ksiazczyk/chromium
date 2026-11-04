@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabListEditorActionUnitTestHelper
+// summary: Test helper that sets up mock tabs, tab groups, and selection state for the TabListEditor action unit tests.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.mockito.Mockito.when;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabStripSnapshotter
+// summary: Robolectric unit tests verifying that the tab strip snapshotter fetches favicons for visible items while a RecyclerView scrolls.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

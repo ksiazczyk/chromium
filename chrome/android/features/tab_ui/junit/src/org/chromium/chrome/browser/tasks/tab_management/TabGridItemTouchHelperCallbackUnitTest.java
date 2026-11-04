@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGridItemTouchHelperCallback unit tests
+// summary: Robolectric unit tests for the tab grid item touch helper callback, covering drag and drop reordering, card animations, and message card interactions in the tab grid.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

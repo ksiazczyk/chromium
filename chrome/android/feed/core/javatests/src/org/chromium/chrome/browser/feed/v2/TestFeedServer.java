@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Fake feed server for Feed V2 tests
+// summary: Local test web server that serves a recorded FeedQuery protobuf response and overrides feed endpoint preferences so tests can supply Feed V2 content.
+// ---
+
 package org.chromium.chrome.browser.feed.v2;
 
 import com.google.protobuf.CodedOutputStream;

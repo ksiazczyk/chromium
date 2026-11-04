@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedSurfaceCoordinator
+// summary: Coordinator for the Android feed surface that builds and manages the feed UI, integrating NTP customization, edge-to-edge handling, snackbars, and feed rendering components.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

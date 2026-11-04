@@ -5,5 +5,11 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Decelerate quart interpolator resource
+summary: Defines an Android decelerate interpolator with factor 2.0 used to ease animations toward their end.
+-->
+
 <decelerateInterpolator xmlns:android="http://schemas.android.com/apk/res/android"
         android:factor="2.0" />
