@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signing key policy observer implementation
+// summary: Implements SigningKeyPolicyObserver, starting browser key manager initialization when device trust policy is enabled at the browser level.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/browser/signing_key_policy_observer.h"
 
 #include "base/check.h"

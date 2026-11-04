@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust key manager implementation
+// summary: Implements DeviceTrustKeyManagerImpl, handling key loading, rotation, string signing, and mapping rotation statuses to permanent failures.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/device_trust_key_manager_impl.h"
 
 #include <optional>

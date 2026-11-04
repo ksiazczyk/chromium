@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoKeyNetworkDelegate URL loader implementation
+// summary: Implements public key upload to the DM server using SimpleURLLoader, with retries, timeout, traffic annotation and error histograms.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/network/mojo_key_network_delegate.h"
 
 #include <memory>

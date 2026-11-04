@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Active user test mixin
+// summary: Declares a browser test mixin that sets up fake Gaia accounts and tokens to validate the user detected in DLP requests and reported events.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_ACTIVE_USER_TEST_MIXIN_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_ACTIVE_USER_TEST_MIXIN_H_
 

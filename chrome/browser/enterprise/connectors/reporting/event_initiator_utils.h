@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event initiator utils header
+// summary: Declares GetExtensionInitiatorInfo, which returns extension details for a download initiated by an extension or nullopt when attribution is unavailable.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_EVENT_INITIATOR_UTILS_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_EVENT_INITIATOR_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the management service
+summary: Defines GN targets for the chrome_management_service executable, its source sets, metrics and rotation utilities, and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key rotation metrics recording helpers
+// summary: Records UMA histograms for rotation status and upload HTTP response codes, distinguishing attempts made with and without a nonce.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/installer/metrics_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deep scanning browser test base implementation
+// summary: Implements the shared base class for deep scanning browser tests, including unresponsive request handlers and fake delegate setup helpers.
+// ---
+
 #include "chrome/browser/enterprise/connectors/test/deep_scanning_browsertest_base.h"
 
 #include "base/containers/span.h"

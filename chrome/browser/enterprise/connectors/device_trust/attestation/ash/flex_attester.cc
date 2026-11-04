@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flex attester implementation
+// summary: Decorates attestation key info with device and domain signals and performs no signing for Flex devices.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/attestation/ash/flex_attester.h"
 
 #include <optional>

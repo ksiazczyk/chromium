@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device trust navigation throttle unit tests
+// summary: Unit tests covering the device trust navigation throttle handshake flow, including consent handling, timeouts and attestation latency and funnel metrics.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/navigation_throttle.h"
 
 #include <memory>

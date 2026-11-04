@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake content analysis SDK client implementation
+// summary: Implements a fake content analysis SDK client that answers send, acknowledge and cancel calls without a real service provider agent.
+// ---
+
 #include "chrome/browser/enterprise/connectors/test/fake_content_analysis_sdk_client.h"
 
 namespace enterprise_connectors {

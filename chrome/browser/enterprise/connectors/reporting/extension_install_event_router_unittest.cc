@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Extension install event router unit tests
+// summary: Unit tests verifying that extension install, update and uninstall events are reported with the correct proto fields using a mock reporting client.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/extension_install_event_router.h"
 
 #include <memory>

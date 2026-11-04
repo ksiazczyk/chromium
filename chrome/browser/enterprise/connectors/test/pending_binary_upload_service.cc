@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pending binary upload service
+// summary: Test binary upload service that queues deep scanning upload requests instead of sending them to a real backend.
+// ---
+
 #include "chrome/browser/enterprise/connectors/test/pending_binary_upload_service.h"
 
 #include <utility>

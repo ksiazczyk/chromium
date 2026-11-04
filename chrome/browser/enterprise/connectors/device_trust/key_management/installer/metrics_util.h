@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RotationStatus enum and metrics declarations
+// summary: Declares the RotationStatus enum kept in sync with the DeviceTrustKeyRotationStatus UMA enum plus functions to record rotation status and upload codes.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_INSTALLER_METRICS_UTIL_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_INSTALLER_METRICS_UTIL_H_
 

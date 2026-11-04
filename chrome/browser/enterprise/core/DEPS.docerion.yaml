@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Enterprise core DEPS include rules
+summary: Grants the enterprise core browser folder include access to components/enterprise/core.

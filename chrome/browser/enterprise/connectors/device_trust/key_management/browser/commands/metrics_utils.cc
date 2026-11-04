@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key rotation command metrics utilities implementation
+// summary: Implements histogram logging helpers for key rotation command errors, exit codes and, on Windows, unexpected HRESULT results.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/commands/metrics_utils.h"
 
 #include "base/metrics/histogram_functions.h"

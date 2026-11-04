@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key storage and sync result types for Device Trust
+// summary: Header declaring enums for Device Trust key storage types (temporary or permanent) and possible key synchronization operation results.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_COMMON_KEY_TYPES_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_COMMON_KEY_TYPES_H_
 

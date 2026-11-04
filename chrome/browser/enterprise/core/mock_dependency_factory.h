@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockDependencyFactory class declaration
+// summary: Declares a gmock-based MockDependencyFactory that mocks GetUserCloudPolicyManager for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CORE_MOCK_DEPENDENCY_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_CORE_MOCK_DEPENDENCY_FACTORY_H_
 

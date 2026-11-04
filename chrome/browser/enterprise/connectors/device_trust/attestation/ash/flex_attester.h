@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlexAttester class header for ChromeOS Flex device attestation
+// summary: Declares FlexAttester, a no-op attester that populates device signals for ChromeOS Flex devices without signing the challenge response.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_ATTESTATION_ASH_FLEX_ATTESTER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_ATTESTATION_ASH_FLEX_ATTESTER_H_
 

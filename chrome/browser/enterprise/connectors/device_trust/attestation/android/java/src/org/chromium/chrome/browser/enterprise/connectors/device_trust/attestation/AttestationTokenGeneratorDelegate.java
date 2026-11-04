@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationTokenGeneratorDelegate
+// summary: Delegate interface for attestation token generation, intended for downstream implementations integrating with Google Play Services, with bounded-time blocking methods called from native code.
+// ---
+
 package org.chromium.chrome.browser.enterprise.connectors.device_trust.attestation;
 
 import org.chromium.build.annotations.NullMarked;

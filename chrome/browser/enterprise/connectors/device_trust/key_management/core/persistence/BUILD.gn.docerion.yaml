@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build rules for the device trust key persistence source set, platform delegates, test support, and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device Trust browser test base class
+// summary: Declares a mixin-based browser test base class that sets up Device Trust connector state, triggers inline flows and verifies attestation and key rotation outcomes.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_TEST_DEVICE_TRUST_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_TEST_DEVICE_TRUST_BROWSERTEST_BASE_H_
 

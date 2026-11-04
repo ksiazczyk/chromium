@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DependencyFactoryImpl unit tests
+// summary: Unit test verifying that DependencyFactoryImpl returns the same user cloud policy manager as the testing profile.
+// ---
+
 #include "chrome/browser/enterprise/core/dependency_factory_impl.h"
 
 #include "chrome/browser/profiles/profile.h"

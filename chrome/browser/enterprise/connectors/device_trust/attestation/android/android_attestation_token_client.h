@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android attestation token client interface
+// summary: Declares the AndroidAttestationTokenClient class that bridges native Device Trust code to the Java attestation token generator via JNI, exposing GenerateToken and PreWarmCache.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_ATTESTATION_ANDROID_ANDROID_ATTESTATION_TOKEN_CLIENT_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_ATTESTATION_ANDROID_ANDROID_ATTESTATION_TOKEN_CLIENT_H_
 

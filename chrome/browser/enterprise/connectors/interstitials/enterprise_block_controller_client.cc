@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise block interstitial controller client implementation
+// summary: Implements the controller client for the enterprise block interstitial, wiring up metrics reporting and back navigation.
+// ---
+
 #include "chrome/browser/enterprise/connectors/interstitials/enterprise_block_controller_client.h"
 
 #include <memory>

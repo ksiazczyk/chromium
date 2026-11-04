@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for common device trust signal decorators
+summary: Defines GN source sets for the common signals decorator, its test support and its unit tests, with their dependencies.

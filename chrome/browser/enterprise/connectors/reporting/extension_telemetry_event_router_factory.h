@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension telemetry event router factory header
+// summary: Declares the ExtensionTelemetryEventRouterFactory profile keyed service factory and its accessors for per-profile router instances.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_EXTENSION_TELEMETRY_EVENT_ROUTER_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_EXTENSION_TELEMETRY_EVENT_ROUTER_FACTORY_H_
 

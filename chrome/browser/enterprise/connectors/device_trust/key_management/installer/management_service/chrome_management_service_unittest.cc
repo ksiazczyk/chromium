@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeManagementService unit tests
+// summary: Tests the management service run flow, covering permission and rotation callbacks, Mojo handling, and error metrics.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/installer/management_service/chrome_management_service.h"
 
 #include <cstdint>

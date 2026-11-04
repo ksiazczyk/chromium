@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows Device Trust test environment implementation
+// summary: Implements the Windows test environment, mocking the elevated Google Update command and key rotation manager to exercise browser key rotation flows.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/test/device_trust_test_environment_win.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device trust navigation throttle implementation
+// summary: Implements the navigation throttle that runs the Verified Access handshake with trusted origins using X-Device-Trust HTTP headers and handles errors, consent and timeouts.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/navigation_throttle.h"
 
 #include "base/json/json_writer.h"

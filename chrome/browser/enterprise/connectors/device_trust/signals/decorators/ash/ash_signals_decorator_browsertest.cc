@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for AshSignalsDecorator
+// summary: Browser tests that verify the Ash signals decorator collects expected device and network signals using fake Shill network setups.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/signals/decorators/ash/ash_signals_decorator.h"
 
 #include "ash/constants/ash_pref_names.h"

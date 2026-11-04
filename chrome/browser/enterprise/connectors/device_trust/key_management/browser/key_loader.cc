@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyLoader result types and factory
+// summary: Defines DTCLoadKeyResult constructors and a Create factory that builds a KeyLoaderImpl backed by a browser cloud management delegate.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/key_loader.h"
 
 #include <utility>

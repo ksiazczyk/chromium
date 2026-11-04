@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock key rotation launcher
+// summary: Declares MockKeyRotationLauncher, a GoogleMock subclass of KeyRotationLauncher that mocks the LaunchKeyRotation method for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_BROWSER_MOCK_KEY_ROTATION_LAUNCHER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_BROWSER_MOCK_KEY_ROTATION_LAUNCHER_H_
 

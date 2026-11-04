@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device Trust test support build configuration
+summary: Defines the testonly test_support source set for Device Trust, listing shared and platform-specific test sources and their dependencies.

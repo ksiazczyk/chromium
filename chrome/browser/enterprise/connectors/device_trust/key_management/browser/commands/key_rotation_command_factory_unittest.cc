@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyRotationCommandFactory unit tests
+// summary: Unit test verifying that the factory creates a non-null platform-specific key rotation command on each supported platform.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/commands/key_rotation_command_factory.h"
 
 #include <memory>

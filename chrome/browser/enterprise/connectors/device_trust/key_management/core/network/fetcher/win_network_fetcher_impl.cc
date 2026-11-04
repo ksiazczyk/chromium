@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinNetworkFetcherImpl implementation
+// summary: Implements Fetch by creating a winhttp session with proxy configuration and posting the request via the winhttp network fetcher.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/network/fetcher/win_network_fetcher_impl.h"
 
 #include <string>

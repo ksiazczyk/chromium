@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust key manager class declaration
+// summary: Declares DeviceTrustKeyManagerImpl, the browser-side manager coordinating key initialization, rotation, public key export, and signing callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_BROWSER_DEVICE_TRUST_KEY_MANAGER_IMPL_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_BROWSER_DEVICE_TRUST_KEY_MANAGER_IMPL_H_
 

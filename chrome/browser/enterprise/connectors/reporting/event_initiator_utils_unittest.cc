@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event initiator utils unit tests
+// summary: Unit tests for extension initiator attribution of download events, covering feature gating, null downloads and missing extension info.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/event_initiator_utils.h"
 
 #include <memory>

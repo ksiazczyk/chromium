@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows key persistence delegate implementation
+// summary: Windows implementation that stores, loads, creates, promotes and deletes Device Trust signing key pairs in the registry.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/persistence/win_key_persistence_delegate.h"
 
 #include <array>

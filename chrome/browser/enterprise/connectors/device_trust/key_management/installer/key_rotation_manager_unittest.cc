@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the key rotation manager
+// summary: Tests key rotation with mock network and persistence delegates, covering upload failures, key conflicts, rollback paths, and metrics histograms.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/installer/key_rotation_manager.h"
 
 #include <memory>

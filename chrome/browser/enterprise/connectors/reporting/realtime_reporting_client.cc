@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realtime reporting client
+// summary: Profile keyed service that sends enterprise security and reporting events to the cloud realtime reporting API, gathering profile and device context.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/realtime_reporting_client.h"
 
 #include <optional>

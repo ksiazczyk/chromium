@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock realtime reporting client
+// summary: Declares a gmock-based mock of RealtimeReportingClient with mocked realtime and past event reporting methods.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_MOCK_REALTIME_REPORTING_CLIENT_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_MOCK_REALTIME_REPORTING_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signing key policy observer unit tests
+// summary: Unit tests verifying that the observer initializes the browser key manager only for browser-level policy events, using a mock key manager.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/browser/siging_key_policy_observer.h"
 #include "components/enterprise/device_trust/core/common_types.h"
 #include "components/enterprise/device_trust/core/mock_device_trust_key_manager.h"

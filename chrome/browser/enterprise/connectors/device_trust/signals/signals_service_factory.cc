@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signals service factory implementation
+// summary: Implements CreateSignalsService, assembling platform-specific signal decorators for managed profiles on desktop and ChromeOS.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/signals/signals_service_factory.h"
 
 #include <memory>

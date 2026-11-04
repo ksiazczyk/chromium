@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash attestation service implementation
+// summary: Implements TPM key preparation and Verified Access challenge response building for ChromeOS device trust attestation.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/attestation/ash/ash_attestation_service_impl.h"
 
 #include <memory>

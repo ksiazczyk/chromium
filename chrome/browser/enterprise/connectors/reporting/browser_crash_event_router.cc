@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser crash event router implementation
+// summary: Implements the BrowserCrashEventRouter keyed service and its profile-keyed factory, registering and removing profiles with the CrashReportingContext on non-ChromeOS platforms.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/browser_crash_event_router.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust connector service factory implementation
+// summary: Implements the profile-keyed factory that builds DeviceTrustConnectorService instances, with platform-specific key manager setup and incognito restrictions.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/device_trust_connector_service_factory.h"
 
 #include "base/no_destructor.h"

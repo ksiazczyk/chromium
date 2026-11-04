@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: RealtimeReportingClient unit tests
+// summary: Unit tests covering event uploads, device signal collection, and cloud policy client behavior of the realtime reporting client.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/realtime_reporting_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser public key upload URL helper
+// summary: Builds and returns the DM server URL used to upload the browser public key for Device Trust.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/key_utils.h"
 
 #include "components/policy/core/common/cloud/device_management_service.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key persistence error metrics recording
+// summary: Records UMA error histograms for Device Trust key persistence operations such as storing, loading and creating key pairs.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/persistence/metrics_utils.h"
 
 #include "base/metrics/histogram_functions.h"

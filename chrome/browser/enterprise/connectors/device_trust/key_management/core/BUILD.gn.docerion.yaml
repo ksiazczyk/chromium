@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for device trust key management core
+summary: Defines GN source sets for the core signing key code, shared command constants, key utilities and their unit tests.

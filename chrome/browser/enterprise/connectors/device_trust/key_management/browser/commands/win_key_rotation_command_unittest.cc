@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows key rotation command unit tests
+// summary: Unit tests for the Windows key rotation command, verifying success, failure and timeout statuses and the corresponding logged histograms.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/commands/win_key_rotation_command.h"
 
 #include <winerror.h>

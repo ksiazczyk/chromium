@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSignalsDecorator implementation
+// summary: Implements the browser signals decorator that collects enrollment domains, device info, and aggregated signals, decorating the signals dictionary and recording latency metrics.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/signals/decorators/browser/browser_signals_decorator.h"
 
 #include <functional>

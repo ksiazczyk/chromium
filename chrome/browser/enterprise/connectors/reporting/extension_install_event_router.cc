@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install event router
+// summary: Reports extension install, update and uninstall events to the enterprise realtime reporting server when the security event connector policy enables them.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/extension_install_event_router.h"
 
 #include <optional>

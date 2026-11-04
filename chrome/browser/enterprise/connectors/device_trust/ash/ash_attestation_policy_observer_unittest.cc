@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash attestation policy observer unit tests
+// summary: Verifies that enabling an inline policy triggers key preparation while disabling the policy and a destroyed service are handled safely.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/ash/ash_attestation_policy_observer.h"
 
 #include "base/memory/weak_ptr.h"

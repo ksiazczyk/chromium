@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for mojo_helper
+summary: Defines the mojo_helper source_set and the testonly test_support source_set with their public headers, sources and dependencies.

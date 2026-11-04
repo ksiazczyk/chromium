@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Device Trust include rules
+summary: Allows this directory to include headers from components/device_signals/core/common.

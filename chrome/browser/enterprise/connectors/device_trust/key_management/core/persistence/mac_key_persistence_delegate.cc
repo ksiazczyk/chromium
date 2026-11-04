@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac key persistence delegate implementation
+// summary: Manages Secure Enclave signing keys on macOS, including key creation, loading, rollback, and deletion.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/persistence/mac_key_persistence_delegate.h"
 
 #include <Security/Security.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signals utils implementation
+// summary: Implements ToListValue, converting a vector of strings into a base::Value list for use by signal decorators.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/signals/decorators/common/signals_utils.h"
 
 #include <utility>

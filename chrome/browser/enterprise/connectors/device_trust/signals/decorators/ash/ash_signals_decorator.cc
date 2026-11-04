@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshSignalsDecorator implementation for ChromeOS Ash
+// summary: Implements the Ash signals decorator that collects device trust signals such as device attributes, network states and MAC addresses for ChromeOS profiles.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/signals/decorators/ash/ash_signals_decorator.h"
 
 #include "ash/constants/ash_pref_names.h"

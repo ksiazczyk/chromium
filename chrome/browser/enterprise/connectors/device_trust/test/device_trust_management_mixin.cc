@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device Trust management mixin implementation
+// summary: Implements the test mixin that configures cloud user and machine management, inline Device Trust policies and consent preferences for browser tests.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/test/device_trust_management_mixin.h"
 
 #include <utility>

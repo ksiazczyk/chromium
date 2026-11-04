@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension telemetry event router
+// summary: Collects extension telemetry reports, copies and redacts signal data such as cookies and remote hosts, and uploads them to the reporting server.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/extension_telemetry_event_router.h"
 
 #include "base/strings/string_number_conversions.h"

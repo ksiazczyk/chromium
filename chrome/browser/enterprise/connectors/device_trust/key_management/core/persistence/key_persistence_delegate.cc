@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key persistence delegate base implementation
+// summary: Implements shared base-class helpers of KeyPersistenceDelegate, including temporary key cleanup and load error reporting.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/persistence/key_persistence_delegate.h"
 
 namespace enterprise_connectors {

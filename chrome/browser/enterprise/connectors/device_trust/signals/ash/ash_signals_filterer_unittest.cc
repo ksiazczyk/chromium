@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: AshSignalsFilterer unit tests
+// summary: Unit tests that build fake device signal payloads and verify stable device identifying signals are removed or retained according to the device management state.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/signals/ash/ash_signals_filterer.h"
 
 #include "chromeos/ash/components/install_attributes/stub_install_attributes.h"

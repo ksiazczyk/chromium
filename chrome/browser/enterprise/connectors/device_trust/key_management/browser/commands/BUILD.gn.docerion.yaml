@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for key rotation commands
+summary: GN build file defining the commands, test_support and unit_tests source sets, with platform-specific sources and dependencies for Windows, Linux and Mac.

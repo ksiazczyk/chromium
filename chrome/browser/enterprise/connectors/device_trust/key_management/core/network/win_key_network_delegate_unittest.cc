@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows key network delegate unit tests
+// summary: Unit tests covering WinKeyNetworkDelegate upload requests, retry behavior and the retry-count histogram using mock fetchers.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/network/win_key_network_delegate.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of mac_key_persistence_delegate_unittest.mm.
+type: test
+title: Mac key persistence delegate unit tests
+summary: Unit tests for the macOS key persistence delegate, using a mocked Secure Enclave client to verify storing and loading of signing key pairs.

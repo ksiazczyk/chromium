@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device Trust connector service factory unit tests
+// summary: Unit tests verifying service creation for regular, enterprise isolated mode and incognito profiles.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/device_trust_connector_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EC signing key implementation for device trust
+// summary: Implements a software-backed EC P-256 signing key and provider that generate, wrap and unwrap unexportable signing keys.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/ec_signing_key.h"
 
 #include <memory>

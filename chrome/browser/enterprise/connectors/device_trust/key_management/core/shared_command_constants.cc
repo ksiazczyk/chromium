@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared command constants implementation
+// summary: Defines constants shared by the browser and the chrome management service, including file names, key paths and macOS keychain labels.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/shared_command_constants.h"
 
 #include "build/build_config.h"

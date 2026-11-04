@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Android attestation token client
+summary: GN build file defining the Java attestation token library, JNI header generation, Robolectric tests, and native source sets for the Android Device Trust attestation client.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for device trust key network
+summary: Defines GN source sets for the device trust key management network code, including common, mojo, Windows, test support and unit test targets.

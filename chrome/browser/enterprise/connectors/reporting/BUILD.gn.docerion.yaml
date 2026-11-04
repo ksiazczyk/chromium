@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for enterprise reporting
+summary: GN build file defining the reporting, impl and unit_tests source sets with conditional sources for enterprise cloud content analysis, extensions and ChromeOS.

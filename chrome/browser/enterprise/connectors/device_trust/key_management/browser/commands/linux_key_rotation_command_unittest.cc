@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LinuxKeyRotationCommand unit tests
+// summary: Unit tests for the Linux key rotation command using mocked process launches and multiprocess tests to check command lines, Mojo setup and exit code metrics.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/commands/linux_key_rotation_command.h"
 
 #include <string>

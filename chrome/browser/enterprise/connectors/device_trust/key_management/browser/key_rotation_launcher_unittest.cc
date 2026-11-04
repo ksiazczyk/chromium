@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key rotation launcher unit tests
+// summary: Unit tests for KeyRotationLauncher using fake DM token storage, a mock key rotation command, and a test URL loader factory.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/key_rotation_launcher.h"
 
 #include <memory>

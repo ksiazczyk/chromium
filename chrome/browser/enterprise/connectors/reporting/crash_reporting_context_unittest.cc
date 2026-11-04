@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Crash reporting context unit test
+// summary: Unit tests covering crash report retrieval from the crashpad database, latest report timestamp handling and crash event uploads via a mock reporting client.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/crash_reporting_context.h"
 
 #include "base/command_line.h"

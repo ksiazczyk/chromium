@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delayed interstitial reporter implementation
+// summary: Reports enterprise interstitial events once the page finishes loading so the correct tab title can be captured, with a five-second timeout and UMA histograms.
+// ---
+
 #include "chrome/browser/enterprise/connectors/interstitials/delayed_interstitial_reporter.h"
 
 #include "base/metrics/histogram_functions.h"

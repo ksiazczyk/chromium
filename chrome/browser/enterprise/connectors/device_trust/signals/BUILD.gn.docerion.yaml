@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for device trust signals
+summary: Defines the signals source set plus test_support, unit_tests, and browser_tests targets for the device trust signals code.

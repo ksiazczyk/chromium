@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyLoaderImpl implementation
+// summary: Implements key loading and synchronization, building and uploading the public key request to the DM server on background threads while recording metrics.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/key_loader_impl.h"
 
 #include <optional>

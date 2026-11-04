@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash attestation service implementation unit tests
+// summary: Tests challenge response building and key preparation using mock TPM challenge key classes and a sample VA challenge.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/attestation/ash/ash_attestation_service_impl.h"
 
 #include <memory>

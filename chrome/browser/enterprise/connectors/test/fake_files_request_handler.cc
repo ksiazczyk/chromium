@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake files request handler implementation
+// summary: Implements a fake files request handler that routes file deep scanning uploads through a configurable test callback.
+// ---
+
 #include "chrome/browser/enterprise/connectors/test/fake_files_request_handler.h"
 #include "base/functional/bind.h"
 #include "base/memory/weak_ptr.h"

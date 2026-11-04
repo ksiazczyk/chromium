@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MacKeyRotationCommand implementation
+// summary: Implements the macOS key rotation command that creates the key via Secure Enclave on a background thread and uploads the public key to the DM server with timeout handling.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/commands/mac_key_rotation_command.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for browser signals decorator unit tests
+summary: Defines the unit_tests source_set for the browser signals decorator, listing its test sources and dependencies on enterprise, policy, and device signals components.

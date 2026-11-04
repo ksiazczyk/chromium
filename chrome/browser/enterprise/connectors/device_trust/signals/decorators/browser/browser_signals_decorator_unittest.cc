@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BrowserSignalsDecorator
+// summary: Tests the browser signals decorator with mocks and fakes, validating enrollment domains, static device signals, aggregation requests, and latency histogram reporting.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/signals/decorators/browser/browser_signals_decorator.h"
 
 #include <memory>

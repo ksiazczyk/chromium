@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome-management-service executable entry point
+// summary: Program entry point that validates the pipe name switch, initializes Mojo IPC, and runs the management service.
+// ---
+
 #include <cstdint>
 
 #include "base/at_exit.h"

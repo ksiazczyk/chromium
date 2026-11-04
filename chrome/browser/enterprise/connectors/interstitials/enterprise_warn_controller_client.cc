@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise warn interstitial controller client implementation
+// summary: Implements the controller client for the enterprise warn interstitial, handling back navigation, proceed via reload, and metrics reporting.
+// ---
+
 #include "chrome/browser/enterprise/connectors/interstitials/enterprise_warn_controller_client.h"
 
 #include <memory>

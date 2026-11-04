@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoHelper implementation
+// summary: Implements MojoHelperImpl, wrapping Mojo platform channel, invitation, message pipe and URL loader factory operations, with test instance injection.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/installer/management_service/mojo_helper/mojo_helper.h"
 
 #include <utility>

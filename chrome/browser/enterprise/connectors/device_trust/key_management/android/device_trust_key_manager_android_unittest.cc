@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceTrustKeyManagerAndroid unit tests
+// summary: Tests the Android key manager with the attestation token feature enabled and disabled, using a mocked token client to verify signing, initialization, and no-op behavior.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/android/device_trust_key_manager_android.h"
 
 #include <memory>

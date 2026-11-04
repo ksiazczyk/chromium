@@ -1,0 +1,4 @@
+# Docerion header of secure_enclave_helper_impl.mm.
+type: source
+title: Secure Enclave helper implementation
+summary: Implements Secure Enclave helper keychain operations such as key creation, lookup, update, deletion, and Secure Enclave support detection.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android attestation token client
+// summary: Tests the Android attestation token client using a fake Java delegate to verify token generation, failure handling, and policy log messages.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/attestation/android/android_attestation_token_client.h"
 
 #include <optional>

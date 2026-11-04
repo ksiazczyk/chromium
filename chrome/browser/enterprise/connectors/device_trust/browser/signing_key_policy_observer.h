@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigningKeyPolicyObserver class header
+// summary: Declares the SigningKeyPolicyObserver class, a DeviceTrustConnectorService policy observer holding a pointer to the browser DeviceTrustKeyManager.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_BROWSER_SIGNING_KEY_POLICY_OBSERVER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_BROWSER_SIGNING_KEY_POLICY_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the device trust key rotation installer
+summary: Defines the elevated_rotation source set and its unit_tests target, listing public headers, sources, dependencies, and compiler configs for the installer.

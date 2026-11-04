@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportingEventRouter unit tests
+// summary: Unit tests verifying event routing and reporting behavior, including active user detection and content analysis events.
+// ---
+
 #include "components/enterprise/connectors/core/reporting_event_router.h"
 
 #include "base/no_destructor.h"

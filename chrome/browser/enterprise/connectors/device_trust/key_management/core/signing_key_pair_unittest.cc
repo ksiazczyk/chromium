@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the signing key pair
+// summary: Tests that SigningKeyPair initializes correctly with hardware-backed and EC software signing keys at the expected trust levels.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/signing_key_pair.h"
 
 #include <memory>

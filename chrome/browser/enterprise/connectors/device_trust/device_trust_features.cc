@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust feature flags implementation
+// summary: Defines base features for key rotation, shared API key upload and Android device trust connector and attestation token behavior.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/device_trust_features.h"
 
 namespace enterprise_connectors {

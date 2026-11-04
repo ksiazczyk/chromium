@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash attestation policy observer class declaration
+// summary: Declares AshAttestationPolicyObserver, a DeviceTrustConnectorService policy observer that initiates key preparation when DTC is enabled.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_ASH_ASH_ATTESTATION_POLICY_OBSERVER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_ASH_ASH_ATTESTATION_POLICY_OBSERVER_H_
 

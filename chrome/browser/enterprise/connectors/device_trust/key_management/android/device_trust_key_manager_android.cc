@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceTrustKeyManagerAndroid implementation
+// summary: Implements the Android key manager, which provisions no signing key and instead produces attestation tokens bound to the SHA-256 hash of the payload when the feature is enabled.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/android/device_trust_key_manager_android.h"
 
 #include <utility>

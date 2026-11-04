@@ -1,0 +1,4 @@
+# Docerion header of secure_enclave_signing_key_unittest.mm.
+type: test
+title: Secure Enclave signing key unit tests
+summary: Unit tests for the Secure Enclave signing key provider, verifying key generation and loading through a mocked Secure Enclave client.

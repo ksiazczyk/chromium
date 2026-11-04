@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash attestation cleanup manager implementation
+// summary: Deletes Device Trust Connector attestation keys when a user is removed on unmanaged ChromeOS devices.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/attestation/ash/ash_attestation_cleanup_manager.h"
 
 #include "base/check_is_test.h"
