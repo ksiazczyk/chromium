@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location icon test accessor interface
+// summary: Declares a test accessor to click the location icon, show and query the Page Info bubble, and read icon visibility and text during tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_LOCATION_ICON_TEST_ACCESSOR_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_LOCATION_ICON_TEST_ACCESSOR_H_
 

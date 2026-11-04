@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast dialog metrics implementation
+// summary: Implements CastDialogMetrics, recording UMA histograms for dialog load time, sink counts, and activation location and cast mode combinations.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_metrics.h"
 
 #include "base/metrics/histogram_macros.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm infobar with custom message view implementation
+// summary: Implements ConfirmInfoBarWithCustomView, which places a caller-provided custom message view inside a confirm infobar.
+// ---
+
 #include "chrome/browser/ui/views/infobars/confirm_infobar_with_custom_view.h"
 
 #include <utility>

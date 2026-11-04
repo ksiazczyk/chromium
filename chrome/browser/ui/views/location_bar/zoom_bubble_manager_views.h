@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomBubbleManagerViews class header
+// summary: Declares ZoomBubbleManagerViews, a ZoomBubbleManager implementation exposing the subset of BrowserView functionality needed by zoom bubble components.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_ZOOM_BUBBLE_MANAGER_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_ZOOM_BUBBLE_MANAGER_VIEWS_H_
 

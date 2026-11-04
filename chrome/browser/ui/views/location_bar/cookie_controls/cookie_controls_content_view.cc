@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie controls content view implementation
+// summary: Builds the cookie controls bubble content, including title and description labels, the third-party cookies toggle row, separators, and the enforced icon.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/cookie_controls/cookie_controls_content_view.h"
 
 #include "base/strings/string_util.h"

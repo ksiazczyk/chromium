@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MahiCondensedMenuView implementation
+// summary: Implements the condensed Mahi menu view whose summary button notifies the Mahi web contents manager and records click metrics.
+// ---
+
 #include "chrome/browser/ui/views/mahi/mahi_condensed_menu_view.h"
 
 #include <memory>

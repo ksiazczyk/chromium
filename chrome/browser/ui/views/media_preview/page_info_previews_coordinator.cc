@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info previews coordinator implementation
+// summary: Implements the coordinator that sets up camera or mic previews in the page info UI and records preview duration metrics.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/page_info_previews_coordinator.h"
 
 #include "chrome/browser/ui/views/chrome_layout_provider.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomBubbleManager interface header
+// summary: Declares the ZoomBubbleManager interface providing browser-window support for zoom bubbles, such as the bubble anchor, native view and accessible action name.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_ZOOM_BUBBLE_MANAGER_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_ZOOM_BUBBLE_MANAGER_H_
 

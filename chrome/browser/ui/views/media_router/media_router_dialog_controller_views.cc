@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media router dialog controller views implementation
+// summary: Implements the Views media router dialog controller that shows cast and global media controls dialogs and blocks fullscreen to prevent UI spoofing.
+// ---
+
 #include "chrome/browser/ui/views/media_router/media_router_dialog_controller_views.h"
 
 #include <memory>

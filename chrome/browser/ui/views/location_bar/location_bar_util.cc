@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar utility functions
+// summary: Provides helpers for 2023-refresh ink drop configuration and for formatting additional omnibox text with locale-aware separators.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/location_bar_util.h"
 
 #include "base/i18n/rtl.h"

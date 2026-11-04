@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent picker page action controller header
+// summary: Declares IntentPickerViewPageActionController, which manages visibility of the intent picker page action icon and suggestion chip for a tab.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_INTENT_PICKER_INTENT_PICKER_VIEW_PAGE_ACTION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_INTENT_PICKER_INTENT_PICKER_VIEW_PAGE_ACTION_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video format comparison unit tests
+// summary: Unit tests verifying that GetClosestVideoFormat selects formats correctly by frame rate, view width, and aspect ratio weighting.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/camera_preview/video_format_comparison.h"
 
 #include "media/capture/video_capture_types.h"

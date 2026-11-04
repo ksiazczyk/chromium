@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zoom bubble coordinator
+// summary: Coordinates the zoom bubble for a browser window, updating bubble visibility state and the zoom action icon, including extension attribution.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/zoom_bubble_coordinator.h"
 
 #include <memory>

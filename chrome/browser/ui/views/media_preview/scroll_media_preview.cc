@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll media preview implementation
+// summary: Creates a height-capped scroll view with an overlay scrollbar as a child of a parent view and returns the contents view for media previews.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/scroll_media_preview.h"
 
 #include "chrome/browser/ui/views/media_preview/media_view.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI content setting image control header
+// summary: Manages content setting image models for the WebUI toolbar and pushes their state updates via ToolbarUIService, including bubble handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_WEBUI_CONTENT_SETTING_IMAGE_CONTROL_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_WEBUI_CONTENT_SETTING_IMAGE_CONTROL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastDialogSinkButton implementation
+// summary: Implements the hover button representing a media sink in the Cast dialog, including icon selection, status text override and restore, and enabled state handling.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_sink_button.h"
 
 #include <memory>

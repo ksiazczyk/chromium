@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm infobar implementation and factory
+// summary: Implements ConfirmInfoBar creation and shared layout logic for message labels, OK, cancel and extra buttons, and links.
+// ---
+
 #include "chrome/browser/ui/views/infobars/confirm_infobar.h"
 
 #include <algorithm>

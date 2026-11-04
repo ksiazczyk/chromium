@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standard icon label bubble layout strategy header
+// summary: Declares the standard animation layout strategy for icon label bubble views and its layout and animation interface methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_STANDARD_ICON_LABEL_BUBBLE_LAYOUT_STRATEGY_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_STANDARD_ICON_LABEL_BUBBLE_LAYOUT_STRATEGY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MicMediator class header
+// summary: Declares the MicMediator class that handles backend service interactions for the mic preview coordinator, observing audio device changes and binding the audio stream factory.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_MIC_PREVIEW_MIC_MEDIATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_MIC_PREVIEW_MIC_MEDIATOR_H_
 

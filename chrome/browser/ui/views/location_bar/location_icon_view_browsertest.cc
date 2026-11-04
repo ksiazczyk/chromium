@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationIconView browser tests
+// summary: Browser test verifying the location icon's ink drop mode is off while the omnibox is being edited and on otherwise.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/location_icon_view.h"
 
 #include "base/memory/raw_ptr.h"

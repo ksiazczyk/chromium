@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomBubbleView implementation
+// summary: Implements the zoom bubble view that displays the zoom percentage with zoom in, zoom out and reset buttons, extension info and auto-close timers.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/zoom_bubble_view.h"
 
 #include <cmath>

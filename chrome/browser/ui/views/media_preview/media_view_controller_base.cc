@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media view controller base implementation
+// summary: Implements common view logic for camera and mic media previews, including the device selector combobox, labels, borders, and accessibility handling.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/media_view_controller_base.h"
 
 #include <memory>

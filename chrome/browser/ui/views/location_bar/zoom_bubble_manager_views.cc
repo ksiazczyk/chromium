@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomBubbleManagerViews implementation
+// summary: Implements ZoomBubbleManager for BrowserView, resolving the zoom bubble anchor, native parent view and accessible name of the zoom page action.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/zoom_bubble_manager_views.h"
 
 #include "build/build_config.h"

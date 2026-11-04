@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mic coordinator implementation
+// summary: Implements the middle man between the mic view controller and mediator, filtering eligible devices and managing the live audio feed.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/mic_preview/mic_coordinator.h"
 
 #include <algorithm>

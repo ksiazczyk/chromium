@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video format comparison implementation
+// summary: Implements fitness scoring over aspect ratio, width, and frame rate to pick the closest camera video capture format for a given view width and target frame rate.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/camera_preview/video_format_comparison.h"
 
 #include "media/capture/video_capture_types.h"

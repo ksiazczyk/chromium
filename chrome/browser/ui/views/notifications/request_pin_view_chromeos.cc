@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestPinView implementation for ChromeOS
+// summary: Implements the ChromeOS dialog view that requests a PIN or PUK code from the user for security token access, handling input, errors, and button state.
+// ---
+
 #include "chrome/browser/ui/views/notifications/request_pin_view_chromeos.h"
 
 #include <stddef.h>

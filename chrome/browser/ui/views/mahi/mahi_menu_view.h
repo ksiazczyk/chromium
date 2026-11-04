@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi menu view class declaration
+// summary: Declares the MahiMenuView bubble view class with widget creation, surface and button status types, and textfield controller hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MAHI_MAHI_MENU_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_MAHI_MAHI_MENU_VIEW_H_
 

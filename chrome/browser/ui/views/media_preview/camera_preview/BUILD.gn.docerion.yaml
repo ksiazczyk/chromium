@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Camera preview GN build targets
+summary: Defines the camera_preview source set and its unit_tests target, listing public headers, sources, and build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfirmInfoBarWithNormalLabel implementation
+// summary: Implements ConfirmInfoBarWithNormalLabel, which builds a plain elided message label from the delegate's message text.
+// ---
+
 #include "chrome/browser/ui/views/infobars/confirm_infobar_with_normal_label.h"
 
 #include <utility>

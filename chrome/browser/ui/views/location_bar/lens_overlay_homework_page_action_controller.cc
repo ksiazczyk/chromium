@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay homework page action controller
+// summary: Implements the controller that shows, hides, and handles interactions with the Lens overlay homework suggestion chip in the omnibox.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/lens_overlay_homework_page_action_controller.h"
 
 #include "base/functional/bind.h"

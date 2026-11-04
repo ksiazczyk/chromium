@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Mahi views directory
+summary: Restricts //chrome dependencies and lists allowed includes for the chrome/browser/ui/views/mahi directory.

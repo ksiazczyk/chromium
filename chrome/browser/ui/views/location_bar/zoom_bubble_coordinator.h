@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomBubbleCoordinator class header
+// summary: Declares ZoomBubbleCoordinator, which creates, shows, hides and refreshes the zoom bubble for a browser window and observes its widget and immersive mode.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_ZOOM_BUBBLE_COORDINATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_ZOOM_BUBBLE_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Mahi views directory
+summary: Lists newcomer@chromium.org as the code owner for this directory.

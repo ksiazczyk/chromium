@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast dialog view unit tests
+// summary: Unit tests for the Cast dialog view, covering sink list rendering, casting actions, and dialog behavior with a mocked dialog controller.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_view.h"
 
 #include <memory>

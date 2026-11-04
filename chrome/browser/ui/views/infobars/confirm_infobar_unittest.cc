@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for confirm infobar
+// summary: Unit tests covering ConfirmInfoBar and its subclasses, including button handling, extra button behavior and message label choices.
+// ---
+
 #include "chrome/browser/ui/views/infobars/confirm_infobar.h"
 
 #include <memory>

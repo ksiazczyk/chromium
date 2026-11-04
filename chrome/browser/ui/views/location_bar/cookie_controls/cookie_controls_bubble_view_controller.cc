@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie controls bubble view controller implementation
+// summary: Implements the controller that updates the bubble from cookie controls state, handling toggles, favicons, feedback, and the reloading view.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/cookie_controls/cookie_controls_bubble_view_controller.h"
 
 #include "base/check_is_test.h"

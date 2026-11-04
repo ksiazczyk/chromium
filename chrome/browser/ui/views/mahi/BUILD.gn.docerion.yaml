@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Mahi menu UI
+summary: Defines the mahi source set plus browser test and unit test targets for the Mahi menu views, controller and constants.

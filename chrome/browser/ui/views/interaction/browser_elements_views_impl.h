@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserElementsViewsImpl class declaration
+// summary: Declares the non-Webium implementation of BrowserElementsViews, initialized with a context view such as BrowserView.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_INTERACTION_BROWSER_ELEMENTS_VIEWS_IMPL_H_
 #define CHROME_BROWSER_UI_VIEWS_INTERACTION_BROWSER_ELEMENTS_VIEWS_IMPL_H_
 

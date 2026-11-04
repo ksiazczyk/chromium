@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for interaction
+summary: Defines source sets for BrowserElementsViews, its impl, and browser tests together with their build dependencies.

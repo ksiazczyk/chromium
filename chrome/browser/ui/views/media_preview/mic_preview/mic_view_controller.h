@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MicViewController class header
+// summary: Declares the MicViewController for the mic view, which sets up the view, updates it from coordinator data, and reports view events back to the coordinator.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_MIC_PREVIEW_MIC_VIEW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_MIC_PREVIEW_MIC_VIEW_CONTROLLER_H_
 

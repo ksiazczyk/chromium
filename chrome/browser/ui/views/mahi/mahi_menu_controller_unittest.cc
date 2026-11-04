@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MahiMenuController unit tests
+// summary: Tests menu controller behavior using fake Mahi manager and web contents manager overrides, including distillability handling.
+// ---
+
 #include "chrome/browser/ui/views/mahi/mahi_menu_controller.h"
 
 #include <memory>

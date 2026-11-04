@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: JS optimization UI build targets
+summary: Defines the js_optimization and impl source sets with their sources and dependencies for the desktop JS optimization infobar and page action UI.

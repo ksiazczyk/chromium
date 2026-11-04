@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar decoration layout header
+// summary: Declares LocationBarLayout, a helper that lays out omnibox decorations in three passes with padding and collapse rules.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_LOCATION_BAR_LAYOUT_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_LOCATION_BAR_LAYOUT_H_
 

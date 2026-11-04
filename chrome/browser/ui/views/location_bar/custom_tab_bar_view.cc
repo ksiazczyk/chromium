@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab bar view implementation
+// summary: Implements the read-only title and origin bar shown in desktop PWA windows for insecure pages or pages outside app scope.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/custom_tab_bar_view.h"
 
 #include <memory>

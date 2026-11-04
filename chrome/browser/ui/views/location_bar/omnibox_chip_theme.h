@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox chip theme enum
+// summary: Defines the OmniboxChipTheme enum describing icon, text, and background color styles for different omnibox chip types.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_OMNIBOX_CHIP_THEME_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_OMNIBOX_CHIP_THEME_H_
 

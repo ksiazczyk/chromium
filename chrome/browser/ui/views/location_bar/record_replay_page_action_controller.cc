@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Record replay page action controller implementation
+// summary: Implements the per-tab Record/Replay page action controller that starts and stops recordings, replays recent recordings, and shows bubbles.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/record_replay_page_action_controller.h"
 
 #include "chrome/browser/ui/actions/chrome_action_id.h"

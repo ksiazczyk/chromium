@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standard icon label bubble layout strategy implementation
+// summary: Implements the standard animation layout strategy for icon label bubble views, sizing the view and placing the icon and label during animations.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/standard_icon_label_bubble_layout_strategy.h"
 
 #include <algorithm>

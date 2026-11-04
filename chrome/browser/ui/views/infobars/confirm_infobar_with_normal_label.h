@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfirmInfoBarWithNormalLabel header
+// summary: Declares ConfirmInfoBarWithNormalLabel, a ConfirmInfoBar subclass that shows its message in a plain label.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_INFOBARS_CONFIRM_INFOBAR_WITH_NORMAL_LABEL_H_
 #define CHROME_BROWSER_UI_VIEWS_INFOBARS_CONFIRM_INFOBAR_WITH_NORMAL_LABEL_H_
 

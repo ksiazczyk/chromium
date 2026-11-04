@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast toolbar button controller implementation
+// summary: Implements the per-browser controller that updates the Cast toolbar icon based on issues, routes and mirroring freeze state.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_browser_controller.h"
 
 #include <algorithm>

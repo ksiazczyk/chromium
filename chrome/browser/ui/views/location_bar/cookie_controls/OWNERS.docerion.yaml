@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Redirects code ownership to the parent cookie controls OWNERS file under chrome/browser/ui.

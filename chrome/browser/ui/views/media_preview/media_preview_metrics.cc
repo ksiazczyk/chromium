@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media preview metrics implementation
+// summary: Implements UMA histogram helpers that record media preview durations, in-use device counts and device selection metrics per UI location and preview type.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/media_preview_metrics.h"
 
 #include <string>

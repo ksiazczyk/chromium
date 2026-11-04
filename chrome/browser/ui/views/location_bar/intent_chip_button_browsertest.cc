@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intent chip button browser tests
+// summary: Browser tests for the intent picker chip in the location bar, exercising web app installation and link capturing behavior across feature versions.
+// ---
+
 #include <memory>
 #include <utility>
 

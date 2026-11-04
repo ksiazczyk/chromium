@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast dialog coordinator header
+// summary: Declares CastDialogCoordinator and ShowCastDialogStatus, defining how the Cast dialog is shown, hidden, and queried for the media router UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_ROUTER_CAST_DIALOG_COORDINATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_ROUTER_CAST_DIALOG_COORDINATOR_H_
 

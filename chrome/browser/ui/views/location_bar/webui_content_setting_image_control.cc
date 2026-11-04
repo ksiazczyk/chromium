@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI content setting image control implementation
+// summary: Implements the WebUI toolbar control that manages content setting image models, exposing their state and updating the permission dashboard for the WebUI location bar.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/webui_content_setting_image_control.h"
 
 #include "base/check.h"

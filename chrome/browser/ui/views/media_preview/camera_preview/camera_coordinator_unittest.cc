@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera coordinator unit tests
+// summary: Unit tests for CameraCoordinator using fake video capture services, covering device list updates, selection, and device count metrics histograms.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/camera_preview/camera_coordinator.h"
 
 #include <stddef.h>

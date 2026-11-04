@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi menu view IDs and metrics constants
+// summary: Defines view IDs, the MahiMenuButton enum and histogram name constants shared by the Mahi menu UI and its tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MAHI_MAHI_MENU_CONSTANTS_H_
 #define CHROME_BROWSER_UI_VIEWS_MAHI_MAHI_MENU_CONSTANTS_H_
 

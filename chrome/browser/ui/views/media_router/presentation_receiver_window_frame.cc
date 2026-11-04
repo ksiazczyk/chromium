@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation receiver window frame
+// summary: Implements the widget frame for presentation receiver windows, supplying profile-based theme and custom theme providers.
+// ---
+
 #include "chrome/browser/ui/views/media_router/presentation_receiver_window_frame.h"
 
 #include "chrome/browser/themes/custom_theme_supplier.h"

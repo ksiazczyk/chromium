@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup file selector implementation
+// summary: Implements the file upload dialog for the omnibox popup, including Lens image encoding options and searchbox context data updates.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/omnibox_popup_file_selector.h"
 
 #include "base/base64.h"

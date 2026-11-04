@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content setting image view interactive UI test
+// summary: Interactive tests for quiet notification prompts and in-product help on content setting views in web app frame toolbars.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/content_setting_image_view.h"
 
 #include "chrome/browser/ui/browser_commands.h"

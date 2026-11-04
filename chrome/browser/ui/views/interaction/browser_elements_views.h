@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserElementsViews class declaration
+// summary: Declares the Views extension of BrowserElements with typed view retrieval callbacks and ElementTrackerViews convenience access.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_INTERACTION_BROWSER_ELEMENTS_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_INTERACTION_BROWSER_ELEMENTS_VIEWS_H_
 

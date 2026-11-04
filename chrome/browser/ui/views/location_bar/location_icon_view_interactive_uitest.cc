@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location icon view interactive UI tests
+// summary: Interactive browser tests for the location icon view, covering bubble hiding on a second click and fullscreen and omnibox focus behavior on Mac.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/location_icon_view.h"
 
 #include "base/test/run_until.h"

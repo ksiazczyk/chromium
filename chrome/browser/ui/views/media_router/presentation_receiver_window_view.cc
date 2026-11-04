@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation receiver window view implementation
+// summary: Implements the view portion of the presentation receiver window, hosting a WebView for the receiver page and a location bar with fullscreen and accelerator handling.
+// ---
+
 #include "chrome/browser/ui/views/media_router/presentation_receiver_window_view.h"
 
 #include <algorithm>

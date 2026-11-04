@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for media router views
+summary: Defines the media_router, impl and unit_tests source sets with their public headers, sources and dependencies.

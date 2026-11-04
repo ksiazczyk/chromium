@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi menu view implementation
+// summary: Implements the bubble-style Mahi Help Me Read menu view, including its buttons, question textfield, widget creation, and accessibility announcements.
+// ---
+
 #include "chrome/browser/ui/views/mahi/mahi_menu_view.h"
 
 #include <algorithm>

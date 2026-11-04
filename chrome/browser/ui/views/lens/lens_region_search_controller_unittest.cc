@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Lens region search controller unit tests
+// summary: Unit tests for the Lens region search controller covering capture result metrics and aspect ratio handling.
+// ---
+
 #include "chrome/browser/lens/region_search/lens_region_search_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox popup file selector browser tests
+// summary: Browser tests for the omnibox popup file selector using a fake select file dialog, covering AI mode reopening when the dialog is canceled.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/omnibox_popup_file_selector.h"
 
 #include <memory>

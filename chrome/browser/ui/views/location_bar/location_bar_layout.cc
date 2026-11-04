@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar decoration layout implementation
+// summary: Implements the multi-pass layout of decorations on the left or right of the omnibox, including padding and auto-collapsing behavior.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/location_bar_layout.h"
 
 #include "base/memory/raw_ptr.h"

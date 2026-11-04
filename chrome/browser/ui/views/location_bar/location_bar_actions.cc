@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar omnibox actions implementation
+// summary: Implements registration of omnibox-related browser actions, such as adding files or images to the omnibox and opening AI mode from the location bar.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/location_bar_actions.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

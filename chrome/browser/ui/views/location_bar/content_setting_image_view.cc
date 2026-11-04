@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content setting image view implementation
+// summary: Implements the location bar decoration that shows icons and labels for content setting affordances like JavaScript and popup blocking.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/content_setting_image_view.h"
 
 #include <cstddef>

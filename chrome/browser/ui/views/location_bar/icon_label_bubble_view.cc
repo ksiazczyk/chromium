@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon label bubble view implementation
+// summary: Implements the bubble view with an icon and label that serves as the base for the location icon, EV bubble, tab-to-search UI, and content settings.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/icon_label_bubble_view.h"
 
 #include <algorithm>

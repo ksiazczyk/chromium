@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Intent picker page action BUILD.gn
+summary: Defines the intent_picker_page_action source_set, listing the controller sources and its public and private build dependencies.

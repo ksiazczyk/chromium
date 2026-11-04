@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio stream view class declaration
+// summary: Declares the mic live audio feed view that paints the current audio level and can clear the displayed value.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_MIC_PREVIEW_AUDIO_STREAM_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_MIC_PREVIEW_AUDIO_STREAM_VIEW_H_
 

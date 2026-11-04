@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media coordinator implementation
+// summary: Implements MediaCoordinator, which builds the media view and instantiates camera and mic coordinators based on the requested view type.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/media_coordinator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast dialog coordinator implementation
+// summary: Implements CastDialogCoordinator, which shows and hides the singleton Cast dialog anchored to the toolbar icon, the browser window top center, or given bounds.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_coordinator.h"
 
 #include <memory>

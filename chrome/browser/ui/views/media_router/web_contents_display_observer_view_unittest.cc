@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web contents display observer view unit tests
+// summary: Unit tests verifying the display observer notifies its callback only when the web contents move to a different display.
+// ---
+
 #include "chrome/browser/ui/views/media_router/web_contents_display_observer_view.h"
 
 #include <memory>

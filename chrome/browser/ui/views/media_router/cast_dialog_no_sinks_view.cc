@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast dialog no sinks view implementation
+// summary: Implements the Cast dialog view shown when no sinks are discovered, including permission-rejected messaging, a throbber, and a help link icon.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_no_sinks_view.h"
 
 #include <memory>

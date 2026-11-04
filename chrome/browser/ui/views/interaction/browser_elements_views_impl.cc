@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserElementsViewsImpl implementation
+// summary: Implements the standard-browser BrowserElementsViews, deriving element context and widget from an initialized context view.
+// ---
+
 #include "chrome/browser/ui/views/interaction/browser_elements_views_impl.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

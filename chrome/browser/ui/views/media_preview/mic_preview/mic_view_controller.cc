@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MicViewController implementation
+// summary: Implements the mic preview view controller, building the mic icon and device combobox UI and updating the device list when connected audio devices change.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/mic_preview/mic_view_controller.h"
 
 #include <memory>

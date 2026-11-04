@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video stream view implementation
+// summary: Paints the camera live video feed with rounded corners and letterboxing, handling GPU rasterization constraints and theme-based colors.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/camera_preview/video_stream_view.h"
 
 #include <utility>

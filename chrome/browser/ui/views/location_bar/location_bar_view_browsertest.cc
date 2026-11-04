@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationBarView browser tests
+// summary: In-process browser tests for LocationBarView covering omnibox behavior, page actions, zoom bubbles, security state, and WebUI location bar interactions.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/location_bar_view.h"
 
 #include <algorithm>

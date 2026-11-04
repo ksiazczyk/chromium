@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio stream coordinator implementation
+// summary: Implements audio capture from a mic device, computes a rolling average audio level, and schedules repaints of the audio stream view.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/mic_preview/audio_stream_coordinator.h"
 
 #include <algorithm>

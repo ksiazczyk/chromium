@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for mic preview sources and tests
+summary: Defines the mic_preview source set plus unit test and browser test targets with their sources and dependencies for the Chromium build.

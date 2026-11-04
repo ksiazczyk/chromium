@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie controls page action controller unit tests
+// summary: Unit tests for the cookie controls page action controller using mock tab interface, page action controller, and fake bubble delegate objects.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/cookie_controls/cookie_controls_page_action_controller.h"
 
 #include <memory>

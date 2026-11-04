@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI location bar browser tests
+// summary: Browser tests for the WebUI location bar covering omnibox behavior, bookmarks, page actions, find bar, and theme changes.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/webui_location_bar.h"
 
 #include <utility>

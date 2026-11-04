@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info previews coordinator header
+// summary: Declares PageInfoPreviewsCoordinator, a wrapper for page info media preview initialization, interaction, and metrics collection.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_PAGE_INFO_PREVIEWS_COORDINATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_PAGE_INFO_PREVIEWS_COORDINATOR_H_
 

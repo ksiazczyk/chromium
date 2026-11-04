@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens region search instructions bubble implementation
+// summary: Implements the bubble dialog that shows drag-to-search instructions with a close button for Lens region search.
+// ---
+
 #include "chrome/browser/ui/views/lens/lens_region_search_instructions_view.h"
 
 #include "base/functional/bind.h"

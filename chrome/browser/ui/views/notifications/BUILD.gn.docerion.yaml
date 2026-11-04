@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the ChromeOS notifications views
+summary: Defines the ChromeOS-only notifications source set, listing request_pin_view_chromeos sources and its public and private dependencies.

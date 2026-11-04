@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Presentation receiver window view browser tests
+// summary: Browser tests for the presentation receiver window view using a fake delegate to exercise modal dialog hosting and window behavior.
+// ---
+
 #include "chrome/browser/ui/views/media_router/presentation_receiver_window_view.h"
 
 #include "base/functional/callback.h"

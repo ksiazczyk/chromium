@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Active devices media coordinator unit tests
+// summary: Parameterized unit tests verifying coordinator creation, device tracking and in-use device metrics for camera and mic preview views.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/active_devices_media_coordinator.h"
 
 #include <optional>

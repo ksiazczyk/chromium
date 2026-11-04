@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie controls bubble browser test
+// summary: In-process browser tests for the cookie controls bubble coordinator and view controller using mock bubble and content views.
+// ---
+
 #include <memory>
 
 #include "base/test/scoped_feature_list.h"

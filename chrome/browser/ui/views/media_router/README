@@ -1,3 +1,9 @@
+---
+type: readme
+title: Media Router README
+summary: Briefly describes the Chrome Media Router for sharing media with connected screens and links to its design doc.
+---
+
 The Chrome Media Router allows applications to share media with connected
 screens.
 

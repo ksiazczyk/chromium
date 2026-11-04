@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast dialog metrics unit test
+// summary: Unit test checking that CastDialogMetrics records the expected histogram samples for sink loading, casting start, and sink counts.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

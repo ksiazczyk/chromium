@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastDialogSinkView implementation
+// summary: Implements the Cast dialog view for a sink, showing a label view plus stop and freeze buttons for connected sinks or a sink button otherwise.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_sink_view.h"
 
 #include <utility>

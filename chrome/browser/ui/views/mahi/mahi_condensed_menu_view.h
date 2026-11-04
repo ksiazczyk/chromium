@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MahiCondensedMenuView class declaration
+// summary: Declares the view that shows a condensed version of the Mahi menu with a label button and view shadow.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MAHI_MAHI_CONDENSED_MENU_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_MAHI_MAHI_CONDENSED_MENU_VIEW_H_
 

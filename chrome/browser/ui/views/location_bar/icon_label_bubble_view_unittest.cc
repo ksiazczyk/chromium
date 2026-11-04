@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Icon label bubble view unit tests
+// summary: Unit tests for IconLabelBubbleView covering animation in and out, label visibility, separators, ink drops, and layout behavior.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/icon_label_bubble_view.h"
 
 #include <optional>

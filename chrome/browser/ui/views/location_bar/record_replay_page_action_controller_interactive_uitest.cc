@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Record replay page action controller interactive UI tests
+// summary: Interactive browser tests verifying that the record replay page action controller shows the replay recording bubble when recordings exist.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/record_replay_page_action_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media router dialog controller interactive UI tests
+// summary: Interactive browser tests for opening and closing the media router dialog, including presentation requests and fullscreen handling.
+// ---
+
 #include "chrome/browser/ui/views/media_router/media_router_dialog_controller_views.h"
 
 #include "base/feature_list.h"

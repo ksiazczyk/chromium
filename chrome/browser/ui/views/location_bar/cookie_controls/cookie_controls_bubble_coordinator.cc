@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie controls bubble coordinator implementation
+// summary: Implements the per-window coordinator that creates, shows, and tracks the cookie controls bubble and notifies closing callbacks.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/cookie_controls/cookie_controls_bubble_coordinator.h"
 
 #include "base/callback_list.h"

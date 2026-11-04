@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens region search instructions view header
+// summary: Declares the LensRegionSearchInstructionsView bubble dialog class, its layout parameters and close button members.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LENS_LENS_REGION_SEARCH_INSTRUCTIONS_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_LENS_LENS_REGION_SEARCH_INSTRUCTIONS_VIEW_H_
 

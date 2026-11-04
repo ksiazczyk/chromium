@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission prompt preview browser test
+// summary: Browser test that verifies the media preview appears in the permission prompt bubble when a page requests camera access, using fake capture devices and a test server.
+// ---
+
 #include "base/path_service.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"
 #include "chrome/browser/ui/test/test_browser_ui.h"

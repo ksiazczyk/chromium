@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom tab bar view browser tests
+// summary: Browser tests for the custom tab bar view, covering tab titles, navigation, security interstitials, zoom, and clipboard behavior in web app windows.
+// ---
+
 #include "base/command_line.h"
 #include "base/i18n/icubridge/default_icu_locale.h"
 #include "base/memory/raw_ptr.h"

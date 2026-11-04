@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac test helper for WebUI location bar interactive tests
+// summary: Declares a macOS helper that sets a window's first responder without resigning the previous one, used by the interactive UI tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_WEBUI_LOCATION_BAR_INTERACTIVE_UITEST_MAC_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_WEBUI_LOCATION_BAR_INTERACTIVE_UITEST_MAC_H_
 

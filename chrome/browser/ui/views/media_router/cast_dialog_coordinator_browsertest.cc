@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast dialog coordinator browser test
+// summary: Browser test verifying that the Cast dialog coordinator shows and hides the dialog correctly when centered for the browser window.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_coordinator.h"
 
 #include <memory>
