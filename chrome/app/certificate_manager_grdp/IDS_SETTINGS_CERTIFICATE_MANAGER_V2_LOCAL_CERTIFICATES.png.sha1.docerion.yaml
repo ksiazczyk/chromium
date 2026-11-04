@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_CERTIFICATE_MANAGER_V2_LOCAL_CERTIFICATES.png.sha1.
+type: asset
+title: Local certificates image checksum
+summary: SHA1 checksum verifying the integrity of the local certificates image in Chrome's certificate manager settings.

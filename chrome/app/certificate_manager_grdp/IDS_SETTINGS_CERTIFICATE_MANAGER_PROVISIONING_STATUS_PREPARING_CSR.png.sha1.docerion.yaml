@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_CERTIFICATE_MANAGER_PROVISIONING_STATUS_PREPARING_CSR.png.sha1.
+type: data
+title: Preparing CSR image SHA1 hash
+summary: Holds the SHA1 checksum of the PNG image for the preparing CSR provisioning status resource.
