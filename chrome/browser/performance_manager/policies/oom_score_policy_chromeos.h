@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS OOM score policy header
+// summary: Declares OomScorePolicyChromeOS, which distributes oom_score_adj across renderer processes by page importance.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_OOM_SCORE_POLICY_CHROMEOS_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_OOM_SCORE_POLICY_CHROMEOS_H_
 

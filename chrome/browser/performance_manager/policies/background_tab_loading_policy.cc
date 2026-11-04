@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background tab loading policy implementation
+// summary: Implements the policy that manages loading of background tabs created by session restore, assigning priorities and controlling how many tabs load simultaneously.
+// ---
+
 #include "chrome/browser/performance_manager/policies/background_tab_loading_policy.h"
 
 #include <algorithm>

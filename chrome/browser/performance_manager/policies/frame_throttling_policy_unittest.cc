@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame throttling policy unit tests
+// summary: Unit tests verifying that frame sinks are throttled and unthrottled correctly as child frame importance state changes.
+// ---
+
 #include "chrome/browser/performance_manager/policies/frame_throttling_policy.h"
 
 #include "base/memory/raw_ptr.h"

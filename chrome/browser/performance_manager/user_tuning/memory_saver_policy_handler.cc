@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory Saver policy handler implementation
+// summary: Maps the HighEfficiencyModeEnabled enterprise policy to the memory saver mode state preference, enabling or disabling Memory Saver accordingly.
+// ---
+
 #include "chrome/browser/performance_manager/public/user_tuning/memory_saver_policy_handler.h"
 
 #include "components/performance_manager/public/user_tuning/prefs.h"

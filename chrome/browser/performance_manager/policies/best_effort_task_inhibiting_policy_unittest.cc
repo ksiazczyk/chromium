@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Best effort task inhibiting policy unit tests
+// summary: Unit tests verifying fence installation, quota handling, and recovery behavior of the best-effort task inhibiting policy under input and loading scenarios.
+// ---
+
 #include "chrome/browser/performance_manager/policies/best_effort_task_inhibiting_policy.h"
 
 #include "base/moving_window.h"

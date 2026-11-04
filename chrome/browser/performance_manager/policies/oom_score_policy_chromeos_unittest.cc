@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS OOM score policy unit tests
+// summary: Unit tests verifying OOM score distribution and caching for renderer processes in the ChromeOS OOM score policy.
+// ---
+
 #include "chrome/browser/performance_manager/policies/oom_score_policy_chromeos.h"
 
 #include "chrome/browser/performance_manager/test_support/page_discarding_utils.h"

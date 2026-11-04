@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteDataCacheFacade implementation
+// summary: Implements the UI-thread facade for the site data cache, creating and destroying the underlying cache per browser context and clearing site data on history deletions.
+// ---
+
 #include "chrome/browser/performance_manager/persistence/site_data/site_data_cache_facade.h"
 
 #include <string>

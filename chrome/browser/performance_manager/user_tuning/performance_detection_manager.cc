@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance Detection Manager implementation
+// summary: Implements the Performance Detection Manager that exposes health status and actionable tab observers and discards suggested tabs through the page discarding helper.
+// ---
+
 #include "chrome/browser/performance_manager/public/user_tuning/performance_detection_manager.h"
 
 #include <memory>

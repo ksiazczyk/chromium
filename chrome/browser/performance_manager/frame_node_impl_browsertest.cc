@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for frame node implementation
+// summary: Verifies frame node viewport intersection reporting and document coordination unit binding, including out-of-view visibility behavior.
+// ---
+
 #include "components/performance_manager/graph/frame_node_impl.h"
 
 #include <optional>

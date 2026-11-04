@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ChromeOS working set trimmer
+// summary: Unit tests exercising ARC VM working set trimming with fake ARC session, DLC installer, and memory instances.
+// ---
+
 #include "chrome/browser/performance_manager/mechanisms/working_set_trimmer_chromeos.h"
 
 #include <memory>

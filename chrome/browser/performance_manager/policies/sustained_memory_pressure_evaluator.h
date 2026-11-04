@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sustained memory pressure evaluator declaration
+// summary: Declares the evaluator class that tracks memory pressure state with timers and invokes a callback when pressure becomes sustained.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_SUSTAINED_MEMORY_PRESSURE_EVALUATOR_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_SUSTAINED_MEMORY_PRESSURE_EVALUATOR_H_
 

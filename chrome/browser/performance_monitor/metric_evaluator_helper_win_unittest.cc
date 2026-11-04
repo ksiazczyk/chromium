@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows metric evaluator helper unit tests
+// summary: Unit test verifying the Windows helper returns a positive free physical memory value on a thread pool task.
+// ---
+
 #include "chrome/browser/performance_monitor/metric_evaluator_helper_win.h"
 
 #include "base/task/thread_pool.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile force foreground priority list helper implementation
+// summary: Applies per-profile force foreground priority URL preferences to the force foreground voter for URLs in the performance graph.
+// ---
+
 #include "chrome/browser/performance_manager/user_tuning/profile_force_foreground_priority_list_helper.h"
 
 #include "base/values.h"

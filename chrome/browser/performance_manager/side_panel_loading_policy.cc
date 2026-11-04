@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel loading policy implementation
+// summary: Marks a WebContents' page node as a side panel through the side panel loading voter so priority policies can treat it accordingly.
+// ---
+
 #include "chrome/browser/performance_manager/public/side_panel_loading_policy.h"
 
 #include "base/functional/bind.h"

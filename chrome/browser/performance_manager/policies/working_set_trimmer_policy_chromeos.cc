@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS working set trimmer policy implementation
+// summary: Implements the ChromeOS working set trimmer policy, trimming working sets on freeze, memory pressure, and suspend for tabs and ARC processes.
+// ---
+
 #include "chrome/browser/performance_manager/policies/working_set_trimmer_policy_chromeos.h"
 
 #include "base/functional/bind.h"

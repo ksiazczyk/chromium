@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteDataCacheFacade unit tests
+// summary: Unit tests for SiteDataCacheFacade using a mocked site data cache to verify clearing data for origins and all site data on history deletions.
+// ---
+
 #include "chrome/browser/performance_manager/persistence/site_data/site_data_cache_facade.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest view policy implementation
+// summary: Notifies the Android process rank policy when a guest view is associated with a WebContents so its page node can be ranked accordingly.
+// ---
+
 #include "chrome/browser/performance_manager/public/guest_view_policy.h"
 
 #include "build/build_config.h"

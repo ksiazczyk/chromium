@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discard page with crashed subframe policy declarations
+// summary: Declares a graph policy that observes frame nodes and discards pages when a subframe render process crashes, complementing hidden tab reloading.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_DISCARD_PAGE_WITH_CRASHED_SUBFRAME_POLICY_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_DISCARD_PAGE_WITH_CRASHED_SUBFRAME_POLICY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS OOM score policy implementation
+// summary: Assigns oom_score_adj values to renderer processes on ChromeOS based on page importance so important tabs are killed last.
+// ---
+
 #include "chrome/browser/performance_manager/policies/oom_score_policy_chromeos.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Battery Saver Mode manager unit tests
+// summary: Unit tests for the Battery Saver Mode manager covering battery thresholds, external power changes, and observer notifications using fake power monitor sources and delegates.
+// ---
+
 #include "chrome/browser/performance_manager/public/user_tuning/battery_saver_mode_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Termination target policy unit tests
+// summary: Unit tests verifying termination target selection using a mocked termination target setter and the discard eligibility policy.
+// ---
+
 #include "chrome/browser/performance_manager/policies/termination_target_policy.h"
 
 #include <memory>

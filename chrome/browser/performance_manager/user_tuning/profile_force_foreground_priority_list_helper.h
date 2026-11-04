@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile force foreground priority list helper header
+// summary: Declares a helper that observes force foreground priority preferences and updates the force foreground voter for URLs.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_USER_TUNING_PROFILE_FORCE_FOREGROUND_PRIORITY_LIST_HELPER_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_USER_TUNING_PROFILE_FORCE_FOREGROUND_PRIORITY_LIST_HELPER_H_
 

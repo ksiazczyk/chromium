@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkingSetTrimmer interface declaration
+// summary: Declares the WorkingSetTrimmer interface that hints the operating system to reclaim a ProcessNode's memory, with a platform-specific singleton accessor.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_MECHANISMS_WORKING_SET_TRIMMER_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_MECHANISMS_WORKING_SET_TRIMMER_H_
 

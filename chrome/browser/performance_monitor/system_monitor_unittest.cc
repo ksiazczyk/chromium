@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemMonitor unit tests
+// summary: Unit tests verifying SystemMonitor's singleton behavior, observer registration and metric sampling frequencies using a fake metric evaluator helper and mock observers.
+// ---
+
 #include "chrome/browser/performance_monitor/system_monitor.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User performance tuning manager implementation
+// summary: Implements the manager that applies memory saver mode and tab freezing settings from user preferences to performance policies.
+// ---
+
 #include "chrome/browser/performance_manager/public/user_tuning/user_performance_tuning_manager.h"
 
 #include <optional>

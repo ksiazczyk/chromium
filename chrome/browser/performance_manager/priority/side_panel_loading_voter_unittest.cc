@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side Panel loading voter unit tests
+// summary: Unit tests verifying priority votes for marked Side Panel pages during initial load and vote removal on visibility or when unmarked.
+// ---
+
 #include "chrome/browser/performance_manager/priority/side_panel_loading_voter.h"
 
 #include "base/memory/raw_ptr.h"

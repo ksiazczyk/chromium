@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: User tuning BUILD.gn build definition
+summary: Defines the non-Android user_tuning source set containing the user_performance_tuning_notifier header with a dependency on the performance manager component.

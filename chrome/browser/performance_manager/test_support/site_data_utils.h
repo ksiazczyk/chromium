@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site data test harness
+// summary: Declares a test harness that initializes the site data database for unit tests and helper functions to fake site data states for web contents.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_TEST_SUPPORT_SITE_DATA_UTILS_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_TEST_SUPPORT_SITE_DATA_UTILS_H_
 

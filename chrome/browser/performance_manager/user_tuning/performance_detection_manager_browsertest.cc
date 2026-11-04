@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance detection manager browser tests
+// summary: Browser tests verifying that the performance detection manager discards eligible tabs while keeping the active tab.
+// ---
+
 #include "chrome/browser/performance_manager/public/user_tuning/performance_detection_manager.h"
 
 #include <memory>

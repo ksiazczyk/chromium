@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side Panel loading voter implementation
+// summary: Implements a voter that raises the priority of Side Panel pages during their initial load until they become visible.
+// ---
+
 #include "chrome/browser/performance_manager/priority/side_panel_loading_voter.h"
 
 #include "components/performance_manager/public/graph/graph.h"

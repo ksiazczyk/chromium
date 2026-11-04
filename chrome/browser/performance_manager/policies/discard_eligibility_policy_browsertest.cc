@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discard eligibility policy browser tests
+// summary: Browser tests verifying discard eligibility decisions, including that tabs in a split view cannot be discarded while visible.
+// ---
+
 #include "chrome/browser/performance_manager/policies/discard_eligibility_policy.h"
 
 #include <algorithm>

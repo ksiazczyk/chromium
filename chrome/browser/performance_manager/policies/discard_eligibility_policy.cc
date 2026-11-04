@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discard eligibility policy implementation
+// summary: Implements the discard eligibility policy that decides whether pages can be discarded, including per-profile no-discard URL patterns and discard attempt tracking.
+// ---
+
 #include "chrome/browser/performance_manager/policies/discard_eligibility_policy.h"
 
 #include "base/metrics/histogram_functions.h"

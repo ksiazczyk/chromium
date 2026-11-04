@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageDiscarder browser tests
+// summary: Parameterized browser tests verifying that discarding a background tab succeeds and reports the expected pre-discard memory footprint estimate for urgent and proactive reasons.
+// ---
+
 #include "chrome/browser/performance_manager/mechanisms/page_discarder.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keep-alive default search engine policy unit tests
+// summary: Unit tests verifying that DSE navigations keep the renderer alive and that non-DSE pages or DSE changes release the keep-alive.
+// ---
+
 #include "chrome/browser/performance_manager/policies/keep_alive_dse_policy.h"
 
 #include "base/memory_coordinator/test_memory_consumer_registry.h"

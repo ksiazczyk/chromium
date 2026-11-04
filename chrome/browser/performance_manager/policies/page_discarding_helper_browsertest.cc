@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page discarding helper browser tests
+// summary: Browser tests exercising page discarding end to end in real browser sessions, including navigation and lifecycle waits.
+// ---
+
 #include "chrome/browser/performance_manager/policies/page_discarding_helper.h"
 
 #include <memory>

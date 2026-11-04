@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Working set trimmer policy implementation
+// summary: Implements WorkingSetTrimmerPolicy, which trims the working set of processes whose frames are all frozen and tracks the last trim time per process.
+// ---
+
 #include "chrome/browser/performance_manager/policies/working_set_trimmer_policy.h"
 
 #include "base/notimplemented.h"

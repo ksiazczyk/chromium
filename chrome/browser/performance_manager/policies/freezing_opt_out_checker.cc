@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Freezing opt-out checker implementation
+// summary: Implements the freezing opt-out checker, delegating opt-out queries and change callbacks to the discard eligibility policy.
+// ---
+
 #include "chrome/browser/performance_manager/policies/freezing_opt_out_checker.h"
 
 #include <utility>

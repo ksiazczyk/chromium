@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteDataCacheFacadeFactory implementation
+// summary: Implements the profile-keyed service factory that creates a SiteDataCacheFacade per browser context and manages the shared site data cache factory lifetime.
+// ---
+
 #include "chrome/browser/performance_manager/persistence/site_data/site_data_cache_facade_factory.h"
 
 #include "base/auto_reset.h"

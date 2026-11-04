@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CPU health tracker unit tests
+// summary: Unit tests for the CPU health tracker verifying health status changes, CPU usage recording, and tab actionability using status waiters and test harness helpers.
+// ---
+
 #include "chrome/browser/performance_manager/user_tuning/cpu_health_tracker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cannot discard reason implementation
+// summary: Implements conversion of CannotDiscardReason enum values to human-readable strings explaining why a tab cannot be discarded.
+// ---
+
 #include "chrome/browser/performance_manager/policies/cannot_discard_reason.h"
 
 #include "base/notreached.h"

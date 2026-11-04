@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Urgent page discarding policy unit tests
+// summary: Unit tests verifying that the urgent page discarding policy discards tabs on critical memory pressure but not on moderate pressure.
+// ---
+
 #include "chrome/browser/performance_manager/policies/urgent_page_discarding_policy.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake memory saver mode delegate implementation
+// summary: Implements a fake memory saver mode delegate that records the last memory saver mode state and aggressiveness for tests.
+// ---
+
 #include "chrome/browser/performance_manager/test_support/fake_memory_saver_mode_delegate.h"
 
 namespace performance_manager::user_tuning {

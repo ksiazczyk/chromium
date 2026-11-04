@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Chrome performance manager
+summary: Defines the performance_manager source set, listing public headers and platform-specific dependencies for Android, ChromeOS and Windows builds.

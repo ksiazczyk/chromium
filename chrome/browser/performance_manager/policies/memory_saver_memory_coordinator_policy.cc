@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory Saver memory coordinator policy implementation
+// summary: Implements a coordinator policy that scales memory limits of stateful consumers according to Memory Saver Mode aggressiveness.
+// ---
+
 #include "chrome/browser/performance_manager/policies/memory_saver_memory_coordinator_policy.h"
 
 #include <string_view>

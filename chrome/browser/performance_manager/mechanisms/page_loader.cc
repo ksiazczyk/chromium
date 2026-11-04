@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page loader implementation
+// summary: Implements loading a tab's WebContents if unloaded and computing the page nodes to load, including all tabs in a split view on non-Android platforms.
+// ---
+
 #include "chrome/browser/performance_manager/mechanisms/page_loader.h"
 
 #include "base/check_is_test.h"

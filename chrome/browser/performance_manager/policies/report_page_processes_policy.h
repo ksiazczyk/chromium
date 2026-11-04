@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page process reporting policy declarations
+// summary: Declares the policy that sends page process lists to ChromeOS resourced for browser memory usage estimation.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_REPORT_PAGE_PROCESSES_POLICY_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_REPORT_PAGE_PROCESSES_POLICY_H_
 

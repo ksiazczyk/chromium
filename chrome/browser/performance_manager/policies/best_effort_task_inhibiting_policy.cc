@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Best effort task inhibiting policy implementation
+// summary: Implements a policy that fences best-effort tasks during page loads or user input while guaranteeing a minimum fence-free duration per period to avoid task starvation.
+// ---
+
 #include "chrome/browser/performance_manager/policies/best_effort_task_inhibiting_policy.h"
 
 #include "base/feature_list.h"

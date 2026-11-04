@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Termination target policy declaration
+// summary: Declares the policy that gives partition_alloc a termination target on commit failure, preferring large, discardable, least recently visible renderers.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_TERMINATION_TARGET_POLICY_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_TERMINATION_TARGET_POLICY_H_
 

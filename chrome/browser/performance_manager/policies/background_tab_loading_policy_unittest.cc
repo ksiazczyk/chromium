@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background tab loading policy unit tests
+// summary: Unit tests for the background tab loading policy using a mock page loader to verify scheduling, prioritization, and loading of restored tabs.
+// ---
+
 #include "chrome/browser/performance_manager/policies/background_tab_loading_policy.h"
 
 #include <map>

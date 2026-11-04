@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transient keep-alive policy implementation
+// summary: Implements temporary keep-alive of empty renderer processes for reuse, managing timers, pending reuse ref counts and eviction limits.
+// ---
+
 #include "chrome/browser/performance_manager/policies/transient_keep_alive_policy.h"
 
 #include "base/feature_list.h"

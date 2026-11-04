@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User performance tuning notifier implementation
+// summary: Implements graph observers that notify the tuning manager when the tab count or total resident set size crosses a configured threshold.
+// ---
+
 #include "chrome/browser/performance_manager/user_tuning/user_performance_tuning_notifier.h"
 
 #include <memory>

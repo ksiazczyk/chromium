@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Working set trimmer policy unit tests
+// summary: Unit tests for the working set trimmer policy, verifying last-trim-time tracking on process nodes and that trimming is attempted when all frames in a process are frozen.
+// ---
+
 #include "chrome/browser/performance_manager/policies/working_set_trimmer_policy.h"
 
 #include <memory>

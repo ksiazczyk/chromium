@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page load metrics observer browser tests
+// summary: Browser tests verifying page load metric counting via histogram and UKM recorders, including that prerendering does not count as a page load.
+// ---
+
 #include "chrome/browser/performance_manager/observers/page_load_metrics_observer.h"
 
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

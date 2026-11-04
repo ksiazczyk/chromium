@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TerminationTargetSetter browser tests
+// summary: Browser tests verifying that a renderer is terminated with the expected result code on commit failure and that resetting the target prevents termination.
+// ---
+
 #include "chrome/browser/performance_manager/mechanisms/termination_target_setter.h"
 
 #include "base/test/test_timeouts.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background tab loading policy helpers implementation
+// summary: Implements helper functions that compute the maximum number of simultaneous tab loads based on CPU cores and an age score for prioritizing background tabs.
+// ---
+
 #include "chrome/browser/performance_manager/policies/background_tab_loading_policy_helpers.h"
 
 #include <math.h>

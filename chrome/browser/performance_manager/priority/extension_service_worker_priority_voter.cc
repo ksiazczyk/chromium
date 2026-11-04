@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension service worker priority voter implementation
+// summary: Implements a voter that boosts extension service workers holding the webRequestBlocking permission to USER_BLOCKING process priority.
+// ---
+
 #include "chrome/browser/performance_manager/priority/extension_service_worker_priority_voter.h"
 
 #include "components/performance_manager/public/graph/graph.h"

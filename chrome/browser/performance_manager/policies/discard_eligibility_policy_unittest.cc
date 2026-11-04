@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discard eligibility policy unit tests
+// summary: Unit tests covering PageNodeSortProxy ordering and the discard eligibility policy's CanDiscard results across eligible, protected, and disallowed pages.
+// ---
+
 #include "chrome/browser/performance_manager/policies/discard_eligibility_policy.h"
 
 #include <memory>

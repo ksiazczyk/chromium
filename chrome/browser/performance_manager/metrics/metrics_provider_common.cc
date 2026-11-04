@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager common metrics provider implementation
+// summary: Implements MetricsProviderCommon, recording accessibility mode flag histograms and Mac system memory metrics for UMA uploads.
+// ---
+
 #include "chrome/browser/performance_manager/metrics/metrics_provider_common.h"
 
 #include "base/byte_size.h"

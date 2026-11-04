@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile discard opt-out list helper implementation
+// summary: Merges user and managed tab discarding exception preferences and applies the resulting patterns to the discard eligibility policy.
+// ---
+
 #include "chrome/browser/performance_manager/user_tuning/profile_discard_opt_out_list_helper.h"
 
 #include <algorithm>

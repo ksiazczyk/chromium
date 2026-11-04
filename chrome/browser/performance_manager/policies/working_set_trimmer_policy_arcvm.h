@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCVM working set trimmer policy header
+// summary: Declares WorkingSetTrimmerPolicyArcVm, the ArcVmDelegate that determines when the Android VM is eligible for working set reclaim.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_WORKING_SET_TRIMMER_POLICY_ARCVM_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_WORKING_SET_TRIMMER_POLICY_ARCVM_H_
 

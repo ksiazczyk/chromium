@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake child process tuning delegate header
+// summary: Declares a fake child process tuning delegate that records battery saver mode state into a boolean flag for tests.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_TEST_SUPPORT_FAKE_CHILD_PROCESS_TUNING_DELEGATE_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_TEST_SUPPORT_FAKE_CHILD_PROCESS_TUNING_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page discarding test utilities implementation
+// summary: Implements helpers that make page nodes discardable and graph test harnesses, including a mock page discarder, for page discarding tests.
+// ---
+
 #include "chrome/browser/performance_manager/test_support/page_discarding_utils.h"
 
 #include <algorithm>

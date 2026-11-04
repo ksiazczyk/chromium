@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory Saver memory coordinator policy class declaration
+// summary: Declares MemorySaverMemoryCoordinatorPolicy, which caps memory consumer limits at 25, 50, or 75 percent when Memory Saver is active.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_MEMORY_SAVER_MEMORY_COORDINATOR_POLICY_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_POLICIES_MEMORY_SAVER_MEMORY_COORDINATOR_POLICY_H_
 

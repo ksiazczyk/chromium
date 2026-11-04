@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake power monitor source implementation
+// summary: Implements a fake power monitor source that reports a configurable battery power status and fires power events for tests.
+// ---
+
 #include "chrome/browser/performance_manager/test_support/fake_power_monitor_source.h"
 
 namespace performance_manager {

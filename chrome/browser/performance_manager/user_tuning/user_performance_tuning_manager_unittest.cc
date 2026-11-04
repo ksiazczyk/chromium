@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User performance tuning manager unit tests
+// summary: Unit tests for memory saver mode and tab freezing preference handling in the user performance tuning manager.
+// ---
+
 #include "chrome/browser/performance_manager/public/user_tuning/user_performance_tuning_manager.h"
 
 #include <memory>

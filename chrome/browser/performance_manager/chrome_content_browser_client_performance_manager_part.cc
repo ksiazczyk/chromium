@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content browser client part exposing performance manager interfaces
+// summary: Exposes performance manager Mojo interfaces to renderer and child browser processes and creates process nodes through the performance manager registry.
+// ---
+
 #include "chrome/browser/performance_manager/public/chrome_content_browser_client_performance_manager_part.h"
 
 #include "components/performance_manager/embedder/binders.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site data test harness implementation
+// summary: Implements a test harness for the site data database plus helpers that mark web contents loaded, unloaded, or with expired observation windows.
+// ---
+
 #include "chrome/browser/performance_manager/test_support/site_data_utils.h"
 #include <memory>
 

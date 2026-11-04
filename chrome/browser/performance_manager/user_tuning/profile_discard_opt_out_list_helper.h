@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile discard opt-out list helper header
+// summary: Declares a helper that observes per-profile discard opt-out preferences and updates the discard eligibility policy accordingly.
+// ---
+
 #ifndef CHROME_BROWSER_PERFORMANCE_MANAGER_USER_TUNING_PROFILE_DISCARD_OPT_OUT_LIST_HELPER_H_
 #define CHROME_BROWSER_PERFORMANCE_MANAGER_USER_TUNING_PROFILE_DISCARD_OPT_OUT_LIST_HELPER_H_
 

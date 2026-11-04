@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User tuning utility functions
+// summary: Provides helpers for battery saver state, refresh rate throttling, discard eligibility reasons, and discarding pages in the performance manager.
+// ---
+
 #include "chrome/browser/performance_manager/public/user_tuning/user_tuning_utils.h"
 
 #include <optional>

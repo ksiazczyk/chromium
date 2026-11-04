@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Performance monitor build configuration
+summary: GN build file defining the performance_monitor source set with platform-specific helpers and its unit_tests target.

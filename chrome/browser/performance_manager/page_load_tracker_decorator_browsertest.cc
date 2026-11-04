@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page load tracker decorator browser tests
+// summary: Integration browser tests verifying that Chrome updates PageNode loading state on navigation, observing transitions until the page reaches kLoadedIdle.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/process/process.h"
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics observer implementation
+// summary: Implements the performance manager page load metrics observer, recording UKM and Stability.PageLoads histogram metrics per WebContents type and navigation type.
+// ---
+
 #include "chrome/browser/performance_manager/observers/page_load_metrics_observer.h"
 
 #include "base/metrics/histogram_functions.h"

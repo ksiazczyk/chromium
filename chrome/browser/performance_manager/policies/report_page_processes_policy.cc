@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page process reporting policy
+// summary: Reports the browser's page process list to the ChromeOS resourced daemon with throttling so resourced can estimate browser memory usage.
+// ---
+
 #include "chrome/browser/performance_manager/policies/report_page_processes_policy.h"
 
 #include <algorithm>

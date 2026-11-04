@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy features for ChromeOS memory trimming
+// summary: Defines ChromeOS feature flags and field trial parameters for trimming process working sets, ARC processes and ARCVM under memory pressure.
+// ---
+
 #include "chrome/browser/performance_manager/policies/policy_features.h"
 
 #include "base/feature_list.h"
