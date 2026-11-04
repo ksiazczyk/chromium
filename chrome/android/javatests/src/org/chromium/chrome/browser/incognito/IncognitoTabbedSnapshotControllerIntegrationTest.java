@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito tabbed snapshot controller integration tests
+// summary: Parameterized integration tests verifying that incognito tabs set the window FLAG_SECURE under enabled and disabled enterprise screenshot protection.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import static org.junit.Assert.assertFalse;

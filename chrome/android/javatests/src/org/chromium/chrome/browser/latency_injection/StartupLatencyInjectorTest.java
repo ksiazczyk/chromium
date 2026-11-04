@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StartupLatencyInjectorTest
+// summary: Android instrumentation test verifying that startup latency injection applies to both cold and warm Chrome starts by checking the main icon launch wait-time histogram records.
+// ---
+
 package org.chromium.chrome.browser.latency_injection;
 
 import androidx.test.filters.LargeTest;

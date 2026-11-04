@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageInfoView dark mode tests
+// summary: Render tests checking that the page info dialog is displayed correctly in dark mode and other theme configurations.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

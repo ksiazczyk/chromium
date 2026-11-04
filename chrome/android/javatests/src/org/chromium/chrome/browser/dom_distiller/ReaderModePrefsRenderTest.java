@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader Mode prefs view render tests
+// summary: Render tests for the Reader Mode preferences view with toggle links enabled and disabled.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import androidx.test.filters.MediumTest;

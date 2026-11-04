@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display cutout tests
+// summary: JUnit tests verifying that viewport-fit values auto, contain, and cover produce the expected safe area and display cutout layout mode in Chrome on Android.
+// ---
+
 package org.chromium.chrome.browser.display_cutout;
 
 import android.os.Build.VERSION_CODES;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB chooser dialog tests
+// summary: Instrumentation tests for the USB chooser dialog, covering device selection, dialog cancellation and help page loading.
+// ---
+
 package org.chromium.chrome.browser.device_dialog;
 
 import static org.mockito.Mockito.mock;

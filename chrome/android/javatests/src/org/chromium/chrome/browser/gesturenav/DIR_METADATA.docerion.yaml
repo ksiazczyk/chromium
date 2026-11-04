@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Gesture navigation tests directory metadata
+summary: Metadata for the gesture navigation test directory, setting the monorail component and Buganizer component ID.

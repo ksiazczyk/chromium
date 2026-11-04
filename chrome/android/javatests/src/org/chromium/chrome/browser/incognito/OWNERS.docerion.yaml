@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Incognito tests OWNERS
+summary: Per-file OWNERS rules delegating review of leakage tests and IncognitoDataTestUtils to the chrome browser incognito OWNERS file.

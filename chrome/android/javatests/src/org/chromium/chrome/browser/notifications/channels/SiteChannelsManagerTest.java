@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: SiteChannelsManager instrumentation tests
+// summary: Instrumentation unit tests for SiteChannelsManager that verify site notification channel behavior against the real Android NotificationManager, including channel creation, deletion and migration.
+// ---
+
 package org.chromium.chrome.browser.notifications.channels;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page sign-in promo tests
+// summary: Parameterized integration tests for the sign-in promo coordinator launched from the new tab page entry point.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static androidx.test.espresso.Espresso.onView;

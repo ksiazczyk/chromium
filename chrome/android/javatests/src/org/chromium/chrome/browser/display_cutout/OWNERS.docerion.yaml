@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the display cutout test directory
+summary: Owners file that references the OWNERS file of the corresponding display cutout source directory.

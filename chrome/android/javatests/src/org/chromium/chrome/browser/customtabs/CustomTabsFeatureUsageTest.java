@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabsFeatureUsage tests
+// summary: Instrumentation tests checking that CustomTabsFeatureUsage records the expected CustomTabs.FeatureUsage histogram entries for normal and incognito custom tabs.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.app.Activity;

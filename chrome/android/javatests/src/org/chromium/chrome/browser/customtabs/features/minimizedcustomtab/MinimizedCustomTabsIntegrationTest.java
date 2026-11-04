@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimized Custom Tabs integration tests
+// summary: Instrumentation test that verifies the Minimized Custom Tabs feature, checking that tapping the minimize button puts the Custom Tab into picture-in-picture mode with the card view visible.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.minimizedcustomtab;
 
 import static androidx.test.espresso.action.ViewActions.click;

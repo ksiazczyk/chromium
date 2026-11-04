@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocaleManagerTest
+// summary: JUnit integration tests for LocaleManager covering search engine promo display and snackbar behavior on device search engine updates.
+// ---
+
 package org.chromium.chrome.browser.locale;
 
 import androidx.test.filters.MediumTest;

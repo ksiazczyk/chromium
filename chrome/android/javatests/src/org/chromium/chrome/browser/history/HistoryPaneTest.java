@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History pane transit tests
+// summary: Instrumented transit tests for the Hub's history pane on Android, covering the empty state, displayed history entries, and history search.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static androidx.test.espresso.Espresso.onView;

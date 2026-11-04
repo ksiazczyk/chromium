@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Partner homepage unit tests
+// summary: Unit test suite for partner homepage behavior, including default homepage and provider configuration cases.
+// ---
+
 package org.chromium.chrome.browser.partnercustomizations;
 
 import static org.chromium.chrome.browser.partnercustomizations.BasePartnerBrowserCustomizationUnitTestRule.DEFAULT_TIMEOUT_MS;

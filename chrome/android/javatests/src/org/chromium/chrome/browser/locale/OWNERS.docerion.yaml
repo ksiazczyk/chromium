@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the locale Java tests
+summary: Redirects code ownership to the shared OWNERS file of the locale Java source directory.

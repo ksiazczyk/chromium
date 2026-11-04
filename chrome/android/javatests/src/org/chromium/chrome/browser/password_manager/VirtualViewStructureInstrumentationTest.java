@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual view structure instrumentation test
+// summary: Verifies the metrics logged for the AutofillVirtualViewStructure feature when tabs are opened.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import androidx.test.filters.SmallTest;

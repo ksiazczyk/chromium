@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LaunchFailedActivityTest
+// summary: Integration tests verifying that native library load failures raise the expected exceptions and launch the LaunchFailedActivity.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import android.content.Context;

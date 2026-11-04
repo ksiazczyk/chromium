@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test observer for First Run activity state changes
+// summary: Test helper that records FirstRunActivity callbacks such as page jumps and terms-of-service acceptance so tests can wait on and verify them.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import org.chromium.base.test.util.CallbackHelper;

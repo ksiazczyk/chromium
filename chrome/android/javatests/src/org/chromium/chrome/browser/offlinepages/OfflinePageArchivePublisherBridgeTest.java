@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflinePageArchivePublisherBridge tests
+// summary: Instrumentation tests for OfflinePageArchivePublisherBridge covering saving pages offline and publishing their archives.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import androidx.test.filters.SmallTest;

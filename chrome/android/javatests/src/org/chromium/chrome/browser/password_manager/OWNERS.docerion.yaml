@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Password manager tests OWNERS
+summary: Points to the OWNERS file of the corresponding password manager source directory for reviewer assignment.

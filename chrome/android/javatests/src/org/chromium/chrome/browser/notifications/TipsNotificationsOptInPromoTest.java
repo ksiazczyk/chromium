@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tips notifications opt-in promo tests
+// summary: Integration and render tests for the tips notifications opt-in promo bottom sheet, including dismissal, close and opt-in flows.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static androidx.test.espresso.intent.Intents.intending;

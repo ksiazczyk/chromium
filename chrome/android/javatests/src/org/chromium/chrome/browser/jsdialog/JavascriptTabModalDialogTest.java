@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab modal JavaScript dialog tests
+// summary: Android instrumentation test suite verifying the display and behavior of tab modal JavaScript alert, confirm, and prompt dialogs in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.jsdialog;
 
 import static androidx.test.espresso.Espresso.onView;

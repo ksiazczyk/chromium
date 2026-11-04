@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoDownloadLeakageTest
+// summary: Parameterized instrumentation test verifying that download entries do not leak between regular and incognito tab and custom tab activity pairs.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import static androidx.test.espresso.action.ViewActions.click;

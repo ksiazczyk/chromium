@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screenshot capture test helper
+// summary: JNI helper that receives screenshots captured by the native side for use in navigation screenshot tests.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.graphics.Bitmap;

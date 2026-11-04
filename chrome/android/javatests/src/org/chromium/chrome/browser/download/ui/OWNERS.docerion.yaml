@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the download UI test directory
+summary: Lists the code owner responsible for reviewing changes in the Chrome Android download UI test directory.

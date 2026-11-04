@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaViewerUtils integration tests
+// summary: Integration tests for media viewer intents in custom tabs, checking light and dark mode theming behavior.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.app.Activity;

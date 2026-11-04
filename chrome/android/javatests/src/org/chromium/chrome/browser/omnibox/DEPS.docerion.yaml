@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for omnibox Android tests
+summary: Grants the omnibox Android test directory access to AutocompleteMatchBuilder from the components omnibox javatests for building test suggestions.

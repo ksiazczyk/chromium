@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passwords preference render tests
+// summary: Public Transit render tests checking the passwords preference item in Chrome's autofill and passwords settings screen.
+// ---
+
 package org.chromium.chrome.browser.password_manager.settings;
 
 import static org.mockito.Mockito.any;

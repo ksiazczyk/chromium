@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectivityCheckerTest
+// summary: JUnit tests checking ConnectivityChecker results over the system and Chrome network stacks for 204, 200, 302 responses and slow or timed-out servers.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import static org.chromium.chrome.browser.feedback.ConnectivityCheckerTestRule.TIMEOUT_MS;

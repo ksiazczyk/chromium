@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: InputOnVizTest
+// summary: Android instrumentation test verifying gesture and scroll input handling in Chrome when the InputOnViz feature is enabled, using gesture state listeners and touch listeners on a long test page.
+// ---
+
 package org.chromium.chrome.browser.input;
 
 import android.os.Build;

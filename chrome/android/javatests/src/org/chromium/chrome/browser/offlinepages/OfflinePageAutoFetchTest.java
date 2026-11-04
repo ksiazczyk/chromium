@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline page auto-fetch tests
+// summary: Instrumentation tests for auto-fetching pages on net error pages, including notification and device condition behavior.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import android.content.Intent;

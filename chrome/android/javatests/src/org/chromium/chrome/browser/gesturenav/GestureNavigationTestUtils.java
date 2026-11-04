@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gesture navigation test utilities
+// summary: Utility class that simulates edge swipes and enables gestural navigation so tests can exercise history navigation.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.graphics.Point;

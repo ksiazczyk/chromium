@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectivityDetectorTest
+// summary: JUnit4 instrumentation tests covering ConnectivityDetector connection state detection, HTTP probes and captive portal handling.
+// ---
+
 package org.chromium.chrome.browser.net.connectivitydetector;
 
 import androidx.test.filters.MediumTest;

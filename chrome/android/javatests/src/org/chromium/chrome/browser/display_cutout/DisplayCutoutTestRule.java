@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display cutout test rule
+// summary: Custom JUnit test rule that simulates a display cutout so cutout behavior can be tested without a physical device that has a cutout.
+// ---
+
 package org.chromium.chrome.browser.display_cutout;
 
 import android.graphics.Rect;

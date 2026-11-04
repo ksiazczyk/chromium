@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab activity type test utilities
+// summary: Helper for instrumentation tests that creates the right activity test rule and launches webapp, WebAPK, custom tab, and trusted web activity types for a given URL.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.Intent;

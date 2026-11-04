@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab deferred startup test
+// summary: Instrumentation test checking that the activity tab has finished loading when deferred startup tasks are queued on the idle handler.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.app.Activity;

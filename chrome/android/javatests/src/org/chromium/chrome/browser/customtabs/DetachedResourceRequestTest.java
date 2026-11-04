@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DetachedResourceRequest tests
+// summary: Instrumentation tests for detached resource requests in custom tabs, covering parallel requests, safe browsing behavior and cookie controls.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.chromium.components.content_settings.PrefNames.COOKIE_CONTROLS_MODE;

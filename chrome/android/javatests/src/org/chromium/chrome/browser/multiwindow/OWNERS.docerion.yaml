@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for multiwindow tests
+summary: Points to the OWNERS file of the corresponding multiwindow source directory so the tests inherit its reviewer ownership.

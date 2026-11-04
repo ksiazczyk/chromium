@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectionInfoView tests
+// summary: Android instrumented test verifying that the ConnectionInfoView dialog can be instantiated and shown for a tab's web contents.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import androidx.test.filters.MediumTest;

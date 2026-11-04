@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab tab persistence policy test
+// summary: Instrumentation test for the custom tab persistence policy, checking state directory handling and tab state file management across profiles.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

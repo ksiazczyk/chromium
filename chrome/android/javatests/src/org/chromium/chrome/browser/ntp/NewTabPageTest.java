@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page tests
+// summary: Android instrumentation tests covering new tab page behavior such as the logo, most-visited tiles, omnibox, and memory pressure.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static androidx.test.espresso.Espresso.onView;

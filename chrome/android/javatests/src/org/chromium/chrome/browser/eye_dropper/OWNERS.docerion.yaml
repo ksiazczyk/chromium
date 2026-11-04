@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Eye dropper test directory owners
+summary: OWNERS file for the eye_dropper test directory that delegates review ownership to the embedder support and eye dropper component OWNERS files.

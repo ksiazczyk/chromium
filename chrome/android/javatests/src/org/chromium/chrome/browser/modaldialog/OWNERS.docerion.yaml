@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the modal dialog test folder
+summary: OWNERS file that delegates review ownership to the modal dialog OWNERS file in ui/android.

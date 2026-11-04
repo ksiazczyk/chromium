@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test download directory provider
+// summary: Test helper extending DownloadDirectoryProvider to return an arbitrary list of download directory options during tests.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import org.chromium.base.Callback;

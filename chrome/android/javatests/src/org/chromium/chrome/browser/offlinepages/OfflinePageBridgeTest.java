@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflinePageBridge tests
+// summary: Instrumentation tests for OfflinePageBridge covering saving, deleting and observing offline page model changes per profile.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import android.util.Base64;

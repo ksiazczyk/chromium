@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History WebUI render test
+// summary: Parameterized render tests capturing screenshots of the History WebUI surface on Android desktop, including night mode themes and browsing data scenarios.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static org.junit.Assert.assertFalse;

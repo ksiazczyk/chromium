@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the history tests directory
+summary: Points to the OWNERS file of the history source directory so the tests share the same code owners.

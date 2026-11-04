@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecentTabsTest
+// summary: Integration tests for the Last N feature of Offline Pages, checking that snapshots are saved when tabs are switched or hidden and not saved when tabs are closed.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import androidx.test.filters.MediumTest;

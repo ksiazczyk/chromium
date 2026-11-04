@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Download test directory metadata
+summary: Directory metadata file that mixes in the common metadata from the shared download components.

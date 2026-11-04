@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SelectPopupOtherContentViewTest
+// summary: Android instrumentation test checking that a shown select popup is not closed when an unrelated ContentView and its WebContents are created and destroyed.
+// ---
+
 package org.chromium.chrome.browser.input;
 
 import androidx.test.filters.LargeTest;

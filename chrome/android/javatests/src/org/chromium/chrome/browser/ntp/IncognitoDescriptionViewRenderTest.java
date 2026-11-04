@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito description view render test
+// summary: Render tests of the incognito description view on the incognito new tab page, parameterized for night mode and covering the tracking protection card.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import android.app.Activity;

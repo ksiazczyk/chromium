@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome download feature tests
+// summary: Instrumentation tests that download files through Chrome and verify download state, notifications, and resulting files.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.chromium.chrome.test.util.ChromeTabUtils.getTabCountOnUiThread;

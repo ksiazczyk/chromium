@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History tab helper tests
+// summary: Instrumented tests for the history tab helper, checking app-triggered history tabs and app ID handling in ChromeTabbedActivity.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import android.app.ActivityOptions;

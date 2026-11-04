@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Find in page tests OWNERS pointer
+summary: OWNERS file that redirects ownership to the OWNERS file of the corresponding findinpage directory under chrome/android/java/src.

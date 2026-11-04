@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Distilled page preferences tests
+// summary: Instrumentation tests for DistilledPagePrefs covering theme, font family, scaling, link settings and observer notifications.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import androidx.test.filters.SmallTest;

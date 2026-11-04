@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find in Page Android instrumentation tests
+// summary: Android instrumentation test class covering Chrome's Find in Page behavior, using Espresso-based transit test rules to open pages, run find queries, and verify results.
+// ---
+
 package org.chromium.chrome.browser.findinpage;
 
 import static androidx.test.espresso.Espresso.onView;

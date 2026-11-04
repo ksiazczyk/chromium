@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CloseWatcherTest.java
+// summary: Android instrumentation test verifying that the system back button triggers CloseWatcher close events and closes modal dialog elements in Chrome.
+// ---
+
 package org.chromium.chrome.browser.javascript;
 
 import androidx.test.filters.MediumTest;

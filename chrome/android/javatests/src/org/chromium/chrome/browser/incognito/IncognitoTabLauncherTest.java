@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoTabLauncherTest
+// summary: Instrumentation tests for IncognitoTabLauncher, covering enabling and disabling the component and launching a new incognito tab.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import static org.mockito.Mockito.any;

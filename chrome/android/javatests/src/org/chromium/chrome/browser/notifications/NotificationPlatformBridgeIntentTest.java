@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationPlatformBridge intent instrumentation tests
+// summary: Instrumentation tests verifying that Android notification preference intents open the correct site or category notification settings in Chrome.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import android.app.Activity;

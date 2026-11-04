@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Paint preview test owners
+summary: OWNERS file that delegates review ownership to the components/paint_preview OWNERS file.

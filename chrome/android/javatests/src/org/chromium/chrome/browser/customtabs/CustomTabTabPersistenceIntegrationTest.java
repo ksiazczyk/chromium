@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab tab persistence integration test
+// summary: Integration test verifying that custom tab state and metadata files are deleted when the custom tab activity is closed.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import androidx.test.core.app.ApplicationProvider;

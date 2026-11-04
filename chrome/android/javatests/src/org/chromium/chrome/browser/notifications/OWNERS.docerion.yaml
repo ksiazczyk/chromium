@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer for notifications tests
+summary: Points to the OWNERS file of the notifications source directory to reuse its list of code owners for these tests.

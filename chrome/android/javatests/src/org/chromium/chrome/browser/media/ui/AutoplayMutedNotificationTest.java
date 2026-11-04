@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutoplayMutedNotificationTest
+// summary: Android integration test verifying that muted autoplaying media shows no media notification and does not take audio focus in Chrome.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import android.content.Context;

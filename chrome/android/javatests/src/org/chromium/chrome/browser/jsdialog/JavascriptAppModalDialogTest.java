@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App modal JavaScript dialog tests
+// summary: Android instrumentation test suite verifying the display and behavior of app modal JavaScript onbeforeunload dialogs in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.jsdialog;
 
 import static androidx.test.espresso.action.ViewActions.click;

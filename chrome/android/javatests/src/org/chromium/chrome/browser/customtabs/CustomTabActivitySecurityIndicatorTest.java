@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab security indicator tests
+// summary: Instrumentation test checking that the security indicator icon is hidden in the Custom Tab toolbar.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.hamcrest.Matchers.is;

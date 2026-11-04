@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: NTP tests directory metadata
+summary: Points the Chrome Android NTP test directory to the common metadata mixins defined for the NTP source directory.

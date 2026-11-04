@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Servicification download resumption test
+// summary: Instrumentation test verifying that an interrupted download can be resumed while the browser runs in minimal (reduced) mode.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.graphics.Bitmap;

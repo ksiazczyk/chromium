@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to the main devtools source directory
+summary: Redirects code ownership for the Android DevTools tests directory to the OWNERS file in the corresponding main Java source directory.

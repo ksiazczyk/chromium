@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeTabbedActivityHWATest
+// summary: Instrumentation test verifying that ChromeTabbedActivity is hardware accelerated only on high-end devices, using a transit test rule and shared assertion helpers.
+// ---
+
 package org.chromium.chrome.browser.hardware_acceleration;
 
 import androidx.test.filters.SmallTest;

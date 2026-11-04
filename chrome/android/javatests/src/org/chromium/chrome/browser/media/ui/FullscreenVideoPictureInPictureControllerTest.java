@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenVideoPictureInPictureControllerTest
+// summary: Instrumented tests for Chrome's FullscreenVideoPictureInPictureController, covering entering and exiting picture-in-picture from fullscreen video.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted CDN publisher URL tests
+// summary: Tests publisher URL display and security state in the custom tab toolbar for Trusted CDN pages, including offline page and screenshot scenarios.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.test.espresso.assertion.ViewAssertions.matches;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab branding integration test
+// summary: Android instrumentation tests verifying Custom Tab branding behavior, including toast branding launch recording and toolbar branding rendering.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import android.content.Context;

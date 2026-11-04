@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Page info test owners
+summary: OWNERS file that delegates review ownership for this directory to the owners of the page_info Android component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PictureInPictureActivity end-to-end browser tests
+// summary: End-to-end browser tests for entering and closing Picture-in-Picture during video playback and conferencing.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.junit.Assert.assertFalse;

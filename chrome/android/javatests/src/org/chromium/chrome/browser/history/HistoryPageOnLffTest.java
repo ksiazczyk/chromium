@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History page on large form factor test
+// summary: Instrumented Espresso tests for the History page on large form factor Android devices, covering navigation through tab switching and keyboard autofocus behaviour.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static androidx.test.espresso.Espresso.onView;

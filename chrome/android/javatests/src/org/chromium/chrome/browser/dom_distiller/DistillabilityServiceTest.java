@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Distillability service tests
+// summary: Android instrumentation tests verifying that the distillability service communicates correctly and shows the Reader Mode message.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import androidx.test.core.app.ApplicationProvider;

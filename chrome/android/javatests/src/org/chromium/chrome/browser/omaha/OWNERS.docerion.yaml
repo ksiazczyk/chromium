@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Omaha Android test directory
+summary: Delegates code ownership to the OWNERS file of the corresponding chrome/android/java Omaha source directory.

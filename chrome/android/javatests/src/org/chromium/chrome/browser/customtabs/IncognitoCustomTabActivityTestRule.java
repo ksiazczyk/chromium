@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoCustomTabActivityTestRule
+// summary: JUnit test rule extending CustomTabActivityTestRule to launch incognito custom tabs, emulate first-party sessions and override Google signing checks.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.mockito.Mockito.any;

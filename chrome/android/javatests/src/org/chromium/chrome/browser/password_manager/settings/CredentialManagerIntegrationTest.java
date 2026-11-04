@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential manager integration test
+// summary: Android integration test that verifies access to the credential manager from Chrome's password manager and safety check settings screens.
+// ---
+
 package org.chromium.chrome.browser.password_manager.settings;
 
 import static androidx.test.espresso.Espresso.onView;

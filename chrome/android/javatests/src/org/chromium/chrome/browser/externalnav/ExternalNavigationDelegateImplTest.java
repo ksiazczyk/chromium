@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExternalNavigationDelegateImplTest
+// summary: Instrumentation tests for ExternalNavigationDelegateImpl, covering pending incognito URL handling and request metadata set on external navigation intents.
+// ---
+
 package org.chromium.chrome.browser.externalnav;
 
 import static org.mockito.Mockito.doReturn;

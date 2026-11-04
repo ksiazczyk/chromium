@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageInfoDiscoverability tests
+// summary: Parameterized instrumented tests of how site permission interactions affect page info, including omnibox IPH and permission status handling.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import static org.chromium.components.permissions.PermissionDialogDelegate.getRequestTypeEnumSize;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tips notifications feature promo tests
+// summary: Integration and render tests for the tips notifications feature promo, covering bottom sheet display, navigation and related settings entry points.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app display cutout test rule
+// summary: Test rule that launches a WebappActivity with a configurable display mode to support the web app display cutout tests.
+// ---
+
 package org.chromium.chrome.browser.display_cutout;
 
 import android.content.Intent;

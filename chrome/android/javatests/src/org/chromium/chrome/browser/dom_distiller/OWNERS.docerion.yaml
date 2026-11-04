@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for dom_distiller tests
+summary: Ownership pointer that reuses the OWNERS file from the corresponding dom_distiller source directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectivityCheckerTestRule
+// summary: JUnit test rule that starts an embedded test server and exposes generated 200, 204, 302, 404 and slow-response URLs for connectivity tests.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import androidx.test.core.app.ApplicationProvider;

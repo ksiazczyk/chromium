@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for password manager settings tests
+summary: Metadata file that applies the shared COMMON_METADATA mixin to the password manager settings test directory.

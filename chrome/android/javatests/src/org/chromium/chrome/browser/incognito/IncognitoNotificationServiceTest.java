@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoNotificationServiceTest
+// summary: Instrumentation tests for the incognito notification service, covering the notification shown while incognito tabs are open and the clear-all intent.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import static org.junit.Assert.assertTrue;

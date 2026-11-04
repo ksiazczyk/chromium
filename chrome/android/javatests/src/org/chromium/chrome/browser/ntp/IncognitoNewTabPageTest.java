@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito new tab page tests
+// summary: Integration tests for the incognito new tab page, checking the third-party cookie blocking header and description text formatting across locales.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static androidx.test.espresso.Espresso.onView;

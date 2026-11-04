@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpdateMenuItemHelper tests
+// summary: Instrumentation tests for Chrome's update menu item helper, using mocked version and market URL getters to verify update prompt behavior.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.app.Activity;

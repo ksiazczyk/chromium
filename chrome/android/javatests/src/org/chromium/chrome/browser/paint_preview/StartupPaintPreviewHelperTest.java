@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StartupPaintPreviewHelperTest
+// summary: Android instrumentation tests verifying that paint previews are captured when Chrome is backgrounded and deleted when tabs are closed.
+// ---
+
 package org.chromium.chrome.browser.paint_preview;
 
 import androidx.test.filters.MediumTest;

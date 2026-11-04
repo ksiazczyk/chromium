@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome tab modal presenter instrumentation tests
+// summary: Espresso-based instrumentation tests for ChromeTabModalPresenter covering dialog showing, dismissal causes and presenter behavior.
+// ---
+
 package org.chromium.chrome.browser.modaldialog;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabActivityHWATest
+// summary: Instrumentation test verifying that CustomTabActivity is hardware accelerated only on high-end devices by launching a minimal custom tab and checking acceleration state.
+// ---
+
 package org.chromium.chrome.browser.hardware_acceleration;
 
 import androidx.test.core.app.ApplicationProvider;

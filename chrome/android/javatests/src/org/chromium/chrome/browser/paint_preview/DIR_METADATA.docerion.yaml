@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Paint preview test directory metadata
+summary: DIR_METADATA entry that inherits the common metadata of the //components/paint_preview component via mixins.

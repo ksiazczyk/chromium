@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadManagerService tests
+// summary: Instrumentation tests for DownloadManagerService using a mock notifier to check sequences of download notification calls.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.content.Context;

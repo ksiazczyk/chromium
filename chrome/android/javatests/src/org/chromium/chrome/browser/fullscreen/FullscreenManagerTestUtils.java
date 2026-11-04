@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenManagerTestUtils
+// summary: Test utility class providing helpers to scroll browser controls and wait for control positions in Chrome Android fullscreen tests.
+// ---
+
 package org.chromium.chrome.browser.fullscreen;
 
 import android.os.SystemClock;

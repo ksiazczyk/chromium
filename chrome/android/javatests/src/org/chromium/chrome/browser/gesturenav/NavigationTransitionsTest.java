@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation transitions end-to-end tests
+// summary: Parameterized end-to-end tests for default navigation transitions under gestural and three-button navigation paths.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import static com.google.common.truth.Truth.assertThat;

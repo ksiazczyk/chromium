@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EyeDropper API integration test for Android
+// summary: Integration test verifying that the EyeDropper API is defined on Android and that opening the eyedropper launches the system activity or rejects with AbortError depending on API level.
+// ---
+
 package org.chromium.chrome.browser.eye_dropper;
 
 import android.app.Activity;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to offlinepages owners
+summary: Chromium OWNERS file that delegates code ownership of the offline test directory to the owners listed in the offlinepages OWNERS file.

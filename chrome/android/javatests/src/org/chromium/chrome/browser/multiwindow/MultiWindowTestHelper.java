@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-window test helper utilities
+// summary: Helper utilities for multi-window tests, such as creating a second ChromeTabbedActivity and waiting for activities or tabs to appear.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.app.Activity;

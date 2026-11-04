@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Download tests directory owners
+summary: OWNERS file delegating ownership of the download tests to the shared download components owners.

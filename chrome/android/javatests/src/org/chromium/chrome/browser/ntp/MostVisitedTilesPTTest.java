@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Most visited tiles tests
+// summary: Instrumentation tests for the Most Visited Tiles module on the new tab page, covering tile clicks, histograms, and opening items in incognito.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import android.os.Build;

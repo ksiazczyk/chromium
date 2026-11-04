@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiWindow integration tests for Android N+
+// summary: Integration tests for Android N+ multi-window behavior in Chrome, including moving incognito tabs to another window and intent handling.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.chromium.base.test.util.Batch.PER_CLASS;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToastHWATest
+// summary: Instrumentation test checking that toasts, such as download notifications, do not trigger hardware acceleration on low-end devices, with some cases disabled pending a bug fix.
+// ---
+
 package org.chromium.chrome.browser.hardware_acceleration;
 
 import android.content.Context;

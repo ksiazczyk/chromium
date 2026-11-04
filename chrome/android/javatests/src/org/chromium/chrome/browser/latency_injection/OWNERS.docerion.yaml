@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for latency_injection tests
+summary: Delegates code ownership of the latency injection test directory to the OWNERS file of the corresponding source directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeBrowserInitializerTest
+// summary: Unit tests for ChromeBrowserInitializer covering synchronous initialization, asynchronous startup, and tasks deferred until the browser fully starts.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import androidx.test.filters.SmallTest;

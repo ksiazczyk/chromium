@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Omnibox test directory issue tracking metadata
+summary: Maps the omnibox Android test directory to the UI>Browser>Omnibox Monorail component and Buganizer component 1457180.

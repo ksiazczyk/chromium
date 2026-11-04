@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for omnibox Android tests
+summary: Delegates code ownership of the omnibox Android test directory to the owners of components/omnibox/browser/android.
