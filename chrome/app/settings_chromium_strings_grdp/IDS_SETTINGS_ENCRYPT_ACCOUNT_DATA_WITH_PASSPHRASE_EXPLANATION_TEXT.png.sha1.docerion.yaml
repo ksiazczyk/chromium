@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_ENCRYPT_ACCOUNT_DATA_WITH_PASSPHRASE_EXPLANATION_TEXT.png.sha1.
+type: data
+title: SHA-1 checksum for passphrase explanation image
+summary: Stores the SHA-1 hash that verifies the PNG screenshot referenced by the account data passphrase explanation string in Chromium settings.

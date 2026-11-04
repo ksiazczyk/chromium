@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_ACCOUNT_MANAGER_DESCRIPTION_V2.png.sha1.
+type: data
+title: SHA-1 checksum for account manager description image
+summary: Stores the SHA-1 hash that verifies the PNG screenshot referenced by the account manager description string in Chromium settings.
