@@ -2,6 +2,9 @@
 name: general/avoid-parameters-when-only-single-value-supported
 rubric: design
 severity: should_fix
+type: reference
+title: Avoid parameters when only a single value is supported
+summary: Design rule against declaring parameters or options when only one value is supported, recommending operation-specific naming instead.
 ---
 
 **Rule.** Do not declare a parameter or configuration option (such as a state

@@ -3,6 +3,9 @@ name: style-guide
 description: >-
   Expert in Chromium code editing following project style guides and best
   practices
+type: guide
+title: Chromium coding style
+summary: Skill definition instructing how to apply the applicable Chromium style guides when writing, editing, or reviewing code and to run git cl presubmit after major changes.
 ---
 
 # Chromium coding style

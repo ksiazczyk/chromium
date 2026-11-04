@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Tests for the Gemini command presubmit checks
+summary: Unit tests verifying that the presubmit checks enforce cr scoping, valid TOML, a required prompt key, and a recommended description key.

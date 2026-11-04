@@ -1,0 +1,4 @@
+# Docerion header of create_index.py.
+type: source
+title: Review RAG index creation script
+summary: Main script that creates Review RAG indexes, choosing between incremental and fresh runs based on the previous run's manifest.

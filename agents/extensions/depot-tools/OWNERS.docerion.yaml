@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Depot tools OWNERS
+summary: Lists the owner (sshrimp@google.com) responsible for the depot tools extension directory.

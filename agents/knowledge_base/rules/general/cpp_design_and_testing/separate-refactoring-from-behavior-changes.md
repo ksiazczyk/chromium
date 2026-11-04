@@ -2,6 +2,11 @@
 name: general/separate-refactoring-from-behavior-changes
 rubric: change_scope
 severity: should_fix
+type: guide
+title: Separate Refactoring from Behavior Changes
+summary: Change-scope rule requiring mechanical refactorings, cleanups, and independent functional changes to land in distinct, focused CLs rather than being bundled together.
+relations:
+  - references /testing/variations/PRESUBMIT.py
 ---
 
 **Rule.** Separate mechanical refactoring, modernization, and cleanups from

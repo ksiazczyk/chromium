@@ -1,3 +1,9 @@
+---
+type: readme
+title: Landmines Extension
+summary: Explains the extension that disables commands which crash or stall Gemini on large trees, lists each disabled command with its reason, and describes workarounds.
+---
+
 # Landmines Extension
 
 Aims to disable commands that tend to crash or stall gemini. Hopefully we can

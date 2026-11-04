@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'Gemini command: suggest a CL description'
+# summary: Defines a Gemini CLI command that uses the git upstream diff to draft a brief, concise Gerrit CL description.
+# ---
+
 description="Suggest a CL description"
 prompt = """
 @{agents/skills/cl-description/cl-description.md}

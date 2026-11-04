@@ -2,6 +2,9 @@
 name: general/separate-public-initiation-from-retry-execution
 rubric: design
 severity: should_fix
+type: guide
+title: Separate Public Initiation from Retry Execution
+summary: Design rule requiring asynchronous retry routines to split the public initiation method from internal attempt execution instead of re-invoking initiation with dummy callbacks on retries.
 ---
 
 **Rule.** When designing asynchronous retry routines or multi-attempt

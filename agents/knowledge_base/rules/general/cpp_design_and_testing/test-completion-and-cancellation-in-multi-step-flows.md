@@ -2,6 +2,13 @@
 name: general/test-completion-and-cancellation-in-multi-step-flows
 rubric: testing
 severity: should_fix
+type: guide
+title: Test completion and cancellation in multi-step flows
+summary: Rule to cover both sequential completion and intermediate cancellation or failure states in multi-step flows, ensuring dialogs are suppressed and callbacks fire.
+relations:
+  - references /chrome/test/data/extensions/api_test/webstore_private/install_child.html
+  - references /chrome/test/data/extensions/api_test/webstore_private/app.crx
+  - references /chrome/test/data/extensions/api_test/webstore_private/install_cancel_child.html
 ---
 
 **Rule.** When implementing multi-step user flows, wizard sequences, or chained

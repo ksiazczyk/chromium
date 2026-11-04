@@ -1,3 +1,9 @@
+---
+type: config
+title: GEMINI.md agent rules for command usage
+summary: Context file giving the Gemini agent rules such as using fdfind instead of find, suggesting rather than running installs, and never amending git commits.
+---
+
 Any time you want to use `find`, use `fdfind` instead.
 
 If running `fdfind` fails because the executable is missing, tell the

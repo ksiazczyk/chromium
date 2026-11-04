@@ -2,6 +2,11 @@
 name: general/centralize-platform-type-aliases-in-shared-headers
 rubric: design
 severity: should_fix
+type: reference
+title: Centralize Platform Type Aliases in Shared Headers
+summary: Design rule to define platform-abstracting type aliases in shared BUILDFLAG-guarded headers instead of duplicating function signatures across platforms.
+relations:
+  - references /base/environment.h
 ---
 
 **Rule.** Define platform-abstracting type aliases in a shared header (guarded

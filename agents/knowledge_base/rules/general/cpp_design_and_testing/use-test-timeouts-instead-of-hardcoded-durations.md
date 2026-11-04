@@ -2,6 +2,9 @@
 name: general/use-test-timeouts-instead-of-hardcoded-durations
 rubric: readability
 severity: should_fix
+type: reference
+title: Use TestTimeouts methods instead of hardcoded durations in tests
+summary: Rule to use TestTimeouts tiny, action, and action_max timeouts in tests instead of fixed durations to avoid flakiness on slow or instrumented builds.
 ---
 
 **Rule.** In unit and integration tests, use TestTimeouts methods (such as

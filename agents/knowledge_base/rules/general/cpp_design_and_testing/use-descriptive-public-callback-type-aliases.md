@@ -2,6 +2,12 @@
 name: general/use-descriptive-public-callback-type-aliases
 rubric: design
 severity: should_fix
+type: reference
+title: Use descriptive public callback type aliases named after domain entities
+summary: Rule to define a canonical, domain-named callback type alias on the primary class and reuse it across APIs instead of duplicate aliases or raw callback types.
+relations:
+  - references /base/metrics/histogram_delta_serialization.h
+  - references /base/metrics/histogram_base.h
 ---
 
 **Rule.** Define a descriptive public type alias on the primary domain class or

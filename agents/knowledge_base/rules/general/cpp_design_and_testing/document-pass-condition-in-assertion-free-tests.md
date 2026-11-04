@@ -2,6 +2,9 @@
 name: general/document-pass-condition-in-assertion-free-tests
 rubric: readability
 severity: nit
+type: reference
+title: Document pass condition in assertion-free tests
+summary: Coding rule advising an explanatory comment in tests without explicit GoogleTest assertions to clarify that passing means no crash or CHECK failure.
 ---
 
 **Rule.** In tests that lack explicit GoogleTest assertions (such as EXPECT\_\*

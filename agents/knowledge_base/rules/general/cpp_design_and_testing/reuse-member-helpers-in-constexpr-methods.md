@@ -2,6 +2,9 @@
 name: general/reuse-member-helpers-in-constexpr-methods
 rubric: design
 severity: should_fix
+type: guide
+title: Reuse Member Helpers in Constexpr Methods
+summary: Design rule requiring constexpr constructors and member functions to reuse member helper methods, marked constexpr themselves, rather than bypassing encapsulation with direct data member manipulation.
 ---
 
 **Rule.** When making constructors or member functions constexpr, reuse existing

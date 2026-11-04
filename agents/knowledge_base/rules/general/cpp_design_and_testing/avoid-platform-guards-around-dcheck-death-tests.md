@@ -2,6 +2,11 @@
 name: general/avoid-platform-guards-around-dcheck-death-tests
 rubric: readability
 severity: should_fix
+type: reference
+title: Avoid platform guards around DCHECK death tests
+summary: Readability rule to use Chromium's portable death test macros instead of raw EXPECT_DEATH with manual platform guards or MAYBE_ wrappers.
+relations:
+  - references /base/test/gtest_util.h
 ---
 
 **Rule.** In unit tests, use Chromium's portable death test macros from

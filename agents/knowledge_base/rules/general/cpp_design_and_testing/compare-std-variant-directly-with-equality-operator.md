@@ -2,6 +2,9 @@
 name: general/compare-std-variant-directly-with-equality-operator
 rubric: design
 severity: should_fix
+type: guide
+title: Compare std::variant Directly with Equality Operator
+summary: Rule directing developers to use std::variant's built-in equality operators instead of hand-rolled std::visit or std::get dispatch logic, with contrasting examples.
 ---
 
 **Rule.** Compare std::variant instances directly using operator== (or

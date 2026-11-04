@@ -2,6 +2,9 @@
 name: general/parameterize-helpers-instead-of-inlining-formatting
 rubric: design
 severity: should_fix
+type: guide
+title: Parameterize helpers instead of inlining formatting
+summary: Rule to extend existing string, path, and template formatting helpers with parameters rather than duplicating formatting logic at new call sites.
 ---
 
 **Rule.** When an existing helper function builds or formats strings, file

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Review RAG Indexer
+summary: Explains how the indexer builds indexes for the Review RAG service, covering run type determination and local git data processing.
+---
+
 # Review RAG Indexer
 
 This code is responsible for creating indexes for the Review RAG service. If

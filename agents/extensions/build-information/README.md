@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chromium Build Information
+summary: Documents the Python MCP server that reports Chromium build information such as host OS, architecture, and valid build directories, and gives sample prompts for direct and indirect usage.
+relations:
+  - documents /build/mcp_servers/build_information.py
+---
+
 # Chromium Build Information
 
 This is a Python MCP server which provides information related to Chromium

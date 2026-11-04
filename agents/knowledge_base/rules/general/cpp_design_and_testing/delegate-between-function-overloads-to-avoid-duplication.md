@@ -2,6 +2,9 @@
 name: general/delegate-between-function-overloads-to-avoid-duplication
 rubric: design
 severity: should_fix
+type: guide
+title: Delegate Between Function Overloads to Avoid Duplication
+summary: Rule requiring overloads, wrappers, and notifying method variants to delegate to a canonical or non-notifying implementation rather than duplicating logic.
 ---
 
 **Rule.** When introducing or maintaining function overloads (such as

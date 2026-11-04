@@ -2,6 +2,9 @@
 name: general/prefer-explicit-parameter-helpers-over-lambda-wrappers
 rubric: design
 severity: optional
+type: guide
+title: Prefer explicit parameter helpers over lambda wrappers
+summary: Rule to prefer overloads and template helpers with explicit input and output parameters over higher-order functions that mutate lambda-captured outputs.
 ---
 
 **Rule.** When factoring repetitive operations that share common pre- or

@@ -1,0 +1,6 @@
+# Docerion header of cipd_helpers_unittest.py.
+type: test
+title: Unit tests for cipd_helpers
+summary: Tests CIPD root initialization and package installation success and failure paths with mocked subprocess calls.
+relations:
+  - tests /agents/infra/review_rag_indexer/cipd_helpers.py

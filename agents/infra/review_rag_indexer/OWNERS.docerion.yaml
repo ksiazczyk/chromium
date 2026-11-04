@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Review RAG indexer
+summary: Lists the owners responsible for reviewing changes to the Review RAG indexer directory.

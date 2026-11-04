@@ -2,6 +2,9 @@
 name: general/prefer-assert-over-expect-before-dereference
 rubric: readability
 severity: should_fix
+type: guide
+title: Prefer ASSERT over EXPECT before dereferencing
+summary: Rule to use fatal ASSERT_* assertions for preconditions such as non-null pointers before dereferencing or invoking, avoiding crashes that obscure root causes.
 ---
 
 **Rule.** In test code, use fatal assertions (ASSERT\_*, such as ASSERT_TRUE,

@@ -2,6 +2,9 @@
 name: general/defer-complex-callee-modernization-to-follow-up-cl
 rubric: change_scope
 severity: should_fix
+type: guide
+title: Defer Complex Callee Modernization to Follow-up CL
+summary: Rule keeping spanification and API modernization changes scoped by deferring downstream callee refactors to follow-up CLs instead of writing awkward bridge calls.
 ---
 
 **Rule.** When modernizing APIs or spanifying call sites, do not expand the CL's

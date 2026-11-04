@@ -2,6 +2,9 @@
 name: general/log-errors-at-failure-point-in-helpers
 rubric: design
 severity: should_fix
+type: reference
+title: Log errors at the failure point in helpers
+summary: Design rule requiring helper functions to log specific error details at the internal point of failure while callers handle or propagate errors without duplicate logging.
 ---
 
 **Rule.** When handling error conditions in helper functions and their callers,

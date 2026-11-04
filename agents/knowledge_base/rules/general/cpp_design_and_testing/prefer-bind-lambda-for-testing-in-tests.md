@@ -2,6 +2,9 @@
 name: general/prefer-bind-lambda-for-testing-in-tests
 rubric: readability
 severity: nit
+type: guide
+title: Prefer base::BindLambdaForTesting in tests
+summary: Rule to prefer capturing lambdas via base::BindLambdaForTesting over BindOnce or BindRepeating with explicitly bound pointer and reference arguments in test code.
 ---
 
 **Rule.** In test code, prefer base::BindLambdaForTesting with a capturing

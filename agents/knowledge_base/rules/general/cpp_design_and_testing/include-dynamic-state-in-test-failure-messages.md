@@ -2,6 +2,9 @@
 name: general/include-dynamic-state-in-test-failure-messages
 rubric: readability
 severity: nit
+type: reference
+title: Include dynamic state in test failure messages
+summary: Readability rule advising streaming dynamic runtime state such as container sizes and counts into custom test assertion failure messages to make logs actionable.
 ---
 
 **Rule.** When providing custom failure messages for test assertions or test

@@ -1,0 +1,4 @@
+# Docerion header of gemini-extension.json.
+type: config
+title: Perf Gemini extension configuration
+summary: Registers the perf Gemini extension, pointing it at the Chrome Performance MCP server URL with Google credentials OAuth authentication.

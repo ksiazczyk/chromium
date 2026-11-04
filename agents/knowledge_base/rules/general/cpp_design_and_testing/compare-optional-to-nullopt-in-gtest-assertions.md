@@ -2,6 +2,9 @@
 name: general/compare-optional-to-nullopt-in-gtest-assertions
 rubric: readability
 severity: optional
+type: guide
+title: Compare Optional to nullopt in GTest Assertions
+summary: Rule recommending direct comparison of std::optional against std::nullopt or GMock matchers in GoogleTest assertions instead of has_value() checks for clearer failure output.
 ---
 
 **Rule.** In GoogleTest assertions, test whether an std::optional is engaged or

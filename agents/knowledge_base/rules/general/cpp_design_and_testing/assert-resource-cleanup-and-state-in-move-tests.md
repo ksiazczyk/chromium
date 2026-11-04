@@ -2,6 +2,9 @@
 name: general/assert-resource-cleanup-and-state-in-move-tests
 rubric: testing
 severity: should_fix
+type: reference
+title: Assert resource cleanup and state in move tests
+summary: Testing rule requiring distinct initial values, post-condition assertions, and scoped destruction checks when testing RAII and resource-moving operations.
 ---
 
 **Rule.** When unit testing RAII types, smart pointers, or resource management

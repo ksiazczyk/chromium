@@ -2,6 +2,9 @@
 name: general/use-create-for-testing-over-public-constructor
 rubric: readability
 severity: should_fix
+type: reference
+title: Use CreateForTesting factory instead of public constructor
+summary: Rule to keep constructors private with friend producer classes and expose a static CreateForTesting() factory when unit tests need direct instantiation.
 ---
 
 **Rule.** Keep constructors private and declare the intended producer class as a

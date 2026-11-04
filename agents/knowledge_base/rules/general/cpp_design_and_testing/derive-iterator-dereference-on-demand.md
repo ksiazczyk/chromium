@@ -2,6 +2,9 @@
 name: general/derive-iterator-dereference-on-demand
 rubric: design
 severity: should_fix
+type: guide
+title: Derive Iterator Dereference On Demand
+summary: Rule for custom iterators to compute dereferenced elements on demand in operator* via bounds-checked slicing instead of caching them in synchronized member fields.
 ---
 
 **Rule.** When implementing custom iterators or cursors over buffers,

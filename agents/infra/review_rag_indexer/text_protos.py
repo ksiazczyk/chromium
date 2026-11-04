@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Text proto parser for DIR_METADATA files
+# summary: Parses a limited subset of the text proto format used by DIR_METADATA files into dictionaries, avoiding a dependency on generated protobuf modules.
+# ---
+
 """Utility for parsing a subset of text proto format.
 
 This is used instead of the standard `protobuf` module because we do not have

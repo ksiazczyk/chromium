@@ -2,6 +2,9 @@
 name: general/unify-scalar-and-tuple-template-overloads-via-type-normaliza
 rubric: design
 severity: should_fix
+type: guide
+title: Unify scalar and tuple template overloads via type normalization
+summary: Rule to unify scalar and tuple handling in a single template overload using a type-normalization trait instead of disjoint overloads constrained by pack sizes.
 ---
 
 **Rule.** When designing template functions or adapter classes that unpack

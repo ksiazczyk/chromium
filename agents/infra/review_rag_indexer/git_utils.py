@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Git checkout utilities
+# summary: Helpers for the local git checkout that read multiple files at a given revision via git cat-file --batch and check whether a revision exists.
+# ---
+
 """Utilities for interacting with the local git checkout."""
 
 import collections.abc

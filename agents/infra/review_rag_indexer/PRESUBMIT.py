@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit script for the Review RAG indexer
+# summary: Runs the directory's Python unittests as part of the depot_tools presubmit checks.
+# ---
+
 """Presubmit script for the Review RAG indexer.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

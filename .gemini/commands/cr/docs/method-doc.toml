@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gemini CLI command for documenting methods in a trunk diff
+# summary: TOML command definition that instructs Gemini to find changed methods in a diff from origin/main, generate high-quality doc blocks, and apply them to header files without altering code logic.
+# ---
+
 description = "Add documentation to the methods for a diff from trunk."
 prompt = """
 You are an expert polyglot software engineer and an autonomous technical writer,

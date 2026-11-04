@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Copilot local configuration ignore rules
+# summary: Git ignore rules that exclude local Copilot configuration and personal instructions while explicitly allowing the shared Chromium instructions file.
+# ---
+
 # Local Copilot configuration.
 /copilot-instructions.md
 /lsp.json

@@ -1,3 +1,9 @@
+# ---docerion
+# type: guide
+# title: 'Gemini command: Debug a minidump from an official Chrome build'
+# summary: Gemini CLI custom command prompt that guides debugging of official Chrome minidumps, from inspecting annotations to downloading Android and ChromeOS debug symbols.
+# ---
+
 description = "Debug a minidump from an official Chrome build"
 prompt = """
 ## Tips for debugging official Chrome releases

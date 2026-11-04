@@ -2,6 +2,9 @@
 name: general/avoid-dlopen-dlsym-for-android-ndk
 rubric: design
 severity: should_fix
+type: reference
+title: Avoid dlopen and dlsym for Android NDK
+summary: Design rule against dlopen and dlsym for Android NDK APIs, favoring direct calls and weak symbols with runtime nullptr checks.
 ---
 
 **Rule.** Do not use dlopen, dlsym, or custom dynamic-loading wrapper tables to

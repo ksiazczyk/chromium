@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Skills folder gitignore
+# summary: Git ignore file that excludes all contents of the .claude/skills directory except the .gitignore file itself.
+# ---
+
 *
 !.gitignore

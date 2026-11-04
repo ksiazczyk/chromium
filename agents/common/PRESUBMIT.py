@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit script for agents/common
+# summary: Runs the directory's Python unit tests as a presubmit check when Python files are changed.
+# ---
+
 """Presubmit script for //agents/common.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

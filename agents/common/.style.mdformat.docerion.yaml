@@ -1,0 +1,4 @@
+# Docerion header of .style.mdformat.
+type: config
+title: mdformat style marker
+summary: Empty marker file associated with mdformat style configuration for the directory.

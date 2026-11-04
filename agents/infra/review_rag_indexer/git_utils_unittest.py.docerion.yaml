@@ -1,0 +1,6 @@
+# Docerion header of git_utils_unittest.py.
+type: test
+title: Unit tests for git_utils
+summary: Unit tests for git_utils.py that mock subprocess calls to verify reading files at a revision, missing-file handling, and revision existence checks.
+relations:
+  - tests /agents/infra/review_rag_indexer/git_utils.py

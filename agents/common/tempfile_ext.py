@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: tempfile extensions
+# summary: Provides a mkstemp_closed context manager that yields a closed temporary file path and removes the file when the context exits.
+# ---
+
 """Module for supporting additional functionality related to tempfile."""
 
 import contextlib

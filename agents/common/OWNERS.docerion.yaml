@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for agents/common
+summary: Delegates ownership of this directory to the OWNERS file in agents/testing.
+relations:
+  - references /agents/testing/OWNERS

@@ -2,6 +2,9 @@
 name: general/avoid-redundant-timestamp-resets-under-mock-time
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant Timestamp Resets Under Mock Time
+summary: Testing rule explaining that TaskEnvironment MOCK_TIME advances monotonically across tests, so manual timestamp or clock resets between runs are redundant.
 ---
 
 **Rule.** Do not add redundant timestamp or clock resets across test runs when

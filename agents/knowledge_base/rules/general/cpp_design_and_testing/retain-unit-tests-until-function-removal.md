@@ -2,6 +2,11 @@
 name: general/retain-unit-tests-until-function-removal
 rubric: testing
 severity: should_fix
+type: decision
+title: Retain unit tests until function removal
+summary: Testing rule requiring unit tests and fuzzer cases to be kept or updated while an API variant remains in the codebase, with rationale and examples.
+relations:
+  - references /base/strings/string_number_conversions.h
 ---
 
 **Rule.** When refactoring, modernizing, or deprecating APIs (such as converting

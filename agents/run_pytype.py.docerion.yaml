@@ -1,0 +1,7 @@
+# Docerion header of run_pytype.py.
+type: script
+title: Pytype runner for agents Python code
+summary: Runs pytype type checking on agent Python code with configured exclusions and extra import paths.
+relations:
+  - depends_on /agents/presubmit_support.py
+  - depends_on /testing/pytype_common/pytype_runner.py

@@ -1,0 +1,4 @@
+# Docerion header of gemini-extension.json.
+type: config
+title: Gemini extension manifest for blink-spec
+summary: Registers the blink-spec MCP server for gemini-cli, running server.py via vpython3 and passing the GitHub API key environment variable.

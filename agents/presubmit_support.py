@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Shared presubmit support code for agents
+# summary: Provides shared helpers for agents presubmit checks, including markdown link validation and Python path setup for pytype compatibility.
+# ---
+
 """Shared code for //agents presubmit-related code."""
 
 import json

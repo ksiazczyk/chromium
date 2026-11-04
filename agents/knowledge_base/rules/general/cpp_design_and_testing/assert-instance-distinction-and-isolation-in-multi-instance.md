@@ -2,6 +2,9 @@
 name: general/assert-instance-distinction-and-isolation-in-multi-instance
 rubric: testing
 severity: should_fix
+type: reference
+title: Assert instance distinction and isolation in multi-instance tests
+summary: Testing rule requiring assertions that distinct instances exist and resources route to the correct instance's state in multi-instance tests.
 ---
 
 **Rule.** When testing support for multiple concurrent instances, caches,

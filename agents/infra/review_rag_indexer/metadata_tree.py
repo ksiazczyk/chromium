@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: DIR_METADATA tree structure and utilities
+# summary: Implements a tree of DIR_METADATA files with insertion, closest-parent metadata lookup, deep merging, and recursive mixin resolution for directory metadata.
+# ---
+
 """Metadata tree structure and utilities for DIR_METADATA files."""
 
 from collections.abc import Iterable

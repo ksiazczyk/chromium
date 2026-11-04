@@ -2,6 +2,9 @@
 name: general/standalone-functions-for-ambient-context
 rubric: design
 severity: should_fix
+type: guide
+title: Standalone functions for ambient context queries
+summary: Rule to define ambient or global execution context queries as standalone non-member functions instead of static members, avoiding misleading instance-access syntax.
 ---
 
 **Rule.** When an operation queries ambient, thread-local, or global execution

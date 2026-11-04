@@ -1,6 +1,15 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for the agents directory
+# summary: Defines presubmit checks for ruff formatting, promptfoo evaluation files, patch formatting, and skill files under //agents.
+# relations:
+#   - depends_on /agents/testing/lint_promptfoo_testcases.py
+# ---
+
 """Top-level presubmit script for //agents.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

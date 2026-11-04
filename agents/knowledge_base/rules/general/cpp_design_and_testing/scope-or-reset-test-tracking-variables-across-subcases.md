@@ -2,6 +2,9 @@
 name: general/scope-or-reset-test-tracking-variables-across-subcases
 rubric: testing
 severity: should_fix
+type: guide
+title: Scope or Reset Test Tracking Variables Across Subcases
+summary: Testing rule advising scoped blocks or explicit reinitialization of tracking variables between sequential test subcases so mutated state cannot cause vacuously passing assertions.
 ---
 
 **Rule.** When testing multiple sequential variations, operations, or side

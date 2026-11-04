@@ -2,6 +2,9 @@
 name: general/omit-unnecessary-postfix-increment-on-custom-iterators
 rubric: design
 severity: should_fix
+type: guide
+title: Omit unnecessary postfix increment on custom iterators
+summary: Rule to implement only prefix increment and decrement on custom iterator and traversal classes unless callers need postfix value semantics.
 ---
 
 **Rule.** When implementing custom iterator, cursor, or range traversal classes,

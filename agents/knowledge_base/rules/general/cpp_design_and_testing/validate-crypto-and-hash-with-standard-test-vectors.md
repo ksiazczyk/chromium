@@ -2,6 +2,9 @@
 name: general/validate-crypto-and-hash-with-standard-test-vectors
 rubric: testing
 severity: should_fix
+type: reference
+title: Validate crypto and hash implementations with standard test vectors
+summary: Rule to unit test standard cryptographic and hashing algorithms against published RFC, NIST, or FIPS vectors covering empty, short, and multi-block inputs.
 ---
 
 **Rule.** When implementing, porting, or wrapping standard cryptographic or

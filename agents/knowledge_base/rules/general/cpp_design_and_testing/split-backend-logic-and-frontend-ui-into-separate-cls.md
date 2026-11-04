@@ -2,6 +2,9 @@
 name: general/split-backend-logic-and-frontend-ui-into-separate-cls
 rubric: change_scope
 severity: should_fix
+type: guide
+title: Split Backend Logic and Frontend UI into Separate CLs
+summary: Change-scope rule directing multi-layer features to be split into focused CLs along architectural boundaries, landing foundational infrastructure before downstream call sites and UI.
 ---
 
 **Rule.** When introducing features, refactorings, or migrations that span

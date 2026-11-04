@@ -2,6 +2,13 @@
 name: general/keep-paired-helpers-in-same-module
 rubric: design
 severity: should_fix
+type: reference
+title: Keep paired helpers in the same module
+summary: Design rule requiring complementary helper functions such as getters and setters or encoders and decoders to be moved together into the same shared module.
+relations:
+  - references /base/process/environment_internal.h
+  - references /base/process/launch_posix.cc
+  - references /base/process/environment_internal.cc
 ---
 
 **Rule.** When extracting, refactoring, or moving paired or complementary helper

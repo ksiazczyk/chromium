@@ -2,6 +2,9 @@
 name: general/factor-shared-variant-over-suppressing-error-logging
 rubric: design
 severity: blocking
+type: reference
+title: Factor shared variants over suppressing error logging
+summary: Coding rule forbidding changes to shared functions that suppress error logging, favoring factored non-logging variants for callers with benign failures.
 ---
 
 **Rule.** Do not modify an existing shared function to suppress error logging,

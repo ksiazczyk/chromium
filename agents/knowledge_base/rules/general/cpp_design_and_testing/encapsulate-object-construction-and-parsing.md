@@ -2,6 +2,9 @@
 name: general/encapsulate-object-construction-and-parsing
 rubric: design
 severity: should_fix
+type: reference
+title: Encapsulate object construction and parsing
+summary: Coding rule requiring construction and parsing logic to live in constructors or static factory methods so types keep their own invariants.
 ---
 
 **Rule.** Encapsulate complex object construction, parsing, and multi-field

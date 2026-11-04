@@ -2,6 +2,9 @@
 name: general/keep-raii-guards-and-leases-non-movable
 rubric: design
 severity: should_fix
+type: reference
+title: Keep RAII guards and leases non-movable
+summary: Design rule advising against move constructors and assignment for RAII guard and lease classes to avoid moved-from states, optional wrappers, and lifecycle complexity.
 ---
 
 **Rule.** Do not provide move constructors or move assignment operators for RAII

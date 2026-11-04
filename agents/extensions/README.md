@@ -1,3 +1,11 @@
+---
+type: readme
+title: Gemini Extensions
+summary: Documents the MCP server extension configurations in this directory and how to manage them with install.py.
+relations:
+  - documents /agents/extensions/install.py
+---
+
 # Gemini Extensions
 
 This directory contains extensions / MCP ([model context protocol]) server

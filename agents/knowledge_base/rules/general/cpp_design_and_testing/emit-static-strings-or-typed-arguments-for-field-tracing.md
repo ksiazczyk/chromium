@@ -2,6 +2,9 @@
 name: general/emit-static-strings-or-typed-arguments-for-field-tracing
 rubric: testing
 severity: should_fix
+type: reference
+title: Emit static strings or typed arguments for field tracing
+summary: Coding rule requiring static event names or typed Perfetto protobuf arguments in field traces so identifiers survive privacy filtering.
 ---
 
 **Rule.** When instrumenting trace events intended for field tracing, emit

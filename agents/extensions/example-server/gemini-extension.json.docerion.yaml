@@ -1,0 +1,4 @@
+# Docerion header of gemini-extension.json.
+type: config
+title: gemini-extension.json
+summary: Gemini-cli extension manifest that registers the example-server MCP server with a vpython3 launch command.

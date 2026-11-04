@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for the agents directory
+# summary: Sets ruff linting and formatting options such as an 80-character line length and preserved quote style for the agents directory.
+# ---
+
 line-length = 80
 indent-width = 4
 

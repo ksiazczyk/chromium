@@ -2,6 +2,9 @@
 name: general/test-cleanup-idempotency-after-resource-creation
 rubric: testing
 severity: should_fix
+type: guide
+title: Test cleanup idempotency after resource creation
+summary: Rule to verify repeated removal succeeds after an actual resource is created and deleted, rather than calling removal twice on an unpopulated target.
 ---
 
 **Rule.** When testing cleanup, teardown, or removal functions for idempotency,

@@ -1,0 +1,4 @@
+# Docerion header of .style.mdformat.
+type: config
+title: mdformat style configuration
+summary: Empty style configuration file for the mdformat Markdown formatter, containing only a newline.

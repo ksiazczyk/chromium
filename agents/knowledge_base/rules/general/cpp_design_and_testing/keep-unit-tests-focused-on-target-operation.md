@@ -2,6 +2,9 @@
 name: general/keep-unit-tests-focused-on-target-operation
 rubric: readability
 severity: optional
+type: reference
+title: Keep unit tests focused on the target operation
+summary: Readability rule keeping each unit test focused on the operation or invariant under verification and avoiding extraneous operations added for perceived symmetry.
 ---
 
 **Rule.** In unit tests, keep each test case focused solely on the specific

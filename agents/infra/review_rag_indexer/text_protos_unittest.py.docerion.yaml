@@ -1,0 +1,6 @@
+# Docerion header of text_protos_unittest.py.
+type: test
+title: Unit tests for text_protos
+summary: Unit tests for text_protos.py verifying parsing of simple, nested, list-valued, and commented text proto content into dictionaries.
+relations:
+  - tests /agents/infra/review_rag_indexer/text_protos.py

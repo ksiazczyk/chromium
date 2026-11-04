@@ -2,6 +2,9 @@
 name: general/colocate-bitmask-constants-with-packed-members
 rubric: design
 severity: should_fix
+type: guide
+title: Colocate Bitmask Constants with Packed Members
+summary: Rule requiring bitmask constants and type aliases for packed bitfield members to be defined in the class declaration alongside the member, with good and bad C++ examples.
 ---
 
 **Rule.** When a class or struct member stores packed bitfields, flags, or state

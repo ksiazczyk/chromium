@@ -2,6 +2,13 @@
 name: general/no-test-only-stream-operators-in-production
 rubric: design
 severity: should_fix
+type: guide
+title: No test-only stream operators in production code
+summary: Rule against defining test-only operator<< overloads in production headers or sources, directing them into test files and exposing string conversion helpers instead.
+relations:
+  - references /base/threading/platform_thread.h
+  - references /base/threading/platform_thread.cc
+  - references /base/threading/platform_thread_unittest.cc
 ---
 
 **Rule.** Do not define test-only streaming operators

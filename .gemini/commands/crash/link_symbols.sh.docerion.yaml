@@ -1,0 +1,4 @@
+# Docerion header of link_symbols.sh.
+type: script
+title: Link debug symbols for minidump analysis
+summary: Shell script that creates an lldb-symbols directory and symlinks debug and .dwp files matching the module paths extracted from a given minidump.

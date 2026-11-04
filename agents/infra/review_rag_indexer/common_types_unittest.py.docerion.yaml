@@ -1,0 +1,6 @@
+# Docerion header of common_types_unittest.py.
+type: test
+title: Unit tests for common_types
+summary: Tests the clobber behavior of CommonArgs with and without previous run information.
+relations:
+  - tests /agents/infra/review_rag_indexer/common_types.py

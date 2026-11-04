@@ -1,0 +1,4 @@
+# Docerion header of server.py.
+type: source
+title: Example MCP server
+summary: Example FastMCP server providing a hello-world tool and a conditionally added secret message tool, with inline PEP 723 dependencies for vpython3.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gemini command to generate an empty iOS unit test suite
+# summary: Defines a Gemini CLI command that creates an empty GTest unit test suite for an Objective-C or C++ class in the iOS codebase.
+# ---
+
 description = "Generates an empty unit test suite for a class in the iOS codebase."
 prompt = """
 # Task

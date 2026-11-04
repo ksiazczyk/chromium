@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gitignore for the .gemini directory
+# summary: Gitignore that excludes everything in .gemini except commands, OWNERS, style settings and selected policy files, so users can add their own policies.
+# ---
+
 /*
 !.gitignore
 !commands/

@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Build Information OWNERS
+summary: Delegates ownership of the build-information extension to the owners listed in build/mcp_servers/OWNERS.
+relations:
+  - references /build/mcp_servers/OWNERS

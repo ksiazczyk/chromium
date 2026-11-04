@@ -2,6 +2,9 @@
 name: general/prefer-virtual-methods-over-function-pointers-for-test-injec
 rubric: design
 severity: nit
+type: decision
+title: Prefer virtual methods over function pointers for test injection
+summary: Design rule preferring virtual methods over function pointer members or test injection setters when creating seams for test overrides, with code examples.
 ---
 
 **Rule.** When designing a class seam to intercept, mock, or customize internal

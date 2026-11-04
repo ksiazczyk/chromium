@@ -2,6 +2,9 @@
 name: general/override-data-acquisition-hooks-in-test-doubles
 rubric: design
 severity: should_fix
+type: guide
+title: Override data acquisition hooks in test doubles
+summary: Rule to keep synchronous dispatch in a single handler and have test doubles override protected virtual data-acquisition hooks rather than orchestration methods.
 ---
 
 **Rule.** Do not fragment simple synchronous routines or timer callbacks into

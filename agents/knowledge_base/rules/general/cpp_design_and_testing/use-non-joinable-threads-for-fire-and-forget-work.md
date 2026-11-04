@@ -2,6 +2,9 @@
 name: general/use-non-joinable-threads-for-fire-and-forget-work
 rubric: design
 severity: should_fix
+type: reference
+title: Use non-joinable threads for fire-and-forget background work
+summary: Rule to create low-level threads for unsynchronized background work as non-joinable instead of retaining handles or wrapper structs just to join at shutdown.
 ---
 
 **Rule.** When launching a low-level physical thread for fire-and-forget

@@ -2,6 +2,9 @@
 name: general/use-placeholders-for-dynamic-localized-strings
 rubric: testing
 severity: should_fix
+type: reference
+title: Use placeholders for dynamic values in localized strings
+summary: Rule to define .grd and .grdp messages with placeholders and inject dynamic values via localization APIs rather than hardcoding or concatenating them.
 ---
 
 **Rule.** Do not hardcode dynamic, configurable, or platform-varying values

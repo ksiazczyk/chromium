@@ -2,6 +2,9 @@
 name: general/avoid-redundant-size-parameters-in-helper-apis
 rubric: design
 severity: should_fix
+type: reference
+title: Avoid Redundant Size Parameters in Helper APIs
+summary: API design rule to deduce byte sizes and element counts from parameter types or reader state instead of requiring callers to pass manual size or length arguments.
 ---
 
 **Rule.** When designing helper, reading, or serialization APIs, deduce byte

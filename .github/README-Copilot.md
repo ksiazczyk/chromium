@@ -1,3 +1,13 @@
+---
+type: readme
+title: GitHub Copilot Integration in Chromium
+summary: Explains how the .github directory provides instructions, prompts, and skills for integrating GitHub Copilot with the Chromium codebase, and links to official documentation.
+relations:
+  - references /.github/.gitignore
+  - references /.github/skills/style-guide/SKILL.md
+  - references /README.md
+---
+
 # GitHub Copilot Integration in Chromium
 
 This directory provides instructions and prompts for integrating GitHub Copilot

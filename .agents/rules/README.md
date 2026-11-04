@@ -1,3 +1,9 @@
+---
+type: readme
+title: Agent Rules
+summary: Explains that the agent rules folder is gitignored with specific exemptions, invites developers to add personal Chromium rules there, and states that checked-in rules should apply to all developers.
+---
+
 # Agent Rules
 
 This folder is gitignored, with specific checked in files exempted. Developers

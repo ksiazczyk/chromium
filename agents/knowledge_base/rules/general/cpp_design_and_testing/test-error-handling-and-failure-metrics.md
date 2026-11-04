@@ -2,6 +2,9 @@
 name: general/test-error-handling-and-failure-metrics
 rubric: testing
 severity: should_fix
+type: guide
+title: Test error handling and failure metrics
+summary: Rule to cover both success and failure paths in unit tests, using test hooks and telemetry checks such as HistogramTester when errors cannot be triggered naturally.
 ---
 
 **Rule.** When adding or modifying unit tests for operations, APIs, or

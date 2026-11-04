@@ -2,6 +2,9 @@
 name: general/bundle-related-parameters-into-struct
 rubric: design
 severity: should_fix
+type: reference
+title: Bundle Related Parameters Into Struct
+summary: Design rule to encapsulate closely related mutable state or configuration parameters into a dedicated struct rather than passing loose reference arguments.
 ---
 
 **Rule.** Encapsulate closely related mutable state or configuration parameters

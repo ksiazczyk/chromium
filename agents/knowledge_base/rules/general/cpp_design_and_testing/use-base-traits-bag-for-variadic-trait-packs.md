@@ -2,6 +2,11 @@
 name: general/use-base-traits-bag-for-variadic-trait-packs
 rubric: design
 severity: should_fix
+type: reference
+title: Use base/traits_bag.h helpers for variadic trait packs
+summary: Rule to use standard trait_helpers utilities from base/traits_bag.h instead of custom variadic template metaprogramming for trait filtering, uniqueness checks, and extraction.
+relations:
+  - references /base/traits_bag.h
 ---
 
 **Rule.** When implementing classes, structs, or functions configured via

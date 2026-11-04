@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Gemini CLI helper utilities
+# summary: Utilities to locate the gemini executable, handle aliases and Windows PowerShell wrappers, and query the installed Gemini CLI version.
+# ---
+
 """Common Gemini CLI-related utilities."""
 
 import functools

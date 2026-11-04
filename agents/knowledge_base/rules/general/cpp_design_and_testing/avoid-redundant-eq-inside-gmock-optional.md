@@ -2,6 +2,9 @@
 name: general/avoid-redundant-eq-inside-gmock-optional
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant Eq Inside GMock Optional
+summary: GoogleMock rule to pass expected values directly to testing::Optional instead of wrapping them in testing::Eq, which adds redundant boilerplate.
 ---
 
 **Rule.** When asserting that an optional contains a specific value using

@@ -2,6 +2,9 @@
 name: general/encapsulate-feature-with-preconditions-in-helper
 rubric: design
 severity: should_fix
+type: reference
+title: Encapsulate features with preconditions in helper functions
+summary: Coding rule requiring base::Feature queries to go through helpers that validate eligibility preconditions so ineligible clients do not join Finch studies.
 ---
 
 **Rule.** When a base::Feature requires hardware, device, or platform

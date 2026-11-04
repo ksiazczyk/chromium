@@ -1,0 +1,6 @@
+# Docerion header of install_unittest.py.
+type: test
+title: Unit tests for install.py
+summary: Unit tests for the extension installer, using pyfakefs and mocks to cover extension discovery and installation behaviour.
+relations:
+  - tests /agents/extensions/install.py

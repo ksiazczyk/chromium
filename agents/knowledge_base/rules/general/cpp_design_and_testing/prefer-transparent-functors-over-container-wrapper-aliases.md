@@ -2,6 +2,11 @@
 name: general/prefer-transparent-functors-over-container-wrapper-aliases
 rubric: design
 severity: should_fix
+type: decision
+title: Prefer transparent functors over container wrapper aliases
+summary: Design rule configuring associative hash containers directly with transparent hash and equality functors instead of wrapper template aliases, with examples.
+relations:
+  - references /base/containers/transparent_hash.h
 ---
 
 **Rule.** When enabling heterogeneous lookup in associative hash containers

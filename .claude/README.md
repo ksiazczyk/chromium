@@ -1,3 +1,9 @@
+---
+type: readme
+title: Claude Code Configuration
+summary: Describes the .claude directory for Claude Code setup in the Chromium codebase, including the skills layout and where new skills should be contributed.
+---
+
 # Claude Code Configuration
 
 This directory provides configuration for Claude Code in the Chromium codebase.

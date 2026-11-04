@@ -2,6 +2,9 @@
 name: general/test-empty-boundary-state-for-query-apis
 rubric: testing
 severity: should_fix
+type: guide
+title: Test empty boundary state for query APIs
+summary: Rule to explicitly test query, lookup, and membership methods on empty containers or zero-attribute objects, since they exercise distinct boundary code paths.
 ---
 
 **Rule.** When writing unit tests for query, lookup, search, or membership

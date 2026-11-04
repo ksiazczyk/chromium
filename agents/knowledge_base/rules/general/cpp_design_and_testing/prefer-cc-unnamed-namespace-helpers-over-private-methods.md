@@ -2,6 +2,9 @@
 name: general/prefer-cc-unnamed-namespace-helpers-over-private-methods
 rubric: design
 severity: should_fix
+type: guide
+title: Prefer .cc unnamed namespace helpers over private methods
+summary: Rule to define helpers as unnamed-namespace non-members in .cc files, except when private access requires a private member function taking the whole object.
 ---
 
 **Rule.** Prefer defining helper functions as non-member functions in an unnamed

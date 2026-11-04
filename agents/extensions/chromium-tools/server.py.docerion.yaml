@@ -1,0 +1,4 @@
+# Docerion header of server.py.
+type: source
+title: MCP server for Chromium-specific tools
+summary: Python script that sets up a FastMCP server named chromium_tools with pinned dependencies, intended to host Chromium-specific MCP tools.
