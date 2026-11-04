@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninErrorNotifier implementation
+// summary: Implements SigninErrorNotifier, which shows notifications for device account and secondary account sign-in errors, offering sign-out or re-authentication actions.
+// ---
+
 #include "chrome/browser/ash/login/signin/signin_error_notifier.h"
 
 #include <memory>

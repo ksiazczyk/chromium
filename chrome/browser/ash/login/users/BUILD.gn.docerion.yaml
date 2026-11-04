@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Ash login users code
+summary: Defines the users static library, test_support and browser_tests targets with their sources and dependencies.

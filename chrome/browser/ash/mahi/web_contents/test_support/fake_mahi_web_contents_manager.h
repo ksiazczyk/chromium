@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Mahi web contents manager declaration
+// summary: Declares a fake MahiWebContentsManager for testing that overrides mojom connections and exposes web content state for verification in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAHI_WEB_CONTENTS_TEST_SUPPORT_FAKE_MAHI_WEB_CONTENTS_MANAGER_H_
 #define CHROME_BROWSER_ASH_MAHI_WEB_CONTENTS_TEST_SUPPORT_FAKE_MAHI_WEB_CONTENTS_MANAGER_H_
 

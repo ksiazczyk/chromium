@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock service factory header
+// summary: Declares SmartLockServiceFactory, a singleton ProfileKeyedServiceFactory that builds and owns SmartLockService instances per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SMART_LOCK_SMART_LOCK_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_LOGIN_SMART_LOCK_SMART_LOCK_SERVICE_FACTORY_H_
 

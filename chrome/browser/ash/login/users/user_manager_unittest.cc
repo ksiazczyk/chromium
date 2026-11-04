@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User manager unit tests
+// summary: Unit tests for the Chrome OS user manager covering user accounts, device local accounts, owner settings and user preferences.
+// ---
+
 #include "components/user_manager/user_manager.h"
 
 #include <cstdlib>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Affiliation helper declaration
+// summary: Declares GetDeviceDMTokenForUserPolicyGetter, which returns a callback fetching the device DM token for affiliated users.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_AFFILIATION_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_AFFILIATION_H_
 

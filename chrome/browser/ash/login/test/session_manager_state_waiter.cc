@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session state waiter implementation
+// summary: Implements SessionStateWaiter and a helper that block until the session manager reaches a target state or the primary session starts.
+// ---
+
 #include "chrome/browser/ash/login/test/session_manager_state_waiter.h"
 
 #include "base/check.h"

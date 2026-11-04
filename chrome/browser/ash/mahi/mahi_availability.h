@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi availability checks header
+// summary: Declares functions that report whether the Mahi feature is available, including age, country, and guest session restrictions and possible error states.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAHI_MAHI_AVAILABILITY_H_
 #define CHROME_BROWSER_ASH_MAHI_MAHI_AVAILABILITY_H_
 

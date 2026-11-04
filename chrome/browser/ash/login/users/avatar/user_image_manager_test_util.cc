@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User image manager test utilities
+// summary: Test helpers for user image manager tests, providing avatar test image paths, image comparison, an image loader, and a user image change waiter.
+// ---
+
 #include "chrome/browser/ash/login/users/avatar/user_image_manager_test_util.h"
 
 #include <stddef.h>

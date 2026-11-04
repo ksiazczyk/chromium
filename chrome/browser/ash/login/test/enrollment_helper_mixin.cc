@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment helper mixin implementation
+// summary: Implements a browser test mixin that mocks enterprise enrollment launcher interactions, setting expectations for enrollment modes, OAuth, attestation and token-based flows.
+// ---
+
 #include "chrome/browser/ash/login/test/enrollment_helper_mixin.h"
 
 #include <memory>

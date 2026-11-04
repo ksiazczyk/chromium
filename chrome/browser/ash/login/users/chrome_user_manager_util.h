@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User manager policy utility declarations
+// summary: Declares helpers to check user allowlists against device policy and detect managed guest or ephemeral logins.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_CHROME_USER_MANAGER_UTIL_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_CHROME_USER_MANAGER_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest session mixin implementation
+// summary: Implements GuestSessionMixin, which appends guest session, incognito, and login user switches to the browser test command line.
+// ---
+
 #include "chrome/browser/ash/login/test/guest_session_mixin.h"
 
 #include "ash/constants/ash_switches.h"

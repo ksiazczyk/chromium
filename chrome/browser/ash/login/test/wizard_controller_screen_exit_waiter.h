@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WizardControllerExitWaiter class declaration
+// summary: Declares a test condition waiter that blocks until the current WizardController screen differs from the target screen or the controller is destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_WIZARD_CONTROLLER_SCREEN_EXIT_WAITER_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_WIZARD_CONTROLLER_SCREEN_EXIT_WAITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Mahi availability checks
+// summary: Unit tests exercising Mahi availability through a real logged-in user session, covering country codes, feature flags, and account restrictions.
+// ---
+
 #include "chrome/browser/ash/mahi/mahi_availability.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi tab helper implementation
+// summary: Implements a WebContentsObserver that notifies the Mahi manager when the focused tab finishes loading or is destroyed.
+// ---
+
 #include "chrome/browser/ash/mahi/web_contents/mahi_tab_helper.h"
 
 #include <memory>

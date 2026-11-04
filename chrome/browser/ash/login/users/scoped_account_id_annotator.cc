@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped account ID annotator implementation
+// summary: Implements a scoped helper that annotates a given account ID onto the next profile created by a profile manager.
+// ---
+
 #include "chrome/browser/ash/login/users/scoped_account_id_annotator.h"
 
 #include "base/check.h"

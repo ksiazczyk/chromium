@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for version updater
+summary: Sets include dependency rules for the directory, blocking //chrome by default with a narrow allowlist for login and grit headers.

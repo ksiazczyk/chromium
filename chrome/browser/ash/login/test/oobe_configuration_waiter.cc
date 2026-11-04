@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE configuration waiter implementation
+// summary: Implements OOBEConfigurationWaiter, which observes OobeConfiguration and runs a callback once the OOBE configuration has finished loading.
+// ---
+
 #include "chrome/browser/ash/login/test/oobe_configuration_waiter.h"
 
 namespace ash {

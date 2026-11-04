@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi manager implementation
+// summary: Implements the ChromeOS Mahi manager, handling page content and summaries, Q&A, cache use, metrics logging, nudges, and feedback flows.
+// ---
+
 #include "chrome/browser/ash/mahi/mahi_manager_impl.h"
 
 #include <stdint.h>

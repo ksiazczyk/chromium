@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature-as-parameter interface for browser tests
+// summary: Header defining FeatureAsParameterInterface, a GTest mixin that runs parameterized tests across all enabled and disabled configurations of a set of features.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_FEATURE_PARAMETER_INTERFACE_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_FEATURE_PARAMETER_INTERFACE_H_
 

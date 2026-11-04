@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock auth attempt implementation
+// summary: Implements the Smart Lock auth attempt lifecycle, unlocking the screen or re-enabling input through the ScreenlockBridge.
+// ---
+
 #include "chrome/browser/ash/login/smart_lock/smart_lock_auth_attempt.h"
 
 #include "chromeos/ash/components/proximity_auth/screenlock_bridge.h"

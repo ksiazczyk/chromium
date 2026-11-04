@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OAuth2 login browser tests
+// summary: Browser tests covering the ChromeOS OAuth2 login and session restore flows against a fake Gaia server.
+// ---
+
 #include <map>
 #include <memory>
 #include <optional>

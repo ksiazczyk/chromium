@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Logged-in user mixin header
+// summary: Declares LoggedInUserMixin, a compound browser test mixin for logging in as regular, managed, or child accounts with user policy and Gaia auth setup.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_LOGGED_IN_USER_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_LOGGED_IN_USER_MIXIN_H_
 

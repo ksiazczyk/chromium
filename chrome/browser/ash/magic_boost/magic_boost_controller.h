@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost controller header
+// summary: Declares the MagicBoostController interface and its implementation for showing the disclaimer UI and connecting with Orca services in ash.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAGIC_BOOST_MAGIC_BOOST_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_MAGIC_BOOST_MAGIC_BOOST_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User image preferences header
+// summary: Declares the avatar customization selectors preference key and functions to register profile prefs and read the pref value.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_AVATAR_USER_IMAGE_PREFS_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_AVATAR_USER_IMAGE_PREFS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ARC terms of service mixin implementation
+// summary: Implements a test mixin that serves fake ARC terms of service and privacy policy pages from the embedded test server during OOBE tests.
+// ---
+
 #include "chrome/browser/ash/login/test/fake_arc_tos_mixin.h"
 
 #include "ash/constants/ash_switches.h"

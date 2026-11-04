@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth UI test helpers implementation
+// summary: Implements page actors and waiters for driving Gaia sign-in, password change, PIN setup, and recovery UI in login tests.
+// ---
+
 #include "chrome/browser/ash/login/test/auth_ui_utils.h"
 
 #include <memory>

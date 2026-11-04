@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmbeddedTestServerSetupMixin implementation
+// summary: Implements a browser test mixin that initializes and starts an embedded test server serving files from the Chrome test data directory.
+// ---
+
 #include "chrome/browser/ash/login/test/embedded_test_server_setup_mixin.h"
 
 #include "base/files/file_path.h"

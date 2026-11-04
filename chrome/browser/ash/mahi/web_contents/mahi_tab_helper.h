@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi tab helper header
+// summary: Declares a tab helper that observes focused web contents changes for Mahi when the feature is enabled.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAHI_WEB_CONTENTS_MAHI_TAB_HELPER_H_
 #define CHROME_BROWSER_ASH_MAHI_WEB_CONTENTS_MAHI_TAB_HELPER_H_
 

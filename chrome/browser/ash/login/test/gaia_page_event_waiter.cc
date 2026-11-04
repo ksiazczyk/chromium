@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaia page event waiter implementation
+// summary: Implements GaiaPageEventWaiter, which injects JavaScript into the login WebUI to wait until the Gaia authenticator fires a given event.
+// ---
+
 #include "chrome/browser/ash/login/test/gaia_page_event_waiter.h"
 
 #include "base/check.h"

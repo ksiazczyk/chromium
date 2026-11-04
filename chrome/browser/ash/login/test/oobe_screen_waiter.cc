@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE screen waiter implementation
+// summary: Implements OobeScreenWaiter, which blocks until the target OOBE screen is reached, optionally requiring the native window to be visible.
+// ---
+
 #include "chrome/browser/ash/login/test/oobe_screen_waiter.h"
 
 #include "base/run_loop.h"

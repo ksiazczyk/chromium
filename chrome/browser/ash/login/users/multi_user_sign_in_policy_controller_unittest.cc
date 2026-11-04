@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-user sign-in policy controller unit tests
+// summary: Unit tests verifying multi-user sign-in policy behavior across combinations of primary and secondary user policies, including certificate handling.
+// ---
+
 #include "components/user_manager/multi_user/multi_user_sign_in_policy_controller.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi test utility implementation
+// summary: Implements shared test helpers that apply the HMR consent status, expose default test answers and summaries, and wait for Mahi UI updates.
+// ---
+
 #include "chrome/browser/ash/mahi/mahi_test_util.h"
 
 #include <memory>

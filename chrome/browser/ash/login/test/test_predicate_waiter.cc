@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test predicate waiter implementation
+// summary: Implements a waiter that polls a predicate callback every 200 ms and blocks the test until the condition is fulfilled, logging an optional description.
+// ---
+
 #include "chrome/browser/ash/login/test/test_predicate_waiter.h"
 
 #include "base/functional/callback.h"

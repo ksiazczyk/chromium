@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User manager policy utility implementation
+// summary: Implements checks for whether all users are allowed under device policies and whether the session is a managed guest or ephemeral login.
+// ---
+
 #include "chrome/browser/ash/login/users/chrome_user_manager_util.h"
 
 #include "base/notreached.h"

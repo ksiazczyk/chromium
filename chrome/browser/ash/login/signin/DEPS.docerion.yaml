@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for signin
+summary: Specifies allowed include dependencies for the signin directory, listing //chrome exceptions and per-file rules for factories and tests.

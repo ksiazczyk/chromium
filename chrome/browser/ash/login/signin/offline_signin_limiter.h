@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineSigninLimiter class header
+// summary: Declares OfflineSigninLimiter, a KeyedService that limits how long Gaia-authenticated users, with or without SAML, may use offline authentication before online re-auth is forced.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_OFFLINE_SIGNIN_LIMITER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_OFFLINE_SIGNIN_LIMITER_H_
 

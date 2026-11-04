@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Mahi web contents
+summary: Restricts //chrome dependencies for this ChromeOS directory and allows test-only //chrome includes for the tab helper unit test.

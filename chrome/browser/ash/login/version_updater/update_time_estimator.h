@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update time estimator header
+// summary: Declares the UpdateTimeEstimator helper class that computes time left and progress for OS update stages.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_VERSION_UPDATER_UPDATE_TIME_ESTIMATOR_H_
 #define CHROME_BROWSER_ASH_LOGIN_VERSION_UPDATER_UPDATE_TIME_ESTIMATOR_H_
 

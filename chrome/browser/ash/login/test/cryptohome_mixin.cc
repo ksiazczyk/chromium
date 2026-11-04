@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptohomeMixin implementation
+// summary: Implements a browser test mixin that brokers with FakeUserDataAuthClient to set up fake cryptohome auth factors such as Gaia and local passwords, PINs and recovery for login tests.
+// ---
+
 #include "chrome/browser/ash/login/test/cryptohome_mixin.h"
 
 #include "ash/constants/ash_pref_names.h"

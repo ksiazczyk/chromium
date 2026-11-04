@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE base browser test implementation
+// summary: Implements the base browser test class for OOBE tests, configuring command line switches, fake services, and login screen setup.
+// ---
+
 #include "chrome/browser/ash/login/test/oobe_base_test.h"
 
 #include <memory>

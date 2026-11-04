@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake recovery service mixin header
+// summary: Declares a browser test mixin that fakes the cryptohome recovery service, allowing tests to configure error responses per request path.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_FAKE_RECOVERY_SERVICE_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_FAKE_RECOVERY_SERVICE_MIXIN_H_
 

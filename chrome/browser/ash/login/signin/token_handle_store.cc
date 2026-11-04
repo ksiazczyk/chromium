@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenHandleStore implementation
+// summary: Implements token handle storage and orchestration of handle checks, fetches, and reauthentication decisions backed by local state preferences.
+// ---
+
 #include "chrome/browser/ash/login/signin/token_handle_store.h"
 
 #include <utility>

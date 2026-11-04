@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Smart Lock directory metadata
+summary: Declares directory metadata with the Buganizer component ID and the ChromeOS cross-device engineering team email.

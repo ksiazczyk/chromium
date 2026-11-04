@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AccountIdAnnotator
+// summary: Verifies that creating a profile for a logged-in user annotates it with the expected AccountId.
+// ---
+
 #include "chrome/browser/ash/login/users/account_id_annotator.h"
 
 #include "chrome/browser/ash/profiles/profile_helper.h"

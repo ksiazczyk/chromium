@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost metrics header
+// summary: Declares the DisclaimerViewAction enum and the function that records user interaction metrics for the Magic Boost disclaimer view.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAGIC_BOOST_MAGIC_BOOST_METRICS_H_
 #define CHROME_BROWSER_ASH_MAGIC_BOOST_MAGIC_BOOST_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session manager state waiter test helper
+// summary: Declares a session state observer waiter and a helper to wait for the primary user session to start in login tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_SESSION_MANAGER_STATE_WAITER_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_SESSION_MANAGER_STATE_WAITER_H_
 

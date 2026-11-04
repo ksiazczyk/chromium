@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version updater header
+// summary: Declares the VersionUpdater class with its UpdateInfo struct, state and result enums, and Delegate interface for update callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_VERSION_UPDATER_VERSION_UPDATER_H_
 #define CHROME_BROWSER_ASH_LOGIN_VERSION_UPDATER_VERSION_UPDATER_H_
 

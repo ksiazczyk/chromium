@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserImageManagerImpl unit tests
+// summary: Unit tests for UserImageManagerImpl using a fake user manager and a mock image loader delegate to exercise image manager behavior.
+// ---
+
 #include "chrome/browser/ash/login/users/avatar/user_image_manager_impl.h"
 
 #include <memory>

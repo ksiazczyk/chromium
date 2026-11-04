@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi UI browser test base class
+// summary: Declares MahiUiBrowserTestBase, a SystemWebAppBrowserTestBase subclass offering setup helpers such as disclaimer clicks and text input for Mahi UI browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAHI_MAHI_UI_BROWSER_TEST_BASE_H_
 #define CHROME_BROWSER_ASH_MAHI_MAHI_UI_BROWSER_TEST_BASE_H_
 

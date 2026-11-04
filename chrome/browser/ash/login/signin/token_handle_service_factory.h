@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenHandleService factory declaration
+// summary: Declares the singleton factory that owns TokenHandleService instances, associates them with profiles, and cleans up on profile destruction.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_TOKEN_HANDLE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_TOKEN_HANDLE_SERVICE_FACTORY_H_
 

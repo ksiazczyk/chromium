@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticationFlowAutoReloadManager header
+// summary: Declares AuthenticationFlowAutoReloadManager, which schedules automatic reloads of the authentication flow per policy and observes idle state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_AUTHENTICATION_FLOW_AUTO_RELOAD_MANAGER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_AUTHENTICATION_FLOW_AUTO_RELOAD_MANAGER_H_
 

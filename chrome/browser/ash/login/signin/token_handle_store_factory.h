@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenHandleStore factory declaration
+// summary: Declares the factory that owns the global TokenHandleStore instance and the helper checking Gaia password authentication per account.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_TOKEN_HANDLE_STORE_FACTORY_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_TOKEN_HANDLE_STORE_FACTORY_H_
 

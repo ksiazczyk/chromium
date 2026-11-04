@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile prepared waiter implementation
+// summary: Implements a test waiter that blocks until the login controller reports auth success and the profile for an account is prepared.
+// ---
+
 #include "chrome/browser/ash/login/test/profile_prepared_waiter.h"
 
 #include "base/check_op.h"

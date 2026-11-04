@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magic Boost state mock declaration
+// summary: Declares a mock MagicBoostState with mocked Orca opt-in and enable or disable methods for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAGIC_BOOST_MOCK_MAGIC_BOOST_STATE_H_
 #define CHROME_BROWSER_ASH_MAGIC_BOOST_MOCK_MAGIC_BOOST_STATE_H_
 

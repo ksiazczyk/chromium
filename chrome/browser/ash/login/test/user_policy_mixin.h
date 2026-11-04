@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User policy mixin header
+// summary: Declares UserPolicyMixin, a test mixin that sets up user policy for an account, optionally forwarding updates to an embedded policy test server.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_USER_POLICY_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_USER_POLICY_MIXIN_H_
 

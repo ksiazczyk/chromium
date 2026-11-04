@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthErrorObserverFactory implementation
+// summary: Implements the profile-keyed factory that builds AuthErrorObserver instances with identity, signin error, and sync service dependencies.
+// ---
+
 #include "chrome/browser/ash/login/signin/auth_error_observer_factory.h"
 
 #include "chrome/browser/ash/login/signin/auth_error_observer.h"

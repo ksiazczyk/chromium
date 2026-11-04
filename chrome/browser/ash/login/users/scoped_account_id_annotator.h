@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped account ID annotator header
+// summary: Declares a test helper that assigns a fixed account ID to profiles created in tests, avoiding directory-path-based inference.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_SCOPED_ACCOUNT_ID_ANNOTATOR_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_SCOPED_ACCOUNT_ID_ANNOTATOR_H_
 

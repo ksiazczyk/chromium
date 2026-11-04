@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome user session test environment delegate unit tests
+// summary: Unit tests verifying profile manager setup, login, and user manager wiring in the Chrome user session test delegate.
+// ---
+
 #include "chrome/browser/ash/login/test/chrome_user_session_test_environment_delegate.h"
 
 #include <memory>

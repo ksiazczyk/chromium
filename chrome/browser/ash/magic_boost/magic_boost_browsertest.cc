@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magic Boost browser tests
+// summary: Browser tests exercising the Magic Boost disclaimer UI and opt-in flows across editor modes, Orca consent statuses, and HMR consent states.
+// ---
+
 #include <memory>
 #include <tuple>
 #include <utility>

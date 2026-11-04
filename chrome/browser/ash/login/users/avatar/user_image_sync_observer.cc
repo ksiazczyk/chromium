@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User image sync observer implementation
+// summary: Implements keeping the local user image in sync with the syncable user_image_info preference, updating either side when the image or synced data changes.
+// ---
+
 #include "chrome/browser/ash/login/users/avatar/user_image_sync_observer.h"
 
 #include <memory>

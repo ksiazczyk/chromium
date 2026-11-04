@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy user manager controller header
+// summary: Declares a controller that observes policy-related events and triggers user manager updates such as guest sessions and sign-in user display.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_POLICY_USER_MANAGER_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_POLICY_USER_MANAGER_CONTROLLER_H_
 

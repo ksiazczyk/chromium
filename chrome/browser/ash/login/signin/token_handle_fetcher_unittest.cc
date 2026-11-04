@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Token handle fetcher unit tests
+// summary: Unit tests verifying token handle fetch results, missing token handling and response time metric recording with fake Gaia responses.
+// ---
+
 #include "chrome/browser/ash/login/signin/token_handle_fetcher.h"
 
 #include <memory>

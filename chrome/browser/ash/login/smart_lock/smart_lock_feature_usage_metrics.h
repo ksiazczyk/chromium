@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock feature usage metrics header
+// summary: Declares SmartLockFeatureUsageMetrics, which tracks Smart Lock feature usage for the Standard Feature Usage Logging (SFUL) framework.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SMART_LOCK_SMART_LOCK_FEATURE_USAGE_METRICS_H_
 #define CHROME_BROWSER_ASH_LOGIN_SMART_LOCK_SMART_LOCK_FEATURE_USAGE_METRICS_H_
 

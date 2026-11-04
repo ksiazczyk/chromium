@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi media app events proxy implementation
+// summary: Implements the Mahi media app events proxy that broadcasts PDF focus, context menu, and close events to registered observers.
+// ---
+
 #include "chrome/browser/ash/mahi/media_app/mahi_media_app_events_proxy_impl.h"
 
 #include "chromeos/components/mahi/public/cpp/mahi_media_app_content_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock service header
+// summary: Declares the SmartLockService keyed service that starts and finalizes Smart Lock auth attempts and manages screen lock state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SMART_LOCK_SMART_LOCK_SERVICE_H_
 #define CHROME_BROWSER_ASH_LOGIN_SMART_LOCK_SMART_LOCK_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi content extraction delegate implementation
+// summary: Implements the delegate that launches and binds the Mahi content extraction service and requests page content from accessibility snapshots.
+// ---
+
 #include "chrome/browser/ash/mahi/web_contents/mahi_content_extraction_delegate.h"
 
 #include <algorithm>

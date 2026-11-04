@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenHandleService class declaration
+// summary: Declares a per-profile keyed service that fetches access tokens and triggers token handle fetches for user accounts.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_TOKEN_HANDLE_SERVICE_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_TOKEN_HANDLE_SERVICE_H_
 

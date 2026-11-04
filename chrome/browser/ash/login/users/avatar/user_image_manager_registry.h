@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserImageManagerRegistry header
+// summary: Declares UserImageManagerRegistry, an effectively singleton observer that lazily creates and manages per-account user image managers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_AVATAR_USER_IMAGE_MANAGER_REGISTRY_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_AVATAR_USER_IMAGE_MANAGER_REGISTRY_H_
 

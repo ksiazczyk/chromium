@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy user manager controller implementation
+// summary: Implements a controller that observes device settings and policy changes to update the user manager, including ephemeral users and guest access.
+// ---
+
 #include "chrome/browser/ash/login/users/policy_user_manager_controller.h"
 
 #include <utility>

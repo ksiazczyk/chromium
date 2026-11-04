@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake EULA mixin implementation
+// summary: Implements a test mixin that serves a fake online EULA from the embedded test server and can simulate HTTP unavailability for offline EULA tests.
+// ---
+
 #include "chrome/browser/ash/login/test/fake_eula_mixin.h"
 
 #include "ash/constants/ash_switches.h"

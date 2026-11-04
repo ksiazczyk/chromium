@@ -4,6 +4,12 @@
 
 // Constants for Chrome OS test user accounts.
 
+// ---docerion
+// type: source
+// title: SAML test user account email constants
+// summary: Declares email address constants for Chrome OS SAML test user accounts used by login tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_TEST_USERS_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_TEST_USERS_H_
 

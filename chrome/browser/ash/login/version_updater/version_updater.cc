@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version updater implementation
+// summary: Implements the ChromeOS login update flow, interacting with UpdateEngineClient and network state while reporting progress and errors to the delegate.
+// ---
+
 #include "chrome/browser/ash/login/version_updater/version_updater.h"
 
 #include <algorithm>

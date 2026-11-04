@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token handle checker header
+// summary: Declares the TokenHandleChecker class that runs token handle checks on behalf of TokenHandleStore and defines the token status enum.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_TOKEN_HANDLE_CHECKER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_TOKEN_HANDLE_CHECKER_H_
 

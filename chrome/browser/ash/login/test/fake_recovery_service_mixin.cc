@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake recovery service mixin implementation
+// summary: Implements a test mixin that fakes cryptohome recovery service endpoints on the embedded test server, returning fake reauth tokens, epoch data and mediation responses.
+// ---
+
 #include "chrome/browser/ash/login/test/fake_recovery_service_mixin.h"
 
 #include "ash/constants/ash_switches.h"

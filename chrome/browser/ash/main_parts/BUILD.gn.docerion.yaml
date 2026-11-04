@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Ash browser main parts static library
+summary: Defines the main_parts static library target that compiles the Ash browser main parts sources and lists its many Chrome OS dependencies.

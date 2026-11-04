@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE auth page waiter header
+// summary: Declares a test utility for waiting for page events on Gaia login and enrollment screens, with helpers for each page type.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_OOBE_AUTH_PAGE_WAITER_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_OOBE_AUTH_PAGE_WAITER_H_
 

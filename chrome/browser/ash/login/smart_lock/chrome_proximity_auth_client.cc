@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome proximity auth client implementation
+// summary: Implements the Chrome-specific ProximityAuthClient that forwards Smart Lock state updates and unlock finalization to the profile's SmartLockService.
+// ---
+
 #include "chrome/browser/ash/login/smart_lock/chrome_proximity_auth_client.h"
 
 #include <stdint.h>

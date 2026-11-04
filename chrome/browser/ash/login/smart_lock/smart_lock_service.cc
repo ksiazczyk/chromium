@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock service implementation
+// summary: Implements the per-profile Smart Lock service handling auth attempts, screen lock state, prefs, power monitoring, and feature usage logging.
+// ---
+
 #include "chrome/browser/ash/login/smart_lock/smart_lock_service.h"
 
 #include <memory>

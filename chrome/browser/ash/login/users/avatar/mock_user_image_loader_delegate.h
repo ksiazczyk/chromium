@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock user image loader delegate header
+// summary: Declares MockUserImageLoaderDelegate, a gmock test double for the UserImageLoaderDelegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_AVATAR_MOCK_USER_IMAGE_LOADER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_AVATAR_MOCK_USER_IMAGE_LOADER_DELEGATE_H_
 

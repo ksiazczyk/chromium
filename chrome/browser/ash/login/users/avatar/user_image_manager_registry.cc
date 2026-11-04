@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserImageManagerRegistry implementation
+// summary: Implements the registry that maps each account to its UserImageManagerImpl and forwards user lifecycle events such as login and profile creation.
+// ---
+
 #include "chrome/browser/ash/login/users/avatar/user_image_manager_registry.h"
 
 #include <memory>

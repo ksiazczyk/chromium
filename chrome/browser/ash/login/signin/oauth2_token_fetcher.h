@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2TokenFetcher class header
+// summary: Declares OAuth2TokenFetcher, which exchanges an authenticated cookie jar for OAuth2 tokens and GAIA credentials, retrying temporary GAIA errors up to a maximum count.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_OAUTH2_TOKEN_FETCHER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_OAUTH2_TOKEN_FETCHER_H_
 

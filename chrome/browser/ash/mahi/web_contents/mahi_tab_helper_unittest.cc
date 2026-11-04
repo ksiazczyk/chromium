@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi tab helper unit tests
+// summary: Unit tests verifying MahiTabHelper focus, load-complete, and tab switch notifications using a mock web contents manager.
+// ---
+
 #include "chrome/browser/ash/mahi/web_contents/mahi_tab_helper.h"
 
 #include <memory>

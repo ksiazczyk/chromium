@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test predicate waiter header
+// summary: Declares TestPredicateWaiter, a TestConditionWaiter subclass that blocks until a supplied predicate callback returns true during tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_TEST_PREDICATE_WAITER_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_TEST_PREDICATE_WAITER_H_
 

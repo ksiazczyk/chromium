@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2TokenInitializer class header
+// summary: Declares OAuth2TokenInitializer, which performs the initial fetch of OAuth2 tokens during sign-in and delivers the updated UserContext via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_OAUTH2_TOKEN_INITIALIZER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_OAUTH2_TOKEN_INITIALIZER_H_
 

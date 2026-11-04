@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token handle fetcher implementation
+// summary: Implements fetching of new token handles for a user via the Gaia token info endpoint, reporting success or failure through a callback.
+// ---
+
 #include "chrome/browser/ash/login/signin/token_handle_fetcher.h"
 
 #include <memory>

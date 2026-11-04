@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper policy browser tests
+// summary: Browser tests verifying that user wallpaper policy images are correctly applied to Chrome OS user sessions.
+// ---
+
 #include <stdint.h>
 
 #include <array>

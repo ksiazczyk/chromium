@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi web contents manager header
+// summary: Declares MahiWebContentsManagerImpl and a PDF accessibility observer used to collect accessibility updates for PDF content extraction.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAHI_WEB_CONTENTS_MAHI_WEB_CONTENTS_MANAGER_IMPL_H_
 #define CHROME_BROWSER_ASH_MAHI_WEB_CONTENTS_MAHI_WEB_CONTENTS_MANAGER_IMPL_H_
 

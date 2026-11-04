@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ChromeOS avatar user image library
+summary: Defines GN build targets for the avatar static library, its test_support sources and the browser tests, with their dependencies.

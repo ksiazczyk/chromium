@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Mahi web contents manager implementation
+// summary: Implements the fake Mahi web contents manager, returning a test favicon and sample page content while counting RequestContent calls.
+// ---
+
 #include "chrome/browser/ash/mahi/web_contents/test_support/fake_mahi_web_contents_manager.h"
 
 #include "chromeos/components/mahi/public/cpp/mahi_types.h"

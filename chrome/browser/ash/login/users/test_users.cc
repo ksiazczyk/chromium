@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SAML test user email constants
+// summary: Defines constant test user email addresses used by SAML-related tests in the ash namespace.
+// ---
+
 #include "chrome/browser/ash/login/users/test_users.h"
 
 namespace ash::saml_test_users {

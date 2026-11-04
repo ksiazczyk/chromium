@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Mahi components
+summary: Defines GN build targets for the Mahi availability library, the Mahi browser library, and their unit and browser test sets with their dependencies.

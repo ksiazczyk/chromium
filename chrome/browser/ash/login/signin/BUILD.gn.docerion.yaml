@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Signin build definitions (BUILD.gn)
+summary: Defines the signin static library sources and dependencies plus the browser_tests source set for ChromeOS Ash login signin.

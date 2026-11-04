@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for Mahi web contents
+summary: Defines the Mahi web contents static library plus its unit test and browser test targets and their dependencies.

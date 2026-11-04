@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2TokenInitializer implementation
+// summary: Implements OAuth2TokenInitializer, which starts the OAuth2 token exchange from the user's auth code and reports success or failure through a callback.
+// ---
+
 #include "chrome/browser/ash/login/signin/oauth2_token_initializer.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Mahi media app library
+summary: Defines the media_app static library and unit_tests source_set for the Mahi integration with the ChromeOS media app, listing sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment UI mixin implementation
+// summary: Implements a test mixin that drives and verifies the enterprise enrollment OOBE UI, including step waits, error handling, device attribute submission and license selection.
+// ---
+
 #include "chrome/browser/ash/login/test/enrollment_ui_mixin.h"
 
 #include "chrome/browser/ash/login/enrollment/enrollment_screen.h"

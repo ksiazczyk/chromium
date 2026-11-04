@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account ID annotator implementation
+// summary: Annotates the AccountId onto user profiles at creation by matching the profile's user ID hash against logged-in users.
+// ---
+
 #include "chrome/browser/ash/login/users/account_id_annotator.h"
 
 #include <algorithm>

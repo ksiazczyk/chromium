@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock metrics recording implementation
+// summary: Implements UMA histogram recording for Smart Lock sign-in and unlock events, durations, and manual phone unlocks.
+// ---
+
 #include "chrome/browser/ash/login/smart_lock/smart_lock_metrics.h"
 
 #include "base/check_op.h"

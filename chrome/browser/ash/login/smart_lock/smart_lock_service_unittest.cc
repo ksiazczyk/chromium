@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart Lock service unit tests
+// summary: Unit tests for SmartLockService covering state transitions, auth events, and metrics recording using fake clients, mock Bluetooth, and test profiles.
+// ---
+
 #include "chrome/browser/ash/login/smart_lock/smart_lock_service.h"
 
 #include <stddef.h>

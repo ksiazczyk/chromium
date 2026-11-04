@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi UI browser test base implementation
+// summary: Implements the Mahi UI browser test base with a mock Mahi provider, disclaimer view interactions and manta service capability setup for browser tests.
+// ---
+
 #include "chrome/browser/ash/mahi/mahi_ui_browser_test_base.h"
 
 #include <memory>

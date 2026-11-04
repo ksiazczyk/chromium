@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Mahi media app client
+// summary: Unit tests verifying MahiMediaAppClient behavior, including context menu hiding and PDF content retrieval with word count and byte size limits.
+// ---
+
 #include "chrome/browser/ash/mahi/media_app/mahi_media_app_client.h"
 
 #include <cstdint>

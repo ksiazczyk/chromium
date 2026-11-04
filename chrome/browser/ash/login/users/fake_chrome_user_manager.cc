@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Chrome user manager for tests
+// summary: Implements a fake UserManager with methods to add regular, child, SAML and kiosk users for use in tests.
+// ---
+
 #include "chrome/browser/ash/login/users/fake_chrome_user_manager.h"
 
 #include <algorithm>

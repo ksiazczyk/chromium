@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome user session test environment delegate implementation
+// summary: Implements the delegate that connects UserSessionTestEnvironment to TestingProfileManager for //chrome-based tests.
+// ---
+
 #include "chrome/browser/ash/login/test/chrome_user_session_test_environment_delegate.h"
 
 #include <string>

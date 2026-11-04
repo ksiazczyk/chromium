@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update time estimator unit tests
+// summary: Unit tests verifying download time left, total time left, and progress calculations using a fake tick clock.
+// ---
+
 #include "chrome/browser/ash/login/version_updater/update_time_estimator.h"
 
 #include "base/test/simple_test_tick_clock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock version updater delegate implementation
+// summary: Implements the constructor and destructor of MockVersionUpdaterDelegate used by version updater unit tests.
+// ---
+
 #include "chrome/browser/ash/login/version_updater/mock_version_updater_delegate.h"
 
 namespace ash {

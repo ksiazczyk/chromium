@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User image file selector header
+// summary: Declares UserImageFileSelector, a helper that opens a file dialog to choose a user image and forwards success or failure callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_AVATAR_USER_IMAGE_FILE_SELECTOR_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_AVATAR_USER_IMAGE_FILE_SELECTOR_H_
 

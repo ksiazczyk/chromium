@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest session mixin header
+// summary: Declares GuestSessionMixin, a browser test mixin that sets up the command line for tests of in-session guest user behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_GUEST_SESSION_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_GUEST_SESSION_MIXIN_H_
 

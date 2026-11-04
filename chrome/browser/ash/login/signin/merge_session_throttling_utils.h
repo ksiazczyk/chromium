@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merge session throttling utilities interface
+// summary: Declares helper functions used to determine when navigations should be delayed during the ChromeOS merge session process.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_MERGE_SESSION_THROTTLING_UTILS_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_MERGE_SESSION_THROTTLING_UTILS_H_
 

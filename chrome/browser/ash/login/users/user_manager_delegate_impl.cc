@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User manager delegate implementation
+// summary: Implements the Chrome-side user manager delegate handling application locale, home directory override, login profile checks and cryptohome removal.
+// ---
+
 #include "chrome/browser/ash/login/users/user_manager_delegate_impl.h"
 
 #include <optional>

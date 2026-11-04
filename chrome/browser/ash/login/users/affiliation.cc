@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device DM token lookup for affiliated users
+// summary: Implements a callback that returns the device DM token when the given user's affiliation IDs match the device's.
+// ---
+
 #include "chrome/browser/ash/login/users/affiliation.h"
 
 #include "base/containers/flat_set.h"

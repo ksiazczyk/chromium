@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Smart Lock include dependency rules
+summary: Sets include rules that block //chrome dependencies for the Smart Lock directory while allowing specific per-file exceptions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake EULA mixin header
+// summary: Declares a browser test mixin that serves fake EULA content for OOBE tests, with an option to force the HTTP response unavailable.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_FAKE_EULA_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_FAKE_EULA_MIXIN_H_
 

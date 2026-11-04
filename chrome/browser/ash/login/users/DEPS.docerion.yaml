@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the login users directory
+summary: Restricts includes so ChromeOS login user code depends only on an allowlist of //chrome paths, with per-file exceptions for tests.

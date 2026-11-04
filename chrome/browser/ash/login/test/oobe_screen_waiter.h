@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE screen waiter header
+// summary: Declares OobeScreenWaiter, a test waiter that blocks until the target OOBE screen is shown, with optional screen-transition assertions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_OOBE_SCREEN_WAITER_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_OOBE_SCREEN_WAITER_H_
 

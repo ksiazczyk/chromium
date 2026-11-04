@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MahiManagerImpl unit tests
+// summary: Unit tests for MahiManagerImpl covering summaries, elucidation, question answering, cache clearing and consent-driven request flows using a fake Mahi provider.
+// ---
+
 #include "chrome/browser/ash/mahi/mahi_manager_impl.h"
 
 #include <memory>

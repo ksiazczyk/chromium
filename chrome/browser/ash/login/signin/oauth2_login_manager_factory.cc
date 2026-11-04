@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2LoginManagerFactory implementation
+// summary: Implements the profile-keyed service factory that creates OAuth2LoginManager instances for profiles.
+// ---
+
 #include "chrome/browser/ash/login/signin/oauth2_login_manager_factory.h"
 
 #include "chrome/browser/ash/login/signin/oauth2_login_manager.h"

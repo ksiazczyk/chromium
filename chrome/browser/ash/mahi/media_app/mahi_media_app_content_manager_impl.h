@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi media app content manager class declaration
+// summary: Declares MahiMediaAppContentManagerImpl, which maps client IDs to media app clients, tracks live client windows, and stores selected PDF text.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAHI_MEDIA_APP_MAHI_MEDIA_APP_CONTENT_MANAGER_IMPL_H_
 #define CHROME_BROWSER_ASH_MAHI_MEDIA_APP_MAHI_MEDIA_APP_CONTENT_MANAGER_IMPL_H_
 

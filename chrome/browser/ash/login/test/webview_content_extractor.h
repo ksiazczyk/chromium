@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview content extractor header
+// summary: Declares GetWebViewContents helpers that read the contents of a webview element identified by OOBE element IDs in login tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_WEBVIEW_CONTENT_EXTRACTOR_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_WEBVIEW_CONTENT_EXTRACTOR_H_
 

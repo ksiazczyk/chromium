@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi media app content manager implementation
+// summary: Implements the Mahi media app content manager that tracks active PDF clients, forwards focus and close events, and routes content and context menu requests to the Mahi manager.
+// ---
+
 #include "chrome/browser/ash/mahi/media_app/mahi_media_app_content_manager_impl.h"
 
 #include <optional>

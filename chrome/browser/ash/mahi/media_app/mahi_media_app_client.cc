@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi media app client implementation
+// summary: Implements the Mahi media app client that forwards PDF events such as load, focus, and context menu to Mahi and fetches PDF content with size and word count limits.
+// ---
+
 #include "chrome/browser/ash/mahi/media_app/mahi_media_app_client.h"
 
 #include <optional>

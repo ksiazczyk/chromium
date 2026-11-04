@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile user manager controller header
+// summary: Declares an observer that forwards profile manager and profile events to the user manager, kept small to limit OS-browser coupling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_PROFILE_USER_MANAGER_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_PROFILE_USER_MANAGER_CONTROLLER_H_
 

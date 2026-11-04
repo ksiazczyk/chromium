@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User manager delegate class declaration
+// summary: Declares UserManagerDelegateImpl, which injects //chrome behavior into UserManagerImpl through its delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_USER_MANAGER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_USER_MANAGER_DELEGATE_IMPL_H_
 

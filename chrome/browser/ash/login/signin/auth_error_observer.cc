@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthErrorObserver implementation
+// summary: Implements AuthErrorObserver, which watches sync and signin errors for Gaia users and invalidates OAuth tokens on persistent auth errors.
+// ---
+
 #include "chrome/browser/ash/login/signin/auth_error_observer.h"
 
 #include "base/check_deref.h"

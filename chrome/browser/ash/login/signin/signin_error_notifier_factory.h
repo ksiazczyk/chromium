@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin error notifier factory header
+// summary: Declares the SigninErrorNotifierFactory singleton that owns SigninErrorNotifier instances per profile and cleans them up on profile destruction.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_SIGNIN_ERROR_NOTIFIER_FACTORY_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_SIGNIN_ERROR_NOTIFIER_FACTORY_H_
 

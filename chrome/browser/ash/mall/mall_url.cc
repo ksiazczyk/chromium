@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mall launch URL builder implementation
+// summary: Builds the Mall launch URL from the base URL with an origin parameter and a base64-encoded client context for localization.
+// ---
+
 #include "chrome/browser/ash/mall/mall_url.h"
 
 #include "ash/webui/mall/url_constants.h"

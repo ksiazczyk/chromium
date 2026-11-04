@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User image loader delegate interface
+// summary: Defines the UserImageLoaderDelegate interface for downloading avatar images from a network URL, designed to be mocked in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_AVATAR_USER_IMAGE_LOADER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_AVATAR_USER_IMAGE_LOADER_DELEGATE_H_
 

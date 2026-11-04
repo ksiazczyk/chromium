@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account ID annotator class declaration
+// summary: Declares AccountIdAnnotator, a ProfileManagerObserver that attaches AccountIds to profiles when they are created.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USERS_ACCOUNT_ID_ANNOTATOR_H_
 #define CHROME_BROWSER_ASH_LOGIN_USERS_ACCOUNT_ID_ANNOTATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mall DEPS include rules
+summary: Restricts and allows specific include dependencies for the Mall directory, noting ChromeOS should not depend on //chrome.

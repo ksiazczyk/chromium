@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineSigninLimiterFactory class header
+// summary: Declares OfflineSigninLimiterFactory, a singleton ProfileKeyedServiceFactory that owns OfflineSigninLimiter services and associates them with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_OFFLINE_SIGNIN_LIMITER_FACTORY_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_OFFLINE_SIGNIN_LIMITER_FACTORY_H_
 

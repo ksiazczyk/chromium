@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JS checker implementation
+// summary: Implements JSChecker helpers that synchronously evaluate JavaScript, check OOBE conditions, and inspect element state and focus in login WebUI tests.
+// ---
+
 #include "chrome/browser/ash/login/test/js_checker.h"
 
 #include <string_view>

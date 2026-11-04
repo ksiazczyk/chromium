@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome proximity auth client header
+// summary: Declares ChromeProximityAuthClient, a per-profile Chrome implementation of the proximity_auth ProximityAuthClient interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SMART_LOCK_CHROME_PROXIMITY_AUTH_CLIENT_H_
 #define CHROME_BROWSER_ASH_LOGIN_SMART_LOCK_CHROME_PROXIMITY_AUTH_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MergeSessionNavigationThrottle implementation
+// summary: Delays navigations to Google properties while the OAuth2 merge session is in progress, resuming once session restore completes or after a 10-second timeout.
+// ---
+
 #include "chrome/browser/ash/login/signin/merge_session_navigation_throttle.h"
 
 #include "base/memory/ptr_util.h"

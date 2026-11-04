@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User adding screen utilities header
+// summary: Declares the ShowUserAddingScreen test helper that shows the user adding screen and waits for it to appear.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_USER_ADDING_SCREEN_UTILS_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_USER_ADDING_SCREEN_UTILS_H_
 

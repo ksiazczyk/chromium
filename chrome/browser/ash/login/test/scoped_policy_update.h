@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped user and device policy update helpers
+// summary: Declares scoped helpers that let tests set user and device policy payload values, with building and applying left to a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_SCOPED_POLICY_UPDATE_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_SCOPED_POLICY_UPDATE_H_
 

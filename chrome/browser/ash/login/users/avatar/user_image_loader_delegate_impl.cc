@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserImageLoaderDelegateImpl implementation
+// summary: Implements the user image loader delegate that downloads animated default avatar images over the network via a shared URL loader factory.
+// ---
+
 #include "chrome/browser/ash/login/users/avatar/user_image_loader_delegate_impl.h"
 
 #include <utility>

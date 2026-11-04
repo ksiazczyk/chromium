@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User auth config header
+// summary: Defines the UserAuthConfig struct with default auth factor constants and password or PIN values, used with LoginManagerMixin and CryptohomeMixin.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_USER_AUTH_CONFIG_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_USER_AUTH_CONFIG_H_
 

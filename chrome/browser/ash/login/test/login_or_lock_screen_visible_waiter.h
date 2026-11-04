@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login or lock screen waiter header
+// summary: Declares a test waiter that blocks until the login or lock screen is shown by observing the session manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_TEST_LOGIN_OR_LOCK_SCREEN_VISIBLE_WAITER_H_
 #define CHROME_BROWSER_ASH_LOGIN_TEST_LOGIN_OR_LOCK_SCREEN_VISIBLE_WAITER_H_
 

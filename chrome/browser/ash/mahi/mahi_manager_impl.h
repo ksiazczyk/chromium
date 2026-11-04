@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MahiManagerImpl class declaration
+// summary: Declares MahiManagerImpl, the Ash implementation of chromeos::MahiManager providing summaries, answers, outlines, panel handling and history-based cache clearing for the Mahi feature.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MAHI_MAHI_MANAGER_IMPL_H_
 #define CHROME_BROWSER_ASH_MAHI_MAHI_MANAGER_IMPL_H_
 
