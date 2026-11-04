@@ -1,0 +1,4 @@
+# Docerion header of IDS_ASH_VERSION_IN_LAUNCHER_ACCESSIBILITY_LABEL.png.sha1.
+type: data
+title: SHA1 hash for version in launcher accessibility label screenshot
+summary: Stores the SHA-1 hash of the PNG screenshot for the version in launcher accessibility label string in the Ash string resources.
